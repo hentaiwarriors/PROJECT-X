@@ -1,0 +1,187 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: FoE Dialouge N,Amerigo BT,30,&H00FFFFFF,&H000000FF,&H145E5E5E,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: FoE Dialouge M,Amerigo BT,30,&H00FFFFFF,&H000000FF,&H14818BA2,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: FoE Dialouge F,Amerigo BT,30,&H00FFFFFF,&H000000FF,&H144A3734,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Logo & Title,Amira,40,&H00FFFFFF,&H000000FF,&H14000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: FoE Dialouge F2,Amerigo BT,30,&H00FFFFFF,&H000000FF,&H14003D79,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.35,0:00:06.75,Logo & Title,,0000,0000,0000,,{\fad(797,1000)\pos(322,161)\c&H9CA1A0&}http://deutsche-doujins.com
+Dialogue: 0,0:00:00.35,0:00:06.75,Logo & Title,,0000,0000,0000,,{\fad(797,1000)\pos(322,201)\c&H9CA1A0&}präsentieren
+Dialogue: 0,0:00:11.67,0:00:14.83,FoE Dialouge N,,0000,0000,0000,,Ehre und ein beachtliches Preisgeld gebühren dem Gewinner.
+Dialogue: 0,0:00:15.39,0:00:18.30,FoE Dialouge N,,0000,0000,0000,,Der Verlierer wird vernichtet.
+Dialogue: 0,0:00:19.14,0:00:22.94,FoE Dialouge N,,0000,0000,0000,,So lauten die Regeln bei einem Arenakampf im Untergrund.
+Dialogue: 0,0:00:24.72,0:00:30.13,FoE Dialouge N,,0000,0000,0000,,Die trockene Matte erwartet den heutigen Gewinner und den Verlierer.
+Dialogue: 0,0:01:10.96,0:01:11.83,FoE Dialouge F,,0000,0000,0000,,Kureha.
+Dialogue: 0,0:01:21.62,0:01:28.60,Logo & Title,,0000,0000,0000,,{\pos(337,304)}Das Kapitel Shien
+Dialogue: 0,0:01:34.71,0:01:36.18,FoE Dialouge N,,0000,0000,0000,,Ihr Name ist Shien.
+Dialogue: 0,0:01:37.05,0:01:40.94,FoE Dialouge N,,0000,0000,0000,,Sie ist ein Nachfahre der Ninja.
+Dialogue: 0,0:01:41.22,0:01:44.20,FoE Dialouge N,,0000,0000,0000,,Auf Anordnung der Polizei infiltrierte sie die Organisation.
+Dialogue: 0,0:01:44.43,0:01:47.69,FoE Dialouge N,,0000,0000,0000,,Doch dann nahm die Organisation ihre Schwester als Geisel.
+Dialogue: 0,0:01:48.00,0:01:50.38,FoE Dialouge N,,0000,0000,0000,,Somit ist sie nun selbst eine Gefangene.
+Dialogue: 0,0:01:51.63,0:01:55.56,FoE Dialouge N,,0000,0000,0000,,Die Bedingungen der Organisation für ihre Freilassung lauten:
+Dialogue: 0,0:01:56.71,0:02:00.74,FoE Dialouge N,,0000,0000,0000,,Nimm an den Untergrund-Wettkämpfen teil...
+Dialogue: 0,0:02:01.45,0:02:02.66,FoE Dialouge N,,0000,0000,0000,,...und gewinne!
+Dialogue: 0,0:02:05.71,0:02:06.91,FoE Dialouge F,,0000,0000,0000,,Warte nur Kureha.
+Dialogue: 0,0:02:07.50,0:02:11.22,FoE Dialouge F,,0000,0000,0000,,Deine Schwester wird im Nu gewinnen und dich befreien.
+Dialogue: 0,0:02:21.02,0:02:23.19,FoE Dialouge F,,0000,0000,0000,,Hab ich dich!
+Dialogue: 0,0:02:31.78,0:02:35.05,FoE Dialouge F,,0000,0000,0000,,Ich dachte nicht dass meine Spezialtechnik Elbow Blow versagen würde...
+Dialogue: 0,0:02:35.41,0:02:39.05,FoE Dialouge F,,0000,0000,0000,,Wenn diese vernichtenden Attacken versagen, wie steht's dann hiermit?!
+Dialogue: 0,0:02:57.82,0:02:59.73,FoE Dialouge F,,0000,0000,0000,,Mein Körper ist erregt.
+Dialogue: 0,0:03:00.65,0:03:02.48,FoE Dialouge F,,0000,0000,0000,,Es schmerzt fast.
+Dialogue: 0,0:03:05.39,0:03:08.05,FoE Dialouge M,,0000,0000,0000,,Zeigt es letztendlich doch Effekt.
+Dialogue: 0,0:03:09.51,0:03:10.77,FoE Dialouge F,,0000,0000,0000,,Was?
+Dialogue: 0,0:03:13.19,0:03:13.98,FoE Dialouge F,,0000,0000,0000,,Was tust du!?
+Dialogue: 0,0:03:18.89,0:03:24.04,FoE Dialouge M,,0000,0000,0000,,Du bist ein Nachfahre der Ninja und hast gestern das Essen nicht angerührt.
+Dialogue: 0,0:03:24.37,0:03:28.49,FoE Dialouge M,,0000,0000,0000,,Aber dem Gas das Nachts eingelassen wurde, konntest du nicht entkommen.
+Dialogue: 0,0:03:29.55,0:03:31.49,FoE Dialouge F,,0000,0000,0000,,Was sagst du da!?
+Dialogue: 0,0:03:33.72,0:03:39.46,FoE Dialouge M,,0000,0000,0000,,Wie lange kann eine taffe Ninja wie du wohl ihren eigenen Begierden widerstehen?
+Dialogue: 0,0:03:42.42,0:03:45.81,FoE Dialouge F,,0000,0000,0000,,Jetzt ist wirklich nicht die Zeit für diese Gefühle.
+Dialogue: 0,0:03:46.24,0:03:51.25,FoE Dialouge F,,0000,0000,0000,,Warum... warum werde ich nur so geil!?
+Dialogue: 0,0:03:58.35,0:04:01.75,FoE Dialouge M,,0000,0000,0000,,Was wohl passiert, wenn dich jetzt jemand dort unten berührt?
+Dialogue: 0,0:04:02.22,0:04:02.78,FoE Dialouge F,,0000,0000,0000,,N-Nicht!
+Dialogue: 0,0:04:05.32,0:04:09.53,FoE Dialouge M,,0000,0000,0000,,Du hast einen sehr sensiblen Körper.
+Dialogue: 0,0:04:09.91,0:04:11.43,FoE Dialouge F,,0000,0000,0000,,Habe ich nicht!
+Dialogue: 0,0:04:12.49,0:04:17.01,FoE Dialouge F,,0000,0000,0000,,Wie demütigend, aber ich fühle es.
+Dialogue: 0,0:04:18.00,0:04:20.70,FoE Dialouge M,,0000,0000,0000,,So ist das also...
+Dialogue: 0,0:04:24.39,0:04:25.44,FoE Dialouge F,,0000,0000,0000,,Lass los!
+Dialogue: 0,0:04:26.27,0:04:30.04,FoE Dialouge M,,0000,0000,0000,,Hast du schon irgendwelche Pläne, wie du das Blatt jetzt noch wenden kannst?
+Dialogue: 0,0:04:30.42,0:04:34.75,FoE Dialouge M,,0000,0000,0000,,Wo sind die grazilen Bewegungen hin mit denen du eben noch angegeben hast?
+Dialogue: 0,0:04:38.17,0:04:42.39,FoE Dialouge F,,0000,0000,0000,,Mir wird schwindelig wenn meine empfindlichsten Körperstellen berührt werden.
+Dialogue: 0,0:04:42.79,0:04:44.87,FoE Dialouge F,,0000,0000,0000,,Und ich kann nichts dagegen tun!
+Dialogue: 0,0:04:45.20,0:04:48.50,FoE Dialouge M,,0000,0000,0000,,Versuch wenigstens deiner Lust Einhalt zu gebieten.
+Dialogue: 0,0:04:48.53,0:04:52.54,FoE Dialouge M,,0000,0000,0000,,Das Publikum erwartet etwas mehr Widerstand von einer Ninja.
+Dialogue: 0,0:04:52.75,0:04:54.90,FoE Dialouge F,,0000,0000,0000,,Warum werde ich von so einem Typen vergewaltigt?
+Dialogue: 0,0:04:55.19,0:04:57.86,FoE Dialouge F,,0000,0000,0000,,Aber mein Körper hört nicht mehr auf mich.
+Dialogue: 0,0:05:00.11,0:05:03.16,FoE Dialouge F,,0000,0000,0000,,Warum fühlt es sich nur so gut an!?
+Dialogue: 0,0:05:08.20,0:05:12.04,FoE Dialouge M,,0000,0000,0000,,Du wirst schwach, wenn man dich hier berührt.
+Dialogue: 0,0:05:12.18,0:05:13.91,FoE Dialouge F,,0000,0000,0000,,Werde ich nicht.
+Dialogue: 0,0:05:22.05,0:05:26.97,FoE Dialouge F,,0000,0000,0000,,Wie demütigend. Mein ganzer Körper schmerzt und ich bin so geil.
+Dialogue: 0,0:05:27.16,0:05:29.04,FoE Dialouge F,,0000,0000,0000,,So kann ich keinen Gegenangriff starten.
+Dialogue: 0,0:05:48.14,0:05:49.28,FoE Dialouge F,,0000,0000,0000,,Ich kann kaum atmen.
+Dialogue: 0,0:05:49.73,0:05:51.86,FoE Dialouge F,,0000,0000,0000,,Aber... es fühlt sich so gut an.
+Dialogue: 0,0:05:52.57,0:05:54.16,FoE Dialouge F,,0000,0000,0000,,Was ist nur los?
+Dialogue: 0,0:05:54.89,0:05:59.12,FoE Dialouge F,,0000,0000,0000,,Nein, so will ich nicht sterben.
+Dialogue: 0,0:06:12.44,0:06:13.12,FoE Dialouge F,,0000,0000,0000,,Ich komme!
+Dialogue: 0,0:06:14.64,0:06:17.12,FoE Dialouge F,,0000,0000,0000,,Ich komme!
+Dialogue: 0,0:06:18.16,0:06:20.87,FoE Dialouge F,,0000,0000,0000,,Ich komme!
+Dialogue: 0,0:06:45.00,0:06:48.76,FoE Dialouge F,,0000,0000,0000,,Wie schmutzig!
+Dialogue: 0,0:06:50.60,0:06:54.79,FoE Dialouge M,,0000,0000,0000,,Du bist gekommen, entkleidet und gefesselt.
+Dialogue: 0,0:06:55.03,0:06:57.51,FoE Dialouge M,,0000,0000,0000,,Aber dein Wille ist noch nicht gebrochen.
+Dialogue: 0,0:07:05.71,0:07:09.46,FoE Dialouge M,,0000,0000,0000,,Wie ist es? Kannst wohl vor Geilheit gar nichts mehr sagen?!
+Dialogue: 0,0:07:11.06,0:07:14.62,FoE Dialouge F,,0000,0000,0000,,Ich werde die Stimulationen ertragen.
+Dialogue: 0,0:07:15.28,0:07:17.31,FoE Dialouge F,,0000,0000,0000,,Ich muss meine Schwester retten.
+Dialogue: 0,0:07:17.76,0:07:21.53,FoE Dialouge F,,0000,0000,0000,,Ich kann hier nicht einfach aufgeben.
+Dialogue: 0,0:07:35.62,0:07:37.90,FoE Dialouge F,,0000,0000,0000,,Ich kann aber auch nicht widerstehen. Es fühlt sich zu gut an.
+Dialogue: 0,0:07:38.05,0:07:39.70,FoE Dialouge M,,0000,0000,0000,,Hey, willst du schon wieder kommen?
+Dialogue: 0,0:07:39.70,0:07:42.39,FoE Dialouge F,,0000,0000,0000,,Ich bin nicht mehr Herr meines Körpers.
+Dialogue: 0,0:07:51.16,0:07:53.99,FoE Dialouge M,,0000,0000,0000,,Dann werden wir mal ernst machen.
+Dialogue: 0,0:07:58.26,0:07:59.12,FoE Dialouge F,,0000,0000,0000,,Nein.
+Dialogue: 0,0:07:59.69,0:08:02.01,FoE Dialouge F,,0000,0000,0000,,Das wird niemals passen!
+Dialogue: 0,0:08:02.57,0:08:03.95,FoE Dialouge F,,0000,0000,0000,,Das ist zu groß!
+Dialogue: 0,0:08:10.68,0:08:15.10,FoE Dialouge F,,0000,0000,0000,,Er drang in mich ein und stieß gleich bis zur Gebärmutter vor.
+Dialogue: 0,0:08:19.73,0:08:20.87,FoE Dialouge F,,0000,0000,0000,,Wahnsinn.
+Dialogue: 0,0:08:30.75,0:08:32.97,FoE Dialouge F,,0000,0000,0000,,Er gleitet einfach hindurch!
+Dialogue: 0,0:08:34.38,0:08:35.99,FoE Dialouge F,,0000,0000,0000,,Immer und immer wieder!
+Dialogue: 0,0:08:53.53,0:08:56.55,FoE Dialouge F,,0000,0000,0000,,Wurde er eben noch größer? Nein!
+Dialogue: 0,0:09:10.66,0:09:15.27,FoE Dialouge F,,0000,0000,0000,,Ich komme!
+Dialogue: 0,0:09:21.09,0:09:24.79,FoE Dialouge F,,0000,0000,0000,,Vergib mir... deine Schwester ist eben gekommen.
+Dialogue: 0,0:09:25.94,0:09:27.13,FoE Dialouge F,,0000,0000,0000,,Bitte vergib mir.
+Dialogue: 0,0:09:38.60,0:09:39.81,FoE Dialouge F,,0000,0000,0000,,Wie demütigend.
+Dialogue: 0,0:09:48.93,0:09:51.72,FoE Dialouge F,,0000,0000,0000,,Aber es fühlt sich so gut an.
+Dialogue: 0,0:10:03.84,0:10:04.51,FoE Dialouge F,,0000,0000,0000,,Kureha!
+Dialogue: 0,0:10:05.88,0:10:06.51,FoE Dialouge F,,0000,0000,0000,,Kureha!
+Dialogue: 0,0:10:14.39,0:10:17.24,FoE Dialouge F,,0000,0000,0000,,Kureha, geht es dir gut?
+Dialogue: 0,0:10:21.58,0:10:23.94,FoE Dialouge F,,0000,0000,0000,,Geht's dir gut? Bist du unversehrt?
+Dialogue: 0,0:10:25.38,0:10:28.25,FoE Dialouge F2,,0000,0000,0000,,Hat sich doch gut angefühlt, nicht wahr Schwester?
+Dialogue: 0,0:10:29.36,0:10:32.29,FoE Dialouge F,,0000,0000,0000,,Kureha, was sagt du da?
+Dialogue: 0,0:10:33.28,0:10:37.59,FoE Dialouge F2,,0000,0000,0000,,Sie haben mir so viele schöne Dinge gezeigt.
+Dialogue: 0,0:10:40.07,0:10:41.99,FoE Dialouge F2,,0000,0000,0000,,Es fühlte sich so gut an.
+Dialogue: 0,0:10:43.05,0:10:46.63,FoE Dialouge F,,0000,0000,0000,,Was haben sie dir nur angetan, Kureha?
+Dialogue: 0,0:10:55.42,0:10:56.10,FoE Dialouge F,,0000,0000,0000,,Kureha.
+Dialogue: 0,0:10:57.63,0:10:59.29,FoE Dialouge F2,,0000,0000,0000,,Wie ich schon sagte, Schwesterherz.
+Dialogue: 0,0:10:59.88,0:11:02.69,FoE Dialouge F2,,0000,0000,0000,,Wehre dich nicht gegen die Organisation.
+Dialogue: 0,0:11:10.21,0:11:13.35,FoE Dialouge F,,0000,0000,0000,,Kureha, sag nicht so dummes Zeug!
+Dialogue: 0,0:11:22.33,0:11:27.37,FoE Dialouge F,,0000,0000,0000,,Nein... Ich bin gerade erst gekommen und mein Körper ist immer noch sensibel.
+Dialogue: 0,0:11:28.03,0:11:31.56,FoE Dialouge F,,0000,0000,0000,,Ich dachte nicht, dass mich ein Kuss meiner Schwester derart erregen könnte!
+Dialogue: 0,0:11:43.54,0:11:48.32,FoE Dialouge F2,,0000,0000,0000,,Du bist so süß wenn du im Ring vergewaltigt wirst, Schwesterherz.
+Dialogue: 0,0:11:49.19,0:11:52.00,FoE Dialouge F2,,0000,0000,0000,,Zeig uns mehr von deiner niedlichen Seite.
+Dialogue: 0,0:11:53.20,0:11:54.46,FoE Dialouge F,,0000,0000,0000,,Was sagst du da?
+Dialogue: 0,0:12:05.69,0:12:06.62,FoE Dialouge F,,0000,0000,0000,,Touji-san!?
+Dialogue: 0,0:12:08.36,0:12:10.80,FoE Dialouge F,,0000,0000,0000,,Touji-san, warum bist du hier?
+Dialogue: 0,0:12:12.63,0:12:15.95,FoE Dialouge F2,,0000,0000,0000,,Touji führte die Mission fort bei der Shien versagte.
+Dialogue: 0,0:12:15.95,0:12:18.72,FoE Dialouge F2,,0000,0000,0000,,Aber er wurde von mir betrogen und korrumpierte.
+Dialogue: 0,0:12:21.93,0:12:25.63,FoE Dialouge F2,,0000,0000,0000,,Er kam ebenfalls um die Organisation auszuforschen.
+Dialogue: 0,0:12:26.60,0:12:27.30,FoE Dialouge F,,0000,0000,0000,,Touji-san.
+Dialogue: 0,0:12:28.00,0:12:28.61,FoE Dialouge M,,0000,0000,0000,,Shien.
+Dialogue: 0,0:12:30.58,0:12:35.83,FoE Dialouge F,,0000,0000,0000,,Touji, einst Shiens Vorbild, schaute nach wo du geblieben bist.
+Dialogue: 0,0:12:36.37,0:12:44.76,FoE Dialouge F,,0000,0000,0000,,Als nächstes wird dich Touji rannehmen.
+Dialogue: 0,0:12:48.75,0:12:52.96,FoE Dialouge F,,0000,0000,0000,,Schau genau zu, ist er nicht ein tolles Vorbild?
+Dialogue: 0,0:12:57.35,0:12:59.36,FoE Dialouge F2,,0000,0000,0000,,Er ist bereits derart erregt.
+Dialogue: 0,0:13:29.83,0:13:30.84,FoE Dialouge F,,0000,0000,0000,,Lass das!
+Dialogue: 0,0:13:31.75,0:13:32.80,FoE Dialouge M,,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:13:34.99,0:13:37.45,FoE Dialouge M,,0000,0000,0000,,Wir sind diejenigen, die sich deiner annehmen werden!
+Dialogue: 0,0:13:44.78,0:13:48.65,FoE Dialouge M,,0000,0000,0000,,Auch wenn du nein sagst... hier unten bist du ehrlich.
+Dialogue: 0,0:13:54.72,0:13:55.54,FoE Dialouge M,,0000,0000,0000,,Wie ist das?
+Dialogue: 0,0:13:59.85,0:14:04.49,FoE Dialouge F,,0000,0000,0000,,Nicht... vor Touji-sans Augen.
+Dialogue: 0,0:14:06.18,0:14:10.61,FoE Dialouge M,,0000,0000,0000,,Deine Nippel sind so erregt direkt vor den Augen deines Angebeteten.
+Dialogue: 0,0:14:29.03,0:14:33.88,FoE Dialouge M,,0000,0000,0000,,Lasst uns nun diesem Touji deine versaute Seite zeigen.
+Dialogue: 0,0:14:34.07,0:14:35.78,FoE Dialouge F,,0000,0000,0000,,Nein... nicht!
+Dialogue: 0,0:14:36.14,0:14:44.03,FoE Dialouge F,,0000,0000,0000,,Nein... ich will ihm diese schmutzige Seite nicht zeigen.
+Dialogue: 0,0:14:46.85,0:14:50.99,FoE Dialouge F,,0000,0000,0000,,Aber es erregt mich.
+Dialogue: 0,0:14:51.75,0:14:53.90,FoE Dialouge F,,0000,0000,0000,,Es fließt viel stärker als sonst.
+Dialogue: 0,0:15:46.24,0:15:48.95,FoE Dialouge F2,,0000,0000,0000,,Du kannst ruhig abspritzen, Bruderherz.
+Dialogue: 0,0:15:52.24,0:15:52.77,FoE Dialouge M,,0000,0000,0000,,Ich komme.
+Dialogue: 0,0:16:10.71,0:16:15.23,FoE Dialouge M,,0000,0000,0000,,Nächstes mal spritzt du aber in dieses schmutzige Loch ab!
+Dialogue: 0,0:16:18.49,0:16:24.01,FoE Dialouge F,,0000,0000,0000,,Nein, ich will nicht dass der gütige Touji-san...
+Dialogue: 0,0:16:40.66,0:16:43.28,FoE Dialouge F,,0000,0000,0000,,Neiiiin.
+Dialogue: 0,0:17:07.85,0:17:17.97,FoE Dialouge F,,0000,0000,0000,,Wenn ich nur an Toujis dicken Schwanz denke, erregt es mich aufs Äußerste.
+Dialogue: 0,0:17:18.70,0:17:23.57,FoE Dialouge F,,0000,0000,0000,,Ich will ihn noch tiefer in mir spüren.
+Dialogue: 0,0:17:36.91,0:17:40.00,FoE Dialouge M,,0000,0000,0000,,Zu guter Letzt werde ich dich vollpumpen.
+Dialogue: 0,0:17:40.78,0:17:41.48,FoE Dialouge F,,0000,0000,0000,,Touji-san.
+Dialogue: 0,0:17:42.18,0:17:42.95,FoE Dialouge F,,0000,0000,0000,,Touji-san.
+Dialogue: 0,0:17:43.68,0:17:46.63,FoE Dialouge F,,0000,0000,0000,,Ich kann nicht! Kann nicht...
+Dialogue: 0,0:18:14.57,0:18:16.66,FoE Dialouge F2,,0000,0000,0000,,Wie unfair!
+Dialogue: 0,0:18:17.15,0:18:19.37,FoE Dialouge F2,,0000,0000,0000,,Ich will doch auch was haben.
+Dialogue: 0,0:18:21.58,0:18:24.95,FoE Dialouge F2,,0000,0000,0000,,Brüderchen, mach das sich Kureha auch gut fühlt.
+Dialogue: 0,0:18:25.00,0:18:26.12,FoE Dialouge F2,,0000,0000,0000,,Bitte leck mich.
+Dialogue: 0,0:18:40.52,0:18:43.37,FoE Dialouge F2,,0000,0000,0000,,Guuut. Leck mehr...
+Dialogue: 0,0:19:23.76,0:19:24.44,FoE Dialouge F,,0000,0000,0000,,Ich kann nicht!
+Dialogue: 0,0:19:25.54,0:19:26.87,FoE Dialouge F,,0000,0000,0000,,Kann es nicht länger...
+Dialogue: 0,0:19:28.64,0:19:29.31,FoE Dialouge F,,0000,0000,0000,,Ich kann nicht!
+Dialogue: 0,0:19:32.53,0:19:33.34,FoE Dialouge F,,0000,0000,0000,,Ich kann nicht!
+Dialogue: 0,0:19:36.18,0:19:37.42,FoE Dialouge F,,0000,0000,0000,,Ich kann nicht!
+Dialogue: 0,0:19:37.92,0:19:38.99,FoE Dialouge F,,0000,0000,0000,,Ich werde kommen!
+Dialogue: 0,0:20:10.71,0:20:11.55,FoE Dialouge F,,0000,0000,0000,,Warum...
+Dialogue: 0,0:20:13.24,0:20:14.85,FoE Dialouge F,,0000,0000,0000,,Warum fühlt es sich...
+Dialogue: 0,0:20:16.71,0:20:18.36,FoE Dialouge F,,0000,0000,0000,,...nur so verdammt gut an?

@@ -1,0 +1,310 @@
+﻿Title: Default Aegisub file
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base01,Arial Narrow,28,&H00CC0000,&H0000FFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Base02,Arial Narrow,24,&H00663366,&H0000FFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Base03,Arial Narrow,42,&H00CC0000,&H0000FFFF,&H00FFFFFF,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:50.59,0:00:53.59,Base01,,0000,0000,0000,,﻿Onii-chan. Breakfast is ready.
+Dialogue: 0,0:00:55.84,0:00:57.68,Base01,,0000,0000,0000,,﻿Onii-chan?
+Dialogue: 0,0:00:59.01,0:01:01.01,Base01,,0000,0000,0000,,﻿Onii-chan, wake up.
+Dialogue: 0,0:01:05.52,0:01:07.31,Base01,,0000,0000,0000,,﻿Are you awake?
+Dialogue: 0,0:01:12.32,0:01:15.32,Base01,,0000,0000,0000,,﻿Your room's dirty again.
+Dialogue: 0,0:01:21.95,0:01:23.49,Base01,,0000,0000,0000,,﻿What's the matter?
+Dialogue: 0,0:01:24.25,0:01:26.79,Base01,,0000,0000,0000,,﻿No, it's nothing.
+Dialogue: 0,0:01:54.86,0:01:55.94,Base01,,0000,0000,0000,,﻿Okay.
+Dialogue: 0,0:02:22.35,0:02:24.60,Base01,,0000,0000,0000,,﻿Yuki, let's get going.
+Dialogue: 0,0:02:24.89,0:02:27.47,Base01,,0000,0000,0000,,﻿Okay, I'll be there in a moment.
+Dialogue: 0,0:02:50.71,0:02:54.37,Base03,,0000,0000,0000,,﻿1st Period: Yuki's Chapter
+Dialogue: 0,0:04:06.32,0:04:07.99,Base01,,0000,0000,0000,,﻿Are you okay, Yuki?
+Dialogue: 0,0:04:08.74,0:04:10.37,Base01,,0000,0000,0000,,﻿I'm okay.
+Dialogue: 0,0:04:14.79,0:04:16.58,Base01,,0000,0000,0000,,﻿Thanks, Onii-chan.
+Dialogue: 0,0:04:16.58,0:04:19.92,Base01,,0000,0000,0000,,﻿Yuki, do you want to hold hands since it's slippery outside?
+Dialogue: 0,0:04:21.13,0:04:22.17,Base01,,0000,0000,0000,,﻿Okay.
+Dialogue: 0,0:04:22.17,0:04:23.84,Base01,,0000,0000,0000,,﻿I was joking.
+Dialogue: 0,0:04:24.59,0:04:28.51,Base01,,0000,0000,0000,,﻿We aren't at the age where we should do be doing\N﻿that. We're going to graduate this spring.
+Dialogue: 0,0:04:29.14,0:04:30.64,Base01,,0000,0000,0000,,﻿You're right.
+Dialogue: 0,0:04:33.18,0:04:35.77,Base01,,0000,0000,0000,,Ken-chan! Yuki-chan!
+Dialogue: 0,0:04:35.77,0:04:37.77,Base01,,0000,0000,0000,,﻿Good morning!
+Dialogue: 0,0:04:37.77,0:04:39.23,Base01,,0000,0000,0000,,﻿Morning. Hiyori
+Dialogue: 0,0:04:39.23,0:04:41.07,Base01,,0000,0000,0000,,﻿Good morning, Hiyori-oneechan.
+Dialogue: 0,0:04:47.24,0:04:48.91,Base01,,0000,0000,0000,,﻿Ouch...
+Dialogue: 0,0:04:49.20,0:04:52.37,Base01,,0000,0000,0000,,﻿Geez, you're your usual clumsy and dumb self.
+Dialogue: 0,0:04:52.37,0:04:55.54,Base01,,0000,0000,0000,,﻿That's not nice to say to a childhood friend.
+Dialogue: 0,0:04:55.54,0:04:57.67,Base01,,0000,0000,0000,,Right. Yuki-chan?
+Dialogue: 0,0:04:57.79,0:05:00.67,Base01,,0000,0000,0000,,﻿Onii-chan, you should be a little nicer to her.
+Dialogue: 0,0:05:00.67,0:05:03.84,Base01,,0000,0000,0000,,﻿No. Nothing good will come by spoiling her.
+Dialogue: 0,0:05:05.51,0:05:08.05,Base01,,0000,0000,0000,,﻿Wait, Ken-chan!
+Dialogue: 0,0:05:09.89,0:05:11.68,Base01,,0000,0000,0000,,﻿Good morning, Asami-san.
+Dialogue: 0,0:05:13.52,0:05:15.93,Base01,,0000,0000,0000,,﻿Good morning, Kenji-san.
+Dialogue: 0,0:05:18.19,0:05:20.73,Base01,,0000,0000,0000,,﻿See you later, Onii-chan... Hiyori-oneechan.
+Dialogue: 0,0:05:20.73,0:05:21.65,Base01,,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:21.65,0:05:23.32,Base01,,0000,0000,0000,,﻿Bye, Yuki-chan
+Dialogue: 0,0:05:30.99,0:05:32.37,Base01,,0000,0000,0000,,﻿Hey, Kenji.
+Dialogue: 0,0:05:32.37,0:05:34.04,Base01,,0000,0000,0000,,﻿Hey, Minamiyama.
+Dialogue: 0,0:05:34.33,0:05:37.67,Base01,,0000,0000,0000,,﻿Give back that porno magazine soon.
+Dialogue: 0,0:05:37.67,0:05:38.71,Base01,,0000,0000,0000,,﻿I know!
+Dialogue: 0,0:05:38.71,0:05:41.13,Base01,,0000,0000,0000,,﻿Minamiyama-kun, Kiyoka-chan, good morning.
+Dialogue: 0,0:05:41.13,0:05:42.63,Base01,,0000,0000,0000,,﻿Good morning, Hiyori.
+Dialogue: 0,0:05:42.92,0:05:45.21,Base01,,0000,0000,0000,,﻿Good morning to you, too, Kenji.
+Dialogue: 0,0:05:45.34,0:05:47.93,Base01,,0000,0000,0000,,﻿Hello Ms. Small Girl with a Big Attitude.
+Dialogue: 0,0:05:47.93,0:05:49.72,Base01,,0000,0000,0000,,﻿What did you say?!
+Dialogue: 0,0:05:49.72,0:05:53.64,Base01,,0000,0000,0000,,﻿Hiyori, I can't believe you can stand being\N﻿with a guy like him in the morning.
+Dialogue: 0,0:05:53.64,0:05:55.77,Base01,,0000,0000,0000,,﻿Babysitting him is a pain, right?
+Dialogue: 0,0:05:55.77,0:05:57.73,Base01,,0000,0000,0000,,﻿Oh my, I don't babysit him.
+Dialogue: 0,0:05:57.73,0:06:00.73,Base01,,0000,0000,0000,,﻿Yeah, I'm the one who babysits her.
+Dialogue: 0,0:06:00.15,0:06:03.15,Base01,,0000,0000,0000,,﻿You never shut your mouth, do you?
+Dialogue: 0,0:06:11.62,0:06:12.62,Base01,,0000,0000,0000,,﻿Good morning, Yuki-chan.
+Dialogue: 0,0:06:12.63,0:06:14.95,Base01,,0000,0000,0000,,﻿Good morning, Shido-san.
+Dialogue: 0,0:06:14.95,0:06:19.16,Base01,,0000,0000,0000,,﻿I saw you! You're so lucky to be able to go\N﻿to school with your brother every day.
+Dialogue: 0,0:06:19.17,0:06:24.88,Base01,,0000,0000,0000,,You two kind of looked like a couple, and the way you two\N﻿walk closely together made me feel kind of jealous.
+Dialogue: 0,0:06:24.88,0:06:27.46,Base01,,0000,0000,0000,,﻿A couple? You're kidding...
+Dialogue: 0,0:06:27.47,0:06:32.14,Base01,,0000,0000,0000,,You two aren't related though, right? You﻿\N﻿can get married to each other, then.
+Dialogue: 0,0:06:33.05,0:06:35.47,Base01,,0000,0000,0000,,﻿That would be romantic and dramatic.
+Dialogue: 0,0:06:35.89,0:06:36.81,Base01,,0000,0000,0000,,﻿"Yuki".
+Dialogue: 0,0:06:36.81,0:06:38.31,Base01,,0000,0000,0000,,"﻿Onii-chan".
+Dialogue: 0,0:06:38.31,0:06:42.40,Base01,,0000,0000,0000,,﻿Then you two will hold each other tightly.
+Dialogue: 0,0:06:42.40,0:06:45.11,Base01,,0000,0000,0000,,﻿Cut it out, Shindo-san.
+Dialogue: 0,0:06:51.16,0:06:52.95,Base01,,0000,0000,0000,,﻿Time to eat!
+Dialogue: 0,0:06:56.58,0:06:58.54,Base01,,0000,0000,0000,,﻿What is it, Hiyori?
+Dialogue: 0,0:06:58.54,0:07:02.46,Base01,,0000,0000,0000,,﻿I want to eat that. Let's trade side dishes.
+Dialogue: 0,0:07:02.46,0:07:03.38,Base01,,0000,0000,0000,,﻿No.
+Dialogue: 0,0:07:03.38,0:07:05.92,Base01,,0000,0000,0000,,﻿Pretty please?
+Dialogue: 0,0:07:05.92,0:07:07.13,Base01,,0000,0000,0000,,﻿Fine.
+Dialogue: 0,0:07:07.13,0:07:10.17,Base01,,0000,0000,0000,,﻿Wow, which should I pick.
+Dialogue: 0,0:07:10.63,0:07:13.05,Base01,,0000,0000,0000,,﻿I want to trade, too.
+Dialogue: 0,0:07:13.05,0:07:16.06,Base01,,0000,0000,0000,,﻿But this is the lunch you made, right?
+Dialogue: 0,0:07:16.06,0:07:18.77,Base01,,0000,0000,0000,,﻿You have the same stuff as me, so why?
+Dialogue: 0,0:07:18.77,0:07:20.14,Base01,,0000,0000,0000,,﻿Yeah, but...
+Dialogue: 0,0:07:21.77,0:07:24.36,Base01,,0000,0000,0000,,﻿Fine, pick whatever you want.
+Dialogue: 0,0:07:24.81,0:07:26.90,Base01,,0000,0000,0000,,﻿Thank you, Onii-chan.
+Dialogue: 0,0:07:32.49,0:07:34.45,Base01,,0000,0000,0000,,﻿It'll be Valentine's Day soon.
+Dialogue: 0,0:07:34.45,0:07:35.53,Base01,,0000,0000,0000,,﻿Yeah.
+Dialogue: 0,0:07:35.53,0:07:41.12,Base01,,0000,0000,0000,,Y﻿uki... You give me chocolate every year, but\N﻿doesn't it take time if you make it yourself?
+Dialogue: 0,0:07:41.71,0:07:42.92,Base01,,0000,0000,0000,,﻿No.
+Dialogue: 0,0:07:42.92,0:07:45.33,Base01,,0000,0000,0000,,﻿Because I only make one.
+Dialogue: 0,0:07:46.38,0:07:47.88,Base01,,0000,0000,0000,,﻿That's true.
+Dialogue: 0,0:07:53.34,0:07:54.55,Base01,,0000,0000,0000,,﻿Yuki.
+Dialogue: 0,0:07:55.76,0:07:57.85,Base01,,0000,0000,0000,,﻿Look, it's a capsule machine.
+Dialogue: 0,0:07:58.18,0:07:59.68,Base01,,0000,0000,0000,,﻿This brings back memories.
+Dialogue: 0,0:07:59.68,0:08:00.72,Base01,,0000,0000,0000,,﻿Eh?
+Dialogue: 0,0:08:04.19,0:08:06.61,Base01,,0000,0000,0000,,﻿We used to use these a lot, remember, Yuki?
+Dialogue: 0,0:08:09.19,0:08:11.61,Base01,,0000,0000,0000,,﻿Onii-chan, let's go home.
+Dialogue: 0,0:08:11.61,0:08:13.11,Base01,,0000,0000,0000,,﻿Wha.. Yuki.
+Dialogue: 0,0:08:20.79,0:08:25.62,Base01,,0000,0000,0000,,﻿A while ago, I was afraid of being alone\N﻿at night in my room, so I cried.
+Dialogue: 0,0:08:25.63,0:08:29.42,Base01,,0000,0000,0000,,﻿Then Onii-chan knocked on the wall from the other room.
+Dialogue: 0,0:08:30.46,0:08:33.17,Base01,,0000,0000,0000,,﻿After that, I stopped being afraid of the dark.
+Dialogue: 0,0:08:35.30,0:08:38.76,Base01,,0000,0000,0000,,﻿Since then, I've had this feeling for him...
+Dialogue: 0,0:08:48.11,0:08:51.28,Base01,,0000,0000,0000,,﻿But I don't have the right to tell him my feelings.
+Dialogue: 0,0:08:56.74,0:09:00.78,Base01,,0000,0000,0000,,﻿Ken-chan, it's morning. Wake up.
+Dialogue: 0,0:09:00.79,0:09:02.33,Base01,,0000,0000,0000,,﻿Just a little more...
+Dialogue: 0,0:09:02.33,0:09:05.50,Base01,,0000,0000,0000,,﻿Don't say that, Ken-chan...
+Dialogue: 0,0:09:07.13,0:09:11.67,Base01,,0000,0000,0000,,﻿I've wanted to ask you two before, but why\N﻿do you two take turns in waking me up?
+Dialogue: 0,0:09:11.67,0:09:14.38,Base01,,0000,0000,0000,,﻿Because we just take turns, right?
+Dialogue: 0,0:09:14.38,0:09:15.01,Base01,,0000,0000,0000,,﻿Yup.
+Dialogue: 0,0:09:15.01,0:09:17.01,Base01,,0000,0000,0000,,﻿So why?
+Dialogue: 0,0:09:17.72,0:09:19.05,Base01,,0000,0000,0000,,﻿It's a secret.
+Dialogue: 0,0:09:19.05,0:09:20.14,Base01,,0000,0000,0000,,﻿Damn it.
+Dialogue: 0,0:09:20.26,0:09:21.47,Base01,,0000,0000,0000,,﻿Today...
+Dialogue: 0,0:09:34.15,0:09:35.65,Base01,,0000,0000,0000,,﻿I'm back.
+Dialogue: 0,0:09:44.12,0:09:46.08,Base01,,0000,0000,0000,,﻿Then this comes here.
+Dialogue: 0,0:09:46.08,0:09:47.29,Base01,,0000,0000,0000,,﻿So...
+Dialogue: 0,0:09:50.63,0:09:51.38,Base01,,0000,0000,0000,,﻿Okay.
+Dialogue: 0,0:10:04.47,0:10:06.60,Base01,,0000,0000,0000,,﻿How are you doing with your studying for tomorrow's test?
+Dialogue: 0,0:10:06.89,0:10:12.02,Base01,,0000,0000,0000,,Well, it's already this late, and I don't﻿\N﻿think I can cover all the test material.
+Dialogue: 0,0:10:12.65,0:10:14.15,Base01,,0000,0000,0000,,﻿Stay over night, then.
+Dialogue: 0,0:10:14.90,0:10:16.86,Base01,,0000,0000,0000,,﻿Can I, Yuki-chan?
+Dialogue: 0,0:10:18.07,0:10:18.82,Base01,,0000,0000,0000,,﻿Okay...
+Dialogue: 0,0:10:18.82,0:10:20.66,Base01,,0000,0000,0000,,﻿Thanks, Yuki-chan.
+Dialogue: 0,0:10:25.45,0:10:28.04,Base01,,0000,0000,0000,,﻿Yuki-chan, your breasts are so soft.
+Dialogue: 0,0:10:28.50,0:10:30.00,Base01,,0000,0000,0000,,﻿Hiyori-oneechan...
+Dialogue: 0,0:10:30.00,0:10:30.92,Base01,,0000,0000,0000,,﻿That tickles.
+Dialogue: 0,0:10:30.92,0:10:33.00,Base01,,0000,0000,0000,,﻿Bear with it.
+Dialogue: 0,0:10:33.00,0:10:34.96,Base01,,0000,0000,0000,,﻿I'm washing you.
+Dialogue: 0,0:10:34.96,0:10:36.63,Base01,,0000,0000,0000,,﻿I don't think you are...
+Dialogue: 0,0:10:36.63,0:10:37.84,Base01,,0000,0000,0000,,﻿There, there.
+Dialogue: 0,0:10:37.84,0:10:40.09,Base01,,0000,0000,0000,,﻿Then it's my turn now.
+Dialogue: 0,0:10:41.93,0:10:43.14,Base01,,0000,0000,0000,,﻿Cut it out.
+Dialogue: 0,0:10:44.18,0:10:46.31,Base01,,0000,0000,0000,,﻿Why it is locked?
+Dialogue: 0,0:10:48.27,0:10:52.48,Base01,,0000,0000,0000,,﻿Come to think of it, we used to bathe together\N﻿like this when were young, right?
+Dialogue: 0,0:10:53.23,0:10:55.94,Base01,,0000,0000,0000,,﻿Do you remember your dream, Yuki-chan?
+Dialogue: 0,0:10:55.94,0:10:57.61,Base01,,0000,0000,0000,,﻿My dream?
+Dialogue: 0,0:10:58.53,0:11:01.70,Base01,,0000,0000,0000,,﻿Yeah, it's from when were elementary school kids.
+Dialogue: 0,0:11:02.16,0:11:06.83,Base01,,0000,0000,0000,,﻿My dream was to marry Ken-chan, and yours was to marry...
+Dialogue: 0,0:11:07.12,0:11:09.25,Base01,,0000,0000,0000,,﻿A prince on a white horse.
+Dialogue: 0,0:11:09.71,0:11:13.00,Base01,,0000,0000,0000,,﻿And that prince was Ken-chan, right?
+Dialogue: 0,0:11:15.88,0:11:17.09,Base01,,0000,0000,0000,,﻿Yeah.
+Dialogue: 0,0:11:19.34,0:11:22.05,Base01,,0000,0000,0000,,﻿My dream still hasn't changed, but...
+Dialogue: 0,0:11:23.89,0:11:30.06,Base01,,0000,0000,0000,,﻿She said she was going to study until morning,\N﻿but look at her... She just fell asleep.
+Dialogue: 0,0:11:30.52,0:11:33.40,Base01,,0000,0000,0000,,﻿What an useless childhood friend she is.
+Dialogue: 0,0:11:34.73,0:11:37.61,Base01,,0000,0000,0000,,﻿You must like her.
+Dialogue: 0,0:11:38.07,0:11:40.19,Base01,,0000,0000,0000,,﻿What? Me like Hiyori?
+Dialogue: 0,0:11:40.20,0:11:43.49,Base01,,0000,0000,0000,,﻿Yeah, you seem to have fun around her.
+Dialogue: 0,0:11:44.24,0:11:46.66,Base01,,0000,0000,0000,,﻿No way. She's trouble.
+Dialogue: 0,0:11:47.12,0:11:50.62,Base01,,0000,0000,0000,,﻿You're much more well-made compared\N﻿to her, so it helps a lot.
+Dialogue: 0,0:11:50.62,0:11:52.58,Base01,,0000,0000,0000,,﻿You're a nice sister to have.
+Dialogue: 0,0:11:53.17,0:11:54.67,Base01,,0000,0000,0000,,﻿A sister...
+Dialogue: 0,0:12:22.28,0:12:25.03,Base01,,0000,0000,0000,,﻿I'm done! I think I barely passed.
+Dialogue: 0,0:12:25.78,0:12:27.28,Base01,,0000,0000,0000,,﻿Thanks to me.
+Dialogue: 0,0:12:27.28,0:12:29.99,Base01,,0000,0000,0000,,﻿No way. It's because of my talent.
+Dialogue: 0,0:12:31.20,0:12:34.08,Base01,,0000,0000,0000,,﻿I taught you by sleeping overnight, you know.
+Dialogue: 0,0:12:32.87,0:12:34.54,Base01,,0000,0000,0000,,﻿You were just sleeping.
+Dialogue: 0,0:12:35.17,0:12:39.67,Base02,,0000,0000,0000,,﻿Theme Park
+Dialogue: 0,0:12:36.04,0:12:39.21,Base01,,0000,0000,0000,,﻿Oh, yeah... A new theme park opened.
+Dialogue: 0,0:12:39.67,0:12:42.05,Base01,,0000,0000,0000,,﻿I want to ride a coffee cup.
+Dialogue: 0,0:12:42.22,0:12:43.72,Base01,,0000,0000,0000,,﻿Then let's go tomorrow.
+Dialogue: 0,0:12:43.72,0:12:46.89,Base01,,0000,0000,0000,,﻿There's no school tomorrow, and we can\N﻿go as celebration that exams are over.
+Dialogue: 0,0:12:46.89,0:12:49.93,Base01,,0000,0000,0000,,﻿I second that! What time shall we go, Ken-chan?
+Dialogue: 0,0:12:50.06,0:12:51.43,Base01,,0000,0000,0000,,﻿Let's see...
+Dialogue: 0,0:12:51.43,0:12:53.23,Base01,,0000,0000,0000,,﻿We don't want to go too late, so...
+Dialogue: 0,0:12:53.23,0:12:55.19,Base01,,0000,0000,0000,,﻿So what time?
+Dialogue: 0,0:12:54.73,0:12:56.56,Base01,,0000,0000,0000,,﻿I want to go, too!
+Dialogue: 0,0:12:56.56,0:12:58.98,Base01,,0000,0000,0000,,﻿Yeah, let's go together.
+Dialogue: 0,0:13:01.07,0:13:02.28,Base01,,0000,0000,0000,,﻿Okay...
+Dialogue: 0,0:13:16.79,0:13:20.09,Base01,,0000,0000,0000,,﻿I'm sorry that I got in your way, Hiyori-oneechan.
+Dialogue: 0,0:13:32.02,0:13:34.60,Base01,,0000,0000,0000,,﻿It's water!!
+Dialogue: 0,0:13:41.40,0:13:43.03,Base01,,0000,0000,0000,,﻿Thanks, Ken-chan.
+Dialogue: 0,0:13:43.03,0:13:45.15,Base01,,0000,0000,0000,,﻿I had to cover myself too, anyway.
+Dialogue: 0,0:13:49.82,0:13:51.78,Base01,,0000,0000,0000,,﻿Are you okay, Yuki-chan?
+Dialogue: 0,0:13:52.70,0:13:55.25,Base01,,0000,0000,0000,,﻿Yeah... I screwed up there.
+Dialogue: 0,0:13:56.04,0:14:00.83,Base01,,0000,0000,0000,,﻿I thought you would be okay since\N﻿you're not as clumsy as Hiyori.
+Dialogue: 0,0:14:03.13,0:14:04.92,Base01,,0000,0000,0000,,﻿That's not true...
+Dialogue: 0,0:14:33.74,0:14:35.24,Base01,,0000,0000,0000,,﻿Ken-chan.
+Dialogue: 0,0:14:36.91,0:14:39.62,Base01,,0000,0000,0000,,﻿I was shopping since I ran out of ingredients.
+Dialogue: 0,0:14:40.38,0:14:44.63,Base01,,0000,0000,0000,,﻿Look forward to my chocolate this year.\N﻿I'm going to put a lot of effort into it
+Dialogue: 0,0:14:46.13,0:14:47.34,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:14:49.30,0:14:51.26,Base01,,0000,0000,0000,,﻿You met Hiyori-oneechan?
+Dialogue: 0,0:14:51.26,0:14:52.47,Base01,,0000,0000,0000,,﻿Yeah.
+Dialogue: 0,0:14:52.47,0:14:57.60,Base01,,0000,0000,0000,,﻿She gives me chocolate every year, but\N﻿it's shaped weird and tastes like crap.
+Dialogue: 0,0:14:58.06,0:15:01.06,Base01,,0000,0000,0000,,﻿But I couldn't make fun of it this year.
+Dialogue: 0,0:15:01.06,0:15:04.98,Base01,,0000,0000,0000,,﻿I understood that she puts a lot of effort into making them.
+Dialogue: 0,0:15:05.44,0:15:06.94,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:15:09.82,0:15:11.78,Base01,,0000,0000,0000,,﻿Onii-chan, take this.
+Dialogue: 0,0:15:12.24,0:15:13.28,Base01,,0000,0000,0000,,﻿This?
+Dialogue: 0,0:15:14.78,0:15:16.33,Base01,,0000,0000,0000,,﻿It's chocolate.
+Dialogue: 0,0:15:16.33,0:15:18.75,Base01,,0000,0000,0000,,﻿But Valentine's Day is tomorrow.
+Dialogue: 0,0:15:19.04,0:15:23.88,Base01,,0000,0000,0000,,﻿Yeah... I won't be able to give it to you\Ntomorrow, since I'm going to be busy.﻿ 
+Dialogue: 0,0:15:24.17,0:15:25.38,Base01,,0000,0000,0000,,﻿Good night.
+Dialogue: 0,0:15:25.38,0:15:26.59,Base01,,0000,0000,0000,,﻿Yuki!
+Dialogue: 0,0:15:27.63,0:15:29.76,Base01,,0000,0000,0000,,﻿Going to be busy?
+Dialogue: 0,0:15:45.44,0:15:47.23,Base01,,0000,0000,0000,,﻿I broke the promise.
+Dialogue: 0,0:15:48.15,0:15:50.74,Base01,,0000,0000,0000,,﻿We promise to take turns doing this...
+Dialogue: 0,0:15:51.49,0:15:55.24,Base01,,0000,0000,0000,,I won't be able to become his girlfriend\N﻿even if I give it to him first...
+Dialogue: 0,0:15:57.37,0:16:00.83,Base01,,0000,0000,0000,,And this ring really isn't mine...
+Dialogue: 0,0:16:01.00,0:16:03.12,Base01,,0000,0000,0000,,﻿If he finds out, he'll probably hate me.
+Dialogue: 0,0:16:03.12,0:16:05.38,Base01,,0000,0000,0000,,﻿I don't want that.
+Dialogue: 0,0:16:05.38,0:16:13.22,Base01,,0000,0000,0000,,﻿Even if he looks at me as just a sister,\N﻿I want him to continue to like me.
+Dialogue: 0,0:16:33.61,0:16:35.41,Base01,,0000,0000,0000,,﻿Here you go, Ken-chan.
+Dialogue: 0,0:16:37.83,0:16:39.16,Base01,,0000,0000,0000,,﻿Thanks, Hiyori.
+Dialogue: 0,0:17:11.32,0:17:14.19,Base01,,0000,0000,0000,,﻿I can't do it. I just can't...
+Dialogue: 0,0:17:14.49,0:17:17.53,Base01,,0000,0000,0000,,﻿I can't smile seeing him like that...
+Dialogue: 0,0:17:18.28,0:17:21.58,Base01,,0000,0000,0000,,What? Yuki-chan gave you chocolate yesterday?
+Dialogue: 0,0:17:21.91,0:17:22.95,Base01,,0000,0000,0000,,﻿Yeah.
+Dialogue: 0,0:17:23.25,0:17:25.37,Base01,,0000,0000,0000,,﻿Yuki-chan gave it first...
+Dialogue: 0,0:17:25.67,0:17:27.04,Base01,,0000,0000,0000,,Hiyori?
+Dialogue: 0,0:17:27.04,0:17:30.79,Base01,,0000,0000,0000,,﻿Let's go home, Ken-chan. I'm sure\NYuki-chan will be waiting for you.
+Dialogue: 0,0:17:31.25,0:17:32.17,Base01,,0000,0000,0000,,﻿Okay.
+Dialogue: 0,0:17:35.93,0:17:38.34,Base01,,0000,0000,0000,,﻿Do you know how Yuki-chan feels about you?
+Dialogue: 0,0:17:38.64,0:17:40.47,Base01,,0000,0000,0000,,﻿What are you talking about?
+Dialogue: 0,0:17:41.68,0:17:42.89,Base01,,0000,0000,0000,,﻿Bye.
+Dialogue: 0,0:17:48.44,0:17:50.86,Base01,,0000,0000,0000,,I know...
+Dialogue: 0,0:18:26.81,0:18:27.98,Base01,,0000,0000,0000,,﻿Yuki...
+Dialogue: 0,0:18:29.19,0:18:31.48,Base01,,0000,0000,0000,,﻿Yuki, are you crying?
+Dialogue: 0,0:18:36.15,0:18:37.65,Base01,,0000,0000,0000,,﻿I'm sorry.
+Dialogue: 0,0:18:43.08,0:18:45.79,Base01,,0000,0000,0000,,﻿Ken-chan, I have something important to talk about.
+Dialogue: 0,0:18:46.41,0:18:48.54,Base01,,0000,0000,0000,,﻿Can you go to my room?
+Dialogue: 0,0:18:57.72,0:18:59.26,Base01,,0000,0000,0000,,﻿How's Yuki-chan doing?
+Dialogue: 0,0:18:59.38,0:19:01.80,Base01,,0000,0000,0000,,She doesn't seem to be doing too well, so I put her to sleep.
+Dialogue: 0,0:19:01.80,0:19:03.30,Base01,,0000,0000,0000,,﻿I see.
+Dialogue: 0,0:19:03.60,0:19:05.89,Base01,,0000,0000,0000,,﻿I hope she gets better soon.
+Dialogue: 0,0:19:07.23,0:19:09.35,Base01,,0000,0000,0000,,﻿Hiyori, what happened to the chocolate you gave...?
+Dialogue: 0,0:19:09.81,0:19:11.48,Base01,,0000,0000,0000,,﻿I took it back.
+Dialogue: 0,0:19:11.48,0:19:15.11,Base01,,0000,0000,0000,,﻿My chocolate tastes horrible, so you shouldn't eat it
+Dialogue: 0,0:19:15.53,0:19:19.03,Base01,,0000,0000,0000,,﻿I won't be making chocolates starting next year.
+Dialogue: 0,0:19:19.03,0:19:20.82,Base01,,0000,0000,0000,,﻿Why all of a sudden?
+Dialogue: 0,0:19:21.74,0:19:23.24,Base01,,0000,0000,0000,,﻿What a weird girl...
+Dialogue: 0,0:19:24.16,0:19:28.66,Base01,,0000,0000,0000,,﻿Ken-chan, will be you be sad if I suddenly disappear?
+Dialogue: 0,0:19:28.96,0:19:32.12,Base01,,0000,0000,0000,,﻿What's with you? You're acting weird today.
+Dialogue: 0,0:19:32.13,0:19:33.96,Base01,,0000,0000,0000,,﻿Answer me, Ken-chan.
+Dialogue: 0,0:19:33.96,0:19:37.13,Base01,,0000,0000,0000,,﻿I don't know what you're trying to get at.
+Dialogue: 0,0:19:39.84,0:19:41.51,Base01,,0000,0000,0000,,﻿You're right.
+Dialogue: 0,0:19:42.39,0:19:44.22,Base01,,0000,0000,0000,,﻿I'll be leaving now.
+Dialogue: 0,0:19:47.68,0:19:48.72,Base01,,0000,0000,0000,,﻿Ken-chan.
+Dialogue: 0,0:19:50.85,0:19:54.36,Base01,,0000,0000,0000,,﻿Only you can make Yuki-chan smile again.
+Dialogue: 0,0:19:55.23,0:19:56.73,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:20:09.58,0:20:14.25,Base01,,0000,0000,0000,,﻿Since we were young, I've protected her as a real brother.
+Dialogue: 0,0:20:14.71,0:20:18.50,Base01,,0000,0000,0000,,﻿And that girl adores me as a man.
+Dialogue: 0,0:20:19.26,0:20:21.34,Base01,,0000,0000,0000,,﻿Then I...
+Dialogue: 0,0:20:24.80,0:20:29.06,Base01,,0000,0000,0000,,﻿Then I must have been looking at her as a woman.
+Dialogue: 0,0:20:31.14,0:20:35.85,Base01,,0000,0000,0000,,But she's my sister, so I've been\N﻿restraining myself unconsciously...
+Dialogue: 0,0:20:53.21,0:20:55.75,Base01,,0000,0000,0000,,﻿Yuki, do you want to come to my room?
+Dialogue: 0,0:20:55.92,0:20:56.96,Base01,,0000,0000,0000,,﻿Eh?
+Dialogue: 0,0:21:03.30,0:21:04.80,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:21:11.31,0:21:12.68,Base01,,0000,0000,0000,,﻿That's...
+Dialogue: 0,0:21:13.10,0:21:15.23,Base01,,0000,0000,0000,,﻿It's the ring I got from you.
+Dialogue: 0,0:21:15.85,0:21:20.07,Base01,,0000,0000,0000,,﻿It's the ring that I had to give to Hiyori-oneechan.
+Dialogue: 0,0:21:20.36,0:21:24.28,Base01,,0000,0000,0000,,Bu﻿t... I couldn't say it.
+Dialogue: 0,0:21:26.87,0:21:31.54,Base01,,0000,0000,0000,,﻿I was holding a prize from a capsule machine\N﻿from Hiyori-oneechon a long time ago.
+Dialogue: 0,0:21:31.54,0:21:36.04,Base01,,0000,0000,0000,,﻿Then you game me a light blue ring as\N﻿a present in exchange for the prize.
+Dialogue: 0,0:21:36.04,0:21:41.63,Base01,,0000,0000,0000,,﻿I was so happy that I forgot that\N﻿it was from Hiyori-oneechan.
+Dialogue: 0,0:21:42.26,0:21:46.47,Base01,,0000,0000,0000,,﻿So i couldn't talk to her about the ring.
+Dialogue: 0,0:21:46.93,0:21:50.26,Base01,,0000,0000,0000,,﻿She was the one who was supposed to get it...
+Dialogue: 0,0:21:51.47,0:21:55.52,Base01,,0000,0000,0000,,﻿The next day, I couldn't walk with the two of you.
+Dialogue: 0,0:21:56.27,0:22:00.65,Base01,,0000,0000,0000,,﻿I lied, saying that it would block the path for other people.
+Dialogue: 0,0:22:01.11,0:22:07.15,Base01,,0000,0000,0000,,﻿Then Hiyori-oneechan said let's take\N﻿turns walking together with you.
+Dialogue: 0,0:22:07.16,0:22:10.62,Base01,,0000,0000,0000,,﻿After that, we started to take turns for everything.
+Dialogue: 0,0:22:11.08,0:22:12.58,Base01,,0000,0000,0000,,﻿So that's how it was...
+Dialogue: 0,0:22:13.20,0:22:18.46,Base01,,0000,0000,0000,,﻿I was finally able to tell her about that yesterday.
+Dialogue: 0,0:22:20.13,0:22:24.51,Base01,,0000,0000,0000,,﻿After I apologized and told her everything, she told me...
+Dialogue: 0,0:22:25.26,0:22:28.30,Base01,,0000,0000,0000,,﻿That her prince wasn't you.
+Dialogue: 0,0:22:32.06,0:22:37.35,Base01,,0000,0000,0000,,﻿She was trying to make me feel better.\N﻿She shared the same feelings as me...
+Dialogue: 0,0:22:37.94,0:22:40.52,Base01,,0000,0000,0000,,﻿But I was still happy about it.
+Dialogue: 0,0:22:40.52,0:22:42.77,Base01,,0000,0000,0000,,﻿I'm a bad girl.
+Dialogue: 0,0:22:43.69,0:22:44.90,Base01,,0000,0000,0000,,﻿It doesn't matter.
+Dialogue: 0,0:22:44.90,0:22:47.44,Base01,,0000,0000,0000,,﻿Onii-chan, I love you.
+Dialogue: 0,0:22:47.45,0:22:49.86,Base01,,0000,0000,0000,,﻿I've liked you from before.
+Dialogue: 0,0:22:50.03,0:22:51.87,Base01,,0000,0000,0000,,﻿Me too, Yuki.
+Dialogue: 0,0:22:52.28,0:22:56.04,Base01,,0000,0000,0000,,﻿I can be besides with you, right?
+Dialogue: 0,0:22:56.20,0:22:58.75,Base01,,0000,0000,0000,,﻿It'll be troubling if you don't stay beside me
+Dialogue: 0,0:22:59.37,0:23:01.17,Base01,,0000,0000,0000,,﻿I'm happy.
+Dialogue: 0,0:23:20.81,0:23:23.36,Base01,,0000,0000,0000,,﻿I'm embarassed, Onii-chan.
+Dialogue: 0,0:23:53.43,0:23:54.64,Base01,,0000,0000,0000,,﻿Ouch...
+Dialogue: 0,0:23:55.97,0:23:57.64,Base01,,0000,0000,0000,,﻿S-Sorry...
+Dialogue: 0,0:23:59.77,0:24:01.27,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:24:28.88,0:24:30.67,Base01,,0000,0000,0000,,﻿You're...
+Dialogue: 0,0:24:31.59,0:24:32.97,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:24:34.76,0:24:35.97,Base01,,0000,0000,0000,,﻿Yuki.
+Dialogue: 0,0:24:36.89,0:24:40.52,Base01,,0000,0000,0000,,﻿I can leave everything up to you.
+Dialogue: 0,0:24:40.81,0:24:42.31,Base01,,0000,0000,0000,,﻿I'm coming in, Yuki.
+Dialogue: 0,0:24:48.48,0:24:49.86,Base01,,0000,0000,0000,,﻿Yuki.
+Dialogue: 0,0:24:52.28,0:24:55.57,Base01,,0000,0000,0000,,I'm o﻿kay... So stick it in to the end...
+Dialogue: 0,0:24:56.49,0:24:58.16,Base01,,0000,0000,0000,,﻿Yuki.
+Dialogue: 0,0:25:05.42,0:25:06.92,Base01,,0000,0000,0000,,﻿Yuki.
+Dialogue: 0,0:25:08.42,0:25:10.09,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:25:11.30,0:25:12.80,Base01,,0000,0000,0000,,﻿N-No...
+Dialogue: 0,0:25:14.93,0:25:18.10,Base01,,0000,0000,0000,,﻿I don't want to get away from you anymore.
+Dialogue: 0,0:25:54.13,0:25:56.72,Base01,,0000,0000,0000,,﻿O-Onii-chan, I love you.
+Dialogue: 0,0:26:14.07,0:26:15.90,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:26:23.75,0:26:27.04,Base01,,0000,0000,0000,,I got the ring back from you now.
+Dialogue: 0,0:26:32.92,0:26:34.46,Base01,,0000,0000,0000,,﻿Ken-chan.
+Dialogue: 0,0:26:35.34,0:26:38.05,Base01,,0000,0000,0000,,﻿Show me that you've made up your mind.
+Dialogue: 0,0:26:38.51,0:26:40.34,Base01,,0000,0000,0000,,﻿Or else, I...
+Dialogue: 0,0:26:41.22,0:26:42.76,Base01,,0000,0000,0000,,﻿Okay.
+Dialogue: 0,0:26:53.15,0:26:54.23,Base01,,0000,0000,0000,,﻿Yuki.
+Dialogue: 0,0:26:54.23,0:26:55.57,Base01,,0000,0000,0000,,﻿Onii-chan.
+Dialogue: 0,0:27:06.00,0:27:08.54,Base01,,0000,0000,0000,,﻿Give me that ring if you get bored with it.
+Dialogue: 0,0:27:16.26,0:27:17.92,Base01,,0000,0000,0000,,﻿Hiyori-oneechan
+Dialogue: 0,0:27:47.95,0:27:52.04,Base01,,0000,0000,0000,,﻿Don't get surprised, Kenji. Hiyori moved to another school.
+Dialogue: 0,0:27:52.33,0:27:55.04,Base01,,0000,0000,0000,,﻿She moved? Really?
+Dialogue: 0,0:27:55.05,0:27:57.92,Base01,,0000,0000,0000,,﻿She didn't even contact me, her best friend.
+Dialogue: 0,0:27:58.21,0:28:01.09,Base01,,0000,0000,0000,,﻿She could have said something.
+Dialogue: 0,0:28:02.59,0:28:08.18,Base01,,0000,0000,0000,,﻿Hiyori, did you just leave your smile behind for Yuki and me?
+Dialogue: 0,0:28:09.39,0:28:10.89,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:28:21.15,0:28:22.65,Base01,,0000,0000,0000,,﻿Ken-chan.

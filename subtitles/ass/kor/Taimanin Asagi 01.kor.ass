@@ -1,0 +1,194 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Taimanin Asagi 01
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.42,Default,,0,0,0,,{\b1\c&H33CC00&}AMD {\c&HFF6600&}K6-2{\c&H00CCFF&} 400Mhz {\c&H0033FF&}[<ruby>{\c&H3333FF&}ジ{\c&H6666FF&}オ{\c&H9999FF&}ン{\c&HCCCCFF&}殘{\c&HECECFF&}黨<rt>지온잔당</ruby>]{\b0}\N{\c&HC4A250&}http://yakwang.goalibaba.com<font color="FFC300"> -야광-\N <font color="FF8800">제작일 : 2007년2월 24일 \N<font color="0072FF">야광에서만 273번째 자막
+Dialogue: 0,0:00:09.86,0:00:12.89,Default,,0,0,0,,가가 간다! 간다간다간다간다!
+Dialogue: 0,0:00:22.22,0:00:25.07,Default,,0,0,0,,줘 줘어~ 저 정자 줘~
+Dialogue: 0,0:00:25.73,0:00:27.92,Default,,0,0,0,,간다 또 간다아~
+Dialogue: 0,0:00:30.22,0:00:33.10,Default,,0,0,0,,뜨거우니깐 좀더 박아 줘!
+Dialogue: 0,0:00:34.51,0:00:35.03,Default,,0,0,0,,굉장해!
+Dialogue: 0,0:01:15.75,0:01:16.88,Default,,0,0,0,,아사기
+Dialogue: 0,0:01:29.99,0:01:38.08,Default,,0,0,0,,{\c&Hred&}원작 : Lilith {\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz<font color="#E6F2FF">e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:01:38.08,0:01:42.16,Default,,0,0,0,,{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:01:42.16,0:01:50.09,Default,,0,0,0,,프{\c&H4CA352&}로듀서\N{\c&Hred&}무라카미 코우이치\N{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er<font color="#D9ECFF">oz<font color="#E6F2FF">e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:01:50.09,0:01:51.43,Default,,0,0,0,,{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:01:51.43,0:01:59.57,Default,,0,0,0,,{\c&Hred&}각본\N야마구치 {\c&H4CA352&}하지메\N{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er<font color="#D9ECFF">oz<font color="#E6F2FF">e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:01:59.57,0:02:00.85,Default,,0,0,0,,{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:02:00.85,0:02:08.58,Default,,0,0,0,,캐릭터뎃셍\N무라카미 테루아키\N{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:02:08.58,0:02:16.69,Default,,0,0,0,,작화 감독\N무라카미 테루아키\N{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:02:16.69,0:02:18.89,Default,,0,0,0,,{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:02:18.89,0:02:26.86,Default,,0,0,0,,{\c&H4CA352&}미술 감독\N{\c&Hred&}미야마에 미츠하루\N귀찮아 {\c&Hblue&}안해 안해 안해 퍽퍽\N{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/<font color="#BFDFFF">er<font color="#D9ECFF">oz<font color="#E6F2FF">e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:02:26.86,0:02:58.40,Default,,0,0,0,,{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장
+Dialogue: 0,0:03:00.03,0:03:06.61,Default,,0,0,0,,{\c&HFAE8DE&}대마인\N{\c&HF4CCB3&}아사기\N{\c&HEA9D6F&}Vol.01 역습의 오보로
+Dialogue: 0,0:03:08.43,0:03:14.01,Default,,0,0,0,,마와 도쿄 인간과 도깨비 망령이 공존하는 도시
+Dialogue: 0,0:03:14.01,0:03:20.12,Default,,0,0,0,,사람과 마의 사이에서 태고로 부터 지켜 온\N서로에게 간섭 안한다는 암목의 룰
+Dialogue: 0,0:03:20.26,0:03:29.70,Default,,0,0,0,,하지만 인간이 타락하고 부터 지금은\N인간과 마족이 결탁한 범죄 조직이나 기업이 암약하고 있었다.
+Dialogue: 0,0:03:31.94,0:03:37.59,Default,,0,0,0,,싫어~ 싫어!!\N살려줘! 누가~ 부탁이야!
+Dialogue: 0,0:05:05.60,0:05:07.23,Default,,0,0,0,,그렇다는데\N/정말~
+Dialogue: 0,0:05:10.57,0:05:17.22,Default,,0,0,0,,어제도 20대 라고 생각되는 여성과\N똑같은 20대 후반이라 생각되는 남서의 의체가 발견 됐습니다.
+Dialogue: 0,0:05:18.40,0:05:24.35,Default,,0,0,0,,최근 수개월 동안 도내에서 일어나고 있는\N일연의 살인사건과의 관련이 있는지 않는가 하여
+Dialogue: 0,0:05:26.72,0:05:29.43,Default,,0,0,0,,1개월 동안 9명 이나!?
+Dialogue: 0,0:05:29.43,0:05:33.60,Default,,0,0,0,,모두 타이만인 으로서 상당한 실력 이였다.
+Dialogue: 0,0:05:33.60,0:05:35.85,Default,,0,0,0,,너와 똑같이 말이야
+Dialogue: 0,0:05:38.91,0:05:42.37,Default,,0,0,0,,아사기... 돌아오지 않겠나?
+Dialogue: 0,0:05:43.63,0:05:48.08,Default,,0,0,0,,이 검을...\N니가 해결해 줬으면 한다
+Dialogue: 0,0:05:51.05,0:05:51.98,Default,,0,0,0,,아사기?
+Dialogue: 0,0:05:52.59,0:05:53.71,Default,,0,0,0,,미안해요!
+Dialogue: 0,0:05:56.93,0:06:02.20,Default,,0,0,0,,혹시 날 위해 타이만의 일을 그만 둔걸...\N/후회 안해
+Dialogue: 0,0:06:04.39,0:06:09.57,Default,,0,0,0,,다행이다.\N내일 밤 7시에 레알에서 기다려 주세요.
+Dialogue: 0,0:06:09.57,0:06:11.33,Default,,0,0,0,,두사람 예액했어요.
+Dialogue: 0,0:06:11.33,0:06:14.77,Default,,0,0,0,,일이 끝나면 저도 금방 갈께요\N/예...
+Dialogue: 0,0:06:15.37,0:06:18.35,Default,,0,0,0,,그때 넘겨주고 싶은게 있습니다...
+Dialogue: 0,0:06:27.62,0:06:29.17,Default,,0,0,0,,언니! 언니!!
+Dialogue: 0,0:06:29.57,0:06:33.08,Default,,0,0,0,,저기 저기~ 어땠어?\N사와키 오빠랑의 데.이.트!!
+Dialogue: 0,0:06:37.66,0:06:40.16,Default,,0,0,0,,왜 그래?\N차였어?
+Dialogue: 0,0:06:43.65,0:06:45.23,Default,,0,0,0,,만날수 없었어...
+Dialogue: 0,0:06:56.09,0:06:59.46,Default,,0,0,0,,{\c&H93E6C4&}예 사와키 입니다.\N지금은 전화를 받을수 없습니다.
+Dialogue: 0,0:06:59.46,0:07:03.35,Default,,0,0,0,,{\c&H93E6C4&}용건이 있으신 분은 발신음 뒤에\N이름과 용건...
+Dialogue: 0,0:07:03.35,0:07:08.82,Default,,0,0,0,,이건 조직 그룹의 범행이다...\N이미 그 인연은 끊겨져 있지만
+Dialogue: 0,0:07:08.82,0:07:11.68,Default,,0,0,0,,너도 노려지지 않는다고는 할수 없어...
+Dialogue: 0,0:07:12.97,0:07:17.45,Default,,0,0,0,,설마! 내 탓에 쿄스케씨가 휘말리는 일이...
+Dialogue: 0,0:07:17.48,0:07:21.48,Default,,0,0,0,,뭐야 그거 언니가 시간이랑 장소 틀린거 잖아?
+Dialogue: 0,0:07:21.84,0:07:25.88,Default,,0,0,0,,자~ 됐으니깐 빨리 학교!\N/예~예~ 다녀오겠습니다~
+Dialogue: 0,0:07:25.88,0:07:27.10,Default,,0,0,0,,다녀 와~
+Dialogue: 0,0:07:30.29,0:07:31.51,Default,,0,0,0,,언니~
+Dialogue: 0,0:07:32.69,0:07:34.75,Default,,0,0,0,,오빠 온것같아~
+Dialogue: 0,0:07:36.03,0:07:39.63,Default,,0,0,0,,차가 있으니깐 도장에 있는거 아니야?
+Dialogue: 0,0:07:39.94,0:07:40.86,Default,,0,0,0,,힘내~
+Dialogue: 0,0:07:43.54,0:07:44.43,Default,,0,0,0,,쿄스케!!
+Dialogue: 0,0:07:46.01,0:07:49.83,Default,,0,0,0,,어떻게 된거야 어제는?\N/미안해 휴대폰 깜박 해서...
+Dialogue: 0,0:07:49.83,0:07:54.33,Default,,0,0,0,,바보! 밤 이여도 열락 정도는 해!\N무슨 일 있었나 걱정...
+Dialogue: 0,0:07:55.84,0:08:01.25,Default,,0,0,0,,겨우 가슴을 펴고 말할수 있을것 같아\N이름뿐인 약혹이 아니라
+Dialogue: 0,0:08:01.25,0:08:02.19,Default,,0,0,0,,제대로 말이야
+Dialogue: 0,0:08:02.71,0:08:06.32,Default,,0,0,0,,쿄스케...\N/나랑 결혼해 줬으면 해!
+Dialogue: 0,0:08:11.41,0:08:12.49,Default,,0,0,0,,아사기!!
+Dialogue: 0,0:08:12.99,0:08:17.21,Default,,0,0,0,,지금까지 불안하게 만들어서 미안해\N/아니 나 기뻐!
+Dialogue: 0,0:08:17.32,0:08:21.53,Default,,0,0,0,,확실히 요마가...\N쿄스케 미행 당했을지도 몰라!
+Dialogue: 0,0:08:23.28,0:08:24.14,Default,,0,0,0,,누구!!
+Dialogue: 0,0:08:29.84,0:08:30.76,Default,,0,0,0,,오보로!!
+Dialogue: 0,0:08:32.95,0:08:37.56,Default,,0,0,0,,오랜만이네 아사기\N/뭐... 살아 있었나...
+Dialogue: 0,0:08:57.26,0:08:58.60,Default,,0,0,0,,죽어라 아사기!!
+Dialogue: 0,0:09:23.50,0:09:26.98,Default,,0,0,0,,그때의 감촉은 확실히!\N/너를 만나고 싶어서 말이야
+Dialogue: 0,0:09:26.98,0:09:30.72,Default,,0,0,0,,요마에게 몸을 받쳐 목숨을 건졌어\N/요마 라고!?
+Dialogue: 0,0:09:30.72,0:09:34.90,Default,,0,0,0,,그 힘으로 너의 동료도 벌래처럼 발아 죽여줬어
+Dialogue: 0,0:09:35.22,0:09:39.97,Default,,0,0,0,,너를 끌어내기 위해서 말이야\N/그러면 다시 한번 쓰러트릴 뿐!
+Dialogue: 0,0:09:43.14,0:09:47.64,Default,,0,0,0,,왜 그래?\N/모... 몸이...
+Dialogue: 0,0:09:50.84,0:09:52.29,Default,,0,0,0,,도망가 쿄스케!
+Dialogue: 0,0:09:54.26,0:09:56.84,Default,,0,0,0,,아직도 모르는 거야 야사기?\N/뭐!?
+Dialogue: 0,0:09:57.94,0:10:02.18,Default,,0,0,0,,너는 이미 나의 주술 안에 있어.\N그 남자랑 똑같이 말이야
+Dialogue: 0,0:10:03.82,0:10:04.60,Default,,0,0,0,,이리 오렴
+Dialogue: 0,0:10:05.18,0:10:06.15,Default,,0,0,0,,쿄스케!?
+Dialogue: 0,0:10:06.91,0:10:10.98,Default,,0,0,0,,이거야 말로 나의 인법\N촉매에 손가락에 끼운것이 너의 최후!
+Dialogue: 0,0:10:11.08,0:10:12.98,Default,,0,0,0,,쿄스케!! 쿄스케!!!
+Dialogue: 0,0:10:16.09,0:10:19.87,Default,,0,0,0,,너의 목적은 나일 꺼다!!\N쿄스케는 관계없어!
+Dialogue: 0,0:10:20.45,0:10:25.96,Default,,0,0,0,,이건 오늘부터 내꺼야\N이 남자도 싫다고는 말안하고 있는것 같고
+Dialogue: 0,0:10:26.73,0:10:27.61,Default,,0,0,0,,거짓말이야!!
+Dialogue: 0,0:10:31.94,0:10:34.75,Default,,0,0,0,,꾀나 훌륭한 물건이 잖아♥\N어디!
+Dialogue: 0,0:10:36.23,0:10:39.14,Default,,0,0,0,,아사기! 이건 나의 의식이 아니야!!
+Dialogue: 0,0:10:39.46,0:10:42.87,Default,,0,0,0,,어때♥ 아사기는 이런거 안해 줬지?
+Dialogue: 0,0:10:42.87,0:10:43.91,Default,,0,0,0,,쿄스케!!!
+Dialogue: 0,0:10:51.81,0:10:57.16,Default,,0,0,0,,딱딱하게 섯잖아 정말!\N칠칠지 못한 자지네!
+Dialogue: 0,0:10:58.60,0:11:04.25,Default,,0,0,0,,이렇게 야한 자지 빨고 있으면 나도...\N진짜 이상한기분이...
+Dialogue: 0,0:11:06.98,0:11:09.82,Default,,0,0,0,,어때?\N금방 사정할것 같지?
+Dialogue: 0,0:11:10.75,0:11:12.86,Default,,0,0,0,,오보로 네녀석!!!
+Dialogue: 0,0:11:20.77,0:11:21.62,Default,,0,0,0,,그만 둬어!!!
+Dialogue: 0,0:11:21.81,0:11:24.12,Default,,0,0,0,,더이상 참을수 없어 넣을께♥
+Dialogue: 0,0:11:27.36,0:11:30.00,Default,,0,0,0,,들어왔어~ 자지 들어왔어~
+Dialogue: 0,0:11:34.56,0:11:37.61,Default,,0,0,0,,좋아~ 자지 좋아~ 자지 좋아!
+Dialogue: 0,0:11:41.41,0:11:44.45,Default,,0,0,0,,@#$ 이 녀석 앗 하는 사이에 내 안에!
+Dialogue: 0,0:11:45.33,0:11:48.13,Default,,0,0,0,,싫어~~~ 쿄스...
+Dialogue: 0,0:11:54.83,0:11:56.31,Default,,0,0,0,,박아 줘! 박아 줘!!
+Dialogue: 0,0:11:58.19,0:12:03.79,Default,,0,0,0,,굉장해~ 자지 굉장해!\N몇번이고 안에다 사정해도 괜찮아!
+Dialogue: 0,0:12:05.32,0:12:09.40,Default,,0,0,0,,아사기의 저 꼬라지를!\N야하지? 야한 여자지!?
+Dialogue: 0,0:12:09.40,0:12:12.61,Default,,0,0,0,,아사기의 페라치오 보면서\N안에 사정해도 괜찮아!
+Dialogue: 0,0:12:13.09,0:12:14.69,Default,,0,0,0,,정자 줘~♥
+Dialogue: 0,0:12:17.91,0:12:20.96,Default,,0,0,0,,@$# @#$ 안돼!
+Dialogue: 0,0:12:23.58,0:12:28.51,Default,,0,0,0,,어때? 너무 야하지?\N자지 한가득 짜고 있는 저 페라치오 닌자!
+Dialogue: 0,0:12:30.11,0:12:33.47,Default,,0,0,0,,벌써 나와? 나오는거야?\N페라치오 닌자로 벌써 정자 나오는거야?
+Dialogue: 0,0:12:34.92,0:12:38.55,Default,,0,0,0,,싸도 괜찮아!\N나의 밝히는 보지에~
+Dialogue: 0,0:12:39.95,0:12:44.16,Default,,0,0,0,,듬뿍 싸!\N사정해 안에서 해!
+Dialogue: 0,0:12:47.02,0:12:48.44,Default,,0,0,0,,만... 안에다 그만...\N싫어!!
+Dialogue: 0,0:12:48.44,0:12:49.59,Default,,0,0,0,,정자 줘~
+Dialogue: 0,0:12:50.45,0:12:52.14,Default,,0,0,0,,안에다 줘~
+Dialogue: 0,0:13:02.24,0:13:03.02,Default,,0,0,0,,싫어!
+Dialogue: 0,0:13:07.01,0:13:08.50,Default,,0,0,0,,간다! 나도 간다!
+Dialogue: 0,0:13:17.82,0:13:18.61,Default,,0,0,0,,굉장해~
+Dialogue: 0,0:13:20.61,0:13:22.63,Default,,0,0,0,,굉장해~ 나오고있어...
+Dialogue: 0,0:13:24.79,0:13:29.42,Default,,0,0,0,,아... 안에 나오고 있어...\N정사 발사하고 있어
+Dialogue: 0,0:13:33.53,0:13:34.47,Default,,0,0,0,,굉장해~
+Dialogue: 0,0:13:41.76,0:13:47.97,Default,,0,0,0,,아사기... 이 남자 꾀 좋아\N연속으로 2번이나 질내 사정이라니
+Dialogue: 0,0:13:58.32,0:14:01.30,Default,,0,0,0,,아사기... 아사기...
+Dialogue: 0,0:14:02.17,0:14:03.95,Default,,0,0,0,,아사기 일어나!
+Dialogue: 0,0:14:07.70,0:14:09.80,Default,,0,0,0,,쿄스케씨... 쿄스케씨~
+Dialogue: 0,0:14:10.24,0:14:13.66,Default,,0,0,0,,아사미 사실은 너무나 H한 여자에요~
+Dialogue: 0,0:14:15.75,0:14:20.18,Default,,0,0,0,,굉장해! 나...\N거기다 H한짓 잔득...
+Dialogue: 0,0:14:20.39,0:14:23.04,Default,,0,0,0,,아련해 아련하군 아사기
+Dialogue: 0,0:14:24.07,0:14:28.06,Default,,0,0,0,,이 니크로뇨로 인한 육체 개조 로부터 빠져나온 인간은 아무도 없어
+Dialogue: 0,0:14:28.06,0:14:31.11,Default,,0,0,0,,최고의 음란 여자로 해 줄게 아사기♥
+Dialogue: 0,0:14:32.64,0:14:35.21,Default,,0,0,0,,능력은 예정대로 나오는 거야?
+Dialogue: 0,0:14:35.21,0:14:39.27,Default,,0,0,0,,약물 투입으로 인하여 유전자 레벨로 세포를 다시만들고 있어서
+Dialogue: 0,0:14:39.27,0:14:46.08,Default,,0,0,0,,통상 감도의 3천배 정도로 강화되어서\N보통의 여자라는 살작 만지는 것 만으로 절정해 버립니다.
+Dialogue: 0,0:14:46.61,0:14:52.23,Default,,0,0,0,,빨리 보고싶어 남자들의 놀이감이 되어있는 아사기의 모습을...
+Dialogue: 0,0:14:56.00,0:14:59.21,Default,,0,0,0,,잘...잘보지 않으면 안돼...\N아사기에게도 ...#$
+Dialogue: 0,0:15:05.44,0:15:07.37,Default,,0,0,0,,나~ 나~♪
+Dialogue: 0,0:15:08.63,0:15:10.46,Default,,0,0,0,,아사기 넘쳐버려~
+Dialogue: 0,0:15:12.90,0:15:14.83,Default,,0,0,0,,좋아... 정말 좋아해~
+Dialogue: 0,0:15:17.04,0:15:19.25,Default,,0,0,0,,이제 안돼 갈것#@$@$
+Dialogue: 0,0:15:27.42,0:15:30.49,Default,,0,0,0,,부탁이야 같이... 같이!! 같이!!
+Dialogue: 0,0:15:34.08,0:15:39.48,Default,,0,0,0,,가가 같이... 같이가 나랑 같이!\N안에... 자궁에...@#$
+Dialogue: 0,0:15:40.50,0:15:43.27,Default,,0,0,0,,멈춰... 꺼내줘...\N안에다... 싸!
+Dialogue: 0,0:15:45.42,0:15:47.98,Default,,0,0,0,,싫어... 목에... 마시게 해줘!
+Dialogue: 0,0:16:00.18,0:16:05.50,Default,,0,0,0,,싫어... 질내 사정...\N가...간다아~
+Dialogue: 0,0:16:26.92,0:16:32.84,Default,,0,0,0,,요 몇칠은 즐거웠지 아사기?\N/오... 오보로...
+Dialogue: 0,0:16:35.19,0:16:38.52,Default,,0,0,0,,싫어... 싫어... 싫어...놔아~
+Dialogue: 0,0:16:39.79,0:16:42.06,Default,,0,0,0,,몇번이고 갈수있어 아사기~
+Dialogue: 0,0:16:47.08,0:16:50.67,Default,,0,0,0,,어때?\N전신이 보지처럼 된 느낌은?
+Dialogue: 0,0:17:01.81,0:17:05.57,Default,,0,0,0,,뭐야 아사기도 참...\N설마 가버렸어?
+Dialogue: 0,0:17:08.87,0:17:11.03,Default,,0,0,0,,이 변태 여닌자!!
+Dialogue: 0,0:17:12.05,0:17:15.82,Default,,0,0,0,,좋지? 체찍이 기분좋지 맞는게
+Dialogue: 0,0:17:16.38,0:17:19.35,Default,,0,0,0,,갈래? 체찍으로 갈래?\N보지 가버리는 거야?
+Dialogue: 0,0:17:19.95,0:17:23.63,Default,,0,0,0,,가라! 마조녀!! 자!! 자!!\N체찍으로 가! 자!!
+Dialogue: 0,0:17:31.11,0:17:33.58,Default,,0,0,0,,남은건 너희들 좋을대로 해
+Dialogue: 0,0:17:33.45,0:17:36.92,Default,,0,0,0,,저... 정말 입니까 마담!\N/진짜로요?
+Dialogue: 0,0:17:37.15,0:17:41.50,Default,,0,0,0,,이 음란 여자가 마지막의 한명 마지막 한방울 까지
+Dialogue: 0,0:17:41.50,0:17:44.65,Default,,0,0,0,,너희들 정액을 짜내준다네
+Dialogue: 0,0:17:44.65,0:17:46.68,Default,,0,0,0,,(´ ∇`)♪
+Dialogue: 0,0:17:46.68,0:17:50.19,Default,,0,0,0,,누가... 너희들 같은... 생식기 원숭에게!
+Dialogue: 0,0:18:06.00,0:18:07.78,Default,,0,0,0,,페로페로 빨아!
+Dialogue: 0,0:18:12.26,0:18:16.51,Default,,0,0,0,,굉장해! 이 여자 진짜로 녹아내려!
+Dialogue: 0,0:18:22.82,0:18:24.77,Default,,0,0,0,,앗 싸버리고 말았어...
+Dialogue: 0,0:18:25.22,0:18:26.37,Default,,0,0,0,,좋아 바꿔!!
+Dialogue: 0,0:18:32.49,0:18:35.45,Default,,0,0,0,,좋아~ 가라! #@$
+Dialogue: 0,0:18:43.00,0:18:48.12,Default,,0,0,0,,굉장해! 목구멍이 보지같이 벌렁벌렁 거려서...
+Dialogue: 0,0:19:01.63,0:19:02.84,Default,,0,0,0,,질퍽거리기 시작했어
+Dialogue: 0,0:19:11.01,0:19:11.95,Default,,0,0,0,,나온다~
+Dialogue: 0,0:19:20.49,0:19:21.85,Default,,0,0,0,,좋아 다음이다!
+Dialogue: 0,0:19:24.31,0:19:28.61,Default,,0,0,0,,이런~ 오크들에게 그 표정 감상하게 해줘
+Dialogue: 0,0:19:34.07,0:19:38.38,Default,,0,0,0,,좋아 아사기 오크들의 아이를 낳아 줘♥
+Dialogue: 0,0:19:45.85,0:19:48.88,Default,,0,0,0,,듬뿍 보지로 짜내 줘♥
+Dialogue: 0,0:19:51.57,0:19:53.04,Default,,0,0,0,,그만둬! 부탁이야...
+Dialogue: 0,0:19:56.88,0:19:59.21,Default,,0,0,0,,안돼!! 싫어~ 싫어!!
+Dialogue: 0,0:20:17.19,0:20:18.45,Default,,0,0,0,,자자~
+Dialogue: 0,0:20:41.64,0:20:43.87,Default,,0,0,0,,굉장해! #@$@$
+Dialogue: 0,0:20:43.61,0:20:45.14,Default,,0,0,0,,정말로 망가져!!
+Dialogue: 0,0:20:49.77,0:20:50.97,Default,,0,0,0,,가 간다!! 간다!!
+Dialogue: 0,0:21:30.30,0:21:31.91,Default,,0,0,0,,안돼~ 안돼~
+Dialogue: 0,0:21:34.63,0:21:35.74,Default,,0,0,0,,싫어 싫어~
+Dialogue: 0,0:22:01.21,0:22:04.17,Default,,0,0,0,,망가 망가져 망가져~
+Dialogue: 0,0:22:20.37,0:22:23.11,Default,,0,0,0,,정액♥ 정액줘♥ 정액 줘♥
+Dialogue: 0,0:22:25.25,0:22:28.06,Default,,0,0,0,,주... 죽어... 죽어~
+Dialogue: 0,0:22:35.17,0:22:38.46,Default,,0,0,0,,이제 이제 안돼... 그만둬~\N부탁이야...
+Dialogue: 0,0:23:04.67,0:23:05.58,Default,,0,0,0,,가... 간다~
+Dialogue: 0,0:23:16.20,0:23:19.96,Default,,0,0,0,,이걸로 아리나의 이벤트도\N대성공이 틀림없어
+Dialogue: 0,0:23:20.46,0:23:22.68,Default,,0,0,0,,브락크님도 기뻐해 주셔...
+Dialogue: 0,0:24:29.50,0:26:16.76,Default,,0,0,0,,{\b1\c&HFF9933&}ht{\c&HFFA953&}tp:{\c&HFFB468&}//{\c&HFFBC79&}clu{\c&HFFC68C&}b.par{\c&HFFCD9B&}an.{\c&HFFD6AC&}com/{\c&HFFDFBF&}er{\c&HFFECD9&}oz{\c&HFFF2E6&}e<font color="#EEF7FF">on{\b0}<font color="0072FF">{\b1}\N{\b0} 지온잔당 자막생산공장

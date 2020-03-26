@@ -1,0 +1,349 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.65,1.65,2,11,11,8,1
+Style: Starless - Yukito,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H00413837,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: SD-H.Logo,SubDESU,180,&H00000000,&H000000FF,&H00040407,&H00C5B597,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SubDESU-H Watermark,Albertus Extra Bold,11,&H009F02A2,&H000000FF,&H00E7E7EC,&H00000000,0,0,0,0,100,100,0,0,3,0.1,0,2,10,10,10,1
+Style: Starless Title,Aparajita,30,&H32010101,&H000000FF,&H32FFFFFF,&H0028031F,-1,0,0,0,100,100,0,0,1,0.6,0,2,60,60,30,1
+Style: Starless sign0,Aparajita,25,&H00010101,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,3,0,1,2,10,10,10,1
+Style: Starless - Marie,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H006946B4,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: Starless - Yuuna,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H003C4664,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.6,0,2,20,20,20,1
+Style: Starless - Marika,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H00787850,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: Starless - Marisa,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H001D80A5,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: Starless - Sachie,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H008C554B,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: Starless - Mikako,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H008A5571,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.8,0,2,20,20,20,1
+Style: Starless - Kyouichi,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H008859C1,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: Starless - Makoto,Trebuchet MS,30,&H00FFFFFF,&H000000FF,&H001D80A5,&H00493F3F,-1,0,0,0,90,90,0,0,1,1.5,0,2,20,20,20,1
+Style: Starless URL,Aparajita,24,&H32010101,&H000000FF,&H32FFFFFF,&H0028031F,-1,0,0,0,100,100,0,0,1,0.6,0,9,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:06.68,SubDESU-H Watermark,,0000,0000,0000,,{\pos(658,12)}{\ www.SubDESU-H.net}
+Dialogue: 0,0:00:06.69,0:00:07.99,Starless - Yukito,,0000,0000,0000,,Ganz schön reiche Leute hier.{\ Thatâ€™s rich people for you.}
+Dialogue: 0,0:00:08.72,0:00:10.32,Starless - Yukito,,0000,0000,0000,,Was für ein Anwesen.{\ What a huge mansion.}
+Dialogue: 0,0:00:10.48,0:00:11.46,Starless - Marisa,,0000,0000,0000,,Wer bist du denn?{\ Whoâ€™re you?}
+Dialogue: 0,0:00:11.95,0:00:13.02,Starless - Marisa,,0000,0000,0000,,Was willst du hier?{\ What do you want?}
+Dialogue: 0,0:00:13.93,0:00:18.86,Starless - Yukito,,0000,0000,0000,,Ähm... Ich bin wegen des Einstellungsgesprächs hier.{\ Um... I came here for a job interview.}
+Dialogue: 0,0:00:19.30,0:00:20.37,Starless - Marisa,,0000,0000,0000,,Einstellungsgespräch? {\ Interview?}
+Dialogue: 0,0:00:21.78,0:00:23.39,Starless - Marisa,,0000,0000,0000,,Ein männlicher Bewerber?{\ Did we have any male applicants?}
+Dialogue: 0,0:00:24.07,0:00:24.80,Starless - Marisa,,0000,0000,0000,,Wie auch immer...{\ Well, whatever.}
+Dialogue: 0,0:00:25.01,0:00:25.97,Starless - Marisa,,0000,0000,0000,,Komm rein.{\ Come on in.}
+Dialogue: 0,0:00:30.50,0:00:32.18,Starless - Marisa,,0000,0000,0000,,Beeil dich und komm rein.{\ Hurry, get in.}
+Dialogue: 0,0:00:32.99,0:00:36.96,Starless - Marisa,,0000,0000,0000,,Meine Schwester und ich interviewen\Ngerade eine andere Bewerberin.{\ My sister and I need to interview one other applicant.}
+Dialogue: 0,0:00:37.38,0:00:39.70,Starless - Marisa,,0000,0000,0000,,Du wartest so lange im Raum unserer Mutter.{\ So you go wait in Motherâ€™s room.}
+Dialogue: 0,0:00:40.59,0:00:41.38,Starless - Marisa,,0000,0000,0000,,Hörst du mir überhaupt zu?{\ Are you listening to me?}
+Dialogue: 0,0:00:41.43,0:00:41.85,Starless - Yukito,,0000,0000,0000,,Ja.{\ Yes.}
+Dialogue: 0,0:00:42.37,0:00:44.08,Starless - Marisa,,0000,0000,0000,,Es ist der erste Raum im zweiten Stock.{\ Itâ€™s the first room on the second floor.}
+Dialogue: 0,0:00:44.22,0:00:45.46,Starless - Marisa,,0000,0000,0000,,Beweg dich endlich!{\ Just get up there.}
+Dialogue: 0,0:00:45.84,0:00:46.31,Starless - Yukito,,0000,0000,0000,,Okay!
+Dialogue: 0,0:00:47.33,0:00:47.85,Starless - Marisa,,0000,0000,0000,,Also echt...{\ Jeez.}
+Dialogue: 0,0:00:53.63,0:00:58.43,SD-H.Logo,,0000,0000,0000,,{\pos(87,430)}
+Dialogue: 0,0:00:53.63,0:00:58.43,Starless Title,,0000,0000,0000,,Anwesen der Sittenlosigkeit{\ Mansion of Immorality}
+Dialogue: 0,0:00:53.63,0:00:58.43,Starless URL,,0000,0000,0000,,http://deutsche-doujins.to
+Dialogue: 0,0:00:59.23,0:01:00.57,Starless - Yukito,,0000,0000,0000,,Vier Millionen?!{\ Four million?!}
+Dialogue: 0,0:01:00.89,0:01:01.50,Starless - Marie,,0000,0000,0000,,Genau.{\ Yes.}
+Dialogue: 0,0:01:01.93,0:01:03.12,Starless - Marie,,0000,0000,0000,,Ist das zu wenig?{\ Does that dissatisfy you?}
+Dialogue: 0,0:01:03.57,0:01:04.84,Starless - Yukito,,0000,0000,0000,,N-Natürlich nicht!{\ O-Of course not!}
+Dialogue: 0,0:01:05.06,0:01:06.91,Starless - Yukito,,0000,0000,0000,,Das ist jenseits all meiner Vorstellungen!{\ Itâ€™s far beyond anything I could have imagined.}
+Dialogue: 0,0:01:07.37,0:01:10.41,Starless - Marie,,0000,0000,0000,,Oh? Ich dachte das stünde deutlich in der Stellenanzeige.{\ Oh? But I thought this was stated in the advert.}
+Dialogue: 0,0:01:10.99,0:01:13.79,Starless - Marie,,0000,0000,0000,,Zwei Wochen als hauseigener Diener.{\ Two weeks as a live-in servant.}
+Dialogue: 0,0:01:13.96,0:01:16.02,Starless - Marie,,0000,0000,0000,,Bei einer Vergütung von 4 000 000 Yen.{\ Compensation is four million yen.}
+Dialogue: 0,0:01:17.08,0:01:19.73,Starless - Yukito,,0000,0000,0000,,... Ich dachte es wären 400 000 ...{\ ...I thought it was four hundred thousand yen...}
+Dialogue: 0,0:01:20.40,0:01:23.09,Starless - Yukito,,0000,0000,0000,,Und selbst das wäre ein Segen für einen Studenten.{\ And even that is a fortune to a college student.}
+Dialogue: 0,0:01:24.62,0:01:27.37,Starless - Marie,,0000,0000,0000,,Wir Mamiyas könnten niemals so geizig sein.{\ Mamiya would never be so cheap.}
+Dialogue: 0,0:01:27.81,0:01:33.79,Starless - Marie,,0000,0000,0000,,Hier, so tief in den Bergen, haben uns schon viele Bedienstete verlassen. Wir sind also durchaus gewillt ein solchen Betrag zu zahlen.{\ We are deep in the mountains and our servants tend to quit on us, so weâ€™re prepared to offer a sizeable salary.}
+Dialogue: 0,0:01:33.97,0:01:38.10,Starless - Marie,,0000,0000,0000,,Das heißt... natürlich nur, wenn du den Eignungstest bestehst.{\ Well, this only concerns you if you pass our entrance test.}
+Dialogue: 0,0:01:38.38,0:01:39.89,Starless - Yukito,,0000,0000,0000,,Eignungs...test?{\ Entrance... test?}
+Dialogue: 0,0:01:40.27,0:01:42.31,Starless - Marie,,0000,0000,0000,,Heute haben wir zwei Bewerber.{\ We have two applicants today.}
+Dialogue: 0,0:01:42.39,0:01:45.20,Starless - Marie,,0000,0000,0000,,Eine weitere Bewerberin wird gerade von meinen Töchtern interviewt.{\ The other applicant is currently being interviewed by my daughters.}
+Dialogue: 0,0:01:45.95,0:01:52.74,Starless - Marie,,0000,0000,0000,,Egal wie viel Geld wir auch haben, wir verschwenden es nicht für nutzlose Angestellte.{\ No matter how much money we have, we would rather not waste it on useless employees.}
+Dialogue: 0,0:01:52.98,0:01:53.57,Starless - Yukito,,0000,0000,0000,,Natürlich...{\ Yeah...}
+Dialogue: 0,0:01:53.95,0:01:55.51,Starless - Marie,,0000,0000,0000,,Die Prüfung ist nichts besonderes.{\ It's not a big deal.}
+Dialogue: 0,0:01:55.73,0:02:00.34,Starless - Marie,,0000,0000,0000,,Die Arbeit ist körperlich sehr anstrengend.\NDeshalb werden wir dich eines Gesundheitstests unterziehen.{\ This job is very physical, so weâ€™re just giving you a health exam.}
+Dialogue: 0,0:02:00.44,0:02:01.02,Starless - Yukito,,0000,0000,0000,,Ist gut...{\ Oh...}
+Dialogue: 0,0:02:01.20,0:02:04.33,Starless - Marie,,0000,0000,0000,,Also dann... zieh dich aus und zeig mir wie du masturbierst.{\ So... take off your clothes and masturbate for me.}
+Dialogue: 0,0:02:05.15,0:02:06.34,Starless - Yukito,,0000,0000,0000,,Mastur...bieren?{\ Mastur... bate?}
+Dialogue: 0,0:02:06.86,0:02:10.98,Starless - Marie,,0000,0000,0000,,Ganz recht. Alle Beschäftigten im Hause Mamiya müssen diesen wichtigen Test ablegen.{\ Correct. Mamiyaâ€™s employees are always given this test.}
+Dialogue: 0,0:02:11.28,0:02:13.86,Starless - Marie,,0000,0000,0000,,So können wir ihre Ausdauer bestimmen.{\ So that we can observe their body's endurance.}
+Dialogue: 0,0:02:18.12,0:02:20.59,Starless - Marie,,0000,0000,0000,,Du bist gar nicht mal schlecht bestückt...{\ You have a fairly nice item there.}
+Dialogue: 0,0:02:20.99,0:02:23.62,Starless - Marie,,0000,0000,0000,,Leider kann man kaum was sehen, wenn er so schlaff ist.{\ Unfortunately, itâ€™s a bit covered.}
+Dialogue: 0,0:02:23.82,0:02:27.21,Starless - Yukito,,0000,0000,0000,,Ähm... Könnten wir es hierbei bleiben lassen?{\ Um... Will you please let me stop here?}
+Dialogue: 0,0:02:27.52,0:02:28.56,Starless - Marie,,0000,0000,0000,,Natürlich nicht.{\ No, I wonâ€™t.}
+Dialogue: 0,0:02:28.81,0:02:32.88,Starless - Marie,,0000,0000,0000,,Um die Vitalität zu überprüfen, muss ich ihn erigiert sehen.{\ To check its health, I must see it erect.}
+Dialogue: 0,0:02:33.59,0:02:35.81,Starless - Yukito,,0000,0000,0000,,Das ist leichter gesagt als getan...{\ Thatâ€™s easier said than done...}
+Dialogue: 0,0:02:37.32,0:02:38.08,Starless - Marie,,0000,0000,0000,,Ein guter Punkt.{\ Good point.}
+Dialogue: 0,0:02:38.57,0:02:40.88,Starless - Marie,,0000,0000,0000,,Ich schätze es ist schwer es ganz allein zu tun.{\ I suppose doing this alone is difficult.}
+Dialogue: 0,0:02:41.53,0:02:42.75,Starless - Marie,,0000,0000,0000,,Mikako-san?{\ Mikako-san?}
+Dialogue: 0,0:02:43.57,0:02:44.27,Starless - Mikako,,0000,0000,0000,,Ja...{\ Yes...}
+Dialogue: 0,0:02:47.44,0:02:49.87,Starless - Marie,,0000,0000,0000,,Das ist Nonohara Mikako-san.{\ This is Nonohara Mikako-san.}
+Dialogue: 0,0:02:51.01,0:02:56.71,Starless - Marie,,0000,0000,0000,,Mikako-san, könntest du bitte Sawatari-san deinen nackten Körper zeigen?{\ Hey, Mikako-san, could you show Sawatari-san here your naked body?}
+Dialogue: 0,0:02:56.82,0:02:57.54,Starless - Yukito,,0000,0000,0000,,Was?!{\ Huh?!}
+Dialogue: 0,0:02:58.52,0:02:59.64,Starless - Mikako,,0000,0000,0000,,Sehr gerne.{\ Very well.}
+Dialogue: 0,0:03:04.29,0:03:05.87,Starless - Yukito,,0000,0000,0000,,Halt warte...{\ Wait... um...}
+Dialogue: 0,0:03:06.20,0:03:10.81,Starless - Marie,,0000,0000,0000,,Oh, Sawatari-san. Ist das etwa das erste mal, dass du einen nackten Frauenkörper zu Gesicht bekommst?{\ Oh, Sawatari-san, is this the first time youâ€™ve seen a naked woman in person?}
+Dialogue: 0,0:03:11.20,0:03:13.64,Starless - Marie,,0000,0000,0000,,Dachte wirklich nicht, dass du noch Jungfrau bist.{\ You didnâ€™t strike me as being a virgin.}
+Dialogue: 0,0:03:13.78,0:03:15.56,Starless - Yukito,,0000,0000,0000,,Nein... also ich...{\ No... well, I...}
+Dialogue: 0,0:03:15.66,0:03:16.60,Starless - Marie,,0000,0000,0000,,Sieh genau hin.{\ Now, look.}
+Dialogue: 0,0:03:17.14,0:03:21.88,Starless - Marie,,0000,0000,0000,,Ihr Fleisch ist zwar etwas schlaff, aber ihr Körper hat noch genug Pepp in sich, findest du nicht?{\ Her flesh is a bit saggy, but her body still has plenty of life in it, no?}
+Dialogue: 0,0:03:22.69,0:03:25.90,Starless - Marie,,0000,0000,0000,,Als nächstes... Zeig uns wie du masturbierst.{\ Now, next, masturbate for us.}
+Dialogue: 0,0:03:27.37,0:03:28.89,Starless - Marie,,0000,0000,0000,,Das wirst du doch, oder?{\ Youâ€™ll do it, wonâ€™t you?}
+Dialogue: 0,0:03:31.48,0:03:33.15,Starless - Mikako,,0000,0000,0000,,V-Verstehe.{\ V-Very well.}
+Dialogue: 0,0:03:33.77,0:03:35.80,Starless - Mikako,,0000,0000,0000,,Wenn es das der Wunsch der Herrin ist.{\ If it is what the Mistress wishes of me.}
+Dialogue: 0,0:03:42.71,0:03:43.79,Starless - Marie,,0000,0000,0000,,Sehr schön.{\ Very nice.}
+Dialogue: 0,0:03:44.01,0:03:47.34,Starless - Marie,,0000,0000,0000,,Hier, sieh dir nur ihre feuchte Muschi an.{\ You can see her naughty pussy.}
+Dialogue: 0,0:03:48.51,0:03:52.48,Starless - Marie,,0000,0000,0000,,Mach schon Mikako-san. Bitte ihn darum.{\ Come now, Mikako-san, you must beg.}
+Dialogue: 0,0:03:53.48,0:04:01.57,Starless - Mikako,,0000,0000,0000,,Bitte... schau dabei zu wie ich masturbiere...\NBeobachte mich, bis du dich gut fühlst.{\ Please... watch me masturbate... Watch until you feel good.}
+Dialogue: 0,0:04:21.11,0:04:25.71,Starless - Marie,,0000,0000,0000,,Mikako-san achtet sehr auf ihre Bikini-Figur.\NAber dennoch hat sie schlecht rasierte Achselhöhlen.{\ Mikako-san takes care of her bikini line, but she still has hairy armpits.}
+Dialogue: 0,0:04:25.85,0:04:26.97,Starless - Marie,,0000,0000,0000,,Wie geschmacklos, oder?{\ How vulgar, no?}
+Dialogue: 0,0:04:27.82,0:04:28.56,Starless - Yukito,,0000,0000,0000,,N-Nein...{\ N-No.}
+Dialogue: 0,0:04:28.76,0:04:32.96,Starless - Marie,,0000,0000,0000,,Oh? Sawatari-san scheint sich nicht an deinen Achselhaaren zu stören.{\ Oh? Sawatari-san doesnâ€™t seem to mind your armpit hair.}
+Dialogue: 0,0:04:33.14,0:04:34.62,Starless - Marie,,0000,0000,0000,,Ist das nicht toll?{\ How nice for you.}
+Dialogue: 0,0:04:36.11,0:04:37.71,Starless - Mikako,,0000,0000,0000,,Das freut mich...{\ That pleases me.}
+Dialogue: 0,0:04:39.79,0:04:45.31,Starless - Mikako,,0000,0000,0000,,Ich bin zwar eine alte Frau, aber bitte genieße es mir zuzusehen.{\ Iâ€™m such an old lady, but please enjoy watching me.}
+Dialogue: 0,0:04:46.10,0:04:50.45,Starless - Marie,,0000,0000,0000,,Hey, Mikako-san.\NDu weißt, dass da ein Vibrator unter dem Kissen liegt, ja?{\ Hey, Mikako-san, there's a vibrator under the cushion, yes?}
+Dialogue: 0,0:04:50.64,0:04:51.42,Starless - Mikako,,0000,0000,0000,,Ja.{\ Yes.}
+Dialogue: 0,0:04:51.71,0:04:55.01,Starless - Marie,,0000,0000,0000,,Dann gib ihm eine bessere Show und benutz den Vibrator.{\ Then letâ€™s give him a better show with the vibrator.}
+Dialogue: 0,0:04:55.14,0:04:56.11,Starless - Mikako,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:01.27,0:05:04.02,Starless - Mikako,,0000,0000,0000,,Gut... So gut...{\ Yes... yes...}
+Dialogue: 0,0:05:05.50,0:05:06.53,Starless - Yukito,,0000,0000,0000,,Mikako-san...{\ Mikako-san...}
+Dialogue: 0,0:05:09.97,0:05:13.13,Starless - Marie,,0000,0000,0000,,Mikako-san, du darfst nicht einfach so kommen ohne um Erlaubnis zu fragen.{\ Mikako-san, you must inform us when youâ€™re cumming.}
+Dialogue: 0,0:05:13.30,0:05:14.10,Starless - Mikako,,0000,0000,0000,,Jawohl.{\ Yes, maâ€™am.}
+Dialogue: 0,0:05:22.44,0:05:27.53,Starless - Mikako,,0000,0000,0000,,Sawatari-san... bitte genieß meinen geilen Körper.{\ Sawatari-san... please enjoy watching Mikako being so naughty...}
+Dialogue: 0,0:05:28.11,0:05:29.58,Starless - Mikako,,0000,0000,0000,,Bitte sieh mir dabei zu...{\ Please watch me...}
+Dialogue: 0,0:05:30.49,0:05:31.69,Starless - Mikako,,0000,0000,0000,,Ich komme...{\ Iâ€™m cumming...}
+Dialogue: 0,0:05:40.35,0:05:41.45,Starless - Mikako,,0000,0000,0000,,Ich komme...{\ Iâ€™m cumming...}
+Dialogue: 0,0:05:42.52,0:05:45.23,Starless - Mikako,,0000,0000,0000,,Ich komme! Ich komme gleich!!{\ Iâ€™m cumming! Iâ€™m going to cum...!}
+Dialogue: 0,0:05:46.77,0:05:50.86,Starless - Mikako,,0000,0000,0000,,Komme!{\ Cumming!}
+Dialogue: 0,0:05:57.34,0:05:59.28,Starless - Marie,,0000,0000,0000,,Oh, wie wundervoll!{\ Oh, how wonderful!}
+Dialogue: 0,0:05:59.46,0:06:02.01,Starless - Marie,,0000,0000,0000,,So dickes Sperma!{\ Such thick semen!}
+Dialogue: 0,0:06:02.94,0:06:05.11,Starless - Marie,,0000,0000,0000,,Dein Körper hat also genug Potenzial...{\ Looks like your bodily potential passes.}
+Dialogue: 0,0:06:05.72,0:06:11.51,Starless - Marie,,0000,0000,0000,,Aber das zeigt mir noch nicht, ob du auch ein guter Bediensteter sein wirst.{\ But this doesnâ€™t quite show me how good an employee youâ€™ll be.}
+Dialogue: 0,0:06:12.15,0:06:13.42,Starless - Yukito,,0000,0000,0000,,Reicht das noch nicht?{\ You need more?}
+Dialogue: 0,0:06:14.61,0:06:16.60,Starless - Marie,,0000,0000,0000,,Eben konnte ich nur "sehen" wie es rauskommt.{\ I only saw it coming out.}
+Dialogue: 0,0:06:17.19,0:06:19.26,Starless - Marie,,0000,0000,0000,,Ich will es auch auch "schmecken"!{\ I need to taste it now.}
+Dialogue: 0,0:06:19.70,0:06:20.49,Starless - Yukito,,0000,0000,0000,,Schmecken?{\ Taste?}
+Dialogue: 0,0:06:23.00,0:06:26.85,Starless - Marie,,0000,0000,0000,,Der Geruch eines jungfräulichen Schwanzes. Jedesmal so erfrischend...{\ The smell of a virginâ€™s dick. So refreshing every time.}
+Dialogue: 0,0:06:38.12,0:06:39.99,Starless - Yukito,,0000,0000,0000,,Das... fühlt sich... gut an...{\ This... feels good...}
+Dialogue: 0,0:06:41.29,0:06:45.26,Starless - Marie,,0000,0000,0000,,Das war nur zum Aufwärmen... Jetzt geht's erst richtig los.{\ This is still just a warm-up. The real thing begins now.}
+Dialogue: 0,0:06:53.08,0:06:54.31,Starless - Marie,,0000,0000,0000,,Köstlich...{\ Delicious.}
+Dialogue: 0,0:06:55.21,0:06:57.15,Starless - Marie,,0000,0000,0000,,Dein Schwanz ist so köstlich.{\ Your dick is so delicious.}
+Dialogue: 0,0:07:01.73,0:07:05.47,Starless - Yukito,,0000,0000,0000,,Herrin... ich kann nicht mehr...\NIch werde noch kommen...{\ Mistress... I canâ€™t... Iâ€™m going to cum...}
+Dialogue: 0,0:07:05.56,0:07:06.61,Starless - Marie,,0000,0000,0000,,Nur zu...{\ Very well.}
+Dialogue: 0,0:07:06.70,0:07:07.92,Starless - Marie,,0000,0000,0000,,Komme in meinem Mund.{\ Cum in my mouth.}
+Dialogue: 0,0:07:33.73,0:07:37.52,Starless - Marie,,0000,0000,0000,,Der Geschmack eines jungfräulichen Schwanzes in meinem Mund... Einfach fantastisch! {\ The taste of a virginâ€™s dick and balls in my mouth... it's fantastic!}
+Dialogue: 0,0:07:40.52,0:07:43.51,Starless - Marie,,0000,0000,0000,,Sawatari-san, du siehst erschöpft aus.{\ Sawatari-san, you look tired.}
+Dialogue: 0,0:07:44.30,0:07:46.09,Starless - Marie,,0000,0000,0000,,Wir sind aber noch nicht fertig...{\ But we still arenâ€™t finished.}
+Dialogue: 0,0:07:47.95,0:07:50.52,Starless - Marie,,0000,0000,0000,,Du wolltest doch bestimmt schon immer mal echten Sex haben, ober?{\ Youâ€™ve always wanted to have sex, no?}
+Dialogue: 0,0:07:50.93,0:07:53.08,Starless - Marie,,0000,0000,0000,,Erlaube mir deinen Wunsch zu erfüllen.{\ Allow me to make that wish come true.}
+Dialogue: 0,0:07:56.38,0:07:58.88,Starless - Marie,,0000,0000,0000,,Wie fühlt sich meine Pussy an?{\ How does my pussy feel?}
+Dialogue: 0,0:07:59.55,0:08:00.60,Starless - Yukito,,0000,0000,0000,,So heiß...{\ So hot.}
+Dialogue: 0,0:08:01.13,0:08:02.87,Starless - Marie,,0000,0000,0000,,Unglaublich, Sawatari-san...{\ Amazing, Sawatari-san...}
+Dialogue: 0,0:08:02.98,0:08:06.15,Starless - Marie,,0000,0000,0000,,Du bist zwei mal gekommen und schon wieder so hart.{\ You came twice already, but youâ€™re still so hard.}
+Dialogue: 0,0:08:08.17,0:08:09.78,Starless - Marie,,0000,0000,0000,,Dann werde ich ihn mal reinstecken.{\ Then Iâ€™ll put it in.}
+Dialogue: 0,0:08:10.58,0:08:11.63,Starless - Marie,,0000,0000,0000,,Allerdings...{\ However... In a different hole.}
+Dialogue: 0,0:08:12.13,0:08:13.88,Starless - Marie,,0000,0000,0000,,...in ein anderes Loch!{\ However... In a different hole.}
+Dialogue: 0,0:08:14.75,0:08:15.49,Starless - Marie,,0000,0000,0000,,Ganz recht...{\ Yes.}
+Dialogue: 0,0:08:15.70,0:08:20.32,Starless - Marie,,0000,0000,0000,,Dein erstes mal wird mit meinem Arschloch sein!{\ Your first experience will be my butt-hole.}
+Dialogue: 0,0:08:23.06,0:08:26.06,Starless - Marie,,0000,0000,0000,,Sawatari-san, hiermit endet deine Jungfräulichkeit!{\ Now, Sawatari-san, this ends your virginity.}
+Dialogue: 0,0:08:30.96,0:08:33.65,Starless - Marie,,0000,0000,0000,,Sawatari-san, nun bist du keine Jungfrau mehr!{\ Sawatari-san, youâ€™re no longer a virgin.}
+Dialogue: 0,0:08:34.27,0:08:36.09,Starless - Marie,,0000,0000,0000,,Obwohl... noch nicht ganz...{\ Though not entirely...}
+Dialogue: 0,0:08:38.46,0:08:41.89,Starless - Yukito,,0000,0000,0000,,W-Warum so plötzlich... und dann noch in ihren Hintern?{\ Wh-Why so suddenly... in your butt?}
+Dialogue: 0,0:08:43.28,0:08:46.88,Starless - Marie,,0000,0000,0000,,Ich habe seit Tagen nicht mehr ordentlich kacken können.{\ I havenâ€™t pooped in days.}
+Dialogue: 0,0:08:47.67,0:08:52.63,Starless - Marie,,0000,0000,0000,,Wenn du auf diese Weise in mich stößt, glaube ich hilft mir das...{\ I think that if you thrust yourself into me like this, Iâ€™ll get better.}
+Dialogue: 0,0:08:52.71,0:08:55.14,Starless - Yukito,,0000,0000,0000,,Was sie nicht sagen...{\ Sie sagen das, als wäre es das natürlichste der Welt...}{\ Youâ€™re talking... like this is clinical...}
+Dialogue: 0,0:08:56.01,0:08:59.31,Starless - Marie,,0000,0000,0000,,Nun, wie für sich der Anus einer Frau an?{\ Well, how does a womanâ€™s anus feel?}
+Dialogue: 0,0:09:01.11,0:09:02.61,Starless - Yukito,,0000,0000,0000,,Viel zu gut...{\ It feels too good.}
+Dialogue: 0,0:09:04.31,0:09:07.24,Starless - Marie,,0000,0000,0000,,Es kann sich aber noch viel besser anfühlen.{\ But letâ€™s make it feel even better.}
+Dialogue: 0,0:09:09.01,0:09:11.54,Starless - Marie,,0000,0000,0000,,Oh, dieses Gefühl...{\ Oh, this sensation.}
+Dialogue: 0,0:09:12.82,0:09:14.03,Starless - Marie,,0000,0000,0000,,Ich halte es kaum noch aus...{\ I canâ€™t handle it.}
+Dialogue: 0,0:09:14.18,0:09:16.17,Starless - Marie,,0000,0000,0000,,Es fühlt sich an, als würde ich pausenlos riesige Haufen scheißen.{\ It feels like Iâ€™m taking a huge crap over and over.}
+Dialogue: 0,0:09:17.02,0:09:18.35,Starless - Marie,,0000,0000,0000,,Das ist so berauschend!{\ So exhilarating!}
+Dialogue: 0,0:09:20.11,0:09:24.87,Starless - Marie,,0000,0000,0000,,Sawatari-san, dein Schwanz passt perfekt in meinen Arsch!{\ Sawatari-san, your dick fits my anus perfectly!}
+Dialogue: 0,0:09:26.21,0:09:27.40,Starless - Marie,,0000,0000,0000,,Es fühlt sich großartig an.{\ It feels great.}
+Dialogue: 0,0:09:29.48,0:09:34.34,Starless - Marie,,0000,0000,0000,,So heftig wie du meinen Darm durchwühlst... Ich glaube ich komme gleich.{\ The intensity of it hitting my insides... I think Iâ€™m going to cum.}
+Dialogue: 0,0:09:35.08,0:09:36.87,Starless - Marie,,0000,0000,0000,,Ich liebe es.{\ I think I like it.}
+Dialogue: 0,0:09:37.11,0:09:38.44,Starless - Yukito,,0000,0000,0000,,Also das...{\ Well, thatâ€™s...}
+Dialogue: 0,0:09:39.81,0:09:42.86,Starless - Marie,,0000,0000,0000,,Diese Ekstase... Das ist der perfekte Stuhlgang...{\ This thrill... feels like a perfect defecation...}
+Dialogue: 0,0:09:43.29,0:09:44.81,Starless - Marie,,0000,0000,0000,,Mein Hintern liebt es!{\ My butt loves it!}
+Dialogue: 0,0:09:45.68,0:09:49.23,Starless - Marie,,0000,0000,0000,,Analsex zu haben, während man Verstopfung hat, ist einfach das Beste!{\ Anal sex while constipated is the best!}
+Dialogue: 0,0:09:51.35,0:09:54.04,Starless - Yukito,,0000,0000,0000,,Herrin, ich kann es nicht mehr einhalten...{\ Mistress, I canâ€™t hold back...}
+Dialogue: 0,0:09:54.89,0:09:56.22,Starless - Marie,,0000,0000,0000,,Noch ein bisschen...{\ Just a bit longer...}
+Dialogue: 0,0:09:56.47,0:09:58.31,Starless - Marie,,0000,0000,0000,,Halte es noch etwas zurück.{\ Hold back just a bit longer.}
+Dialogue: 0,0:09:59.21,0:10:01.90,Starless - Marie,,0000,0000,0000,,Dann komme ich auch.{\ Weâ€™re almost there.}
+Dialogue: 0,0:10:03.94,0:10:05.42,Starless - Marie,,0000,0000,0000,,So gut...{\ Yes...}
+Dialogue: 0,0:10:05.65,0:10:06.73,Starless - Marie,,0000,0000,0000,,Mein Arsch...{\ My butt...}
+Dialogue: 0,0:10:10.21,0:10:11.00,Starless - Yukito,,0000,0000,0000,,Ich bin an meinem Limit.{\ Iâ€™m at my limit.}
+Dialogue: 0,0:10:11.13,0:10:12.56,Starless - Yukito,,0000,0000,0000,,Ich komme!{\ Iâ€™m cumming!}
+Dialogue: 0,0:10:13.58,0:10:20.90,Starless - Marie,,0000,0000,0000,,Okay, Sawatari-san. Verpass mir deinen Sperma-Einlauf!{\ Very well. Sawatari-san, your semen enema... shoot me full!}
+Dialogue: 0,0:10:24.57,0:10:26.12,Starless - Marie,,0000,0000,0000,,Es kommt!{\ Itâ€™s coming!}
+Dialogue: 0,0:10:26.23,0:10:31.17,Starless - Marie,,0000,0000,0000,,Sawatari-sans heißes Sperma... in meinen Eingeweiden...{\ Sawatari-san, your hot semen... into my intestines...}
+Dialogue: 0,0:10:32.50,0:10:36.12,Starless - Marie,,0000,0000,0000,,So gut!{\ So good!}
+Dialogue: 0,0:10:39.73,0:10:43.65,Starless - Marie,,0000,0000,0000,,Sawatari-san, dein Schwanz wird mir gute Dienste erweisen.{\ Sawatari-san, your dick will come in very handy.}
+Dialogue: 0,0:10:44.65,0:10:45.82,Starless - Marie,,0000,0000,0000,,Du bist engagiert.{\ Youâ€™re hired.}
+Dialogue: 0,0:10:47.44,0:10:50.55,Starless - Marika,,0000,0000,0000,,Mutter, wir sind mit unserem Interview fertig.{\ Mother, weâ€™ve finished our interview.}
+Dialogue: 0,0:10:50.87,0:10:53.14,Starless - Marie,,0000,0000,0000,,Und, wie lief's?{\ How were things on your end?}
+Dialogue: 0,0:10:53.52,0:10:54.86,Starless - Marika,,0000,0000,0000,,Wir glauben sie ist ein guter Fang.{\ We think sheâ€™s a good match.}
+Dialogue: 0,0:10:55.19,0:10:57.38,Starless - Marie,,0000,0000,0000,,Um... ihr Name ist?{\ Um... your name is?}
+Dialogue: 0,0:10:57.61,0:10:59.08,Starless - Marika,,0000,0000,0000,,Mitarai Yuuna.
+Dialogue: 0,0:10:59.28,0:11:01.36,Starless - Marika,,0000,0000,0000,,Ihre Oberweite ist mehr als zufriedenstellend.{\ Her bust size is more than satisfactory.}
+Dialogue: 0,0:11:01.58,0:11:03.32,Starless - Marika,,0000,0000,0000,,Und ihre Pussy ist richtig hübsch.{\ And her pussy was also pretty.}
+Dialogue: 0,0:11:03.61,0:11:07.31,Starless - Marisa,,0000,0000,0000,,Aber sie hatte sich die Schamhaare nicht rasiert,\Nalso haben wir sie mit Wachsstreifen entfernt.{\ But she hadnâ€™t shaved her pubes, so we waxed them off.}
+Dialogue: 0,0:11:07.49,0:11:10.08,Starless - Marie,,0000,0000,0000,,Herrje, ihr dürft doch nicht so grausame Dinge machen.{\ Oh dear, you mustnâ€™t do such cruel things.}
+Dialogue: 0,0:11:10.25,0:11:13.38,Starless - Marie,,0000,0000,0000,,Mir scheint, wir haben soeben zwei großartige Angestellte gefunden...{\ But it seems both of them are great employees.}
+Dialogue: 0,0:11:21.92,0:11:22.57,Starless - Yukito,,0000,0000,0000,,Hmm...{\ Huh...}
+Dialogue: 0,0:11:22.95,0:11:24.79,Starless - Sachie,,0000,0000,0000,,Ah, du bist aufgewacht...{\ Ah, youâ€™re awake, I see.}
+Dialogue: 0,0:11:26.15,0:11:27.61,Starless - Yukito,,0000,0000,0000,,Häh... wo bin ich?{\ Um... where am I?}
+Dialogue: 0,0:11:27.99,0:11:29.01,Starless - Sachie,,0000,0000,0000,,In meinem Zimmer.{\ My room.}
+Dialogue: 0,0:11:29.68,0:11:31.21,Starless - Sachie,,0000,0000,0000,,Ich bin Asagiri Sachie.{\ Iâ€™m Asagiri Sachie.}
+Dialogue: 0,0:11:31.59,0:11:32.70,Starless - Sachie,,0000,0000,0000,,Schön dich kennen zu lernen.{\ Nice to meet you.}
+Dialogue: 0,0:11:33.20,0:11:35.86,Starless - Sachie,,0000,0000,0000,,Sawatari-kun, kennst du schon Mitarai-san?{\ Sawatari-kun, do you know Mitarai-san?}
+Dialogue: 0,0:11:36.27,0:11:39.62,Starless - Yukito,,0000,0000,0000,,Ist sie etwa die Bewerberin, die getrennt von mir interviewt wurde?{\ She was the other applicant who was interviewed separately.}
+Dialogue: 0,0:11:40.34,0:11:42.60,Starless - Yuuna,,0000,0000,0000,,J-Ja, das stimmt.{\ Y-Yes, I was.}
+Dialogue: 0,0:11:43.08,0:11:47.02,Starless - Yuuna,,0000,0000,0000,,Aber ich habe das Bewusstsein verloren und erinnere mich kaum noch an etwas.{\ But I was a bit out of it â€“ I donâ€™t remember much.}
+Dialogue: 0,0:11:47.25,0:11:48.30,Starless - Sachie,,0000,0000,0000,,Dir geht's bald wieder gut.{\ Well, youâ€™ll be fine.}
+Dialogue: 0,0:11:48.46,0:11:49.55,Starless - Sachie,,0000,0000,0000,,Mach dir keine Sorgen.{\ Donâ€™t worry about it.}
+Dialogue: 0,0:11:49.73,0:11:50.57,Starless - Sachie,,0000,0000,0000,,Und du, Sawatari-kun...{\ And also...}
+Dialogue: 0,0:11:51.21,0:11:52.62,Starless - Sachie,,0000,0000,0000,,Wegen deinen Schamhaaren...{\ Sawatari-kun, your hair-down-there.}
+Dialogue: 0,0:11:52.83,0:11:56.21,Starless - Sachie,,0000,0000,0000,,Die Herrin hatte befohlen sie abzurasieren. Ich hoffe du verzeihst uns das.{\ Mistress ordered you to have it shaved. Please, I hope you understand.}
+Dialogue: 0,0:11:59.25,0:12:01.20,Starless - Sachie,,0000,0000,0000,,Zeit das Abendessen vorzubereiten.{\ Now, now, itâ€™s time to prepare for dinner.}
+Dialogue: 0,0:12:01.33,0:12:02.56,Starless - Sachie,,0000,0000,0000,,Gehen wir in den Speisesaal.{\ Letâ€™s go to the dining hall.}
+Dialogue: 0,0:12:15.76,0:12:20.72,Starless - Marie,,0000,0000,0000,,Jetzt da ich von diesem vorzüglichen Wein hatte, lasst uns mit dem Hauptgericht beginnen.{\ Now that Iâ€™ve had some delicious wine, letâ€™s have the main course.}
+Dialogue: 0,0:12:28.31,0:12:29.24,Starless - Kyouichi,,0000,0000,0000,,Hey, Mikako.
+Dialogue: 0,0:12:29.59,0:12:30.87,Starless - Mikako,,0000,0000,0000,,Ja, Kyouichi-sama?{\ Yes, Kyouichi-sama?}
+Dialogue: 0,0:12:31.52,0:12:35.78,Starless - Kyouichi,,0000,0000,0000,,Das betrifft dich nicht. Also pack dein Zeug und kümmer dich um mich!{\ This doesnâ€™t concern you, so hurry things along and take care of me.}
+Dialogue: 0,0:12:35.91,0:12:37.11,Starless - Mikako,,0000,0000,0000,,Sehr wohl.{\ Very well.}
+Dialogue: 0,0:12:38.86,0:12:43.51,Starless - Marie,,0000,0000,0000,,Kyouichi, er ist mein jüngstes Kind...\NVielleicht habe ich ihn zu sehr verwöhnt...{\ Kyouichi, perhaps itâ€™s because  heâ€™s the youngest child â€“ I think I spoiled him.}
+Dialogue: 0,0:12:44.10,0:12:46.50,Starless - Yukito,,0000,0000,0000,,Um... Ist das Dinner denn noch nicht zu Ende?{\ Um, didnâ€™t we just finish dinner?}
+Dialogue: 0,0:12:47.65,0:12:49.22,Starless - Marie,,0000,0000,0000,,Der nächste Gang... bist du!{\ The next course is you.}
+Dialogue: 0,0:12:50.52,0:12:52.93,Starless - Marie,,0000,0000,0000,,Nein, ich meine natürlich Mitarai-san.{\ No, I meant Mitarai-san.}
+Dialogue: 0,0:12:54.25,0:12:57.12,Starless - Marika,,0000,0000,0000,,Verzehrt es dich denn mitlerweile nicht?{\ Donâ€™t you feel a bit anxious right now?}
+Dialogue: 0,0:12:59.33,0:13:03.37,Starless - Marie,,0000,0000,0000,,Wir fanden in unserem Interview heraus, dass Mitarai noch Jungfrau ist.{\ Actually, I found in our interview that Mitarai was still a virgin.}
+Dialogue: 0,0:13:03.64,0:13:06.72,Starless - Marie,,0000,0000,0000,,Also dachte ich mir, wir geben ihr eine Begrüßungsfeier... genau hier.{\ So I was thinking of giving her a graduation ceremony right here.}
+Dialogue: 0,0:13:07.63,0:13:10.74,Starless - Marie,,0000,0000,0000,,Ihr Partner wird der fast-jungfräuliche Sawatari-san sein.{\ Her partner will be another almost-virgin, Sawatari-san.}
+Dialogue: 0,0:13:11.09,0:13:13.57,Starless - Yuuna,,0000,0000,0000,,W-Was soll das heißen?!{\ Wh-What are you saying?!}
+Dialogue: 0,0:13:15.52,0:13:17.23,Starless - Yuuna,,0000,0000,0000,,Ich kann mich nicht bewegen...{\ I canâ€™t move...}
+Dialogue: 0,0:13:18.25,0:13:22.02,Starless - Marie,,0000,0000,0000,,Wir haben dir etwas in den Wein getan. Es scheint allmählich zu wirken.{\ I mixed something in with your drink â€“ it seems to be taking effect.}
+Dialogue: 0,0:13:22.42,0:13:23.89,Starless - Marie,,0000,0000,0000,,Marika, Marisa.
+Dialogue: 0,0:13:24.44,0:13:25.91,Starless - Marie,,0000,0000,0000,,Legt Mitarai-san auf den Tisch.{\ Take Mitarai-san to the table.}
+Dialogue: 0,0:13:26.14,0:13:26.72,Starless - Marika,,0000,0000,0000,,Ja.{\ Yes.}
+Dialogue: 0,0:13:26.78,0:13:27.64,Starless - Marisa,,0000,0000,0000,,Gerne doch.{\ As you wish.}
+Dialogue: 0,0:13:32.17,0:13:34.25,Starless - Yuuna,,0000,0000,0000,,W-Warum tut ihr das?{\ Wh-Why are you doing this?}
+Dialogue: 0,0:13:34.55,0:13:36.37,Starless - Yuuna,,0000,0000,0000,,Ihr müsst verrückt sein.{\ You must be crazy.}
+Dialogue: 0,0:13:36.70,0:13:37.96,Starless - Marisa,,0000,0000,0000,,Ach, halt die Klappe.{\ Oh, shut up.}
+Dialogue: 0,0:13:38.37,0:13:41.30,Starless - Marisa,,0000,0000,0000,,Dieser Mann hier wird gleich dein Jungfernhäutchen zerreißen.{\ Youâ€™re going to have this man break your hymen.}
+Dialogue: 0,0:13:41.48,0:13:42.63,Starless - Marisa,,0000,0000,0000,,Du solltest uns dankbar sein!{\ You should thank us!}
+Dialogue: 0,0:13:43.09,0:13:47.83,Starless - Marika,,0000,0000,0000,,Zwei Jungfrauen sammeln die ersten Erfahrungen bei ihrem ersten schmerzhaften Liebesakt.{\ A virginal man and woman have their first taste of painful love.}
+Dialogue: 0,0:13:48.93,0:13:51.31,Starless - Marika,,0000,0000,0000,,Der Gedanke allein, lässt einen schon feucht werden...{\ Ahh, just the thought of it makes me wet}
+Dialogue: 0,0:13:51.41,0:13:55.20,Starless - Marisa,,0000,0000,0000,,Genau! So feucht, wie du heute morgen schon warst...{\ Yes, yes, you were soaking wet earlier.}
+Dialogue: 0,0:13:55.41,0:13:57.04,Starless - Yuuna,,0000,0000,0000,,Erzählt doch bitte nicht so komische Dinge...{\ Please, donâ€™t say strange things.}
+Dialogue: 0,0:13:57.19,0:13:59.09,Starless - Marisa,,0000,0000,0000,,Du willst Beweise?! Dann sieh her!{\ If you want proof, just look.}
+Dialogue: 0,0:13:59.67,0:14:01.90,Starless - Yuuna,,0000,0000,0000,,Das...?! Aber wie...?!{\ Is that... how did...?}
+Dialogue: 0,0:14:02.26,0:14:05.33,Starless - Marisa,,0000,0000,0000,,Denk an den Tee, den wir dir vor dem Interview zu trinken gaben.{The tea we had you drink before the interview. That's how.}
+Dialogue: 0,0:14:05.84,0:14:08.88,Starless - Marika,,0000,0000,0000,,Wir haben deine versteckten Begierden geweckt.{\ We released the sleeping desires in you.}
+Dialogue: 0,0:14:09.11,0:14:11.50,Starless - Marika,,0000,0000,0000,,Und enthüllen die lüsterne Schlampe, die in dir steckt.{\ We revealed your true colors as a lustful slut.}
+Dialogue: 0,0:14:11.68,0:14:13.31,Starless - Marisa,,0000,0000,0000,,Gib dich einfach deiner Lust hin.{\ You should resign yourself to it.}
+Dialogue: 0,0:14:13.49,0:14:15.71,Starless - Marisa,,0000,0000,0000,,Dieser Mann hat bereits einen Steifen und wartet auf dich.{\ This man is already hard and is waiting for you.}
+Dialogue: 0,0:14:15.87,0:14:16.85,Starless - Yuuna,,0000,0000,0000,,Nein!{\ No!}
+Dialogue: 0,0:14:17.66,0:14:22.57,Starless - Marie,,0000,0000,0000,,Hey... Wir sollten ihr etwas Zeit geben sich auf Sawatari-san vorzubereiten.{\ Hey, we should have her prepare herself to accept Sawatari-san.}
+Dialogue: 0,0:14:22.83,0:14:25.85,Starless - Marika,,0000,0000,0000,,Oh, Mutter, was für eine hervorragende Idee.{\ Oh, Mother, what a great idea.}
+Dialogue: 0,0:14:36.18,0:14:37.62,Starless - Marika,,0000,0000,0000,,Tu was dir gefällt.{\ Do as you wish.}
+Dialogue: 0,0:14:38.89,0:14:40.23,Starless - Yuuna,,0000,0000,0000,,Nein... Ich kann nicht...{\ No... I couldnâ€™t...}
+Dialogue: 0,0:14:51.51,0:14:55.47,Starless - Yuuna,,0000,0000,0000,,Alle schauen mir zu... Es ist so peinlich, aber...{\ Everyone is watching me... I should be embarrassed, but...}
+Dialogue: 0,0:14:58.68,0:15:00.31,Starless - Yuuna,,0000,0000,0000,,Ich kann meine Finger nicht aufhalten.{\ Yes... I canâ€™t stop my fingers.}
+Dialogue: 0,0:15:00.56,0:15:02.64,Starless - Yuuna,,0000,0000,0000,,Alle beobachten mich, aber...{\ People are watching, but...}
+Dialogue: 0,0:15:06.91,0:15:09.17,Starless - Marika,,0000,0000,0000,,Das wolltest du doch die ganze Zeit schon tun.{\ Youâ€™ve been wanting to do this the whole time.}
+Dialogue: 0,0:15:09.39,0:15:11.65,Starless - Marisa,,0000,0000,0000,,Wir haben nur deinen Sex-Schalter umgelegt.{\ Her sex-switch got turned on, I see.}
+Dialogue: 0,0:15:12.23,0:15:15.86,Starless - Marisa,,0000,0000,0000,,Mutter, wir müssen uns beeilen, sonst kommt sie noch von selbst!{\ Mother, we need to hurry this up before she cums on her own.}
+Dialogue: 0,0:15:16.53,0:15:19.27,Starless - Marie,,0000,0000,0000,,Mitarai-san scheint nun bereit zu sein.{\ Mitarai-san looks like sheâ€™s ready.}
+Dialogue: 0,0:15:19.43,0:15:21.62,Starless - Marie,,0000,0000,0000,,Jetzt bist du dran, Sawatari-san.{\ Now, Sawatari-san, itâ€™s your turn.}
+Dialogue: 0,0:15:22.24,0:15:27.87,Starless - Marie,,0000,0000,0000,,Ich will, dass ihr zwei gut zusammen arbeitet.\NAlso müssen wir an eurem Verhältnis arbeiten.{\ I want you two to be good coworkers, so we need to work on that relationship...}
+Dialogue: 0,0:15:27.92,0:15:29.53,Starless - Marie,,0000,0000,0000,,Das versteht ihr doch, oder?{\ You understand, no?}
+Dialogue: 0,0:15:29.70,0:15:31.30,Starless - Yukito,,0000,0000,0000,,Aber... Das hier...{\ But, this...}
+Dialogue: 0,0:15:31.42,0:15:35.34,Starless - Marisa,,0000,0000,0000,,Hör auf zu jammern und tu was man dir sagt!{\ Stop moaning and just do as we say!}
+Dialogue: 0,0:15:35.87,0:15:39.25,Starless - Marisa,,0000,0000,0000,,Wenn das so weitergeht, wird sie bald quieken und flehen\Nirgendeinen Schwanz in ihre Pussy geschoben zu bekommen.{\ At this rate, sheâ€™d squeal with joy at anyoneâ€™s dick being shoved in her!}
+Dialogue: 0,0:15:39.45,0:15:42.02,Starless - Marisa,,0000,0000,0000,,Alles was du tun musst, ist ihr diesen Wunsch zu erfüllen!{\ So all you need to do is fulfill that duty!}
+Dialogue: 0,0:15:42.24,0:15:44.60,Starless - Marisa,,0000,0000,0000,,Und zudem ist die deine Chance!{\ And itâ€™s your big chance to ditch your virginity too.}
+Dialogue: 0,0:15:45.19,0:15:48.36,Starless - Marika,,0000,0000,0000,,Hey, wenn du willst, können wir die Plätze tauschen.{\ Hey, if you want, I can trade places.}
+Dialogue: 0,0:15:49.07,0:15:53.86,Starless - Marie,,0000,0000,0000,,Sawatari-san... Du solltest dich beeilen, sonst verliert sie sich noch.{\ Come, Sawatari-san, you must hurry or something strange might happen.}
+Dialogue: 0,0:15:54.29,0:15:57.87,Starless - Marie,,0000,0000,0000,,Mitarai-san, du willst unbedingt Sex haben, oder?{\ Mitarai-san, you really want to experience sex, no?}
+Dialogue: 0,0:15:58.74,0:16:01.25,Starless - Yuuna,,0000,0000,0000,,S-Sex...
+Dialogue: 0,0:16:02.36,0:16:04.96,Starless - Marika,,0000,0000,0000,,Du willst wissen, wie sich ein echter Schwanz anfühlt, nicht wahr?{\ You want to know the feel of a dick, donâ€™t you?}
+Dialogue: 0,0:16:05.19,0:16:07.06,Starless - Yuuna,,0000,0000,0000,,J-Ja, das will ich.{\ Y-Yes, I do.}
+Dialogue: 0,0:16:07.24,0:16:10.88,Starless - Yuuna,,0000,0000,0000,,Sawatari-san... Bitte steck ihn rein.{\ Sawatari-san... please put it in.}
+Dialogue: 0,0:16:11.11,0:16:15.81,Starless - Yuuna,,0000,0000,0000,,Deinen Schwanz... steck ihn in meine Muschi...{\ Your dick... into my pussy...}
+Dialogue: 0,0:16:16.45,0:16:18.85,Starless - Yuuna,,0000,0000,0000,,Ich will ihn spüren können.{\ I want it inside.}
+Dialogue: 0,0:16:20.55,0:16:21.64,Starless - Yukito,,0000,0000,0000,,Dann stecke ich ihn rein.{\ Then Iâ€™m putting it in.}
+Dialogue: 0,0:16:25.00,0:16:26.63,Starless - Yuuna,,0000,0000,0000,,Er dringt in mich!{\ Itâ€™s coming in!}
+Dialogue: 0,0:16:26.69,0:16:29.75,Starless - Yuuna,,0000,0000,0000,,Sawatari-sans heißer...{\ Sawatari-sanâ€™s hot...}
+Dialogue: 0,0:16:29.85,0:16:32.34,Starless - Yuuna,,0000,0000,0000,,Mein erster Schwanz...{\ My first dick...}
+Dialogue: 0,0:16:32.60,0:16:33.85,Starless - Yukito,,0000,0000,0000,,Alles in Ordnung?{\ Are you okay?}
+Dialogue: 0,0:16:34.62,0:16:39.15,Starless - Yuuna,,0000,0000,0000,,Es fühlt sich seltsam an, aber... irgendwie gut... glaube ich...{\ It feels strange, but... good... I think...}
+Dialogue: 0,0:16:42.52,0:16:44.57,Starless - Marie,,0000,0000,0000,,Herzlichen Glückwunsch, ihr zwei.{\ Congratulations, you two.}
+Dialogue: 0,0:16:44.80,0:16:48.04,Starless - Marika,,0000,0000,0000,,Ihr erster Schwanz und seine erste Pussy... Genießt es, okay?{\ First dick and first pussy. Enjoy it, â€˜kay?}
+Dialogue: 0,0:16:49.00,0:16:53.95,Starless - Yuuna,,0000,0000,0000,,Es ist mein erstes mal, aber es fühlt sich jetzt schon so gut an...{\ Itâ€™s my first time... but it still feels so good...}
+Dialogue: 0,0:16:58.18,0:17:00.79,Starless - Marie,,0000,0000,0000,,Makoto-san, hast du alles im Kasten?{\ Makoto-san, all is well with the filming, yes?}
+Dialogue: 0,0:17:02.33,0:17:05.03,Starless - Makoto,,0000,0000,0000,,Ja. Ich habe hier ein paar hervorragende Schnappschüsse.{\ Yes. Iâ€™m getting some wonderful shots.}
+Dialogue: 0,0:17:10.33,0:17:11.18,Starless - Yuuna,,0000,0000,0000,,So gut.{\ Yes.}
+Dialogue: 0,0:17:11.26,0:17:13.61,Starless - Yuuna,,0000,0000,0000,,Dein Schwanz... steckt so tief...{\ Your dick... is hitting so deep...}
+Dialogue: 0,0:17:14.20,0:17:18.62,Starless - Yuuna,,0000,0000,0000,,Sawatari-sans Schwanz drückt gegen meine Gebärmutter.{\ Sawatari-sanâ€™s dick is hitting my uterus.}
+Dialogue: 0,0:17:19.95,0:17:21.05,Starless - Yuuna,,0000,0000,0000,,Wie herrlich...{\ So good.}
+Dialogue: 0,0:17:21.30,0:17:22.49,Starless - Yuuna,,0000,0000,0000,,Meine Muschi ist klatschnass.{\ My pussy is throbbing.}
+Dialogue: 0,0:17:23.12,0:17:25.55,Starless - Yuuna,,0000,0000,0000,,Sex fühlt sich ja so gut an!{\ Sex feels so good.}
+Dialogue: 0,0:17:26.22,0:17:28.75,Starless - Marie,,0000,0000,0000,,Du entpuppst dich ja als wahres Naturtalent.{\ Youâ€™re turning out to be a good specimen.}
+Dialogue: 0,0:17:28.91,0:17:32.31,Starless - Marie,,0000,0000,0000,,Mitarai-san, mach so weiter bis du einen Orgasmus hast.{\ Mitarai-san, you must keep this up until you climax.}
+Dialogue: 0,0:17:32.95,0:17:33.89,Starless - Yuuna,,0000,0000,0000,,Ja...
+Dialogue: 0,0:17:34.20,0:17:35.33,Starless - Yuuna,,0000,0000,0000,,So heiß...{\ So hot...}
+Dialogue: 0,0:17:35.66,0:17:38.35,Starless - Marika,,0000,0000,0000,,Gib dich einfach der Ekstase hin.{\ Just drown in your own ecstasy.}
+Dialogue: 0,0:17:42.11,0:17:45.00,Starless - Yuuna,,0000,0000,0000,,Härter... härter und tiefer bitte!{\ Harder... harder, deeper, please!}
+Dialogue: 0,0:17:45.25,0:17:47.58,Starless - Yuuna,,0000,0000,0000,,Verwüste meine Pussy!{\ Mess up my pussy!}
+Dialogue: 0,0:18:01.81,0:18:04.75,Starless - Yuuna,,0000,0000,0000,,Meine Pussy... sie schmilzt...{\ My pussy... itâ€™s melting...}
+Dialogue: 0,0:18:13.39,0:18:17.34,Starless - Yuuna,,0000,0000,0000,,Noch fester und tiefer zustoßen!{\ Harder... harder and deeper, please!}
+Dialogue: 0,0:18:21.20,0:18:24.17,Starless - Yukito,,0000,0000,0000,,Mitarai-san... Ich komme gleich.{\ Mitarai-san... Iâ€™m about to cum.}
+Dialogue: 0,0:18:25.81,0:18:27.57,Starless - Yuuna,,0000,0000,0000,,N-Nicht drinnen!{\ N-Not inside!}
+Dialogue: 0,0:18:27.73,0:18:31.44,Starless - Yuuna,,0000,0000,0000,,Bitte zieh ihn raus... spritz draußen ab...{\ Please, outside... cum outside...}
+Dialogue: 0,0:18:31.87,0:18:33.84,Starless - Yukito,,0000,0000,0000,,Ich kann ihn aber nicht rausziehen!{\ But I canâ€™t pull out.}
+Dialogue: 0,0:18:34.37,0:18:35.17,Starless - Yukito,,0000,0000,0000,,Ich komme!{\ Itâ€™s cumming.}
+Dialogue: 0,0:18:35.42,0:18:37.06,Starless - Yuuna,,0000,0000,0000,,Nein, rausziehen!{\ No, pull out!}
+Dialogue: 0,0:18:37.57,0:18:39.16,Starless - Yukito,,0000,0000,0000,,Aber deine Beine halten mich fest.{\ But your legs are holding me in.}
+Dialogue: 0,0:18:39.23,0:18:42.11,Starless - Yuuna,,0000,0000,0000,,Aber dann werde ich schwanger!{\ But Iâ€™ll get pregnant!}
+Dialogue: 0,0:18:43.38,0:18:46.07,Starless - Marisa,,0000,0000,0000,,Sich zurück zu halten ist schlecht für die Gesundheit.{\ Holding back is bad for your health.}
+Dialogue: 0,0:18:49.49,0:18:50.44,Starless - Yuuna,,0000,0000,0000,,Ich komme!{\ Itâ€™s coming!}
+Dialogue: 0,0:18:50.60,0:18:53.13,Starless - Yuuna,,0000,0000,0000,,Ich komme!{\ Itâ€™s coming!}
+Dialogue: 0,0:18:53.98,0:18:59.76,Starless - Yuuna,,0000,0000,0000,,Sawatari-sans Samen... Es pulsiert in mir!{\ Sawatari-sanâ€™s semen... itâ€™s pulsing inside!}
+Dialogue: 0,0:19:00.27,0:19:03.19,Starless - Yuuna,,0000,0000,0000,,Aber es fühlt sich so guuut an.{\ But it feels good.}
+Dialogue: 0,0:19:03.41,0:19:06.85,Starless - Yuuna,,0000,0000,0000,,Sex ist das Beste!{\ Sex is perfect.}
+Dialogue: 0,0:19:13.22,0:19:15.33,Starless - Marisa,,0000,0000,0000,,Das haben sie aber gut gemacht, nicht wahr Mutter?{\ That was very good, Mother.}
+Dialogue: 0,0:19:15.51,0:19:18.15,Starless - Marika,,0000,0000,0000,,Ihr erstes mal war ein voller Erfolg.{\ Their first time was a big success.}
+Dialogue: 0,0:19:18.97,0:19:19.63,Starless - Marie,,0000,0000,0000,,Ja.{\ Yes.}
+Dialogue: 0,0:19:18.31,0:19:25.97,Starless sign0,,0000,0000,0000,,{\frz357.272\move(223,206,270,260,1000)\fad(0,2000)}{\ Sawatari Yukito}
+Dialogue: 0,0:19:18.31,0:19:25.97,Starless sign0,,0000,0000,0000,,{\frz348.566\move(297,284,343,350,1000)\fad(0,2000)}{\ Mitarai Yuuna}
+Dialogue: 0,0:19:20.05,0:19:23.60,Starless - Marie,,0000,0000,0000,,Ich kann es gar nicht abwarten ihnen weitere Lektionen zu erteilen.{\ I look forward to the lessons for the party.}
+Dialogue: 0,0:19:23.61,0:21:02.84,SubDESU-H Watermark,,0000,0000,0000,,{\pos(658,12)}{\ www.SubDESU-H.net}
+Dialogue: 0,0:21:02.84,0:21:07.84,SubDESU-H Watermark,,0000,0000,0000,,

@@ -1,0 +1,344 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build397  Sep 13 2015  18:34:34
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00222BFF,&H000000FF,&H002B2082,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,65,&H00FFFFFF,&H000000FF,&HFF000000,&H00000000,0,0,0,0,100,100,0,0,1,0.1,4,8,20,20,20,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:02.14,0:02:09.07,Grupa,,0,0,0,,{\be1\fad(649,0)}Nyan
+Dialogue: 0,0:02:02.23,0:02:09.02,Anime,,0,0,0,,{\blur3\fad(392,0)}Ningyo Tsukai
+Dialogue: 0,0:00:03.65,0:00:11.32,Default (i),,0,0,0,,{\be1}W XXII wieku przez eksplozję demograficzną\Ni kurczące się zasoby naturalne...
+Dialogue: 0,0:00:11.32,0:00:19.04,Default (i),,0,0,0,,{\be1}Ludzkość zaczęła ekspansję\Npod ziemią, w oceny i kosmos.
+Dialogue: 0,0:00:32.30,0:00:40.19,Default (i),,0,0,0,,{\be1}Eksplozji demograficznej towarzyszyło\Nwynalezienie systemów wirtualnych...
+Dialogue: 0,0:00:40.19,0:00:52.20,Default (i),,0,0,0,,{\be1}A wynalezienie nowych materiałów przez firmy\Nbio-technologiczne dało początek robotom.
+Dialogue: 0,0:00:52.20,0:00:53.30,Default (i),,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:01:02.24,0:01:03.44,Default,,0,0,0,,{\be1}Zatrzymaj się!
+Dialogue: 0,0:01:04.80,0:01:09.63,Default,,0,0,0,,{\be1}Zatrzymaj się w ciągu pięciu\Nsekund albo zostaniesz zestrzelony!
+Dialogue: 0,0:01:24.63,0:01:25.84,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:01:26.93,0:01:28.03,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:01:29.34,0:01:35.11,Default,,0,0,0,,{\be1}Zniszczyli androida, mają wyrzutnię rakiet.
+Dialogue: 0,0:01:45.29,0:01:59.48,Default (i),,0,0,0,,{\be1}Roboty zaczęto używać w wielu niebezpiecznych\Nmiejscach, jak również do popełniania zbrodni.
+Dialogue: 0,0:02:36.41,0:02:37.35,Default,,0,0,0,,{\be1}Co chcesz?
+Dialogue: 0,0:03:17.61,0:03:20.35,Default,,0,0,0,,{\be1}Zabawimy się.
+Dialogue: 0,0:03:26.25,0:03:29.38,Default,,0,0,0,,{\be1}Radzę się nie ruszać.
+Dialogue: 0,0:03:37.85,0:03:39.53,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:04:02.80,0:04:04.52,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:04:07.26,0:04:10.60,Default,,0,0,0,,{\be1}Dział badań miał rację.
+Dialogue: 0,0:04:14.33,0:04:16.24,Default,,0,0,0,,{\be1}Przydatne to.
+Dialogue: 0,0:04:47.20,0:04:50.94,Default,,0,0,0,,{\be1}Brawo, opanowałaś niszczenie\Nbloków kamiennych.
+Dialogue: 0,0:04:53.64,0:05:00.03,Default,,0,0,0,,{\be1}Jeśli uda ci się rozwalić ten kawałek, to\Nbędziesz dobrze radzić sobie w androidzie.
+Dialogue: 0,0:05:00.45,0:05:02.95,Default,,0,0,0,,{\be1}Twój android będzie mógł\Nwysyłać impuls elektromagnetyczny.
+Dialogue: 0,0:05:03.45,0:05:06.30,Default,,0,0,0,,{\be1}To wymagana umiejętność, żeby przetrwać.
+Dialogue: 0,0:05:13.29,0:05:15.59,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:05:17.26,0:05:20.42,Default,,0,0,0,,{\be1}Jeszcze sporo jej brakuje.
+Dialogue: 0,0:05:24.39,0:05:27.76,Default,,0,0,0,,{\be1}Jesteś coraz lepsza w walce.
+Dialogue: 0,0:05:27.76,0:05:32.10,Default,,0,0,0,,{\be1}Choć nadal sporo ci brakuje,\Nto narazie nadrobisz to swoją szybkością.
+Dialogue: 0,0:05:44.51,0:05:46.09,Default,,0,0,0,,{\be1}I co teraz?
+Dialogue: 0,0:05:46.71,0:05:48.49,Default,,0,0,0,,{\be1}Zagapiłam się.
+Dialogue: 0,0:05:48.91,0:05:49.95,Default,,0,0,0,,{\be1}Poddajesz się?
+Dialogue: 0,0:05:54.55,0:05:58.82,Default,,0,0,0,,{\be1}Jeszcze trochę będę musiała ci pomagać.
+Dialogue: 0,0:05:58.82,0:06:00.56,Default,,0,0,0,,{\be1}Jasne, demonie.
+Dialogue: 0,0:06:00.56,0:06:03.24,Default,,0,0,0,,{\be1}Spróbuj się wyrwać.
+Dialogue: 0,0:06:06.88,0:06:12.69,Default,,0,0,0,,{\be1}Pośpiesz się albo zrobię to.
+Dialogue: 0,0:06:14.04,0:06:15.61,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:06:16.42,0:06:19.03,Default,,0,0,0,,{\be1}Masz spore piersi.
+Dialogue: 0,0:06:19.72,0:06:20.91,Default,,0,0,0,,{\be1}Sandy!
+Dialogue: 0,0:06:20.91,0:06:23.13,Default,,0,0,0,,{\be1}Spróbuj się uwolnić.
+Dialogue: 0,0:06:23.13,0:06:23.99,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:06:26.75,0:06:28.45,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:06:28.45,0:06:34.71,Default,,0,0,0,,{\be1}Myślisz, że gwałciciel by przestał?
+Dialogue: 0,0:06:49.01,0:06:52.52,Default,,0,0,0,,{\be1}A tobie co? Podniecasz się?
+Dialogue: 0,0:06:53.38,0:06:55.87,Default,,0,0,0,,{\be1}No bo mnie dotykasz.
+Dialogue: 0,0:07:03.08,0:07:05.57,Default,,0,0,0,,{\be1}Miałem przyjść po ciebie.
+Dialogue: 0,0:07:08.16,0:07:09.80,Default,,0,0,0,,{\be1}Już idę.
+Dialogue: 0,0:07:12.26,0:07:14.30,Default,,0,0,0,,{\be1}Długo tu stoisz?
+Dialogue: 0,0:07:14.30,0:07:15.78,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:07:30.81,0:07:33.22,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:07:35.89,0:07:37.15,Default,,0,0,0,,{\be1}Jak jej idzie?
+Dialogue: 0,0:07:37.15,0:07:43.79,Default,,0,0,0,,{\be1}Po dzisiejszym eksperymencie\Nandroid Mimi będzie gotowy.
+Dialogue: 0,0:07:43.79,0:07:48.82,Default,,0,0,0,,{\be1}Nasz jest inny od strażniczych\Nczy tych z systemem wirtualnym.
+Dialogue: 0,0:07:49.30,0:07:56.25,Default,,0,0,0,,{\be1}Będzie przesyłał wszelkie odczucia,\Nod zmysłów po dotyk.
+Dialogue: 0,0:07:56.61,0:08:01.67,Default,,0,0,0,,{\be1}Dzięki Rice będzie bardziej\Nzaawansowany niż zwykłe androidy.
+Dialogue: 0,0:08:02.02,0:08:05.59,Default,,0,0,0,,{\be1}To zasługa całej ekipy nie tylko Riki.
+Dialogue: 0,0:08:05.88,0:08:10.29,Default,,0,0,0,,{\be1}Podłączmy Rikę do Mimi.
+Dialogue: 0,0:08:13.66,0:08:15.93,Default,,0,0,0,,{\be1}Fale mózgowe i puls w normie.
+Dialogue: 0,0:08:26.54,0:08:32.11,Default,,0,0,0,,{\be1}Trzeba przyznać, że Rika niezwykle\Ndobrze steruje androidami.
+Dialogue: 0,0:08:32.11,0:08:33.20,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:08:33.61,0:08:42.13,Default,,0,0,0,,{\be1}Nadal nie wiemy dlaczego najlepsi operatorzy\Nznajdują się w wieku około 19 lat, ale..
+Dialogue: 0,0:08:42.13,0:08:49.66,Default,,0,0,0,,{\be1}Rika jest szczególnie uzdolniona.
+Dialogue: 0,0:08:49.66,0:08:52.89,Default,,0,0,0,,{\be1}Najwidoczniej tak stare jak ja nie nadają się.
+Dialogue: 0,0:08:53.93,0:08:56.31,Default,,0,0,0,,{\be1}Tego nie powiedziałem.
+Dialogue: 0,0:09:10.07,0:09:15.15,Default,,0,0,0,,{\be1}Dla Masatoshiego to za wiele,\Na jest jeszcze seksowniejsza, gdy się rusza.
+Dialogue: 0,0:09:15.15,0:09:17.75,Default,,0,0,0,,{\be1}Jest bardziej kobieca od Riki.
+Dialogue: 0,0:09:25.00,0:09:29.27,Default,,0,0,0,,{\be1}Czuje się jakby była naga.
+Dialogue: 0,0:09:32.84,0:09:37.02,Default,,0,0,0,,{\be1}Masatoshi, dotknij ją,\Ntrzeba sprawdzić sensory dotyku.
+Dialogue: 0,0:09:39.62,0:09:41.09,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:09:44.08,0:09:45.58,Default,,0,0,0,,{\be1}Tak jest dobrze?
+Dialogue: 0,0:09:45.58,0:09:48.61,Default,,0,0,0,,{\be1}Teraz dolne partie.
+Dialogue: 0,0:09:50.35,0:09:54.49,Default (i),,0,0,0,,{\be1}Dolne? Nawet prawdziwej\NRiki nigdy nie dotknąłem.
+Dialogue: 0,0:10:01.86,0:10:03.04,Default,,0,0,0,,{\be1}Żyjesz?
+Dialogue: 0,0:10:04.37,0:10:05.75,Default,,0,0,0,,{\be1}Jakoś tak.
+Dialogue: 0,0:10:06.80,0:10:12.26,Default,,0,0,0,,{\be1}Rika, uważaj, jesteś\Ndużo silniejsza niż człowiek.
+Dialogue: 0,0:10:13.51,0:10:15.72,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:10:28.42,0:10:30.49,Default,,0,0,0,,{\be1}Już jestem.
+Dialogue: 0,0:10:30.49,0:10:34.03,Default,,0,0,0,,{\be1}Walnęłaś Masatoshiego sterując Mimi?
+Dialogue: 0,0:10:35.20,0:10:37.41,Default,,0,0,0,,{\be1}Ale chyba nic mu nie jest?
+Dialogue: 0,0:10:37.41,0:10:40.97,Default,,0,0,0,,{\be1}Ledwie go odepchnęłam.
+Dialogue: 0,0:10:40.97,0:10:43.37,Default,,0,0,0,,{\be1}To pokazuje jak silna jest Mimi.
+Dialogue: 0,0:10:43.37,0:10:46.16,Default,,0,0,0,,{\be1}To do ciebie niepodobne, rozchmurz się.
+Dialogue: 0,0:10:46.78,0:10:49.59,Default,,0,0,0,,{\be1}Jedźmy do domu.
+Dialogue: 0,0:10:55.69,0:10:57.43,Default,,0,0,0,,{\be1}To ja.
+Dialogue: 0,0:10:57.85,0:11:01.31,Default,,0,0,0,,{\be1}Właśnie wyjechały,\Nporwijcie ją, gdy będzie sama.
+Dialogue: 0,0:11:01.96,0:11:04.27,Default,,0,0,0,,{\be1}Masatoshi poszedł do domu?
+Dialogue: 0,0:11:04.27,0:11:09.29,Default,,0,0,0,,{\be1}Nie, ma jeszcze trochę pracy.
+Dialogue: 0,0:11:09.29,0:11:11.69,Default,,0,0,0,,{\be1}Pracuś z niego.
+Dialogue: 0,0:11:12.45,0:11:15.80,Default,,0,0,0,,{\be1}Długo jesteście ze sobą?\NBzykacie się już?
+Dialogue: 0,0:11:16.77,0:11:19.82,Default,,0,0,0,,{\be1}Co? Nic takiego nas nie łączy.
+Dialogue: 0,0:11:19.82,0:11:23.29,Default,,0,0,0,,{\be1}Poważnie? Ale ty jesteś powolna.
+Dialogue: 0,0:11:34.31,0:11:36.76,Default,,0,0,0,,{\be1}Przyjadę po ciebie rano.
+Dialogue: 0,0:11:36.76,0:11:38.05,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:11:38.05,0:11:41.47,Default,,0,0,0,,{\be1}Jutro porządnie cię wymęczę.
+Dialogue: 0,0:11:41.90,0:11:44.49,Default,,0,0,0,,{\be1}Sandy!
+Dialogue: 0,0:12:01.08,0:12:02.87,Default,,0,0,0,,{\be1}Co to za wariat?!
+Dialogue: 0,0:12:19.40,0:12:20.95,Default,,0,0,0,,{\be1}I po sprawie.
+Dialogue: 0,0:12:22.35,0:12:26.64,Default (i),,0,0,0,,{\be1}Czyżby to on był porywaczem kobiet?
+Dialogue: 0,0:12:26.98,0:12:29.06,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:12:29.65,0:12:30.48,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:12:53.70,0:12:59.43,Default,,0,0,0,,{\be1}Rika, Sandy cię dzisiaj nie podwiozła, prawda?
+Dialogue: 0,0:12:59.88,0:13:02.35,Default,,0,0,0,,{\be1}Najwyraźniej zaginęła.
+Dialogue: 0,0:13:03.21,0:13:04.76,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:13:05.13,0:13:11.35,Default,,0,0,0,,{\be1}Mogła mieć wypadek,\Nbo nie ma jej samochodu.
+Dialogue: 0,0:13:11.35,0:13:14.77,Default,,0,0,0,,{\be1}Normalnie zadzwoniłaby.
+Dialogue: 0,0:13:14.77,0:13:22.06,Default,,0,0,0,,{\be1}Może porywacz kobiet ją dopadł,\Npo tym jak mnie odwiozła?
+Dialogue: 0,0:13:22.06,0:13:23.70,Default,,0,0,0,,{\be1}Nie sądzę.
+Dialogue: 0,0:13:23.70,0:13:27.70,Default,,0,0,0,,{\be1}Racja, tak łatwo by jej nie dorwał.
+Dialogue: 0,0:13:27.70,0:13:31.47,Default,,0,0,0,,{\be1}Nawet mężczyźni nie mają z nią szans.
+Dialogue: 0,0:13:31.47,0:13:32.54,Default,,0,0,0,,{\be1}Faktycznie.
+Dialogue: 0,0:13:32.54,0:13:37.44,Default,,0,0,0,,{\be1}Ty też lepiej uważaj, dla\Npewności przydzielimy ci ochronę.
+Dialogue: 0,0:13:38.72,0:13:40.80,Default,,0,0,0,,{\be1}Ja cię mogę odwozić.
+Dialogue: 0,0:13:40.80,0:13:44.72,Default,,0,0,0,,{\be1}Ty? Cóż, lepszy rydz niż nic.
+Dialogue: 0,0:13:44.72,0:13:46.14,Default,,0,0,0,,{\be1}Tato!
+Dialogue: 0,0:13:46.14,0:13:52.06,Default,,0,0,0,,{\be1}Nie musicie się martwić,\NSandy nauczyła mnie samoobrony.
+Dialogue: 0,0:13:57.17,0:14:00.24,Default,,0,0,0,,{\be1}Masatoshi, przydzielić ci Rikę do ochrony?
+Dialogue: 0,0:14:02.37,0:14:04.13,Default,,0,0,0,,{\be1}To ja będę ją chronić!
+Dialogue: 0,0:14:07.34,0:14:08.69,Default (i),,0,0,0,,{\be1}Sandy.
+Dialogue: 0,0:14:31.00,0:14:32.71,Default,,0,0,0,,{\be1}Ocknęłaś się?
+Dialogue: 0,0:14:34.53,0:14:35.40,Default,,0,0,0,,{\be1}Kim jesteś?
+Dialogue: 0,0:14:36.31,0:14:40.76,Default,,0,0,0,,{\be1}Niezły widok, Sandy Moore.
+Dialogue: 0,0:14:40.76,0:14:42.07,Default,,0,0,0,,{\be1}Wypuść mnie!
+Dialogue: 0,0:14:42.07,0:14:49.08,Default,,0,0,0,,{\be1}Dobra, jak tylko zostaniesz\Noperatorem naszych androidów.
+Dialogue: 0,0:14:49.08,0:14:51.00,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:14:51.00,0:14:55.02,Default,,0,0,0,,{\be1}Wiesz o czym mówię,\Ntwoja firma nad nimi pracuje.
+Dialogue: 0,0:14:55.02,0:14:57.23,Default,,0,0,0,,{\be1}Jesteś szpiegiem korporacyjnym?
+Dialogue: 0,0:14:57.23,0:15:00.40,Default,,0,0,0,,{\be1}Na twoje nieszczęście niczego nie wiem.
+Dialogue: 0,0:15:00.40,0:15:02.88,Default,,0,0,0,,{\be1}Nie, szpiega już macie w firmie.
+Dialogue: 0,0:15:04.43,0:15:12.94,Default,,0,0,0,,{\be1}Naprawdę doceniamy twoje\Numiejętności komputerowe i walki.
+Dialogue: 0,0:15:12.94,0:15:15.85,Default,,0,0,0,,{\be1}Gdzie jestem?! Kim jesteś?!
+Dialogue: 0,0:15:15.85,0:15:21.28,Default,,0,0,0,,{\be1}To jak, przejdziesz do nas?
+Dialogue: 0,0:15:21.28,0:15:24.59,Default,,0,0,0,,{\be1}Wal się! Wypuść mnie!
+Dialogue: 0,0:15:24.59,0:15:27.49,Default,,0,0,0,,{\be1}Jednak musimy przeprowadzić ceremonię.
+Dialogue: 0,0:15:27.49,0:15:30.20,Default,,0,0,0,,{\be1}Jaką ceremonię?
+Dialogue: 0,0:15:43.59,0:15:45.91,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:15:45.91,0:15:50.61,Default,,0,0,0,,{\be1}Dzięki tej ceremonii będziesz nam lojalna.
+Dialogue: 0,0:15:50.61,0:15:51.81,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:16:03.03,0:16:04.74,Default,,0,0,0,,{\be1}Nie zbliżajcie się!
+Dialogue: 0,0:16:04.74,0:16:10.66,Default,,0,0,0,,{\be1}Nie bój się, ich operatorzy\Nsą świetnie wyszkoleni.
+Dialogue: 0,0:16:12.08,0:16:14.17,Default,,0,0,0,,{\be1}Ty?!
+Dialogue: 0,0:16:14.17,0:16:17.00,Default,,0,0,0,,{\be1}Sandy, dobrze się z tobą zabawimy.
+Dialogue: 0,0:16:20.38,0:16:23.48,Default,,0,0,0,,{\be1}Ta muzyka niedługo będzie cię uspokajać.
+Dialogue: 0,0:16:24.75,0:16:26.92,Default,,0,0,0,,{\be1}Przekaz podprogowy.
+Dialogue: 0,0:16:28.73,0:16:30.30,Default,,0,0,0,,{\be1}Więc wiesz.
+Dialogue: 0,0:16:30.86,0:16:32.12,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:16:32.12,0:16:36.41,Default,,0,0,0,,{\be1}Musisz poznać siebie.
+Dialogue: 0,0:16:37.69,0:16:39.27,Default,,0,0,0,,{\be1}Odpręż się.
+Dialogue: 0,0:16:49.36,0:16:55.44,Default,,0,0,0,,{\be1}Sandy, otwórz swój umysł\Ni ciało i przyłącz się do nas.
+Dialogue: 0,0:16:55.44,0:16:59.52,Default,,0,0,0,,{\be1}Przyłącz się do nas.
+Dialogue: 0,0:17:02.05,0:17:08.09,Default,,0,0,0,,{\be1}Zabierzemy cię do świata,\Nw którym jeszcze nie byłaś.
+Dialogue: 0,0:17:08.09,0:17:14.29,Default,,0,0,0,,{\be1}Świata przyjemności.
+Dialogue: 0,0:17:15.97,0:17:19.89,Default,,0,0,0,,{\be1}Sandy, twoje ciało pragnie mężczyzny.
+Dialogue: 0,0:17:20.24,0:17:21.90,Default,,0,0,0,,{\be1}Męskiego palca.
+Dialogue: 0,0:17:22.17,0:17:24.34,Default,,0,0,0,,{\be1}Męskiego języka.
+Dialogue: 0,0:17:24.34,0:17:28.69,Default,,0,0,0,,{\be1}Męskiego ciała.
+Dialogue: 0,0:17:32.16,0:17:35.28,Default,,0,0,0,,{\be1}Będziesz operatorem naszych androidów.
+Dialogue: 0,0:17:35.72,0:17:39.53,Default,,0,0,0,,{\be1}Operatorem androidów.
+Dialogue: 0,0:17:51.97,0:17:55.59,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:17:56.64,0:18:01.02,Default,,0,0,0,,{\be1}Tę jednostkę zaprojektowano tak\Nby kontrolowała sprzężenie zwrotne.
+Dialogue: 0,0:18:01.48,0:18:09.86,Default,,0,0,0,,{\be1}Android natychmiast odłączy system nerwowy,\Njeśli nastąpi krytyczna awaria.
+Dialogue: 0,0:18:10.86,0:18:15.22,Default,,0,0,0,,{\be1}Z nią skończylibyśmy Mimi.
+Dialogue: 0,0:18:15.22,0:18:16.26,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:18:16.26,0:18:19.90,Default,,0,0,0,,{\be1}Chodzi o to, że straciliśmy ją.
+Dialogue: 0,0:18:19.90,0:18:22.75,Default,,0,0,0,,{\be1}Wykradziono ją?
+Dialogue: 0,0:18:23.50,0:18:26.96,Default,,0,0,0,,{\be1}Chyba nie podejrzewasz Sandy?
+Dialogue: 0,0:18:27.47,0:18:30.88,Default,,0,0,0,,{\be1}Jeśli niedługo się nie pojawi...
+Dialogue: 0,0:18:32.39,0:18:34.17,Default,,0,0,0,,{\be1}Nie wierzę.
+Dialogue: 0,0:19:14.47,0:19:20.43,Default,,0,0,0,,{\be1}Teraz możesz zacząć\Npodziemne walki jako nasz operator.
+Dialogue: 0,0:19:38.61,0:19:41.31,Default,,0,0,0,,{\be1}Dzięki, że się zgodziłaś.
+Dialogue: 0,0:19:41.31,0:19:44.12,Default,,0,0,0,,{\be1}To przeprosiny za wczoraj.\NBardzo bolało?
+Dialogue: 0,0:19:45.22,0:19:46.90,Default,,0,0,0,,{\be1}Trochę.
+Dialogue: 0,0:19:46.90,0:19:51.30,Default,,0,0,0,,{\be1}Może spędzimy razem tą noc?
+Dialogue: 0,0:19:54.22,0:19:56.63,Default,,0,0,0,,{\be1}To jak?
+Dialogue: 0,0:19:57.69,0:20:01.56,Default,,0,0,0,,{\be1}Ty też myślisz, że Sandy wykradła androida?
+Dialogue: 0,0:20:05.10,0:20:06.98,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:20:07.44,0:20:09.90,Default,,0,0,0,,{\be1}To może ktoś się włamał?
+Dialogue: 0,0:20:10.24,0:20:16.07,Default,,0,0,0,,{\be1}To akurat jest niemożliwe.\NNie da się złamać naszych zabezpieczeń.
+Dialogue: 0,0:20:16.07,0:20:17.91,Default,,0,0,0,,{\be1}Ktoś od nas?
+Dialogue: 0,0:20:17.91,0:20:25.00,Default,,0,0,0,,{\be1}Trochę to dziwne,\Ngdy wyszłyście android nadal był u nas.
+Dialogue: 0,0:20:25.52,0:20:29.13,Default,,0,0,0,,{\be1}Kto ostatni wyszedł z laboratorium?
+Dialogue: 0,0:20:30.43,0:20:32.17,Default,,0,0,0,,{\be1}No powiedz.
+Dialogue: 0,0:20:32.17,0:20:37.59,Default,,0,0,0,,{\be1}Ochrona nadal sprawdza,\Nmoże się okazać, że to nie Sandy.
+Dialogue: 0,0:20:41.97,0:20:43.41,Default,,0,0,0,,{\be1}O rany!
+Dialogue: 0,0:20:44.72,0:20:47.14,Default,,0,0,0,,{\be1}Możesz mi ją podać?
+Dialogue: 0,0:20:56.95,0:20:58.28,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:20:58.28,0:21:00.49,Default,,0,0,0,,{\be1}Nic.
+Dialogue: 0,0:21:00.49,0:21:08.25,Default,,0,0,0,,{\be1}Naprawdę muszę wiedzieć, kto wyszedł ostatni.\NMoże nawet zostanę z tobą na noc.
+Dialogue: 0,0:21:09.14,0:21:13.63,Default,,0,0,0,,{\be1}No dobra, ja i Jessica.
+Dialogue: 0,0:21:14.14,0:21:19.34,Default,,0,0,0,,{\be1}Jessica? Ona jest nowa, nie?
+Dialogue: 0,0:21:19.34,0:21:20.51,Default,,0,0,0,,{\be1}Rika?
+Dialogue: 0,0:21:20.51,0:21:23.26,Default,,0,0,0,,{\be1}Przepraszam, coś sobie przypomniałam.
+Dialogue: 0,0:21:24.01,0:21:26.69,Default,,0,0,0,,{\be1}A co z nami?
+Dialogue: 0,0:21:37.19,0:21:43.12,Default (i),,0,0,0,,{\be1}To na pewno nie była Sandy,\Nmuszę wypytać Jessicę.
+Dialogue: 0,0:21:44.64,0:21:47.03,Default (i),,0,0,0,,{\be1}A co jeśli to ona?
+Dialogue: 0,0:22:31.21,0:22:33.25,Default,,0,0,0,,{\be1}Jest Jessica?
+Dialogue: 0,0:22:33.25,0:22:35.65,Default,,0,0,0,,{\be1}Tak, ty pewnie jesteś Rika.
+Dialogue: 0,0:22:35.65,0:22:38.39,Default,,0,0,0,,{\be1}Wiedziałem, że przyjdziesz.
+Dialogue: 0,0:22:38.39,0:22:39.55,Default,,0,0,0,,{\be1}Skąd?
+Dialogue: 0,0:22:39.55,0:22:42.36,Default,,0,0,0,,{\be1}Radzę wejść.
+Dialogue: 0,0:22:42.36,0:22:46.47,Default,,0,0,0,,{\be1}Jessica chcę poznać szczegóły o Mimi.
+Dialogue: 0,0:22:46.47,0:22:48.14,Default,,0,0,0,,{\be1}No to masz ją!
+Dialogue: 0,0:22:53.52,0:22:56.86,Default,,0,0,0,,{\be1}Cholera, znowu za mocno walnęłam.
+Dialogue: 0,0:22:59.16,0:23:01.36,Default,,0,0,0,,{\be1}Gdzie ona jest?
+Dialogue: 0,0:23:09.15,0:23:14.66,Default,,0,0,0,,{\be1}No nie, wyglądasz jakbyś\Nmnie o coś podejrzewała.
+Dialogue: 0,0:23:15.46,0:23:19.55,Default,,0,0,0,,{\be1}Ale przygotowałam się na to, zobacz.
+Dialogue: 0,0:23:24.34,0:23:26.51,Default,,0,0,0,,{\be1}- Cholera!\N- Nie pójdziesz!
+Dialogue: 0,0:23:28.89,0:23:30.60,Default,,0,0,0,,{\be1}Odwal się!
+Dialogue: 0,0:23:37.25,0:23:39.06,Default,,0,0,0,,{\be1}Nie waż się mnie dotknąć!
+Dialogue: 0,0:23:49.97,0:23:51.16,Default,,0,0,0,,{\be1}Mimi!
+Dialogue: 0,0:24:44.21,0:24:50.51,Default,,0,0,0,,{\be1}Iron Ox znowu wygrywa! To już 10 walk!
+Dialogue: 0,0:24:50.51,0:24:57.81,Default,,0,0,0,,{\be1}Wypłacamy wygrane zakłady.\NJest możliwość negocjacji zakładów.
+Dialogue: 0,0:24:58.19,0:25:05.40,Default,,0,0,0,,{\be1}Publiczność ma dzisiaj szczęście,\Nnastępny mecz będzie z gwałtem.
+Dialogue: 0,0:25:05.40,0:25:13.68,Default,,0,0,0,,{\be1}Nasz następny zawodnik to córka grubej ryby\Ni oczywiście utalentowana operatorka.
+Dialogue: 0,0:25:13.68,0:25:19.85,Default,,0,0,0,,{\be1}Jej android to prototyp\Nprzypominający kobietę.
+Dialogue: 0,0:25:25.13,0:25:29.46,Default,,0,0,0,,{\be1}Ale nasz android jest bardziej zaawansowany.
+Dialogue: 0,0:25:29.46,0:25:32.09,Default,,0,0,0,,{\be1}Czas obudzić zawodniczkę.
+Dialogue: 0,0:25:42.52,0:25:43.96,Default,,0,0,0,,{\be1}Gdzie jestem?
+Dialogue: 0,0:25:44.77,0:25:46.73,Default,,0,0,0,,{\be1}Mimi!
+Dialogue: 0,0:25:49.11,0:25:50.58,Default,,0,0,0,,{\be1}Jessica!
+Dialogue: 0,0:25:50.58,0:25:53.07,Default,,0,0,0,,{\be1}Czas na ciebie.
+Dialogue: 0,0:25:55.45,0:25:56.91,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:57.85,0:26:03.48,Default,,0,0,0,,{\be1}Musisz walczyć, jeśli chcesz przeżyć.
+Dialogue: 0,0:26:03.48,0:26:04.96,Default,,0,0,0,,{\be1}Kim jesteś?!
+Dialogue: 0,0:26:17.97,0:26:19.92,Default,,0,0,0,,{\be1}Lepiej nie marnuj czasu.
+Dialogue: 0,0:26:31.45,0:26:33.65,Default (i),,0,0,0,,{\be1}Czyj to głos?
+Dialogue: 0,0:26:35.16,0:26:38.45,Default,,0,0,0,,{\be1}O, już mnie znalazłaś, cała Mimi.
+Dialogue: 0,0:26:40.17,0:26:42.16,Default (i),,0,0,0,,{\be1}Kto to? Gdzieś ich widziałam.
+Dialogue: 0,0:26:45.08,0:26:50.77,Default,,0,0,0,,{\be1}Mówiłam, że musisz walczyć by przeżyć.
+Dialogue: 0,0:26:51.76,0:26:58.64,Default,,0,0,0,,{\be1}A może wolisz zostać zgwałcona\Ni poczuć sprzężenie zwrotne?
+Dialogue: 0,0:27:11.29,0:27:12.15,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:27:13.26,0:27:18.07,Default,,0,0,0,,{\be1}Odwal się!
+Dialogue: 0,0:27:22.25,0:27:26.67,Default,,0,0,0,,{\be1}Sztuki walki Sandy są przydatne.
+Dialogue: 0,0:27:29.09,0:27:30.89,Default,,0,0,0,,{\be1}Jestem naga!
+Dialogue: 0,0:27:32.35,0:27:37.51,Default,,0,0,0,,{\be1}To boli! Puszczaj! Przestań!
+Dialogue: 0,0:27:37.51,0:27:40.93,Default,,0,0,0,,{\be1}Trafił w czułe miejsce.
+Dialogue: 0,0:27:40.93,0:27:46.69,Default,,0,0,0,,{\be1}Dobrze, że wykradliśmy plany zabezpieczeń,\Nodczujesz wszystko bardzo wyraźnie.
+Dialogue: 0,0:27:53.74,0:27:57.32,Default,,0,0,0,,{\be1}Co jest?! Gdzie mnie dotykasz?!
+Dialogue: 0,0:27:57.32,0:28:01.07,Default,,0,0,0,,{\be1}Nie, przestań! To wbrew regułom!
+Dialogue: 0,0:28:02.31,0:28:04.80,Default,,0,0,0,,{\be1}Tutaj nie ma reguł.
+Dialogue: 0,0:28:06.82,0:28:09.29,Default,,0,0,0,,{\be1}Jesteś śliczna.
+Dialogue: 0,0:28:13.63,0:28:16.99,Default,,0,0,0,,{\be1}Nieźle, prawie jak prawdziwa kobieta.
+Dialogue: 0,0:28:18.01,0:28:20.40,Default,,0,0,0,,{\be1}Gdzie z łapskami?! Przestań!
+Dialogue: 0,0:28:20.40,0:28:23.54,Default,,0,0,0,,{\be1}Bycie kobietą to twoja słabość.
+Dialogue: 0,0:28:30.59,0:28:32.23,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:28:33.44,0:28:36.11,Default,,0,0,0,,{\be1}Taka wrażliwość również jest słabością.
+Dialogue: 0,0:28:36.75,0:28:39.57,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:28:40.35,0:28:41.99,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:28:42.72,0:28:44.08,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:28:50.63,0:28:54.34,Default,,0,0,0,,{\be1}Zajebiście, nawet jęczy jak prawdziwa.
+Dialogue: 0,0:29:18.61,0:29:21.32,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:29:22.39,0:29:24.15,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:29:27.26,0:29:29.95,Default,,0,0,0,,{\be1}Zajebiście!
+Dialogue: 0,0:29:30.67,0:29:35.03,Default,,0,0,0,,{\be1}Niesamowity android, lepszy od kobiety.
+Dialogue: 0,0:29:37.44,0:29:40.28,Default,,0,0,0,,{\be1}Teraz od tylca.
+Dialogue: 0,0:29:52.77,0:29:55.19,Default,,0,0,0,,{\be1}Pożałujesz!
+Dialogue: 0,0:30:10.21,0:30:11.27,Default,,0,0,0,,{\be1}Udało się.
+Dialogue: 0,0:30:11.27,0:30:16.41,Default,,0,0,0,,{\be1}Gratuluję, ale właśnie\Nzapewniłaś mu bezpłodność.
+Dialogue: 0,0:30:16.41,0:30:18.13,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:30:18.13,0:30:19.98,Default,,0,0,0,,{\be1}Ale to nic.
+Dialogue: 0,0:30:19.98,0:30:25.02,Default,,0,0,0,,{\be1}Mamy kogoś lepszego od niego.
+Dialogue: 0,0:30:26.96,0:30:28.68,Default,,0,0,0,,{\be1}Czas na walkę wieczoru!
+Dialogue: 0,0:30:29.12,0:30:34.89,Default,,0,0,0,,{\be1}Najlepszy android stworzony\Nprzez Lee Corporation!
+Dialogue: 0,0:30:34.89,0:30:39.50,Default,,0,0,0,,{\be1}Zleciłam zrobienie go specjalnie na tę okazję.
+Dialogue: 0,0:30:39.50,0:30:43.03,Default,,0,0,0,,{\be1}Dobrze, że zdążyli na czas.
+Dialogue: 0,0:30:43.57,0:30:44.95,Default,,0,0,0,,{\be1}Sandy?!
+Dialogue: 0,0:30:47.14,0:30:49.37,Default,,0,0,0,,{\be1}Wygląda jak ona, nie?
+Dialogue: 0,0:30:52.29,0:30:55.12,Default,,0,0,0,,{\be1}Sandy, co z tobą? To ja, Rika!
+Dialogue: 0,0:30:55.12,0:30:59.46,Default,,0,0,0,,{\be1}Nie trudź się, jest naszą lojalną operatorką.
+Dialogue: 0,0:31:06.67,0:31:09.18,Default,,0,0,0,,{\be1}Sandy, przestań!
+Dialogue: 0,0:31:12.33,0:31:15.40,Default,,0,0,0,,{\be1}Co z tobą?! Ocknij się!
+Dialogue: 0,0:31:19.48,0:31:24.19,Default,,0,0,0,,{\be1}Ten android jest podobny do Mimi,\Nto chyba ten sam model.
+Dialogue: 0,0:31:24.68,0:31:26.36,Default,,0,0,0,,{\be1}Czyżby miał tą samą siłę?
+Dialogue: 0,0:31:26.36,0:31:29.08,Default,,0,0,0,,{\be1}To muszą być te niesławne walki.
+Dialogue: 0,0:31:29.08,0:31:32.41,Default,,0,0,0,,{\be1}Chyba muszę zniszczyć androida,\Nżeby odzyskać Sandy.
+Dialogue: 0,0:31:39.23,0:31:41.17,Default,,0,0,0,,{\be1}Ocknij się!
+Dialogue: 0,0:31:49.02,0:31:53.27,Default,,0,0,0,,{\be1}Nie dam rady jej pokonać!
+Dialogue: 0,0:32:00.15,0:32:02.79,Default,,0,0,0,,{\be1}Czas to skończyć.
+Dialogue: 0,0:32:02.79,0:32:05.19,Default,,0,0,0,,{\be1}Sandy, masz.
+Dialogue: 0,0:32:08.09,0:32:14.06,Default,,0,0,0,,{\be1}Rika, zazdroszczę ci,\Nzadowoli cię twoja przyjaciółka.
+Dialogue: 0,0:32:21.82,0:32:23.84,Default,,0,0,0,,{\be1}Co to?!
+Dialogue: 0,0:32:28.44,0:32:32.19,Default,,0,0,0,,{\be1}Co robisz?! Przestań!
+Dialogue: 0,0:32:32.81,0:32:35.42,Default,,0,0,0,,{\be1}Nie! Sandy!
+Dialogue: 0,0:32:37.48,0:32:41.44,Default,,0,0,0,,{\be1}Sandy, przestań! Proszę!
+Dialogue: 0,0:32:46.39,0:32:48.11,Default,,0,0,0,,{\be1}Jessica, udało ci się!
+Dialogue: 0,0:32:48.55,0:32:53.07,Default,,0,0,0,,{\be1}Rika i Mimi są już nasze,\Njeszcze tylko wykraść...
+Dialogue: 0,0:32:53.99,0:32:59.46,Default,,0,0,0,,{\be1}Cudownie! Zawsze cię pragnęłam!
+Dialogue: 0,0:33:01.54,0:33:03.71,Default,,0,0,0,,{\be1}Kocham cię, Rika!
+Dialogue: 0,0:33:08.88,0:33:12.80,Default (i),,0,0,0,,{\be1}Normalnie jej nie pokonam.\NMuszę tego spróbować!
+Dialogue: 0,0:33:22.06,0:33:23.57,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:33:38.71,0:33:40.86,Default,,0,0,0,,{\be1}- Prezesie!\N- Tato!
+Dialogue: 0,0:33:44.99,0:33:47.33,Default (i),,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:33:49.59,0:33:51.80,Default (i),,0,0,0,,{\be1}Mimi to zrobiła?
+Dialogue: 0,0:33:52.72,0:33:54.21,Default,,0,0,0,,{\be1}Sandy!
+Dialogue: 0,0:33:56.03,0:34:01.81,Default,,0,0,0,,{\be1}Sandy, to ja, Rika!\NTrzymaj się! Sandy!
+Dialogue: 0,0:34:14.87,0:34:19.33,Default,,0,0,0,,{\be1}Mimi, a raczej... Rika, to było wspaniałe.
+Dialogue: 0,0:34:19.33,0:34:23.25,Default,,0,0,0,,{\be1}Sandy! Jesteś już sobą, prawda?
+Dialogue: 0,0:34:24.69,0:34:26.42,Default,,0,0,0,,{\be1}Chyba tak.
+Dialogue: 0,0:34:28.36,0:34:33.43,Default,,0,0,0,,{\be1}Nareszcie udało ci się opanować ten atak.\NTo był niesamowity cios.
+Dialogue: 0,0:34:33.43,0:34:35.90,Default,,0,0,0,,{\be1}- Dziękuję, Rika!\N- Tak się cieszę!
+Dialogue: 0,0:34:37.44,0:34:40.64,Default,,0,0,0,,{\be1}Powinniśmy nazwać to uderzenie,\Nmoże Piorunujące Rozerwanie?
+Dialogue: 0,0:34:40.64,0:34:41.64,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:34:41.64,0:34:45.48,Default,,0,0,0,,{\be1}Czekaj, chyba nie dadzą nam dłużej pogadać.
+Dialogue: 0,0:34:45.48,0:34:47.48,Default,,0,0,0,,{\be1}Rozwal ich.
+Dialogue: 0,0:34:48.12,0:34:52.73,Default,,0,0,0,,{\be1}Nie martw się, poradzisz sobie.\NJa ucieknę z twoim ciałem.
+Dialogue: 0,0:34:52.73,0:34:54.49,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:35:01.53,0:35:04.25,Default,,0,0,0,,{\be1}Mimi, dobrze ci idzie!
+Dialogue: 0,0:35:05.37,0:35:07.17,Default,,0,0,0,,{\be1}Myślisz, ze damy ci uciec?
+Dialogue: 0,0:35:08.14,0:35:09.24,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:35:09.24,0:35:11.30,Default,,0,0,0,,{\be1}Tym razem jej nie dostaniesz!
+Dialogue: 0,0:35:11.93,0:35:13.38,Default,,0,0,0,,{\be1}Spieprzaj!
+Dialogue: 0,0:35:18.45,0:35:19.88,Default,,0,0,0,,{\be1}Odwal się!
+Dialogue: 0,0:35:22.48,0:35:25.94,Default,,0,0,0,,{\be1}Zapłacisz za zniszczenie moje androida!
+Dialogue: 0,0:35:25.94,0:35:27.81,Default,,0,0,0,,{\be1}Teraz!
+Dialogue: 0,0:35:28.94,0:35:30.28,Default,,0,0,0,,{\be1}Stój!
+Dialogue: 0,0:35:34.73,0:35:38.00,Default,,0,0,0,,{\be1}Co się stało?! Coś nie tak z Mimi?!
+Dialogue: 0,0:35:38.00,0:35:39.27,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:35:43.48,0:35:46.71,Default,,0,0,0,,{\be1}- Iron Ox!\N- Coś ty zrobiła?!
+Dialogue: 0,0:36:20.54,0:36:22.87,Default,,0,0,0,,{\be1}Rika, co z Mimi?
+Dialogue: 0,0:36:28.78,0:36:32.88,Default,,0,0,0,,{\be1}Rika, Mimi chyba nie jest zniszczona?
+Dialogue: 0,0:36:35.02,0:36:37.80,Default,,0,0,0,,{\be1}Zdejmuję hełm.
+Dialogue: 0,0:36:43.24,0:36:45.64,Default,,0,0,0,,{\be1}Rika!

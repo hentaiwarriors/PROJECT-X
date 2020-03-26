@@ -1,0 +1,229 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build410  Sep 27 2015  17:39:14
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Last Style Storage: [848x480]
+Scroll Position: 0
+Active Line: 0
+Video Zoom Percent: 0.75
+PlayResX: 848
+PlayResY: 480
+Video Aspect Ratio: 0
+Video Position: 0
+Audio URI: Love es M The Animation - 01.mp4
+YCbCr Matrix: TV.601
+Video Zoom: 6
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00000000,&H000000FF,&H00FFD6FF,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,120,&H00000000,&H000000FF,&H00FFD6FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,5,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 3,0:02:09.36,0:02:16.49,Grupa,,0,0,0,,{\be3\fad(561,0)}Nyan
+Dialogue: 0,0:02:09.36,0:02:16.49,Anime,,0,0,0,,{\be1\move(434,-5,434,240,1062,3439)\be1\fad(561,0)\bord22\3c&H000000&\t(1062,3439,\fs40\bord11)}Love es M
+Dialogue: 0,0:02:09.36,0:02:16.49,Anime,,0,0,0,,{\be1\move(434,-5,434,240,1062,3439)\fad(561,0)\bord13\t(1062,3439,\fs40\bord6.5)}Love es M
+Dialogue: 0,0:02:09.36,0:02:16.49,Anime,,0,0,0,,{\be1\move(434,-5,434,240,1062,3439)\fad(561,0)\bord10\3c&H7517CB&\t(1062,3439,\fs40\bord5)}Love es M
+Dialogue: 0,0:02:09.36,0:02:16.49,Anime,,0,0,0,,{\be1\move(434,-5,434,240,1062,3439)\fad(561,0)\bord3\t(1062,3439,\fs40\bord1.5)}Love es M
+Dialogue: 0,0:02:12.78,0:02:16.49,Tytul,,0,0,0,,{\be1\fad(1396,0)\bord3\3c&H7722BB&}Sekret, którego nie mogę zdradzić
+Dialogue: 1,0:02:12.78,0:02:16.49,Tytul,,0,0,0,,{\be1\fad(1396,0)}Sekret, którego nie mogę zdradzić
+Dialogue: 0,0:00:01.61,0:00:10.53,Default,,0,0,0,,{\be1\fad(500,1771)}W kulturze ludzkiej pożądanie jest najbardziej\Nkontrolowanym i tłumionym instynktem.\NJednak jest też instynktem, który najczęściej\Nnie udaje nam się kontrolować. - Freud
+Dialogue: 0,0:00:14.87,0:00:16.66,Default,,0,0,0,,{\be1}Panie.
+Dialogue: 0,0:00:18.36,0:00:20.16,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:00:22.38,0:00:26.96,Default,,0,0,0,,{\be1}Panie, dręcz mnie jeszcze.
+Dialogue: 0,0:00:27.70,0:00:33.81,Default (i),,0,0,0,,{\be1}Już od dziecka byłam\Nprzytłoczona oczekiwania innych.
+Dialogue: 0,0:00:37.29,0:00:40.27,Default (i),,0,0,0,,{\be1}Wszyscy mają mnie za grzeczną.
+Dialogue: 0,0:00:41.50,0:00:44.39,Default (i),,0,0,0,,{\be1}Uchodzę za genialną uczennicę.
+Dialogue: 0,0:00:47.01,0:00:53.18,Default (i),,0,0,0,,{\be1}Pewnego dnia stres zaczął być nie do zniesienia.
+Dialogue: 0,0:00:57.10,0:01:05.11,Default (i),,0,0,0,,{\be1}Odkryłam wtedy, że Yoshi - mój pan,\Nlubi sadomasochizm.
+Dialogue: 0,0:01:08.07,0:01:13.14,Default (i),,0,0,0,,{\be1}Wiedziałam, że nie powinnam,\Nale i tak mnie to wciągnęło.
+Dialogue: 0,0:01:14.87,0:01:17.56,Default (i),,0,0,0,,{\be1}Chciałam się odstresować.
+Dialogue: 0,0:01:18.50,0:01:21.25,Default (i),,0,0,0,,{\be1}Chciałam w końcu odetchnąć.
+Dialogue: 0,0:01:21.25,0:01:22.50,Default (i),,0,0,0,,{\be1}Dlatego...
+Dialogue: 0,0:01:38.96,0:01:40.15,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:01:45.07,0:01:45.92,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:01:56.20,0:01:59.08,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:02:18.68,0:02:32.74,Default (i),,0,0,0,,{\be1}Yoshi, a raczej mój pan, jest moim przyjacielem\Nod dziecka, ale w końcu zostaliśmy parą.
+Dialogue: 0,0:02:32.74,0:02:40.29,Default (i),,0,0,0,,{\be1}Uprawialiśmy normalny seks\Ni byłam gotowa zrobić dla niego wszystko.
+Dialogue: 0,0:02:40.29,0:02:44.94,Default (i),,0,0,0,,{\be1}Ukarz mnie w końcu.
+Dialogue: 0,0:03:45.90,0:03:47.61,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:04:33.44,0:04:35.65,Default,,0,0,0,,{\be1}Ayaka, spuszczę się w środku!
+Dialogue: 0,0:04:35.66,0:04:39.16,Default,,0,0,0,,{\be1}Dobra, zrób to!
+Dialogue: 0,0:04:46.04,0:04:49.27,Default,,0,0,0,,{\be1}Panie, zaraz dojdę!
+Dialogue: 0,0:04:55.72,0:05:03.60,Default,,0,0,0,,{\be1}Yoshi, proszę, dręcz mnie jeszcze.
+Dialogue: 0,0:05:06.10,0:05:12.63,Default,,0,0,0,,{\be1}Nawet jeśli tak mówisz...
+Dialogue: 0,0:05:16.25,0:05:19.88,Default,,0,0,0,,{\be1}Proszę, zrób to.
+Dialogue: 0,0:05:22.20,0:05:23.96,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:05:27.67,0:05:34.73,Default (i),,0,0,0,,{\be1}W ten sposób dawałam\Ndręczyć się mojemu bratu.
+Dialogue: 0,0:05:35.42,0:05:40.39,Default (i),,0,0,0,,{\be1}Nie ma w tym miłości,\Nchodziło o samo dręczenie.
+Dialogue: 0,0:05:40.39,0:05:43.67,Default (i),,0,0,0,,{\be1}Po prostu zabawialiśmy się.
+Dialogue: 0,0:05:45.89,0:05:49.55,Default,,0,0,0,,{\be1}Nie łechtaczkę!
+Dialogue: 0,0:05:51.25,0:05:53.33,Default,,0,0,0,,{\be1}Jesteś bardzo mokra.
+Dialogue: 0,0:05:56.09,0:05:57.92,Default,,0,0,0,,{\be1}Ayaka, jesteś bardzo niegrzeczna.
+Dialogue: 0,0:05:59.32,0:06:01.74,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:06:01.74,0:06:07.93,Default,,0,0,0,,{\be1}Jestem niegrzeczna, ukarz mnie!
+Dialogue: 0,0:06:08.97,0:06:11.93,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:06:23.97,0:06:26.55,Default (i),,0,0,0,,{\be1}Jest zimny.
+Dialogue: 0,0:06:31.73,0:06:33.43,Default (i),,0,0,0,,{\be1}Dziwne uczucie.
+Dialogue: 0,0:06:39.82,0:06:41.20,Default (i),,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:06:47.93,0:06:49.05,Default (i),,0,0,0,,{\be1}Przecież...
+Dialogue: 0,0:06:52.81,0:06:55.13,Default (i),,0,0,0,,{\be1}Zawstydza mnie...
+Dialogue: 0,0:06:55.13,0:06:56.61,Default (i),,0,0,0,,{\be1}Sprawia ból...
+Dialogue: 0,0:06:59.34,0:07:02.47,Default (i),,0,0,0,,{\be1}Ale w środku cała drżę.
+Dialogue: 0,0:07:02.47,0:07:08.70,Default (i),,0,0,0,,{\be1}To jednak sprawia mi przyjemność.
+Dialogue: 0,0:07:11.62,0:07:17.71,Default,,0,0,0,,{\be1}Jeśli chcesz więcej, musisz poprosić.
+Dialogue: 0,0:07:19.07,0:07:24.34,Default,,0,0,0,,{\be1}Jeśli nie możesz, to skończymy na dzisiaj.
+Dialogue: 0,0:07:30.58,0:07:37.04,Default,,0,0,0,,{\be1}Panie, proszę, nie przestawaj!
+Dialogue: 0,0:07:37.04,0:07:39.06,Default,,0,0,0,,{\be1}Chcę go w środku!
+Dialogue: 0,0:07:39.06,0:07:41.38,Default,,0,0,0,,{\be1}Źle.
+Dialogue: 0,0:07:41.38,0:07:45.72,Default,,0,0,0,,{\be1}Poprosić jak ci wcześniej powiedziałem.
+Dialogue: 0,0:07:48.51,0:07:50.58,Default,,0,0,0,,{\be1}Błagam...
+Dialogue: 0,0:07:54.57,0:08:06.55,Default,,0,0,0,,{\be1}Panie, włóż w moją niewyżytą\Ncipkę swojego kutasa.
+Dialogue: 0,0:08:09.79,0:08:18.60,Default (i),,0,0,0,,{\be1}Wiem, że źle robię,\Nale nie mogę się powstrzymać.
+Dialogue: 0,0:08:20.06,0:08:22.55,Default,,0,0,0,,{\be1}Widzisz?
+Dialogue: 0,0:08:23.72,0:08:26.24,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:08:29.64,0:08:34.12,Default,,0,0,0,,{\be1}Pierwszy raz tak wyraźnie widzę!
+Dialogue: 0,0:08:35.79,0:08:41.15,Default,,0,0,0,,{\be1}W tej pozycji wchodzi nawet głębiej!
+Dialogue: 0,0:08:44.59,0:08:51.07,Default,,0,0,0,,{\be1}Rozpychasz mi cipkę swoim kutasem!
+Dialogue: 0,0:08:51.99,0:08:55.48,Default,,0,0,0,,{\be1}Rozchlapujesz moje soki, gdy go wkładasz!
+Dialogue: 0,0:08:56.58,0:08:57.89,Default,,0,0,0,,{\be1}To takie zboczone!
+Dialogue: 0,0:08:57.89,0:09:02.88,Default,,0,0,0,,{\be1}Postaraj się prosić seksowniej.
+Dialogue: 0,0:09:05.66,0:09:10.26,Default (i),,0,0,0,,{\be1}Panie, przyjemnie mi,\Ngdy bierzesz mnie tak mocno.
+Dialogue: 0,0:09:10.26,0:09:13.35,Default (i),,0,0,0,,{\be1}Wkładaj go nawet jeszcze mocniej.
+Dialogue: 0,0:09:13.35,0:09:18.04,Default (i),,0,0,0,,{\be1}Wypuść we mnie całą spermę!
+Dialogue: 0,0:09:29.11,0:09:37.14,Default (i),,0,0,0,,{\be1}Niesamowite, mocniej się\Npodniecam, gdy mi rozkazuje.
+Dialogue: 0,0:09:45.77,0:09:49.93,Default,,0,0,0,,{\be1}Ayaka, zaraz dojdę!
+Dialogue: 0,0:09:49.93,0:09:53.20,Default,,0,0,0,,{\be1}Dobrze, spuść się!
+Dialogue: 0,0:09:53.64,0:09:59.73,Default,,0,0,0,,{\be1}Wypuść całą spermę, gdzie chcesz!
+Dialogue: 0,0:09:59.73,0:10:03.59,Default,,0,0,0,,{\be1}Z chęcią ją przyjmę!
+Dialogue: 0,0:10:21.43,0:10:22.56,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:10:39.81,0:10:43.94,Default (i),,0,0,0,,{\be1}Zadowalaliśmy się wiele razy.
+Dialogue: 0,0:10:43.94,0:10:49.43,Default (i),,0,0,0,,{\be1}Po wszystkim wracaliśmy do\Nudawania normalnego rodzeństwa.
+Dialogue: 0,0:11:02.43,0:11:09.36,Default (i),,0,0,0,,{\be1}Na początku myślałam\NS&M jest dla degeneratów.
+Dialogue: 0,0:11:10.26,0:11:13.86,Default (i),,0,0,0,,{\be1}Ale bardzo kocham mojego pana.
+Dialogue: 0,0:11:14.64,0:11:20.95,Default (i),,0,0,0,,{\be1}Nie miałam nic przeciwko nawet, jeśli\Ntrochę bolało, dopóki nie było zbyt zboczono.
+Dialogue: 0,0:11:30.99,0:11:41.01,Default (i),,0,0,0,,{\be1}Na początku zgodziłam się\Ntylko na samo udawanie tego.
+Dialogue: 0,0:11:41.79,0:11:47.64,Default (i),,0,0,0,,{\be1}Ale teraz jest inaczej.
+Dialogue: 0,0:11:48.44,0:11:49.83,Default,,0,0,0,,{\be1}Przygotować się!
+Dialogue: 0,0:11:56.39,0:11:58.41,Default,,0,0,0,,{\be1}Naprawdę to zrobimy?
+Dialogue: 0,0:11:59.43,0:12:04.20,Default,,0,0,0,,{\be1}Dostaniesz nagrodę,\Njeśli wytrzymasz do końca lekcji.
+Dialogue: 0,0:12:04.69,0:12:09.52,Default,,0,0,0,,{\be1}Lecz jeśli nie dobiegniesz do końca ukarzę cię.
+Dialogue: 0,0:12:11.63,0:12:15.26,Default (i),,0,0,0,,{\be1}Właśnie teraz...
+Dialogue: 0,0:12:15.26,0:12:16.93,Default,,0,0,0,,{\be1}Przygotować się!
+Dialogue: 0,0:12:37.58,0:12:43.81,Default (i),,0,0,0,,{\be1}O nie, jeśli teraz upadnę wszyscy zauważą.
+Dialogue: 0,0:12:43.81,0:12:45.87,Default (i),,0,0,0,,{\be1}Muszę dobiec do końca.
+Dialogue: 0,0:12:46.60,0:12:52.58,Default (i),,0,0,0,,{\be1}Ale tak mocno go czuję,\Na dźwięk to potęguje.
+Dialogue: 0,0:12:53.61,0:13:01.70,Default (i),,0,0,0,,{\be1}O nie, co mam zrobić?\NZauważą i pomyślą, że jestem zboczona.
+Dialogue: 0,0:13:05.16,0:13:13.82,Default (i),,0,0,0,,{\be1}Nie dobiegłam do końca i mój pan\Nmusiał skłamać, że źle się czuję.
+Dialogue: 0,0:13:14.26,0:13:17.96,Default (i),,0,0,0,,{\be1}Zabrał mnie do lekarza.
+Dialogue: 0,0:13:53.67,0:13:59.53,Default (i),,0,0,0,,{\be1}Za karę musiałam chodzić\Nz wibratorem przez cały dzień.
+Dialogue: 0,0:14:00.05,0:14:05.31,Default,,0,0,0,,{\be1}Proszę, wyjmij wibratora.
+Dialogue: 0,0:14:05.31,0:14:08.24,Default,,0,0,0,,{\be1}Nie dojdę tak do domu.
+Dialogue: 0,0:14:09.35,0:14:13.16,Default,,0,0,0,,{\be1}To nic, prawie doszliśmy.
+Dialogue: 0,0:14:14.83,0:14:23.26,Default (i),,0,0,0,,{\be1}Zaprowadził mnie do\Npublicznej toalety koło szkoły.
+Dialogue: 0,0:14:28.14,0:14:31.72,Default,,0,0,0,,{\be1}Wyjmij wibratora!
+Dialogue: 0,0:14:31.72,0:14:37.19,Default,,0,0,0,,{\be1}Chyba czegoś nie zrozumiałaś,\Nto nie ty tu rozkazujesz.
+Dialogue: 0,0:14:38.97,0:14:41.39,Default,,0,0,0,,{\be1}To twoja kara.
+Dialogue: 0,0:14:46.20,0:14:49.33,Default,,0,0,0,,{\be1}Co powinnaś powiedzieć?
+Dialogue: 0,0:14:51.23,0:14:57.13,Default,,0,0,0,,{\be1}Przepraszam, nie dobiegłam do końca!
+Dialogue: 0,0:14:57.13,0:15:02.05,Default,,0,0,0,,{\be1}Nie brzmisz szczerze, nie przestanę.
+Dialogue: 0,0:15:04.49,0:15:10.22,Default (i),,0,0,0,,{\be1}Dlaczego podniecam się\Npomimo takiego traktowania?
+Dialogue: 0,0:15:10.22,0:15:12.92,Default (i),,0,0,0,,{\be1}Robi mi się gorąco.
+Dialogue: 0,0:15:12.92,0:15:17.68,Default,,0,0,0,,{\be1}Naprawdę mi przykro, panie!
+Dialogue: 0,0:15:18.44,0:15:23.86,Default,,0,0,0,,{\be1}No dobra, teraz tu cię ukarzę.
+Dialogue: 0,0:15:23.86,0:15:31.08,Default,,0,0,0,,{\be1}Panie, ukarz moja niewyżytą cipkę!
+Dialogue: 0,0:15:35.44,0:15:40.00,Default,,0,0,0,,{\be1}Jesteś bardzo mokra i ciasna.
+Dialogue: 0,0:15:40.36,0:15:43.67,Default,,0,0,0,,{\be1}Jesteś prawdziwą zboczuchą.
+Dialogue: 0,0:15:44.82,0:15:46.40,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:15:49.22,0:15:54.10,Default,,0,0,0,,{\be1}Mocno się podnieciłam!
+Dialogue: 0,0:15:54.10,0:15:59.69,Default,,0,0,0,,{\be1}Trzymaj mocno drzwi albo się otworzą.
+Dialogue: 0,0:16:00.94,0:16:08.86,Default,,0,0,0,,{\be1}O nie, ktoś mnie może tak zobaczyć!
+Dialogue: 0,0:16:12.31,0:16:16.03,Default,,0,0,0,,{\be1}Nagle mnie ścisnęłaś.
+Dialogue: 0,0:16:17.40,0:16:19.48,Default,,0,0,0,,{\be1}Jeszcze mocniej się podnieciłaś.
+Dialogue: 0,0:16:21.52,0:16:26.50,Default (i),,0,0,0,,{\be1}O nie, to...
+Dialogue: 0,0:16:29.74,0:16:40.26,Default (i),,0,0,0,,{\be1}No nie, robię się bardziej mokra, gdy tylko\Npomyślę, że ktoś może nas zobaczyć.
+Dialogue: 0,0:16:41.42,0:16:44.32,Default,,0,0,0,,{\be1}Ayaka, już czas.
+Dialogue: 0,0:16:46.28,0:16:53.14,Default (i),,0,0,0,,{\be1}Spuść się jak najwięcej!
+Dialogue: 0,0:16:53.14,0:16:56.16,Default (i),,0,0,0,,{\be1}Ja też zaraz dojdę!
+Dialogue: 0,0:17:07.49,0:17:19.27,Default (i),,0,0,0,,{\be1}Chyba spodobała mi się\Nzabawa S&M z moim panem.
+Dialogue: 0,0:17:26.17,0:17:35.70,Default (i),,0,0,0,,{\be1}Ayaka jest dziewczyną i przyjaciółką z dzieciństwa\Nmojego pana, dlatego jest dla mnie jak siostra.
+Dialogue: 0,0:17:36.53,0:17:44.82,Default (i),,0,0,0,,{\be1}Ja też uważam Ayakę za rodzinę,\Na poza tym mamy te same imię.
+Dialogue: 0,0:17:44.82,0:17:53.43,Default (i),,0,0,0,,{\be1}Dlatego zdziwiłam się,\Ngdy okazało się, że ona też lubi S&M.
+Dialogue: 0,0:17:53.43,0:18:01.19,Default (i),,0,0,0,,{\be1}W sumie od jakieś czasu myślę\Nczy nie powinniśmy tego skończyć.
+Dialogue: 0,0:18:02.25,0:18:17.29,Default (i),,0,0,0,,{\be1}Ale robiliśmy już tyle rzeczy, że zaczęłam rozumieć jak\Nbardzo jesteśmy dla niego ważne nawet jeśli jako zabawki.
+Dialogue: 0,0:18:40.42,0:18:44.17,Default (i),,0,0,0,,{\be1}Ile już czasu minęło?
+Dialogue: 0,0:18:44.17,0:18:48.94,Default (i),,0,0,0,,{\be1}Nawet nie wiem, ile razy doszłam.
+Dialogue: 0,0:18:54.74,0:18:59.49,Default (i),,0,0,0,,{\be1}Jeszcze wiele osób jest w\Nszkole na zajęciach klubowych.
+Dialogue: 0,0:18:59.49,0:19:08.92,Default (i),,0,0,0,,{\be1}Gdyby nas zobaczyli,\Nto pewnie chcieliby zgwałcić.
+Dialogue: 0,0:19:11.71,0:19:18.40,Default (i),,0,0,0,,{\be1}Gdybyśmy mogły chociaż\Nporozmawiać, to byłoby nam łatwiej.
+Dialogue: 0,0:19:19.47,0:19:26.73,Default (i),,0,0,0,,{\be1}O nie, wstydzę się,\Ngdy Ayaka patrzy tak na mnie.
+Dialogue: 0,0:19:28.51,0:19:32.19,Default (i),,0,0,0,,{\be1}Zabronienie nam rozmowy...
+Dialogue: 0,0:19:32.19,0:19:36.23,Default (i),,0,0,0,,{\be1}Chyba też było planem naszego pana.
+Dialogue: 0,0:19:38.70,0:19:40.41,Default (i),,0,0,0,,{\be1}- Yoshi?\N- Panie?
+Dialogue: 0,0:19:40.41,0:19:44.33,Default,,0,0,0,,{\be1}Widzę, że dobrze się bawicie.
+Dialogue: 0,0:19:44.33,0:19:49.25,Default (i),,0,0,0,,{\be1}O czym ty mówisz?\NRozwiąż mnie, szybko!
+Dialogue: 0,0:19:50.36,0:19:51.46,Default,,0,0,0,,{\be1}No co?
+Dialogue: 0,0:19:51.46,0:19:54.72,Default,,0,0,0,,{\be1}Mam pomacać twoje cycki?
+Dialogue: 0,0:19:55.49,0:19:58.41,Default (i),,0,0,0,,{\be1}Nie tego chciałam!
+Dialogue: 0,0:19:58.41,0:20:02.68,Default (i),,0,0,0,,{\be1}Zwariuję jak nie przestaniesz!
+Dialogue: 0,0:20:03.99,0:20:13.61,Default (i),,0,0,0,,{\be1}Przestań, nie chcę, żeby Ayaka\Nwidziała jak się podniecam!
+Dialogue: 0,0:20:15.39,0:20:19.07,Default (i),,0,0,0,,{\be1}Ja też chcę.
+Dialogue: 0,0:20:19.07,0:20:26.04,Default (i),,0,0,0,,{\be1}Chcę poczuć dotyka nie jakiegoś wibratora!
+Dialogue: 0,0:20:26.04,0:20:29.92,Default,,0,0,0,,{\be1}A dla ciebie wibrator za słabo działa?
+Dialogue: 0,0:20:31.09,0:20:41.18,Default (i),,0,0,0,,{\be1}To nie fair, dobrze wiesz czego chcę,\Na i tak drażnisz się ze mną!
+Dialogue: 0,0:20:42.95,0:20:49.60,Default (i),,0,0,0,,{\be1}Ayaka wyglądasz na podnieconą.\NAż tak cię to podnieca?
+Dialogue: 0,0:20:49.60,0:20:54.23,Default (i),,0,0,0,,{\be1}Ja też chcę więcej przyjemności.
+Dialogue: 0,0:20:55.20,0:20:57.79,Default (i),,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:20:58.65,0:21:04.12,Default,,0,0,0,,{\be1}Nie powstrzymam się,\Njeśli będziecie tak na mnie patrzeć.
+Dialogue: 0,0:21:12.38,0:21:17.51,Default,,0,0,0,,{\be1}Jest mokry, aż chce się włożyć.
+Dialogue: 0,0:21:19.89,0:21:24.69,Default,,0,0,0,,{\be1}Wchodzi mi w tyłek!
+Dialogue: 0,0:21:25.37,0:21:29.02,Default,,0,0,0,,{\be1}Ale i tak ci przyjemnie, nie?
+Dialogue: 0,0:21:31.42,0:21:33.86,Default,,0,0,0,,{\be1}To nie...
+Dialogue: 0,0:21:34.55,0:21:38.29,Default,,0,0,0,,{\be1}Ayaka, wyliż mi tyłek.
+Dialogue: 0,0:21:39.39,0:21:41.07,Default (i),,0,0,0,,{\be1}Tyłek?
+Dialogue: 0,0:21:47.84,0:21:56.71,Default (i),,0,0,0,,{\be1}Nie wierzę, Ayaka liże mu tyłek!
+Dialogue: 0,0:21:57.49,0:21:59.20,Default (i),,0,0,0,,{\be1}Co robić?
+Dialogue: 0,0:21:59.20,0:22:07.08,Default (i),,0,0,0,,{\be1}Robię coś bardzo zawstydzającego,\Na i tak mnie to podnieca.
+Dialogue: 0,0:22:07.08,0:22:11.05,Default (i),,0,0,0,,{\be1}Naprawdę jestem zboczona.
+Dialogue: 0,0:22:15.71,0:22:22.62,Default (i),,0,0,0,,{\be1}O rany, jego kutas powiększa się!
+Dialogue: 0,0:22:25.60,0:22:28.99,Default (i),,0,0,0,,{\be1}Ayaka, już nie mogę!
+Dialogue: 0,0:22:29.73,0:22:35.23,Default (i),,0,0,0,,{\be1}Ayaka, przepraszam,\Nale nie mogę się powstrzymać.
+Dialogue: 0,0:22:35.23,0:22:39.63,Default (i),,0,0,0,,{\be1}Ja też chcę się zabawiać z naszym panem!
+Dialogue: 0,0:22:43.49,0:22:47.10,Default,,0,0,0,,{\be1}Robisz się ciasna.
+Dialogue: 0,0:22:48.92,0:22:54.53,Default (i),,0,0,0,,{\be1}O nie, jeśli dalej będzie mnie brać w tyłek...
+Dialogue: 0,0:22:57.77,0:23:01.57,Default,,0,0,0,,{\be1}Powiedz wyraźnie, gdy będziesz dochodzić.
+Dialogue: 0,0:23:03.46,0:23:09.00,Default,,0,0,0,,{\be1}Panie, zaraz dojdę!
+Dialogue: 0,0:23:17.82,0:23:20.86,Default,,0,0,0,,{\be1}Dobrze się spisałaś.
+Dialogue: 0,0:23:20.86,0:23:24.55,Default,,0,0,0,,{\be1}Teraz razem zabawimy się z drugą Ayaką.
+Dialogue: 0,0:23:25.52,0:23:27.49,Default,,0,0,0,,{\be1}Ayaką?
+Dialogue: 0,0:23:29.58,0:23:32.41,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:23:38.46,0:23:43.22,Default,,0,0,0,,{\be1}Przepraszam, ale bardzo cię pragnę!
+Dialogue: 0,0:23:46.05,0:23:50.18,Default,,0,0,0,,{\be1}Ayaka, twoja kolej się zabawić.
+Dialogue: 0,0:24:00.21,0:24:02.38,Default,,0,0,0,,{\be1}Mocno się podnieciłam!
+Dialogue: 0,0:24:05.13,0:24:08.55,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:24:09.41,0:24:11.62,Default,,0,0,0,,{\be1}Nie mogę przestać!
+Dialogue: 0,0:24:15.29,0:24:18.73,Default,,0,0,0,,{\be1}Mocno zaczęłaś ściskać!
+Dialogue: 0,0:24:24.15,0:24:30.59,Default,,0,0,0,,{\be1}Panie, ukarz nas jeszcze.
+Dialogue: 0,0:24:39.48,0:24:40.87,Default,,0,0,0,,{\be1}Oszaleję!
+Dialogue: 0,0:24:40.87,0:24:45.83,Default,,0,0,0,,{\be1}Ukarzę was obydwie.
+Dialogue: 0,0:24:56.00,0:25:04.88,Default,,0,0,0,,{\be1}O nie, jeśli dalej będziesz mnie\Npieprzyć, to oszaleję i dojdę!
+Dialogue: 0,0:25:06.69,0:25:13.64,Default,,0,0,0,,{\be1}To nic, oszalejmy razem!
+Dialogue: 0,0:25:16.39,0:25:20.38,Default,,0,0,0,,{\be1}Twój kutas mocno drży!
+Dialogue: 0,0:25:21.32,0:25:23.85,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:25:42.19,0:25:46.92,Default,,0,0,0,,{\be1}Przepraszam, chyba przesadziłem.
+Dialogue: 0,0:25:46.93,0:25:48.61,Default,,0,0,0,,{\be1}Jesteś zła?
+Dialogue: 0,0:25:49.08,0:25:52.57,Default,,0,0,0,,{\be1}Nie jestem.
+Dialogue: 0,0:25:53.26,0:26:01.45,Default,,0,0,0,,{\be1}Po prostu, dziwnie się czułam,\Ngdy Ayaka na mnie patrzyła.
+Dialogue: 0,0:26:02.25,0:26:07.09,Default,,0,0,0,,{\be1}Przepraszam, więcej nie będę ci tego robić.
+Dialogue: 0,0:26:07.59,0:26:12.34,Default,,0,0,0,,{\be1}Wcale nie musimy tego kończyć.
+Dialogue: 0,0:26:19.59,0:26:26.33,Default,,0,0,0,,{\be1}Czasami możemy zabawić się we trójkę.

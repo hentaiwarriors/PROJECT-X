@@ -1,0 +1,257 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Love Bitch Dialogue,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H00654A65,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue Alternate,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H005354B6,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0.5,2,50,50,33,1
+Style: Love Bitch Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SD-H.Logo,SubDESU,115,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Love Bitch Dialogue - Chisato,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H0A6F437C,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Sato,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H0A00376F,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Guy,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H14000095,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Sato Alt,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H0A00376F,&H00000000,0,-1,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Chisato Alt,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H0A6F437C,&H00000000,0,-1,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Guy 2,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H140D83B5,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Guy Alt,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H14000095,&H00000000,0,-1,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Love Bitch Dialogue - Guy 3,Mentone Lig,37,&H00FFFFFF,&H000000FF,&H14011D5C,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,50,50,33,1
+Style: Team-DD,SoulEater,25,&H000000D7,&H00000000,&H0A1ACFFD,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,20,20,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.60,0:00:17.55,Team-DD,,0,0,0,,{\pos(530,50)\fad(600,1)}http://deutsche-doujins.to
+Dialogue: 0,0:00:14.45,0:00:16.32,Love Bitch Dialogue Alternate,,0,0,0,,{\be1}{\i1}Love Bitch{\i0}
+Dialogue: 0,0:00:30.46,0:00:33.55,Love Bitch Dialogue - Sato Alt,,0000,0000,0000,,{\be1}{\i1}Chisato-san ist eine meiner Kommilitoninnen im höheren Semester.{\ Chisato-san is my senior in the university.\NShe's kind and everyone adores her.}{\i0}
+Dialogue: 0,0:00:33.57,0:00:36.70,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Sie ist immer freundlich und jeder bewundert sie.{\ Chisato-san is my senior in the university.\NShe's kind and everyone adores her.}{\i0}
+Dialogue: 0,0:00:37.38,0:00:38.68,Love Bitch Dialogue - Chisato Alt,,0,0,0,,{\be1}{\i1}Sato-kun.{\i0}
+Dialogue: 0,0:00:39.07,0:00:42.44,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Ich liebe Chisato-san aufrichtig.{\i0}
+Dialogue: 0,0:00:43.43,0:00:48.07,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Aber ich schaffe es nicht ihr meine Gefühle zu gestehen.{\i0}
+Dialogue: 0,0:00:50.71,0:00:54.17,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Schnell! Rein hier, Chisato. Mach schon!
+Dialogue: 0,0:00:54.17,0:00:55.38,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ja.
+Dialogue: 0,0:00:55.38,0:00:56.53,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Chisato.
+Dialogue: 0,0:00:56.91,0:01:00.46,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich will dich jetzt ficken.
+Dialogue: 0,0:01:00.46,0:01:02.30,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Zieh dich aus!
+Dialogue: 0,0:01:02.30,0:01:02.93,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Hä!?
+Dialogue: 0,0:01:02.93,0:01:06.32,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich sagte du sollst dich ausziehen. Mach schon!
+Dialogue: 0,0:01:06.32,0:01:07.78,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}A-Aber...
+Dialogue: 0,0:01:08.30,0:01:11.58,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Hörst du schlecht? Ausziehen!
+Dialogue: 0,0:01:12.39,0:01:13.09,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ja.
+Dialogue: 0,0:01:13.09,0:01:14.09,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Hä?!
+Dialogue: 0,0:01:16.35,0:01:19.53,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Komm schon, mach die Beine breit!
+Dialogue: 0,0:01:19.53,0:01:22.76,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}A-Aber, an so einem Ort...
+Dialogue: 0,0:01:22.76,0:01:25.05,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Was für'ne vorlaute Schlampe du nur bist!
+Dialogue: 0,0:01:33.49,0:01:39.11,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Hey, hey. Du sagt du willst es nicht,\Naber deine Fotze ist bereits klatschnass.
+Dialogue: 0,0:01:42.54,0:01:46.88,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Du saugst meinen Schwanz ein.\NUnd das ganz ohne Vorspiel!
+Dialogue: 0,0:01:47.77,0:01:50.01,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Chisato-san, was ist nur...{\i0}
+Dialogue: 0,0:01:51.45,0:01:53.61,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein, nicht!
+Dialogue: 0,0:01:53.61,0:01:58.13,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Du wirst selbst an so einem Ort geil... Was für eine perverse Schlampe!{\ You're getting excited in such a place.\NYou're a pervert, after all.}
+Dialogue: 0,0:01:58.14,0:02:03.73,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Jemand könnte uns hier finden.{\ Someone might find us here having sex like this.}
+Dialogue: 0,0:02:03.73,0:02:05.20,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Bitte nicht!{\ No way!}
+Dialogue: 0,0:02:05.74,0:02:10.71,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Aber ich wette, es würde dir nichts ausmachen, wenn die ganze Schule dich so sehen würde!{\ But I'm sure you wouldn't mind having everyone in school see you like this.}
+Dialogue: 0,0:02:14.28,0:02:21.31,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich will, dass jeder erfährt, was für eine schwanzgeile Nutte unsere Chisato-sempai ist.{\ I want everyone to know their lovely Chisato Senpai is\Na perverted, penis loving woman.}
+Dialogue: 0,0:02:21.31,0:02:22.31,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein!{\ No!}
+Dialogue: 0,0:02:22.31,0:02:23.34,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Tu das nicht.{\ You can't.}
+Dialogue: 0,0:02:23.82,0:02:25.08,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Tu das nicht!{\ You can't!}
+Dialogue: 0,0:02:25.61,0:02:28.31,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Ich kann gar nicht glauben, dass... dass Chisato-san...{\ I can't believe that... That Chisato-san is...}{\i0}
+Dialogue: 0,0:02:38.60,0:02:39.42,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein...{\ No...}
+Dialogue: 0,0:02:40.10,0:02:42.51,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Hat Chisato-san gerade zu mir geschaut?{\ Did Chisato-san just look at me?}{\i0}
+Dialogue: 0,0:02:42.51,0:02:44.26,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Das fühlt sich gut an.{\ It feels good.}
+Dialogue: 0,0:02:50.92,0:02:51.84,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Mehr...{\More...}
+Dialogue: 0,0:02:52.56,0:02:53.90,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Mehr!{\More!}
+Dialogue: 0,0:02:56.45,0:02:57.09,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Oh?!
+Dialogue: 0,0:02:58.17,0:03:03.00,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Mit diesem vulgären Körper versuchst du wohl jeden Mann auf dich aufmerksam machen!{\With your vulgar body, you're trying to grab every man's attention!}
+Dialogue: 0,0:03:05.73,0:03:08.12,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Wenn... Wenn du das so hart machst...{\If... If you're doing it that hard...}
+Dialogue: 0,0:03:08.55,0:03:12.97,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Wenn ich dich ansehe, will ich einfach nur zustoßen! Verstehst du?{\When I look at you, I just want to thrust in and out, ya know?}
+Dialogue: 0,0:03:15.33,0:03:16.59,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich komme...{\Cumming...}
+Dialogue: 0,0:03:17.11,0:03:17.90,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Verdammt...{\ No!}
+Dialogue: 0,0:03:18.24,0:03:19.21,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich komme!{\ I'm cumming!}
+Dialogue: 0,0:03:38.06,0:03:43.84,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}So plattgefickt, brauchst du wohl noch ne Weile. Ich gehe schon mal ohne dich.{\ With you in this kind of state, I'll head back first.}
+Dialogue: 0,0:03:44.31,0:03:45.71,Love Bitch Dialogue - Sato Alt,,0,0,0,,{\be1}{\i1}Chisato-san.{\i0}
+Dialogue: 0,0:03:45.71,0:03:47.97,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Doch zuvor...{\ But I've got something to deal with first.}
+Dialogue: 0,0:03:51.57,0:03:53.63,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich weiß, dass du da drin bist, Sato.{\ I know you're in there, Sato.}
+Dialogue: 0,0:03:53.92,0:03:57.36,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich weiß, dass du dich da drin versteckst.{\ I know you've been hiding in there this whole time.}
+Dialogue: 0,0:03:58.16,0:04:01.07,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Du liebst Chisato doch, oder?{\ You feel strongly for Chisato, right?}
+Dialogue: 0,0:04:01.07,0:04:04.01,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Hab' schon lange bemerkt, wie du sie anstarrst.{\ I've noticed you're always staring at Chisato.}
+Dialogue: 0,0:04:04.01,0:04:06.13,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Und das macht mich krank!{\ That's make me sick, ya know?!}
+Dialogue: 0,0:04:06.63,0:04:12.25,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Dein Gespanne hat Chisato extra geil gemacht, also verzeihe ich dir für heute...{\ Well... I'll forgive you this one time, since your presence\Nmade Chisato and I excited.}
+Dialogue: 0,0:04:13.72,0:04:14.99,Love Bitch Dialogue - Guy,,0000,0000,0000,,{\be1}Aber Chisato gehört mir!{\ But let me tell you; after I get myself drunk, I'm going to fuck Chisato all night.}
+Dialogue: 0,0:04:15.14,0:04:18.23,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich werd mir jetzt die Kante geben und sie dann noch härter rannehmen!{\ But let me tell you; after I get myself drunk, I'm going to fuck Chisato all night.}
+Dialogue: 0,0:04:18.80,0:04:22.92,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Kannst dir das heute Nacht in aller Pracht ausmalen und dir einen runter holen.{\ You can go and imagine that tonight while you masturbate.}
+Dialogue: 0,0:04:23.46,0:04:28.65,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Tja, Chisato ist halt mein Mädchen... und nur ich darf sie ficken.{\ Well, you know Chisato is my woman, after all,\Nso it's up to me to satisfy her.}
+Dialogue: 0,0:04:29.84,0:04:31.64,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Tust mir ja echt etwas Leid, Sato...{\ I feel sorry for you, Sato.}
+Dialogue: 0,0:04:34.92,0:04:36.15,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Sato-kun.
+Dialogue: 0,0:04:36.15,0:04:37.10,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Huh!?
+Dialogue: 0,0:04:38.64,0:04:39.76,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Tut mir Leid.{\ I'm sorry.}
+Dialogue: 0,0:04:51.87,0:04:56.38,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Du perverse Schlampe. Du wagst es mit anderen Männern zu flirten?{\ You perverted woman. You dare look at someone other than me!?}
+Dialogue: 0,0:04:56.77,0:05:03.21,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Obwohl ich dich jeden Tag flach lege?\NWill diese Fotze noch mehr Zuneigung?{\ Although I'm screwing you everyday, is a perverted woman like you still not getting enough attention!?}
+Dialogue: 0,0:05:03.58,0:05:06.16,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}D-Das ist es nicht!{\ I-It's not like that!}
+Dialogue: 0,0:05:10.50,0:05:14.57,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Es hat dich doch geil gemacht,\Ndass Sato dir dabei zusah, oder?{\ You were excited while Sato was watching earlier, right?}
+Dialogue: 0,0:05:15.37,0:05:16.49,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}N-Nein!{\ N-No!}
+Dialogue: 0,0:05:18.15,0:05:19.13,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}N-Nein...{\ N-No...}
+Dialogue: 0,0:05:19.42,0:05:21.81,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Das hat mich nicht erregt...{\ I wasn't excited...}
+Dialogue: 0,0:05:23.24,0:05:27.31,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Das bezweifle ich! Eine Frau mit solchen Titten...{\ I doubt that! I mean, with breasts like these...}
+Dialogue: 0,0:05:28.62,0:05:31.38,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Wieviele lüsterne Männerblicke willst du damit auf dich ziehen?{\ How much attention do you need from other men?}
+Dialogue: 0,0:05:32.60,0:05:34.82,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nicht so brutal.{\ Please don't do it so hard.}
+Dialogue: 0,0:05:35.80,0:05:39.66,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Huh?! Aber die softe Tour genügt dir doch gar nicht!{\ Huh!? But it won't be enough if I don't do it this hard, right?}
+Dialogue: 0,0:05:39.67,0:05:41.64,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}D-Das stimmt nicht...{\ I-It's not...}
+Dialogue: 0,0:05:43.51,0:05:47.90,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Oder willst du noch andere Männer mit deiner Muschi anlocken?{\ Or is it just that you want to attract attention from other men with this pussy?}
+Dialogue: 0,0:05:50.33,0:05:51.11,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein!{\ No!}
+Dialogue: 0,0:05:51.52,0:05:53.61,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Tu das nicht!{\ You, you can't!}
+Dialogue: 0,0:05:53.74,0:05:56.93,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Du sabberst und stöhnst unkontrolliert.{\ You're drolling and screaming at the same time.}
+Dialogue: 0,0:05:57.37,0:06:02.90,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich bin mir sicher, dass du es genießt, so wie sich deine Muschi an meinen Schwanz saugt!{\ But I'm sure you really want it since your pussy's\Ngetting tighter and tighter around my dick.}
+Dialogue: 0,0:06:04.08,0:06:07.23,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}D-Das macht mein Körper von ganz allein...{\ M-My body's doing that by itself...}
+Dialogue: 0,0:06:11.23,0:06:12.02,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Hmm?{\ Hm?}
+Dialogue: 0,0:06:12.44,0:06:12.94,Love Bitch Dialogue - Guy 2,,0,0,0,,{\be1}Jo{\ Yo.}
+Dialogue: 0,0:06:16.16,0:06:16.79,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein.{\ No.}
+Dialogue: 0,0:06:24.82,0:06:27.76,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Chisato ist die Art Frau,\Ndie alles tut was man ihr sagt.{\ Chisato is the kind of woman who'll do whatever I ask.}{\i0}
+Dialogue: 0,0:06:28.24,0:06:33.81,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Heute Nacht habe ich zwei Freunde eingeladen, um Chisato durchzuficken.{\ Tonight, I asked some friends to come and fuck Chisato.}{\i0}
+Dialogue: 0,0:06:40.37,0:06:44.66,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Chisato, du bist echt das Letzte!{\ Chisato, you're such a perverted woman!}
+Dialogue: 0,0:06:45.56,0:06:48.38,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Sie hat Sex mit fremden Männern...{\ She's having sex with other men...}{\i0}
+Dialogue: 0,0:06:48.63,0:06:54.12,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Es erregt mich wie ihr Gestöhne im Hotelzimmer widerhallt.{\ It excites me to hear her voice resound like this within the hotel room.}{\i0}
+Dialogue: 0,0:06:55.68,0:07:00.69,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Chisato, kann es sein dass es dir gefällt, selbst wenn es nicht mein Penis ist?{\ Chisato, is it possible you feel me even without my penis throbbing inside of you?}
+Dialogue: 0,0:07:03.52,0:07:06.53,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}So ist's nicht!{\ I-It's not like that!}
+Dialogue: 0,0:07:12.32,0:07:13.21,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Aufhören.{\ Stop.}
+Dialogue: 0,0:07:25.92,0:07:29.58,Love Bitch Dialogue - Guy Alt,,0000,0000,0000,,{\be1}{\i1}Chisato ist wie eine läufige Hündin, die nicht damit aufhören kann...{\ Chisato is a lot like a bitch who can't stop waiving its tail for its master.}{\i0}
+Dialogue: 0,0:07:29.61,0:07:31.58,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}...ihren Schwanz für ihren Meister zu wedeln.{\ Chisato is a lot like a bitch who can't stop waiving its tail for its master.}{\i0}
+Dialogue: 0,0:07:31.58,0:07:33.52,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Nicht zu fassen.{\ This can no longer be a joke.}{\i0}
+Dialogue: 0,0:07:43.71,0:07:48.13,Love Bitch Dialogue - Guy 2,,0,0,0,,{\be1}Chisato-san, du stöhnst jedes mal, wenn ich mit deinem Körper spiele.{\ Chisato-san, you get excited every time I draw on your body.}
+Dialogue: 0,0:07:48.13,0:07:50.41,Love Bitch Dialogue - Guy 2,,0,0,0,,{\be1}Soll ich noch viel perversere Sachen mit dir anstellen?{\ Should I draw something even more perverted than before?}
+Dialogue: 0,0:07:50.98,0:07:55.12,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}B-Bitte... nicht noch mehr...{\ P-Please... Don't draw anything more.}
+Dialogue: 0,0:07:55.12,0:07:57.03,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}I-Ich kann nicht mehr...{\ I-I can't...}
+Dialogue: 0,0:07:58.23,0:08:00.03,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein... Ich komme schon wieder.{\ No... I'm going to cum again.}
+Dialogue: 0,0:08:03.40,0:08:07.70,Love Bitch Dialogue - Guy 3,,0,0,0,,{\be1}Ich komme in Chisato-sans enger Muschi.{\ I'm cumming inside Chisato-san's tight pussy.}
+Dialogue: 0,0:08:10.37,0:08:11.85,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}In mir...{\ T-There's...}
+Dialogue: 0,0:08:11.85,0:08:12.99,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}...steckt so viel...{\ ...so much...}
+Dialogue: 0,0:08:13.35,0:08:16.32,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}...heißes Sperma...{\ ...hot juice inside me.}
+Dialogue: 0,0:08:22.29,0:08:24.88,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Da fällt mir gerade was gutes ein, Chisato!{\ I just remembered something good, Chisato!}
+Dialogue: 0,0:08:25.94,0:08:27.67,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Ich mach ein paar Bilder!{\ Taking pictures!}
+Dialogue: 0,0:08:28.94,0:08:29.60,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein!{\ No!}
+Dialogue: 0,0:08:30.04,0:08:34.92,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Die gebe ich dann diesem Versager von Sato.{\ I'll let Sato stare at this, rather than stare upfront.}
+Dialogue: 0,0:08:36.50,0:08:37.46,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein!{\ No!}
+Dialogue: 0,0:08:37.46,0:08:39.69,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Bin mir sicher er freut sich schon riesig...{\ I'm sure he'll be ecstatic over these.}
+Dialogue: 0,0:08:39.69,0:08:42.79,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}...sie als Wichsvorlage benutzen zu können!{\ That he can masturbate to these pictures.}
+Dialogue: 0,0:08:43.15,0:08:46.64,Love Bitch Dialogue - Chisato Alt,,0,0,0,,{\be1}{\i1}Würde Sato-kun so etwas machen?{\ Sato-kun would do that?}{\i0}
+Dialogue: 0,0:08:49.13,0:08:51.21,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Das freut dich doch auch, oder?{\ You're also happy about that, right?}
+Dialogue: 0,0:08:51.21,0:08:52.57,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}D-Das stimmt nicht!{\ T-That's not true!}
+Dialogue: 0,0:08:55.05,0:08:58.45,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Deine Muschi wird von mal zu mal weiter...{\ Your pussy's become sloppier than usual.}
+Dialogue: 0,0:09:01.70,0:09:04.22,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Tzz, tzz, tzz... Du bist so eine versaute Frau!{\ Geez... You're such a slutty woman!}
+Dialogue: 0,0:09:04.84,0:09:06.39,Love Bitch Dialogue - Guy,,0,0,0,,{\be1}Du bist so...{\ You're such...!}
+Dialogue: 0,0:09:12.73,0:09:15.83,Love Bitch Dialogue - Guy 3,,0,0,0,,{\be1}Chisato-san macht überhaupt kein befriedigtes Gesicht.{\ Chisato-san is making an unsatisfied face.}
+Dialogue: 0,0:09:16.48,0:09:20.03,Love Bitch Dialogue - Guy 2,,0,0,0,,{\be1}Wenn du noch mehr Sperma haben willst, musst du nur fragen.{\ If you want more from us, why don't ask for more?}
+Dialogue: 0,0:09:22.27,0:09:23.63,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Diese Frau...{\ This woman...}{\i0}
+Dialogue: 0,0:09:23.78,0:09:28.00,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}...ist nur eine billige Schlampe, die alles tut was man ihr sagt.{\ ...is a boring slut who'll listen to everything I say.}{\i0}
+Dialogue: 0,0:09:31.35,0:09:34.27,Love Bitch Sign,,0,0,20,,{\fad(1000,0)\fnRotisSansSerif65\b1\bord0\shad0\fs40\c&HE6EAE4&}Einen Monat später{\ ~One Month Later~}
+Dialogue: 0,0:09:36.05,0:09:39.01,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Scheint so als hätte er mich in den Wind geschossen.{\ It appears I've been dumped.}
+Dialogue: 0,0:09:40.56,0:09:42.15,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}S-Sato-kun?
+Dialogue: 0,0:09:43.54,0:09:46.72,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Auch wenn ich dir das vielleicht nicht zeigen sollte...{\ Though I probably shouldn't let you see this...}
+Dialogue: 0,0:09:47.66,0:09:48.59,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}{\i1}Huh!?{\i0}
+Dialogue: 0,0:09:48.98,0:09:51.03,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Das hält er in Wirklichkeit von dir.{\ This is what he really thinks of you.}
+Dialogue: 0,0:09:51.87,0:09:55.48,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Hier siehst du wie Chisato in den Arsch gefickt wird!{\ You can see Chisato's ass being fucked from the rear!}{\i0}
+Dialogue: 0,0:09:56.47,0:09:59.57,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Heute zeige ich dir wie's aussieht, wenn Sperma aus ihr rausfließt.{\ Today I've sent you a picture of cum spilling out of her.}{\i0}
+Dialogue: 0,0:10:01.28,0:10:06.49,Love Bitch Dialogue - Guy Alt,,0,0,0,,{\be1}{\i1}Kannst diese Schlampe haben, Sato. Sie langweilt mich nur noch.{\ I'll let you have this woman, Sato. I've gotten pretty tired of her anyways.}{\i0}
+Dialogue: 0,0:10:07.15,0:10:09.86,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Er ist immer so gemein zu dir, Chisato-san.{\ He's so cruel to you, Chisato-san.}
+Dialogue: 0,0:10:10.90,0:10:14.67,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Es macht mich verrückt zu sehen, was du andauernd ertagen musst.{\ It makes me mad that you're always in pain because of his demands.}
+Dialogue: 0,0:10:16.50,0:10:17.39,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Tut mir Leid...{\ Sorry.}
+Dialogue: 0,0:10:17.65,0:10:18.17,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Hä?{\ Eh?}
+Dialogue: 0,0:10:18.17,0:10:20.19,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}E-Es ist...{\ I-I'm...}
+Dialogue: 0,0:10:20.83,0:10:22.63,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Es ist allein meine Schuld.{\ I'm the one who's at fault.}
+Dialogue: 0,0:10:22.63,0:10:24.96,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ch-Chisato-san?
+Dialogue: 0,0:10:25.37,0:10:30.00,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich bin einfach zu langweilig. Ein jeder verliert letztendlich das Interesse an mir!{\ I'm a boring woman. Everyone gets tired of me eventually.}
+Dialogue: 0,0:10:30.68,0:10:32.40,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Er ist kein schlechter Mensch.{\ It's not that man's fault.}
+Dialogue: 0,0:10:32.40,0:10:35.33,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}W-Was sagt du denn nur, Chisato-san?{\ W-What are you saying, Chisato-san?}
+Dialogue: 0,0:10:35.33,0:10:37.38,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Nimm ihn nicht in Schutz!{\ There's a limit to your kindness.}
+Dialogue: 0,0:10:37.38,0:10:42.44,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Er kann nichts dafür. Es ist immerhin allein meine Schuld.{\ He can't help it, s-since it's my fault after all.}
+Dialogue: 0,0:10:43.38,0:10:44.68,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Was soll das?{\ What are you saying?}
+Dialogue: 0,0:10:44.68,0:10:45.68,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Häh?!{\ Eh?}
+Dialogue: 0,0:10:46.29,0:10:48.34,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ich verstehe kein Wort!{\ I don't understand that at all!}
+Dialogue: 0,0:10:48.34,0:10:52.31,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Seit langer Zeit bin ich schon in dich verliebt!{\ L-Long ago, I was just like you!}
+Dialogue: 0,0:10:53.17,0:10:57.23,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Aber du warst immer mit jemandem zusammen.{\ But, there's always someone by your side.}
+Dialogue: 0,0:10:57.23,0:11:02.00,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Es war so schmerzlich... so schmerzlich!{\ That painful... Painful! Painful!}
+Dialogue: 0,0:11:02.00,0:11:03.98,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Sato-kun!?
+Dialogue: 0,0:11:05.13,0:11:06.32,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Entschuldige...{\ I'm sorry.}
+Dialogue: 0,0:11:06.99,0:11:08.06,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}...ich habe nur...{\ I just...}
+Dialogue: 0,0:11:08.98,0:11:10.60,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Was soll ich nur tun?{\ What should I do then?}
+Dialogue: 0,0:11:10.60,0:11:11.68,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Häh?{\ Eh?}
+Dialogue: 0,0:11:11.68,0:11:16.05,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Was kann ich nur tun, um alles wieder in Ordnung zu bringen?{\ What should I do to fix everything?}
+Dialogue: 0,0:11:17.55,0:11:22.67,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ich bin Abschaum, dich hierzu überredet zu haben...{\ I'm scum to make Chisato-san do something like this.}
+Dialogue: 0,0:11:22.67,0:11:27.49,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nein... das sehe ich anders.\NEs macht mich sehr glücklich.{\ No... Don't think that. I actually feel happy about this.}
+Dialogue: 0,0:11:27.90,0:11:33.57,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Wenn ich deinen Schmerz mit meinem liederlichen Körper lindern kann...{\ If I can relieve your pain with my slutty body...}
+Dialogue: 0,0:11:33.57,0:11:35.87,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Benutze mich wie du nur willst.{\ You can use it as much as you like.}
+Dialogue: 0,0:11:35.87,0:11:39.55,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich hätte nur eine Frage, Sato-kun.{\ And then... Sato-kun.}
+Dialogue: 0,0:11:39.77,0:11:41.92,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Denkst du an mich beim Masturbieren?{\ Have you masturbated to me?}
+Dialogue: 0,0:11:41.92,0:11:42.92,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Häh?{\ Eh?}
+Dialogue: 0,0:11:43.07,0:11:46.82,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Du hast mich beobachtet, wie ich gekommen bin.{\ You've seen me doing it before.}
+Dialogue: 0,0:11:47.21,0:11:52.13,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Und du sahst meinen lüsternen Körper auf den Fotos.{\ And you also saw my perverted body in those photographs.}
+Dialogue: 0,0:11:52.14,0:11:54.25,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Deshalb, Sato-kun...{\ That's why, Sato-kun...}
+Dialogue: 0,0:11:54.25,0:11:59.64,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Würde ich gern wissen, ob du an mich denkst, wenn du onanierst.{\ I was... I was wondering if you've masturbated to the thought of me.}
+Dialogue: 0,0:12:00.40,0:12:01.21,Love Bitch Dialogue - Chisato Alt,,0,0,0,,{\be1}{\i1}An jenem Tag...{\ That day.}{\i0}
+Dialogue: 0,0:12:01.48,0:12:05.50,Love Bitch Dialogue - Chisato Alt,,0,0,0,,{\be1}{\i1}...konntest du sehen, wie ich in der Toilette bei Izayakas genommen wurde.{\ You saw me being screwed at Izayaka-san's place.}{\i0}
+Dialogue: 0,0:12:05.88,0:12:10.79,Love Bitch Dialogue - Chisato Alt,,0,0,0,,{\be1}{\i1}Weißt du... ich hatte damals an dich gedacht, als er mich fickte.{\ You know, I've thought of you while being screwed before.}{\i0}
+Dialogue: 0,0:12:12.02,0:12:16.41,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich kann nicht erklären, warum mich der Gedanke so sehr erregt.{\ I don't know why I become so excited from such thoughts.}
+Dialogue: 0,0:12:16.41,0:12:19.86,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Sato-kun, hast du beim Onanieren schon mal an mich gedacht?{\ Sato-kun, have you masturbated to me?}
+Dialogue: 0,0:12:20.11,0:12:22.09,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Hab ich!{\ I have!}
+Dialogue: 0,0:12:22.09,0:12:24.95,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ich hab mir schon mehr als hundert mal einen runter geholt und dabei an dich gedacht!{\ I've masturbated to you over a hundred times!}
+Dialogue: 0,0:12:28.72,0:12:30.76,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ich bin mir sicher, jeder tut das.{\ I'm sure everyone has.}
+Dialogue: 0,0:12:31.61,0:12:33.78,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Allerdings... habe ich dich schon immer geliebt.{\ Though... I've liked you even before.}
+Dialogue: 0,0:12:35.11,0:12:36.98,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Aber ich konnte nichts dagegen tun.{\ But I couldn't do anything about it.}
+Dialogue: 0,0:12:37.83,0:12:39.50,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ich wollte dein Antlitz rein halten.{\ I can't go on doing this myself!}
+Dialogue: 0,0:12:40.99,0:12:45.31,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Aber es war unmöglich bei diesen Bildern nicht zu wichsen!{\ It was too hard not masturbating to those pictures\Nsince I knew they'd still be there regardless.}
+Dialogue: 0,0:12:49.49,0:12:52.31,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Es tut mir so Leid, Sato-kun...{\ I'm so sorry, Sato-kun.}
+Dialogue: 0,0:12:52.73,0:12:54.92,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich wusste nicht, wie du für mich empfindest.{\ I didn't know you had those feelings.}
+Dialogue: 0,0:12:56.42,0:13:00.01,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Bestimmt leidest du noch immer unter meiner damaligen Ignoranz.{\ I'm sure you're still hurting because of me, right?}
+Dialogue: 0,0:13:03.06,0:13:04.47,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Es tut mir so Leid.{\ I'm sorry.}
+Dialogue: 0,0:13:04.47,0:13:05.87,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich bin so eine dumme Frau.{\ That's why...}
+Dialogue: 0,0:13:08.53,0:13:11.78,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Ganz genau. Es ist alles Chisato-sans Schuld.{\ That's right. It's all Chisato-san's fault.}
+Dialogue: 0,0:13:11.78,0:13:14.07,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Du hast mich verletzt!{\ You've hurt me!}
+Dialogue: 0,0:13:24.77,0:13:26.44,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Chisato-san.
+Dialogue: 0,0:13:28.14,0:13:29.86,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Dort unten...{\ T-That place.}
+Dialogue: 0,0:13:30.99,0:13:32.34,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Nicht dort!{\ You can't!}
+Dialogue: 0,0:13:32.43,0:13:35.03,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Leck mich nicht dort!!{\ You can't lick something like that.}
+Dialogue: 0,0:13:37.67,0:13:40.27,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Wenn du das tust... werde ich...{\ If you do that... I'm going to...}
+Dialogue: 0,0:13:41.39,0:13:44.60,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}...schon wieder kommen!{\ Cumâ€” I'm cumming!}
+Dialogue: 0,0:13:46.38,0:13:51.24,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Sato-kun, es ist alles meine Schuld.{\ S-Sato-kun, everything's my fault.}
+Dialogue: 0,0:13:51.24,0:13:54.72,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Deshalb will ich, dass du mich bestrafst.{\ That's why I want you to punish me more.}
+Dialogue: 0,0:13:54.72,0:13:57.07,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Ich werde alles wieder gut machen.{\ I should atone for all your woes.}
+Dialogue: 0,0:13:57.07,0:13:59.87,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}B-Bitte... Sato-kun.{\ P-Please... Sato-kun.}
+Dialogue: 0,0:14:00.33,0:14:03.74,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Bitte... bestrafe mich!{\ Make me... Make me cum!}
+Dialogue: 0,0:14:06.97,0:14:08.03,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Sato-kun!
+Dialogue: 0,0:14:08.48,0:14:11.77,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Du wirst für all mein Leid Verantwortung übernehmen!{\ I'll make you take responsibility for everything!}
+Dialogue: 0,0:14:12.65,0:14:14.52,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Vergib mir...{\ I'm so sorry!}
+Dialogue: 0,0:14:15.41,0:14:16.60,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}S-So gut...{\ Good...}
+Dialogue: 0,0:14:19.73,0:14:21.44,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Es tut mir Leiiiiid...
+Dialogue: 0,0:14:25.92,0:14:27.15,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}In dieses Loch.{\ With this hole.}
+Dialogue: 0,0:14:28.28,0:14:29.58,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}In dieses Loch!{\ With this hole!}
+Dialogue: 0,0:14:39.72,0:14:42.24,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}T-Tut mir Leid, Sato-kun.{\ I-I'm sorry, Sato-kun.}
+Dialogue: 0,0:14:42.24,0:14:44.34,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Jetzt ist es so weit mit uns gekommen...{\ It ended up happening like this.}
+Dialogue: 0,0:14:44.34,0:14:46.62,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Vergiss diesen anderen Mann!{\ Let's forget about that other man.}
+Dialogue: 0,0:14:46.63,0:14:47.48,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}Häh?{\ Eh?}
+Dialogue: 0,0:14:47.49,0:14:52.24,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Von jetzt an werde ich mich um dich kümmern, Chisato.{\ From now on, I'll take any kindness Chisato has to offer.}
+Dialogue: 0,0:14:53.14,0:14:54.80,Love Bitch Dialogue - Sato,,0,0,0,,{\be1}Damit bin du doch einverstanden, oder?{\ That's alright with you, isn't it?}
+Dialogue: 0,0:14:56.60,0:14:58.20,Love Bitch Dialogue - Chisato,,0,0,0,,{\be1}J-Ja.{\ Y-Yes.}
+Dialogue: 0,0:14:59.56,0:15:01.61,Love Bitch Dialogue - Chisato Alt,,0,0,0,,{\be1}{\i1}Ich hab wieder einen...{\ I've found another.}{\i0}
+Dialogue: 0,0:15:01.61,0:15:06.61,Love Bitch Dialogue - Chisato Alt,,0000,0000,0000,,

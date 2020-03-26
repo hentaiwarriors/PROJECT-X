@@ -1,0 +1,110 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 704
+PlayResY: 528
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,39 Smooth,36,&H00F0F0FF,&H0000FFFF,&H000C0C38,&H000E0E54,-1,0,0,0,100,80,0,0,1,2.8,1,2,10,10,10,0
+Style: title,LetterOMatic!,40,&H00000000,&H0000FFFF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,10,0
+Style: title2,Tahoma,48,&H00000000,&H0000FFFF,&H00000000,&H001A12BF,0,0,0,0,100,100,0,0,1,1,3,2,10,10,10,0
+Style: sign,MS Gothic,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H006B6B6B,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:26.32,0:00:31.33,title,,0000,0000,0000,,{\pos(227,145)}Bible Black Only
+Dialogue: 0,0:01:08.33,0:01:13.34,title,,0000,0000,0000,,{\pos(227,145)}Bible Black Only
+Dialogue: 0,0:01:08.33,0:01:13.34,title2,,0000,0000,0000,,{\pos(320,400)}At the faculty room toilet...
+Dialogue: 0,0:01:54.74,0:01:57.80,Default,,0000,0000,0000,,I was raped by the devil...
+Dialogue: 0,0:02:24.27,0:02:28.27,Default,,0000,0000,0000,,I lost my virginity to the devil...
+Dialogue: 0,0:03:30.61,0:03:31.73,Default,,0000,0000,0000,,Once more...
+Dialogue: 0,0:03:31.91,0:03:34.38,Default,,0000,0000,0000,,I want to feel that sensation once more...
+Dialogue: 0,0:03:35.61,0:03:37.08,Default,,0000,0000,0000,,...from the devil!
+Dialogue: 0,0:03:47.32,0:03:49.22,Default,,0000,0000,0000,,Vice principal!
+Dialogue: 0,0:04:00.94,0:04:02.27,Default,,0000,0000,0000,,Please stop...
+Dialogue: 0,0:04:02.50,0:04:03.73,Default,,0000,0000,0000,,Vice principal!
+Dialogue: 0,0:04:08.98,0:04:10.27,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:04:11.78,0:04:12.27,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:05:13.21,0:05:14.68,Default,,0000,0000,0000,,How about this?
+Dialogue: 0,0:05:15.51,0:05:16.88,Default,,0000,0000,0000,,Vice principal...
+Dialogue: 0,0:05:31.63,0:05:33.03,Default,,0000,0000,0000,,Vice principal...
+Dialogue: 0,0:07:06.72,0:07:09.52,Default,,0000,0000,0000,,You're amazing...
+Dialogue: 0,0:07:18.43,0:07:19.70,Default,,0000,0000,0000,,It's not subsiding...
+Dialogue: 0,0:07:20.14,0:07:21.93,Default,,0000,0000,0000,,This feeling won't go away...
+Dialogue: 0,0:07:23.27,0:07:24.70,Default,,0000,0000,0000,,Vice principal.
+Dialogue: 0,0:07:25.27,0:07:26.40,Default,,0000,0000,0000,,Give me more...
+Dialogue: 0,0:07:26.51,0:07:28.64,Default,,0000,0000,0000,,This time, give it to me down there...
+Dialogue: 0,0:07:46.33,0:07:47.23,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:07:53.57,0:07:54.73,Default,,0000,0000,0000,,Vice principal?
+Dialogue: 0,0:07:55.47,0:07:57.96,Default,,0000,0000,0000,,I'll do as you wish.
+Dialogue: 0,0:07:59.11,0:08:00.57,Default,,0000,0000,0000,,That voice...
+Dialogue: 0,0:08:41.98,0:08:43.47,Default,,0000,0000,0000,,Yes, yes...
+Dialogue: 0,0:09:12.28,0:09:14.68,Default,,0000,0000,0000,,Please let me go.
+Dialogue: 0,0:09:22.19,0:09:24.25,Default,,0000,0000,0000,,Please don't stop.
+Dialogue: 0,0:09:25.99,0:09:26.96,Default,,0000,0000,0000,,My ass...
+Dialogue: 0,0:09:36.74,0:09:38.76,Default,,0000,0000,0000,,So strong...
+Dialogue: 0,0:09:40.04,0:09:42.60,Default,,0000,0000,0000,,Yes, this is the sensation...
+Dialogue: 0,0:10:02.16,0:10:04.72,Default,,0000,0000,0000,,This is it.
+Dialogue: 0,0:10:05.33,0:10:07.03,Default,,0000,0000,0000,,This is what I wanted...
+Dialogue: 0,0:10:19.61,0:10:20.81,Default,,0000,0000,0000,,Vice principal...
+Dialogue: 0,0:10:31.36,0:10:35.09,Default,,0000,0000,0000,,I'm the devil's slave...
+Dialogue: 0,0:10:35.96,0:10:40.97,sign,,0000,0000,0000,,{\pos(483,441)\fade(1000,1000)}The End
+Dialogue: 0,0:11:48.94,0:11:53.94,title,,0000,0000,0000,,{\pos(227,145)}Bible Black Only
+Dialogue: 0,0:11:48.94,0:11:53.94,title2,,0000,0000,0000,,{\pos(320,400)}Secret lesson
+Dialogue: 0,0:12:04.49,0:12:05.88,Default,,0000,0000,0000,,You're late.
+Dialogue: 0,0:12:41.69,0:12:43.45,Default,,0000,0000,0000,,They're hard...
+Dialogue: 0,0:13:10.62,0:13:13.21,Default,,0000,0000,0000,,No, someone might see us.
+Dialogue: 0,0:15:13.21,0:15:14.64,Default,,0000,0000,0000,,Delicious...
+Dialogue: 0,0:15:26.39,0:15:27.38,Default,,0000,0000,0000,,Mikimoto.
+Dialogue: 0,0:15:27.49,0:15:28.82,Default,,0000,0000,0000,,Yes, manager.
+Dialogue: 0,0:16:00.66,0:16:03.52,Default,,0000,0000,0000,,Look, your nipples are getting hard.
+Dialogue: 0,0:16:03.83,0:16:04.95,Default,,0000,0000,0000,,What about down there?
+Dialogue: 0,0:16:05.06,0:16:06.79,Default,,0000,0000,0000,,It's responding well too.
+Dialogue: 0,0:16:07.33,0:16:09.76,Default,,0000,0000,0000,,Then let's strip her.
+Dialogue: 0,0:16:28.72,0:16:30.15,Default,,0000,0000,0000,,It looks fun.
+Dialogue: 0,0:16:30.35,0:16:31.68,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:16:32.72,0:16:37.49,Default,,0000,0000,0000,,Hey, you can have more fun\Nif there's a guy involved.
+Dialogue: 0,0:16:42.76,0:16:44.66,Default,,0000,0000,0000,,Pretty cunt.
+Dialogue: 0,0:16:46.67,0:16:49.33,Default,,0000,0000,0000,,It's wasteful to leave it like this.
+Dialogue: 0,0:16:49.94,0:16:50.87,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:16:58.31,0:16:59.11,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:00.08,0:17:01.17,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:17:23.30,0:17:25.60,Default,,0000,0000,0000,,Stop it, please.
+Dialogue: 0,0:17:50.16,0:17:51.46,Default,,0000,0000,0000,,Amazing.
+Dialogue: 0,0:18:01.31,0:18:02.54,Default,,0000,0000,0000,,Manager...
+Dialogue: 0,0:18:19.83,0:18:21.80,Default,,0000,0000,0000,,Please, suck on it...
+Dialogue: 0,0:18:26.63,0:18:27.60,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:18:36.14,0:18:39.41,Default,,0000,0000,0000,,Hey, this one's ready too.
+Dialogue: 0,0:18:41.78,0:18:43.44,Default,,0000,0000,0000,,No, wait!
+Dialogue: 0,0:18:48.79,0:18:50.19,Default,,0000,0000,0000,,Mine...
+Dialogue: 0,0:18:50.69,0:18:52.09,Default,,0000,0000,0000,,This is mine...
+Dialogue: 0,0:18:53.53,0:18:55.43,Default,,0000,0000,0000,,No, it's mine.
+Dialogue: 0,0:19:59.11,0:20:01.59,Default,,0000,0000,0000,,Let's do this again.
+Dialogue: 0,0:20:01.66,0:20:06.57,sign,,0000,0000,0000,,{\pos(483,441)\fade(1000,1000)}The End
+Dialogue: 0,0:21:14.17,0:21:19.21,title,,0000,0000,0000,,{\pos(227,145)}Bible Black Only
+Dialogue: 0,0:21:14.17,0:21:19.21,title2,,0000,0000,0000,,{\pos(320,365)}Events in the locker room
+Dialogue: 0,0:22:52.27,0:22:55.03,Default,,0000,0000,0000,,Stop masturbating by yourself.
+Dialogue: 0,0:23:30.91,0:23:31.50,Default,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:24:22.76,0:24:27.76,sign,,0000,0000,0000,,{\pos(483,441)\fade(1000,1000)}The End

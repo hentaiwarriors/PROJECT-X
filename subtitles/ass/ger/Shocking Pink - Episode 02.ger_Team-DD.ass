@@ -1,0 +1,260 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Shocking Pink! Dialogue,Akbar,40,&H00FFFFFF,&H00FFFFFF,&H007949DD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,1
+Style: TiTLE,Berlin Sans FB,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: SD-H.Logo,SubDESU,150,&H00753966,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Shocking Pink! Dialogue B,Akbar,40,&H00FFFFFF,&H00FFFFFF,&H6471AEB7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,1
+Style: Shocking Pink! Dialogue C,Akbar,40,&H00FFFFFF,&H00FFFFFF,&H000053A6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,1
+Style: Shocking Pink! Guy,Akbar,40,&H00FFFFFF,&H00FFFFFF,&H0036424B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,1
+Style: DD,Berlin Sans FB,20,&H00FFFFFF,&H000000FF,&H32000000,&H32000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Shocking Pink! Dialogue D,Akbar,40,&H00FFFFFF,&H00FFFFFF,&H00840084,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,1
+Style: Shocking Pink! Dialogue Alternate,Akbar,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:09:38.79,0:09:38.96,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\move(241,0,241,185,0,152)}Moral
+Dialogue: 0,0:09:38.96,0:09:39.21,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\move(241,210,241,269,0,233)}Moral
+Dialogue: 0,0:09:39.21,0:09:39.38,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(241,269)}Moral
+Dialogue: 0,0:09:39.38,0:09:39.50,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(245,143)}Moral
+Dialogue: 0,0:09:39.50,0:09:39.63,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(245,83)}Moral
+Dialogue: 0,0:09:39.63,0:09:39.75,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(248,60)}Moral
+Dialogue: 0,0:09:39.75,0:09:39.88,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(253,33)}Moral
+Dialogue: 0,0:09:39.88,0:09:40.00,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(250,53)}Moral
+Dialogue: 0,0:09:40.00,0:09:40.13,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(248,56)}Moral
+Dialogue: 0,0:09:40.13,0:09:41.00,TiTLE,,0000,0000,0000,,{\3c&HD40905&\bord5\blur2\pos(246,64)}Moral
+Dialogue: 0,0:09:38.88,0:09:39.21,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\move(393,-20,392,84,0,200)}Moe
+Dialogue: 0,0:09:39.21,0:09:39.38,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(392,84)}Moe
+Dialogue: 0,0:09:39.38,0:09:39.50,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(392,200)}Moe
+Dialogue: 0,0:09:39.50,0:09:39.63,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(392,258)}Moe
+Dialogue: 0,0:09:39.63,0:09:39.75,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(394,285)}Moe
+Dialogue: 0,0:09:39.75,0:09:39.88,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(392,314)}Moe
+Dialogue: 0,0:09:39.88,0:09:40.00,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(396,296)}Moe
+Dialogue: 0,0:09:40.00,0:09:40.13,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(396,296)}Moe
+Dialogue: 0,0:09:40.13,0:09:41.00,TiTLE,,0000,0000,0000,,{\bord5\blur2\3c&H9845F7&\pos(396,292)}Moe
+Dialogue: 0,0:00:15.98,0:00:17.60,Shocking Pink! Dialogue D,,0000,0000,0000,,{\i1}Takaaki...{\i0}
+Dialogue: 0,0:00:19.46,0:00:20.65,Shocking Pink! Dialogue D,,0000,0000,0000,,{\i1}Takaaki...{\i0}
+Dialogue: 0,0:00:22.07,0:00:23.56,Shocking Pink! Dialogue D,,0000,0000,0000,,{\i1}Takaaki!{\i0}
+Dialogue: 0,0:00:34.63,0:00:37.15,Shocking Pink! Guy,,0000,0000,0000,,Wo steckt der verdammte Wecker schon wieder?
+Dialogue: 0,0:00:45.69,0:00:48.40,Shocking Pink! Dialogue,,0000,0000,0000,,Guten Morgen, Koumei.
+Dialogue: 0,0:00:49.95,0:00:54.97,Shocking Pink! Dialogue,,0000,0000,0000,,Huh? Was ist das denn für eine seltsame Reaktion?
+Dialogue: 0,0:00:55.12,0:01:01.05,Shocking Pink! Dialogue,,0000,0000,0000,,Wenn du morgens neben einem süssen Mädchen\Nmit solch einem unanständigen Körper aufwachst...
+Dialogue: 0,0:01:01.05,0:01:05.49,Shocking Pink! Dialogue,,0000,0000,0000,,Warum bist du nicht überrascht und aufs Äusserste erregt?
+Dialogue: 0,0:01:05.49,0:01:10.86,Shocking Pink! Guy,,0000,0000,0000,,So früh am Morgen bringt's nichts,\Nmir deinen nackten Körper anzusehen.
+Dialogue: 0,0:01:15.83,0:01:22.40,TiTLE,,0000,0000,0000,,{\fad(1500,0)\pos(335,120)\i1\fs80\bord14\blur8\3c&H9D90E2&\1a&HFF&}Shocking Pink!{\i0}
+Dialogue: 0,0:01:15.83,0:01:22.40,TiTLE,,0000,0000,0000,,{\fad(2000,0)\pos(335,120)\i1\fs80\bord6\3c&HFFFFFF&}Shocking Pink!{\i0}
+Dialogue: 0,0:01:15.83,0:01:22.40,TiTLE,,0000,0000,0000,,{\fad(2000,0)\pos(335,120)\i1\fs80\bord4\3c&HB47AF9&}Shocking Pink!{\i0}
+Dialogue: 0,0:01:17.95,0:01:22.40,TiTLE,,0000,0000,0000,,{\fad(980,0)\pos(225,447)\shad2\blur3\3c&H98485D&\4c&H6E2889&}Teil 2
+Dialogue: 0,0:01:17.95,0:01:22.40,DD,,0000,0000,0000,,{\fad(1500,0)\pos(135,300)\i1\fs15\bord14\blur8\3c&H9D90E2&\1a&HFF&}http://deutsche-doujins.to{\i0}
+Dialogue: 0,0:01:17.95,0:01:22.40,DD,,0000,0000,0000,,{\fad(2000,0)\pos(135,300)\i1\fs15\bord6\3c&HFFFFFF&}http://deutsche-doujins.to{\i0}
+Dialogue: 0,0:01:17.95,0:01:22.40,DD,,0000,0000,0000,,{\fad(2000,0)\pos(135,300)\i1\fs15\bord4\3c&HB47AF9&}http://deutsche-doujins.to{\i0}
+Dialogue: 0,0:01:17.95,0:01:22.40,SD-H.Logo,,0000,0000,0000,,{\fad(980,0)\pos(74,510)}W
+Dialogue: 0,0:01:17.95,0:01:22.40,TiTLE,,0000,0000,0000,,{\fad(980,0)\pos(384,447)\shad2\blur3\3c&H98485D&\4c&H6E2889&\fscx96}Chouhis Kampf
+Dialogue: 0,0:01:22.91,0:01:25.03,Shocking Pink! Dialogue,,0000,0000,0000,,Wie taktlos von ihm!
+Dialogue: 0,0:01:25.41,0:01:28.76,Shocking Pink! Dialogue,,0000,0000,0000,,Wrrr hattn's grrade ersst drei mhal g'triebn...
+Dialogue: 0,0:01:28.76,0:01:32.90,Shocking Pink! Dialogue B,,0000,0000,0000,,Wenn du während des Essens wütend bist,\Nwird deine Gesundheit darunter leiden.
+Dialogue: 0,0:01:32.99,0:01:35.38,Shocking Pink! Dialogue C,,0000,0000,0000,,Glaubst du nicht, du solltest dir erstmal was anziehen?
+Dialogue: 0,0:01:35.38,0:01:38.75,Shocking Pink! Dialogue,,0000,0000,0000,,Dann sagt mir doch, was ich tun soll!
+Dialogue: 0,0:01:38.75,0:01:41.95,Shocking Pink! Dialogue C,,0000,0000,0000,,Ich glaube, du solltest nicht einfach so in sein Zimmer schleichen...
+Dialogue: 0,0:01:41.95,0:01:45.64,Shocking Pink! Dialogue B,,0000,0000,0000,,Warum suchst du dir nicht einfach einen anderen Ort aus?
+Dialogue: 0,0:01:45.64,0:01:48.49,Shocking Pink! Dialogue,,0000,0000,0000,,Ihr verkappten Jungfrauen braucht mich nicht zu belehren!!
+Dialogue: 0,0:01:50.67,0:01:54.31,Shocking Pink! Dialogue,,0000,0000,0000,,Was kann ich nur tun, damit Komei mich beachtet?
+Dialogue: 0,0:01:54.96,0:01:58.99,Shocking Pink! Dialogue B,,0000,0000,0000,,{\i1}Wie schaffe ich es, dass unser Stratege Notiz von meiner Schwester nimmt?{\i0}
+Dialogue: 0,0:02:06.15,0:02:10.06,Shocking Pink! Guy,,0000,0000,0000,,Du sagtest plötzlich, ich solle dir folgen...\NAber wohin geht es eigentlich?
+Dialogue: 0,0:02:10.38,0:02:11.93,Shocking Pink! Dialogue B,,0000,0000,0000,,Das erfährst du früh genug.
+Dialogue: 0,0:02:12.22,0:02:15.34,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,Dieses Mädchen hat wirklich nichts liebenswürdiges an sich...
+Dialogue: 0,0:02:15.47,0:02:19.82,Shocking Pink! Guy,,0000,0000,0000,,Ähm... seid ihr drei eigentlich richtige Schwestern?
+Dialogue: 0,0:02:19.82,0:02:24.23,Shocking Pink! Dialogue B,,0000,0000,0000,,Wir sind nicht blutsverwandt, aber man könnte uns als Stiefschwestern bezeichnen.
+Dialogue: 0,0:02:24.23,0:02:30.43,Shocking Pink! Dialogue B,,0000,0000,0000,,Chouhi und ich haben weder eigene Eltern noch Geschwister.\NWir sind Waise solange wir denken können.
+Dialogue: 0,0:02:30.44,0:02:33.72,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Ich hätte besser nicht fragen sollen.{\i0}
+Dialogue: 0,0:02:33.72,0:02:40.33,Shocking Pink! Dialogue B,,0000,0000,0000,,Unsere Schwester ist wie ein streunender Hund. Sie schnappte sich uns und nannte uns fortan ihre kleinen Schwestern.
+Dialogue: 0,0:02:40.52,0:02:47.78,Shocking Pink! Dialogue B,,0000,0000,0000,,Sie ist so eine Art Lebensretterin für uns.\NUnsere geliebte Familie.
+Dialogue: 0,0:02:47.78,0:02:50.94,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Hm... So etwas passiert also tatsächlich...{\i0}
+Dialogue: 0,0:02:51.11,0:02:52.53,Shocking Pink! Dialogue B,,0000,0000,0000,,Wir sind da.
+Dialogue: 0,0:03:00.84,0:03:03.57,Shocking Pink! Guy,,0000,0000,0000,,Kan... Kan'u-san... Das hier ist...
+Dialogue: 0,0:03:03.57,0:03:07.25,Shocking Pink! Dialogue B,,0000,0000,0000,,Kennst du das nicht? Man nennt es Stundenhotel.
+Dialogue: 0,0:03:07.25,0:03:09.81,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich bin auch noch nie in einem gewesen, aber...
+Dialogue: 0,0:03:10.05,0:03:15.60,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich weiss um der Attraktivität meiner Schwester.\NDoch letztendlich ist es egal wie hübsch man ist.
+Dialogue: 0,0:03:15.63,0:03:18.70,Shocking Pink! Dialogue B,,0000,0000,0000,,Eines Tages will ein Mann über den Tellerrand hinausblicken...
+Dialogue: 0,0:03:19.28,0:03:22.97,Shocking Pink! Dialogue B,,0000,0000,0000,,An diesem Punkt komme ich ins Spiel und lasse dich Erfahrungen mit einer anderen Frau sammeln.
+Dialogue: 0,0:03:22.97,0:03:26.94,Shocking Pink! Dialogue B,,0000,0000,0000,,Vergleicht man es mit dem Zubereiten einer Mahlzeit,\Nso bin ich die talentierte Sterneköchin,
+Dialogue: 0,0:03:26.97,0:03:29.34,Shocking Pink! Dialogue B,,0000,0000,0000,,die dir ab und zu ein 3-Gänge-Menü serviert.
+Dialogue: 0,0:03:29.34,0:03:32.05,Shocking Pink! Dialogue B,,0000,0000,0000,,Es ist nicht mit der Hausmannskost meiner Schwester zu vergleichen!
+Dialogue: 0,0:03:32.10,0:03:32.30,Shocking Pink! Dialogue B,,0000,0000,0000,,Ha!
+Dialogue: 0,0:03:32.30,0:03:32.50,Shocking Pink! Dialogue B,,0000,0000,0000,,Ha! Ha!
+Dialogue: 0,0:03:32.50,0:03:32.65,Shocking Pink! Dialogue B,,0000,0000,0000,,Ha! Ha! Ha!
+Dialogue: 0,0:03:32.65,0:03:32.75,Shocking Pink! Dialogue B,,0000,0000,0000,,Ha! Ha! Ha! Ha!
+Dialogue: 0,0:03:32.75,0:03:33.10,Shocking Pink! Dialogue B,,0000,0000,0000,,Ha! Ha! Ha! Ha! Ha!
+Dialogue: 0,0:03:33.33,0:03:35.56,Shocking Pink! Dialogue B,,0000,0000,0000,,Der Herr Stratege ist aber echt schüchtern!
+Dialogue: 0,0:03:35.57,0:03:37.46,Shocking Pink! Guy,,0000,0000,0000,,Ich will nicht! Lass mich gehen!
+Dialogue: 0,0:03:37.97,0:03:39.31,Shocking Pink! Guy,,0000,0000,0000,,Hey, lass das!
+Dialogue: 0,0:03:39.31,0:03:44.95,Shocking Pink! Dialogue B,,0000,0000,0000,,Sei schön brav, und ich schenke dir diesen jungfräulichen Traumkörper.
+Dialogue: 0,0:03:44.95,0:03:47.25,Shocking Pink! Guy,,0000,0000,0000,,Ich sagte doch bereits, dass ich nicht will!
+Dialogue: 0,0:03:48.24,0:03:51.25,Shocking Pink! Dialogue B,,0000,0000,0000,,Warum schreist du wie ein kleines Kind?
+Dialogue: 0,0:03:53.06,0:03:55.51,Shocking Pink! Dialogue B,,0000,0000,0000,,Hier unten bist du gar nicht wie ein Kleinkind...
+Dialogue: 0,0:03:58.32,0:04:02.32,Shocking Pink! Dialogue B,,0000,0000,0000,,Halt schon still! Es wird nicht besser, wenn du dich so sträubst!
+Dialogue: 0,0:04:13.93,0:04:16.43,Shocking Pink! Dialogue B,,0000,0000,0000,,Wie ist es? Fühlt es sich gut an?
+Dialogue: 0,0:04:16.85,0:04:21.46,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich versuche meine Schwester bestmöglich nachzuahmen, weiss aber nicht so recht was alles zu tun ist...
+Dialogue: 0,0:04:21.46,0:04:23.30,Shocking Pink! Guy,,0000,0000,0000,,Du könntest ihn massieren und...
+Dialogue: 0,0:04:23.30,0:04:25.26,Shocking Pink! Guy,,0000,0000,0000,,Hast du uns beobachtet?!
+Dialogue: 0,0:04:25.51,0:04:29.45,Shocking Pink! Dialogue B,,0000,0000,0000,,Keine Sorge! Wir sind Schwestern in Körper und Geist...
+Dialogue: 0,0:04:29.45,0:04:30.73,Shocking Pink! Guy,,0000,0000,0000,,Das habe ich befürchtet...
+Dialogue: 0,0:04:30.73,0:04:34.35,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich erinnere mich, dass sie ihn zwischen die Brüste nahm.
+Dialogue: 0,0:04:39.64,0:04:42.77,Shocking Pink! Dialogue B,,0000,0000,0000,,Was ist das? Da kommt ein wenig Flüssigkeit aus der Spitze raus...
+Dialogue: 0,0:04:42.77,0:04:45.16,Shocking Pink! Dialogue B,,0000,0000,0000,,So ist's richtig. Genau so...
+Dialogue: 0,0:04:48.31,0:04:51.28,Shocking Pink! Dialogue B,,0000,0000,0000,,Allmählich erregt es ihn.
+Dialogue: 0,0:04:52.45,0:04:53.15,Shocking Pink! Guy,,0000,0000,0000,,Du...
+Dialogue: 0,0:04:53.15,0:04:54.00,Shocking Pink! Dialogue B,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:54.00,0:05:00.47,Shocking Pink! Guy,,0000,0000,0000,,Du erscheint auf den ersten Blick so distanziert.\NWenn es aber um so etwas geht, bist du Feuer und Flamme.
+Dialogue: 0,0:05:01.13,0:05:04.42,Shocking Pink! Guy,,0000,0000,0000,,Sogar deine Ohren werden rot. Wie süss!
+Dialogue: 0,0:05:07.77,0:05:13.58,Shocking Pink! Dialogue B,,0000,0000,0000,,Du bist dir hoffentlich im Klaren darüber, dass ich hier deine empfindlichsten Teile in Händen halte! Vergiss das niemals...
+Dialogue: 0,0:05:15.60,0:05:17.49,Shocking Pink! Dialogue B,,0000,0000,0000,,Das reicht, ich steck ihn jetzt rein!
+Dialogue: 0,0:05:20.20,0:05:22.17,Shocking Pink! Guy,,0000,0000,0000,,H-hey... Nicht so stürmisch...
+Dialogue: 0,0:05:23.63,0:05:27.28,Shocking Pink! Dialogue B,,0000,0000,0000,,I-Ist in Ordnung... Ich bin Schmerzen gewöhnt.
+Dialogue: 0,0:05:35.66,0:05:37.67,Shocking Pink! Guy,,0000,0000,0000,,Bist... bist du okay?
+Dialogue: 0,0:05:42.85,0:05:46.78,Shocking Pink! Dialogue B,,0000,0000,0000,,Du bist nun die dritte Person, die meinem Körper eine Wunde zugefügt hat.
+Dialogue: 0,0:05:47.04,0:05:49.46,Shocking Pink! Guy,,0000,0000,0000,,Selbst wenn du das so nüchtern siehst...
+Dialogue: 0,0:05:49.46,0:05:50.81,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich werde mich nun bewegen.
+Dialogue: 0,0:05:55.61,0:05:57.47,Shocking Pink! Guy,,0000,0000,0000,,Hast du dich schon an den Schmerz gewöhnt?
+Dialogue: 0,0:05:57.60,0:06:00.71,Shocking Pink! Dialogue B,,0000,0000,0000,,Diese Art Schmerz ist nichts für mich!
+Dialogue: 0,0:06:03.02,0:06:06.01,Shocking Pink! Guy,,0000,0000,0000,,Dann macht es dir wohl nichts aus, wenn ich einen Zahn zulege!
+Dialogue: 0,0:06:06.01,0:06:07.65,Shocking Pink! Dialogue B,,0000,0000,0000,,Was? Wart' ne Minute!
+Dialogue: 0,0:06:18.71,0:06:19.93,Shocking Pink! Guy,,0000,0000,0000,,Tut es weh?
+Dialogue: 0,0:06:20.45,0:06:21.65,Shocking Pink! Dialogue B,,0000,0000,0000,,Es schmerzt, aber...
+Dialogue: 0,0:06:22.60,0:06:23.71,Shocking Pink! Dialogue B,,0000,0000,0000,,es fühlt sich auch...
+Dialogue: 0,0:06:24.66,0:06:26.17,Shocking Pink! Dialogue B,,0000,0000,0000,,irgendwie gut an!
+Dialogue: 0,0:06:27.63,0:06:31.62,Shocking Pink! Guy,,0000,0000,0000,,So?! Es scheint, als würde unsre Kan'u vom Schmerz erregt werden!
+Dialogue: 0,0:06:32.95,0:06:33.82,Shocking Pink! Dialogue B,,0000,0000,0000,,D-Das stimmt nicht!
+Dialogue: 0,0:06:36.47,0:06:41.40,Shocking Pink! Dialogue B,,0000,0000,0000,,Wenn du so heftig zustösst, brichst du noch bis zu meiner Gebärmutter vor!!
+Dialogue: 0,0:06:41.40,0:06:43.16,Shocking Pink! Guy,,0000,0000,0000,,Kan'u... Ich komme!
+Dialogue: 0,0:06:52.94,0:06:56.31,Shocking Pink! Dialogue B,,0000,0000,0000,,W-Warte... Noch nicht rausziehen!
+Dialogue: 0,0:06:56.31,0:06:58.93,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich würde gerne einen Moment so liegen bleiben.
+Dialogue: 0,0:07:00.88,0:07:02.83,Shocking Pink! Dialogue B,,0000,0000,0000,,Auf diese spezielle Weise mit dir verbunden...
+Dialogue: 0,0:07:03.57,0:07:07.86,Shocking Pink! Dialogue B,,0000,0000,0000,,Das ist ein Gefühl, das ich noch niemals zuvor erleben durfte...
+Dialogue: 0,0:07:07.86,0:07:09.47,Shocking Pink! Guy,,0000,0000,0000,,Niemals zuvor?
+Dialogue: 0,0:07:14.19,0:07:17.01,Shocking Pink! Dialogue B,,0000,0000,0000,,Ich nenne es... Glückseligkeit.
+Dialogue: 0,0:07:22.65,0:07:23.97,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Wie friedlich alles ist...{\i0}
+Dialogue: 0,0:07:24.38,0:07:28.84,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Liegt wahrscheinlich daran, dass Ryuubi und Kan'u heute ausgegangen sind...{\i0}
+Dialogue: 0,0:07:31.16,0:07:34.07,Shocking Pink! Guy,,0000,0000,0000,,Oh, du bist es Chouhi. Erschreck mich doch nicht so.
+Dialogue: 0,0:07:34.07,0:07:40.89,Shocking Pink! Dialogue C,,0000,0000,0000,,T-tut mir leid. Aber meine grossen Schwester haben mir aufgetragen, mich um euch zu kümmern...
+Dialogue: 0,0:07:40.89,0:07:42.42,Shocking Pink! Guy,,0000,0000,0000,,Dich um mich zu kümmern?
+Dialogue: 0,0:07:42.42,0:07:44.14,Shocking Pink! Guy,,0000,0000,0000,,Aber das brauchst du doch nicht.
+Dialogue: 0,0:07:44.36,0:07:51.73,Shocking Pink! Dialogue C,,0000,0000,0000,,Ich meine... werter Stratege... meine Schwestern beanspruchen euch Nacht für Nacht...
+Dialogue: 0,0:07:51.74,0:07:57.87,Shocking Pink! Dialogue C,,0000,0000,0000,,Darum dachte ich, ich könnte euch heute vielleicht dabei behilflich sein, euer Tagewerk zu vollbringen...
+Dialogue: 0,0:07:57.87,0:07:59.40,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Sie ist so ein braves Mädchen...{\i0}
+Dialogue: 0,0:07:59.97,0:08:05.53,Shocking Pink! Guy,,0000,0000,0000,,Um ehrlich zu sein... könntest du bitte damit aufhören mich "werter Stratege" zu nennen?
+Dialogue: 0,0:08:05.54,0:08:11.01,Shocking Pink! Guy,,0000,0000,0000,,Und auch das "Euer" kannst du dir sparen.\NSind wir hier nicht alle wie in einer Familie?
+Dialogue: 0,0:08:12.58,0:08:14.76,Shocking Pink! Dialogue C,,0000,0000,0000,,Vielen Dank, Koumei-Brüderchen!
+Dialogue: 0,0:08:16.18,0:08:19.88,Shocking Pink! Dialogue C,,0000,0000,0000,,Brüderchen... Brüderchen... Brüderchen... Brüderchen...
+Dialogue: 0,0:08:21.87,0:08:26.93,Shocking Pink! Guy,,0000,0000,0000,,Sie nannte mich Brüderchen... wäre gar nicht so schlecht, solch eine kleine Schwester zu haben...
+Dialogue: 0,0:08:26.93,0:08:28.33,Shocking Pink! Dialogue C,,0000,0000,0000,,Brüderchen?
+Dialogue: 0,0:08:28.33,0:08:29.65,Shocking Pink! Guy,,0000,0000,0000,,J-Ja?
+Dialogue: 0,0:08:29.65,0:08:31.90,Shocking Pink! Dialogue C,,0000,0000,0000,,Wie ist das Wasser?
+Dialogue: 0,0:08:31.90,0:08:34.14,Shocking Pink! Guy,,0000,0000,0000,,Das Wasser? Genau richtig.
+Dialogue: 0,0:08:34.14,0:08:37.26,Shocking Pink! Dialogue C,,0000,0000,0000,,Dann werde ich auch in die Wanne kommen...
+Dialogue: 0,0:08:37.26,0:08:38.00,Shocking Pink! Guy,,0000,0000,0000,,Äh?
+Dialogue: 0,0:08:45.05,0:08:47.12,Shocking Pink! Guy,,0000,0000,0000,,Äh? Was?
+Dialogue: 0,0:08:47.12,0:08:49.72,Shocking Pink! Dialogue C,,0000,0000,0000,,Lass mich deinen Rücken schrubben, okay?
+Dialogue: 0,0:08:49.72,0:08:52.50,Shocking Pink! Guy,,0000,0000,0000,,Schon gut, ich bin kein Kind mehr...
+Dialogue: 0,0:08:52.50,0:08:56.32,Shocking Pink! Dialogue C,,0000,0000,0000,,Also... setz dich einfach hier hin, Brüderchen.
+Dialogue: 0,0:09:04.77,0:09:07.40,Shocking Pink! Guy,,0000,0000,0000,,Warte... Die Vorderseite wasche ich aber alleine.
+Dialogue: 0,0:09:07.40,0:09:10.34,Shocking Pink! Dialogue C,,0000,0000,0000,,Brüderchens Penis wird gerade steif geworden, oder?
+Dialogue: 0,0:09:11.13,0:09:14.61,Shocking Pink! Guy,,0000,0000,0000,,Tut mir Leid... Tut mir schrecklich Leid...
+Dialogue: 0,0:09:14.62,0:09:18.56,Shocking Pink! Guy,,0000,0000,0000,,Sie ist schliesslich meine Schwester... doch so jemand wie ich...
+Dialogue: 0,0:09:18.57,0:09:20.76,Shocking Pink! Dialogue C,,0000,0000,0000,,Hmm... Das geht in Ordnung...
+Dialogue: 0,0:09:20.76,0:09:21.49,Shocking Pink! Guy,,0000,0000,0000,,Hä?
+Dialogue: 0,0:09:21.49,0:09:25.27,Shocking Pink! Dialogue C,,0000,0000,0000,,Ich schenke dir mein erstes Mal, Brüderchen.
+Dialogue: 0,0:09:25.27,0:09:30.11,Shocking Pink! Guy,,0000,0000,0000,,Nein... Nein... Ich kann unmöglich... Du bist wie eine Schwester für mich.
+Dialogue: 0,0:09:30.98,0:09:35.87,Shocking Pink! Dialogue C,,0000,0000,0000,,Lass mich ganz viele deiner Kinder gebären...
+Dialogue: 0,0:09:45.62,0:09:47.11,Shocking Pink! Guy,,0000,0000,0000,,Ist das dein erster Kuss?
+Dialogue: 0,0:09:47.11,0:09:50.89,Shocking Pink! Dialogue C,,0000,0000,0000,,Um die Wahrheit zu sagen... meinen ersten hat Ryuubi-Schwesterherz...
+Dialogue: 0,0:09:50.89,0:09:52.34,Shocking Pink! Guy,,0000,0000,0000,,Diese treulose Frau...
+Dialogue: 0,0:09:52.78,0:09:58.80,Shocking Pink! Dialogue C,,0000,0000,0000,,Aber ansonsten... Es ist das erste mal, dass ich es mit Brüderchen...
+Dialogue: 0,0:10:11.95,0:10:16.18,Shocking Pink! Dialogue C,,0000,0000,0000,,Nein, nicht! Wenn du das dort tust, wird noch etwas rausfliessen! Es wird bestimmt rausfliessen!
+Dialogue: 0,0:10:16.95,0:10:18.99,Shocking Pink! Guy,,0000,0000,0000,,Schon gut, wir sind im Badezimmer...
+Dialogue: 0,0:10:33.08,0:10:35.09,Shocking Pink! Guy,,0000,0000,0000,,Chouhi, alles in Ordnung?
+Dialogue: 0,0:10:37.98,0:10:42.06,Shocking Pink! Dialogue C,,0000,0000,0000,,Hmpf... Also ehrlich. Das war ja kaum auszuhalten!
+Dialogue: 0,0:10:42.06,0:10:45.40,Shocking Pink! Guy,,0000,0000,0000,,Chouhi, was ist nur in dich gefahren?
+Dialogue: 0,0:10:45.40,0:10:51.94,Shocking Pink! Dialogue C,,0000,0000,0000,,Nein... Nein... Ich bin Yokutoku,\Ndie andere Chouhi in ihrem Körper.
+Dialogue: 0,0:10:52.50,0:10:55.78,Shocking Pink! Guy,,0000,0000,0000,,Nein... eine andere Persönlichkeit ist erschienen...
+Dialogue: 0,0:10:55.79,0:11:00.81,Shocking Pink! Dialogue C,,0000,0000,0000,,Als kleines Mädchen musste sich Chouhi durch allerlei Probleme durchbeissen.
+Dialogue: 0,0:11:01.34,0:11:04.75,Shocking Pink! Dialogue C,,0000,0000,0000,,Es war jenerzeit egal, ob sie eine oder zwei Persönlichkeiten besitzt.
+Dialogue: 0,0:11:04.87,0:11:10.22,Shocking Pink! Dialogue C,,0000,0000,0000,,Meine Zweitpersönlichkeit kam immer seltener zum Vorschein, als ich mit meinen Schwestern zu leben begann...
+Dialogue: 0,0:11:11.56,0:11:16.05,Shocking Pink! Dialogue C,,0000,0000,0000,,Nur weil Brüderchen so ein Perverser ist,\Nmusste ich wieder hervortreten.
+Dialogue: 0,0:11:16.51,0:11:22.78,Shocking Pink! Dialogue C,,0000,0000,0000,,Und ich erscheine einzig aus einem Grund.\NUm jemandem den Garaus zu machen!
+Dialogue: 0,0:11:23.03,0:11:24.33,Shocking Pink! Guy,,0000,0000,0000,,Warum das denn?!
+Dialogue: 0,0:11:24.35,0:11:30.27,Shocking Pink! Dialogue C,,0000,0000,0000,,Na weil dein Penis steif wird, wenn dich deine Schwester berührt.
+Dialogue: 0,0:11:30.27,0:11:33.27,Shocking Pink! Dialogue C,,0000,0000,0000,,Was dich wiederum zu einem perversen Triebtäter macht.
+Dialogue: 0,0:11:33.27,0:11:36.19,Shocking Pink! Dialogue C,,0000,0000,0000,,Es gibt also keinen Grund, dich am Leben zu lassen, oder?
+Dialogue: 0,0:11:36.19,0:11:38.12,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Dagegen kann ich kaum argumentieren...{\i0}
+Dialogue: 0,0:11:39.03,0:11:40.79,Shocking Pink! Dialogue C,,0000,0000,0000,,Ist es das was du willst?
+Dialogue: 0,0:11:41.00,0:11:47.18,Shocking Pink! Dialogue C,,0000,0000,0000,,Die Unschuld dieses jungen Mädchens rauben und sie voll Sperma pumpen?
+Dialogue: 0,0:11:47.18,0:11:50.47,Shocking Pink! Guy,,0000,0000,0000,,Aber, das hatte ich doch gar nicht vor!
+Dialogue: 0,0:11:51.33,0:11:53.41,Shocking Pink! Dialogue C,,0000,0000,0000,,Sagst du auch wirklich die Wahrheit?
+Dialogue: 0,0:11:53.41,0:11:54.96,Shocking Pink! Dialogue C,,0000,0000,0000,,Wie wäre es hiermit?
+Dialogue: 0,0:11:55.54,0:11:59.43,Shocking Pink! Dialogue C,,0000,0000,0000,,Wenn du meinem jungfräulichen Körper einen Orgasmus bescherst, darfst du abspritzen.
+Dialogue: 0,0:11:59.98,0:12:01.87,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Habe ich überhaupt eine Wahl?{\i0}
+Dialogue: 0,0:12:02.06,0:12:07.01,Shocking Pink! Dialogue C,,0000,0000,0000,,Oder traust du das deiner Manneskraft etwa nicht zu?
+Dialogue: 0,0:12:07.63,0:12:10.29,Shocking Pink! Guy,,0000,0000,0000,,Du bist ganz schön arrogant, kleine Schwester!
+Dialogue: 0,0:12:11.78,0:12:15.98,Shocking Pink! Dialogue C,,0000,0000,0000,,Wenn du es nicht schaffst mich zu befriedigen, werde ich dich töten, okay?
+Dialogue: 0,0:12:19.09,0:12:20.80,Shocking Pink! Dialogue C,,0000,0000,0000,,Er dringt in mich ein!
+Dialogue: 0,0:12:27.81,0:12:30.51,Shocking Pink! Dialogue C,,0000,0000,0000,,D-Das... tut weh... Brüderchen...
+Dialogue: 0,0:12:30.51,0:12:32.49,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Äh, ist das nicht mehr Youkutoku?!{\i0}
+Dialogue: 0,0:12:32.49,0:12:37.70,Shocking Pink! Dialogue C,,0000,0000,0000,,Hä?! In mir...! Brüderchens Penis steckt ja in mir!?
+Dialogue: 0,0:12:38.48,0:12:41.91,Shocking Pink! Dialogue C,,0000,0000,0000,,Brüderchen, hatte ich kurzzeitig die Besinnung verloren?
+Dialogue: 0,0:12:42.22,0:12:45.49,Shocking Pink! Dialogue Alternate,,0000,0000,0000,,{\i1}Yokutoku, du ziehst dich zu diesem Zeitpunkt zurück?!{\i0}
+Dialogue: 0,0:12:45.75,0:12:48.04,Shocking Pink! Guy,,0000,0000,0000,,Tut mir leid, ich werde ihn gleich rausziehen.
+Dialogue: 0,0:12:48.62,0:12:53.28,Shocking Pink! Dialogue C,,0000,0000,0000,,Nein... tu das nicht... Ich bin damit einverstanden...
+Dialogue: 0,0:12:53.29,0:12:58.05,Shocking Pink! Dialogue C,,0000,0000,0000,,Bitte mach weiter bis zum Ende.
+Dialogue: 0,0:12:58.05,0:13:00.54,Shocking Pink! Dialogue C,,0000,0000,0000,,Bitte... Brüderchen...
+Dialogue: 0,0:13:01.58,0:13:02.62,Shocking Pink! Guy,,0000,0000,0000,,Chouhi...
+Dialogue: 0,0:13:07.21,0:13:08.50,Shocking Pink! Dialogue C,,0000,0000,0000,,Brüderchen...
+Dialogue: 0,0:13:09.37,0:13:10.38,Shocking Pink! Dialogue C,,0000,0000,0000,,Der Wahnsinn!
+Dialogue: 0,0:13:11.57,0:13:15.47,Shocking Pink! Dialogue C,,0000,0000,0000,,Brüderchen, obwohl es mein erstes Mal ist...
+Dialogue: 0,0:13:15.64,0:13:18.34,Shocking Pink! Dialogue C,,0000,0000,0000,,fühlt es sich... so gut an...
+Dialogue: 0,0:13:18.34,0:13:22.77,Shocking Pink! Dialogue C,,0000,0000,0000,,Verzeih mir, dass ich so ein perverses, kleines Mädchen bin.
+Dialogue: 0,0:13:22.77,0:13:25.69,Shocking Pink! Dialogue C,,0000,0000,0000,,Bitte hasse mich nicht dafür, Brüderchen.
+Dialogue: 0,0:13:37.94,0:13:43.19,Shocking Pink! Guy,,0000,0000,0000,,Unmöglich, dass ich meine kleine, perverse Schwester für so etwas hassen könnte.
+Dialogue: 0,0:13:45.31,0:13:48.18,Shocking Pink! Dialogue C,,0000,0000,0000,,Du hast echt Mumm, Brüderchen.
+Dialogue: 0,0:13:48.18,0:13:49.63,Shocking Pink! Guy,,0000,0000,0000,,Y-Yokutoku?!
+Dialogue: 0,0:13:49.64,0:13:53.56,Shocking Pink! Dialogue C,,0000,0000,0000,,Spritzt deine volle Ladung in mich,\Nobwohl es mein erstes Mal war?!
+Dialogue: 0,0:13:54.36,0:13:56.72,Shocking Pink! Dialogue C,,0000,0000,0000,,Willst du sterben?
+Dialogue: 0,0:13:56.72,0:13:58.86,Shocking Pink! Guy,,0000,0000,0000,,Was hätte ich denn tun sollen?
+Dialogue: 0,0:13:59.16,0:14:00.93,Shocking Pink! Dialogue,,0000,0000,0000,,Wir sind zurück!
+Dialogue: 0,0:14:03.50,0:14:08.38,Shocking Pink! Dialogue,,0000,0000,0000,,{\i1}Was ist das denn? Ein feindlicher Angriff? Oder eine Art Spiel?{\i0}
+Dialogue: 0,0:14:08.38,0:14:10.37,Shocking Pink! Guy,,0000,0000,0000,,Bitte... helft... mir...
+Dialogue: 0,0:14:11.83,0:14:14.09,Shocking Pink! Dialogue C,,0000,0000,0000,,Ich liebe dich... Brüderchen...
+Dialogue: 0,0:14:14.36,0:14:17.17,Shocking Pink! Dialogue B,,0000,0000,0000,,Hmm... ist Yokutoku zum Vorschein gekommen?
+Dialogue: 0,0:14:17.37,0:14:19.59,Shocking Pink! Guy,,0000,0000,0000,,Du kennst sie?
+Dialogue: 0,0:14:19.69,0:14:22.47,Shocking Pink! Dialogue B,,0000,0000,0000,,Irgendwie erscheint sie immer zu Beginn einer Schlacht.
+Dialogue: 0,0:14:22.57,0:14:24.58,Shocking Pink! Dialogue B,,0000,0000,0000,,So lernten wir uns kennen.
+Dialogue: 0,0:14:25.23,0:14:29.92,Shocking Pink! Dialogue B,,0000,0000,0000,,Auch wenn meine Kampfkraft die ihrige übersteigt, ist sie eine begabte Assasine.
+Dialogue: 0,0:14:31.08,0:14:34.59,Shocking Pink! Dialogue B,,0000,0000,0000,,Ihrem befriedigten Gesichtsausdruck kann ich entnehmen,
+Dialogue: 0,0:14:34.59,0:14:38.43,Shocking Pink! Dialogue B,,0000,0000,0000,,dass sie dich sehr ins Herz geschlossen hat, Herr Stratege.
+Dialogue: 0,0:14:38.43,0:14:43.43,Shocking Pink! Dialogue B,,0000,0000,0000,,

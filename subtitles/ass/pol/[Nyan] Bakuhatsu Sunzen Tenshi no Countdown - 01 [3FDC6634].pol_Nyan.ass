@@ -1,0 +1,324 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H000000FF,&H000000FF,&H000000FF,&H00000000,-1,-1,0,0,100,100,0,0,1,0.5,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,80,&H0000FFF7,&H000000FF,&H0009F6FF,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,5,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:04.06,0:02:07.07,Grupa,,0,0,0,,{\blur12}Nyan
+Dialogue: 0,0:02:04.06,0:02:07.07,Anime,,0,0,0,,{\blur12\pos(320,145)\fs60}Bakuhatsu Sunzen!!
+Dialogue: 0,0:02:04.06,0:02:07.07,Anime,,0,0,0,,{\blur12\pos(320,240)}爆発寸前!!\N{\fs38\bord0.5\1c&HFFFFFF&\3c&HFFFFFF&}天使のカウントダウン
+Dialogue: 0,0:02:04.06,0:02:07.07,Anime,,0,0,0,,{\blur12\pos(320,350)\an2\fs38\bord0.5\1c&HFFFFFF&\3c&HFFFFFF&}Tenshi no Countdown
+Dialogue: 0,0:23:20.96,0:23:23.21,Znak,,0,0,0,,{\be1\fad(190,475)}Zabawka
+Dialogue: 0,0:00:09.85,0:00:14.06,Default (i),,0,0,0,,{\be1}To zwyczajna okolica, nic specjalnego.
+Dialogue: 0,0:00:23.97,0:00:27.66,Default (i),,0,0,0,,{\be1}A to zwyczajny dom.
+Dialogue: 0,0:00:30.14,0:00:37.11,Default (i),,0,0,0,,{\be1}A to ja, Motoki i niestety ludzie\Nwokół mnie nie są normalni.
+Dialogue: 0,0:00:46.59,0:00:48.78,Default,,0,0,0,,{\be1}Znowu to robią?!
+Dialogue: 0,0:01:28.93,0:01:30.26,Default,,0,0,0,,{\be1}Jeszcze!
+Dialogue: 0,0:01:33.80,0:01:36.70,Default,,0,0,0,,{\be1}Nie przestawaj.
+Dialogue: 0,0:01:36.70,0:01:38.39,Default,,0,0,0,,{\be1}Jesteś urocza.
+Dialogue: 0,0:01:48.05,0:01:52.79,Default (i),,0,0,0,,{\be1}Dzień w dzień to samo!\NNiech ktoś coś z nimi zrobi!
+Dialogue: 0,0:01:53.96,0:01:55.71,Default (i),,0,0,0,,{\be1}Zazdrościcie?
+Dialogue: 0,0:01:55.71,0:02:00.81,Default (i),,0,0,0,,{\be1}Jak tylko poznacie moje życie, zmienicie zdanie!
+Dialogue: 0,0:02:00.81,0:02:02.66,Default (i),,0,0,0,,{\be1}To mnie już dobija!
+Dialogue: 0,0:02:11.17,0:02:14.20,Default,,0,0,0,,{\be1}Nie słychać ich, skończyły?
+Dialogue: 0,0:02:18.08,0:02:20.68,Default,,0,0,0,,{\be1}W końcu mogę skupić się na lekcjach.
+Dialogue: 0,0:02:20.68,0:02:23.09,Default,,0,0,0,,{\be1}Ale one mnie wkurzają.
+Dialogue: 0,0:02:28.81,0:02:30.05,Default,,0,0,0,,{\be1}Eika!
+Dialogue: 0,0:02:33.23,0:02:35.55,Default,,0,0,0,,{\be1}Hejo, co tam?
+Dialogue: 0,0:02:36.13,0:02:42.58,Default (i),,0,0,0,,{\be1}To Eika, dziewczyna mojej siostry\Ni winowajczyni mojej udręki.
+Dialogue: 0,0:02:43.61,0:02:48.84,Default,,0,0,0,,{\be1}- Kto tu niby jest wkurzający?!\N- Przepraszam!
+Dialogue: 0,0:02:48.84,0:02:50.96,Default,,0,0,0,,{\be1}Gdzie jest Megumi?
+Dialogue: 0,0:02:50.96,0:02:54.01,Default,,0,0,0,,{\be1}Moje kochanie? Właśnie śpi.
+Dialogue: 0,0:02:59.22,0:03:03.06,Default,,0,0,0,,{\be1}To teraz wróć do niej\Nalbo będzie zła na mnie.
+Dialogue: 0,0:03:03.06,0:03:08.08,Default,,0,0,0,,{\be1}Spoko, szczypta zazdrości\Npotęguje miłość, nie?
+Dialogue: 0,0:03:08.76,0:03:11.09,Default,,0,0,0,,{\be1}Ale ja nie chcę być tą szczyptą!
+Dialogue: 0,0:03:13.30,0:03:16.09,Default,,0,0,0,,{\be1}A właśnie, twój chłopak...
+Dialogue: 0,0:03:16.37,0:03:18.10,Default,,0,0,0,,{\be1}Nie zmieniaj tematu!
+Dialogue: 0,0:03:19.42,0:03:22.41,Default,,0,0,0,,{\be1}Jak miał na imię?
+Dialogue: 0,0:03:22.41,0:03:24.10,Default,,0,0,0,,{\be1}No tak, Yuji.
+Dialogue: 0,0:03:24.98,0:03:29.11,Default,,0,0,0,,{\be1}Nie jest moim chłopakiem,\Non tak tylko mówi.
+Dialogue: 0,0:03:30.69,0:03:35.99,Default (i),,0,0,0,,{\be1}To Yuji, ja go uważam za przyjaciela,\Nale on myśli, że to coś więcej.
+Dialogue: 0,0:03:35.99,0:03:39.68,Default,,0,0,0,,{\be1}Motoki jest mój!
+Dialogue: 0,0:03:42.66,0:03:48.13,Default,,0,0,0,,{\be1}Powinieneś dbać o swojego\Nchłopaka, tak jak ja o Megumi.
+Dialogue: 0,0:03:49.22,0:03:52.32,Default,,0,0,0,,{\be1}Nie jestem pedałem!
+Dialogue: 0,0:03:52.32,0:03:53.35,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:03:53.35,0:03:56.63,Default,,0,0,0,,{\be1}Tak! Nie przylepiaj mi etykietek!
+Dialogue: 0,0:03:57.21,0:04:02.14,Default,,0,0,0,,{\be1}Już rozumiem, sami faceci ci nie wystarczą!
+Dialogue: 0,0:04:03.48,0:04:06.14,Default,,0,0,0,,{\be1}Czy ty mnie w ogóle słuchasz?!
+Dialogue: 0,0:04:06.54,0:04:08.41,Default,,0,0,0,,{\be1}W takim razie...
+Dialogue: 0,0:04:24.19,0:04:25.15,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:04:27.88,0:04:29.37,Default,,0,0,0,,{\be1}Śliczny tyłek.
+Dialogue: 0,0:04:31.11,0:04:32.67,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:04:44.39,0:04:46.68,Default,,0,0,0,,{\be1}Nagle przestałeś ujadać.
+Dialogue: 0,0:05:10.42,0:05:14.17,Default,,0,0,0,,{\be1}Chcesz się spuścić?\NNie tak szybko!
+Dialogue: 0,0:05:14.62,0:05:17.67,Default,,0,0,0,,{\be1}Co to? Po co ci to?
+Dialogue: 0,0:05:24.38,0:05:25.84,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:05:25.84,0:05:26.93,Default,,0,0,0,,{\be1}Włączam.
+Dialogue: 0,0:05:37.15,0:05:40.20,Default,,0,0,0,,{\be1}Przez ciebie podnieciłam się.
+Dialogue: 0,0:05:57.00,0:05:59.21,Default,,0,0,0,,{\be1}Podoba ci się moja technika?
+Dialogue: 0,0:05:59.21,0:06:02.22,Default,,0,0,0,,{\be1}Ty po prostu chcesz się poruchać!
+Dialogue: 0,0:06:02.57,0:06:05.64,Default,,0,0,0,,{\be1}Nieprawda, chcę cię czegoś nauczyć.
+Dialogue: 0,0:06:18.89,0:06:22.01,Default,,0,0,0,,{\be1}Nie tak mocno, bo już nie mogę!
+Dialogue: 0,0:06:22.92,0:06:24.17,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:06:30.00,0:06:31.25,Default,,0,0,0,,{\be1}Ale jej dużo!
+Dialogue: 0,0:06:42.64,0:06:45.26,Default,,0,0,0,,{\be1}Motoki, chciałeś się widzieć ze mną?
+Dialogue: 0,0:06:47.19,0:06:48.25,Default,,0,0,0,,{\be1}Yuji?
+Dialogue: 0,0:06:57.23,0:06:59.27,Default,,0,0,0,,{\be1}Coś zostawił we mnie!
+Dialogue: 0,0:06:59.99,0:07:03.78,Default,,0,0,0,,{\be1}Coś ty mu zrobiła?!
+Dialogue: 0,0:07:08.57,0:07:12.25,Default,,0,0,0,,{\be1}Za co?
+Dialogue: 0,0:07:14.28,0:07:15.75,Default,,0,0,0,,{\be1}Motoki!
+Dialogue: 0,0:07:16.38,0:07:18.05,Default,,0,0,0,,{\be1}Ja po niego zadzwoniłam.
+Dialogue: 0,0:07:18.05,0:07:21.01,Default,,0,0,0,,{\be1}Szczypta zazdrości\Npotęguje miłość, nie?
+Dialogue: 0,0:07:21.76,0:07:24.41,Default,,0,0,0,,{\be1}Obudź się! To tylko draśnięcie!
+Dialogue: 0,0:07:27.12,0:07:28.26,Default,,0,0,0,,{\be1}Coś zostało.
+Dialogue: 0,0:07:28.59,0:07:30.76,Default,,0,0,0,,{\be1}Gdzie się gapisz?!
+Dialogue: 0,0:07:31.13,0:07:35.63,Default,,0,0,0,,{\be1}Zamkniecie gęby?!\NTak dobrze mi się spało!
+Dialogue: 0,0:07:35.63,0:07:39.77,Default,,0,0,0,,{\be1}Cześć.\NO, Yuji jest u was.
+Dialogue: 0,0:07:40.60,0:07:42.28,Default,,0,0,0,,{\be1}Emi.
+Dialogue: 0,0:07:42.97,0:07:48.24,Default (i),,0,0,0,,{\be1}Megumi to moja siostra.\NMa niewyparzoną gębę i nie jest kobieca.
+Dialogue: 0,0:07:48.24,0:07:50.28,Default,,0,0,0,,{\be1}Jakże mi przykro.
+Dialogue: 0,0:07:50.28,0:07:54.65,Default (i),,0,0,0,,{\be1}Ta dziewczyna to Emi.\NPrzyjaciółka Megumi i siostra Yujiego.
+Dialogue: 0,0:07:54.65,0:07:59.09,Default (i),,0,0,0,,{\be1}Wygląda na spokojną,\Nale tak naprawdę to istna wariatka.
+Dialogue: 0,0:07:59.09,0:08:01.79,Default,,0,0,0,,{\be1}Potraktuję to jako komplement.
+Dialogue: 0,0:08:03.36,0:08:05.85,Default,,0,0,0,,{\be1}Co tu robisz?
+Dialogue: 0,0:08:05.85,0:08:09.51,Default,,0,0,0,,{\be1}Eika zaprosiła mnie na trójkącik, ale...
+Dialogue: 0,0:08:14.01,0:08:16.77,Default,,0,0,0,,{\be1}To wygląda na pięciokąt.
+Dialogue: 0,0:08:24.45,0:08:26.78,Default,,0,0,0,,{\be1}Motoki jest tylko mój!
+Dialogue: 0,0:08:34.19,0:08:36.09,Default,,0,0,0,,{\be1}Yuji.
+Dialogue: 0,0:08:36.09,0:08:38.04,Default,,0,0,0,,{\be1}Zamknij się!
+Dialogue: 0,0:08:42.70,0:08:47.15,Default,,0,0,0,,{\be1}Mam dość takiego życia!
+Dialogue: 0,0:08:48.90,0:08:52.76,Default,,0,0,0,,{\be1}Gdzie lecisz?\NZabawmy się jeszcze trochę!
+Dialogue: 0,0:08:55.84,0:09:00.92,Default,,0,0,0,,{\be1}Eika, zostaw go, on tak zawsze.
+Dialogue: 0,0:09:00.92,0:09:02.56,Default,,0,0,0,,{\be1}Motoki, wróć!
+Dialogue: 0,0:09:09.42,0:09:11.10,Default,,0,0,0,,{\be1}Nieważne.
+Dialogue: 0,0:09:18.39,0:09:22.07,Default (i),,0,0,0,,{\be1}Istne piekło.
+Dialogue: 0,0:09:22.07,0:09:29.65,Default (i),,0,0,0,,{\be1}Chciałbym uciec i zacząć żyć normalnie,\Nale chyba nie jest mi to pisane.
+Dialogue: 0,0:09:37.12,0:09:40.81,Default,,0,0,0,,{\be1}Wszystko jest do dupy.
+Dialogue: 0,0:09:41.36,0:09:43.94,Default,,0,0,0,,{\be1}Przepraszam, wszystko w porządku?!
+Dialogue: 0,0:09:46.23,0:09:48.74,Default,,0,0,0,,{\be1}Tak, żyję.
+Dialogue: 0,0:10:08.34,0:10:10.53,Default,,0,0,0,,{\be1}Nareszcie koniec.
+Dialogue: 0,0:10:11.12,0:10:15.06,Default,,0,0,0,,{\be1}Eika, idziesz ze mną na zakupy?
+Dialogue: 0,0:10:15.06,0:10:17.35,Default,,0,0,0,,{\be1}Jasne, gdzie?
+Dialogue: 0,0:10:19.79,0:10:22.35,Default,,0,0,0,,{\be1}Nasz ulubiony sklep ma promocję.
+Dialogue: 0,0:10:24.85,0:10:28.57,Default,,0,0,0,,{\be1}Duży wibrator 40% taniej?!
+Dialogue: 0,0:10:28.57,0:10:30.43,Default,,0,0,0,,{\be1}Megumi, idziemy?!
+Dialogue: 0,0:10:34.88,0:10:35.95,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:10:36.38,0:10:38.55,Default,,0,0,0,,{\be1}Coś cię martwi?
+Dialogue: 0,0:10:39.98,0:10:42.14,Default,,0,0,0,,{\be1}Chodzi o brata.
+Dialogue: 0,0:10:42.14,0:10:43.58,Default,,0,0,0,,{\be1}Co z nim?
+Dialogue: 0,0:10:43.58,0:10:48.19,Default,,0,0,0,,{\be1}Ostatnio nie widziałam go u ciebie.
+Dialogue: 0,0:10:48.19,0:10:53.46,Default,,0,0,0,,{\be1}Wraca późno i jest jakiś dziwny.
+Dialogue: 0,0:10:53.46,0:10:55.59,Default,,0,0,0,,{\be1}- Jest...\N- Dziwny?
+Dialogue: 0,0:11:02.84,0:11:04.51,Default,,0,0,0,,{\be1}Dziwny, nie?
+Dialogue: 0,0:11:04.51,0:11:07.71,Default,,0,0,0,,{\be1}Wygląda na zamyślonego.
+Dialogue: 0,0:11:07.71,0:11:09.28,Default,,0,0,0,,{\be1}Idziemy za nim.
+Dialogue: 0,0:11:14.96,0:11:15.92,Default,,0,0,0,,{\be1}Tu Motoki.
+Dialogue: 0,0:11:15.92,0:11:17.38,Default,,0,0,0,,{\be1}Daj mi chwilę.
+Dialogue: 0,0:11:25.23,0:11:27.76,Default,,0,0,0,,{\be1}Co to za miejsce?
+Dialogue: 0,0:11:27.76,0:11:29.43,Default,,0,0,0,,{\be1}Wiem kto tu mieszka.
+Dialogue: 0,0:11:29.43,0:11:34.59,Default,,0,0,0,,{\be1}To dom Satonaki, niedawno się wprowadziła,\Na jej rodzina jest bardzo bogata.
+Dialogue: 0,0:11:34.59,0:11:37.73,Default,,0,0,0,,{\be1}Tylko po co Motoki tu przyszedł?
+Dialogue: 0,0:11:52.95,0:11:55.35,Default,,0,0,0,,{\be1}Upiekłam ciasto.
+Dialogue: 0,0:11:56.72,0:11:58.53,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:12:01.66,0:12:03.23,Default,,0,0,0,,{\be1}Pychota!
+Dialogue: 0,0:12:03.76,0:12:06.25,Default,,0,0,0,,{\be1}Cieszy mnie to.
+Dialogue: 0,0:12:06.93,0:12:11.75,Default,,0,0,0,,{\be1}Masz cudowny dom, cichy i przytulny.
+Dialogue: 0,0:12:12.31,0:12:15.11,Default,,0,0,0,,{\be1}Zacznijmy jak tylko skończysz jeść.
+Dialogue: 0,0:12:15.11,0:12:16.03,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:12:17.81,0:12:22.92,Default,,0,0,0,,{\be1}Tutaj powinno być to.
+Dialogue: 0,0:12:22.92,0:12:27.59,Default,,0,0,0,,{\be1}Rozumiem.\NŚwietnie uczysz.
+Dialogue: 0,0:12:27.59,0:12:28.81,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:12:29.49,0:12:34.96,Default,,0,0,0,,{\be1}Trochę mi głupio, że uczysz mnie za darmo.
+Dialogue: 0,0:12:34.96,0:12:36.70,Default,,0,0,0,,{\be1}Tym się nie przejmuj.
+Dialogue: 0,0:12:36.70,0:12:41.44,Default,,0,0,0,,{\be1}Mój samochód prawie cię potrącił,\Nuznaj to za przeprosiny.
+Dialogue: 0,0:12:41.44,0:12:43.50,Default,,0,0,0,,{\be1}Nie musisz tego robić.
+Dialogue: 0,0:12:43.50,0:12:48.20,Default,,0,0,0,,{\be1}Cieszy mnie, że mogę\Ncodziennie tu przychodzić.
+Dialogue: 0,0:12:49.26,0:12:52.75,Default,,0,0,0,,{\be1}Twój dom jest dla mnie oazą spokoju.
+Dialogue: 0,0:12:52.75,0:12:56.34,Default,,0,0,0,,{\be1}Już dawno nie mogłem pouczyć się w ciszy.
+Dialogue: 0,0:12:57.05,0:12:58.35,Default,,0,0,0,,{\be1}No i...
+Dialogue: 0,0:12:58.35,0:12:59.62,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:59.62,0:13:05.83,Default,,0,0,0,,{\be1}Jesteś dla mnie jak idealna siostra.
+Dialogue: 0,0:13:05.83,0:13:10.81,Default,,0,0,0,,{\be1}Mnie cieszy, że mogę traktować kogoś\Njak brata, przychodź tu codziennie.
+Dialogue: 0,0:13:10.81,0:13:11.81,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:13:23.74,0:13:27.34,Default,,0,0,0,,{\be1}Przychodź tu codziennie.
+Dialogue: 0,0:13:27.34,0:13:31.76,Default,,0,0,0,,{\be1}Nie wiedziałam, że umiesz\Nczytać z ruchu warg.
+Dialogue: 0,0:13:31.76,0:13:33.82,Default,,0,0,0,,{\be1}Mam wiele zdolności.
+Dialogue: 0,0:13:33.82,0:13:35.29,Default,,0,0,0,,{\be1}Co teraz?
+Dialogue: 0,0:13:35.29,0:13:41.82,Default,,0,0,0,,{\be1}W porównanie z tobą moja\Nsiostra jest brutalna i chamska.
+Dialogue: 0,0:13:41.82,0:13:44.94,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:13:50.91,0:13:54.38,Default,,0,0,0,,{\be1}Już ja mu dam jak wróci.
+Dialogue: 0,0:13:54.38,0:13:57.61,Default,,0,0,0,,{\be1}Teraz już wszystko wiemy.
+Dialogue: 0,0:13:57.61,0:14:02.58,Default,,0,0,0,,{\be1}Ale z niego nudziarz,\Na mógł mieć z nami kupę zabawy.
+Dialogue: 0,0:14:02.58,0:14:09.39,Default,,0,0,0,,{\be1}Tyle że on potrzebuje takiego domu.
+Dialogue: 0,0:14:09.39,0:14:11.35,Default,,0,0,0,,{\be1}Nie rozumiem.
+Dialogue: 0,0:14:18.67,0:14:20.71,Default,,0,0,0,,{\be1}Natsuki.
+Dialogue: 0,0:14:22.47,0:14:24.13,Default,,0,0,0,,{\be1}Motoki!
+Dialogue: 0,0:14:24.13,0:14:25.81,Default,,0,0,0,,{\be1}Yuji!
+Dialogue: 0,0:14:25.81,0:14:27.94,Default,,0,0,0,,{\be1}Kto to?!
+Dialogue: 0,0:14:27.94,0:14:31.14,Default,,0,0,0,,{\be1}Moja korepetytorka.
+Dialogue: 0,0:14:31.47,0:14:33.32,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:14:34.08,0:14:36.15,Default,,0,0,0,,{\be1}Korepetytorka?!
+Dialogue: 0,0:14:37.45,0:14:40.40,Default,,0,0,0,,{\be1}To znaczy, że robicie takie rzeczy?!
+Dialogue: 0,0:14:44.56,0:14:47.42,Default,,0,0,0,,{\be1}Nie zostawiaj mnie!
+Dialogue: 0,0:14:47.42,0:14:50.93,Default,,0,0,0,,{\be1}Głupku, nie wyobrażaj sobie\Nnie wiadomo czego!
+Dialogue: 0,0:14:50.93,0:14:54.05,Default,,0,0,0,,{\be1}Ale ona ci się podoba, nie?
+Dialogue: 0,0:14:54.90,0:14:57.08,Default,,0,0,0,,{\be1}No patrzyłeś na jej zdjęcie.
+Dialogue: 0,0:14:57.08,0:14:59.46,Default,,0,0,0,,{\be1}Nie twój interes.
+Dialogue: 0,0:14:59.46,0:15:01.04,Default,,0,0,0,,{\be1}Wiedziałem!
+Dialogue: 0,0:15:01.04,0:15:04.77,Default,,0,0,0,,{\be1}Zaczniesz się z nią spotykać!
+Dialogue: 0,0:15:04.77,0:15:08.72,Default,,0,0,0,,{\be1}Ona jest moją oazą spokoju\Ni tyle mi wystarczy.
+Dialogue: 0,0:15:08.72,0:15:10.62,Default,,0,0,0,,{\be1}To nie kochasz jej?
+Dialogue: 0,0:15:10.62,0:15:11.85,Default,,0,0,0,,{\be1}Odwal się.
+Dialogue: 0,0:15:11.85,0:15:13.60,Default,,0,0,0,,{\be1}Odpowiedz!
+Dialogue: 0,0:15:13.60,0:15:14.54,Default,,0,0,0,,{\be1}Zamknij się!
+Dialogue: 0,0:15:14.54,0:15:16.37,Default,,0,0,0,,{\be1}No powiedz!
+Dialogue: 0,0:15:16.37,0:15:19.94,Default,,0,0,0,,{\be1}- Tak, kocham ją!\N- Wiedziałem!
+Dialogue: 0,0:15:23.20,0:15:24.41,Default,,0,0,0,,{\be1}Motoki.
+Dialogue: 0,0:15:27.22,0:15:28.45,Default,,0,0,0,,{\be1}Natsuki!
+Dialogue: 0,0:15:28.82,0:15:32.45,Default,,0,0,0,,{\be1}Zapomniałeś wczoraj zeszytu.
+Dialogue: 0,0:15:34.81,0:15:37.58,Default,,0,0,0,,{\be1}Słyszałaś?
+Dialogue: 0,0:15:37.58,0:15:38.31,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:15:38.31,0:15:39.46,Default,,0,0,0,,{\be1}Ja...
+Dialogue: 0,0:15:40.92,0:15:42.96,Default,,0,0,0,,{\be1}Bardzo mnie to cieszy.
+Dialogue: 0,0:15:51.26,0:15:55.74,Default,,0,0,0,,{\be1}Dzięki, udało mi się!\NTo wasza zasługa!
+Dialogue: 0,0:15:55.74,0:15:58.93,Default,,0,0,0,,{\be1}Będziemy razem szczęśliwi!
+Dialogue: 0,0:15:58.93,0:16:02.19,Default,,0,0,0,,{\be1}- Motoki!\N- Natsuki!
+Dialogue: 0,0:16:03.54,0:16:11.27,Default,,0,0,0,,{\be1}Chciałabym od razu powiedzieć ci\Nco czuję, ale trochę się wstydzę.
+Dialogue: 0,0:16:11.27,0:16:15.75,Default,,0,0,0,,{\be1}Będę czekać u mnie.
+Dialogue: 0,0:16:15.75,0:16:21.80,Default,,0,0,0,,{\be1}Byłem szczęśliwy mogąc do niej przychodzić,\Na okazało się, że ona też mnie kocha.
+Dialogue: 0,0:16:21.80,0:16:26.01,Default,,0,0,0,,{\be1}Jestem najszczęśliwszy na świecie!
+Dialogue: 0,0:16:35.20,0:16:37.89,Default,,0,0,0,,{\be1}Proszę za mną.
+Dialogue: 0,0:16:43.35,0:16:45.38,Default,,0,0,0,,{\be1}Gdzie jesteśmy?
+Dialogue: 0,0:16:45.38,0:16:47.33,Default,,0,0,0,,{\be1}Miłej zabawy.
+Dialogue: 0,0:16:47.33,0:16:49.16,Default,,0,0,0,,{\be1}Gdzie jest Natsuki?!
+Dialogue: 0,0:16:52.15,0:16:53.49,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:16:55.16,0:16:58.65,Default,,0,0,0,,{\be1}Czekałam na ciebie.
+Dialogue: 0,0:17:03.88,0:17:05.50,Default,,0,0,0,,{\be1}Natsuki?
+Dialogue: 0,0:17:10.49,0:17:12.87,Default,,0,0,0,,{\be1}Oto cała ja.
+Dialogue: 0,0:17:12.87,0:17:16.47,Default,,0,0,0,,{\be1}A teraz przyjmij moje uczucia!
+Dialogue: 0,0:17:26.58,0:17:27.92,Default,,0,0,0,,{\be1}Nudzi mi się.
+Dialogue: 0,0:17:27.92,0:17:32.42,Default,,0,0,0,,{\be1}Z Motokim za ścianą nie było nudy.
+Dialogue: 0,0:17:33.36,0:17:36.49,Default,,0,0,0,,{\be1}Tęsknisz za nim?
+Dialogue: 0,0:17:36.93,0:17:39.33,Default,,0,0,0,,{\be1}Nic z tych rzeczy.
+Dialogue: 0,0:17:44.10,0:17:45.50,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:17:45.50,0:17:47.34,Default,,0,0,0,,{\be1}Patrzcie.
+Dialogue: 0,0:17:53.01,0:17:55.65,Default,,0,0,0,,{\be1}Tygodnik "Niedziela z S&M".
+Dialogue: 0,0:17:55.65,0:17:58.02,Default,,0,0,0,,{\be1}Cała ty.
+Dialogue: 0,0:17:58.02,0:18:00.95,Default,,0,0,0,,{\be1}Nie to tylko to.
+Dialogue: 0,0:18:08.33,0:18:10.02,Default,,0,0,0,,{\be1}Zdjęcia czytelników?
+Dialogue: 0,0:18:10.80,0:18:12.03,Default,,0,0,0,,{\be1}To przecież ona!
+Dialogue: 0,0:18:23.48,0:18:25.28,Default,,0,0,0,,{\be1}Dziewczyna Motokiego!
+Dialogue: 0,0:18:25.28,0:18:27.71,Default,,0,0,0,,{\be1}Więc takie z niej ziółko.
+Dialogue: 0,0:18:27.71,0:18:31.05,Default,,0,0,0,,{\be1}Księżna Domina?
+Dialogue: 0,0:18:31.93,0:18:35.55,Default,,0,0,0,,{\be1}W tej chwili Motoki może być...
+Dialogue: 0,0:18:42.93,0:18:47.06,Default,,0,0,0,,{\be1}Marzyłam o tym,\Ngdy tylko cię zobaczyłam.
+Dialogue: 0,0:18:50.70,0:18:52.57,Default,,0,0,0,,{\be1}Wypuść mnie!
+Dialogue: 0,0:18:54.34,0:19:01.08,Default,,0,0,0,,{\be1}Martwiłam się, że mogłeś mnie\Nnie lubić, dlatego nic nie mówiłam.
+Dialogue: 0,0:19:01.08,0:19:08.09,Default,,0,0,0,,{\be1}Teraz mam pewność,\Nwięc mogę cię kochać całą sobą!
+Dialogue: 0,0:19:08.59,0:19:12.59,Default,,0,0,0,,{\be1}A nie wolałabyś czegoś normalniejszego?
+Dialogue: 0,0:19:12.59,0:19:16.90,Default,,0,0,0,,{\be1}A po co?\NJa tak kocham.
+Dialogue: 0,0:19:22.91,0:19:28.36,Default,,0,0,0,,{\be1}Wiedziałam, wiesz jak krzyczeć.
+Dialogue: 0,0:19:28.71,0:19:30.82,Default,,0,0,0,,{\be1}Nie potrzebuję wiedzieć tego!
+Dialogue: 0,0:19:30.82,0:19:32.43,Default,,0,0,0,,{\be1}Cisza!
+Dialogue: 0,0:19:35.22,0:19:36.36,Default,,0,0,0,,{\be1}Ciesz się!
+Dialogue: 0,0:19:36.36,0:19:41.10,Default,,0,0,0,,{\be1}Lubisz to? No? Odpowiedz!
+Dialogue: 0,0:19:44.36,0:19:45.79,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:20:05.55,0:20:08.21,Default,,0,0,0,,{\be1}No proszę.
+Dialogue: 0,0:20:13.93,0:20:15.40,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:20:16.06,0:20:18.41,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:20:18.41,0:20:21.12,Default,,0,0,0,,{\be1}Przecież widzę, jaki jesteś uradowany.
+Dialogue: 0,0:20:22.56,0:20:24.12,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:20:24.77,0:20:27.62,Default,,0,0,0,,{\be1}Wiem, że to lubisz.
+Dialogue: 0,0:20:28.57,0:20:32.43,Default,,0,0,0,,{\be1}Nie rób tak, bo...
+Dialogue: 0,0:20:39.01,0:20:41.14,Default,,0,0,0,,{\be1}Wyglądasz żałośnie.
+Dialogue: 0,0:20:45.09,0:20:47.64,Default,,0,0,0,,{\be1}I dlatego jesteś cudowny.
+Dialogue: 0,0:20:51.61,0:20:56.37,Default,,0,0,0,,{\be1}Tak bardzo się opierałeś, a nadal ci stoi.
+Dialogue: 0,0:20:56.37,0:20:59.66,Default,,0,0,0,,{\be1}Czyż to nie dziwne?
+Dialogue: 0,0:21:00.53,0:21:02.32,Default,,0,0,0,,{\be1}Spójrz na mnie!
+Dialogue: 0,0:21:12.21,0:21:13.90,Default,,0,0,0,,{\be1}Natsuki.
+Dialogue: 0,0:21:15.42,0:21:17.17,Default,,0,0,0,,{\be1}Teraz ukarzę cię.
+Dialogue: 0,0:21:36.67,0:21:39.20,Default,,0,0,0,,{\be1}Nie tak szybko!
+Dialogue: 0,0:21:39.20,0:21:41.38,Default,,0,0,0,,{\be1}Wytrzymaj!
+Dialogue: 0,0:21:45.08,0:21:47.20,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:21:47.56,0:21:52.71,Default,,0,0,0,,{\be1}Jeśli dojdziesz przede mną\Nukarzę cię jeszcze mocniej.
+Dialogue: 0,0:21:55.56,0:21:57.21,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:22:05.27,0:22:06.83,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:22:08.57,0:22:11.81,Default,,0,0,0,,{\be1}Ludzie modlą się do niebios o pomoc.
+Dialogue: 0,0:22:12.74,0:22:15.37,Default,,0,0,0,,{\be1}Przybyłyśmy pokonać zło.
+Dialogue: 0,0:22:16.44,0:22:17.73,Default,,0,0,0,,{\be1}Drużyna ślicznotek.
+Dialogue: 0,0:22:25.05,0:22:27.45,Default,,0,0,0,,{\be1}Wojowniczki uciech!
+Dialogue: 0,0:22:28.50,0:22:31.46,Default,,0,0,0,,{\be1}Czemu rozwaliłyście mi ścianę?!
+Dialogue: 0,0:22:31.46,0:22:34.96,Default,,0,0,0,,{\be1}Choć raz chciałam tak\Nwparować do jakiegoś domu.
+Dialogue: 0,0:22:46.97,0:22:48.72,Default,,0,0,0,,{\be1}Jesteś cały?
+Dialogue: 0,0:22:52.32,0:22:53.47,Default,,0,0,0,,{\be1}Emi?
+Dialogue: 0,0:22:54.21,0:22:56.91,Default,,0,0,0,,{\be1}Czyli ona to Eika?
+Dialogue: 0,0:22:59.12,0:23:01.68,Default,,0,0,0,,{\be1}Wara od mojej Eiki!
+Dialogue: 0,0:23:03.66,0:23:06.24,Default,,0,0,0,,{\be1}Jakoś przyzwyczaiłam się tak robić.
+Dialogue: 0,0:23:08.63,0:23:10.08,Default,,0,0,0,,{\be1}Nawet Megumi?
+Dialogue: 0,0:23:11.26,0:23:14.46,Default,,0,0,0,,{\be1}Przyszłyście mi pomóc?
+Dialogue: 0,0:23:14.80,0:23:19.46,Default,,0,0,0,,{\be1}Nie, po prostu nie lubimy,\Ngdy ktoś bierze nasze zabawki.
+Dialogue: 0,0:23:24.91,0:23:28.41,Default,,0,0,0,,{\be1}Zdziry, nie oddam wam Motokiego!
+Dialogue: 0,0:23:29.28,0:23:30.55,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:23:30.55,0:23:32.15,Default,,0,0,0,,{\be1}Chcesz walczyć?
+Dialogue: 0,0:23:34.19,0:23:36.90,Default,,0,0,0,,{\be1}Będziemy walczyć do ostatniego orgazmu!
+Dialogue: 0,0:23:42.53,0:23:45.74,Default,,0,0,0,,{\be1}Zniszczyć!
+Dialogue: 0,0:23:55.54,0:23:56.96,Default,,0,0,0,,{\be1}Dziewczyny.
+Dialogue: 0,0:23:57.51,0:23:58.58,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:24:01.21,0:24:03.20,Default,,0,0,0,,{\be1}Czemu jestem uwięziona?
+Dialogue: 0,0:24:03.20,0:24:06.47,Default,,0,0,0,,{\be1}Co się stało ze sceną walki?
+Dialogue: 0,0:24:07.92,0:24:12.51,Default,,0,0,0,,{\be1}Nikt nie chce oglądać\Ntego gówna w porno-bajce.
+Dialogue: 0,0:24:13.03,0:24:15.48,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:24:15.93,0:24:19.98,Default,,0,0,0,,{\be1}Trzeba sprostać oczekiwaniom widza.
+Dialogue: 0,0:24:20.53,0:24:22.14,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:24:22.14,0:24:24.23,Default,,0,0,0,,{\be1}Czyli teraz...
+Dialogue: 0,0:24:28.53,0:24:30.74,Default,,0,0,0,,{\be1}Chyba podoba się jej to.
+Dialogue: 0,0:24:31.38,0:24:35.75,Default,,0,0,0,,{\be1}To ja zawsze jestem dominą!
+Dialogue: 0,0:24:36.16,0:24:39.05,Default,,0,0,0,,{\be1}Serio?\NNo to może ci się to spodobać.
+Dialogue: 0,0:24:48.56,0:24:51.51,Default,,0,0,0,,{\be1}Patrzcie co znalazłam.
+Dialogue: 0,0:24:52.37,0:24:54.01,Default,,0,0,0,,{\be1}Niezły!
+Dialogue: 0,0:24:54.33,0:24:56.02,Default,,0,0,0,,{\be1}Daj.
+Dialogue: 0,0:25:01.18,0:25:02.73,Default,,0,0,0,,{\be1}Gotowa.
+Dialogue: 0,0:25:07.48,0:25:09.98,Default,,0,0,0,,{\be1}Czas pomścić Motokiego.
+Dialogue: 0,0:25:40.15,0:25:47.23,Default,,0,0,0,,{\be1}Obiecaj, że nigdy więcej nie weźmiesz\NMotokiego bez pytania to dokończę.
+Dialogue: 0,0:25:50.74,0:25:53.24,Default,,0,0,0,,{\be1}Skoro nie chcesz.
+Dialogue: 0,0:25:56.90,0:25:59.25,Default,,0,0,0,,{\be1}Dobra, obiecuję!
+Dialogue: 0,0:26:00.27,0:26:01.57,Default,,0,0,0,,{\be1}Dobra dziewczynka.
+Dialogue: 0,0:26:38.59,0:26:40.79,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:27:03.56,0:27:05.29,Default,,0,0,0,,{\be1}Motoki!
+Dialogue: 0,0:27:06.20,0:27:07.31,Default,,0,0,0,,{\be1}Yuji?
+Dialogue: 0,0:27:07.63,0:27:11.07,Default,,0,0,0,,{\be1}Słyszałem, że rzuciłeś tamtą korepetytorkę.
+Dialogue: 0,0:27:13.67,0:27:15.07,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:27:16.76,0:27:18.08,Default,,0,0,0,,{\be1}Motoki.
+Dialogue: 0,0:27:18.84,0:27:24.74,Default,,0,0,0,,{\be1}Myślałem, że znalazłem swoją oazę,\Na jednak to nie była ona.
+Dialogue: 0,0:27:24.74,0:27:27.83,Default,,0,0,0,,{\be1}Nigdy nie będę mieć spokoju.
+Dialogue: 0,0:27:29.89,0:27:33.84,Default,,0,0,0,,{\be1}Nie smuć się, kiedyś ją odnajdziesz.
+Dialogue: 0,0:27:35.60,0:27:37.34,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:27:38.08,0:27:44.85,Default,,0,0,0,,{\be1}A jeśli chcesz, to pomogę ci jej szukać.
+Dialogue: 0,0:27:52.31,0:27:53.52,Default,,0,0,0,,{\be1}Debil!
+Dialogue: 0,0:27:54.18,0:27:55.86,Default,,0,0,0,,{\be1}Motoki!
+Dialogue: 0,0:27:57.36,0:27:59.87,Default,,0,0,0,,{\be1}- Zabawmy się!\N- Zabawmy się!
+Dialogue: 0,0:27:59.87,0:28:03.87,Default,,0,0,0,,{\be1}Pozwoliły mi się tobą\Nbawić, gdy one to robią!
+Dialogue: 0,0:28:05.24,0:28:07.33,Default,,0,0,0,,{\be1}Mam dość!
+Dialogue: 0,0:28:07.33,0:28:14.38,Default,,0,0,0,,{\be1}- Motoki, czekaj! Motoki!\N- Motoki, znowu dobierasz się do mojej Eiki?!
+Dialogue: 0,0:28:14.81,0:28:16.94,Default,,0,0,0,,{\be1}Odwalcie się!
+Dialogue: 0,0:28:20.07,0:28:22.39,Default,,0,0,0,,{\be1}Dajcie mi spokój!
+Dialogue: 0,0:28:24.57,0:28:28.85,Default,,0,0,0,,{\be1}Niech mi ktoś pomoże!

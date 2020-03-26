@@ -1,0 +1,92 @@
+﻿[Script Info]
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+Title:イノセント ～少女メモリア～
+Original Script:牧瀬紅莉栖
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正小标宋_GBK,35,&H00FFFFFF,&H000000FF,&H00330813,&H00000000,0,0,0,0,100,100,0,0.00,1,2,0,2,10,10,10,1
+Style: title,方正小标宋_GBK,35,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0.00,1,0,0,2,10,10,10,1
+Style: staff,方正小标宋_GBK,30,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0.00,1,0,0,7,10,10,10,1
+Style: logo,方正小标宋_GBK,40,&HFFD4D3D5,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,80,100,0,0.00,1,0,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.43,0:00:07.98,logo,NTP,0000,0000,0000,,{\fad(350,1300)\pos(195,150)}{\r\t(-200,400,\1a&H00)}我　{\r\t(700,1300,\1a&H00)}與　{\r\t(1600,2700,\1a&H00)}你
+Dialogue: 0,0:00:03.14,0:00:07.98,logo,NTP,0000,0000,0000,,{\fad(350,1300)\pos(285,290)}{\r\t(-200,300,\1a&H00)}２ {\r\t(400,600,\1a&H00)}度 {\r\t(700,900,\1a&H00)}的 {\r\t(1000,1200,\1a&H00)}戀 {\r\t(1300,1500,\1a&H00)}情 {\r\t(1600,2400,\1a&H00)}{\fscx130\c&H6B676A&}—
+Dialogue: 0,0:00:29.27,0:00:33.14,title,NTP,0000,0000,0000,,{\fad(1000,700)\pos(320,320)\fsp5\c&HBFA9F9&}愛{\c&H00FFFFFF}的記憶
+Dialogue: 0,0:00:36.45,0:00:38.37,Default,NTP,0000,0000,0000,,這 這樣果然是不太好啊 安田
+Dialogue: 0,0:00:39.28,0:00:43.57,Default,NTP,0000,0000,0000,,學生和教師做這樣的事
+Dialogue: 0,0:01:10.33,0:01:12.07,Default,NTP,0000,0000,0000,,說過的吧
+Dialogue: 0,0:01:13.68,0:01:16.40,Default,NTP,0000,0000,0000,,我雖然是安田繪理子
+Dialogue: 0,0:01:17.77,0:01:20.83,Default,NTP,0000,0000,0000,,但也同時是川奈恭子
+Dialogue: 0,0:01:25.25,0:01:32.71,Default,NTP,0000,0000,0000,,沒想到在醫院的病床上和天吾H了
+Dialogue: 0,0:01:43.40,0:01:51.32,Default,NTP,0000,0000,0000,,儘量不讓護士門發覺 做了第一次的那個…口交
+Dialogue: 0,0:02:22.01,0:02:24.58,Default,NTP,0000,0000,0000,,實在讓人太興奮了
+Dialogue: 0,0:02:27.73,0:02:35.95,staff,NTP,0000,0000,0000,,{\fad(500,900)\fscx90\b1}HKG裏字幕組\N{\fs16\fscx80}http://klauszou.wordpress.com/
+Dialogue: 0,0:02:27.73,0:02:35.95,staff,NTP,0000,0000,0000,,{\fad(500,900)\fscx80\fscy80\fs22\pos(570,10)}翻譯丨Klaus\N時間丨助手\N特效丨助手
+Dialogue: 0,0:02:27.73,0:02:35.95,logo,NTP,0000,0000,0000,,{\a2\fad(500,900)\fscx90\alpha&H00\3c&H806398&\bord5\blur5\t(\fscx80\fscy80)\c&HFFFFFF&\move(320,460,320,430,200,8800)}Innocent {\fs20}～{\fs30}少女回憶{\fs20}～
+Dialogue: 0,0:02:27.73,0:02:35.95,logo,NTP,0000,0000,0000,,{\a2\fad(500,900)\fscx90\alpha&H00\3c&H806398&\bord5\blur5\t(\fscx80\fscy80)\c&HFFFFFF&\move(320,460,320,430,200,8800)}Innocent {\fs20}～{\fs30}少女回憶{\fs20}～
+Dialogue: 0,0:02:40.20,0:02:42.58,Default,NTP,0000,0000,0000,,我 是恭子啊
+Dialogue: 0,0:02:44.87,0:02:45.94,Default,NTP,0000,0000,0000,,川奈恭子
+Dialogue: 0,0:02:47.11,0:02:50.47,Default,NTP,0000,0000,0000,,是你因病去世的前女友啊
+Dialogue: 0,0:02:51.77,0:02:53.99,Default,NTP,0000,0000,0000,,爲什麼安田會知道那個名字
+Dialogue: 0,0:02:54.70,0:02:58.20,Default,NTP,0000,0000,0000,,誒 這 那個
+Dialogue: 0,0:02:59.05,0:03:01.98,Default,NTP,0000,0000,0000,,我有前世的記憶
+Dialogue: 0,0:03:09.64,0:03:12.15,Default,NTP,0000,0000,0000,,剛開始並沒有那麼認真的
+Dialogue: 0,0:03:13.53,0:03:17.43,Default,NTP,0000,0000,0000,,都是從找到了老師的前女友的日記開始的
+Dialogue: 0,0:03:19.66,0:03:22.82,Default,NTP,0000,0000,0000,,9月18日 星期五 晴
+Dialogue: 0,0:03:23.74,0:03:24.84,Default,NTP,0000,0000,0000,,第一次約會
+Dialogue: 0,0:03:26.47,0:03:28.93,Default,NTP,0000,0000,0000,,9月19日 陰
+Dialogue: 0,0:03:30.05,0:03:31.24,Default,NTP,0000,0000,0000,,初吻
+Dialogue: 0,0:03:33.71,0:03:34.81,Default,NTP,0000,0000,0000,,9月20日
+Dialogue: 0,0:03:35.88,0:03:38.55,Default,NTP,0000,0000,0000,,第一次H
+Dialogue: 0,0:03:42.62,0:03:46.24,Default,NTP,0000,0000,0000,,啊 老師的手
+Dialogue: 0,0:03:48.55,0:03:49.33,Default,NTP,0000,0000,0000,,在裡面
+Dialogue: 0,0:03:51.15,0:03:53.61,Default,NTP,0000,0000,0000,,來回攪動著
+Dialogue: 0,0:04:05.10,0:04:09.79,Default,NTP,0000,0000,0000,,現在 我就要被老師的那個進入了
+Dialogue: 0,0:04:12.61,0:04:14.32,Default,NTP,0000,0000,0000,,熱熱的 大大的
+Dialogue: 0,0:04:15.00,0:04:16.02,Default,NTP,0000,0000,0000,,進來了
+Dialogue: 0,0:04:27.82,0:04:29.65,Default,NTP,0000,0000,0000,,在裡面 出來了
+Dialogue: 0,0:04:32.26,0:04:34.39,Default,NTP,0000,0000,0000,,不知怎麼的 兩個人笨手笨腳的
+Dialogue: 0,0:04:35.60,0:04:39.96,Default,NTP,0000,0000,0000,,上手什麼的也完全說不是 但是
+Dialogue: 0,0:04:44.33,0:04:45.84,Default,NTP,0000,0000,0000,,馬上就出來了呢
+Dialogue: 0,0:04:46.74,0:04:49.86,Default,NTP,0000,0000,0000,,我真的是很幸福
+Dialogue: 0,0:05:04.31,0:05:06.00,Default,NTP,0000,0000,0000,,吶 信吾
+Dialogue: 0,0:05:09.25,0:05:14.82,Default,NTP,0000,0000,0000,,以前的我和現在的我 哪個更舒服
+Dialogue: 0,0:05:38.77,0:05:43.03,Default,NTP,0000,0000,0000,,大概是因為這個病的原因吧
+Dialogue: 0,0:05:44.58,0:05:47.97,Default,NTP,0000,0000,0000,,已經不能很好的動筆了
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0000,0000,0000,,信吾…已經沒辦法 繼續寫下去了
+Dialogue: 0,0:06:02.72,0:06:05.48,Default,NTP,0000,0000,0000,,已經 不行了啊
+Dialogue: 0,0:06:08.19,0:06:11.69,Default,NTP,0000,0000,0000,,最喜歡老師了
+Dialogue: 0,0:06:12.33,0:06:13.23,Default,NTP,0000,0000,0000,,到此為止了
+Dialogue: 0,0:06:19.94,0:06:21.15,Default,NTP,0000,0000,0000,,對不起
+Dialogue: 0,0:06:37.96,0:06:41.01,Default,NTP,0000,0000,0000,,最喜歡你了
+Dialogue: 0,0:06:46.42,0:06:49.20,Default,NTP,0000,0000,0000,,體溫 心跳 脈搏
+Dialogue: 0,0:06:50.19,0:06:51.08,Default,NTP,0000,0000,0000,,一切正常
+Dialogue: 0,0:06:53.33,0:06:55.97,Default,NTP,0000,0000,0000,,但是 爲什麼她
+Dialogue: 0,0:06:57.57,0:06:58.17,Default,NTP,0000,0000,0000,,醒不來呢
+Dialogue: 0,0:07:01.24,0:07:04.25,Default,NTP,0000,0000,0000,,反正 會一直睡下去吧
+Dialogue: 0,0:07:07.02,0:07:10.77,title,NTP,0000,0000,0000,,{\fad(1000,700)\pos(321,320)}睡美{\c&HBFA9F9&}人
+Dialogue: 0,0:07:22.00,0:07:23.53,Default,NTP,0000,0000,0000,,也差不多該起來了吧
+Dialogue: 0,0:07:29.46,0:07:32.36,Default,NTP,0000,0000,0000,,姐姐妳還想這樣多久啊
+Dialogue: 0,0:07:33.64,0:07:39.14,Default,NTP,0000,0000,0000,,不是決定了麼 爸爸來探病之前都要繼續下去的
+Dialogue: 0,0:08:31.45,0:08:34.18,Default,NTP,0000,0000,0000,,我知道的 信也君和妳做了什麼
+Dialogue: 0,0:08:45.25,0:08:47.02,Default,NTP,0000,0000,0000,,那才不是愛呢
+Dialogue: 0,0:09:19.81,0:09:22.52,Default,NTP,0000,0000,0000,,奇怪 難道要反過來
+Dialogue: 0,0:09:23.17,0:09:23.92,Default,NTP,0000,0000,0000,,奇怪
+Dialogue: 0,0:09:25.57,0:09:27.42,Default,NTP,0000,0000,0000,,可惡啊 要怎麼才能
+Dialogue: 0,0:09:29.19,0:09:29.82,Default,NTP,0000,0000,0000,,可惡啊
+Dialogue: 0,0:09:34.80,0:09:35.54,Default,NTP,0000,0000,0000,,就這樣
+Dialogue: 0,0:09:46.16,0:09:48.06,Default,NTP,0000,0000,0000,,反正都已經濕成這樣了
+Dialogue: 0,0:09:56.02,0:09:58.12,Default,NTP,0000,0000,0000,,裡面居然這麼緊
+Dialogue: 0,0:10:00.40,0:10:01.50,Default,NTP,0000,0000,0000,,要出來了
+Dialogue: 0,0:10:05.88,0:10:09.67,Default,NTP,0000,0000,0000,,信也君在我那裡 我裡面
+Dialogue: 0,0:10:12.54,0:10:13.44,Default,NTP,0000,0000,0000,,才進去而已就
+Dialogue: 0,0:10:24.45,0:10:26.93,Default,NTP,0000,0000,0000,,我也對信也君
+Dialogue: 0,0:10:31.67,0:10:37.16,Default,NTP,0000,0000,0000,,要是姐姐就這樣一直醒不來 那怎麼辦
+Dialogue: 0,0:10:41.31,0:10:46.62,Default,NTP,0000,0000,0000,,優奈就這麼一直睡下去就好

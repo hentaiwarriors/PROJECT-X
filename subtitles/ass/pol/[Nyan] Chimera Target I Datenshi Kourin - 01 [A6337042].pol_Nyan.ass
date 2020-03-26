@@ -1,0 +1,415 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Tytul,Franklin Gothic Medium,32,&H00FFFFFF,&H000000FF,&H00000000,&H96282828,0,0,0,0,100,100,0,0,1,0,0,2,20,20,30,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.15,0:00:03.94,Grupa,,0,0,0,,Nyan
+Dialogue: 0,0:44:20.47,0:44:30.94,Grupa,,0,0,0,,{\fad(480,0)\1c&H4053BB&\t(480,480,\1c&H1D1F36&)\t(2440,2482,\1c&H4053BB&)\t(2482,2690,\1c&H8ED8F9&)}Nyan
+Dialogue: 0,0:44:25.93,0:44:30.94,Tytul,,0,0,0,,{\fad(67,0)\xshad-2\yshad-2}Nadejście upadłego anioła
+Dialogue: 0,0:00:08.87,0:00:10.11,Default,,0,0,0,,{\be1}Trzymaj!
+Dialogue: 0,0:00:11.87,0:00:15.94,Default,,0,0,0,,{\be1}- Wszystkiego najlepszego.\N- Dzięki.
+Dialogue: 0,0:00:15.94,0:00:17.41,Default,,0,0,0,,{\be1}Ale wyrosłaś!
+Dialogue: 0,0:00:17.41,0:00:19.85,Default,,0,0,0,,{\be1}Zdmuchnij świeczki.
+Dialogue: 0,0:00:19.85,0:00:21.82,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:02:30.68,0:02:34.15,Default,,0,0,0,,{\be1}Przyszedł ten bandyta.
+Dialogue: 0,0:02:34.15,0:02:40.17,Default,,0,0,0,,{\be1}Robi mi się smutno na sercu,\Ngdy tacy bandyci zostają ważnymi ludźmi.
+Dialogue: 0,0:02:40.17,0:02:46.77,Default,,0,0,0,,{\be1}John Roy. Nie ma nikogo w\NHong Kongu, kto by mu podskoczył.
+Dialogue: 0,0:02:46.77,0:02:49.90,Default,,0,0,0,,{\be1}Kim jest jego towarzyszka?
+Dialogue: 0,0:02:49.90,0:02:55.21,Default,,0,0,0,,{\be1}Na imię jej chyba Rei.\NJest prawą ręką Roya.
+Dialogue: 0,0:02:55.21,0:02:59.81,Default,,0,0,0,,{\be1}Z taką buźką pewnie nie miała\Nproblemów z uwiedzeniem go.
+Dialogue: 0,0:02:59.81,0:03:01.95,Default,,0,0,0,,{\be1}Poleciała na kasę.
+Dialogue: 0,0:03:01.95,0:03:06.35,Default,,0,0,0,,{\be1}Nawet nieczuły drań dał się uwieźć.
+Dialogue: 0,0:03:06.35,0:03:07.82,Default,,0,0,0,,{\be1}Nie ma co, jest piękna.
+Dialogue: 0,0:03:07.82,0:03:12.52,Default,,0,0,0,,{\be1}Lepiej się do niej nie zbliżaj albo\Nzałożysz cementowe buciki w zatoce Wiktorii.
+Dialogue: 0,0:03:12.52,0:03:14.05,Default,,0,0,0,,{\be1}Przecież wiem.
+Dialogue: 0,0:03:15.39,0:03:19.00,Default (i),,0,0,0,,{\be1}W ogóle nie znają Rei.
+Dialogue: 0,0:03:19.00,0:03:27.56,Default (i),,0,0,0,,{\be1}Delikatna jak anioł, waleczna jak diabeł.
+Dialogue: 0,0:03:33.28,0:03:38.07,Default,,0,0,0,,{\be1}Może zostawimy nudziarzy i wyjdziemy stąd?
+Dialogue: 0,0:03:38.07,0:03:43.08,Default,,0,0,0,,{\be1}Przepraszam, ale nie dzisiaj.
+Dialogue: 0,0:03:43.08,0:03:46.43,Default,,0,0,0,,{\be1}Szkoda.
+Dialogue: 0,0:03:46.43,0:03:49.61,Default,,0,0,0,,{\be1}Ale rozumiem, masz swoje plany.
+Dialogue: 0,0:03:51.13,0:03:53.44,Default,,0,0,0,,{\be1}Może następnym razem.
+Dialogue: 0,0:04:06.88,0:04:10.10,Default,,0,0,0,,{\be1}Następnym razem?
+Dialogue: 0,0:04:22.28,0:04:26.04,Default,,0,0,0,,{\be1}Wystarczy! Spieprzaj!
+Dialogue: 0,0:04:35.84,0:04:40.76,Default (i),,0,0,0,,{\be1}To właśnie w tym mieście cię poznałem.
+Dialogue: 0,0:04:43.25,0:04:47.34,Default (i),,0,0,0,,{\be1}Przyszłaś znikąd.
+Dialogue: 0,0:04:57.93,0:04:59.20,Default,,0,0,0,,{\be1}Gdzie towar?
+Dialogue: 0,0:05:11.77,0:05:14.79,Default,,0,0,0,,{\be1}Najczystsza heroina, 999.
+Dialogue: 0,0:05:15.78,0:05:25.57,Default (i),,0,0,0,,{\be1}Gdy tylko cię zobaczyłem od razu dostrzegłem\Nidealne piękno w tobie, twoich oczach i ustach.
+Dialogue: 0,0:05:33.80,0:05:37.78,Default,,0,0,0,,{\be1}Kurwa, jak to mnie mogło dopaść?!
+Dialogue: 0,0:06:03.01,0:06:04.48,Default,,0,0,0,,{\be1}Do niczego.
+Dialogue: 0,0:06:05.65,0:06:10.56,Default,,0,0,0,,{\be1}No co pan, przecież są dobrze zrobione.
+Dialogue: 0,0:06:11.09,0:06:15.27,Default,,0,0,0,,{\be1}Czy to chociaż wiesz jak wyglądają prawdziwe?
+Dialogue: 0,0:06:15.27,0:06:17.56,Default,,0,0,0,,{\be1}To są same gówna!
+Dialogue: 0,0:06:18.56,0:06:22.31,Default,,0,0,0,,{\be1}Biorę tylko podróbki lepsze od oryginałów!
+Dialogue: 0,0:06:22.31,0:06:27.03,Default,,0,0,0,,{\be1}Jak chcesz handlować z grupą\NRon Tai, to zrób je porządnie, zrozumiana?
+Dialogue: 0,0:06:27.03,0:06:29.53,Default,,0,0,0,,{\be1}Dobrze, następnym razem będą...
+Dialogue: 0,0:06:35.83,0:06:37.47,Default,,0,0,0,,{\be1}Co ty?!
+Dialogue: 0,0:06:37.47,0:06:42.10,Default,,0,0,0,,{\be1}Sung, coś ty sobie, kurwa, myślał?!
+Dialogue: 0,0:06:42.10,0:06:43.40,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:06:43.40,0:06:44.84,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:06:44.84,0:06:47.81,Default,,0,0,0,,{\be1}Czemu pragniesz mojej śmierci?
+Dialogue: 0,0:06:47.81,0:06:52.85,Default,,0,0,0,,{\be1}Wiem, że niektórzy polują\Nna mnie za pieniądze.
+Dialogue: 0,0:06:52.85,0:06:56.06,Default,,0,0,0,,{\be1}Mam gdzieś forsę! Chcę zemsty!
+Dialogue: 0,0:06:56.78,0:06:58.06,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:07:01.07,0:07:05.03,Default,,0,0,0,,{\be1}Musiała umrzeć ponad 2 dni temu.
+Dialogue: 0,0:07:05.03,0:07:08.53,Default,,0,0,0,,{\be1}Co to ma znaczyć?\NGdzie jego rodzina?
+Dialogue: 0,0:07:08.53,0:07:16.00,Default,,0,0,0,,{\be1}Jego ojciec był świetny pracownikiem,\Nale wziął się za dragi.
+Dialogue: 0,0:07:16.00,0:07:18.54,Default,,0,0,0,,{\be1}Resztę możecie sobie wyobrazić.
+Dialogue: 0,0:07:18.54,0:07:22.17,Default,,0,0,0,,{\be1}To wy go zabiliście narkotykami!
+Dialogue: 0,0:07:22.17,0:07:25.55,Default,,0,0,0,,{\be1}Przez was moja matka...
+Dialogue: 0,0:07:25.55,0:07:31.56,Default,,0,0,0,,{\be1}Po jego śmierci jego matka\Nwzięła się za najłatwiejszą robotę.
+Dialogue: 0,0:07:32.62,0:07:35.00,Default,,0,0,0,,{\be1}Ona też ćpała.
+Dialogue: 0,0:07:35.00,0:07:40.57,Default,,0,0,0,,{\be1}Takie skurwiele z Ron Tai,\Njak wy zmusiły ją do tego!
+Dialogue: 0,0:07:40.57,0:07:44.57,Default,,0,0,0,,{\be1}I dlatego zemszczę się na was!
+Dialogue: 0,0:07:49.57,0:07:53.14,Default,,0,0,0,,{\be1}Co zrobisz z dzieciakiem?
+Dialogue: 0,0:07:53.14,0:07:55.92,Default,,0,0,0,,{\be1}Pewnie dziwi cię mój spokój.
+Dialogue: 0,0:07:56.88,0:08:00.29,Default,,0,0,0,,{\be1}Może być użyteczny,\Njeśli nim pokierujemy.
+Dialogue: 0,0:08:00.85,0:08:09.96,Default,,0,0,0,,{\be1}W jego wieku byłem jak on, brudny,\Ngłodny i żyłem nienawidząc wszystkiego.
+Dialogue: 0,0:08:09.96,0:08:12.30,Default,,0,0,0,,{\be1}To tak jak ja.
+Dialogue: 0,0:08:12.30,0:08:18.30,Default,,0,0,0,,{\be1}Nieważne, jesteś za młody\Nby myśleć o spadkobiercy.
+Dialogue: 0,0:08:18.31,0:08:23.60,Default,,0,0,0,,{\be1}Masz rację, ale zaczynam się starzeć.
+Dialogue: 0,0:08:23.60,0:08:27.86,Default,,0,0,0,,{\be1}Był kiedyś chłopak,\Nktóry próbował zabić mnie nożem.
+Dialogue: 0,0:08:27.86,0:08:31.24,Default,,0,0,0,,{\be1}To było ponad 10 lat temu.
+Dialogue: 0,0:08:32.38,0:08:37.33,Default,,0,0,0,,{\be1}Gdybym zapomniał o nim,\Nto pewnie Sung by zginął.
+Dialogue: 0,0:08:38.62,0:08:43.84,Default,,0,0,0,,{\be1}A właśnie, nieźle go obezwładniłaś.
+Dialogue: 0,0:08:43.84,0:08:45.84,Default,,0,0,0,,{\be1}To tylko odruch.
+Dialogue: 0,0:08:45.84,0:08:54.28,Default,,0,0,0,,{\be1}Podejrzewałem, że trenowałaś, a teraz jestem pewien,\Njesteś równie dobrym ochroniarzem co asystentką.
+Dialogue: 0,0:08:54.28,0:09:00.65,Default,,0,0,0,,{\be1}Chciałbym ci coś pokazać,\Nmożemy pojechać do mnie?
+Dialogue: 0,0:09:00.65,0:09:04.15,Default,,0,0,0,,{\be1}Dobra, dzisiaj z chęcią pojadę.
+Dialogue: 0,0:09:15.32,0:09:17.16,Default,,0,0,0,,{\be1}Cudowne mieszkanie.
+Dialogue: 0,0:09:18.69,0:09:24.40,Default,,0,0,0,,{\be1}Szyby są kuloodporne,\Njak na grupę Ron Tai przystało.
+Dialogue: 0,0:09:24.40,0:09:26.17,Default,,0,0,0,,{\be1}Rei, spójrz na to.
+Dialogue: 0,0:09:29.80,0:09:30.84,Default,,0,0,0,,{\be1}Co myślisz?
+Dialogue: 0,0:09:30.84,0:09:33.18,Default,,0,0,0,,{\be1}Wspaniała!
+Dialogue: 0,0:09:34.14,0:09:39.18,Default,,0,0,0,,{\be1}Wygląda jak prawdziwa,\Nbyć może nawet i lepiej.
+Dialogue: 0,0:09:39.18,0:09:42.91,Default,,0,0,0,,{\be1}Jak zawsze masz bystre oko.
+Dialogue: 0,0:09:42.91,0:09:45.19,Default,,0,0,0,,{\be1}Możemy nimi handlować.
+Dialogue: 0,0:09:46.99,0:09:52.06,Default (i),,0,0,0,,{\be1}Zaczynałem w slumsach,\Nale w końcu dołączyłem do Ron Tai.
+Dialogue: 0,0:09:52.06,0:09:58.20,Default (i),,0,0,0,,{\be1}Robiłem wszystko by zyskać władzę,\Nnarkotyki, prostytucja, podrabianie.
+Dialogue: 0,0:09:59.06,0:10:02.50,Default (i),,0,0,0,,{\be1}Tylko czemu czuję pustkę w sercu?
+Dialogue: 0,0:10:02.50,0:10:05.35,Default,,0,0,0,,{\be1}Szefie, kiedy następna wymiana?
+Dialogue: 0,0:10:08.64,0:10:13.61,Default,,0,0,0,,{\be1}Jutro o 23 na molu Wiktorii.
+Dialogue: 0,0:10:23.69,0:10:24.90,Default,,0,0,0,,{\be1}Rei!
+Dialogue: 0,0:10:31.60,0:10:36.49,Default,,0,0,0,,{\be1}Jesteś dla mnie wszystkim, kocham cię.
+Dialogue: 0,0:11:09.02,0:11:09.98,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:11:10.48,0:11:13.81,Default,,0,0,0,,{\be1}Dlaczego nie chcesz?
+Dialogue: 0,0:11:13.81,0:11:15.81,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:11:17.54,0:11:20.49,Default,,0,0,0,,{\be1}Jeszcze mam...
+Dialogue: 0,0:11:20.49,0:11:27.51,Default,,0,0,0,,{\be1}Jeżeli to okres, to nie pokazuj mi się\Ndo jutrzejszej wymiany.
+Dialogue: 0,0:11:31.39,0:11:32.47,Default,,0,0,0,,{\be1}Rei.
+Dialogue: 0,0:11:38.93,0:11:45.15,Default,,0,0,0,,{\be1}Rei, jesteś aniołem czy diabłem?
+Dialogue: 0,0:11:54.41,0:11:57.49,Default,,0,0,0,,{\be1}Zmęczyłam się.
+Dialogue: 0,0:12:09.16,0:12:11.75,Default,,0,0,0,,{\be1}Dobrze, zrozumiałam.
+Dialogue: 0,0:12:19.48,0:12:21.43,Default,,0,0,0,,{\be1}Zatrzymaj się!
+Dialogue: 0,0:12:56.37,0:13:00.95,Default,,0,0,0,,{\be1}Mogę dzisiaj prowadzić?
+Dialogue: 0,0:13:00.95,0:13:02.45,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:13:02.45,0:13:03.98,Default,,0,0,0,,{\be1}Szefie, to niebezpieczne.
+Dialogue: 0,0:13:03.98,0:13:06.47,Default,,0,0,0,,{\be1}Kobieta nie powinna.
+Dialogue: 0,0:13:06.47,0:13:11.48,Default,,0,0,0,,{\be1}Spokojnie, Rei jest\Nnajsilniejszą kobietą jaką znam.
+Dialogue: 0,0:13:17.10,0:13:19.49,Default,,0,0,0,,{\be1}Rei, mamy jeszcze trochę czasu?
+Dialogue: 0,0:13:48.73,0:13:52.94,Default,,0,0,0,,{\be1}Dzięki i przepraszam,\Nże cię tu zaciągnąłem.
+Dialogue: 0,0:13:52.94,0:13:55.90,Default,,0,0,0,,{\be1}Jesteś chrześcijaninem?
+Dialogue: 0,0:13:55.90,0:13:57.94,Default,,0,0,0,,{\be1}Wierzysz w boga?
+Dialogue: 0,0:13:57.94,0:13:59.70,Default,,0,0,0,,{\be1}Nie wierzę.
+Dialogue: 0,0:14:00.54,0:14:07.11,Default,,0,0,0,,{\be1}Po prostu wyrządziłem dużo zła,\Nżeby zdobyć to co mam.
+Dialogue: 0,0:14:08.51,0:14:10.46,Default,,0,0,0,,{\be1}Tylko tyle.
+Dialogue: 0,0:14:28.93,0:14:32.98,Default,,0,0,0,,{\be1}Już czas.\NJakuza nie jest zbyt punktualna.
+Dialogue: 0,0:14:36.94,0:14:38.98,Default,,0,0,0,,{\be1}To ty palisz?
+Dialogue: 0,0:14:53.34,0:14:55.43,Default,,0,0,0,,{\be1}Nie tak się uma...
+Dialogue: 0,0:14:57.33,0:14:58.31,Default,,0,0,0,,{\be1}Rei!
+Dialogue: 0,0:14:59.30,0:15:01.48,Default,,0,0,0,,{\be1}Rei, jesteś cała?
+Dialogue: 0,0:15:02.67,0:15:04.42,Default,,0,0,0,,{\be1}Przecież to...
+Dialogue: 0,0:15:10.12,0:15:11.56,Default,,0,0,0,,{\be1}Rei.
+Dialogue: 0,0:15:11.56,0:15:12.90,Default,,0,0,0,,{\be1}Rei!
+Dialogue: 0,0:15:14.41,0:15:19.57,Default,,0,0,0,,{\be1}Opatrzyłam cię jak umiałam, ale zaczniesz\Nkrwawić, jeśli będziesz się ruszać, szefie.
+Dialogue: 0,0:15:22.42,0:15:23.53,Default,,0,0,0,,{\be1}Rei?
+Dialogue: 0,0:15:26.57,0:15:30.11,Default,,0,0,0,,{\be1}Rei, co to ma znaczyć?
+Dialogue: 0,0:15:32.00,0:15:33.93,Default,,0,0,0,,{\be1}Kto to?
+Dialogue: 0,0:15:34.58,0:15:36.03,Default,,0,0,0,,{\be1}Ja.
+Dialogue: 0,0:15:36.03,0:15:38.08,Default,,0,0,0,,{\be1}Co? O czym ty mówisz?
+Dialogue: 0,0:15:38.94,0:15:41.59,Default,,0,0,0,,{\be1}To ja, gdy umrę z tobą.
+Dialogue: 0,0:15:42.07,0:15:47.82,Default,,0,0,0,,{\be1}Co? Chcesz mnie zabić? Czemu?
+Dialogue: 0,0:15:48.52,0:15:50.60,Default,,0,0,0,,{\be1}Pomagasz temu Sungowi?
+Dialogue: 0,0:15:50.60,0:15:57.10,Default,,0,0,0,,{\be1}Sung? W sumie to\Nprzypomniał mi o czymś.
+Dialogue: 0,0:15:57.10,0:16:00.06,Default,,0,0,0,,{\be1}Ale nic mu do tego.
+Dialogue: 0,0:16:00.06,0:16:02.11,Default,,0,0,0,,{\be1}No to czemu?
+Dialogue: 0,0:16:02.69,0:16:08.61,Default,,0,0,0,,{\be1}Pamiętasz o bliźnie nad tatuażem?
+Dialogue: 0,0:16:08.61,0:16:09.62,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:16:11.55,0:16:12.62,Default,,0,0,0,,{\be1}O czym ty...
+Dialogue: 0,0:16:19.31,0:16:24.25,Default,,0,0,0,,{\be1}W moje urodziny zabiłeś mi rodziców.
+Dialogue: 0,0:16:24.25,0:16:33.64,Default,,0,0,0,,{\be1}A to tylko dlatego, że jako detektyw\Npolicji w Hong Kongu nie dał się kupić.
+Dialogue: 0,0:16:33.64,0:16:36.75,Default,,0,0,0,,{\be1}Więc ty jesteś...
+Dialogue: 0,0:16:45.77,0:16:50.16,Default,,0,0,0,,{\be1}Od tamtego dnia czekam na dzień zemsty.
+Dialogue: 0,0:16:50.16,0:16:56.45,Default,,0,0,0,,{\be1}To niemożliwe!\NTam był chłopak nie dziewczyna.
+Dialogue: 0,0:16:56.45,0:17:01.55,Default,,0,0,0,,{\be1}A ty jesteś kobietą, dotykałem\Ntwoich piersi i czułem, że są prawdziwe.
+Dialogue: 0,0:17:01.55,0:17:06.67,Default,,0,0,0,,{\be1}Z całą pewnością są\Nprawdziwe, a ty jesteś kobietą!
+Dialogue: 0,0:17:21.76,0:17:23.60,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:17:26.23,0:17:29.20,Default,,0,0,0,,{\be1}To na pewno był chłopak!
+Dialogue: 0,0:17:49.72,0:17:52.39,Default,,0,0,0,,{\be1}Ty jesteś...
+Dialogue: 0,0:17:53.72,0:18:01.48,Default,,0,0,0,,{\be1}Jestem mężczyzną i kobietą jednocześnie.\NDwoje ludzi zamkniętych w jednym ciele.
+Dialogue: 0,0:18:07.52,0:18:12.79,Default,,0,0,0,,{\be1}Teraz rozumiem, hermafrodyta.
+Dialogue: 0,0:18:12.79,0:18:16.64,Default,,0,0,0,,{\be1}Wszystko sprowadza się do zemsty.
+Dialogue: 0,0:18:17.46,0:18:20.25,Default,,0,0,0,,{\be1}Czemu ochroniłaś mnie przed Sungiem?
+Dialogue: 0,0:18:20.25,0:18:26.29,Default,,0,0,0,,{\be1}Sama nie wiem, może\Nza długo byłam przy tobie?
+Dialogue: 0,0:18:26.29,0:18:30.56,Default,,0,0,0,,{\be1}A może chciałam cię osobiście zabić?
+Dialogue: 0,0:18:31.30,0:18:38.61,Default,,0,0,0,,{\be1}Jeśli zginę, to ciebie pierwszą będą podejrzewać,\Ndlatego przygotowałaś ciało podobne do ciebie.
+Dialogue: 0,0:18:39.31,0:18:48.12,Default,,0,0,0,,{\be1}Dokładnie, a teraz sam John Roy i jego ludzie\Nz grupy Ron Tai zostaną zabici przez wroga.
+Dialogue: 0,0:19:13.69,0:19:15.93,Default,,0,0,0,,{\be1}Panie Wang, co się stało?
+Dialogue: 0,0:19:19.55,0:19:23.56,Default,,0,0,0,,{\be1}Czyli zabiłaś też Sunga.
+Dialogue: 0,0:19:23.56,0:19:28.56,Default,,0,0,0,,{\be1}Delikatna jak anioł, waleczna jak diabeł.
+Dialogue: 0,0:19:29.30,0:19:32.07,Default,,0,0,0,,{\be1}Jesteś niesamowita.
+Dialogue: 0,0:19:41.08,0:19:44.42,Default,,0,0,0,,{\be1}Czy są tu ubrania, które miałem na sobie?
+Dialogue: 0,0:19:44.42,0:19:45.65,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:19:45.65,0:19:50.21,Default,,0,0,0,,{\be1}Mogłabyś mi coś podać z kieszeni?
+Dialogue: 0,0:19:54.83,0:19:58.34,Default,,0,0,0,,{\be1}To dla ciebie.
+Dialogue: 0,0:19:58.77,0:20:05.35,Default,,0,0,0,,{\be1}Dzisiaj miała być moja ostatnia transakcja,\Na potem chciałem odejść z grupy z tobą.
+Dialogue: 0,0:20:06.27,0:20:11.86,Default,,0,0,0,,{\be1}Wiesz, że wszystkie\Nanioły są hermafrodytami?
+Dialogue: 0,0:20:12.33,0:20:19.37,Default,,0,0,0,,{\be1}Ty jesteś moim aniołem.\NPięknym, upadłym aniołem, Lucyferem.
+Dialogue: 0,0:20:19.37,0:20:22.40,Default,,0,0,0,,{\be1}Mam ostatnią prośbę.
+Dialogue: 0,0:20:22.40,0:20:28.87,Default,,0,0,0,,{\be1}Czy możesz mi się oddać ten jeden raz?
+Dialogue: 0,0:20:38.30,0:20:40.04,Default,,0,0,0,,{\be1}Jesteś gorąca.
+Dialogue: 0,0:20:40.04,0:20:41.93,Default,,0,0,0,,{\be1}Dziękuję, Rei.
+Dialogue: 0,0:20:41.93,0:20:49.44,Default,,0,0,0,,{\be1}Dzięki tobie poczułem się jak człowiek,\Nchociaż przez krótki czas.
+Dialogue: 0,0:21:20.10,0:21:22.47,Default,,0,0,0,,{\be1}Żegnaj, Johnie Roy.
+Dialogue: 0,0:21:22.91,0:21:25.47,Default,,0,0,0,,{\be1}Ja też cię kochałam.
+Dialogue: 0,0:21:27.04,0:21:31.33,Default (i),,0,0,0,,{\be1}Cieszę się, że mogę umrzeć przy tobie.
+Dialogue: 0,0:21:32.22,0:21:34.38,Default (i),,0,0,0,,{\be1}Przepraszam, że to podróbka.
+Dialogue: 0,0:21:34.38,0:21:38.21,Default (i),,0,0,0,,{\be1}Przygotowałaś ją jakbyś to była ty.
+Dialogue: 0,0:21:40.23,0:21:45.62,Default (i),,0,0,0,,{\be1}Tak długo robiłem podróbki,\Nże zasługuję na taki koniec.
+Dialogue: 0,0:22:18.47,0:22:27.71,Default,,0,0,0,,{\be1}W eksplozji apartamentu znaleziono 2 ciała, szefa\Ngrupy Ron Tai Johna Roya i jego asystentki Rei Pikwy.
+Dialogue: 0,0:22:28.41,0:22:32.75,Default,,0,0,0,,{\be1}Jon Roy był podejrzewany o\Nkontakty ze światem przestępczym.
+Dialogue: 0,0:22:32.75,0:22:38.39,Default,,0,0,0,,{\be1}Znaleziono również wszystkich\Nwspółpracowników Johna Roya martwych.
+Dialogue: 0,0:22:38.39,0:22:42.46,Default,,0,0,0,,{\be1}Policja nadal bada motywy śmierci, a teraz...
+Dialogue: 0,0:22:42.46,0:22:43.43,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:22:43.43,0:22:46.84,Default,,0,0,0,,{\be1}Gratuluję, wychodzi na to,\Nże skończyłaś swoją grę.
+Dialogue: 0,0:22:46.84,0:22:50.74,Default,,0,0,0,,{\be1}Zaimponowałaś mi,\Njestem z ciebie dumny.
+Dialogue: 0,0:22:50.74,0:22:52.85,Default,,0,0,0,,{\be1}Wszystko wyszło idealnie.
+Dialogue: 0,0:22:52.85,0:22:56.77,Default,,0,0,0,,{\be1}Zagrasz teraz w moją grę?
+Dialogue: 0,0:22:56.77,0:22:58.68,Default,,0,0,0,,{\be1}A jeśli odmówię?
+Dialogue: 0,0:22:58.68,0:23:03.87,Default,,0,0,0,,{\be1}Policja może dowiedzieć się o twojej dublerce.
+Dialogue: 0,0:23:04.75,0:23:08.32,Default,,0,0,0,,{\be1}Ale tego nie chcemy, prawda?
+Dialogue: 0,0:23:08.32,0:23:09.87,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:23:09.87,0:23:13.87,Default,,0,0,0,,{\be1}Wysłałem ci prezent,\Npowinien być pod drzwiami.
+Dialogue: 0,0:23:14.99,0:23:18.62,Default,,0,0,0,,{\be1}Przetestuj go i przyzwyczaj się.
+Dialogue: 0,0:23:19.96,0:23:23.50,Default,,0,0,0,,{\be1}Twój kryptonim to Chimera.
+Dialogue: 0,0:23:23.50,0:23:26.00,Default,,0,0,0,,{\be1}Pasuje do ciebie, nie sądzisz?
+Dialogue: 0,0:23:26.00,0:23:33.97,Default,,0,0,0,,{\be1}Chimera, stworzenie z mitologii greckiej\Nz głową lwa, ciałem kozy i ogonem węża
+Dialogue: 0,0:23:34.81,0:23:40.25,Default,,0,0,0,,{\be1}Wiele zwierząt mieszkających w jednym ciele.
+Dialogue: 0,0:23:40.25,0:23:44.15,Default,,0,0,0,,{\be1}Jest jeszcze jedna chimera.
+Dialogue: 0,0:23:45.42,0:23:48.16,Default,,0,0,0,,{\be1}Hong Kong został stworzony przez cienie historii.
+Dialogue: 0,0:23:48.59,0:23:53.10,Default,,0,0,0,,{\be1}Orientalne miasto z domieszką chaosu.
+Dialogue: 0,0:23:53.10,0:23:58.33,Default,,0,0,0,,{\be1}Największe wynaturzenie\Nstworzone przez człowieka.
+Dialogue: 0,0:24:02.54,0:24:12.10,Default,,0,0,0,,{\be1}Będziesz rządzić podziemiem tego miasta,\Njako chimera bez przeszłości.
+Dialogue: 0,0:24:12.10,0:24:15.10,Default,,0,0,0,,{\be1}Zacznijmy grę.
+Dialogue: 0,0:24:18.32,0:24:22.65,Default,,0,0,0,,{\be1}Twoim pierwszym celem jest właściciel Różanego Ogrodu.
+Dialogue: 0,0:24:39.67,0:24:43.30,Default,,0,0,0,,{\be1}Zabawa dopiero się zaczyna.
+Dialogue: 0,0:24:46.58,0:24:50.35,Default,,0,0,0,,{\be1}Już ja cię obudzę.
+Dialogue: 0,0:25:13.24,0:25:16.95,Default,,0,0,0,,{\be1}Kim jesteś? Nową kobietą?
+Dialogue: 0,0:25:28.89,0:25:32.14,Default,,0,0,0,,{\be1}Wróciłaś.
+Dialogue: 0,0:25:32.63,0:25:34.51,Default,,0,0,0,,{\be1}Tak się cieszę.
+Dialogue: 0,0:25:36.38,0:25:37.76,Default,,0,0,0,,{\be1}Zaczekaj!
+Dialogue: 0,0:25:42.84,0:25:44.77,Default,,0,0,0,,{\be1}Gdzie jesteś?
+Dialogue: 0,0:25:44.77,0:25:49.78,Default,,0,0,0,,{\be1}Nie zostawiaj mnie znowu.
+Dialogue: 0,0:25:49.78,0:25:51.55,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:25:53.74,0:25:54.78,Default,,0,0,0,,{\be1}To ty.
+Dialogue: 0,0:25:55.19,0:26:00.29,Default,,0,0,0,,{\be1}Dziękuję, naprawdę wróciłaś do mnie.
+Dialogue: 0,0:26:30.00,0:26:32.31,Default,,0,0,0,,{\be1}Ten tłumik jest do dupy!
+Dialogue: 0,0:26:42.29,0:26:43.66,Default (i),,0,0,0,,{\be1}Zaciął się!
+Dialogue: 0,0:26:47.92,0:26:50.93,Default,,0,0,0,,{\be1}Dorwałem ją? Muszę być ostrożny.
+Dialogue: 0,0:26:56.01,0:26:58.43,Default,,0,0,0,,{\be1}Za bardzo polegasz na broni.
+Dialogue: 0,0:26:59.52,0:27:04.39,Default,,0,0,0,,{\be1}Widzę, że mam tu prawdziwa\Nprofesjonalistkę, jak cię zwą?
+Dialogue: 0,0:27:04.39,0:27:05.89,Default,,0,0,0,,{\be1}Po co ci to?
+Dialogue: 0,0:27:05.89,0:27:07.69,Default,,0,0,0,,{\be1}Żebym wiedział kto mnie zabił.
+Dialogue: 0,0:27:07.69,0:27:09.06,Default,,0,0,0,,{\be1}Nic ci to nie da.
+Dialogue: 0,0:27:09.06,0:27:10.44,Default,,0,0,0,,{\be1}Wiedziałem.
+Dialogue: 0,0:27:31.25,0:27:34.28,Default (i),,0,0,0,,{\be1}Opadam z sił.
+Dialogue: 0,0:27:36.52,0:27:37.89,Default (i),,0,0,0,,{\be1}Co to za dźwięk?
+Dialogue: 0,0:27:40.80,0:27:44.15,Default (i),,0,0,0,,{\be1}Znowu pada?
+Dialogue: 0,0:28:03.78,0:28:06.40,Default (i),,0,0,0,,{\be1}Czemu jestem taka spokojna?
+Dialogue: 0,0:28:07.42,0:28:11.42,Default (i),,0,0,0,,{\be1}Dawno się tak nie czułam.
+Dialogue: 0,0:28:12.02,0:28:18.65,Default (i),,0,0,0,,{\be1}Pada? Nie. Co to za dźwięk?
+Dialogue: 0,0:28:29.27,0:28:30.77,Default,,0,0,0,,{\be1}Nie śpisz już?
+Dialogue: 0,0:28:33.54,0:28:35.94,Default,,0,0,0,,{\be1}Nie rób nagłych ruchów.
+Dialogue: 0,0:28:35.94,0:28:37.65,Default,,0,0,0,,{\be1}Zaskoczona?
+Dialogue: 0,0:28:37.65,0:28:42.66,Default,,0,0,0,,{\be1}Mój brat znalazł cię\Nprawie martwą i przyniósł tutaj.
+Dialogue: 0,0:28:44.16,0:28:45.66,Default,,0,0,0,,{\be1}Długo spałam?
+Dialogue: 0,0:28:45.66,0:28:50.17,Default,,0,0,0,,{\be1}3 dni, myślałem, że już się nie obudzisz.
+Dialogue: 0,0:28:50.52,0:28:53.63,Default,,0,0,0,,{\be1}Mam na imię Yung, a mój brat Ron.
+Dialogue: 0,0:28:53.63,0:28:56.12,Default,,0,0,0,,{\be1}Ja Rei.
+Dialogue: 0,0:29:06.52,0:29:08.23,Default,,0,0,0,,{\be1}Cześć, Ron!
+Dialogue: 0,0:29:09.69,0:29:11.17,Default (i),,0,0,0,,{\be1}Kiedy wszedł?
+Dialogue: 0,0:29:16.99,0:29:20.22,Default,,0,0,0,,{\be1}Rei, to mój brat Ron.
+Dialogue: 0,0:29:20.22,0:29:24.20,Default,,0,0,0,,{\be1}Yung powiedział,\Nże mnie uratowałeś, dzięki.
+Dialogue: 0,0:29:24.66,0:29:27.75,Default,,0,0,0,,{\be1}Możesz zostać, dopóki ci się nie wyleczysz.
+Dialogue: 0,0:29:27.75,0:29:30.60,Default,,0,0,0,,{\be1}W takim razie Rei zostaje!
+Dialogue: 0,0:29:30.60,0:29:33.00,Default,,0,0,0,,{\be1}Jadłeś już kolację?
+Dialogue: 0,0:29:33.57,0:29:37.01,Default,,0,0,0,,{\be1}Już ją zrobiłem, zjedzmy we trójkę.
+Dialogue: 0,0:29:37.01,0:29:41.28,Default,,0,0,0,,{\be1}Wybacz, ale muszę wyjść.
+Dialogue: 0,0:29:41.28,0:29:44.01,Default,,0,0,0,,{\be1}Przyszedłem tylko sprawdzić co u was.
+Dialogue: 0,0:29:44.63,0:29:48.02,Default,,0,0,0,,{\be1}Wrócę późno, nie zapomnij\Numyć zębów przed snem.
+Dialogue: 0,0:29:52.19,0:29:57.02,Default,,0,0,0,,{\be1}Zawsze traktuje mnie jak dziecko.
+Dialogue: 0,0:29:58.46,0:30:03.53,Default,,0,0,0,,{\be1}Nie złość się, chętnie zjem z tobą.
+Dialogue: 0,0:30:04.35,0:30:05.53,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:30:06.27,0:30:09.54,Default,,0,0,0,,{\be1}Dziękuję, było wyśmienite.
+Dialogue: 0,0:30:13.99,0:30:15.54,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:30:16.41,0:30:20.55,Default,,0,0,0,,{\be1}Jesteś piękna i podobna do mojej mamy.
+Dialogue: 0,0:30:20.55,0:30:22.55,Default,,0,0,0,,{\be1}Do twojej matki?
+Dialogue: 0,0:30:24.09,0:30:28.06,Default,,0,0,0,,{\be1}Umarła, gdy byłem mały.
+Dialogue: 0,0:30:29.46,0:30:34.06,Default,,0,0,0,,{\be1}Ojca to w ogóle nie pamiętam,\NRon mnie wychował.
+Dialogue: 0,0:30:35.37,0:30:37.06,Default,,0,0,0,,{\be1}Pokazać ci jej zdjęcie?
+Dialogue: 0,0:30:37.06,0:30:37.98,Default,,0,0,0,,{\be1}No.
+Dialogue: 0,0:30:42.99,0:30:47.28,Default,,0,0,0,,{\be1}Przepiękna, dużo ładniejsza niż ja.
+Dialogue: 0,0:30:48.55,0:30:50.25,Default,,0,0,0,,{\be1}No nie wiem.
+Dialogue: 0,0:30:50.25,0:30:52.84,Default,,0,0,0,,{\be1}To moje jedyne zdjęcie mamy.
+Dialogue: 0,0:30:52.84,0:30:55.29,Default,,0,0,0,,{\be1}Ale za to ty jesteś młodsza.
+Dialogue: 0,0:30:56.51,0:30:58.30,Default,,0,0,0,,{\be1}Prawisz mi komplementy?
+Dialogue: 0,0:31:03.18,0:31:04.80,Default,,0,0,0,,{\be1}To twój ojciec?
+Dialogue: 0,0:31:04.80,0:31:08.31,Default,,0,0,0,,{\be1}Nie wiem, Ron nie chce powiedzieć.
+Dialogue: 0,0:31:08.77,0:31:09.82,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:31:28.03,0:31:30.89,Default,,0,0,0,,{\be1}Możesz już chodzić?
+Dialogue: 0,0:31:30.89,0:31:33.04,Default,,0,0,0,,{\be1}To niegroźna rana.
+Dialogue: 0,0:31:33.04,0:31:36.73,Default,,0,0,0,,{\be1}Poza tym dobrze mnie opatrzono,\Nlekarz się mną zajmował?
+Dialogue: 0,0:31:36.73,0:31:42.05,Default,,0,0,0,,{\be1}Nie, pocisk przeszedł na wylot,\Na ja znam się na takich rzeczach.
+Dialogue: 0,0:31:44.07,0:31:47.55,Default,,0,0,0,,{\be1}Trochę szkoda mi Yunga, ale muszę iść.
+Dialogue: 0,0:31:47.55,0:31:53.34,Default,,0,0,0,,{\be1}Jeśli zostanę u was za długo,\Nsprowadzę na was kłopoty.
+Dialogue: 0,0:31:55.56,0:32:02.07,Default,,0,0,0,,{\be1}Nic nie powiedziałeś,\Nale widziałeś moje ciało, prawda?
+Dialogue: 0,0:32:02.07,0:32:03.25,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:32:03.25,0:32:04.89,Default,,0,0,0,,{\be1}Nie jesteś zaskoczony?
+Dialogue: 0,0:32:04.89,0:32:08.07,Default,,0,0,0,,{\be1}Przywykłem do dziwactw.
+Dialogue: 0,0:32:11.76,0:32:16.58,Default,,0,0,0,,{\be1}Jesteś kobietą czy mężczyzną?
+Dialogue: 0,0:32:16.58,0:32:19.08,Default,,0,0,0,,{\be1}Sama nie wiem.
+Dialogue: 0,0:32:20.47,0:32:22.54,Default,,0,0,0,,{\be1}Zwracam ci to.
+Dialogue: 0,0:32:22.54,0:32:27.09,Default,,0,0,0,,{\be1}Masz za dużo miejsca przy sprężynie,\Nlepiej się tym zajmij.
+Dialogue: 0,0:32:27.09,0:32:29.08,Default,,0,0,0,,{\be1}Kim ty jesteś?
+Dialogue: 0,0:32:29.08,0:32:31.10,Default,,0,0,0,,{\be1}Kolegą po fachu.
+Dialogue: 0,0:32:31.49,0:32:33.76,Default,,0,0,0,,{\be1}Choć miałem kiedyś restaurację.
+Dialogue: 0,0:32:34.64,0:32:39.60,Default,,0,0,0,,{\be1}Yung nie wie o moich interesach\Ni nigdy się nie dowie.
+Dialogue: 0,0:32:39.60,0:32:46.70,Default,,0,0,0,,{\be1}Uratowałem cię wiedząc czym się\Nzajmujesz, możesz spać spokojnie.
+Dialogue: 0,0:32:46.70,0:32:49.16,Default,,0,0,0,,{\be1}Dobranoc.
+Dialogue: 0,0:33:43.59,0:33:45.49,Default,,0,0,0,,{\be1}Niezły cel.
+Dialogue: 0,0:33:45.49,0:33:50.59,Default,,0,0,0,,{\be1}Nie dość, że masz niezłą broń,\Nto jeszcze świetnie strzelasz.
+Dialogue: 0,0:33:50.59,0:33:54.59,Default,,0,0,0,,{\be1}To dzięki tobie prawie wydobrzałam.
+Dialogue: 0,0:33:54.60,0:33:56.82,Default,,0,0,0,,{\be1}Masz niezłą strzelnicę.
+Dialogue: 0,0:33:56.82,0:34:00.60,Default,,0,0,0,,{\be1}Jestem najemnikiem,\Nmuszę sam dbać o siebie.
+Dialogue: 0,0:34:01.17,0:34:03.44,Default,,0,0,0,,{\be1}Inaczej długo nie przetrwam.
+Dialogue: 0,0:34:03.44,0:34:05.73,Default,,0,0,0,,{\be1}Mamy dużą konkurencję.
+Dialogue: 0,0:34:11.68,0:34:13.62,Default,,0,0,0,,{\be1}Zawsze nosisz okulary.
+Dialogue: 0,0:34:13.62,0:34:16.32,Default,,0,0,0,,{\be1}Nie lubię, gdy ktoś patrzy mi w oczy.
+Dialogue: 0,0:34:18.91,0:34:22.39,Default,,0,0,0,,{\be1}Masz piękne oczy.
+Dialogue: 0,0:34:44.23,0:34:48.14,Default (i),,0,0,0,,{\be1}Skąd jesteś? Gdzie teraz pójdziesz?
+Dialogue: 0,0:34:48.14,0:34:51.03,Default (i),,0,0,0,,{\be1}Nie wiem, ale...
+Dialogue: 0,0:34:51.76,0:34:53.22,Default (i),,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:34:53.22,0:34:57.95,Default (i),,0,0,0,,{\be1}Po prostu podążam za przeznaczeniem.
+Dialogue: 0,0:35:19.02,0:35:23.77,Default (i),,0,0,0,,{\be1}To Yunga? Ma inny łańcuszek, to chyba Rona.
+Dialogue: 0,0:35:29.39,0:35:31.03,Default,,0,0,0,,{\be1}Pamiętasz go?
+Dialogue: 0,0:35:40.33,0:35:47.68,Default,,0,0,0,,{\be1}Jak dobrze wiesz, to dźwiękoszczelny\Npokój, nikt nam nie przeszkodzi.
+Dialogue: 0,0:35:47.68,0:35:52.68,Default,,0,0,0,,{\be1}Teraz już wiesz, że jesteśmy synami\Nwłaściciela Różanego Ogrodu.
+Dialogue: 0,0:35:53.34,0:35:57.34,Default,,0,0,0,,{\be1}Mój ojciec był jeszcze zdrowy,\Ngdy zrobiono to zdjęcie.
+Dialogue: 0,0:35:57.69,0:36:06.63,Default,,0,0,0,,{\be1}W mojej organizacji stał na wysokim szczeblu,\Nale dla mnie, Yunga i matki był dobry.
+Dialogue: 0,0:36:07.35,0:36:14.12,Default,,0,0,0,,{\be1}Gdy zacząłem dla nich pracować,\NYung był jeszcze mały.
+Dialogue: 0,0:36:15.36,0:36:21.87,Default,,0,0,0,,{\be1}Lecz gdy ojciec oszalał, organizacja dała mu\Nnarkotyki i kobiety by trzymał gębę na kłódkę.
+Dialogue: 0,0:36:22.85,0:36:27.87,Default,,0,0,0,,{\be1}Różany Ogród stał się posiadłością\Nwypełnioną szaleństwem i pożądaniem.
+Dialogue: 0,0:36:28.65,0:36:34.50,Default,,0,0,0,,{\be1}Wiedziałem, że któregoś dnia zostanie\Nzabity, ale miał zginąć z mojej ręki!
+Dialogue: 0,0:36:36.49,0:36:39.86,Default,,0,0,0,,{\be1}Wiesz czemu oszalał?
+Dialogue: 0,0:36:39.86,0:36:45.56,Default,,0,0,0,,{\be1}Bo stracił nasza matkę!
+Dialogue: 0,0:36:46.64,0:36:50.65,Default,,0,0,0,,{\be1}Nie zostawiaj mnie znowu.
+Dialogue: 0,0:36:51.28,0:36:52.97,Default (i),,0,0,0,,{\be1}Teraz rozumiem.
+Dialogue: 0,0:36:54.65,0:37:00.38,Default,,0,0,0,,{\be1}Odszedłem z organizacji i zająłem się Yungiem.
+Dialogue: 0,0:37:00.38,0:37:05.66,Default,,0,0,0,,{\be1}Masz pojęcie jak ciężko jest odejść\Nz organizacji nie tracąc roboty?
+Dialogue: 0,0:37:05.66,0:37:08.66,Default,,0,0,0,,{\be1}Mam 2 pytania.
+Dialogue: 0,0:37:09.59,0:37:12.92,Default,,0,0,0,,{\be1}Znamy się już dobrze, pytaj o co chcesz.
+Dialogue: 0,0:37:12.92,0:37:15.45,Default,,0,0,0,,{\be1}Dlaczego dałeś Yungowi, tylko część zdjęcia?
+Dialogue: 0,0:37:16.46,0:37:22.43,Default,,0,0,0,,{\be1}Nie musi go znać,\Nja jestem mu bratem i ojcem.
+Dialogue: 0,0:37:22.43,0:37:26.93,Default,,0,0,0,,{\be1}Skoro chciałeś się zemścić,\Npo co mnie ratowałeś?
+Dialogue: 0,0:37:38.65,0:37:42.16,Default,,0,0,0,,{\be1}A jaki jest sens mścić się na trupie?
+Dialogue: 0,0:37:42.63,0:37:44.87,Default,,0,0,0,,{\be1}Czemu się ze mną przespałeś?
+Dialogue: 0,0:37:44.87,0:37:47.64,Default,,0,0,0,,{\be1}Miały być tylko 2 pytania.
+Dialogue: 0,0:37:51.88,0:37:54.88,Default,,0,0,0,,{\be1}Poznajcie się, to Chiney.
+Dialogue: 0,0:37:55.71,0:37:58.38,Default,,0,0,0,,{\be1}Przeżyła Różany Ogród.
+Dialogue: 0,0:37:58.38,0:38:04.89,Default,,0,0,0,,{\be1}Narkotyki tak wyżarły jej mózg, że będzie się\Nzabawiać z mężczyznami i kobietami.
+Dialogue: 0,0:38:07.89,0:38:10.94,Default,,0,0,0,,{\be1}Niech się trochę zabawi z tobą.
+Dialogue: 0,0:38:15.19,0:38:19.20,Default,,0,0,0,,{\be1}Dam wam dużo czasu, miłej zabawy.
+Dialogue: 0,0:38:19.20,0:38:22.64,Default,,0,0,0,,{\be1}Po wszystkim sama będziesz chciała się zabić.
+Dialogue: 0,0:38:25.20,0:38:26.97,Default,,0,0,0,,{\be1}Ron...
+Dialogue: 0,0:38:28.20,0:38:31.11,Default,,0,0,0,,{\be1}Rei naprawdę odeszła?
+Dialogue: 0,0:38:31.11,0:38:32.21,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:38:32.21,0:38:37.21,Default,,0,0,0,,{\be1}Wydobrzała i musiała zająć się swoimi sprawami.
+Dialogue: 0,0:38:37.21,0:38:40.71,Default,,0,0,0,,{\be1}Wróci jeszcze?\NMasz do niej numer?
+Dialogue: 0,0:38:41.35,0:38:43.68,Default,,0,0,0,,{\be1}Nic nie mówiła, a ja nie pytałem.
+Dialogue: 0,0:38:43.68,0:38:47.22,Default,,0,0,0,,{\be1}Idę do pracy, a ty do szkoły.
+Dialogue: 0,0:38:47.61,0:38:49.26,Default,,0,0,0,,{\be1}Przecież wiem.
+Dialogue: 0,0:38:56.93,0:38:59.23,Default,,0,0,0,,{\be1}Czemu odeszłaś bez słowa?
+Dialogue: 0,0:38:59.23,0:39:01.28,Default (i),,0,0,0,,{\be1}Jesteś podła.
+Dialogue: 0,0:39:08.48,0:39:10.25,Default,,0,0,0,,{\be1}Już doszłaś?
+Dialogue: 0,0:39:10.75,0:39:13.49,Default,,0,0,0,,{\be1}Bo ja jeszcze nie.
+Dialogue: 0,0:39:19.46,0:39:25.97,Default,,0,0,0,,{\be1}Nie zabieraj całej zabawy\Ndla siebie, zrób mi dobrze.
+Dialogue: 0,0:39:35.14,0:39:36.61,Default,,0,0,0,,{\be1}O tak.
+Dialogue: 0,0:39:40.07,0:39:44.99,Default,,0,0,0,,{\be1}Niesamowite, jak to robisz?
+Dialogue: 0,0:39:53.46,0:39:56.79,Default,,0,0,0,,{\be1}Myśliwy został upolowany.
+Dialogue: 0,0:39:57.69,0:40:00.50,Default,,0,0,0,,{\be1}Jak ona może tyle wytrzymać?
+Dialogue: 0,0:40:11.68,0:40:22.22,Default,,0,0,0,,{\be1}Zazdroszczę ci, gdybym miała twoje ciało,\Ncieszyłabym się nim ile wlezie!
+Dialogue: 0,0:40:22.22,0:40:25.88,Default,,0,0,0,,{\be1}Zadowolisz mnie jeszcze raz.
+Dialogue: 0,0:40:28.39,0:40:31.40,Default,,0,0,0,,{\be1}Do diabła, czemu?
+Dialogue: 0,0:40:33.20,0:40:38.70,Default,,0,0,0,,{\be1}Masz oba narządy i możesz\Nzabawiać się na oba sposoby, zdziro!
+Dialogue: 0,0:40:38.70,0:40:40.21,Default,,0,0,0,,{\be1}Nie pozwolę ci na to!
+Dialogue: 0,0:40:41.67,0:40:42.84,Default,,0,0,0,,{\be1}Pożałujesz!
+Dialogue: 0,0:40:56.79,0:41:00.19,Default,,0,0,0,,{\be1}Już nikomu nie będziesz zazdrościć.
+Dialogue: 0,0:41:00.19,0:41:01.90,Default,,0,0,0,,{\be1}Nie ruszaj się.
+Dialogue: 0,0:41:03.03,0:41:06.90,Default,,0,0,0,,{\be1}A chciałem, żebyś pożyła dłużej.
+Dialogue: 0,0:41:07.34,0:41:08.51,Default,,0,0,0,,{\be1}Nie ruszaj się!
+Dialogue: 0,0:41:09.20,0:41:11.95,Default,,0,0,0,,{\be1}Co masz w lewej ręce?
+Dialogue: 0,0:41:12.40,0:41:15.91,Default,,0,0,0,,{\be1}Majtki Chiney, chciałam je nałożyć.
+Dialogue: 0,0:41:15.91,0:41:20.92,Default,,0,0,0,,{\be1}Bez nich źle mi się rusza,\Nwiesz co mam na myśli.
+Dialogue: 0,0:41:21.75,0:41:24.95,Default,,0,0,0,,{\be1}Jesteś spokojna\Njak na kogoś kto zaraz zginie.
+Dialogue: 0,0:41:24.95,0:41:27.96,Default,,0,0,0,,{\be1}Nie poddasz się do ostatniej chwili, co?
+Dialogue: 0,0:41:29.82,0:41:31.43,Default,,0,0,0,,{\be1}Ron!
+Dialogue: 0,0:41:32.86,0:41:35.13,Default,,0,0,0,,{\be1}Coś ty zrobił Rei?!
+Dialogue: 0,0:41:35.93,0:41:39.43,Default,,0,0,0,,{\be1}Wynoś się! To nie twoja sprawa!
+Dialogue: 0,0:41:39.43,0:41:43.53,Default,,0,0,0,,{\be1}Co to miało znaczyć?!\NCo tu się dzieje?!
+Dialogue: 0,0:41:43.53,0:41:45.73,Default,,0,0,0,,{\be1}Nie traktuj mnie jak dziecko!
+Dialogue: 0,0:41:45.73,0:41:48.74,Default,,0,0,0,,{\be1}Dobrze wiem czym się zajmujesz!
+Dialogue: 0,0:41:50.57,0:41:53.74,Default,,0,0,0,,{\be1}Rozumiem, do kiedy?
+Dialogue: 0,0:41:53.74,0:42:01.94,Default,,0,0,0,,{\be1}Od dawna coś mi tu nie pasowało,\Na gdy przyniosłeś Rei, to byłem już pewny.
+Dialogue: 0,0:42:02.75,0:42:07.75,Default,,0,0,0,,{\be1}Zabójca nie potrzebuje rodziny,\Nbędzie tylko zawadzać.
+Dialogue: 0,0:42:07.75,0:42:08.61,Default,,0,0,0,,{\be1}Zamknij mordę!
+Dialogue: 0,0:42:09.37,0:42:13.26,Default,,0,0,0,,{\be1}Powiem ci dlaczego chcę ją zabić.
+Dialogue: 0,0:42:13.26,0:42:15.76,Default,,0,0,0,,{\be1}Ona zabiła naszego ojca!
+Dialogue: 0,0:42:18.10,0:42:19.31,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:42:23.77,0:42:25.27,Default (i),,0,0,0,,{\be1}Nie dasz rady.
+Dialogue: 0,0:42:44.57,0:42:51.09,Default,,0,0,0,,{\be1}Wiedziałaś jak to się skończy,\Ndlatego popsułaś broń.
+Dialogue: 0,0:42:51.90,0:42:55.09,Default,,0,0,0,,{\be1}Cały czas udawałaś?
+Dialogue: 0,0:42:55.51,0:42:57.94,Default,,0,0,0,,{\be1}Cała Chimera.
+Dialogue: 0,0:42:58.98,0:43:05.92,Default,,0,0,0,,{\be1}Niezła z ciebie kobieta.\NNie, ty nie jesteś ani kobietą, ani mężczyzną.
+Dialogue: 0,0:43:07.32,0:43:09.05,Default,,0,0,0,,{\be1}Jesteś diabłem.
+Dialogue: 0,0:43:19.32,0:43:21.12,Default,,0,0,0,,{\be1}Zabij mnie.
+Dialogue: 0,0:43:21.12,0:43:28.62,Default,,0,0,0,,{\be1}Nie dostałam na ciebie zlecenia,\Npo prostu się broniłam.
+Dialogue: 0,0:43:30.63,0:43:33.13,Default,,0,0,0,,{\be1}Profesjonalistka.
+Dialogue: 0,0:43:33.13,0:43:34.63,Default,,0,0,0,,{\be1}Rei!
+Dialogue: 0,0:43:35.64,0:43:38.55,Default,,0,0,0,,{\be1}Naprawdę zabiłaś naszego ojca?!
+Dialogue: 0,0:43:43.14,0:43:49.90,Default,,0,0,0,,{\be1}Jeśli to prawda, to więcej nie zabijaj!
+Dialogue: 0,0:43:53.66,0:43:55.91,Default,,0,0,0,,{\be1}Żegnaj.
+Dialogue: 0,0:44:09.85,0:44:11.12,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:44:11.12,0:44:15.45,Default,,0,0,0,,{\be1}Dawno cię nie słyszałem,\Nmam następny cel.
+Dialogue: 0,0:44:18.39,0:44:22.43,Default,,0,0,0,,{\be1}Jestem Rei, zabójca hermafrodyta.
+Dialogue: 0,0:44:22.43,0:44:25.32,Default,,0,0,0,,{\be1}Mój kryptonim to Chimera.

@@ -1,0 +1,210 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.743
+Title: Nyan
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Original Script: kostek00
+YCbCr Matrix: TV.601
+Last Style Storage: Default
+Video Zoom Percent: 0.375000
+Video Position: 475
+Collisions: Normal
+Active Line: 0
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (i),Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (top),Franklin Gothic Medium,58.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,8,20,20,23,1
+Style: Grupa,Franklin Gothic Medium,36.5,&H00FFFFFF,&H000000FF,&H78FEE5FF,&H00000000,-1,-1,0,0,100,100,0,0,1,2.4,0,7,27,10,23,1
+Style: Anime,Franklin Gothic Medium,120,&H00FFFFFF,&H000000FF,&H78FEE5FF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,20,1
+Style: Tytul,Franklin Gothic Medium,69,&H00F5C8F2,&H000000FF,&H78FEE5FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,65,20,120,1
+Style: Znak,Franklin Gothic Medium,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:28.21,0:02:32.67,Grupa,,0,0,0,,{\blur10\fad(147,0)}Nyan
+Dialogue: 0,0:02:28.21,0:02:32.67,Anime,,0,0,0,,{\blur10\fad(147,0)}Kuroinu
+Dialogue: 0,0:02:28.21,0:02:32.67,Anime,,0,0,0,,{\pos(979,767)\blur10\fad(147,0)\fs57\1c&HF5C8F2&\3a&HDC&}Kedakaki Seijo wa Hakudaku ni Somaru
+Dialogue: 0,0:02:28.21,0:02:32.67,Tytul,,0,0,0,,{\blur10\fad(147,0)}Olga i Chloe: Czarny Zamek, upadek
+Dialogue: 0,0:00:19.80,0:00:23.56,Default,,0,0,0,,{\be1}Pożałujecie tego!
+Dialogue: 0,0:00:25.39,0:00:26.94,Default,,0,0,0,,{\be1}Dlaczego zdradziliście?!
+Dialogue: 0,0:00:29.96,0:00:35.43,Default,,0,0,0,,{\be1}Co wyście narobili, głupcy?!
+Dialogue: 0,0:00:38.61,0:00:43.12,Default,,0,0,0,,{\be1}Zginiecie za to!
+Dialogue: 0,0:00:43.12,0:00:44.69,Default,,0,0,0,,{\be1}Nie, już jesteście martwi!
+Dialogue: 0,0:00:45.10,0:00:48.27,Default,,0,0,0,,{\be1}Zdechnijcie tu i teraz!
+Dialogue: 0,0:00:48.27,0:00:52.79,Default,,0,0,0,,{\be1}Jaka ty jesteś energiczna.
+Dialogue: 0,0:00:53.46,0:00:56.70,Default,,0,0,0,,{\be1}Masz zaprawdę niezły charakterek.
+Dialogue: 0,0:00:57.03,0:01:04.71,Default,,0,0,0,,{\be1}Ale chyba sobie nie zdajesz co cię czeka.
+Dialogue: 0,0:01:20.69,0:01:27.13,Default,,0,0,0,,{\be1}Od dawna chcieli cię zgwałcić.
+Dialogue: 0,0:01:30.72,0:01:34.86,Default,,0,0,0,,{\be1}Bardzo nam pomogli przybywając tak szybko.
+Dialogue: 0,0:01:36.82,0:01:42.82,Default,,0,0,0,,{\be1}Zróbcie z nią co chcecie!\NJest waszą nagrodą!
+Dialogue: 0,0:01:44.12,0:01:48.62,Default,,0,0,0,,{\be1}Ty sobie kpisz!\NNie będziesz mną rozporządzał jak jakąś...
+Dialogue: 0,0:01:50.77,0:01:52.07,Default,,0,0,0,,{\be1}Puszczaj!
+Dialogue: 0,0:02:07.94,0:02:14.36,Default,,0,0,0,,{\be1}Pożałujesz wszystkiego co zrobiłaś ludziom.
+Dialogue: 0,0:02:16.70,0:02:18.65,Default,,0,0,0,,{\be1}Nie róbcie tego!
+Dialogue: 0,0:02:35.40,0:02:42.68,Default (i),,0,0,0,,{\be1}Na tym kontynencie istnieje\Nwielka cywilizacja zwana Eostia.
+Dialogue: 0,0:02:43.49,0:02:49.87,Default (i),,0,0,0,,{\be1}Na północ od nich istnieje rasa bestii\Nżyjąca od zarania dziejów.
+Dialogue: 0,0:02:49.87,0:02:54.69,Default (i),,0,0,0,,{\be1}Dla innych cywilizacji są złem plugawiącym ziemię.
+Dialogue: 0,0:02:56.44,0:03:06.98,Default (i),,0,0,0,,{\be1}Porywają kobiety, niewolą je i hańbią\Nodbierając spokojne życie.
+Dialogue: 0,0:03:12.67,0:03:17.71,Default (i),,0,0,0,,{\be1}Po wieloletniej wojnie z bestiami\Nwydarzyło się coś dziwnego.
+Dialogue: 0,0:03:19.20,0:03:27.10,Default (i),,0,0,0,,{\be1}Sto lat temu, na północ od krainy bestii,\Nz ziemi wyłonił się czarny zamek.
+Dialogue: 0,0:03:38.98,0:03:46.12,Default (i),,0,0,0,,{\be1}Wokół zamku rozciąga się potężna bariera,\Nchroniąca go przed zagrożeniami z zewnątrz.
+Dialogue: 0,0:03:57.94,0:04:05.01,Default (i),,0,0,0,,{\be1}Od czasu pojawienia się zamku,\Nniebo stało się czerwone niezależnie od pory dnia.
+Dialogue: 0,0:04:07.05,0:04:12.73,Default (i),,0,0,0,,{\be1}Powietrze stało się ciężkie utrudniając\Noddychanie, a ziemia wokół umiera.
+Dialogue: 0,0:04:12.73,0:04:18.02,Default (i),,0,0,0,,{\be1}Nie ma sposobu by to powstrzymać.
+Dialogue: 0,0:04:19.76,0:04:27.69,Default (i),,0,0,0,,{\be1}Plotki głoszą, że panią zamku jest piękna, mroczna elfka.
+Dialogue: 0,0:04:30.00,0:04:35.54,Default (i),,0,0,0,,{\be1}Wszyscy nazywają ją Mroczną Królową.
+Dialogue: 0,0:04:40.50,0:04:42.40,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:04:42.40,0:04:46.38,Default,,0,0,0,,{\be1}Jak śmiecie mi to robić?!
+Dialogue: 0,0:04:52.71,0:04:56.01,Default,,0,0,0,,{\be1}Co robicie?! Nie patrz!
+Dialogue: 0,0:04:58.41,0:05:01.82,Default,,0,0,0,,{\be1}Nie! Puśćcie!
+Dialogue: 0,0:05:02.92,0:05:06.82,Default,,0,0,0,,{\be1}Czyńcie swoją powinność.
+Dialogue: 0,0:05:19.63,0:05:21.09,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:05:21.09,0:05:24.09,Default,,0,0,0,,{\be1}Taki duży nie...
+Dialogue: 0,0:05:40.05,0:05:41.47,Default (i),,0,0,0,,{\be1}Jest za duży!
+Dialogue: 0,0:05:42.25,0:05:45.49,Default (i),,0,0,0,,{\be1}Rozpycha mi brzuch!
+Dialogue: 0,0:05:46.65,0:05:48.99,Default (i),,0,0,0,,{\be1}Nie mogę oddychać!
+Dialogue: 0,0:07:18.37,0:07:20.58,Default (i),,0,0,0,,{\be1}Królowo...
+Dialogue: 0,0:07:59.72,0:08:01.65,Default,,0,0,0,,{\be1}Wstawaj!
+Dialogue: 0,0:08:18.08,0:08:19.02,Default,,0,0,0,,{\be1}Wyłaź!
+Dialogue: 0,0:09:05.62,0:09:10.07,Default (i),,0,0,0,,{\be1}Nie przestają mnie pieprzyć.
+Dialogue: 0,0:09:10.70,0:09:13.19,Default (i),,0,0,0,,{\be1}Jakbym była niewolnicą.
+Dialogue: 0,0:09:16.75,0:09:19.28,Default (i),,0,0,0,,{\be1}Moje usta...
+Dialogue: 0,0:09:20.15,0:09:21.29,Default (i),,0,0,0,,{\be1}I pochwa...
+Dialogue: 0,0:09:23.65,0:09:28.38,Default (i),,0,0,0,,{\be1}Są hańbione przez bestie.
+Dialogue: 0,0:09:44.25,0:09:49.81,Default (i),,0,0,0,,{\be1}Nie wiem co zrobić.
+Dialogue: 0,0:09:55.93,0:10:01.42,Default (i),,0,0,0,,{\be1}O nie, czuję, że niedługo skończą!
+Dialogue: 0,0:10:02.61,0:10:03.71,Default (i),,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:10:03.71,0:10:11.98,Default (i),,0,0,0,,{\be1}Nie! Nie kończcie we mnie!
+Dialogue: 0,0:10:13.91,0:10:18.59,Default (i),,0,0,0,,{\be1}Nie! Rozerwą mnie!
+Dialogue: 0,0:10:20.28,0:10:26.10,Default (i),,0,0,0,,{\be1}Nie spuszczaj się!
+Dialogue: 0,0:10:27.42,0:10:35.75,Default (i),,0,0,0,,{\be1}Nie spuszczaj się we mnie, bo dojdę!
+Dialogue: 0,0:10:37.56,0:10:42.12,Default (i),,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:10:43.91,0:10:51.02,Default (i),,0,0,0,,{\be1}Królowo, wybacz, że jestem niewyżyta!
+Dialogue: 0,0:10:58.31,0:11:07.39,Default (i),,0,0,0,,{\be1}Zaraz wypuści spermę!
+Dialogue: 0,0:11:17.95,0:11:20.40,Default (i),,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:11:22.24,0:11:26.75,Default (i),,0,0,0,,{\be1}Spuścił się we mnie!
+Dialogue: 0,0:11:31.04,0:11:35.82,Default (i),,0,0,0,,{\be1}W buzi mam też mam spermę.
+Dialogue: 0,0:11:36.76,0:11:39.90,Default (i),,0,0,0,,{\be1}Jest taka pyszna, że nie wytrzymam!
+Dialogue: 0,0:12:25.39,0:12:34.25,Default (i),,0,0,0,,{\be1}Mroczna Królowa sprawuje władzę,\Nnad złymi istotami na jej ziemiach.
+Dialogue: 0,0:12:36.77,0:12:41.34,Default (i),,0,0,0,,{\be1}Są ludzie, którzy walczą z nią.
+Dialogue: 0,0:12:42.23,0:12:47.37,Default (i),,0,0,0,,{\be1}Ale zwycięstwo nie przyjdzie im łatwo.
+Dialogue: 0,0:12:50.86,0:12:58.10,Default (i),,0,0,0,,{\be1}Jej wrogowie chcą pokonać ją\Ni rasę zła najszybciej jak to możliwe.
+Dialogue: 0,0:12:59.34,0:13:09.63,Default (i),,0,0,0,,{\be1}Jest siedem rycerzy, którzy wierzą w walkę z królową.
+Dialogue: 0,0:13:14.35,0:13:19.13,Default (i),,0,0,0,,{\be1}Bogini odrodzona jako wysoka elfka.
+Dialogue: 0,0:13:21.44,0:13:33.91,Default (i),,0,0,0,,{\be1}Wysoka elfka, która zobaczyła przyszłość,\Nzbudowała święty kościół.
+Dialogue: 0,0:13:34.97,0:13:41.50,Default (i),,0,0,0,,{\be1}A następnie zwołała księżniczki z różnych krajów.
+Dialogue: 0,0:13:41.50,0:13:53.64,Default (i),,0,0,0,,{\be1}W dniu zjednoczenia w świętym kościele\Nzostał powołany zakon rycerzy.
+Dialogue: 0,0:13:57.06,0:14:01.94,Default (i),,0,0,0,,{\be1}W czasie wojny najemnicy również odegrali swoją rolę.
+Dialogue: 0,0:14:02.27,0:14:05.07,Default (i),,0,0,0,,{\be1}Dzięki nim święta armia odniosła wiele zwycięstw.
+Dialogue: 0,0:14:05.98,0:14:14.45,Default (i),,0,0,0,,{\be1}Ale robili to tylko dla pieniędzy,\Nktóre wydawali na przyziemne przyjemności.
+Dialogue: 0,0:14:15.43,0:14:26.47,Default (i),,0,0,0,,{\be1}Pewnego dnia przybył mężczyzna,\Nktóry zjednoczył najemników pod jednym sztandarem.
+Dialogue: 0,0:14:27.66,0:14:30.64,Default (i),,0,0,0,,{\be1}A nazywa się Vault.
+Dialogue: 0,0:14:34.81,0:14:41.05,Default,,0,0,0,,{\be1}Panie, daj mi nagrodę!
+Dialogue: 0,0:14:42.37,0:14:48.99,Default,,0,0,0,,{\be1}Słyszałaś swoją podwładną?
+Dialogue: 0,0:14:49.85,0:14:53.65,Default,,0,0,0,,{\be1}Jest nagrodą dla bestii.
+Dialogue: 0,0:14:58.75,0:15:02.66,Default,,0,0,0,,{\be1}Nie! Chcę więcej spermy!
+Dialogue: 0,0:15:09.68,0:15:18.19,Default,,0,0,0,,{\be1}Wezwałem cię, bo muszę się czegoś upewnić.
+Dialogue: 0,0:15:18.19,0:15:23.65,Default,,0,0,0,,{\be1}Czy mroczna elfka może urodzić ludzkie dziecko?
+Dialogue: 0,0:15:44.35,0:15:48.92,Default,,0,0,0,,{\be1}Podrzędny gatunek nie złamie mnie.
+Dialogue: 0,0:15:52.06,0:15:53.61,Default,,0,0,0,,{\be1}Odbieram co moje.
+Dialogue: 0,0:16:03.36,0:16:04.99,Default,,0,0,0,,{\be1}Co to ma znaczyć?!
+Dialogue: 0,0:16:06.42,0:16:07.94,Default,,0,0,0,,{\be1}Alicia.
+Dialogue: 0,0:16:09.61,0:16:13.60,Default,,0,0,0,,{\be1}Przepraszam, że się uniosłam.
+Dialogue: 0,0:16:13.60,0:16:18.45,Default,,0,0,0,,{\be1}Ale to jest nie do przyjęcia!
+Dialogue: 0,0:16:34.37,0:16:37.37,Default,,0,0,0,,{\be1}A jednak cię złamałem!
+Dialogue: 0,0:16:55.50,0:16:58.99,Default,,0,0,0,,{\be1}To moje ostatnie zaklęcie.
+Dialogue: 0,0:16:59.55,0:17:01.29,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:17:01.29,0:17:03.52,Default,,0,0,0,,{\be1}Nałożyła pieczęć na macicę.
+Dialogue: 0,0:17:03.52,0:17:07.50,Default,,0,0,0,,{\be1}Rozumiem, nie chce zajść w ciążę.
+Dialogue: 0,0:17:08.04,0:17:15.05,Default,,0,0,0,,{\be1}Zapieczętowałam w sobie mrocznego ducha,\Nktóry nie pozwoli ci działać.
+Dialogue: 0,0:17:15.05,0:17:16.96,Default,,0,0,0,,{\be1}I wszystko jasne.
+Dialogue: 0,0:17:18.58,0:17:23.02,Default,,0,0,0,,{\be1}Mamy czas, żeby wyrżnąć z ciebie tę pieczęć.
+Dialogue: 0,0:17:23.02,0:17:30.77,Default,,0,0,0,,{\be1}Słuchajcie! Mamy tu piękną, mroczną elfkę,\Nktóra zapewne jest dziewicą!
+Dialogue: 0,0:17:30.77,0:17:33.82,Default,,0,0,0,,{\be1}Wszyscy posmakujemy Mrocznej Królowej!
+Dialogue: 0,0:17:47.28,0:17:49.41,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:17:49.41,0:17:55.30,Default,,0,0,0,,{\be1}Królowa zostanie zerżnięta przez podrzędnych ludzi.
+Dialogue: 0,0:17:56.14,0:18:00.30,Default,,0,0,0,,{\be1}Nie wytrzymam! Chcę ją już zerżnąć!
+Dialogue: 0,0:18:01.17,0:18:04.31,Default,,0,0,0,,{\be1}Królowa się trzęsie.
+Dialogue: 0,0:18:05.20,0:18:08.99,Default,,0,0,0,,{\be1}Nigdy nie myślałem, że będę miał królową.
+Dialogue: 0,0:18:08.99,0:18:13.11,Default,,0,0,0,,{\be1}Może nałożyła pieczęć, bo chce nas?
+Dialogue: 0,0:18:13.11,0:18:16.82,Default,,0,0,0,,{\be1}Nie ma na co czekać, sprawdźmy.
+Dialogue: 0,0:18:19.04,0:18:22.28,Default,,0,0,0,,{\be1}Już czuję słodki zapach jej cipki.
+Dialogue: 0,0:18:22.28,0:18:23.55,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:18:23.55,0:18:27.58,Default,,0,0,0,,{\be1}Kapitanie, sprawdź jej dziewictwo!
+Dialogue: 0,0:18:27.58,0:18:28.71,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:18:33.27,0:18:39.82,Default (i),,0,0,0,,{\be1}Patrzy na mnie podrzędny człowiek.
+Dialogue: 0,0:18:46.71,0:18:50.80,Default (i),,0,0,0,,{\be1}Za szybko tracę siły.
+Dialogue: 0,0:18:55.83,0:19:01.11,Default,,0,0,0,,{\be1}To z całą pewnością dziewica.
+Dialogue: 0,0:19:04.56,0:19:06.75,Default,,0,0,0,,{\be1}Czas się zabawić.
+Dialogue: 0,0:19:09.41,0:19:11.65,Default,,0,0,0,,{\be1}Zaczynamy, królowo.
+Dialogue: 0,0:19:12.31,0:19:13.98,Default,,0,0,0,,{\be1}Nie musisz tego mówić!
+Dialogue: 0,0:19:31.00,0:19:33.36,Default,,0,0,0,,{\be1}Włożyłem całego!
+Dialogue: 0,0:19:44.28,0:19:48.57,Default,,0,0,0,,{\be1}Nieważne ile będziesz mnie pieprzyć!
+Dialogue: 0,0:19:49.42,0:19:52.46,Default,,0,0,0,,{\be1}Dopóki pieczęć wytrzyma...
+Dialogue: 0,0:19:54.64,0:20:04.06,Default,,0,0,0,,{\be1}Twoja ohydna sperma nie zbruka mojego łona!
+Dialogue: 0,0:20:06.86,0:20:10.97,Default,,0,0,0,,{\be1}Kapitanie, możemy zabawić się z królową?
+Dialogue: 0,0:20:10.97,0:20:14.04,Default,,0,0,0,,{\be1}Możemy chociaż pomacać cycki?
+Dialogue: 0,0:20:14.04,0:20:16.56,Default,,0,0,0,,{\be1}Bierzcie ją jak chcecie!
+Dialogue: 0,0:20:17.38,0:20:18.79,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:20:26.78,0:20:29.25,Default,,0,0,0,,{\be1}Masz naprawdę śliczną buźkę.
+Dialogue: 0,0:20:29.25,0:20:31.96,Default,,0,0,0,,{\be1}Nie wytrzymam! Spójrz na mnie!
+Dialogue: 0,0:20:36.84,0:20:39.46,Default,,0,0,0,,{\be1}Zabieraj tą paskudną...
+Dialogue: 0,0:20:41.15,0:20:49.79,Default,,0,0,0,,{\be1}Jak śmiecie mi to robić, śmiecie?!
+Dialogue: 0,0:20:49.79,0:20:50.97,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:20:50.97,0:20:52.85,Default,,0,0,0,,{\be1}Uspokój się.
+Dialogue: 0,0:20:52.85,0:20:56.89,Default,,0,0,0,,{\be1}Niech sobie mówi co chce, zaraz ją zerżniesz.
+Dialogue: 0,0:20:56.89,0:21:00.61,Default,,0,0,0,,{\be1}Kiedy nie lubię jak kobiety tak do mnie mówią.
+Dialogue: 0,0:21:00.61,0:21:02.45,Default,,0,0,0,,{\be1}Wszyscy ją bierzcie!
+Dialogue: 0,0:21:02.45,0:21:04.66,Default,,0,0,0,,{\be1}Jak chcecie się spuścić to w niej!
+Dialogue: 0,0:21:04.66,0:21:07.62,Default,,0,0,0,,{\be1}Pieprzcie ją ile tylko się da!
+Dialogue: 0,0:21:07.98,0:21:11.62,Default,,0,0,0,,{\be1}Chodźcie! Nie stójcie jak kołki!
+Dialogue: 0,0:21:11.62,0:21:15.91,Default,,0,0,0,,{\be1}Wyruchajcie wszystkie jej dziury!
+Dialogue: 0,0:21:24.16,0:21:28.39,Default,,0,0,0,,{\be1}Królewska cipa jest zajebista!
+Dialogue: 0,0:21:28.39,0:21:29.64,Default,,0,0,0,,{\be1}Zmień się już!
+Dialogue: 0,0:21:29.64,0:21:32.64,Default,,0,0,0,,{\be1}Nie pchaj się! Zaczekaj jeszcze!
+Dialogue: 0,0:21:36.91,0:21:38.90,Default,,0,0,0,,{\be1}Co za usta!
+Dialogue: 0,0:21:38.90,0:21:41.15,Default,,0,0,0,,{\be1}Tylko się nie udław.
+Dialogue: 0,0:21:42.89,0:21:45.16,Default,,0,0,0,,{\be1}Niezłe cycuszki!
+Dialogue: 0,0:21:53.41,0:21:56.92,Default,,0,0,0,,{\be1}Moja kolej, spieprzaj!
+Dialogue: 0,0:21:56.92,0:22:02.43,Default,,0,0,0,,{\be1}Bawcie się do woli, nie codziennie można mieć królową.
+Dialogue: 0,0:22:09.02,0:22:11.35,Default,,0,0,0,,{\be1}Obspermimy cię całą!
+Dialogue: 0,0:22:11.51,0:22:14.72,Default,,0,0,0,,{\be1}Trzeba wykonać rozkazy!
+Dialogue: 0,0:22:25.06,0:22:26.78,Default,,0,0,0,,{\be1}Moja kolej!
+Dialogue: 0,0:22:47.73,0:22:51.60,Default (i),,0,0,0,,{\be1}Jak długo jeszcze będzie to trwać?
+Dialogue: 0,0:22:51.60,0:22:55.28,Default (i),,0,0,0,,{\be1}Biorą mnie jak tylko chcą.
+Dialogue: 0,0:23:02.18,0:23:06.69,Default,,0,0,0,,{\be1}Wyglądasz na zadowoloną, królowo.
+Dialogue: 0,0:23:09.83,0:23:14.70,Default,,0,0,0,,{\be1}Nieważne co mi zrobicie, nie zhańbicie mnie.
+Dialogue: 0,0:23:16.04,0:23:18.96,Default,,0,0,0,,{\be1}Zobaczymy jak długo będziesz tak mówić!
+Dialogue: 0,0:23:25.51,0:23:33.26,Default,,0,0,0,,{\be1}Jak na królową przystało,\Nnadal ciasna jakby nadal była dziewicą!
+Dialogue: 0,0:23:34.08,0:23:41.04,Default,,0,0,0,,{\be1}Nigdy nie zniszczysz mojej pochwy.
+Dialogue: 0,0:23:42.10,0:23:44.98,Default,,0,0,0,,{\be1}Zaraz się przekonasz.
+Dialogue: 0,0:23:44.98,0:23:47.48,Default,,0,0,0,,{\be1}Jesteś gotowy?
+Dialogue: 0,0:24:08.51,0:24:12.51,Default,,0,0,0,,{\be1}Teraz mogę się spuszczać do woli
+Dialogue: 0,0:24:14.60,0:24:18.52,Default,,0,0,0,,{\be1}Niemożliwe! Nie możesz!
+Dialogue: 0,0:24:19.12,0:24:27.33,Default,,0,0,0,,{\be1}Nie urodzę dziecka podrzędnego człowieka!
+Dialogue: 0,0:24:27.33,0:24:29.42,Default,,0,0,0,,{\be1}No to masz pecha.
+Dialogue: 0,0:24:29.42,0:24:35.53,Default,,0,0,0,,{\be1}W tak dobrej cipie trzeba się spuścić!
+Dialogue: 0,0:24:37.20,0:24:43.04,Default,,0,0,0,,{\be1}Czy wiesz jaką hańbę będę\Nmusiała znosić do końca życia?!
+Dialogue: 0,0:24:43.36,0:24:45.32,Default,,0,0,0,,{\be1}Czas to zakończyć!
+Dialogue: 0,0:24:45.32,0:24:49.69,Default,,0,0,0,,{\be1}Jeszcze raz wszyscy możecie się zabawić z królową!
+Dialogue: 0,0:24:49.69,0:24:53.88,Default,,0,0,0,,{\be1}Nie! Nie róbcie tego!
+Dialogue: 0,0:25:04.86,0:25:06.46,Default,,0,0,0,,{\be1}Tylko nie gryź.
+Dialogue: 0,0:25:09.52,0:25:15.57,Default (i),,0,0,0,,{\be1}Zhańbią moje łono ohydną spermą!
+Dialogue: 0,0:25:17.02,0:25:21.88,Default,,0,0,0,,{\be1}No to dochodzę!\NBierz całą spermę!
+Dialogue: 0,0:25:22.94,0:25:24.83,Default,,0,0,0,,{\be1}Zaraz wasza kolej!
+Dialogue: 0,0:25:30.39,0:25:32.34,Default (i),,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:37.50,0:25:40.22,Default (i),,0,0,0,,{\be1}Spuścił się.
+Dialogue: 0,0:25:41.51,0:25:46.85,Default (i),,0,0,0,,{\be1}Moje łono zostało zhańbione ludzką spermą!
+Dialogue: 0,0:26:22.28,0:26:25.41,Default,,0,0,0,,{\be1}Wszyscy spuścili się w niej po 10 razy!

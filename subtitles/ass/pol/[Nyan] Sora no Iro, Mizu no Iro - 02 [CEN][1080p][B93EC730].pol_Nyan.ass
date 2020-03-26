@@ -1,0 +1,279 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.4 Build516  Jul 30 2016  13:42:12
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Last Style Storage: [1440x1080]
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,2,20,20,45,1
+Style: Default (i),Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.5,0,2,20,20,45,1
+Style: Default (top),Franklin Gothic Medium,58.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.9,0,8,20,20,23,1
+Style: Grupa,Franklin Gothic Medium,35.7,&H00C19C7D,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.8,0,7,22,10,22,1
+Style: Anime,Franklin Gothic Medium,101,&H00C19C7D,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,8,0,8,20,20,110,1
+Style: Tytul,Franklin Gothic Medium,72,&H00D77F2E,&H000000FF,&H00FFFBF8,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,63,136,1
+Style: Znak,Franklin Gothic Medium,67,&H00FFFFFF,&H000000FF,&HFF000000,&H64000000,0,0,0,0,100,100,0,0,1,0.1,3,8,40,20,248,1
+Style: ED Rom,Franklin Gothic Medium,54,&H008FB6FC,&H00004DDC,&H00001338,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,7,34,20,23,1
+Style: ED Kan,@Arial Unicode MS,56,&H008FB6FC,&H00004DDC,&H00001338,&H00000000,0,0,0,0,100,100,0,270,1,4.5,0,5,20,20,96,1
+Style: ED Pl,Franklin Gothic Medium,54,&H008FB6FC,&H00004DDC,&H00001338,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,7,34,20,86,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:43.17,0:01:47.84,Grupa,,0,0,0,,{\be1\fad(1351,0)}Nyan
+Dialogue: 0,0:01:43.17,0:01:47.84,Anime,,0,0,0,,{\blur2\fad(1351,0)}Sora no Iro, Mizu no Iro
+Dialogue: 0,0:01:44.72,0:01:47.84,Tytul,,0,0,0,,{\be1\fad(385,0)}Ja też... Zrobię to dla ciebie {\fscx90\fscy110\1c&H934DDE&\t(3816,$end,\1c&HEFEDEA&)}❤
+Dialogue: 0,0:27:16.22,0:27:19.79,Znak,,0,0,0,,{\be1\fad(715,1286)}Kilka lat później
+Dialogue: 1,0:23:45.07,0:23:54.04,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k34}Mi{\k40}na{\k37}mo {\k34}wo {\k41}wa{\k22}ta{\k84}ru {\k47}yu{\k40}u{\k27}u{\k45}tsu {\k34}na {\k72}ka{\k290}ze{\k25}
+Dialogue: 1,0:23:45.07,0:23:54.04,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k74}水{\k37}面{\k34}を{\k63}渡{\k84}る {\k87}憂{\k72}鬱{\k34}な{\k362}風{\k25}
+Dialogue: 1,0:23:45.07,0:23:54.04,ED Pl,,0,0,0,,{\be3\fad(250,250)}Ciemny wiatr przemyka nad powierzchnią wody.
+Dialogue: 0,0:23:57.15,0:24:08.43,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k37}To{\k33}i{\k34}ka{\k32}ke{\k42}te {\k32}mi{\k59}re{\k192}ba {\k60\k42}mo{\k30}u {\k40}na{\k37}tsu {\k47}no {\k33\k32}o{\k22}wa{\k274}ri{\k25}
+Dialogue: 0,0:23:57.15,0:24:08.43,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k37}問{\k33}い{\k34}か{\k32}け{\k42}て{\k32}み{\k59}れ{\k192}ば {\k60\k42}も{\k30}う{\k77}夏{\k47}の{\k33\k32}終{\k22}わ{\k274}り{\k25}
+Dialogue: 0,0:23:57.15,0:24:08.43,ED Pl,,0,0,0,,{\be3\fad(250,250)}Nim zdążysz mu zadać pytanie, lato się kończy.
+Dialogue: 1,0:24:15.35,0:24:22.43,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k38}Shi{\k43}zu{\k39}n {\k33}de {\k23}yu{\k72}ku {\k25\k35}yu{\k35}u{\k35}hi {\k41}mo {\k39}hi{\k77}go{\k123}to{\k25}
+Dialogue: 1,0:24:15.35,0:24:22.43,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k81}沈{\k39}ん{\k33}で{\k23}ゆ{\k72}く {\k25\k70}夕{\k35}陽{\k41}も{\k39}日{\k77}ご{\k123}と{\k25}
+Dialogue: 1,0:24:15.35,0:24:22.43,ED Pl,,0,0,0,,{\be3\fad(250,250)}Wieczorami słońce nadal zachodzi.
+Dialogue: 0,0:24:26.90,0:24:37.49,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k49}SU{\k48}PI{\k32}I{\k34}DO {\k36}ma{\k42}shi{\k48}te{\k10\k114}ku{\k120} {\k43}shu{\k37}u{\k39}i{\k34}ro {\k69}no {\k50\k20}ku{\k184}mo{\k25}
+Dialogue: 0,0:24:26.90,0:24:37.49,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k49}ス{\k48}ピ{\k32}ー{\k34}ド{\k36}増{\k42}し{\k48}て{\k10\k114}く {\k120\k80}秋{\k73}色{\k69}の{\k50\k204}雲{\k25}
+Dialogue: 0,0:24:26.90,0:24:37.49,ED Pl,,0,0,0,,{\be3\fad(250,250)}Lecz coraz szybciej, gdy liście zmieniają kolory.
+Dialogue: 1,0:24:42.13,0:24:53.11,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k33}Ko{\k47}no {\k110}ho{\k33}ho {\k233}ni {\k30\k33}fu{\k75}re{\k70}ru {\k119}so{\k36}no {\k43}ka{\k40}mi {\k146}ga{\k25}
+Dialogue: 1,0:24:42.13,0:24:53.11,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k33}こ{\k47}の{\k143}頬{\k233}に{\k30\k33}触{\k75}れ{\k70}る{\k119}そ{\k36}の{\k83}髪{\k146}が{\k25}
+Dialogue: 1,0:24:42.13,0:24:53.11,ED Pl,,0,0,0,,{\be3\fad(250,250)}Dotknąłeś mojego policzka...
+Dialogue: 0,0:24:54.20,0:25:12.01,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k31}To{\k31}te{\k41}mo {\k35}i{\k34}to{\k40}shi{\k59}ku{\k191}te {\k138\k31}to{\k36}te{\k31}mo {\k41}se{\k39}tsu{\k43}na{\k43}ku{\k155}te {\k63\k33}ha{\k41}na{\k40}re{\k37}ta{\k31}ku {\k41}na{\k71}ka{\k355}tta{\k25}
+Dialogue: 0,0:24:54.20,0:25:12.01,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k31}と{\k31}て{\k41}も{\k69}愛{\k40}し{\k59}く{\k191}て {\k138\k31}と{\k36}て{\k31}も{\k82}切{\k39}な{\k43}く{\k155}て {\k63\k74}離{\k40}れ{\k37}た{\k31}く{\k41}な{\k71}か{\k355}った{\k25}
+Dialogue: 0,0:24:54.20,0:25:12.01,ED Pl,,0,0,0,,{\be3\fad(250,250)}Tak czule, a jednak boleśnie, nie chcę odchodzić.
+Dialogue: 1,0:25:17.18,0:25:28.90,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k74}Nee {\k18\k42}ko{\k33}n{\k37}na {\k24}ni {\k50}mo {\k45}ko{\k33}n{\k35}na {\k35}ni {\k105}mo {\k86\k39}ki{\k40}mi {\k35}ga {\k76}ta{\k26}i{\k45}se{\k116}tsu {\k28}da {\k99}yo{\k25}
+Dialogue: 1,0:25:17.18,0:25:28.90,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k74}ねぇ {\k18\k42}こ{\k33}ん{\k37}な{\k24}に{\k50}も {\k45}こ{\k33}ん{\k35}な{\k35}に{\k105}も{\k86\k79}君{\k35}が{\k102}大{\k161}切{\k28}だ{\k99}よ{\k25}
+Dialogue: 1,0:25:17.18,0:25:28.90,ED Pl,,0,0,0,,{\be3\fad(250,250)}Nawet nie wiesz jak bardzo mi na tobie zależy.
+Dialogue: 0,0:25:28.53,0:25:34.81,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k23}Do{\k13}u{\k46}shi{\k35}te {\k20}i{\k50}ma {\k37}ma{\k47}de {\k34\k19}ki{\k17}zu{\k20}ka{\k14}zu {\k40}su{\k17}go{\k55}shi{\k6\k41}ta {\k44}no?{\k25}
+Dialogue: 0,0:25:28.53,0:25:34.81,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k23}ど{\k13}う{\k46}し{\k35}て{\k70}今{\k37}ま{\k47}で {\k34\k19}気{\k17}づ{\k20}か{\k14}ず{\k40}過{\k17}ご{\k55}し{\k6\k41}た{\k44}の？{\k25}
+Dialogue: 0,0:25:28.53,0:25:34.81,ED Pl,,0,0,0,,{\be3\fad(250,250)}Dlaczego wcześniej tego nie zauważyłam?
+Dialogue: 1,0:25:34.64,0:25:41.67,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k32}Ni{\k35}ji {\k38}wo {\k41}ku{\k36}gu{\k46}ru {\k26}hi{\k43}ka{\k36}ru {\k36}na{\k36}mi {\k27}no {\k48}ka{\k45}ku{\k128}do{\k25}
+Dialogue: 1,0:25:34.64,0:25:41.67,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k67}虹{\k38}を{\k41}く{\k36}ぐ{\k46}る {\k69}光{\k36}る{\k72}波{\k29}の{\k93}角{\k128}度{\k25}
+Dialogue: 1,0:25:34.64,0:25:41.67,ED Pl,,0,0,0,,{\be3\fad(250,250)}Mój aniele, który odszedłeś...
+Dialogue: 0,0:25:41.36,0:25:57.14,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k56}Mo{\k20}u{\k32}i{\k29}chi{\k91}do {\k30\k43}me{\k35}gu{\k37}ru {\k33}ki{\k27}se{\k127}tsu {\k39\k73}ki{\k42}tto {\k145}ki{\k74}tto {\k37}ki{\k37}mi {\k124}no {\k30\k36}to{\k73}na{\k71}ri {\k187}ni{\k25}
+Dialogue: 0,0:25:41.36,0:25:57.14,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k56}も{\k20}う{\k61}一{\k91}度{\k30\k78}巡{\k37}る{\k33}季{\k154}節 {\k39\k73}き{\k42}っと {\k145}き{\k74}っと {\k74}君{\k124}の{\k30\k36}と{\k73}な{\k71}り{\k187}に{\k25}
+Dialogue: 0,0:25:41.36,0:25:57.14,ED Pl,,0,0,0,,{\be3\fad(250,250)}Spotkamy się, gdy lato powróci.
+Dialogue: 1,0:26:12.08,0:26:19.59,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k39}Ko{\k35}to{\k40}ba {\k27}wo {\k40}mo{\k28}ta{\k75}zu {\k16\k35}to{\k35}mo {\k43}tsu{\k45}ta{\k31}e{\k75}ta{\k137}i{\k25}
+Dialogue: 1,0:26:12.08,0:26:19.59,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k74}言{\k40}葉{\k27}を{\k40}持{\k28}た{\k75}ず{\k16\k35}と{\k35}も {\k88}伝{\k31}え{\k75}た{\k137}い{\k25}
+Dialogue: 1,0:26:12.08,0:26:19.59,ED Pl,,0,0,0,,{\be3\fad(250,250)}Słowa nie są w stanie przekazać jak bardzo chcę cię zobaczyć.
+Dialogue: 0,0:26:24.03,0:26:34.80,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k45}Na{\k37}mi {\k27}ni {\k53}sa{\k34}ra{\k37}wa{\k50}re{\k214}ru {\k30\k43}ma{\k33}e {\k41}ni {\k35}i{\k59}ki {\k20}wo {\k32}to{\k23}me{\k214}ta{\k25}
+Dialogue: 0,0:26:24.03,0:26:34.80,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k82}波{\k27}に{\k53}さ{\k34}ら{\k37}わ{\k50}れ{\k214}る{\k30\k76}前{\k41}に {\k94}息{\k20}を{\k32}と{\k23}め{\k214}た{\k25}
+Dialogue: 0,0:26:24.03,0:26:34.80,ED Pl,,0,0,0,,{\be3\fad(250,250)}Wstrzymałam oddech zanim nadeszła fala.
+Dialogue: 1,0:26:39.06,0:26:50.65,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k35}Ka{\k45}wa{\k99}ra{\k50}na{\k202}i {\k62\k35}ki{\k65}mi {\k75}no {\k122}so{\k34}no {\k40}e{\k40}ga{\k205}o{\k25}
+Dialogue: 1,0:26:39.06,0:26:50.65,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k35}変{\k45}わ{\k99}ら{\k50}な{\k202}い {\k62\k100}君{\k75}の{\k122}そ{\k34}の{\k40}笑{\k245}顔{\k25}
+Dialogue: 1,0:26:39.06,0:26:50.65,ED Pl,,0,0,0,,{\be3\fad(250,250)}Twój uśmiech nigdy się nie zmienia...
+Dialogue: 0,0:26:51.03,0:27:08.88,ED Rom,,0,0,0,,{\be3\fad(250,250)\fs23\k25\k34}Na{\k38}ze {\k48}ka {\k38}ka{\k30}na{\k44}shi{\k58}ge {\k218}de {\k91\k38}so{\k40}shi{\k38}te {\k34}su{\k42}ko{\k40}shi {\k58}da{\k183}ke {\k20\k34}na{\k40}mi{\k41}da {\k38}de {\k34}bo{\k38}ya{\k38}ke{\k38}te{\k342}ta{\k25}
+Dialogue: 0,0:26:51.03,0:27:08.88,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k34}何{\k38}故{\k48}か{\k68}悲{\k44}し{\k58}げ{\k218}で {\k91\k38}そ{\k40}し{\k38}て{\k76}少{\k40}し{\k58}だ{\k183}け {\k20\k115}涙{\k38}で{\k34}ぼ{\k38}や{\k38}け{\k38}て{\k342}た{\k25}
+Dialogue: 0,0:26:51.03,0:27:08.88,ED Pl,,0,0,0,,{\be3\fad(250,250)}A jednak wygląda smutno zwłaszcza, gdy mam łzy w oczach.
+Dialogue: 1,0:27:14.17,0:27:19.82,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k72}Nee {\k54}sa{\k31}ga{\k43}shi{\k25}te{\k46}ru {\k40}mi{\k38}tsu{\k38}ke{\k41}ta{\k87}i{\k25}
+Dialogue: 1,0:27:14.17,0:27:19.82,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k72}ねぇ {\k85}探{\k43}し{\k25}て{\k46}る {\k40}見{\k38}つ{\k38}け{\k41}た{\k87}い{\k25}
+Dialogue: 1,0:27:14.17,0:27:19.82,ED Pl,,0,0,0,,{\be3\fad(250,250)}Wciąż próbuję to znaleźć...
+Dialogue: 0,0:27:20.25,0:27:25.89,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k41}Ka{\k36}ta{\k40}chi {\k76}no {\k43}na{\k33}i {\k34}na{\k73}ni{\k38}ka {\k100}wo{\k25}
+Dialogue: 0,0:27:20.25,0:27:25.89,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k117}形{\k76}の{\k43}な{\k33}い{\k107}何{\k38}か{\k100}を{\k25}
+Dialogue: 0,0:27:20.25,0:27:25.89,ED Pl,,0,0,0,,{\be3\fad(250,250)}Choć nie ma to wyglądu.
+Dialogue: 1,0:27:25.52,0:27:31.80,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k33}Hi{\k46}to {\k33}wa {\k22}"ka{\k52}ta{\k39}chi" {\k35}wo {\k24\k13}mi{\k28}se{\k15}ru {\k18}no {\k20}ga {\k33}to{\k26}ku{\k46}i {\k46}na{\k49}no{\k25}
+Dialogue: 1,0:27:25.52,0:27:31.80,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k79}人{\k33}は {\k22}「カ{\k52}タ{\k39}チ」 {\k35}を{\k24\k13}見{\k28}せ{\k15}る{\k18}の{\k20}が{\k33}得{\k72}意{\k46}な{\k49}の{\k25}
+Dialogue: 1,0:27:25.52,0:27:31.80,ED Pl,,0,0,0,,{\be3\fad(250,250)}Ludzie umieją zachowywać swój wygląd...
+Dialogue: 0,0:27:31.59,0:27:38.57,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k33}To{\k39}o{\k31}i {\k45}ki{\k32}o{\k43}ku {\k39}a{\k35}o{\k31}i {\k38}ha{\k43}ha {\k20}no {\k35}yo{\k13}u {\k47}wo {\k124}ni{\k25}
+Dialogue: 0,0:27:31.59,0:27:38.57,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k72}遠{\k31}い{\k45}記{\k75}憶 {\k74}青{\k31}い{\k81}母{\k20}の{\k35}よ{\k13}う{\k47}を{\k124}に{\k25}
+Dialogue: 0,0:27:31.59,0:27:38.57,ED Pl,,0,0,0,,{\be3\fad(250,250)}Jak w głęboko zapomnianych wspomnieniach.
+Dialogue: 1,0:27:38.27,0:27:54.08,ED Rom,,0,0,0,,{\be3\fad(250,250)\k25\k69}Na{\k47}mi {\k21}no {\k45}na{\k24}i {\k20\k33}o{\k40}hi{\k34}sa{\k42}ma {\k34}no {\k33}na{\k135}ka {\k25\k40}ma{\k35}do{\k36}ro{\k38}mu {\k71}to{\k40}ri {\k73}no {\k31}yo{\k46}u {\k114}ni {\k40\k44}ka{\k63}e{\k82}ro{\k176}u{\k25}
+Dialogue: 1,0:27:38.27,0:27:54.08,ED Kan,,0,0,0,,{\be3\fad(250,250)\pos(1395,540)\k25\k116}波{\k21}の{\k45}な{\k24}い{\k20\k33}お{\k40}日{\k76}様{\k34}の{\k168}中 {\k25\k40}ま{\k35}ど{\k36}ろ{\k38}む{\k111}鳥{\k73}の{\k31}よ{\k46}う{\k114}に {\k40\k107}帰{\k82}ろ{\k176}う{\k25}
+Dialogue: 1,0:27:38.27,0:27:54.08,ED Pl,,0,0,0,,{\be3\fad(250,250)}Wróćmy do domu w blasku słońca.
+Dialogue: 0,0:00:07.60,0:00:09.70,Default,,0,0,0,,{\be1}Przestań się przejmować.
+Dialogue: 0,0:00:09.70,0:00:14.24,Default,,0,0,0,,{\be1}Przecież nie ma nikogo z klubu pływackiego.
+Dialogue: 0,0:00:14.24,0:00:16.44,Default,,0,0,0,,{\be1}Rozbierasz się do naga?
+Dialogue: 0,0:00:16.44,0:00:21.13,Default,,0,0,0,,{\be1}Przecież nie wejdę pod prysznic w ubraniu.
+Dialogue: 0,0:00:22.07,0:00:25.84,Default,,0,0,0,,{\be1}Nie przyjdą dopóki basen nie będzie pełny!
+Dialogue: 0,0:00:25.84,0:00:27.59,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:00:39.06,0:00:43.27,Default,,0,0,0,,{\be1}Zobaczą nas jeśli się nie schylisz.
+Dialogue: 0,0:00:44.86,0:00:46.98,Default,,0,0,0,,{\be1}Ale już...
+Dialogue: 0,0:00:49.89,0:00:54.95,Default,,0,0,0,,{\be1}Przestań się drażnić i wkładaj mocniej.
+Dialogue: 0,0:00:54.95,0:00:57.29,Default,,0,0,0,,{\be1}Ale jak chłopaki przyjdą...
+Dialogue: 0,0:00:57.92,0:00:59.40,Default,,0,0,0,,{\be1}Wytrzymaj.
+Dialogue: 0,0:00:59.40,0:01:02.29,Default,,0,0,0,,{\be1}Chyba nie dam rady.
+Dialogue: 0,0:01:02.58,0:01:04.29,Default,,0,0,0,,{\be1}To twoja kara.
+Dialogue: 0,0:01:08.51,0:01:12.51,Default,,0,0,0,,{\be1}Nie przejmuj się, jakoś wytrzymam.
+Dialogue: 0,0:01:13.40,0:01:17.59,Default,,0,0,0,,{\be1}Jak chcesz uchodzić za kujonkę,\Nto ubieraj białą bieliznę.
+Dialogue: 0,0:01:17.59,0:01:19.33,Default,,0,0,0,,{\be1}Ja nie...
+Dialogue: 0,0:01:24.93,0:01:26.65,Default,,0,0,0,,{\be1}Hajime.
+Dialogue: 0,0:01:59.32,0:02:02.05,Default,,0,0,0,,{\be1}Jak zawsze masz za dużo energii.
+Dialogue: 0,0:02:04.54,0:02:08.12,Default,,0,0,0,,{\be1}Piękna i mokra, wspaniały widok.
+Dialogue: 0,0:02:09.23,0:02:12.09,Default,,0,0,0,,{\be1}Mówisz jak stary zbok.
+Dialogue: 0,0:02:14.16,0:02:17.08,Default,,0,0,0,,{\be1}Zabraniam ci wywoływać to zdjęcie.
+Dialogue: 0,0:02:17.75,0:02:20.34,Default,,0,0,0,,{\be1}I tak już zapamiętałem ten widok.
+Dialogue: 0,0:02:23.59,0:02:24.96,Default,,0,0,0,,{\be1}Zbok.
+Dialogue: 0,0:02:26.46,0:02:29.34,Default,,0,0,0,,{\be1}Za bardzo mu się wystawiasz.
+Dialogue: 0,0:02:29.46,0:02:33.80,Default,,0,0,0,,{\be1}Powinnaś bardziej uważać.
+Dialogue: 0,0:02:36.77,0:02:38.98,Default,,0,0,0,,{\be1}Czasem jesteś wkurzająca.
+Dialogue: 0,0:02:54.74,0:02:56.74,Default,,0,0,0,,{\be1}Coś słyszałam.
+Dialogue: 0,0:02:56.74,0:02:58.71,Default,,0,0,0,,{\be1}Chłopaki wrócili!
+Dialogue: 0,0:02:58.71,0:03:01.87,Default,,0,0,0,,{\be1}Mówiłaś, że wyszli na przerwę!
+Dialogue: 0,0:03:01.87,0:03:03.62,Default,,0,0,0,,{\be1}Nie ma moich majtek!
+Dialogue: 0,0:03:03.62,0:03:05.76,Default,,0,0,0,,{\be1}Moich też!
+Dialogue: 0,0:03:06.54,0:03:09.80,Default,,0,0,0,,{\be1}Wybacz, że jestem niedobra.
+Dialogue: 0,0:03:10.05,0:03:13.77,Default,,0,0,0,,{\be1}Wybacz, że jestem niegrzeczna.
+Dialogue: 0,0:03:17.70,0:03:22.72,Default,,0,0,0,,{\be1}Ale to twoja wina!
+Dialogue: 0,0:03:23.58,0:03:32.50,Default,,0,0,0,,{\be1}Nawet nie jestem w stanie rywalizować z Asą.
+Dialogue: 0,0:03:35.90,0:03:39.78,Default,,0,0,0,,{\be1}W byciu zboczoną bijesz ją na głowę.
+Dialogue: 0,0:03:41.03,0:03:48.10,Default,,0,0,0,,{\be1}Jeśli będziesz mnie tak brać,\Nto stanę się jeszcze bardziej zboczona.
+Dialogue: 0,0:03:49.75,0:03:50.99,Default,,0,0,0,,{\be1}Zasnęła.
+Dialogue: 0,0:03:50.99,0:03:54.41,Default,,0,0,0,,{\be1}Nic dziwnego, to całkiem przyjemne.
+Dialogue: 0,0:03:54.98,0:03:56.36,Default,,0,0,0,,{\be1}Przyłączysz się?
+Dialogue: 0,0:03:56.36,0:04:00.39,Default,,0,0,0,,{\be1}Zabawmy się w rodzeństwo.
+Dialogue: 0,0:04:01.38,0:04:08.31,Default,,0,0,0,,{\be1}Asa będzie starszą siostrą, ja młodszą, a ty udasz chłopaka Asy.
+Dialogue: 0,0:04:09.84,0:04:13.83,Default,,0,0,0,,{\be1}Asa jeszcze trochę pośpi.
+Dialogue: 0,0:04:13.83,0:04:17.53,Default,,0,0,0,,{\be1}Chcesz zrobić coś nieprzyzwoitego?
+Dialogue: 0,0:04:18.30,0:04:22.74,Default,,0,0,0,,{\be1}Nie możemy, twoja siostra obudzi się.
+Dialogue: 0,0:04:25.24,0:04:27.25,Default,,0,0,0,,{\be1}Dlaczego nie możemy?
+Dialogue: 0,0:04:28.01,0:04:31.00,Default,,0,0,0,,{\be1}Bo kochasz Asę?
+Dialogue: 0,0:04:31.00,0:04:32.63,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:04:33.76,0:04:35.77,Default,,0,0,0,,{\be1}Kłamczuch.
+Dialogue: 0,0:04:35.77,0:04:38.30,Default,,0,0,0,,{\be1}Gdybyś ją kochał...
+Dialogue: 0,0:04:41.13,0:04:42.98,Default,,0,0,0,,{\be1}Nie stanąłby ci.
+Dialogue: 0,0:04:57.65,0:04:59.74,Default,,0,0,0,,{\be1}Ukarzę kłamczucha.
+Dialogue: 0,0:05:08.92,0:05:11.57,Default,,0,0,0,,{\be1}Mocno ci stanął...
+Dialogue: 0,0:05:15.02,0:05:17.48,Default,,0,0,0,,{\be1}Jak na kogoś zakochanego.
+Dialogue: 0,0:05:52.70,0:05:57.67,Default,,0,0,0,,{\be1}Jestem w klubie ogrodniczym,\Ndlatego lubię jak coś rośnie.
+Dialogue: 0,0:06:08.64,0:06:10.49,Default,,0,0,0,,{\be1}Zboczek.
+Dialogue: 0,0:06:10.49,0:06:13.45,Default,,0,0,0,,{\be1}Siostra leży obok, a ty robisz to.
+Dialogue: 0,0:06:14.40,0:06:16.36,Default,,0,0,0,,{\be1}Ale i tak mam to gdzieś.
+Dialogue: 0,0:06:17.19,0:06:18.86,Default,,0,0,0,,{\be1}Zdrajca.
+Dialogue: 0,0:06:29.87,0:06:31.12,Default,,0,0,0,,{\be1}Hajime, czekaj!
+Dialogue: 0,0:06:32.02,0:06:34.29,Default,,0,0,0,,{\be1}Raczej "braciszku".
+Dialogue: 0,0:06:38.70,0:06:43.48,Default,,0,0,0,,{\be1}To nie fair wkładać tak nagle!
+Dialogue: 0,0:06:43.48,0:06:46.46,Default,,0,0,0,,{\be1}Powiem wszystko siostrze.
+Dialogue: 0,0:07:22.55,0:07:26.65,Default,,0,0,0,,{\be1}Siostra usłyszy nas!
+Dialogue: 0,0:07:27.66,0:07:28.79,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:07:29.55,0:07:34.57,Default,,0,0,0,,{\be1}To wtedy wezmę was obie\Ni będzie sprawiedliwie, nie?
+Dialogue: 0,0:07:34.57,0:07:38.03,Default,,0,0,0,,{\be1}Nie chcę we trójkę!
+Dialogue: 0,0:07:38.03,0:07:41.51,Default,,0,0,0,,{\be1}Ale będziesz musiała,\Nbo zrobimy to przy tobie.
+Dialogue: 0,0:07:45.31,0:07:48.13,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:07:51.98,0:07:54.86,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:07:54.86,0:07:56.10,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:07:57.26,0:08:00.99,Default,,0,0,0,,{\be1}Zwolnij, bo nie wytrzymam!
+Dialogue: 0,0:08:00.99,0:08:06.59,Default,,0,0,0,,{\be1}Moja siostra widzi jak uprawiam seks!
+Dialogue: 0,0:08:09.05,0:08:11.35,Default,,0,0,0,,{\be1}Nie chcę żeby widziała!
+Dialogue: 0,0:08:11.35,0:08:13.21,Default,,0,0,0,,{\be1}Wyobrażałaś to sobie?
+Dialogue: 0,0:08:14.18,0:08:18.80,Default,,0,0,0,,{\be1}Nie chcę, wstydzę się!
+Dialogue: 0,0:08:20.15,0:08:22.31,Default,,0,0,0,,{\be1}Co powiesz na to?
+Dialogue: 0,0:08:39.38,0:08:43.54,Default,,0,0,0,,{\be1}Dłużej nie wytrzymam!
+Dialogue: 0,0:08:49.43,0:08:53.34,Default,,0,0,0,,{\be1}O nie, zaraz dojdę!
+Dialogue: 0,0:08:54.71,0:08:57.06,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:08:57.06,0:09:01.69,Default,,0,0,0,,{\be1}Przepraszam, siostra,\Nzaraz będę mieć orgazm!
+Dialogue: 0,0:09:05.61,0:09:13.33,Default,,0,0,0,,{\be1}Chłopak siostry zaraz spuści się we mnie!
+Dialogue: 0,0:09:19.62,0:09:25.36,Default,,0,0,0,,{\be1}Dużo się spuściłeś.
+Dialogue: 0,0:09:35.83,0:09:38.28,Default,,0,0,0,,{\be1}Przeprasza, że jestem zboczona!
+Dialogue: 0,0:09:39.25,0:09:43.66,Default,,0,0,0,,{\be1}Już nie mogę, zaraz znowu dojdę!
+Dialogue: 0,0:09:53.44,0:09:56.87,Default (i),,0,0,0,,{\be1}Już drugi raz dojdę dzisiaj!
+Dialogue: 0,0:10:27.12,0:10:30.31,Default (i),,0,0,0,,{\be1}Głupi, zboczony, zdrajca.
+Dialogue: 0,0:10:35.02,0:10:38.08,Default,,0,0,0,,{\be1}Przecież nie wykluczam cię z zabawy.
+Dialogue: 0,0:10:38.63,0:10:42.15,Default,,0,0,0,,{\be1}Możemy zabawić się we trójkę.
+Dialogue: 0,0:10:42.15,0:10:43.04,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:10:49.23,0:10:50.57,Default (i),,0,0,0,,{\be1}Palant!
+Dialogue: 0,0:10:58.51,0:11:01.51,Default (i),,0,0,0,,{\be1}Dupek!
+Dialogue: 0,0:11:01.51,0:11:03.25,Default (i),,0,0,0,,{\be1}Nie traktuj mnie jak dziecko!
+Dialogue: 0,0:11:07.54,0:11:10.48,Default,,0,0,0,,{\be1}Utopiłabym się, gdyby ktoś mnie zobaczył.
+Dialogue: 0,0:11:10.92,0:11:13.28,Default (i),,0,0,0,,{\be1}Mam nadzieję, że nie robi tego z każdą.
+Dialogue: 0,0:11:13.59,0:11:16.45,Default,,0,0,0,,{\be1}Jednak nikogo nie było w klubie pływackim.
+Dialogue: 0,0:11:18.32,0:11:23.16,Default,,0,0,0,,{\be1}Jeśli o mnie chodzi, to mógłby być tam Saisho.
+Dialogue: 0,0:11:23.83,0:11:27.53,Default,,0,0,0,,{\be1}Nie narzekałabym, gdybym miała szansę.
+Dialogue: 0,0:11:31.20,0:11:34.80,Default (i),,0,0,0,,{\be1}Przeniosłam się tu za późno.
+Dialogue: 0,0:11:38.22,0:11:40.41,Default,,0,0,0,,{\be1}I co zrobić?
+Dialogue: 0,0:11:40.41,0:11:44.60,Default,,0,0,0,,{\be1}Dziewczyny nie powinny\Nuprawiać seksu codziennie.
+Dialogue: 0,0:11:50.03,0:11:54.60,Default,,0,0,0,,{\be1}Ale chcę go mieć tylko dla siebie.
+Dialogue: 0,0:11:56.79,0:11:59.62,Default,,0,0,0,,{\be1}Odwróć się!
+Dialogue: 0,0:12:08.04,0:12:10.92,Default,,0,0,0,,{\be1}Czekaj, nie tak nagle!
+Dialogue: 0,0:12:12.17,0:12:13.69,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:12:31.28,0:12:40.41,Default,,0,0,0,,{\be1}Powiedz coś, bo mam wrażenie, jakbyśmy\Nbyli zwierzętami, gdy bierzesz mnie tak mocno!
+Dialogue: 0,0:12:53.21,0:12:56.59,Default,,0,0,0,,{\be1}Tak jest przyjemniej niż zwykle.
+Dialogue: 0,0:13:10.36,0:13:13.84,Default,,0,0,0,,{\be1}To dlatego, że tak mocno ci stanął, głupku.
+Dialogue: 0,0:13:13.84,0:13:18.86,Default,,0,0,0,,{\be1}Jest taki twardy, że chcę go mocniej ściskać.
+Dialogue: 0,0:13:19.87,0:13:24.15,Default (i),,0,0,0,,{\be1}Przynajmniej na chwilę mam go dla siebie.
+Dialogue: 0,0:13:27.11,0:13:31.89,Default,,0,0,0,,{\be1}Nie, ktoś mnie zobaczy!
+Dialogue: 0,0:13:31.89,0:13:35.29,Default,,0,0,0,,{\be1}Nie chcę, żeby widział mnie ktoś poza tobą!
+Dialogue: 0,0:13:35.29,0:13:36.88,Default,,0,0,0,,{\be1}Za to ja chcę cię pokazać.
+Dialogue: 0,0:13:39.85,0:13:41.77,Default,,0,0,0,,{\be1}Tam ktoś przed chwilą był!
+Dialogue: 0,0:13:42.46,0:13:45.24,Default,,0,0,0,,{\be1}Naprawdę ktoś mnie zobaczy!
+Dialogue: 0,0:13:45.24,0:13:48.83,Default,,0,0,0,,{\be1}Nie chcę się pokazywać komuś innemu!
+Dialogue: 0,0:13:57.41,0:14:02.32,Default,,0,0,0,,{\be1}O nie, zaraz dojdę!
+Dialogue: 0,0:14:10.47,0:14:13.42,Default,,0,0,0,,{\be1}Tak, dochodzę!
+Dialogue: 0,0:14:14.44,0:14:18.87,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:14:33.99,0:14:38.23,Default,,0,0,0,,{\be1}Naprawdę chcę skończyć tak lato?
+Dialogue: 0,0:14:38.23,0:14:42.15,Default,,0,0,0,,{\be1}Nie martw się, noc jest długa.
+Dialogue: 0,0:14:45.48,0:14:49.20,Default,,0,0,0,,{\be1}Co powiesz na zmianę pór widywania?
+Dialogue: 0,0:14:49.67,0:14:52.08,Default,,0,0,0,,{\be1}Co ty...
+Dialogue: 0,0:14:55.32,0:14:57.05,Default,,0,0,0,,{\be1}Jesteś nieostrożna.
+Dialogue: 0,0:14:57.05,0:15:00.13,Default,,0,0,0,,{\be1}Zamykaj drzwi, gdy jesteś sama.
+Dialogue: 0,0:15:01.16,0:15:02.38,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:03.60,0:15:09.47,Default,,0,0,0,,{\be1}A ty nierozważny wchodząc bez pozwolenia!
+Dialogue: 0,0:15:09.47,0:15:14.45,Default,,0,0,0,,{\be1}Tak i na dodatek zboczony.
+Dialogue: 0,0:15:18.18,0:15:21.57,Default,,0,0,0,,{\be1}Nie rób tak!
+Dialogue: 0,0:15:24.14,0:15:28.62,Default,,0,0,0,,{\be1}Nierozważny i oszust!
+Dialogue: 0,0:15:42.92,0:15:46.42,Default,,0,0,0,,{\be1}Czekaj, nie możemy!
+Dialogue: 0,0:15:47.55,0:15:50.22,Default,,0,0,0,,{\be1}Wiem i dlatego przyszedłem.
+Dialogue: 0,0:15:55.60,0:15:57.94,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:58.60,0:16:00.40,Default,,0,0,0,,{\be1}Dzisiaj nie jest bezpiecznie?
+Dialogue: 0,0:16:01.24,0:16:02.52,Default,,0,0,0,,{\be1}O czym ty mówisz?
+Dialogue: 0,0:16:04.66,0:16:06.98,Default,,0,0,0,,{\be1}Dzisiaj nie możesz!
+Dialogue: 0,0:16:08.37,0:16:09.33,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:16:18.44,0:16:21.74,Default,,0,0,0,,{\be1}Nie spuszczaj się w środku!
+Dialogue: 0,0:16:23.34,0:16:32.16,Default,,0,0,0,,{\be1}Zaraz wypuścisz we mnie dużo spermy!
+Dialogue: 0,0:16:42.80,0:16:47.80,Default,,0,0,0,,{\be1}Nie będę mogła cię zostawić,\Njeśli zajdę w ciążę, głupku.
+Dialogue: 0,0:16:47.80,0:16:55.50,Default,,0,0,0,,{\be1}Co zrobisz, jeśli obie zajdziemy w ciążę?
+Dialogue: 0,0:16:57.41,0:16:59.37,Default,,0,0,0,,{\be1}Tatuś będzie ciężko pracował.
+Dialogue: 0,0:17:00.24,0:17:03.92,Default,,0,0,0,,{\be1}Rzucę szkołę i poszukam\Ndwóch lub trzech prac.
+Dialogue: 0,0:17:04.34,0:17:07.05,Default,,0,0,0,,{\be1}Właśnie dlatego jesteś głupi.
+Dialogue: 0,0:17:07.05,0:17:08.84,Default,,0,0,0,,{\be1}Nie chcę cię stracić.
+Dialogue: 0,0:17:11.61,0:17:14.55,Default,,0,0,0,,{\be1}Wiem o waszej tajemnicy.
+Dialogue: 0,0:17:15.56,0:17:18.39,Default,,0,0,0,,{\be1}Wyjedziecie pod koniec lata, prawda?
+Dialogue: 0,0:17:18.39,0:17:19.88,Default,,0,0,0,,{\be1}Natsume się wygadała?
+Dialogue: 0,0:17:20.93,0:17:22.70,Default,,0,0,0,,{\be1}Domyśliłem się.
+Dialogue: 0,0:17:22.70,0:17:27.17,Default,,0,0,0,,{\be1}Jestem jaki jestem,\Nale zawsze was obserwuję.
+Dialogue: 0,0:17:27.17,0:17:30.35,Default,,0,0,0,,{\be1}I tak nie chcę zajść w ciążę.
+Dialogue: 0,0:17:30.35,0:17:34.78,Default,,0,0,0,,{\be1}Nie chcę, żebyś był ze mną tylko dlatego.
+Dialogue: 0,0:17:36.01,0:17:40.80,Default,,0,0,0,,{\be1}Nawet bez dziecka jestem uciążliwa.
+Dialogue: 0,0:17:41.43,0:17:45.76,Default,,0,0,0,,{\be1}Zapragnę cię tylko dla siebie.
+Dialogue: 0,0:17:53.66,0:17:57.34,Default,,0,0,0,,{\be1}Będę rywalizować z Natsume o każdą pierdołę.
+Dialogue: 0,0:18:18.48,0:18:20.09,Default,,0,0,0,,{\be1}Udała wam się rywalizacja.
+Dialogue: 0,0:18:20.09,0:18:23.40,Default,,0,0,0,,{\be1}W jedno lato stałaś się równie zboczona.
+Dialogue: 0,0:18:24.85,0:18:26.92,Default,,0,0,0,,{\be1}Nie porównuj nas.
+Dialogue: 0,0:18:41.91,0:18:44.57,Default (i),,0,0,0,,{\be1}Teraz jeszcze bardziej nie chcę przegrać.
+Dialogue: 0,0:18:46.04,0:18:47.85,Default (i),,0,0,0,,{\be1}Na pewno nie przegram.
+Dialogue: 0,0:20:37.88,0:20:40.64,Default,,0,0,0,,{\be1}A jednak możesz dzisiaj.
+Dialogue: 0,0:20:42.01,0:20:45.91,Default (i),,0,0,0,,{\be1}Bo żeś wymusił to na mnie, głąbie.
+Dialogue: 0,0:20:45.91,0:20:47.78,Default (i),,0,0,0,,{\be1}Oszust.
+Dialogue: 0,0:21:01.03,0:21:07.43,Default,,0,0,0,,{\be1}Dłużej nie mogę się opierać,\Nchcę być z tobą!
+Dialogue: 0,0:21:15.35,0:21:19.41,Default,,0,0,0,,{\be1}Chcę być tylko twoja!
+Dialogue: 0,0:21:20.72,0:21:25.34,Default,,0,0,0,,{\be1}Już nie mogę, zaraz dojdę!
+Dialogue: 0,0:21:25.34,0:21:35.30,Default,,0,0,0,,{\be1}A ty dochodzisz?\NBo stanął ci jakbyś miał się spuścić!
+Dialogue: 0,0:21:50.18,0:21:54.34,Default,,0,0,0,,{\be1}Wyleciało dużo spermy.
+Dialogue: 0,0:21:54.88,0:21:57.67,Default,,0,0,0,,{\be1}Możliwe, że właśnie mnie zapłodniłeś.
+Dialogue: 0,0:21:59.05,0:22:03.74,Default,,0,0,0,,{\be1}Ciekawe czy Natsume\Nbędzie zła za uprzedzenie jej.
+Dialogue: 0,0:22:11.59,0:22:17.48,Default,,0,0,0,,{\be1}Więc już wiesz.\NA zazwyczaj nie zauważasz najważniejszego.
+Dialogue: 0,0:22:25.14,0:22:29.73,Default,,0,0,0,,{\be1}Stałaś się taka złośliwa, że musiałem\Nsprawdzić czy nie wyrósł ci ogon.
+Dialogue: 0,0:22:34.90,0:22:37.50,Default,,0,0,0,,{\be1}Chcesz sprawdzić?
+Dialogue: 0,0:22:49.42,0:22:50.22,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:22:51.19,0:22:55.04,Default,,0,0,0,,{\be1}Wstydzę się, gdy zdejmujesz je tak nagle.
+Dialogue: 0,0:22:57.29,0:22:58.27,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:08.01,0:23:09.83,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:23:17.05,0:23:19.36,Default,,0,0,0,,{\be1}Zabawiacie się sami.
+Dialogue: 0,0:23:23.75,0:23:25.60,Default,,0,0,0,,{\be1}A przecież to ostatnia noc.
+Dialogue: 0,0:23:30.45,0:23:32.47,Default,,0,0,0,,{\be1}Zróbmy to razem.
+Dialogue: 0,0:23:39.18,0:23:41.02,Default,,0,0,0,,{\be1}Hajime!
+Dialogue: 0,0:25:22.01,0:25:25.33,Default,,0,0,0,,{\be1}Festyn się skończył.
+Dialogue: 0,0:25:36.37,0:25:40.22,Default (i),,0,0,0,,{\be1}I tak skończyło się lato.
+Dialogue: 0,0:25:40.99,0:25:44.46,Default (i),,0,0,0,,{\be1}Nasz sekret pozostał nieodkryty.
+Dialogue: 0,0:27:37.22,0:27:40.53,Default,,0,0,0,,{\be1}Nie uciekłam z domu,\Nzamieszkałam sama.
+Dialogue: 0,0:27:40.53,0:27:44.89,Default,,0,0,0,,{\be1}Ja też dorosłam\Ni nie jestem gorsza od ciebie.
+Dialogue: 0,0:27:58.11,0:27:59.45,Default,,0,0,0,,{\be1}Wróciłyśmy!

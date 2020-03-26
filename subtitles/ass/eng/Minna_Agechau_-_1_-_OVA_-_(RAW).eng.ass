@@ -1,0 +1,554 @@
+﻿[Script Info]
+Title: Minna Agechau
+Script Updated By: Timing, Niwa; Editing, Rar
+Original Script: Jason Vincent in association with Anime Jyanai
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lucida,28,&H00FFFFFF,&H00000000,&H00000000,&H80000000,-1,0,0,0,100,100,0.00,0.00,1,1.50,1.50,2,20,20,15,0
+Style: Note,Lucida,28,&H00D0D0D0,&H00000000,&H00000000,&H80000000,-1,0,0,0,100,100,0.00,0.00,1,1.50,1.50,8,20,20,15,0
+Style: Radio,Lucida,28,&H00A0D0D0,&H00000000,&H00000000,&H80000000,-1,1,0,0,100,100,0.00,0.00,1,1.50,1.50,8,20,20,15,0
+Style: Song,Lucida,28,&H00D0D0A0,&H00000000,&H00000000,&H80000000,-1,1,0,0,100,100,0.00,0.00,1,1.50,1.50,8,20,20,15,0
+Style: Title,Georgia,36,&H00121111,&H0000FFFF,&H00E8EEE2,&H00E7F8F7,-1,-1,0,0,100,100,0.00,0.00,1,2.00,1.00,5,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.26,0:00:12.45,Radio,,0000,0000,0000,,This is the season filled with\nthe fresh scent of young leaves...
+Dialogue: 0,0:00:13.20,0:00:17.61,Radio,,0000,0000,0000,,...the time when everything\nsprouts so as to start new life...
+Dialogue: 0,0:00:18.35,0:00:22.86,Radio,,0000,0000,0000,,Now let me present you with gentle words...
+Dialogue: 0,0:00:22.89,0:00:23.85,Note,,0000,0000,0047,,Sign: "Victory"
+Dialogue: 0,0:00:23.48,0:00:25.65,Radio,,0000,0000,0000,,...for your newly awakened soul.
+Dialogue: 0,0:00:26.99,0:00:30.00,Radio,,0000,0000,0000,,Breath deeply of this sweat air.
+Dialogue: 0,0:00:32.44,0:00:38.61,Radio,,0000,0000,0000,,To all of you living towards\nthe 21st century...
+Dialogue: 0,0:00:40.10,0:00:46.02,Radio,,0000,0000,0000,,This is Ohara Noriko,\nand my show is {\i0}The 21st Century.
+Dialogue: 0,0:00:55.98,0:00:58.45,Default,,0000,0000,0000,,Oh man, what's that?
+Dialogue: 0,0:00:58.21,0:00:59.31,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:00:59.24,0:01:00.30,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:01:00.24,0:01:01.52,Default,,0000,0000,0000,,Where? Where? Hey, what's up?
+Dialogue: 0,0:01:02.41,0:01:04.23,Default,,0000,0000,0000,,Hey, what can you see!?
+Dialogue: 0,0:01:04.63,0:01:07.02,Default,,0000,0000,0000,,Hang on a sec,\nwe're just getting to the good part.
+Dialogue: 0,0:01:10.22,0:01:12.20,Default,,0000,0000,0000,,Come on, let me see too!
+Dialogue: 0,0:01:12.61,0:01:15.85,Default,,0000,0000,0000,,Ok, but the shock will be too\nmuch for a virgin like you!
+Dialogue: 0,0:01:16.58,0:01:17.40,Default,,0000,0000,0000,,I don't care!
+Dialogue: 0,0:01:17.85,0:01:19.08,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:01:21.90,0:01:22.98,Default,,0000,0000,0000,,So, where is it?
+Dialogue: 0,0:01:22.96,0:01:26.24,Default,,0000,0000,0000,,Over there, see that\napartment building facing us?
+Dialogue: 0,0:01:26.29,0:01:26.81,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:01:26.79,0:01:28.52,Default,,0000,0000,0000,,It's the one right in the middle.
+Dialogue: 0,0:01:32.98,0:01:34.52,Default,,0000,0000,0000,,Oh, no, what's that?
+Dialogue: 0,0:01:34.77,0:01:36.59,Default,,0000,0000,0000,,You don't know from nothing, do you.
+Dialogue: 0,0:01:45.46,0:01:51.35,Default,,0000,0000,0000,,Sigh...\NEven the guys who are kind of cool\nare all like that on the inside.
+Dialogue: 0,0:01:51.41,0:01:54.03,Default,,0000,0000,0000,,That would kill even a\nlove of a hundred years.
+Dialogue: 0,0:01:54.07,0:01:55.01,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:01:55.02,0:01:56.16,Default,,0000,0000,0000,,That's pitiful.
+Dialogue: 0,0:01:56.26,0:01:57.61,Default,,0000,0000,0000,,Uh-huh... huh?
+Dialogue: 0,0:01:58.98,0:02:03.38,Default,,0000,0000,0000,,He's doing that because he doesn't have a girlfriend.\nHe must be lonely.
+Dialogue: 0,0:02:03.76,0:02:08.15,Default,,0000,0000,0000,,You are so wrong!\NThat guy is just one big penis!
+Dialogue: 0,0:02:08.18,0:02:09.43,Default,,0000,0000,0000,,That's not true!
+Dialogue: 0,0:02:11.87,0:02:13.42,Default,,0000,0000,0000,,It just isn't.
+Dialogue: 0,0:02:22.97,0:02:24.62,Default,,0000,0000,0000,,Whew... that felt good!
+Dialogue: 0,0:02:28.15,0:02:28.96,Default,,0000,0000,0000,,What the...?
+Dialogue: 0,0:02:32.95,0:02:33.48,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:02:34.77,0:02:36.94,Note,,0000,0000,0000,,Nameplate: "Chikanaka Rokurou"
+Dialogue: 0,0:02:36.92,0:02:37.49,Default,,0000,0000,0000,,Hmh?
+Dialogue: 0,0:02:38.00,0:02:40.50,Default,,0000,0000,0000,,Uh...um...
+Dialogue: 0,0:02:43.16,0:02:45.61,Default,,0000,0000,0000,,Do... do you need a maiden?
+Dialogue: 0,0:02:45.75,0:02:46.75,Default,,0000,0000,0000,,No thanks. I clean up my self.
+Dialogue: 0,0:02:52.21,0:02:53.58,Default,,0000,0000,0000,,WHAT!
+Dialogue: 0,0:02:55.89,0:02:58.72,Default,,0000,0000,0000,,What... wha... what did you just say?
+Dialogue: 0,0:03:01.60,0:03:04.44,Default,,0000,0000,0000,,Do you... need a maiden?
+Dialogue: 0,0:03:11.53,0:03:13.89,Default,,0000,0000,0000,,A MAIDEN!?
+Dialogue: 0,0:03:14.65,0:03:21.65,Title,,0000,0000,0000,,{\t(0,990,\fs44\fry360\frx360)}"-Minna Agechau-"
+Dialogue: 0,0:03:15.86,0:03:21.65,Default,,0000,0000,0000,,(I Give My All)
+Dialogue: 0,0:03:43.93,0:03:47.63,Default,,0000,0000,0000,,{\i1}Naturally Yuno didn't remain a maiden,\nand I've graduated from solitary pleasures.
+Dialogue: 0,0:03:49.09,0:03:53.77,Default,,0000,0000,0000,,{\i1}I don't know what attracted her to me,\nbut I'm in love with her anyway.
+Dialogue: 0,0:03:58.81,0:04:01.03,Default,,0000,0000,0000,,{\i1}There aren't many girls as cute as she is...
+Dialogue: 0,0:04:02.48,0:04:04.79,Default,,0000,0000,0000,,{\i1}...and besides, there's that as well.
+Dialogue: 0,0:04:09.07,0:04:13.11,Default,,0000,0000,0000,,{\i1}Add to all this that she's the daughter of a tycoon,\Nand it may seem like she's too good for me.
+Dialogue: 0,0:04:13.53,0:04:16.13,Default,,0000,0000,0000,,Oh, good morning, Rokurou.
+Dialogue: 0,0:04:16.54,0:04:18.47,Default,,0000,0000,0000,,Hey there. What are you making?
+Dialogue: 0,0:04:18.66,0:04:20.85,Default,,0000,0000,0000,,My special stamina meal!
+Dialogue: 0,0:04:25.22,0:04:26.47,Default,,0000,0000,0000,,What's this?
+Dialogue: 0,0:04:28.24,0:04:34.01,Default,,0000,0000,0000,,This is broiled eel, that's garlic steak,\nthis is fermented soybeans, okra...
+Dialogue: 0,0:04:34.13,0:04:36.56,Default,,0000,0000,0000,,...and grated yams, over there is leek soup,\nturtle rice gruel...
+Dialogue: 0,0:04:36.59,0:04:38.90,Default,,0000,0000,0000,,...and Stamina Drink... Hmh?
+Dialogue: 0,0:04:39.42,0:04:41.43,Default,,0000,0000,0000,,Talk about a one track mind...
+Dialogue: 0,0:04:48.83,0:04:52.29,Default,,0000,0000,0000,,Hey, why don't you have a bathtub\nin your place, Rokurou?
+Dialogue: 0,0:04:52.33,0:04:54.02,Default,,0000,0000,0000,,What do you mean "why"?
+Dialogue: 0,0:04:54.29,0:04:58.96,Note,,0000,0000,0000,,Hanging curtains:\N(left) "Men", (right) "Ladies"
+Dialogue: 0,0:05:01.23,0:05:04.07,Default,,0000,0000,0000,,Oh, so this is a bathhouse. Wow!
+Dialogue: 0,0:05:08.67,0:05:10.30,Default,,0000,0000,0000,,You go to the other side!
+Dialogue: 0,0:05:18.92,0:05:24.74,Default,,0000,0000,0000,,{\i1}I didn't think she had so little common sense.\NBut what the hell, she's cute.
+Dialogue: 0,0:05:24.98,0:05:27.25,Default,,0000,0000,0000,,Hold it.\NWhat do you think you're doing?
+Dialogue: 0,0:05:27.35,0:05:31.24,Default,,0000,0000,0000,,What? Have I done something wrong?
+Dialogue: 0,0:05:31.98,0:05:35.89,Default,,0000,0000,0000,,Yuno! What have you done now?
+Dialogue: 0,0:05:36.85,0:05:38.52,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:05:39.47,0:05:42.12,Default,,0000,0000,0000,,You don't put soap in the bath!
+Dialogue: 0,0:05:42.10,0:05:43.75,Default,,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:05:43.03,0:05:45.11,Default,,0000,0000,0000,,Don't you know anything?
+Dialogue: 0,0:05:44.99,0:05:47.30,Default,,0000,0000,0000,,Rokurou! Help!
+Dialogue: 0,0:05:55.68,0:05:57.21,Default,,0000,0000,0000,,I swear...
+Dialogue: 0,0:05:58.36,0:06:00.72,Default,,0000,0000,0000,,Rokurou, are you still angry?
+Dialogue: 0,0:06:01.96,0:06:05.16,Default,,0000,0000,0000,,What do you expect, seeing as how you\ngot the bathhouse all in a lather?
+Dialogue: 0,0:06:05.21,0:06:07.34,Default,,0000,0000,0000,,But I didn't know!
+Dialogue: 0,0:06:11.37,0:06:12.76,Default,,0000,0000,0000,,This is no time to be clowning around!
+Dialogue: 0,0:06:12.80,0:06:16.79,Default,,0000,0000,0000,,If I can't go there, I'll have to go\nall the way to the next station!
+Dialogue: 0,0:06:23.00,0:06:24.12,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:06:26.27,0:06:29.80,Default,,0000,0000,0000,,Oh, don't be angry!\NI'll give you a blowjob!
+Dialogue: 0,0:06:32.02,0:06:34.86,Default,,0000,0000,0000,,Cut that out! I'm gonna study\nfor my college entrance exam now.
+Dialogue: 0,0:06:34.86,0:06:36.85,Default,,0000,0000,0000,,If you want to do it,\nthen do it your self!
+Dialogue: 0,0:06:37.56,0:06:39.09,Default,,0000,0000,0000,,Boy are you crabby.
+Dialogue: 0,0:06:40.02,0:06:42.36,Default,,0000,0000,0000,,Fine, I will do it my self!
+Dialogue: 0,0:06:42.46,0:06:45.87,Default,,0000,0000,0000,,What are you doing?\NYou're going to college next year too.
+Dialogue: 0,0:06:45.97,0:06:48.19,Default,,0000,0000,0000,,You talk like that and you\ncould flunk your exams!
+Dialogue: 0,0:06:48.71,0:06:50.84,Default,,0000,0000,0000,,I'm already accepted to my\nfirst choice of schools!
+Dialogue: 0,0:06:51.96,0:06:53.49,Default,,0000,0000,0000,,So, money talks, eh?
+Dialogue: 0,0:06:53.68,0:06:54.39,Default,,0000,0000,0000,,Wrong.
+Dialogue: 0,0:06:55.40,0:06:56.80,Default,,0000,0000,0000,,When was the German Peasant war?
+Dialogue: 0,0:06:56.85,0:06:58.43,Default,,0000,0000,0000,,1524!
+Dialogue: 0,0:06:59.48,0:07:01.13,Default,,0000,0000,0000,,The Seian Incident!
+Dialogue: 0,0:07:01.32,0:07:03.80,Default,,0000,0000,0000,,December, 1936!
+Dialogue: 0,0:07:04.18,0:07:05.18,Default,,0000,0000,0000,,No doubt on your part, huh?
+Dialogue: 0,0:07:05.33,0:07:06.47,Default,,0000,0000,0000,,Everyone knows those!
+Dialogue: 0,0:07:07.43,0:07:08.65,Default,,0000,0000,0000,,All right then!
+Dialogue: 0,0:07:18.84,0:07:20.06,Default,,0000,0000,0000,,So sensitive...
+Dialogue: 0,0:07:22.09,0:07:24.95,Default,,0000,0000,0000,,Here it is...Yuno!
+Dialogue: 0,0:07:25.26,0:07:27.79,Default,,0000,0000,0000,,When did Napoleon escape from Elba?
+Dialogue: 0,0:07:28.10,0:07:29.92,Default,,0000,0000,0000,,Ohh... 1815.
+Dialogue: 0,0:07:29.87,0:07:31.50,Default,,0000,0000,0000,,The Fronde Riots!
+Dialogue: 0,0:07:31.57,0:07:34.31,Default,,0000,0000,0000,,Uhh... 1648...
+Dialogue: 0,0:07:35.17,0:07:37.37,Default,,0000,0000,0000,,The Turkish-Egyptian War!
+Dialogue: 0,0:07:37.63,0:07:41.74,Default,,0000,0000,0000,,1831 to... 1833...
+Dialogue: 0,0:07:41.71,0:07:43.05,Default,,0000,0000,0000,,The Congress of Vienna!
+Dialogue: 0,0:07:43.15,0:07:46.49,Default,,0000,0000,0000,,1814 to... 1815... ohh...
+Dialogue: 0,0:07:46.63,0:07:51.41,Default,,0000,0000,0000,,Representatives from all the nations\nof Europe except Turkey met... ohhh...
+Dialogue: 0,0:07:51.57,0:07:55.94,Default,,0000,0000,0000,,...to rebuild European diplomatic ties in the\naftermath of the Napoleonic Wars...
+Dialogue: 0,0:08:03.34,0:08:05.35,Default,,0000,0000,0000,,OOOOOHHHHHHHH!
+Dialogue: 0,0:08:05.40,0:08:06.88,Default,,0000,0000,0000,,Come on Rokurou...
+Dialogue: 0,0:08:26.69,0:08:28.27,Default,,0000,0000,0000,,Get a load of that car!
+Dialogue: 0,0:08:31.42,0:08:33.45,Default,,0000,0000,0000,,Rokurou!
+Dialogue: 0,0:08:34.91,0:08:39.09,Default,,0000,0000,0000,,Yuno! You've got a license?
+Dialogue: 0,0:08:39.44,0:08:42.17,Default,,0000,0000,0000,,Uh-huh, I've ridden around the yard\nsince I was in grade school!
+Dialogue: 0,0:08:43.12,0:08:45.13,Default,,0000,0000,0000,,Hey, let's go to my place.
+Dialogue: 0,0:08:45.10,0:08:45.63,Default,,0000,0000,0000,,Wha...?
+Dialogue: 0,0:08:45.94,0:08:47.70,Default,,0000,0000,0000,,What's wrong don't you want to?
+Dialogue: 0,0:08:47.73,0:08:51.17,Default,,0000,0000,0000,,It's not that I don't want to...\NMaybe some other time...
+Dialogue: 0,0:08:51.64,0:08:53.10,Default,,0000,0000,0000,,We're going now!
+Dialogue: 0,0:08:56.35,0:08:57.52,Default,,0000,0000,0000,,Now what?
+Dialogue: 0,0:08:57.52,0:09:00.67,Default,,0000,0000,0000,,You don't love me!
+Dialogue: 0,0:09:00.88,0:09:04.13,Default,,0000,0000,0000,,You've used me like a plaything, and now,\nyou're gonna throw me out with the trash!
+Dialogue: 0,0:09:05.20,0:09:06.76,Default,,0000,0000,0000,,Now hold on a second Yuno!
+Dialogue: 0,0:09:07.23,0:09:08.38,Default,,0000,0000,0000,,Rokurou!
+Dialogue: 0,0:09:09.69,0:09:11.29,Default,,0000,0000,0000,,Good-by!
+Dialogue: 0,0:09:11.82,0:09:14.71,Default,,0000,0000,0000,,Hey, Yuno! What are you doing?
+Dialogue: 0,0:09:15.54,0:09:16.35,Default,,0000,0000,0000,,Yuno!
+Dialogue: 0,0:09:17.00,0:09:18.26,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:09:18.67,0:09:19.82,Default,,0000,0000,0000,,Yuno!
+Dialogue: 0,0:09:27.81,0:09:29.22,Default,,0000,0000,0000,,This wall sure is long.
+Dialogue: 0,0:09:29.29,0:09:31.83,Default,,0000,0000,0000,,I bet there's a U.S. Army base or something\Non the other side.
+Dialogue: 0,0:09:31.85,0:09:33.00,Default,,0000,0000,0000,,It's my home.
+Dialogue: 0,0:09:33.07,0:09:33.93,Default,,0000,0000,0000,,Wha...?
+Dialogue: 0,0:09:33.97,0:09:38.20,Default,,0000,0000,0000,,It's 30km around.\nThe city uses it for its marathon course.
+Dialogue: 0,0:09:44.26,0:09:46.32,Default,,0000,0000,0000,,Welcome back, Miss.
+Dialogue: 0,0:10:18.55,0:10:21.34,Default,,0000,0000,0000,,Welcome back!
+Dialogue: 0,0:10:21.34,0:10:22.77,Default,,0000,0000,0000,,Come on, let's go!
+Dialogue: 0,0:10:25.35,0:10:26.81,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:10:27.67,0:10:28.55,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:10:43.47,0:10:45.46,Default,,0000,0000,0000,,Rokurou, this is my mother.
+Dialogue: 0,0:10:46.82,0:10:48.03,Default,,0000,0000,0000,,Um... how do you do?
+Dialogue: 0,0:10:51.09,0:10:52.47,Default,,0000,0000,0000,,This is Chikanaka Rokurou.
+Dialogue: 0,0:10:52.86,0:10:53.67,Default,,0000,0000,0000,,Pleased to meet you.
+Dialogue: 0,0:10:54.89,0:10:56.01,Default,,0000,0000,0000,,And I you.
+Dialogue: 0,0:10:57.06,0:10:59.85,Default,,0000,0000,0000,,You've been of service to\nmy daughter in many ways!
+Dialogue: 0,0:11:00.31,0:11:03.31,Default,,0000,0000,0000,,Oh, no! I haven't done anything yet.
+Dialogue: 0,0:11:03.41,0:11:03.96,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:03.93,0:11:04.68,Default,,0000,0000,0000,,... I mean...
+Dialogue: 0,0:11:04.70,0:11:05.18,Default,,0000,0000,0000,,Hmh?
+Dialogue: 0,0:11:09.16,0:11:12.70,Default,,0000,0000,0000,,Aren't you an impatient one.\NSo, do you plan to get married?
+Dialogue: 0,0:11:13.25,0:11:15.71,Default,,0000,0000,0000,,Uh-huh, if we have a baby.
+Dialogue: 0,0:11:16.02,0:11:18.26,Default,,0000,0000,0000,,My, my, babies.
+Dialogue: 0,0:11:21.29,0:11:22.92,Default,,0000,0000,0000,,Mama, what's wrong?
+Dialogue: 0,0:11:23.18,0:11:29.43,Default,,0000,0000,0000,,I'm only 39 years old, and I can't stand the thought\nof becoming a grandmother.
+Dialogue: 0,0:11:29.58,0:11:30.77,Default,,0000,0000,0000,,I just can't!
+Dialogue: 0,0:11:31.03,0:11:32.75,Default,,0000,0000,0000,,Oh, don't cry mama.
+Dialogue: 0,0:11:32.90,0:11:36.36,Default,,0000,0000,0000,,Here now.\NWhat impetuous talk is this?
+Dialogue: 0,0:11:36.36,0:11:37.03,Default,,0000,0000,0000,,Papa!
+Dialogue: 0,0:11:37.07,0:11:40.75,Default,,0000,0000,0000,,Surely you must understand that,\nproperly speaking, one must undergo...
+Dialogue: 0,0:11:40.77,0:11:43.81,Default,,0000,0000,0000,,...a qualifying examination even to date\na daughter of the Mamiya Family.
+Dialogue: 0,0:11:44.21,0:11:47.27,Default,,0000,0000,0000,,If your great grandmother found out about this,\nshe wouldn't just give you her blessing.
+Dialogue: 0,0:11:47.84,0:11:51.45,Default,,0000,0000,0000,,Besides, Yuno, if you marry in haste,\nyou'll soon get bored.
+Dialogue: 0,0:11:51.49,0:11:52.40,Default,,0000,0000,0000,,Why you!
+Dialogue: 0,0:11:55.65,0:11:57.32,Default,,0000,0000,0000,,Just what did you mean by that?
+Dialogue: 0,0:11:59.11,0:12:01.95,Default,,0000,0000,0000,,No... nothing in particular...
+Dialogue: 0,0:12:02.02,0:12:05.89,Default,,0000,0000,0000,,Liar! I thought something fishy was going on.\NYou're cheating on me, aren't you!
+Dialogue: 0,0:12:05.91,0:12:07.78,Default,,0000,0000,0000,,Mama, Papa, stop it!
+Dialogue: 0,0:12:07.73,0:12:08.95,Default,,0000,0000,0000,,Yuno, help!
+Dialogue: 0,0:12:08.87,0:12:11.31,Default,,0000,0000,0000,,I knew it! That's you all over!\NYou go straight for the young girls!
+Dialogue: 0,0:12:11.43,0:12:12.89,Default,,0000,0000,0000,,What are you talking about!\NShe's our daughter.
+Dialogue: 0,0:12:13.01,0:12:16.80,Default,,0000,0000,0000,,I'm mortified!\NI'm going to be a grandmother at 39!
+Dialogue: 0,0:12:13.75,0:12:17.04,Default,,0000,0000,0000,,Now I see: Like mother, like daughter.
+Dialogue: 0,0:12:17.26,0:12:18.62,Default,,0000,0000,0000,,Hey! Hey! Have you heard?
+Dialogue: 0,0:12:18.66,0:12:19.52,Default,,0000,0000,0000,,Huh? What? What? What?
+Dialogue: 0,0:12:19.59,0:12:21.50,Default,,0000,0000,0000,,About the man Miss Yuno\nbrought home with her.
+Dialogue: 0,0:12:21.53,0:12:22.60,Default,,0000,0000,0000,,Oh, I know, I know.
+Dialogue: 0,0:12:22.70,0:12:24.11,Default,,0000,0000,0000,,I bet he's her boyfriend.
+Dialogue: 0,0:12:24.06,0:12:24.90,Default,,0000,0000,0000,,He must be!
+Dialogue: 0,0:12:24.92,0:12:26.52,Default,,0000,0000,0000,,I hear he's trying to pass\nhis college entrance exams.
+Dialogue: 0,0:12:26.45,0:12:27.97,Default,,0000,0000,0000,,How sweet!
+Dialogue: 0,0:12:27.97,0:12:29.34,Default,,0000,0000,0000,,You suppose they've done it yet?
+Dialogue: 0,0:12:29.26,0:12:32.46,Default,,0000,0000,0000,,Oh no! Silly! Perverted! No way!
+Dialogue: 0,0:12:33.66,0:12:35.50,Default,,0000,0000,0000,,Hey, hey you think\nthey'll get married?
+Dialogue: 0,0:12:35.40,0:12:36.47,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:12:36.45,0:12:37.98,Default,,0000,0000,0000,,They've got to!
+Dialogue: 0,0:12:37.81,0:12:39.96,Default,,0000,0000,0000,,Then he'll be the future\nowner of the Mamiya Group?
+Dialogue: 0,0:12:39.82,0:12:40.41,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:12:40.39,0:12:41.54,Default,,0000,0000,0000,,Oh, boy!
+Dialogue: 0,0:12:41.58,0:12:42.25,Default,,0000,0000,0000,,Won't that be great!
+Dialogue: 0,0:12:42.28,0:12:43.68,Default,,0000,0000,0000,,I wonder if we could seduce him.
+Dialogue: 0,0:12:43.66,0:12:46.19,Default,,0000,0000,0000,,Eeek! Oh no! Oh, you!
+Dialogue: 0,0:12:46.57,0:12:49.84,Default,,0000,0000,0000,,But even being a mistress in the\nMamiya Family means a little of luxury!
+Dialogue: 0,0:12:49.87,0:12:52.02,Default,,0000,0000,0000,,No! Really?
+Dialogue: 0,0:12:52.66,0:12:53.78,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:12:57.34,0:12:58.92,Default,,0000,0000,0000,,Where might I find a bathroom?
+Dialogue: 0,0:12:59.68,0:13:01.42,Default,,0000,0000,0000,,I'll show you.
+Dialogue: 0,0:13:04.53,0:13:05.72,Default,,0000,0000,0000,,Oh, man!
+Dialogue: 0,0:13:09.06,0:13:11.83,Default,,0000,0000,0000,,Is it really alright\nfor me to go here?
+Dialogue: 0,0:13:12.07,0:13:13.15,Default,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:13:13.36,0:13:13.81,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:13.89,0:13:15.44,Default,,0000,0000,0000,,May I give you a hand?
+Dialogue: 0,0:13:15.96,0:13:17.21,Default,,0000,0000,0000,,Uh, that's ok.
+Dialogue: 0,0:13:19.31,0:13:21.31,Default,,0000,0000,0000,,Please feel free.
+Dialogue: 0,0:13:21.50,0:13:23.63,Default,,0000,0000,0000,,It's alright.\NDo whatever you feel like.
+Dialogue: 0,0:13:24.17,0:13:28.14,Default,,0000,0000,0000,,But when you marry Miss Yuno\Nplease make me your No. 2!
+Dialogue: 0,0:13:28.70,0:13:33.12,Default,,0000,0000,0000,,Hey, wait, cut that out!\NI'm not interested in anyone but Yuno!
+Dialogue: 0,0:13:33.13,0:13:36.49,Default,,0000,0000,0000,,Don't say such things!\NI'll be your No. 4 or even your No. 5!
+Dialogue: 0,0:13:36.46,0:13:38.49,Default,,0000,0000,0000,,Hey, come on, you!
+Dialogue: 0,0:13:41.89,0:13:42.90,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:13:43.23,0:13:46.51,Default,,0000,0000,0000,,Hey there! So you're Chikanaka, huh?
+Dialogue: 0,0:13:46.54,0:13:49.61,Default,,0000,0000,0000,,Uh, yes!\NUm, what just happened here... Uh... it wasn't...
+Dialogue: 0,0:13:49.61,0:13:51.32,Default,,0000,0000,0000,,...it's not what you think...
+Dialogue: 0,0:13:53.02,0:13:54.78,Default,,0000,0000,0000,,Hmm. Well, you should have done it with her.
+Dialogue: 0,0:13:54.81,0:13:55.30,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:14:03.66,0:14:05.26,Default,,0000,0000,0000,,Thanks...!
+Dialogue: 0,0:14:05.26,0:14:05.65,Default,,0000,0000,0000,,Tsk! Tsk!
+Dialogue: 0,0:14:10.88,0:14:13.17,Default,,0000,0000,0000,,So how are things...\Ndown there, I mean.
+Dialogue: 0,0:14:13.73,0:14:15.17,Default,,0000,0000,0000,,Terrific!
+Dialogue: 0,0:14:15.47,0:14:18.16,Default,,0000,0000,0000,,Oh, good.\NSo, about how often do you have orgasms?
+Dialogue: 0,0:14:18.16,0:14:22.86,Default,,0000,0000,0000,,Huh? What do you mean?\NI never have orgasms.
+Dialogue: 0,0:14:23.23,0:14:27.90,Default,,0000,0000,0000,,Oh, how tragic, that you still\ndon't know a woman's true joy.
+Dialogue: 0,0:14:28.82,0:14:31.86,Default,,0000,0000,0000,,Why, if I don't have an orgasm...
+Dialogue: 0,0:14:33.36,0:14:35.48,Default,,0000,0000,0000,,...I beat the hell out of the man!
+Dialogue: 0,0:14:38.29,0:14:41.42,Default,,0000,0000,0000,,Very well. Let me see what I can\nhave arranged for you.
+Dialogue: 0,0:14:46.57,0:14:48.77,Default,,0000,0000,0000,,Where are you applying, Rokurou?
+Dialogue: 0,0:14:48.82,0:14:51.27,Default,,0000,0000,0000,,The Department of Economics\nat Ansei University, sir.
+Dialogue: 0,0:14:51.97,0:14:55.47,Default,,0000,0000,0000,,You'll have to study hard if\nyou're going to be with Yuno.
+Dialogue: 0,0:14:56.21,0:14:59.33,Default,,0000,0000,0000,,And take business management\nas soon as you can.
+Dialogue: 0,0:14:59.50,0:15:00.18,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:15:01.61,0:15:07.21,Default,,0000,0000,0000,,Excuse me, but the ladies of the\nhouse won't be coming to dinner...
+Dialogue: 0,0:15:07.21,0:15:10.11,Default,,0000,0000,0000,,...as they are undergoing some\nspecial intensive training.
+Dialogue: 0,0:15:10.62,0:15:14.13,Default,,0000,0000,0000,,Your mother sent for me.\NI'm Ranka the Guillotine.
+Dialogue: 0,0:15:14.13,0:15:18.09,Default,,0000,0000,0000,,I've had 5 years experience on the "Flower Train",\nand I'm going to give you a thorough initiation.
+Dialogue: 0,0:15:18.61,0:15:22.10,Default,,0000,0000,0000,,Now let's begin.\NTake off your panties, please.
+Dialogue: 0,0:15:22.10,0:15:23.11,Default,,0000,0000,0000,,My panties?
+Dialogue: 0,0:15:23.11,0:15:24.69,Default,,0000,0000,0000,,Um... what are you going to do?
+Dialogue: 0,0:15:24.69,0:15:28.60,Default,,0000,0000,0000,,I am the teacher here!\NKeep your mouth shut and do as you're told!
+Dialogue: 0,0:15:29.41,0:15:30.39,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:15:38.33,0:15:42.30,Default,,0000,0000,0000,,Wha...? Hey! Hold it!\NWhat are you doing?
+Dialogue: 0,0:15:42.33,0:15:43.76,Default,,0000,0000,0000,,Try to squeeze.
+Dialogue: 0,0:15:43.88,0:15:47.05,Default,,0000,0000,0000,,Huh? Oh, ok. Watch this.
+Dialogue: 0,0:15:47.94,0:15:49.01,Default,,0000,0000,0000,,Come on, come on.
+Dialogue: 0,0:15:56.77,0:16:01.97,Default,,0000,0000,0000,,Pathetic. When I say "squeeze",\nthis is what I mean.
+Dialogue: 0,0:16:02.54,0:16:06.79,Default,,0000,0000,0000,,Oh, no! What is this? Ow! Ow!\NLet go!
+Dialogue: 0,0:16:10.07,0:16:12.08,Default,,0000,0000,0000,,Ow ow ow ow...
+Dialogue: 0,0:16:13.37,0:16:14.66,Default,,0000,0000,0000,,Miss Yuno, those are your...
+Dialogue: 0,0:16:16.20,0:16:19.56,Default,,0000,0000,0000,,You are not a adult if you\ncan't do this at will.
+Dialogue: 0,0:16:19.94,0:16:25.84,Default,,0000,0000,0000,,I'm ashamed, but I'm just no match for you.\NSo, I'll be going now.
+Dialogue: 0,0:16:25.91,0:16:26.68,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:16:26.68,0:16:29.28,Default,,0000,0000,0000,,But I can't do that!
+Dialogue: 0,0:16:29.28,0:16:32.57,Default,,0000,0000,0000,,Anything is possible, with the proper training.\NNow lie down here.
+Dialogue: 0,0:16:33.14,0:16:34.49,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:16:35.67,0:16:37.62,Default,,0000,0000,0000,,What are you going to do now?
+Dialogue: 0,0:16:39.19,0:16:40.93,Default,,0000,0000,0000,,Highly sensitive...
+Dialogue: 0,0:16:41.07,0:16:44.08,Default,,0000,0000,0000,,This is no time for lesbian games!
+Dialogue: 0,0:16:44.48,0:16:45.38,Default,,0000,0000,0000,,How right you are...
+Dialogue: 0,0:16:49.10,0:16:50.43,Default,,0000,0000,0000,,Eeeyu! Gross! Gross! Gross!
+Dialogue: 0,0:16:50.43,0:16:51.44,Default,,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:16:58.02,0:17:03.37,Default,,0000,0000,0000,,There. That's the feeling. We'll continue until\nyou can squeeze like this on demand.
+Dialogue: 0,0:17:04.21,0:17:05.98,Default,,0000,0000,0000,,Mother, if, after all this,\nit doesn't do me any good...
+Dialogue: 0,0:17:05.98,0:17:09.37,Default,,0000,0000,0000,,...I'll hate you for\nthe rest of my life!
+Dialogue: 0,0:17:19.56,0:17:21.77,Default,,0000,0000,0000,,I've walked into a nuthouse.
+Dialogue: 0,0:17:26.07,0:17:29.90,Default,,0000,0000,0000,,What the hell is Yuno doing, anyway,\nabandoning me like this?
+Dialogue: 0,0:17:31.98,0:17:33.12,Default,,0000,0000,0000,,Might as well get some sleep.
+Dialogue: 0,0:17:36.43,0:17:37.82,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:17:37.82,0:17:42.16,Default,,0000,0000,0000,,Don't let them drop,\nI'll gradually add more weight.
+Dialogue: 0,0:17:44.04,0:17:45.85,Default,,0000,0000,0000,,How are you doing, Yuno?
+Dialogue: 0,0:17:45.97,0:17:46.72,Default,,0000,0000,0000,,Mother!
+Dialogue: 0,0:17:46.72,0:17:48.60,Default,,0000,0000,0000,,Oh, look at yourself!\NOhohoho.
+Dialogue: 0,0:17:48.94,0:17:50.99,Default,,0000,0000,0000,,I hate this!
+Dialogue: 0,0:17:50.99,0:17:55.90,Default,,0000,0000,0000,,I'm satisfied with the way I am!\nBesides, love is the most important thing!
+Dialogue: 0,0:17:56.36,0:17:57.61,Default,,0000,0000,0000,,BZZZZT! Wrong answer.
+Dialogue: 0,0:17:57.75,0:17:58.44,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:58.78,0:18:03.85,Default,,0000,0000,0000,,A little dating and suddenly you know it all.\NThat's sooo funny... Hahaha!
+Dialogue: 0,0:18:04.66,0:18:10.53,Default,,0000,0000,0000,,Love is to laugh at. Isn't it just so funny!\NHehehe!
+Dialogue: 0,0:18:10.60,0:18:12.59,Default,,0000,0000,0000,,How can you say that?
+Dialogue: 0,0:18:13.81,0:18:17.39,Default,,0000,0000,0000,,Yuno, sensation is everything for a woman!
+Dialogue: 0,0:18:18.34,0:18:20.71,Default,,0000,0000,0000,,Men should be kept on a leash.
+Dialogue: 0,0:18:21.03,0:18:24.53,Default,,0000,0000,0000,,If you're not careful, they'll chase\nother women, and leave you crying!
+Dialogue: 0,0:18:24.81,0:18:26.51,Default,,0000,0000,0000,,Mother, what's gotten into you?
+Dialogue: 0,0:18:32.81,0:18:33.62,Default,,0000,0000,0000,,That one?
+Dialogue: 0,0:18:35.74,0:18:37.53,Default,,0000,0000,0000,,Ahh...Mother, wait a...!
+Dialogue: 0,0:18:38.95,0:18:41.71,Default,,0000,0000,0000,,I'm enjoying this too, so there!
+Dialogue: 0,0:18:41.71,0:18:42.21,Default,,0000,0000,0000,,Huh!
+Dialogue: 0,0:18:43.05,0:18:48.88,Default,,0000,0000,0000,,Hang in there, now. Some day you'll tell me,\N"Dear Mother, you were so right."
+Dialogue: 0,0:19:11.55,0:19:12.96,Default,,0000,0000,0000,,Sleeping like a baby.
+Dialogue: 0,0:19:25.04,0:19:27.59,Default,,0000,0000,0000,,Oh, so young, so magnificent.
+Dialogue: 0,0:19:35.37,0:19:38.41,Default,,0000,0000,0000,,Yuno, you little slut.
+Dialogue: 0,0:19:43.33,0:19:44.52,Default,,0000,0000,0000,,What is it? What's going on?
+Dialogue: 0,0:19:44.84,0:19:46.34,Default,,0000,0000,0000,,Didn't it come from over there?
+Dialogue: 0,0:19:50.31,0:19:51.96,Default,,0000,0000,0000,,Look out!\NThis is a dangerous situation!
+Dialogue: 0,0:19:52.29,0:19:53.86,Default,,0000,0000,0000,,Freeze! Don't move!\NStay where you are!
+Dialogue: 0,0:19:53.86,0:19:55.60,Default,,0000,0000,0000,,Enemy located, near left wing!
+Dialogue: 0,0:19:55.68,0:19:58.15,Default,,0000,0000,0000,,You are completely surrounded!
+Dialogue: 0,0:19:59.47,0:20:00.51,Default,,0000,0000,0000,,Let me through, let me through!
+Dialogue: 0,0:20:00.51,0:20:01.98,Default,,0000,0000,0000,,What happened...?
+Dialogue: 0,0:20:06.48,0:20:07.59,Default,,0000,0000,0000,,What did you do that for?
+Dialogue: 0,0:20:07.59,0:20:10.49,Default,,0000,0000,0000,,How dare you attack my mother\njust because you're horny!
+Dialogue: 0,0:20:10.85,0:20:15.50,Default,,0000,0000,0000,,What are you talking about?\NThis is my bedroom! She attacked me!
+Dialogue: 0,0:20:15.52,0:20:16.17,Default,,0000,0000,0000,,Hunh?
+Dialogue: 0,0:20:19.10,0:20:19.91,Default,,0000,0000,0000,,Mother!
+Dialogue: 0,0:20:20.63,0:20:22.87,Default,,0000,0000,0000,,Yuno, you mustn't misinterpret this.
+Dialogue: 0,0:20:22.87,0:20:24.40,Default,,0000,0000,0000,,What's to misinterpret?
+Dialogue: 0,0:20:26.08,0:20:31.94,Default,,0000,0000,0000,,I thought Rokurou might have some problem\nthat was interfering with your orgasms,\nso I came to check.
+Dialogue: 0,0:20:31.94,0:20:32.19,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:32.41,0:20:32.78,Default,,0000,0000,0000,,Hmh?
+Dialogue: 0,0:20:36.82,0:20:39.71,Default,,0000,0000,0000,,Well... since nothing seems abnormal,\ngo ahead and get on with it.
+Dialogue: 0,0:20:41.12,0:20:42.15,Default,,0000,0000,0000,,Good night.
+Dialogue: 0,0:20:44.38,0:20:46.90,Default,,0000,0000,0000,,Don't just stand there gaping\nlike a bunch of morons! Move it!
+Dialogue: 0,0:20:47.09,0:20:48.90,Default,,0000,0000,0000,,Something's fishy here.
+Dialogue: 0,0:21:15.05,0:21:19.93,Default,,0000,0000,0000,,Are you out of your mind?\NYou could turn weird, doing stuff like that!
+Dialogue: 0,0:21:20.04,0:21:20.94,Default,,0000,0000,0000,,But...!
+Dialogue: 0,0:21:21.86,0:21:23.98,Default,,0000,0000,0000,,Maybe your whole family is screwed up?
+Dialogue: 0,0:21:25.06,0:21:30.16,Default,,0000,0000,0000,,That's not true. I'm... a bit worried.
+Dialogue: 0,0:21:30.71,0:21:31.52,Default,,0000,0000,0000,,About what?
+Dialogue: 0,0:21:35.64,0:21:36.95,Default,,0000,0000,0000,,You.
+Dialogue: 0,0:21:37.82,0:21:38.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:38.41,0:21:39.69,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:21:44.88,0:21:48.32,Default,,0000,0000,0000,,Well, before you knew it,\nwe were together...
+Dialogue: 0,0:21:48.54,0:21:55.84,Default,,0000,0000,0000,,But what if something happens between us,\nsomething that keeps us apart?
+Dialogue: 0,0:21:55.98,0:21:57.68,Default,,0000,0000,0000,,What happens when you can't do anything about it?
+Dialogue: 0,0:22:00.00,0:22:04.06,Default,,0000,0000,0000,,And so...\NI want to try for an orgasm!
+Dialogue: 0,0:22:11.90,0:22:13.32,Default,,0000,0000,0000,,Rokurou!
+Dialogue: 0,0:22:14.48,0:22:22.58,Default,,0000,0000,0000,,I feel that, when I do,\nmaybe I'll see a vision of truth,\nin my pure clear head.
+Dialogue: 0,0:22:20.00,0:22:24.53,Song,,0000,0000,0000,,I will wait for you always.
+Dialogue: 0,0:22:26.03,0:22:30.71,Song,,0000,0000,0000,,You know my feelings, right?
+Dialogue: 0,0:22:32.04,0:22:37.47,Song,,0000,0000,0000,,Turn to me and let's make up.
+Dialogue: 0,0:22:33.56,0:22:39.56,Default,,0000,0000,0000,,So... I'll just forget everything,\nand collapse in your arms.
+Dialogue: 0,0:22:38.16,0:22:44.32,Song,,0000,0000,0000,,My eyes reply "I love you".
+Dialogue: 0,0:22:44.92,0:22:50.07,Song,,0000,0000,0000,,And so I give you my heart.
+Dialogue: 0,0:22:51.08,0:22:52.54,Song,,0000,0000,0000,,So happy day.
+Dialogue: 0,0:22:55.39,0:23:00.47,Song,,0000,0000,0000,,Tell me of your loving feeling.
+Dialogue: 0,0:23:01.58,0:23:05.35,Song,,0000,0000,0000,,It's the nicest feeling in the world.
+Dialogue: 0,0:23:07.74,0:23:13.08,Song,,0000,0000,0000,,Our own brilliant, dazzling melody.
+Dialogue: 0,0:23:13.15,0:23:15.48,Song,,0000,0000,0000,,It's alright, it's alright, loving you.
+Dialogue: 0,0:23:13.71,0:23:16.69,Default,,0000,0000,0000,,Hey! Are you having great sex?
+Dialogue: 0,0:23:15.99,0:23:22.39,Song,,0000,0000,0000,,Take hold of me, sweetheart.
+Dialogue: 0,0:24:08.68,0:24:09.95,Default,,0000,0000,0000,,What's the matter with you?
+Dialogue: 0,0:24:11.36,0:24:12.13,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:24:25.54,0:24:26.67,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:24:29.52,0:24:30.10,Default,,0000,0000,0000,,Yuno!
+Dialogue: 0,0:24:42.76,0:24:44.88,Default,,0000,0000,0000,,Mom! Dad! We got trouble!
+Dialogue: 0,0:24:47.09,0:24:48.27,Default,,0000,0000,0000,,Uh... excuse me...
+Dialogue: 0,0:24:48.58,0:24:49.91,Default,,0000,0000,0000,,What the hell do you want?
+Dialogue: 0,0:24:50.04,0:24:52.02,Default,,0000,0000,0000,,I just saw the Zaxon Concorde!
+Dialogue: 0,0:24:52.02,0:24:53.62,Default,,0000,0000,0000,,What! Grandmother?
+Dialogue: 0,0:25:00.58,0:25:01.83,Default,,0000,0000,0000,,Find him!
+Dialogue: 0,0:25:02.01,0:25:02.75,Default,,0000,0000,0000,,YES MA'AM!
+Dialogue: 0,0:25:05.89,0:25:10.24,Default,,0000,0000,0000,,Oh, Mother,\Nwhat brings you back from America?
+Dialogue: 0,0:25:10.24,0:25:12.49,Default,,0000,0000,0000,,It's been a long time, Grandmother!
+Dialogue: 0,0:25:12.90,0:25:15.64,Default,,0000,0000,0000,,Please allow me to apologise for catching us\nlike this, but your arrival was so sudden.
+Dialogue: 0,0:25:15.86,0:25:19.49,Default,,0000,0000,0000,,If you'd called ahead,\nwe would've been ready to meet you.
+Dialogue: 0,0:25:19.87,0:25:23.00,Default,,0000,0000,0000,,Shigezou, since when did\nyou become an imbecile?
+Dialogue: 0,0:25:23.15,0:25:25.77,Default,,0000,0000,0000,,Huh? What do you mean?
+Dialogue: 0,0:25:26.12,0:25:27.20,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:25:27.48,0:25:32.63,Default,,0000,0000,0000,,What were you thinking of, letting some\nno-account punk into the Mamiya Family?
+Dialogue: 0,0:25:34.94,0:25:37.16,Default,,0000,0000,0000,,Huh? Who's a "no-account punk"?
+Dialogue: 0,0:25:37.14,0:25:39.83,Default,,0000,0000,0000,,What's going on? Put me down!
+Dialogue: 0,0:25:39.96,0:25:41.51,Default,,0000,0000,0000,,That hurts! Cut it out!
+Dialogue: 0,0:25:41.51,0:25:43.82,Default,,0000,0000,0000,,Hold it, hold it, hold it!\NWhat are you doing?
+Dialogue: 0,0:25:43.82,0:25:45.79,Default,,0000,0000,0000,,Yuno! Help!
+Dialogue: 0,0:25:44.79,0:25:47.37,Default,,0000,0000,0000,,Put him down! Hey! Are you deaf?
+Dialogue: 0,0:25:47.91,0:25:51.03,Default,,0000,0000,0000,,Ignore her, and kick him out!\NI don't even want to see his face!
+Dialogue: 0,0:25:51.22,0:25:52.33,Default,,0000,0000,0000,,What did you say!?
+Dialogue: 0,0:25:52.60,0:25:57.35,Default,,0000,0000,0000,,Yuno, forget about that punk.\NI will find a bridegroom for you.
+Dialogue: 0,0:25:57.35,0:25:59.35,Default,,0000,0000,0000,,How can you say such\nridiculous things!
+Dialogue: 0,0:26:02.24,0:26:06.77,Default,,0000,0000,0000,,Oh, no! Rokurou! Hang on, Rokurou!
+Dialogue: 0,0:26:10.27,0:26:13.07,Default,,0000,0000,0000,,Hey, wait a second.\NWhat are you going to do to him?
+Dialogue: 0,0:26:13.07,0:26:15.43,Default,,0000,0000,0000,,Oh, please, I beg you,\nwon't you stop?
+Dialogue: 0,0:26:15.43,0:26:17.20,Default,,0000,0000,0000,,No! What are you doing?
+Dialogue: 0,0:26:17.23,0:26:20.23,Default,,0000,0000,0000,,Rokurou! Hey, let go of me!
+Dialogue: 0,0:26:22.38,0:26:24.44,Default,,0000,0000,0000,,Stop it! I hate you!
+Dialogue: 0,0:26:24.44,0:26:28.02,Default,,0000,0000,0000,,What are you going to do to him?\NPlease don't take him away!
+Dialogue: 0,0:26:33.21,0:26:43.67,Default,,0000,0000,0000,,Rokurou! Rokurou! Rokurou! No!
+Dialogue: 0,0:26:44.59,0:26:47.70,Default,,0000,0000,0000,,NOOOOOOO!
+Dialogue: 0,0:27:11.26,0:27:12.95,Default,,0000,0000,0000,,{\i1}Do... do you need a maiden?
+Dialogue: 0,0:27:14.11,0:27:15.31,Default,,0000,0000,0000,,{\i1}Rokurou!
+Dialogue: 0,0:27:16.47,0:27:19.90,Default,,0000,0000,0000,,{\i1}And so...\NI want to try for an orgasm!
+Dialogue: 0,0:27:23.53,0:27:24.71,Default,,0000,0000,0000,,Son of a bitch...
+Dialogue: 0,0:27:25.30,0:27:28.02,Default,,0000,0000,0000,,Leaving so soon? So long.
+Dialogue: 0,0:27:28.02,0:27:30.05,Default,,0000,0000,0000,,Oh, What about your umbrella?\NDon't worry about it.
+Dialogue: 0,0:27:34.14,0:27:38.33,Default,,0000,0000,0000,,Hold it, punk. Can't you introduce yourself\nto someone you just ran into?
+Dialogue: 0,0:27:40.22,0:27:41.36,Default,,0000,0000,0000,,You're gonna get it!
+Dialogue: 0,0:27:48.07,0:27:49.43,Default,,0000,0000,0000,,Shit...
+Dialogue: 0,0:27:49.43,0:27:53.78,Default,,0000,0000,0000,,What right does being rich give you to just\nknock people down whenever you feel like it?
+Dialogue: 0,0:27:53.78,0:27:56.38,Default,,0000,0000,0000,,Damn it! I'll show you.
+Dialogue: 0,0:27:56.79,0:27:57.89,Default,,0000,0000,0000,,Whuzzat?
+Dialogue: 0,0:27:58.33,0:28:00.01,Default,,0000,0000,0000,,I'll show you!
+Dialogue: 0,0:28:06.10,0:28:09.60,Default,,0000,0000,0000,,Yuno! Yuno! YUNO!
+Dialogue: 0,0:28:41.82,0:28:44.78,Default,,0000,0000,0000,,Trouble, sir. Confirmed penetration\Nsounds in Block E7 Southeast.
+Dialogue: 0,0:28:44.78,0:28:47.55,Default,,0000,0000,0000,,What! Put the visual on the main screen.
+Dialogue: 0,0:28:47.55,0:28:48.12,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:28:53.52,0:28:58.16,Default,,0000,0000,0000,,Madame, a man we believe to be Chikanaka Rokurou\nhas infiltrated the grounds.
+Dialogue: 0,0:28:58.16,0:29:00.57,Default,,0000,0000,0000,,What! Isn't he a cunning little punk.
+Dialogue: 0,0:29:00.57,0:29:05.08,Default,,0000,0000,0000,,Throw him out at once! If he resists,\neliminate him! I don't care!
+Dialogue: 0,0:29:05.37,0:29:05.70,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:29:50.41,0:29:53.36,Default,,0000,0000,0000,,Oh, Miss Yuno, where are you going?\NWait!
+Dialogue: 0,0:29:53.83,0:29:57.25,Note,,0000,0000,0000,,Banner inscription:\N"Under great god, spreading Ego"
+Dialogue: 0,0:30:00.53,0:30:01.84,Default,,0000,0000,0000,,Great Grandmother!
+Dialogue: 0,0:30:02.05,0:30:02.92,Default,,0000,0000,0000,,Yuno?
+Dialogue: 0,0:30:03.70,0:30:05.63,Default,,0000,0000,0000,,Stop this attack at once!
+Dialogue: 0,0:30:05.58,0:30:09.21,Default,,0000,0000,0000,,I will not. That bastard will demean\nthe entire Mamiya Family.
+Dialogue: 0,0:30:09.21,0:30:11.58,Default,,0000,0000,0000,,Why? How do you know?
+Dialogue: 0,0:30:11.74,0:30:17.87,Default,,0000,0000,0000,,His kind only come on to a girl because\nthey want money or status. I'm certain of it.
+Dialogue: 0,0:30:18.02,0:30:20.63,Default,,0000,0000,0000,,You're wrong!\NRokurou's not that kind of a man.
+Dialogue: 0,0:30:21.63,0:30:25.34,Default,,0000,0000,0000,,Tell me how you know that.
+Dialogue: 0,0:30:27.71,0:30:28.38,Default,,0000,0000,0000,,Hmh!
+Dialogue: 0,0:30:28.59,0:30:29.85,Default,,0000,0000,0000,,There's nothing you can say.
+Dialogue: 0,0:30:29.85,0:30:31.09,Default,,0000,0000,0000,,I believe in him!
+Dialogue: 0,0:30:31.43,0:30:33.72,Default,,0000,0000,0000,,Big deal! What good will that do?
+Dialogue: 0,0:30:33.74,0:30:35.39,Default,,0000,0000,0000,,But I believe in him!
+Dialogue: 0,0:30:36.53,0:30:39.93,Default,,0000,0000,0000,,Then let's see how strong\nyour belief really is.
+Dialogue: 0,0:30:46.81,0:30:48.05,Default,,0000,0000,0000,,You old douchebag!
+Dialogue: 0,0:30:48.77,0:30:51.76,Default,,0000,0000,0000,,What did you say? How dare you!\NYuno, come back here!
+Dialogue: 0,0:30:56.01,0:30:58.72,Default,,0000,0000,0000,,{\i1}I was young too, once long ago...
+Dialogue: 0,0:31:04.85,0:31:08.12,Default,,0000,0000,0000,,Shinzaburou, I got the rice!
+Dialogue: 0,0:31:08.61,0:31:10.21,Default,,0000,0000,0000,,Shinzaburou...? What's this?
+Dialogue: 0,0:31:12.62,0:31:14.58,Note,,0000,0000,0000,,A letter: "To Chiyo"
+Dialogue: 0,0:31:21.50,0:31:23.35,Default,,0000,0000,0000,,Shinzaburou!
+Dialogue: 0,0:31:28.92,0:31:33.07,Default,,0000,0000,0000,,Chiyo! You look so thin.\NWon't you come home now?
+Dialogue: 0,0:31:33.22,0:31:36.01,Default,,0000,0000,0000,,Father! It was you, wasn't it!
+Dialogue: 0,0:31:36.78,0:31:38.74,Default,,0000,0000,0000,,What have you done to Shinzaburou?
+Dialogue: 0,0:31:38.82,0:31:39.92,Default,,0000,0000,0000,,I haven't done anything to him.
+Dialogue: 0,0:31:39.92,0:31:40.75,Default,,0000,0000,0000,,Liar!
+Dialogue: 0,0:31:41.32,0:31:42.91,Default,,0000,0000,0000,,I just gave him some money.
+Dialogue: 0,0:31:42.91,0:31:43.97,Default,,0000,0000,0000,,Wha...?
+Dialogue: 0,0:31:47.84,0:31:52.91,Default,,0000,0000,0000,,{\i1}"Chiyo, my outlook was naive.\nWith my abilities..."
+Dialogue: 0,0:31:53.04,0:32:01.65,Default,,0000,0000,0000,,{\i1}"I don't want to cause you any further\nunhappiness. Forget about me."
+Dialogue: 0,0:32:09.59,0:32:11.00,Default,,0000,0000,0000,,HELP!
+Dialogue: 0,0:32:11.96,0:32:13.94,Default,,0000,0000,0000,,No wonder getting in was so easy!
+Dialogue: 0,0:32:51.31,0:32:54.02,Default,,0000,0000,0000,,Hang on, Rokurou! I'm coming!
+Dialogue: 0,0:33:13.73,0:33:16.44,Default,,0000,0000,0000,,Hey! What was that?\NWhat's going on?
+Dialogue: 0,0:33:17.31,0:33:18.57,Default,,0000,0000,0000,,Son of a bitch!
+Dialogue: 0,0:33:18.76,0:33:19.94,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:33:21.80,0:33:23.68,Default,,0000,0000,0000,,This is where I make my stand!
+Dialogue: 0,0:34:05.97,0:34:07.77,Default,,0000,0000,0000,,ROKUROU!
+Dialogue: 0,0:34:12.59,0:34:13.29,Default,,0000,0000,0000,,Yuno!
+Dialogue: 0,0:34:13.85,0:34:17.67,Default,,0000,0000,0000,,Rokurou... let's do it...\Nlet's do it...
+Dialogue: 0,0:34:17.77,0:34:19.26,Default,,0000,0000,0000,,Let's do it.
+Dialogue: 0,0:34:21.35,0:34:22.05,Default,,0000,0000,0000,,Move in!
+Dialogue: 0,0:34:22.36,0:34:22.77,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:34:48.49,0:34:50.01,Default,,0000,0000,0000,,What an interesting position.
+Dialogue: 0,0:34:54.49,0:34:57.17,Default,,0000,0000,0000,,Ow! Ow! Ow! What the?\NI can't pull it out!
+Dialogue: 0,0:34:57.46,0:34:59.65,Default,,0000,0000,0000,,Oh no! What's happening?
+Dialogue: 0,0:34:59.85,0:35:01.01,Default,,0000,0000,0000,,Maybe...
+Dialogue: 0,0:35:02.15,0:35:03.77,Default,,0000,0000,0000,,Ow! Oh no!
+Dialogue: 0,0:35:04.44,0:35:06.53,Default,,0000,0000,0000,,It's those weird exercises you were doing!
+Dialogue: 0,0:35:06.53,0:35:07.51,Default,,0000,0000,0000,,But...!
+Dialogue: 0,0:35:07.51,0:35:09.83,Default,,0000,0000,0000,,Anyway, we've got to do something about this!
+Dialogue: 0,0:35:12.20,0:35:13.92,Default,,0000,0000,0000,,What was the situation in there, sir?
+Dialogue: 0,0:35:13.92,0:35:15.81,Default,,0000,0000,0000,,Twisted transforming swastikas!
+Dialogue: 0,0:35:15.96,0:35:16.63,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:35:16.63,0:35:17.76,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:35:19.54,0:35:20.91,Default,,0000,0000,0000,,Ready, Yuno?
+Dialogue: 0,0:35:20.91,0:35:23.31,Default,,0000,0000,0000,,Uh-huh, together, wherever we are.
+Dialogue: 0,0:35:23.49,0:35:25.14,Default,,0000,0000,0000,,Alley-Oop!
+Dialogue: 0,0:35:32.63,0:35:34.85,Default,,0000,0000,0000,,Truly awesome!
+Dialogue: 0,0:35:38.33,0:35:40.73,Default,,0000,0000,0000,,How did that happen?\NGet a load of that!
+Dialogue: 0,0:35:40.93,0:35:43.07,Default,,0000,0000,0000,,Beat it! This isn't a freak show!
+Dialogue: 0,0:35:43.15,0:35:46.37,Default,,0000,0000,0000,,Oh no! Eeek! Do you believe this?
+Dialogue: 0,0:35:46.37,0:35:49.00,Default,,0000,0000,0000,,This is a disaster, isn't it.\NOh, yes...
+Dialogue: 0,0:35:49.54,0:35:51.27,Default,,0000,0000,0000,,I'm afraid we'll have to amputate!
+Dialogue: 0,0:35:51.40,0:35:51.96,Default,,0000,0000,0000,,Wha...!
+Dialogue: 0,0:35:52.04,0:35:56.06,Default,,0000,0000,0000,,Just kidding! A shot of muscle relaxant\nand you'll be apart in no time!
+Dialogue: 0,0:36:03.59,0:36:06.24,Default,,0000,0000,0000,,What're you standing there for, Rokurou?
+Dialogue: 0,0:36:06.57,0:36:08.77,Default,,0000,0000,0000,,Cut it out, you idiot!
+Dialogue: 0,0:36:10.34,0:36:11.63,Default,,0000,0000,0000,,Don't laugh!
+Dialogue: 0,0:36:13.53,0:36:15.03,Default,,0000,0000,0000,,I said, cut it out!
+Dialogue: 0,0:36:15.03,0:36:18.07,Default,,0000,0000,0000,,Rokurou,\Nyou got caught with your pants down!
+Dialogue: 0,0:36:18.17,0:36:19.00,Default,,0000,0000,0000,,Same goes for you, too!
+Dialogue: 0,0:36:24.79,0:36:25.72,Default,,0000,0000,0000,,Let's go home.
+Dialogue: 0,0:36:26.88,0:36:28.09,Default,,0000,0000,0000,,Rokurou...
+Dialogue: 0,0:36:44.84,0:36:48.56,Default,,0000,0000,0000,,Her Ladyships audience!
+Dialogue: 0,0:36:55.05,0:36:57.09,Default,,0000,0000,0000,,Hey, Old woman! What's with the\nancient costumes and all?
+Dialogue: 0,0:36:57.11,0:36:59.77,Default,,0000,0000,0000,,Yeah! Quit jerking us around!
+Dialogue: 0,0:37:01.98,0:37:05.13,Default,,0000,0000,0000,,Grandmother,\NI cannot tolerate any more of this!
+Dialogue: 0,0:37:05.64,0:37:07.99,Default,,0000,0000,0000,,Please stop tormenting them!
+Dialogue: 0,0:37:08.09,0:37:10.62,Default,,0000,0000,0000,,Yeah, yeah!\NEnough of this ancient historical crap!
+Dialogue: 0,0:37:10.62,0:37:12.60,Default,,0000,0000,0000,,What's next? A personal appearance\nby some asshole movie star?
+Dialogue: 0,0:37:13.58,0:37:17.75,Default,,0000,0000,0000,,Quiet!\NIs that all you have to say for yourselves?
+Dialogue: 0,0:37:19.97,0:37:23.11,Default,,0000,0000,0000,,Punk, I've revised my\nopinion of you a little.
+Dialogue: 0,0:37:23.11,0:37:26.67,Default,,0000,0000,0000,,I understand all too well your loving\nYuno and risking your life for her.
+Dialogue: 0,0:37:26.90,0:37:30.59,Default,,0000,0000,0000,,But you can't get by on that alone.
+Dialogue: 0,0:37:30.59,0:37:36.82,Default,,0000,0000,0000,,If you want to be with Yuno again,\nraise a dowry of ¥200,000,000 at once!
+Dialogue: 0,0:37:30.62,0:37:36.84,Note,,0000,0000,0000,,¥200,000,000 = $1,500,000
+Dialogue: 0,0:37:37.34,0:37:39.01,Default,,0000,0000,0000,,Then you'll let us be?
+Dialogue: 0,0:37:38.99,0:37:40.87,Default,,0000,0000,0000,,¥200,000,000...
+Dialogue: 0,0:37:41.23,0:37:44.63,Default,,0000,0000,0000,,Grandmother! Rokurou is still\ntrying to get into college!
+Dialogue: 0,0:37:44.86,0:37:46.00,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:37:46.20,0:37:51.82,Default,,0000,0000,0000,,If a man who may one day be a part of the\nMamiya Family can't even do that, what good is he?
+Dialogue: 0,0:37:51.98,0:37:55.38,Default,,0000,0000,0000,,This is great, Rokurou!\NYou only need ¥200,000,000!
+Dialogue: 0,0:37:55.59,0:37:56.93,Default,,0000,0000,0000,,Only...?
+Dialogue: 0,0:37:57.23,0:38:02.29,Default,,0000,0000,0000,,What's wrong? Aren't you happy?\NNow we can be together.
+Dialogue: 0,0:38:03.96,0:38:06.02,Default,,0000,0000,0000,,{\i1}We live in two totally\ndifferent worlds...!
+Dialogue: 0,0:38:08.21,0:38:09.91,Default,,0000,0000,0000,,{\i1}So it comes to this, after all.
+Dialogue: 0,0:38:13.06,0:38:16.02,Default,,0000,0000,0000,,This audience is at an end.
+Dialogue: 0,0:38:16.98,0:38:21.00,Default,,0000,0000,0000,,No! Wait a second!\NCome on, Rokurou, what's wrong?
+Dialogue: 0,0:38:21.00,0:38:25.30,Default,,0000,0000,0000,,Come on, Rokurou, say something!\NRokurou! Rokurou!
+Dialogue: 0,0:38:28.29,0:38:30.17,Default,,0000,0000,0000,,{\i1}Those stormy times have passed...
+Dialogue: 0,0:38:30.81,0:38:35.04,Default,,0000,0000,0000,,{\i1}Even now, I'm not sure what kept\Nme strong during that period.
+Dialogue: 0,0:38:35.97,0:38:40.22,Default,,0000,0000,0000,,{\i1}With Yuno gone, I've returned to the\nboring reality of college entrance exams...
+Dialogue: 0,0:38:40.22,0:38:44.68,Default,,0000,0000,0000,,{\i1}...and it reminds me of what a lifeless,\ncolourless bastard I've become.
+Dialogue: 0,0:38:45.25,0:38:48.62,Radio,,0000,0000,0000,,Today seems to\Nbe very peculiar...
+Dialogue: 0,0:38:48.91,0:38:53.11,Default,,0000,0000,0000,,Ah, shit! It's useless!
+Dialogue: 0,0:38:54.34,0:38:58.36,Radio,,0000,0000,0000,,Aren't there many people who\Nhave shined light on our lives?
+Dialogue: 0,0:38:57.95,0:38:58.65,Default,,0000,0000,0000,,Yuno...
+Dialogue: 0,0:38:59.21,0:39:01.25,Note,,0000,0000,0000,,The doodle: "Rokurou loves Yuno"
+Dialogue: 0,0:39:01.71,0:39:07.25,Radio,,0000,0000,0000,,Of course, science and technology, for example,\nare always advanced by many bright people...
+Dialogue: 0,0:39:07.98,0:39:10.97,Radio,,0000,0000,0000,,...but maybe what we really need is someone\nwho can open up the door to inspiration.
+Dialogue: 0,0:39:36.68,0:39:38.20,Default,,0000,0000,0000,,Guess what!
+Dialogue: 0,0:39:39.57,0:39:41.63,Default,,0000,0000,0000,,I'VE RUN AWAY FROM HOME!
+Dialogue: 0,0:39:48.41,0:39:50.21,Default,,0000,0000,0000,,This is all of me.
+Dialogue: 0,0:40:09.67,0:40:11.91,Default,,0000,0000,0000,,Target confirmed. Prepare for drop.
+Dialogue: 0,0:40:14.93,0:40:17.69,Default,,0000,0000,0000,,Oh no... I'm... com... ing...
+Dialogue: 0,0:40:23.59,0:40:24.33,Default,,0000,0000,0000,,Drop!
+Dialogue: 0,0:40:37.63,0:40:38.77,Default,,0000,0000,0000,,What happened? Oh no...
+Dialogue: 0,0:40:42.12,0:40:46.42,Default,,0000,0000,0000,,Yuno? Yuno! YUNO! Yuno?
+Dialogue: 0,0:40:47.32,0:40:48.15,Default,,0000,0000,0000,,Yuno!
+Dialogue: 0,0:40:51.11,0:40:52.42,Default,,0000,0000,0000,,Rokurou...
+Dialogue: 0,0:40:55.05,0:40:56.45,Default,,0000,0000,0000,,Hey punk!
+Dialogue: 0,0:40:56.91,0:41:04.12,Default,,0000,0000,0000,,How dare you touch Yuno again,\nwhen you got scared by the thought of ¥200,000,000?
+Dialogue: 0,0:41:04.38,0:41:07.68,Default,,0000,0000,0000,,Shut up, you old piece of shit!\NI won't ever let her go! Got that?
+Dialogue: 0,0:41:09.02,0:41:10.64,Default,,0000,0000,0000,,Threatening me again, eh?
+Dialogue: 0,0:41:10.77,0:41:13.69,Default,,0000,0000,0000,,Great Grandmother!\NWhat the hell do you want?
+Dialogue: 0,0:41:13.69,0:41:17.32,Default,,0000,0000,0000,,I understand your feelings for each other.\NSo, do as you please.
+Dialogue: 0,0:41:17.32,0:41:24.25,Default,,0000,0000,0000,,That money is my parting gift to you.\nYou are not to set foot on Mamiya property again.
+Dialogue: 0,0:41:24.28,0:41:27.94,Default,,0000,0000,0000,,And Yuno, keep in mind that\nhe tried to forget you.
+Dialogue: 0,0:41:27.94,0:41:30.33,Default,,0000,0000,0000,,He didn't have the guts to go\nand get a mere ¥200,000,000.
+Dialogue: 0,0:41:30.33,0:41:34.10,Default,,0000,0000,0000,,If you know what's good for you,\nyou'll keep a firm grip on him! Hahaha!
+Dialogue: 0,0:41:34.10,0:41:35.08,Default,,0000,0000,0000,,Rokurou?
+Dialogue: 0,0:41:35.46,0:41:37.96,Default,,0000,0000,0000,,It's alright!\NI'm not going to lose any more.
+Dialogue: 0,0:41:41.60,0:41:45.80,Default,,0000,0000,0000,,Oh, and how are you, down there?
+Dialogue: 0,0:41:50.72,0:41:52.47,Default,,0000,0000,0000,,I had a vision of you.
+Dialogue: 0,0:41:57.90,0:42:04.00,Default,,0000,0000,0000,,Script done by:\NJason Vincent in association with Anime Jyanai

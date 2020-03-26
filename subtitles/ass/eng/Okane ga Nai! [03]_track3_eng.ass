@@ -1,0 +1,591 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Last Style Storage: Okane
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: OP Romaji,Ebrima,30,&H00FFFFFF,&H002671A0,&H001678DC,&H6447A4FA,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: OP Kanji,EPSON 行書体Ｍ,25,&H00FFFFFF,&H004E71A0,&H001678DC,&H6447A4FA,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: ED Kanji,EPSON 行書体Ｍ,30,&H00FFFFFF,&H00743F0E,&H00C17723,&H64E0D03A,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: ED Romaji,dfgtFLeiSho-W5,30,&H00FFFFBF,&H00232347,&H40C08000,&H64E0D03A,0,0,0,0,100,100,2,0,1,3,3,8,10,10,10,0
+Style: OP English,GulimChe,20,&H00FFFFFF,&H000000FF,&H007B112E,&H00AB4860,0,0,0,0,100,100,0,0,1,2,2,2,10,10,13,1
+Style: ED English,Bell MT,25,&H00FFFFFF,&H000000FF,&H001D4908,&H641AA725,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Main,Gulim,25,&H00FFFFFF,&H000000FF,&H0012427E,&H96000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,17,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.33,0:00:07.56,OP English,,0000,0000,0000,,No Money!
+Dialogue: 0,0:00:08.94,0:00:12.20,OP English,,0000,0000,0000,,Living your life is a wonderful thing.
+Dialogue: 0,0:00:12.27,0:00:16.37,OP English,,0000,0000,0000,,But one step ahead,\NI hear there's only darkness.
+Dialogue: 0,0:00:16.44,0:00:19.64,OP English,,0000,0000,0000,,Art is long. Life is short..
+Dialogue: 0,0:00:19.71,0:00:23.48,OP English,,0000,0000,0000,,Go forward without delay.
+Dialogue: 0,0:00:24.39,0:00:27.75,OP English,,0000,0000,0000,,Destiny always evens things up.
+Dialogue: 0,0:00:28.12,0:00:31.85,OP English,,0000,0000,0000,,And you don't want\Nregrets in your youth.
+Dialogue: 0,0:00:31.99,0:00:35.16,OP English,,0000,0000,0000,,I can be your ultimate weapon.
+Dialogue: 0,0:00:35.30,0:00:38.16,OP English,,0000,0000,0000,,So come on... Yes, yes.
+Dialogue: 0,0:00:38.23,0:00:47.90,OP English,,0000,0000,0000,,Don't hesitate\Nover holding this hand of mine.
+Dialogue: 0,0:00:48.04,0:00:55.58,OP English,,0000,0000,0000,,Because this is\Na special God-given chance.
+Dialogue: 0,0:00:57.29,0:01:00.88,OP English,,0000,0000,0000,,It's romance for sure.\NWe're sexy men for sure.
+Dialogue: 0,0:01:01.16,0:01:04.82,OP English,,0000,0000,0000,,If you dare to dream,\Nit will come true.
+Dialogue: 0,0:01:05.06,0:01:07.62,OP English,,0000,0000,0000,,After this great love of ours...
+Dialogue: 0,0:01:08.00,0:01:12.43,OP English,,0000,0000,0000,,...I'm taking you along for the ride.
+Dialogue: 0,0:01:12.73,0:01:16.33,OP English,,0000,0000,0000,,It truly is a romance.\NThe fact is we're sexy men.
+Dialogue: 0,0:01:16.64,0:01:20.87,OP English,,0000,0000,0000,,After I've given you this love\Nthat's meant only for you...
+Dialogue: 0,0:01:21.24,0:01:24.84,OP English,,0000,0000,0000,,...I'll never leave your side again.
+Dialogue: 0,0:00:08.63,0:00:12.05,OP Romaji,,0000,0000,0000,,{\K44}iki{\K54}teku {\K30}ko{\K21}to {\K13}wa {\K0}{\K37}su{\K38}ba{\K22}ra{\K61}shii
+Dialogue: 0,0:00:12.08,0:00:16.19,OP Romaji,,0000,0000,0000,,{\K11}{\K46}demo {\K12}{\K70}issun {\K4}{\K44}saki {\K0}{\K33}wa {\K0}{\K58}yami {\K0}{\K37}ra{\K63}shii
+Dialogue: 0,0:00:16.28,0:00:19.61,OP Romaji,,0000,0000,0000,,{\K1}{\K75}shou{\K36}nen {\K1}{\K43}ga{\K19}ku {\K0}{\K32}na{\K15}ri {\K0}{\K30}ga {\K0}{\K27}ta{\K50}shi
+Dialogue: 0,0:00:19.61,0:00:22.82,OP Romaji,,0000,0000,0000,,{\K1}{\K34}su{\K27}gu {\K31}ni {\K97}{\K24}su{\K42}su{\K57}me
+Dialogue: 0,0:00:24.25,0:00:27.60,OP Romaji,,0000,0000,0000,,{\K1}{\K52}un{\K42}mei {\K8}{\K32}ka{\K17}shi{\K35}ka{\K23}ri {\K0}{\K25}wa {\K0}{\K23}na{\K73}shi
+Dialogue: 0,0:00:27.95,0:00:31.55,OP Romaji,,0000,0000,0000,,{\K10}{\K49}sei{\K58}shun {\K0}{\K50}kou{\K42}kai {\K0}{\K44}ya {\K0}{\K21}da {\K70}shi
+Dialogue: 0,0:00:31.82,0:00:35.16,OP Romaji,,0000,0000,0000,,{\K13}{\K45}sai{\K61}shuu{\K46}hei{\K17}ki {\K1}{\K34}wa {\K1}{\K32}wa{\K24}ta{\K58}shi
+Dialogue: 0,0:00:35.17,0:00:38.25,OP Romaji,,0000,0000,0000,,{\K1}{\K45}yu{\K19}ku{\K72}ze {\K27}{\K78}YES {\K20}{\K47}YES
+Dialogue: 0,0:00:38.25,0:00:47.79,OP Romaji,,0000,0000,0000,,{\K1}{\K24}so{\K78}no {\K0}{\K28}te {\K0}{\K163}wo {\K25}{\K32}ni{\K16}gi{\K23}ri{\K33}shi{\K48}me{\K22}ru {\K0}{\K28}no {\K0}{\K165}ni {\K25}{\K50}ma{\K47}yot{\K29}ten {\K3}{\K38}na {\K0}{\K62}yo
+Dialogue: 0,0:00:47.93,0:00:55.50,OP Romaji,,0000,0000,0000,,{\K1}{\K34}ka{\K39}mi{\K32}sa{\K26}ma {\K47}ga {\K22}{\K25}to{\K49}ku{\K22}be{\K70}tsu {\K31}{\K48}ku{\K47}re{\K41}ta {\K41}CHAN{\K36}CE {\K23}da{\K45}ka{\K74}ra
+Dialogue: 0,0:00:57.16,0:00:58.95,OP Romaji,,0000,0000,0000,,{\K8}{\K30}zet{\K39}tai {\K3}{\K25}ni {\K0}{\K31}RO{\K27}MAN{\K38}CE
+Dialogue: 0,0:00:58.95,0:01:01.00,OP Romaji,,0000,0000,0000,,{\K17}{\K40}zet{\K33}tai {\K2}{\K27}ni {\K25}ro{\K0}{\K23}men{\K5}{\K27}su
+Dialogue: 0,0:01:01.00,0:01:04.50,OP Romaji,,0000,0000,0000,,{\K11}{\K36}yu{\K33}me {\K17}mi{\K45}re{\K34}ba {\K26}ka{\K73}nau {\K1}{\K25}mo{\K55}no
+Dialogue: 0,0:01:04.90,0:01:07.64,OP Romaji,,0000,0000,0000,,{\K8}{\K36}dek{\K36}kai {\K23}na {\K37}RO{\K21}MAN{\K17}CE {\K96}WAY
+Dialogue: 0,0:01:07.93,0:01:12.40,OP Romaji,,0000,0000,0000,,{\K1}{\K39}ki{\K29}mi {\K22}wo {\K136}no{\K35}se{\K179}te
+Dialogue: 0,0:01:12.64,0:01:14.45,OP Romaji,,0000,0000,0000,,{\K1}{\K32}jis{\K41}sai {\K28}ni {\K34}RO{\K21}MAN{\K24}CE
+Dialogue: 0,0:01:14.63,0:01:16.34,OP Romaji,,0000,0000,0000,,{\K35}jit{\K27}tai {\K11}{\K29}ni {\K31}RO{\K19}MAN{\K19}CE
+Dialogue: 0,0:01:16.55,0:01:20.95,OP Romaji,,0000,0000,0000,,{\K1}{\K39}ki{\K36}mi {\K20}da{\K44}ke {\K19}ni {\K24}sa{\K47}sa{\K34}ge{\K31}ru {\K30}ai {\K26}no {\K41}su{\K45}be
+Dialogue: 0,0:01:21.14,0:01:24.54,OP Romaji,,0000,0000,0000,,{\K30}mo{\K49}u {\K46}hi{\K48}to{\K28}ri {\K48}ni {\K45}shi{\K39}nai
+Dialogue: 0,0:00:08.63,0:00:12.05,OP Kanji,,0000,0000,0000,,{\K44}生き{\K54}てく{\K51}事{\K13}は{\K0}{\K37}素{\K38}晴{\K22}ら{\K61}しい
+Dialogue: 0,0:00:12.08,0:00:16.19,OP Kanji,,0000,0000,0000,,{\K11}{\K46}でも{\K12}{\K70}一寸{\K4}{\K44}先{\K33}は{\K58}闇{\K0}{\K37}ら{\K63}しい
+Dialogue: 0,0:00:16.28,0:00:19.61,OP Kanji,,0000,0000,0000,,{\K1}{\K75}少{\K37}年{\K62}学{\K0}{\K32}成{\K15}り{\K0}{\K30}が{\K0}{\K27}た{\K50}し
+Dialogue: 0,0:00:19.61,0:00:22.82,OP Kanji,,0000,0000,0000,,{\K1}{\K34}す{\K27}ぐ{\K31}に{\K97}{\K66}進{\K57}め
+Dialogue: 0,0:00:24.25,0:00:27.60,OP Kanji,,0000,0000,0000,,{\K1}{\K52}運{\K42}命{\K8}{\K32}、貸{\K17}し{\K35}借{\K23}り{\K0}{\K25}は{\K0}{\K23}な{\K73}し
+Dialogue: 0,0:00:27.95,0:00:31.55,OP Kanji,,0000,0000,0000,,{\K10}{\K49}青{\K58}春{\K0}{\K0}、{\K50}後{\K42}悔{\K44}嫌{\K0}{\K21}だ{\K70}し
+Dialogue: 0,0:00:31.82,0:00:35.16,OP Kanji,,0000,0000,0000,,{\K13}{\K45}最{\K61}終{\K46}兵{\K17}器{\K1}{\K34}は{\K1}{\K114}私
+Dialogue: 0,0:00:35.17,0:00:38.25,OP Kanji,,0000,0000,0000,,{\K1}{\K45}ゆ{\K19}く{\K72}ぜ {\K27}{\K78}yes{\K20}{\K47} yes
+Dialogue: 0,0:00:38.25,0:00:47.79,OP Kanji,,0000,0000,0000,,{\K1}{\K24}そ{\K78}の{\K0}{\K28}手{\K0}{\K163}を{\K25}{\K48}握{\K23}り{\K33}し{\K48}め{\K22}る{\K0}{\K28}の{\K0}{\K165}に{\K25}{\K97}迷{\K0}っ{\K29}てん{\K3}{\K38}な{\K0}{\K62}よ
+Dialogue: 0,0:00:47.93,0:00:55.50,OP Kanji,,0000,0000,0000,,{\K1}{\K73}神{\K58}様{\K47}が{\K22}{\K74}特{\K92}別{\K31}{\K48}く{\K47}れ{\K41}た{\K41}チャン{\K36}ス{\K23}だ{\K45}か{\K74}ら
+Dialogue: 0,0:00:57.16,0:00:58.95,OP Kanji,,0000,0000,0000,,{\K8}{\K30}絶{\K39}対{\K3}{\K25}に{\K0}{\K31}ロ{\K27}マン{\K38}ス
+Dialogue: 0,0:00:58.95,0:01:01.00,OP Kanji,,0000,0000,0000,,{\K17}{\K40}絶{\K33}対{\K2}{\K27}色{\K25}M{\K0}{\K23}ENっ{\K5}{\K27}す
+Dialogue: 0,0:01:01.00,0:01:04.50,OP Kanji,,0000,0000,0000,,{\K11}{\K69}夢{\K17}見{\K45}れ{\K34}ば　{\K26}叶{\K73}う{\K1}{\K25}も{\K55}の
+Dialogue: 0,0:01:04.90,0:01:07.64,OP Kanji,,0000,0000,0000,,{\K8}{\K36}でっ{\K36}かい{\K23}な{\K37}ロ{\K38}マンス{\K96}ウェー
+Dialogue: 0,0:01:07.93,0:01:12.40,OP Kanji,,0000,0000,0000,,{\K1}{\K68}君{\K22}を{\K136}乗{\K35}せ{\K179}て
+Dialogue: 0,0:01:12.64,0:01:14.45,OP Kanji,,0000,0000,0000,,{\K1}{\K32}実{\K41}際{\K28}に{\K34}ロ{\K21}マン{\K24}ス
+Dialogue: 0,0:01:14.63,0:01:16.34,OP Kanji,,0000,0000,0000,,{\K1}{\K32}実{\K41}態{\K28}に{\K34}ロ{\K21}マン{\K24}ス
+Dialogue: 0,0:01:16.55,0:01:20.95,OP Kanji,,0000,0000,0000,,{\K1}{\K75}君{\K20}だ{\K44}け{\K19}に{\K71}捧{\K34}げ{\K31}る{\K30}愛{\K26}の{\K86}末
+Dialogue: 0,0:01:21.14,0:01:24.54,OP Kanji,,0000,0000,0000,,{\K30}も{\K49}う{\K94}一{\K28}人{\K48}に{\K45}し{\K39}ない
+Dialogue: 0,0:01:42.03,0:01:45.43,Main,,0000,0000,0000,,A few weeks ago, I would\Nnever have imagined...
+Dialogue: 0,0:01:52.01,0:01:54.17,Main,,0000,0000,0000,,...that because of a debt...
+Dialogue: 0,0:01:54.44,0:01:55.37,Main,,0000,0000,0000,,...I would be...
+Dialogue: 0,0:01:56.54,0:02:00.11,Main,,0000,0000,0000,,I'll pay you $5,000 every time.
+Dialogue: 0,0:02:00.42,0:02:03.78,Main,,0000,0000,0000,,You are mine until\Nthe debt is paid off.
+Dialogue: 0,0:02:07.29,0:02:09.65,Main,,0000,0000,0000,,How long are you going to take?
+Dialogue: 0,0:02:10.76,0:02:11.92,Main,,0000,0000,0000,,Mr. Kanoh...
+Dialogue: 0,0:02:12.26,0:02:15.63,Main,,0000,0000,0000,,I should have gotten in with you.
+Dialogue: 0,0:02:17.33,0:02:19.13,Main,,0000,0000,0000,,When we did it in the\Nbath the other day...
+Dialogue: 0,0:02:19.20,0:02:22.86,Main,,0000,0000,0000,,...the way your voice\Nechoed turned me on.
+Dialogue: 0,0:02:24.71,0:02:25.83,Main,,0000,0000,0000,,Please let me go!
+Dialogue: 0,0:02:26.24,0:02:28.77,Main,,0000,0000,0000,,No, I'm not waiting any more!
+Dialogue: 0,0:02:30.58,0:02:32.94,Main,,0000,0000,0000,,What? Whose voice...
+Dialogue: 0,0:02:34.68,0:02:35.77,Main,,0000,0000,0000,,No...
+Dialogue: 0,0:02:37.75,0:02:38.74,Main,,0000,0000,0000,,Was that me?
+Dialogue: 0,0:02:39.99,0:02:41.72,Main,,0000,0000,0000,,Don't try to hide it.
+Dialogue: 0,0:02:42.29,0:02:44.28,Main,,0000,0000,0000,,You like this.
+Dialogue: 0,0:02:44.86,0:02:46.35,Main,,0000,0000,0000,,Just admit it.
+Dialogue: 0,0:02:46.46,0:02:47.93,Main,,0000,0000,0000,,No, that's not...
+Dialogue: 0,0:02:48.16,0:02:49.72,Main,,0000,0000,0000,,Then I'll prove it to you.
+Dialogue: 0,0:02:51.73,0:02:52.86,Main,,0000,0000,0000,,Don't let go.
+Dialogue: 0,0:02:53.47,0:02:54.87,Main,,0000,0000,0000,,Watch...
+Dialogue: 0,0:02:56.04,0:02:59.23,Main,,0000,0000,0000,,See what you look like\Nwhen I'm doing you.
+Dialogue: 0,0:03:03.38,0:03:04.00,Main,,0000,0000,0000,,No...
+Dialogue: 0,0:03:04.88,0:03:05.61,Main,,0000,0000,0000,,Sto...
+Dialogue: 0,0:03:09.18,0:03:12.52,Main,,0000,0000,0000,,No... This is... It's like...
+Dialogue: 0,0:03:15.02,0:03:15.96,Main,,0000,0000,0000,,Oh no...
+Dialogue: 0,0:03:16.42,0:03:17.39,Main,,0000,0000,0000,,I'm going to come!
+Dialogue: 0,0:03:28.30,0:03:29.27,Main,,0000,0000,0000,,No.
+Dialogue: 0,0:03:29.70,0:03:31.57,Main,,0000,0000,0000,,Who said you could come?
+Dialogue: 0,0:03:34.51,0:03:35.91,Main,,0000,0000,0000,,Let's hear you beg...
+Dialogue: 0,0:03:36.54,0:03:38.54,Main,,0000,0000,0000,,...like I taught you.
+Dialogue: 0,0:03:43.62,0:03:44.95,Main,,0000,0000,0000,,What are you going to do?
+Dialogue: 0,0:03:56.13,0:03:57.72,Main,,0000,0000,0000,,Please...
+Dialogue: 0,0:03:57.93,0:03:58.90,Main,,0000,0000,0000,,And?
+Dialogue: 0,0:04:02.30,0:04:03.67,Main,,0000,0000,0000,,Let me come...
+Dialogue: 0,0:04:04.54,0:04:07.84,Main,,0000,0000,0000,,I'm losing... I'm losing myself.
+Dialogue: 0,0:04:09.01,0:04:10.44,Main,,0000,0000,0000,,Very good.
+Dialogue: 0,0:04:10.98,0:04:12.07,Main,,0000,0000,0000,,It's okay.
+Dialogue: 0,0:04:12.51,0:04:13.71,Main,,0000,0000,0000,,I'll let you come.
+Dialogue: 0,0:04:15.25,0:04:16.22,Main,,0000,0000,0000,,I'm scared.
+Dialogue: 0,0:04:16.88,0:04:18.28,Main,,0000,0000,0000,,I don't want this.
+Dialogue: 0,0:04:28.00,0:04:31.06,Main,,0000,0000,0000,,Episode 3
+Dialogue: 0,0:04:41.74,0:04:42.90,Main,,0000,0000,0000,,Does it hurt?
+Dialogue: 0,0:04:43.85,0:04:45.40,Main,,0000,0000,0000,,Um... no...
+Dialogue: 0,0:04:46.41,0:04:47.51,Main,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:04:48.08,0:04:49.95,Main,,0000,0000,0000,,I'm being gentle.
+Dialogue: 0,0:04:50.18,0:04:52.28,Main,,0000,0000,0000,,It seems like you're\Ngetting used to this.
+Dialogue: 0,0:04:53.42,0:04:54.65,Main,,0000,0000,0000,,You saw it, right?
+Dialogue: 0,0:04:54.79,0:04:56.69,Main,,0000,0000,0000,,What you looked like...
+Dialogue: 0,0:04:57.19,0:04:58.16,Main,,0000,0000,0000,,Please stop!
+Dialogue: 0,0:05:01.86,0:05:03.49,Main,,0000,0000,0000,,There's no way!
+Dialogue: 0,0:05:03.73,0:05:04.96,Main,,0000,0000,0000,,I'm a man.
+Dialogue: 0,0:05:05.10,0:05:06.29,Main,,0000,0000,0000,,This isn't...
+Dialogue: 0,0:05:07.07,0:05:11.16,Main,,0000,0000,0000,,Please, let me get\Na job to repay you!
+Dialogue: 0,0:05:11.31,0:05:15.11,Main,,0000,0000,0000,,I can't do this,\Neven if it's for money.
+Dialogue: 0,0:05:22.85,0:05:25.32,Main,,0000,0000,0000,,Do you have any idea\Nhow well I'm paying you?
+Dialogue: 0,0:05:26.35,0:05:28.95,Main,,0000,0000,0000,,You can clean dead bodies\Nor work at a bathhouse...
+Dialogue: 0,0:05:29.16,0:05:31.96,Main,,0000,0000,0000,,...but you're not going to\Nmake more than what I pay you!
+Dialogue: 0,0:05:32.13,0:05:32.79,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:05:33.93,0:05:36.12,Main,,0000,0000,0000,,But... Not anymore...
+Dialogue: 0,0:05:36.56,0:05:37.76,Main,,0000,0000,0000,,I can't...
+Dialogue: 0,0:05:40.74,0:05:41.70,Main,,0000,0000,0000,,Fine.
+Dialogue: 0,0:05:41.87,0:05:42.84,Main,,0000,0000,0000,,Get ready.
+Dialogue: 0,0:05:43.10,0:05:44.63,Main,,0000,0000,0000,,We're going out.
+Dialogue: 0,0:05:46.17,0:05:47.97,Main,,0000,0000,0000,,I'm going to hook you up with a job.
+Dialogue: 0,0:05:48.94,0:05:50.31,Main,,0000,0000,0000,,A job?
+Dialogue: 0,0:06:02.12,0:06:04.82,Main,,0000,0000,0000,,Your call was so urgent, Mr. Kanoh.
+Dialogue: 0,0:06:05.23,0:06:07.02,Main,,0000,0000,0000,,What took you so long?
+Dialogue: 0,0:06:07.26,0:06:09.16,Main,,0000,0000,0000,,I expect you to be here\Nin 5 minutes when I call.
+Dialogue: 0,0:06:09.23,0:06:12.53,Main,,0000,0000,0000,,Oh, don't be so unreasonable.
+Dialogue: 0,0:06:16.20,0:06:17.43,Main,,0000,0000,0000,,Wow! What a cutie!
+Dialogue: 0,0:06:17.51,0:06:20.17,Main,,0000,0000,0000,,Did you get a new girlfriend?
+Dialogue: 0,0:06:20.51,0:06:23.48,Main,,0000,0000,0000,,Hi, hello, I'm Gion.
+Dialogue: 0,0:06:23.78,0:06:24.75,Main,,0000,0000,0000,,Uh...
+Dialogue: 0,0:06:24.81,0:06:25.64,Main,,0000,0000,0000,,Uh... I...
+Dialogue: 0,0:06:25.91,0:06:28.64,Main,,0000,0000,0000,,But my goodness, you've\Nchanged your tastes.
+Dialogue: 0,0:06:28.78,0:06:30.72,Main,,0000,0000,0000,,You used to not be\Ninto this petite type...
+Dialogue: 0,0:06:30.79,0:06:34.08,Main,,0000,0000,0000,,...but those hot chicks like ba-boom!
+Dialogue: 0,0:06:35.89,0:06:37.36,Main,,0000,0000,0000,,Balls!
+Dialogue: 0,0:06:37.56,0:06:40.12,Main,,0000,0000,0000,,They're small, but you're a guy!
+Dialogue: 0,0:06:40.63,0:06:42.79,Main,,0000,0000,0000,,Wh-what are you...
+Dialogue: 0,0:06:42.90,0:06:44.92,Main,,0000,0000,0000,,And that high-pitched voice!
+Dialogue: 0,0:06:45.00,0:06:47.70,Main,,0000,0000,0000,,A high school boy and\Nyour voice is still...
+Dialogue: 0,0:06:48.20,0:06:49.33,Main,,0000,0000,0000,,I'm a college student.
+Dialogue: 0,0:06:49.47,0:06:52.10,Main,,0000,0000,0000,,Now, now, no lying.
+Dialogue: 0,0:06:54.08,0:06:57.24,Main,,0000,0000,0000,,Um... Mr. Kanoh... Hello...
+Dialogue: 0,0:06:57.75,0:07:00.48,Main,,0000,0000,0000,,You look even more scary than usual.
+Dialogue: 0,0:07:00.65,0:07:03.48,Main,,0000,0000,0000,,There's an aura...
+Dialogue: 0,0:07:03.85,0:07:05.05,Main,,0000,0000,0000,,Hello?
+Dialogue: 0,0:07:05.12,0:07:06.71,Main,,0000,0000,0000,,Hello...
+Dialogue: 0,0:07:08.69,0:07:10.02,Main,,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:07:10.19,0:07:12.16,Main,,0000,0000,0000,,My life was too short.
+Dialogue: 0,0:07:12.29,0:07:15.75,Main,,0000,0000,0000,,My head is caved in.\NMy brains are leaking out.
+Dialogue: 0,0:07:15.86,0:07:17.80,Main,,0000,0000,0000,,This is the end for Gion.
+Dialogue: 0,0:07:17.87,0:07:19.53,Main,,0000,0000,0000,,It's not that bad.
+Dialogue: 0,0:07:19.60,0:07:21.76,Main,,0000,0000,0000,,Don't you know how to go easy?
+Dialogue: 0,0:07:24.51,0:07:26.17,Main,,0000,0000,0000,,A-are you okay?
+Dialogue: 0,0:07:26.24,0:07:27.50,Main,,0000,0000,0000,,Never mind him.
+Dialogue: 0,0:07:27.74,0:07:29.57,Main,,0000,0000,0000,,It's okay, come here.
+Dialogue: 0,0:07:29.78,0:07:30.57,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:07:31.61,0:07:33.08,Main,,0000,0000,0000,,Y-yes.
+Dialogue: 0,0:07:35.85,0:07:36.91,Main,,0000,0000,0000,,Mr. Kanoh...
+Dialogue: 0,0:07:40.99,0:07:42.22,Main,,0000,0000,0000,,Um...
+Dialogue: 0,0:07:43.09,0:07:47.69,Main,,0000,0000,0000,,I don't mean to pry,\Nbut what's your relationship?
+Dialogue: 0,0:07:48.26,0:07:51.70,Main,,0000,0000,0000,,He's repaying a debt with his body.
+Dialogue: 0,0:07:52.13,0:07:52.76,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:53.20,0:07:55.67,Main,,0000,0000,0000,,I just bought a piece of him.
+Dialogue: 0,0:07:55.90,0:07:57.10,Main,,0000,0000,0000,,Didn't I, Ayase?
+Dialogue: 0,0:08:00.37,0:08:03.00,Main,,0000,0000,0000,,In other words, he belongs to me.
+Dialogue: 0,0:08:05.25,0:08:07.54,Main,,0000,0000,0000,,Next time you lay a hand\Non him without permission...
+Dialogue: 0,0:08:07.62,0:08:10.21,Main,,0000,0000,0000,,...just know you'll wind up\Nat the bottom of Tokyo Bay.
+Dialogue: 0,0:08:11.02,0:08:13.42,Main,,0000,0000,0000,,I'll be sure to remember that.
+Dialogue: 0,0:08:13.79,0:08:18.69,Main,,0000,0000,0000,,But, if you're not careful,\Nyou could be fish food too.
+Dialogue: 0,0:08:18.99,0:08:19.58,Main,,0000,0000,0000,,Hm?
+Dialogue: 0,0:08:19.69,0:08:23.86,Main,,0000,0000,0000,,Didn't you recently confiscate\Na certain master-tape...
+Dialogue: 0,0:08:23.93,0:08:26.56,Main,,0000,0000,0000,,...for payback on a debt?
+Dialogue: 0,0:08:26.63,0:08:28.16,Main,,0000,0000,0000,,There's a problem.
+Dialogue: 0,0:08:29.10,0:08:31.57,Main,,0000,0000,0000,,Ever heard the name Yoshizumi?
+Dialogue: 0,0:08:31.77,0:08:36.64,Main,,0000,0000,0000,,He's an entrepreneur who runs\Na club in Roppongi as a front.
+Dialogue: 0,0:08:36.68,0:08:40.14,Main,,0000,0000,0000,,It turns out that tape\Nwas stolen from there.
+Dialogue: 0,0:08:40.78,0:08:44.41,Main,,0000,0000,0000,,They're going crazy trying\Nto get that tape back.
+Dialogue: 0,0:08:44.52,0:08:46.45,Main,,0000,0000,0000,,It's only a matter of time before...
+Dialogue: 0,0:08:46.45,0:08:47.42,Main,,0000,0000,0000,,It's only a matter of time before...\NGion!
+Dialogue: 0,0:08:48.39,0:08:49.36,Main,,0000,0000,0000,,Listen...
+Dialogue: 0,0:08:49.66,0:08:51.39,Main,,0000,0000,0000,,You should be more concerned!
+Dialogue: 0,0:08:51.73,0:08:53.59,Main,,0000,0000,0000,,He has a beef with you too!
+Dialogue: 0,0:08:53.79,0:08:55.76,Main,,0000,0000,0000,,You've got good sources!
+Dialogue: 0,0:08:55.83,0:08:58.96,Main,,0000,0000,0000,,Then you knew where\Nthe tape came from?
+Dialogue: 0,0:08:59.20,0:09:01.29,Main,,0000,0000,0000,,You got guts, man.
+Dialogue: 0,0:09:02.17,0:09:03.66,Main,,0000,0000,0000,,Yoshizumi....
+Dialogue: 0,0:09:04.24,0:09:06.21,Main,,0000,0000,0000,,He's gotten carried\Naway just because...
+Dialogue: 0,0:09:06.27,0:09:08.44,Main,,0000,0000,0000,,...he's got some\Npoliticians as backers.
+Dialogue: 0,0:09:08.58,0:09:12.71,Main,,0000,0000,0000,,He was pretty arrogant\Nwhen he tried to hired me.
+Dialogue: 0,0:09:13.08,0:09:15.64,Main,,0000,0000,0000,,But I will hand it to\Nhim for recognizing...
+Dialogue: 0,0:09:15.72,0:09:17.98,Main,,0000,0000,0000,,...my talents as a cameraman.
+Dialogue: 0,0:09:18.49,0:09:19.82,Main,,0000,0000,0000,,Cameraman?
+Dialogue: 0,0:09:20.35,0:09:22.66,Main,,0000,0000,0000,,What's his connection to Mr. Kanoh?
+Dialogue: 0,0:09:22.66,0:09:23.56,Main,,0000,0000,0000,,What's his connection to Mr. Kanoh?\NI don't like the way he operates.
+Dialogue: 0,0:09:23.56,0:09:25.46,Main,,0000,0000,0000,,I don't like the way he operates.
+Dialogue: 0,0:09:25.59,0:09:29.32,Main,,0000,0000,0000,,So when I told him I only\Nwork with subjects I like...
+Dialogue: 0,0:09:29.40,0:09:32.83,Main,,0000,0000,0000,,...he got nasty with me.\NIt was horrible.
+Dialogue: 0,0:09:33.13,0:09:36.30,Main,,0000,0000,0000,,But if the model they had\Nwas as good-looking as Aya...
+Dialogue: 0,0:09:36.37,0:09:38.80,Main,,0000,0000,0000,,...I might have taken it.
+Dialogue: 0,0:09:39.24,0:09:40.54,Main,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:09:40.61,0:09:44.57,Main,,0000,0000,0000,,There are adult movies\Nthat aren't that hard-core.
+Dialogue: 0,0:09:45.21,0:09:48.15,Main,,0000,0000,0000,,I'll make sure you look good.
+Dialogue: 0,0:09:48.22,0:09:49.51,Main,,0000,0000,0000,,S-stop kidding...
+Dialogue: 0,0:09:50.28,0:09:50.81,Main,,0000,0000,0000,,Gion...
+Dialogue: 0,0:09:52.72,0:09:54.35,Main,,0000,0000,0000,,Just kidding, just kidding!
+Dialogue: 0,0:09:54.42,0:09:56.45,Main,,0000,0000,0000,,I was just joking!
+Dialogue: 0,0:09:56.62,0:09:57.56,Main,,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:09:58.66,0:09:59.28,Main,,0000,0000,0000,,What!
+Dialogue: 0,0:10:00.29,0:10:02.79,Main,,0000,0000,0000,,What did he...
+Dialogue: 0,0:10:03.53,0:10:04.62,Main,,0000,0000,0000,,You can shoot him.
+Dialogue: 0,0:10:04.87,0:10:06.30,Main,,0000,0000,0000,,That's why I called you.
+Dialogue: 0,0:10:08.07,0:10:11.40,Main,,0000,0000,0000,,You said you would do anything if\Nyou didn't have to sleep with me.
+Dialogue: 0,0:10:11.51,0:10:13.13,Main,,0000,0000,0000,,I'm hooking you up...
+Dialogue: 0,0:10:13.44,0:10:14.70,Main,,0000,0000,0000,,...with a lucrative job.
+Dialogue: 0,0:10:17.91,0:10:19.94,Main,,0000,0000,0000,,Ask and you shall receive!
+Dialogue: 0,0:10:20.35,0:10:21.94,Main,,0000,0000,0000,,Being able to shoot\Na cutie like this...
+Dialogue: 0,0:10:22.02,0:10:25.14,Main,,0000,0000,0000,,...is a cameraman's\Ndream come true, really!
+Dialogue: 0,0:10:25.62,0:10:27.55,Main,,0000,0000,0000,,...is what I'd like\Nto be saying, but...
+Dialogue: 0,0:10:27.79,0:10:30.66,Main,,0000,0000,0000,,I'm sorry, I have to decline, Bro.
+Dialogue: 0,0:10:30.83,0:10:31.62,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:10:32.06,0:10:34.58,Main,,0000,0000,0000,,Aya doesn't seem\Nto be down with this.
+Dialogue: 0,0:10:35.06,0:10:37.33,Main,,0000,0000,0000,,I know it's an adult movie...
+Dialogue: 0,0:10:37.40,0:10:41.56,Main,,0000,0000,0000,,...but there has to be love in\Nthe sex scenes. That's my policy.
+Dialogue: 0,0:10:42.84,0:10:44.03,Main,,0000,0000,0000,,Mr. Gion...
+Dialogue: 0,0:10:44.91,0:10:47.40,Main,,0000,0000,0000,,I don't quite understand\Nthe situation, but...
+Dialogue: 0,0:10:47.48,0:10:49.50,Main,,0000,0000,0000,,...you should be nicer to Aya.
+Dialogue: 0,0:10:50.01,0:10:52.21,Main,,0000,0000,0000,,So, please excuse me.
+Dialogue: 0,0:10:52.21,0:10:53.65,Main,,0000,0000,0000,,So, please excuse me.\NShut up you idiot!
+Dialogue: 0,0:10:56.82,0:10:59.95,Main,,0000,0000,0000,,Shut up and do as I\Nsay before I lose it!
+Dialogue: 0,0:11:00.25,0:11:01.65,Main,,0000,0000,0000,,Y-yes!
+Dialogue: 0,0:11:01.76,0:11:04.42,Main,,0000,0000,0000,,I'll go right away to\Nget my equipment!
+Dialogue: 0,0:11:08.23,0:11:09.49,Main,,0000,0000,0000,,What should I do?
+Dialogue: 0,0:11:09.90,0:11:11.16,Main,,0000,0000,0000,,Oh no, is he serious?
+Dialogue: 0,0:11:11.23,0:11:12.06,Main,,0000,0000,0000,,Damn!
+Dialogue: 0,0:11:12.13,0:11:13.40,Main,,0000,0000,0000,,I'm kidding!
+Dialogue: 0,0:11:14.50,0:11:15.66,Main,,0000,0000,0000,,U-um...
+Dialogue: 0,0:11:16.00,0:11:16.97,Main,,0000,0000,0000,,Mr. Kanoh...
+Dialogue: 0,0:11:17.04,0:11:20.03,Main,,0000,0000,0000,,So you're the\NLoan shark from Shinjuku.
+Dialogue: 0,0:11:20.44,0:11:22.03,Main,,0000,0000,0000,,You're just a kid.
+Dialogue: 0,0:11:22.74,0:11:25.51,Main,,0000,0000,0000,,I understand you have\Nsomething of mine.
+Dialogue: 0,0:11:25.81,0:11:26.51,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:11:26.85,0:11:28.54,Main,,0000,0000,0000,,A master-tape.
+Dialogue: 0,0:11:28.85,0:11:30.08,Main,,0000,0000,0000,,This is him...
+Dialogue: 0,0:11:30.89,0:11:33.65,Main,,0000,0000,0000,,Ever heard the name Yoshizumi?
+Dialogue: 0,0:11:33.92,0:11:37.98,Main,,0000,0000,0000,,It turns out that tape\Nwas stolen from there.
+Dialogue: 0,0:11:42.73,0:11:45.89,Main,,0000,0000,0000,,It would be in your best\Ninterest to return it.
+Dialogue: 0,0:11:46.53,0:11:50.27,Main,,0000,0000,0000,,You'll be sorry if you\Nmake an enemy of me.
+Dialogue: 0,0:11:54.21,0:11:55.87,Main,,0000,0000,0000,,Like Gion did...
+Dialogue: 0,0:11:57.04,0:11:59.24,Main,,0000,0000,0000,,I hear he's your kid brother.
+Dialogue: 0,0:12:00.48,0:12:02.24,Main,,0000,0000,0000,,He's a stupid kid.
+Dialogue: 0,0:12:05.29,0:12:08.12,Main,,0000,0000,0000,,If you don't want\Nto end up like him...
+Dialogue: 0,0:12:11.16,0:12:13.79,Main,,0000,0000,0000,,I have no idea what\Nyou're talking about.
+Dialogue: 0,0:12:15.66,0:12:17.60,Main,,0000,0000,0000,,Who are you anyway?
+Dialogue: 0,0:12:19.20,0:12:21.19,Main,,0000,0000,0000,,I don't remember meeting\Na third rate club owner...
+Dialogue: 0,0:12:21.27,0:12:22.74,Main,,0000,0000,0000,,...from the outskirts of town.
+Dialogue: 0,0:12:23.17,0:12:24.43,Main,,0000,0000,0000,,Don't screw with me kid!
+Dialogue: 0,0:12:33.28,0:12:34.71,Main,,0000,0000,0000,,Watch where you're going!
+Dialogue: 0,0:12:34.78,0:12:35.84,Main,,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:12:36.28,0:12:37.02,Main,,0000,0000,0000,,What the hell is going on!
+Dialogue: 0,0:12:37.02,0:12:38.71,Main,,0000,0000,0000,,What the hell is going on!\NAre you hurt?
+Dialogue: 0,0:12:38.82,0:12:39.55,Main,,0000,0000,0000,,Um...no...
+Dialogue: 0,0:12:40.39,0:12:42.51,Main,,0000,0000,0000,,Please, I'm sorry!\NI'll clean it right away!
+Dialogue: 0,0:12:58.01,0:12:59.60,Main,,0000,0000,0000,,You punk.
+Dialogue: 0,0:12:59.91,0:13:03.90,Main,,0000,0000,0000,,I can get your Loan shark\Npermit revoked in an instant...
+Dialogue: 0,0:13:12.99,0:13:14.01,Main,,0000,0000,0000,,Y-you!
+Dialogue: 0,0:13:20.66,0:13:22.22,Main,,0000,0000,0000,,Enough barking.
+Dialogue: 0,0:13:22.76,0:13:26.70,Main,,0000,0000,0000,,Why are you messing with\Na kid like me, old man?
+Dialogue: 0,0:13:27.87,0:13:31.67,Main,,0000,0000,0000,,You came all this way from\NRoppongi to make a fool of yourself.
+Dialogue: 0,0:13:33.11,0:13:35.87,Main,,0000,0000,0000,,I don't want to grow up\Nto be like you.
+Dialogue: 0,0:13:36.18,0:13:37.74,Main,,0000,0000,0000,,I-I'm going to kill you!
+Dialogue: 0,0:13:39.15,0:13:40.01,Main,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:13:40.01,0:13:40.54,Main,,0000,0000,0000,,Let go of me!\NSir.
+Dialogue: 0,0:13:41.62,0:13:43.14,Main,,0000,0000,0000,,I'm sorry, sir.
+Dialogue: 0,0:13:43.82,0:13:46.12,Main,,0000,0000,0000,,But you're disturbing\Nthe other customers.
+Dialogue: 0,0:13:46.32,0:13:47.15,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:47.96,0:13:49.98,Main,,0000,0000,0000,,He's the perpetrator here!
+Dialogue: 0,0:13:50.12,0:13:51.72,Main,,0000,0000,0000,,Hey, are you listening to me?
+Dialogue: 0,0:13:52.26,0:13:54.52,Main,,0000,0000,0000,,I'm sorry, sir. We were remiss.
+Dialogue: 0,0:13:55.00,0:13:56.90,Main,,0000,0000,0000,,I'm very sorry.
+Dialogue: 0,0:13:57.00,0:14:00.06,Main,,0000,0000,0000,,No, I'm sorry to have\Ncaused the trouble.
+Dialogue: 0,0:14:00.73,0:14:02.07,Main,,0000,0000,0000,,We're ready to go to our room.
+Dialogue: 0,0:14:02.80,0:14:04.60,Main,,0000,0000,0000,,Uh... um...
+Dialogue: 0,0:14:05.04,0:14:06.34,Main,,0000,0000,0000,,Hang on a second.
+Dialogue: 0,0:14:06.57,0:14:07.24,Main,,0000,0000,0000,,I...
+Dialogue: 0,0:14:07.24,0:14:08.14,Main,,0000,0000,0000,,I...\NAyase...
+Dialogue: 0,0:14:08.74,0:14:10.84,Main,,0000,0000,0000,,Don't piss me off.
+Dialogue: 0,0:14:13.01,0:14:14.28,Main,,0000,0000,0000,,Let me go, damn it!
+Dialogue: 0,0:14:14.35,0:14:15.82,Main,,0000,0000,0000,,Enough!
+Dialogue: 0,0:14:15.98,0:14:17.35,Main,,0000,0000,0000,,Who do you think I am?
+Dialogue: 0,0:14:17.79,0:14:19.55,Main,,0000,0000,0000,,I know who you are...
+Dialogue: 0,0:14:19.75,0:14:20.69,Main,,0000,0000,0000,,...Yoshizumi, sir.
+Dialogue: 0,0:14:22.42,0:14:25.88,Main,,0000,0000,0000,,But don't forget, this is Shinjuku.
+Dialogue: 0,0:14:26.46,0:14:31.40,Main,,0000,0000,0000,,It is not wise to wage\Na war against him here.
+Dialogue: 0,0:14:32.97,0:14:36.37,Main,,0000,0000,0000,,For your own sake, please, leave.
+Dialogue: 0,0:14:54.89,0:14:55.51,Main,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:56.49,0:14:57.32,Main,,0000,0000,0000,,And?
+Dialogue: 0,0:14:59.33,0:15:00.38,Main,,0000,0000,0000,,Okay, fine.
+Dialogue: 0,0:15:07.10,0:15:09.07,Main,,0000,0000,0000,,Don't be so nervous.
+Dialogue: 0,0:15:09.50,0:15:12.84,Main,,0000,0000,0000,,It's no different than\Nany other time.
+Dialogue: 0,0:15:13.64,0:15:15.20,Main,,0000,0000,0000,,Besides...
+Dialogue: 0,0:15:15.31,0:15:17.74,Main,,0000,0000,0000,,It turns you on to be\Nwatched, doesn't it?
+Dialogue: 0,0:15:20.38,0:15:21.54,Main,,0000,0000,0000,,Admit it.
+Dialogue: 0,0:15:21.72,0:15:25.55,Main,,0000,0000,0000,,You loved it when we had\Nsex in front of the mirror.
+Dialogue: 0,0:15:25.69,0:15:26.74,Main,,0000,0000,0000,,No...
+Dialogue: 0,0:15:27.72,0:15:28.69,Main,,0000,0000,0000,,No.
+Dialogue: 0,0:15:28.79,0:15:30.09,Main,,0000,0000,0000,,I was disgusted...
+Dialogue: 0,0:15:30.42,0:15:31.89,Main,,0000,0000,0000,,...by myself.
+Dialogue: 0,0:15:32.36,0:15:33.22,Main,,0000,0000,0000,,I...
+Dialogue: 0,0:15:34.50,0:15:37.19,Main,,0000,0000,0000,,Do you want me to\Nremind you what you said?
+Dialogue: 0,0:15:41.24,0:15:42.73,Main,,0000,0000,0000,,Please...
+Dialogue: 0,0:15:43.17,0:15:44.33,Main,,0000,0000,0000,,...let me come.
+Dialogue: 0,0:15:49.04,0:15:49.81,Main,,0000,0000,0000,,No!
+Dialogue: 0,0:15:51.15,0:15:52.48,Main,,0000,0000,0000,,I didn't...
+Dialogue: 0,0:15:52.81,0:15:54.61,Main,,0000,0000,0000,,...say it because I wanted to.
+Dialogue: 0,0:15:54.72,0:15:56.38,Main,,0000,0000,0000,,Then why don't you ask them.
+Dialogue: 0,0:15:56.72,0:15:59.05,Main,,0000,0000,0000,,The people who will be watching\Nthis video we're about to shoot.
+Dialogue: 0,0:15:59.12,0:16:00.02,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:16:00.69,0:16:02.18,Main,,0000,0000,0000,,Don't be so surprised.
+Dialogue: 0,0:16:02.79,0:16:05.09,Main,,0000,0000,0000,,That's what it means\Nto make an adult movie.
+Dialogue: 0,0:16:06.19,0:16:10.56,Main,,0000,0000,0000,,I'm eager to see who will watch\Nthe numerous copies we circulate.
+Dialogue: 0,0:16:11.10,0:16:13.43,Main,,0000,0000,0000,,You might not be able\Nto go back to school.
+Dialogue: 0,0:16:14.40,0:16:15.63,Main,,0000,0000,0000,,It's all falling apart.
+Dialogue: 0,0:16:17.30,0:16:20.36,Main,,0000,0000,0000,,Because of this man,\Nit's all falling apart.
+Dialogue: 0,0:16:21.34,0:16:23.04,Main,,0000,0000,0000,,Even if you leave school...
+Dialogue: 0,0:16:23.11,0:16:26.05,Main,,0000,0000,0000,,...this video will haunt you\Nfor the rest of your life.
+Dialogue: 0,0:16:28.45,0:16:30.38,Main,,0000,0000,0000,,My life, my morals...
+Dialogue: 0,0:16:30.55,0:16:33.04,Main,,0000,0000,0000,,...my self, my body, my soul...
+Dialogue: 0,0:16:33.22,0:16:34.19,Main,,0000,0000,0000,,How?
+Dialogue: 0,0:16:34.96,0:16:37.52,Main,,0000,0000,0000,,How did it come to this?
+Dialogue: 0,0:16:38.03,0:16:38.65,Main,,0000,0000,0000,,How?
+Dialogue: 0,0:16:39.43,0:16:41.19,Main,,0000,0000,0000,,You can't escape.
+Dialogue: 0,0:16:41.96,0:16:44.59,Main,,0000,0000,0000,,How can I get out\Nof this situation?
+Dialogue: 0,0:16:45.60,0:16:46.57,Main,,0000,0000,0000,,How?
+Dialogue: 0,0:16:47.43,0:16:48.40,Main,,0000,0000,0000,,How?
+Dialogue: 0,0:16:48.50,0:16:50.80,Main,,0000,0000,0000,,You'd still rather\Nnot sleep with me?
+Dialogue: 0,0:17:06.09,0:17:07.05,Main,,0000,0000,0000,,Ayase.
+Dialogue: 0,0:17:08.66,0:17:10.15,Main,,0000,0000,0000,,I-I will do it.
+Dialogue: 0,0:17:11.29,0:17:12.66,Main,,0000,0000,0000,,Please...
+Dialogue: 0,0:17:12.89,0:17:13.86,Main,,0000,0000,0000,,Stop...
+Dialogue: 0,0:17:13.93,0:17:16.76,Main,,0000,0000,0000,,Please stop the video.
+Dialogue: 0,0:17:17.93,0:17:19.42,Main,,0000,0000,0000,,Please...
+Dialogue: 0,0:17:20.07,0:17:21.33,Main,,0000,0000,0000,,You...
+Dialogue: 0,0:17:21.50,0:17:22.47,Main,,0000,0000,0000,,I don't...
+Dialogue: 0,0:17:23.07,0:17:24.47,Main,,0000,0000,0000,,I don't want to...
+Dialogue: 0,0:17:25.31,0:17:26.40,Main,,0000,0000,0000,,I don't want to!
+Dialogue: 0,0:17:30.14,0:17:31.37,Main,,0000,0000,0000,,Please!
+Dialogue: 0,0:17:32.15,0:17:33.11,Main,,0000,0000,0000,,Stop!
+Dialogue: 0,0:17:38.05,0:17:39.49,Main,,0000,0000,0000,,What am I doing?
+Dialogue: 0,0:17:40.05,0:17:41.21,Main,,0000,0000,0000,,There's...
+Dialogue: 0,0:17:42.19,0:17:44.68,Main,,0000,0000,0000,,...nothing I can do.
+Dialogue: 0,0:17:46.93,0:17:48.19,Main,,0000,0000,0000,,I can't get away.
+Dialogue: 0,0:17:50.93,0:17:53.33,Main,,0000,0000,0000,,I wonder what's\Nwrong with Mr. Kanoh.
+Dialogue: 0,0:17:55.60,0:17:58.50,Main,,0000,0000,0000,,Why does he look so pained?
+Dialogue: 0,0:18:01.14,0:18:02.27,Main,,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:18:02.74,0:18:04.47,Main,,0000,0000,0000,,After what he's said to me...
+Dialogue: 0,0:18:05.51,0:18:09.92,Main,,0000,0000,0000,,Why do I feel so\Ntender towards him?
+Dialogue: 0,0:18:11.92,0:18:13.78,Main,,0000,0000,0000,,The video's off.
+Dialogue: 0,0:18:14.42,0:18:16.48,Main,,0000,0000,0000,,I'll talk to Gion.
+Dialogue: 0,0:18:16.72,0:18:17.59,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:17.79,0:18:20.02,Main,,0000,0000,0000,,You stay here tonight.
+Dialogue: 0,0:18:21.23,0:18:23.70,Main,,0000,0000,0000,,I'll come get you tomorrow.
+Dialogue: 0,0:18:29.40,0:18:30.60,Main,,0000,0000,0000,,See you.
+Dialogue: 0,0:18:38.88,0:18:42.44,Main,,0000,0000,0000,,Everything is coming\Napart because of him.
+Dialogue: 0,0:18:42.78,0:18:47.22,Main,,0000,0000,0000,,My life, my morals,\Nmy body, my soul...
+Dialogue: 0,0:18:48.16,0:18:49.12,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:18:52.29,0:18:53.42,Main,,0000,0000,0000,,Why?
+Dialogue: 0,0:18:56.50,0:18:59.30,Main,,0000,0000,0000,,Why does he seem so kind to me?
+Dialogue: 0,0:19:10.11,0:19:10.94,Main,,0000,0000,0000,,Mr. Kanoh...
+Dialogue: 0,0:19:18.52,0:19:20.51,Main,,0000,0000,0000,,I'll come get you tomorrow!
+Dialogue: 0,0:19:21.99,0:19:23.68,Main,,0000,0000,0000,,Why couldn't...
+Dialogue: 0,0:19:23.76,0:19:26.52,Main,,0000,0000,0000,,...I tell him I wanted\Nto go home with him?
+Dialogue: 0,0:19:27.36,0:19:29.76,Main,,0000,0000,0000,,I can never find the words...
+Dialogue: 0,0:19:29.90,0:19:31.99,Main,,0000,0000,0000,,...and so I never say what I feel.
+Dialogue: 0,0:19:32.47,0:19:34.59,Main,,0000,0000,0000,,Am I going to lose him too?
+Dialogue: 0,0:19:38.41,0:19:41.03,Main,,0000,0000,0000,,He said he'd become my family.
+Dialogue: 0,0:19:44.81,0:19:46.37,Main,,0000,0000,0000,,He's awake.
+Dialogue: 0,0:19:47.31,0:19:49.48,Main,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:19:51.29,0:19:52.18,Main,,0000,0000,0000,,I remember.
+Dialogue: 0,0:19:53.19,0:19:54.31,Main,,0000,0000,0000,,I must have...
+Dialogue: 0,0:19:59.16,0:20:00.13,Main,,0000,0000,0000,,Hey.
+Dialogue: 0,0:20:00.23,0:20:02.22,Main,,0000,0000,0000,,Thanks a lot for yesterday.
+Dialogue: 0,0:20:02.53,0:20:05.56,Main,,0000,0000,0000,,Yoshizumi! I told you\Nnot to be rough.
+Dialogue: 0,0:20:06.50,0:20:09.13,Main,,0000,0000,0000,,Why are you kidnapping this kid?
+Dialogue: 0,0:20:10.00,0:20:11.60,Main,,0000,0000,0000,,Are you okay, Aya?
+Dialogue: 0,0:20:11.74,0:20:13.10,Main,,0000,0000,0000,,Mr. Gion...
+Dialogue: 0,0:20:13.31,0:20:16.11,Main,,0000,0000,0000,,You guys are my bait\Nto lure Kanoh out.
+Dialogue: 0,0:20:16.51,0:20:18.44,Main,,0000,0000,0000,,Blame it on Kanoh.
+Dialogue: 0,0:20:18.65,0:20:20.91,Main,,0000,0000,0000,,That's misplaced resentment.
+Dialogue: 0,0:20:21.08,0:20:23.64,Main,,0000,0000,0000,,If you've got a gripe,\Ntell it to the person...
+Dialogue: 0,0:20:23.72,0:20:26.08,Main,,0000,0000,0000,,...who stole the tape from you.
+Dialogue: 0,0:20:26.15,0:20:27.28,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:20:27.72,0:20:30.95,Main,,0000,0000,0000,,You have no idea what he's like.
+Dialogue: 0,0:20:31.26,0:20:34.35,Main,,0000,0000,0000,,Somuku Kanoh is not the\Nkind of man who will...
+Dialogue: 0,0:20:34.60,0:20:37.33,Main,,0000,0000,0000,,...come running because\Nyou have his girlfriend.
+Dialogue: 0,0:20:37.60,0:20:38.63,Main,,0000,0000,0000,,Wait all you want!
+Dialogue: 0,0:20:38.63,0:20:39.89,Main,,0000,0000,0000,,Wait all you want!\NShut up!
+Dialogue: 0,0:20:46.67,0:20:50.63,Main,,0000,0000,0000,,To be honest, he's not even\Nremotely concerned about you.
+Dialogue: 0,0:20:52.31,0:20:54.28,Main,,0000,0000,0000,,Do you want to die?
+Dialogue: 0,0:20:54.98,0:20:56.95,Main,,0000,0000,0000,,Huh? Do you get it!
+Dialogue: 0,0:20:58.52,0:21:00.92,Main,,0000,0000,0000,,Let it go, Yoshizumi.
+Dialogue: 0,0:21:02.49,0:21:04.89,Main,,0000,0000,0000,,M-Mr. Kudo!
+Dialogue: 0,0:21:06.06,0:21:08.36,Main,,0000,0000,0000,,I told you not to use my name.
+Dialogue: 0,0:21:09.50,0:21:10.72,Main,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:21:11.67,0:21:12.63,Main,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:21:12.90,0:21:17.67,Main,,0000,0000,0000,,This is nothing compared\Nto what Bro does.
+Dialogue: 0,0:21:18.51,0:21:22.27,Main,,0000,0000,0000,,In any case, a hostage\Nmeans nothing to him.
+Dialogue: 0,0:21:22.38,0:21:23.91,Main,,0000,0000,0000,,Let the kid go.
+Dialogue: 0,0:21:23.91,0:21:24.68,Main,,0000,0000,0000,,Let the kid go.\NI can't do that.
+Dialogue: 0,0:21:24.68,0:21:25.65,Main,,0000,0000,0000,,I can't do that.
+Dialogue: 0,0:21:25.91,0:21:27.97,Main,,0000,0000,0000,,I came to meet you.
+Dialogue: 0,0:21:28.38,0:21:29.35,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:29.82,0:21:31.98,Main,,0000,0000,0000,,What a beautiful child.
+Dialogue: 0,0:21:32.52,0:21:33.95,Main,,0000,0000,0000,,I like him.
+Dialogue: 0,0:21:35.26,0:21:36.22,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:21:36.99,0:21:38.96,Main,,0000,0000,0000,,Cut it out, you\Npervert politician!
+Dialogue: 0,0:21:39.13,0:21:41.69,Main,,0000,0000,0000,,I'm going to tell your\Ndaughter and your voters!
+Dialogue: 0,0:21:41.80,0:21:44.53,Main,,0000,0000,0000,,I'm going to need\Nyour help, Gion.
+Dialogue: 0,0:21:44.63,0:21:45.12,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:46.73,0:21:49.10,Main,,0000,0000,0000,,Kanoh's kid brother\Nis going to film...
+Dialogue: 0,0:21:49.17,0:21:52.10,Main,,0000,0000,0000,,...his little lover being violated.
+Dialogue: 0,0:21:52.27,0:21:53.71,Main,,0000,0000,0000,,Isn't it a great idea?
+Dialogue: 0,0:21:54.04,0:21:55.51,Main,,0000,0000,0000,,Give me a break, no way!
+Dialogue: 0,0:21:55.61,0:21:58.31,Main,,0000,0000,0000,,You can lick your wounds later.
+Dialogue: 0,0:21:58.65,0:22:00.41,Main,,0000,0000,0000,,Get ready to film!
+Dialogue: 0,0:22:00.51,0:22:01.48,Main,,0000,0000,0000,,Wait!
+Dialogue: 0,0:22:01.55,0:22:02.88,Main,,0000,0000,0000,,You! Come here!
+Dialogue: 0,0:22:05.72,0:22:07.02,Main,,0000,0000,0000,,Go ahead, sir.
+Dialogue: 0,0:22:07.22,0:22:10.16,Main,,0000,0000,0000,,As promised, we won't\Nshow your face.
+Dialogue: 0,0:22:11.06,0:22:14.59,Main,,0000,0000,0000,,You're going to give\Nme the master-tape.
+Dialogue: 0,0:22:14.90,0:22:16.59,Main,,0000,0000,0000,,I'm looking forward to it.
+Dialogue: 0,0:22:20.77,0:22:23.76,Main,,0000,0000,0000,,It seems he's indeed his lover.
+Dialogue: 0,0:22:24.57,0:22:26.13,Main,,0000,0000,0000,,Wow.
+Dialogue: 0,0:22:28.38,0:22:31.44,Main,,0000,0000,0000,,He's already been broken in.
+Dialogue: 0,0:22:32.78,0:22:35.87,Main,,0000,0000,0000,,But his reaction is\Nso naive, it's great.
+Dialogue: 0,0:22:36.98,0:22:37.85,Main,,0000,0000,0000,,Is this...
+Dialogue: 0,0:22:38.69,0:22:42.05,Main,,0000,0000,0000,,...your first time with\Nsomeone other than him?
+Dialogue: 0,0:22:45.53,0:22:46.79,Main,,0000,0000,0000,,This feels horrible.
+Dialogue: 0,0:22:49.96,0:22:52.45,Main,,0000,0000,0000,,Even though it's\Nthe same thing...
+Dialogue: 0,0:22:56.77,0:22:58.03,Main,,0000,0000,0000,,The same thing...
+Dialogue: 0,0:23:03.08,0:23:04.20,Main,,0000,0000,0000,,That was a surprise.
+Dialogue: 0,0:23:06.45,0:23:07.81,Main,,0000,0000,0000,,It's not the same.
+Dialogue: 0,0:23:08.42,0:23:09.38,Main,,0000,0000,0000,,Aya.
+Dialogue: 0,0:23:09.55,0:23:11.14,Main,,0000,0000,0000,,Sir, let me tend to that!
+Dialogue: 0,0:23:11.22,0:23:12.15,Main,,0000,0000,0000,,Don't bother.
+Dialogue: 0,0:23:13.15,0:23:16.12,Main,,0000,0000,0000,,I see you have no manners.
+Dialogue: 0,0:23:17.92,0:23:19.48,Main,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:23:19.66,0:23:21.29,Main,,0000,0000,0000,,Shut up and film!
+Dialogue: 0,0:23:22.53,0:23:24.26,Main,,0000,0000,0000,,I like you even more.
+Dialogue: 0,0:23:24.60,0:23:27.29,Main,,0000,0000,0000,,It's going to be fun\Nto discipline you.
+Dialogue: 0,0:23:32.37,0:23:33.40,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:23:33.81,0:23:35.93,Main,,0000,0000,0000,,Is this your first time\Nwith drugs like this?
+Dialogue: 0,0:23:36.48,0:23:40.04,Main,,0000,0000,0000,,It's going to make you feel better.\NYou have no choice.
+Dialogue: 0,0:23:40.18,0:23:42.17,Main,,0000,0000,0000,,Excuse me, Yoshizumi.
+Dialogue: 0,0:23:44.62,0:23:45.41,Main,,0000,0000,0000,,I see!
+Dialogue: 0,0:23:45.95,0:23:48.58,Main,,0000,0000,0000,,It's easy to dominate with violence.
+Dialogue: 0,0:23:48.99,0:23:51.62,Main,,0000,0000,0000,,But with a boy with eyes\Nas innocent as yours...
+Dialogue: 0,0:23:51.73,0:23:57.13,Main,,0000,0000,0000,,...I want to totally\Nhumiliate and violate you.
+Dialogue: 0,0:23:57.73,0:23:58.39,Main,,0000,0000,0000,,I'm scared.
+Dialogue: 0,0:24:00.80,0:24:02.17,Main,,0000,0000,0000,,Mr. Kanoh...
+Dialogue: 0,0:24:03.40,0:24:04.37,Main,,0000,0000,0000,,I'm scared!
+Dialogue: 0,0:24:05.31,0:24:06.60,Main,,0000,0000,0000,,Look, Gion.
+Dialogue: 0,0:24:06.71,0:24:08.83,Main,,0000,0000,0000,,You said he wouldn't come.
+Dialogue: 0,0:24:09.64,0:24:10.74,Main,,0000,0000,0000,,No way.
+Dialogue: 0,0:24:12.18,0:24:14.31,Main,,0000,0000,0000,,Our best customer is here.
+Dialogue: 0,0:24:25.53,0:24:27.49,Main,,0000,0000,0000,,Is that your master?
+Dialogue: 0,0:24:28.23,0:24:30.66,Main,,0000,0000,0000,,Did you bring the\Nmoney and the tape?
+Dialogue: 0,0:24:32.47,0:24:33.76,Main,,0000,0000,0000,,He shouldn't have come!
+Dialogue: 0,0:24:36.70,0:24:37.67,Main,,0000,0000,0000,,But...
+Dialogue: 0,0:24:38.91,0:24:40.27,Main,,0000,0000,0000,,He came.
+Dialogue: 0,0:24:41.04,0:24:41.94,Main,,0000,0000,0000,,Hey!
+Dialogue: 0,0:24:42.31,0:24:43.37,Main,,0000,0000,0000,,You!
+Dialogue: 0,0:24:43.61,0:24:44.98,Main,,0000,0000,0000,,You freak politician!
+Dialogue: 0,0:24:45.35,0:24:46.40,Main,,0000,0000,0000,,What!
+Dialogue: 0,0:24:46.61,0:24:49.45,Main,,0000,0000,0000,,How long are you going to\Nkeep your filthy hands on him?
+Dialogue: 0,0:24:50.28,0:24:51.68,Main,,0000,0000,0000,,Let go!
+Dialogue: 0,0:24:52.05,0:24:53.64,Main,,0000,0000,0000,,What's with the attitude?
+Dialogue: 0,0:24:55.32,0:24:57.62,Main,,0000,0000,0000,,Don't you care what\Nhappens to the kid?
+Dialogue: 0,0:24:58.26,0:24:59.82,Main,,0000,0000,0000,,On your knees, Kanoh!
+Dialogue: 0,0:25:00.59,0:25:02.79,Main,,0000,0000,0000,,Get on your knees and\Napologize for yesterday!
+Dialogue: 0,0:25:09.74,0:25:10.70,Main,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:25:11.51,0:25:12.94,Main,,0000,0000,0000,,Didn't you hear me?
+Dialogue: 0,0:25:34.46,0:25:37.09,Main,,0000,0000,0000,,No! Mr. Kanoh! Don't do it!
+Dialogue: 0,0:25:37.16,0:25:38.10,Main,,0000,0000,0000,,Mr. Kanoh!
+Dialogue: 0,0:25:38.16,0:25:40.19,Main,,0000,0000,0000,,You're not finished.
+Dialogue: 0,0:25:42.00,0:25:46.70,Main,,0000,0000,0000,,Rub your head on the floor\Nand say that you're sorry!
+Dialogue: 0,0:25:48.48,0:25:49.31,Main,,0000,0000,0000,,Say it!
+Dialogue: 0,0:25:50.24,0:25:51.40,Main,,0000,0000,0000,,It's my fault.
+Dialogue: 0,0:25:51.85,0:25:55.08,Main,,0000,0000,0000,,If I had said that I wanted\Nto go home with him...
+Dialogue: 0,0:25:55.35,0:25:56.25,Main,,0000,0000,0000,,This wouldn't have...
+Dialogue: 0,0:25:57.18,0:25:59.65,Main,,0000,0000,0000,,Kanoh, was it?
+Dialogue: 0,0:25:59.89,0:26:01.95,Main,,0000,0000,0000,,I've heard about you.
+Dialogue: 0,0:26:03.09,0:26:05.39,Main,,0000,0000,0000,,You said my hands were filthy...
+Dialogue: 0,0:26:05.46,0:26:07.32,Main,,0000,0000,0000,,...but what about yours?
+Dialogue: 0,0:26:07.63,0:26:09.86,Main,,0000,0000,0000,,What did you to do to\Nthis kid with those hands?
+Dialogue: 0,0:26:09.96,0:26:12.59,Main,,0000,0000,0000,,What's so different about us?
+Dialogue: 0,0:26:12.90,0:26:15.56,Main,,0000,0000,0000,,Yes, we're the same.
+Dialogue: 0,0:26:15.70,0:26:17.19,Main,,0000,0000,0000,,You and I...
+Dialogue: 0,0:26:17.27,0:26:18.24,Main,,0000,0000,0000,,You're not!
+Dialogue: 0,0:26:19.51,0:26:20.47,Main,,0000,0000,0000,,You're not...
+Dialogue: 0,0:26:20.87,0:26:21.84,Main,,0000,0000,0000,,You're not...
+Dialogue: 0,0:26:23.78,0:26:24.97,Main,,0000,0000,0000,,Mr. Kanoh is...
+Dialogue: 0,0:26:27.68,0:26:28.65,Main,,0000,0000,0000,,I have to say it.
+Dialogue: 0,0:26:29.92,0:26:30.97,Main,,0000,0000,0000,,Now or never!
+Dialogue: 0,0:26:32.45,0:26:33.65,Main,,0000,0000,0000,,No...
+Dialogue: 0,0:26:34.39,0:26:35.29,Main,,0000,0000,0000,,Mr. Kanoh is...
+Dialogue: 0,0:26:39.73,0:26:40.69,Main,,0000,0000,0000,,See you...
+Dialogue: 0,0:26:43.26,0:26:45.03,Main,,0000,0000,0000,,Mr. Kanoh was kind to me.
+Dialogue: 0,0:26:45.93,0:26:47.23,Main,,0000,0000,0000,,He was...
+Dialogue: 0,0:26:54.57,0:26:56.04,Main,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:26:56.11,0:26:59.17,Main,,0000,0000,0000,,Why don't you check the goods?
+Dialogue: 0,0:26:59.38,0:27:00.81,Main,,0000,0000,0000,,Yoshizumi.
+Dialogue: 0,0:27:01.75,0:27:02.72,Main,,0000,0000,0000,,Fine.
+Dialogue: 0,0:27:02.78,0:27:04.77,Main,,0000,0000,0000,,But don't go\Nthinking this is over.
+Dialogue: 0,0:27:05.75,0:27:08.48,Main,,0000,0000,0000,,You will never\Ndisobey me again.
+Dialogue: 0,0:27:12.29,0:27:13.26,Main,,0000,0000,0000,,Mr. Gion!
+Dialogue: 0,0:27:13.36,0:27:14.88,Main,,0000,0000,0000,,It's good, isn't it?
+Dialogue: 0,0:27:15.00,0:27:16.86,Main,,0000,0000,0000,,The weight of $6,300.
+Dialogue: 0,0:27:17.66,0:27:20.53,Main,,0000,0000,0000,,Just how stupid are you?
+Dialogue: 0,0:27:20.93,0:27:23.70,Main,,0000,0000,0000,,Now we have to re-discipline another idiot.
+Dialogue: 0,0:27:23.70,0:27:24.67,Main,,0000,0000,0000,,Now we have to re-discipline another idiot.\NYeah...
+Dialogue: 0,0:27:24.94,0:27:27.10,Main,,0000,0000,0000,,...and you'll be first, Yoshizumi.
+Dialogue: 0,0:27:28.34,0:27:30.43,Main,,0000,0000,0000,,And then you, you freak politician.
+Dialogue: 0,0:27:31.04,0:27:33.21,Main,,0000,0000,0000,,I'm going to show you...
+Dialogue: 0,0:27:37.85,0:27:40.12,Main,,0000,0000,0000,,Y-you...
+Dialogue: 0,0:27:40.32,0:27:41.81,Main,,0000,0000,0000,,Let my daughter...
+Dialogue: 0,0:27:43.29,0:27:46.19,Main,,0000,0000,0000,,...who you started a war with!
+Dialogue: 0,0:27:58.64,0:28:04.08,ED English,,0000,0000,0000,,When I opened the window\Nand spoke to you...
+Dialogue: 0,0:28:04.14,0:28:10.55,ED English,,0000,0000,0000,,...I could see that the\Nwintry, night sky was sparkling.
+Dialogue: 0,0:28:10.68,0:28:16.35,ED English,,0000,0000,0000,,Could it be that the emotions\Nof all the people everywhere...
+Dialogue: 0,0:28:16.42,0:28:22.95,ED English,,0000,0000,0000,,...had turned into those stars?
+Dialogue: 0,0:28:24.16,0:28:29.97,ED English,,0000,0000,0000,,That promise we made so long ago...
+Dialogue: 0,0:28:30.30,0:28:35.30,ED English,,0000,0000,0000,,...is something I still\Ncling tightly to now.
+Dialogue: 0,0:28:35.61,0:28:44.68,ED English,,0000,0000,0000,,On sleepless nights in my dreams...
+Dialogue: 0,0:28:47.95,0:28:53.98,ED English,,0000,0000,0000,,Even if a single tear falls...
+Dialogue: 0,0:28:54.06,0:29:00.00,ED English,,0000,0000,0000,,...I'll never forget that smile.
+Dialogue: 0,0:29:00.30,0:29:11.91,ED English,,0000,0000,0000,,My beloved, just keep me warm forever.
+Dialogue: 0,0:29:12.61,0:29:18.24,ED English,,0000,0000,0000,,Even if I'm caught\Nin a rainfall of grief...
+Dialogue: 0,0:29:18.32,0:29:25.35,ED English,,0000,0000,0000,,...I want to become your love.
+Dialogue: 0,0:27:58.64,0:28:03.98,ED Romaji,,0000,0000,0000,,{\K5}{\K122}ma{\K26}do {\K55}o {\K37}{\K17}a{\K21}ke{\K35}ha{\K89}na{\K31}shi{\K21}ta{\K54}ra
+Dialogue: 0,0:28:04.18,0:28:10.43,ED Romaji,,0000,0000,0000,,{\K1}{\K20}fu{\K22}yu {\K29}no {\K0}{\K77}yo{\K39}zo{\K23}ra {\K0}{\K58}ga {\K38}{\K19}ki{\K17}ra{\K40}me{\K115}i{\K23}te {\K95}ta
+Dialogue: 0,0:28:10.69,0:28:16.19,ED Romaji,,0000,0000,0000,,{\K8}{\K34}hi{\K94}to{\K22}bi{\K22}to {\K0}{\K57}no {\K31}{\K22}o{\K21}mo{\K27}i {\K108}su{\K17}be{\K20}te {\K0}{\K58}ga
+Dialogue: 0,0:28:16.44,0:28:22.40,ED Romaji,,0000,0000,0000,,{\K6}{\K17}a{\K22}no {\K28}ho{\K85}shi {\K34}ta{\K43}chi {\K35}ni {\K85}nat{\K36}ta {\K39}no {\K18}ka {\K144}na
+Dialogue: 0,0:28:24.05,0:28:29.80,ED Romaji,,0000,0000,0000,,{\K49}to{\K35}ki {\K42}o {\K38}ko{\K37}e{\K40}ta {\K77}a{\K59}no {\K23}ya{\K29}ku{\K29}so{\K37}ku {\K79}o
+Dialogue: 0,0:28:30.10,0:28:35.03,ED Romaji,,0000,0000,0000,,{\K23}{\K38}i{\K40}ma {\K24}mo{\K14}u {\K38}da{\K27}ki{\K40}shi{\K68}me{\K37}te {\K22}i{\K19}ru {\K102}yo
+Dialogue: 0,0:28:35.63,0:28:47.83,ED Romaji,,0000,0000,0000,,{\K15}{\K30}ne{\K34}mu{\K85}re{\K70}ru {\K44}yo{\K19}ru {\K101}wa {\K30}{\K37}yu{\K40}me {\K35}no {\K47}na{\K21}ka {\K298}de {\K18}{\K148}a{\K138}a
+Dialogue: 0,0:28:48.00,0:28:53.80,ED Romaji,,0000,0000,0000,,{\K1}{\K36}na{\K28}mi{\K126}da {\K24}hi{\K41}to{\K90}tsu {\K25}ko{\K15}bo{\K36}re{\K22}te {\K136}mo
+Dialogue: 0,0:28:54.00,0:28:59.89,ED Romaji,,0000,0000,0000,,{\K14}{\K33}wa{\K34}su{\K51}re{\K24}na{\K90}i {\K38}ho{\K43}ho{\K40}e{\K16}mi {\K207}o
+Dialogue: 0,0:29:00.26,0:29:03.67,ED Romaji,,0000,0000,0000,,{\K10}{\K35}i{\K14}to{\K134}shii {\K28}hi{\K40}to {\K56}yo
+Dialogue: 0,0:29:03.76,0:29:11.80,ED Romaji,,0000,0000,0000,,{\K22}e{\K18}i{\K40}e{\K28}n {\K128}ni {\K37}{\K40}nu{\K22}ku{\K50}mo{\K20}ri {\K72}o {\K29}tsu{\K35}ta{\K24}e{\K235}te
+Dialogue: 0,0:29:12.58,0:29:18.26,ED Romaji,,0000,0000,0000,,{\K1}{\K46}ka{\K13}na{\K137}shii {\K23}a{\K36}me {\K96}ni {\K22}u{\K23}ta{\K33}re{\K15}te {\K124}mo
+Dialogue: 0,0:29:18.37,0:29:27.75,ED Romaji,,0000,0000,0000,,{\K1}{\K22}a{\K15}na{\K46}ta {\K22}no {\K52}a{\K18}i {\K70}ni {\K25}na{\K42}ri{\K24}ta{\K403}i
+Dialogue: 0,0:27:58.64,0:28:03.98,ED Kanji,,0000,0000,0000,,{\K5}{\K148}窓{\K92}を{\K17}開{\K21}け{\K124}放{\K31}し{\K21}た{\K54}ら
+Dialogue: 0,0:28:04.18,0:28:10.43,ED Kanji,,0000,0000,0000,,{\K1}{\K42}冬{\K29}の{\K0}{\K77}夜{\K62}空{\K0}{\K58}が{\K38}{\K19}き{\K17}ら{\K40}め{\K115}い{\K23}て{\K95}た
+Dialogue: 0,0:28:10.69,0:28:16.19,ED Kanji,,0000,0000,0000,,{\K8}{\K128}人{\K44}々{\K0}{\K57}の{\K31}{\K43}思{\K27}い{\K108}す{\K17}べ{\K20}て{\K0}{\K58}が
+Dialogue: 0,0:28:16.44,0:28:22.40,ED Kanji,,0000,0000,0000,,{\K6}{\K17}あ{\K22}の{\K113}星{\K34}た{\K43}ち{\K35}に{\K85}なっ{\K36}た{\K39}の{\K18}か{\K144}な{\K0}？
+Dialogue: 0,0:28:24.05,0:28:29.80,ED Kanji,,0000,0000,0000,,{\K84}時{\K42}を{\K38}越{\K37}え{\K40}た{\K77}あ{\K59}の{\K52}約{\K66}束{\K79}を
+Dialogue: 0,0:28:30.10,0:28:35.03,ED Kanji,,0000,0000,0000,,{\K23}{\K78}今{\K24}も{\K14}う{\K38}抱{\K27}き{\K40}し{\K68}め{\K37}て{\K22}い{\K19}る{\K102}よ
+Dialogue: 0,0:28:35.63,0:28:47.83,ED Kanji,,0000,0000,0000,,{\K15}{\K64}眠{\K85}れ{\K70}る{\K63}夜{\K101}は{\K30}{\K0} {\K77}夢{\K35}の{\K68}中{\K298}で {\K18}{\K148}あ{\K138}あ
+Dialogue: 0,0:28:48.00,0:28:53.80,ED Kanji,,0000,0000,0000,,{\K1}{\K190}涙{\K24}ひ{\K41}と{\K90}つ{\K25}こ{\K15}ぼ{\K36}れ{\K22}て{\K136}も
+Dialogue: 0,0:28:54.00,0:28:59.89,ED Kanji,,0000,0000,0000,,{\K14}{\K67}忘{\K51}れ{\K24}な{\K90}い{\K81}微{\K56}笑{\K207}を
+Dialogue: 0,0:29:00.26,0:29:03.67,ED Kanji,,0000,0000,0000,,{\K10}{\K49}愛{\K134}しい{\K68}人{\K56}よ
+Dialogue: 0,0:29:03.76,0:29:11.79,ED Kanji,,0000,0000,0000,,{\K40}永{\K68}遠{\K128}に{\K37}{\K62}温{\K50}も{\K20}り{\K72}を{\K64}伝{\K24}え{\K235}て
+Dialogue: 0,0:29:12.58,0:29:18.26,ED Kanji,,0000,0000,0000,,{\K1}{\K59}悲{\K137}しい{\K59}雨{\K96}に{\K22}打{\K23}た{\K33}れ{\K15}て{\K124}も
+Dialogue: 0,0:29:18.38,0:29:27.76,ED Kanji,,0000,0000,0000,,{\K1}{\K22}あ{\K15}な{\K46}た{\K22}の{\K70}愛{\K70}に{\K25}な{\K42}り{\K24}た{\K403}い
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

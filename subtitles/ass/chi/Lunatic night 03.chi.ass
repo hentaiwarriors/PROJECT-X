@@ -1,0 +1,393 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,25,&H00FFFFFF,&HF0000000,&H00400080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,1,0,2,30,30,10,134
+Style: up,微软雅黑,18,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,——————5分——————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,嘿
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————10分————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,——————15分——————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,哼 哼哼 哼
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————20分————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,——————25分——————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————30分————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:27.56,0:00:28.39,Default,NTP,0,0,0,,还活着吗
+Dialogue: 0,0:00:28.73,0:00:29.69,Default,NTP,0,0,0,,振作一点儿
+Dialogue: 0,0:00:33.35,0:00:34.53,Default,NTP,0,0,0,,打起精神来
+Dialogue: 0,0:00:34.75,0:00:39.91,Default,NTP,0,0,0,,moon puri puri meiku…(企鹅语)
+Dialogue: 0,0:00:48.63,0:00:50.32,Default,NTP,0,0,0,,好棒 好棒
+Dialogue: 0,0:01:14.70,0:01:16.72,Default,NTP,0,0,0,,高潮了
+Dialogue: 0,0:01:28.03,0:01:30.30,Default,NTP,0,0,0,,moon puri puri meiku?
+Dialogue: 0,0:01:30.46,0:01:35.83,Default,NTP,0,0,0,,是的 主人 说完就失去意识了
+Dialogue: 0,0:01:37.83,0:01:40.20,Default,NTP,0,0,0,,然后就把它带来了?
+Dialogue: 0,0:01:40.86,0:01:45.26,Default,NTP,0,0,0,,孩子们都已经群居生活了 每天都很和平的说
+Dialogue: 0,0:01:45.42,0:01:49.72,Default,NTP,0,0,0,,啊 主人 我也要
+Dialogue: 0,0:01:52.95,0:01:56.67,Default,NTP,0,0,0,,你啊 现在不是做那种事情的时候吧
+Dialogue: 0,0:01:56.75,0:02:00.97,Default,NTP,0,0,0,,但是…主人太坏了
+Dialogue: 0,0:02:01.20,0:02:03.34,Default,NTP,0,0,0,,光是和库阿鲁和涅普丘做
+Dialogue: 0,0:02:04.03,0:02:07.67,Default,NTP,0,0,0,,我总是傻傻地在巡逻
+Dialogue: 0,0:02:10.21,0:02:13.83,staff2,NTP,0,0,0,,露娜蒂克之夜 第三夜
+Dialogue: 0,0:02:16.83,0:02:18.53,Default,NTP,0,0,0,,好可爱
+Dialogue: 0,0:02:20.72,0:02:23.66,Default,NTP,0,0,0,,这 这个是 企鹅?
+Dialogue: 0,0:02:27.75,0:02:28.57,Default,NTP,0,0,0,, 噗呷(企鹅语)
+Dialogue: 0,0:02:42.24,0:02:43.71,Default,NTP,0,0,0,,嘿 久等了
+Dialogue: 0,0:02:59.09,0:03:00.79,Default,NTP,0,0,0,,什么都吃呢
+Dialogue: 0,0:03:02.58,0:03:03.64,Default,NTP,0,0,0,,这个呢?
+Dialogue: 0,0:03:12.20,0:03:14.71,Default,NTP,0,0,0,,我的名字叫少年北京 呠
+Dialogue: 0,0:03:16.04,0:03:18.70,Default,NTP,0,0,0,,北京?末代皇帝?
+Dialogue: 0,0:03:19.52,0:03:20.80,Default,NTP,0,0,0,,说错了 呠
+Dialogue: 0,0:03:21.15,0:03:23.77,Default,NTP,0,0,0,,我的名字是少年企鹅 呠
+Dialogue: 0,0:03:24.24,0:03:25.71,Default,NTP,0,0,0,,真是人如其名
+Dialogue: 0,0:03:26.52,0:03:27.25,Default,NTP,0,0,0,,然后呢
+Dialogue: 0,0:03:32.45,0:03:34.80,Default,NTP,0,0,0,,哇 我要被吃掉了
+Dialogue: 0,0:03:35.16,0:03:36.13,Default,NTP,0,0,0,,被吃掉?
+Dialogue: 0,0:03:37.07,0:03:39.34,Default,NTP,0,0,0,,企鹅很好吃的吧
+Dialogue: 0,0:03:39.82,0:03:43.59,Default,NTP,0,0,0,,卡露拉 说那种话很过分
+Dialogue: 0,0:03:43.79,0:03:44.81,Default,NTP,0,0,0,,对 对不起
+Dialogue: 0,0:03:46.14,0:03:48.40,Default,NTP,0,0,0,,好吃哦 企鹅
+Dialogue: 0,0:03:48.53,0:03:49.47,Default,NTP,0,0,0,,哎?
+Dialogue: 0,0:03:51.28,0:03:53.78,Default,NTP,0,0,0,,稍微有点问题
+Dialogue: 0,0:03:54.68,0:03:56.26,Default,NTP,0,0,0,,没关系的
+Dialogue: 0,0:03:58.79,0:04:03.31,Default,NTP,0,0,0,,总的来说 你的那个企鹅村在魔界对吗
+Dialogue: 0,0:04:03.91,0:04:07.18,Default,NTP,0,0,0,,是的 魔界有许多村落 呠 
+Dialogue: 0,0:04:07.40,0:04:11.00,Default,NTP,0,0,0,,其中最可怕的事水手服族 呠
+Dialogue: 0,0:04:11.87,0:04:14.40,Default,NTP,0,0,0,,企鹅村被袭击了很多次 呠?
+Dialogue: 0,0:04:15.10,0:04:17.92,Default,NTP,0,0,0,,被掳走的企鹅被做成了食物 呠
+Dialogue: 0,0:04:18.67,0:04:21.97,Default,NTP,0,0,0,,我的妈妈 爸爸 哥哥都是
+Dialogue: 0,0:04:22.39,0:04:25.06,Default,NTP,0,0,0,,然后就一个人前来求援?
+Dialogue: 0,0:04:25.07,0:04:25.81,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:04:27.61,0:04:28.84,Default,NTP,0,0,0,,好可怜
+Dialogue: 0,0:04:29.56,0:04:36.15,Default,NTP,0,0,0,,从村子的长老那里听说\N在德泽斯的巴比伦塔中住着救世主
+Dialogue: 0,0:04:36.46,0:04:38.40,Default,NTP,0,0,0,,是在说主人吧
+Dialogue: 0,0:04:38.60,0:04:40.06,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:04:40.30,0:04:48.46,Default,NTP,0,0,0,,好吧 这也是为了地球再生 为了拯救世界 为了阿特兰蒂斯崛起
+Dialogue: 0,0:04:48.59,0:04:50.73,Default,NTP,0,0,0,,要上了!!
+Dialogue: 0,0:05:05.75,0:05:08.47,Default,NTP,0,0,0,,喂 卡露拉 你在干什么
+Dialogue: 0,0:05:09.45,0:05:11.65,Default,NTP,0,0,0,,但是很热嘛
+Dialogue: 0,0:05:11.65,0:05:14.98,Default,NTP,0,0,0,,很危险好吧 快关掉
+Dialogue: 0,0:05:15.64,0:05:16.60,Default,NTP,0,0,0,,好 好
+Dialogue: 0,0:05:22.44,0:05:26.04,Default,NTP,0,0,0,,什么吗 好像自己最大一样
+Dialogue: 0,0:05:26.48,0:05:30.52,Default,NTP,0,0,0,,但是 魔界在哪里呢
+Dialogue: 0,0:05:30.86,0:05:32.72,Default,NTP,0,0,0,,GPS会告诉我们的
+Dialogue: 0,0:05:42.16,0:05:43.23,Default,NTP,0,0,0,,是那样吗
+Dialogue: 0,0:05:43.23,0:05:44.29,Default,NTP,0,0,0,,就是那样
+Dialogue: 0,0:05:45.94,0:05:48.04,Default,NTP,0,0,0,,魔界的入口 突入!
+Dialogue: 0,0:06:11.98,0:06:13.00,Default,NTP,0,0,0,,哎!
+Dialogue: 0,0:06:31.41,0:06:33.35,Default,NTP,0,0,0,,奇怪的东西出现了呢
+Dialogue: 0,0:06:33.70,0:06:35.36,Default,NTP,0,0,0,,就快到魔界了
+Dialogue: 0,0:06:47.54,0:06:52.46,staff2,NTP,0,0,0,,欢迎来到企鹅村
+Dialogue: 0,0:06:56.26,0:06:58.32,Default,NTP,0,0,0,,长老!
+Dialogue: 0,0:06:58.95,0:07:04.29,Default,NTP,0,0,0,,好了好了 多谢你把救世主带来了 呠 少年企鹅哟
+Dialogue: 0,0:07:04.33,0:07:05.21,Default,NTP,0,0,0,,嗡恰!
+Dialogue: 0,0:07:05.80,0:07:08.22,Default,NTP,0,0,0,,啊?恰!
+Dialogue: 0,0:07:08.27,0:07:11.44,Default,NTP,0,0,0,,我是村子的长老北京 呠
+Dialogue: 0,0:07:12.74,0:07:15.34,Default,NTP,0,0,0,,北京?那你就是末代皇帝!
+Dialogue: 0,0:07:15.62,0:07:17.15,Default,NTP,0,0,0,,额 说错了 呠
+Dialogue: 0,0:07:17.30,0:07:19.94,Default,NTP,0,0,0,,我的名字是长老企鹅 呠
+Dialogue: 0,0:07:20.14,0:07:21.14,Default,NTP,0,0,0,,额…
+Dialogue: 0,0:07:25.58,0:07:28.30,Default,NTP,0,0,0,,啊…啊…
+Dialogue: 0,0:07:33.48,0:07:35.54,Default,NTP,0,0,0,,让我们听听你的请求吧
+Dialogue: 0,0:07:36.89,0:07:38.61,Default,NTP,0,0,0,,其实大概一年前
+Dialogue: 0,0:07:38.61,0:07:43.57,Default,NTP,0,0,0,,水手服一族侵入我们的村落 村里的人们被掳走了
+Dialogue: 0,0:07:44.03,0:07:47.41,Default,NTP,0,0,0,,现在已经只剩下这些企鹅了
+Dialogue: 0,0:07:47.75,0:07:48.87,Default,NTP,0,0,0,,真是过分
+Dialogue: 0,0:07:48.93,0:07:53.25,Default,NTP,0,0,0,,对呀 把这些可怜的企鹅做成食物什么的
+Dialogue: 0,0:07:54.37,0:07:55.68,Default,NTP,0,0,0,,怎么了 涅普丘
+Dialogue: 0,0:07:56.16,0:07:59.02,Default,NTP,0,0,0,,啊 那个 我先回船上了
+Dialogue: 0,0:08:00.80,0:08:02.26,Default,NTP,0,0,0,,请交给我们吧
+Dialogue: 0,0:08:02.39,0:08:07.43,Default,NTP,0,0,0,,我是救世主 一定会把水手服族打败
+Dialogue: 0,0:08:07.43,0:08:10.00,Default,NTP,0,0,0,,谢谢 呠 谢谢 呠
+Dialogue: 0,0:08:11.28,0:08:13.01,Default,NTP,0,0,0,,长老大人!
+Dialogue: 0,0:08:14.21,0:08:15.06,Default,NTP,0,0,0,,长老!
+Dialogue: 0,0:08:15.10,0:08:16.07,Default,NTP,0,0,0,,长老大人!
+Dialogue: 0,0:08:16.80,0:08:18.81,Default,NTP,0,0,0,,水手服族!
+Dialogue: 0,0:08:31.58,0:08:32.28,Default,NTP,0,0,0,,
+Dialogue: 0,0:08:32.55,0:08:34.02,Default,NTP,0,0,0,,快跑!
+Dialogue: 0,0:08:35.09,0:08:37.99,Default,NTP,0,0,0,,长老大人 请振作一点 呠
+Dialogue: 0,0:08:38.41,0:08:41.32,Default,NTP,0,0,0,,我 已经不行了 呠
+Dialogue: 0,0:08:46.47,0:08:47.71,Default,NTP,0,0,0,,开玩笑 呠
+Dialogue: 0,0:08:48.38,0:08:49.45,Default,NTP,0,0,0,,长老大人
+Dialogue: 0,0:08:50.61,0:08:53.28,Default,NTP,0,0,0,,这种时候 玩笑就不要开了
+Dialogue: 0,0:08:53.39,0:08:58.15,Default,NTP,0,0,0,,呀 没有这种程度的娱乐的话 老人就活不下去了
+Dialogue: 0,0:09:09.83,0:09:11.30,Default,NTP,0,0,0,,moon puripuri meiku
+Dialogue: 0,0:09:19.81,0:09:20.64,Default,NTP,0,0,0,,
+Dialogue: 0,0:09:23.71,0:09:24.72,Default,NTP,0,0,0,,真箭啊
+Dialogue: 0,0:09:25.30,0:09:27.75,Default,NTP,0,0,0,,水手服族的moon puripuri meiku
+Dialogue: 0,0:09:28.10,0:09:32.04,Default,NTP,0,0,0,,所以 就是说从玩具箭变到真家伙
+Dialogue: 0,0:09:33.24,0:09:35.76,Default,NTP,0,0,0,,拜托你了 救世主殿下 呠
+Dialogue: 0,0:10:05.61,0:10:08.09,Default,NTP,0,0,0,,涅普丘 攻击
+Dialogue: 0,0:10:09.77,0:10:11.11,Default,NTP,0,0,0,,怎么了 涅普丘
+Dialogue: 0,0:10:11.77,0:10:12.96,Default,NTP,0,0,0,,哪里不舒服吗
+Dialogue: 0,0:10:14.37,0:10:19.30,Default,NTP,0,0,0,,主人 感谢你的关心
+Dialogue: 0,0:10:19.66,0:10:24.02,Default,NTP,0,0,0,,不擅长应对企鹅呢 吃过一次之后
+Dialogue: 0,0:10:37.80,0:10:38.94,Default,NTP,0,0,0,,讨厌 你干什么 
+Dialogue: 0,0:10:42.31,0:10:43.56,Default,NTP,0,0,0,,停下 
+Dialogue: 0,0:10:44.33,0:10:45.92,Default,NTP,0,0,0,,你们想干什么
+Dialogue: 0,0:10:47.54,0:10:49.56,Default,NTP,0,0,0,,对于你那凶恶的眼神的惩罚
+Dialogue: 0,0:11:04.51,0:11:08.31,Default,NTP,0,0,0,,我要让你沉浸在快乐中死去
+Dialogue: 0,0:12:24.36,0:12:25.96,Default,NTP,0,0,0,,主人 
+Dialogue: 0,0:12:26.61,0:12:28.74,Default,NTP,0,0,0,,喂 这种紧急事态下 
+Dialogue: 0,0:12:29.07,0:12:30.53,Default,NTP,0,0,0,,但是 
+Dialogue: 0,0:12:30.89,0:12:32.97,Default,NTP,0,0,0,,要去救卡露拉和库阿鲁
+Dialogue: 0,0:12:33.26,0:12:35.27,Default,NTP,0,0,0,,那两个人的话 没问题的
+Dialogue: 0,0:12:35.36,0:12:36.23,Default,NTP,0,0,0,,嗯?
+Dialogue: 0,0:13:34.59,0:13:35.56,Default,NTP,0,0,0,,怎么会  
+Dialogue: 0,0:13:57.98,0:14:03.66,Default,NTP,0,0,0,,为什么 我们水手服一族的手法会输?
+Dialogue: 0,0:14:03.72,0:14:07.66,Default,NTP,0,0,0,,不要小看巴比伦一万两千又三年的历史哦
+Dialogue: 0,0:14:12.61,0:14:16.70,Default,NTP,0,0,0,,啊 舒服 好舒服
+Dialogue: 0,0:15:32.08,0:15:34.97,Default,NTP,0,0,0,,撤 这里先撤退
+Dialogue: 0,0:16:02.84,0:16:05.05,Default,NTP,0,0,0,,对上那些人数 真是厉害啊
+Dialogue: 0,0:16:05.73,0:16:08.75,Default,NTP,0,0,0,,但是做的很好 卡露拉 库阿鲁
+Dialogue: 0,0:16:09.18,0:16:12.01,Default,NTP,0,0,0,,现在就好好歇着 这是战士的休憩
+Dialogue: 0,0:16:12.35,0:16:13.22,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:16:13.29,0:16:14.11,Default,NTP,0,0,0,,嗯?
+Dialogue: 0,0:16:14.13,0:16:15.13,Default,NTP,0,0,0,,找到了
+Dialogue: 0,0:16:15.22,0:16:16.11,Default,NTP,0,0,0,,什么?
+Dialogue: 0,0:16:32.01,0:16:36.03,Default,NTP,0,0,0,,司令 敌人突破最终防御线了
+Dialogue: 0,0:16:36.30,0:16:37.23,Default,NTP,0,0,0,,干掉他们
+Dialogue: 0,0:16:54.37,0:16:56.20,Default,NTP,0,0,0,,这 这个脸是
+Dialogue: 0,0:16:56.41,0:16:58.47,Default,NTP,0,0,0,,真的是这里吗
+Dialogue: 0,0:16:58.92,0:17:03.17,Default,NTP,0,0,0,,这是GPS显示的 不可能弄错
+Dialogue: 0,0:17:04.14,0:17:06.18,Default,NTP,0,0,0,,为什么能断定呢
+Dialogue: 0,0:17:07.10,0:17:09.69,Default,NTP,0,0,0,,主人 我很不安
+Dialogue: 0,0:17:10.06,0:17:11.04,Default,NTP,0,0,0,,不安?
+Dialogue: 0,0:17:11.04,0:17:13.56,Default,NTP,0,0,0,,难道又是那家伙在捣鬼吗?
+Dialogue: 0,0:17:29.70,0:17:32.32,Default,NTP,0,0,0,,自作V号机 发射
+Dialogue: 0,0:17:33.12,0:17:37.45,Default,NTP,0,0,0,,神崎君 你什么事情都要横插一脚
+Dialogue: 0,0:17:38.97,0:17:40.60,Default,NTP,0,0,0,,对你失望了 
+Dialogue: 0,0:17:40.83,0:17:44.39,Default,NTP,0,0,0,,好好尝尝这架EMANGELION V号机的力量吧
+Dialogue: 0,0:17:40.83,0:17:44.39,staff,NTP,0,0,0,,恶搞EVA
+Dialogue: 0,0:17:44.96,0:17:47.56,Default,NTP,0,0,0,,V号 要去了
+Dialogue: 0,0:18:06.90,0:18:07.96,Default,NTP,0,0,0,,啊 什么?
+Dialogue: 0,0:18:08.06,0:18:09.07,Default,NTP,0,0,0,,好厉害
+Dialogue: 0,0:18:38.99,0:18:42.34,Default,NTP,0,0,0,,感觉很难搞 没事吗
+Dialogue: 0,0:18:42.66,0:18:46.16,Default,NTP,0,0,0,,交给我吧 我有信心
+Dialogue: 0,0:18:47.74,0:18:49.72,Default,NTP,0,0,0,,要怎么战斗啊?
+Dialogue: 0,0:19:00.43,0:19:02.06,Default,NTP,0,0,0,,石头 剪子
+Dialogue: 0,0:19:02.78,0:19:03.72,Default,NTP,0,0,0,,布
+Dialogue: 0,0:19:06.92,0:19:08.30,Default,NTP,0,0,0,,看那边
+Dialogue: 0,0:19:18.08,0:19:20.66,Default,NTP,0,0,0,,最开始普遍的应该出布呢
+Dialogue: 0,0:19:20.83,0:19:21.91,Default,NTP,0,0,0,,对呀对呀
+Dialogue: 0,0:19:22.71,0:19:29.18,Default,NTP,0,0,0,,瞄准一开始出布的佯攻作战 出色的心理攻击
+Dialogue: 0,0:19:29.29,0:19:30.28,Default,NTP,0,0,0,,但是
+Dialogue: 0,0:19:30.65,0:19:33.88,Default,NTP,0,0,0,,主人 不 睦月司令
+Dialogue: 0,0:19:34.52,0:19:36.90,Default,NTP,0,0,0,,V 要看穿敌人的攻击
+Dialogue: 0,0:19:37.18,0:19:38.00,Default,NTP,0,0,0,,是的
+Dialogue: 0,0:19:38.17,0:19:43.57,Default,NTP,0,0,0,,去 为了我们水手服美少女征服世界的愿望
+Dialogue: 0,0:19:43.64,0:19:44.44,Default,NTP,0,0,0,,是
+Dialogue: 0,0:19:57.49,0:19:58.60,Default,NTP,0,0,0,,石头
+Dialogue: 0,0:20:00.07,0:20:00.92,Default,NTP,0,0,0,,布
+Dialogue: 0,0:20:01.06,0:20:02.12,Default,NTP,0,0,0,,布 剪子 石头
+Dialogue: 0,0:20:02.42,0:20:07.06,Default,NTP,0,0,0,,剪子 石头 布 石头 剪子 布 剪子 石头
+Dialogue: 0,0:20:06.85,0:20:11.01,Default,NTP,0,0,0,,剪子 石头 布 石头 剪子 布 剪子 石头
+Dialogue: 0,0:20:11.64,0:20:12.53,Default,NTP,0,0,0,,不懂
+Dialogue: 0,0:20:13.22,0:20:15.59,Default,NTP,0,0,0,,这种敌人也真是头脑简单
+Dialogue: 0,0:20:16.05,0:20:17.65,Default,NTP,0,0,0,,看那边 嗨!
+Dialogue: 0,0:20:18.36,0:20:19.83,Default,NTP,0,0,0,,啊!!
+Dialogue: 0,0:20:27.76,0:20:28.78,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:20:30.77,0:20:35.20,Default,NTP,0,0,0,,真是的 说了好好关紧的吧
+Dialogue: 0,0:20:36.15,0:20:37.29,Default,NTP,0,0,0,,抱歉
+Dialogue: 0,0:20:42.39,0:20:45.89,Default,NTP,0,0,0,,什么呀 正换衣服时过来偷窥
+Dialogue: 0,0:20:45.95,0:20:47.11,Default,NTP,0,0,0,,H
+Dialogue: 0,0:21:03.22,0:21:05.82,Default,NTP,0,0,0,,啊啦 变成这样了
+Dialogue: 0,0:21:06.44,0:21:07.49,Default,NTP,0,0,0,,真是的
+Dialogue: 0,0:21:08.34,0:21:11.39,Default,NTP,0,0,0,,果然是要 帮助睦月惩罚你才行
+Dialogue: 0,0:21:31.70,0:21:33.96,Default,NTP,0,0,0,,要上了哟 为主人报仇
+Dialogue: 0,0:21:35.40,0:21:37.20,Default,NTP,0,0,0,,虽然是你的错
+Dialogue: 0,0:21:45.23,0:21:46.78,Default,NTP,0,0,0,,七伤拳!
+Dialogue: 0,0:21:49.47,0:21:51.32,Default,NTP,0,0,0,,惩罚打屁股!
+Dialogue: 0,0:21:53.59,0:21:55.05,Default,NTP,0,0,0,,大钉锤!
+Dialogue: 0,0:22:10.13,0:22:11.61,Default,NTP,0,0,0,,完全没有还手之力
+Dialogue: 0,0:22:13.71,0:22:15.67,Default,NTP,0,0,0,,真的打起来好强
+Dialogue: 0,0:22:15.92,0:22:17.00,Default,NTP,0,0,0,,被干掉了
+Dialogue: 0,0:22:17.14,0:22:20.68,Default,NTP,0,0,0,,光是猜拳没有意义吧
+Dialogue: 0,0:22:25.34,0:22:33.19,Default,NTP,0,0,0,,用水手服征服地球 我的野心 会简单的被你们破坏吗
+Dialogue: 0,0:22:34.00,0:22:35.67,Default,NTP,0,0,0,,挺好 
+Dialogue: 0,0:22:46.74,0:22:48.05,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:22:48.63,0:22:52.67,Default,NTP,0,0,0,,一定没事的 相信着为他祈祷吧
+Dialogue: 0,0:22:53.10,0:22:55.99,Default,NTP,0,0,0,,嗯?说什么鬼话呢
+Dialogue: 0,0:22:56.28,0:22:59.15,Default,NTP,0,0,0,,真是的 烦死了
+Dialogue: 0,0:23:22.03,0:23:23.33,Default,NTP,0,0,0,,要去了
+Dialogue: 0,0:23:23.53,0:23:27.86,Default,NTP,0,0,0,,不行 要去了
+Dialogue: 0,0:23:30.12,0:23:35.77,Default,NTP,0,0,0,,记住了吗 婊子们 在浮游大陆拉普卡的修行成果
+Dialogue: 0,0:23:36.07,0:23:39.97,Default,NTP,0,0,0,,哎 怎样的 让我们听听
+Dialogue: 0,0:23:40.81,0:23:41.97,Default,NTP,0,0,0,,好吧
+Dialogue: 0,0:23:42.47,0:23:44.85,Default,NTP,0,0,0,,那就开始说明
+Dialogue: 0,0:23:44.92,0:23:45.98,Default,NTP,0,0,0,,嗯 嗯
+Dialogue: 0,0:23:46.34,0:23:47.59,Default,NTP,0,0,0,,有兴趣
+Dialogue: 0,0:23:49.80,0:23:55.33,Default,NTP,0,0,0,,首先是从哪里开始呢 发生太多了
+Dialogue: 0,0:23:55.32,0:23:56.94,Default,NTP,0,0,0,,嗯 嗯
+Dialogue: 0,0:23:57.23,0:24:00.67,Default,NTP,0,0,0,,最大的难关是最后的…
+Dialogue: 0,0:24:02.64,0:24:04.25,Default,NTP,0,0,0,,这 这是?
+Dialogue: 0,0:24:04.26,0:24:05.75,Default,NTP,0,0,0,,控制能力的测试
+Dialogue: 0,0:24:05.89,0:24:11.63,Default,NTP,0,0,0,,在那边的烛台 绳子断掉之前必须射精
+Dialogue: 0,0:24:12.40,0:24:14.64,Default,NTP,0,0,0,,绳子一分钟就会烧断掉
+Dialogue: 0,0:24:14.78,0:24:16.57,Default,NTP,0,0,0,,唉 就一分钟
+Dialogue: 0,0:24:17.24,0:24:23.25,Default,NTP,0,0,0,,男人为了繁衍子孙\N不管在怎样危机的情况下都要快速完成做爱
+Dialogue: 0,0:24:23.68,0:24:27.08,Default,NTP,0,0,0,,就算那么说 这说是测试 却赌上性命啊
+Dialogue: 0,0:24:27.35,0:24:29.36,Default,NTP,0,0,0,,测试就是要拼命
+Dialogue: 0,0:24:29.70,0:24:33.45,Default,NTP,0,0,0,,你们 帮助神崎大人放松
+Dialogue: 0,0:24:33.70,0:24:35.03,Default,NTP,0,0,0,,好
+Dialogue: 0,0:24:38.88,0:24:39.92,Default,NTP,0,0,0,,那么 点火
+Dialogue: 0,0:24:42.59,0:24:45.88,Default,NTP,0,0,0,,啊 这种状态下怎么能去啊
+Dialogue: 0,0:24:56.15,0:24:57.04,Default,NTP,0,0,0,,挺起来了
+Dialogue: 0,0:25:18.84,0:25:20.23,Default,NTP,0,0,0,,要去了
+Dialogue: 0,0:25:29.20,0:25:32.72,Default,NTP,0,0,0,,神崎大人 太精彩了 不愧是亚特兰蒂斯的救世主
+Dialogue: 0,0:25:34.38,0:25:36.03,Default,NTP,0,0,0,,主人 
+Dialogue: 0,0:26:07.45,0:26:10.63,Default,NTP,0,0,0,,好大
+Dialogue: 0,0:26:15.99,0:26:18.89,Default,NTP,0,0,0,,首先和那个女人合体
+Dialogue: 0,0:26:19.84,0:26:21.03,Default,NTP,0,0,0,,不要出声
+Dialogue: 0,0:26:21.97,0:26:24.12,Default,NTP,0,0,0,,到底会发生什么
+Dialogue: 0,0:26:24.68,0:26:26.39,Default,NTP,0,0,0,,来 开始吧
+Dialogue: 0,0:26:26.78,0:26:27.53,Default,NTP,0,0,0,,是
+Dialogue: 0,0:26:33.23,0:26:35.63,Default,NTP,0,0,0,,哎 脑袋也能进去吧
+Dialogue: 0,0:26:45.28,0:26:49.25,Default,NTP,0,0,0,,等等 这是什么情况
+Dialogue: 0,0:26:51.14,0:26:55.11,Default,NTP,0,0,0,,测试 手脚不沾地 测试持久力
+Dialogue: 0,0:26:55.42,0:26:56.64,Default,NTP,0,0,0,,哎?
+Dialogue: 0,0:26:56.98,0:27:00.29,Default,NTP,0,0,0,,然后她会通过前面的台桥
+Dialogue: 0,0:27:00.29,0:27:01.60,Default,NTP,0,0,0,,哎?!
+Dialogue: 0,0:27:07.14,0:27:11.19,Default,NTP,0,0,0,,一点点筋力下降的话 马上就会掉下去吧
+Dialogue: 0,0:27:16.61,0:27:19.90,Default,NTP,0,0,0,,像过去很多男人一样 变成鲨鱼的食饵
+Dialogue: 0,0:27:19.90,0:27:20.93,Default,NTP,0,0,0,,啊哎?
+Dialogue: 0,0:27:20.93,0:27:21.49,Default,NTP,0,0,0,,开始
+Dialogue: 0,0:27:21.41,0:27:22.58,Default,NTP,0,0,0,,主人!
+Dialogue: 0,0:27:22.58,0:27:24.77,Default,NTP,0,0,0,,怎么那样 太乱来了
+Dialogue: 0,0:27:25.50,0:27:25.80,Default,NTP,0,0,0,,哎哟
+Dialogue: 0,0:27:26.46,0:27:26.86,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:27:28.88,0:27:30.39,Default,NTP,0,0,0,,等一下啊
+Dialogue: 0,0:27:31.08,0:27:35.86,Default,NTP,0,0,0,,主人 为了拯救世界 加油
+Dialogue: 0,0:27:35.93,0:27:39.32,Default,NTP,0,0,0,,呀 世界什么的 我死了的话 
+Dialogue: 0,0:27:39.62,0:27:43.50,Default,NTP,0,0,0,,插入我们那里面 让它继续勃起
+Dialogue: 0,0:27:45.15,0:27:47.78,Default,NTP,0,0,0,,这种死法 不要啊
+Dialogue: 0,0:27:57.32,0:27:59.28,Default,NTP,0,0,0,,啊!可恶
+Dialogue: 0,0:28:02.35,0:28:05.64,Default,NTP,0,0,0,,主人 再加把劲
+Dialogue: 0,0:28:12.02,0:28:14.21,Default,NTP,0,0,0,,啊 得救了
+Dialogue: 0,0:28:14.42,0:28:15.76,Default,NTP,0,0,0,,太棒了
+Dialogue: 0,0:28:16.70,0:28:18.45,Default,NTP,0,0,0,,就是这样 
+Dialogue: 0,0:28:18.51,0:28:20.64,Default,NTP,0,0,0,,呀 好棒
+Dialogue: 0,0:28:20.83,0:28:22.42,Default,NTP,0,0,0,,好憧憬
+Dialogue: 0,0:28:22.98,0:28:24.69,Default,NTP,0,0,0,,心跳的好快
+Dialogue: 0,0:28:25.94,0:28:29.81,Default,NTP,0,0,0,,把那个成果 再在我身上试一下
+Dialogue: 0,0:28:29.89,0:28:30.86,Default,NTP,0,0,0,,我也是 
+Dialogue: 0,0:28:30.83,0:28:31.75,Default,NTP,0,0,0,,我也要
+Dialogue: 0,0:28:35.50,0:28:39.18,Default,NTP,0,0,0,,好吧 一起给你们吧
+Dialogue: 0,0:28:40.44,0:28:47.38,Default,NTP,0,0,0,,do re mi fa so ra shi do
+Dialogue: 0,0:28:48.52,0:28:55.81,Default,NTP,0,0,0,,从～哪～个～开～始～做～呢～
+Dialogue: 0,0:28:56.93,0:28:58.33,Default,NTP,0,0,0,,好幸运
+Dialogue: 0,0:29:20.26,0:29:22.15,Default,NTP,0,0,0,,也给我 
+Dialogue: 0,0:29:23.67,0:29:24.47,Default,NTP,0,0,0,,好
+Dialogue: 0,0:29:48.49,0:29:51.79,Default,NTP,0,0,0,,呐 也快点儿给我
+Dialogue: 0,0:29:52.04,0:29:52.81,Default,NTP,0,0,0,,哦哟
+Dialogue: 0,0:30:11.47,0:30:14.33,Default,NTP,0,0,0,,给Lucky酱也... 
+Dialogue: 0,0:30:15.99,0:30:17.80,Default,NTP,0,0,0,,哦 Lucky酱Lucky酱
+Dialogue: 0,0:30:35.47,0:30:37.35,Default,NTP,0,0,0,,七伤拳不管用
+Dialogue: 0,0:30:37.66,0:30:40.33,Default,NTP,0,0,0,,那种事情早就明白了吧
+Dialogue: 0,0:30:40.63,0:30:44.14,Default,NTP,0,0,0,,好吵 唯独不想被你说
+Dialogue: 0,0:30:44.51,0:30:46.73,Default,NTP,0,0,0,,哼 自大狂
+Dialogue: 0,0:30:46.85,0:30:48.37,Default,NTP,0,0,0,,惩罚连弹!
+Dialogue: 0,0:30:49.22,0:30:50.14,Default,NTP,0,0,0,,哎?
+Dialogue: 0,0:31:03.33,0:31:04.45,Default,NTP,0,0,0,,怎么样 
+Dialogue: 0,0:31:04.45,0:31:06.81,Default,NTP,0,0,0,,再惩罚你一下好一些吗
+Dialogue: 0,0:31:07.72,0:31:10.00,Default,NTP,0,0,0,,真是的 我生气了哦
+Dialogue: 0,0:31:14.80,0:31:15.71,Default,NTP,0,0,0,,呀!
+Dialogue: 0,0:31:16.85,0:31:18.31,Default,NTP,0,0,0,,讨厌 H
+Dialogue: 0,0:31:19.04,0:31:21.68,Default,NTP,0,0,0,,小便光波!
+Dialogue: 0,0:31:24.62,0:31:26.56,Default,NTP,0,0,0,,怎么回事 发生什么了!
+Dialogue: 0,0:31:28.78,0:31:31.62,Default,NTP,0,0,0,,自恋 七伤剪
+Dialogue: 0,0:31:34.98,0:31:36.92,Default,NTP,0,0,0,,你竟然在那里躲开!
+Dialogue: 0,0:31:37.73,0:31:39.91,Default,NTP,0,0,0,,啊 对不起
+Dialogue: 0,0:31:40.66,0:31:46.12,Default,NTP,0,0,0,,啊啦啦 搞砸了 主人在干什么
+Dialogue: 0,0:31:53.67,0:31:56.58,Default,NTP,0,0,0,,啊 主人
+Dialogue: 0,0:32:11.47,0:32:13.46,Default,NTP,0,0,0,,不能原谅
+Dialogue: 0,0:32:19.07,0:32:21.12,Default,NTP,0,0,0,,不能原谅
+Dialogue: 0,0:32:39.06,0:32:40.88,Default,NTP,0,0,0,,这 到底
+Dialogue: 0,0:32:47.49,0:32:51.00,Default,NTP,0,0,0,,睦月司令 这里已经不行了 逃吧
+Dialogue: 0,0:32:51.70,0:32:54.14,Default,NTP,0,0,0,,我 我的野心
+Dialogue: 0,0:33:04.52,0:33:06.60,Default,NTP,0,0,0,,怎 怎么了
+Dialogue: 0,0:33:07.47,0:33:09.22,Default,NTP,0,0,0,,呐 再来 
+Dialogue: 0,0:33:09.42,0:33:11.30,Default,NTP,0,0,0,,再来...
+Dialogue: 0,0:33:12.83,0:33:15.13,Default,NTP,0,0,0,,不 不要
+Dialogue: 0,0:33:16.09,0:33:19.94,Default,NTP,0,0,0,,主人 我就知道你没事
+Dialogue: 0,0:33:20.15,0:33:22.77,Default,NTP,0,0,0,,又搞成这样啊 你们
+Dialogue: 0,0:33:23.78,0:33:24.84,Default,NTP,0,0,0,,这些孩子 
+Dialogue: 0,0:33:25.03,0:33:29.85,Default,NTP,0,0,0,,从村子被掳走的企鹅 是被变形了啊
+Dialogue: 0,0:33:30.60,0:33:32.85,Default,NTP,0,0,0,,神崎君 再见吧
+Dialogue: 0,0:33:34.69,0:33:35.43,Default,NTP,0,0,0,,睦月…
+Dialogue: 0,0:33:47.87,0:33:52.27,Default,NTP,0,0,0,,帮我们救出了小伙伴 呠 怎么感谢你们才好 呠
+Dialogue: 0,0:33:58.43,0:34:00.85,Default,NTP,0,0,0,,已经够了 什么都不用说了
+Dialogue: 0,0:34:26.93,0:34:31.22,Default,NTP,0,0,0,,主人 差不多也给我…
+Dialogue: 0,0:34:32.77,0:34:34.18,Default,NTP,0,0,0,,开饭了
+Dialogue: 0,0:34:34.77,0:34:36.19,Default,NTP,0,0,0,,好!
+Dialogue: 0,0:34:38.39,0:34:41.54,Default,NTP,0,0,0,,讨厌讨厌讨厌
+Dialogue: 0,0:34:43.86,0:34:45.24,Default,NTP,0,0,0,,肚子饿了 
+Dialogue: 0,0:34:46.88,0:34:50.40,Default,NTP,0,0,0,,今天是大餐哦 快点儿吃吧
+Dialogue: 0,0:34:52.38,0:34:53.31,Default,NTP,0,0,0,,这个是
+Dialogue: 0,0:34:54.17,0:35:00.28,Default,NTP,0,0,0,,企鹅生切 企鹅天妇罗 烤企鹅头 还有企鹅火锅
+Dialogue: 0,0:35:01.85,0:35:03.06,Default,NTP,0,0,0,,好可怜 
+Dialogue: 0,0:35:06.00,0:35:09.01,Default,NTP,0,0,0,,主人 很喜欢企鹅吧
+Dialogue: 0,0:35:09.37,0:35:11.80,Default,NTP,0,0,0,,啊…
+Dialogue: 0,0:35:13.00,0:35:15.49,Default,NTP,0,0,0,,噢噢噢…
+Dialogue: 0,0:35:13.00,0:35:15.49,staff,NTP,0,0,0,,(完--)

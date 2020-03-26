@@ -1,0 +1,279 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Last Style Storage: Default
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SSS - Nami,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H00456C75,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Chisato,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H0062472A,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Katsuo,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H000A3F0A,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Sasao,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H0045545E,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Naoko,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H002F154E,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Keiko,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H005E6253,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Tomoko,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H004B3C7E,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Andere,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H002C2C2C,&H64000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+Style: SSS - Titel 1,Calligraph421 BT,20,&H00744332,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: SSS - Chisato Angriff,Pokemon Solid,166,&H00FFFFFF,&H00FFFFFF,&H1ECA9D2B,&H64000000,-1,0,0,0,80,100,6,0,1,4,2,2,20,20,5,1
+Style: SSS - Logo,Chinacat,20,&H00FFFFFF,&H00FFFFFF,&H00FBB400,&H64000000,0,0,0,0,100,100,0,0,1,2,0,9,20,20,20,1
+Style: SSS - Logo/Fun,Chinacat,26,&H00FFFFFF,&H00FFFFFF,&H00FBB400,&H64000000,0,0,0,0,100,100,0,0,1,2,0,1,18,18,18,1
+Style: SSS - Box,Chinacat,20,&H00000000,&H00000000,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,0,0,9,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:15.81,0:00:16.71,SSS - Nami,,0,0,0,,Also dann!
+Dialogue: 0,0:00:34.76,0:00:36.29,SSS - Nami,,0,0,0,,Macht bitte Platz!!
+Dialogue: 0,0:00:37.07,0:00:37.50,SSS - Andere,,0,0,0,,Vorsicht!
+Dialogue: 0,0:00:46.41,0:00:48.43,SSS - Andere,,0,0,0,,Hey, alles in Ordnung?
+Dialogue: 0,0:00:51.05,0:00:52.74,SSS - Nami,,0,0,0,,Verzeihung.
+Dialogue: 0,0:00:54.32,0:00:55.65,SSS - Nami,,0,0,0,,Das Parfait!
+Dialogue: 0,0:00:59.69,0:01:02.35,SSS - Chisato,,0,0,0,,Puuh, ganz schön knapp...
+Dialogue: 0,0:01:04.29,0:01:08.13,SSS - Chisato,,0,0,0,,Hab's gefangen... Deine Brüste! Brüste!!
+Dialogue: 0,0:01:10.87,0:01:12.23,SSS - Chisato,,0,0,0,,Liegen bloß!
+Dialogue: 0,0:01:25.75,0:01:30.74,SSS - Nami,,0,0,0,,Neiiiiiiiiin!
+Dialogue: 0,0:01:30.73,0:01:36.86,SSS - Box,,0,0,0,,{\pos(640,0)}{\p1}m 0 0 l 640 0 640 140 0 140{\p0}
+Dialogue: 0,0:01:30.82,0:01:36.86,SSS - Logo,,0,0,0,,{\fad(0,900)}http://deutsche-doujins.to
+Dialogue: 0,0:01:30.82,0:01:36.86,SSS - Logo/Fun,,0,0,0,,{\fad(0,900)}
+Dialogue: 0,0:01:38.23,0:01:39.82,SSS - Nami,,0,0,0,,Vielen Dank für vorhin...
+Dialogue: 0,0:01:40.63,0:01:42.43,SSS - Nami,,0,0,0,,Ich bin Nami Koishikawa.
+Dialogue: 0,0:01:42.80,0:01:43.63,SSS - Nami,,0,0,0,,Und du...?
+Dialogue: 0,0:01:44.60,0:01:48.47,SSS - Chisato,,0,0,0,,Chisato Yamane. Ist mein erster Tag heute...
+Dialogue: 0,0:01:48.87,0:01:50.13,SSS - Chisato,,0,0,0,,Freut mich dich kennenzulernen.
+Dialogue: 0,0:01:50.54,0:01:53.87,SSS - Nami,,0,0,0,,Achso... Ich bin auch noch nicht lange hier.
+Dialogue: 0,0:01:54.21,0:01:56.18,SSS - Nami,,0,0,0,,Die Dienstuniformen waren so süß hier!
+Dialogue: 0,0:01:56.81,0:02:00.18,SSS - Nami,,0,0,0,,Und der Manager ist auch sehr nett.
+Dialogue: 0,0:02:00.39,0:02:14.32,SSS - Titel 1,,0,0,0,,{\fad(0,2500)}{\move(300,20,155,128,4000,7000)\fs48\frz0.2\t(4000,7000,\fs24)}Damenumkleide
+Dialogue: 0,0:02:01.02,0:02:04.64,SSS - Chisato,,0,0,0,,Wirklich? Den Eindruck hatte ich nun gar nicht...
+Dialogue: 0,0:02:05.22,0:02:05.88,SSS - Nami,,0,0,0,,So?
+Dialogue: 0,0:02:06.96,0:02:07.92,SSS - Chisato,,0,0,0,,Ah! Soll ich den Müll rausbringen?
+Dialogue: 0,0:02:08.26,0:02:10.16,SSS - Nami,,0,0,0,,Brauchst du nicht. Ich nehme ihn mit, wenn ich gehe...
+Dialogue: 0,0:02:26.24,0:02:27.54,SSS - Nami,,0,0,0,,Man sieht sich!
+Dialogue: 0,0:02:32.51,0:02:33.14,SSS - Nami,,0,0,0,,Oh je!
+Dialogue: 0,0:02:34.28,0:02:36.84,SSS - Nami,,0,0,0,,Kannst du mich hören? Alles in Ordnung?
+Dialogue: 0,0:02:37.35,0:02:38.88,SSS - Andere,,0,0,0,,{\fs20}Ich kann nicht mehr...
+Dialogue: 0,0:02:39.29,0:02:41.95,SSS - Nami,,0,0,0,,Halte durch! Ich hole Hilfe...
+Dialogue: 0,0:02:43.93,0:02:44.79,SSS - Andere,,0,0,0,,Hier...
+Dialogue: 0,0:02:47.20,0:02:51.66,SSS - Andere,,0,0,0,,Nimm meinen Platz ein... Bitte...
+Dialogue: 0,0:02:53.40,0:02:54.20,SSS - Nami,,0,0,0,,Was ist das?
+Dialogue: 0,0:03:15.72,0:03:19.72,SSS - Nami,,0,0,0,,Und seitdem habe ich dieses merkwürdige Ding bei mir...
+Dialogue: 0,0:03:20.53,0:03:24.56,SSS - Nami,,0,0,0,,Ich frag' mich was es ist. Sieht fast wie ein Auge aus...
+Dialogue: 0,0:03:32.47,0:03:34.53,SSS - Nami,,0,0,0,,Ein Lüstling?!
+Dialogue: 0,0:03:38.78,0:03:39.68,SSS - Nami,,0,0,0,,H-Hey...
+Dialogue: 0,0:03:42.58,0:03:43.31,SSS - Nami,,0,0,0,,Nicht...
+Dialogue: 0,0:03:48.79,0:03:51.05,SSS - Nami,,0,0,0,,Nein, nicht...
+Dialogue: 0,0:04:04.71,0:04:09.37,SSS - Nami,,0,0,0,,Lass... Lass... das bitte...
+Dialogue: 0,0:04:37.41,0:04:39.10,SSS - Andere,,0,0,0,,Co... Cosplay?
+Dialogue: 0,0:04:39.87,0:04:42.34,SSS - Andere,,0,0,0,,Was? Eine Exhibitionistin?!
+Dialogue: 0,0:04:43.41,0:04:45.31,SSS - Andere,,0,0,0,,Wie Sexy!
+Dialogue: 0,0:04:55.72,0:04:57.12,SSS - Nami,,0,0,0,,Hört... Hört auf...
+Dialogue: 0,0:05:00.60,0:05:03.12,SSS - Nami,,0,0,0,,Nicht...
+Dialogue: 0,0:05:10.61,0:05:14.84,SSS - Nami,,0,0,0,,Nein... Nein... Neiiiiin!!!
+Dialogue: 0,0:05:20.45,0:05:23.18,SSS - Nami,,0,0,0,,Was passiert hier?!
+Dialogue: 0,0:05:36.46,0:05:37.09,SSS - Andere,,0,0,0,,J-Ja...
+Dialogue: 0,0:05:40.67,0:05:41.69,SSS - Katsuo,,0,0,0,,Nami?!
+Dialogue: 0,0:05:55.28,0:05:58.91,SSS - Katsuo,,0,0,0,,Nami! Wie kannst du nur in diesem Aufzug nach Hause kommen?!
+Dialogue: 0,0:05:59.59,0:06:01.18,SSS - Katsuo,,0,0,0,,Ich wäre fast...!\N...
+Dialogue: 0,0:06:01.52,0:06:03.55,SSS - Katsuo,,0,0,0,,{\i1}Ich wäre fast vom Anblick meiner Schwester gekommen...{\i0}
+Dialogue: 0,0:06:03.99,0:06:04.96,SSS - Nami,,0,0,0,,Hör zu, Katsuo!
+Dialogue: 0,0:06:05.29,0:06:07.16,SSS - Nami,,0,0,0,,Es ist so einiges passiert.
+Dialogue: 0,0:06:08.23,0:06:09.53,SSS - Katsuo,,0,0,0,,Interessiert mich nicht!
+Dialogue: 0,0:06:09.86,0:06:14.30,SSS - Katsuo,,0,0,0,,Ich werde da ganz bestimmt nicht mitmachen!
+Dialogue: 0,0:06:16.64,0:06:18.70,SSS - Katsuo,,0,0,0,,Ich gehe.
+Dialogue: 0,0:06:22.08,0:06:24.77,SSS - Nami,,0,0,0,,Was soll ich nur damit anfangen?
+Dialogue: 0,0:07:05.75,0:07:08.85,SSS - Nami,,0,0,0,,Heute ist so viel passiert. Ich bin einfach nur platt.
+Dialogue: 0,0:07:16.16,0:07:20.33,SSS - Nami,,0,0,0,,Was soll ich tun? Katsuo ist noch nicht zurück...
+Dialogue: 0,0:07:20.70,0:07:21.96,SSS - Nami,,0,0,0,,Ich geh' besser mal...
+Dialogue: 0,0:07:24.87,0:07:27.27,SSS - Nami,,0,0,0,,Ja? Wer ist da?
+Dialogue: 0,0:07:28.11,0:07:29.63,SSS - Sasao,,0,0,0,,Ich bin's, Sasao.
+Dialogue: 0,0:07:30.65,0:07:33.67,SSS - Nami,,0,0,0,,Sasao... Mein Manager?!
+Dialogue: 0,0:07:35.05,0:07:36.71,SSS - Nami,,0,0,0,,Ich komme gleich!
+Dialogue: 0,0:07:41.82,0:07:43.98,SSS - Nami,,0,0,0,,So kann ich ihm jedenfalls nicht öffnen...
+Dialogue: 0,0:07:45.53,0:07:47.26,SSS - Sasao,,0,0,0,,Gu-ten Abend...
+Dialogue: 0,0:07:56.84,0:07:58.50,SSS - Sasao,,0,0,0,,Entschuldigt die Störung.
+Dialogue: 0,0:08:01.91,0:08:05.40,SSS - Nami,,0,0,0,,Also... was verschafft mir die Ehre?
+Dialogue: 0,0:08:06.11,0:08:07.71,SSS - Nami,,0,0,0,,Zu dieser späten Stunde?
+Dialogue: 0,0:08:08.45,0:08:13.89,SSS - Sasao,,0,0,0,,Hier, das wollte ich ihnen geben.
+Dialogue: 0,0:08:15.02,0:08:17.62,SSS - Sasao,,0,0,0,,Ihre neue Uniform.
+Dialogue: 0,0:08:18.26,0:08:23.89,SSS - Sasao,,0,0,0,,Ihre jetzige... war doch etwas eng, oder?
+Dialogue: 0,0:08:24.07,0:08:27.63,SSS - Nami,,0,0,0,,Schon... Und deshalb sind sie den weiten Weg her gekommen?
+Dialogue: 0,0:08:29.10,0:08:30.59,SSS - Sasao,,0,0,0,,Ziehen sie sie doch bitte mal an.
+Dialogue: 0,0:08:31.54,0:08:34.01,SSS - Nami,,0,0,0,,Hä?! Meinen sie... jetzt?
+Dialogue: 0,0:08:34.61,0:08:41.88,SSS - Sasao,,0,0,0,,Genau. Ich habe sie extra für sie anfertigen lassen.
+Dialogue: 0,0:08:44.02,0:08:45.54,SSS - Nami,,0,0,0,,N-Na gut...
+Dialogue: 0,0:08:46.49,0:08:49.05,SSS - Nami,,0,0,0,,Dann... Einen Moment bitte...
+Dialogue: 0,0:08:57.27,0:09:01.93,SSS - Nami,,0,0,0,,Was zum!? Da kann man ja alles sehen?
+Dialogue: 0,0:09:02.74,0:09:03.90,SSS - Sasao,,0,0,0,,Und? Passt sie?
+Dialogue: 0,0:09:10.78,0:09:14.31,SSS - Sasao,,0,0,0,,Sehr gut... Gefällt sie ihnen?
+Dialogue: 0,0:09:14.72,0:09:18.45,SSS - Nami,,0,0,0,,Herr Manager... das ist...
+Dialogue: 0,0:09:18.82,0:09:24.69,SSS - Sasao,,0,0,0,,Ich habe sie selbst entworfen... extra für sie...
+Dialogue: 0,0:09:25.49,0:09:26.43,SSS - Nami,,0,0,0,,Warum?
+Dialogue: 0,0:09:27.19,0:09:28.96,SSS - Nami,,0,0,0,,Was soll denn das jetzt?!
+Dialogue: 0,0:09:30.00,0:09:33.99,SSS - Sasao,,0,0,0,,Ihr Geruch... Sie riechen so gut...
+Dialogue: 0,0:09:36.27,0:09:38.33,SSS - Sasao,,0,0,0,,Einfach unwiderstehlich!
+Dialogue: 0,0:09:39.44,0:09:40.87,SSS - Nami,,0,0,0,,Lassen sie das bitte!
+Dialogue: 0,0:09:41.81,0:09:44.87,SSS - Nami,,0,0,0,,Herr Manager! Das ist sexuelle Belästigung!
+Dialogue: 0,0:09:47.58,0:09:50.85,SSS - Sasao,,0,0,0,,Ich kann mich nicht mehr zurückhalten!
+Dialogue: 0,0:09:59.53,0:10:00.59,SSS - Nami,,0,0,0,,Ein Monster?!
+Dialogue: 0,0:10:01.40,0:10:05.06,SSS - Sasao,,0,0,0,,Aaaah, das war jetzt aber verletzend...
+Dialogue: 0,0:10:05.50,0:10:07.59,SSS - Sasao,,0,0,0,,Ich bin doch kein Monster...
+Dialogue: 0,0:10:08.90,0:10:12.84,SSS - Sasao,,0,0,0,,Ich bin ein Sex-Dämon!
+Dialogue: 0,0:10:14.88,0:10:15.93,SSS - Nami,,0,0,0,,Ein Sex-Dämon?
+Dialogue: 0,0:10:16.51,0:10:18.50,SSS - Sasao,,0,0,0,,Ja, so ist's richtig!
+Dialogue: 0,0:10:20.25,0:10:20.91,SSS - Nami,,0,0,0,,Was?
+Dialogue: 0,0:10:21.02,0:10:22.14,SSS - Nami,,0,0,0,,Was zum...!?
+Dialogue: 0,0:10:22.32,0:10:27.75,SSS - Sasao,,0,0,0,,Du solltest dich etwas mehr anstrengen, sonst rutscht dir noch ein Nippel raus...
+Dialogue: 0,0:10:31.46,0:10:34.36,SSS - Nami,,0,0,0,,N-Nein...
+Dialogue: 0,0:10:35.13,0:10:36.46,SSS - Nami,,0,0,0,,Schauen sie weg!
+Dialogue: 0,0:10:37.53,0:10:43.20,SSS - Sasao,,0,0,0,,Das Auge der Lust passt wirklich zu dir.\NDiese hübschen Brüste... wie sie wackeln...
+Dialogue: 0,0:10:44.91,0:10:48.31,SSS - Sasao,,0,0,0,,Ach ja, wir redeten gerade über Sex-Dämonen.
+Dialogue: 0,0:10:48.81,0:10:54.81,SSS - Sasao,,0,0,0,,Wir lieben es uns an den Säften junger Frauen zu laben.
+Dialogue: 0,0:10:57.18,0:11:01.45,SSS - Sasao,,0,0,0,,Du weißt wirklich überhaupt nichts, oder?
+Dialogue: 0,0:11:02.02,0:11:03.99,SSS - Sasao,,0,0,0,,Umso besser für mich!
+Dialogue: 0,0:11:06.06,0:11:12.19,SSS - Sasao,,0,0,0,,Bist du etwa noch Jungfrau?\NDich werd' ich mir schmecken lassen!
+Dialogue: 0,0:11:12.77,0:11:15.83,SSS - Sasao,,0,0,0,,Fangen wir mit der Vorspeise an!
+Dialogue: 0,0:11:18.37,0:11:23.97,SSS - Nami,,0,0,0,,So langsam reicht's mir aber... Warum... Warum nur?
+Dialogue: 0,0:11:24.55,0:11:27.64,SSS - Nami,,0,0,0,,Erst bei der Arbeit, dann später im Zug...
+Dialogue: 0,0:11:27.95,0:11:31.04,SSS - Nami,,0,0,0,,Warum gerate ich nur ständig in diese Situationen?
+Dialogue: 0,0:11:35.16,0:11:39.39,SSS - Nami,,0,0,0,,Es fing alles an, als sie mir dieses Augenteil gab.
+Dialogue: 0,0:11:41.23,0:11:42.86,SSS - Sasao,,0,0,0,,Selbstverständlich!
+Dialogue: 0,0:11:43.03,0:11:46.47,SSS - Sasao,,0,0,0,,Das Auge der Lust verstärkt deine Pheromonproduktion...
+Dialogue: 0,0:11:46.47,0:11:50.49,SSS - Sasao,,0,0,0,,Ich kann es an deinem ganzen Körper riechen...
+Dialogue: 0,0:11:51.57,0:11:53.34,SSS - Nami,,0,0,0,,Auge der Lust?
+Dialogue: 0,0:11:53.47,0:11:56.68,SSS - Sasao,,0,0,0,,Du benutzt es, um Dämonen anzulocken...
+Dialogue: 0,0:11:56.68,0:11:59.74,SSS - Nami,,0,0,0,,Ich hab' keine Ahnung wovon sie da sprechen!
+Dialogue: 0,0:11:59.88,0:12:02.64,SSS - Nami,,0,0,0,,Nicht! Das Ding da brauch ich doch gar nicht!
+Dialogue: 0,0:12:03.18,0:12:05.12,SSS - Sasao,,0,0,0,,So funktioniert das leider nicht.
+Dialogue: 0,0:12:06.09,0:12:09.75,SSS - Sasao,,0,0,0,,Solange niemand das Auge von dir übernehmen will...
+Dialogue: 0,0:12:09.86,0:12:13.35,SSS - Sasao,,0,0,0,,bist du daran gebunden.
+Dialogue: 0,0:12:30.08,0:12:31.84,SSS - Sasao,,0,0,0,,Ja, das gefällt mir!
+Dialogue: 0,0:12:32.61,0:12:37.55,SSS - Sasao,,0,0,0,,Die Liebessäfte einer Jägerin schmecken am besten!
+Dialogue: 0,0:12:38.02,0:12:39.42,SSS - Nami,,0,0,0,,Einer Jägerin?
+Dialogue: 0,0:12:40.15,0:12:44.56,SSS - Sasao,,0,0,0,,Genau, ihr jagt und vernichtet uns.
+Dialogue: 0,0:12:45.23,0:12:46.89,SSS - Nami,,0,0,0,,A-Aber...
+Dialogue: 0,0:12:48.90,0:12:52.66,SSS - Sasao,,0,0,0,,Schon gut, probier dein Glück!
+Dialogue: 0,0:12:53.23,0:12:54.13,SSS - Sasao,,0,0,0,,Los!
+Dialogue: 0,0:12:54.94,0:12:56.23,SSS - Sasao,,0,0,0,,Los!
+Dialogue: 0,0:12:56.97,0:12:59.91,SSS - Sasao,,0,0,0,,Los! Los! Los!
+Dialogue: 0,0:13:00.34,0:13:03.11,SSS - Nami,,0,0,0,,Nein! Brüderchen! Hilf mir!!
+Dialogue: 0,0:13:05.28,0:13:05.91,SSS - Nami,,0,0,0,,Brüderchen!
+Dialogue: 0,0:13:05.91,0:13:08.78,SSS - Katsuo,,0,0,0,,Du Wichser! Was hast du meiner Schwester angetan?
+Dialogue: 0,0:13:10.48,0:13:12.35,SSS - Sasao,,0,0,0,,Warum...
+Dialogue: 0,0:13:15.76,0:13:16.62,SSS - Sasao,,0,0,0,,Wer bist'n du?!
+Dialogue: 0,0:13:20.33,0:13:21.66,SSS - Sasao,,0,0,0,,Komm mir besser...
+Dialogue: 0,0:13:22.36,0:13:24.26,SSS - Sasao,,0,0,0,,...nicht in die Quere!
+Dialogue: 0,0:13:27.87,0:13:28.86,SSS - Nami,,0,0,0,,Brüderchen!
+Dialogue: 0,0:13:31.34,0:13:34.93,SSS - Sasao,,0,0,0,,Ah, hier ist ja ganz schön was los...
+Dialogue: 0,0:13:35.24,0:13:38.91,SSS - Sasao,,0,0,0,,Lass uns an einem ruhigeren Ort weitermachen...
+Dialogue: 0,0:13:39.15,0:13:40.27,SSS - Nami,,0,0,0,,Bleib wo du bist!
+Dialogue: 0,0:14:01.27,0:14:05.80,SSS - Sasao,,0,0,0,,Wie ärgerlich... ärgerlich... Haut einfach ohne mich ab...
+Dialogue: 0,0:14:10.49,0:14:11.70,SSS - Katsuo,,0,0,0,,N-Nami!
+Dialogue: 0,0:14:31.47,0:14:32.26,SSS - Chisato,,0,0,0,,Das ist doch...
+Dialogue: 0,0:14:33.13,0:14:34.90,SSS - Katsuo,,0,0,0,,Namiiiiii
+Dialogue: 0,0:14:37.30,0:14:38.40,SSS - Chisato,,0,0,0,,Was ist passiert?
+Dialogue: 0,0:14:39.64,0:14:40.37,SSS - Katsuo,,0,0,0,,Du bist...?
+Dialogue: 0,0:14:40.64,0:14:43.17,SSS - Chisato,,0,0,0,,Eine Freundin von Nami. Wo ist sie?
+Dialogue: 0,0:14:43.34,0:14:45.40,SSS - Katsuo,,0,0,0,,Sie wurde von so 'nem seltsammen Kerl angegriffen und dann...
+Dialogue: 0,0:14:45.40,0:14:47.07,SSS - Katsuo,,0,0,0,,{\fs22}...fliegt sie aus dem Fenster.
+Dialogue: 0,0:14:45.57,0:14:46.25,SSS - Chisato,,0,0,0,,Alles klar...
+Dialogue: 0,0:14:47.07,0:14:48.24,SSS - Katsuo,,0,0,0,,{\fs22}Verdammt, ich check's nicht...
+Dialogue: 0,0:14:47.38,0:14:48.25,SSS - Chisato,,0,0,0,,Hab's Verstanden!
+Dialogue: 0,0:15:07.84,0:15:10.43,SSS - Nami,,0,0,0,,Es reicht! Komm mir nicht zu nah!
+Dialogue: 0,0:15:11.97,0:15:18.34,SSS - Sasao,,0,0,0,,Du sagst so süße Dinge... so süß... einfach bezaubernd...
+Dialogue: 0,0:15:27.72,0:15:31.35,SSS - Sasao,,0,0,0,,Da hast du mir vielleicht Umstände bereitet! Aber jetzt...
+Dialogue: 0,0:15:31.46,0:15:33.32,SSS - Sasao,,0,0,0,,Hier können wir nun endlich...
+Dialogue: 0,0:15:34.36,0:15:36.06,SSS - Sasao,,0,0,0,,...anfangen zu ficken!
+Dialogue: 0,0:15:36.04,0:15:38.32,SSS - Nami,,0,0,0,,Nein!!
+Dialogue: 0,0:15:40.80,0:15:41.56,SSS - Nami,,0,0,0,,Nicht!
+Dialogue: 0,0:15:48.28,0:15:49.94,SSS - Nami,,0,0,0,,Nein...
+Dialogue: 0,0:15:50.48,0:15:51.81,SSS - Sasao,,0,0,0,,Gefällt's dir?
+Dialogue: 0,0:15:51.91,0:15:53.57,SSS - Nami,,0,0,0,,Nein!!
+Dialogue: 0,0:15:57.62,0:16:00.52,SSS - Nami,,0,0,0,,Neiiiiiiin!!!
+Dialogue: 0,0:16:01.49,0:16:03.18,SSS - Nami,,0,0,0,,Nicht... Nicht!!
+Dialogue: 0,0:16:07.83,0:16:08.85,SSS - Nami,,0,0,0,,Nein!
+Dialogue: 0,0:16:13.50,0:16:14.19,SSS - Nami,,0,0,0,,Nein!
+Dialogue: 0,0:16:16.20,0:16:17.64,SSS - Nami,,0,0,0,,Lass mich...
+Dialogue: 0,0:16:20.41,0:16:25.61,SSS - Nami,,0,0,0,,Nicht... Hör auf!
+Dialogue: 0,0:17:05.55,0:17:07.49,SSS - Chisato,,0,0,0,,Nami-san!
+Dialogue: 0,0:17:12.56,0:17:13.22,SSS - Chisato,,0,0,0,,Nami-san!
+Dialogue: 0,0:17:14.19,0:17:15.63,SSS - Nami,,0,0,0,,Chisato-chan?
+Dialogue: 0,0:17:16.30,0:17:17.70,SSS - Sasao,,0,0,0,,Sieh an, sieh an...
+Dialogue: 0,0:17:17.90,0:17:19.37,SSS - Sasao,,0,0,0,,Chisato-kun ist da...
+Dialogue: 0,0:17:20.53,0:17:23.13,SSS - Chisato,,0,0,0,,Wusst ich's doch! Du bist ein mächtiger Dämon!
+Dialogue: 0,0:17:23.30,0:17:28.71,SSS - Sasao,,0,0,0,,Dich wollte ich mir eigentlich erst später vorknöpfen...
+Dialogue: 0,0:17:29.01,0:17:30.50,SSS - Sasao,,0,0,0,,Aber was soll's...
+Dialogue: 0,0:17:32.71,0:17:33.78,SSS - Chisato Angriff,,0,0,0,,Hochspannungs-Ball!
+Dialogue: 0,0:17:39.42,0:17:41.48,SSS - Chisato,,0,0,0,,Verdammt! Eine Barriere!
+Dialogue: 0,0:17:44.69,0:17:46.75,SSS - Nami,,0,0,0,,Chisato-chan...
+Dialogue: 0,0:17:58.21,0:18:00.14,SSS - Andere,,0,0,0,,Welch herrlicher Geruch...
+Dialogue: 0,0:18:00.41,0:18:04.17,SSS - Andere,,0,0,0,,Ja... Der Geruch einer Jägerin...
+Dialogue: 0,0:18:04.98,0:18:06.71,SSS - Andere,,0,0,0,,Echt jetzt?
+Dialogue: 0,0:18:11.35,0:18:15.22,SSS - Sasao,,0,0,0,,Hab' gerade keine Zeit für sie. Sie gehört euch!
+Dialogue: 0,0:18:15.46,0:18:18.08,SSS - Andere,,0,0,0,,Wirklich? Na dann...
+Dialogue: 0,0:18:20.33,0:18:24.86,SSS - Andere,,0,0,0,,Dann krall' ich mir die Pole-Position! Ich Glückspilz!
+Dialogue: 0,0:18:42.35,0:18:45.81,SSS - Nami,,0,0,0,,{\fs22}Ich kann Chisato-chans Schreie hören...
+Dialogue: 0,0:18:46.99,0:18:47.98,SSS - Nami,,0,0,0,,{\fs22}Was...
+Dialogue: 0,0:18:49.49,0:18:51.36,SSS - Nami,,0,0,0,,{\fs22}Was soll ich nur tun?
+Dialogue: 0,0:18:56.56,0:19:01.59,SSS - Andere,,0,0,0,,Jetzt werde ich als hochrangiger Dämon wiedergeboren!
+Dialogue: 0,0:19:30.36,0:19:32.13,SSS - Andere,,0,0,0,,Das war der Hammer!
+Dialogue: 0,0:19:32.18,0:19:34.00,SSS - Andere,,0,0,0,,Jetzt bin ich dran! Ich!!
+Dialogue: 0,0:19:34.24,0:19:37.17,SSS - Andere,,0,0,0,,Komm schon! Mach schneller!!
+Dialogue: 0,0:19:37.34,0:19:43.74,SSS - Andere,,0,0,0,,Ihre Säfte strömen noch immer!\NIch liebe diese Jägerinnen-Muschi!
+Dialogue: 0,0:19:44.28,0:19:47.34,SSS - Andere,,0,0,0,,Nimm das! Und das!!
+Dialogue: 0,0:19:47.92,0:19:51.35,SSS - Andere,,0,0,0,,Wir ficken dich den ganzen Tag!
+Dialogue: 0,0:19:51.55,0:19:52.52,SSS - Andere,,0,0,0,,Stopft ihre Löcher!
+Dialogue: 0,0:19:52.59,0:19:55.02,SSS - Andere,,0,0,0,,Benutz deinen Mund, Schlampe!
+Dialogue: 0,0:20:19.38,0:20:21.54,SSS - Nami,,0,0,0,,Chisato-chan...
+Dialogue: 0,0:20:23.52,0:20:28.45,SSS - Nami,,0,0,0,,Chisato-chan... Ich muss Chisato-chan retten...
+Dialogue: 0,0:20:33.09,0:20:34.25,SSS - Sasao,,0,0,0,,Was? Was zum!?
+Dialogue: 0,0:20:53.65,0:20:54.61,SSS - Nami,,0,0,0,,Chisato-chan!
+Dialogue: 0,0:21:04.42,0:21:05.65,SSS - Naoko,,0,0,0,,Mischt euch nicht ein!
+Dialogue: 0,0:21:12.03,0:21:12.76,SSS - Keiko,,0,0,0,,Nehmt das!
+Dialogue: 0,0:21:43.43,0:21:44.86,SSS - Tomoko,,0,0,0,,Ihr dreckigen Schweine!
+Dialogue: 0,0:21:51.77,0:21:53.30,SSS - Keiko,,0,0,0,,Geschieht euch recht!
+Dialogue: 0,0:21:57.10,0:22:01.97,SSS - Nami,,0,0,0,,Wahnsinn...! Wer sind diese Leute?
+Dialogue: 0,0:22:07.29,0:22:10.31,SSS - Nami,,0,0,0,,Entschuldigung... aber wer seid ihr?
+Dialogue: 0,0:22:15.73,0:22:16.59,SSS - Chisato,,0,0,0,,Nami-san.
+Dialogue: 0,0:22:20.90,0:22:23.87,SSS - Sasao,,0,0,0,,Bleibt wo ihr seid, oder ich töte sie!
+Dialogue: 0,0:22:24.44,0:22:29.38,SSS - Sasao,,0,0,0,,{\i1}{\i0}Verdammt! Hatte nicht damit gerechnet von Jägerinnen umzingelt zu werden...
+Dialogue: 0,0:22:29.64,0:22:31.91,SSS - Sasao,,0,0,0,,Aber sie wird mit mir sterben!
+Dialogue: 0,0:22:32.41,0:22:33.00,SSS - Chisato,,0,0,0,,Nami-san!
+Dialogue: 0,0:22:33.65,0:22:35.95,SSS - Keiko,,0,0,0,,Verdammt! Wir können nichts tun!
+Dialogue: 0,0:22:36.82,0:22:39.31,SSS - Nami,,0,0,0,,Schnell! Lass dir was einfallen!
+Dialogue: 0,0:22:40.35,0:22:41.55,SSS - Sasao,,0,0,0,,Stirb!
+Dialogue: 0,0:22:43.84,0:22:44.55,SSS - Sasao,,0,0,0,,Was?!
+Dialogue: 0,0:22:51.30,0:22:52.73,SSS - Nami,,0,0,0,,Bitte! Verwandle dich!
+Dialogue: 0,0:23:07.21,0:23:08.04,SSS - Chisato,,0,0,0,,Nami-san!
+Dialogue: 0,0:23:22.70,0:23:23.79,SSS - Chisato,,0,0,0,,Nami-san...
+Dialogue: 0,0:23:25.83,0:23:28.86,SSS - Chisato,,0,0,0,,Wahnsinn! Du bist so cool, Nami-san!
+Dialogue: 0,0:23:31.14,0:23:32.07,SSS - Naoko,,0,0,0,,Sehr beeindruckend.
+Dialogue: 0,0:23:33.41,0:23:34.87,SSS - Tomoko,,0,0,0,,Du bist ziemlich gut.
+Dialogue: 0,0:23:43.05,0:23:44.98,SSS - Sasao,,0,0,0,,Na... Nami...
+Dialogue: 0,0:23:47.52,0:23:49.35,SSS - Katsuo,,0,0,0,,Namiiiii
+Dialogue: 0,0:23:58.47,0:23:59.93,SSS - Nami,,0,0,0,,Brüderchen!
+Dialogue: 0,0:24:02.80,0:24:03.67,SSS - Nami,,0,0,0,,Brüderchen?
+Dialogue: 0,0:24:03.80,0:24:04.10,SSS - Nami,,0,0,0,,Brü...
+Dialogue: 0,0:24:06.47,0:24:07.46,SSS - Nami,,0,0,0,,Hmm?
+Dialogue: 0,0:24:09.68,0:24:10.37,SSS - Nami,,0,0,0,,Hä?!
+Dialogue: 0,0:24:14.61,0:24:18.91,SSS - Nami,,0,0,0,,Brüderchen! Brüdercheeeeen!!
+Dialogue: 0,0:24:34.53,0:24:35.30,SSS - Tomoko,,0,0,0,,Nami-san...
+Dialogue: 0,0:24:36.70,0:24:42.54,SSS - Tomoko,,0,0,0,,Es ist die Pflicht der Trägerinnen des Auge der Lust Dämonen auszutreiben! Alles klar?
+Dialogue: 0,0:24:42.74,0:24:43.50,SSS - Nami,,0,0,0,,Aber...
+Dialogue: 0,0:24:43.74,0:24:45.01,SSS - Keiko,,0,0,0,,Du hast das Auge angenommen.
+Dialogue: 0,0:24:46.75,0:24:48.68,SSS - Keiko,,0,0,0,,Oder etwa nicht?
+Dialogue: 0,0:24:49.85,0:24:52.18,SSS - Chisato,,0,0,0,,Und du schlägst dich richtig gut!
+Dialogue: 0,0:25:06.70,0:25:08.00,SSS - Nami,,0,0,0,,Freut mich eurer Gruppe beitreten zu dürfen.
+Dialogue: 0,0:25:08.84,0:25:11.14,SSS - Katsuo,,0,0,0,,Ich sagte NEIN!
+Dialogue: 0,0:25:11.69,0:25:14.14,SSS - Katsuo,,0,0,0,,Ich bin ABSOLUT dagegen!
+Dialogue: 0,0:25:14.51,0:25:16.96,SSS - Katsuo,,0,0,0,,Meine kleine Schwester wird nicht eurer Cosplaygruppe beitreten!
+Dialogue: 0,0:25:17.18,0:25:18.38,SSS - Katsuo,,0,0,0,,Verstanden!
+Dialogue: 0,0:25:19.35,0:25:21.58,SSS - Katsuo,,0,0,0,,Ich verbiete es ihr!!
+Dialogue: 0,0:25:22.25,0:25:25.22,SSS - Katsuo,,0,0,0,,{\fs22}Es ist nicht so, dass ich Cosplayerinnen hassen würde! Ganz im Gegenteil...
+Dialogue: 0,0:25:25.29,0:25:28.26,SSS - Katsuo,,0,0,0,,{\fs22}Ich liebe sie! Aber das ist nicht der Punkt.
+Dialogue: 0,0:25:28.25,0:25:33.13,SSS - Katsuo,,0,0,0,,{\fs22\fad(0,2600)}Was erzähle ich da eigentlich? Das geht euch überhaupt nichts an!
+Dialogue: 0,0:25:28.29,0:25:29.89,SSS - Nami,,0,0,0,,Ich liebe dich auch, Brüderchen.

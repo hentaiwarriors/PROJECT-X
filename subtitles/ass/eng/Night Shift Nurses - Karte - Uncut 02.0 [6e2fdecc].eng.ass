@@ -1,0 +1,359 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,Tahoma,18,&H00C9FCF1,&H0000FFFF,&H0036231A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,38,38,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.84,0:00:17.89,Dialogue,,0,0,0,,How could this have happened?!
+Dialogue: 0,0:00:23.94,0:00:28.07,Dialogue,,0,0,0,,That day, I truly understood\Nwhat my desires were.
+Dialogue: 0,0:00:28.62,0:00:31.91,Dialogue,,0,0,0,,That day, I enslaved a woman.
+Dialogue: 0,0:00:32.45,0:00:37.39,Dialogue,,0,0,0,,That day, I acquired the best\Nspecimen I could for my experiments.
+Dialogue: 0,0:00:37.49,0:00:38.51,Dialogue,,0,0,0,,So I thought...
+Dialogue: 0,0:00:59.05,0:01:00.98,Dialogue,,0,0,0,,Candidate 2
+Dialogue: 0,0:01:01.15,0:01:02.81,Dialogue,,0,0,0,,Remi Shinjyo
+Dialogue: 0,0:01:02.95,0:01:05.94,Dialogue,,0,0,0,,Well, well, next I have a\Nchief nurse, huh?
+Dialogue: 0,0:01:12.09,0:01:14.49,Dialogue,,0,0,0,,Damn. I'm late.
+Dialogue: 0,0:01:16.20,0:01:19.63,Dialogue,,0,0,0,,So, I'm telling you that you can't\Ndo it that way. Understand?
+Dialogue: 0,0:01:20.10,0:01:22.59,Dialogue,,0,0,0,,The hospital's looking nice\Nand clean as usual.
+Dialogue: 0,0:01:24.54,0:01:25.50,Dialogue,,0,0,0,,Oops.
+Dialogue: 0,0:01:34.78,0:01:36.58,Dialogue,,0,0,0,,Are you all right,\Nchief?
+Dialogue: 0,0:01:36.68,0:01:38.62,Dialogue,,0,0,0,,I-I'm sorry. P-Please...
+Dialogue: 0,0:01:38.79,0:01:40.38,Dialogue,,0,0,0,,I'm fine!
+Dialogue: 0,0:01:40.59,0:01:42.42,Dialogue,,0,0,0,,More importantly,\NDr. Hirasaka...
+Dialogue: 0,0:01:42.72,0:01:44.45,Dialogue,,0,0,0,,It's already eight-thirty.
+Dialogue: 0,0:01:44.56,0:01:47.39,Dialogue,,0,0,0,,You should have been\Nworking your rounds by now.
+Dialogue: 0,0:01:47.83,0:01:51.39,Dialogue,,0,0,0,,I don't know what other institution\Nyou've been associated with...
+Dialogue: 0,0:01:51.50,0:01:56.44,Dialogue,,0,0,0,,but here at St. Juliana Hospital,\Nwe don't keep such casual work hours.
+Dialogue: 0,0:01:56.54,0:01:59.63,Dialogue,,0,0,0,,You could be\Nreprimanded for this.
+Dialogue: 0,0:01:59.84,0:02:01.31,Dialogue,,0,0,0,,Don't get so upset.
+Dialogue: 0,0:02:01.41,0:02:05.94,Dialogue,,0,0,0,,Anyway, please change into\Nyour lab coat and get to your office.
+Dialogue: 0,0:02:06.48,0:02:07.88,Dialogue,,0,0,0,,Miss Yamagishi.
+Dialogue: 0,0:02:08.58,0:02:12.11,Dialogue,,0,0,0,,Can you change the intravenous drips\Nand needles on your own?
+Dialogue: 0,0:02:12.99,0:02:14.18,Dialogue,,0,0,0,,Well?!
+Dialogue: 0,0:02:14.29,0:02:15.41,Dialogue,,0,0,0,,Y-Yes!
+Dialogue: 0,0:02:15.52,0:02:19.12,Dialogue,,0,0,0,,A nurse has the patient's life\Nin her hands, you know.
+Dialogue: 0,0:02:19.23,0:02:21.79,Dialogue,,0,0,0,,- Show some confidence!\N- Y-Yes!
+Dialogue: 0,0:02:22.46,0:02:25.76,Dialogue,,0,0,0,,Then, I want you to go ahead of me.\NI'll be right with you.
+Dialogue: 0,0:02:25.87,0:02:26.92,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:02:27.03,0:02:28.80,Dialogue,,0,0,0,,Doctor Hirasaka.
+Dialogue: 0,0:02:29.80,0:02:32.74,Dialogue,,0,0,0,,I'd appreciate it if you'd\Nshow some diligence.
+Dialogue: 0,0:02:32.84,0:02:36.21,Dialogue,,0,0,0,,It affects the reputation\Nof the hospital, you know.
+Dialogue: 0,0:02:36.31,0:02:38.57,Dialogue,,0,0,0,,I hope you understand that.
+Dialogue: 0,0:02:45.35,0:02:48.29,Dialogue,,0,0,0,,Damn bitch!\NLooking down on me like that!
+Dialogue: 0,0:02:49.72,0:02:51.75,Dialogue,,0,0,0,,Doctor, could you hurry it up?
+Dialogue: 0,0:02:51.86,0:02:55.19,Dialogue,,0,0,0,,The patient's been waiting\N30 minutes now.
+Dialogue: 0,0:02:55.30,0:02:58.06,Dialogue,,0,0,0,,I-I'll be right there.\NIt'll just be a moment.
+Dialogue: 0,0:03:09.84,0:03:11.21,Dialogue,,0,0,0,,Come in.
+Dialogue: 0,0:03:12.01,0:03:15.14,Dialogue,,0,0,0,,Ms. Eri Kanazawa...
+Dialogue: 0,0:03:17.98,0:03:19.82,Dialogue,,0,0,0,,Thank you for seeing me.
+Dialogue: 0,0:03:19.95,0:03:22.92,Dialogue,,0,0,0,,God damn it! All of them!
+Dialogue: 0,0:03:23.02,0:03:26.55,Dialogue,,0,0,0,,There's something suspicious\Nabout this special ward.
+Dialogue: 0,0:03:26.66,0:03:28.82,Dialogue,,0,0,0,,I'm going to have to\Nhave a word with Narumi.
+Dialogue: 0,0:03:29.40,0:03:30.49,Dialogue,,0,0,0,,Narumi!
+Dialogue: 0,0:03:33.77,0:03:35.36,Dialogue,,0,0,0,,Where did she go?
+Dialogue: 0,0:03:48.51,0:03:51.61,Dialogue,,0,0,0,,Is this something\NI can look forward to?
+Dialogue: 0,0:03:51.72,0:03:56.66,Dialogue,,0,0,0,,Yes. I've hired a brilliant man\Nwho's just right to take it on.
+Dialogue: 0,0:03:56.76,0:04:01.75,Dialogue,,0,0,0,,Well, then I suppose I should start\Nputting the word out in earnest.
+Dialogue: 0,0:04:01.86,0:04:04.49,Dialogue,,0,0,0,,Yes, I'd appreciate that.
+Dialogue: 0,0:04:06.17,0:04:07.79,Dialogue,,0,0,0,,Miss Jinguji.
+Dialogue: 0,0:04:08.43,0:04:11.84,Dialogue,,0,0,0,,Do you have anything going on\Nwith the hospital president?
+Dialogue: 0,0:04:11.94,0:04:13.50,Dialogue,,0,0,0,,What are you suggesting?
+Dialogue: 0,0:04:13.87,0:04:16.81,Dialogue,,0,0,0,,I have no relation\Nwith the president.
+Dialogue: 0,0:04:18.04,0:04:20.21,Dialogue,,0,0,0,,I actually prefer you.
+Dialogue: 0,0:04:20.31,0:04:21.94,Dialogue,,0,0,0,,M-Miss Jinguji...!
+Dialogue: 0,0:04:22.55,0:04:26.38,Dialogue,,0,0,0,,I hope I have your cooperation,\NMr. Congressman.
+Dialogue: 0,0:04:26.69,0:04:28.38,Dialogue,,0,0,0,,O-Of course.
+Dialogue: 0,0:04:28.49,0:04:33.48,Dialogue,,0,0,0,,A hospital ward with nurses who'll\Ncater to every desire of us VIPs.
+Dialogue: 0,0:04:33.59,0:04:36.93,Dialogue,,0,0,0,,If only we can get the\Nsupport of a Minister like you.
+Dialogue: 0,0:04:37.03,0:04:40.09,Dialogue,,0,0,0,,It's certain that you'll succeed.\NLeave everything to me.
+Dialogue: 0,0:04:42.70,0:04:44.93,Dialogue,,0,0,0,,I can't do this here.
+Dialogue: 0,0:04:45.04,0:04:47.37,Dialogue,,0,0,0,,No one hardly comes\Naround here.
+Dialogue: 0,0:04:47.47,0:04:50.93,Dialogue,,0,0,0,,Besides, you're the one\Nthat started it.
+Dialogue: 0,0:04:51.04,0:04:55.91,Dialogue,,0,0,0,,Right. Then, I'll just have to\Ngo along with it.
+Dialogue: 0,0:04:57.12,0:04:58.45,Dialogue,,0,0,0,,He's hung like a tree.
+Dialogue: 0,0:05:18.14,0:05:21.83,Dialogue,,0,0,0,,Miss Jinguji, how about\Nyou turn around for me?
+Dialogue: 0,0:05:58.64,0:06:00.31,Dialogue,,0,0,0,,What an amazing sound.
+Dialogue: 0,0:06:00.68,0:06:02.44,Dialogue,,0,0,0,,What a wonderful sound.
+Dialogue: 0,0:06:02.55,0:06:05.57,Dialogue,,0,0,0,,Can you hear, Miss Jinguji?
+Dialogue: 0,0:06:11.22,0:06:15.59,Dialogue,,0,0,0,,You really do have\Nan amazing pussy.
+Dialogue: 0,0:06:15.70,0:06:17.75,Dialogue,,0,0,0,,It's all nice and wet.
+Dialogue: 0,0:06:59.87,0:07:03.36,Dialogue,,0,0,0,,All right, I'll lie down now.
+Dialogue: 0,0:07:34.44,0:07:37.71,Dialogue,,0,0,0,,That's so good!\NThat's so good! Miss Jinguji!
+Dialogue: 0,0:07:49.82,0:07:51.92,Dialogue,,0,0,0,,What the hell is this\Nsupposed to mean?!
+Dialogue: 0,0:07:52.39,0:07:55.22,Dialogue,,0,0,0,,What does she take me for?!
+Dialogue: 0,0:07:55.93,0:07:58.09,Dialogue,,0,0,0,,That bitch, Narumi!
+Dialogue: 0,0:07:58.26,0:07:59.23,Dialogue,,0,0,0,,God damn it!
+Dialogue: 0,0:08:01.23,0:08:03.76,Dialogue,,0,0,0,,Shut up! What time\Ndo you think it is?!
+Dialogue: 0,0:08:03.87,0:08:05.17,Dialogue,,0,0,0,,Sorry.
+Dialogue: 0,0:08:10.94,0:08:13.17,Dialogue,,0,0,0,,That's my Ren.
+Dialogue: 0,0:08:13.28,0:08:15.44,Dialogue,,0,0,0,,Good. Good.
+Dialogue: 0,0:08:17.88,0:08:20.35,Dialogue,,0,0,0,,- Ren.\N- Yes, Doctor...!
+Dialogue: 0,0:08:20.52,0:08:21.78,Dialogue,,0,0,0,,I'm coming!
+Dialogue: 0,0:08:35.17,0:08:36.86,Dialogue,,0,0,0,,Thank you very much.
+Dialogue: 0,0:08:36.97,0:08:40.41,Dialogue,,0,0,0,,All right. I've prescribed\Nsome medicine for you.
+Dialogue: 0,0:08:40.51,0:08:42.34,Dialogue,,0,0,0,,You can pick it up\Nat the pharmacy.
+Dialogue: 0,0:08:42.44,0:08:43.77,Dialogue,,0,0,0,,All right.
+Dialogue: 0,0:08:48.55,0:08:51.38,Dialogue,,0,0,0,,Ms. Sachiko Tomiyama.\NPlease come in.
+Dialogue: 0,0:08:59.86,0:09:01.85,Dialogue,,0,0,0,,Remi Shinjyo.
+Dialogue: 0,0:09:03.00,0:09:07.40,Dialogue,,0,0,0,,Why would she be in the ICU\Nconsidering that it's not her position?
+Dialogue: 0,0:09:08.40,0:09:11.46,Dialogue,,0,0,0,,You know what?\NThere could be something here.
+Dialogue: 0,0:09:16.21,0:09:18.40,Dialogue,,0,0,0,,Oh, come on right in.
+Dialogue: 0,0:09:23.68,0:09:27.08,Dialogue,,0,0,0,,Is this the chart you wanted?
+Dialogue: 0,0:09:27.19,0:09:29.92,Dialogue,,0,0,0,,- Did anyone see you take it?\N- No.
+Dialogue: 0,0:09:30.02,0:09:31.46,Dialogue,,0,0,0,,Good.
+Dialogue: 0,0:09:32.33,0:09:34.12,Dialogue,,0,0,0,,This is it.
+Dialogue: 0,0:09:38.83,0:09:40.39,Dialogue,,0,0,0,,What's this?
+Dialogue: 0,0:09:40.60,0:09:44.59,Dialogue,,0,0,0,,A nurse has the patient's life\Nin her hands, you know.
+Dialogue: 0,0:09:49.11,0:09:51.70,Dialogue,,0,0,0,,She altered it...?
+Dialogue: 0,0:09:52.55,0:09:54.67,Dialogue,,0,0,0,,Don't tell me!
+Dialogue: 0,0:09:56.85,0:09:59.22,Dialogue,,0,0,0,,Well, that is very interesting.
+Dialogue: 0,0:09:59.75,0:10:03.19,Dialogue,,0,0,0,,Ren, thank you. Please put\Nthis back where you found it.
+Dialogue: 0,0:10:03.29,0:10:04.26,Dialogue,,0,0,0,,Uh, sure.
+Dialogue: 0,0:10:04.36,0:10:06.59,Dialogue,,0,0,0,,You're finished for today,\Nright?
+Dialogue: 0,0:10:06.69,0:10:09.96,Dialogue,,0,0,0,,I want to give you a special\Nthank you for this, at my place.
+Dialogue: 0,0:10:10.36,0:10:13.03,Dialogue,,0,0,0,,Doctor, I...
+Dialogue: 0,0:10:15.43,0:10:19.43,Dialogue,,0,0,0,,Miss Nanase, please come to\Nthe nurse's station immediately.
+Dialogue: 0,0:10:19.54,0:10:20.80,Dialogue,,0,0,0,,Excuse me.
+Dialogue: 0,0:10:21.37,0:10:23.93,Dialogue,,0,0,0,,What is this about,\NMiss Nanase?
+Dialogue: 0,0:10:24.04,0:10:27.07,Dialogue,,0,0,0,,What if something were to\Nhappen to the patient?
+Dialogue: 0,0:10:27.18,0:10:29.55,Dialogue,,0,0,0,,Is something the matter\Nwith you lately?
+Dialogue: 0,0:10:42.46,0:10:45.59,Dialogue,,0,0,0,,How long do you\Nplan on doing this?
+Dialogue: 0,0:10:45.73,0:10:47.26,Dialogue,,0,0,0,,What's the matter, Ren?
+Dialogue: 0,0:10:47.37,0:10:49.39,Dialogue,,0,0,0,,I'm sick of this.
+Dialogue: 0,0:10:49.74,0:10:51.70,Dialogue,,0,0,0,,What are you talking about?
+Dialogue: 0,0:10:51.80,0:10:54.10,Dialogue,,0,0,0,,This is what you want,\Nafter all.
+Dialogue: 0,0:10:54.21,0:10:57.77,Dialogue,,0,0,0,,You want to express yourself\Nfor the nymphomaniac that you are.
+Dialogue: 0,0:10:57.88,0:11:01.81,Dialogue,,0,0,0,,But... But it's not like that.
+Dialogue: 0,0:11:01.91,0:11:03.94,Dialogue,,0,0,0,,Oh?
+Dialogue: 0,0:11:04.12,0:11:06.88,Dialogue,,0,0,0,,Then, what's with this\Nunderwear?
+Dialogue: 0,0:11:07.42,0:11:10.55,Dialogue,,0,0,0,,And what about\Nthe hot nectar of love...
+Dialogue: 0,0:11:10.66,0:11:14.29,Dialogue,,0,0,0,,pouring out of your\Nbeautiful pink slit.
+Dialogue: 0,0:11:14.39,0:11:16.59,Dialogue,,0,0,0,,That proves\Nhow much you love it.
+Dialogue: 0,0:11:17.00,0:11:19.59,Dialogue,,0,0,0,,Let me ask another question\Nif I may.
+Dialogue: 0,0:11:19.70,0:11:23.00,Dialogue,,0,0,0,,If you knew that\NI was going to enslave you...
+Dialogue: 0,0:11:23.10,0:11:26.97,Dialogue,,0,0,0,,why would you wear such\Nprovocative underwear?
+Dialogue: 0,0:11:27.07,0:11:29.17,Dialogue,,0,0,0,,Can you tell me?
+Dialogue: 0,0:11:29.28,0:11:31.11,Dialogue,,0,0,0,,I'll explain it to you, then.
+Dialogue: 0,0:11:31.74,0:11:35.08,Dialogue,,0,0,0,,You wait day and night,\Nimpatiently oozing in your juices...
+Dialogue: 0,0:11:35.18,0:11:37.67,Dialogue,,0,0,0,,waiting only for me\Nto come and fuck you.
+Dialogue: 0,0:11:37.78,0:11:38.75,Dialogue,,0,0,0,,No.
+Dialogue: 0,0:11:38.85,0:11:42.29,Dialogue,,0,0,0,,You'll understand\Nin your own mind eventually.
+Dialogue: 0,0:11:44.22,0:11:47.28,Dialogue,,0,0,0,,Ren.\NI want you to sit on this.
+Dialogue: 0,0:11:47.39,0:11:49.52,Dialogue,,0,0,0,,Yes, Doctor.
+Dialogue: 0,0:11:52.93,0:11:54.46,Dialogue,,0,0,0,,It's cold!
+Dialogue: 0,0:11:56.30,0:12:01.30,Dialogue,,0,0,0,,Now, get those juices flowing\Nand ride this bottle. Go, cowgirl.
+Dialogue: 0,0:12:10.62,0:12:12.85,Dialogue,,0,0,0,,I want you...!
+Dialogue: 0,0:12:24.03,0:12:26.93,Dialogue,,0,0,0,,What would you like me\Nto do with my penis?
+Dialogue: 0,0:12:28.30,0:12:33.64,Dialogue,,0,0,0,,I want you to put your\Nmanhood inside me...!
+Dialogue: 0,0:12:33.74,0:12:36.50,Dialogue,,0,0,0,,At least you're being more\Nhonest with yourself.
+Dialogue: 0,0:12:45.45,0:12:48.28,Dialogue,,0,0,0,,What's all the fuss\Nso early in the morning?
+Dialogue: 0,0:12:49.92,0:12:52.08,Dialogue,,0,0,0,,Hey. Did something happen\Naround here?
+Dialogue: 0,0:12:52.19,0:12:54.25,Dialogue,,0,0,0,,Everybody seems\Nto be in a rush.
+Dialogue: 0,0:12:54.36,0:12:56.89,Dialogue,,0,0,0,,Something about the\Ncondition of a patient in ICU...
+Dialogue: 0,0:12:57.00,0:12:58.62,Dialogue,,0,0,0,,taking a turn for the worse.
+Dialogue: 0,0:12:58.73,0:13:00.63,Dialogue,,0,0,0,,Is Miss Shinjyo there as well?
+Dialogue: 0,0:13:00.73,0:13:02.43,Dialogue,,0,0,0,,Yes, the chief's there as well.
+Dialogue: 0,0:13:18.28,0:13:21.05,Dialogue,,0,0,0,,How could I... How could I...
+Dialogue: 0,0:13:21.15,0:13:23.09,Dialogue,,0,0,0,,have done such a thing?
+Dialogue: 0,0:13:23.19,0:13:24.66,Dialogue,,0,0,0,,Miss Shinjyo.
+Dialogue: 0,0:13:30.50,0:13:31.76,Dialogue,,0,0,0,,Doctor Hirasaka.
+Dialogue: 0,0:13:31.86,0:13:33.89,Dialogue,,0,0,0,,I have something\Nimportant for you.
+Dialogue: 0,0:13:34.00,0:13:37.80,Dialogue,,0,0,0,,Meet me in exam room 4 of the\Ngynecology department in four hours.
+Dialogue: 0,0:13:45.78,0:13:47.27,Dialogue,,0,0,0,,Come right in.
+Dialogue: 0,0:13:53.15,0:13:54.92,Dialogue,,0,0,0,,What do you want with me?
+Dialogue: 0,0:13:56.02,0:13:59.05,Dialogue,,0,0,0,,Is it true? I heard that\Nthe patient died.
+Dialogue: 0,0:13:59.16,0:14:00.15,Dialogue,,0,0,0,,What?
+Dialogue: 0,0:14:00.33,0:14:02.73,Dialogue,,0,0,0,,The one in the ICU.
+Dialogue: 0,0:14:02.83,0:14:04.35,Dialogue,,0,0,0,,What does that\Nhave to with this?
+Dialogue: 0,0:14:04.46,0:14:06.93,Dialogue,,0,0,0,,So, she finally died, huh?
+Dialogue: 0,0:14:07.37,0:14:09.10,Dialogue,,0,0,0,,What a horrible thing to say!
+Dialogue: 0,0:14:09.24,0:14:12.36,Dialogue,,0,0,0,,Are you saying you wanted\Nher to regain consciousness?
+Dialogue: 0,0:14:12.47,0:14:13.73,Dialogue,,0,0,0,,Of course!
+Dialogue: 0,0:14:14.24,0:14:16.37,Dialogue,,0,0,0,,You call yourself a doctor?!
+Dialogue: 0,0:14:16.81,0:14:20.80,Dialogue,,0,0,0,,Did you call me here\Nbecause you wanted to torment me?
+Dialogue: 0,0:14:20.95,0:14:23.21,Dialogue,,0,0,0,,If she regained consciousness...
+Dialogue: 0,0:14:23.45,0:14:25.11,Dialogue,,0,0,0,,If she had come to...
+Dialogue: 0,0:14:25.22,0:14:29.59,Dialogue,,0,0,0,,I'm sure she would've been\Nshocked to find herself in the ICU.
+Dialogue: 0,0:14:29.69,0:14:31.42,Dialogue,,0,0,0,,Wh-What do you mean by that?
+Dialogue: 0,0:14:33.03,0:14:35.49,Dialogue,,0,0,0,,Then let's look at it\Nanother way.
+Dialogue: 0,0:14:36.03,0:14:38.52,Dialogue,,0,0,0,,Because of someone's mistake...
+Dialogue: 0,0:14:38.63,0:14:43.26,Dialogue,,0,0,0,,that patient ended up in\NICU when she shouldn't have.
+Dialogue: 0,0:14:43.87,0:14:46.96,Dialogue,,0,0,0,,A mistake by a trusted\Nnurse, no less.
+Dialogue: 0,0:14:47.07,0:14:48.66,Dialogue,,0,0,0,,H-How did you...?!
+Dialogue: 0,0:14:48.77,0:14:49.87,Dialogue,,0,0,0,,Got her!
+Dialogue: 0,0:14:50.51,0:14:53.00,Dialogue,,0,0,0,,I'd never do such a...!
+Dialogue: 0,0:14:53.11,0:14:55.81,Dialogue,,0,0,0,,You're the one that killed\Nthat patient!
+Dialogue: 0,0:14:55.92,0:14:57.47,Dialogue,,0,0,0,,That's not true!
+Dialogue: 0,0:14:57.58,0:15:00.25,Dialogue,,0,0,0,,I admit I gave her the medicine.
+Dialogue: 0,0:15:00.35,0:15:04.08,Dialogue,,0,0,0,,But even the doctor in charge\Nwasn't aware of all its side effects.
+Dialogue: 0,0:15:04.19,0:15:07.39,Dialogue,,0,0,0,,So, you administered\Nsuch a dangerous drug.
+Dialogue: 0,0:15:07.49,0:15:12.36,Dialogue,,0,0,0,,But at the time, the drug's\Nside effects were still unknown.
+Dialogue: 0,0:15:13.00,0:15:16.83,Dialogue,,0,0,0,,One might even call this malpractice.
+Dialogue: 0,0:15:17.04,0:15:20.87,Dialogue,,0,0,0,,I did the best that I could do.
+Dialogue: 0,0:15:20.97,0:15:23.70,Dialogue,,0,0,0,,So, are you saying that\Nyou had no responsibility?
+Dialogue: 0,0:15:23.91,0:15:24.57,Dialogue,,0,0,0,,What...?!
+Dialogue: 0,0:15:24.68,0:15:29.38,Dialogue,,0,0,0,,So, you're not responsible for killing\Na patient because you didn't know?
+Dialogue: 0,0:15:30.58,0:15:33.45,Dialogue,,0,0,0,,You think you're absolved\Nof all guilt based on ignorance?
+Dialogue: 0,0:15:33.55,0:15:35.54,Dialogue,,0,0,0,,No.
+Dialogue: 0,0:15:35.89,0:15:39.38,Dialogue,,0,0,0,,How does that change the fact that\Nyou drove that patient to her death?!
+Dialogue: 0,0:15:39.86,0:15:41.55,Dialogue,,0,0,0,,I what...?!
+Dialogue: 0,0:15:42.06,0:15:45.16,Dialogue,,0,0,0,,That's right!\NYou drove her to her death!
+Dialogue: 0,0:15:45.46,0:15:47.46,Dialogue,,0,0,0,,I...
+Dialogue: 0,0:15:48.00,0:15:50.03,Dialogue,,0,0,0,,drove her... her death?!
+Dialogue: 0,0:15:50.14,0:15:51.53,Dialogue,,0,0,0,,No...
+Dialogue: 0,0:15:55.34,0:15:58.97,Dialogue,,0,0,0,,Well, well. You're going to\Ntry to fool me with tears?
+Dialogue: 0,0:15:59.08,0:16:00.84,Dialogue,,0,0,0,,What do you expect me to do?
+Dialogue: 0,0:16:00.95,0:16:02.74,Dialogue,,0,0,0,,Expect you to do?
+Dialogue: 0,0:16:02.85,0:16:05.72,Dialogue,,0,0,0,,You don't feel you should\Napologize to that patient?
+Dialogue: 0,0:16:05.82,0:16:07.01,Dialogue,,0,0,0,,What?!
+Dialogue: 0,0:16:07.85,0:16:09.48,Dialogue,,0,0,0,,You want to make amends?
+Dialogue: 0,0:16:09.59,0:16:11.18,Dialogue,,0,0,0,,Of course...
+Dialogue: 0,0:16:11.29,0:16:12.45,Dialogue,,0,0,0,,Of course I want to!
+Dialogue: 0,0:16:12.83,0:16:15.56,Dialogue,,0,0,0,,I see that you're feeling a\Nsense of responsibility.
+Dialogue: 0,0:16:16.36,0:16:18.52,Dialogue,,0,0,0,,Come to me.
+Dialogue: 0,0:16:32.54,0:16:34.27,Dialogue,,0,0,0,,What are you doing to me?
+Dialogue: 0,0:16:34.38,0:16:37.04,Dialogue,,0,0,0,,I'm going to make you repent.
+Dialogue: 0,0:16:37.15,0:16:39.64,Dialogue,,0,0,0,,Don't make me laugh.
+Dialogue: 0,0:16:39.75,0:16:43.15,Dialogue,,0,0,0,,After all, you're a nurse\Nwho made a big mistake...
+Dialogue: 0,0:16:43.26,0:16:45.88,Dialogue,,0,0,0,,but you're also responsible\Nfor training other nurses.
+Dialogue: 0,0:16:49.23,0:16:50.29,Dialogue,,0,0,0,,No!
+Dialogue: 0,0:16:56.87,0:16:59.43,Dialogue,,0,0,0,,Miss Shinjyo, what's that?
+Dialogue: 0,0:17:00.77,0:17:03.71,Dialogue,,0,0,0,,You sure are\Ndressed like a slut.
+Dialogue: 0,0:17:03.81,0:17:05.78,Dialogue,,0,0,0,,This is a hospital, you know.
+Dialogue: 0,0:17:13.92,0:17:15.78,Dialogue,,0,0,0,,What a lovely view!
+Dialogue: 0,0:17:15.89,0:17:17.91,Dialogue,,0,0,0,,Did you wear the\Ngarters so that...
+Dialogue: 0,0:17:18.02,0:17:20.72,Dialogue,,0,0,0,,the male doctors and\Nhospitalized patients...
+Dialogue: 0,0:17:20.83,0:17:23.06,Dialogue,,0,0,0,,can get a good look at you?
+Dialogue: 0,0:17:24.20,0:17:25.89,Dialogue,,0,0,0,,That's not so!
+Dialogue: 0,0:17:26.00,0:17:27.43,Dialogue,,0,0,0,,Don't film this!
+Dialogue: 0,0:17:27.63,0:17:29.90,Dialogue,,0,0,0,,What are you trying to do?!
+Dialogue: 0,0:17:30.90,0:17:32.56,Dialogue,,0,0,0,,What am I trying to do...
+Dialogue: 0,0:17:32.74,0:17:35.21,Dialogue,,0,0,0,,I'm trying to make you repent.
+Dialogue: 0,0:17:38.84,0:17:40.84,Dialogue,,0,0,0,,Untie me now!
+Dialogue: 0,0:17:41.15,0:17:44.58,Dialogue,,0,0,0,,If you resist too much,\Nthe ropes will really hurt.
+Dialogue: 0,0:17:46.85,0:17:49.05,Dialogue,,0,0,0,,P-Please stop.
+Dialogue: 0,0:17:52.12,0:17:54.59,Dialogue,,0,0,0,,What's the matter?\NDoes that feel good?
+Dialogue: 0,0:17:55.33,0:17:56.42,Dialogue,,0,0,0,,It hurts!
+Dialogue: 0,0:17:56.53,0:17:58.55,Dialogue,,0,0,0,,Why are you looking\Nat me like that?
+Dialogue: 0,0:17:58.83,0:18:01.46,Dialogue,,0,0,0,,Considering that\Nyou killed a person!
+Dialogue: 0,0:18:02.00,0:18:05.20,Dialogue,,0,0,0,,At least recognize\Nthe position you're in.
+Dialogue: 0,0:18:05.30,0:18:06.74,Dialogue,,0,0,0,,What are you\Ngoing to do to me?!
+Dialogue: 0,0:18:06.84,0:18:10.90,Dialogue,,0,0,0,,Be sincere and think\Nabout what you did.
+Dialogue: 0,0:18:11.01,0:18:14.64,Dialogue,,0,0,0,,You should accept what's\Ncoming to you.
+Dialogue: 0,0:18:14.75,0:18:19.24,Dialogue,,0,0,0,,It's because you're wearing underwear\Nlike this that you're not repenting!
+Dialogue: 0,0:18:24.29,0:18:26.28,Dialogue,,0,0,0,,- Get over here.\N- No!
+Dialogue: 0,0:18:30.86,0:18:32.33,Dialogue,,0,0,0,,Please stop.
+Dialogue: 0,0:18:37.00,0:18:38.56,Dialogue,,0,0,0,,Let's see.
+Dialogue: 0,0:18:39.34,0:18:42.03,Dialogue,,0,0,0,,How is the stank pussy\Nof a murderer nurse?
+Dialogue: 0,0:18:42.14,0:18:44.01,Dialogue,,0,0,0,,- Let's see the color.\N- Don't look!
+Dialogue: 0,0:18:44.11,0:18:46.51,Dialogue,,0,0,0,,Roast beef, just as I thought.
+Dialogue: 0,0:18:46.61,0:18:50.91,Dialogue,,0,0,0,,So rare, so juicy.\NHow many men have you had?
+Dialogue: 0,0:18:52.45,0:18:53.42,Dialogue,,0,0,0,,Huh?
+Dialogue: 0,0:18:54.22,0:18:55.35,Dialogue,,0,0,0,,Answer me!
+Dialogue: 0,0:18:55.89,0:18:59.32,Dialogue,,0,0,0,,You've been a real slut,\Nhaven't you?
+Dialogue: 0,0:19:01.49,0:19:03.12,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:19:04.66,0:19:07.76,Dialogue,,0,0,0,,I can't hear you.\NSay it nice and clear.
+Dialogue: 0,0:19:09.80,0:19:11.46,Dialogue,,0,0,0,,Yes, I've been a slut!
+Dialogue: 0,0:19:13.01,0:19:13.97,Dialogue,,0,0,0,,Pervert!
+Dialogue: 0,0:19:14.31,0:19:17.61,Dialogue,,0,0,0,,Thank you. That's the best\Ncompliment you could give me.
+Dialogue: 0,0:19:18.31,0:19:22.01,Dialogue,,0,0,0,,Actually, I do know that\Nit's not completely your fault.
+Dialogue: 0,0:19:22.11,0:19:25.45,Dialogue,,0,0,0,,What? You knew that all along\Nand you're doing this to me?
+Dialogue: 0,0:19:26.72,0:19:29.15,Dialogue,,0,0,0,,What did the hospital\Npresident say?
+Dialogue: 0,0:19:31.39,0:19:34.55,Dialogue,,0,0,0,,Can't blame them for\Nsweeping this one under the rug.
+Dialogue: 0,0:19:34.66,0:19:38.43,Dialogue,,0,0,0,,After all, it's not something anyone\Nwants to take responsibility for.
+Dialogue: 0,0:19:40.07,0:19:43.63,Dialogue,,0,0,0,,You wait there. I'm going\Nto have you make amends.
+Dialogue: 0,0:19:54.38,0:19:55.51,Dialogue,,0,0,0,,Wha...?!
+Dialogue: 0,0:19:56.18,0:20:00.71,Dialogue,,0,0,0,,A little ointment.\NIt'll reveal your true self.
+Dialogue: 0,0:20:01.12,0:20:02.59,Dialogue,,0,0,0,,No!
+Dialogue: 0,0:20:07.09,0:20:09.08,Dialogue,,0,0,0,,What? Are you\Ngetting off on it already?
+Dialogue: 0,0:20:09.19,0:20:11.69,Dialogue,,0,0,0,,No... Not at all...
+Dialogue: 0,0:20:13.43,0:20:15.70,Dialogue,,0,0,0,,I'm sure that can't be.
+Dialogue: 0,0:20:15.80,0:20:19.20,Dialogue,,0,0,0,,I'll examine you to see\Nif that mouth of yours...
+Dialogue: 0,0:20:19.30,0:20:22.03,Dialogue,,0,0,0,,is telling the truth\Nor telling lies.
+Dialogue: 0,0:20:23.34,0:20:24.31,Dialogue,,0,0,0,,What's that?
+Dialogue: 0,0:20:24.41,0:20:25.38,Dialogue,,0,0,0,,It's a speculum.
+Dialogue: 0,0:20:25.48,0:20:29.00,Dialogue,,0,0,0,,A tool for dilating the opening of a\Nbody cavity for medical examination.
+Dialogue: 0,0:20:29.11,0:20:30.67,Dialogue,,0,0,0,,But you should know that.
+Dialogue: 0,0:20:32.35,0:20:33.91,Dialogue,,0,0,0,,What's the matter?
+Dialogue: 0,0:20:34.12,0:20:36.61,Dialogue,,0,0,0,,You're now\Ngetting off on it, are you?
+Dialogue: 0,0:20:36.72,0:20:39.05,Dialogue,,0,0,0,,It's just itchy.\NIt's just itchy, that's all!
+Dialogue: 0,0:20:39.16,0:20:42.99,Dialogue,,0,0,0,,That's all right. I'll know\Nthe truth in a moment.
+Dialogue: 0,0:20:43.63,0:20:45.46,Dialogue,,0,0,0,,Right. Let's start the\Nexamination.
+Dialogue: 0,0:20:45.56,0:20:47.96,Dialogue,,0,0,0,,I don't need an examination!
+Dialogue: 0,0:20:48.83,0:20:50.46,Dialogue,,0,0,0,,Pl-Please stop...!
+Dialogue: 0,0:20:53.11,0:20:54.44,Dialogue,,0,0,0,,Stop...!
+Dialogue: 0,0:20:54.71,0:20:56.70,Dialogue,,0,0,0,,Please stop...!
+Dialogue: 0,0:20:57.91,0:21:00.10,Dialogue,,0,0,0,,You actually like it,\Ndon't you?
+Dialogue: 0,0:21:00.21,0:21:02.15,Dialogue,,0,0,0,,That's not true.
+Dialogue: 0,0:21:09.76,0:21:11.85,Dialogue,,0,0,0,,You're a difficult patient.
+Dialogue: 0,0:21:11.96,0:21:16.19,Dialogue,,0,0,0,,If you're going to get off already,\Nhow am I supposed to do a proper exam?
+Dialogue: 0,0:21:17.03,0:21:18.89,Dialogue,,0,0,0,,No.
+Dialogue: 0,0:21:20.90,0:21:22.16,Dialogue,,0,0,0,,That's not true.
+Dialogue: 0,0:21:22.27,0:21:25.17,Dialogue,,0,0,0,,Well, well. What's this?
+Dialogue: 0,0:21:25.27,0:21:27.93,Dialogue,,0,0,0,,What's all this\Nflowing out of you?
+Dialogue: 0,0:21:28.04,0:21:31.64,Dialogue,,0,0,0,,What is this perverse nectar?
+Dialogue: 0,0:21:32.78,0:21:33.75,Dialogue,,0,0,0,,No...!
+Dialogue: 0,0:21:38.82,0:21:40.15,Dialogue,,0,0,0,,Tasty!
+Dialogue: 0,0:21:42.15,0:21:44.95,Dialogue,,0,0,0,,There you are getting all wet.
+Dialogue: 0,0:21:45.06,0:21:46.85,Dialogue,,0,0,0,,You really want a man,\Ndon't you?
+Dialogue: 0,0:21:46.96,0:21:49.36,Dialogue,,0,0,0,,You want to be all stirred\Nup inside, don't you?
+Dialogue: 0,0:21:49.46,0:21:51.90,Dialogue,,0,0,0,,Your mouth up here is\Ndefiant and lies...
+Dialogue: 0,0:21:52.00,0:21:56.33,Dialogue,,0,0,0,,but the one down there\Nseems much more honest.
+Dialogue: 0,0:21:57.97,0:22:00.73,Dialogue,,0,0,0,,All right. I'll give you\Nwhat you want.
+Dialogue: 0,0:22:01.04,0:22:03.47,Dialogue,,0,0,0,,No! Please!
+Dialogue: 0,0:22:19.56,0:22:21.86,Dialogue,,0,0,0,,That's right.\NSubmit to your desire.
+Dialogue: 0,0:22:21.96,0:22:24.39,Dialogue,,0,0,0,,This is your true nature.
+Dialogue: 0,0:22:24.50,0:22:25.49,Dialogue,,0,0,0,,N-No...!
+Dialogue: 0,0:22:25.73,0:22:27.20,Dialogue,,0,0,0,,It's too late to deny it.
+Dialogue: 0,0:22:27.30,0:22:30.60,Dialogue,,0,0,0,,You're thrusting your hips\Ntowards me, after all.
+Dialogue: 0,0:22:30.70,0:22:33.10,Dialogue,,0,0,0,,But, that's not...
+Dialogue: 0,0:22:33.67,0:22:35.57,Dialogue,,0,0,0,,That's not what?
+Dialogue: 0,0:22:37.34,0:22:39.64,Dialogue,,0,0,0,,You actually like it,\Ndon't you?
+Dialogue: 0,0:22:39.75,0:22:40.71,Dialogue,,0,0,0,,Y...
+Dialogue: 0,0:22:40.81,0:22:42.21,Dialogue,,0,0,0,,What did you say?
+Dialogue: 0,0:22:43.72,0:22:44.77,Dialogue,,0,0,0,,Yes.
+Dialogue: 0,0:22:44.98,0:22:47.28,Dialogue,,0,0,0,,So, you're getting off, huh?
+Dialogue: 0,0:22:47.49,0:22:51.55,Dialogue,,0,0,0,,You want to feel more, huh?\NI'll help you out, then.
+Dialogue: 0,0:22:54.26,0:22:56.12,Dialogue,,0,0,0,,Please...
+Dialogue: 0,0:23:20.65,0:23:23.45,Dialogue,,0,0,0,,Damn. You came too soon.
+Dialogue: 0,0:23:23.66,0:23:25.85,Dialogue,,0,0,0,,Time for an experiment.
+Dialogue: 0,0:23:32.08,0:23:33.08,Dialogue,,0,0,0,,What are you doing?
+Dialogue: 0,0:23:33.48,0:23:35.08,Dialogue,,0,0,0,,You've seen this...
+Dialogue: 0,0:23:35.36,0:23:37.86,Dialogue,,0,0,0,,...just like you do with patients.
+Dialogue: 0,0:23:37.88,0:23:41.08,Dialogue,,0,0,0,,As I'm sure you've noticed...
+Dialogue: 0,0:23:42.48,0:23:45.38,Dialogue,,0,0,0,,...often the patient enjoys this.
+Dialogue: 0,0:23:46.60,0:23:48.90,Dialogue,,0,0,0,,But... I-I shouldn't be forced to do this!
+Dialogue: 0,0:23:48.92,0:23:52.02,Dialogue,,0,0,0,,Murderer nurses don't get to decide.
+Dialogue: 0,0:23:52.28,0:23:55.48,Dialogue,,0,0,0,,I want to watch you do the rest your self.
+Dialogue: 0,0:23:55.50,0:23:57.50,Dialogue,,0,0,0,,I won't do it!
+Dialogue: 0,0:23:58.28,0:24:05.38,Dialogue,,0,0,0,,You will if you don't want the video\Ncirculating around the hospital.
+Dialogue: 0,0:24:05.60,0:24:09.00,Dialogue,,0,0,0,,You bastard!
+Dialogue: 0,0:24:09.20,0:24:11.40,Dialogue,,0,0,0,,Better than being a murderer...
+Dialogue: 0,0:24:13.80,0:24:14.80,Dialogue,,0,0,0,,This is horrible!
+Dialogue: 0,0:24:31.64,0:24:32.84,Dialogue,,0,0,0,,I have something else...
+Dialogue: 0,0:24:41.12,0:24:42.12,Dialogue,,0,0,0,,What?
+Dialogue: 0,0:24:42.14,0:24:44.14,Dialogue,,0,0,0,,This is an air pump...
+Dialogue: 0,0:24:46.44,0:24:48.04,Dialogue,,0,0,0,,No don't!
+Dialogue: 0,0:25:02.36,0:25:06.76,Dialogue,,0,0,0,,Please, I can't take any more!
+Dialogue: 0,0:25:07.76,0:25:10.06,Dialogue,,0,0,0,,I feel like I have to poop!
+Dialogue: 0,0:25:10.08,0:25:11.68,Dialogue,,0,0,0,,Let me go to the toilet!
+Dialogue: 0,0:25:16.48,0:25:18.00,Dialogue,,0,0,0,,Let me go...
+Dialogue: 0,0:25:18.88,0:25:20.88,Dialogue,,0,0,0,,You stupid slut!
+Dialogue: 0,0:25:21.08,0:25:23.18,Dialogue,,0,0,0,,You want to have an orgasm!
+Dialogue: 0,0:25:23.36,0:25:26.06,Dialogue,,0,0,0,,No! I just want to poop!
+Dialogue: 0,0:25:28.48,0:25:31.48,Dialogue,,0,0,0,,Rest assured, I'll let you...
+Dialogue: 0,0:25:31.50,0:25:33.50,Dialogue,,0,0,0,,but only after you've paid for insulting me.
+Dialogue: 0,0:25:36.00,0:25:39.70,Dialogue,,0,0,0,,First we need to wash your\Nmouth out with my semen!
+Dialogue: 0,0:25:44.00,0:25:45.80,Dialogue,,0,0,0,,Suck it real good!
+Dialogue: 0,0:26:22.64,0:26:23.74,Dialogue,,0,0,0,,I can't hold it!
+Dialogue: 0,0:26:33.64,0:26:35.04,Dialogue,,0,0,0,,Can't stop...
+Dialogue: 0,0:27:03.76,0:27:07.26,Dialogue,,0,0,0,,Great! I need to think of\Nsome new experiments!
+Dialogue: 0,0:28:08.48,0:28:11.11,Dialogue,,0,0,0,,Candidate 3
+Dialogue: 0,0:28:11.12,0:28:15.42,Dialogue,,0,0,0,,Ako Fujisawa

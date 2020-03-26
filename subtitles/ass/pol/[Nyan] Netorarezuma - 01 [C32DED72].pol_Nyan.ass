@@ -1,0 +1,197 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build413  Oct  2 2015  08:57:50
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Zoom: 6
+Scroll Position: 169
+Active Line: 0
+Video Zoom Percent: 1
+Video Aspect Ratio: 0
+Video Position: 0
+Original Script: 
+Original Translation: 
+Collisions: Normal
+Last Style Storage: [848x480]
+Original Editing: 
+Original Timing: 
+Synch Point: Verbalstent
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00BD4857,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,1,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,70,&H00BD4857,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,2,5,20,20,0,1
+Style: Tytul,Franklin Gothic Medium,60,&H00A6A812,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2,5,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:04:22.53,0:04:27.50,Grupa,,0,0,0,,{\be1\fad(1025,0)\t(2985,4946,\1c&H000000&\3c&H000000&)}Nyan
+Dialogue: 0,0:04:22.53,0:04:27.50,Anime,,0,0,0,,{\be1\pos(577,29)\fad(1025,0)\t(2985,4946,\1c&H000000&\3c&H000000&)}Netorarezuma
+Dialogue: 0,0:04:22.53,0:04:27.50,Tytul,,0,0,0,,{\be1\pos(476,196)\fad(1025,0)\t(2985,4946,\1c&H000000&\3c&H000000&)}Reiko
+Dialogue: 0,0:00:02.09,0:00:05.80,Default,,0,0,0,,{\be1}Mamayu, jesteś cudowna.
+Dialogue: 0,0:00:05.80,0:00:08.45,Default,,0,0,0,,{\be1}Nie patrz.
+Dialogue: 0,0:00:09.36,0:00:11.60,Default,,0,0,0,,{\be1}Aleś ty seksowna.
+Dialogue: 0,0:00:11.60,0:00:13.91,Default,,0,0,0,,{\be1}Mogę ją polizać?
+Dialogue: 0,0:00:15.49,0:00:17.41,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:00:19.83,0:00:22.84,Default,,0,0,0,,{\be1}Nie, Hiroaki!
+Dialogue: 0,0:00:23.35,0:00:25.65,Default,,0,0,0,,{\be1}Producent mnie skrzyczy!
+Dialogue: 0,0:00:25.65,0:00:29.92,Default,,0,0,0,,{\be1}Nie mogę robić takich rzeczy!
+Dialogue: 0,0:00:31.20,0:00:34.16,Default,,0,0,0,,{\be1}To znaczy, że jesteś niegrzeczna.
+Dialogue: 0,0:00:34.16,0:00:37.31,Default,,0,0,0,,{\be1}Idolka zrobiła się mokra.
+Dialogue: 0,0:00:38.07,0:00:45.84,Default,,0,0,0,,{\be1}To twoja wina, bo pokazałeś mi\Ntakiego apetycznego kutaska.
+Dialogue: 0,0:01:03.83,0:01:09.01,Default,,0,0,0,,{\be1}Przepraszam, nie powiem producentowi.
+Dialogue: 0,0:01:09.75,0:01:13.45,Default,,0,0,0,,{\be1}Pokaż mi jak bardzo seksowna jesteś.
+Dialogue: 0,0:01:14.72,0:01:17.47,Default,,0,0,0,,{\be1}Oj, Hiroaki.
+Dialogue: 0,0:01:24.45,0:01:28.70,Default,,0,0,0,,{\be1}Wszedł we mnie!
+Dialogue: 0,0:01:42.50,0:01:45.53,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:01:50.82,0:01:56.68,Default,,0,0,0,,{\be1}Mnie też jest cudownie!
+Dialogue: 0,0:02:01.12,0:02:03.42,Default,,0,0,0,,{\be1}Nie mam siły!
+Dialogue: 0,0:02:07.00,0:02:10.82,Default,,0,0,0,,{\be1}Jestem pieprzona przez Hiroakiego!
+Dialogue: 0,0:02:10.82,0:02:15.03,Default,,0,0,0,,{\be1}Głęboko go wkładasz!
+Dialogue: 0,0:02:16.20,0:02:21.00,Default,,0,0,0,,{\be1}Ale ty mnie podniecasz! Kocham cię!
+Dialogue: 0,0:02:21.83,0:02:27.50,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:02:31.66,0:02:33.13,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:02:35.72,0:02:39.99,Default,,0,0,0,,{\be1}Dochodzę! Jesteś cudowna!
+Dialogue: 0,0:02:46.81,0:02:48.81,Default,,0,0,0,,{\be1}Mamayu!
+Dialogue: 0,0:03:02.27,0:03:05.29,Default,,0,0,0,,{\be1}To było najlepsze.
+Dialogue: 0,0:03:05.29,0:03:10.42,Default,,0,0,0,,{\be1}Czyżbym był coraz lepszy, Mamayu?
+Dialogue: 0,0:03:21.45,0:03:22.76,Default,,0,0,0,,{\be1}Mamayu?
+Dialogue: 0,0:03:23.43,0:03:28.81,Default,,0,0,0,,{\be1}Jaka znowu Mamayu?!\NJestem Reiko, palancie!
+Dialogue: 0,0:03:28.81,0:03:38.06,Default,,0,0,0,,{\be1}Może i jestem do niej podobna, ale po pół roku\Nmałżeństwa ciągle pieprzysz mnie jakbym była nią!
+Dialogue: 0,0:03:38.06,0:03:40.28,Default,,0,0,0,,{\be1}Nie jestem Mamayu!
+Dialogue: 0,0:03:40.91,0:03:45.33,Default,,0,0,0,,{\be1}Już wiem, wywalę wszystko co jest z Mamayu.
+Dialogue: 0,0:03:45.79,0:03:48.71,Default,,0,0,0,,{\be1}Przepraszam! Nie rób tego!
+Dialogue: 0,0:03:48.71,0:03:50.37,Default,,0,0,0,,{\be1}Nie ma mowy!
+Dialogue: 0,0:03:50.37,0:03:55.01,Default,,0,0,0,,{\be1}Kto by chciał zboka za męża,\Nktóry ślini się na widok nastolatki?!
+Dialogue: 0,0:03:55.01,0:03:56.80,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:03:58.62,0:04:04.72,Default,,0,0,0,,{\be1}No tak, Taniguchi miał przyjść na parapetówkę.
+Dialogue: 0,0:04:05.70,0:04:07.98,Default,,0,0,0,,{\be1}Dopiero o tym mówisz?!
+Dialogue: 0,0:04:08.46,0:04:12.67,Default,,0,0,0,,{\be1}Hiroaki, jesteś?
+Dialogue: 0,0:04:28.56,0:04:31.75,Default,,0,0,0,,{\be1}Faktycznie jesteś podobna.
+Dialogue: 0,0:04:31.75,0:04:38.01,Default,,0,0,0,,{\be1}Hiroaki ciągle mówi, że poślubił Mamayu.
+Dialogue: 0,0:04:39.57,0:04:43.55,Default,,0,0,0,,{\be1}Jak możesz mnie tak zawstydzać?!
+Dialogue: 0,0:04:43.55,0:04:44.61,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:04:44.61,0:04:49.10,Default,,0,0,0,,{\be1}Jakby nie patrzeć to twoja wina.
+Dialogue: 0,0:04:49.10,0:04:51.51,Default,,0,0,0,,{\be1}Jesteś za ładna.
+Dialogue: 0,0:04:51.51,0:04:52.86,Default,,0,0,0,,{\be1}A gdzie tam.
+Dialogue: 0,0:04:52.86,0:04:58.74,Default,,0,0,0,,{\be1}Poza tym jesteś dużo bardziej czarująca niż Mamayu.
+Dialogue: 0,0:04:59.33,0:05:05.28,Default,,0,0,0,,{\be1}Powiem wprost, jesteś bardziej podniecająca niż ona.
+Dialogue: 0,0:05:05.28,0:05:08.25,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:05:08.25,0:05:12.11,Default,,0,0,0,,{\be1}Nie uderzaj do czyjejś żony.
+Dialogue: 0,0:05:12.11,0:05:13.89,Default,,0,0,0,,{\be1}Zazdrośnik.
+Dialogue: 0,0:05:14.78,0:05:17.55,Default,,0,0,0,,{\be1}Hiroaki ma szczęście.
+Dialogue: 0,0:05:17.99,0:05:21.24,Default,,0,0,0,,{\be1}Kiedyś miał obsesje na punkcie Mamayu.
+Dialogue: 0,0:05:21.24,0:05:24.37,Default,,0,0,0,,{\be1}30-latek latał za nastolatką.
+Dialogue: 0,0:05:24.37,0:05:29.23,Default,,0,0,0,,{\be1}Taki gość, a znalazł cudowną żonę.
+Dialogue: 0,0:05:29.23,0:05:32.71,Default,,0,0,0,,{\be1}To musiał być cud.
+Dialogue: 0,0:05:32.71,0:05:37.07,Default,,0,0,0,,{\be1}Pewnie jest wniebowzięty.
+Dialogue: 0,0:05:37.07,0:05:40.07,Default,,0,0,0,,{\be1}Ale ja...
+Dialogue: 0,0:05:43.21,0:05:46.07,Default,,0,0,0,,{\be1}Kocha się z tobą, tylko gdy udajesz Mamayu?!
+Dialogue: 0,0:05:48.59,0:05:52.58,Default,,0,0,0,,{\be1}Nie tak głośno, bo cię usłyszy!
+Dialogue: 0,0:05:53.11,0:05:57.89,Default,,0,0,0,,{\be1}Jest na to proste rozwiązanie.
+Dialogue: 0,0:05:57.89,0:05:59.51,Default,,0,0,0,,{\be1}Jakie?
+Dialogue: 0,0:06:00.34,0:06:06.44,Default,,0,0,0,,{\be1}Z Hiroakim kochaj się jako Mamayu.
+Dialogue: 0,0:06:06.44,0:06:08.97,Default,,0,0,0,,{\be1}A co powiesz na...
+Dialogue: 0,0:06:08.97,0:06:10.35,Default,,0,0,0,,{\be1}Taniguchi?
+Dialogue: 0,0:06:10.76,0:06:14.52,Default,,0,0,0,,{\be1}Dużo lepszy seks ze mną?
+Dialogue: 0,0:06:14.52,0:06:16.11,Default,,0,0,0,,{\be1}Nie mogę.
+Dialogue: 0,0:06:19.75,0:06:21.83,Default,,0,0,0,,{\be1}Taniguchi.
+Dialogue: 0,0:06:27.32,0:06:29.20,Default,,0,0,0,,{\be1}Taniguchi?!
+Dialogue: 0,0:06:29.20,0:06:34.15,Default,,0,0,0,,{\be1}Tak jak myślałem, jesteś bardzo seksowna.
+Dialogue: 0,0:06:34.15,0:06:36.88,Default,,0,0,0,,{\be1}Przestań, nie możemy!
+Dialogue: 0,0:06:36.88,0:06:41.80,Default,,0,0,0,,{\be1}O nie! Przestań!
+Dialogue: 0,0:06:42.93,0:06:47.89,Default,,0,0,0,,{\be1}Jesteś z Kansai?\NJeszcze mocniej mnie podniecasz.
+Dialogue: 0,0:06:47.89,0:06:50.84,Default,,0,0,0,,{\be1}Czas na to.
+Dialogue: 0,0:06:57.38,0:06:59.63,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:06:59.63,0:07:03.29,Default,,0,0,0,,{\be1}Skoro nie chcesz, to co to ma znaczyć?
+Dialogue: 0,0:07:05.57,0:07:07.67,Default,,0,0,0,,{\be1}Aleś ty mokra.
+Dialogue: 0,0:07:07.67,0:07:10.79,Default,,0,0,0,,{\be1}Nie chcę tego!
+Dialogue: 0,0:07:10.79,0:07:14.92,Default,,0,0,0,,{\be1}Zrobię coś dużo lepszego.
+Dialogue: 0,0:07:16.77,0:07:18.54,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:07:19.67,0:07:22.83,Default,,0,0,0,,{\be1}Nie możemy tego zrobić!
+Dialogue: 0,0:07:27.75,0:07:29.55,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:07:29.94,0:07:32.89,Default,,0,0,0,,{\be1}Oj, możemy.\NPrzyjemnie, prawda?
+Dialogue: 0,0:07:32.89,0:07:38.35,Default,,0,0,0,,{\be1}Tak, ale Hiroaki...
+Dialogue: 0,0:07:39.13,0:07:43.91,Default,,0,0,0,,{\be1}Przestań! Wiesz chociaż co robisz?
+Dialogue: 0,0:07:43.91,0:07:46.06,Default,,0,0,0,,{\be1}Jeśli Hiroaki się...
+Dialogue: 0,0:07:48.03,0:07:51.32,Default,,0,0,0,,{\be1}Masz seksowną cipkę.
+Dialogue: 0,0:07:53.26,0:07:58.00,Default,,0,0,0,,{\be1}Tak naprawdę jesteś bardziej\Nzboczona niż Mamayu, prawda?
+Dialogue: 0,0:07:58.00,0:08:00.04,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:08:01.75,0:08:06.62,Default,,0,0,0,,{\be1}Nie ssij tak mocno, bo zacznę jęczeć!
+Dialogue: 0,0:08:06.62,0:08:10.26,Default,,0,0,0,,{\be1}Zlituj się!
+Dialogue: 0,0:08:11.25,0:08:15.47,Default,,0,0,0,,{\be1}Ale ty jesteś mokra.
+Dialogue: 0,0:08:17.12,0:08:20.77,Default (i),,0,0,0,,{\be1}Co mam robić?\NHiroaki nas zobaczy!
+Dialogue: 0,0:08:26.61,0:08:30.57,Default,,0,0,0,,{\be1}Nie martw się, nie obudzi się.
+Dialogue: 0,0:08:32.05,0:08:35.55,Default,,0,0,0,,{\be1}On tak ma od dawna.
+Dialogue: 0,0:08:35.55,0:08:36.65,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:08:37.41,0:08:42.46,Default,,0,0,0,,{\be1}Patrz jak sterczą ci sutki.\NJuż nie wytrzymujesz, nie?
+Dialogue: 0,0:08:42.46,0:08:45.30,Default,,0,0,0,,{\be1}Twoja cipka...
+Dialogue: 0,0:08:47.30,0:08:49.25,Default,,0,0,0,,{\be1}Jest moja!
+Dialogue: 0,0:08:54.18,0:08:57.81,Default,,0,0,0,,{\be1}Nie! Będziemy mieli kłopoty!
+Dialogue: 0,0:08:58.75,0:09:00.45,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:09:01.10,0:09:02.56,Default,,0,0,0,,{\be1}No nie?
+Dialogue: 0,0:09:02.56,0:09:06.02,Default,,0,0,0,,{\be1}Twoja cipka uwielbia mojego kutasa!
+Dialogue: 0,0:09:06.02,0:09:09.27,Default,,0,0,0,,{\be1}O nie! Tak nie można!
+Dialogue: 0,0:09:10.49,0:09:12.53,Default,,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:09:21.02,0:09:24.83,Default,,0,0,0,,{\be1}Mam lepszego kutasa niż Hiroaki, nie?
+Dialogue: 0,0:09:25.74,0:09:28.52,Default,,0,0,0,,{\be1}Nie powiem!
+Dialogue: 0,0:09:29.92,0:09:35.89,Default (i),,0,0,0,,{\be1}Jego kutas jest niesamowity!\NDużo dłuższy i twardszy!
+Dialogue: 0,0:09:36.69,0:09:40.21,Default (i),,0,0,0,,{\be1}Wkłada głębiej niż Hiroaki!
+Dialogue: 0,0:09:43.97,0:09:46.98,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:09:50.40,0:09:55.26,Default,,0,0,0,,{\be1}Czemu ten kretyn ma obsesję na punkcie Mamayu?
+Dialogue: 0,0:09:55.26,0:10:00.20,Default,,0,0,0,,{\be1}Przecież masz dużo seksowniejsze ciało!
+Dialogue: 0,0:10:05.58,0:10:11.61,Default,,0,0,0,,{\be1}Reiko, zostańmy kochankami.
+Dialogue: 0,0:10:11.61,0:10:18.60,Default,,0,0,0,,{\be1}Będę dawał upust twojej frustracji moim kutasem!
+Dialogue: 0,0:10:20.92,0:10:24.73,Default,,0,0,0,,{\be1}Tak, jesteś wspaniały!
+Dialogue: 0,0:10:27.00,0:10:31.88,Default,,0,0,0,,{\be1}Jesteśmy kochankami!
+Dialogue: 0,0:10:33.39,0:10:39.91,Default,,0,0,0,,{\be1}Będziesz mi dogadzał swoim kutasem!
+Dialogue: 0,0:10:41.97,0:10:47.25,Default,,0,0,0,,{\be1}Chciałbym, żeby Hiroaki to usłyszał.
+Dialogue: 0,0:10:47.25,0:10:49.68,Default,,0,0,0,,{\be1}Chodź!
+Dialogue: 0,0:10:50.65,0:10:52.64,Default,,0,0,0,,{\be1}No dobra!
+Dialogue: 0,0:10:53.95,0:10:59.18,Default,,0,0,0,,{\be1}Hiroaki, od dzisiaj Taniguchi jest moim kochankiem.
+Dialogue: 0,0:10:59.75,0:11:05.56,Default,,0,0,0,,{\be1}Jego kutas tak bardzo mnie podnieca!
+Dialogue: 0,0:11:07.14,0:11:12.61,Default,,0,0,0,,{\be1}Sorki, ale to ja zadowolę Reiko.
+Dialogue: 0,0:11:13.85,0:11:15.29,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:11:15.29,0:11:22.58,Default,,0,0,0,,{\be1}Możesz mnie pieprzyć,\Nkiedy chcesz, tylko mnie zaspokój!
+Dialogue: 0,0:11:22.97,0:11:26.08,Default,,0,0,0,,{\be1}Daj mi w końcu orgazm!
+Dialogue: 0,0:11:28.63,0:11:35.80,Default,,0,0,0,,{\be1}Reiko, dojdź!\NDojdź przy Hiroakim!
+Dialogue: 0,0:11:39.36,0:11:43.43,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:11:47.75,0:11:50.74,Default (i),,0,0,0,,{\be1}Przepraszam, Hiroaki.
+Dialogue: 0,0:11:59.91,0:12:06.03,Default,,0,0,0,,{\be1}Hiroaki, podnieca cię mój mundurek?
+Dialogue: 0,0:12:06.03,0:12:08.83,Default,,0,0,0,,{\be1}Jeszcze jak, Mamayu!
+Dialogue: 0,0:12:09.34,0:12:12.29,Default,,0,0,0,,{\be1}Doprowadzasz mnie do szaleństwa!
+Dialogue: 0,0:12:13.96,0:12:19.22,Default,,0,0,0,,{\be1}Nie możemy, tym razem producent\Nna pewno mnie skrzyczy.
+Dialogue: 0,0:12:19.22,0:12:25.18,Default,,0,0,0,,{\be1}To będzie nasz sekret,\Njest dobrze, dopóki się nie dowie.
+Dialogue: 0,0:12:27.34,0:12:30.24,Default,,0,0,0,,{\be1}Naprawdę? Trzymam cię za słowo.
+Dialogue: 0,0:12:31.56,0:12:37.23,Default,,0,0,0,,{\be1}Zrobię to tylko dla ciebie.
+Dialogue: 0,0:12:37.23,0:12:39.03,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:12:41.95,0:12:44.29,Default,,0,0,0,,{\be1}Nie siorb tak głośno!
+Dialogue: 0,0:12:45.66,0:12:50.63,Default,,0,0,0,,{\be1}Ale z ciebie zboczoną idolka,\Nzobacz jaka jesteś mokra.
+Dialogue: 0,0:12:51.96,0:12:53.94,Default,,0,0,0,,{\be1}Nie drażnij się ze mną!
+Dialogue: 0,0:12:53.94,0:12:58.90,Default,,0,0,0,,{\be1}To przez ciebie jestem taka!
+Dialogue: 0,0:12:59.67,0:13:02.00,Default,,0,0,0,,{\be1}Zaraz będzie ci jeszcze lepiej.
+Dialogue: 0,0:13:09.75,0:13:14.61,Default,,0,0,0,,{\be1}Zapychasz mnie całą!
+Dialogue: 0,0:13:19.14,0:13:25.01,Default,,0,0,0,,{\be1}Masz cudowną cipkę!\NJest gorąca i bardzo ciasna!
+Dialogue: 0,0:13:28.94,0:13:37.72,Default,,0,0,0,,{\be1}Co byś zrobił, gdybym robiła to z producentem?
+Dialogue: 0,0:13:40.34,0:13:45.51,Default,,0,0,0,,{\be1}Nie pozwalam! Jesteś moją żoną!
+Dialogue: 0,0:13:45.51,0:13:49.27,Default,,0,0,0,,{\be1}Tylko ja mogę cię pieprzyć!
+Dialogue: 0,0:13:50.80,0:13:55.27,Default,,0,0,0,,{\be1}Jak mocno! Rozerwiesz mi cipkę!
+Dialogue: 0,0:14:03.08,0:14:06.01,Default,,0,0,0,,{\be1}Przyjdę za tydzień.
+Dialogue: 0,0:14:06.01,0:14:08.86,Default,,0,0,0,,{\be1}A do tego czasu...
+Dialogue: 0,0:14:12.63,0:14:15.84,Default,,0,0,0,,{\be1}O rany, cudownie!
+Dialogue: 0,0:14:15.84,0:14:22.77,Default,,0,0,0,,{\be1}Moja cipka jest tylko twoja!
+Dialogue: 0,0:14:25.84,0:14:32.19,Default,,0,0,0,,{\be1}Mamayu, jesteś cudowna! Nie wytrzymam!
+Dialogue: 0,0:14:33.36,0:14:39.06,Default,,0,0,0,,{\be1}Mocniej! Wkładaj go jak najgłębiej!
+Dialogue: 0,0:14:40.19,0:14:44.99,Default,,0,0,0,,{\be1}Zaraz dojdę, jeśli będziesz tak ściskać!
+Dialogue: 0,0:14:45.76,0:14:51.40,Default,,0,0,0,,{\be1}Dojdź! Zaspokój się moją cipką!
+Dialogue: 0,0:14:54.57,0:14:59.67,Default,,0,0,0,,{\be1}Zaraz dojdę! Spuszczę się w środku!
+Dialogue: 0,0:14:59.67,0:15:02.07,Default,,0,0,0,,{\be1}Mamayu!
+Dialogue: 0,0:15:12.75,0:15:18.56,Default (i),,0,0,0,,{\be1}A do tego czasu nagromadź dużo napięcia seksualnego.

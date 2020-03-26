@@ -1,0 +1,400 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.723
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: [848x480]
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 49014
+Collisions: Normal
+Audio File: ?video
+Video File: [Kira-H]_Oh My Sex Goddess_(Megachu)_Episode 02_Uncensored_(DVD 720x480 h264 AAC) [E2D6E4C7].mkv
+Active Line: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H009D87FF,&H000000FF,&H00FFFFFF,&H00D3BAD8,0,0,0,0,100,100,0,0,1,1,1.5,7,10,10,8,1
+Style: Anime,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Tlo,Franklin Gothic Medium,20,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,50,1
+Style: Linia,Franklin Gothic Medium,20,&H008D373C,&H000000FF,&H00000000,&H00000000,0,0,0,0,103,80,0,0,1,0,0,1,10,10,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,20,1
+Style: ED Pl,Franklin Gothic Medium,26,&H00FFFFFF,&H00626262,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,17,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.18,0:00:08.02,Grupa,,0,0,0,,{\xshad-1.5\yshad1\1c&H000000&\3c&H000000&\4c&H000000&\t(0,1572,\1c&H9D87FF&\3c&HFFFFFF&\4c&HD3BAD8&)\t(6869,7828,\1c&H000000&\3c&H000000&\4c&H000000&)}Nyan
+Dialogue: 0,0:32:15.03,0:33:36.53,Tlo,,0,0,0,,{\p1\pos(10,430)\an1}m 630 75.02 l 630 131.89 -10 133.03 -10 52.27 37.83 52.27 b 99.32 64.78 204.09 72.74 300 66.75 412.49 54.54 488.79 61.37 584.45 75.063
+Dialogue: 0,0:32:15.03,0:33:36.53,Linia,,0,0,0,,{\be1\pos(364,440)\an1\clip(40,390,40,430)\t(0,6000,\clip(40,390,610,430))\t(75479,81485,\clip(610,390,610,430))\p1}m -312.95 -14.24 b -234.76 12.61 -164.91 20.66 -42.93 12.6 102 -1.42 160.88 10.26 226.05 15.29 155.88 -12.74 74.88 -14.24 -11.65 -7.53 -136.76 3.21 -223 -1.1 -312.95 -14.24{\p0}
+Dialogue: 0,0:32:19.91,0:32:22.19,ED Pl,,0,0,0,,{\fad(300,300)}1, 2, 3, ruszamy!
+Dialogue: 0,0:32:35.46,0:32:40.39,ED Pl,,0,0,0,,{\fad(300,300)}Kiedy cię spotkam i zakocham się w tobie?
+Dialogue: 0,0:32:40.11,0:32:41.96,ED Pl,,0,0,0,,{\fad(300,300)\pos(450,400)}Kiedy?
+Dialogue: 0,0:32:42.21,0:32:47.21,ED Pl,,0,0,5,,{\fad(300,300)}Szepty niekończącej się miłości\Nbędą lecieć w rytmie bicia serca.
+Dialogue: 0,0:32:46.61,0:32:49.08,ED Pl,,0,0,0,,{\fad(300,300)\pos(450,400)}W rytmie serca.
+Dialogue: 0,0:32:49.04,0:32:54.47,ED Pl,,0,0,0,,{\fad(300,300)}Czy nadal będziesz odważny, jeśli podkręcimy tempo?
+Dialogue: 0,0:32:55.78,0:33:03.65,ED Pl,,0,0,0,,{\fad(300,300)}Serce wali mi jak szalone, a ręce i nogi mam jak z waty.
+Dialogue: 0,0:33:04.65,0:33:11.35,ED Pl,,0,0,0,,{\fad(300,300)}Czy na zawsze już będziemy połączeni niebem i wiatrem?
+Dialogue: 1,0:33:11.32,0:33:17.99,ED Pl,,0,0,0,,{\fad(300,300)}Czy na zawsze już będziemy połączeni czasem i światem?
+Dialogue: 0,0:33:17.84,0:33:25.54,ED Pl,,0,0,5,,{\fad(300,300)}Tęsknię za tobą!\NTęsknię za tobą i nie mogę przestać.
+Dialogue: 1,0:33:25.31,0:33:30.24,ED Pl,,0,0,0,,{\fad(300,300)}Czy jesteśmy już na zawsze połączeni uczuciami?
+Dialogue: 0,0:00:15.04,0:00:20.33,Default,,0,0,0,,{\be1}Po prostu wymaż tego brutala i skończone!
+Dialogue: 0,0:00:20.33,0:00:25.25,Default,,0,0,0,,{\be1}Dokładnie, tak by było najłatwiej.
+Dialogue: 0,0:00:29.45,0:00:35.26,Default,,0,0,0,,{\be1}Kousuke, nie możemy pozwolić,\Naby diabelskie nasienie przebudziło się w tobie.
+Dialogue: 0,0:00:36.08,0:00:38.45,Default,,0,0,0,,{\be1}Spoczywaj w pokoju!
+Dialogue: 0,0:00:39.69,0:00:42.69,Default,,0,0,0,,{\be1}Właśnie, to dla dobra Ziemi.
+Dialogue: 0,0:00:43.66,0:00:45.11,Default,,0,0,0,,{\be1}Czekajcie!
+Dialogue: 0,0:00:45.11,0:00:48.67,Default,,0,0,0,,{\be1}Wystarczy, że obniżycie poziom\Nnieczystości, a diabeł się nie odrodzi!
+Dialogue: 0,0:00:52.90,0:00:56.91,Default,,0,0,0,,{\be1}Spełnimy twoje ostatnie życzenie.
+Dialogue: 0,0:00:57.61,0:00:59.10,Default,,0,0,0,,{\be1}Ostatnie?
+Dialogue: 0,0:01:50.53,0:01:53.68,Default,,0,0,0,,{\be1}Fauna, już nie mogę!
+Dialogue: 0,0:01:56.73,0:02:00.65,Default,,0,0,0,,{\be1}Kiedy się rozebraliśmy?\NI skąd się tu wzięliśmy?
+Dialogue: 0,0:02:02.48,0:02:07.47,Default,,0,0,0,,{\be1}To mój pierwszy raz, więc nie wiem,\Nczy będę to robiła dobrze.
+Dialogue: 0,0:02:10.18,0:02:13.91,Default,,0,0,0,,{\be1}Pierwszy? Ale my już...
+Dialogue: 0,0:02:19.88,0:02:22.00,Default,,0,0,0,,{\be1}Zaczynajmy.
+Dialogue: 0,0:02:28.36,0:02:29.94,Default,,0,0,0,,{\be1}Kousuke!
+Dialogue: 0,0:02:44.60,0:02:46.48,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:02:46.48,0:02:53.49,Default,,0,0,0,,{\be1}Fauna, jeśli spuszczę się w tobie,\Nto wtedy zostanę oczyszczony?
+Dialogue: 0,0:02:57.19,0:03:01.45,Default,,0,0,0,,{\be1}Jak dobrze! Kousuke!
+Dialogue: 0,0:03:03.06,0:03:05.67,Default,,0,0,0,,{\be1}Fauna, dochodzę!
+Dialogue: 0,0:03:06.39,0:03:08.10,Default,,0,0,0,,{\be1}Jeszcze nie możesz!
+Dialogue: 0,0:03:08.10,0:03:10.34,Default,,0,0,0,,{\be1}Ale już nie wytrzymam!
+Dialogue: 0,0:03:10.34,0:03:11.83,Default,,0,0,0,,{\be1}Jeszcze nie!
+Dialogue: 0,0:03:11.83,0:03:14.16,Default,,0,0,0,,{\be1}Dlaczego nie?
+Dialogue: 0,0:03:14.74,0:03:17.14,Default,,0,0,0,,{\be1}Bo nie!
+Dialogue: 0,0:03:17.45,0:03:18.80,Default,,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:03:20.38,0:03:25.27,Default,,0,0,0,,{\be1}Dochodzę!\NDlaczego nie mogę się spuścić?
+Dialogue: 0,0:03:27.52,0:03:29.27,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:03:30.81,0:03:32.17,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:03:34.80,0:03:37.22,Default,,0,0,0,,{\be1}To tylko sen?
+Dialogue: 0,0:03:40.03,0:03:42.49,Default,,0,0,0,,{\be1}Co to, do cholery, ma być?!
+Dialogue: 0,0:03:49.32,0:03:52.00,Default,,0,0,0,,{\be1}To twoja sprawka, Jordh?!
+Dialogue: 0,0:03:52.86,0:03:54.64,Default,,0,0,0,,{\be1}Chcesz więcej?
+Dialogue: 0,0:03:54.64,0:03:56.30,Default,,0,0,0,,{\be1}Co ty wyprawiasz?!
+Dialogue: 0,0:03:56.88,0:04:04.77,Default,,0,0,0,,{\be1}Pomyślałam, że powstrzymamy wzrost nieczystości,\Njeśli nie damy ci śnić o zboczonych rzeczach.
+Dialogue: 0,0:04:08.92,0:04:10.61,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:04:10.61,0:04:14.94,Default,,0,0,0,,{\be1}Chcesz, żeby mi więcej nie stanął?! Pomocy!
+Dialogue: 0,0:04:16.40,0:04:17.86,Default,,0,0,0,,{\be1}Kousuke?
+Dialogue: 0,0:04:18.65,0:04:20.59,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:04:20.59,0:04:22.66,Default,,0,0,0,,{\be1}Jordh, co ty robisz?
+Dialogue: 0,0:04:31.70,0:04:33.04,Default,,0,0,0,,{\be1}Umarłem...
+Dialogue: 0,0:04:35.32,0:04:40.66,Default,,0,0,0,,{\be1}Nie możesz tego używać, to jest zbyt okrutne!
+Dialogue: 0,0:04:40.66,0:04:42.24,Default,,0,0,0,,{\be1}Jak mogłaś...
+Dialogue: 0,0:04:44.37,0:04:50.31,Default,,0,0,0,,{\be1}No wiesz, odebrać mu najlepsze\Nchwile błogiego szczęścia.
+Dialogue: 0,0:04:50.31,0:04:55.78,Default,,0,0,0,,{\be1}A jaki mamy inny wybór?\NMusimy go jakoś oczyścić.
+Dialogue: 0,0:04:56.14,0:05:02.24,Default,,0,0,0,,{\be1}Wystarczy, że normalnie go oczyścimy.
+Dialogue: 0,0:05:02.24,0:05:05.12,Default,,0,0,0,,{\be1}Niech ci będzie.
+Dialogue: 0,0:05:06.72,0:05:09.21,Default,,0,0,0,,{\be1}Kousuke, nic ci nie jest?
+Dialogue: 0,0:05:14.17,0:05:16.16,Default,,0,0,0,,{\be1}O, nie!
+Dialogue: 0,0:05:16.16,0:05:19.10,Default,,0,0,0,,{\be1}Może troszkę przesadziłam?
+Dialogue: 0,0:05:19.10,0:05:23.20,Default,,0,0,0,,{\be1}Ale wystarczy trochę\Nmojej magii i będzie jak nowy.
+Dialogue: 0,0:05:23.20,0:05:26.51,Default,,0,0,0,,{\be1}Czekaj, ja to zrobię.
+Dialogue: 0,0:05:26.51,0:05:29.89,Default,,0,0,0,,{\be1}Daj spokój, w końcu to moja wina.
+Dialogue: 0,0:05:29.89,0:05:34.61,Default,,0,0,0,,{\be1}Nie, ja się nim zaopiekuję!
+Dialogue: 0,0:05:34.61,0:05:38.65,Default,,0,0,0,,{\be1}I czego się wściekasz?
+Dialogue: 0,0:05:43.96,0:05:47.10,Default,,0,0,0,,{\be1}Jednak jest zdrowy!
+Dialogue: 0,0:05:47.10,0:05:50.27,Default,,0,0,0,,{\be1}Jordh, czyżby to...
+Dialogue: 0,0:05:50.27,0:05:51.80,Default,,0,0,0,,{\be1}Chyba nie.
+Dialogue: 0,0:05:56.97,0:05:58.99,Default,,0,0,0,,{\be1}To musi być nieczystość.
+Dialogue: 0,0:05:58.99,0:06:01.86,Default,,0,0,0,,{\be1}Fauna, użyj pasa oczyszczającego.
+Dialogue: 0,0:06:07.69,0:06:10.38,Default,,0,0,0,,{\be1}Czekajcie, nic mi nie jest!
+Dialogue: 0,0:06:11.82,0:06:14.17,Default,,0,0,0,,{\be1}Więc jak to wytłumaczysz?
+Dialogue: 0,0:06:16.22,0:06:24.07,Default,,0,0,0,,{\be1}No bo, gdy zobaczyłem prawdziwą Faunę,\Nprzypomniałem sobie, co robiliśmy we śnie.
+Dialogue: 0,0:06:25.28,0:06:27.19,Default,,0,0,0,,{\be1}Kousuke.
+Dialogue: 0,0:06:27.19,0:06:29.79,Default,,0,0,0,,{\be1}Niedobry chłopiec.
+Dialogue: 0,0:06:32.75,0:06:34.89,Default,,0,0,0,,{\be1}Pora umierać!
+Dialogue: 0,0:06:35.51,0:06:37.77,Default,,0,0,0,,{\be1}Fauna, pomóż mi!
+Dialogue: 0,0:06:37.77,0:06:39.50,Default,,0,0,0,,{\be1}Zapomnij!
+Dialogue: 0,0:06:42.08,0:06:46.97,Default,,0,0,0,,{\be1}Przepraszam, czy coś się stało Kawakamiemu?
+Dialogue: 0,0:06:48.95,0:06:50.55,Default,,0,0,0,,{\be1}Pani Kurosaki...
+Dialogue: 0,0:06:51.43,0:06:56.90,Default,,0,0,0,,{\be1}Myślałam, że kogoś zarzynają,\Nbo słyszałam przeraźliwe krzyki.
+Dialogue: 0,0:06:56.90,0:06:59.48,Default,,0,0,0,,{\be1}To nie było miłe.
+Dialogue: 0,0:06:59.48,0:07:03.52,Default,,0,0,0,,{\be1}To zabrzmiało,\Njakbyśmy to my zrobiły coś złego.
+Dialogue: 0,0:07:03.52,0:07:05.86,Default,,0,0,0,,{\be1}Pijesz do mnie?
+Dialogue: 0,0:07:06.54,0:07:09.88,Default,,0,0,0,,{\be1}To tylko małe nieporozumienie.
+Dialogue: 0,0:07:09.88,0:07:13.62,Default,,0,0,0,,{\be1}Kousuke miał atak po przewlekłej chorobie.
+Dialogue: 0,0:07:14.00,0:07:16.04,Default,,0,0,0,,{\be1}Jakiej chorobie?
+Dialogue: 0,0:07:18.22,0:07:20.09,Default,,0,0,0,,{\be1}Przewlekłego napalenia.
+Dialogue: 0,0:07:20.09,0:07:23.51,Default,,0,0,0,,{\be1}Nie, bolał go brzuch.
+Dialogue: 0,0:07:23.51,0:07:28.01,Default,,0,0,0,,{\be1}Mam ze sobą lekarstwo.
+Dialogue: 0,0:07:31.80,0:07:33.35,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:07:33.35,0:07:34.54,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:07:34.54,0:07:36.27,Default,,0,0,0,,{\be1}Nie ma za co.
+Dialogue: 0,0:07:43.68,0:07:45.63,Default,,0,0,0,,{\be1}Zdrowiej szybko.
+Dialogue: 0,0:07:49.22,0:07:51.29,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:07:51.29,0:07:53.82,Default,,0,0,0,,{\be1}Wiedziałam, że coś jest nie tak.
+Dialogue: 0,0:07:53.82,0:07:54.91,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:07:55.27,0:07:58.58,Default,,0,0,0,,{\be1}Nałożyłam na pokój barierę.
+Dialogue: 0,0:07:58.58,0:08:04.09,Default,,0,0,0,,{\be1}Nikt poza boginiami nie powinien móc tu wejść.
+Dialogue: 0,0:08:04.97,0:08:06.98,Default,,0,0,0,,{\be1}Lekarstwo?
+Dialogue: 0,0:08:08.84,0:08:10.68,Default,,0,0,0,,{\be1}Spróbuję.
+Dialogue: 0,0:08:19.33,0:08:21.05,Default,,0,0,0,,{\be1}Ale dzisiaj gorąco.
+Dialogue: 0,0:08:21.05,0:08:23.98,Default,,0,0,0,,{\be1}Idealny dzień na basen.
+Dialogue: 0,0:08:27.71,0:08:31.78,Default,,0,0,0,,{\be1}Przez upał kręci mi się w głowie.
+Dialogue: 0,0:08:33.03,0:08:34.58,Default,,0,0,0,,{\be1}Dobrze się czujesz?
+Dialogue: 0,0:08:36.63,0:08:38.33,Default,,0,0,0,,{\be1}Pani Kurosaki.
+Dialogue: 0,0:08:38.33,0:08:42.10,Default,,0,0,0,,{\be1}Przepraszam, czuję się strasznie zmęczony.
+Dialogue: 0,0:08:42.10,0:08:45.88,Default,,0,0,0,,{\be1}To niedobrze, powinieneś odpocząć.
+Dialogue: 0,0:08:46.88,0:08:48.31,Default,,0,0,0,,{\be1}Tak zrobię...
+Dialogue: 0,0:08:52.91,0:08:57.31,Default,,0,0,0,,{\be1}Długo się im opierał.
+Dialogue: 0,0:09:02.73,0:09:03.95,Default,,0,0,0,,{\be1}Gdzie ja jestem?
+Dialogue: 0,0:09:10.69,0:09:12.14,Default (i),,0,0,0,,{\be1}Przebieralnia?
+Dialogue: 0,0:09:14.32,0:09:15.76,Default (i),,0,0,0,,{\be1}Pani Kurosaki?
+Dialogue: 0,0:09:19.85,0:09:21.11,Default (i),,0,0,0,,{\be1}O, nie!
+Dialogue: 0,0:09:21.11,0:09:24.38,Default (i),,0,0,0,,{\be1}Coś przejmuje nade mną kontrolę!
+Dialogue: 0,0:09:25.00,0:09:26.19,Default (i),,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:09:35.32,0:09:37.29,Default,,0,0,0,,{\be1}Siedź cicho.
+Dialogue: 0,0:09:37.29,0:09:40.33,Default,,0,0,0,,{\be1}Co ty tu robisz?
+Dialogue: 0,0:09:40.33,0:09:42.35,Default,,0,0,0,,{\be1}Czekałem na ciebie.
+Dialogue: 0,0:09:44.00,0:09:45.48,Default,,0,0,0,,{\be1}Na mnie?
+Dialogue: 0,0:09:46.48,0:09:50.32,Default,,0,0,0,,{\be1}Powinienem ci podziękować.
+Dialogue: 0,0:09:51.80,0:09:54.07,Default,,0,0,0,,{\be1}Za co?
+Dialogue: 0,0:09:57.39,0:10:01.08,Default,,0,0,0,,{\be1}Mam dla ciebie mały prezent.
+Dialogue: 0,0:10:01.08,0:10:03.29,Default,,0,0,0,,{\be1}Jaki?
+Dialogue: 0,0:10:10.48,0:10:14.93,Default,,0,0,0,,{\be1}Jest trochę za mały.
+Dialogue: 0,0:10:15.22,0:10:17.46,Default,,0,0,0,,{\be1}I o to chodziło.
+Dialogue: 0,0:10:17.46,0:10:20.50,Default,,0,0,0,,{\be1}Zacznij ćwiczyć.
+Dialogue: 0,0:10:20.50,0:10:21.51,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:10:34.03,0:10:38.15,Default,,0,0,0,,{\be1}Strój jest taki ciasny, że zaczyna boleć.
+Dialogue: 0,0:10:40.12,0:10:42.93,Default,,0,0,0,,{\be1}No, to go trochę poluzuję.
+Dialogue: 0,0:10:51.13,0:10:53.47,Default,,0,0,0,,{\be1}Nie rób tego!
+Dialogue: 0,0:10:54.61,0:10:57.07,Default,,0,0,0,,{\be1}Teraz kontynuuj.
+Dialogue: 0,0:11:07.41,0:11:08.82,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:11:09.89,0:11:11.65,Default,,0,0,0,,{\be1}Proszę, przestań!
+Dialogue: 0,0:11:14.03,0:11:16.43,Default,,0,0,0,,{\be1}Więc zrobisz to sama?
+Dialogue: 0,0:11:17.17,0:11:18.45,Default,,0,0,0,,{\be1}Mi pasuje.
+Dialogue: 0,0:11:37.56,0:11:40.47,Default,,0,0,0,,{\be1}Ssij.
+Dialogue: 0,0:11:47.53,0:11:49.46,Default,,0,0,0,,{\be1}Głębiej!
+Dialogue: 0,0:12:06.72,0:12:08.79,Default,,0,0,0,,{\be1}Boisz się?
+Dialogue: 0,0:12:13.06,0:12:15.47,Default,,0,0,0,,{\be1}Nie tam.
+Dialogue: 0,0:12:16.19,0:12:19.24,Default,,0,0,0,,{\be1}O tak, będzie tutaj.
+Dialogue: 0,0:12:56.20,0:13:00.24,Default,,0,0,0,,{\be1}Dziwne, śpi tutaj?
+Dialogue: 0,0:13:02.94,0:13:05.10,Default,,0,0,0,,{\be1}Co za głupek.
+Dialogue: 0,0:13:05.41,0:13:10.81,Default,,0,0,0,,{\be1}Blokujesz drogę!\NWstawaj, bo cię ktoś rozdepcze!
+Dialogue: 0,0:13:11.15,0:13:15.25,Default,,0,0,0,,{\be1}No, wstawaj! Kurde!
+Dialogue: 0,0:13:20.46,0:13:22.07,Default,,0,0,0,,{\be1}Aua!
+Dialogue: 0,0:13:22.07,0:13:26.16,Default,,0,0,0,,{\be1}Ty też mnie pragniesz?
+Dialogue: 0,0:13:27.60,0:13:30.79,Default,,0,0,0,,{\be1}Zaraz wyślę cię do raju.
+Dialogue: 0,0:13:32.84,0:13:34.98,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:13:36.91,0:13:37.80,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:13:43.61,0:13:47.45,Default,,0,0,0,,{\be1}Dlaczego nikt nie pilnował tego brutala?!
+Dialogue: 0,0:13:47.45,0:13:52.22,Default,,0,0,0,,{\be1}Pilnowałam go, tylko poszedł do ubikacji.
+Dialogue: 0,0:13:52.22,0:13:53.23,Default,,0,0,0,,{\be1}Śni o czymś?
+Dialogue: 0,0:13:53.52,0:13:58.19,Default,,0,0,0,,{\be1}Dziwiło mnie czemu tak długo nie wraca.
+Dialogue: 0,0:13:58.60,0:14:00.90,Default,,0,0,0,,{\be1}Jemu nie da się pomóc.
+Dialogue: 0,0:14:00.90,0:14:04.20,Default,,0,0,0,,{\be1}Możliwe, ale pamiętajmy o Faunie.
+Dialogue: 0,0:14:04.20,0:14:06.50,Default,,0,0,0,,{\be1}To co zrobimy?
+Dialogue: 0,0:14:06.50,0:14:08.87,Default,,0,0,0,,{\be1}Trzeba go oczyścić.
+Dialogue: 0,0:14:08.87,0:14:10.91,Default,,0,0,0,,{\be1}Nie zrobię tego!
+Dialogue: 0,0:14:10.91,0:14:13.91,Default,,0,0,0,,{\be1}Przecież nie mówiłam o tobie.
+Dialogue: 0,0:14:13.91,0:14:16.38,Default,,0,0,0,,{\be1}A gdzie jest Fauna?
+Dialogue: 0,0:14:17.28,0:14:19.58,Default,,0,0,0,,{\be1}Poszła na zakupy.
+Dialogue: 0,0:14:19.58,0:14:25.45,Default,,0,0,0,,{\be1}Nie chcę, żeby Fauna robiła to z nim!
+Dialogue: 0,0:14:25.45,0:14:27.22,Default,,0,0,0,,{\be1}Więc nie mamy wyboru.
+Dialogue: 0,0:14:30.80,0:14:33.66,Default,,0,0,0,,{\be1}Ja się nim zaopiekuję!
+Dialogue: 0,0:14:35.50,0:14:37.86,Default,,0,0,0,,{\be1}To część pracy bogini.
+Dialogue: 0,0:14:38.74,0:14:42.49,Default,,0,0,0,,{\be1}Lea, wyjdź na zewnątrz.
+Dialogue: 0,0:14:54.25,0:14:57.83,Default,,0,0,0,,{\be1}Jordh. Znowu się zmieniłem?
+Dialogue: 0,0:14:58.96,0:15:01.99,Default,,0,0,0,,{\be1}Tak, i chciałeś zrobić coś niedobrego.
+Dialogue: 0,0:15:01.99,0:15:05.93,Default,,0,0,0,,{\be1}Cholera, kto mi to robi?!
+Dialogue: 0,0:15:06.43,0:15:08.37,Default,,0,0,0,,{\be1}Nie mam pojęcia.
+Dialogue: 0,0:15:08.37,0:15:13.89,Default,,0,0,0,,{\be1}Ale jeśli diabeł się odrodzi,\Nto nie będzie miało znaczenia, kto ci to robi.
+Dialogue: 0,0:15:15.90,0:15:21.65,Default,,0,0,0,,{\be1}Fauny nie ma, więc może jednak cię wymażę.
+Dialogue: 0,0:15:21.65,0:15:23.57,Default,,0,0,0,,{\be1}Dla dobra ludzkości oczywiście.
+Dialogue: 0,0:15:27.35,0:15:29.05,Default,,0,0,0,,{\be1}Żartowałam.
+Dialogue: 0,0:15:30.35,0:15:32.64,Default,,0,0,0,,{\be1}Nie strasz mnie.
+Dialogue: 0,0:15:33.82,0:15:37.71,Default,,0,0,0,,{\be1}Chcesz, żebym cię oczyściła?
+Dialogue: 0,0:15:41.48,0:15:43.78,Default,,0,0,0,,{\be1}Bądź bardziej stanowczy!
+Dialogue: 0,0:15:44.34,0:15:46.57,Default,,0,0,0,,{\be1}Bardzo proszę!
+Dialogue: 0,0:15:46.57,0:15:47.95,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:15:49.81,0:15:50.88,Default,,0,0,0,,{\be1}Jesteś pewna?
+Dialogue: 0,0:15:50.88,0:15:52.97,Default,,0,0,0,,{\be1}Inaczej będzie nam ciężko.
+Dialogue: 0,0:16:05.96,0:16:09.56,Default,,0,0,0,,{\be1}Lubisz piersi, co?
+Dialogue: 0,0:16:09.56,0:16:11.66,Default,,0,0,0,,{\be1}Ty to powiedziałaś.
+Dialogue: 0,0:16:21.91,0:16:24.84,Default,,0,0,0,,{\be1}Teraz ja się tobą zajmę.
+Dialogue: 0,0:16:34.79,0:16:37.14,Default,,0,0,0,,{\be1}Cudownie, Jordh!
+Dialogue: 0,0:17:05.42,0:17:09.63,Default,,0,0,0,,{\be1}Ale jesteś mokra, zboczek.
+Dialogue: 0,0:17:09.63,0:17:12.68,Default,,0,0,0,,{\be1}Odezwał się!
+Dialogue: 0,0:17:19.64,0:17:23.06,Default,,0,0,0,,{\be1}Ale jest ciasna!
+Dialogue: 0,0:17:24.70,0:17:26.40,Default,,0,0,0,,{\be1}Kousuke!
+Dialogue: 0,0:17:26.40,0:17:28.36,Default,,0,0,0,,{\be1}Głębiej!
+Dialogue: 0,0:17:42.52,0:17:46.54,Default,,0,0,0,,{\be1}Jak dobrze, zaraz dojdę!
+Dialogue: 0,0:17:46.92,0:17:49.96,Default,,0,0,0,,{\be1}Śmiało, nie krępuj się!
+Dialogue: 0,0:17:49.96,0:17:54.93,Default,,0,0,0,,{\be1}Wypuść nieczystość we mnie!
+Dialogue: 0,0:18:19.74,0:18:22.41,Default,,0,0,0,,{\be1}Fauna...
+Dialogue: 0,0:18:26.43,0:18:30.20,Default,,0,0,0,,{\be1}Kurde, ale jesteście powolni!
+Dialogue: 0,0:18:30.20,0:18:31.84,Default,,0,0,0,,{\be1}Szybciej!
+Dialogue: 0,0:18:38.51,0:18:42.64,Default,,0,0,0,,{\be1}Dlaczego zaprosiłaś nas na basen?
+Dialogue: 0,0:18:43.45,0:18:46.25,Default,,0,0,0,,{\be1}Ty mnie nie obchodzisz.
+Dialogue: 0,0:18:46.25,0:18:48.63,Default,,0,0,0,,{\be1}To dla sióstr.
+Dialogue: 0,0:18:48.63,0:18:52.13,Default,,0,0,0,,{\be1}Dla nich? Coś się stało?
+Dialogue: 0,0:18:52.82,0:18:55.53,Default,,0,0,0,,{\be1}Chcę, żeby się pogodziły.
+Dialogue: 0,0:18:55.53,0:18:59.90,Default,,0,0,0,,{\be1}Pokłóciły się? Dlaczego?
+Dialogue: 0,0:18:59.90,0:19:01.04,Default,,0,0,0,,{\be1}Idiota!
+Dialogue: 0,0:19:03.90,0:19:05.25,Default,,0,0,0,,{\be1}Czy to nie...
+Dialogue: 0,0:19:09.47,0:19:12.48,Default,,0,0,0,,{\be1}Coś jest nie tak z tą wiśnią?
+Dialogue: 0,0:19:12.48,0:19:14.28,Default,,0,0,0,,{\be1}Co to jest "wiśnia"?
+Dialogue: 0,0:19:14.28,0:19:18.37,Default,,0,0,0,,{\be1}To drzewa, na wiosnę zakwitają całe na różowo.
+Dialogue: 0,0:19:18.37,0:19:23.09,Default,,0,0,0,,{\be1}Ale to drzewo nie zakwitło.
+Dialogue: 0,0:19:23.09,0:19:25.19,Default,,0,0,0,,{\be1}Nie wiem dlaczego.
+Dialogue: 0,0:19:26.46,0:19:29.29,Default,,0,0,0,,{\be1}Jesteś boskim drzewem?
+Dialogue: 0,0:19:39.30,0:19:43.08,Default,,0,0,0,,{\be1}Nigdy nie spotkałam\Ninnej boskiej istoty na ziemi.
+Dialogue: 0,0:19:43.83,0:19:45.58,Default,,0,0,0,,{\be1}Ona lata!
+Dialogue: 0,0:19:45.58,0:19:49.29,Default,,0,0,0,,{\be1}Co was sprowadza do świata ludzi?
+Dialogue: 0,0:19:49.98,0:19:53.46,Default,,0,0,0,,{\be1}Cóż, to długa historia.
+Dialogue: 0,0:19:53.88,0:19:58.61,Default,,0,0,0,,{\be1}Dawno temu zostałam tu posadzona.
+Dialogue: 0,0:19:58.61,0:20:02.47,Default,,0,0,0,,{\be1}Ale nadal nie mogę sprawić,\Nby kwiaty zakwitły.
+Dialogue: 0,0:20:02.96,0:20:06.44,Default,,0,0,0,,{\be1}Jesteś nimfą leśną?
+Dialogue: 0,0:20:07.36,0:20:08.90,Default,,0,0,0,,{\be1}Nimfą?
+Dialogue: 0,0:20:08.90,0:20:12.59,Default,,0,0,0,,{\be1}Tak mówią na was ludzie.
+Dialogue: 0,0:20:13.94,0:20:18.61,Default,,0,0,0,,{\be1}Więc jeśli jakiś człowiek cię zobaczy,\Nnazwie cię nimfą.
+Dialogue: 0,0:20:19.28,0:20:21.05,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:20:22.31,0:20:25.33,Default,,0,0,0,,{\be1}Nimfa!
+Dialogue: 0,0:20:25.95,0:20:28.19,Default,,0,0,0,,{\be1}Pozwól, że ci kogoś przedstawię.
+Dialogue: 0,0:20:28.19,0:20:32.29,Default,,0,0,0,,{\be1}To mój przyjaciel\Nze świata ludzi, Kawakami Kousuke.
+Dialogue: 0,0:20:33.32,0:20:34.53,Default,,0,0,0,,{\be1}Miło mi.
+Dialogue: 0,0:20:34.53,0:20:36.73,Default,,0,0,0,,{\be1}I jest zboczeńcem!
+Dialogue: 0,0:20:36.73,0:20:39.26,Default,,0,0,0,,{\be1}Idiotko, nie mów tego!
+Dialogue: 0,0:20:40.56,0:20:45.10,Default,,0,0,0,,{\be1}Jestem Astra, nimfa. Miło mi.
+Dialogue: 0,0:20:49.94,0:20:52.98,Default,,0,0,0,,{\be1}Czas popływać!
+Dialogue: 0,0:20:52.98,0:20:56.15,Default,,0,0,0,,{\be1}Każdy czasem potrzebuje odpoczynku.
+Dialogue: 0,0:20:56.15,0:20:57.40,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:20:57.40,0:20:59.86,Default,,0,0,0,,{\be1}Co to ma znaczyć?
+Dialogue: 0,0:20:59.86,0:21:01.92,Default,,0,0,0,,{\be1}To dla bezpieczeństwa.
+Dialogue: 0,0:21:01.92,0:21:05.62,Default,,0,0,0,,{\be1}Nie wiemy, kiedy znowu\Nskoczy mu poziom nieczystości.
+Dialogue: 0,0:21:05.62,0:21:08.04,Default,,0,0,0,,{\be1}Pilnuj rzeczy, dobra?
+Dialogue: 0,0:21:08.04,0:21:12.73,Default,,0,0,0,,{\be1}Przepraszam, Kousuke,\Nale to dla dobra świata!
+Dialogue: 0,0:21:12.73,0:21:14.33,Default,,0,0,0,,{\be1}Dokładnie!
+Dialogue: 0,0:21:14.33,0:21:17.64,Default,,0,0,0,,{\be1}To po co przychodziłem na basen?
+Dialogue: 0,0:21:17.64,0:21:19.09,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:21:20.80,0:21:23.47,Default,,0,0,0,,{\be1}Pani Kurosaki?
+Dialogue: 0,0:21:24.21,0:21:27.16,Default,,0,0,0,,{\be1}Co za przypadek, że się spotkaliśmy.
+Dialogue: 0,0:21:27.77,0:21:29.12,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:21:29.89,0:21:32.77,Default,,0,0,0,,{\be1}Więcej nikomu nie pozwolę przeszkadzać.
+Dialogue: 0,0:21:44.80,0:21:49.12,Default,,0,0,0,,{\be1}Kousuke? Śpisz?
+Dialogue: 0,0:21:57.94,0:22:02.53,Default,,0,0,0,,{\be1}Chcesz to zrobić tutaj,\Ngdy ludzie będą się gapić?
+Dialogue: 0,0:22:03.71,0:22:05.82,Default,,0,0,0,,{\be1}Nieczystość?!
+Dialogue: 0,0:22:07.32,0:22:10.43,Default,,0,0,0,,{\be1}Kousuke, przestań!
+Dialogue: 0,0:22:10.43,0:22:13.65,Default,,0,0,0,,{\be1}Proszę, ocknij się!
+Dialogue: 0,0:22:16.93,0:22:18.65,Default,,0,0,0,,{\be1}Boska kara!
+Dialogue: 0,0:22:22.00,0:22:25.80,Default,,0,0,0,,{\be1}Co się dzieje?\NPrzecież został oczyszczony.
+Dialogue: 0,0:22:25.80,0:22:29.04,Default,,0,0,0,,{\be1}Czyżby ktoś mu to zrobił?
+Dialogue: 0,0:22:30.24,0:22:34.18,Default,,0,0,0,,{\be1}Myślałam, że z dala od domu, będzie w porządku.
+Dialogue: 0,0:22:34.18,0:22:36.08,Default,,0,0,0,,{\be1}Myliłam się.
+Dialogue: 0,0:22:36.08,0:22:38.52,Default,,0,0,0,,{\be1}Jordh, musimy go oczyścić.
+Dialogue: 0,0:22:39.32,0:22:42.76,Default,,0,0,0,,{\be1}Fauna, teraz twoja kolej.
+Dialogue: 0,0:22:44.42,0:22:45.72,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:22:51.83,0:22:53.48,Default,,0,0,0,,{\be1}Kousuke.
+Dialogue: 0,0:22:55.30,0:22:58.34,Default,,0,0,0,,{\be1}Zostawiam go tobie.
+Dialogue: 0,0:22:58.34,0:22:59.80,Default,,0,0,0,,{\be1}Jordh?
+Dialogue: 0,0:22:59.80,0:23:02.86,Default,,0,0,0,,{\be1}Muszę się czymś zająć.
+Dialogue: 0,0:23:03.17,0:23:04.61,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:23:05.34,0:23:08.24,Default,,0,0,0,,{\be1}Byłam na ciebie zła.
+Dialogue: 0,0:23:08.99,0:23:11.79,Default,,0,0,0,,{\be1}To nic, nie przejmuj się.
+Dialogue: 0,0:23:12.75,0:23:17.54,Default,,0,0,0,,{\be1}Fauna, bądź ostrożna,\Nwróg jest bardzo zdeterminowany.
+Dialogue: 0,0:23:18.36,0:23:19.36,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:23:27.33,0:23:28.73,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:23:28.73,0:23:31.24,Default,,0,0,0,,{\be1}Mogę ci pomóc?
+Dialogue: 0,0:23:31.24,0:23:33.04,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:23:33.04,0:23:36.91,Default,,0,0,0,,{\be1}Znowu mnie za idiotkę!
+Dialogue: 0,0:23:36.91,0:23:40.01,Default,,0,0,0,,{\be1}Znasz się na farmakologii?
+Dialogue: 0,0:23:40.01,0:23:41.68,Default,,0,0,0,,{\be1}Farmakologii?
+Dialogue: 0,0:23:41.68,0:23:44.49,Default,,0,0,0,,{\be1}Znasz podstawy zaawansowanej matematyki?
+Dialogue: 0,0:23:45.09,0:23:46.65,Default,,0,0,0,,{\be1}Zaawansowanej?
+Dialogue: 0,0:23:46.65,0:23:48.05,Default,,0,0,0,,{\be1}Jesteś bezużyteczna.
+Dialogue: 0,0:23:49.14,0:23:51.33,Default,,0,0,0,,{\be1}Najmocniej przepraszam.
+Dialogue: 0,0:23:54.63,0:23:56.89,Default,,0,0,0,,{\be1}Teraz zaczynają się schody.
+Dialogue: 0,0:24:08.84,0:24:10.26,Default,,0,0,0,,{\be1}Kousuke.
+Dialogue: 0,0:24:10.97,0:24:13.49,Default,,0,0,0,,{\be1}Tym razem ja cię oczyszczę.
+Dialogue: 0,0:24:20.15,0:24:23.57,Default,,0,0,0,,{\be1}Przepraszam,\Nże musisz to dla mnie robić.
+Dialogue: 0,0:24:23.57,0:24:28.43,Default,,0,0,0,,{\be1}Nie przeszkadza mi to.
+Dialogue: 0,0:24:29.03,0:24:32.85,Default,,0,0,0,,{\be1}Fauna, chcę cię zobaczyć całą nagą.
+Dialogue: 0,0:24:37.94,0:24:41.50,Default,,0,0,0,,{\be1}Nie gap się tak, zawstydzasz mnie.
+Dialogue: 0,0:24:42.07,0:24:43.36,Default,,0,0,0,,{\be1}Jesteś piękna.
+Dialogue: 0,0:24:46.36,0:24:49.70,Default,,0,0,0,,{\be1}Fauna, dłużej nie wytrzymam.
+Dialogue: 0,0:24:54.64,0:24:57.20,Default,,0,0,0,,{\be1}To za szybko!
+Dialogue: 0,0:25:00.14,0:25:01.90,Default,,0,0,0,,{\be1}Wstydzę się!
+Dialogue: 0,0:25:19.48,0:25:22.38,Default,,0,0,0,,{\be1}Jednak, ziemskie rośliny nie nadają się.
+Dialogue: 0,0:25:23.11,0:25:25.34,Default,,0,0,0,,{\be1}Są mało wytrzymałe.
+Dialogue: 0,0:25:26.08,0:25:30.80,Default,,0,0,0,,{\be1}Ale nie mam czasu, żeby lecieć do nieba.
+Dialogue: 0,0:25:33.42,0:25:36.27,Default,,0,0,0,,{\be1}Fauna, chcę to zrobić.
+Dialogue: 0,0:25:36.96,0:25:42.23,Default,,0,0,0,,{\be1}Dobrze, zrób to kiedy tylko zechcesz.
+Dialogue: 0,0:25:42.50,0:25:44.23,Default,,0,0,0,,{\be1}Fauna.
+Dialogue: 0,0:25:49.81,0:25:53.51,Default,,0,0,0,,{\be1}Jesteś taka ciepła w środku.
+Dialogue: 0,0:25:58.02,0:26:02.00,Default,,0,0,0,,{\be1}To dlatego, że ty jesteś dobry!
+Dialogue: 0,0:26:02.55,0:26:06.21,Default,,0,0,0,,{\be1}Cudownie mi w tobie!
+Dialogue: 0,0:26:07.59,0:26:10.74,Default,,0,0,0,,{\be1}Nie mów tak, to jest trochę zboczone.
+Dialogue: 0,0:26:11.40,0:26:12.59,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:26:14.82,0:26:16.26,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:26:16.26,0:26:21.60,Default,,0,0,0,,{\be1}Spuść się we mnie, ile możesz!
+Dialogue: 0,0:26:23.69,0:26:26.36,Default,,0,0,0,,{\be1}Dochodzę, Fauna!
+Dialogue: 0,0:26:28.58,0:26:30.28,Default,,0,0,0,,{\be1}Kousuke?
+Dialogue: 0,0:26:42.26,0:26:44.52,Default,,0,0,0,,{\be1}Tym razem już na pewno.
+Dialogue: 0,0:26:51.74,0:26:53.88,Default,,0,0,0,,{\be1}Kousuke?
+Dialogue: 0,0:26:54.57,0:26:56.01,Default,,0,0,0,,{\be1}Bariera?
+Dialogue: 0,0:26:56.01,0:26:56.85,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:26:56.85,0:27:02.38,Default,,0,0,0,,{\be1}Ktoś ustawił barierę w ciele Kousuke.
+Dialogue: 0,0:27:02.38,0:27:04.01,Default,,0,0,0,,{\be1}A co ona robi?
+Dialogue: 0,0:27:04.01,0:27:07.31,Default,,0,0,0,,{\be1}Blokuje orgazm, więc nie może być oczyszczony.
+Dialogue: 0,0:27:07.31,0:27:09.02,Default,,0,0,0,,{\be1}Więc nic nie zrobimy!
+Dialogue: 0,0:27:09.02,0:27:14.20,Default,,0,0,0,,{\be1}Dlatego robię miksturę, która usunie barierę.
+Dialogue: 0,0:27:14.55,0:27:17.23,Default,,0,0,0,,{\be1}Pośpiesz się, bo będzie za późno!
+Dialogue: 0,0:27:17.23,0:27:18.99,Default,,0,0,0,,{\be1}Przecież wiem.
+Dialogue: 0,0:27:21.30,0:27:22.97,Default,,0,0,0,,{\be1}To na nic.
+Dialogue: 0,0:27:22.97,0:27:25.96,Default,,0,0,0,,{\be1}Muszę użyć boskich roślin.
+Dialogue: 0,0:27:26.92,0:27:28.41,Default,,0,0,0,,{\be1}Przepraszam...
+Dialogue: 0,0:27:28.41,0:27:30.32,Default,,0,0,0,,{\be1}Jesteśmy zajęte!
+Dialogue: 0,0:27:30.32,0:27:34.03,Default,,0,0,0,,{\be1}Mogę w czymś pomóc?
+Dialogue: 0,0:27:34.03,0:27:35.42,Default,,0,0,0,,{\be1}Astra?!
+Dialogue: 0,0:27:38.32,0:27:40.39,Default,,0,0,0,,{\be1}Przyszłam w odwiedzinach!
+Dialogue: 0,0:27:42.75,0:27:45.35,Default,,0,0,0,,{\be1}Kousuke, trzymaj się!
+Dialogue: 0,0:27:46.29,0:27:51.32,Default,,0,0,0,,{\be1}Czuję, jakby coś mną tam zawładnęło.
+Dialogue: 0,0:27:51.60,0:27:55.61,Default,,0,0,0,,{\be1}Nie martw się, obronię cię!
+Dialogue: 0,0:28:03.97,0:28:08.75,Default,,0,0,0,,{\be1}Twoje kwiaty nie kwitną,\N bo zostałaś za wcześnie posadzona.
+Dialogue: 0,0:28:09.15,0:28:12.75,Default,,0,0,0,,{\be1}Sama tego chciałam, więc nic nie szkodzi.
+Dialogue: 0,0:28:12.75,0:28:15.86,Default,,0,0,0,,{\be1}Chciałam, jak najszybciej ujrzeć ten świat.
+Dialogue: 0,0:28:16.47,0:28:24.14,Default,,0,0,0,,{\be1}Nie wiem, co się z tobą stanie,\Njeśli użyję czaru rozkwitania.
+Dialogue: 0,0:28:24.49,0:28:32.25,Default,,0,0,0,,{\be1}Zawsze chciałam mieć piękne kwiaty i widzieć jak ludzie się uśmiechają.
+Dialogue: 0,0:28:33.27,0:28:34.88,Default,,0,0,0,,{\be1}Nie będziesz tego żałować?
+Dialogue: 0,0:28:38.34,0:28:43.08,Default,,0,0,0,,{\be1}Wszyscy, którzy mnie słyszą, dodajcie mi mocy!
+Dialogue: 0,0:28:43.08,0:28:46.62,Default,,0,0,0,,{\be1}I obdarzcie ją błogosławieństwem czasu!
+Dialogue: 0,0:29:03.68,0:29:06.18,Default,,0,0,0,,{\be1}Nic się nie dzieje.
+Dialogue: 0,0:29:07.14,0:29:12.14,Default,,0,0,0,,{\be1}Wszyscy, którzy mnie słyszą, dodajcie mi mocy!
+Dialogue: 0,0:29:12.14,0:29:15.11,Default,,0,0,0,,{\be1}I obdarzcie ją błogosławieństwem czasu!
+Dialogue: 0,0:29:15.71,0:29:18.07,Default,,0,0,0,,{\be1}Wietrze, wodo, ziemio!
+Dialogue: 0,0:29:18.48,0:29:21.07,Default,,0,0,0,,{\be1}Wszystkie moce, które gromadzą się tu!
+Dialogue: 0,0:29:21.07,0:29:25.04,Default,,0,0,0,,{\be1}Pozwólcie jej zakwitnąć!
+Dialogue: 0,0:29:25.39,0:29:27.91,Default (i),,0,0,0,,{\be1}Proszę, zakwitnij!
+Dialogue: 0,0:29:51.52,0:29:55.81,Default,,0,0,0,,{\be1}Udało się, zakwitła! Pięknie!
+Dialogue: 0,0:30:00.59,0:30:01.78,Default,,0,0,0,,{\be1}Fauna.
+Dialogue: 0,0:30:02.89,0:30:04.28,Default,,0,0,0,,{\be1}Kousuke!
+Dialogue: 0,0:30:04.28,0:30:06.87,Default,,0,0,0,,{\be1}Dziękuję, Fauna.
+Dialogue: 0,0:30:06.87,0:30:09.96,Default,,0,0,0,,{\be1}Nie wiem dlaczego, ale czuję się już lepiej.
+Dialogue: 0,0:30:09.96,0:30:11.85,Default,,0,0,0,,{\be1}Co za ulga.
+Dialogue: 0,0:30:15.21,0:30:18.78,Default,,0,0,0,,{\be1}Tym razem uda mi się.
+Dialogue: 0,0:30:18.78,0:30:20.17,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:30:21.28,0:30:23.88,Default,,0,0,0,,{\be1}Zaczynam, Fauna.
+Dialogue: 0,0:30:23.88,0:30:25.14,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:30:33.52,0:30:35.90,Default,,0,0,0,,{\be1}Jak dobrze, Fauna!
+Dialogue: 0,0:30:37.40,0:30:40.73,Default,,0,0,0,,{\be1}Mnie też jest przyjemnie, Kousuke!
+Dialogue: 0,0:30:50.67,0:30:53.73,Default,,0,0,0,,{\be1}Dochodzę, Fauna!
+Dialogue: 0,0:30:55.73,0:31:00.38,Default,,0,0,0,,{\be1}Ja też, Kousuke!
+Dialogue: 0,0:31:17.40,0:31:20.36,Default,,0,0,0,,{\be1}Zdążyłyśmy na czas.
+Dialogue: 0,0:31:31.29,0:31:32.89,Default,,0,0,0,,{\be1}Astra.
+Dialogue: 0,0:31:35.85,0:31:39.00,Default,,0,0,0,,{\be1}Plan się przeciąga.
+Dialogue: 0,0:31:39.39,0:31:41.29,Default,,0,0,0,,{\be1}Najmocniej przepraszam.
+Dialogue: 0,0:31:41.29,0:31:43.19,Default,,0,0,0,,{\be1}Wyjaśnisz mi to?
+Dialogue: 0,0:31:43.19,0:31:44.47,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:31:45.00,0:31:48.83,Default,,0,0,0,,{\be1}Te wkurzające boginie\Nciągle wchodzą mi w drogę.
+Dialogue: 0,0:31:48.83,0:31:55.46,Default,,0,0,0,,{\be1}Następnym razem zaaplikuję Kousuke taką dawkę, że od razu przebudzi diabła.
+Dialogue: 0,0:31:56.24,0:31:58.69,Default,,0,0,0,,{\be1}To twoja ostatnia szansa.
+Dialogue: 0,0:31:59.11,0:32:04.68,Default,,0,0,0,,{\be1}Bez obaw, już wiem jak myślą te boginie.
+Dialogue: 0,0:32:04.68,0:32:06.36,Default,,0,0,0,,{\be1}I znam ich słabości.

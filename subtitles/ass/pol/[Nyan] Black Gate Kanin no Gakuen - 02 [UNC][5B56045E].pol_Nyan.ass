@@ -1,0 +1,227 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.731
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 218
+Active Line: 0
+Video Zoom Percent: 1
+Last Style Storage: Default
+PlayResX: 848
+PlayResY: 480
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H001012EA,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,35,&H000000E7,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:03:51.83,0:04:01.09,Grupa,,0,0,0,,{\be1\fad(444,975)}Nyan
+Dialogue: 0,0:03:56.67,0:04:01.09,Tytul,,0,0,0,,{\be1\fad(484,975)\pos(290,473)}Apostoł mroku
+Dialogue: 0,0:00:32.35,0:00:33.93,Default,,0,0,0,,{\be1}Dajcie mi moc!
+Dialogue: 0,0:01:58.59,0:02:02.85,Default,,0,0,0,,{\be1}Chodź i daj mi moc!
+Dialogue: 0,0:02:25.03,0:02:27.25,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:02:50.68,0:02:54.30,Default,,0,0,0,,{\be1}Dajcie mi moc!
+Dialogue: 0,0:04:16.00,0:04:19.36,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:04:28.01,0:04:30.37,Default,,0,0,0,,{\be1}Czym oni są?
+Dialogue: 0,0:04:30.78,0:04:33.02,Default,,0,0,0,,{\be1}Szybko! Do środka!
+Dialogue: 0,0:04:40.36,0:04:41.93,Default,,0,0,0,,{\be1}Kto to?
+Dialogue: 0,0:04:41.93,0:04:46.26,Default,,0,0,0,,{\be1}Sam nie wiem.
+Dialogue: 0,0:04:53.24,0:04:55.31,Default,,0,0,0,,{\be1}Tak nic nie zdziałamy!
+Dialogue: 0,0:04:55.31,0:04:58.27,Default,,0,0,0,,{\be1}Gdybyśmy mogły się pozbyć choć kilku...
+Dialogue: 0,0:05:01.98,0:05:04.05,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:05:04.05,0:05:05.25,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:05:05.25,0:05:08.57,Default,,0,0,0,,{\be1}Nie sądziłam, że tak szybko przyjdziesz.
+Dialogue: 0,0:05:10.41,0:05:13.96,Default,,0,0,0,,{\be1}Myślałam, że najpierw\Npójdziesz po zgodę do starszyzny.
+Dialogue: 0,0:05:15.75,0:05:16.96,Default,,0,0,0,,{\be1}Shizuku!
+Dialogue: 0,0:05:18.48,0:05:19.71,Default,,0,0,0,,{\be1}Narifumi.
+Dialogue: 0,0:05:21.85,0:05:24.82,Default,,0,0,0,,{\be1}Shizuku, wróć z nami, jeszcze nie jest za późno.
+Dialogue: 0,0:05:24.82,0:05:28.30,Default,,0,0,0,,{\be1}Będziesz musiała zaciągnąć mnie siłą.
+Dialogue: 0,0:05:28.96,0:05:30.39,Default,,0,0,0,,{\be1}Shizuku.
+Dialogue: 0,0:05:30.39,0:05:34.23,Default,,0,0,0,,{\be1}Ale zabiję cię, jeśli spróbujesz.
+Dialogue: 0,0:05:40.14,0:05:41.74,Default,,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:05:41.74,0:05:44.61,Default,,0,0,0,,{\be1}Nigdy nie zrozumiesz!
+Dialogue: 0,0:05:52.01,0:05:53.12,Default,,0,0,0,,{\be1}Trzęsienie ziemi?
+Dialogue: 0,0:05:55.82,0:05:57.12,Default,,0,0,0,,{\be1}Wrota.
+Dialogue: 0,0:06:52.14,0:06:54.28,Default,,0,0,0,,{\be1}Nikt nie kontroluje wrót.
+Dialogue: 0,0:06:54.28,0:06:56.06,Default,,0,0,0,,{\be1}Co robimy?
+Dialogue: 0,0:06:59.85,0:07:02.04,Default,,0,0,0,,{\be1}Nadal są w tym świecie.
+Dialogue: 0,0:07:02.69,0:07:03.75,Default,,0,0,0,,{\be1}Więc?
+Dialogue: 0,0:07:03.75,0:07:04.69,Default,,0,0,0,,{\be1}Znajdźcie ich!
+Dialogue: 0,0:07:25.43,0:07:26.79,Default,,0,0,0,,{\be1}Przecież to...
+Dialogue: 0,0:07:29.08,0:07:31.41,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:07:31.41,0:07:34.01,Default,,0,0,0,,{\be1}Może byście wytłumaczyły?
+Dialogue: 0,0:07:34.62,0:07:38.79,Default,,0,0,0,,{\be1}Przepraszam, same niewiele wiemy.
+Dialogue: 0,0:07:38.79,0:07:40.38,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:07:40.38,0:07:44.57,Default,,0,0,0,,{\be1}Poznałyśmy tylko trochę ze starych legend.
+Dialogue: 0,0:07:44.57,0:07:47.73,Default,,0,0,0,,{\be1}Jakich znowu legend?\NChcę wiedzieć...
+Dialogue: 0,0:07:48.36,0:07:49.94,Default,,0,0,0,,{\be1}Uspokój się!
+Dialogue: 0,0:07:50.77,0:07:52.07,Default,,0,0,0,,{\be1}Pani Ebizuka.
+Dialogue: 0,0:07:52.07,0:07:57.52,Default,,0,0,0,,{\be1}Przecież nie powiemy ci czegoś\Nczego same nie wiemy.
+Dialogue: 0,0:08:00.79,0:08:04.23,Default,,0,0,0,,{\be1}Jesteśmy strażniczkami wrót.
+Dialogue: 0,0:08:04.23,0:08:06.23,Default,,0,0,0,,{\be1}Strażniczkami?
+Dialogue: 0,0:08:06.23,0:08:08.96,Default,,0,0,0,,{\be1}Widziałeś wrota.
+Dialogue: 0,0:08:09.57,0:08:12.77,Default,,0,0,0,,{\be1}Nazywają je Czarnymi Wrotami.
+Dialogue: 0,0:08:12.77,0:08:17.51,Default,,0,0,0,,{\be1}Łączą nasz świat z tym.
+Dialogue: 0,0:08:17.98,0:08:21.77,Default,,0,0,0,,{\be1}Łączą światy?
+Dialogue: 0,0:08:22.15,0:08:27.77,Default,,0,0,0,,{\be1}Tak, obecnie jesteśmy w innym świecie.
+Dialogue: 0,0:08:28.05,0:08:30.66,Default,,0,0,0,,{\be1}To niemożliwe!
+Dialogue: 0,0:08:30.66,0:08:31.94,Default,,0,0,0,,{\be1}To prawda.
+Dialogue: 0,0:08:34.79,0:08:44.01,Default,,0,0,0,,{\be1}Dawno temu w tym świcie\Nistniały inne kultury, ale...
+Dialogue: 0,0:08:49.58,0:08:57.54,Default,,0,0,0,,{\be1}Przypadkowo odkryli potężną moc,\Nktóra doprowadziła do ich zagłady.
+Dialogue: 0,0:09:01.35,0:09:06.85,Default,,0,0,0,,{\be1}Kilku mieszkańców przeżyło\Ni zdecydowali zamieszkać w naszym świecie.
+Dialogue: 0,0:09:06.85,0:09:09.82,Default,,0,0,0,,{\be1}Do tego zbudowali wrota.
+Dialogue: 0,0:09:10.60,0:09:16.37,Default,,0,0,0,,{\be1}Ród Kadomori to potomkowie tych ludzi.
+Dialogue: 0,0:09:16.37,0:09:25.21,Default,,0,0,0,,{\be1}Przez ten cały czas chroniliśmy wrota.
+Dialogue: 0,0:09:25.21,0:09:28.00,Default,,0,0,0,,{\be1}Chroniliście? Przed czym?
+Dialogue: 0,0:09:28.45,0:09:30.98,Default,,0,0,0,,{\be1}Przed mocą, która zniszczyła ten świat.
+Dialogue: 0,0:09:30.98,0:09:38.69,Default,,0,0,0,,{\be1}Mocą zdolną zmienić nasz świat,\Njak również go zniszczyć.
+Dialogue: 0,0:09:38.69,0:09:45.02,Default,,0,0,0,,{\be1}Zamknęliśmy tę moc po tej stronie wrót\Ni strzegliśmy ich, aby nikt ich nigdy nie otworzył.
+Dialogue: 0,0:09:45.46,0:09:47.52,Default,,0,0,0,,{\be1}Moc zdolna zmienić świat?
+Dialogue: 0,0:09:47.52,0:09:54.41,Default,,0,0,0,,{\be1}Tak, podobno ta moc\Npozwala kontrolować wszystko.
+Dialogue: 0,0:09:54.41,0:10:00.38,Default,,0,0,0,,{\be1}Ale nikt nie wiem czym ona jest.
+Dialogue: 0,0:10:00.38,0:10:01.58,Default,,0,0,0,,{\be1}Nie wiedziałem.
+Dialogue: 0,0:10:01.58,0:10:05.38,Default,,0,0,0,,{\be1}Ciężko uwierzyć, prawda?
+Dialogue: 0,0:10:05.38,0:10:09.48,Default,,0,0,0,,{\be1}I choć sama tu jestem,\Nto samej mi trudno w to uwierzyć.
+Dialogue: 0,0:10:09.48,0:10:13.55,Default,,0,0,0,,{\be1}Nie mamy wyjścia jak uwierzyć.
+Dialogue: 0,0:10:15.06,0:10:18.76,Default,,0,0,0,,{\be1}Wszystkie jesteście strażniczkami?
+Dialogue: 0,0:10:18.76,0:10:19.51,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:10:19.90,0:10:26.23,Default,,0,0,0,,{\be1}Kasumi, Mizuki i mnie znasz.
+Dialogue: 0,0:10:26.84,0:10:33.27,Default,,0,0,0,,{\be1}Wiem też jak wygląda przewodnicząca\Nrady uczniowskiej, Fujisaki Miharu.
+Dialogue: 0,0:10:33.27,0:10:38.28,Default,,0,0,0,,{\be1}To Hasegawa Koyuki i Katsuragi Fuu.\NSą o rok starsze od ciebie.
+Dialogue: 0,0:10:38.28,0:10:42.86,Default,,0,0,0,,{\be1}A to Izumi Amane, jest rok młodsza.
+Dialogue: 0,0:10:43.74,0:10:48.16,Default,,0,0,0,,{\be1}Moc rodu Kadomori jest przekazywana kobietom.
+Dialogue: 0,0:10:48.16,0:10:53.25,Default,,0,0,0,,{\be1}Nasza siódemka i Shizuku,\Nto osiem strażniczek.
+Dialogue: 0,0:10:53.25,0:10:55.03,Default,,0,0,0,,{\be1}Shizuku.
+Dialogue: 0,0:10:55.03,0:10:58.10,Default,,0,0,0,,{\be1}A właśnie, czemu Shizuku to robi?
+Dialogue: 0,0:10:58.10,0:11:01.26,Default,,0,0,0,,{\be1}Chce zdobyć moc zdolną zmienić świat.
+Dialogue: 0,0:11:02.24,0:11:08.34,Default,,0,0,0,,{\be1}Dla strażniczki próba zdobycia\Ntej mocy to największa zbrodnia.
+Dialogue: 0,0:11:09.08,0:11:13.77,Default,,0,0,0,,{\be1}Nie wiem co się z nią stało.
+Dialogue: 0,0:11:14.88,0:11:17.66,Default,,0,0,0,,{\be1}Wie pani kto to?
+Dialogue: 0,0:11:17.66,0:11:18.82,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:11:20.39,0:11:22.53,Default,,0,0,0,,{\be1}Jak masz na imię?
+Dialogue: 0,0:11:22.53,0:11:23.28,Default,,0,0,0,,{\be1}Sora.
+Dialogue: 0,0:11:47.56,0:11:48.81,Default,,0,0,0,,{\be1}Kasumi.
+Dialogue: 0,0:11:50.18,0:11:51.24,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:11:54.77,0:11:55.86,Default,,0,0,0,,{\be1}To nic takiego.
+Dialogue: 0,0:12:07.57,0:12:11.54,Default,,0,0,0,,{\be1}Przepraszam, że wciągnęłam cię w to.
+Dialogue: 0,0:12:11.54,0:12:13.10,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:12:38.30,0:12:42.74,Default,,0,0,0,,{\be1}Shizuku kochała cię.
+Dialogue: 0,0:12:43.44,0:12:47.74,Default,,0,0,0,,{\be1}Ale to ze mną byłeś.
+Dialogue: 0,0:12:49.85,0:12:53.75,Default,,0,0,0,,{\be1}Wiedziałam co do ciebie czuła.
+Dialogue: 0,0:12:54.45,0:13:00.36,Default,,0,0,0,,{\be1}Mimo to cieszyła się moim szczęściem,\Na ja w to uwierzyłam.
+Dialogue: 0,0:13:01.23,0:13:03.40,Default,,0,0,0,,{\be1}Lecz jednak tak nie było.
+Dialogue: 0,0:13:03.40,0:13:05.04,Default,,0,0,0,,{\be1}Dlatego to zrobiła.
+Dialogue: 0,0:13:07.60,0:13:08.78,Default (i),,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:13:11.30,0:13:13.31,Default,,0,0,0,,{\be1}Narifumi.
+Dialogue: 0,0:13:13.71,0:13:19.77,Default,,0,0,0,,{\be1}Co byś zrobił, gdybyś miał moc zdolną zmienić świat?
+Dialogue: 0,0:13:21.11,0:13:23.12,Default,,0,0,0,,{\be1}Nie mów tak.
+Dialogue: 0,0:13:24.22,0:13:29.69,Default,,0,0,0,,{\be1}Shizuku nie próbuje się na tobie odegrać.
+Dialogue: 0,0:13:29.69,0:13:33.69,Default,,0,0,0,,{\be1}Przecież jesteście siostrami,\Nrazem dorastałyście.
+Dialogue: 0,0:13:33.69,0:13:42.30,Default,,0,0,0,,{\be1}Powinnaś wiedzieć najlepiej,\Nże nigdy by tak nie zrobiła.
+Dialogue: 0,0:14:38.92,0:14:40.01,Default,,0,0,0,,{\be1}Wkładam.
+Dialogue: 0,0:14:48.37,0:14:50.20,Default,,0,0,0,,{\be1}Boli?
+Dialogue: 0,0:14:50.20,0:14:51.47,Default,,0,0,0,,{\be1}Nic mi nie będzie.
+Dialogue: 0,0:14:52.13,0:14:53.87,Default,,0,0,0,,{\be1}Możesz nim ruszać.
+Dialogue: 0,0:15:46.66,0:15:49.17,Default,,0,0,0,,{\be1}Narifumi!
+Dialogue: 0,0:16:40.02,0:16:41.23,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:16:46.25,0:16:48.33,Default,,0,0,0,,{\be1}Oszaleję!
+Dialogue: 0,0:16:50.90,0:16:53.28,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:16:54.24,0:16:56.24,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:16:57.19,0:16:59.37,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:17:13.25,0:17:16.53,Default,,0,0,0,,{\be1}Narifumi, jestem szczęśliwa.
+Dialogue: 0,0:17:50.85,0:17:53.71,Default,,0,0,0,,{\be1}Jak możesz zachowywać się tak beztrosko?
+Dialogue: 0,0:17:54.55,0:17:58.72,Default,,0,0,0,,{\be1}Jak nimby mamy ją znaleźć w tak dużym świecie?
+Dialogue: 0,0:17:58.72,0:18:00.46,Default,,0,0,0,,{\be1}Komiyama.
+Dialogue: 0,0:18:00.46,0:18:03.60,Default,,0,0,0,,{\be1}Mam tego dość, wracam.
+Dialogue: 0,0:18:04.60,0:18:05.50,Default,,0,0,0,,{\be1}Czekaj.
+Dialogue: 0,0:18:05.50,0:18:06.68,Default,,0,0,0,,{\be1}Odwal się!
+Dialogue: 0,0:18:06.68,0:18:11.12,Default,,0,0,0,,{\be1}Chodzi o to, że wrota są niestabilne,\Nlepiej ich nie używać.
+Dialogue: 0,0:18:11.12,0:18:14.74,Default,,0,0,0,,{\be1}I niby kogo to wina?!
+Dialogue: 0,0:18:14.74,0:18:18.84,Default,,0,0,0,,{\be1}Mało tego, musimy przez to przechodzić\Nprzez ciebie i twoją siostrę!
+Dialogue: 0,0:18:18.84,0:18:21.41,Default,,0,0,0,,{\be1}Niby czemu mam ci pomagać?
+Dialogue: 0,0:18:21.41,0:18:22.49,Default,,0,0,0,,{\be1}Uspokój się.
+Dialogue: 0,0:18:23.19,0:18:24.51,Default,,0,0,0,,{\be1}Wal się!
+Dialogue: 0,0:18:24.51,0:18:25.74,Default,,0,0,0,,{\be1}Co ci?
+Dialogue: 0,0:18:34.98,0:18:36.88,Default,,0,0,0,,{\be1}Czemu się rozbeczała?
+Dialogue: 0,0:18:46.04,0:18:47.10,Default,,0,0,0,,{\be1}Komiyama.
+Dialogue: 0,0:18:53.28,0:18:56.82,Default,,0,0,0,,{\be1}Co z tobą?\NNie zachowujesz się jak ty.
+Dialogue: 0,0:18:56.82,0:18:59.95,Default,,0,0,0,,{\be1}To oświeć mnie jaka jestem.
+Dialogue: 0,0:18:59.95,0:19:01.78,Default,,0,0,0,,{\be1}No cóż...
+Dialogue: 0,0:19:02.31,0:19:10.66,Default,,0,0,0,,{\be1}Cały ten czas powstrzymywałam się,\Nbo nie chciałam nikogo zawieść, ale mam dosyć.
+Dialogue: 0,0:19:10.66,0:19:13.17,Default,,0,0,0,,{\be1}Będę w końcu sobą.
+Dialogue: 0,0:19:13.17,0:19:15.40,Default,,0,0,0,,{\be1}No to dobrze.
+Dialogue: 0,0:19:15.40,0:19:16.30,Default,,0,0,0,,{\be1}No nie?
+Dialogue: 0,0:19:16.30,0:19:20.64,Default,,0,0,0,,{\be1}To są moje uczucia.
+Dialogue: 0,0:19:20.64,0:19:21.51,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:19:22.00,0:19:27.02,Default,,0,0,0,,{\be1}Kocham cię i nie oddam cię\Nani Kasumi ani Shizuku!
+Dialogue: 0,0:19:27.51,0:19:28.84,Default,,0,0,0,,{\be1}Komiyama.
+Dialogue: 0,0:19:39.62,0:19:40.72,Default,,0,0,0,,{\be1}Komiyama.
+Dialogue: 0,0:19:41.83,0:19:44.93,Default,,0,0,0,,{\be1}Myśl tylko o mnie.
+Dialogue: 0,0:19:49.10,0:19:52.60,Default,,0,0,0,,{\be1}Robiłeś tak kiedyś?
+Dialogue: 0,0:20:03.52,0:20:05.76,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:20:24.94,0:20:27.37,Default,,0,0,0,,{\be1}Nie powstrzymuj się.
+Dialogue: 0,0:20:39.99,0:20:44.92,Default,,0,0,0,,{\be1}Przepraszam, ale nie mogę!
+Dialogue: 0,0:20:44.92,0:20:46.34,Default,,0,0,0,,{\be1}Hosokawa!
+Dialogue: 0,0:20:50.13,0:20:53.39,Default,,0,0,0,,{\be1}- A w końcu byłam szczera.\N- Nie trudź się.
+Dialogue: 0,0:20:58.50,0:21:00.11,Default,,0,0,0,,{\be1}Co tu robisz?
+Dialogue: 0,0:21:03.10,0:21:05.67,Default,,0,0,0,,{\be1}Czas się zabawić.
+Dialogue: 0,0:21:14.67,0:21:17.50,Default,,0,0,0,,{\be1}Cudownie wyglądasz.
+Dialogue: 0,0:21:18.32,0:21:22.46,Default,,0,0,0,,{\be1}Zaczynajmy, nie chcę, żeby ktoś nas przyłapał.
+Dialogue: 0,0:21:29.87,0:21:32.17,Default,,0,0,0,,{\be1}Zaraz go włoży.
+Dialogue: 0,0:21:33.68,0:21:37.47,Default,,0,0,0,,{\be1}Pewnie boli, nie wygląda żebyś się zabawiała.
+Dialogue: 0,0:21:40.05,0:21:41.48,Default,,0,0,0,,{\be1}Cierpisz?
+Dialogue: 0,0:21:41.48,0:21:48.02,Default,,0,0,0,,{\be1}Nie ma nic gorszego niż bezsilność.
+Dialogue: 0,0:21:48.02,0:21:55.75,Default,,0,0,0,,{\be1}Niezależnie co powiesz czy zrobisz,\Ndopóki nie masz odpowiedniej mocy, nic to nie znaczy.
+Dialogue: 0,0:21:56.53,0:21:59.42,Default,,0,0,0,,{\be1}Moc jest wszystkim.
+Dialogue: 0,0:21:59.42,0:22:01.25,Default,,0,0,0,,{\be1}No powiedz coś.
+Dialogue: 0,0:22:17.12,0:22:22.27,Default,,0,0,0,,{\be1}Podoba ci się to?\NCo za dziwka.
+Dialogue: 0,0:22:22.84,0:22:24.78,Default,,0,0,0,,{\be1}Nie podoba mi się!
+Dialogue: 0,0:22:25.47,0:22:29.28,Default,,0,0,0,,{\be1}Nie kłam, tylko się zawstydzasz.
+Dialogue: 0,0:22:30.21,0:22:35.95,Default,,0,0,0,,{\be1}Bądź szczera, przecież sama chciałaś tak żyć, nie?
+Dialogue: 0,0:23:23.68,0:23:27.01,Default,,0,0,0,,{\be1}Nie ma tam dla ciebie miejsca.
+Dialogue: 0,0:23:29.86,0:23:31.72,Default,,0,0,0,,{\be1}A przynajmniej nie w takich relacjach.
+Dialogue: 0,0:23:35.29,0:23:41.23,Default,,0,0,0,,{\be1}Nie chciałabyś mocy,\Nktórą mogłabyś stworzyć miejsce dla siebie?
+Dialogue: 0,0:23:51.97,0:23:53.13,Default,,0,0,0,,{\be1}Komiyama.
+Dialogue: 0,0:23:57.22,0:23:59.04,Default,,0,0,0,,{\be1}Ładne kwiatki.
+Dialogue: 0,0:24:00.02,0:24:03.26,Default,,0,0,0,,{\be1}Tam jest ich więcej.
+Dialogue: 0,0:24:03.26,0:24:05.78,Default,,0,0,0,,{\be1}Pozbieramy je razem?
+Dialogue: 0,0:24:07.36,0:24:08.80,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:24:09.55,0:24:10.80,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:24:10.80,0:24:12.26,Default,,0,0,0,,{\be1}Komiyama!
+Dialogue: 0,0:24:14.47,0:24:15.44,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:24:15.44,0:24:16.97,Default,,0,0,0,,{\be1}- Narifumi!\N- Nie zbliżaj się!
+Dialogue: 0,0:24:16.97,0:24:19.04,Default,,0,0,0,,{\be1}Co chcesz jej zrobić?
+Dialogue: 0,0:24:19.04,0:24:22.39,Default,,0,0,0,,{\be1}Ja? Nic.
+Dialogue: 0,0:24:22.97,0:24:23.90,Default,,0,0,0,,{\be1}Shizuku!
+Dialogue: 0,0:24:24.74,0:24:26.90,Default,,0,0,0,,{\be1}Zabieramy ją.
+Dialogue: 0,0:24:34.82,0:24:35.66,Default,,0,0,0,,{\be1}Żegnaj!
+Dialogue: 0,0:24:58.01,0:24:58.85,Default,,0,0,0,,{\be1}Znowu!
+Dialogue: 0,0:25:09.39,0:25:10.53,Default,,0,0,0,,{\be1}Wszyscy do świątyni!
+Dialogue: 0,0:25:10.53,0:25:11.56,Default,,0,0,0,,{\be1}Stać!
+Dialogue: 0,0:25:38.60,0:25:39.89,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:25:39.89,0:25:40.99,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:25:40.99,0:25:44.39,Default,,0,0,0,,{\be1}Możesz zostawić nas samych?
+Dialogue: 0,0:25:52.33,0:25:54.57,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:25:56.13,0:26:03.07,Default,,0,0,0,,{\be1}Urodziłam się w rodzinie,\Nktóra trzymała całą wiedzę wrotach.
+Dialogue: 0,0:26:03.07,0:26:07.31,Default,,0,0,0,,{\be1}Teraz chcę, żebyś ty też ją poznał.
+Dialogue: 0,0:26:07.31,0:26:11.63,Default,,0,0,0,,{\be1}Pomoże ci w przyszłych bitwach.
+Dialogue: 0,0:26:12.22,0:26:14.09,Default,,0,0,0,,{\be1}Jaką wiedzę?
+Dialogue: 0,0:26:16.45,0:26:19.76,Default,,0,0,0,,{\be1}Nie przeżyję.
+Dialogue: 0,0:26:20.09,0:26:21.23,Default,,0,0,0,,{\be1}Pani Ebizuka!
+Dialogue: 0,0:26:23.37,0:26:24.52,Default,,0,0,0,,{\be1}Co pani robi?
+Dialogue: 0,0:26:26.30,0:26:29.77,Default,,0,0,0,,{\be1}Przyjmij ją.
+Dialogue: 0,0:26:33.07,0:26:35.21,Default,,0,0,0,,{\be1}Liczę na ciebie.
+Dialogue: 0,0:26:35.21,0:26:39.66,Default,,0,0,0,,{\be1}Tylko ty utrzymasz drużynę w kupie.
+Dialogue: 0,0:27:10.98,0:27:12.53,Default (i),,0,0,0,,{\be1}Liczę na ciebie.
+Dialogue: 0,0:27:19.25,0:27:22.94,Default,,0,0,0,,{\be1}Pani Ebizuka!

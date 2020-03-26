@@ -1,0 +1,611 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 704
+PlayResY: 528
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,28,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,95,0,0,1,2,2,2,20,20,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.60,0:00:01.75,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:01.75,0:00:03.24,Default,,0000,0000,0000,,Hand written magic book...
+Dialogue: 0,0:00:03.24,0:00:04.15,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:04.15,0:00:06.48,Default,,0000,0000,0000,,It was probably written\Nby a priest in the Middle Ages.
+Dialogue: 0,0:00:06.48,0:00:07.49,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:07.49,0:00:09.04,Default,,0000,0000,0000,,What a find, huh?
+Dialogue: 0,0:00:09.04,0:00:15.86,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:15.86,0:00:20.02,Default,,0000,0000,0000,,Look at you, you're already wet.
+Dialogue: 0,0:00:20.02,0:00:41.92,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:41.92,0:00:43.22,Default,,0000,0000,0000,,Big sister!
+Dialogue: 0,0:00:43.22,0:00:43.35,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:43.35,0:00:46.22,Default,,0000,0000,0000,,Squeeze my nipples harder!
+Dialogue: 0,0:00:46.22,0:00:52.06,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:52.06,0:00:55.19,Default,,0000,0000,0000,,My name is\NReika Kitami, nice to meet you!
+Dialogue: 0,0:00:55.19,0:00:55.63,Default,,0000,0000,0000,, 
+Dialogue: 0,0:00:55.63,0:00:57.12,Default,,0000,0000,0000,,Hey, she's cute!
+Dialogue: 0,0:00:57.12,0:01:01.67,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:01.67,0:01:04.16,Default,,0000,0000,0000,,"To make a woman dance naked?"
+Dialogue: 0,0:01:04.16,0:01:05.14,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:05.14,0:01:08.48,Default,,0000,0000,0000,,Hey Hiroko, let's\Nput this spell on that girl!
+Dialogue: 0,0:01:08.48,0:01:08.68,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:08.68,0:01:09.70,Default,,0000,0000,0000,,Who?
+Dialogue: 0,0:01:09.70,0:01:10.75,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:10.75,0:01:13.44,Default,,0000,0000,0000,,What does this last line mean?
+Dialogue: 0,0:01:13.44,0:01:13.52,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:13.52,0:01:14.25,Default,,0000,0000,0000,,Which one?
+Dialogue: 0,0:01:14.25,0:01:14.32,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:14.32,0:01:16.98,Default,,0000,0000,0000,,"People shall not envy but pity her."
+Dialogue: 0,0:01:16.98,0:01:18.79,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:18.79,0:01:20.45,Default,,0000,0000,0000,,I can't bear it anymore!
+Dialogue: 0,0:01:20.45,0:01:28.30,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:28.30,0:01:32.17,Default,,0000,0000,0000,,My pussy is melting.
+Dialogue: 0,0:01:32.17,0:01:34.27,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:34.27,0:01:35.70,Default,,0000,0000,0000,,I'm coming...
+Dialogue: 0,0:01:35.70,0:01:36.04,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:36.04,0:01:37.74,Default,,0000,0000,0000,,I'm coming...
+Dialogue: 0,0:01:37.74,0:01:39.28,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:39.28,0:01:40.77,Default,,0000,0000,0000,,I'm coming!
+Dialogue: 0,0:01:40.77,0:01:48.42,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:48.42,0:01:52.12,Default,,0000,0000,0000,,How many people did\Nyou tell about the spell?
+Dialogue: 0,0:01:52.12,0:01:52.19,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:52.19,0:01:53.28,Default,,0000,0000,0000,,S-Sorry...
+Dialogue: 0,0:01:53.28,0:01:54.23,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:54.23,0:01:58.03,Default,,0000,0000,0000,,Don't talk about it with\Nanybody anymore, okay?
+Dialogue: 0,0:01:58.03,0:01:59.20,Default,,0000,0000,0000,, 
+Dialogue: 0,0:01:59.20,0:02:00.22,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:02:00.22,0:02:00.40,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:00.40,0:02:03.37,Default,,0000,0000,0000,,We don't know if it\Nwas really magic, though...
+Dialogue: 0,0:02:03.37,0:02:03.43,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:03.43,0:02:05.80,Default,,0000,0000,0000,,But Rie, if it wasn't\Nmagic, then what was it?
+Dialogue: 0,0:02:05.80,0:02:06.17,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:06.17,0:02:07.69,Default,,0000,0000,0000,,What do you think, Hiroko?
+Dialogue: 0,0:02:07.69,0:02:09.41,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:09.41,0:02:11.27,Default,,0000,0000,0000,,I can't say anything yet.
+Dialogue: 0,0:02:11.27,0:02:12.44,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:12.44,0:02:13.50,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:02:13.50,0:02:15.88,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:15.88,0:02:18.58,Default,,0000,0000,0000,,I want to ask you a favor.
+Dialogue: 0,0:02:18.58,0:02:19.22,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:19.22,0:02:21.51,Default,,0000,0000,0000,,K-Kozono, stop it!
+Dialogue: 0,0:02:21.51,0:02:23.49,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:23.49,0:02:26.08,Default,,0000,0000,0000,,Well, I think your body\Nhas a different opinion.
+Dialogue: 0,0:02:26.08,0:02:27.06,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:27.06,0:02:29.12,Default,,0000,0000,0000,,Please stop.
+Dialogue: 0,0:02:29.12,0:02:31.43,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:31.43,0:02:33.23,Default,,0000,0000,0000,,Please stop it...
+Dialogue: 0,0:02:33.23,0:02:33.43,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:33.43,0:02:34.23,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:02:34.23,0:02:34.30,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:34.30,0:02:36.63,Default,,0000,0000,0000,,You sure, doesn't this feel good?
+Dialogue: 0,0:02:36.63,0:02:41.77,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:41.77,0:02:43.71,Default,,0000,0000,0000,,Yes, Hiratani...
+Dialogue: 0,0:02:43.71,0:02:47.51,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:47.51,0:02:49.31,Default,,0000,0000,0000,,Nami!
+Dialogue: 0,0:02:49.31,0:02:51.58,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:51.58,0:02:54.14,Default,,0000,0000,0000,,Come inside me!
+Dialogue: 0,0:02:54.14,0:02:54.22,Default,,0000,0000,0000,, 
+Dialogue: 0,0:02:54.22,0:02:55.71,Default,,0000,0000,0000,,Come!
+Dialogue: 0,0:02:55.71,0:03:01.93,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:01.93,0:03:04.55,Default,,0000,0000,0000,,Maybe this is it...
+Dialogue: 0,0:03:04.55,0:03:04.70,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:04.70,0:03:05.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:05.53,0:03:05.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:05.66,0:03:07.63,Default,,0000,0000,0000,,Hiroko's tarot.
+Dialogue: 0,0:03:07.63,0:03:08.67,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:08.67,0:03:10.22,Default,,0000,0000,0000,,"A great change is upon you."
+Dialogue: 0,0:03:10.22,0:03:10.30,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:10.30,0:03:12.83,Default,,0000,0000,0000,,"Something will\Nchange your life completely."
+Dialogue: 0,0:03:12.83,0:03:15.94,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:15.94,0:03:17.00,Default,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:03:17.00,0:03:18.54,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:18.54,0:03:20.53,Default,,0000,0000,0000,,But I can tell you this...
+Dialogue: 0,0:03:20.53,0:03:21.15,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:21.15,0:03:22.44,Default,,0000,0000,0000,,That book...
+Dialogue: 0,0:03:22.44,0:03:24.65,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:24.65,0:03:26.38,Default,,0000,0000,0000,,...of magic is real.
+Dialogue: 0,0:03:26.38,0:03:35.56,Default,,0000,0000,0000,, 
+Dialogue: 0,0:03:35.56,0:03:40.62,Default,,0000,0000,0000,,Bible Black, Black Altar
+Dialogue: 0,0:03:40.62,0:04:10.03,Default,,0000,0000,0000,, 
+Dialogue: 0,0:04:10.03,0:04:11.82,Default,,0000,0000,0000,,Idiot, you wanna die?
+Dialogue: 0,0:04:11.82,0:04:13.86,Default,,0000,0000,0000,, 
+Dialogue: 0,0:04:13.86,0:04:15.23,Default,,0000,0000,0000,,She's crazy.
+Dialogue: 0,0:04:15.23,0:04:15.40,Default,,0000,0000,0000,, 
+Dialogue: 0,0:04:15.40,0:04:16.89,Default,,0000,0000,0000,,Weirdo.
+Dialogue: 0,0:04:16.89,0:04:16.97,Default,,0000,0000,0000,, 
+Dialogue: 0,0:04:16.97,0:04:18.90,Default,,0000,0000,0000,,Maybe she wanted to die.
+Dialogue: 0,0:04:18.90,0:04:20.14,Default,,0000,0000,0000,, 
+Dialogue: 0,0:04:20.14,0:04:22.04,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:04:22.04,0:04:24.38,Default,,0000,0000,0000,, 
+Dialogue: 0,0:04:24.38,0:04:25.27,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:04:25.27,0:05:48.13,Default,,0000,0000,0000,, 
+Dialogue: 0,0:05:48.13,0:05:49.75,Default,,0000,0000,0000,,Oh, yeah...
+Dialogue: 0,0:05:49.75,0:06:50.55,Default,,0000,0000,0000,, 
+Dialogue: 0,0:06:50.55,0:06:53.18,Default,,0000,0000,0000,,There's nothing we cannot do.
+Dialogue: 0,0:06:53.18,0:06:53.99,Default,,0000,0000,0000,, 
+Dialogue: 0,0:06:53.99,0:06:57.02,Default,,0000,0000,0000,,With the magic book, we are...
+Dialogue: 0,0:06:57.02,0:06:57.96,Default,,0000,0000,0000,, 
+Dialogue: 0,0:06:57.96,0:06:59.22,Default,,0000,0000,0000,,Takashiro.
+Dialogue: 0,0:06:59.22,0:07:00.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:00.66,0:07:01.89,Default,,0000,0000,0000,,Kozono...
+Dialogue: 0,0:07:01.89,0:07:01.97,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:01.97,0:07:03.16,Default,,0000,0000,0000,,Long time no see.
+Dialogue: 0,0:07:03.16,0:07:04.03,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:04.03,0:07:07.66,Default,,0000,0000,0000,,I heard that ever since you found a\Nnew boyfriend you've been neglecting...
+Dialogue: 0,0:07:07.66,0:07:07.74,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:07.74,0:07:10.04,Default,,0000,0000,0000,,...your duties on the student council.
+Dialogue: 0,0:07:10.04,0:07:11.18,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:11.18,0:07:14.54,Default,,0000,0000,0000,,I know you practice magic.
+Dialogue: 0,0:07:14.54,0:07:15.88,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:15.88,0:07:17.04,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:07:17.04,0:07:17.35,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:17.35,0:07:18.75,Default,,0000,0000,0000,,Don't play dumb!
+Dialogue: 0,0:07:18.75,0:07:19.92,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:19.92,0:07:21.08,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:07:21.08,0:07:21.52,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:21.52,0:07:24.89,Default,,0000,0000,0000,,Please, I need your help.
+Dialogue: 0,0:07:24.89,0:07:26.92,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:26.92,0:07:29.79,Default,,0000,0000,0000,,Hiratani's been cold to me recently.
+Dialogue: 0,0:07:29.79,0:07:30.29,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:30.29,0:07:33.16,Default,,0000,0000,0000,,I want him to want me.
+Dialogue: 0,0:07:33.16,0:07:34.20,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:34.20,0:07:37.33,Default,,0000,0000,0000,,I think about him all day...
+Dialogue: 0,0:07:37.33,0:07:38.07,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:38.07,0:07:39.66,Default,,0000,0000,0000,,It makes me feel so hot...
+Dialogue: 0,0:07:39.66,0:07:40.17,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:40.17,0:07:42.80,Default,,0000,0000,0000,,I'm going crazy thinking\Nabout making love to him!
+Dialogue: 0,0:07:42.80,0:07:43.71,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:43.71,0:07:47.23,Default,,0000,0000,0000,,Please, make him love only me!
+Dialogue: 0,0:07:47.23,0:07:47.44,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:47.44,0:07:49.97,Default,,0000,0000,0000,,I want you to use\Nyour magic to help me!
+Dialogue: 0,0:07:49.97,0:07:50.05,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:50.05,0:07:51.04,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:07:51.04,0:07:54.69,Default,,0000,0000,0000,, 
+Dialogue: 0,0:07:54.69,0:07:55.95,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:07:55.95,0:08:01.96,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:01.96,0:08:02.82,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:08:02.82,0:08:03.53,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:03.53,0:08:04.59,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:08:04.59,0:08:06.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:06.66,0:08:09.50,Default,,0000,0000,0000,,Yes, but with one condition...
+Dialogue: 0,0:08:09.50,0:08:16.21,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:16.21,0:08:18.30,Default,,0000,0000,0000,,Ew, this room smells moldy!
+Dialogue: 0,0:08:18.30,0:08:18.71,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:18.71,0:08:21.44,Default,,0000,0000,0000,,I'm sorry, but this\Nis the only room available.
+Dialogue: 0,0:08:21.44,0:08:21.51,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:21.51,0:08:22.98,Default,,0000,0000,0000,,It's not that bad.
+Dialogue: 0,0:08:22.98,0:08:23.05,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:23.05,0:08:25.45,Default,,0000,0000,0000,,This is great for our witchcraft club.
+Dialogue: 0,0:08:25.45,0:08:26.38,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:26.38,0:08:29.32,Default,,0000,0000,0000,,From today on, this is our sanctuary.
+Dialogue: 0,0:08:29.32,0:08:30.15,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:30.15,0:08:32.78,Default,,0000,0000,0000,,We appreciate it, Kozono.
+Dialogue: 0,0:08:32.78,0:08:32.99,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:32.99,0:08:38.39,Default,,0000,0000,0000,,So, can you tell me\Nhow to make Hiratani mine?
+Dialogue: 0,0:08:38.39,0:08:41.73,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:41.73,0:08:43.22,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:08:43.22,0:08:50.31,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:50.31,0:08:53.33,Default,,0000,0000,0000,,Hainrou ira sabesu erimidaresi.
+Dialogue: 0,0:08:53.33,0:08:54.18,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:54.18,0:08:55.74,Default,,0000,0000,0000,,Deriea adore.
+Dialogue: 0,0:08:55.74,0:08:55.81,Default,,0000,0000,0000,, 
+Dialogue: 0,0:08:55.81,0:08:58.18,Default,,0000,0000,0000,,Yehoba iteyora madou dousi.
+Dialogue: 0,0:08:58.18,0:09:11.50,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:11.50,0:09:13.36,Default,,0000,0000,0000,,Have you come to your senses?
+Dialogue: 0,0:09:13.36,0:09:15.27,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:15.27,0:09:16.99,Default,,0000,0000,0000,,Why...
+Dialogue: 0,0:09:16.99,0:09:17.53,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:17.53,0:09:20.16,Default,,0000,0000,0000,,...did I fall in love with that filthy man?
+Dialogue: 0,0:09:20.16,0:09:20.40,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:20.40,0:09:22.30,Default,,0000,0000,0000,,It's the power of magic.
+Dialogue: 0,0:09:22.30,0:09:28.21,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:28.21,0:09:29.80,Default,,0000,0000,0000,,Hiroko, what was that?
+Dialogue: 0,0:09:29.80,0:09:30.28,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:30.28,0:09:31.68,Default,,0000,0000,0000,,A release spell.
+Dialogue: 0,0:09:31.68,0:09:32.62,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:32.62,0:09:34.68,Default,,0000,0000,0000,,I undid the spell.
+Dialogue: 0,0:09:34.68,0:09:40.89,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:40.89,0:09:43.88,Default,,0000,0000,0000,,Nami, I can make you feel really good.
+Dialogue: 0,0:09:43.88,0:09:44.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:44.66,0:09:46.56,Default,,0000,0000,0000,,I know what you want.
+Dialogue: 0,0:09:46.56,0:09:47.26,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:47.26,0:09:52.03,Default,,0000,0000,0000,,I've been saving up so\NI can fill you up with my come.
+Dialogue: 0,0:09:52.03,0:09:59.18,Default,,0000,0000,0000,, 
+Dialogue: 0,0:09:59.18,0:10:00.47,Default,,0000,0000,0000,,Where are we?
+Dialogue: 0,0:10:00.47,0:10:01.81,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:01.81,0:10:03.07,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:10:03.07,0:10:04.25,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:04.25,0:10:05.41,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:10:05.41,0:10:07.28,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:07.28,0:10:08.88,Default,,0000,0000,0000,,Just don't kill him.
+Dialogue: 0,0:10:08.88,0:10:08.95,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:08.95,0:10:10.92,Default,,0000,0000,0000,,Yes, Miss Kozono.
+Dialogue: 0,0:10:10.92,0:10:16.49,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:16.49,0:10:17.29,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:17.29,0:10:17.36,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:17.36,0:10:19.30,Default,,0000,0000,0000,,Kozono is joining our club?
+Dialogue: 0,0:10:19.30,0:10:20.93,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:20.93,0:10:23.13,Default,,0000,0000,0000,,She's interested in magic.
+Dialogue: 0,0:10:23.13,0:10:23.57,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:23.57,0:10:26.76,Default,,0000,0000,0000,,We don't need any more new members.
+Dialogue: 0,0:10:26.76,0:10:27.14,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:27.14,0:10:28.30,Default,,0000,0000,0000,,Besides...
+Dialogue: 0,0:10:28.30,0:10:28.87,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:28.87,0:10:32.10,Default,,0000,0000,0000,,...she might be still holding a grudge?
+Dialogue: 0,0:10:32.10,0:10:32.48,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:32.48,0:10:33.31,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:10:33.31,0:10:34.21,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:34.21,0:10:39.21,Default,,0000,0000,0000,,I think it's funny that she used to look\Ndown on us, and now she's begging to join.
+Dialogue: 0,0:10:39.21,0:10:39.92,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:39.92,0:10:41.11,Default,,0000,0000,0000,,I like it.
+Dialogue: 0,0:10:41.11,0:10:44.09,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:44.09,0:10:45.28,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:10:45.28,0:10:47.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:47.66,0:10:50.15,Default,,0000,0000,0000,,We have this book.
+Dialogue: 0,0:10:50.15,0:10:56.30,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:56.30,0:10:57.82,Default,,0000,0000,0000,,Please Kitami...
+Dialogue: 0,0:10:57.82,0:10:57.97,Default,,0000,0000,0000,, 
+Dialogue: 0,0:10:57.97,0:10:59.90,Default,,0000,0000,0000,,Please purify me.
+Dialogue: 0,0:10:59.90,0:11:00.30,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:00.30,0:11:02.64,Default,,0000,0000,0000,,K-Kozono, stop it.
+Dialogue: 0,0:11:02.64,0:11:02.91,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:02.91,0:11:05.24,Default,,0000,0000,0000,,I want to take that man's\Ndisgusting smell out of me.
+Dialogue: 0,0:11:05.24,0:11:05.38,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:05.38,0:11:07.21,Default,,0000,0000,0000,,I want you to purify me!
+Dialogue: 0,0:11:07.21,0:11:07.88,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:07.88,0:11:11.37,Default,,0000,0000,0000,,But you said you were\Nembarrassed the other day...
+Dialogue: 0,0:11:11.37,0:11:11.68,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:11.68,0:11:13.98,Default,,0000,0000,0000,,I like you.
+Dialogue: 0,0:11:13.98,0:11:14.28,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:14.28,0:11:17.38,Default,,0000,0000,0000,,I wanted you the moment I saw you.
+Dialogue: 0,0:11:17.38,0:11:18.19,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:18.19,0:11:19.85,Default,,0000,0000,0000,,Doesn't it feel great?
+Dialogue: 0,0:11:19.85,0:11:19.96,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:19.96,0:11:22.02,Default,,0000,0000,0000,,I know you want me, too.
+Dialogue: 0,0:11:22.02,0:11:23.03,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:23.03,0:11:24.25,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:24.25,0:11:30.33,Default,,0000,0000,0000,, 
+Dialogue: 0,0:11:30.33,0:11:32.63,Default,,0000,0000,0000,,Kozono, you're crazy.
+Dialogue: 0,0:11:32.63,0:12:07.37,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:07.37,0:12:10.57,Default,,0000,0000,0000,,Wow, this looks pretty serious.
+Dialogue: 0,0:12:10.57,0:12:10.84,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:10.84,0:12:12.74,Default,,0000,0000,0000,,We're preparing for a ritual.
+Dialogue: 0,0:12:12.74,0:12:12.91,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:12.91,0:12:13.88,Default,,0000,0000,0000,,Ritual?
+Dialogue: 0,0:12:13.88,0:12:13.94,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:13.94,0:12:16.64,Default,,0000,0000,0000,,Yes, to summon the Devil himself.
+Dialogue: 0,0:12:16.64,0:12:17.38,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:17.38,0:12:21.08,Default,,0000,0000,0000,,But before that, we're going to\Nsummon something smaller for practice.
+Dialogue: 0,0:12:21.08,0:12:21.65,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:21.65,0:12:24.45,Default,,0000,0000,0000,,What are you going to do\Nwhen you summon the Devil?
+Dialogue: 0,0:12:24.45,0:12:24.92,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:24.92,0:12:27.95,Default,,0000,0000,0000,,We'll get him on our side...
+Dialogue: 0,0:12:27.95,0:12:28.29,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:28.29,0:12:30.95,Default,,0000,0000,0000,,...and make him use his power for us.
+Dialogue: 0,0:12:30.95,0:12:32.73,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:32.73,0:12:33.89,Default,,0000,0000,0000,,Sounds interesting.
+Dialogue: 0,0:12:33.89,0:12:34.43,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:34.43,0:12:37.53,Default,,0000,0000,0000,,If the practice goes well,\Nwe'll summon something bigger...
+Dialogue: 0,0:12:37.53,0:12:38.14,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:38.14,0:12:40.87,Default,,0000,0000,0000,,...on the next night of Walpurgis.
+Dialogue: 0,0:12:40.87,0:12:41.57,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:41.57,0:12:42.83,Default,,0000,0000,0000,,Walpurgis...
+Dialogue: 0,0:12:42.83,0:12:42.97,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:42.97,0:12:44.24,Default,,0000,0000,0000,,From Goethe's Faust?
+Dialogue: 0,0:12:44.24,0:12:44.91,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:44.91,0:12:45.90,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:45.90,0:12:45.98,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:45.98,0:12:48.00,Default,,0000,0000,0000,,It's the feast of witches and evil souls.
+Dialogue: 0,0:12:48.00,0:12:48.58,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:48.58,0:12:51.60,Default,,0000,0000,0000,,It's the night the power\Nof darkness is at its strongest...
+Dialogue: 0,0:12:51.60,0:12:52.72,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:52.72,0:12:55.45,Default,,0000,0000,0000,,What if something goes wrong?
+Dialogue: 0,0:12:55.45,0:12:56.29,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:56.29,0:12:58.15,Default,,0000,0000,0000,,This book is perfect.
+Dialogue: 0,0:12:58.15,0:12:59.39,Default,,0000,0000,0000,, 
+Dialogue: 0,0:12:59.39,0:13:01.12,Default,,0000,0000,0000,,Nothing can go wrong.
+Dialogue: 0,0:13:01.12,0:13:01.63,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:01.63,0:13:03.22,Default,,0000,0000,0000,,What confidence.
+Dialogue: 0,0:13:03.22,0:13:03.36,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:03.36,0:13:05.85,Default,,0000,0000,0000,,But we need one more thing...
+Dialogue: 0,0:13:05.85,0:13:06.86,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:06.86,0:13:09.13,Default,,0000,0000,0000,,This ritual needs something to work...
+Dialogue: 0,0:13:09.13,0:13:10.03,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:10.03,0:13:12.13,Default,,0000,0000,0000,,A sacrifice.
+Dialogue: 0,0:13:12.13,0:13:17.74,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:17.74,0:13:19.54,Default,,0000,0000,0000,,I'll prepare it.
+Dialogue: 0,0:13:19.54,0:13:20.78,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:20.78,0:13:21.90,Default,,0000,0000,0000,,Kozono...
+Dialogue: 0,0:13:21.90,0:13:23.55,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:23.55,0:13:24.71,Default,,0000,0000,0000,,You've changed.
+Dialogue: 0,0:13:24.71,0:13:25.65,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:25.65,0:13:28.35,Default,,0000,0000,0000,,So have you.
+Dialogue: 0,0:13:28.35,0:13:31.72,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:31.72,0:13:34.66,Default,,0000,0000,0000,,By the way, what's\Nthe name of this club?
+Dialogue: 0,0:13:34.66,0:13:35.33,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:35.33,0:13:38.23,Default,,0000,0000,0000,,Rose Cross.
+Dialogue: 0,0:13:38.23,0:13:38.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:38.66,0:13:40.53,Default,,0000,0000,0000,,After the alchemists\Nfrom the Middle Ages...
+Dialogue: 0,0:13:40.53,0:13:40.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:40.66,0:13:42.43,Default,,0000,0000,0000,,The Rosicrucian.
+Dialogue: 0,0:13:42.43,0:13:44.77,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:44.77,0:13:46.03,Default,,0000,0000,0000,,Good name.
+Dialogue: 0,0:13:46.03,0:13:53.71,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:53.71,0:13:56.24,Default,,0000,0000,0000,,El erohim erohi erohim.
+Dialogue: 0,0:13:56.24,0:13:56.31,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:56.31,0:13:57.54,Default,,0000,0000,0000,,Savant erohim.
+Dialogue: 0,0:13:57.54,0:13:58.12,Default,,0000,0000,0000,, 
+Dialogue: 0,0:13:58.12,0:14:00.81,Default,,0000,0000,0000,,Eiehay Eiheyaja eiehay ado night.
+Dialogue: 0,0:14:00.81,0:14:01.15,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:01.15,0:14:03.81,Default,,0000,0000,0000,,Ya shadie tetora gramaton shadie!
+Dialogue: 0,0:14:03.81,0:14:04.35,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:04.35,0:14:06.05,Default,,0000,0000,0000,,Agura amen!
+Dialogue: 0,0:14:06.05,0:14:18.24,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:18.24,0:14:20.70,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:14:20.70,0:14:21.64,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:21.64,0:14:24.30,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:14:24.30,0:14:24.64,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:24.64,0:14:26.70,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:14:26.70,0:14:27.51,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:27.51,0:14:29.71,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:14:29.71,0:14:30.41,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:30.41,0:14:32.97,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:14:32.97,0:14:55.87,Default,,0000,0000,0000,, 
+Dialogue: 0,0:14:55.87,0:14:56.96,Default,,0000,0000,0000,,Hiroko...
+Dialogue: 0,0:14:56.96,0:17:25.56,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:25.56,0:17:26.54,Default,,0000,0000,0000,,Hiroko!
+Dialogue: 0,0:17:26.54,0:17:26.62,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:26.62,0:17:27.28,Default,,0000,0000,0000,,Hiroko!
+Dialogue: 0,0:17:27.28,0:17:27.36,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:27.36,0:17:28.45,Default,,0000,0000,0000,,Takashiro!
+Dialogue: 0,0:17:28.45,0:17:42.21,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:42.21,0:17:44.17,Default,,0000,0000,0000,,I haven't seen him lately...
+Dialogue: 0,0:17:44.17,0:17:45.31,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:45.31,0:17:48.21,Default,,0000,0000,0000,,I wonder if he's been\Npicked up by somebody...
+Dialogue: 0,0:17:48.21,0:17:48.68,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:48.68,0:17:51.27,Default,,0000,0000,0000,,Hi, I need your help.
+Dialogue: 0,0:17:51.27,0:17:52.12,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:52.12,0:17:54.71,Default,,0000,0000,0000,,I found a wounded puppy nearby.
+Dialogue: 0,0:17:54.71,0:17:55.65,Default,,0000,0000,0000,, 
+Dialogue: 0,0:17:55.65,0:17:57.38,Default,,0000,0000,0000,,Is that true?
+Dialogue: 0,0:17:57.38,0:18:00.76,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:00.76,0:18:03.66,Default,,0000,0000,0000,,We will perform the\Nritual tonight as we planned.
+Dialogue: 0,0:18:03.66,0:18:03.73,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:03.73,0:18:05.39,Default,,0000,0000,0000,,But Nami...
+Dialogue: 0,0:18:05.39,0:18:05.66,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:05.66,0:18:09.76,Default,,0000,0000,0000,,Even if we succeed to\Nsummon the Devil, what if...
+Dialogue: 0,0:18:09.76,0:18:11.47,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:11.47,0:18:14.93,Default,,0000,0000,0000,,We will acquire a power as great\Nas God's, it's a risk we have to take.
+Dialogue: 0,0:18:14.93,0:18:15.67,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:15.67,0:18:17.97,Default,,0000,0000,0000,,Takashiro wasn't ready for it.
+Dialogue: 0,0:18:17.97,0:18:19.78,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:19.78,0:18:22.21,Default,,0000,0000,0000,,But we still need a...
+Dialogue: 0,0:18:22.21,0:18:23.61,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:23.61,0:18:24.88,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:18:24.88,0:18:25.45,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:25.45,0:18:28.51,Default,,0000,0000,0000,,I have read the book too.
+Dialogue: 0,0:18:28.51,0:18:30.09,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:30.09,0:18:33.45,Default,,0000,0000,0000,,I will prepare a virgin.
+Dialogue: 0,0:18:33.45,0:18:53.04,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:53.04,0:18:54.94,Default,,0000,0000,0000,,W-Who are you?
+Dialogue: 0,0:18:54.94,0:18:58.58,Default,,0000,0000,0000,, 
+Dialogue: 0,0:18:58.58,0:19:01.81,Default,,0000,0000,0000,,You lied to me about\Nthe puppy, didn't you?
+Dialogue: 0,0:19:01.81,0:19:01.89,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:01.89,0:19:04.12,Default,,0000,0000,0000,,No, he didn't lie, Kitami.
+Dialogue: 0,0:19:04.12,0:19:07.42,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:07.42,0:19:09.19,Default,,0000,0000,0000,,K-Kozono...
+Dialogue: 0,0:19:09.19,0:19:14.40,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:14.40,0:19:16.26,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:19:16.26,0:19:19.64,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:19.64,0:19:21.13,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:19:21.13,0:19:22.74,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:22.74,0:19:24.37,Default,,0000,0000,0000,,Why did you do such a thing...
+Dialogue: 0,0:19:24.37,0:19:24.44,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:24.44,0:19:26.67,Default,,0000,0000,0000,,I need you to be our sacrifice.
+Dialogue: 0,0:19:26.67,0:19:27.11,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:27.11,0:19:32.28,Default,,0000,0000,0000,,You're going to be our precious\Nsacrifice, and we'll receive great power.
+Dialogue: 0,0:19:32.28,0:19:32.42,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:32.42,0:19:34.44,Default,,0000,0000,0000,,W-What are you talking about?
+Dialogue: 0,0:19:34.44,0:19:34.88,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:34.88,0:19:38.34,Default,,0000,0000,0000,,But I'll let you have fun first.
+Dialogue: 0,0:19:38.34,0:19:38.82,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:38.82,0:19:39.95,Default,,0000,0000,0000,,Finally...
+Dialogue: 0,0:19:39.95,0:19:41.59,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:41.59,0:19:42.89,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:19:42.89,0:19:43.63,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:43.63,0:19:44.79,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:19:44.79,0:19:45.16,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:45.16,0:19:47.89,Default,,0000,0000,0000,,Too bad, I liked her a lot...
+Dialogue: 0,0:19:47.89,0:19:48.80,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:48.80,0:19:51.82,Default,,0000,0000,0000,,Put her to sleep and take\Nher to the room before the ritual.
+Dialogue: 0,0:19:51.82,0:19:53.07,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:53.07,0:19:55.47,Default,,0000,0000,0000,,You can do\Nwhatever you want until then.
+Dialogue: 0,0:19:55.47,0:19:55.87,Default,,0000,0000,0000,, 
+Dialogue: 0,0:19:55.87,0:19:58.07,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:19:58.07,0:20:02.45,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:02.45,0:20:05.41,Default,,0000,0000,0000,,Just one thing,\Nyou can only do her ass, okay?
+Dialogue: 0,0:20:05.41,0:20:05.68,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:05.68,0:20:07.31,Default,,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:20:07.31,0:20:08.62,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:08.62,0:20:09.64,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:20:09.64,0:20:09.79,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:09.79,0:20:11.45,Default,,0000,0000,0000,,Please, help me!
+Dialogue: 0,0:20:11.45,0:20:11.86,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:11.86,0:20:13.52,Default,,0000,0000,0000,,Kozono!
+Dialogue: 0,0:20:13.52,0:20:31.94,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:31.94,0:20:33.57,Default,,0000,0000,0000,,Walpurgis night...
+Dialogue: 0,0:20:33.57,0:20:35.21,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:35.21,0:20:36.11,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:20:36.11,0:20:45.86,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:45.86,0:20:46.91,Default,,0000,0000,0000,,It hurts.
+Dialogue: 0,0:20:46.91,0:20:47.02,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:47.02,0:20:48.72,Default,,0000,0000,0000,,No, it hurts!
+Dialogue: 0,0:20:48.72,0:20:48.93,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:48.93,0:20:51.72,Default,,0000,0000,0000,,You're going to tear my butt!
+Dialogue: 0,0:20:51.72,0:20:54.06,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:54.06,0:20:55.29,Default,,0000,0000,0000,,What can I do?
+Dialogue: 0,0:20:55.29,0:20:55.47,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:55.47,0:20:57.52,Default,,0000,0000,0000,,I only can do your ass.
+Dialogue: 0,0:20:57.52,0:20:59.60,Default,,0000,0000,0000,, 
+Dialogue: 0,0:20:59.60,0:21:03.13,Default,,0000,0000,0000,,You've got some great tits.
+Dialogue: 0,0:21:03.13,0:21:05.58,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:05.58,0:21:08.98,Default,,0000,0000,0000,,Come on, suck it!
+Dialogue: 0,0:21:08.98,0:21:21.83,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:21.83,0:21:23.88,Default,,0000,0000,0000,,I can't bear it anymore!
+Dialogue: 0,0:21:23.88,0:21:32.14,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:32.14,0:21:35.16,Default,,0000,0000,0000,,Hey, she told us\Nnot to take her virginity.
+Dialogue: 0,0:21:35.16,0:21:35.27,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:35.27,0:21:37.21,Default,,0000,0000,0000,,She's not gonna find out.
+Dialogue: 0,0:21:37.21,0:21:37.67,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:37.67,0:21:40.27,Default,,0000,0000,0000,,I'm going to enjoy both her holes.
+Dialogue: 0,0:21:40.27,0:21:40.78,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:40.78,0:21:41.84,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:21:41.84,0:21:41.95,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:41.95,0:21:43.47,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:21:43.47,0:21:48.05,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:48.05,0:21:49.31,Default,,0000,0000,0000,,What do you mean "No"?
+Dialogue: 0,0:21:49.31,0:21:49.39,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:49.39,0:21:50.98,Default,,0000,0000,0000,,I know you love it.
+Dialogue: 0,0:21:50.98,0:21:51.05,Default,,0000,0000,0000,, 
+Dialogue: 0,0:21:51.05,0:21:53.32,Default,,0000,0000,0000,,Look how hard your nipples are!
+Dialogue: 0,0:21:53.32,0:22:48.88,Default,,0000,0000,0000,, 
+Dialogue: 0,0:22:48.88,0:22:50.61,Default,,0000,0000,0000,,How are you feeling?
+Dialogue: 0,0:22:50.61,0:22:50.78,Default,,0000,0000,0000,, 
+Dialogue: 0,0:22:50.78,0:22:53.18,Default,,0000,0000,0000,,Kozono, you must stop this ritual.
+Dialogue: 0,0:22:53.18,0:22:53.82,Default,,0000,0000,0000,, 
+Dialogue: 0,0:22:53.82,0:22:55.75,Default,,0000,0000,0000,,We should stop using magic.
+Dialogue: 0,0:22:55.75,0:22:55.82,Default,,0000,0000,0000,, 
+Dialogue: 0,0:22:55.82,0:22:58.75,Default,,0000,0000,0000,,Amateurs like us should stay\Naway from it before it's too late.
+Dialogue: 0,0:22:58.75,0:22:59.49,Default,,0000,0000,0000,, 
+Dialogue: 0,0:22:59.49,0:23:00.92,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:23:00.92,0:23:00.99,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:00.99,0:23:02.42,Default,,0000,0000,0000,,This was all your idea, remember?
+Dialogue: 0,0:23:02.42,0:23:02.53,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:02.53,0:23:06.15,Default,,0000,0000,0000,,We all saw what the\Npower of darkness could do!
+Dialogue: 0,0:23:06.15,0:23:06.80,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:06.80,0:23:08.53,Default,,0000,0000,0000,,It's going to be a lot stronger this time.
+Dialogue: 0,0:23:08.53,0:23:08.93,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:08.93,0:23:11.30,Default,,0000,0000,0000,,Please stop it.
+Dialogue: 0,0:23:11.30,0:23:11.70,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:11.70,0:23:13.93,Default,,0000,0000,0000,,Our sacrifice should be here soon.
+Dialogue: 0,0:23:13.93,0:23:14.30,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:14.30,0:23:15.24,Default,,0000,0000,0000,,Kozono!
+Dialogue: 0,0:23:15.24,0:23:16.01,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:16.01,0:23:18.74,Default,,0000,0000,0000,,Heikas heikas estei biberoi.
+Dialogue: 0,0:23:18.74,0:23:21.61,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:21.61,0:23:22.77,Default,,0000,0000,0000,,Take her out.
+Dialogue: 0,0:23:22.77,0:23:25.15,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:25.15,0:23:29.28,Default,,0000,0000,0000,,Rie, Saki, please think about this.
+Dialogue: 0,0:23:29.28,0:23:32.42,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:32.42,0:23:36.86,Default,,0000,0000,0000,,When I get the power,\NI'll take revenge on three of them...
+Dialogue: 0,0:23:36.86,0:23:37.69,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:37.69,0:23:43.26,Default,,0000,0000,0000,,I'll make them pay for turning\Nme into Hiratani's sex slave!
+Dialogue: 0,0:23:43.26,0:23:45.50,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:45.50,0:23:46.70,Default,,0000,0000,0000,,Sorry, Hiroko.
+Dialogue: 0,0:23:46.70,0:23:46.87,Default,,0000,0000,0000,, 
+Dialogue: 0,0:23:46.87,0:23:49.34,Default,,0000,0000,0000,,Just until we finish our ritual...
+Dialogue: 0,0:23:49.34,0:24:01.95,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:01.95,0:24:03.75,Default,,0000,0000,0000,,Sacrificial lamb...
+Dialogue: 0,0:24:03.75,0:24:03.89,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:03.89,0:24:06.29,Default,,0000,0000,0000,,May you be the pillar of strength...
+Dialogue: 0,0:24:06.29,0:24:06.36,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:06.36,0:24:07.38,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:24:07.38,0:24:07.46,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:07.46,0:24:12.66,Default,,0000,0000,0000,,Slain sacrificial lamb, give us\Nthe strength of the lord of darkness.
+Dialogue: 0,0:24:12.66,0:24:13.40,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:13.40,0:24:15.89,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:24:15.89,0:24:16.63,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:16.63,0:24:18.90,Default,,0000,0000,0000,,Jesus Jesus, Nester Jesus.
+Dialogue: 0,0:24:18.90,0:24:28.91,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:28.91,0:24:29.71,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:24:29.71,0:24:32.32,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:32.32,0:24:35.28,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:24:35.28,0:24:37.59,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:37.59,0:24:38.55,Default,,0000,0000,0000,,Something's wrong!
+Dialogue: 0,0:24:38.55,0:24:38.62,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:38.62,0:24:40.42,Default,,0000,0000,0000,,The Gate of Orkus is\Nnot opening all the way.
+Dialogue: 0,0:24:40.42,0:24:40.86,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:40.86,0:24:42.69,Default,,0000,0000,0000,,Maybe we did something wrong.
+Dialogue: 0,0:24:42.69,0:24:42.76,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:42.76,0:24:45.23,Default,,0000,0000,0000,,No, we did exactly what the book said.
+Dialogue: 0,0:24:45.23,0:24:45.29,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:45.29,0:24:46.35,Default,,0000,0000,0000,,We didn't make a mistake.
+Dialogue: 0,0:24:46.35,0:24:46.43,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:46.43,0:24:47.49,Default,,0000,0000,0000,,Then why?
+Dialogue: 0,0:24:47.49,0:24:47.56,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:47.56,0:24:48.43,Default,,0000,0000,0000,,We failed?
+Dialogue: 0,0:24:48.43,0:24:48.50,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:48.50,0:24:51.80,Default,,0000,0000,0000,,We killed her, what are we going to do?
+Dialogue: 0,0:24:51.80,0:24:54.67,Default,,0000,0000,0000,, 
+Dialogue: 0,0:24:54.67,0:24:55.93,Default,,0000,0000,0000,,Not enough...
+Dialogue: 0,0:24:55.93,0:25:00.28,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:00.28,0:25:01.68,Default,,0000,0000,0000,,There's not enough...
+Dialogue: 0,0:25:01.68,0:25:03.45,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:03.45,0:25:04.91,Default,,0000,0000,0000,,There's not enough blood.
+Dialogue: 0,0:25:04.91,0:25:06.02,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:06.02,0:25:07.38,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:25:07.38,0:25:07.45,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:07.45,0:25:09.04,Default,,0000,0000,0000,,It's too late now.
+Dialogue: 0,0:25:09.04,0:25:09.62,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:09.62,0:25:11.28,Default,,0000,0000,0000,,It's not too late.
+Dialogue: 0,0:25:11.28,0:25:12.72,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:12.72,0:25:13.59,Default,,0000,0000,0000,,What do you...
+Dialogue: 0,0:25:13.59,0:25:24.33,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:24.33,0:25:25.86,Default,,0000,0000,0000,,Nami, have you lost your mind?
+Dialogue: 0,0:25:25.86,0:25:26.04,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:26.04,0:25:27.37,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:25:27.37,0:25:27.44,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:27.44,0:25:29.60,Default,,0000,0000,0000,,We lost our senses a long time ago.
+Dialogue: 0,0:25:29.60,0:25:32.71,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:32.71,0:25:33.94,Default,,0000,0000,0000,,Saki!
+Dialogue: 0,0:25:33.94,0:25:34.51,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:34.51,0:25:36.00,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:25:36.00,0:25:45.39,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:45.39,0:25:47.29,Default,,0000,0000,0000,,Here it is, I found it!
+Dialogue: 0,0:25:47.29,0:25:47.36,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:47.36,0:25:49.09,Default,,0000,0000,0000,,What are you doing, Rie?
+Dialogue: 0,0:25:49.09,0:25:49.83,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:49.83,0:25:52.95,Default,,0000,0000,0000,,Look, the gate is about to open...
+Dialogue: 0,0:25:52.95,0:25:53.56,Default,,0000,0000,0000,, 
+Dialogue: 0,0:25:53.56,0:25:55.79,Default,,0000,0000,0000,,I can hear the bells of hell.
+Dialogue: 0,0:25:55.79,0:26:11.35,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:11.35,0:26:15.94,Default,,0000,0000,0000,,Come, Berzelt,\Nand grant me your powers!
+Dialogue: 0,0:26:15.94,0:26:39.14,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:39.14,0:26:40.13,Default,,0000,0000,0000,,It hurts.
+Dialogue: 0,0:26:40.13,0:26:40.21,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:40.21,0:26:41.34,Default,,0000,0000,0000,,It hurts...
+Dialogue: 0,0:26:41.34,0:26:41.78,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:41.78,0:26:45.14,Default,,0000,0000,0000,,Girl, do you want to live?
+Dialogue: 0,0:26:45.14,0:26:45.98,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:45.98,0:26:48.71,Default,,0000,0000,0000,,Do you wish a contract with me?
+Dialogue: 0,0:26:48.71,0:26:49.49,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:49.49,0:26:51.15,Default,,0000,0000,0000,,I don't want to die...
+Dialogue: 0,0:26:51.15,0:26:51.39,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:51.39,0:26:52.98,Default,,0000,0000,0000,,I don't want to die...
+Dialogue: 0,0:26:52.98,0:26:53.76,Default,,0000,0000,0000,, 
+Dialogue: 0,0:26:53.76,0:26:55.78,Default,,0000,0000,0000,,I don't want to die!
+Dialogue: 0,0:26:55.78,0:27:02.80,Default,,0000,0000,0000,, 
+Dialogue: 0,0:27:02.80,0:27:03.96,Default,,0000,0000,0000,,Saki, Rie!

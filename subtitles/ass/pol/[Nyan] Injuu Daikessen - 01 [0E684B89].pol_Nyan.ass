@@ -1,0 +1,320 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build416  Oct 11 2015  12:01:21
+Title: Kainote Ass File
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 16
+Timer: 100,0000
+WrapStyle: 1
+Last Style Storage: [640x480]
+Video File: Injuu.Daikessen.01.OVA.[HP](unc).avi
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 1271
+Active Line: 0
+Collisions: Normal
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&HFF000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.2,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,55,&HFF000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,35,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:21.02,0:01:25.36,Grupa,,0,0,0,,{\be1\fad(1563,0)}Nyan
+Dialogue: 0,0:01:21.02,0:01:25.36,Anime,,0,0,0,,{\be1\fad(1563,0)}Injuu Daikessen
+Dialogue: 0,0:05:10.12,0:05:16.00,Znak,,0,0,0,,{\be1}Laboratorium policji
+Dialogue: 0,0:00:42.34,0:00:46.69,Default,,0,0,0,,{\be1}Ale ciasna! Kotku! Moje kochanie!
+Dialogue: 0,0:00:47.79,0:00:49.03,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:00:52.96,0:00:55.12,Default,,0,0,0,,{\be1}- O cholera!\N- Leci!
+Dialogue: 0,0:01:48.81,0:01:51.34,Default,,0,0,0,,{\be1}Spadające gwiazdy.
+Dialogue: 0,0:01:51.85,0:01:54.26,Default,,0,0,0,,{\be1}Tutaj często się je widuje.
+Dialogue: 0,0:01:55.38,0:01:58.45,Default,,0,0,0,,{\be1}Czekaj, trzeba wypowiedzieć życzenie.
+Dialogue: 0,0:01:59.57,0:02:02.73,Default,,0,0,0,,{\be1}W europie to zły znak.
+Dialogue: 0,0:02:03.11,0:02:06.01,Default,,0,0,0,,{\be1}Poza tym czego chcesz sobie zażyczyć?
+Dialogue: 0,0:02:11.29,0:02:14.95,Default,,0,0,0,,{\be1}Chciałabym córeczkę.
+Dialogue: 0,0:02:14.95,0:02:16.07,Default,,0,0,0,,{\be1}Serio?!
+Dialogue: 0,0:02:18.13,0:02:19.92,Default,,0,0,0,,{\be1}Żartowałam.
+Dialogue: 0,0:02:22.72,0:02:26.67,Default,,0,0,0,,{\be1}Nieładnie tak żartować!\NMuszę cię ukarać!
+Dialogue: 0,0:02:28.00,0:02:30.51,Default,,0,0,0,,{\be1}Nie tutaj!
+Dialogue: 0,0:02:31.39,0:02:33.03,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:02:57.11,0:03:02.54,Default,,0,0,0,,{\be1}No oczywiście, że byłam zaskoczona.\NWidziałeś wiadomości, nie?
+Dialogue: 0,0:03:02.92,0:03:07.46,Default,,0,0,0,,{\be1}No nie? Nie myślałam, że kiedyś\Nspadnie tak blisko mojego domu.
+Dialogue: 0,0:03:07.46,0:03:12.12,Default,,0,0,0,,{\be1}Martwiłeś się o mnie?
+Dialogue: 0,0:03:12.12,0:03:13.70,Default,,0,0,0,,{\be1}Cieszę się.
+Dialogue: 0,0:03:14.54,0:03:17.66,Default,,0,0,0,,{\be1}Szkoda, że cię tu nie ma.
+Dialogue: 0,0:03:20.22,0:03:22.28,Default,,0,0,0,,{\be1}Skądże.
+Dialogue: 0,0:03:31.33,0:03:39.10,Default,,0,0,0,,{\be1}To już miesiąc.\NTak bardzo tęsknię za tobą.
+Dialogue: 0,0:03:41.19,0:03:49.04,Default,,0,0,0,,{\be1}Nawet nie umawiam się\Nz innymi facetami, myślę o tobie.
+Dialogue: 0,0:03:50.45,0:03:54.55,Default,,0,0,0,,{\be1}Słuchaj jak dyszę, gdy myślę o tobie.
+Dialogue: 0,0:03:55.48,0:03:58.93,Default,,0,0,0,,{\be1}Jestem już mokra.
+Dialogue: 0,0:03:59.84,0:04:04.10,Default,,0,0,0,,{\be1}Podnieca cię to? Staje ci?
+Dialogue: 0,0:04:05.84,0:04:08.25,Default,,0,0,0,,{\be1}Chcę cię!
+Dialogue: 0,0:05:11.70,0:05:16.00,Default,,0,0,0,,{\be1}Kosmita? Znalazłaś kosmitę w meteorycie?
+Dialogue: 0,0:05:16.51,0:05:21.64,Default,,0,0,0,,{\be1}Inaczej bym ci nie zawracała głowy.
+Dialogue: 0,0:05:22.05,0:05:27.88,Default,,0,0,0,,{\be1}To nie są żarty, na meteorycie\Nznaleziono substancje organiczne.
+Dialogue: 0,0:05:27.88,0:05:30.68,Default,,0,0,0,,{\be1}Czy są jeszcze jakieś ślady?
+Dialogue: 0,0:05:30.68,0:05:33.61,Default,,0,0,0,,{\be1}Tu nie ma śladów! To prawdziwa istota!
+Dialogue: 0,0:05:34.07,0:05:35.26,Default,,0,0,0,,{\be1}To żyje?
+Dialogue: 0,0:05:35.26,0:05:39.49,Default,,0,0,0,,{\be1}Powiela się w zastraszającym tempie.
+Dialogue: 0,0:05:39.94,0:05:43.11,Default,,0,0,0,,{\be1}To organizm jednokomórkowy jak ameba.
+Dialogue: 0,0:05:43.11,0:05:49.45,Default,,0,0,0,,{\be1}Czy może nam zagrozić jak jakiś wirus?
+Dialogue: 0,0:05:51.15,0:05:53.74,Default,,0,0,0,,{\be1}Wolałabym jeszcze nie wysuwać takich wniosków.
+Dialogue: 0,0:05:53.74,0:05:56.80,Default,,0,0,0,,{\be1}Na razie nie ma zagrożeń chorobowych.
+Dialogue: 0,0:05:57.50,0:05:58.66,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:05:58.66,0:05:59.88,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:06:00.50,0:06:07.75,Default,,0,0,0,,{\be1}To tylko intuicja naukowca, ale to\Nchyba wykracza poza nasze rozumowanie.
+Dialogue: 0,0:06:07.75,0:06:11.06,Default,,0,0,0,,{\be1}Powinniśmy działać jak najszybciej.
+Dialogue: 0,0:06:12.22,0:06:17.29,Default,,0,0,0,,{\be1}Rozumiem, porozmawiam\Nz premierem o wysłaniu zespołu.
+Dialogue: 0,0:06:17.29,0:06:25.94,Default,,0,0,0,,{\be1}Pamiętaj, że to ściśle tajne.\NPrasa nie może się o tym dowiedzieć.
+Dialogue: 0,0:06:25.94,0:06:26.94,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:10:09.96,0:10:12.43,Default,,0,0,0,,{\be1}To jest odporne nawet na kwas.
+Dialogue: 0,0:10:19.67,0:10:21.39,Default,,0,0,0,,{\be1}Spóźniliśmy się.
+Dialogue: 0,0:10:23.02,0:10:25.76,Default,,0,0,0,,{\be1}Co się stało?!
+Dialogue: 0,0:10:25.76,0:10:30.18,Default,,0,0,0,,{\be1}Natychmiast zamróźcie próbki i mackę.
+Dialogue: 0,0:10:31.99,0:10:39.87,Default,,0,0,0,,{\be1}Dziś wieczorem, około 19:00 w jednej z uliczek\NShibuyi popełniono makabryczne morderstwa.
+Dialogue: 0,0:10:44.49,0:10:47.13,Default,,0,0,0,,{\be1}Coś nam dzisiaj nie idzie.
+Dialogue: 0,0:10:51.97,0:10:52.63,Default,,0,0,0,,{\be1}Uważaj!
+Dialogue: 0,0:10:54.60,0:10:57.29,Default,,0,0,0,,{\be1}Pojebało cię?!
+Dialogue: 0,0:11:05.00,0:11:07.86,Default,,0,0,0,,{\be1}Nie powinnaś tam spać.
+Dialogue: 0,0:11:08.22,0:11:10.89,Default,,0,0,0,,{\be1}Dobrze się tobą zajmiemy.
+Dialogue: 0,0:11:10.89,0:11:12.28,Default,,0,0,0,,{\be1}Mamy farta.
+Dialogue: 0,0:11:24.24,0:11:33.47,Default,,0,0,0,,{\be1}Według raportu Sugou ślad\Nmorderstw prowadzi na południe.
+Dialogue: 0,0:11:33.75,0:11:40.14,Default,,0,0,0,,{\be1}Zaczęło się od Hokkaido, a potem Sendai,\NUtsunomiya, Tokio i Yokohama.
+Dialogue: 0,0:11:40.14,0:11:43.35,Default,,0,0,0,,{\be1}Wygląda jakby potrafiło myśleć.
+Dialogue: 0,0:11:43.35,0:11:53.36,Default,,0,0,0,,{\be1}Zacznijmy od raportu z autopsji dr Tsukuby, która\Nniedawno zginęła badając meteoryt w laboratorium.
+Dialogue: 0,0:11:56.90,0:11:59.69,Default,,0,0,0,,{\be1}Jestem Suzuka, lekarz medycyny sądowej.
+Dialogue: 0,0:11:59.69,0:12:13.01,Default,,0,0,0,,{\be1}Z pomocą policji z Hokkaido stwierdziliśmy,\Nże śmierć dr Tsukuby i ciąg morderstw są połączone.
+Dialogue: 0,0:12:17.43,0:12:24.73,Default,,0,0,0,,{\be1}Każda z ofiar łącznie z dr Tsukubą,\Nzostały wcześniej zgwałcone.
+Dialogue: 0,0:12:27.47,0:12:37.95,Default,,0,0,0,,{\be1}Substancja przypominająca spermę okazała się mieć\Ntę samą strukturę DNA, co próbki z pozostałych ofiar.
+Dialogue: 0,0:12:42.61,0:12:46.71,Default,,0,0,0,,{\be1}Morderca jest tylko jeden?
+Dialogue: 0,0:12:46.71,0:12:56.37,Default,,0,0,0,,{\be1}To wydaje się niemożliwe, jeśli weźmiemy pod uwagę\Nczas i miejsce morderstwa dr Tsukuby i reszty ofiar.
+Dialogue: 0,0:12:56.37,0:13:00.63,Default,,0,0,0,,{\be1}Powinno być niemożliwe, ale jest coś jeszcze.
+Dialogue: 0,0:13:01.29,0:13:02.55,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:13:03.00,0:13:12.15,Default,,0,0,0,,{\be1}DNA mordercy nie pasuje do ludzkiego DNA .
+Dialogue: 0,0:13:12.76,0:13:13.57,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:13:13.57,0:13:20.49,Default,,0,0,0,,{\be1}To niewiarygodne, ale taki rodzaj\Nspermy nie istnieje na Ziemi.
+Dialogue: 0,0:13:21.04,0:13:30.42,Default,,0,0,0,,{\be1}Wszystkie testy substancji z meteorytu, danych\Ndr Tsukuby i próbek z ofiar wykazują ten sam wynik.
+Dialogue: 0,0:13:30.42,0:13:34.84,Default,,0,0,0,,{\be1}Niemożliwe! Przecież to\Njednokomórkowiec jak ameba!
+Dialogue: 0,0:13:36.87,0:13:39.46,Default,,0,0,0,,{\be1}Pierwszy kontakt.
+Dialogue: 0,0:13:39.46,0:13:44.73,Default,,0,0,0,,{\be1}Jak powiedziała dr Tsukuba, to może\Nwykraczać poza nasze rozumowanie.
+Dialogue: 0,0:13:45.42,0:13:46.61,Default,,0,0,0,,{\be1}Komendancie.
+Dialogue: 0,0:13:46.61,0:13:47.88,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:13:47.88,0:13:54.52,Default,,0,0,0,,{\be1}Sprowadź do Tokio najlepszych ludzi\Ni zabezpieczcie przewidywane miejsca morderstw.
+Dialogue: 0,0:13:54.97,0:13:56.48,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:14:29.55,0:14:31.59,Default,,0,0,0,,{\be1}Mamy nowy trop.
+Dialogue: 0,0:14:31.59,0:14:40.86,Default,,0,0,0,,{\be1}Po zbadaniu próbek z morderstw w chronologicznym\Nkolejności odkryliśmy, że to DNA mutuje.
+Dialogue: 0,0:14:41.39,0:14:47.28,Default,,0,0,0,,{\be1}To coś asymiluje DNA ofiar i szybko się mnoży.
+Dialogue: 0,0:14:47.73,0:14:53.37,Default,,0,0,0,,{\be1}Co więcej utrzymuje organy\Nrozrodcze ofiar przy życiu.
+Dialogue: 0,0:14:53.91,0:14:54.79,Default,,0,0,0,,{\be1}Co takiego?!
+Dialogue: 0,0:14:55.28,0:15:00.71,Default,,0,0,0,,{\be1}A dokładniej to sperma utrzymuje je przy życiu.
+Dialogue: 0,0:15:01.25,0:15:02.63,Default,,0,0,0,,{\be1}Niewiarygodne.
+Dialogue: 0,0:15:03.07,0:15:07.47,Default,,0,0,0,,{\be1}Według mnie to coś to pasożyt.
+Dialogue: 0,0:15:08.21,0:15:09.39,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:15:09.81,0:15:17.10,Default,,0,0,0,,{\be1}Samo nie potrafi się rozmnażać,\Nwięc znosi jaja w ofiarach.
+Dialogue: 0,0:15:17.10,0:15:19.18,Default,,0,0,0,,{\be1}To poważna sprawa!
+Dialogue: 0,0:15:19.18,0:15:24.74,Default,,0,0,0,,{\be1}Morderstwa przesuwają się na południe od Hokkaido,\Nnawet do laboratorium policyjnego.
+Dialogue: 0,0:15:25.19,0:15:29.66,Default,,0,0,0,,{\be1}Czyżby błędem było sprowadzenie tego do Tokio?
+Dialogue: 0,0:15:30.28,0:15:35.20,Default,,0,0,0,,{\be1}Jest nawet gorzej,\Nźródło spermy wciąż jest żywe.
+Dialogue: 0,0:15:35.20,0:15:39.08,Default,,0,0,0,,{\be1}To meteoryt jest obcą formą życia!
+Dialogue: 0,0:15:39.53,0:15:43.76,Default,,0,0,0,,{\be1}To coś przeobraża się\Nżywiąc się siłą życiową kobiet.
+Dialogue: 0,0:15:43.76,0:15:47.19,Default,,0,0,0,,{\be1}Potomstwo kosmity tkwi w macicach.
+Dialogue: 0,0:15:48.22,0:15:50.18,Default,,0,0,0,,{\be1}Mamy do czynienia z inwazją.
+Dialogue: 0,0:15:50.61,0:15:59.31,Default,,0,0,0,,{\be1}Co się stanie, jeśli to coś\Nzgwałci wszystkie kobiety?
+Dialogue: 0,0:15:59.90,0:16:05.66,Default,,0,0,0,,{\be1}Mężczyźni zostaną wyrżnięci,\Na kobiety staną się inkubatorami.
+Dialogue: 0,0:16:05.66,0:16:10.33,Default,,0,0,0,,{\be1}W ciągu roku może\Nich się namnożyć aż 2 miliardy.
+Dialogue: 0,0:16:10.33,0:16:11.70,Default,,0,0,0,,{\be1}Na całym świecie?!
+Dialogue: 0,0:16:11.70,0:16:14.21,Default,,0,0,0,,{\be1}Nie, w samej Japonii.
+Dialogue: 0,0:16:14.21,0:16:18.74,Default,,0,0,0,,{\be1}Na razie wszystkie morderstwa\Npopełniane są w większych miastach.
+Dialogue: 0,0:16:19.63,0:16:24.38,Default,,0,0,0,,{\be1}Kobiety mają w sobie coś, co go przyciąga.
+Dialogue: 0,0:16:25.07,0:16:27.13,Default,,0,0,0,,{\be1}To możliwe?
+Dialogue: 0,0:16:27.63,0:16:31.47,Default,,0,0,0,,{\be1}W końcu to nie jest człowiek.
+Dialogue: 0,0:16:31.47,0:16:39.40,Default,,0,0,0,,{\be1}Obecnie posiadamy urządzenia potrafiące rozpoznać\Npłeć na podstawie śladów stóp i temperatury ciała.
+Dialogue: 0,0:16:39.40,0:16:46.48,Default,,0,0,0,,{\be1}Nie zdziwiłbym się, dlaczego ciągnie go do\Nwiększych miast, jeśli potrafi wyczuwać feromony.
+Dialogue: 0,0:16:50.25,0:16:55.66,Default,,0,0,0,,{\be1}Ściągnij dowódcę Gwardii Narodowej i premiera.
+Dialogue: 0,0:17:11.43,0:17:15.64,Default,,0,0,0,,{\be1}Nie sądziłem, że jesteś puszczalska.
+Dialogue: 0,0:17:15.64,0:17:17.85,Default,,0,0,0,,{\be1}Pospolita suka.
+Dialogue: 0,0:17:18.88,0:17:24.27,Default,,0,0,0,,{\be1}Suka? Tak, lubię się zabawiać.
+Dialogue: 0,0:17:24.27,0:17:30.24,Default,,0,0,0,,{\be1}Gdy cię zawinęliśmy myślałem,\Nże cię pierdolnąłem.
+Dialogue: 0,0:17:32.98,0:17:34.83,Default,,0,0,0,,{\be1}Chcę jeszcze.
+Dialogue: 0,0:17:37.57,0:17:39.16,Default,,0,0,0,,{\be1}Ty też chodź.
+Dialogue: 0,0:17:40.28,0:17:42.26,Default,,0,0,0,,{\be1}Włóż wyżej.
+Dialogue: 0,0:17:44.25,0:17:48.38,Default,,0,0,0,,{\be1}Pośpiesz się.
+Dialogue: 0,0:17:49.39,0:17:51.08,Default,,0,0,0,,{\be1}Chce na 2 baty.
+Dialogue: 0,0:17:54.04,0:17:55.87,Default,,0,0,0,,{\be1}Cudowna!
+Dialogue: 0,0:18:03.64,0:18:05.36,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:18:06.06,0:18:09.28,Default,,0,0,0,,{\be1}Wkładajcie do końca!
+Dialogue: 0,0:18:09.67,0:18:12.70,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:18:14.98,0:18:15.53,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:18:15.53,0:18:19.45,Default,,0,0,0,,{\be1}Daj mi ją do buzi!
+Dialogue: 0,0:18:26.49,0:18:30.97,Default,,0,0,0,,{\be1}Nie można jej marnować.\NWycisnę was do ostatniej kropli.
+Dialogue: 0,0:18:39.01,0:18:46.23,Default,,0,0,0,,{\be1}Co za suka.\NLubisz się pieprzyć, co?
+Dialogue: 0,0:18:46.23,0:18:50.06,Default,,0,0,0,,{\be1}Takiej ciasnej jeszcze nie miałem.
+Dialogue: 0,0:18:50.06,0:18:52.65,Default,,0,0,0,,{\be1}Masz ciasny tyłek.
+Dialogue: 0,0:18:53.10,0:18:56.83,Default,,0,0,0,,{\be1}A co byś zrobił z rozepchanym?
+Dialogue: 0,0:18:59.40,0:19:06.25,Default,,0,0,0,,{\be1}Puszczalskie zazwyczaj są rozepchane,\Nale ty jesteś zajebista.
+Dialogue: 0,0:19:06.94,0:19:08.87,Default,,0,0,0,,{\be1}Wie jak obsługiwać.
+Dialogue: 0,0:19:08.87,0:19:13.45,Default,,0,0,0,,{\be1}Cały czas się pieprzymy.\NPowiesz skąd jesteś?
+Dialogue: 0,0:19:15.68,0:19:19.35,Default,,0,0,0,,{\be1}Powiesz?
+Dialogue: 0,0:19:29.06,0:19:30.42,Default,,0,0,0,,{\be1}Stamtąd.
+Dialogue: 0,0:19:37.19,0:19:40.27,Default,,0,0,0,,{\be1}Stąd nie zobaczycie jej.
+Dialogue: 0,0:19:42.44,0:19:45.40,Default,,0,0,0,,{\be1}Moja planeta jest daleko\Nza tą czerwoną gwiazdą.
+Dialogue: 0,0:19:51.41,0:19:54.54,Default,,0,0,0,,{\be1}Nieważne, jak nie chcesz to nie mów.
+Dialogue: 0,0:19:54.54,0:19:57.55,Default,,0,0,0,,{\be1}Możesz zostać z nami, ile chcesz.
+Dialogue: 0,0:20:00.13,0:20:02.92,Default,,0,0,0,,{\be1}W razie czego sprzedamy ją.
+Dialogue: 0,0:20:02.92,0:20:04.94,Default,,0,0,0,,{\be1}Będziemy bogaci.
+Dialogue: 0,0:20:08.43,0:20:12.77,Default,,0,0,0,,{\be1}Czekaj, już nie damy rady.
+Dialogue: 0,0:20:12.77,0:20:15.45,Default,,0,0,0,,{\be1}Nieprawda, patrzcie.
+Dialogue: 0,0:20:20.36,0:20:22.33,Default,,0,0,0,,{\be1}Jednak możecie.
+Dialogue: 0,0:20:22.94,0:20:29.81,Default,,0,0,0,,{\be1}Chcę więcej, wycisnę was do ostatniej kropli.
+Dialogue: 0,0:20:31.29,0:20:33.30,Default,,0,0,0,,{\be1}Do ostatniej.
+Dialogue: 0,0:20:39.58,0:20:45.52,Default,,0,0,0,,{\be1}Rozumiem, na mocy nadanego mi prawa\Nzezwalam na wymarsz Gwardii Narodowej.
+Dialogue: 0,0:20:45.97,0:20:54.06,Default,,0,0,0,,{\be1}Przed rozpoczęciem akcji minister spraw wewnętrznych\Nzorganizuje ewakuację w promieniu 30 km.
+Dialogue: 0,0:20:54.06,0:20:59.16,Default,,0,0,0,,{\be1}Federalna Komisja Łączności\Nzajmie się blokadą mediów.
+Dialogue: 0,0:21:00.42,0:21:02.10,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:21:03.44,0:21:09.73,Default,,0,0,0,,{\be1}To niespotykana dotąd sytuacja w dziejach ludzkości,\Njak mam to ujawnić opinii publicznej?
+Dialogue: 0,0:21:15.31,0:21:19.09,Default,,0,0,0,,{\be1}Melduje się dowódca Gwardii\NNarodowej, Okayama Yozou.
+Dialogue: 0,0:21:19.96,0:21:25.52,Default,,0,0,0,,{\be1}Dziękujemy za przybycie.\NLiczymy na pana.
+Dialogue: 0,0:21:26.26,0:21:27.07,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:21:27.88,0:21:30.44,Default,,0,0,0,,{\be1}To naprawdę w porządku?
+Dialogue: 0,0:21:32.26,0:21:37.86,Default,,0,0,0,,{\be1}Nie wiem, to jego pomysł.
+Dialogue: 0,0:21:37.86,0:21:45.83,Default,,0,0,0,,{\be1}Nie martwcie się.\NNa pewno uda się go zwabić feromonami.
+Dialogue: 0,0:22:00.21,0:22:01.55,Default,,0,0,0,,{\be1}Powtarzam.
+Dialogue: 0,0:22:01.55,0:22:07.47,Default,,0,0,0,,{\be1}Gabinet premiera ogłosił rozmieszczenie\NGwardii Narodowej dzisiaj o 12.
+Dialogue: 0,0:22:07.47,0:22:18.90,Default,,0,0,0,,{\be1}Nie podano szczegółów misji, ale cywile mieszkający\Nw promieniu 6 km od autostrad mają się ewakuować.
+Dialogue: 0,0:22:19.60,0:22:27.78,Default,,0,0,0,,{\be1}Opozycja złożyła oficjalny protest przeciwko wysłaniu\NGwardii Narodowej, argumentując rosnącą paniką...
+Dialogue: 0,0:23:17.77,0:23:20.37,Default,,0,0,0,,{\be1}Panie Mogi, dlaczego zablokowano media?
+Dialogue: 0,0:23:20.37,0:23:26.93,Default,,0,0,0,,{\be1}No właśnie, to pierwsze użycie Gwardii\NNarodowej, dlaczego media nic nie wiedzą?
+Dialogue: 0,0:23:26.93,0:23:30.46,Default,,0,0,0,,{\be1}Właśnie dlatego że to pierwszy raz i...
+Dialogue: 0,0:23:30.46,0:23:32.48,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:23:33.26,0:23:36.81,Default,,0,0,0,,{\be1}To coś czego nie możemy pokazać.
+Dialogue: 0,0:23:41.16,0:23:45.15,Default,,0,0,0,,{\be1}Cel namierzony, przemieszcza się\Npod ziemią z prędkością 24 km/h!
+Dialogue: 0,0:23:45.15,0:23:47.07,Default,,0,0,0,,{\be1}Chyba pokaże się w Gotenbie!
+Dialogue: 0,0:23:47.69,0:23:51.08,Default,,0,0,0,,{\be1}Nadchodzi. Panie Suzuka, proszę się przygotować.
+Dialogue: 0,0:23:51.94,0:23:54.50,Default,,0,0,0,,{\be1}Powinni już wyjechać z bazy Atsugi.
+Dialogue: 0,0:24:56.94,0:24:58.92,Default,,0,0,0,,{\be1}Tu Man-P Spot.
+Dialogue: 0,0:24:58.92,0:25:01.36,Default,,0,0,0,,{\be1}Się zrobi, Iwahata!
+Dialogue: 0,0:25:02.43,0:25:07.28,Default,,0,0,0,,{\be1}Świat się wali, a ty nadal się bawisz?
+Dialogue: 0,0:25:07.28,0:25:09.13,Default,,0,0,0,,{\be1}Jesteś niezmordowany.
+Dialogue: 0,0:25:10.95,0:25:12.70,Default,,0,0,0,,{\be1}Niema kobitek?
+Dialogue: 0,0:25:12.70,0:25:21.13,Default,,0,0,0,,{\be1}No, sprawdziłem salony masażów\Noraz burdele i nigdzie nie ma kobiet.
+Dialogue: 0,0:25:21.13,0:25:24.41,Default,,0,0,0,,{\be1}Może robili naloty?
+Dialogue: 0,0:25:24.41,0:25:28.46,Default,,0,0,0,,{\be1}Nie, na początku też tak myślałem.
+Dialogue: 0,0:25:28.46,0:25:34.31,Default,,0,0,0,,{\be1}Sprawdziłem Shinjuku, Ikebukuro\Ni Gotandę i ani jednej kobiety.
+Dialogue: 0,0:25:35.51,0:25:42.23,Default,,0,0,0,,{\be1}Popytałem trochę i podobno\Nrząd je wszystkie wynajął.
+Dialogue: 0,0:25:42.23,0:25:47.65,Default,,0,0,0,,{\be1}Policja z Gwardią Narodową\Nwynajęli wszystkie kobiety.
+Dialogue: 0,0:25:47.65,0:25:50.02,Default,,0,0,0,,{\be1}To niemożliwe.
+Dialogue: 0,0:25:50.02,0:25:53.33,Default,,0,0,0,,{\be1}Policji się nie dziwię,\Nale żeby Gwardia Narodowa?
+Dialogue: 0,0:25:53.33,0:25:55.37,Default,,0,0,0,,{\be1}Też się dziwię.
+Dialogue: 0,0:25:55.37,0:25:58.37,Default,,0,0,0,,{\be1}Coś tu śmierdzi.
+Dialogue: 0,0:25:58.37,0:26:05.25,Default,,0,0,0,,{\be1}Moje źródło było przerażone\Ni odradzało węszenia przy tym.
+Dialogue: 0,0:26:06.33,0:26:13.39,Default,,0,0,0,,{\be1}No dobra, popytam moich źródeł z tego sektora.
+Dialogue: 0,0:26:13.39,0:26:15.15,Default,,0,0,0,,{\be1}Dzięki, szefie.
+Dialogue: 0,0:26:20.05,0:26:22.68,Default,,0,0,0,,{\be1}Lepiej uważaj na siebie.
+Dialogue: 0,0:26:22.68,0:26:24.64,Default,,0,0,0,,{\be1}Będę, do zobaczenia.
+Dialogue: 0,0:26:29.24,0:26:34.50,Default (i),,0,0,0,,{\be1}To może mieć związek z\Nrozmieszczeniem Gwardii Narodowej.
+Dialogue: 0,0:26:41.28,0:26:44.12,Default,,0,0,0,,{\be1}Dzień dobry, z rzecznikiem prasowym\NGwardii Narodowej proszę.
+Dialogue: 0,0:26:44.12,0:26:48.46,Default,,0,0,0,,{\be1}Tu automatyczna sekretarka Gwardii Narodowej.
+Dialogue: 0,0:26:48.95,0:26:53.92,Default,,0,0,0,,{\be1}Pragniemy poinformować, że linia Gwardii\NNarodowej została tymczasowo wyłączona.
+Dialogue: 0,0:26:53.92,0:26:57.06,Default,,0,0,0,,{\be1}Wszelkie pytania dotyczące Gwardii Narodowej i...
+Dialogue: 0,0:27:03.73,0:27:15.69,Default,,0,0,0,,{\be1}Gwardia Narodowa wprowadziła zakaz podróżowania\Nwieloma autostradami i drogami publicznymi.
+Dialogue: 0,0:27:15.69,0:27:21.28,Default,,0,0,0,,{\be1}Nie mamy żadnych informacji, bo reporterzy\Nnie są wpuszczani do tamtych rejonów.
+Dialogue: 0,0:27:21.28,0:27:26.38,Default,,0,0,0,,{\be1}Krajowe Stowarzyszenie Dziennikarzy\Nrozważa pozew sądowy.
+Dialogue: 0,0:27:50.39,0:27:53.02,Default,,0,0,0,,{\be1}Co za smród.
+Dialogue: 0,0:27:53.02,0:27:56.73,Default,,0,0,0,,{\be1}Rozpyliliśmy sztuczne feromony,\Nale nie mają smaku i zapachu.
+Dialogue: 0,0:27:56.73,0:27:59.54,Default,,0,0,0,,{\be1}- To przez perfumy.\N- Co?
+Dialogue: 0,0:28:00.53,0:28:06.18,Default,,0,0,0,,{\be1}Zmieszanie różnych składników\Nmoże dać nieprzyjemny zapach.
+Dialogue: 0,0:28:06.18,0:28:09.42,Default,,0,0,0,,{\be1}Sztuczne feromony nie będą tak pachnieć.
+Dialogue: 0,0:28:09.91,0:28:15.57,Default,,0,0,0,,{\be1}Te kobiety zarabiają ciałami\Ni widać, że w nie inwestują.
+Dialogue: 0,0:28:16.30,0:28:19.00,Default,,0,0,0,,{\be1}Ten smród jest nie do zniesienia.
+Dialogue: 0,0:28:19.00,0:28:21.66,Default,,0,0,0,,{\be1}Lepiej wstrzymaj się z takimi komentarzami.
+Dialogue: 0,0:28:21.66,0:28:29.23,Default,,0,0,0,,{\be1}Jeśli coś pójdzie nie tak,\Nto te kobiety będą w niebezpieczeństwie.
+Dialogue: 0,0:28:29.23,0:28:31.93,Default,,0,0,0,,{\be1}No wiesz co?
+Dialogue: 0,0:28:31.93,0:28:34.90,Default,,0,0,0,,{\be1}Niedługo powinno się zacząć.
+Dialogue: 0,0:28:44.82,0:28:46.87,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:29:10.95,0:29:16.03,Default,,0,0,0,,{\be1}Na początku to mężczyźni\Nużywali feromonów by wabić kobiety.
+Dialogue: 0,0:29:16.45,0:29:25.96,Default,,0,0,0,,{\be1}My użyliśmy feromonów by zwabić potwory,\Nnazywamy je anty-feromonami.
+Dialogue: 0,0:29:28.83,0:29:33.08,Default,,0,0,0,,{\be1}Najwyraźniej działają też na ludzi.
+Dialogue: 0,0:29:33.75,0:29:35.80,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:29:35.80,0:29:43.21,Default,,0,0,0,,{\be1}Przyciągną potwora,\Nale najwyraźniej mają efekt uboczny.
+Dialogue: 0,0:29:43.21,0:29:45.68,Default,,0,0,0,,{\be1}Co? Niemożliwe!
+Dialogue: 0,0:29:52.02,0:29:55.43,Default,,0,0,0,,{\be1}Jak już mówiłem, to kobiety\Nsą w niebezpieczeństwie.
+Dialogue: 0,0:29:55.43,0:30:00.97,Default,,0,0,0,,{\be1}Ale najpierw muszą trochę\Npopracować albo nici z operacji.
+Dialogue: 0,0:30:00.97,0:30:02.52,Default,,0,0,0,,{\be1}No wiesz co?!
+Dialogue: 0,0:30:03.87,0:30:08.99,Default,,0,0,0,,{\be1}Mogę wydawać się okrutny,\Nale nie mamy wyboru.
+Dialogue: 0,0:30:09.86,0:30:20.51,Default,,0,0,0,,{\be1}A poza tym nieważne co powiesz,\Nw tym stanie mnie nie przekonasz.
+Dialogue: 0,0:31:00.12,0:31:04.60,Default,,0,0,0,,{\be1}Co za wstyd.\NTo mają być żołnierze?
+Dialogue: 0,0:31:05.00,0:31:13.37,Default,,0,0,0,,{\be1}Radzę tak nie myśleć i po prostu zrobić to samo.
+Dialogue: 0,0:31:13.37,0:31:18.05,Default,,0,0,0,,{\be1}Może i tak. Tak w ogóle\Nto czemu pana to nie bierze?
+Dialogue: 0,0:31:18.77,0:31:21.03,Default,,0,0,0,,{\be1}Dla mnie już za późno.
+Dialogue: 0,0:31:22.02,0:31:24.21,Default,,0,0,0,,{\be1}Mi już nie staje.
+Dialogue: 0,0:31:25.93,0:31:28.03,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:31:28.03,0:31:31.99,Default,,0,0,0,,{\be1}Dowódco, szybciej.
+Dialogue: 0,0:31:31.99,0:31:34.42,Default,,0,0,0,,{\be1}Takahashi, ty też?
+Dialogue: 0,0:31:39.80,0:31:42.67,Default,,0,0,0,,{\be1}Radar nie wykrywa żadnego ruchu.
+Dialogue: 0,0:31:46.18,0:31:48.17,Default,,0,0,0,,{\be1}Co się stało? Idzie?
+Dialogue: 0,0:31:48.17,0:31:49.83,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:31:52.47,0:31:54.03,Default,,0,0,0,,{\be1}Niezła jesteś.
+Dialogue: 0,0:31:54.03,0:31:55.27,Default,,0,0,0,,{\be1}Co jest niezłe?
+Dialogue: 0,0:31:57.65,0:32:00.82,Default,,0,0,0,,{\be1}Wykryto ruch na godzinie drugiej!
+Dialogue: 0,0:32:01.18,0:32:03.74,Default,,0,0,0,,{\be1}Na drugiej? Jak daleko?
+Dialogue: 0,0:32:04.19,0:32:09.16,Default,,0,0,0,,{\be1}- Jaka odległość?\N- Jaka? Już prawie! Dochodzę!
+Dialogue: 0,0:32:25.54,0:32:27.22,Default,,0,0,0,,{\be1}Biedactwa.
+Dialogue: 0,0:32:27.67,0:32:31.10,Default,,0,0,0,,{\be1}Panie Suzuka, powinniśmy na to pozwolić?
+Dialogue: 0,0:32:32.01,0:32:39.10,Default,,0,0,0,,{\be1}Tak, będzie chciał zapłodnić\Ntyle kobiet, ile znajdzie.
+Dialogue: 0,0:32:39.10,0:32:42.38,Default,,0,0,0,,{\be1}Wiele zwierząt umiera po kopulacji.
+Dialogue: 0,0:32:42.38,0:32:48.03,Default,,0,0,0,,{\be1}To proste, wygramy, gdy się zmęczy!
+Dialogue: 0,0:33:07.09,0:33:12.47,Default,,0,0,0,,{\be1}Twardy skurczybyk.\NNie widać, żeby się zmęczył.
+Dialogue: 0,0:33:12.47,0:33:16.92,Default,,0,0,0,,{\be1}Niemożliwe, jest 13 tysięcy cięższy od człowieka.
+Dialogue: 0,0:33:16.92,0:33:21.17,Default,,0,0,0,,{\be1}Człowiek dziennie może się spuścić 3 ml.
+Dialogue: 0,0:33:21.17,0:33:25.86,Default,,0,0,0,,{\be1}Powinien się zmęczyć po 39 litrach.
+Dialogue: 0,0:33:25.86,0:33:31.10,Default,,0,0,0,,{\be1}Zapomniałeś, że on cały czas rośnie?
+Dialogue: 0,0:33:31.98,0:33:38.79,Default,,0,0,0,,{\be1}Pochłania siły życiowe ofiar,\Ntyle kobiet to dla niego nic.
+Dialogue: 0,0:33:38.79,0:33:46.81,Default,,0,0,0,,{\be1}Co za pomyłka, a wszystko\Nprzez 32 lata życia w dziewictwie.
+Dialogue: 0,0:33:48.50,0:33:50.72,Default,,0,0,0,,{\be1}Nie czas na rozmyślenia!
+Dialogue: 0,0:33:53.59,0:33:56.97,Default,,0,0,0,,{\be1}Co jest?! Cywilom wstęp wzbroniony!
+Dialogue: 0,0:35:12.38,0:35:18.31,Default,,0,0,0,,{\be1}Nasienianie z czwartej planety,\Nkontakt z ziemianami jest zabroniony!
+Dialogue: 0,0:35:18.73,0:35:26.27,Default,,0,0,0,,{\be1}Ukarzę cię w imieniu Galaktycznej Policji!
+Dialogue: 0,0:35:27.40,0:35:33.19,Default,,0,0,0,,{\be1}Nie spodziewałem się was na takim zadupiu.
+Dialogue: 0,0:35:33.19,0:35:40.72,Default,,0,0,0,,{\be1}Ale i tak spóźniłaś się,\Nludzkie kobiety zostały już zapłodnione.
+Dialogue: 0,0:35:40.72,0:35:49.71,Default,,0,0,0,,{\be1}Nie bądź taki pewien.\NTwoje DNA za bardzo różni się od ludzkiego.
+Dialogue: 0,0:35:49.71,0:35:51.13,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:35:51.71,0:36:00.05,Default,,0,0,0,,{\be1}Możesz zapładniać ludzkie kobiety, ale przy\Npodziale komórkowym ciąża sama się zniszczy.
+Dialogue: 0,0:36:00.05,0:36:05.27,Default,,0,0,0,,{\be1}Twoje dzieci przetrwają tylko\N3 minuty w ludzkich kobietach!
+Dialogue: 0,0:36:10.12,0:36:11.73,Default,,0,0,0,,{\be1}To przecież głupie!
+Dialogue: 0,0:36:11.73,0:36:13.57,Default,,0,0,0,,{\be1}Sam jesteś głupi!
+Dialogue: 0,0:36:13.57,0:36:21.90,Default,,0,0,0,,{\be1}I tak będę je zapładniał, dopóki nie umrę!
+Dialogue: 0,0:36:23.54,0:36:24.85,Default,,0,0,0,,{\be1}Nie mam nic do stracenia!
+Dialogue: 0,0:36:28.04,0:36:31.21,Default,,0,0,0,,{\be1}Wcześniej cię rozwalę!
+Dialogue: 0,0:36:46.55,0:36:48.27,Default,,0,0,0,,{\be1}Jak w filmie z potworami.
+Dialogue: 0,0:36:57.73,0:36:59.74,Default,,0,0,0,,{\be1}No nie wierzę.
+Dialogue: 0,0:38:05.06,0:38:07.43,Default,,0,0,0,,{\be1}Co za zboczone odgłosy.
+Dialogue: 0,0:38:08.22,0:38:11.86,Default,,0,0,0,,{\be1}Niesamowite odgłosy!
+Dialogue: 0,0:38:25.70,0:38:28.46,Default,,0,0,0,,{\be1}Przyjemnie, co?
+Dialogue: 0,0:38:30.01,0:38:32.77,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:38:37.21,0:38:38.89,Default,,0,0,0,,{\be1}To koniec!
+Dialogue: 0,0:38:43.04,0:38:45.85,Default,,0,0,0,,{\be1}No dalej, spuść się.
+Dialogue: 0,0:38:48.42,0:38:50.25,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:38:53.43,0:38:56.08,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:38:58.64,0:39:02.17,Default,,0,0,0,,{\be1}- Dochodzę!\N- Cudownie!
+Dialogue: 0,0:39:08.65,0:39:11.44,Default,,0,0,0,,{\be1}Doszedłem.
+Dialogue: 0,0:39:24.88,0:39:28.63,Default,,0,0,0,,{\be1}Wybaczcie kłopoty i dziękuję za pomoc.
+Dialogue: 0,0:39:28.63,0:39:29.61,Default,,0,0,0,,{\be1}Żegnam.
+Dialogue: 0,0:39:42.23,0:39:44.93,Default,,0,0,0,,{\be1}Niezła.
+Dialogue: 0,0:39:44.93,0:39:48.32,Default,,0,0,0,,{\be1}To trzeba było ją przelecieć.
+Dialogue: 0,0:39:48.32,0:39:49.87,Default,,0,0,0,,{\be1}Dajcie se spokój.
+Dialogue: 0,0:39:51.01,0:39:54.71,Default,,0,0,0,,{\be1}W kosmosie musi być więcej potworów.
+Dialogue: 0,0:39:55.40,0:39:59.80,Default,,0,0,0,,{\be1}Musimy utworzyć obronę kosmiczną.
+Dialogue: 0,0:40:00.20,0:40:02.57,Default,,0,0,0,,{\be1}Jaką dokładnie?
+Dialogue: 0,0:40:02.57,0:40:06.84,Default,,0,0,0,,{\be1}Na początek seksroida.
+Dialogue: 0,0:40:08.34,0:40:12.97,Default,,0,0,0,,{\be1}Wiem jak ją nazwę, Super Lala.
+Dialogue: 0,0:40:12.97,0:40:16.23,Default,,0,0,0,,{\be1}Będzie mieć daleki zasięg.
+Dialogue: 0,0:40:19.85,0:40:23.27,Default,,0,0,0,,{\be1}Czekajcie na mnie!

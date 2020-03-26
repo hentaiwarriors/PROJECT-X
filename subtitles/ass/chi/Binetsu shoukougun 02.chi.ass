@@ -1,0 +1,454 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,20,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,2,2,10,10,10,1
+Style: title,微软雅黑,25,&H00FFFFFF,&HF0000000,&H0000FF00,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,9,30,30,10,134
+Style: up,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00800380,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,20,&H00F29F00,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00FF0000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,5:04
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,不行啦
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,10:00
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,15:00
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,20:08
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,25:00
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,30:15
+Dialogue: 0,0:00:04.15,0:00:09.02,Default,NTP,0,0,0,,我 水树柚莉叶 是一个新人保健医生
+Dialogue: 0,0:00:09.02,0:00:10.81,Default,NTP,0,0,0,,现在在某所学校的保健室工作
+Dialogue: 0,0:00:11.69,0:00:13.78,Default,NTP,0,0,0,,除了每天的正常工作 
+Dialogue: 0,0:00:13.78,0:00:15.74,Default,NTP,0,0,0,,偶尔也会倾听学生的烦恼
+Dialogue: 0,0:00:15.74,0:00:17.67,Default,NTP,0,0,0,,也会对学生进行一些辅导
+Dialogue: 0,0:00:18.63,0:00:20.05,Default,NTP,0,0,0,,但是 不知道从什么时候开始
+Dialogue: 0,0:00:20.05,0:00:23.35,Default,NTP,0,0,0,,保健室开始变成了H话题的讨论所
+Dialogue: 0,0:00:23.35,0:00:29.07,Default,NTP,0,0,0,,而且 老师和学生的关系也不知不觉变得奇怪
+Dialogue: 0,0:00:30.18,0:00:31.76,Default,NTP,0,0,0,,但是即使是这样对我
+Dialogue: 0,0:00:31.76,0:00:34.01,Default,NTP,0,0,0,,也开始对男生感兴趣了
+Dialogue: 0,0:00:34.01,0:00:36.49,Default,NTP,0,0,0,,他就是雾岛
+Dialogue: 0,0:00:38.65,0:00:40.18,Default,NTP,0,0,0,,老师 早上好
+Dialogue: 0,0:00:40.56,0:00:41.69,Default,NTP,0,0,0,,早上好
+Dialogue: 0,0:00:42.43,0:00:43.85,Default,NTP,0,0,0,,老师 早上好
+Dialogue: 0,0:00:44.21,0:00:45.52,Default,NTP,0,0,0,,早上好
+Dialogue: 0,0:00:53.75,0:00:55.74,Default,NTP,0,0,0,,雾岛同学
+Dialogue: 0,0:00:57.03,0:01:00.38,Default,NTP,0,0,0,,是吗 那两个人进展的很顺利啊
+Dialogue: 0,0:01:00.58,0:01:01.85,Default,NTP,0,0,0,,水树老师
+Dialogue: 0,0:01:01.85,0:01:03.11,Default,NTP,0,0,0,,啊 是
+Dialogue: 0,0:01:04.36,0:01:05.99,Default,NTP,0,0,0,,远藤老师
+Dialogue: 0,0:01:05.99,0:01:08.85,Default,NTP,0,0,0,,你怎么啦 在这里发呆
+Dialogue: 0,0:01:08.85,0:01:10.69,Default,NTP,0,0,0,,啊 没事 
+Dialogue: 0,0:01:10.69,0:01:12.46,Default,NTP,0,0,0,,你精神不太好呢
+Dialogue: 0,0:01:12.46,0:01:16.77,Default,NTP,0,0,0,,放学后要不要去放松一下
+Dialogue: 0,0:01:16.77,0:01:19.61,Default,NTP,0,0,0,,邀请土屋老师一起去KTV吧
+Dialogue: 0,0:01:19.61,0:01:21.24,Default,NTP,0,0,0,,是啊
+Dialogue: 0,0:01:21.86,0:01:23.53,Default,NTP,0,0,0,,那么 放学后见
+Dialogue: 0,0:01:25.22,0:01:29.23,staff2,NTP,0,0,0,,第二话 正在诊断中
+Dialogue: 0,0:01:31.60,0:01:34.35,Default,NTP,0,0,0,,啊 疼 疼啊 老师
+Dialogue: 0,0:01:34.35,0:01:37.88,Default,NTP,0,0,0,,啊 抱歉 没事吧
+Dialogue: 0,0:01:39.53,0:01:41.63,Default,NTP,0,0,0,,今天老师不太对劲吧
+Dialogue: 0,0:01:42.96,0:01:46.90,Default,NTP,0,0,0,,怎么啦老师 在想事情吗
+Dialogue: 0,0:01:46.90,0:01:51.58,Default,NTP,0,0,0,,比起这个 你别没事也跑过来玩啊
+Dialogue: 0,0:01:51.58,0:01:54.73,Default,NTP,0,0,0,,但是 人家又没有参加社团
+Dialogue: 0,0:01:54.73,0:01:56.34,Default,NTP,0,0,0,,很闲嘛
+Dialogue: 0,0:01:56.34,0:01:58.05,Default,NTP,0,0,0,,就算是这样...
+Dialogue: 0,0:01:58.05,0:02:00.18,Default,NTP,0,0,0,,水树老师
+Dialogue: 0,0:02:01.16,0:02:02.53,Default,NTP,0,0,0,,土屋老师
+Dialogue: 0,0:02:04.25,0:02:08.01,Default,NTP,0,0,0,,工作结束了吗 一起去喝一杯吧
+Dialogue: 0,0:02:08.01,0:02:10.32,Default,NTP,0,0,0,,还有学生在呢
+Dialogue: 0,0:02:12.51,0:02:15.98,Default,NTP,0,0,0,,那么 接下来就麻烦你把门锁好了哦
+Dialogue: 0,0:02:15.98,0:02:17.83,Default,NTP,0,0,0,,土屋老师
+Dialogue: 0,0:02:28.93,0:02:32.90,Default,NTP,0,0,0,,水树老师 你这样猛喝不好哦
+Dialogue: 0,0:02:34.06,0:02:39.56,Default,NTP,0,0,0,,真是的 最近的孩子就知道问一下H的东西
+Dialogue: 0,0:02:39.56,0:02:41.43,Default,NTP,0,0,0,,压力积压太多了吧
+Dialogue: 0,0:02:41.43,0:02:46.96,Default,NTP,0,0,0,,总是找我来问\N都没有一些正经的东西来咨询 
+Dialogue: 0,0:02:49.45,0:02:51.12,Default,NTP,0,0,0,,你在说什么呢
+Dialogue: 0,0:02:51.12,0:02:52.81,Default,NTP,0,0,0,,就算是H的事情 
+Dialogue: 0,0:02:52.81,0:02:54.99,Default,NTP,0,0,0,,烦恼的人也是很认真的
+Dialogue: 0,0:02:55.69,0:03:01.38,Default,NTP,0,0,0,,我也是觉得幸好有跟水树老师聊过
+Dialogue: 0,0:03:02.14,0:03:03.84,Default,NTP,0,0,0,,是这样吗
+Dialogue: 0,0:03:06.35,0:03:09.34,Default,NTP,0,0,0,,也不是那么没用吗
+Dialogue: 0,0:03:09.34,0:03:13.90,Default,NTP,0,0,0,,是啊 虽然不知道到底在烦恼什么
+Dialogue: 0,0:03:13.90,0:03:19.42,Default,NTP,0,0,0,,水树老师 打起精神哦
+Dialogue: 0,0:03:24.72,0:03:31.40,Default,NTP,0,0,0,,远藤老师如果知道我甩了他是跟你聊完之后
+Dialogue: 0,0:03:31.40,0:03:33.41,Default,NTP,0,0,0,,肯定会很惊讶吧
+Dialogue: 0,0:03:33.41,0:03:36.29,Default,NTP,0,0,0,,不可以哦 把这种事说出来
+Dialogue: 0,0:03:36.29,0:03:37.70,Default,NTP,0,0,0,,没关系啦
+Dialogue: 0,0:03:37.70,0:03:41.77,Default,NTP,0,0,0,,远藤老师这种事情很迟钝
+Dialogue: 0,0:03:41.77,0:03:42.41,Default,NTP,0,0,0,,好过分
+Dialogue: 0,0:03:42.63,0:03:44.10,Default,NTP,0,0,0,,但是 是个好人哦
+Dialogue: 0,0:03:44.10,0:03:47.55,Default,NTP,0,0,0,,分手之后也很平常的跟我说话
+Dialogue: 0,0:03:47.55,0:03:50.48,Default,NTP,0,0,0,,也很担心水树老师
+Dialogue: 0,0:03:50.48,0:03:52.25,Default,NTP,0,0,0,,说你看起来没精神
+Dialogue: 0,0:03:56.23,0:03:57.47,Default,NTP,0,0,0,,话说 到底是什么啊
+Dialogue: 0,0:03:57.47,0:04:00.27,Default,NTP,0,0,0,,水树老师的烦恼
+Dialogue: 0,0:04:01.28,0:04:04.28,Default,NTP,0,0,0,,没什么 也不是什么大不了的事情
+Dialogue: 0,0:04:06.52,0:04:09.34,Default,NTP,0,0,0,,来 一起干吧
+Dialogue: 0,0:04:23.63,0:04:24.79,Default,NTP,0,0,0,,什么 
+Dialogue: 0,0:04:25.29,0:04:26.63,Default,NTP,0,0,0,,被摸了
+Dialogue: 0,0:04:27.55,0:04:28.96,Default,NTP,0,0,0,,谁
+Dialogue: 0,0:04:30.63,0:04:32.13,Default,NTP,0,0,0,,雾岛同学
+Dialogue: 0,0:04:32.62,0:04:34.60,Default,NTP,0,0,0,,为什么雾岛同学
+Dialogue: 0,0:04:35.25,0:04:38.52,Default,NTP,0,0,0,,不要 我怎么没穿衣服
+Dialogue: 0,0:04:40.27,0:04:42.88,Default,NTP,0,0,0,,不行 不要
+Dialogue: 0,0:04:49.58,0:04:54.68,Default,NTP,0,0,0,,不行 身体不听使唤了
+Dialogue: 0,0:04:56.34,0:04:58.35,Default,NTP,0,0,0,,被雾岛同学抚摸着
+Dialogue: 0,0:04:58.35,0:05:00.06,Default,NTP,0,0,0,,好有感觉
+Dialogue: 0,0:05:02.45,0:05:05.39,Default,NTP,0,0,0,,能听到自己心跳的声音
+Dialogue: 0,0:05:06.62,0:05:10.00,Default,NTP,0,0,0,,热热的东西要进来了
+Dialogue: 0,0:05:11.62,0:05:12.59,Default,NTP,0,0,0,,不会吧
+Dialogue: 0,0:05:12.59,0:05:16.36,Default,NTP,0,0,0,,我明明是第一次 但是却这么湿
+Dialogue: 0,0:05:17.18,0:05:20.06,Default,NTP,0,0,0,,这么有感觉
+Dialogue: 0,0:05:29.03,0:05:31.36,Default,NTP,0,0,0,,什么啊 梦吗
+Dialogue: 0,0:05:33.92,0:05:35.66,Default,NTP,0,0,0,,这是 不会是
+Dialogue: 0,0:05:37.69,0:05:40.40,Default,NTP,0,0,0,,喝多了然后...
+Dialogue: 0,0:05:53.60,0:05:55.64,Default,NTP,0,0,0,,不该喝那么多的
+Dialogue: 0,0:05:55.64,0:05:57.96,Default,NTP,0,0,0,,不过话说回来 
+Dialogue: 0,0:05:57.96,0:06:01.63,Default,NTP,0,0,0,,当时匆匆忙忙跑出来也没来得及问
+Dialogue: 0,0:06:01.63,0:06:03.60,Default,NTP,0,0,0,,是做了吧
+Dialogue: 0,0:06:04.81,0:06:09.81,Default,NTP,0,0,0,,啊 没脸见远藤老师了
+Dialogue: 0,0:06:12.24,0:06:13.57,Default,NTP,0,0,0,,请进
+Dialogue: 0,0:06:14.26,0:06:15.60,Default,NTP,0,0,0,,那个
+Dialogue: 0,0:06:16.20,0:06:18.63,Default,NTP,0,0,0,,远藤老师
+Dialogue: 0,0:06:18.63,0:06:22.05,Default,NTP,0,0,0,,水树老师 可以打扰一下吗
+Dialogue: 0,0:06:22.65,0:06:24.70,Default,NTP,0,0,0,,好的 请进
+Dialogue: 0,0:06:27.65,0:06:30.75,Default,NTP,0,0,0,,那个 就是 
+Dialogue: 0,0:06:31.29,0:06:34.37,Default,NTP,0,0,0,,好像很热呢
+Dialogue: 0,0:06:34.37,0:06:38.61,Default,NTP,0,0,0,,是啊 那个
+Dialogue: 0,0:06:41.73,0:06:43.31,Default,NTP,0,0,0,,那个 
+Dialogue: 0,0:06:46.55,0:06:49.36,Default,NTP,0,0,0,,就是之前的事情
+Dialogue: 0,0:06:50.55,0:06:54.55,Default,NTP,0,0,0,,对不起 我什么都不记得了
+Dialogue: 0,0:06:55.54,0:06:59.80,Default,NTP,0,0,0,,所以我想 如果可以的话 一起...
+Dialogue: 0,0:07:04.21,0:07:08.44,Default,NTP,0,0,0,,那 星期天在电影院门口见
+Dialogue: 0,0:07:16.46,0:07:19.61,Default,NTP,0,0,0,,这是邀请我约会吧
+Dialogue: 0,0:07:20.00,0:07:21.89,Default,NTP,0,0,0,,星期天吗
+Dialogue: 0,0:07:23.58,0:07:27.41,Default,NTP,0,0,0,,不行 要去图书馆还书了
+Dialogue: 0,0:07:43.84,0:07:45.97,Default,NTP,0,0,0,,果然是雾岛同学
+Dialogue: 0,0:07:45.97,0:07:49.47,Default,NTP,0,0,0,,戴着眼镜呢 真是意外
+Dialogue: 0,0:07:49.47,0:07:52.56,Default,NTP,0,0,0,,好认真呢
+Dialogue: 0,0:07:53.19,0:07:54.60,Default,NTP,0,0,0,,笑了
+Dialogue: 0,0:07:56.70,0:08:00.67,Default,NTP,0,0,0,,啊 在想事 好开心的样子
+Dialogue: 0,0:08:04.63,0:08:08.60,Default,NTP,0,0,0,,不知道雾岛同学跟吉成同学进展怎么样
+Dialogue: 0,0:08:21.61,0:08:24.13,Default,NTP,0,0,0,,我睡着了啊
+Dialogue: 0,0:08:24.13,0:08:25.63,Default,NTP,0,0,0,,不行啦
+Dialogue: 0,0:08:35.16,0:08:37.80,Default,NTP,0,0,0,,怎么样 想要了吧
+Dialogue: 0,0:08:39.81,0:08:41.12,Default,NTP,0,0,0,,想要
+Dialogue: 0,0:08:41.12,0:08:44.06,Default,NTP,0,0,0,,那就躺到桌子上吧
+Dialogue: 0,0:08:46.37,0:08:47.96,Default,NTP,0,0,0,,好 进去了哦
+Dialogue: 0,0:09:17.37,0:09:19.10,Default,NTP,0,0,0,,好 把屁股抬起来
+Dialogue: 0,0:09:40.28,0:09:42.95,Default,NTP,0,0,0,,去了 去了
+Dialogue: 0,0:09:46.53,0:09:48.46,Default,NTP,0,0,0,,去了
+Dialogue: 0,0:09:53.18,0:09:54.72,Default,NTP,0,0,0,,舒服极了
+Dialogue: 0,0:09:57.91,0:10:02.04,Default,NTP,0,0,0,,真是的 现在的孩子都不挑地方的
+Dialogue: 0,0:10:02.04,0:10:06.89,Default,NTP,0,0,0,,不过 在这种地方睡觉没被发现真是太好了
+Dialogue: 0,0:10:08.36,0:10:12.00,Default,NTP,0,0,0,,话说 这是谁帮我披上的啊
+Dialogue: 0,0:10:18.58,0:10:21.57,Default,NTP,0,0,0,,啊 雾岛同学你在干什么
+Dialogue: 0,0:10:24.42,0:10:26.85,Default,NTP,0,0,0,,我想拿点头痛药
+Dialogue: 0,0:10:26.85,0:10:29.21,Default,NTP,0,0,0,,水树老师不在吗
+Dialogue: 0,0:10:30.71,0:10:32.68,Default,NTP,0,0,0,,好像出门了
+Dialogue: 0,0:10:33.42,0:10:36.62,Default,NTP,0,0,0,,图书馆挺冷的就把制服给她披上了
+Dialogue: 0,0:10:36.62,0:10:39.74,Default,NTP,0,0,0,,但是不拿回来的话就回不去了啊
+Dialogue: 0,0:10:42.25,0:10:44.73,Default,NTP,0,0,0,,你已经喝药了吗
+Dialogue: 0,0:10:45.66,0:10:49.30,Default,NTP,0,0,0,,还没 我刚到
+Dialogue: 0,0:10:49.30,0:10:52.27,Default,NTP,0,0,0,,没事啦 头痛药而已
+Dialogue: 0,0:10:59.28,0:11:01.01,Default,NTP,0,0,0,,给 药和水
+Dialogue: 0,0:11:01.01,0:11:02.50,Default,NTP,0,0,0,,谢谢
+Dialogue: 0,0:11:05.26,0:11:08.76,Default,NTP,0,0,0,,你和吉成进展的怎么样啊
+Dialogue: 0,0:11:09.86,0:11:12.88,Default,NTP,0,0,0,,最近 感觉还不错啊
+Dialogue: 0,0:11:12.88,0:11:14.22,Default,NTP,0,0,0,,你们在交往吧
+Dialogue: 0,0:11:14.83,0:11:17.40,Default,NTP,0,0,0,,啊 虽然最近经常一起说话 
+Dialogue: 0,0:11:17.40,0:11:18.99,Default,NTP,0,0,0,,但是我们只是普通朋友
+Dialogue: 0,0:11:19.54,0:11:21.72,Default,NTP,0,0,0,,是吗
+Dialogue: 0,0:11:21.72,0:11:27.16,Default,NTP,0,0,0,,吉成还没有告白吗 她是认真的吧
+Dialogue: 0,0:11:27.94,0:11:30.26,Default,NTP,0,0,0,,游戏还有CD什么的
+Dialogue: 0,0:11:30.26,0:11:33.05,Default,NTP,0,0,0,,我们性格还挺合的
+Dialogue: 0,0:11:33.05,0:11:34.44,Default,NTP,0,0,0,,是吗
+Dialogue: 0,0:11:34.44,0:11:39.06,Default,NTP,0,0,0,,也许是雾岛太迟钝了吧
+Dialogue: 0,0:11:39.22,0:11:41.57,Default,NTP,0,0,0,,那 我先走了 
+Dialogue: 0,0:11:41.57,0:11:45.48,Default,NTP,0,0,0,,雾岛同学头痛的话 就现在这边睡一会儿吧
+Dialogue: 0,0:11:46.29,0:11:48.30,Default,NTP,0,0,0,,这么随便不太好吧
+Dialogue: 0,0:11:48.30,0:11:52.65,Default,NTP,0,0,0,,没事啦 水树老师也偶尔会在这里午休
+Dialogue: 0,0:11:58.74,0:12:01.32,Default,NTP,0,0,0,,是睡在这张床上吗
+Dialogue: 0,0:12:06.93,0:12:08.98,Default,NTP,0,0,0,,我在干什么呢
+Dialogue: 0,0:12:14.00,0:12:15.47,Default,NTP,0,0,0,,怎么啦 怎么啦
+Dialogue: 0,0:12:15.47,0:12:18.63,Default,NTP,0,0,0,,那件校服是怎么回事
+Dialogue: 0,0:12:18.63,0:12:21.41,Default,NTP,0,0,0,,没什么啦 只是刚巧放在一处的
+Dialogue: 0,0:12:21.41,0:12:23.08,Default,NTP,0,0,0,,请别碰
+Dialogue: 0,0:12:25.82,0:12:29.32,Default,NTP,0,0,0,,你有什么事要商量啊
+Dialogue: 0,0:12:31.19,0:12:32.75,Default,NTP,0,0,0,,就是 那个
+Dialogue: 0,0:12:32.75,0:12:36.04,Default,NTP,0,0,0,,难道是女性关系的话吗
+Dialogue: 0,0:12:36.04,0:12:37.23,Default,NTP,0,0,0,,你知道吗
+Dialogue: 0,0:12:37.23,0:12:38.58,Default,NTP,0,0,0,,嘛...
+Dialogue: 0,0:12:38.58,0:12:41.47,Default,NTP,0,0,0,,我想问问水树老师
+Dialogue: 0,0:12:42.35,0:12:44.47,Default,NTP,0,0,0,,我是不是很差啊
+Dialogue: 0,0:12:46.49,0:12:49.77,Default,NTP,0,0,0,,虽然开始进展得很顺利 但是到后来就不行了
+Dialogue: 0,0:12:53.91,0:12:56.76,Default,NTP,0,0,0,,对方也会找新的男人
+Dialogue: 0,0:12:56.76,0:12:58.53,Default,NTP,0,0,0,,我还是不行吧
+Dialogue: 0,0:12:58.53,0:13:01.09,Default,NTP,0,0,0,,明明只有那个做不到
+Dialogue: 0,0:13:01.09,0:13:05.48,Default,NTP,0,0,0,,那个 我觉得不只是这样吧
+Dialogue: 0,0:13:05.48,0:13:08.53,Default,NTP,0,0,0,,难道是我性格有问题吗
+Dialogue: 0,0:13:08.53,0:13:10.90,Default,NTP,0,0,0,,是这样啊
+Dialogue: 0,0:13:10.90,0:13:13.47,Default,NTP,0,0,0,,就算是我也会受伤的哈
+Dialogue: 0,0:13:13.47,0:13:15.65,Default,NTP,0,0,0,,我知道啦
+Dialogue: 0,0:13:17.57,0:13:20.55,Default,NTP,0,0,0,,那么 你愿意安慰我吗
+Dialogue: 0,0:13:20.55,0:13:23.64,Default,NTP,0,0,0,,这种事情 不可以啦
+Dialogue: 0,0:13:23.64,0:13:28.10,Default,NTP,0,0,0,,啊啦 你不记得那天跟我做了吗
+Dialogue: 0,0:13:28.10,0:13:30.39,Default,NTP,0,0,0,,明明那么有感觉
+Dialogue: 0,0:13:32.32,0:13:36.65,Default,NTP,0,0,0,,那么 大家都没穿衣服睡觉是...
+Dialogue: 0,0:13:36.65,0:13:38.63,Default,NTP,0,0,0,,是我脱的
+Dialogue: 0,0:13:49.76,0:13:52.67,Default,NTP,0,0,0,,水树老师回来了吗
+Dialogue: 0,0:14:10.29,0:14:12.28,Default,NTP,0,0,0,,不行 土屋老师
+Dialogue: 0,0:14:22.94,0:14:23.66,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:14:28.69,0:14:29.09,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:14:32.79,0:14:34.62,Default,NTP,0,0,0,,被看到了
+Dialogue: 0,0:14:48.72,0:14:52.37,Default,NTP,0,0,0,,那么 明天我请你吃午饭哦 谢谢
+Dialogue: 0,0:14:58.56,0:15:01.32,Default,NTP,0,0,0,,已经可以出来了
+Dialogue: 0,0:15:02.69,0:15:05.73,Default,NTP,0,0,0,,那个 水树老师
+Dialogue: 0,0:15:07.00,0:15:09.18,Default,NTP,0,0,0,,请你陪我一下哦
+Dialogue: 0,0:15:21.53,0:15:25.11,Default,NTP,0,0,0,,这就是水树老师家吗
+Dialogue: 0,0:15:33.48,0:15:37.63,Default,NTP,0,0,0,,怎么办 被雾岛同学看到了
+Dialogue: 0,0:15:39.40,0:15:43.26,Default,NTP,0,0,0,,说起来 你是从哪里开始看到的
+Dialogue: 0,0:15:45.15,0:15:47.36,Default,NTP,0,0,0,,那个 这个...
+Dialogue: 0,0:15:47.36,0:15:50.59,Default,NTP,0,0,0,,果然 全部看到了
+Dialogue: 0,0:15:50.59,0:15:55.01,Default,NTP,0,0,0,,那个 虽然比较特殊
+Dialogue: 0,0:15:55.01,0:15:56.16,Default,NTP,0,0,0,,但是也是咨询
+Dialogue: 0,0:15:56.16,0:15:58.98,Default,NTP,0,0,0,,果然跟传闻的一样啊
+Dialogue: 0,0:16:00.00,0:16:01.80,Default,NTP,0,0,0,,传闻是指
+Dialogue: 0,0:16:01.80,0:16:04.66,Default,NTP,0,0,0,,有传言说水树老师是蕾丝
+Dialogue: 0,0:16:07.84,0:16:10.16,Default,NTP,0,0,0,,谁说的啊这种事
+Dialogue: 0,0:16:14.40,0:16:17.65,Default,NTP,0,0,0,,谁啊 是快递吗
+Dialogue: 0,0:16:20.48,0:16:23.58,Default,NTP,0,0,0,,老师 我们来玩了哦
+Dialogue: 0,0:16:25.00,0:16:27.72,Default,NTP,0,0,0,,开门啊 老师
+Dialogue: 0,0:16:25.22,0:16:27.34,Default,NTP,0,0,0,,快藏起来 雾岛同学
+Dialogue: 0,0:16:31.38,0:16:33.39,Default,NTP,0,0,0,,老师
+Dialogue: 0,0:16:34.22,0:16:36.11,Default,NTP,0,0,0,,你们啊
+Dialogue: 0,0:16:36.41,0:16:40.30,Default,NTP,0,0,0,,听我说啊 水树老师
+Dialogue: 0,0:16:40.30,0:16:43.59,Default,NTP,0,0,0,,好好 不要再喝了
+Dialogue: 0,0:16:43.59,0:16:49.48,Default,NTP,0,0,0,,雾岛这个笨蛋 明明我都这么明显了
+Dialogue: 0,0:16:49.48,0:16:52.49,Default,NTP,0,0,0,,他却完全没发现
+Dialogue: 0,0:17:01.00,0:17:02.77,Default,NTP,0,0,0,,嘛 算了吧
+Dialogue: 0,0:17:02.77,0:17:08.23,Default,NTP,0,0,0,,没想到女生是这样想的啊
+Dialogue: 0,0:17:26.82,0:17:28.67,Default,NTP,0,0,0,,你没发现吗
+Dialogue: 0,0:17:29.20,0:17:31.96,Default,NTP,0,0,0,,我一直以为我们只是朋友 而且
+Dialogue: 0,0:17:31.96,0:17:34.50,Default,NTP,0,0,0,,是有喜欢的人了吗
+Dialogue: 0,0:17:34.50,0:17:37.73,Default,NTP,0,0,0,,嘛 有在意的人
+Dialogue: 0,0:17:37.73,0:17:39.66,Default,NTP,0,0,0,,是吗
+Dialogue: 0,0:17:40.25,0:17:42.83,Default,NTP,0,0,0,,如果喜欢不去追求怎么行呢
+Dialogue: 0,0:17:43.59,0:17:46.32,Default,NTP,0,0,0,,但是 那个人很迟钝
+Dialogue: 0,0:17:46.32,0:17:50.27,Default,NTP,0,0,0,,那就冲上去把她扑倒啊
+Dialogue: 0,0:17:50.27,0:17:51.58,Default,NTP,0,0,0,,比我年长
+Dialogue: 0,0:17:51.58,0:17:53.51,Default,NTP,0,0,0,,如果喜欢的话就不在乎了吧
+Dialogue: 0,0:17:53.51,0:17:55.09,Default,NTP,0,0,0,,传言说她是蕾丝
+Dialogue: 0,0:17:55.09,0:17:57.83,Default,NTP,0,0,0,,那就告诉她男人的好啊
+Dialogue: 0,0:17:57.83,0:17:58.98,Default,NTP,0,0,0,,又是老师
+Dialogue: 0,0:17:58.98,0:18:02.15,Default,NTP,0,0,0,,我也对作为学生的你
+Dialogue: 0,0:18:05.41,0:18:09.30,Default,NTP,0,0,0,,在意的人 难道是土屋老师
+Dialogue: 0,0:18:09.50,0:18:10.89,Default,NTP,0,0,0,,不是吗
+Dialogue: 0,0:18:11.09,0:18:13.32,Default,NTP,0,0,0,,真迟钝
+Dialogue: 0,0:18:19.93,0:18:23.16,Default,NTP,0,0,0,,这位老师是蕾丝的传言
+Dialogue: 0,0:18:23.95,0:18:25.67,Default,NTP,0,0,0,,那是 
+Dialogue: 0,0:18:27.00,0:18:29.44,Default,NTP,0,0,0,,确认一下不就知道了吗
+Dialogue: 0,0:18:30.79,0:18:31.19,Default,NTP,0,0,0,,老师
+Dialogue: 0,0:18:41.57,0:18:44.71,Default,NTP,0,0,0,,心跳得好快
+Dialogue: 0,0:18:44.71,0:18:46.88,Default,NTP,0,0,0,,虽然好害羞
+Dialogue: 0,0:18:46.88,0:18:52.94,Default,NTP,0,0,0,,但是身体被抚摸的地方像是要被灼伤一般热
+Dialogue: 0,0:18:56.61,0:18:59.15,Default,NTP,0,0,0,,讨厌啦 我怎么这么快就湿了
+Dialogue: 0,0:19:00.00,0:19:02.70,Default,NTP,0,0,0,,老师 我 已经
+Dialogue: 0,0:19:02.70,0:19:06.10,Default,NTP,0,0,0,,进来吧 雾岛同学
+Dialogue: 0,0:19:07.59,0:19:09.45,Default,NTP,0,0,0,,好痛
+Dialogue: 0,0:19:09.45,0:19:12.43,Default,NTP,0,0,0,,老师 没事吧
+Dialogue: 0,0:19:15.00,0:19:17.43,Default,NTP,0,0,0,,没事 随你喜欢的做吧
+Dialogue: 0,0:19:37.00,0:19:38.84,Default,NTP,0,0,0,,不要 不要
+Dialogue: 0,0:20:06.25,0:20:08.77,Default,NTP,0,0,0,,老师 我 要
+Dialogue: 0,0:20:08.77,0:20:10.56,Default,NTP,0,0,0,,不要 
+Dialogue: 0,0:20:12.00,0:20:12.60,Default,NTP,0,0,0,,要去了
+Dialogue: 0,0:20:24.43,0:20:27.11,Default,NTP,0,0,0,,水树老师
+Dialogue: 0,0:20:27.11,0:20:28.94,Default,NTP,0,0,0,,早啊
+Dialogue: 0,0:20:29.69,0:20:33.43,Default,NTP,0,0,0,,土屋老师 早上好
+Dialogue: 0,0:20:36.22,0:20:38.83,Default,NTP,0,0,0,,怎么啦
+Dialogue: 0,0:20:38.83,0:20:41.21,Default,NTP,0,0,0,,感觉水树老师今天好漂亮啊
+Dialogue: 0,0:20:41.21,0:20:42.66,Default,NTP,0,0,0,,换装了吗
+Dialogue: 0,0:20:42.66,0:20:46.76,Default,NTP,0,0,0,,没有啊 跟平时一样啊
+Dialogue: 0,0:20:47.66,0:20:49.34,Default,NTP,0,0,0,,太可疑了
+Dialogue: 0,0:20:49.34,0:20:51.16,Default,NTP,0,0,0,,是不是有男朋友
+Dialogue: 0,0:20:51.16,0:20:53.20,Default,NTP,0,0,0,,不 不是啦
+Dialogue: 0,0:20:55.53,0:20:58.20,Default,NTP,0,0,0,,就让我慢慢拷问你吧
+Dialogue: 0,0:20:58.20,0:21:01.83,Default,NTP,0,0,0,,不是啦 土屋老师
+Dialogue: 0,0:21:01.83,0:21:04.41,Default,NTP,0,0,0,,给我站住
+Dialogue: 0,0:21:10.19,0:21:14.63,Default,NTP,0,0,0,,明明是也一样的便当\N但是味道感觉跟平时不一样了
+Dialogue: 0,0:21:16.52,0:21:17.28,Default,NTP,0,0,0,,请进
+Dialogue: 0,0:21:18.65,0:21:22.49,Default,NTP,0,0,0,,水树老师 可以打扰一下吗
+Dialogue: 0,0:21:23.01,0:21:25.50,Default,NTP,0,0,0,,可以 请进
+Dialogue: 0,0:21:29.75,0:21:34.11,Default,NTP,0,0,0,,那个 就是之前电影的碰面时间
+Dialogue: 0,0:21:34.11,0:21:37.22,Default,NTP,0,0,0,,吃完饭之后再去看吧
+Dialogue: 0,0:21:38.61,0:21:39.63,Default,NTP,0,0,0,,好吧
+Dialogue: 0,0:21:39.63,0:21:43.73,Default,NTP,0,0,0,,所以我们在中午碰面怎么样
+Dialogue: 0,0:21:43.73,0:21:47.30,Default,NTP,0,0,0,,好吧
+Dialogue: 0,0:21:47.30,0:21:51.43,Default,NTP,0,0,0,,那碰面的地方就在车站前的咖啡馆
+Dialogue: 0,0:21:52.64,0:21:54.41,Default,NTP,0,0,0,,那我先走了 星期天见
+Dialogue: 0,0:21:55.32,0:21:58.14,Default,NTP,0,0,0,,啊 好的
+Dialogue: 0,0:22:01.00,0:22:03.49,Default,NTP,0,0,0,,吃饭而已 没事吧
+Dialogue: 0,0:22:05.58,0:22:07.31,Default,NTP,0,0,0,,水树老师
+Dialogue: 0,0:22:07.31,0:22:10.21,Default,NTP,0,0,0,,怎么啦 吉成同学
+Dialogue: 0,0:22:15.84,0:22:17.69,Default,NTP,0,0,0,,你讨厌我吗
+Dialogue: 0,0:22:18.48,0:22:21.96,Default,NTP,0,0,0,,对不起 我没那样想过
+Dialogue: 0,0:22:23.59,0:22:25.60,Default,NTP,0,0,0,,也就是说 那个
+Dialogue: 0,0:22:25.60,0:22:27.01,Default,NTP,0,0,0,,被甩了
+Dialogue: 0,0:22:28.26,0:22:30.44,Default,NTP,0,0,0,,你也不要那么消沉啦
+Dialogue: 0,0:22:30.44,0:22:33.61,Default,NTP,0,0,0,,没关系的 我也有感觉到
+Dialogue: 0,0:22:33.61,0:22:38.83,Default,NTP,0,0,0,,啊啊 如果雾岛是初体验的对象就好了
+Dialogue: 0,0:22:40.57,0:22:44.01,Default,NTP,0,0,0,,然后 水树老师 
+Dialogue: 0,0:22:45.55,0:22:47.96,Default,NTP,0,0,0,,请让我忘记吧
+Dialogue: 0,0:22:47.96,0:22:49.57,Default,NTP,0,0,0,,雾岛同学的事
+Dialogue: 0,0:22:50.79,0:22:52.22,Default,NTP,0,0,0,,可以吧 
+Dialogue: 0,0:22:53.49,0:22:55.12,Default,NTP,0,0,0,,水树老师
+Dialogue: 0,0:23:00.67,0:23:02.77,Default,NTP,0,0,0,,吉成同学 那个
+Dialogue: 0,0:23:02.77,0:23:05.78,Default,NTP,0,0,0,,我可以随便做吧
+Dialogue: 0,0:23:08.19,0:23:11.66,Default,NTP,0,0,0,,如果那样就满足的话就随便了
+Dialogue: 0,0:23:27.93,0:23:31.35,Default,NTP,0,0,0,,明明都是女生 为什么会这么
+Dialogue: 0,0:23:35.67,0:23:38.19,Default,NTP,0,0,0,,那里变热了
+Dialogue: 0,0:23:44.12,0:23:48.22,Default,NTP,0,0,0,,湿湿的互相摩擦 好舒服
+Dialogue: 0,0:23:56.08,0:23:59.13,Default,NTP,0,0,0,,我走了 谢谢水树老师
+Dialogue: 0,0:23:59.13,0:24:01.79,Default,NTP,0,0,0,,感觉舒服多了
+Dialogue: 0,0:24:05.00,0:24:06.88,Default,NTP,0,0,0,,好累
+Dialogue: 0,0:24:06.88,0:24:10.59,Default,NTP,0,0,0,,怎么啦 水树老师 看起来好累的样子
+Dialogue: 0,0:24:11.29,0:24:14.91,Default,NTP,0,0,0,,没有啊
+Dialogue: 0,0:24:14.91,0:24:18.87,Default,NTP,0,0,0,,对了 我想跟老师一起去个地方
+Dialogue: 0,0:24:18.87,0:24:21.71,Default,NTP,0,0,0,,星期天 有空吗
+Dialogue: 0,0:24:22.63,0:24:24.87,Default,NTP,0,0,0,,星期天
+Dialogue: 0,0:24:41.51,0:24:46.64,Default,NTP,0,0,0,,那个 跟雾岛同学约好是在4点
+Dialogue: 0,0:24:46.64,0:24:49.19,Default,NTP,0,0,0,,看完电影再去也来得及吧
+Dialogue: 0,0:24:49.19,0:24:51.35,Default,NTP,0,0,0,,已经约好了也没办法了
+Dialogue: 0,0:24:59.23,0:25:02.14,Default,NTP,0,0,0,,对不起 水树老师 让你久等了
+Dialogue: 0,0:25:02.14,0:25:05.72,Default,NTP,0,0,0,,没有 我只是早到了点
+Dialogue: 0,0:25:05.72,0:25:08.70,Default,NTP,0,0,0,,还有一点时间呢
+Dialogue: 0,0:25:09.58,0:25:14.13,Default,NTP,0,0,0,,提前1个小时去电影院就行了
+Dialogue: 0,0:25:14.13,0:25:16.66,Default,NTP,0,0,0,,请问要点什么
+Dialogue: 0,0:25:16.66,0:25:18.56,Default,NTP,0,0,0,,请给我一杯咖啡
+Dialogue: 0,0:25:18.56,0:25:19.96,Default,NTP,0,0,0,,马上为您效劳
+Dialogue: 0,0:25:22.24,0:25:25.35,Default,NTP,0,0,0,,很久没去过电影院呢
+Dialogue: 0,0:25:34.63,0:25:35.90,Default,NTP,0,0,0,,雾岛同学
+Dialogue: 0,0:25:35.90,0:25:38.76,Default,NTP,0,0,0,,怎么了嘛 水树老师
+Dialogue: 0,0:25:38.76,0:25:40.79,Default,NTP,0,0,0,,没 没事 
+Dialogue: 0,0:25:41.22,0:25:43.76,Default,NTP,0,0,0,,如果饿了的话要吃点什么吗
+Dialogue: 0,0:25:43.76,0:25:45.78,Default,NTP,0,0,0,,啊 是啊 
+Dialogue: 0,0:25:46.70,0:25:49.09,Default,NTP,0,0,0,,那 要
+Dialogue: 0,0:25:52.55,0:25:54.00,Default,NTP,0,0,0,,要什么
+Dialogue: 0,0:25:54.00,0:25:56.91,Default,NTP,0,0,0,,那就这个牛奶浓汤吧
+Dialogue: 0,0:25:56.91,0:26:02.33,Default,NTP,0,0,0,,不行啊 雾岛同学 在这种地方
+Dialogue: 0,0:26:09.00,0:26:12.74,Default,NTP,0,0,0,,不要 我真是的 到底在做什么
+Dialogue: 0,0:26:13.76,0:26:16.35,Default,NTP,0,0,0,,没事吧 水树老师 
+Dialogue: 0,0:26:17.00,0:26:18.56,Default,NTP,0,0,0,,啊 没事
+Dialogue: 0,0:26:22.89,0:26:25.04,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:26:34.54,0:26:37.48,Default,NTP,0,0,0,,那个 水树老师
+Dialogue: 0,0:26:38.89,0:26:40.73,Default,NTP,0,0,0,,谢谢惠顾
+Dialogue: 0,0:26:44.60,0:26:48.15,Default,NTP,0,0,0,,那个 远藤老师 对不起
+Dialogue: 0,0:26:48.15,0:26:54.72,Default,NTP,0,0,0,,我有喜欢的人了 对不起 远藤老师
+Dialogue: 0,0:26:55.33,0:26:55.93,Default,NTP,0,0,0,,那个
+Dialogue: 0,0:27:06.14,0:27:07.29,Default,NTP,0,0,0,,对不起 
+Dialogue: 0,0:27:08.34,0:27:09.91,Default,NTP,0,0,0,,你生气了
+Dialogue: 0,0:27:09.91,0:27:14.61,Default,NTP,0,0,0,,我想了想 我好像还没有问老师的想法呢
+Dialogue: 0,0:27:14.61,0:27:16.81,Default,NTP,0,0,0,,说了哦 
+Dialogue: 0,0:27:19.70,0:27:25.94,Default,NTP,0,0,0,,我说了 跟远藤老师说有喜欢的人了
+Dialogue: 0,0:27:30.00,0:27:31.67,Default,NTP,0,0,0,,水树老师 
+Dialogue: 0,0:27:33.00,0:27:36.61,Default,NTP,0,0,0,,我有个请求 你愿意听吗
+Dialogue: 0,0:27:36.61,0:27:37.87,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:27:42.89,0:27:46.75,Default,NTP,0,0,0,,为什么大白天的要来这种地方啊
+Dialogue: 0,0:27:46.75,0:27:49.61,Default,NTP,0,0,0,,是你答应我的啊
+Dialogue: 0,0:27:50.84,0:27:52.66,Default,NTP,0,0,0,,虽然是这样
+Dialogue: 0,0:27:53.70,0:27:56.60,Default,NTP,0,0,0,,那个 一起
+Dialogue: 0,0:28:00.67,0:28:03.49,Default,NTP,0,0,0,,真是的 在想什么啊 
+Dialogue: 0,0:28:03.49,0:28:06.07,Default,NTP,0,0,0,,想一起洗澡什么的
+Dialogue: 0,0:28:07.47,0:28:08.63,Default,NTP,0,0,0,,老师
+Dialogue: 0,0:28:11.12,0:28:12.59,Default,NTP,0,0,0,,我帮你洗吧
+Dialogue: 0,0:28:35.77,0:28:36.77,Default,NTP,0,0,0,,不行吗
+Dialogue: 0,0:28:36.77,0:28:39.77,Default,NTP,0,0,0,,可以哦
+Dialogue: 0,0:29:06.30,0:29:10.43,Default,NTP,0,0,0,,好舒服 要去了
+Dialogue: 0,0:29:14.64,0:29:16.56,Default,NTP,0,0,0,,那个 我说雾岛同学啊 
+Dialogue: 0,0:29:16.56,0:29:17.32,Default,NTP,0,0,0,,是
+Dialogue: 0,0:29:17.32,0:29:19.44,Default,NTP,0,0,0,,还挺色的哦
+Dialogue: 0,0:29:19.44,0:29:21.49,Default,NTP,0,0,0,,好像很习惯这种事了
+Dialogue: 0,0:29:22.26,0:29:25.64,Default,NTP,0,0,0,,老师不喜欢吗 这种事
+Dialogue: 0,0:29:26.08,0:29:27.35,Default,NTP,0,0,0,,讨厌
+Dialogue: 0,0:29:31.24,0:29:33.43,Default,NTP,0,0,0,,是不是被忘记啦
+Dialogue: 0,0:29:37.05,0:29:40.35,Default,NTP,0,0,0,,为了补偿可怜的远藤老师
+Dialogue: 0,0:29:40.35,0:29:42.67,Default,NTP,0,0,0,,我们准备了下面的故事
+Dialogue: 0,0:29:54.00,0:29:55.83,Default,NTP,0,0,0,,远藤老师
+Dialogue: 0,0:29:56.19,0:29:59.46,Default,NTP,0,0,0,,怎么啦 竹内 这么慌张
+Dialogue: 0,0:30:00.07,0:30:02.54,Default,NTP,0,0,0,,关于下节课的准备
+Dialogue: 0,0:30:02.54,0:30:04.90,Default,NTP,0,0,0,,啊 那个啊
+Dialogue: 0,0:30:05.39,0:30:07.58,Default,NTP,0,0,0,,真辛苦啊
+Dialogue: 0,0:30:07.58,0:30:10.53,Default,NTP,0,0,0,,教育实习生的的指导
+Dialogue: 0,0:30:11.18,0:30:15.06,Default,NTP,0,0,0,,我也想要带女孩子啊
+Dialogue: 0,0:30:15.06,0:30:16.99,Default,NTP,0,0,0,,就算人家很可爱
+Dialogue: 0,0:30:16.99,0:30:19.59,Default,NTP,0,0,0,,你也别想要出手哦
+Dialogue: 0,0:30:19.59,0:30:22.71,Default,NTP,0,0,0,,没有啦
+Dialogue: 0,0:30:22.71,0:30:25.80,Default,NTP,0,0,0,,有传言说你对女学生们下手了哦
+Dialogue: 0,0:30:28.73,0:30:31.59,Default,NTP,0,0,0,,那只要准备资料就可以了是吧
+Dialogue: 0,0:30:32.19,0:30:34.78,Default,NTP,0,0,0,,还有 上次的作业有收好吗
+Dialogue: 0,0:30:35.50,0:30:37.00,Default,NTP,0,0,0,,忘记了啊
+Dialogue: 0,0:30:37.00,0:30:38.65,Default,NTP,0,0,0,,我马上去收
+Dialogue: 0,0:30:38.65,0:30:39.72,Default,NTP,0,0,0,,危险
+Dialogue: 0,0:30:41.29,0:30:42.15,Default,NTP,0,0,0,,没事吧 
+Dialogue: 0,0:30:42.80,0:30:46.82,Default,NTP,0,0,0,,不用那么急 慢慢来就好
+Dialogue: 0,0:30:47.48,0:30:48.53,Default,NTP,0,0,0,,是
+Dialogue: 0,0:30:51.41,0:30:55.95,Default,NTP,0,0,0,,这样 教育实习慢慢的就过去了
+Dialogue: 0,0:30:58.00,0:31:00.96,Default,NTP,0,0,0,,竹内老师 你有男朋友吗
+Dialogue: 0,0:31:03.14,0:31:07.59,Default,NTP,0,0,0,,没有呢 有没有好男人啊
+Dialogue: 0,0:31:07.59,0:31:09.46,Default,NTP,0,0,0,,远藤老师怎么样啊
+Dialogue: 0,0:31:09.68,0:31:13.25,Default,NTP,0,0,0,,听说他之前被土屋老师甩了
+Dialogue: 0,0:31:14.66,0:31:18.69,Default,NTP,0,0,0,,我听说他跟水树老师关系很好呢
+Dialogue: 0,0:31:20.08,0:31:21.88,Default,NTP,0,0,0,,是这样吗
+Dialogue: 0,0:31:22.41,0:31:26.17,Default,NTP,0,0,0,,然后 教育实习的最后一天
+Dialogue: 0,0:31:41.09,0:31:45.49,Default,NTP,0,0,0,,远藤老师 受您照顾了
+Dialogue: 0,0:31:45.49,0:31:48.38,Default,NTP,0,0,0,,辛苦了 你做的很好哦
+Dialogue: 0,0:31:50.09,0:31:51.47,Default,NTP,0,0,0,,是这样吗
+Dialogue: 0,0:31:51.47,0:31:55.05,Default,NTP,0,0,0,,是啊 做得很好哦 竹内老师
+Dialogue: 0,0:31:55.05,0:31:57.02,Default,NTP,0,0,0,,做得很好哦 竹内老师
+Dialogue: 0,0:31:57.98,0:32:01.88,Default,NTP,0,0,0,,是吧 水树老师
+Dialogue: 0,0:32:04.00,0:32:06.44,Default,NTP,0,0,0,,今天就痛快的喝吧
+Dialogue: 0,0:32:06.44,0:32:10.13,Default,NTP,0,0,0,,啊 我 不怎么会喝酒
+Dialogue: 0,0:32:11.74,0:32:13.67,Default,NTP,0,0,0,,不要这样说啦
+Dialogue: 0,0:32:17.30,0:32:20.29,Default,NTP,0,0,0,,麻烦你送她到车站哦
+Dialogue: 0,0:32:21.00,0:32:22.50,Default,NTP,0,0,0,,真是困扰啊
+Dialogue: 0,0:32:22.50,0:32:23.89,Default,NTP,0,0,0,,走了哦 
+Dialogue: 0,0:32:25.83,0:32:28.12,Default,NTP,0,0,0,,没事吧 竹内
+Dialogue: 0,0:32:29.95,0:32:33.82,Default,NTP,0,0,0,,远藤老师 接下来我们去哪里喝啊
+Dialogue: 0,0:32:33.82,0:32:37.52,Default,NTP,0,0,0,,你在说什么呢 明明醉成这样了
+Dialogue: 0,0:32:37.52,0:32:41.69,Default,NTP,0,0,0,,什么啊 你是不想喝我的酒吗 
+Dialogue: 0,0:32:41.89,0:32:44.18,Default,NTP,0,0,0,,竹内是这样的性格吗
+Dialogue: 0,0:32:45.21,0:32:47.76,Default,NTP,0,0,0,,好啦 好啦 来这边
+Dialogue: 0,0:32:53.20,0:32:57.86,Default,NTP,0,0,0,,那个 竹内 这种事情不太好吧
+Dialogue: 0,0:32:59.00,0:33:03.19,Default,NTP,0,0,0,,随便啦 远藤老师的想法
+Dialogue: 0,0:33:05.07,0:33:09.46,Default,NTP,0,0,0,,女生如果喜欢上了 也是会想要的
+Dialogue: 0,0:33:10.57,0:33:12.58,Default,NTP,0,0,0,,要什么啊
+Dialogue: 0,0:33:12.58,0:33:13.66,Default,NTP,0,0,0,,好了
+Dialogue: 0,0:33:14.56,0:33:16.22,Default,NTP,0,0,0,,等一下 不行
+Dialogue: 0,0:33:18.76,0:33:21.44,Default,NTP,0,0,0,,远藤老师好有精神呢
+Dialogue: 0,0:33:21.59,0:33:23.25,Default,NTP,0,0,0,,这个...
+Dialogue: 0,0:33:23.25,0:33:26.24,Default,NTP,0,0,0,,好好吃的样子 我开动了
+Dialogue: 0,0:33:36.25,0:33:38.96,Default,NTP,0,0,0,,远藤老师也来
+Dialogue: 0,0:33:49.85,0:33:50.51,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:34:00.29,0:34:03.77,Default,NTP,0,0,0,,都湿到内裤上了
+Dialogue: 0,0:34:06.00,0:34:08.09,Default,NTP,0,0,0,,老师 那里好舒服
+Dialogue: 0,0:34:08.10,0:34:10.61,Default,NTP,0,0,0,,那个 竹内
+Dialogue: 0,0:34:15.91,0:34:18.53,Default,NTP,0,0,0,,可以哦 这样进来吧
+Dialogue: 0,0:34:19.54,0:34:21.44,Default,NTP,0,0,0,,填满我
+Dialogue: 0,0:34:41.00,0:34:44.68,Default,NTP,0,0,0,,不行 要去了
+Dialogue: 0,0:34:45.08,0:34:47.36,Default,NTP,0,0,0,,去了
+Dialogue: 0,0:34:49.24,0:34:52.16,Default,NTP,0,0,0,,肯定被吃掉了吧 远藤老师
+Dialogue: 0,0:34:52.61,0:34:55.94,Default,NTP,0,0,0,,竹内表现得很露骨嘛
+Dialogue: 0,0:34:56.76,0:34:59.02,Default,NTP,0,0,0,,那个 竹内
+Dialogue: 0,0:35:01.26,0:35:03.90,Default,NTP,0,0,0,,还想要 不行吗
+Dialogue: 0,0:35:03.90,0:35:07.43,Default,NTP,0,0,0,,不 不是不行啦
+Dialogue: 0,0:35:08.00,0:35:09.15,Default,NTP,0,0,0,,不行吗
+Dialogue: 0,0:35:09.15,0:35:12.43,Default,NTP,0,0,0,,不 不是不行啦
+Dialogue: 0,0:35:12.43,0:35:16.74,Default,NTP,0,0,0,,走吧走吧 接下来去水树老师家继续喝
+Dialogue: 0,0:35:16.74,0:35:18.06,Default,NTP,0,0,0,,真是的

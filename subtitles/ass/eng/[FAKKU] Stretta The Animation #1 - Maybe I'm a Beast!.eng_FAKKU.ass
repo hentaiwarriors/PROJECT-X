@@ -1,0 +1,179 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base01,Arial Narrow,20,&H00F7F7F7,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,9,1
+Style: Base02,Arial Narrow,35,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,7,1
+Style: Base03,Arial Narrow,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,134,1
+Style: Base04,Arial Narrow,30,&H00E1E5EB,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.51,0:00:12.01,Base01,,0,0,0,,Welcome back,
+Dialogue: 0,0:00:14.68,0:00:16.11,Base01,,0,0,0,,Master.
+Dialogue: 0,0:00:16.51,0:00:21.88,Base01,,0,0,0,,Master" you say.. so this is your part time job at the cafe?
+Dialogue: 0,0:00:22.12,0:00:25.92,Base01,,0,0,0,,Yes. Am I cute, master?
+Dialogue: 0,0:00:27.42,0:00:28.96,Base01,,0,0,0,,You don't have to call me master-
+Dialogue: 0,0:00:28.96,0:00:33.03,Base01,,0,0,0,,This is a maid cafe, so you don't have to be so reserved,
+Dialogue: 0,0:00:33.50,0:00:36.53,Base01,,0,0,0,,Master.
+Dialogue: 0,0:00:39.87,0:00:43.67,Base01,,0,0,0,,Master, may I take your order?
+Dialogue: 0,0:00:44.44,0:00:49.04,Base01,,0,0,0,,Ah, yeah. Let's see... what is this thing called "special service"?
+Dialogue: 0,0:00:49.54,0:00:53.45,Base01,,0,0,0,,Ehh! Special service?!
+Dialogue: 0,0:00:53.68,0:00:58.35,Base01,,0,0,0,,Uh, well... if it's not available I can go with something else...
+Dialogue: 0,0:00:58.82,0:01:00.49,Base01,,0,0,0,,Got your order!
+Dialogue: 0,0:01:00.69,0:01:03.56,Base01,,0,0,0,,Please wait a moment, master.
+Dialogue: 0,0:01:08.33,0:01:10.40,Base01,,0,0,0,,Mikura-san, what are you doing?!
+Dialogue: 0,0:01:11.23,0:01:14.40,Base01,,0,0,0,,I'm... preparing.
+Dialogue: 0,0:01:15.14,0:01:18.41,Base01,,0,0,0,,Please wait just a little longer, okay?
+Dialogue: 0,0:01:33.05,0:01:35.92,Base01,,0,0,0,,Sorry for the wait, master.
+Dialogue: 0,0:01:36.36,0:01:39.76,Base01,,0,0,0,,M-Mikura-san, that getup is...
+Dialogue: 0,0:01:43.06,0:01:45.07,Base01,,0,0,0,,You don't like it?
+Dialogue: 0,0:01:46.53,0:01:49.04,Base01,,0,0,0,,I did try my best...
+Dialogue: 0,0:01:51.27,0:01:54.31,Base01,,0,0,0,,N-No, that's not what I meant...
+Dialogue: 0,0:01:56.24,0:02:00.45,Base01,,0,0,0,,Ah, thank goodness! It's getting bigger.
+Dialogue: 0,0:02:01.72,0:02:04.28,Base01,,0,0,0,,That's uh, I mean...!
+Dialogue: 0,0:02:10.56,0:02:15.33,Base01,,0,0,0,,Well then, I'll start the special service, master!
+Dialogue: 0,0:02:20.27,0:02:29.54,Base02,,0,0,0,,{\pos(188,85)}Stretta: The Animation
+Dialogue: 0,0:02:22.14,0:02:29.54,Base03,,0,0,0,,{\pos(135,212)}Contents. 1 [ Maybe I'm a Breast ]
+Dialogue: 0,0:02:37.75,0:02:41.46,Base01,,0,0,0,,Hey, Ruma! You wanna go for some shopping after this?
+Dialogue: 0,0:02:42.29,0:02:46.09,Base01,,0,0,0,,Sorry! I'm on lunch duty today.
+Dialogue: 0,0:02:46.53,0:02:50.16,Base01,,0,0,0,,Hmm? By the way, those clothes...
+Dialogue: 0,0:02:50.17,0:02:50.60,Base01,,0,0,0,,Eh?
+Dialogue: 0,0:02:52.37,0:02:54.54,Base01,,0,0,0,,No matter how you look at it...
+Dialogue: 0,0:02:56.67,0:02:59.01,Base01,,0,0,0,,Aren't they too... extreme?
+Dialogue: 0,0:03:02.51,0:03:03.74,Base01,,0,0,0,,Really.
+Dialogue: 0,0:03:09.05,0:03:11.82,Base01,,0,0,0,,See? There's nothing wrong with it.
+Dialogue: 0,0:03:11.82,0:03:12.65,Base01,,0,0,0,,See ya!
+Dialogue: 0,0:03:17.93,0:03:20.69,Base01,,0,0,0,,I wonder why she's in such a hurry...
+Dialogue: 0,0:03:28.27,0:03:31.77,Base01,,0,0,0,,Amazing, master! It's so hot and big...
+Dialogue: 0,0:03:39.25,0:03:41.52,Base01,,0,0,0,,Does it feel good, master?
+Dialogue: 0,0:03:42.25,0:03:46.02,Base01,,0,0,0,,Ah, I'm sorry! You want more don't you, masted?
+Dialogue: 0,0:04:03.97,0:04:07.88,Base01,,0,0,0,,Please, master, allow me to lick your penis directly.
+Dialogue: 0,0:04:11.85,0:04:15.48,Base01,,0,0,0,,Ahh, it's so big!
+Dialogue: 0,0:04:15.48,0:04:19.02,Base01,,0,0,0,,Well then, I,ll start servicing your penis with my mouth.
+Dialogue: 0,0:04:55.42,0:05:00.23,Base01,,0,0,0,,Mi-Mikura-san, this is really... good...
+Dialogue: 0,0:05:01.50,0:05:08.77,Base01,,0,0,0,,Master... this time, please make me feel good too...
+Dialogue: 0,0:05:12.21,0:05:14.44,Base01,,0,0,0,,M-Mikura-san...
+Dialogue: 0,0:05:14.44,0:05:18.75,Base01,,0,0,0,,My love juice... is also special service.
+Dialogue: 0,0:05:20.58,0:05:24.79,Base01,,0,0,0,,Please lick it all, master.
+Dialogue: 0,0:06:44.10,0:06:49.47,Base01,,0,0,0,,Master... you're so good at... licking...
+Dialogue: 0,0:06:51.77,0:06:56.64,Base01,,0,0,0,,I-I'm supposed to be the one servicing you, but...
+Dialogue: 0,0:06:58.81,0:07:03.22,Base01,,0,0,0,,I-I'm sorry, it feels so good I...
+Dialogue: 0,0:07:05.02,0:07:07.39,Base01,,0,0,0,,I'm... gonna...
+Dialogue: 0,0:07:11.03,0:07:17.83,Base01,,0,0,0,,Go ahead, I'll take every last drop of it! All of it. shoot it all!
+Dialogue: 0,0:07:30.51,0:07:34.15,Base01,,0,0,0,,Did you feelgood, master?
+Dialogue: 0,0:07:45.36,0:07:49.66,Base01,,0,0,0,,Ah, you're still so hard. That's good.
+Dialogue: 0,0:07:49.93,0:07:55.44,Base01,,0,0,0,,Mikura-san, if you touch it like that\NI'll want to... again, uh, you know...
+Dialogue: 0,0:07:57.31,0:08:02.68,Base01,,0,0,0,,You know, umm... no one will be home today.
+Dialogue: 0,0:08:03.75,0:08:05.01,Base01,,0,0,0,,Wanna come over?
+Dialogue: 0,0:08:14.19,0:08:14.76,Base01,,0,0,0,,Hmm?
+Dialogue: 0,0:08:18.03,0:08:20.06,Base01,,0,0,0,,Please choose the photo course you want!
+Dialogue: 0,0:08:25.07,0:08:28.50,Base01,,0,0,0,,T-Tsuchiya, make sure you see this through to the very end!
+Dialogue: 0,0:08:28.50,0:08:29.87,Base01,,0,0,0,,Uh, yeah.
+Dialogue: 0,0:08:34.98,0:08:38.28,Base01,,0,0,0,,Once you re ready, please press the photograph button!
+Dialogue: 0,0:08:40.75,0:08:42.52,Base01,,0,0,0,,Please look at the camera lens!
+Dialogue: 0,0:08:43.18,0:08:45.92,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:08:47.46,0:08:50.99,Base01,,0,0,0,,Hahah, it captured my boobs!
+Dialogue: 0,0:08:51.83,0:08:53.53,Base01,,0,0,0,,One more photo!
+Dialogue: 0,0:08:54.26,0:08:56.76,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:09:00.04,0:09:03.50,Base01,,0,0,0,,Oh wow, it got captured this clearly...
+Dialogue: 0,0:09:06.27,0:09:09.61,Base01,,0,0,0,,Once you re ready, please press the photograph button!
+Dialogue: 0,0:09:10.95,0:09:13.48,Base01,,0,0,0,,Ki... Kirishima-san.
+Dialogue: 0,0:09:20.89,0:09:25.26,Base01,,0,0,0,,Oh no, I'm so much more turned on than I thought I would be...
+Dialogue: 0,0:09:27.00,0:09:30.53,Base01,,0,0,0,,Once you re ready, please press the photograph button!
+Dialogue: 0,0:09:35.44,0:09:37.20,Base01,,0,0,0,,K-Kirishima-san...
+Dialogue: 0,0:09:37.21,0:09:38.64,Base01,,0,0,0,,You, hold on to this!
+Dialogue: 0,0:09:41.08,0:09:43.04,Base01,,0,0,0,,Please look at the camera lens!
+Dialogue: 0,0:09:44.21,0:09:47.01,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:09:50.72,0:09:53.05,Base01,,0,0,0,,Next, lets see something cute!
+Dialogue: 0,0:09:54.42,0:09:57.29,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:09:59.69,0:10:01.20,Base01,,0,0,0,,Go for it...
+Dialogue: 0,0:10:01.50,0:10:03.66,Base01,,0,0,0,,The next two photos will be taken in quick succession!
+Dialogue: 0,0:10:03.67,0:10:06.10,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:10:08.10,0:10:11.51,Base01,,0,0,0,,Hahah, this is really embarrassing!
+Dialogue: 0,0:10:12.31,0:10:14.27,Base01,,0,0,0,,It's round!
+Dialogue: 0,0:10:14.74,0:10:18.51,Base01,,0,0,0,,It zoomed in on the second shot?! Hahah...
+Dialogue: 0,0:10:19.11,0:10:23.22,Base01,,0,0,0,,Hey, my asshole is cute, isn't it?
+Dialogue: 0,0:10:24.15,0:10:26.52,Base01,,0,0,0,,The next shot will be a full-body photo!
+Dialogue: 0,0:10:27.19,0:10:29.82,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:10:32.33,0:10:34.53,Base01,,0,0,0,,How pretty!
+Dialogue: 0,0:10:37.33,0:10:39.53,Base01,,0,0,0,,Next, next!
+Dialogue: 0,0:10:40.04,0:10:42.54,Base01,,0,0,0,,The next shot is the last one!
+Dialogue: 0,0:10:43.51,0:10:46.27,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:10:47.91,0:10:51.75,Base01,,0,0,0,,Ahahah! Just like a performing artist!
+Dialogue: 0,0:10:54.85,0:10:56.48,Base01,,0,0,0,,Next, next!
+Dialogue: 0,0:10:59.22,0:11:01.72,Base01,,0,0,0,,Uh, looks like that's it.
+Dialogue: 0,0:11:02.92,0:11:06.06,Base01,,0,0,0,,Let's do it once more, you take yours out too.
+Dialogue: 0,0:11:06.46,0:11:07.59,Base01,,0,0,0,,Huh?
+Dialogue: 0,0:11:07.60,0:11:10.36,Base01,,0,0,0,,It's been bothering me for a while already.
+Dialogue: 0,0:11:14.04,0:11:16.40,Base01,,0,0,0,,You wanna have sex, don't you?
+Dialogue: 0,0:11:25.88,0:11:29.05,Base01,,0,0,0,,Once you re ready, please press the photograph button!
+Dialogue: 0,0:11:31.72,0:11:33.79,Base01,,0,0,0,,Please look at the camera lens!
+Dialogue: 0,0:11:36.66,0:11:40.36,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:11:42.50,0:11:45.87,Base01,,0,0,0,,How lewd... your dick is so hard.
+Dialogue: 0,0:11:46.40,0:11:47.74,Base01,,0,0,0,,One more photo!
+Dialogue: 0,0:11:48.84,0:11:51.71,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:11:52.87,0:11:55.51,Base01,,0,0,0,,Ohh, erotic, how erotic!
+Dialogue: 0,0:11:57.25,0:11:59.61,Base01,,0,0,0,,Hurry up and put it in!
+Dialogue: 0,0:12:13.29,0:12:16.76,Base01,,0,0,0,,Once you re ready, please press the photograph button!
+Dialogue: 0,0:12:21.27,0:12:23.30,Base01,,0,0,0,,Oh, this is so thrilling!
+Dialogue: 0,0:12:27.64,0:12:29.64,Base01,,0,0,0,,Please look at the camera lens!
+Dialogue: 0,0:12:47.00,0:12:49.76,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:13:04.68,0:13:06.95,Base01,,0,0,0,,Next, let s see something cute!
+Dialogue: 0,0:13:25.47,0:13:28.27,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:13:31.47,0:13:35.11,Base01,,0,0,0,,Tihat's not cute at all, it's way too perverted!
+Dialogue: 0,0:13:49.42,0:13:51.23,Base01,,0,0,0,,The next two photos will be taken in quick succession!
+Dialogue: 0,0:14:13.01,0:14:15.22,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:14:23.29,0:14:27.03,Base01,,0,0,0,,As I thought, it zoomed in right there...
+Dialogue: 0,0:14:28.00,0:14:31.60,Base01,,0,0,0,,K-Kirishima-san, I'm... gonna...
+Dialogue: 0,0:14:40.28,0:14:42.98,Base01,,0,0,0,,The next shot will be a full-body photo!
+Dialogue: 0,0:14:43.35,0:14:45.75,Base01,,0,0,0,,Oh no, I'm gonna come!
+Dialogue: 0,0:14:48.35,0:14:51.05,Base01,,0,0,0,,Three, two, one!
+Dialogue: 0,0:15:05.37,0:15:07.57,Base01,,0,0,0,,The next shot is the last one!
+Dialogue: 0,0:15:08.30,0:15:11.17,Base01,,0,0,0,,Three, two. one!
+Dialogue: 0,0:15:31.66,0:15:33.43,Base01,,0,0,0,,Thank you very much for your hard work!
+Dialogue: 0,0:16:41.83,0:16:44.00,Base01,,0,0,0,,Nope, don't touch me just yet.
+Dialogue: 0,0:16:52.51,0:16:53.74,Base01,,0,0,0,,Wanna see?
+Dialogue: 0,0:16:55.24,0:16:58.48,Base01,,0,0,0,,Come on, take a good look.
+Dialogue: 0,0:17:29.18,0:17:31.01,Base01,,0,0,0,,Wait just a bit...
+Dialogue: 0,0:17:46.90,0:17:47.86,Base01,,0,0,0,,Feels good?
+Dialogue: 0,0:17:49.56,0:17:50.53,Base01,,0,0,0,,Ruma-san...
+Dialogue: 0,0:17:51.13,0:17:52.77,Base01,,0,0,0,,I wonder if this is enough.
+Dialogue: 0,0:18:00.24,0:18:01.61,Base01,,0,0,0,,You wanna put it in, don't you.
+Dialogue: 0,0:18:08.52,0:18:10.28,Base01,,0,0,0,,It's okay, come.
+Dialogue: 0,0:18:29.44,0:18:32.40,Base01,,0,0,0,,It's all... in.
+Dialogue: 0,0:18:33.54,0:18:39.05,Base01,,0,0,0,,U-Unbelievable, I'm actually doing this with you, Ruma-san...
+Dialogue: 0,0:18:41.35,0:18:43.55,Base01,,0,0,0,,I'll let you experience something incredible....
+Dialogue: 0,0:18:52.43,0:18:54.40,Base01,,0,0,0,,W-, Amaz-
+Dialogue: 0,0:19:03.67,0:19:08.04,Base01,,0,0,0,,Hey. My special skill is... good, isn't it.
+Dialogue: 0,0:19:15.72,0:19:20.65,Base01,,0,0,0,,My body isn't normal.
+Dialogue: 0,0:19:27.86,0:19:31.63,Base01,,0,0,0,,I can't... I can't stop myself anymore...
+Dialogue: 0,0:19:31.63,0:19:34.00,Base01,,0,0,0,,Go ahead, do it however you want.
+Dialogue: 0,0:20:06.63,0:20:11.71,Base01,,0,0,0,,Again. Her partner today is yet another guy.
+Dialogue: 0,0:20:21.42,0:20:24.02,Base01,,0,0,0,,I think I'm gonna come!
+Dialogue: 0,0:20:27.09,0:20:28.39,Base01,,0,0,0,,That's fast!
+Dialogue: 0,0:20:35.33,0:20:38.20,Base01,,0,0,0,,I wonder what your sperm tastes like?
+Dialogue: 0,0:21:38.69,0:21:42.26,Base01,,0,0,0,,A slightly salty taste... I suppose.
+Dialogue: 0,0:21:43.63,0:21:47.67,Base01,,0,0,0,,Y-You know, Ruma-san. I was wondering if we could do this ag-
+Dialogue: 0,0:21:47.67,0:21:48.64,Base01,,0,0,0,,Nope.
+Dialogue: 0,0:21:49.20,0:21:50.54,Base01,,0,0,0,,That's all you get.
+Dialogue: 0,0:21:54.98,0:22:01.15,Base01,,0,0,0,,Oh, and if you tell anyone about this\NI'll report this encounter as rape.
+Dialogue: 0,0:22:01.15,0:22:03.02,Base01,,0,0,0,,A-Alright.
+Dialogue: 0,0:22:08.62,0:22:09.79,Base01,,0,0,0,,Okada-kun?
+Dialogue: 0,0:22:12.53,0:22:15.13,Base01,,0,0,0,,Did you... masturbate?
+Dialogue: 0,0:22:23.71,0:22:27.41,Base01,,0,0,0,,I'm always... just her lookout.
+Dialogue: 0,0:23:13.99,0:23:18.66,Base01,,0,0,0,,Amazing, amazing! You're really trying hard, aren't you?
+Dialogue: 0,0:23:19.09,0:23:20.49,Base01,,0,0,0,,Y-Yes.
+Dialogue: 0,0:23:23.93,0:23:28.84,Base01,,0,0,0,,Hey, those club members will come here pretty soon. Leave it to me.
+Dialogue: 0,0:23:47.26,0:23:51.39,Base01,,0,0,0,,The way my pussy wraps around your dick is\Ndifferent when we do it sideways, isn't it?
+Dialogue: 0,0:24:10.35,0:24:12.28,Base01,,0,0,0,,Coming, I'm coming!
+Dialogue: 0,0:24:59.43,0:25:02.70,Base01,,0,0,0,,Hmm, sweet. Might even be diabetic.
+Dialogue: 0,0:25:09.80,0:25:10.80,Base01,,0,0,0,,Damn it!
+Dialogue: 0,0:25:13.24,0:25:15.38,Base01,,0,0,0,,Seems like sperm is dripping out of her mouth...
+Dialogue: 0,0:25:24.42,0:25:31.23,Base01,,0,0,0,,Hey. You've never masturbated this whole time, even\Nthough your dick looks like it's about to burst.
+Dialogue: 0,0:25:38.73,0:25:41.14,Base01,,0,0,0,,You have some serious willpower, don't you?
+Dialogue: 0,0:25:45.54,0:25:50.78,Base01,,0,0,0,,As I thought, choosing Okada-kun was the right thing to do...

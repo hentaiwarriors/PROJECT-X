@@ -1,0 +1,413 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,30,&H00FFFFFF,&HF0000000,&H008000FF,&HF0000000,-1,0,0,0,100,100,0,0.00,1,1,0,2,30,30,10,134
+Style: up,微软雅黑,18,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,18,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:26.68,0:00:28.30,Default,NTP,0,0,0,,谁 放开我
+Dialogue: 0,0:00:30.04,0:00:30.84,Default,NTP,0,0,0,,住手
+Dialogue: 0,0:00:35.88,0:00:37.62,Default,NTP,0,0,0,,谁来 救救…
+Dialogue: 0,0:01:01.58,0:01:03.30,Default,NTP,0,0,0,,不 不要
+Dialogue: 0,0:01:06.18,0:01:07.82,Default,NTP,0,0,0,,不要 不要
+Dialogue: 0,0:01:10.76,0:01:13.36,Default,NTP,0,0,0,,像之前一样 夹住了
+Dialogue: 0,0:01:14.88,0:01:15.96,Default,NTP,0,0,0,,讨厌
+Dialogue: 0,0:01:19.98,0:01:20.96,Default,NTP,0,0,0,,不要啊
+Dialogue: 0,0:01:31.00,0:01:35.20,staff2,NTP,0,0,0,,淫獣女教師
+Dialogue: 0,0:01:57.18,0:01:57.62,Default,NTP,0,0,0,,来了
+Dialogue: 0,0:01:59.58,0:02:00.26,Default,NTP,0,0,0,,哪位
+Dialogue: 0,0:02:04.76,0:02:05.44,Default,NTP,0,0,0,,裕子?
+Dialogue: 0,0:02:06.20,0:02:07.44,Default,NTP,0,0,0,,出什么事了 脏成这样
+Dialogue: 0,0:02:08.16,0:02:10.32,Default,NTP,0,0,0,,这么晚很抱歉 能让我进去吗
+Dialogue: 0,0:02:10.08,0:02:11.18,Default,NTP,0,0,0,,快 快进来
+Dialogue: 0,0:02:46.26,0:02:47.58,Default,NTP,0,0,0,,到底出什么事了
+Dialogue: 0,0:02:48.04,0:02:48.74,Default,NTP,0,0,0,,是滝
+Dialogue: 0,0:02:49.20,0:02:50.74,Default,NTP,0,0,0,,和他已经分手了吧
+Dialogue: 0,0:02:51.20,0:02:52.58,Default,NTP,0,0,0,,详细和我说说
+Dialogue: 0,0:02:53.72,0:02:54.74,Default,NTP,0,0,0,,不用了 彩乃 
+Dialogue: 0,0:02:55.08,0:02:57.50,Default,NTP,0,0,0,,这是我的问题 自己想办法解决
+Dialogue: 0,0:02:58.22,0:02:58.78,Default,NTP,0,0,0,,但是
+Dialogue: 0,0:02:59.20,0:03:02.06,Default,NTP,0,0,0,,和那种人交往的我确实是笨蛋
+Dialogue: 0,0:03:04.10,0:03:06.92,Default,NTP,0,0,0,,不能总给彩乃添麻烦
+Dialogue: 0,0:03:07.56,0:03:08.14,Default,NTP,0,0,0,,裕子... 
+Dialogue: 0,0:03:13.04,0:03:14.42,Default,NTP,0,0,0,,这就是之前说的古文书?
+Dialogue: 0,0:03:14.98,0:03:18.90,Default,NTP,0,0,0,,虽说是大学教授的委托 过于复杂看起来很花时间
+Dialogue: 0,0:03:19.30,0:03:19.80,Default,NTP,0,0,0,,这个是?
+Dialogue: 0,0:03:20.20,0:03:21.90,Default,NTP,0,0,0,,和文书一起被托付的东西
+Dialogue: 0,0:03:21.80,0:03:22.72,Default,NTP,0,0,0,,这是什么味道
+Dialogue: 0,0:03:23.66,0:03:25.40,Default,NTP,0,0,0,,关于这个古文书上没有记载吗
+Dialogue: 0,0:03:25.86,0:03:27.18,Default,NTP,0,0,0,,正打算详细说明 
+Dialogue: 0,0:03:27.96,0:03:31.68,Default,NTP,0,0,0,,根据传说貌似是从魔物身上分离下来的一部分
+Dialogue: 0,0:03:32.50,0:03:35.88,Default,NTP,0,0,0,,将魔物退治的时候使用的武器好像就是那把短剑
+Dialogue: 0,0:03:37.38,0:03:40.06,Default,NTP,0,0,0,,那个魔物的正体 到底是什么?
+Dialogue: 0,0:03:41.14,0:03:43.86,Default,NTP,0,0,0,,调查下MIRO的话 说不定会知道什么
+Dialogue: 0,0:03:44.90,0:03:48.16,Default,NTP,0,0,0,,生物学是我的专业范畴 要帮你调查下吗
+Dialogue: 0,0:03:48.48,0:03:50.72,Default,NTP,0,0,0,,谢了 那么就拜托了
+Dialogue: 0,0:03:51.12,0:03:53.70,Default,NTP,0,0,0,,放学前还有时间 交给我吧
+Dialogue: 0,0:04:02.10,0:04:04.26,Default,NTP,0,0,0,,真的没关系吗 老师
+Dialogue: 0,0:04:04.48,0:04:07.00,Default,NTP,0,0,0,,被学生担心的话 作为教师不合格呢
+Dialogue: 0,0:04:07.28,0:04:09.10,Default,NTP,0,0,0,,因为彩乃姐姐说...
+Dialogue: 0,0:04:09.46,0:04:10.08,Default,NTP,0,0,0,,好 好 
+Dialogue: 0,0:04:10.62,0:04:13.22,Default,NTP,0,0,0,,我很精神 别担心 
+Dialogue: 0,0:04:13.40,0:04:14.10,Default,NTP,0,0,0,,帮忙给彩乃传达下
+Dialogue: 0,0:04:14.62,0:04:15.50,Default,NTP,0,0,0,,好 那就这样
+Dialogue: 0,0:04:18.56,0:04:22.44,Default,NTP,0,0,0,,之前说的那个木乃伊就放在那个盒子里吗
+Dialogue: 0,0:04:22.78,0:04:23.30,Default,NTP,0,0,0,,对呀
+Dialogue: 0,0:04:23.40,0:04:24.76,Default,NTP,0,0,0,,看看里面可以吗
+Dialogue: 0,0:04:25.02,0:04:25.82,Default,NTP,0,0,0,,虽然可以
+Dialogue: 0,0:04:26.42,0:04:29.04,Default,NTP,0,0,0,,但是对莉华来说 刺激可能比较强
+Dialogue: 0,0:04:33.40,0:04:34.12,Default,NTP,0,0,0,,好臭
+Dialogue: 0,0:04:36.52,0:04:39.54,Default,NTP,0,0,0,,讨厌 这个好像是生殖器一样
+Dialogue: 0,0:04:44.46,0:04:45.48,Default,NTP,0,0,0,,打扰您了
+Dialogue: 0,0:05:12.08,0:05:13.74,Default,NTP,0,0,0,,果然是Good啊
+Dialogue: 0,0:05:14.04,0:05:17.30,Default,NTP,0,0,0,,因为练习田径 屁股的紧致感拔群啊
+Dialogue: 0,0:05:17.52,0:05:18.92,Default,NTP,0,0,0,,你和那妹子也?
+Dialogue: 0,0:05:19.12,0:05:20.20,Default,NTP,0,0,0,,嗯 做了哦
+Dialogue: 0,0:05:20.26,0:05:22.76,Default,NTP,0,0,0,,哎?那电子科学专业的那妹子呢?
+Dialogue: 0,0:05:22.98,0:05:26.80,Default,NTP,0,0,0,,呐 就是因为一直问所以才是处男啊
+Dialogue: 0,0:05:27.10,0:05:29.48,Default,NTP,0,0,0,,觉得好的话 不快点出击的话
+Dialogue: 0,0:05:29.48,0:05:31.04,Default,NTP,0,0,0,,会焦虑不安的
+Dialogue: 0,0:05:31.10,0:05:35.10,Default,NTP,0,0,0,,你呀 和莉华在一起 不会想做爱做的事吗?！
+Dialogue: 0,0:05:35.34,0:05:37.26,Default,NTP,0,0,0,,想啊 但是... 
+Dialogue: 0,0:05:37.60,0:05:39.08,Default,NTP,0,0,0,,已经17了哦 
+Dialogue: 0,0:05:39.20,0:05:42.14,Default,NTP,0,0,0,,不管什么样的女人都是对SEX有兴趣的
+Dialogue: 0,0:05:42.18,0:05:45.30,Default,NTP,0,0,0,,那么 嘭 的一下出击的话
+Dialogue: 0,0:05:45.50,0:05:46.50,Default,NTP,0,0,0,,嘭 的一下是吗
+Dialogue: 0,0:05:47.62,0:05:50.36,Default,NTP,0,0,0,,好 嘭 的来一发 啊
+Dialogue: 0,0:05:50.54,0:05:51.64,Default,NTP,0,0,0,,什么嘭 的来一发呀 
+Dialogue: 0,0:05:51.82,0:05:53.98,Default,NTP,0,0,0,,南原君不要灌输些奇怪的事情
+Dialogue: 0,0:05:54.74,0:05:55.98,Default,NTP,0,0,0,,呀 没什么
+Dialogue: 0,0:06:02.00,0:06:04.56,Default,NTP,0,0,0,,是莉华吧 忘记拿伞了吧
+Dialogue: 0,0:06:09.86,0:06:11.78,Default,NTP,0,0,0,,你干什么 放开我
+Dialogue: 0,0:06:19.42,0:06:21.54,Default,NTP,0,0,0,,别这么冷淡嘛
+Dialogue: 0,0:06:23.08,0:06:24.74,Default,NTP,0,0,0,,不是挺想干的吗
+Dialogue: 0,0:06:26.06,0:06:26.96,Default,NTP,0,0,0,,放过我
+Dialogue: 0,0:06:28.98,0:06:31.96,Default,NTP,0,0,0,,和之前一样 让你舒服
+Dialogue: 0,0:06:35.88,0:06:37.92,Default,NTP,0,0,0,,给我变诚实一点
+Dialogue: 0,0:06:42.58,0:06:45.26,Default,NTP,0,0,0,,这可是有些有趣啊
+Dialogue: 0,0:06:45.80,0:06:48.28,Default,NTP,0,0,0,,让你高兴高兴哟
+Dialogue: 0,0:06:49.86,0:06:54.06,Default,NTP,0,0,0,,等等 莉华 你好像误会什么了
+Dialogue: 0,0:06:54.38,0:06:55.86,Default,NTP,0,0,0,,那个嘭 的一下 是说
+Dialogue: 0,0:06:56.16,0:06:57.56,Default,NTP,0,0,0,,干一发 是什么啊
+Dialogue: 0,0:06:57.66,0:06:59.56,Default,NTP,0,0,0,,下流 不难为情吗
+Dialogue: 0,0:06:59.80,0:07:04.06,Default,NTP,0,0,0,,啊 误会 莉华
+Dialogue: 0,0:07:04.74,0:07:05.60,Default,NTP,0,0,0,,啊 伞
+Dialogue: 0,0:07:07.70,0:07:09.30,Default,NTP,0,0,0,,出教室的时候 拿着的吧
+Dialogue: 0,0:07:10.32,0:07:11.74,Default,NTP,0,0,0,,在裕子老师那里
+Dialogue: 0,0:07:21.76,0:07:25.20,Default,NTP,0,0,0,,不要那么厌烦 很快就会想要了
+Dialogue: 0,0:07:26.52,0:07:27.86,Default,NTP,0,0,0,,住手
+Dialogue: 0,0:07:35.34,0:07:37.18,Default,NTP,0,0,0,,不住手的话 叫人了
+Dialogue: 0,0:07:37.18,0:07:38.96,Default,NTP,0,0,0,,做得到的话 喊啊
+Dialogue: 0,0:07:39.06,0:07:40.70,Default,NTP,0,0,0,,只会平添耻辱哦
+Dialogue: 0,0:07:51.00,0:07:54.90,Default,NTP,0,0,0,,差不多湿了吧 呐 裕子
+Dialogue: 0,0:07:54.94,0:07:57.40,Default,NTP,0,0,0,,讨厌 放开我
+Dialogue: 0,0:08:05.40,0:08:08.18,Default,NTP,0,0,0,,讨厌 放开 不要
+Dialogue: 0,0:08:22.42,0:08:24.30,Default,NTP,0,0,0,,我和裕子是男女朋友 
+Dialogue: 0,0:08:24.40,0:08:29.04,Default,NTP,0,0,0,,擅自说出去会丢人的 就当做什么都没看见
+Dialogue: 0,0:08:33.32,0:08:36.06,Default,NTP,0,0,0,,老师 须户老师他... 
+Dialogue: 0,0:08:36.76,0:08:37.44,Default,NTP,0,0,0,,不要过来
+Dialogue: 0,0:08:40.34,0:08:43.70,Default,NTP,0,0,0,,彩乃 对彩乃绝对要保密
+Dialogue: 0,0:08:45.60,0:08:46.06,Default,NTP,0,0,0,,好的
+Dialogue: 0,0:08:46.28,0:08:48.54,Default,NTP,0,0,0,,够了 快点出去
+Dialogue: 0,0:09:32.78,0:09:33.70,Default,NTP,0,0,0,,什么东西
+Dialogue: 0,0:10:14.68,0:10:17.20,Default,NTP,0,0,0,,虽然有点烦 但真的是把伞丢了吗?
+Dialogue: 0,0:10:17.90,0:10:20.66,Default,NTP,0,0,0,,嗯 真的就只是那样 什么都没发生
+Dialogue: 0,0:10:21.34,0:10:23.84,Default,NTP,0,0,0,,但是 总觉得奇怪
+Dialogue: 0,0:10:42.68,0:10:43.32,Default,NTP,0,0,0,,莉华
+Dialogue: 0,0:10:43.60,0:10:45.00,Default,NTP,0,0,0,,什么 直人
+Dialogue: 0,0:10:46.86,0:10:49.42,Default,NTP,0,0,0,,等等 停下 放开我
+Dialogue: 0,0:10:50.24,0:10:50.86,Default,NTP,0,0,0,,可以的吧
+Dialogue: 0,0:10:51.00,0:10:51.68,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:10:52.48,0:10:54.14,Default,NTP,0,0,0,,讨厌这样 直人
+Dialogue: 0,0:10:54.60,0:10:56.60,Default,NTP,0,0,0,,这个绝对不行
+Dialogue: 0,0:10:56.90,0:10:57.38,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:11:04.14,0:11:05.80,Default,NTP,0,0,0,,笨蛋 直人这个笨蛋
+Dialogue: 0,0:11:08.16,0:11:08.92,Default,NTP,0,0,0,,可恶
+Dialogue: 0,0:11:31.02,0:11:31.58,Default,NTP,0,0,0,,裕子?
+Dialogue: 0,0:11:45.30,0:11:46.18,Default,NTP,0,0,0,,怎么了 裕子
+Dialogue: 0,0:11:47.36,0:11:50.10,Default,NTP,0,0,0,,身体很难受 能帮我消消火吗
+Dialogue: 0,0:11:51.46,0:11:53.32,Default,NTP,0,0,0,,是吗 上来
+Dialogue: 0,0:12:23.10,0:12:26.04,Default,NTP,0,0,0,,很好哦 裕子 再给点儿劲儿
+Dialogue: 0,0:12:27.90,0:12:29.92,Default,NTP,0,0,0,,很好 爽
+Dialogue: 0,0:12:36.12,0:12:37.54,Default,NTP,0,0,0,,受不了
+Dialogue: 0,0:12:50.24,0:12:51.62,Default,NTP,0,0,0,,被吸的好紧
+Dialogue: 0,0:13:50.02,0:13:51.38,Default,NTP,0,0,0,,好爽 裕子
+Dialogue: 0,0:14:07.66,0:14:11.66,Default,NTP,0,0,0,,去了 去了
+Dialogue: 0,0:14:26.30,0:14:28.20,Default,NTP,0,0,0,,裕子 已经可以了
+Dialogue: 0,0:14:58.38,0:15:00.52,Default,NTP,0,0,0,,被吸干了
+Dialogue: 0,0:15:24.78,0:15:29.66,Default,NTP,0,0,0,,附身于女体之内像树皮一样的虫子 
+Dialogue: 0,0:15:30.58,0:15:36.00,Default,NTP,0,0,0,,虫子附身的女体 不只这一个人 
+Dialogue: 0,0:15:37.22,0:15:41.64,Default,NTP,0,0,0,,虫子会将男性的精液尽数抽取
+Dialogue: 0,0:16:18.44,0:16:20.82,Default,NTP,0,0,0,,寄生女体的淫欲的魔物 
+Dialogue: 0,0:16:20.92,0:16:22.06,Default,NTP,0,0,0,,被叫做淫虫 
+Dialogue: 0,0:16:22.20,0:16:23.14,Default,NTP,0,0,0,,可怕的生物
+Dialogue: 0,0:16:25.24,0:16:27.32,Default,NTP,0,0,0,,你好 滋賀研究所
+Dialogue: 0,0:16:28.58,0:16:29.48,Default,NTP,0,0,0,,什么嘛 莉华
+Dialogue: 0,0:16:29.94,0:16:30.94,Default,NTP,0,0,0,,有什么急事吗
+Dialogue: 0,0:16:31.18,0:16:31.76,Default,NTP,0,0,0,,不是 
+Dialogue: 0,0:16:32.02,0:16:32.72,Default,NTP,0,0,0,,怎么了
+Dialogue: 0,0:16:33.04,0:16:35.26,Default,NTP,0,0,0,,那个 裕子老师她
+Dialogue: 0,0:16:35.44,0:16:36.32,Default,NTP,0,0,0,,出什么事了吗
+Dialogue: 0,0:16:37.48,0:16:38.12,Default,NTP,0,0,0,,那个
+Dialogue: 0,0:16:38.38,0:16:39.70,Default,NTP,0,0,0,,裕子出什么事了吗
+Dialogue: 0,0:16:40.12,0:16:41.32,Default,NTP,0,0,0,,不 什么都没有
+Dialogue: 0,0:16:41.92,0:16:44.28,Default,NTP,0,0,0,,关于木乃伊 好像需要你去个电话
+Dialogue: 0,0:16:45.14,0:16:48.94,Default,NTP,0,0,0,,嗯 我这边也有些新情报 正想通知她
+Dialogue: 0,0:16:49.06,0:16:50.32,Default,NTP,0,0,0,,是吗 太好了 
+Dialogue: 0,0:16:50.68,0:16:51.74,Default,NTP,0,0,0,,那晚安
+Dialogue: 0,0:16:55.14,0:17:00.00,Default,NTP,0,0,0,,淫兽 难道说和那个木乃伊有什么关联
+Dialogue: 0,0:17:00.86,0:17:02.56,Default,NTP,0,0,0,,那个 裕子老师她
+Dialogue: 0,0:17:02.90,0:17:05.74,Default,NTP,0,0,0,,好像有什么急事 今天休息了
+Dialogue: 0,0:17:06.04,0:17:07.00,Default,NTP,0,0,0,,是这样啊... 
+Dialogue: 0,0:17:08.08,0:17:08.74,Default,NTP,0,0,0,,果然
+Dialogue: 0,0:17:14.42,0:17:16.04,Default,NTP,0,0,0,,把这种的戴上就好啦
+Dialogue: 0,0:17:16.24,0:17:17.80,Default,NTP,0,0,0,,比较时髦之类的?
+Dialogue: 0,0:17:18.14,0:17:19.40,Default,NTP,0,0,0,,啊 莉华
+Dialogue: 0,0:17:20.16,0:17:20.80,Default,NTP,0,0,0,,看呐 
+Dialogue: 0,0:17:20.96,0:17:23.18,Default,NTP,0,0,0,,浩二这小子竟然在耳朵上戴耳环 
+Dialogue: 0,0:17:23.08,0:17:24.46,Default,NTP,0,0,0,,一点儿都不合适吧
+Dialogue: 0,0:17:25.04,0:17:25.74,Default,NTP,0,0,0,,莉华...
+Dialogue: 0,0:17:26.18,0:17:28.44,Default,NTP,0,0,0,,啊咧咧 你们两个怎么了
+Dialogue: 0,0:17:28.62,0:17:29.88,Default,NTP,0,0,0,,没什么的
+Dialogue: 0,0:17:30.08,0:17:32.56,Default,NTP,0,0,0,,不好了！ 新闻 新闻 
+Dialogue: 0,0:17:33.14,0:17:34.94,Default,NTP,0,0,0,,滝老师好像失踪了
+Dialogue: 0,0:17:35.04,0:17:36.10,Default,NTP,0,0,0,,哎?真的假的
+Dialogue: 0,0:17:36.20,0:17:39.82,Default,NTP,0,0,0,,真的 真走运 体育课自习了
+Dialogue: 0,0:17:41.12,0:17:45.52,Default,NTP,0,0,0,,然后 学校发出寻人通知 但是找不到
+Dialogue: 0,0:17:45.72,0:17:49.04,Default,NTP,0,0,0,,骗人 失踪的是须户老师... 
+Dialogue: 0,0:17:49.10,0:17:50.54,Default,NTP,0,0,0,,裕子老师怎么了吗?
+Dialogue: 0,0:17:51.22,0:17:52.54,Default,NTP,0,0,0,,没 没什么... 
+Dialogue: 0,0:17:53.26,0:17:55.24,Default,NTP,0,0,0,,没出事吧 裕子老师
+Dialogue: 0,0:18:04.64,0:18:10.96,Default,NTP,0,0,0,,现在 在外出中 请在发信音之后 留言
+Dialogue: 0,0:18:13.84,0:18:16.56,Default,NTP,0,0,0,,裕子 你在哪里呢 
+Dialogue: 0,0:18:17.08,0:18:19.80,Default,NTP,0,0,0,,回来后给我电话 有事情要告诉你 
+Dialogue: 0,0:18:20.18,0:18:20.70,Default,NTP,0,0,0,,等你电话
+Dialogue: 0,0:19:02.08,0:19:03.88,Default,NTP,0,0,0,,好女人啊... 
+Dialogue: 0,0:19:04.08,0:19:05.58,Default,NTP,0,0,0,,在这学校里吗
+Dialogue: 0,0:19:06.30,0:19:08.22,Default,NTP,0,0,0,,呐 呐 是不是裕子老师啊
+Dialogue: 0,0:19:08.42,0:19:09.48,Default,NTP,0,0,0,,骗人...
+Dialogue: 0,0:19:16.94,0:19:18.36,Default,NTP,0,0,0,,大家早上好
+Dialogue: 0,0:19:19.84,0:19:25.24,Default,NTP,0,0,0,,关于蛋白质的功能 最常知道的是交叉作用
+Dialogue: 0,0:19:27.08,0:19:32.40,Default,NTP,0,0,0,,生物体内在不停的进行各种各样的化学反应
+Dialogue: 0,0:19:35.76,0:19:38.26,Default,NTP,0,0,0,,只是一天会有那么大的变化吗
+Dialogue: 0,0:19:38.86,0:19:39.42,Default,NTP,0,0,0,,我决定了 
+Dialogue: 0,0:19:39.94,0:19:42.72,Default,NTP,0,0,0,,真的假的 对方是老师呀
+Dialogue: 0,0:19:43.38,0:19:45.90,Default,NTP,0,0,0,,SEX和对方的职业和年龄有关系吗?
+Dialogue: 0,0:19:46.04,0:19:46.98,Default,NTP,0,0,0,,但是...
+Dialogue: 0,0:19:47.18,0:19:50.02,Default,NTP,0,0,0,,那种等级的女人 平时可遇不到 
+Dialogue: 0,0:19:50.28,0:19:51.10,Default,NTP,0,0,0,,呐 看着吧 
+Dialogue: 0,0:19:51.30,0:19:52.98,Default,NTP,0,0,0,,嘭 的一发搞定
+Dialogue: 0,0:19:53.28,0:19:56.24,Default,NTP,0,0,0,,真是跟不上你的思维 随你便吧
+Dialogue: 0,0:19:57.46,0:19:58.58,Default,NTP,0,0,0,,啊 下课了
+Dialogue: 0,0:19:59.58,0:20:03.40,Default,NTP,0,0,0,,今天就到这里 下周做实验
+Dialogue: 0,0:20:08.58,0:20:10.34,Default,NTP,0,0,0,,老师 能打扰下吗
+Dialogue: 0,0:20:10.58,0:20:11.90,Default,NTP,0,0,0,,可以哟 进来吧
+Dialogue: 0,0:20:16.28,0:20:18.44,Default,NTP,0,0,0,,有什么事吗 龙云寺同学
+Dialogue: 0,0:20:19.12,0:20:21.30,Default,NTP,0,0,0,,那个 之前的事情... 
+Dialogue: 0,0:20:21.90,0:20:25.58,Default,NTP,0,0,0,,啊 不要担心 老师没有在意哦
+Dialogue: 0,0:20:26.02,0:20:26.94,Default,NTP,0,0,0,,是这样吗
+Dialogue: 0,0:20:27.70,0:20:29.62,Default,NTP,0,0,0,,但是 发生那样的事
+Dialogue: 0,0:20:29.16,0:20:30.28,Default,NTP,0,0,0,,来的正好
+Dialogue: 0,0:20:31.86,0:20:33.66,Default,NTP,0,0,0,,有想拜托你的事情
+Dialogue: 0,0:20:37.52,0:20:40.86,Default,NTP,0,0,0,,喂 是 彩乃?
+Dialogue: 0,0:20:41.74,0:20:43.10,Default,NTP,0,0,0,,你去哪里了 
+Dialogue: 0,0:20:43.84,0:20:46.84,Default,NTP,0,0,0,,魔物的情报知道些了 本来想告诉你的
+Dialogue: 0,0:20:48.42,0:20:49.62,Default,NTP,0,0,0,,裕子 在听吗
+Dialogue: 0,0:20:49.98,0:20:50.72,Default,NTP,0,0,0,,喂喂
+Dialogue: 0,0:20:52.24,0:20:54.00,Default,NTP,0,0,0,,喂喂
+Dialogue: 0,0:20:56.44,0:20:58.36,Default,NTP,0,0,0,,和你没什么好说的
+Dialogue: 0,0:20:59.36,0:21:00.64,Default,NTP,0,0,0,,不要管我了
+Dialogue: 0,0:21:01.74,0:21:05.56,Default,NTP,0,0,0,,到底发生什么了 等等 裕子 裕子?
+Dialogue: 0,0:21:07.46,0:21:09.70,Default,NTP,0,0,0,,老师 为什么连电话线也拔了?
+Dialogue: 0,0:21:11.18,0:21:12.52,Default,NTP,0,0,0,,彩乃太碍事了
+Dialogue: 0,0:21:13.14,0:21:16.90,Default,NTP,0,0,0,,对于以后你和我的关系来说
+Dialogue: 0,0:21:18.10,0:21:19.56,Default,NTP,0,0,0,,我 先告辞了
+Dialogue: 0,0:21:25.68,0:21:27.84,Default,NTP,0,0,0,,裕子老师 能占用一点时间吗
+Dialogue: 0,0:21:28.04,0:21:28.58,Default,NTP,0,0,0,,请进
+Dialogue: 0,0:21:31.48,0:21:34.28,Default,NTP,0,0,0,,其实在课上有不明白的地方
+Dialogue: 0,0:21:35.44,0:21:36.88,Default,NTP,0,0,0,,可以哦 南原君
+Dialogue: 0,0:21:38.38,0:21:39.96,Default,NTP,0,0,0,,不懂的什么都教给你哦
+Dialogue: 0,0:21:40.14,0:21:40.92,Default,NTP,0,0,0,,Lucky~
+Dialogue: 0,0:21:45.82,0:21:48.20,Default,NTP,0,0,0,,啊啦 已经这么的... 
+Dialogue: 0,0:21:50.18,0:21:52.02,Default,NTP,0,0,0,,啊 老师
+Dialogue: 0,0:22:35.16,0:22:38.00,Default,NTP,0,0,0,,老师 快出来了 停下来
+Dialogue: 0,0:22:40.80,0:22:42.06,Default,NTP,0,0,0,,有精神的好孩子
+Dialogue: 0,0:22:45.76,0:22:47.16,Default,NTP,0,0,0,,想知道更多的吧
+Dialogue: 0,0:22:47.40,0:22:48.40,Default,NTP,0,0,0,,是 是的
+Dialogue: 0,0:22:53.42,0:22:56.18,Default,NTP,0,0,0,,来吧 做我的按摩棒
+Dialogue: 0,0:22:56.54,0:22:57.10,Default,NTP,0,0,0,,好！
+Dialogue: 0,0:24:20.08,0:24:23.86,Default,NTP,0,0,0,,把电话线扯断了?真是过激呐
+Dialogue: 0,0:24:24.50,0:24:28.10,Default,NTP,0,0,0,,彩乃姐姐和裕子老师从中学时代就是好友了
+Dialogue: 0,0:24:28.42,0:24:30.32,Default,NTP,0,0,0,,那种挂电话的方式实在是
+Dialogue: 0,0:24:30.96,0:24:32.32,Default,NTP,0,0,0,,就好像陌生人一样
+Dialogue: 0,0:24:32.60,0:24:35.46,Default,NTP,0,0,0,,确实能看出来 突然变性感了
+Dialogue: 0,0:24:37.10,0:24:39.10,Default,NTP,0,0,0,,而且 总觉得变得好可怕
+Dialogue: 0,0:24:39.10,0:24:43.24,Default,NTP,0,0,0,,哎?难道说是二重人格什么的
+Dialogue: 0,0:24:45.26,0:24:46.24,Default,NTP,0,0,0,,其实呢直人 
+Dialogue: 0,0:24:46.44,0:24:47.10,Default,NTP,0,0,0,,什么?
+Dialogue: 0,0:24:47.16,0:24:48.90,Default,NTP,0,0,0,,在这种场所不太好吧
+Dialogue: 0,0:24:48.90,0:24:50.30,Default,NTP,0,0,0,,不要误会好不好
+Dialogue: 0,0:24:50.38,0:24:53.22,Default,NTP,0,0,0,,嘛 算了 看到南原君没有
+Dialogue: 0,0:24:53.26,0:24:55.24,Default,NTP,0,0,0,,浩二?说起来没见到呐
+Dialogue: 0,0:24:55.54,0:24:56.48,Default,NTP,0,0,0,,是不是回去了
+Dialogue: 0,0:24:57.02,0:25:00.92,Default,NTP,0,0,0,,真是的 明明放学后要开学园祭会议的说
+Dialogue: 0,0:25:01.18,0:25:04.62,Default,NTP,0,0,0,,南原君的话刚才出实验准备室的时候好像看到了
+Dialogue: 0,0:25:05.50,0:25:08.50,Default,NTP,0,0,0,,难道说那家伙 真的和裕子老师
+Dialogue: 0,0:25:08.74,0:25:10.70,Default,NTP,0,0,0,,不会吧 那也太... 
+Dialogue: 0,0:25:39.16,0:25:41.84,Default,NTP,0,0,0,,老师 好像要被吸走了
+Dialogue: 0,0:25:53.98,0:25:56.28,Default,NTP,0,0,0,,教给你极限的快乐是什么
+Dialogue: 0,0:25:58.08,0:26:01.90,Default,NTP,0,0,0,,老师 我快射出来了
+Dialogue: 0,0:26:48.66,0:26:50.58,Default,NTP,0,0,0,,被吸走了
+Dialogue: 0,0:27:24.50,0:27:25.54,Default,NTP,0,0,0,,南原君?
+Dialogue: 0,0:27:28.62,0:27:29.98,Default,NTP,0,0,0,,南原君怎么了?
+Dialogue: 0,0:27:37.60,0:27:38.90,Default,NTP,0,0,0,,在里面吗
+Dialogue: 0,0:27:44.62,0:27:45.92,Default,NTP,0,0,0,,你要干什么
+Dialogue: 0,0:27:48.04,0:27:49.88,Default,NTP,0,0,0,,老师 住手
+Dialogue: 0,0:27:50.70,0:27:54.24,Default,NTP,0,0,0,,老师 那种事情讨厌
+Dialogue: 0,0:27:54.88,0:27:56.34,Default,NTP,0,0,0,,老师放开我
+Dialogue: 0,0:28:49.20,0:28:50.68,Default,NTP,0,0,0,,差不多该给你好东西了
+Dialogue: 0,0:29:17.14,0:29:21.78,Default,NTP,0,0,0,,老师 老师 这样的感觉第一次
+Dialogue: 0,0:29:30.68,0:29:36.08,Default,NTP,0,0,0,,老师 爽 爽 舒服
+Dialogue: 0,0:29:42.60,0:29:47.50,Default,NTP,0,0,0,,老师 我... 爽
+Dialogue: 0,0:29:48.74,0:29:50.84,Default,NTP,0,0,0,,老师 已经要去了
+Dialogue: 0,0:29:52.48,0:29:54.60,Default,NTP,0,0,0,,去了 去了
+Dialogue: 0,0:30:12.94,0:30:15.16,Default,NTP,0,0,0,,不行 还不行
+Dialogue: 0,0:30:18.64,0:30:19.44,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:30:23.16,0:30:25.14,Default,NTP,0,0,0,,等等 不是这孩子
+Dialogue: 0,0:30:25.60,0:30:28.64,Default,NTP,0,0,0,,要妊娠的是处女的莉华
+Dialogue: 0,0:30:31.14,0:30:34.80,Default,NTP,0,0,0,,莉华 你的身体是为了我而存在的
+Dialogue: 0,0:30:43.88,0:30:45.72,Default,NTP,0,0,0,,滝用木乃伊把裕子给?
+Dialogue: 0,0:30:45.96,0:30:47.64,Default,NTP,0,0,0,,瞒你到现在抱歉
+Dialogue: 0,0:30:48.64,0:30:51.12,Default,NTP,0,0,0,,裕子突然变了的是第二天是吗
+Dialogue: 0,0:30:51.74,0:30:54.64,Default,NTP,0,0,0,,对 是不是想背着滝老师出轨啊
+Dialogue: 0,0:30:55.08,0:30:58.96,Default,NTP,0,0,0,,不用担心 莉华 我会想办法的 
+Dialogue: 0,0:30:59.46,0:31:00.38,Default,NTP,0,0,0,,晚安
+Dialogue: 0,0:31:10.56,0:31:14.02,Default,NTP,0,0,0,,被发现载有木乃伊的汽车的主人
+Dialogue: 0,0:31:14.16,0:31:17.94,Default,NTP,0,0,0,,是研修学院的教员滝修一
+Dialogue: 0,0:31:21.30,0:31:23.76,Default,NTP,0,0,0,,滝先生在5天前行踪不明 
+Dialogue: 0,0:31:24.12,0:31:27.42,Default,NTP,0,0,0,,警方作为失踪案件正在调查中
+Dialogue: 0,0:31:28.54,0:31:31.68,Default,NTP,0,0,0,,滝 木乃伊 魔物
+Dialogue: 0,0:31:39.24,0:31:41.46,Default,NTP,0,0,0,,须户老师好像已经回去了哦 
+Dialogue: 0,0:31:42.14,0:31:44.46,Default,NTP,0,0,0,,准备室里也不在的样子
+Dialogue: 0,0:31:44.94,0:31:47.44,Default,NTP,0,0,0,,那么 给二年的龙云寺莉华留言
+Dialogue: 0,0:31:47.52,0:31:52.92,Default,NTP,0,0,0,,今天下午开始休讲 对不起 现在乱成一团
+Dialogue: 0,0:31:54.24,0:31:57.26,Default,NTP,0,0,0,,呐 刚才开始就沉默不语 在想什么呢
+Dialogue: 0,0:31:57.46,0:31:59.42,Default,NTP,0,0,0,,奇怪的事情接连不断的发生对吧 
+Dialogue: 0,0:31:59.56,0:32:01.60,Default,NTP,0,0,0,,又是变成陌生人 又是木乃伊被发现
+Dialogue: 0,0:32:01.66,0:32:04.28,Default,NTP,0,0,0,,而且南原君突然不见
+Dialogue: 0,0:32:04.60,0:32:06.88,Default,NTP,0,0,0,,这之间是不是有什么关系
+Dialogue: 0,0:32:08.32,0:32:11.26,Default,NTP,0,0,0,,浩二明天就没事人一样回来学校了 
+Dialogue: 0,0:32:11.42,0:32:12.56,Default,NTP,0,0,0,,没事的
+Dialogue: 0,0:32:13.34,0:32:14.66,Default,NTP,0,0,0,,如果那样就好了
+Dialogue: 0,0:32:14.66,0:32:17.38,Default,NTP,0,0,0,,莉华！老师她
+Dialogue: 0,0:32:18.22,0:32:20.68,Default,NTP,0,0,0,,裕子老师说想见莉华
+Dialogue: 0,0:32:20.86,0:32:21.72,Default,NTP,0,0,0,,老师她?
+Dialogue: 0,0:32:21.96,0:32:22.64,Default,NTP,0,0,0,,但是... 
+Dialogue: 0,0:32:22.76,0:32:24.78,Default,NTP,0,0,0,,去了当面问清不是很好吗
+Dialogue: 0,0:32:25.38,0:32:27.68,Default,NTP,0,0,0,,对呀 好像有很多误会
+Dialogue: 0,0:32:27.92,0:32:30.20,Default,NTP,0,0,0,,那样莉华的担心也会化解
+Dialogue: 0,0:32:30.58,0:32:31.58,Default,NTP,0,0,0,,是吗
+Dialogue: 0,0:32:32.06,0:32:33.36,Default,NTP,0,0,0,,来 一起去吧
+Dialogue: 0,0:32:33.94,0:32:34.60,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:32:40.18,0:32:42.18,Default,NTP,0,0,0,,裕子不在吗 进来了哦
+Dialogue: 0,0:32:51.92,0:32:52.60,Default,NTP,0,0,0,,裕子?
+Dialogue: 0,0:32:58.68,0:32:59.56,Default,NTP,0,0,0,,这个味道?
+Dialogue: 0,0:33:09.02,0:33:11.04,Default,NTP,0,0,0,,那个魔物复活了把裕子给... 
+Dialogue: 0,0:33:11.34,0:33:20.46,Default,NTP,0,0,0,,寄宿于女体吸取男人的精气成长 将男人榨干至死
+Dialogue: 0,0:33:21.08,0:33:21.78,Default,NTP,0,0,0,,对了
+Dialogue: 0,0:33:24.70,0:33:26.36,Default,NTP,0,0,0,,你能来太好了 莉华
+Dialogue: 0,0:33:26.52,0:33:28.30,Default,NTP,0,0,0,,老师 南原君知道在哪吗
+Dialogue: 0,0:33:29.84,0:33:31.18,Default,NTP,0,0,0,,在这里休息呢
+Dialogue: 0,0:33:33.72,0:33:34.56,Default,NTP,0,0,0,,南原君?
+Dialogue: 0,0:33:36.18,0:33:37.72,Default,NTP,0,0,0,,老师把南原君给...
+Dialogue: 0,0:33:38.20,0:33:40.06,Default,NTP,0,0,0,,不用那么害怕哦
+Dialogue: 0,0:33:40.28,0:33:42.02,Default,NTP,0,0,0,,你不会变成这样子的
+Dialogue: 0,0:33:42.12,0:33:44.28,Default,NTP,0,0,0,,老师 到底怎么回事
+Dialogue: 0,0:33:44.28,0:33:45.44,Default,NTP,0,0,0,,小孩子会出生哦
+Dialogue: 0,0:33:45.82,0:33:46.58,Default,NTP,0,0,0,,小孩子?
+Dialogue: 0,0:33:46.66,0:33:50.10,Default,NTP,0,0,0,,为了养育孩子 需要你无垢的身体
+Dialogue: 0,0:33:50.84,0:33:52.48,Default,NTP,0,0,0,,怎么会 太疯狂了
+Dialogue: 0,0:33:53.00,0:33:53.58,Default,NTP,0,0,0,,莉华
+Dialogue: 0,0:33:54.16,0:33:56.68,Default,NTP,0,0,0,,老师 快停下
+Dialogue: 0,0:33:56.68,0:33:59.06,Default,NTP,0,0,0,,来吧 和老师一起开心吧
+Dialogue: 0,0:34:02.58,0:34:03.34,Default,NTP,0,0,0,,住手
+Dialogue: 0,0:34:08.22,0:34:09.62,Default,NTP,0,0,0,,切 又是这个吗
+Dialogue: 0,0:34:13.56,0:34:14.30,Default,NTP,0,0,0,,田村君
+Dialogue: 0,0:34:14.60,0:34:15.52,Default,NTP,0,0,0,,彩姐?
+Dialogue: 0,0:34:16.14,0:34:17.16,Default,NTP,0,0,0,,莉华在哪?
+Dialogue: 0,0:34:17.50,0:34:20.12,Default,NTP,0,0,0,,莉华的话 被裕子老师叫走 在学校哦
+Dialogue: 0,0:34:20.40,0:34:21.44,Default,NTP,0,0,0,,哎?裕子?
+Dialogue: 0,0:34:21.86,0:34:23.08,Default,NTP,0,0,0,,发生什么了吗
+Dialogue: 0,0:34:23.20,0:34:24.50,Default,NTP,0,0,0,,上来！快点！
+Dialogue: 0,0:34:25.02,0:34:25.88,Default,NTP,0,0,0,,啊 是！
+Dialogue: 0,0:34:59.24,0:35:02.18,Default,NTP,0,0,0,,淫兽?不要开玩笑了
+Dialogue: 0,0:35:02.26,0:35:03.90,Default,NTP,0,0,0,,我也不想相信
+Dialogue: 0,0:35:04.16,0:35:05.16,Default,NTP,0,0,0,,但是我看到了
+Dialogue: 0,0:35:05.76,0:35:08.80,Default,NTP,0,0,0,,裕子的房间里 变成木乃伊的男性尸体
+Dialogue: 0,0:35:09.22,0:35:10.68,Default,NTP,0,0,0,,那 裕子老师呢
+Dialogue: 0,0:35:10.72,0:35:12.26,Default,NTP,0,0,0,,被淫兽支配了
+Dialogue: 0,0:35:12.78,0:35:14.02,Default,NTP,0,0,0,,但是 为什么莉华
+Dialogue: 0,0:35:14.48,0:35:15.68,Default,NTP,0,0,0,,为了产卵
+Dialogue: 0,0:35:15.90,0:35:19.64,Default,NTP,0,0,0,,根据古文书 淫兽会在处女的体内产下卵
+Dialogue: 0,0:35:20.12,0:35:22.06,Default,NTP,0,0,0,,那 莉华岂不是很不妙
+Dialogue: 0,0:36:10.70,0:36:13.56,Default,NTP,0,0,0,,要去了 去了
+Dialogue: 0,0:36:22.28,0:36:23.66,Default,NTP,0,0,0,,太好了 莉华
+Dialogue: 0,0:36:35.16,0:36:35.98,Default,NTP,0,0,0,,老师！?
+Dialogue: 0,0:36:52.66,0:36:53.82,Default,NTP,0,0,0,,什么东西?
+Dialogue: 0,0:37:27.72,0:37:28.38,Default,NTP,0,0,0,,裕子
+Dialogue: 0,0:37:28.38,0:37:29.00,Default,NTP,0,0,0,,莉华
+Dialogue: 0,0:37:34.80,0:37:36.52,Default,NTP,0,0,0,,停下 放开莉华
+Dialogue: 0,0:37:36.90,0:37:39.94,Default,NTP,0,0,0,,裕子 快点放开那些孩子
+Dialogue: 0,0:37:40.18,0:37:41.48,Default,NTP,0,0,0,,可恶 这个怪物
+Dialogue: 0,0:37:47.60,0:37:48.24,Default,NTP,0,0,0,,莉华
+Dialogue: 0,0:37:49.24,0:37:50.68,Default,NTP,0,0,0,,莉华 没事吗
+Dialogue: 0,0:37:50.68,0:37:55.64,Default,NTP,0,0,0,,我要给你特别的快乐
+Dialogue: 0,0:37:55.86,0:37:57.46,Default,NTP,0,0,0,,已经不是裕子了是吗
+Dialogue: 0,0:37:57.46,0:37:59.02,Default,NTP,0,0,0,,那又怎么样
+Dialogue: 0,0:37:59.60,0:38:00.56,Default,NTP,0,0,0,,把你退治
+Dialogue: 0,0:38:07.12,0:38:07.98,Default,NTP,0,0,0,,彩姐
+Dialogue: 0,0:38:08.68,0:38:09.26,Default,NTP,0,0,0,,可恶
+Dialogue: 0,0:38:12.88,0:38:13.46,Default,NTP,0,0,0,,吃这招
+Dialogue: 0,0:38:17.58,0:38:18.72,Default,NTP,0,0,0,,彩姐 用那个
+Dialogue: 0,0:38:48.36,0:38:53.30,Default,NTP,0,0,0,,彩乃 救救我 好热
+Dialogue: 0,0:39:26.68,0:39:27.36,Default,NTP,0,0,0,,裕子
+Dialogue: 0,0:39:30.28,0:39:31.76,Default,NTP,0,0,0,,裕子没事吗 裕子
+Dialogue: 0,0:39:32.10,0:39:34.56,Default,NTP,0,0,0,,彩乃 感觉身体好像散架了
+Dialogue: 0,0:39:35.86,0:39:38.24,Default,NTP,0,0,0,,已经结束了 安心吧
+Dialogue: 0,0:39:40.74,0:39:42.28,Default,NTP,0,0,0,,裕子 振作一点
+Dialogue: 0,0:39:55.90,0:39:58.74,Default,NTP,0,0,0,,不行 被那种怪物玷污了
+Dialogue: 0,0:39:59.08,0:40:00.64,Default,NTP,0,0,0,,我的身体已经... 
+Dialogue: 0,0:40:00.84,0:40:02.06,Default,NTP,0,0,0,,莉华没有变
+Dialogue: 0,0:40:02.68,0:40:04.26,Default,NTP,0,0,0,,还是我喜欢的莉华
+Dialogue: 0,0:40:04.36,0:40:05.10,Default,NTP,0,0,0,,直人...
+Dialogue: 0,0:40:07.34,0:40:08.10,Default,NTP,0,0,0,,莉华
+Dialogue: 0,0:40:16.86,0:40:19.90,Default,NTP,0,0,0,,啊 直人 温柔点 
+Dialogue: 0,0:40:21.78,0:40:22.94,Default,NTP,0,0,0,,那里 讨厌
+Dialogue: 0,0:40:38.68,0:40:39.36,Default,NTP,0,0,0,,很好
+Dialogue: 0,0:40:47.02,0:40:49.38,Default,NTP,0,0,0,,直人 进来
+Dialogue: 0,0:40:52.78,0:40:53.56,Default,NTP,0,0,0,,疼
+Dialogue: 0,0:40:59.44,0:41:00.96,Default,NTP,0,0,0,,莉华 快去了
+Dialogue: 0,0:41:04.38,0:41:06.84,Default,NTP,0,0,0,,就那样 两人一起
+Dialogue: 0,0:41:08.78,0:41:09.58,Default,NTP,0,0,0,,要去了
+Dialogue: 0,0:41:11.78,0:41:12.52,Default,NTP,0,0,0,,要去了
+Dialogue: 0,0:41:14.74,0:41:15.76,Default,NTP,0,0,0,,好了吗
+Dialogue: 0,0:41:42.70,0:41:46.54,Default,NTP,0,0,0,,我是这个班级新的班主任龙云寺莉华 
+Dialogue: 0,0:41:47.64,0:41:51.12,Default,NTP,0,0,0,,担当是生物 大家多多指教

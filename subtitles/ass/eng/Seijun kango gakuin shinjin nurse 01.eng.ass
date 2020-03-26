@@ -1,0 +1,481 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,25,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,30,0
+Style: Subtitle Style2,Georgia,36,&H00909090,&H00C0C0C0,&H00E0E0E0,&H00FFFFFF,-1,-1,0,0,100,100,0,0,1,2,2,2,20,20,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.92,0:00:15.55,Subtitle Style2,,0000,0000,0000,,This is the Aobadai\NGeneral Hospital Nursing Academy.
+Dialogue: 0,0:00:15.92,0:00:18.48,Subtitle Style2,,0000,0000,0000,,Today, these women are\Nparticipating in the ceremony...
+Dialogue: 0,0:00:18.53,0:00:20.09,Subtitle Style2,,0000,0000,0000,,in which they'll receive\Ntheir nursing hats.
+Dialogue: 0,0:00:20.90,0:00:23.46,Subtitle Style2,,0000,0000,0000,,These ladies are angels in white,\Nwho descended from the heavens...
+Dialogue: 0,0:00:23.50,0:00:27.23,Subtitle Style2,,0000,0000,0000,,to save people's lives.\NThey're future nurses.
+Dialogue: 0,0:00:28.10,0:00:29.66,Subtitle Style2,,0000,0000,0000,,Yumi Asakura!
+Dialogue: 0,0:00:29.71,0:00:30.50,Subtitle Style2,,0000,0000,0000,,Yes!
+Dialogue: 0,0:00:30.54,0:00:34.48,Subtitle Style2,,0000,0000,0000,,This nursing hat ceremony\Nis an important event,
+Dialogue: 0,0:00:34.51,0:00:39.04,Subtitle Style2,,0000,0000,0000,,where we reaffirm our decisions\Nto become nurses.
+Dialogue: 0,0:00:40.72,0:00:44.05,Subtitle Style2,,0000,0000,0000,,I hope you wiII become a nurse\Nwhom every patient wiII Iove.
+Dialogue: 0,0:00:51.56,0:00:54.46,Subtitle Style2,,0000,0000,0000,,This is a story about Yumi Asakura,\Nwho has given her all...
+Dialogue: 0,0:00:54.50,0:00:58.36,Subtitle Style2,,0000,0000,0000,,to become a nurse,\Nthe most sacred profession.
+Dialogue: 0,0:00:59.30,0:01:02.79,Subtitle Style2,,0000,0000,0000,,I'm going to become a wonderfuI nurse\Nwhom everyone's going to Iove.
+Dialogue: 0,0:01:07.81,0:01:09.44,Subtitle Style2,,0000,0000,0000,,Nurse Me! Nurse Yumi
+Dialogue: 0,0:01:09.48,0:01:13.31,Subtitle Style2,,0000,0000,0000,,Nurse Me! Nurse Yumi\NShamefuI Nurse Training: Session 1
+Dialogue: 0,0:01:23.86,0:01:25.79,Subtitle Style2,,0000,0000,0000,,Room 201\NRisa Nakayama\NYumi Asakura
+Dialogue: 0,0:01:27.10,0:01:29.83,Subtitle Style2,,0000,0000,0000,,Risa! Huh?\NIs someone here?
+Dialogue: 0,0:01:30.37,0:01:33.23,Subtitle Style2,,0000,0000,0000,,Risa! The ceIebration's started!
+Dialogue: 0,0:01:41.61,0:01:42.74,Subtitle Style2,,0000,0000,0000,,Risa?
+Dialogue: 0,0:01:49.28,0:01:52.69,Subtitle Style2,,0000,0000,0000,,Oh, no! He's giving her\Nmouth-to-mouth and a heart massage!
+Dialogue: 0,0:01:53.09,0:01:56.06,Subtitle Style2,,0000,0000,0000,,Yumi is very innocent,\Nso that's what she really thought.
+Dialogue: 0,0:01:58.39,0:01:59.69,Subtitle Style2,,0000,0000,0000,,Here I come.
+Dialogue: 0,0:01:59.73,0:02:02.20,Subtitle Style2,,0000,0000,0000,,Risa! Are you aII right?
+Dialogue: 0,0:02:02.60,0:02:04.06,Subtitle Style2,,0000,0000,0000,,Yumi?
+Dialogue: 0,0:02:04.27,0:02:07.79,Subtitle Style2,,0000,0000,0000,,I don't know who you are, but\Nthank you. I'II take it from here.
+Dialogue: 0,0:02:08.84,0:02:10.77,Subtitle Style2,,0000,0000,0000,,Huh? What are you taIking about?
+Dialogue: 0,0:02:11.21,0:02:16.37,Subtitle Style2,,0000,0000,0000,,I want Funato to do me. Why don't\Nyou ceIebrate with Matsuzaki?
+Dialogue: 0,0:02:16.91,0:02:18.64,Subtitle Style2,,0000,0000,0000,,CeIebrate?
+Dialogue: 0,0:02:22.48,0:02:26.15,Subtitle Style2,,0000,0000,0000,,Don't act so scared.\NYou're hurting my feeIings!
+Dialogue: 0,0:02:27.12,0:02:29.85,Subtitle Style2,,0000,0000,0000,,I'm sorry I screamed.\NI was surprised.
+Dialogue: 0,0:02:30.63,0:02:33.89,Subtitle Style2,,0000,0000,0000,,Yumi! Let's do\Nwhat they're doing!
+Dialogue: 0,0:02:38.90,0:02:40.63,Subtitle Style2,,0000,0000,0000,,Yes... It feeIs so good.
+Dialogue: 0,0:02:42.90,0:02:46.67,Subtitle Style2,,0000,0000,0000,,lt was the first time Yumi had seen\Nsomeone having sex in front of her.
+Dialogue: 0,0:02:50.11,0:02:52.27,Subtitle Style2,,0000,0000,0000,,Yumi is a virgin.\Nl kid you not.
+Dialogue: 0,0:02:52.75,0:02:56.68,Subtitle Style2,,0000,0000,0000,,She's never gone out with a man\Nin her entire life.
+Dialogue: 0,0:02:57.55,0:03:02.08,Subtitle Style2,,0000,0000,0000,,That's why Yumi was so surprised,\Nand was unable to look away.
+Dialogue: 0,0:03:03.56,0:03:08.43,Subtitle Style2,,0000,0000,0000,,Her body started to get hot,\Nand her pussy became moist.
+Dialogue: 0,0:03:13.87,0:03:15.53,Subtitle Style2,,0000,0000,0000,,-No! No! Stop! Stop! PIease stop!\N-Yumi, congratuIations on...
+Dialogue: 0,0:03:15.57,0:03:16.63,Subtitle Style2,,0000,0000,0000,,-No! No! Stop! Stop! PIease stop!\N-receiving your nursing hat!
+Dialogue: 0,0:03:16.67,0:03:18.76,Subtitle Style2,,0000,0000,0000,,PIease accept my\NcongratuIatory party popper!
+Dialogue: 0,0:03:19.27,0:03:21.47,Subtitle Style2,,0000,0000,0000,,I don't know what you're\NtaIking about, but no thank you!
+Dialogue: 0,0:03:22.74,0:03:24.27,Subtitle Style2,,0000,0000,0000,,Am I not good enough?
+Dialogue: 0,0:03:24.31,0:03:26.01,Subtitle Style2,,0000,0000,0000,,My party favor's a hundred\Nand fifty miIIimeters Iong...
+Dialogue: 0,0:03:26.05,0:03:27.67,Subtitle Style2,,0000,0000,0000,,and thirty-two miIIimeters thick.
+Dialogue: 0,0:03:27.72,0:03:29.27,Subtitle Style2,,0000,0000,0000,,I don't understand\Nwhat you're saying!
+Dialogue: 0,0:03:30.42,0:03:33.05,Subtitle Style2,,0000,0000,0000,,No! Ew! That's gross!
+Dialogue: 0,0:03:33.52,0:03:36.39,Subtitle Style2,,0000,0000,0000,,Don't say that!\NYou're hurting my feeIings.
+Dialogue: 0,0:03:36.93,0:03:42.26,Subtitle Style2,,0000,0000,0000,,I... I'm sorry. N... No...\NRisa, heIp me!
+Dialogue: 0,0:03:45.27,0:03:46.23,Subtitle Style2,,0000,0000,0000,,Risa!
+Dialogue: 0,0:03:48.84,0:03:51.27,Subtitle Style2,,0000,0000,0000,,Yumi's cries echoed in vain.
+Dialogue: 0,0:03:51.81,0:03:53.40,Subtitle Style2,,0000,0000,0000,,Cute panties.
+Dialogue: 0,0:03:54.31,0:03:56.28,Subtitle Style2,,0000,0000,0000,,No, no, no!
+Dialogue: 0,0:03:59.15,0:04:03.08,Subtitle Style2,,0000,0000,0000,,PIease stop.\NDon't Iick me there!
+Dialogue: 0,0:04:04.65,0:04:07.95,Subtitle Style2,,0000,0000,0000,,Don't Iick me...\NPIease, no more!
+Dialogue: 0,0:04:10.89,0:04:12.42,Subtitle Style2,,0000,0000,0000,,Y... Yumi.
+Dialogue: 0,0:04:13.70,0:04:15.22,Subtitle Style2,,0000,0000,0000,,-No!\N-Yumi!
+Dialogue: 0,0:04:15.26,0:04:17.25,Subtitle Style2,,0000,0000,0000,,Stop! PIease stop!
+Dialogue: 0,0:04:17.30,0:04:19.36,Subtitle Style2,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:04:19.83,0:04:21.20,Subtitle Style2,,0000,0000,0000,,No!
+Dialogue: 0,0:04:25.01,0:04:26.13,Subtitle Style2,,0000,0000,0000,,NO!
+Dialogue: 0,0:04:32.88,0:04:35.82,Subtitle Style2,,0000,0000,0000,,Yumi really didn't understand\Nwhat happened.
+Dialogue: 0,0:04:36.89,0:04:41.98,Subtitle Style2,,0000,0000,0000,,But she was very sad. She was so sad\Nthat she ran out of the room.
+Dialogue: 0,0:04:43.56,0:04:45.08,Subtitle Style2,,0000,0000,0000,,Yumi?
+Dialogue: 0,0:04:46.39,0:04:47.59,Subtitle Style2,,0000,0000,0000,,Funato...
+Dialogue: 0,0:04:47.96,0:04:49.43,Subtitle Style2,,0000,0000,0000,,Yumi Asakura.
+Dialogue: 0,0:04:50.57,0:04:53.03,Subtitle Style2,,0000,0000,0000,,Okay? You have to have\Neverything memorized up to here.
+Dialogue: 0,0:05:00.28,0:05:04.41,Subtitle Style2,,0000,0000,0000,,I can't get it out of my head.\NSomething's wrong with me.
+Dialogue: 0,0:05:06.35,0:05:08.61,Subtitle Style2,,0000,0000,0000,,Yumi, pIease come here.
+Dialogue: 0,0:05:09.28,0:05:10.08,Subtitle Style2,,0000,0000,0000,,Eh?
+Dialogue: 0,0:05:10.12,0:05:11.52,Subtitle Style2,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:05:11.55,0:05:12.88,Subtitle Style2,,0000,0000,0000,,Y... Yes.
+Dialogue: 0,0:05:13.12,0:05:14.55,Subtitle Style2,,0000,0000,0000,,Get on this.
+Dialogue: 0,0:05:14.59,0:05:15.61,Subtitle Style2,,0000,0000,0000,,Yes?
+Dialogue: 0,0:05:15.66,0:05:20.19,Subtitle Style2,,0000,0000,0000,,I'm impressed, Yumi.\NUsuaIIy no one wants to do this.
+Dialogue: 0,0:05:20.70,0:05:22.66,Subtitle Style2,,0000,0000,0000,,I want you to get on aII fours.
+Dialogue: 0,0:05:23.16,0:05:23.96,Subtitle Style2,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:24.23,0:05:26.72,Subtitle Style2,,0000,0000,0000,,We're going to do\Nthe enema Iesson.
+Dialogue: 0,0:05:26.77,0:05:28.57,Subtitle Style2,,0000,0000,0000,,Enema Iesson?
+Dialogue: 0,0:05:29.04,0:05:31.23,Subtitle Style2,,0000,0000,0000,,Etsuko, what's that?
+Dialogue: 0,0:05:31.51,0:05:33.77,Subtitle Style2,,0000,0000,0000,,An enema Iesson\Nis an enema Iesson.
+Dialogue: 0,0:05:34.18,0:05:37.34,Subtitle Style2,,0000,0000,0000,,You voIunteered to\Nbe the patient, didn't you?
+Dialogue: 0,0:05:37.81,0:05:39.61,Subtitle Style2,,0000,0000,0000,,I didn't know...
+Dialogue: 0,0:05:39.65,0:05:44.55,Subtitle Style2,,0000,0000,0000,,There's no need to be embarrassed.\NCIass can go on, thanks to you.
+Dialogue: 0,0:05:45.32,0:05:46.81,Subtitle Style2,,0000,0000,0000,,But that's...
+Dialogue: 0,0:05:46.86,0:05:48.98,Subtitle Style2,,0000,0000,0000,,Come, get on aII fours.
+Dialogue: 0,0:05:49.39,0:05:50.42,Subtitle Style2,,0000,0000,0000,,Y... Yes.
+Dialogue: 0,0:05:50.46,0:05:53.22,Subtitle Style2,,0000,0000,0000,,Yumi always had\Na hard time saying no.
+Dialogue: 0,0:05:54.20,0:05:56.06,Subtitle Style2,,0000,0000,0000,,Everyone take a good Iook!
+Dialogue: 0,0:06:05.51,0:06:06.63,Subtitle Style2,,0000,0000,0000,,No!
+Dialogue: 0,0:06:11.51,0:06:16.75,Subtitle Style2,,0000,0000,0000,,Yumi, imagine how the patient feeIs.\NYou don't Iike this, right?
+Dialogue: 0,0:06:17.59,0:06:20.58,Subtitle Style2,,0000,0000,0000,,That's why we have to do this\Nas fast as we can.
+Dialogue: 0,0:06:21.22,0:06:24.12,Subtitle Style2,,0000,0000,0000,,The patient's...\NThe patient's feeIings...
+Dialogue: 0,0:06:25.16,0:06:28.43,Subtitle Style2,,0000,0000,0000,,lf she went through with the enema,\Nshe'd be able to be a nurse...
+Dialogue: 0,0:06:28.46,0:06:29.93,Subtitle Style2,,0000,0000,0000,,who could better understand\Nthe patient's feelings.
+Dialogue: 0,0:06:30.07,0:06:32.16,Subtitle Style2,,0000,0000,0000,,Yumi mustered her courage\Nand made up her mind.
+Dialogue: 0,0:06:32.80,0:06:34.36,Subtitle Style2,,0000,0000,0000,,I understand.
+Dialogue: 0,0:06:34.40,0:06:35.80,Subtitle Style2,,0000,0000,0000,,Then move your hand.
+Dialogue: 0,0:06:35.84,0:06:37.30,Subtitle Style2,,0000,0000,0000,,Y... Yes...
+Dialogue: 0,0:06:40.38,0:06:41.74,Subtitle Style2,,0000,0000,0000,,You're beautifuI, Yumi.
+Dialogue: 0,0:06:42.14,0:06:43.41,Subtitle Style2,,0000,0000,0000,,I'm so embarrassed.
+Dialogue: 0,0:06:43.45,0:06:44.91,Subtitle Style2,,0000,0000,0000,,We wiII use this.
+Dialogue: 0,0:06:47.78,0:06:51.12,Subtitle Style2,,0000,0000,0000,,Make sure you don't stick it\Nin the wrong hoIe.
+Dialogue: 0,0:06:54.32,0:06:56.05,Subtitle Style2,,0000,0000,0000,,You wiII insert it in\Nthe patient's rectum...
+Dialogue: 0,0:06:59.19,0:07:01.06,Subtitle Style2,,0000,0000,0000,,and pour in the soIution.
+Dialogue: 0,0:07:10.91,0:07:13.31,Subtitle Style2,,0000,0000,0000,,Can you expIain how it feeIs?
+Dialogue: 0,0:07:13.91,0:07:15.88,Subtitle Style2,,0000,0000,0000,,Embarrassing... No, I mean...
+Dialogue: 0,0:07:16.54,0:07:21.00,Subtitle Style2,,0000,0000,0000,,The coId soIution is coming in from\Nthe bottom and circIing its way up.
+Dialogue: 0,0:07:23.95,0:07:27.51,Subtitle Style2,,0000,0000,0000,,My stomach is starting to hurt.\NAre you putting more in?
+Dialogue: 0,0:07:28.59,0:07:31.35,Subtitle Style2,,0000,0000,0000,,ReIax. It's just a IittIe more.
+Dialogue: 0,0:07:32.79,0:07:37.42,Subtitle Style2,,0000,0000,0000,,It hurts... It hurts... Ow! It hurts! It hurts...
+Dialogue: 0,0:07:37.87,0:07:43.24,Subtitle Style2,,0000,0000,0000,,PIease, no more... PIease...\NI can't. I can't take anymore!
+Dialogue: 0,0:07:44.57,0:07:46.01,Subtitle Style2,,0000,0000,0000,,No! No!
+Dialogue: 0,0:07:58.22,0:07:59.85,Subtitle Style2,,0000,0000,0000,,Now does everyone understand?
+Dialogue: 0,0:08:00.56,0:08:03.08,Subtitle Style2,,0000,0000,0000,,Insertion and withdrawaI\Nmust be done quickIy.
+Dialogue: 0,0:08:04.19,0:08:07.06,Subtitle Style2,,0000,0000,0000,,Being carefuI is important,\Nbut if you move sIowIy,
+Dialogue: 0,0:08:07.10,0:08:09.33,Subtitle Style2,,0000,0000,0000,,it'II cause the patient\Nmore pain.
+Dialogue: 0,0:08:09.86,0:08:11.20,Subtitle Style2,,0000,0000,0000,,Bathroom...
+Dialogue: 0,0:08:11.23,0:08:13.67,Subtitle Style2,,0000,0000,0000,,This doesn't aIways appIy\Nto just enemas.
+Dialogue: 0,0:08:14.94,0:08:16.70,Subtitle Style2,,0000,0000,0000,,May I go to the bathroom?
+Dialogue: 0,0:08:17.07,0:08:18.73,Subtitle Style2,,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:08:18.81,0:08:20.21,Subtitle Style2,,0000,0000,0000,,I need to go to the bathroom.
+Dialogue: 0,0:08:20.24,0:08:21.40,Subtitle Style2,,0000,0000,0000,,Yumi?
+Dialogue: 0,0:08:21.44,0:08:22.50,Subtitle Style2,,0000,0000,0000,,Yes?
+Dialogue: 0,0:08:22.54,0:08:24.27,Subtitle Style2,,0000,0000,0000,,Now do you understand\Nhow the patient feeIs?
+Dialogue: 0,0:08:24.98,0:08:28.35,Subtitle Style2,,0000,0000,0000,,Yes. I have a very good\Nunderstanding now.
+Dialogue: 0,0:08:28.68,0:08:30.58,Subtitle Style2,,0000,0000,0000,,Wait three minutes, then.
+Dialogue: 0,0:08:31.49,0:08:33.25,Subtitle Style2,,0000,0000,0000,,B... But!
+Dialogue: 0,0:08:50.27,0:08:56.61,Subtitle Style2,,0000,0000,0000,,I can't anymore... It's going\Nto come out... Bathroom...
+Dialogue: 0,0:09:03.28,0:09:05.38,Subtitle Style2,,0000,0000,0000,,Do you understand\Nhow the patient feels?
+Dialogue: 0,0:09:06.72,0:09:11.28,Subtitle Style2,,0000,0000,0000,,This must be... This must be\Na hurdle to becoming a good nurse!
+Dialogue: 0,0:09:15.76,0:09:16.99,Subtitle Style2,,0000,0000,0000,,AImost there...
+Dialogue: 0,0:09:17.53,0:09:19.33,Subtitle Style2,,0000,0000,0000,,Out of Order
+Dialogue: 0,0:09:20.94,0:09:22.70,Subtitle Style2,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:09:23.47,0:09:25.74,Subtitle Style2,,0000,0000,0000,,I can't hoId it anymore! No!
+Dialogue: 0,0:09:26.81,0:09:28.97,Subtitle Style2,,0000,0000,0000,,It's going to come out!\NIt's going to come out!
+Dialogue: 0,0:09:31.95,0:09:34.01,Subtitle Style2,,0000,0000,0000,,No! No! No!
+Dialogue: 0,0:09:39.12,0:09:40.78,Subtitle Style2,,0000,0000,0000,,Bathroom... Bath...
+Dialogue: 0,0:09:47.20,0:09:49.19,Subtitle Style2,,0000,0000,0000,,No... No...
+Dialogue: 0,0:10:16.52,0:10:19.36,Subtitle Style2,,0000,0000,0000,,Later on, Yumi put this experience\Nto good use and was labeled...
+Dialogue: 0,0:10:19.39,0:10:24.63,Subtitle Style2,,0000,0000,0000,,Enema Expert Yumi. l'm not too sure\Nif she was happy about that, though.
+Dialogue: 0,0:10:27.27,0:10:28.96,Subtitle Style2,,0000,0000,0000,,The next patient's name is Takayuki.
+Dialogue: 0,0:10:29.37,0:10:31.46,Subtitle Style2,,0000,0000,0000,,He's very weak, so he's been\NhospitaIized for a whiIe.
+Dialogue: 0,0:10:32.27,0:10:34.07,Subtitle Style2,,0000,0000,0000,,That's why he needs\Na coIostomy bag.
+Dialogue: 0,0:10:36.24,0:10:38.27,Subtitle Style2,,0000,0000,0000,,Takayuki Kudo... He's really hot.
+Dialogue: 0,0:10:40.62,0:10:42.67,Subtitle Style2,,0000,0000,0000,,Takayuki, I'm going\Nto take your temperature.
+Dialogue: 0,0:10:44.25,0:10:47.85,Subtitle Style2,,0000,0000,0000,,She's really cute. l've never seen\Nsuch a pretty nurse.
+Dialogue: 0,0:10:50.53,0:10:52.72,Subtitle Style2,,0000,0000,0000,,Yumi, insert the catheter, pIease.
+Dialogue: 0,0:10:53.09,0:10:53.58,Subtitle Style2,,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:58.33,0:11:00.53,Subtitle Style2,,0000,0000,0000,,WeII, we can't put the catheter in\Nif you're hard, so...
+Dialogue: 0,0:11:01.07,0:11:03.59,Subtitle Style2,,0000,0000,0000,,Yumi, make him ejacuIate.
+Dialogue: 0,0:11:04.11,0:11:05.37,Subtitle Style2,,0000,0000,0000,,EjacuIate?
+Dialogue: 0,0:11:05.41,0:11:07.40,Subtitle Style2,,0000,0000,0000,,There's nothing to be\Nso surprised about.
+Dialogue: 0,0:11:07.68,0:11:09.73,Subtitle Style2,,0000,0000,0000,,B... But I...
+Dialogue: 0,0:11:09.78,0:11:10.90,Subtitle Style2,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:11:10.95,0:11:14.47,Subtitle Style2,,0000,0000,0000,,Um, weII, I don't know\Nhow to do it.
+Dialogue: 0,0:11:14.88,0:11:16.61,Subtitle Style2,,0000,0000,0000,,ReaIIy? At your age?
+Dialogue: 0,0:11:16.99,0:11:18.54,Subtitle Style2,,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:18.69,0:11:21.66,Subtitle Style2,,0000,0000,0000,,Fine, then. Watch me do it.
+Dialogue: 0,0:11:23.36,0:11:25.02,Subtitle Style2,,0000,0000,0000,,Wh... What are you doing?
+Dialogue: 0,0:11:25.06,0:11:27.89,Subtitle Style2,,0000,0000,0000,,It's okay. If you feeI Iike\Nyou have to ejacuIate, go ahead.
+Dialogue: 0,0:11:28.36,0:11:29.83,Subtitle Style2,,0000,0000,0000,,That's aII you need to do.
+Dialogue: 0,0:11:30.23,0:11:32.46,Subtitle Style2,,0000,0000,0000,,If you do that...\NI'm reaIIy gonna...
+Dialogue: 0,0:11:32.87,0:11:34.30,Subtitle Style2,,0000,0000,0000,,Let it aII out.
+Dialogue: 0,0:11:40.38,0:11:44.71,Subtitle Style2,,0000,0000,0000,,Yumi, take it over. It'II be over\NshortIy if you foIIow what I did.
+Dialogue: 0,0:11:45.41,0:11:46.28,Subtitle Style2,,0000,0000,0000,,But...
+Dialogue: 0,0:11:50.89,0:11:56.62,Subtitle Style2,,0000,0000,0000,,lt's hot. lt's hot and it's\Nbeating fast. He must be in pain.
+Dialogue: 0,0:11:59.46,0:12:00.76,Subtitle Style2,,0000,0000,0000,,Yes...
+Dialogue: 0,0:12:01.06,0:12:03.03,Subtitle Style2,,0000,0000,0000,,Etsuko, am I doing it right?
+Dialogue: 0,0:12:03.66,0:12:05.26,Subtitle Style2,,0000,0000,0000,,Use both hands.
+Dialogue: 0,0:12:05.57,0:12:07.00,Subtitle Style2,,0000,0000,0000,,Like this?
+Dialogue: 0,0:12:07.34,0:12:08.80,Subtitle Style2,,0000,0000,0000,,You have to wrap it\Nfrom underneath.
+Dialogue: 0,0:12:09.20,0:12:09.79,Subtitle Style2,,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:11.27,0:12:14.00,Subtitle Style2,,0000,0000,0000,,Yes, good. You're pretty good.
+Dialogue: 0,0:12:15.11,0:12:16.70,Subtitle Style2,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:12:18.95,0:12:20.54,Subtitle Style2,,0000,0000,0000,,You're so Iucky, Takayuki.
+Dialogue: 0,0:12:20.58,0:12:23.35,Subtitle Style2,,0000,0000,0000,,You're getting a hand job\Nfrom a pretty nurse at the hospitaI.
+Dialogue: 0,0:12:25.72,0:12:28.35,Subtitle Style2,,0000,0000,0000,,l can't believe such a hot chick\Nis jerking me off.
+Dialogue: 0,0:12:28.39,0:12:30.15,Subtitle Style2,,0000,0000,0000,,lf this is a dream,\Nl don't want to wake up.
+Dialogue: 0,0:12:46.84,0:12:49.37,Subtitle Style2,,0000,0000,0000,,Yumi, you can Iet go of it now.
+Dialogue: 0,0:12:50.08,0:12:51.60,Subtitle Style2,,0000,0000,0000,,Get ready to insert the catheter.
+Dialogue: 0,0:12:52.11,0:12:54.51,Subtitle Style2,,0000,0000,0000,,Etsuko Kawai, Head Nurse,\N28 years old,
+Dialogue: 0,0:12:54.82,0:12:59.28,Subtitle Style2,,0000,0000,0000,,is able to switch from erotic mode\Nto work mode in .07 seconds.
+Dialogue: 0,0:13:00.15,0:13:03.82,Subtitle Style2,,0000,0000,0000,,Y... Yes!\NTakayuki, pIease stay stiII.
+Dialogue: 0,0:13:04.49,0:13:06.02,Subtitle Style2,,0000,0000,0000,,Umm... Go in!
+Dialogue: 0,0:13:10.06,0:13:14.23,Subtitle Style2,,0000,0000,0000,,Every day, when Yumi\Nmakes a boo-boo, the patients...
+Dialogue: 0,0:13:15.34,0:13:16.67,Subtitle Style2,,0000,0000,0000,,fondle her breasts,
+Dialogue: 0,0:13:17.54,0:13:18.97,Subtitle Style2,,0000,0000,0000,,caress her backside,
+Dialogue: 0,0:13:19.47,0:13:21.57,Subtitle Style2,,0000,0000,0000,,or stroke her panties.
+Dialogue: 0,0:13:21.91,0:13:23.64,Subtitle Style2,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:13:26.48,0:13:30.35,Subtitle Style2,,0000,0000,0000,,Furthermore, when Yumi\Nmakes a boo-boo, the patients...
+Dialogue: 0,0:13:31.42,0:13:33.18,Subtitle Style2,,0000,0000,0000,,twist her nipples,
+Dialogue: 0,0:13:33.72,0:13:35.21,Subtitle Style2,,0000,0000,0000,,poke her rectum,
+Dialogue: 0,0:13:36.52,0:13:38.99,Subtitle Style2,,0000,0000,0000,,or tickle her clitoris.
+Dialogue: 0,0:13:39.13,0:13:41.36,Subtitle Style2,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:13:47.30,0:13:50.24,Subtitle Style2,,0000,0000,0000,,Why am I so bad at this?
+Dialogue: 0,0:13:55.04,0:13:57.51,Subtitle Style2,,0000,0000,0000,,When my favorite uncle was\Nunexpectedly hospitalized,
+Dialogue: 0,0:13:57.55,0:13:58.41,Subtitle Style2,,0000,0000,0000,,Operation\NWhen my favorite uncle was\Nunexpectedly hospitalized,
+Dialogue: 0,0:13:58.45,0:13:59.24,Subtitle Style2,,0000,0000,0000,,Operation
+Dialogue: 0,0:13:59.28,0:14:02.65,Subtitle Style2,,0000,0000,0000,,Operation\Nl was worried sick, and a nurse\Ncame over to comfort me.
+Dialogue: 0,0:14:02.68,0:14:03.88,Subtitle Style2,,0000,0000,0000,,Operation
+Dialogue: 0,0:14:03.92,0:14:07.38,Subtitle Style2,,0000,0000,0000,,Don't worry,\Nyour uncle will be fine.
+Dialogue: 0,0:14:07.76,0:14:13.69,Subtitle Style2,,0000,0000,0000,,She not only saved his life, but\Nkindly took care of him afterwards.
+Dialogue: 0,0:14:14.86,0:14:16.89,Subtitle Style2,,0000,0000,0000,,She's the reason\Nl wanted to become a nurse.
+Dialogue: 0,0:14:17.73,0:14:20.22,Subtitle Style2,,0000,0000,0000,,l was inspired,\Nand l admired her work.
+Dialogue: 0,0:14:21.54,0:14:24.70,Subtitle Style2,,0000,0000,0000,,l could never face that nurse\Nif l were defeated here.
+Dialogue: 0,0:14:25.94,0:14:27.87,Subtitle Style2,,0000,0000,0000,,Okay, I'm gonna do it!
+Dialogue: 0,0:14:34.52,0:14:36.01,Subtitle Style2,,0000,0000,0000,,Shigeo Miura, Head Surgeon.
+Dialogue: 0,0:14:37.08,0:14:40.18,Subtitle Style2,,0000,0000,0000,,He's a talented surgeon,\Nbut is also rumored to be...
+Dialogue: 0,0:14:40.22,0:14:42.95,Subtitle Style2,,0000,0000,0000,,the next hospital president.\NObviously, he's also talented...
+Dialogue: 0,0:14:42.99,0:14:44.46,Subtitle Style2,,0000,0000,0000,,in hospital politics.
+Dialogue: 0,0:14:46.43,0:14:48.86,Subtitle Style2,,0000,0000,0000,,So this is the nurse\Nyou recommend?
+Dialogue: 0,0:14:49.23,0:14:51.53,Subtitle Style2,,0000,0000,0000,,Yes, I think she has\Na Iot of potentiaI.
+Dialogue: 0,0:14:52.13,0:14:55.16,Subtitle Style2,,0000,0000,0000,,I see. She does seem\Nto have potentiaI.
+Dialogue: 0,0:14:57.41,0:15:00.50,Subtitle Style2,,0000,0000,0000,,I've actuaIIy had\Nmy eye on her before.
+Dialogue: 0,0:15:05.91,0:15:07.35,Subtitle Style2,,0000,0000,0000,,Miura speaking.
+Dialogue: 0,0:15:08.05,0:15:09.57,Subtitle Style2,,0000,0000,0000,,Hmm, I see.
+Dialogue: 0,0:15:10.82,0:15:13.58,Subtitle Style2,,0000,0000,0000,,Etsuko! A car-accident patient\NwiII be admitted shortIy.
+Dialogue: 0,0:15:16.46,0:15:17.62,Subtitle Style2,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:15:20.29,0:15:21.89,Subtitle Style2,,0000,0000,0000,,Funato?
+Dialogue: 0,0:15:21.93,0:15:24.96,Subtitle Style2,,0000,0000,0000,,Yes, it's the patient who was in a\Ncar accident. He was just admitted.
+Dialogue: 0,0:15:25.57,0:15:27.12,Subtitle Style2,,0000,0000,0000,,I want you to take care of him.
+Dialogue: 0,0:15:27.17,0:15:28.64,Subtitle Style2,,0000,0000,0000,,Yes, I understand.
+Dialogue: 0,0:15:32.77,0:15:35.04,Subtitle Style2,,0000,0000,0000,,Funato as in Risa's Funato?
+Dialogue: 0,0:15:35.98,0:15:39.00,Subtitle Style2,,0000,0000,0000,,lt can't be. That's too much\Nof a coincidence.
+Dialogue: 0,0:15:41.15,0:15:43.67,Subtitle Style2,,0000,0000,0000,,Funato! I'm coming in!
+Dialogue: 0,0:15:49.82,0:15:52.52,Subtitle Style2,,0000,0000,0000,,Hey, stop shaking so much!\NYou're hurting me!
+Dialogue: 0,0:15:53.13,0:15:54.62,Subtitle Style2,,0000,0000,0000,,But...
+Dialogue: 0,0:15:56.76,0:15:58.32,Subtitle Style2,,0000,0000,0000,,Ow... Ow!
+Dialogue: 0,0:15:59.50,0:16:01.09,Subtitle Style2,,0000,0000,0000,,You're hurting me! It hurts!
+Dialogue: 0,0:16:01.54,0:16:03.73,Subtitle Style2,,0000,0000,0000,,I'm going to cum...\NI think I'm going to cum...
+Dialogue: 0,0:16:03.77,0:16:07.23,Subtitle Style2,,0000,0000,0000,,I think I'm going to cum.\NI think I'm going to cum.
+Dialogue: 0,0:16:08.54,0:16:09.47,Subtitle Style2,,0000,0000,0000,,Make up your mind!
+Dialogue: 0,0:16:09.51,0:16:10.60,Subtitle Style2,,0000,0000,0000,,I'm cumming!
+Dialogue: 0,0:16:14.85,0:16:16.25,Subtitle Style2,,0000,0000,0000,,R... Risa?
+Dialogue: 0,0:16:17.15,0:16:18.95,Subtitle Style2,,0000,0000,0000,,What a fatefuI encounter!
+Dialogue: 0,0:16:19.32,0:16:21.52,Subtitle Style2,,0000,0000,0000,,Yes, what an ironic encounter.
+Dialogue: 0,0:16:22.82,0:16:27.28,Subtitle Style2,,0000,0000,0000,,Um, I didn't mean to peek...\NI was put in charge of Funato and...
+Dialogue: 0,0:16:28.00,0:16:30.29,Subtitle Style2,,0000,0000,0000,,Yumi, keep this between us.\NIt won't be good...
+Dialogue: 0,0:16:30.33,0:16:33.36,Subtitle Style2,,0000,0000,0000,,if the hospitaI finds out I was\Nfucking the patient in his room.
+Dialogue: 0,0:16:33.50,0:16:34.83,Subtitle Style2,,0000,0000,0000,,I won't teII anyone!
+Dialogue: 0,0:16:35.87,0:16:36.84,Subtitle Style2,,0000,0000,0000,,I wonder about that.
+Dialogue: 0,0:16:37.44,0:16:40.50,Subtitle Style2,,0000,0000,0000,,She knows that I snuck into\Nthe women's dorm, too.
+Dialogue: 0,0:16:41.28,0:16:43.24,Subtitle Style2,,0000,0000,0000,,Don't you think it's better\Nif we have something on her?
+Dialogue: 0,0:16:43.58,0:16:45.07,Subtitle Style2,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:16:45.11,0:16:47.55,Subtitle Style2,,0000,0000,0000,,That's... I won't teII anyone!
+Dialogue: 0,0:16:53.02,0:16:55.82,Subtitle Style2,,0000,0000,0000,,I'm joking.\NYumi, you're so cute.
+Dialogue: 0,0:16:57.02,0:16:58.79,Subtitle Style2,,0000,0000,0000,,No smoking here, Funato.
+Dialogue: 0,0:16:59.76,0:17:01.52,Subtitle Style2,,0000,0000,0000,,I'II see you Iater, Yumi.\NTake care of him.
+Dialogue: 0,0:17:02.60,0:17:06.43,Subtitle Style2,,0000,0000,0000,,So there you go!\NTake good care of me, Ms. Nurse.
+Dialogue: 0,0:17:13.24,0:17:15.17,Subtitle Style2,,0000,0000,0000,,No, I'm stiII thinking about it.
+Dialogue: 0,0:17:17.81,0:17:19.18,Subtitle Style2,,0000,0000,0000,,H... Hurry!
+Dialogue: 0,0:17:21.92,0:17:23.35,Subtitle Style2,,0000,0000,0000,,Are you aII right?
+Dialogue: 0,0:17:24.15,0:17:26.24,Subtitle Style2,,0000,0000,0000,,My dick is swoIIen.
+Dialogue: 0,0:17:27.02,0:17:28.39,Subtitle Style2,,0000,0000,0000,,Stop joking around!
+Dialogue: 0,0:17:28.76,0:17:32.49,Subtitle Style2,,0000,0000,0000,,It's after Iights-out,\Nso pIease be quiet.
+Dialogue: 0,0:17:32.56,0:17:36.55,Subtitle Style2,,0000,0000,0000,,We'II Iet you go\Nafter we're done with you.
+Dialogue: 0,0:17:45.21,0:17:48.27,Subtitle Style2,,0000,0000,0000,,Nice face. Can't wait untiI\Nthe pictures are deveIoped.
+Dialogue: 0,0:17:51.38,0:17:53.37,Subtitle Style2,,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:17:53.51,0:17:56.07,Subtitle Style2,,0000,0000,0000,,Hey, Risa. Come back\Nfor another round?
+Dialogue: 0,0:17:57.99,0:17:59.35,Subtitle Style2,,0000,0000,0000,,Yumi, are you aII right?
+Dialogue: 0,0:17:59.55,0:18:01.18,Subtitle Style2,,0000,0000,0000,,Risa.
+Dialogue: 0,0:18:01.22,0:18:02.85,Subtitle Style2,,0000,0000,0000,,You're an asshoIe!
+Dialogue: 0,0:18:05.29,0:18:06.85,Subtitle Style2,,0000,0000,0000,,I'm sorry, Yumi.
+Dialogue: 0,0:18:06.89,0:18:11.16,Subtitle Style2,,0000,0000,0000,,I knew he was an idiot, but I never\Nthought he'd go after my best friend.
+Dialogue: 0,0:18:12.33,0:18:14.32,Subtitle Style2,,0000,0000,0000,,Did he reaIIy\NonIy see your breasts?
+Dialogue: 0,0:18:14.60,0:18:19.20,Subtitle Style2,,0000,0000,0000,,Yumi couldn't bring herself to say,\N''He took pictures too!''
+Dialogue: 0,0:18:23.51,0:18:25.81,Subtitle Style2,,0000,0000,0000,,She's so cute.\Nl'm a woman, but...
+Dialogue: 0,0:18:33.92,0:18:35.32,Subtitle Style2,,0000,0000,0000,,Risa?
+Dialogue: 0,0:18:37.89,0:18:39.79,Subtitle Style2,,0000,0000,0000,,Her pheromones are weird.
+Dialogue: 0,0:18:40.29,0:18:43.49,Subtitle Style2,,0000,0000,0000,,l can understand why she makes\Nthat idiot Funato act like that.
+Dialogue: 0,0:18:45.73,0:18:48.33,Subtitle Style2,,0000,0000,0000,,Hey, let me show you\Nsomething interesting.
+Dialogue: 0,0:18:52.14,0:18:54.27,Subtitle Style2,,0000,0000,0000,,l want to spend\Nsome time with you later.
+Dialogue: 0,0:19:00.38,0:19:03.08,Subtitle Style2,,0000,0000,0000,,Huh? Yumi? Excuse me...
+Dialogue: 0,0:19:09.72,0:19:13.63,Subtitle Style2,,0000,0000,0000,,Yumi, I've been in Iove with you\Nfrom the beginning.
+Dialogue: 0,0:19:13.66,0:19:14.82,Subtitle Style2,,0000,0000,0000,,It was Iove at first sight.
+Dialogue: 0,0:19:15.20,0:19:16.89,Subtitle Style2,,0000,0000,0000,,You're dating Risa.
+Dialogue: 0,0:19:17.33,0:19:19.60,Subtitle Style2,,0000,0000,0000,,Who cares about\Nthat Ioudmouthed bitch?
+Dialogue: 0,0:19:20.13,0:19:23.57,Subtitle Style2,,0000,0000,0000,,You're off today, aren't you?\NNo one's going to save you.
+Dialogue: 0,0:19:26.37,0:19:27.84,Subtitle Style2,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:19:32.08,0:19:36.21,Subtitle Style2,,0000,0000,0000,,-No, stop! What are you doing?\N-Yumi!
+Dialogue: 0,0:19:36.25,0:19:39.85,Subtitle Style2,,0000,0000,0000,,No, no! PIease stop it!
+Dialogue: 0,0:19:41.26,0:19:43.16,Subtitle Style2,,0000,0000,0000,,You're aIways so beautifuI!
+Dialogue: 0,0:19:43.19,0:19:45.22,Subtitle Style2,,0000,0000,0000,,D... Don't Iook at me! No!
+Dialogue: 0,0:19:49.20,0:19:51.26,Subtitle Style2,,0000,0000,0000,,-Stop! Don't touch me!\N-Yumi! Yumi!
+Dialogue: 0,0:19:54.24,0:19:55.36,Subtitle Style2,,0000,0000,0000,,No!
+Dialogue: 0,0:19:55.40,0:19:57.46,Subtitle Style2,,0000,0000,0000,,If you don't shut up, we're going\Nto post these everywhere.
+Dialogue: 0,0:20:08.25,0:20:11.81,Subtitle Style2,,0000,0000,0000,,So this is the sexy nurse\NYumi Asakura's dynamite body, eh?
+Dialogue: 0,0:20:12.02,0:20:14.11,Subtitle Style2,,0000,0000,0000,,No... no...
+Dialogue: 0,0:20:17.53,0:20:18.32,Subtitle Style2,,0000,0000,0000,,No.
+Dialogue: 0,0:20:18.36,0:20:20.99,Subtitle Style2,,0000,0000,0000,,Matsuzaki, Iook.\NShe's feeIing it.
+Dialogue: 0,0:20:21.43,0:20:23.92,Subtitle Style2,,0000,0000,0000,,She has such an innocent face,\Nbut she's a sIut.
+Dialogue: 0,0:20:23.96,0:20:25.86,Subtitle Style2,,0000,0000,0000,,I didn't expect her\Nto be this way.
+Dialogue: 0,0:20:26.63,0:20:30.07,Subtitle Style2,,0000,0000,0000,,She was being tortured,\Nbut Yumi was feeling it.
+Dialogue: 0,0:20:30.84,0:20:32.07,Subtitle Style2,,0000,0000,0000,,Ambivalence!
+Dialogue: 0,0:20:32.34,0:20:35.71,Subtitle Style2,,0000,0000,0000,,Yumi became confused\Nand lost her will to fight back.
+Dialogue: 0,0:20:43.98,0:20:47.01,Subtitle Style2,,0000,0000,0000,,No... No... No...
+Dialogue: 0,0:20:51.19,0:20:53.28,Subtitle Style2,,0000,0000,0000,,I'm gonna stick it in her pussy.
+Dialogue: 0,0:20:53.33,0:20:55.63,Subtitle Style2,,0000,0000,0000,,No! No! No!
+Dialogue: 0,0:20:55.66,0:20:57.36,Subtitle Style2,,0000,0000,0000,,Then I'II put it in her mouth.
+Dialogue: 0,0:20:57.80,0:21:00.70,Subtitle Style2,,0000,0000,0000,,Yumi Asakura is in deep trouble!
+Dialogue: 0,0:21:01.84,0:21:03.30,Subtitle Style2,,0000,0000,0000,,And that's when...
+Dialogue: 0,0:21:09.24,0:21:10.40,Subtitle Style2,,0000,0000,0000,,What do you think you're doing?
+Dialogue: 0,0:21:15.15,0:21:17.85,Subtitle Style2,,0000,0000,0000,,Doctor! Yumi! Are you aII right?
+Dialogue: 0,0:21:19.62,0:21:24.25,Subtitle Style2,,0000,0000,0000,,Thanks to you, Yumi's aII right.\NI'II take care of the rest.
+Dialogue: 0,0:21:24.29,0:21:25.66,Subtitle Style2,,0000,0000,0000,,PIease take care of her.
+Dialogue: 0,0:21:25.69,0:21:26.68,Subtitle Style2,,0000,0000,0000,,''l'm saved.''
+Dialogue: 0,0:21:26.86,0:21:29.42,Subtitle Style2,,0000,0000,0000,,After thinking that,\NYumi lost consciousness.
+Dialogue: 0,0:21:39.91,0:21:40.97,Subtitle Style2,,0000,0000,0000,,You're awake?
+Dialogue: 0,0:21:41.78,0:21:44.07,Subtitle Style2,,0000,0000,0000,,Doctor! Ow...
+Dialogue: 0,0:21:44.48,0:21:46.57,Subtitle Style2,,0000,0000,0000,,You had a IittIe\Ntoo much to drink.
+Dialogue: 0,0:21:47.95,0:21:50.92,Subtitle Style2,,0000,0000,0000,,Shigeo had asked Yumi\Nto go to dinner.
+Dialogue: 0,0:21:52.69,0:21:58.92,Subtitle Style2,,0000,0000,0000,,Yumi couldn't say no to the doctor\Nwho'd saved her virginity.
+Dialogue: 0,0:21:59.86,0:22:02.83,Subtitle Style2,,0000,0000,0000,,Yumi normally doesn't drink,
+Dialogue: 0,0:22:02.86,0:22:06.96,Subtitle Style2,,0000,0000,0000,,but she had a couple\Nto loosen her up.
+Dialogue: 0,0:22:09.37,0:22:11.63,Subtitle Style2,,0000,0000,0000,,Um, I'm so sorry about this.
+Dialogue: 0,0:22:12.81,0:22:15.57,Subtitle Style2,,0000,0000,0000,,It's okay.\NYou had quite a day today.
+Dialogue: 0,0:22:15.84,0:22:17.67,Subtitle Style2,,0000,0000,0000,,You don't have\Nto worry about Funato.
+Dialogue: 0,0:22:17.71,0:22:20.41,Subtitle Style2,,0000,0000,0000,,I expeIIed him\Nfrom the hospitaI aIready.
+Dialogue: 0,0:22:20.65,0:22:23.62,Subtitle Style2,,0000,0000,0000,,Thank you very much.\NThat's a reIief.
+Dialogue: 0,0:22:24.45,0:22:27.65,Subtitle Style2,,0000,0000,0000,,Um, by the way,\Nwhere are we?
+Dialogue: 0,0:22:28.72,0:22:32.49,Subtitle Style2,,0000,0000,0000,,This is the cIassroom I readied\Nfor you for our speciaI Iesson.
+Dialogue: 0,0:22:33.43,0:22:35.69,Subtitle Style2,,0000,0000,0000,,We're going to have cIass now?
+Dialogue: 0,0:22:35.93,0:22:37.76,Subtitle Style2,,0000,0000,0000,,Yes, put this on.
+Dialogue: 0,0:22:38.73,0:22:43.03,Subtitle Style2,,0000,0000,0000,,To be honest, you have\Na very serious fIaw as a nurse.
+Dialogue: 0,0:22:43.30,0:22:48.80,Subtitle Style2,,0000,0000,0000,,I have a serious fIaw as a nurse?\NWhat is it? PIease teII me!
+Dialogue: 0,0:22:49.04,0:22:52.50,Subtitle Style2,,0000,0000,0000,,I'II be frank with you.\NIt's the fact that you're a virgin.
+Dialogue: 0,0:22:53.61,0:22:59.25,Subtitle Style2,,0000,0000,0000,,You being a virgin is the cause of aII\Nthese probIems. Isn't that right?
+Dialogue: 0,0:22:59.99,0:23:01.18,Subtitle Style2,,0000,0000,0000,,It is?
+Dialogue: 0,0:23:01.69,0:23:06.06,Subtitle Style2,,0000,0000,0000,,There's nothing good about\Nbeing a nurse and a virgin.
+Dialogue: 0,0:23:06.53,0:23:11.62,Subtitle Style2,,0000,0000,0000,,My observation is a scientific fact\Nbased on years of empiricaI data.
+Dialogue: 0,0:23:12.07,0:23:14.26,Subtitle Style2,,0000,0000,0000,,Oh... I had no idea.
+Dialogue: 0,0:23:14.30,0:23:16.53,Subtitle Style2,,0000,0000,0000,,Yumi doesn't understand\Nthe concept of being suspicious.
+Dialogue: 0,0:23:19.34,0:23:22.17,Subtitle Style2,,0000,0000,0000,,That's why I'm going to have you\Ngraduate right now...
+Dialogue: 0,0:23:22.21,0:23:24.01,Subtitle Style2,,0000,0000,0000,,from being a virgin.
+Dialogue: 0,0:23:24.41,0:23:25.78,Subtitle Style2,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:23:26.41,0:23:28.01,Subtitle Style2,,0000,0000,0000,,This!
+Dialogue: 0,0:23:29.45,0:23:32.75,Subtitle Style2,,0000,0000,0000,,At first Yumi couldn't understand\Nwhat that meant, because...
+Dialogue: 0,0:23:33.12,0:23:35.71,Subtitle Style2,,0000,0000,0000,,Shigeo's penis was nineteen\Ncentimeters long! lt was so big,
+Dialogue: 0,0:23:35.76,0:23:40.89,Subtitle Style2,,0000,0000,0000,,Takayuki's and Funato's looked\Nlike chili peppers compared to his.
+Dialogue: 0,0:23:41.96,0:23:42.45,Subtitle Style2,,0000,0000,0000,,You mean...
+Dialogue: 0,0:23:45.40,0:23:49.20,Subtitle Style2,,0000,0000,0000,,No, pIease stop, Dr. Miura!\NPIease! Stop it! Stop!
+Dialogue: 0,0:23:50.37,0:23:52.63,Subtitle Style2,,0000,0000,0000,,You're not gonna get a passing grade!\NAre you okay with that?
+Dialogue: 0,0:23:53.77,0:23:56.04,Subtitle Style2,,0000,0000,0000,,No, I need it...
+Dialogue: 0,0:23:56.08,0:23:59.17,Subtitle Style2,,0000,0000,0000,,But... But... If this means\Na passing grade, I don't want it!
+Dialogue: 0,0:23:59.85,0:24:02.25,Subtitle Style2,,0000,0000,0000,,Etsuko got a passing grade\Nback in the day.
+Dialogue: 0,0:24:02.28,0:24:04.75,Subtitle Style2,,0000,0000,0000,,No, stop it! Stop!
+Dialogue: 0,0:24:04.79,0:24:06.72,Subtitle Style2,,0000,0000,0000,,Your breasts feeI amazing.
+Dialogue: 0,0:24:06.99,0:24:09.75,Subtitle Style2,,0000,0000,0000,,Your bone structure and fIesh\Nare baIanced out perfectIy.
+Dialogue: 0,0:24:09.79,0:24:13.42,Subtitle Style2,,0000,0000,0000,,That's what I'd expect from\Nthe schooI's number-one student.
+Dialogue: 0,0:24:13.46,0:24:19.26,Subtitle Style2,,0000,0000,0000,,No... No... Stop!\NDoctor, pIease.
+Dialogue: 0,0:24:19.30,0:24:22.86,Subtitle Style2,,0000,0000,0000,,No! No... Stop, no!
+Dialogue: 0,0:24:24.54,0:24:26.97,Subtitle Style2,,0000,0000,0000,,You're hurting me! Stop!\NPIease stop!
+Dialogue: 0,0:24:28.98,0:24:31.88,Subtitle Style2,,0000,0000,0000,,PIease stop! I'm serious, stop.
+Dialogue: 0,0:24:32.45,0:24:33.64,Subtitle Style2,,0000,0000,0000,,Yumi.
+Dialogue: 0,0:24:35.55,0:24:39.71,Subtitle Style2,,0000,0000,0000,,No, what are you doing, Dr. Miura?\NNo! PIease stop!
+Dialogue: 0,0:24:40.55,0:24:43.55,Subtitle Style2,,0000,0000,0000,,-Yumi, I thought you were...\N-No! No! No! No!
+Dialogue: 0,0:24:43.59,0:24:45.49,Subtitle Style2,,0000,0000,0000,,-a better student than this.\N-I don't want to!
+Dialogue: 0,0:24:45.53,0:24:51.56,Subtitle Style2,,0000,0000,0000,,Come on, spread your Iegs.\NWhat are you doing? Spread 'em!
+Dialogue: 0,0:24:52.63,0:24:54.97,Subtitle Style2,,0000,0000,0000,,No... No...!\NI don't want to!
+Dialogue: 0,0:24:56.37,0:25:01.33,Subtitle Style2,,0000,0000,0000,,Come on, Yumi.\NSpread your Iegs Iike this.
+Dialogue: 0,0:25:01.74,0:25:03.97,Subtitle Style2,,0000,0000,0000,,Are you embarrassed?\NAre you stiII embarrassed?
+Dialogue: 0,0:25:04.01,0:25:07.11,Subtitle Style2,,0000,0000,0000,,-I'm embarrassed, Doctor...\N-Are you stiII embarrassed, Yumi?
+Dialogue: 0,0:25:07.15,0:25:10.38,Subtitle Style2,,0000,0000,0000,,-I'm embarrassed...\N-A nurse shouIdn't feeI embarrassed.
+Dialogue: 0,0:25:12.05,0:25:15.54,Subtitle Style2,,0000,0000,0000,,Stop... No... PIease stop.
+Dialogue: 0,0:25:15.69,0:25:19.13,Subtitle Style2,,0000,0000,0000,,Then spread your Iegs.\NAre you going to do it, Yumi?
+Dialogue: 0,0:25:19.16,0:25:21.89,Subtitle Style2,,0000,0000,0000,,I understand...\NI understand. I'II do it...
+Dialogue: 0,0:25:31.47,0:25:33.94,Subtitle Style2,,0000,0000,0000,,That's the way, Yumi.
+Dialogue: 0,0:25:38.88,0:25:42.28,Subtitle Style2,,0000,0000,0000,,How beautifuI!\NIt's the sexuaI organ of a virgin!
+Dialogue: 0,0:25:42.92,0:25:45.44,Subtitle Style2,,0000,0000,0000,,No... This is embarrassing.
+Dialogue: 0,0:25:53.19,0:25:55.86,Subtitle Style2,,0000,0000,0000,,No, stop...\NWhat are you doing? No!
+Dialogue: 0,0:25:57.20,0:25:58.86,Subtitle Style2,,0000,0000,0000,,It's the newest sex cream.
+Dialogue: 0,0:25:58.90,0:26:02.80,Subtitle Style2,,0000,0000,0000,,You'II be begging\Nfor a man after this.
+Dialogue: 0,0:26:03.00,0:26:04.66,Subtitle Style2,,0000,0000,0000,,You're Iying. That won't...
+Dialogue: 0,0:26:04.71,0:26:06.23,Subtitle Style2,,0000,0000,0000,,He wasn't lying.
+Dialogue: 0,0:26:06.51,0:26:10.70,Subtitle Style2,,0000,0000,0000,,The areas where he'd smeared\Nstarted to feel hot and numb.
+Dialogue: 0,0:26:14.18,0:26:16.08,Subtitle Style2,,0000,0000,0000,,It's starting to work.
+Dialogue: 0,0:26:16.62,0:26:21.85,Subtitle Style2,,0000,0000,0000,,It's not working.\NIt's not...
+Dialogue: 0,0:26:22.22,0:26:24.28,Subtitle Style2,,0000,0000,0000,,Good... Stay stiII.
+Dialogue: 0,0:26:31.13,0:26:35.19,Subtitle Style2,,0000,0000,0000,,This is interesting.\NI didn't think it wouId work this weII.
+Dialogue: 0,0:26:43.11,0:26:44.37,Subtitle Style2,,0000,0000,0000,,Come here!
+Dialogue: 0,0:26:50.75,0:26:55.12,Subtitle Style2,,0000,0000,0000,,Why? Why is this happening?\NMy body is moving on its own.
+Dialogue: 0,0:26:55.16,0:26:56.65,Subtitle Style2,,0000,0000,0000,,ls it the medicine?
+Dialogue: 0,0:27:02.80,0:27:06.56,Subtitle Style2,,0000,0000,0000,,l knew it.\NShe has real potential.
+Dialogue: 0,0:27:06.60,0:27:10.37,Subtitle Style2,,0000,0000,0000,,l'm glad a punk like Funato\Ndidn't claim your virginity.
+Dialogue: 0,0:27:10.50,0:27:13.03,Subtitle Style2,,0000,0000,0000,,You'll be my new sex slave!
+Dialogue: 0,0:27:18.95,0:27:20.44,Subtitle Style2,,0000,0000,0000,,-I feeI so numb.\N-Amazing! It's amazing...
+Dialogue: 0,0:27:20.48,0:27:22.28,Subtitle Style2,,0000,0000,0000,,how much you're feeIing it!
+Dialogue: 0,0:27:32.09,0:27:35.39,Subtitle Style2,,0000,0000,0000,,No... No...\NI don't want to get that wet!
+Dialogue: 0,0:27:35.43,0:27:39.53,Subtitle Style2,,0000,0000,0000,,It's fine. This is the reaI you.
+Dialogue: 0,0:27:40.30,0:27:42.56,Subtitle Style2,,0000,0000,0000,,Let's move on to\Nthe penetration ceremony.
+Dialogue: 0,0:27:43.34,0:27:48.14,Subtitle Style2,,0000,0000,0000,,W... Wait! This isn't...\NI don't want to... I don't Iove you.
+Dialogue: 0,0:27:48.44,0:27:50.64,Subtitle Style2,,0000,0000,0000,,Love? That's so unscientific!
+Dialogue: 0,0:27:51.18,0:27:53.34,Subtitle Style2,,0000,0000,0000,,I'II teach you the truth\Nabout medicaI science!
+Dialogue: 0,0:27:53.75,0:27:54.41,Subtitle Style2,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:27:58.59,0:28:00.11,Subtitle Style2,,0000,0000,0000,,It hurts! It hurts!
+Dialogue: 0,0:28:00.25,0:28:02.24,Subtitle Style2,,0000,0000,0000,,I'm onIy at the opening!\NLoosen up!
+Dialogue: 0,0:28:02.82,0:28:05.22,Subtitle Style2,,0000,0000,0000,,No! No, no!\NS... Stop it, pIease!
+Dialogue: 0,0:28:07.29,0:28:08.66,Subtitle Style2,,0000,0000,0000,,No...
+Dialogue: 0,0:28:17.80,0:28:20.71,Subtitle Style2,,0000,0000,0000,,lt was the moment\NYumi Asakura lost her virginity.
+Dialogue: 0,0:28:21.27,0:28:23.83,Subtitle Style2,,0000,0000,0000,,The heat was more prominent\Nthan the pain.
+Dialogue: 0,0:28:30.98,0:28:34.39,Subtitle Style2,,0000,0000,0000,,WeII? How does\Nmy 19.9-centimeter cock feeI?
+Dialogue: 0,0:28:34.89,0:28:37.95,Subtitle Style2,,0000,0000,0000,,Did you know this position is\Nthe most prone to get you pregnant?
+Dialogue: 0,0:28:38.29,0:28:42.56,Subtitle Style2,,0000,0000,0000,,Now do you understand?\NSex doesn't need Iove! Sex is sex!
+Dialogue: 0,0:28:43.23,0:28:45.29,Subtitle Style2,,0000,0000,0000,,Why? Why?
+Dialogue: 0,0:28:46.00,0:28:49.23,Subtitle Style2,,0000,0000,0000,,lt's my first time--\Nwhy am l feeling it so much?
+Dialogue: 0,0:28:58.08,0:29:01.81,Subtitle Style2,,0000,0000,0000,,Amazing, Yumi! You're amazing!
+Dialogue: 0,0:29:21.44,0:29:23.96,Subtitle Style2,,0000,0000,0000,,Yumi, I'm going to cum!
+Dialogue: 0,0:29:24.00,0:29:37.85,Subtitle Style2,,0000,0000,0000,,No!... No! No!\NNo! No!... No! No!
+Dialogue: 0,0:29:37.88,0:29:41.01,Subtitle Style2,,0000,0000,0000,,You better run fast\Nor I'm gonna cum!
+Dialogue: 0,0:29:41.62,0:29:45.39,Subtitle Style2,,0000,0000,0000,,l can't believe this... l had thought\Nhe was such an amazing doctor...
+Dialogue: 0,0:29:47.46,0:29:49.79,Subtitle Style2,,0000,0000,0000,,l can't believe a guy like him\Ntook my virginity!
+Dialogue: 0,0:29:51.03,0:29:54.73,Subtitle Style2,,0000,0000,0000,,I'm amazed you feIt it\Nthis much on your first time.
+Dialogue: 0,0:29:55.10,0:29:58.04,Subtitle Style2,,0000,0000,0000,,It's because of\Nthe medicine you put on me.
+Dialogue: 0,0:29:58.87,0:29:59.77,Subtitle Style2,,0000,0000,0000,,Medicine?
+Dialogue: 0,0:30:00.77,0:30:02.37,Subtitle Style2,,0000,0000,0000,,Oh, that.
+Dialogue: 0,0:30:02.41,0:30:04.60,Subtitle Style2,,0000,0000,0000,,It's just amenity goods\Nthat came with the room.
+Dialogue: 0,0:30:04.64,0:30:05.84,Subtitle Style2,,0000,0000,0000,,It's ordinary toothpaste.
+Dialogue: 0,0:30:06.18,0:30:09.58,Subtitle Style2,,0000,0000,0000,,You've far exceeded my expectations\Nfor how much you'd enjoy my dick.
+Dialogue: 0,0:30:09.72,0:30:14.95,Subtitle Style2,,0000,0000,0000,,Meaning you are a true\Nperverted sIut, Yumi!
+Dialogue: 0,0:30:15.39,0:30:19.55,Subtitle Style2,,0000,0000,0000,,Yumi Asakura is a perverted slut...\NYumi Asakura is a perverted slut...
+Dialogue: 0,0:30:29.24,0:30:31.97,Subtitle Style2,,0000,0000,0000,,Yumi's soul parted from her body\Nand saw a dream...
+Dialogue: 0,0:30:32.01,0:30:34.87,Subtitle Style2,,0000,0000,0000,,where she became a nurse\Nwhom all the patients loved.
+Dialogue: 0,0:30:37.24,0:30:40.08,Subtitle Style2,,0000,0000,0000,,l won't give up, no matter what.\Nl'm going to work hard.
+Dialogue: 0,0:30:40.11,0:30:41.44,Subtitle Style2,,0000,0000,0000,,You can do it, Yumi.
+Dialogue: 0,0:30:41.48,0:30:46.11,Subtitle Style2,,0000,0000,0000,,This is a story about Yumi Asakura,\Nwho has given her all,
+Dialogue: 0,0:30:46.15,0:30:49.52,Subtitle Style2,,0000,0000,0000,,and her hardships in becoming\Na nurse, the most sacred profession.
+Dialogue: 0,0:30:52.56,0:30:54.62,Subtitle Style2,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:30:57.46,0:30:58.36,Subtitle Style2,,0000,0000,0000,,To be continued.
+Dialogue: 0,0:31:22.29,0:31:29.79,Subtitle Style2,,0000,0000,0000,,The white page records\Nthat painfuI day.
+Dialogue: 0,0:31:30.00,0:31:35.90,Subtitle Style2,,0000,0000,0000,,I cover my eyes\Nso I can't see it.
+Dialogue: 0,0:31:37.70,0:31:45.08,Subtitle Style2,,0000,0000,0000,,You can't hear my quiet\Nscream fade into the darkness.
+Dialogue: 0,0:31:45.35,0:31:50.91,Subtitle Style2,,0000,0000,0000,,It chases away\Nmy unbearabIe IoneIiness!
+Dialogue: 0,0:31:51.28,0:31:58.66,Subtitle Style2,,0000,0000,0000,,PIease don't show me\Nthat sweet smiIe anymore.
+Dialogue: 0,0:31:59.06,0:32:06.19,Subtitle Style2,,0000,0000,0000,,Because this kindness\Nis taking off and won't stop!
+Dialogue: 0,0:32:09.60,0:32:17.10,Subtitle Style2,,0000,0000,0000,,Once the tears are gone,\Nthese indeIibIe feeIings...
+Dialogue: 0,0:32:17.21,0:32:22.01,Subtitle Style2,,0000,0000,0000,,wiII be swept away\Nso the Iight can shine through.
+Dialogue: 0,0:32:22.05,0:32:29.45,Subtitle Style2,,0000,0000,0000,,If I couId just Iive\Nforever by your side,
+Dialogue: 0,0:32:29.72,0:32:38.69,Subtitle Style2,,0000,0000,0000,,you know I couId\Novercome any sorrow.
+Dialogue: 0,0:32:59.69,0:33:00.71,Subtitle Style2,,0000,0000,0000,,Here's a bonus.
+Dialogue: 0,0:33:01.49,0:33:04.92,Subtitle Style2,,0000,0000,0000,,It's the end of the first session.\NNow for the second session preview!
+Dialogue: 0,0:33:05.66,0:33:08.63,Subtitle Style2,,0000,0000,0000,,I'm Yumi Asakura.\NHow is everyone doing?
+Dialogue: 0,0:33:09.40,0:33:11.83,Subtitle Style2,,0000,0000,0000,,When you come in from outside,\Ndo you gargIe your throat...
+Dialogue: 0,0:33:11.87,0:33:12.85,Subtitle Style2,,0000,0000,0000,,and wash your hands?
+Dialogue: 0,0:33:13.67,0:33:17.03,Subtitle Style2,,0000,0000,0000,,I might take care of you\Nif you get sick.
+Dialogue: 0,0:33:17.90,0:33:20.96,Subtitle Style2,,0000,0000,0000,,That's why I want to become\Na nurse as soon as possibIe--
+Dialogue: 0,0:33:21.57,0:33:23.41,Subtitle Style2,,0000,0000,0000,,so I can be your private nurse.
+Dialogue: 0,0:33:24.14,0:33:26.98,Subtitle Style2,,0000,0000,0000,,Let's meet again\Nin the second session!
+Dialogue: 0,0:33:27.58,0:33:28.27,Subtitle Style2,,0000,0000,0000,,That's a promise!

@@ -1,0 +1,350 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SF_Rom,Littlebits,48,&H000000FF,&H000000FF,&H0000FFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: SF_Eng,Cooper Medium BT,30,&H00FFFFFF,&H00000000,&H00505050,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.72,0:00:26.35,SF_Eng,,0000,0000,0000,,Excuse me... The library is closing now. Please wake up.
+Dialogue: 0,0:00:31.76,0:00:33.25,SF_Eng,,0000,0000,0000,,Oh, thank you for waking me up.
+Dialogue: 0,0:00:34.16,0:00:35.03,SF_Eng,,0000,0000,0000,,Y-You're welcome.
+Dialogue: 0,0:00:44.44,0:00:44.96,SF_Eng,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:00:46.17,0:00:48.47,SF_Eng,,0000,0000,0000,,Shoot, she must have seen this...
+Dialogue: 0,0:00:59.12,0:01:01.75,SF_Eng,,0000,0000,0000,,Are you serious? You have got to be kidding me!
+Dialogue: 0,0:01:01.96,0:01:03.48,SF_Eng,,0000,0000,0000,,Stop it! Enough already!
+Dialogue: 0,0:01:03.99,0:01:04.42,SF_Eng,,0000,0000,0000,,Hayase?
+Dialogue: 0,0:01:09.40,0:01:10.89,SF_Eng,,0000,0000,0000,,Well, I didn't mean to...
+Dialogue: 0,0:01:11.73,0:01:13.26,SF_Eng,,0000,0000,0000,,Sorry, but you have to help me!
+Dialogue: 0,0:01:15.80,0:01:20.10,SF_Eng,,0000,0000,0000,,He is my new boyfriend. Do you understand?
+Dialogue: 0,0:01:25.31,0:01:25.78,SF_Eng,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:01:25.91,0:01:26.78,SF_Eng,,0000,0000,0000,,I won't forget about you!
+Dialogue: 0,0:01:30.95,0:01:31.58,SF_Eng,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:01:34.89,0:01:36.41,SF_Eng,,0000,0000,0000,,What was that all about?
+Dialogue: 0,0:01:41.60,0:01:47.83,SF_Eng,,0000,0000,0000,,Hey, Hayase, are you sure you wanted to break up with him like that?
+Dialogue: 0,0:01:48.87,0:01:51.57,SF_Eng,,0000,0000,0000,,You know... He might try to get revenge...
+Dialogue: 0,0:01:52.17,0:01:54.44,SF_Eng,,0000,0000,0000,,...by spreading rumors or something.
+Dialogue: 0,0:01:54.88,0:01:56.54,SF_Eng,,0000,0000,0000,,Takabe, come closer.
+Dialogue: 0,0:02:02.85,0:02:05.05,SF_Eng,,0000,0000,0000,,Hey, do you want to have sex with me?
+Dialogue: 0,0:02:05.45,0:02:07.92,SF_Eng,,0000,0000,0000,,What? What is it, all of sudden?
+Dialogue: 0,0:02:08.32,0:02:10.79,SF_Eng,,0000,0000,0000,,We have never even gone out or anything yet, and...
+Dialogue: 0,0:02:22.54,0:02:23.33,SF_Eng,,0000,0000,0000,,Let's go somewhere else!
+Dialogue: 0,0:02:24.51,0:02:25.23,SF_Eng,,0000,0000,0000,,What? But...
+Dialogue: 0,0:02:26.27,0:02:27.30,SF_Eng,,0000,0000,0000,,You have time, don't you?
+Dialogue: 0,0:02:28.11,0:02:29.77,SF_Eng,,0000,0000,0000,,Or are you saying I'm not good enough for you?
+Dialogue: 0,0:02:35.42,0:02:36.58,SF_Eng,,0000,0000,0000,,Oh, hello Nurse Taeko.
+Dialogue: 0,0:02:37.02,0:02:38.32,SF_Eng,,0000,0000,0000,,Yes?
+Dialogue: 0,0:02:39.65,0:02:40.68,SF_Eng,,0000,0000,0000,,May we come in?
+Dialogue: 0,0:02:44.09,0:02:46.29,SF_Eng,,0000,0000,0000,,Um, I'm not really...
+Dialogue: 0,0:02:46.73,0:02:49.82,SF_Eng,,0000,0000,0000,,Miss Hayase, I have to attend the teachers' meeting now.
+Dialogue: 0,0:02:50.16,0:02:51.22,SF_Eng,,0000,0000,0000,,Will you take over here for a while?
+Dialogue: 0,0:02:51.70,0:02:51.99,SF_Eng,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:02.34,0:03:03.97,SF_Eng,,0000,0000,0000,,You have the keys?
+Dialogue: 0,0:03:04.35,0:03:06.51,SF_Eng,,0000,0000,0000,,Yeah, I hold the keys sometimes.
+Dialogue: 0,0:03:12.22,0:03:15.21,SF_Eng,,0000,0000,0000,,Do you want to do it with our clothes on or off?
+Dialogue: 0,0:03:16.02,0:03:20.55,SF_Eng,,0000,0000,0000,,Um... Well...
+Dialogue: 0,0:03:21.33,0:03:22.99,SF_Eng,,0000,0000,0000,,Come on, you can touch my breasts.
+Dialogue: 0,0:03:29.67,0:03:31.43,SF_Eng,,0000,0000,0000,,Please be gentle, okay?
+Dialogue: 0,0:03:31.81,0:03:33.64,SF_Eng,,0000,0000,0000,,I don't want my clothes to get wrinkled.
+Dialogue: 0,0:03:34.88,0:03:36.14,SF_Eng,,0000,0000,0000,,Are you going to take your panties off first?
+Dialogue: 0,0:03:36.48,0:03:39.81,SF_Eng,,0000,0000,0000,,Why not? It's not going to make any difference what I take off first, is it?
+Dialogue: 0,0:03:40.58,0:03:41.38,SF_Eng,,0000,0000,0000,,Take your clothes off too.
+Dialogue: 0,0:03:42.48,0:03:42.92,SF_Eng,,0000,0000,0000,,Um, yeah.
+Dialogue: 0,0:04:02.57,0:04:03.56,SF_Eng,,0000,0000,0000,,You want to see it?
+Dialogue: 0,0:04:04.01,0:04:04.37,SF_Eng,,0000,0000,0000,,Can I?
+Dialogue: 0,0:04:12.48,0:04:15.11,SF_Eng,,0000,0000,0000,,Wow, this is how it looks...
+Dialogue: 0,0:04:15.92,0:04:17.35,SF_Eng,,0000,0000,0000,,Come on, touch it.
+Dialogue: 0,0:04:17.59,0:04:18.45,SF_Eng,,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:04:25.76,0:04:26.69,SF_Eng,,0000,0000,0000,,It's getting wet...
+Dialogue: 0,0:04:29.70,0:04:31.06,SF_Eng,,0000,0000,0000,,Can I put my finger in?
+Dialogue: 0,0:04:31.53,0:04:32.90,SF_Eng,,0000,0000,0000,,Sure, go ahead.
+Dialogue: 0,0:04:38.91,0:04:40.67,SF_Eng,,0000,0000,0000,,H-Hayase... It's amazing...
+Dialogue: 0,0:04:43.74,0:04:44.97,SF_Eng,,0000,0000,0000,,Hayase, can I...?
+Dialogue: 0,0:04:46.01,0:04:47.67,SF_Eng,,0000,0000,0000,,Yes, you can put it in.
+Dialogue: 0,0:04:49.98,0:04:52.32,SF_Eng,,0000,0000,0000,,No, a little lower...
+Dialogue: 0,0:04:52.85,0:04:54.12,SF_Eng,,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:04:54.39,0:04:56.58,SF_Eng,,0000,0000,0000,,That's right, just lower your hip a little...
+Dialogue: 0,0:05:16.68,0:05:17.01,SF_Eng,,0000,0000,0000,,Um, well...
+Dialogue: 0,0:05:19.55,0:05:20.81,SF_Eng,,0000,0000,0000,,Was this your first time?
+Dialogue: 0,0:05:22.42,0:05:24.41,SF_Eng,,0000,0000,0000,,I see, you were a virgin...
+Dialogue: 0,0:05:25.32,0:05:28.02,SF_Eng,,0000,0000,0000,,Well, then it can't be helped, huh?
+Dialogue: 0,0:05:28.49,0:05:30.89,SF_Eng,,0000,0000,0000,,I'm sorry I came inside...
+Dialogue: 0,0:05:31.53,0:05:33.82,SF_Eng,,0000,0000,0000,,Everyone is like that his first time.
+Dialogue: 0,0:05:34.53,0:05:36.12,SF_Eng,,0000,0000,0000,,You'll do better tomorrow.
+Dialogue: 0,0:05:37.93,0:05:38.59,SF_Eng,,0000,0000,0000,,T-Tomorrow?
+Dialogue: 0,0:05:39.10,0:05:41.80,SF_Eng,,0000,0000,0000,,I'll wait for you in front of this nurse's room tomorrow after school.
+Dialogue: 0,0:05:42.44,0:05:43.56,SF_Eng,,0000,0000,0000,,I have nothing else to do.
+Dialogue: 0,0:05:44.21,0:05:45.33,SF_Eng,,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:05:49.28,0:05:50.57,SF_Eng,,0000,0000,0000,,See you tomorrow!
+Dialogue: 0,0:06:19.87,0:06:20.90,SF_Eng,,0000,0000,0000,,Will you lock the door?
+Dialogue: 0,0:06:30.52,0:06:31.08,SF_Eng,,0000,0000,0000,,You want to see it?
+Dialogue: 0,0:06:31.52,0:06:32.85,SF_Eng,,0000,0000,0000,,What? Well...
+Dialogue: 0,0:06:33.02,0:06:34.15,SF_Eng,,0000,0000,0000,,You want to see it, don't you?
+Dialogue: 0,0:06:35.19,0:06:37.28,SF_Eng,,0000,0000,0000,,Will you take off your clothes?
+Dialogue: 0,0:06:38.73,0:06:39.66,SF_Eng,,0000,0000,0000,,Sure.
+Dialogue: 0,0:06:53.74,0:06:54.94,SF_Eng,,0000,0000,0000,,You have to take off my underwear.
+Dialogue: 0,0:07:26.47,0:07:27.91,SF_Eng,,0000,0000,0000,,Hayase...
+Dialogue: 0,0:07:46.36,0:07:49.23,SF_Eng,,0000,0000,0000,,It feels great, Hayase...
+Dialogue: 0,0:08:05.81,0:08:06.87,SF_Eng,,0000,0000,0000,,My turn.
+Dialogue: 0,0:08:35.34,0:08:38.04,SF_Eng,,0000,0000,0000,,Oh yes! Yes! Takabe!
+Dialogue: 0,0:08:42.28,0:08:43.61,SF_Eng,,0000,0000,0000,,Hayase, I can't hold it any longer!
+Dialogue: 0,0:08:57.90,0:08:59.89,SF_Eng,,0000,0000,0000,,So good! Takabe!
+Dialogue: 0,0:09:00.77,0:09:01.86,SF_Eng,,0000,0000,0000,,I'm going to come soon!
+Dialogue: 0,0:09:03.97,0:09:04.87,SF_Eng,,0000,0000,0000,,I'm coming!
+Dialogue: 0,0:09:05.14,0:09:07.13,SF_Eng,,0000,0000,0000,,I'm coming! I'm coming!
+Dialogue: 0,0:09:24.59,0:09:25.08,SF_Eng,,0000,0000,0000,,Hayase...
+Dialogue: 0,0:09:48.02,0:09:50.28,SF_Eng,,0000,0000,0000,,Hayase, show me how you do it by yourself.
+Dialogue: 0,0:09:50.65,0:09:54.75,SF_Eng,,0000,0000,0000,,What? How do I do it by myself?
+Dialogue: 0,0:09:55.12,0:09:57.02,SF_Eng,,0000,0000,0000,,I have never seen a girl masturbate...
+Dialogue: 0,0:09:57.62,0:09:58.78,SF_Eng,,0000,0000,0000,,...so I want to see how you do it.
+Dialogue: 0,0:10:00.53,0:10:02.50,SF_Eng,,0000,0000,0000,,Okay, but don't stare, okay?
+Dialogue: 0,0:10:39.43,0:10:42.83,SF_Eng,,0000,0000,0000,,It's so good, Takabe! I want it now!
+Dialogue: 0,0:10:43.37,0:10:44.77,SF_Eng,,0000,0000,0000,,You want me to put it in?
+Dialogue: 0,0:10:48.11,0:10:49.37,SF_Eng,,0000,0000,0000,,Yes, put it in!
+Dialogue: 0,0:10:54.95,0:10:55.88,SF_Eng,,0000,0000,0000,,Hey...
+Dialogue: 0,0:10:57.22,0:10:59.78,SF_Eng,,0000,0000,0000,,Takabe, hurry...
+Dialogue: 0,0:11:04.02,0:11:06.93,SF_Eng,,0000,0000,0000,,My God! Takabe, you're bigger than before!
+Dialogue: 0,0:11:20.11,0:11:21.37,SF_Eng,,0000,0000,0000,,So good! I'm going to come!
+Dialogue: 0,0:11:24.75,0:11:26.37,SF_Eng,,0000,0000,0000,,I'm going to come too!
+Dialogue: 0,0:11:49.20,0:11:52.87,SF_Eng,,0000,0000,0000,,You were yawning a lot during classes today. Didn't you get enough sleep?
+Dialogue: 0,0:11:53.11,0:11:58.94,SF_Eng,,0000,0000,0000,,No... Um, but it's not like I couldn't sleep thinking about you or anything...
+Dialogue: 0,0:11:59.25,0:12:00.14,SF_Eng,,0000,0000,0000,,How many times did you do it?
+Dialogue: 0,0:12:02.85,0:12:05.01,SF_Eng,,0000,0000,0000,,Um, three times.
+Dialogue: 0,0:12:15.86,0:12:18.20,SF_Eng,,0000,0000,0000,,Hurry up! The school gate will be closed soon!
+Dialogue: 0,0:12:19.57,0:12:20.03,SF_Eng,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:12:21.47,0:12:23.37,SF_Eng,,0000,0000,0000,,Well, I'm free tomorrow too, so...
+Dialogue: 0,0:12:27.14,0:12:28.33,SF_Eng,,0000,0000,0000,,Of course, I'm free too!
+Dialogue: 0,0:12:41.66,0:12:43.62,SF_Eng,,0000,0000,0000,,I hope I can take a nap here for an hour...
+Dialogue: 0,0:12:51.87,0:12:53.39,SF_Eng,,0000,0000,0000,,No, please...
+Dialogue: 0,0:12:55.04,0:12:56.80,SF_Eng,,0000,0000,0000,,Please don't make me do this, Takabe!
+Dialogue: 0,0:12:57.37,0:12:58.30,SF_Eng,,0000,0000,0000,,What? Me?
+Dialogue: 0,0:13:11.25,0:13:12.98,SF_Eng,,0000,0000,0000,,No, not there.
+Dialogue: 0,0:13:14.15,0:13:17.92,SF_Eng,,0000,0000,0000,,Ah, forgive me, Takabe. I'll do whatever you say!
+Dialogue: 0,0:13:20.76,0:13:22.92,SF_Eng,,0000,0000,0000,,She's fantasizing about getting raped by me?
+Dialogue: 0,0:13:27.03,0:13:29.00,SF_Eng,,0000,0000,0000,,Ah, no. It's too big!
+Dialogue: 0,0:13:42.08,0:13:47.18,SF_Eng,,0000,0000,0000,,Takabe, please look at my wet pussy...
+Dialogue: 0,0:13:47.99,0:13:50.25,SF_Eng,,0000,0000,0000,,Ah, it feels good!
+Dialogue: 0,0:13:56.03,0:13:58.40,SF_Eng,,0000,0000,0000,,I-I'm coming, Takabe!
+Dialogue: 0,0:14:08.21,0:14:10.44,SF_Eng,,0000,0000,0000,,She came fantasizing about me...
+Dialogue: 0,0:14:26.26,0:14:28.59,SF_Eng,,0000,0000,0000,,Hayase isn't here yet... I guess I'll wait for her outside.
+Dialogue: 0,0:14:29.16,0:14:30.49,SF_Eng,,0000,0000,0000,,Oh, you're alone?
+Dialogue: 0,0:14:31.10,0:14:34.30,SF_Eng,,0000,0000,0000,,No, Um, well Hayase should be here soon.
+Dialogue: 0,0:14:34.80,0:14:38.60,SF_Eng,,0000,0000,0000,,What is the matter with your crotch? It seems very happy.
+Dialogue: 0,0:14:39.07,0:14:40.00,SF_Eng,,0000,0000,0000,,Uh, it's nothing.
+Dialogue: 0,0:14:40.77,0:14:42.80,SF_Eng,,0000,0000,0000,,Is it because you were thinking about Miss Hayase?
+Dialogue: 0,0:14:43.44,0:14:46.11,SF_Eng,,0000,0000,0000,,Or is it because you saw something at the library?
+Dialogue: 0,0:14:46.41,0:14:49.64,SF_Eng,,0000,0000,0000,,W-What? No! I don't know what you're talking about!
+Dialogue: 0,0:14:51.35,0:14:54.29,SF_Eng,,0000,0000,0000,,So you saw Kaori masturbating, didn't you?
+Dialogue: 0,0:14:54.62,0:14:55.78,SF_Eng,,0000,0000,0000,,H-How did you...?
+Dialogue: 0,0:14:56.46,0:15:01.76,SF_Eng,,0000,0000,0000,,Sometimes she cuts classes, and goes there to satisfy herself.
+Dialogue: 0,0:15:02.10,0:15:03.46,SF_Eng,,0000,0000,0000,,How do you know that?
+Dialogue: 0,0:15:04.26,0:15:07.93,SF_Eng,,0000,0000,0000,,I gave her a little advice on how and where to do it.
+Dialogue: 0,0:15:08.27,0:15:09.90,SF_Eng,,0000,0000,0000,,But you're a teacher...
+Dialogue: 0,0:15:10.54,0:15:12.73,SF_Eng,,0000,0000,0000,,I wonder who she was fantasizing about today...
+Dialogue: 0,0:15:13.54,0:15:14.63,SF_Eng,,0000,0000,0000,,Maybe it was you.
+Dialogue: 0,0:15:18.08,0:15:19.20,SF_Eng,,0000,0000,0000,,W-What are you...
+Dialogue: 0,0:15:31.46,0:15:32.08,SF_Eng,,0000,0000,0000,,How does it feel?
+Dialogue: 0,0:15:32.59,0:15:34.39,SF_Eng,,0000,0000,0000,,How do you like the technique of a mature woman?
+Dialogue: 0,0:15:35.50,0:15:37.22,SF_Eng,,0000,0000,0000,,It feels great... I'm about to...
+Dialogue: 0,0:15:38.20,0:15:39.29,SF_Eng,,0000,0000,0000,,I just started.
+Dialogue: 0,0:15:47.07,0:15:48.47,SF_Eng,,0000,0000,0000,,Aw, too bad.
+Dialogue: 0,0:15:48.98,0:15:51.97,SF_Eng,,0000,0000,0000,,If you had come back a little later, we could have had more fun.
+Dialogue: 0,0:15:53.18,0:15:55.34,SF_Eng,,0000,0000,0000,,You should stop trying to take other people's things.
+Dialogue: 0,0:15:56.02,0:15:58.14,SF_Eng,,0000,0000,0000,,It's a bad habit.
+Dialogue: 0,0:15:58.69,0:16:00.74,SF_Eng,,0000,0000,0000,,It doesn't bother me a bit, though.
+Dialogue: 0,0:16:01.89,0:16:03.45,SF_Eng,,0000,0000,0000,,I'm going to the teacher's meeting now.
+Dialogue: 0,0:16:03.86,0:16:04.92,SF_Eng,,0000,0000,0000,,You hold the fort while I'm gone, okay?
+Dialogue: 0,0:16:05.56,0:16:06.69,SF_Eng,,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:10.50,0:16:11.26,SF_Eng,,0000,0000,0000,,Aren't you mad at me?
+Dialogue: 0,0:16:11.97,0:16:16.27,SF_Eng,,0000,0000,0000,,Not really. We aren't a couple, we're just sex friends.
+Dialogue: 0,0:16:16.67,0:16:19.80,SF_Eng,,0000,0000,0000,,It's better if we don't meddle in each other's sex lives.
+Dialogue: 0,0:16:20.37,0:16:23.40,SF_Eng,,0000,0000,0000,,{\i1}I see... I guess we are sex friends.{\i0}
+Dialogue: 0,0:16:24.21,0:16:26.27,SF_Eng,,0000,0000,0000,,So, did you want to have sex with Nurse Taeko?
+Dialogue: 0,0:16:26.91,0:16:28.28,SF_Eng,,0000,0000,0000,,Why do you say that?
+Dialogue: 0,0:16:28.68,0:16:30.17,SF_Eng,,0000,0000,0000,,I want to do it with you, Hayase!
+Dialogue: 0,0:16:31.55,0:16:34.25,SF_Eng,,0000,0000,0000,,That makes me a little happy.
+Dialogue: 0,0:16:35.06,0:16:35.95,SF_Eng,,0000,0000,0000,,{\i1}Just a little?{\i0}
+Dialogue: 0,0:16:38.66,0:16:39.89,SF_Eng,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:16:40.83,0:16:42.09,SF_Eng,,0000,0000,0000,,I can't hold it any longer!
+Dialogue: 0,0:16:45.13,0:16:47.23,SF_Eng,,0000,0000,0000,,You'll get wet so fast, we can do it...
+Dialogue: 0,0:16:49.14,0:16:50.76,SF_Eng,,0000,0000,0000,,Just be gentle, okay?
+Dialogue: 0,0:17:14.06,0:17:15.19,SF_Eng,,0000,0000,0000,,Take off your bra.
+Dialogue: 0,0:17:26.71,0:17:28.44,SF_Eng,,0000,0000,0000,,Yes! Yes! It's so good, Takabe!
+Dialogue: 0,0:17:30.08,0:17:31.48,SF_Eng,,0000,0000,0000,,It feels amazing, Hayase!
+Dialogue: 0,0:17:32.91,0:17:36.94,SF_Eng,,0000,0000,0000,,Yes! Yes! I'm coming!
+Dialogue: 0,0:17:40.65,0:17:42.35,SF_Eng,,0000,0000,0000,,Hayase, you came...
+Dialogue: 0,0:17:44.93,0:17:46.42,SF_Eng,,0000,0000,0000,,Hayase, can I do it with your breasts?
+Dialogue: 0,0:17:54.67,0:17:57.19,SF_Eng,,0000,0000,0000,,Hayase, I'm coming...
+Dialogue: 0,0:18:00.17,0:18:02.30,SF_Eng,,0000,0000,0000,,Come. I want to see you come.
+Dialogue: 0,0:18:14.12,0:18:15.31,SF_Eng,,0000,0000,0000,,{\i1}Sex friends, huh?{\i0}
+Dialogue: 0,0:18:16.32,0:18:21.39,SF_Eng,,0000,0000,0000,,{\i1}Does it make me a pervert that I want to do it with her?{\i0}
+Dialogue: 0,0:18:24.46,0:18:25.36,SF_Eng,,0000,0000,0000,,{\i1}Does Hayase really think...{\i0}
+Dialogue: 0,0:18:30.67,0:18:32.26,SF_Eng,,0000,0000,0000,,Take my bathing suit off.
+Dialogue: 0,0:18:32.84,0:18:34.20,SF_Eng,,0000,0000,0000,,You don't need to.
+Dialogue: 0,0:18:47.19,0:18:48.38,SF_Eng,,0000,0000,0000,,I'm putting it in, okay?
+Dialogue: 0,0:19:00.27,0:19:02.39,SF_Eng,,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,0:19:19.29,0:19:22.72,SF_Eng,,0000,0000,0000,,Hey, pull your fingers out. I want you now.
+Dialogue: 0,0:19:23.46,0:19:24.79,SF_Eng,,0000,0000,0000,,Maybe I can put it in with my fingers in.
+Dialogue: 0,0:19:25.19,0:19:27.02,SF_Eng,,0000,0000,0000,,No, it's not going to fit!
+Dialogue: 0,0:19:31.30,0:19:33.39,SF_Eng,,0000,0000,0000,,It's inside you, Hayase.
+Dialogue: 0,0:19:35.44,0:19:38.06,SF_Eng,,0000,0000,0000,,N-No! Don't move your fingers!
+Dialogue: 0,0:19:41.07,0:19:43.67,SF_Eng,,0000,0000,0000,,It feels great! Takabe! Yes!
+Dialogue: 0,0:19:59.89,0:20:02.33,SF_Eng,,0000,0000,0000,,Yes! So great!
+Dialogue: 0,0:20:14.44,0:20:17.34,SF_Eng,,0000,0000,0000,,Yes! Yes, Takabe! I'm going to come!
+Dialogue: 0,0:20:18.28,0:20:20.84,SF_Eng,,0000,0000,0000,,I'm coming too, Hayase!
+Dialogue: 0,0:20:21.35,0:20:23.48,SF_Eng,,0000,0000,0000,,I'm coming! I'm coming! I'm coming!
+Dialogue: 0,0:20:35.20,0:20:38.89,SF_Eng,,0000,0000,0000,,I promised Kabu that I would go shopping with her after school, so I have to go.
+Dialogue: 0,0:20:39.33,0:20:40.73,SF_Eng,,0000,0000,0000,,Okay, see you.
+Dialogue: 0,0:20:46.54,0:20:48.80,SF_Eng,,0000,0000,0000,,That girl... at the library...
+Dialogue: 0,0:20:56.42,0:20:57.21,SF_Eng,,0000,0000,0000,,Takabe...
+Dialogue: 0,0:21:02.39,0:21:04.15,SF_Eng,,0000,0000,0000,,She's fantasizing about me again...
+Dialogue: 0,0:21:06.26,0:21:11.32,SF_Eng,,0000,0000,0000,,Like you told me, I'm not wearing any underwear today.
+Dialogue: 0,0:21:21.27,0:21:24.80,SF_Eng,,0000,0000,0000,,Takabe... I want you to tease me more...
+Dialogue: 0,0:21:39.19,0:21:45.06,SF_Eng,,0000,0000,0000,,T-Takabe... Please look at my pussy.
+Dialogue: 0,0:21:48.10,0:21:50.07,SF_Eng,,0000,0000,0000,,You want me to fuck you that badly?
+Dialogue: 0,0:21:50.67,0:21:51.53,SF_Eng,,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:21:52.11,0:21:54.70,SF_Eng,,0000,0000,0000,,If you put on a good show, I might grant your wish.
+Dialogue: 0,0:21:55.14,0:22:00.41,SF_Eng,,0000,0000,0000,,Takabe... Look at my naughty parts...
+Dialogue: 0,0:22:06.75,0:22:10.75,SF_Eng,,0000,0000,0000,,Please... I'm already so wet.
+Dialogue: 0,0:22:13.66,0:22:15.75,SF_Eng,,0000,0000,0000,,Okay, I'll do as you wish.
+Dialogue: 0,0:22:17.86,0:22:19.99,SF_Eng,,0000,0000,0000,,You know what you have to do, don't you?
+Dialogue: 0,0:22:20.57,0:22:22.26,SF_Eng,,0000,0000,0000,,Yes, Takabe...
+Dialogue: 0,0:22:24.80,0:22:26.07,SF_Eng,,0000,0000,0000,,Please let me suck your penis.
+Dialogue: 0,0:22:35.48,0:22:37.78,SF_Eng,,0000,0000,0000,,Come on, use your tongue more.
+Dialogue: 0,0:22:44.82,0:22:46.62,SF_Eng,,0000,0000,0000,,A dirty girl like you needs to be punished from behind.
+Dialogue: 0,0:22:47.53,0:22:48.05,SF_Eng,,0000,0000,0000,,Yes...
+Dialogue: 0,0:22:53.00,0:22:58.20,SF_Eng,,0000,0000,0000,,Please, put it in.
+Dialogue: 0,0:23:08.82,0:23:11.51,SF_Eng,,0000,0000,0000,,Yes! It feels so good!
+Dialogue: 0,0:23:13.75,0:23:15.52,SF_Eng,,0000,0000,0000,,Oh yeah? Just a little more...
+Dialogue: 0,0:23:17.09,0:23:21.82,SF_Eng,,0000,0000,0000,,Yes! Yes! I'm going to come!
+Dialogue: 0,0:23:27.37,0:23:29.06,SF_Eng,,0000,0000,0000,,What the hell? You came by yourself?
+Dialogue: 0,0:23:35.98,0:23:39.10,SF_Eng,,0000,0000,0000,,You came before I came, what do you think you're doing?
+Dialogue: 0,0:23:42.25,0:23:44.31,SF_Eng,,0000,0000,0000,,I'm sorry, Takabe...
+Dialogue: 0,0:23:50.19,0:23:54.72,SF_Eng,,0000,0000,0000,,I wonder if I want to have sex like this with Hayase...
+Dialogue: 0,0:24:02.40,0:24:03.39,SF_Eng,,0000,0000,0000,,Can I talk to you for a minute?
+Dialogue: 0,0:24:04.34,0:24:04.93,SF_Eng,,0000,0000,0000,,What is it?
+Dialogue: 0,0:24:08.31,0:24:10.54,SF_Eng,,0000,0000,0000,,Um, why are you locking the door?
+Dialogue: 0,0:24:15.28,0:24:17.22,SF_Eng,,0000,0000,0000,,Nurse Taeko! What are you doing?
+Dialogue: 0,0:24:20.05,0:24:22.72,SF_Eng,,0000,0000,0000,,I'm punishing her because she had fun all by herself.
+Dialogue: 0,0:24:23.82,0:24:26.02,SF_Eng,,0000,0000,0000,,She told me all about yesterday.
+Dialogue: 0,0:24:27.03,0:24:30.39,SF_Eng,,0000,0000,0000,,I can't forgive you for doing such a naughty thing only with her.
+Dialogue: 0,0:24:30.60,0:24:31.22,SF_Eng,,0000,0000,0000,,But...
+Dialogue: 0,0:24:32.60,0:24:38.47,SF_Eng,,0000,0000,0000,,I will show you how great a mature woman's body feels.
+Dialogue: 0,0:24:39.34,0:24:42.31,SF_Eng,,0000,0000,0000,,You have never done it in this hole yet, have you?
+Dialogue: 0,0:24:44.91,0:24:45.97,SF_Eng,,0000,0000,0000,,B-But...
+Dialogue: 0,0:24:47.05,0:24:48.27,SF_Eng,,0000,0000,0000,,That's right, it's my butt.
+Dialogue: 0,0:24:48.85,0:24:50.21,SF_Eng,,0000,0000,0000,,And you can do whatever you wish to do with it.
+Dialogue: 0,0:24:50.95,0:24:52.88,SF_Eng,,0000,0000,0000,,Looks like you're ready.
+Dialogue: 0,0:25:06.27,0:25:08.73,SF_Eng,,0000,0000,0000,,That's right, slowly...
+Dialogue: 0,0:25:09.37,0:25:10.89,SF_Eng,,0000,0000,0000,,It's very delicate, so be gentle.
+Dialogue: 0,0:25:13.61,0:25:14.73,SF_Eng,,0000,0000,0000,,That's right. You're doing good.
+Dialogue: 0,0:25:16.14,0:25:17.54,SF_Eng,,0000,0000,0000,,You're pretty good at it.
+Dialogue: 0,0:25:21.85,0:25:23.18,SF_Eng,,0000,0000,0000,,It feels amazing!
+Dialogue: 0,0:25:30.92,0:25:34.26,SF_Eng,,0000,0000,0000,,Yes, there... That feels good...
+Dialogue: 0,0:25:43.64,0:25:44.76,SF_Eng,,0000,0000,0000,,Can I put it into your butt?
+Dialogue: 0,0:25:45.44,0:25:48.20,SF_Eng,,0000,0000,0000,,Go ahead, you want to do it, right?
+Dialogue: 0,0:25:52.71,0:25:53.97,SF_Eng,,0000,0000,0000,,Oh, it's so big!
+Dialogue: 0,0:25:54.98,0:25:56.28,SF_Eng,,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,0:26:01.62,0:26:04.39,SF_Eng,,0000,0000,0000,,Harder! Do it harder!
+Dialogue: 0,0:26:06.76,0:26:09.89,SF_Eng,,0000,0000,0000,,Yes! Yes! I'm going to come!
+Dialogue: 0,0:26:11.80,0:26:15.10,SF_Eng,,0000,0000,0000,,It's so tight! I'm coming!
+Dialogue: 0,0:26:15.77,0:26:16.93,SF_Eng,,0000,0000,0000,,I'm coming!
+Dialogue: 0,0:26:30.22,0:26:30.55,SF_Eng,,0000,0000,0000,,W-What?
+Dialogue: 0,0:26:30.98,0:26:33.14,SF_Eng,,0000,0000,0000,,I bet you have never used something like this either.
+Dialogue: 0,0:26:33.55,0:26:36.58,SF_Eng,,0000,0000,0000,,You should practice how to use it for your future girlfriend.
+Dialogue: 0,0:26:41.06,0:26:42.89,SF_Eng,,0000,0000,0000,,Please, no...
+Dialogue: 0,0:26:43.86,0:26:46.56,SF_Eng,,0000,0000,0000,,You came watching us, didn't you?
+Dialogue: 0,0:26:52.11,0:26:52.70,SF_Eng,,0000,0000,0000,,No!
+Dialogue: 0,0:26:59.38,0:27:02.82,SF_Eng,,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,0:27:04.12,0:27:07.88,SF_Eng,,0000,0000,0000,,Now I want you to put your dick in me.
+Dialogue: 0,0:27:27.57,0:27:33.24,SF_Eng,,0000,0000,0000,,{\i1}If Hayase sees this... what will she think of me?{\i0}
+Dialogue: 0,0:27:35.58,0:27:37.34,SF_Eng,,0000,0000,0000,,Yes! Yes! Yes!
+Dialogue: 0,0:27:42.76,0:27:44.92,SF_Eng,,0000,0000,0000,,Hey, do you want to have sex with me?
+Dialogue: 0,0:27:53.72,0:27:55.77,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,110,\frz0.015\bord4)\t(111,112,\bord2)}{\k11}ju{\r\be1\t(111,370,\frz0.015\bord4)\t(371,371,\bord2)}{\k26}gyou{\r\be1\t(371,530,\frz0.015\bord4)\t(531,531,\bord2)}{\k16}chu{\r\be1\t(531,690,\frz0.015\bord4)\t(691,693,\bord2)}{\k16}u {\r\be1\t(691,1000,\frz0.015\bord4)\t(1001,1001,\bord2)}{\k31}se{\r\be1\t(1001,1120,\frz0.015\bord4)\t(1121,1121,\bord2)}{\k12}kku{\r\be1\t(1121,1280,\frz0.015\bord4)\t(1281,1281,\bord2)}{\k16}su {\r\be1\t(1281,1410,\frz0.015\bord4)\t(1411,1411,\bord2)}{\k13}shi{\r\be1\t(1411,1530,\frz0.015\bord4)\t(1531,1534,\bord2)}{\k12}ta{\r\be1\t(1531,1990,\frz0.015\bord4))}{\k46}i
+Dialogue: 0,0:27:55.80,0:27:58.25,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,170,\frz0.015\bord4)\t(171,171,\bord2)}{\k17}to{\r\be1\t(171,280,\frz0.015\bord4)\t(281,281,\bord2)}{\k11}tsu{\r\be1\t(281,450,\frz0.015\bord4)\t(451,451,\bord2)}{\k17}ze{\r\be1\t(451,590,\frz0.015\bord4)\t(591,592,\bord2)}{\k14}n {\r\be1\t(591,840,\frz0.015\bord4)\t(841,842,\bord2)}{\k25}ni {\r\be1\t(841,1060,\frz0.015\bord4)\t(1061,1060,\bord2)}{\k22}u{\r\be1\t(1061,1120,\frz0.015\bord4)\t(1121,1122,\bord2)}{\k6}zu{\r\be1\t(1121,1330,\frz0.015\bord4)\t(1331,1331,\bord2)}{\k21}i{\r\be1\t(1331,1450,\frz0.015\bord4)\t(1451,1451,\bord2)}{\k12}te {\r\be1\t(1451,1590,\frz0.015\bord4)\t(1591,1591,\bord2)}{\k14}ki{\r\be1\t(1591,1760,\frz0.015\bord4)\t(1761,1766,\bord2)}{\k17}cha{\r\be1\t(1761,2390,\frz0.015\bord4))}{\k63}u
+Dialogue: 0,0:27:58.27,0:28:02.16,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,220,\frz0.015\bord4)\t(221,222,\bord2)}{\k22}shi{\r\be1\t(221,430,\frz0.015\bord4)\t(431,431,\bord2)}{\k21}ta{\r\be1\t(431,590,\frz0.015\bord4)\t(591,592,\bord2)}{\k16}i {\r\be1\t(591,870,\frz0.015\bord4)\t(871,871,\bord2)}{\k28}to{\r\be1\t(871,1000,\frz0.015\bord4)\t(1001,1002,\bord2)}{\k13}ki {\r\be1\t(1001,1240,\frz0.015\bord4)\t(1241,1242,\bord2)}{\k24}wa {\r\be1\t(1241,1530,\frz0.015\bord4)\t(1531,1531,\bord2)}{\k29}shi{\r\be1\t(1531,1700,\frz0.015\bord4)\t(1701,1702,\bord2)}{\k17}ta{\r\be1\t(1701,1910,\frz0.015\bord4)\t(1911,1912,\bord2)}{\k21}i {\r\be1\t(1911,2160,\frz0.015\bord4)\t(2161,2161,\bord2)}{\k25}o{\r\be1\t(2161,2310,\frz0.015\bord4)\t(2311,2311,\bord2)}{\k15}n{\r\be1\t(2311,2490,\frz0.015\bord4)\t(2491,2492,\bord2)}{\k18}na {\r\be1\t(2491,2700,\frz0.015\bord4)\t(2701,2701,\bord2)}{\k21}no {\r\be1\t(2701,2880,\frz0.015\bord4)\t(2881,2887,\bord2)}{\k18}ko{\r\be1\t(2881,3610,\frz0.015\bord4))}{\k73}mo
+Dialogue: 0,0:28:02.19,0:28:04.24,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,100,\frz0.015\bord4)\t(101,102,\bord2)}{\k10}fe{\r\be1\t(101,330,\frz0.015\bord4)\t(331,330,\bord2)}{\k23}ra{\r\be1\t(331,420,\frz0.015\bord4)\t(421,421,\bord2)}{\k9}chi{\r\be1\t(421,540,\frz0.015\bord4)\t(541,542,\bord2)}{\k12}o {\r\be1\t(541,800,\frz0.015\bord4)\t(801,801,\bord2)}{\k26}mo {\r\be1\t(801,1000,\frz0.015\bord4)\t(1001,1000,\bord2)}{\k20}ji{\r\be1\t(1001,1080,\frz0.015\bord4)\t(1081,1082,\bord2)}{\k8}shi{\r\be1\t(1081,1310,\frz0.015\bord4)\t(1311,1311,\bord2)}{\k23}n {\r\be1\t(1311,1440,\frz0.015\bord4)\t(1441,1441,\bord2)}{\k13}a{\r\be1\t(1441,1550,\frz0.015\bord4)\t(1551,1554,\bord2)}{\k11}ru {\r\be1\t(1551,2000,\frz0.015\bord4))}{\k45}no
+Dialogue: 0,0:28:04.29,0:28:06.71,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,80,\frz0.015\bord4)\t(81,81,\bord2)}{\k8}na{\r\be1\t(81,280,\frz0.015\bord4)\t(281,280,\bord2)}{\k20}me{\r\be1\t(281,370,\frz0.015\bord4)\t(371,371,\bord2)}{\k9}te{\r\be1\t(371,540,\frz0.015\bord4)\t(541,542,\bord2)}{\k17}ru {\r\be1\t(541,790,\frz0.015\bord4)\t(791,792,\bord2)}{\k25}to {\r\be1\t(791,1040,\frz0.015\bord4)\t(1041,1042,\bord2)}{\k25}kou{\r\be1\t(1041,1300,\frz0.015\bord4)\t(1301,1301,\bord2)}{\k26}hun {\r\be1\t(1301,1440,\frz0.015\bord4)\t(1441,1441,\bord2)}{\k14}shi{\r\be1\t(1441,1620,\frz0.015\bord4)\t(1621,1621,\bord2)}{\k18}cha{\r\be1\t(1621,1760,\frz0.015\bord4)\t(1761,1766,\bord2)}{\k14}u {\r\be1\t(1761,2370,\frz0.015\bord4))}{\k61}no
+Dialogue: 0,0:28:06.80,0:28:10.47,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,150,\frz0.015\bord4)\t(151,151,\bord2)}{\k15}ka{\r\be1\t(151,310,\frz0.015\bord4)\t(311,312,\bord2)}{\k16}o {\r\be1\t(311,550,\frz0.015\bord4)\t(551,552,\bord2)}{\k24}ni {\r\be1\t(551,800,\frz0.015\bord4)\t(801,801,\bord2)}{\k25}ka{\r\be1\t(801,930,\frz0.015\bord4)\t(931,932,\bord2)}{\k13}ke{\r\be1\t(931,1190,\frz0.015\bord4)\t(1191,1191,\bord2)}{\k26}te {\r\be1\t(1191,1380,\frz0.015\bord4)\t(1381,1381,\bord2)}{\k19}ho{\r\be1\t(1381,1570,\frz0.015\bord4)\t(1571,1572,\bord2)}{\k19}shi{\r\be1\t(1571,1830,\frz0.015\bord4)\t(1831,1832,\bord2)}{\k26}i {\r\be1\t(1831,2100,\frz0.015\bord4)\t(2101,2101,\bord2)}{\k27}no {\r\be1\t(2101,2220,\frz0.015\bord4)\t(2221,2222,\bord2)}{\k12}ki{\r\be1\t(2221,2510,\frz0.015\bord4)\t(2511,2511,\bord2)}{\k29}mi {\r\be1\t(2511,2650,\frz0.015\bord4)\t(2651,2652,\bord2)}{\k14}no {\r\be1\t(2651,2900,\frz0.015\bord4)\t(2901,2902,\bord2)}{\k25}ko{\r\be1\t(2901,3110,\frz0.015\bord4)\t(3111,3112,\bord2)}{\k21}i {\r\be1\t(3111,3360,\frz0.015\bord4)\t(3361,3362,\bord2)}{\k25}no {\r\be1\t(3361,3630,\frz0.015\bord4))}{\k27}wo
+Dialogue: 0,0:28:10.51,0:28:17.76,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,1570,\frz0.015\bord4)\t(1571,1571,\bord2)}{\k157}aa {\r\be1\t(1571,1760,\frz0.015\bord4)\t(1761,1761,\bord2)}{\k19}a{\r\be1\t(1761,1960,\frz0.015\bord4)\t(1961,1961,\bord2)}{\k20}i {\r\be1\t(1961,2130,\frz0.015\bord4)\t(2131,2132,\bord2)}{\k17}na{\r\be1\t(2131,2400,\frz0.015\bord4)\t(2401,2412,\bord2)}{\k27}n{\r\be1\t(2401,3660,\frz0.015\bord4)\t(3661,3661,\bord2)}{\k126}te {\r\be1\t(3661,3840,\frz0.015\bord4)\t(3841,3841,\bord2)}{\k18}da{\r\be1\t(3841,4040,\frz0.015\bord4)\t(4041,4041,\bord2)}{\k20}re{\r\be1\t(4041,4210,\frz0.015\bord4)\t(4211,4225,\bord2)}{\k17}ka {\r\be1\t(4211,5800,\frz0.015\bord4)\t(5801,5801,\bord2)}{\k159}no {\r\be1\t(5801,5940,\frz0.015\bord4)\t(5941,5941,\bord2)}{\k14}ko{\r\be1\t(5941,6140,\frz0.015\bord4)\t(6141,6141,\bord2)}{\k20}to{\r\be1\t(6141,6280,\frz0.015\bord4)\t(6281,6282,\bord2)}{\k14}ba {\r\be1\t(6281,6540,\frz0.015\bord4)\t(6541,6546,\bord2)}{\k26}yo{\r\be1\t(6541,7180,\frz0.015\bord4))}{\k64}ri
+Dialogue: 0,0:28:17.82,0:28:18.43,SF_Rom,,0000,0000,0055,,{\t(0,610,\fs92\1a&HFF\3a&HFF)\be1}aaahhh!
+Dialogue: 0,0:28:18.44,0:28:20.74,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,250,\frz0.015\bord4)\t(251,252,\bord2)}{\k25}ki{\r\be1\t(251,520,\frz0.015\bord4)\t(521,522,\bord2)}{\k27}mo{\r\be1\t(521,760,\frz0.015\bord4)\t(761,763,\bord2)}{\k24}chi {\r\be1\t(761,1070,\frz0.015\bord4)\t(1071,1071,\bord2)}{\k31}yo{\r\be1\t(1071,1230,\frz0.015\bord4)\t(1231,1232,\bord2)}{\k16}ke{\r\be1\t(1231,1450,\frz0.015\bord4)\t(1451,1451,\bord2)}{\k22}re {\r\be1\t(1451,1590,\frz0.015\bord4)\t(1591,1593,\bord2)}{\k14}ba {\r\be1\t(1591,1910,\frz0.015\bord4)\t(1911,1913,\bord2)}{\k32}ii {\r\be1\t(1911,2250,\frz0.015\bord4))}{\k34}no
+Dialogue: 0,0:28:20.74,0:28:24.70,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,200,\frz0.015\bord4)\t(201,201,\bord2)}{\k20}so{\r\be1\t(201,350,\frz0.015\bord4)\t(351,351,\bord2)}{\k15}re {\r\be1\t(351,550,\frz0.015\bord4)\t(551,553,\bord2)}{\k20}wa {\r\be1\t(551,880,\frz0.015\bord4)\t(881,881,\bord2)}{\k33}su{\r\be1\t(881,1040,\frz0.015\bord4)\t(1041,1041,\bord2)}{\k16}te{\r\be1\t(1041,1240,\frz0.015\bord4)\t(1241,1241,\bord2)}{\k20}ki {\r\be1\t(1241,1400,\frz0.015\bord4)\t(1401,1402,\bord2)}{\k16}na {\r\be1\t(1401,1640,\frz0.015\bord4)\t(1641,1642,\bord2)}{\k24}ko{\r\be1\t(1641,1860,\frz0.015\bord4)\t(1861,1862,\bord2)}{\k22}to {\r\be1\t(1861,2160,\frz0.015\bord4)\t(2161,2162,\bord2)}{\k30}da {\r\be1\t(2161,2370,\frz0.015\bord4)\t(2371,2385,\bord2)}{\k21}ka{\r\be1\t(2371,3900,\frz0.015\bord4))}{\k153}ra
+Dialogue: 0,0:28:24.75,0:28:27.40,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,180,\frz0.015\bord4)\t(181,181,\bord2)}{\k18}i{\r\be1\t(181,340,\frz0.015\bord4)\t(341,341,\bord2)}{\k16}ma {\r\be1\t(341,540,\frz0.015\bord4)\t(541,542,\bord2)}{\k20}su{\r\be1\t(541,780,\frz0.015\bord4)\t(781,781,\bord2)}{\k24}gu {\r\be1\t(781,930,\frz0.015\bord4)\t(931,933,\bord2)}{\k15}wa{\r\be1\t(931,1250,\frz0.015\bord4)\t(1251,1251,\bord2)}{\k32}ta{\r\be1\t(1251,1420,\frz0.015\bord4)\t(1421,1420,\bord2)}{\k17}shi {\r\be1\t(1421,1510,\frz0.015\bord4)\t(1511,1512,\bord2)}{\k9}no {\r\be1\t(1511,1770,\frz0.015\bord4)\t(1771,1773,\bord2)}{\k26}a{\r\be1\t(1771,2090,\frz0.015\bord4)\t(2091,2093,\bord2)}{\k32}so{\r\be1\t(2091,2400,\frz0.015\bord4)\t(2401,2401,\bord2)}{\k31}ko {\r\be1\t(2401,2590,\frz0.015\bord4))}{\k19}ni
+Dialogue: 0,0:28:27.40,0:28:29.13,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,290,\frz0.015\bord4)\t(291,290,\bord2)}{\k29}ki{\r\be1\t(291,390,\frz0.015\bord4)\t(391,393,\bord2)}{\k10}mi {\r\be1\t(391,790,\frz0.015\bord4)\t(791,791,\bord2)}{\k40}no {\r\be1\t(791,930,\frz0.015\bord4)\t(931,931,\bord2)}{\k14}a{\r\be1\t(931,1070,\frz0.015\bord4)\t(1071,1071,\bord2)}{\k14}tsu{\r\be1\t(1071,1240,\frz0.015\bord4)\t(1241,1241,\bord2)}{\k17}i {\r\be1\t(1241,1390,\frz0.015\bord4)\t(1391,1392,\bord2)}{\k15}no {\r\be1\t(1391,1690,\frz0.015\bord4))}{\k30}wo
+Dialogue: 0,0:28:29.15,0:28:33.21,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,310,\frz0.015\bord4)\t(311,313,\bord2)}{\k31}mou {\r\be1\t(311,630,\frz0.015\bord4)\t(631,632,\bord2)}{\k32}i{\r\be1\t(631,900,\frz0.015\bord4)\t(901,902,\bord2)}{\k27}re{\r\be1\t(901,1170,\frz0.015\bord4)\t(1171,1172,\bord2)}{\k27}te {\r\be1\t(1171,1440,\frz0.015\bord4)\t(1441,1442,\bord2)}{\k27}ku{\r\be1\t(1441,1710,\frz0.015\bord4)\t(1711,1712,\bord2)}{\k27}re{\r\be1\t(1711,1950,\frz0.015\bord4)\t(1951,1952,\bord2)}{\k24}na{\r\be1\t(1951,2190,\frz0.015\bord4)\t(2191,2192,\bord2)}{\k24}kya {\r\be1\t(2191,2480,\frz0.015\bord4)\t(2481,2495,\bord2)}{\k29}i{\r\be1\t(2481,4020,\frz0.015\bord4))}{\k154}ya
+Dialogue: 0,0:28:33.23,0:28:35.84,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,180,\frz0.015\bord4)\t(181,182,\bord2)}{\k18}mu{\r\be1\t(181,400,\frz0.015\bord4)\t(401,401,\bord2)}{\k22}zu{\r\be1\t(401,510,\frz0.015\bord4)\t(511,512,\bord2)}{\k11}ka{\r\be1\t(511,790,\frz0.015\bord4)\t(791,790,\bord2)}{\k28}shii {\r\be1\t(791,880,\frz0.015\bord4)\t(881,882,\bord2)}{\k9}ka{\r\be1\t(881,1170,\frz0.015\bord4)\t(1171,1172,\bord2)}{\k29}o {\r\be1\t(1171,1400,\frz0.015\bord4)\t(1401,1400,\bord2)}{\k23}shi{\r\be1\t(1401,1500,\frz0.015\bord4)\t(1501,1503,\bord2)}{\k10}na{\r\be1\t(1501,1840,\frz0.015\bord4)\t(1841,1842,\bord2)}{\k34}i {\r\be1\t(1841,2070,\frz0.015\bord4)\t(2071,2072,\bord2)}{\k23}de {\r\be1\t(2071,2360,\frz0.015\bord4)\t(2361,2361,\bord2)}{\k29}yo {\r\be1\t(2361,2560,\frz0.015\bord4))}{\k20}ne
+Dialogue: 0,0:28:35.88,0:28:37.68,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,210,\frz0.015\bord4)\t(211,211,\bord2)}{\k21}i{\r\be1\t(211,390,\frz0.015\bord4)\t(391,393,\bord2)}{\k18}ma {\r\be1\t(391,790,\frz0.015\bord4)\t(791,791,\bord2)}{\k40}wo {\r\be1\t(791,900,\frz0.015\bord4)\t(901,900,\bord2)}{\k11}ta{\r\be1\t(901,1000,\frz0.015\bord4)\t(1001,1002,\bord2)}{\k10}i{\r\be1\t(1001,1300,\frz0.015\bord4)\t(1301,1301,\bord2)}{\k30}se{\r\be1\t(1301,1440,\frz0.015\bord4)\t(1441,1443,\bord2)}{\k14}tsu {\r\be1\t(1441,1770,\frz0.015\bord4))}{\k33}ni 
+Dialogue: 0,0:28:37.71,0:28:42.34,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,300,\frz0.015\bord4)\t(301,302,\bord2)}{\k30}nee {\r\be1\t(301,510,\frz0.015\bord4)\t(511,512,\bord2)}{\k21}ki{\r\be1\t(511,790,\frz0.015\bord4)\t(791,792,\bord2)}{\k28}mo{\r\be1\t(791,1040,\frz0.015\bord4)\t(1041,1042,\bord2)}{\k25}chi {\r\be1\t(1041,1250,\frz0.015\bord4)\t(1251,1253,\bord2)}{\k21}i{\r\be1\t(1251,1590,\frz0.015\bord4)\t(1591,1592,\bord2)}{\k34}i {\r\be1\t(1591,1860,\frz0.015\bord4)\t(1861,1861,\bord2)}{\k27}ko{\r\be1\t(1861,2020,\frz0.015\bord4)\t(2021,2023,\bord2)}{\k16}to {\r\be1\t(2021,2380,\frz0.015\bord4)\t(2381,2401,\bord2)}{\k36}shi{\r\be1\t(2381,4580,\frz0.015\bord4))}{\k220}yo
+Dialogue: 0,0:27:53.72,0:27:55.77,SF_Eng,,0000,0000,0000,,I wanna have sex during class.
+Dialogue: 0,0:27:55.80,0:27:58.25,SF_Eng,,0000,0000,0000,,Suddenly it starts pulsing...
+Dialogue: 0,0:27:58.27,0:28:02.16,SF_Eng,,0000,0000,0000,,Even girls wanna do it when they wanna do it.
+Dialogue: 0,0:28:02.19,0:28:04.24,SF_Eng,,0000,0000,0000,,I have confidence in my fellatio.
+Dialogue: 0,0:28:04.29,0:28:06.71,SF_Eng,,0000,0000,0000,,I get excited when I'm licking it.
+Dialogue: 0,0:28:06.80,0:28:10.47,SF_Eng,,0000,0000,0000,,I want to wear your love on my face.
+Dialogue: 0,0:28:10.51,0:28:17.76,SF_Eng,,0000,0000,0000,,Ah... love isn't just someone's words;
+Dialogue: 0,0:28:18.44,0:28:20.74,SF_Eng,,0000,0000,0000,,It has to feel good...
+Dialogue: 0,0:28:20.74,0:28:24.70,SF_Eng,,0000,0000,0000,,...because it's a wonderful thing.
+Dialogue: 0,0:28:24.75,0:28:27.40,SF_Eng,,0000,0000,0000,,Right now, in my special place...
+Dialogue: 0,0:28:27.40,0:28:29.13,SF_Eng,,0000,0000,0000,,...your hot thing...
+Dialogue: 0,0:28:29.15,0:28:33.21,SF_Eng,,0000,0000,0000,,...I want you to stick it in already!
+Dialogue: 0,0:28:33.23,0:28:35.84,SF_Eng,,0000,0000,0000,,Don't make a difficult face, okay?
+Dialogue: 0,0:28:35.88,0:28:37.68,SF_Eng,,0000,0000,0000,,Let's make this moment count...
+Dialogue: 0,0:28:37.71,0:28:42.34,SF_Eng,,0000,0000,0000,,...and do something that feels good!
+Dialogue: 0,0:28:55.95,0:28:57.06,SF_Eng,,0000,0000,0000,,You satisfied me!
+Dialogue: 0,0:29:11.40,0:29:13.45,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,110,\frz0.015\bord4)\t(111,112,\bord2)}{\k11}ju{\r\be1\t(111,370,\frz0.015\bord4)\t(371,371,\bord2)}{\k26}gyou{\r\be1\t(371,530,\frz0.015\bord4)\t(531,531,\bord2)}{\k16}chu{\r\be1\t(531,690,\frz0.015\bord4)\t(691,693,\bord2)}{\k16}u {\r\be1\t(691,1000,\frz0.015\bord4)\t(1001,1001,\bord2)}{\k31}se{\r\be1\t(1001,1120,\frz0.015\bord4)\t(1121,1121,\bord2)}{\k12}kku{\r\be1\t(1121,1280,\frz0.015\bord4)\t(1281,1281,\bord2)}{\k16}su {\r\be1\t(1281,1410,\frz0.015\bord4)\t(1411,1411,\bord2)}{\k13}shi{\r\be1\t(1411,1530,\frz0.015\bord4)\t(1531,1534,\bord2)}{\k12}ta{\r\be1\t(1531,1990,\frz0.015\bord4))}{\k46}i
+Dialogue: 0,0:29:13.48,0:29:15.93,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,170,\frz0.015\bord4)\t(171,171,\bord2)}{\k17}to{\r\be1\t(171,280,\frz0.015\bord4)\t(281,281,\bord2)}{\k11}tsu{\r\be1\t(281,450,\frz0.015\bord4)\t(451,451,\bord2)}{\k17}ze{\r\be1\t(451,590,\frz0.015\bord4)\t(591,592,\bord2)}{\k14}n {\r\be1\t(591,840,\frz0.015\bord4)\t(841,842,\bord2)}{\k25}ni {\r\be1\t(841,1060,\frz0.015\bord4)\t(1061,1060,\bord2)}{\k22}u{\r\be1\t(1061,1120,\frz0.015\bord4)\t(1121,1122,\bord2)}{\k6}zu{\r\be1\t(1121,1330,\frz0.015\bord4)\t(1331,1331,\bord2)}{\k21}i{\r\be1\t(1331,1450,\frz0.015\bord4)\t(1451,1451,\bord2)}{\k12}te {\r\be1\t(1451,1590,\frz0.015\bord4)\t(1591,1591,\bord2)}{\k14}ki{\r\be1\t(1591,1760,\frz0.015\bord4)\t(1761,1766,\bord2)}{\k17}cha{\r\be1\t(1761,2390,\frz0.015\bord4))}{\k63}u
+Dialogue: 0,0:29:15.95,0:29:19.84,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,220,\frz0.015\bord4)\t(221,222,\bord2)}{\k22}shi{\r\be1\t(221,430,\frz0.015\bord4)\t(431,431,\bord2)}{\k21}ta{\r\be1\t(431,590,\frz0.015\bord4)\t(591,592,\bord2)}{\k16}i {\r\be1\t(591,870,\frz0.015\bord4)\t(871,871,\bord2)}{\k28}to{\r\be1\t(871,1000,\frz0.015\bord4)\t(1001,1002,\bord2)}{\k13}ki {\r\be1\t(1001,1240,\frz0.015\bord4)\t(1241,1242,\bord2)}{\k24}wa {\r\be1\t(1241,1530,\frz0.015\bord4)\t(1531,1531,\bord2)}{\k29}shi{\r\be1\t(1531,1700,\frz0.015\bord4)\t(1701,1702,\bord2)}{\k17}ta{\r\be1\t(1701,1910,\frz0.015\bord4)\t(1911,1912,\bord2)}{\k21}i {\r\be1\t(1911,2160,\frz0.015\bord4)\t(2161,2161,\bord2)}{\k25}o{\r\be1\t(2161,2310,\frz0.015\bord4)\t(2311,2311,\bord2)}{\k15}n{\r\be1\t(2311,2490,\frz0.015\bord4)\t(2491,2492,\bord2)}{\k18}na {\r\be1\t(2491,2700,\frz0.015\bord4)\t(2701,2701,\bord2)}{\k21}no {\r\be1\t(2701,2880,\frz0.015\bord4)\t(2881,2887,\bord2)}{\k18}ko{\r\be1\t(2881,3610,\frz0.015\bord4))}{\k73}mo
+Dialogue: 0,0:29:19.87,0:29:21.92,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,100,\frz0.015\bord4)\t(101,102,\bord2)}{\k10}fe{\r\be1\t(101,330,\frz0.015\bord4)\t(331,330,\bord2)}{\k23}ra{\r\be1\t(331,420,\frz0.015\bord4)\t(421,421,\bord2)}{\k9}chi{\r\be1\t(421,540,\frz0.015\bord4)\t(541,542,\bord2)}{\k12}o {\r\be1\t(541,800,\frz0.015\bord4)\t(801,801,\bord2)}{\k26}mo {\r\be1\t(801,1000,\frz0.015\bord4)\t(1001,1000,\bord2)}{\k20}ji{\r\be1\t(1001,1080,\frz0.015\bord4)\t(1081,1082,\bord2)}{\k8}shi{\r\be1\t(1081,1310,\frz0.015\bord4)\t(1311,1311,\bord2)}{\k23}n {\r\be1\t(1311,1440,\frz0.015\bord4)\t(1441,1441,\bord2)}{\k13}a{\r\be1\t(1441,1550,\frz0.015\bord4)\t(1551,1554,\bord2)}{\k11}ru {\r\be1\t(1551,2000,\frz0.015\bord4))}{\k45}no
+Dialogue: 0,0:29:21.97,0:29:24.39,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,80,\frz0.015\bord4)\t(81,81,\bord2)}{\k8}na{\r\be1\t(81,280,\frz0.015\bord4)\t(281,280,\bord2)}{\k20}me{\r\be1\t(281,370,\frz0.015\bord4)\t(371,371,\bord2)}{\k9}te{\r\be1\t(371,540,\frz0.015\bord4)\t(541,542,\bord2)}{\k17}ru {\r\be1\t(541,790,\frz0.015\bord4)\t(791,792,\bord2)}{\k25}to {\r\be1\t(791,1040,\frz0.015\bord4)\t(1041,1042,\bord2)}{\k25}kou{\r\be1\t(1041,1300,\frz0.015\bord4)\t(1301,1301,\bord2)}{\k26}hun {\r\be1\t(1301,1440,\frz0.015\bord4)\t(1441,1441,\bord2)}{\k14}shi{\r\be1\t(1441,1620,\frz0.015\bord4)\t(1621,1621,\bord2)}{\k18}cha{\r\be1\t(1621,1760,\frz0.015\bord4)\t(1761,1766,\bord2)}{\k14}u {\r\be1\t(1761,2370,\frz0.015\bord4))}{\k61}no
+Dialogue: 0,0:29:24.48,0:29:28.15,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,150,\frz0.015\bord4)\t(151,151,\bord2)}{\k15}ka{\r\be1\t(151,310,\frz0.015\bord4)\t(311,312,\bord2)}{\k16}o {\r\be1\t(311,550,\frz0.015\bord4)\t(551,552,\bord2)}{\k24}ni {\r\be1\t(551,800,\frz0.015\bord4)\t(801,801,\bord2)}{\k25}ka{\r\be1\t(801,930,\frz0.015\bord4)\t(931,932,\bord2)}{\k13}ke{\r\be1\t(931,1190,\frz0.015\bord4)\t(1191,1191,\bord2)}{\k26}te {\r\be1\t(1191,1380,\frz0.015\bord4)\t(1381,1381,\bord2)}{\k19}ho{\r\be1\t(1381,1570,\frz0.015\bord4)\t(1571,1572,\bord2)}{\k19}shi{\r\be1\t(1571,1830,\frz0.015\bord4)\t(1831,1832,\bord2)}{\k26}i {\r\be1\t(1831,2100,\frz0.015\bord4)\t(2101,2101,\bord2)}{\k27}no {\r\be1\t(2101,2220,\frz0.015\bord4)\t(2221,2222,\bord2)}{\k12}ki{\r\be1\t(2221,2510,\frz0.015\bord4)\t(2511,2511,\bord2)}{\k29}mi {\r\be1\t(2511,2650,\frz0.015\bord4)\t(2651,2652,\bord2)}{\k14}no {\r\be1\t(2651,2900,\frz0.015\bord4)\t(2901,2902,\bord2)}{\k25}ko{\r\be1\t(2901,3110,\frz0.015\bord4)\t(3111,3112,\bord2)}{\k21}i {\r\be1\t(3111,3360,\frz0.015\bord4)\t(3361,3362,\bord2)}{\k25}no {\r\be1\t(3361,3630,\frz0.015\bord4))}{\k27}wo
+Dialogue: 0,0:29:28.19,0:29:35.44,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,1570,\frz0.015\bord4)\t(1571,1571,\bord2)}{\k157}aa {\r\be1\t(1571,1760,\frz0.015\bord4)\t(1761,1761,\bord2)}{\k19}a{\r\be1\t(1761,1960,\frz0.015\bord4)\t(1961,1961,\bord2)}{\k20}i {\r\be1\t(1961,2130,\frz0.015\bord4)\t(2131,2132,\bord2)}{\k17}na{\r\be1\t(2131,2400,\frz0.015\bord4)\t(2401,2412,\bord2)}{\k27}n{\r\be1\t(2401,3660,\frz0.015\bord4)\t(3661,3661,\bord2)}{\k126}te {\r\be1\t(3661,3840,\frz0.015\bord4)\t(3841,3841,\bord2)}{\k18}da{\r\be1\t(3841,4040,\frz0.015\bord4)\t(4041,4041,\bord2)}{\k20}re{\r\be1\t(4041,4210,\frz0.015\bord4)\t(4211,4225,\bord2)}{\k17}ka {\r\be1\t(4211,5800,\frz0.015\bord4)\t(5801,5801,\bord2)}{\k159}no {\r\be1\t(5801,5940,\frz0.015\bord4)\t(5941,5941,\bord2)}{\k14}ko{\r\be1\t(5941,6140,\frz0.015\bord4)\t(6141,6141,\bord2)}{\k20}to{\r\be1\t(6141,6280,\frz0.015\bord4)\t(6281,6282,\bord2)}{\k14}ba {\r\be1\t(6281,6540,\frz0.015\bord4)\t(6541,6546,\bord2)}{\k26}yo{\r\be1\t(6541,7180,\frz0.015\bord4))}{\k64}ri
+Dialogue: 0,0:29:35.50,0:29:36.11,SF_Rom,,0000,0000,0055,,{\t(0,610,\fs92\1a&HFF\3a&HFF)\be1}aaahhh!
+Dialogue: 0,0:29:36.12,0:29:38.42,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,250,\frz0.015\bord4)\t(251,252,\bord2)}{\k25}ki{\r\be1\t(251,520,\frz0.015\bord4)\t(521,522,\bord2)}{\k27}mo{\r\be1\t(521,760,\frz0.015\bord4)\t(761,763,\bord2)}{\k24}chi {\r\be1\t(761,1070,\frz0.015\bord4)\t(1071,1071,\bord2)}{\k31}yo{\r\be1\t(1071,1230,\frz0.015\bord4)\t(1231,1232,\bord2)}{\k16}ke{\r\be1\t(1231,1450,\frz0.015\bord4)\t(1451,1451,\bord2)}{\k22}re {\r\be1\t(1451,1590,\frz0.015\bord4)\t(1591,1593,\bord2)}{\k14}ba {\r\be1\t(1591,1910,\frz0.015\bord4)\t(1911,1913,\bord2)}{\k32}ii {\r\be1\t(1911,2250,\frz0.015\bord4))}{\k34}no
+Dialogue: 0,0:29:38.42,0:29:42.38,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,200,\frz0.015\bord4)\t(201,201,\bord2)}{\k20}so{\r\be1\t(201,350,\frz0.015\bord4)\t(351,351,\bord2)}{\k15}re {\r\be1\t(351,550,\frz0.015\bord4)\t(551,553,\bord2)}{\k20}wa {\r\be1\t(551,880,\frz0.015\bord4)\t(881,881,\bord2)}{\k33}su{\r\be1\t(881,1040,\frz0.015\bord4)\t(1041,1041,\bord2)}{\k16}te{\r\be1\t(1041,1240,\frz0.015\bord4)\t(1241,1241,\bord2)}{\k20}ki {\r\be1\t(1241,1400,\frz0.015\bord4)\t(1401,1402,\bord2)}{\k16}na {\r\be1\t(1401,1640,\frz0.015\bord4)\t(1641,1642,\bord2)}{\k24}ko{\r\be1\t(1641,1860,\frz0.015\bord4)\t(1861,1862,\bord2)}{\k22}to {\r\be1\t(1861,2160,\frz0.015\bord4)\t(2161,2162,\bord2)}{\k30}da {\r\be1\t(2161,2370,\frz0.015\bord4)\t(2371,2385,\bord2)}{\k21}ka{\r\be1\t(2371,3900,\frz0.015\bord4))}{\k153}ra
+Dialogue: 0,0:29:42.43,0:29:45.08,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,180,\frz0.015\bord4)\t(181,181,\bord2)}{\k18}i{\r\be1\t(181,340,\frz0.015\bord4)\t(341,341,\bord2)}{\k16}ma {\r\be1\t(341,540,\frz0.015\bord4)\t(541,542,\bord2)}{\k20}su{\r\be1\t(541,780,\frz0.015\bord4)\t(781,781,\bord2)}{\k24}gu {\r\be1\t(781,930,\frz0.015\bord4)\t(931,933,\bord2)}{\k15}wa{\r\be1\t(931,1250,\frz0.015\bord4)\t(1251,1251,\bord2)}{\k32}ta{\r\be1\t(1251,1420,\frz0.015\bord4)\t(1421,1420,\bord2)}{\k17}shi {\r\be1\t(1421,1510,\frz0.015\bord4)\t(1511,1512,\bord2)}{\k9}no {\r\be1\t(1511,1770,\frz0.015\bord4)\t(1771,1773,\bord2)}{\k26}a{\r\be1\t(1771,2090,\frz0.015\bord4)\t(2091,2093,\bord2)}{\k32}so{\r\be1\t(2091,2400,\frz0.015\bord4)\t(2401,2401,\bord2)}{\k31}ko {\r\be1\t(2401,2590,\frz0.015\bord4))}{\k19}ni
+Dialogue: 0,0:29:45.08,0:29:46.81,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,290,\frz0.015\bord4)\t(291,290,\bord2)}{\k29}ki{\r\be1\t(291,390,\frz0.015\bord4)\t(391,393,\bord2)}{\k10}mi {\r\be1\t(391,790,\frz0.015\bord4)\t(791,791,\bord2)}{\k40}no {\r\be1\t(791,930,\frz0.015\bord4)\t(931,931,\bord2)}{\k14}a{\r\be1\t(931,1070,\frz0.015\bord4)\t(1071,1071,\bord2)}{\k14}tsu{\r\be1\t(1071,1240,\frz0.015\bord4)\t(1241,1241,\bord2)}{\k17}i {\r\be1\t(1241,1390,\frz0.015\bord4)\t(1391,1392,\bord2)}{\k15}no {\r\be1\t(1391,1690,\frz0.015\bord4))}{\k30}wo
+Dialogue: 0,0:29:46.83,0:29:50.89,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,310,\frz0.015\bord4)\t(311,313,\bord2)}{\k31}mou {\r\be1\t(311,630,\frz0.015\bord4)\t(631,632,\bord2)}{\k32}i{\r\be1\t(631,900,\frz0.015\bord4)\t(901,902,\bord2)}{\k27}re{\r\be1\t(901,1170,\frz0.015\bord4)\t(1171,1172,\bord2)}{\k27}te {\r\be1\t(1171,1440,\frz0.015\bord4)\t(1441,1442,\bord2)}{\k27}ku{\r\be1\t(1441,1710,\frz0.015\bord4)\t(1711,1712,\bord2)}{\k27}re{\r\be1\t(1711,1950,\frz0.015\bord4)\t(1951,1952,\bord2)}{\k24}na{\r\be1\t(1951,2190,\frz0.015\bord4)\t(2191,2192,\bord2)}{\k24}kya {\r\be1\t(2191,2480,\frz0.015\bord4)\t(2481,2495,\bord2)}{\k29}i{\r\be1\t(2481,4020,\frz0.015\bord4))}{\k154}ya
+Dialogue: 0,0:29:50.91,0:29:53.52,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,180,\frz0.015\bord4)\t(181,182,\bord2)}{\k18}mu{\r\be1\t(181,400,\frz0.015\bord4)\t(401,401,\bord2)}{\k22}zu{\r\be1\t(401,510,\frz0.015\bord4)\t(511,512,\bord2)}{\k11}ka{\r\be1\t(511,790,\frz0.015\bord4)\t(791,790,\bord2)}{\k28}shii {\r\be1\t(791,880,\frz0.015\bord4)\t(881,882,\bord2)}{\k9}ka{\r\be1\t(881,1170,\frz0.015\bord4)\t(1171,1172,\bord2)}{\k29}o {\r\be1\t(1171,1400,\frz0.015\bord4)\t(1401,1400,\bord2)}{\k23}shi{\r\be1\t(1401,1500,\frz0.015\bord4)\t(1501,1503,\bord2)}{\k10}na{\r\be1\t(1501,1840,\frz0.015\bord4)\t(1841,1842,\bord2)}{\k34}i {\r\be1\t(1841,2070,\frz0.015\bord4)\t(2071,2072,\bord2)}{\k23}de {\r\be1\t(2071,2360,\frz0.015\bord4)\t(2361,2361,\bord2)}{\k29}yo {\r\be1\t(2361,2560,\frz0.015\bord4))}{\k20}ne
+Dialogue: 0,0:29:53.56,0:29:55.36,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,210,\frz0.015\bord4)\t(211,211,\bord2)}{\k21}i{\r\be1\t(211,390,\frz0.015\bord4)\t(391,393,\bord2)}{\k18}ma {\r\be1\t(391,790,\frz0.015\bord4)\t(791,791,\bord2)}{\k40}wo {\r\be1\t(791,900,\frz0.015\bord4)\t(901,900,\bord2)}{\k11}ta{\r\be1\t(901,1000,\frz0.015\bord4)\t(1001,1002,\bord2)}{\k10}i{\r\be1\t(1001,1300,\frz0.015\bord4)\t(1301,1301,\bord2)}{\k30}se{\r\be1\t(1301,1440,\frz0.015\bord4)\t(1441,1443,\bord2)}{\k14}tsu {\r\be1\t(1441,1770,\frz0.015\bord4))}{\k33}ni 
+Dialogue: 0,0:29:55.39,0:30:00.02,SF_Rom,,0000,0000,0000,,{\org(100,50000)\be1}{\r\be1\t(0,300,\frz0.015\bord4)\t(301,302,\bord2)}{\k30}nee {\r\be1\t(301,510,\frz0.015\bord4)\t(511,512,\bord2)}{\k21}ki{\r\be1\t(511,790,\frz0.015\bord4)\t(791,792,\bord2)}{\k28}mo{\r\be1\t(791,1040,\frz0.015\bord4)\t(1041,1042,\bord2)}{\k25}chi {\r\be1\t(1041,1250,\frz0.015\bord4)\t(1251,1253,\bord2)}{\k21}i{\r\be1\t(1251,1590,\frz0.015\bord4)\t(1591,1592,\bord2)}{\k34}i {\r\be1\t(1591,1860,\frz0.015\bord4)\t(1861,1861,\bord2)}{\k27}ko{\r\be1\t(1861,2020,\frz0.015\bord4)\t(2021,2023,\bord2)}{\k16}to {\r\be1\t(2021,2380,\frz0.015\bord4)\t(2381,2401,\bord2)}{\k36}shi{\r\be1\t(2381,4580,\frz0.015\bord4))}{\k220}yo
+Dialogue: 0,0:29:11.40,0:29:13.45,SF_Eng,,0000,0000,0000,,I wanna have sex during class.
+Dialogue: 0,0:29:13.48,0:29:15.93,SF_Eng,,0000,0000,0000,,Suddenly it starts pulsing...
+Dialogue: 0,0:29:15.95,0:29:19.84,SF_Eng,,0000,0000,0000,,Even girls wanna do it when they wanna do it.
+Dialogue: 0,0:29:19.87,0:29:21.92,SF_Eng,,0000,0000,0000,,I have confidence in my fellatio.
+Dialogue: 0,0:29:21.97,0:29:24.39,SF_Eng,,0000,0000,0000,,I get excited when I'm licking it.
+Dialogue: 0,0:29:24.48,0:29:28.15,SF_Eng,,0000,0000,0000,,I want to wear your love on my face.
+Dialogue: 0,0:29:28.19,0:29:35.44,SF_Eng,,0000,0000,0000,,Ah... love isn't just someone's words;
+Dialogue: 0,0:29:36.12,0:29:38.42,SF_Eng,,0000,0000,0000,,It has to feel good...
+Dialogue: 0,0:29:38.42,0:29:42.38,SF_Eng,,0000,0000,0000,,...because it's a wonderful thing.
+Dialogue: 0,0:29:42.43,0:29:45.08,SF_Eng,,0000,0000,0000,,Right now, in my special place...
+Dialogue: 0,0:29:45.08,0:29:46.81,SF_Eng,,0000,0000,0000,,...your hot thing...
+Dialogue: 0,0:29:46.83,0:29:50.89,SF_Eng,,0000,0000,0000,,...I want you to stick it in already!
+Dialogue: 0,0:29:50.91,0:29:53.52,SF_Eng,,0000,0000,0000,,Don't make a difficult face, okay?
+Dialogue: 0,0:29:53.56,0:29:55.36,SF_Eng,,0000,0000,0000,,Let's make this moment count...
+Dialogue: 0,0:29:55.39,0:30:00.02,SF_Eng,,0000,0000,0000,,...and do something that feels good!

@@ -1,0 +1,285 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://vobsub.edensrising.com/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00ffffff,&H0000ffff,&H00000000,&H80000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:44.51,0:00:48.03,Default,,0000,0000,0000,,As the years advance,\Nmy hearing declines.
+Dialogue: 0,0:00:48.14,0:00:50.98,Default,,0000,0000,0000,,My legs are not\Nwhat they used to be.
+Dialogue: 0,0:00:51.38,0:00:56.11,Default,,0000,0000,0000,,I can't stop getting uglier.
+Dialogue: 0,0:00:56.58,0:01:03.15,Default,,0000,0000,0000,,The women I loved are getting\Ngrey hair and wrinkles.
+Dialogue: 0,0:01:03.83,0:01:06.42,Default,,0000,0000,0000,,All this irritates me constantly.
+Dialogue: 0,0:01:07.13,0:01:10.56,Default,,0000,0000,0000,,If I go on living in this world...
+Dialogue: 0,0:01:10.97,0:01:14.80,Default,,0000,0000,0000,,I don't think things\Nwill get any better.
+Dialogue: 0,0:03:22.96,0:03:24.45,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:03:37.51,0:03:44.18,Default,,0000,0000,0000,,THE SENSUALIST\Nby Saikaku Ihara
+Dialogue: 0,0:03:50.49,0:03:55.22,Default,,0000,0000,0000,,Planning by\NRen Usami
+Dialogue: 0,0:04:03.30,0:04:10.04,Default,,0000,0000,0000,,Producers: Ren Usami, Tsunemasa\NHatano and Zuza Hagiwara
+Dialogue: 0,0:04:16.12,0:04:20.82,Default,,0000,0000,0000,,Screenplay by\NEiichi Yamamoto
+Dialogue: 0,0:04:27.26,0:04:32.72,Default,,0000,0000,0000,,Animators: Tomoko Ogawa\NMasaharu Endo and Hiroyuki Kondo
+Dialogue: 0,0:04:39.07,0:04:43.98,Default,,0000,0000,0000,,Music by Keiju Ishikawa\NSound by Susumu Aketagawa
+Dialogue: 0,0:04:47.22,0:04:52.08,Default,,0000,0000,0000,,Camera by Minoru Fujita\NEdited by Kenichi Takashima
+Dialogue: 0,0:04:55.82,0:05:01.92,Default,,0000,0000,0000,,Directed by\NYukio Abe
+Dialogue: 0,0:05:13.68,0:05:19.20,Default,,0000,0000,0000,,Fashion Shop\N"DREAM"
+Dialogue: 0,0:05:52.25,0:05:54.65,Default,,0000,0000,0000,,Hey, I'll go in for a bit.
+Dialogue: 0,0:05:55.22,0:05:56.65,Default,,0000,0000,0000,,I'll wait.
+Dialogue: 0,0:06:03.59,0:06:06.39,Default,,0000,0000,0000,,Ah, Juzo the Tailor!
+Dialogue: 0,0:06:06.96,0:06:09.16,Default,,0000,0000,0000,,Yes, that's me.
+Dialogue: 0,0:06:10.03,0:06:11.66,Default,,0000,0000,0000,,So, is the master in?
+Dialogue: 0,0:06:11.80,0:06:12.96,Default,,0000,0000,0000,,He is.
+Dialogue: 0,0:06:14.40,0:06:20.27,Default,,0000,0000,0000,,I'm leaving for Edo,\Nso I came to greet him.
+Dialogue: 0,0:06:21.78,0:06:24.75,Default,,0000,0000,0000,,Hey, go and ask\Nthe Master, if...
+Dialogue: 0,0:06:25.15,0:06:26.27,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:06:31.85,0:06:36.26,Default,,0000,0000,0000,,Please don't bother him.\NWould you just tell him so?
+Dialogue: 0,0:06:36.39,0:06:38.22,Default,,0000,0000,0000,,I'll be back soon.
+Dialogue: 0,0:06:39.03,0:06:40.49,Default,,0000,0000,0000,,Juzo?
+Dialogue: 0,0:06:44.57,0:06:46.62,Default,,0000,0000,0000,,Yonosuke\N(aged 54)
+Dialogue: 0,0:06:50.81,0:06:51.40,Default,,0000,0000,0000,,Manager!
+Dialogue: 0,0:06:51.54,0:06:51.90,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:53.14,0:06:54.17,Default,,0000,0000,0000,,Manager?
+Dialogue: 0,0:06:54.41,0:06:54.93,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:06:59.15,0:07:00.44,Default,,0000,0000,0000,,Give him some money.
+Dialogue: 0,0:07:00.88,0:07:01.51,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:07:06.95,0:07:10.29,Default,,0000,0000,0000,,Master, I didn't come for that.
+Dialogue: 0,0:07:10.43,0:07:14.38,Default,,0000,0000,0000,,I know. I just want to help.
+Dialogue: 0,0:07:14.66,0:07:15.65,Default,,0000,0000,0000,,Take this.
+Dialogue: 0,0:07:16.26,0:07:18.39,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:07:18.50,0:07:21.66,Default,,0000,0000,0000,,What brings you to Edo?
+Dialogue: 0,0:07:21.77,0:07:25.64,Default,,0000,0000,0000,,I'm going to sleep\Nwith Komurasaki...
+Dialogue: 0,0:07:25.77,0:07:29.00,Default,,0000,0000,0000,,...the most renowned\Ncourtesan.
+Dialogue: 0,0:07:29.58,0:07:30.91,Default,,0000,0000,0000,,Huh?\NWhat?
+Dialogue: 0,0:07:31.01,0:07:33.04,Default,,0000,0000,0000,,I was drunk at a party...
+Dialogue: 0,0:07:33.15,0:07:38.92,Default,,0000,0000,0000,,I said I'd sleep with Komurasaki\Nat our first meeting.
+Dialogue: 0,0:07:39.85,0:07:44.99,Default,,0000,0000,0000,,Then the party host made me a bet.
+Dialogue: 0,0:07:45.53,0:07:48.29,Default,,0000,0000,0000,,At your first meeting?
+Dialogue: 0,0:07:48.43,0:07:49.59,Default,,0000,0000,0000,,Umm, yeah...
+Dialogue: 0,0:07:49.90,0:07:54.86,Default,,0000,0000,0000,,Uhei the Clown is with\Nme to watch the results.
+Dialogue: 0,0:08:01.91,0:08:03.38,Default,,0000,0000,0000,,Tell me, Juzo...
+Dialogue: 0,0:08:03.61,0:08:04.37,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:05.55,0:08:08.01,Default,,0000,0000,0000,,What did you bet?
+Dialogue: 0,0:08:08.55,0:08:12.61,Default,,0000,0000,0000,,If I succeed, I'll get\None of the villas.
+Dialogue: 0,0:08:12.92,0:08:14.05,Default,,0000,0000,0000,,And if not?
+Dialogue: 0,0:08:15.39,0:08:16.36,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:08:16.59,0:08:17.65,Default,,0000,0000,0000,,What then?
+Dialogue: 0,0:08:21.80,0:08:24.03,Default,,0000,0000,0000,,Listen, Juzo!
+Dialogue: 0,0:08:24.90,0:08:25.39,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:25.77,0:08:29.73,Default,,0000,0000,0000,,Those courtesans are special.
+Dialogue: 0,0:08:29.87,0:08:34.17,Default,,0000,0000,0000,,Once, they were only\Nfor feudal lords...
+Dialogue: 0,0:08:34.31,0:08:37.94,Default,,0000,0000,0000,,They are well taught\Nand very proud.
+Dialogue: 0,0:08:38.05,0:08:42.31,Default,,0000,0000,0000,,They are versed in the arts,\Nvery sophisticated.
+Dialogue: 0,0:08:42.42,0:08:45.98,Default,,0000,0000,0000,,Since recently, the also\Nreceive us merchants...
+Dialogue: 0,0:08:46.12,0:08:49.92,Default,,0000,0000,0000,,...but certainly not into\Ntheir beds, right away!
+Dialogue: 0,0:08:52.03,0:08:56.43,Default,,0000,0000,0000,,No bed at the first meeting?!
+Dialogue: 0,0:08:56.56,0:08:59.43,Default,,0000,0000,0000,,No workers accepted.
+Dialogue: 0,0:08:59.57,0:09:03.77,Default,,0000,0000,0000,,Sorry to say, but you\Ncan't even meet her!
+Dialogue: 0,0:09:03.91,0:09:10.07,Default,,0000,0000,0000,,He knew that and forced\Nme to bet my manhood!
+Dialogue: 0,0:09:12.41,0:09:15.94,Default,,0000,0000,0000,,Who is this malicious man?
+Dialogue: 0,0:09:16.08,0:09:20.75,Default,,0000,0000,0000,,He made me promise\Nnot to tell his name.
+Dialogue: 0,0:09:20.89,0:09:23.19,Default,,0000,0000,0000,,What a shame!
+Dialogue: 0,0:09:24.03,0:09:24.75,Default,,0000,0000,0000,,Manager!
+Dialogue: 0,0:09:27.19,0:09:29.75,Default,,0000,0000,0000,,Manager, I'll accompany\Nhim to Edo.
+Dialogue: 0,0:09:31.53,0:09:32.16,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:33.33,0:09:34.49,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:56.94,0:12:00.07,Default,,0000,0000,0000,,His father had a silver mine.
+Dialogue: 0,0:12:00.78,0:12:04.91,Default,,0000,0000,0000,,He came to Kyoto\Nwith a big fortune...
+Dialogue: 0,0:12:05.15,0:12:07.55,Default,,0000,0000,0000,,He liked wine\Nand women.
+Dialogue: 0,0:12:07.69,0:12:09.95,Default,,0000,0000,0000,,His name was\NMr. Dream.
+Dialogue: 0,0:12:11.06,0:12:16.39,Default,,0000,0000,0000,,He redeemed the courtesan\Nwho gave him a son, Yonosuke.
+Dialogue: 0,0:12:16.80,0:12:22.29,Default,,0000,0000,0000,,Like his father, Yonosuke\Nwas precocious...
+Dialogue: 0,0:12:22.94,0:12:26.74,Default,,0000,0000,0000,,At the age of seven he got laid...
+Dialogue: 0,0:12:28.01,0:12:34.68,Default,,0000,0000,0000,,At the age of nine, he started\Nlearning business at a relative's...
+Dialogue: 0,0:12:35.15,0:12:37.21,Default,,0000,0000,0000,,He also learned homosexuality.
+Dialogue: 0,0:12:37.35,0:12:40.15,Default,,0000,0000,0000,,At the age of eleven,\Nhe bought his first whores.
+Dialogue: 0,0:12:41.36,0:12:45.72,Default,,0000,0000,0000,,No night was spent alone, then.
+Dialogue: 0,0:12:46.23,0:12:50.76,Default,,0000,0000,0000,,Neighborhood girls, wives, whores...
+Dialogue: 0,0:12:51.27,0:12:53.56,Default,,0000,0000,0000,,As long as she was\Na woman, he didn't care.
+Dialogue: 0,0:14:13.25,0:14:14.91,Default,,0000,0000,0000,,I came with you...
+Dialogue: 0,0:14:15.02,0:14:18.85,Default,,0000,0000,0000,,...because I pitied you probably\Nlosing your manhood.
+Dialogue: 0,0:14:23.82,0:14:28.73,Default,,0000,0000,0000,,I thought I'd arrange that\Nyou can see her, at least.
+Dialogue: 0,0:14:31.03,0:14:33.47,Default,,0000,0000,0000,,It sure won't be easy.
+Dialogue: 0,0:14:33.83,0:14:37.03,Default,,0000,0000,0000,,Even if you get\Na chance and fail...
+Dialogue: 0,0:14:40.61,0:14:42.41,Default,,0000,0000,0000,,Accept your fate.
+Dialogue: 0,0:14:44.38,0:14:46.18,Default,,0000,0000,0000,,You know...
+Dialogue: 0,0:14:47.51,0:14:48.57,Default,,0000,0000,0000,,Y-yes.
+Dialogue: 0,0:14:48.68,0:14:50.08,Default,,0000,0000,0000,,Don't talk like that.
+Dialogue: 0,0:14:50.72,0:14:55.38,Default,,0000,0000,0000,,Behave like a rich merchant\Nin front of the others.
+Dialogue: 0,0:14:56.46,0:14:57.29,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:58.99,0:15:00.86,Default,,0000,0000,0000,,This is the landmark tree.
+Dialogue: 0,0:15:01.56,0:15:04.62,Default,,0000,0000,0000,,The red light district\Nis over there.
+Dialogue: 0,0:17:08.56,0:17:13.29,Default,,0000,0000,0000,,So this is the famous gate to\NYoshiwara, the red light district.
+Dialogue: 0,0:17:14.09,0:17:18.09,Default,,0000,0000,0000,,Ordinary whores are\Nin every brothel here.
+Dialogue: 0,0:17:18.63,0:17:22.73,Default,,0000,0000,0000,,...but courtesans must be\Ncalled to a tea house.
+Dialogue: 0,0:17:23.10,0:17:23.83,Default,,0000,0000,0000,,Well, let's go!
+Dialogue: 0,0:18:16.89,0:18:18.95,Default,,0000,0000,0000,,Hey, wait for me!
+Dialogue: 0,0:18:47.89,0:18:50.05,Default,,0000,0000,0000,,You want Komurasaki?
+Dialogue: 0,0:18:50.56,0:18:51.22,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:51.53,0:18:53.99,Default,,0000,0000,0000,,This gentleman has come\Nto Edo for the first time.
+Dialogue: 0,0:18:54.26,0:18:57.70,Default,,0000,0000,0000,,He wants her at any\Ncost to remember Edo.
+Dialogue: 0,0:18:57.83,0:19:03.79,Default,,0000,0000,0000,,We'll gladly be at your service.
+Dialogue: 0,0:19:04.10,0:19:06.97,Default,,0000,0000,0000,,However, Komurasaki\Nis so popular...
+Dialogue: 0,0:19:07.07,0:19:13.27,Default,,0000,0000,0000,,I'm afraid you'll have to\Nwait for four or five days.
+Dialogue: 0,0:19:13.38,0:19:15.87,Default,,0000,0000,0000,,We know that, right?
+Dialogue: 0,0:19:15.98,0:19:17.18,Default,,0000,0000,0000,,Y-yes!
+Dialogue: 0,0:20:49.61,0:20:53.94,Default,,0000,0000,0000,,At the age of 1 8, Yonosuke\Nwas sent to the Edo branch
+Dialogue: 0,0:20:55.15,0:20:59.45,Default,,0000,0000,0000,,On his way, he bought a whore\Nat every post town.
+Dialogue: 0,0:20:59.55,0:21:01.65,Default,,0000,0000,0000,,He took a long time.
+Dialogue: 0,0:21:02.62,0:21:06.42,Default,,0000,0000,0000,,In Edo, he promptly\Ntried out all the brothels.
+Dialogue: 0,0:21:06.56,0:21:09.69,Default,,0000,0000,0000,,He went with boys and girls....
+Dialogue: 0,0:21:09.80,0:21:16.50,Default,,0000,0000,0000,,...and ended up staying weeks\Nat Yoshiwara.
+Dialogue: 0,0:21:17.17,0:21:20.77,Default,,0000,0000,0000,,Even his father disowned him.
+Dialogue: 0,0:21:21.91,0:21:24.88,Default,,0000,0000,0000,,So, he became a monk.
+Dialogue: 0,0:21:25.35,0:21:29.34,Default,,0000,0000,0000,,Be he wasn't religious\Neven for a week.
+Dialogue: 0,0:21:29.58,0:21:31.64,Default,,0000,0000,0000,,Lust overcame him.
+Dialogue: 0,0:21:31.75,0:21:36.82,Default,,0000,0000,0000,,He called peddlers and the like\Ninto his temple day and night...
+Dialogue: 0,0:22:21.74,0:22:26.33,Default,,0000,0000,0000,,Gentlemen, the courtesan is\Non the way here.
+Dialogue: 0,0:22:26.47,0:22:28.46,Default,,0000,0000,0000,,It won't be long now!
+Dialogue: 0,0:22:29.18,0:22:30.20,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:22:32.01,0:22:32.74,Default,,0000,0000,0000,,Welcome.
+Dialogue: 0,0:23:02.28,0:23:03.83,Default,,0000,0000,0000,,Yuzo, are you ready?
+Dialogue: 0,0:23:04.71,0:23:05.44,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:23:05.58,0:23:06.77,Default,,0000,0000,0000,,I'm ready.
+Dialogue: 0,0:23:06.91,0:23:10.18,Default,,0000,0000,0000,,Not that. I mean the shroud\Nfor your thing.
+Dialogue: 0,0:23:10.62,0:23:15.65,Default,,0000,0000,0000,,Are you wearing the red loin cloth\Nand rosary I gave you?
+Dialogue: 0,0:23:15.76,0:23:16.31,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:23:16.46,0:23:17.25,Default,,0000,0000,0000,,Show me!
+Dialogue: 0,0:23:17.59,0:23:18.72,Default,,0000,0000,0000,,Here?
+Dialogue: 0,0:23:18.96,0:23:21.19,Default,,0000,0000,0000,,Yeah, go ahead!
+Dialogue: 0,0:23:23.93,0:23:24.79,Default,,0000,0000,0000,,Here, sir?
+Dialogue: 0,0:23:46.79,0:23:47.52,Default,,0000,0000,0000,,Great!
+Dialogue: 0,0:24:00.63,0:24:02.33,Default,,0000,0000,0000,,I'm leaving.
+Dialogue: 0,0:24:03.77,0:24:05.33,Default,,0000,0000,0000,,But Sir...
+Dialogue: 0,0:24:06.11,0:24:09.91,Default,,0000,0000,0000,,Brace up.\NYou're the customer.
+Dialogue: 0,0:26:23.31,0:26:27.80,Default,,0000,0000,0000,,At the age of 20, still disowned,\Nhe went to Osaka...
+Dialogue: 0,0:26:28.11,0:26:31.78,Default,,0000,0000,0000,,...Ieading a poor laborer's life.
+Dialogue: 0,0:26:32.09,0:26:35.85,Default,,0000,0000,0000,,Lust didn't leave him alone\Nall this time.
+Dialogue: 0,0:26:36.72,0:26:40.59,Default,,0000,0000,0000,,He then started 15 years\Nof roaming.
+Dialogue: 0,0:26:41.06,0:26:45.26,Default,,0000,0000,0000,,At the age of 22, he was\Npeddling fish...
+Dialogue: 0,0:26:45.47,0:26:48.03,Default,,0000,0000,0000,,Whenever he wasn't\Nfrequenting brothels.
+Dialogue: 0,0:26:48.30,0:26:52.36,Default,,0000,0000,0000,,At the age of 25, he worked\Nin a gold mine.
+Dialogue: 0,0:26:52.61,0:26:57.31,Default,,0000,0000,0000,,But his dream of making a fortune\Ndidn't come true.
+Dialogue: 0,0:26:57.84,0:27:03.18,Default,,0000,0000,0000,,He roamed through Northern Japan,\Nmaking love to all kinds of women.
+Dialogue: 0,0:27:03.32,0:27:08.55,Default,,0000,0000,0000,,At the age of 27, he forced\Nhimself on a shrine maiden.
+Dialogue: 0,0:27:08.66,0:27:14.89,Default,,0000,0000,0000,,As a penalty, half of his hair was shaven\Noff and he was thrown into jail.
+Dialogue: 0,0:27:15.30,0:27:24.80,Default,,0000,0000,0000,,He was released on amnesty\Nafter a year.
+Dialogue: 0,0:27:37.65,0:27:41.14,Default,,0000,0000,0000,,Wow! This is real happiness!
+Dialogue: 0,0:27:53.27,0:27:57.17,Default,,0000,0000,0000,,You two are very beautiful.
+Dialogue: 0,0:28:03.18,0:28:07.08,Default,,0000,0000,0000,,Why is the courtesan so late?
+Dialogue: 0,0:28:27.40,0:28:28.80,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:28:51.19,0:28:53.79,Default,,0000,0000,0000,,You mean me?!
+Dialogue: 0,0:29:00.53,0:29:03.47,Default,,0000,0000,0000,,All right! All right!
+Dialogue: 0,0:29:13.15,0:29:16.78,Default,,0000,0000,0000,,I'm afraid he is drunk.
+Dialogue: 0,0:29:41.27,0:29:43.74,Default,,0000,0000,0000,,Did you like that?
+Dialogue: 0,0:29:44.28,0:29:46.04,Default,,0000,0000,0000,,I'm generous!
+Dialogue: 0,0:29:48.85,0:29:50.41,Default,,0000,0000,0000,,My money!
+Dialogue: 0,0:29:59.89,0:30:01.52,Default,,0000,0000,0000,,Hehehe...
+Dialogue: 0,0:30:04.33,0:30:06.09,Default,,0000,0000,0000,,Oh, my!
+Dialogue: 0,0:30:09.40,0:30:11.20,Default,,0000,0000,0000,,Ahahaha!
+Dialogue: 0,0:30:11.47,0:30:13.30,Default,,0000,0000,0000,,I won't mind.
+Dialogue: 0,0:30:21.01,0:30:22.95,Default,,0000,0000,0000,,Gentlemen!
+Dialogue: 0,0:30:24.68,0:30:27.88,Default,,0000,0000,0000,,The courtesan is here!
+Dialogue: 0,0:31:28.95,0:31:31.78,Default,,0000,0000,0000,,Well, have a drink?
+Dialogue: 0,0:31:34.22,0:31:35.92,Default,,0000,0000,0000,,Whisper...
+Dialogue: 0,0:31:39.39,0:31:43.06,Default,,0000,0000,0000,,She won't accept his cup\Nat the first meeting.
+Dialogue: 0,0:31:45.90,0:31:48.33,Default,,0000,0000,0000,,Go ahead, take this!
+Dialogue: 0,0:32:10.39,0:32:12.82,Default,,0000,0000,0000,,Huh! Oh!
+Dialogue: 0,0:32:14.36,0:32:16.09,Default,,0000,0000,0000,,I'll pour you some.
+Dialogue: 0,0:32:43.56,0:32:45.62,Default,,0000,0000,0000,,Oh my god!
+Dialogue: 0,0:32:58.24,0:33:01.23,Default,,0000,0000,0000,,Please do relax.
+Dialogue: 0,0:33:01.64,0:33:06.74,Default,,0000,0000,0000,,Would you continue while\NI go and change my clothes?
+Dialogue: 0,0:34:08.81,0:34:13.77,Default,,0000,0000,0000,,At the age of 33, his father\Ndied, forgiving him.
+Dialogue: 0,0:34:15.01,0:34:18.47,Default,,0000,0000,0000,,He was left with\Na huge legacy.
+Dialogue: 0,0:34:19.42,0:34:21.94,Default,,0000,0000,0000,,His mother let him be.
+Dialogue: 0,0:34:23.16,0:34:29.10,Default,,0000,0000,0000,,He then, as it were, conquered\Nthe red light districts of Japan.
+Dialogue: 0,0:34:29.50,0:34:33.33,Default,,0000,0000,0000,,He slept with every\Nfamous courtesan...
+Dialogue: 0,0:34:33.43,0:34:36.83,Default,,0000,0000,0000,,...attaining the very zenith\Nof sensuality.
+Dialogue: 0,0:34:38.00,0:34:45.54,Default,,0000,0000,0000,,Since the age of seven until that of sixty\Nhe knew as many as 3742 women.
+Dialogue: 0,0:34:46.51,0:34:52.31,Default,,0000,0000,0000,,Also the men he touched add\Nup to as many as 725.
+Dialogue: 0,0:34:54.32,0:34:57.31,Default,,0000,0000,0000,,He is sophisticated now.
+Dialogue: 0,0:34:57.66,0:35:00.65,Default,,0000,0000,0000,,Yonosuke leaves no posterity.
+Dialogue: 0,0:35:01.89,0:35:08.23,Default,,0000,0000,0000,,He frittered away his fortune\Non sensuality with women and men.
+Dialogue: 0,0:36:08.96,0:36:16.20,Default,,0000,0000,0000,,What?! You had another\Nidentical kimono!
+Dialogue: 0,0:36:16.97,0:36:22.03,Default,,0000,0000,0000,,What consideration!\NWhat preparedness!
+Dialogue: 0,0:36:23.34,0:36:24.33,Default,,0000,0000,0000,,Sir!
+Dialogue: 0,0:36:25.85,0:36:27.51,Default,,0000,0000,0000,,Would you follow me?
+Dialogue: 0,0:36:29.25,0:36:30.22,Default,,0000,0000,0000,,This way.
+Dialogue: 0,0:36:44.40,0:36:48.23,Default,,0000,0000,0000,,Uhhh... Where\Nare we going?
+Dialogue: 0,0:37:05.32,0:37:06.22,Default,,0000,0000,0000,,Well, then.
+Dialogue: 0,0:37:08.62,0:37:10.42,Default,,0000,0000,0000,,Ummm... Well...
+Dialogue: 0,0:37:11.49,0:37:12.82,Default,,0000,0000,0000,,Well, then!
+Dialogue: 0,0:37:15.90,0:37:21.23,Default,,0000,0000,0000,,Huh? No! Wait a second!\NHold on!
+Dialogue: 0,0:37:24.37,0:37:27.60,Default,,0000,0000,0000,,I didn't... I didn't do\Nthat intentionally.
+Dialogue: 0,0:37:35.92,0:37:41.41,Default,,0000,0000,0000,,You don't have to apologize.\NWhy don't you come closer?
+Dialogue: 0,0:38:17.96,0:38:19.89,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:38:20.19,0:38:22.16,Default,,0000,0000,0000,,Thanks a lot.
+Dialogue: 0,0:38:26.33,0:38:28.89,Default,,0000,0000,0000,,Funny guy!\NWeird guy!
+Dialogue: 0,0:38:51.42,0:38:54.05,Default,,0000,0000,0000,,Come closer.
+Dialogue: 0,0:41:59.48,0:42:03.88,Default,,0000,0000,0000,,Fashion Shop "Dream"\NEdo Branch
+Dialogue: 0,0:42:09.79,0:42:10.81,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:42:22.27,0:42:26.03,Default,,0000,0000,0000,,So, the courtesan wrote this\Non your loin-cloth.
+Dialogue: 0,0:42:26.14,0:42:28.37,Default,,0000,0000,0000,,Yes, as proof!
+Dialogue: 0,0:42:29.48,0:42:34.54,Default,,0000,0000,0000,,"Hereby, I admit that I slept with\NJuzo. Signed Komurasaki"
+Dialogue: 0,0:42:38.65,0:42:40.88,Default,,0000,0000,0000,,Did you witness that?
+Dialogue: 0,0:42:40.99,0:42:41.58,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:42:41.72,0:42:43.38,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:42:43.62,0:42:44.32,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:42:44.76,0:42:50.32,Default,,0000,0000,0000,,Both my honor and manhood\Nhave been saved.
+Dialogue: 0,0:42:50.43,0:42:51.56,Default,,0000,0000,0000,,Thank you, sir.
+Dialogue: 0,0:42:52.57,0:42:54.50,Default,,0000,0000,0000,,I'm impressed...
+Dialogue: 0,0:42:56.54,0:42:58.80,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:43:13.49,0:43:15.11,Default,,0000,0000,0000,,Look, Komurasaki...
+Dialogue: 0,0:43:16.06,0:43:16.68,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:43:20.63,0:43:27.16,Default,,0000,0000,0000,,You agreed to sleep with me only\Nat our third meeting.
+Dialogue: 0,0:43:27.87,0:43:29.80,Default,,0000,0000,0000,,Why did you favor Juzo?
+Dialogue: 0,0:43:30.30,0:43:35.83,Default,,0000,0000,0000,,He seemed simple enough to\Naccept a foolish bet.
+Dialogue: 0,0:43:38.48,0:43:41.61,Default,,0000,0000,0000,,I hated the one who put him on.
+Dialogue: 0,0:43:43.82,0:43:47.81,Default,,0000,0000,0000,,That's why I gave him\Na special favor.
+Dialogue: 0,0:43:49.22,0:43:54.89,Default,,0000,0000,0000,,You were right. I also helped him\Nout of spite for the one.
+Dialogue: 0,0:43:55.03,0:43:57.36,Default,,0000,0000,0000,,You have sharp eyes,\NKomurasaki.
+Dialogue: 0,0:43:58.16,0:44:01.96,Default,,0000,0000,0000,,You're beautiful, smart\Nand spirited.
+Dialogue: 0,0:44:02.40,0:44:06.80,Default,,0000,0000,0000,,You're the best of all,\NI think I'm in...!
+Dialogue: 0,0:44:06.94,0:44:08.67,Default,,0000,0000,0000,,Love me now,\NYonosuke!
+Dialogue: 0,0:44:09.14,0:44:10.01,Default,,0000,0000,0000,,Komurasaki!
+Dialogue: 0,0:47:10.26,0:47:11.42,Default,,0000,0000,0000,,Komurasaki!
+Dialogue: 0,0:49:12.81,0:49:14.64,Default,,0000,0000,0000,,You want more?
+Dialogue: 0,0:49:15.91,0:49:16.88,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:49:17.48,0:49:18.45,Default,,0000,0000,0000,,Me too!
+Dialogue: 0,0:49:18.68,0:49:24.42,Default,,0000,0000,0000,,Even if we end up in hell,\Nwe'll be together forever!
+Dialogue: 0,0:49:26.86,0:49:27.62,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:49:40.57,0:49:41.73,Default,,0000,0000,0000,,Yonusuke...
+Dialogue: 0,0:49:43.54,0:49:44.91,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:49:52.88,0:49:58.12,Default,,0000,0000,0000,,As the years advance,\Nmy hearing declines.
+Dialogue: 0,0:49:58.52,0:50:01.82,Default,,0000,0000,0000,,I can't stop getting uglier.
+Dialogue: 0,0:50:03.00,0:50:09.26,Default,,0000,0000,0000,,The women I loved are getting\Ngrey hair and wrinkles.
+Dialogue: 0,0:50:09.70,0:50:12.50,Default,,0000,0000,0000,,All this irritates me constantly.
+Dialogue: 0,0:50:14.04,0:50:17.03,Default,,0000,0000,0000,,If I go on living in this world...
+Dialogue: 0,0:50:17.34,0:50:20.54,Default,,0000,0000,0000,,I don't think things\Nwill get any better.
+Dialogue: 0,0:50:36.16,0:50:38.46,Default,,0000,0000,0000,,The boat is ready, sir!
+Dialogue: 0,0:50:38.56,0:50:39.53,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:51:01.02,0:51:06.36,Default,,0000,0000,0000,,Let's have fun all the way.\NThere may be no returning.
+Dialogue: 0,0:51:06.79,0:51:11.13,Default,,0000,0000,0000,,Where are we going?
+Dialogue: 0,0:51:11.76,0:51:13.09,Default,,0000,0000,0000,,We'll go find\Na women's island.
+Dialogue: 0,0:51:13.37,0:51:21.33,Default,,0000,0000,0000,,You shall have all the women\Nyou like there.
+Dialogue: 0,0:51:21.47,0:51:27.00,Default,,0000,0000,0000,,Fine! I won't mind dying there,\Nafter using up my juices!
+Dialogue: 0,0:51:27.11,0:51:33.21,Default,,0000,0000,0000,,That will be real pleasure\Nfor a man!
+Dialogue: 0,0:51:33.45,0:51:36.89,Default,,0000,0000,0000,,Let's follow the master!

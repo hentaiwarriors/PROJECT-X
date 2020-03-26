@@ -1,0 +1,484 @@
+﻿[Script Info]
+Title: [SubDESU-H] Kurutta Kyoutou 01
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 2702
+Original Script: SubDESU-H
+Original Translation: Rebate_War
+Original Editing: BT
+Original Timing: HentaiKamiSama
+Collisions: Normal
+Last Style Storage: Default
+Audio File: F:\Anime collection\Kurutta Kyoutou 01 [RAW].mkv
+Video File: F:\Anime collection\Kurutta Kyoutou 01 [RAW].mkv
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Kurutta Kyoutou Dialogue,Amerigo BT,35,&H00FCFCFE,&H000000FF,&H000D0A0C,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Kurutta Kyoutou TL note,Artistik,35,&H00FFFFFF,&H000000FF,&H00491B39,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
+Style: Kurutta Kyoutou Logo,BackSplatter,40,&H0002DBF1,&H000000FF,&H0009000C,&H00DEE2EB,0,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Kurutta Kyoutou Logo2,Artistik,35,&H00FFFFFF,&H000000FF,&H00491B39,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Kurutta Kyoutou Logo P,BackSplatter,40,&H00742D14,&H000000FF,&H00FFFFFF,&H00000405,0,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Kurutta Kyoutou Logo 1,@Kozuka Gothic Pro H,38,&H00FFFFFF,&H000000FF,&H00743671,&H00DEE2EB,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Kurutta Kyoutou Logo 2,@Kozuka Gothic Pro H,38,&H00FFFFFF,&H000000FF,&H00A774A5,&H00DEE2EB,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Kurutta Kyoutou Logo Title 1,Arial Rounded MT Bold,40,&H0007C0F2,&H000000FF,&H00040E71,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Kurutta Kyoutou Logo Title 2,Arial Rounded MT Bold,40,&H000E10B2,&H000000FF,&H000F0941,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.82,0:00:18.61,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Why has it come to something like this...
+Dialogue: 0,0:00:20.61,0:00:22.36,Kurutta Kyoutou Dialogue,,0000,0000,0000,,But, I won't give up!
+Dialogue: 0,0:00:22.91,0:00:26.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't give up until this place is overhauled and complete with utter discipline!
+Dialogue: 0,0:00:30.05,0:00:33.75,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Incompetent teachers... disorderly students...
+Dialogue: 0,0:00:34.04,0:00:36.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,And the stupid parents who push their children here!
+Dialogue: 0,0:00:37.45,0:00:41.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Strict discipline is required to preserve this prestigious school!
+Dialogue: 0,0:00:44.59,0:00:45.89,Kurutta Kyoutou Dialogue,,0000,0000,0000,,They're here...
+Dialogue: 0,0:00:46.05,0:00:49.72,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I will not permit anyone who will interfere with this overhaul!
+Dialogue: 0,0:00:58.00,0:00:59.23,Kurutta Kyoutou Dialogue,,0000,0000,0000,,D-Don't resist!
+Dialogue: 0,0:00:59.62,0:01:00.55,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Throw down your weapon!
+Dialogue: 0,0:01:03.40,0:01:06.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,To think that you brought such toys onto school grounds...
+Dialogue: 0,0:01:07.12,0:01:08.89,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I will be confiscating them!
+Dialogue: 0,0:01:09.05,0:01:10.23,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Shoot, shoot!
+Dialogue: 0,0:01:11.48,0:01:12.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,C'mon, c'mon!
+Dialogue: 0,0:01:14.55,0:01:16.86,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh, now you've done it!
+Dialogue: 0,0:01:17.55,0:01:18.98,Kurutta Kyoutou Dialogue,,0000,0000,0000,,But it's no use!
+Dialogue: 0,0:01:21.19,0:01:23.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't allow disorderly conduct!
+Dialogue: 0,0:01:29.68,0:01:30.55,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Shoot, shoot!
+Dialogue: 0,0:01:43.63,0:01:52.49,Kurutta Kyoutou Logo 1,,0000,0000,0000,,{\fad(1500,300)\pos(267,59)}SubDESU
+Dialogue: 0,0:01:43.63,0:01:52.49,Kurutta Kyoutou Logo 2,,0000,0000,0000,,{\fad(1500,300)\pos(325,59)}-H
+Dialogue: 0,0:01:43.63,0:01:52.49,Kurutta Kyoutou Logo 1,,0000,0000,0000,,{\fad(1500,300)\pos(381,59)}Presents
+Dialogue: 0,0:01:43.63,0:01:52.49,Kurutta Kyoutou Logo,,0000,0000,0000,,{\fad(2500,300)\fs50\pos(230,153)}Kurutta
+Dialogue: 0,0:01:43.63,0:01:52.49,Kurutta Kyoutou Logo P,,0000,0000,0000,,{\fad(1500,300)\fs50\pos(375,153)}Kyoutou
+Dialogue: 0,0:01:52.68,0:01:58.28,Kurutta Kyoutou Logo Title 1,,0000,0000,0000,,{\fad(300,700)\pos(306,164)}
+Dialogue: 0,0:01:52.68,0:01:58.28,Kurutta Kyoutou Logo Title 2,,0000,0000,0000,,{\fad(300,700)\pos(307,331)}
+Dialogue: 0,0:02:00.90,0:02:01.67,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What's this?!
+Dialogue: 0,0:02:01.84,0:02:03.60,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Just be quiet and watch.
+Dialogue: 0,0:02:04.91,0:02:05.88,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This uniform, it's-!
+Dialogue: 0,0:02:06.84,0:02:09.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's right, it's the uniform from this place, Kousei academy.
+Dialogue: 0,0:02:10.23,0:02:12.00,Kurutta Kyoutou Dialogue,,0000,0000,0000,,W-Why is this...?
+Dialogue: 0,0:02:12.43,0:02:15.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's too early to be surprised, Noumori-kun.
+Dialogue: 0,0:02:16.63,0:02:17.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Look at this.
+Dialogue: 0,0:02:19.57,0:02:20.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Principal Kasagi!
+Dialogue: 0,0:02:28.99,0:02:29.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's right.
+Dialogue: 0,0:02:30.46,0:02:33.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's Kasagi-kun, the principal of Kousei academy.
+Dialogue: 0,0:02:34.74,0:02:36.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Well, ex-principal.
+Dialogue: 0,0:02:37.53,0:02:38.99,Kurutta Kyoutou Dialogue,,0000,0000,0000,,S-So then...
+Dialogue: 0,0:02:39.35,0:02:42.72,Kurutta Kyoutou Dialogue,,0000,0000,0000,,He came here before you did, and we got him to quit.
+Dialogue: 0,0:02:43.29,0:02:46.02,Kurutta Kyoutou Dialogue,,0000,0000,0000,,So that means that you, the vice-principal, will take his spot.
+Dialogue: 0,0:02:46.36,0:02:47.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:02:48.05,0:02:48.99,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's not all right!
+Dialogue: 0,0:02:49.67,0:02:51.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Don't tell me that you're happy!?
+Dialogue: 0,0:02:52.61,0:02:54.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,O-Of course not!
+Dialogue: 0,0:02:55.17,0:02:57.62,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This is the first pinch we've had in our academy.
+Dialogue: 0,0:02:58.27,0:03:01.86,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If this incident leaks, it would be the end of this academy!
+Dialogue: 0,0:03:02.17,0:03:03.51,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:03:10.46,0:03:12.18,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I-I am very sorry!
+Dialogue: 0,0:03:13.07,0:03:13.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Noumori-kun,
+Dialogue: 0,0:03:14.47,0:03:17.24,Kurutta Kyoutou Dialogue,,0000,0000,0000,,you want to do the best you can until you retire, yes?
+Dialogue: 0,0:03:17.63,0:03:19.81,Kurutta Kyoutou Dialogue,,0000,0000,0000,,O-Of course I do!
+Dialogue: 0,0:03:20.12,0:03:24.84,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If there are any more deplorable incidents, your head will be next.
+Dialogue: 0,0:03:25.33,0:03:27.84,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You will be discharged, and your retirement funds will be lost.
+Dialogue: 0,0:03:28.38,0:03:29.77,Kurutta Kyoutou Dialogue,,0000,0000,0000,,N-No way...
+Dialogue: 0,0:03:32.42,0:03:35.29,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ojii-sama! What are you shouting about?
+Dialogue: 0,0:03:35.83,0:03:37.86,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Touko is tired of waiting.
+Dialogue: 0,0:03:38.44,0:03:40.31,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Sorry, I forgot!
+Dialogue: 0,0:03:40.68,0:03:42.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh, if it isn't the vice-principal.
+Dialogue: 0,0:03:42.98,0:03:44.01,Kurutta Kyoutou Dialogue,,0000,0000,0000,,C'mon, let's go.
+Dialogue: 0,0:03:49.95,0:03:51.39,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Over here, hurry!
+Dialogue: 0,0:03:51.39,0:03:52.66,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:03:59.08,0:04:00.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Eh? You actually did it?
+Dialogue: 0,0:04:00.56,0:04:03.34,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I can't stop him when he's like that!
+Dialogue: 0,0:04:03.37,0:04:05.57,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Congratulations! We should celebrate!
+Dialogue: 0,0:04:05.57,0:04:07.31,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hey, hey! Did it feel good?
+Dialogue: 0,0:04:07.51,0:04:09.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Not really.
+Dialogue: 0,0:04:09.39,0:04:11.08,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I think it just hurt.
+Dialogue: 0,0:04:11.32,0:04:12.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ehh?!
+Dialogue: 0,0:04:13.07,0:04:16.12,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I was so busy thinking about him that I can't really remember.
+Dialogue: 0,0:04:16.90,0:04:18.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hey, let's talk later.
+Dialogue: 0,0:04:18.51,0:04:20.75,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It would be troublesome if a teacher were to find out.
+Dialogue: 0,0:04:26.95,0:04:28.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's fine, don't worry!
+Dialogue: 0,0:04:30.89,0:04:32.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hey! Natsuko!
+Dialogue: 0,0:04:33.02,0:04:34.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do you have a sanitary napkin?
+Dialogue: 0,0:04:34.40,0:04:37.66,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Sorry! I use tampons! Is that okay?
+Dialogue: 0,0:04:38.18,0:04:39.83,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's fine! Throw it here!
+Dialogue: 0,0:04:41.42,0:04:41.94,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Here!
+Dialogue: 0,0:04:44.91,0:04:46.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Sorry, I missed!
+Dialogue: 0,0:04:46.76,0:04:50.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Jeez, hitting such a thing... It's too dirty to use!
+Dialogue: 0,0:04:51.02,0:04:52.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's still in the packaging!
+Dialogue: 0,0:05:00.25,0:05:04.08,Kurutta Kyoutou TL note,,0000,0000,0000,,TL note: "Ei!" (‚¦‚¢!) is a word used to emphasize an action, similar to shouting "one, two!" during training.
+Dialogue: 0,0:05:00.25,0:05:04.08,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ei! Ei! Ei!
+Dialogue: 0,0:05:04.54,0:05:05.77,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Put more power into it!
+Dialogue: 0,0:05:06.95,0:05:09.00,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's too early to be getting tired!
+Dialogue: 0,0:05:09.63,0:05:10.54,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Show me some spirit!
+Dialogue: 0,0:05:11.09,0:05:11.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:12.03,0:05:12.91,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ten more!
+Dialogue: 0,0:05:13.49,0:05:14.09,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:16.30,0:05:18.12,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I mustn't give up.
+Dialogue: 0,0:05:18.75,0:05:21.30,Kurutta Kyoutou Dialogue,,0000,0000,0000,,There are students like this, after all.
+Dialogue: 0,0:05:21.98,0:05:24.48,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I know! I should try it! I haven't done it in a while.
+Dialogue: 0,0:05:28.57,0:05:31.20,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Animals will die if you don't feed them.
+Dialogue: 0,0:05:32.03,0:05:34.67,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Don't the students even know {\i1}that{\i0}?
+Dialogue: 0,0:05:34.80,0:05:35.26,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh?
+Dialogue: 0,0:05:36.31,0:05:37.32,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Y-You're...?
+Dialogue: 0,0:05:37.76,0:05:40.39,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm Sasaragi, Sasaragi Misao.
+Dialogue: 0,0:05:40.79,0:05:42.32,Kurutta Kyoutou Dialogue,,0000,0000,0000,,T-That's right.
+Dialogue: 0,0:05:43.01,0:05:46.81,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Isn't this the beautiful daughter of the boss of that construction company?
+Dialogue: 0,0:05:47.10,0:05:49.17,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh, I need to be polite with her...
+Dialogue: 0,0:05:49.77,0:05:52.15,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Were you part of the animal care committee, Sasaragi-kun?
+Dialogue: 0,0:05:52.51,0:05:55.30,Kurutta Kyoutou Dialogue,,0000,0000,0000,,N-No, I'm not in the animal care committee,
+Dialogue: 0,0:05:55.77,0:05:58.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,but the food box was empty, so...
+Dialogue: 0,0:05:59.50,0:06:00.88,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh! I'm impressed!
+Dialogue: 0,0:06:01.24,0:06:03.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Go on in, the rabbits are waiting!
+Dialogue: 0,0:06:03.59,0:06:04.10,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yes!
+Dialogue: 0,0:06:09.48,0:06:11.06,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Even though she's the daughter of a high-class family,
+Dialogue: 0,0:06:11.33,0:06:13.90,Kurutta Kyoutou Dialogue,,0000,0000,0000,,she's completely different from the board chairman's granddaughter!
+Dialogue: 0,0:06:15.16,0:06:15.91,Kurutta Kyoutou Dialogue,,0000,0000,0000,,However!
+Dialogue: 0,0:06:16.63,0:06:18.93,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Even though Misao-kun is a good student,
+Dialogue: 0,0:06:19.03,0:06:22.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,the length of that short skirt is against the rules!
+Dialogue: 0,0:06:22.63,0:06:24.42,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I suspect she's breaking other rules as well!
+Dialogue: 0,0:06:25.08,0:06:29.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I must thoroughly inspect and punish her for her acts!
+Dialogue: 0,0:06:33.68,0:06:35.14,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Sensei! I won't do it anymore!
+Dialogue: 0,0:06:35.50,0:06:37.24,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Please, let me out of here!
+Dialogue: 0,0:06:37.74,0:06:40.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Looks like you finally understand.
+Dialogue: 0,0:06:40.27,0:06:45.17,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's good! I'll get on with your punishment, then!
+Dialogue: 0,0:06:45.56,0:06:46.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:06:48.53,0:06:49.75,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That hurts, Sensei-!
+Dialogue: 0,0:06:59.79,0:07:01.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,T-That hurts!
+Dialogue: 0,0:07:02.03,0:07:03.35,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That hurts!
+Dialogue: 0,0:07:10.18,0:07:11.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm sorry!!
+Dialogue: 0,0:07:12.50,0:07:14.79,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Looks like you're not yet resentful!
+Dialogue: 0,0:07:15.00,0:07:15.85,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Then I'll...
+Dialogue: 0,0:07:18.51,0:07:19.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No-!
+Dialogue: 0,0:07:24.90,0:07:26.52,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!!
+Dialogue: 0,0:07:35.94,0:07:39.13,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'll train you thoroughly!
+Dialogue: 0,0:07:42.75,0:07:43.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Vice-principal...
+Dialogue: 0,0:07:44.17,0:07:44.99,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:07:45.82,0:07:48.69,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Usatarou is scared since you've been too kind to him!
+Dialogue: 0,0:07:52.13,0:07:55.02,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're right! I'll leave you to it, then!
+Dialogue: 0,0:07:58.38,0:08:00.25,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No! This can't go on!
+Dialogue: 0,0:08:00.57,0:08:04.74,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's not like I'm jealous of ex-principal Kasagi or anything!
+Dialogue: 0,0:08:05.34,0:08:09.37,Kurutta Kyoutou Dialogue,,0000,0000,0000,,There's no way I would want to rape my students!
+Dialogue: 0,0:08:14.30,0:08:15.42,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This feeling...
+Dialogue: 0,0:08:15.97,0:08:17.34,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I had forgotten it...
+Dialogue: 0,0:08:18.15,0:08:23.16,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Even if I'm not as fit as I used to be, I should be still able to-!
+Dialogue: 0,0:08:33.05,0:08:34.12,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Banish the evil!
+Dialogue: 0,0:08:39.44,0:08:44.26,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You may have heard already, but principal Kasagi has resigned.
+Dialogue: 0,0:08:44.70,0:08:46.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It was because he had a scandalous affair with some students.
+Dialogue: 0,0:08:47.15,0:08:50.15,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's an incident that may be big enough to put the school's reputation on the line!
+Dialogue: 0,0:08:51.26,0:08:55.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,So, we must be more strict about rules and snap some discipline into our students!
+Dialogue: 0,0:08:56.56,0:08:57.41,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I agree!
+Dialogue: 0,0:08:58.02,0:08:58.87,Kurutta Kyoutou Dialogue,,0000,0000,0000,,So do I!
+Dialogue: 0,0:08:59.44,0:09:01.45,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If we don't address this issue, it will just get worse.
+Dialogue: 0,0:09:02.08,0:09:05.26,Kurutta Kyoutou Dialogue,,0000,0000,0000,,For starters, we're going to do a belongings check every morning.
+Dialogue: 0,0:09:05.73,0:09:09.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Unless they're cleared, they won't be allowed into the school.
+Dialogue: 0,0:09:10.24,0:09:13.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,But I don't think the other teachers will take this seriously...
+Dialogue: 0,0:09:14.24,0:09:17.81,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That is why I called these three to help me out!
+Dialogue: 0,0:09:18.34,0:09:19.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We will begin tomorrow!
+Dialogue: 0,0:09:20.50,0:09:21.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:22.56,0:09:23.54,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:09:23.62,0:09:25.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:09:31.26,0:09:32.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What-?! What's happening?!
+Dialogue: 0,0:09:32.93,0:09:34.07,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm checking your belongings!
+Dialogue: 0,0:09:34.54,0:09:35.89,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Didn't we announce that we'd do it?
+Dialogue: 0,0:09:39.23,0:09:41.23,Kurutta Kyoutou Dialogue,,0000,0000,0000,,W-Where do you think you're touching?!
+Dialogue: 0,0:09:41.24,0:09:42.27,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stop struggling.
+Dialogue: 0,0:09:42.65,0:09:44.20,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If you're still, it'll end quicker.
+Dialogue: 0,0:09:46.35,0:09:47.49,Kurutta Kyoutou Dialogue,,0000,0000,0000,,T-That's-!
+Dialogue: 0,0:09:48.92,0:09:50.41,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Don't move! Stay still!
+Dialogue: 0,0:09:51.00,0:09:52.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're suspicious...
+Dialogue: 0,0:09:52.51,0:09:54.86,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're carrying something prohibited, aren't you?
+Dialogue: 0,0:09:55.44,0:09:57.36,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No-! I don't have anything-!
+Dialogue: 0,0:09:58.51,0:09:59.84,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No! Give it back!
+Dialogue: 0,0:10:00.07,0:10:03.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I knew you were carrying something by the way you were acting!
+Dialogue: 0,0:10:03.41,0:10:04.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Cell phones are prohibited!
+Dialogue: 0,0:10:05.68,0:10:08.00,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hey you, what's with that bag?
+Dialogue: 0,0:10:08.51,0:10:10.23,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's not a school issue one!
+Dialogue: 0,0:10:10.96,0:10:11.72,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stay behind.
+Dialogue: 0,0:10:12.14,0:10:14.19,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I said that I don't have anything!
+Dialogue: 0,0:10:16.22,0:10:18.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No! Chinatsu-chan, give it back!
+Dialogue: 0,0:10:18.50,0:10:20.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Why are you using that honorific for a teacher?
+Dialogue: 0,0:10:20.78,0:10:22.16,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Your skirt is too short as well!
+Dialogue: 0,0:10:22.45,0:10:24.51,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's a breach of the rules! Stay behind!
+Dialogue: 0,0:10:24.74,0:10:25.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,E-Eh?!
+Dialogue: 0,0:10:26.42,0:10:28.58,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hitomi-sensei, this is too much!
+Dialogue: 0,0:10:28.79,0:10:29.65,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What happened?
+Dialogue: 0,0:10:30.51,0:10:33.27,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We have to strictly check belongings now.
+Dialogue: 0,0:10:37.35,0:10:39.49,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Today was sudden, so I guess it can't be helped.
+Dialogue: 0,0:10:39.72,0:10:40.79,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Be more careful in the future.
+Dialogue: 0,0:10:41.34,0:10:42.12,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yes...
+Dialogue: 0,0:10:42.49,0:10:43.94,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Jeez, this is going to get annoying...
+Dialogue: 0,0:10:45.12,0:10:47.10,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No-! Stop it!
+Dialogue: 0,0:10:47.15,0:10:49.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Why are you touching me there-?!
+Dialogue: 0,0:10:52.55,0:10:55.77,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You could be hiding something here! Eh?
+Dialogue: 0,0:10:57.10,0:10:57.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No-!
+Dialogue: 0,0:11:00.64,0:11:03.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Your nipples are getting hard, and you're getting wet here!
+Dialogue: 0,0:11:05.70,0:11:06.64,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You must be-!
+Dialogue: 0,0:11:06.95,0:11:08.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No way! Stop it!
+Dialogue: 0,0:11:09.33,0:11:11.25,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're suspicious! Stay behind!
+Dialogue: 0,0:11:11.44,0:11:12.79,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'll thoroughly check you later!
+Dialogue: 0,0:11:13.29,0:11:13.88,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Next!
+Dialogue: 0,0:11:16.44,0:11:17.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What's all this?
+Dialogue: 0,0:11:18.11,0:11:19.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Why is this happening all of a sudden?
+Dialogue: 0,0:11:20.66,0:11:23.23,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's too cruel... I'm scared, Akane-chan!
+Dialogue: 0,0:11:23.70,0:11:26.67,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Don't worry, you'll be fine.
+Dialogue: 0,0:11:31.39,0:11:33.09,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh! You're coming over here!
+Dialogue: 0,0:11:36.29,0:11:38.19,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Don't moan so seductively!
+Dialogue: 0,0:11:38.63,0:11:40.38,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I-I wasn't-!
+Dialogue: 0,0:11:41.19,0:11:42.46,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What are you-?! No-!
+Dialogue: 0,0:11:42.85,0:11:46.00,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're suspicious... You're too sensitive to be a virgin.
+Dialogue: 0,0:11:46.34,0:11:46.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stay behind!
+Dialogue: 0,0:11:47.10,0:11:47.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No way-!
+Dialogue: 0,0:11:48.38,0:11:49.66,Kurutta Kyoutou Dialogue,,0000,0000,0000,,So, I was like...
+Dialogue: 0,0:11:50.00,0:11:51.87,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Huh? Yeah!
+Dialogue: 0,0:11:52.39,0:11:55.08,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I know! I get sick of it!
+Dialogue: 0,0:11:55.43,0:11:56.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You mustn't ignore it!
+Dialogue: 0,0:11:57.13,0:11:58.78,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You must go through the inspection!
+Dialogue: 0,0:11:59.24,0:12:02.21,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hey, vice principal! I'll tell Touko-sama! Now get out of my way!
+Dialogue: 0,0:12:02.73,0:12:04.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Trying to blackmail me...
+Dialogue: 0,0:12:04.76,0:12:07.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I can't allow such a delinquent student in!
+Dialogue: 0,0:12:08.44,0:12:11.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Cell phone! Piercing! Manicure! Make-up!
+Dialogue: 0,0:12:11.33,0:12:13.07,Kurutta Kyoutou Dialogue,,0000,0000,0000,,They're all breaches of the rules!!
+Dialogue: 0,0:12:13.07,0:12:14.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Why are you so bitchy all of a sudden today?
+Dialogue: 0,0:12:15.06,0:12:16.02,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I know!
+Dialogue: 0,0:12:16.17,0:12:17.37,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Vice principal, you autocrat!
+Dialogue: 0,0:12:20.66,0:12:21.98,Kurutta Kyoutou Dialogue,,0000,0000,0000,,T-This isn't good...
+Dialogue: 0,0:12:22.38,0:12:23.34,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Be quiet!
+Dialogue: 0,0:12:23.58,0:12:25.86,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What's with that short skirt?!
+Dialogue: 0,0:12:26.13,0:12:29.93,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If you like them so short, then you're better off not even wearing them!
+Dialogue: 0,0:12:30.40,0:12:31.21,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Take them off!
+Dialogue: 0,0:12:31.55,0:12:32.54,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ehh?!
+Dialogue: 0,0:12:32.69,0:12:34.08,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm not convinced!
+Dialogue: 0,0:12:34.38,0:12:35.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Why is it just me?
+Dialogue: 0,0:12:36.73,0:12:40.20,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hey! That girl over there is wearing them even shorter!
+Dialogue: 0,0:12:40.35,0:12:41.61,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Make her take them off first!
+Dialogue: 0,0:12:43.04,0:12:44.21,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's right, that's right!
+Dialogue: 0,0:12:44.31,0:12:47.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Autocrat! Autocrat! Autocrat!
+Dialogue: 0,0:12:47.44,0:12:49.29,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This isn't good, I must do something...
+Dialogue: 0,0:12:49.53,0:12:52.42,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Otherwise everything will go down the drain!
+Dialogue: 0,0:12:57.24,0:12:58.51,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!!
+Dialogue: 0,0:13:02.03,0:13:03.91,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't allow disorderly conduct!
+Dialogue: 0,0:13:04.27,0:13:05.73,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Has he gone crazy?
+Dialogue: 0,0:13:07.40,0:13:11.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're the crazy ones that are breaking the rules!!
+Dialogue: 0,0:13:12.55,0:13:14.02,Kurutta Kyoutou Dialogue,,0000,0000,0000,,W-What are you doing-?!
+Dialogue: 0,0:13:15.53,0:13:18.73,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You were wearing banned underwear as well, I see.
+Dialogue: 0,0:13:20.17,0:13:23.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,V-Vice principal! You had better remember this!
+Dialogue: 0,0:13:23.74,0:13:26.32,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I will remember, however...
+Dialogue: 0,0:13:26.50,0:13:29.52,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't allow any disorderly conduct!
+Dialogue: 0,0:13:30.41,0:13:31.68,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Take these off too!
+Dialogue: 0,0:13:34.37,0:13:35.43,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's Kiruuji-san!
+Dialogue: 0,0:13:35.49,0:13:36.48,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's Touko-sama!
+Dialogue: 0,0:13:36.53,0:13:38.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Touko-sama will do something about this!
+Dialogue: 0,0:13:38.74,0:13:39.88,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We're saved!
+Dialogue: 0,0:13:45.26,0:13:47.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's the board chairman's grandchild...
+Dialogue: 0,0:13:48.90,0:13:51.55,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Touko-sama! Please teach the vice-principal a lesson!
+Dialogue: 0,0:13:52.73,0:13:54.55,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You're up to something interesting, it seems.
+Dialogue: 0,0:13:55.16,0:13:57.66,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Vice-principal, what's the meaning of this?
+Dialogue: 0,0:13:58.15,0:13:59.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's a belongings inspection.
+Dialogue: 0,0:13:59.87,0:14:01.74,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I already explained it during morning assembly.
+Dialogue: 0,0:14:02.14,0:14:04.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That seems to have been a while ago.
+Dialogue: 0,0:14:05.47,0:14:09.62,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Also, you've never cared for me, so I wonder how it's going to go today?
+Dialogue: 0,0:14:09.87,0:14:12.25,Kurutta Kyoutou Dialogue,,0000,0000,0000,,My head will be on the line if I anger the board chairman...
+Dialogue: 0,0:14:12.53,0:14:14.88,Kurutta Kyoutou Dialogue,,0000,0000,0000,,B-But... I must go through with it!
+Dialogue: 0,0:14:15.86,0:14:18.19,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's right! I'm not doing anything wrong!
+Dialogue: 0,0:14:18.62,0:14:20.35,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't allow disorderly conduct!
+Dialogue: 0,0:14:21.63,0:14:23.57,Kurutta Kyoutou Dialogue,,0000,0000,0000,,T-There will be no exceptions!
+Dialogue: 0,0:14:23.97,0:14:27.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh? Then vice-principal, will you be the one checking me?
+Dialogue: 0,0:14:29.49,0:14:31.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,T-That will be so.
+Dialogue: 0,0:14:37.08,0:14:38.30,Kurutta Kyoutou Dialogue,,0000,0000,0000,,How disgraceful!
+Dialogue: 0,0:14:38.69,0:14:41.84,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I can't wait to see her grandfather's reaction!
+Dialogue: 0,0:14:44.06,0:14:45.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,All seems well. Go on through.
+Dialogue: 0,0:14:46.53,0:14:48.38,Kurutta Kyoutou Dialogue,,0000,0000,0000,,There are some areas which you haven't checked.
+Dialogue: 0,0:14:49.00,0:14:49.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Hm?
+Dialogue: 0,0:14:50.25,0:14:53.43,Kurutta Kyoutou Dialogue,,0000,0000,0000,,My underwear might be breaking the regulations.
+Dialogue: 0,0:14:53.93,0:14:55.13,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Are you going to check?
+Dialogue: 0,0:14:57.60,0:14:58.15,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Go on!
+Dialogue: 0,0:14:58.85,0:14:59.69,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What should I do?
+Dialogue: 0,0:15:00.02,0:15:02.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If I anger the board chairman, what will happen?!
+Dialogue: 0,0:15:02.82,0:15:04.32,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Is it okay like this?
+Dialogue: 0,0:15:05.18,0:15:05.70,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Go on!
+Dialogue: 0,0:15:06.56,0:15:08.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I can't go back!
+Dialogue: 0,0:15:08.36,0:15:10.19,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I couldn't go back, even if I wanted to!
+Dialogue: 0,0:15:10.99,0:15:13.37,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I-I won't allow disorderly conduct!
+Dialogue: 0,0:15:14.36,0:15:15.09,Kurutta Kyoutou Dialogue,,0000,0000,0000,,C'mon!
+Dialogue: 0,0:15:15.50,0:15:20.42,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm not the same as I was!!
+Dialogue: 0,0:15:27.23,0:15:30.19,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Nice, clean white underwear, very good!
+Dialogue: 0,0:15:30.46,0:15:31.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You pass!
+Dialogue: 0,0:15:32.43,0:15:37.70,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I will turn a blind eye to the length of your skirt {\i1}this{\i0} time.
+Dialogue: 0,0:15:41.55,0:15:42.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Touko-sama!
+Dialogue: 0,0:15:43.12,0:15:46.43,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh! You haven't gone through inspection yet!
+Dialogue: 0,0:15:46.51,0:15:47.15,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:15:47.31,0:15:48.90,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We must go after Touko-sama!
+Dialogue: 0,0:15:49.37,0:15:52.94,Kurutta Kyoutou Dialogue,,0000,0000,0000,,{\i1}I{\i0} will be the one checking you two as well!
+Dialogue: 0,0:15:53.36,0:15:54.51,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Get back over there!
+Dialogue: 0,0:15:56.48,0:15:57.81,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What are you people doing?!
+Dialogue: 0,0:15:58.15,0:15:59.51,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Get on with the inspection!!
+Dialogue: 0,0:16:00.13,0:16:01.35,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The first time is the most important!
+Dialogue: 0,0:16:01.91,0:16:04.45,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We mustn't let anyone through who's breaking the rules!
+Dialogue: 0,0:16:05.87,0:16:06.83,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:13.24,0:16:15.58,Kurutta Kyoutou Dialogue,,0000,0000,0000,,G-Give it back! That's Touko-sama's cell phone!
+Dialogue: 0,0:16:15.84,0:16:19.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh? Then there's no way I can let {\i1}you{\i0} have it!
+Dialogue: 0,0:16:19.72,0:16:22.65,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I must inspect the contents thoroughly...
+Dialogue: 0,0:16:22.91,0:16:24.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:16:24.03,0:16:25.12,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Moreover...
+Dialogue: 0,0:16:27.00,0:16:27.99,Kurutta Kyoutou Dialogue,,0000,0000,0000,,How's this?!
+Dialogue: 0,0:16:28.01,0:16:29.08,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:16:29.21,0:16:32.13,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I knew it! This bra isn't allowed!
+Dialogue: 0,0:16:34.26,0:16:37.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Now you're not breaking the rules.
+Dialogue: 0,0:16:41.74,0:16:43.62,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Where are you off to?
+Dialogue: 0,0:16:43.85,0:16:47.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Please, let me go! I'll follow the rules!
+Dialogue: 0,0:16:47.10,0:16:51.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Looks like you're finally willing to follow the rules.
+Dialogue: 0,0:16:51.56,0:16:53.08,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm impressed!
+Dialogue: 0,0:16:53.36,0:16:56.83,Kurutta Kyoutou Dialogue,,0000,0000,0000,,However, you haven't gone through inspection yet!
+Dialogue: 0,0:16:56.85,0:16:59.20,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't! I won't try to escape next time!
+Dialogue: 0,0:17:00.26,0:17:02.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Looks like you're finally being honest!
+Dialogue: 0,0:17:02.25,0:17:05.01,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I should have done this from the beginning!
+Dialogue: 0,0:17:07.03,0:17:07.79,Kurutta Kyoutou Dialogue,,0000,0000,0000,,How's this?!
+Dialogue: 0,0:17:09.62,0:17:10.47,Kurutta Kyoutou Dialogue,,0000,0000,0000,,How about this?
+Dialogue: 0,0:17:11.07,0:17:12.64,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This is a breach of the rules as well!
+Dialogue: 0,0:17:18.97,0:17:20.79,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't allow disorderly conduct!
+Dialogue: 0,0:17:24.18,0:17:28.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It's very upsetting to see that so many of you didn't obey the rules!
+Dialogue: 0,0:17:28.82,0:17:34.26,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We enforce strict rules so that you can all grow up to be a responsible part of society!
+Dialogue: 0,0:17:34.60,0:17:38.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,For the hopes of your parents, and for the future of you, the students...
+Dialogue: 0,0:17:38.80,0:17:41.14,Kurutta Kyoutou Dialogue,,0000,0000,0000,,we're being strict for your own benefit!
+Dialogue: 0,0:17:42.81,0:17:43.78,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:17:44.01,0:17:46.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do you think you'll be let off if you cry?!
+Dialogue: 0,0:17:46.77,0:17:50.37,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I cannot allow students to learn who is in breach of the rules!
+Dialogue: 0,0:17:50.86,0:17:52.68,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Rip off their piercings!
+Dialogue: 0,0:17:53.04,0:17:54.67,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stomp on their cell phones!
+Dialogue: 0,0:17:54.95,0:17:58.31,Kurutta Kyoutou Dialogue,,0000,0000,0000,,And strip off their short skirts!
+Dialogue: 0,0:17:59.62,0:18:00.74,Kurutta Kyoutou Dialogue,,0000,0000,0000,,B-But-!
+Dialogue: 0,0:18:01.20,0:18:02.51,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Isn't that too extreme?
+Dialogue: 0,0:18:05.00,0:18:06.00,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!!
+Dialogue: 0,0:18:06.03,0:18:07.45,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Just do it!
+Dialogue: 0,0:18:07.87,0:18:10.43,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We must re-attain our respect as teachers!
+Dialogue: 0,0:18:11.58,0:18:12.69,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:12.69,0:18:14.70,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No, no!!
+Dialogue: 0,0:18:15.11,0:18:17.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stop! I said don't-!
+Dialogue: 0,0:18:18.37,0:18:21.55,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Looks like you've all awoken to the true nature of teaching!
+Dialogue: 0,0:18:21.99,0:18:25.20,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Okay! Now get them into groups and punish them accordingly!
+Dialogue: 0,0:18:25.72,0:18:27.33,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Show no sympathy!
+Dialogue: 0,0:18:27.36,0:18:28.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:31.11,0:18:33.32,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You lot have clearly breached the rule
+Dialogue: 0,0:18:33.53,0:18:36.98,Kurutta Kyoutou Dialogue,,0000,0000,0000,,stating that your skirt can be no more than 20cm above your knees!
+Dialogue: 0,0:18:37.31,0:18:40.64,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Those caught breaking this rule aren't worthy of wearing skirts!
+Dialogue: 0,0:18:41.41,0:18:45.13,Kurutta Kyoutou Dialogue,,0000,0000,0000,,As punishment, you're going to clean this gymnasium, dressed as you are now!
+Dialogue: 0,0:18:45.47,0:18:46.69,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ehh?
+Dialogue: 0,0:18:47.00,0:18:51.17,Kurutta Kyoutou Dialogue,,0000,0000,0000,,For the people who don't do a good job, they'll do it completely naked!
+Dialogue: 0,0:18:51.46,0:18:52.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ehhh?!
+Dialogue: 0,0:18:53.25,0:18:54.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm completely serious!
+Dialogue: 0,0:18:55.14,0:18:57.90,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Now, who wants to get stripped naked first?
+Dialogue: 0,0:18:58.07,0:19:00.16,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Get on with the cleaning!
+Dialogue: 0,0:19:00.68,0:19:02.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The vice principal has really lost it!
+Dialogue: 0,0:19:03.19,0:19:05.29,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I should have followed the rules!
+Dialogue: 0,0:19:08.91,0:19:10.06,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:19:10.33,0:19:11.94,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do it properly!
+Dialogue: 0,0:19:12.27,0:19:16.10,Kurutta Kyoutou Dialogue,,0000,0000,0000,,C'mon! Use both of your hands! Raise your butt a little higher!
+Dialogue: 0,0:19:18.48,0:19:19.57,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:19:23.89,0:19:26.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do what the vice-principal says!
+Dialogue: 0,0:19:26.37,0:19:27.39,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Otherwise, you'll be stripped naked!
+Dialogue: 0,0:19:27.76,0:19:30.95,Kurutta Kyoutou Dialogue,,0000,0000,0000,,C'mon, you lot! Use both hands and do it properly!
+Dialogue: 0,0:19:31.59,0:19:32.75,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Raise your butts!
+Dialogue: 0,0:19:33.41,0:19:35.07,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do you want to be stripped naked?!
+Dialogue: 0,0:19:42.83,0:19:44.90,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Right, you've all got towels, haven't you?
+Dialogue: 0,0:19:45.42,0:19:48.98,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You knew very well that you weren't allowed to bring in cell phones!
+Dialogue: 0,0:19:49.53,0:19:51.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,But, the reason you brought them in
+Dialogue: 0,0:19:51.26,0:19:54.74,Kurutta Kyoutou Dialogue,,0000,0000,0000,,is because you supposedly want to keep in touch with your friends!
+Dialogue: 0,0:19:55.35,0:19:58.41,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We're going to train you to purge such naive thoughts from your head!
+Dialogue: 0,0:20:03.74,0:20:05.79,Kurutta Kyoutou Dialogue,,0000,0000,0000,,One! Two! One! Two!
+Dialogue: 0,0:20:06.08,0:20:07.53,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Put more strength into it!
+Dialogue: 0,0:20:11.31,0:20:13.47,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The ones who don't do it properly will regret it!
+Dialogue: 0,0:20:13.87,0:20:15.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,One! Two! One! Two!
+Dialogue: 0,0:20:19.47,0:20:21.53,Kurutta Kyoutou Dialogue,,0000,0000,0000,,One! Two! One! Two!
+Dialogue: 0,0:20:22.00,0:20:22.60,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You there!
+Dialogue: 0,0:20:22.80,0:20:23.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:20:23.95,0:20:24.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Do it properly!
+Dialogue: 0,0:20:25.13,0:20:25.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I am!
+Dialogue: 0,0:20:26.64,0:20:27.75,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It doesn't look like it.
+Dialogue: 0,0:20:28.20,0:20:29.66,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Right, take off your bloomers.
+Dialogue: 0,0:20:30.00,0:20:30.78,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:20:31.20,0:20:35.25,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I have to demonstrate what happens to delinquents like you.
+Dialogue: 0,0:20:36.24,0:20:39.17,Kurutta Kyoutou Dialogue,,0000,0000,0000,,What's wrong? Do you want me to pull them off instead?
+Dialogue: 0,0:20:46.23,0:20:48.73,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You've broken the rules {\i1}and{\i0} you wore something like those T-back panties.
+Dialogue: 0,0:20:48.83,0:20:50.84,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's why you're exposed like this now!
+Dialogue: 0,0:20:52.69,0:20:54.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,See? Use this.
+Dialogue: 0,0:20:54.95,0:20:55.66,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Wha-?
+Dialogue: 0,0:20:56.21,0:20:57.97,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The knots are quite effective.
+Dialogue: 0,0:20:58.45,0:21:01.36,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It might get interesting with those T-back panties of yours too!
+Dialogue: 0,0:21:02.61,0:21:03.61,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Okay, start over!
+Dialogue: 0,0:21:04.51,0:21:08.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,One! Two! One! Two! One! Two!
+Dialogue: 0,0:21:09.18,0:21:13.24,Kurutta Kyoutou Dialogue,,0000,0000,0000,,One! Two! One! Two! One! Two!
+Dialogue: 0,0:21:15.56,0:21:16.73,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Put more strength into it!
+Dialogue: 0,0:21:19.81,0:21:20.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,More!
+Dialogue: 0,0:21:24.86,0:21:25.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Like this!
+Dialogue: 0,0:21:26.51,0:21:29.11,Kurutta Kyoutou Dialogue,,0000,0000,0000,,One! Two! One! Two!
+Dialogue: 0,0:21:34.61,0:21:37.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This happens to the ones who don't do it properly!
+Dialogue: 0,0:21:38.36,0:21:39.40,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Who's going next?!
+Dialogue: 0,0:21:39.81,0:21:44.46,Kurutta Kyoutou Dialogue,,0000,0000,0000,,C'mon! One! Two! One! Two! One! Two!
+Dialogue: 0,0:21:45.03,0:21:50.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Now then, you lot, the ones who severely disobeyed the rules,
+Dialogue: 0,0:21:50.09,0:21:52.07,Kurutta Kyoutou Dialogue,,0000,0000,0000,,are not worthy of being taught at this school!
+Dialogue: 0,0:21:52.48,0:21:54.12,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I won't allow disorderly conduct!
+Dialogue: 0,0:21:54.38,0:21:57.71,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We will strictly reproach you, so that you won't even think of disobeying the rules next time!
+Dialogue: 0,0:21:57.90,0:21:59.59,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stop crying and shut up!
+Dialogue: 0,0:21:59.93,0:22:02.83,Kurutta Kyoutou Dialogue,,0000,0000,0000,,First, we're going to check whether you're virgins or not!
+Dialogue: 0,0:22:04.07,0:22:06.92,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If you are, then you can go back to class.
+Dialogue: 0,0:22:07.20,0:22:11.57,Kurutta Kyoutou Dialogue,,0000,0000,0000,,For the ones who are not, we'll make sure that you regret disobeying the rules!
+Dialogue: 0,0:22:11.91,0:22:12.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Teachers!
+Dialogue: 0,0:22:13.06,0:22:13.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:14.68,0:22:17.41,Kurutta Kyoutou Dialogue,,0000,0000,0000,,To closely inspect each individual student,
+Dialogue: 0,0:22:17.51,0:22:20.38,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I asked the male staff to carry out the inspection!
+Dialogue: 0,0:22:20.74,0:22:23.02,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The female staff will assist!
+Dialogue: 0,0:22:23.53,0:22:24.61,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:25.23,0:22:28.75,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The ones who're not virgins will be required to do "volunteer" work for us!
+Dialogue: 0,0:22:28.87,0:22:32.73,Kurutta Kyoutou Dialogue,,0000,0000,0000,,First, the male staff will instruct you in "private" tutoring!
+Dialogue: 0,0:22:36.23,0:22:39.53,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You delinquents! Stand on the chairs!
+Dialogue: 0,0:22:41.18,0:22:42.13,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Kneel down!
+Dialogue: 0,0:22:43.54,0:22:46.26,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Now for the next position. Open your legs!
+Dialogue: 0,0:22:59.44,0:23:01.50,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You were Misao-kun, weren't you?
+Dialogue: 0,0:23:01.79,0:23:04.62,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Now, let's have a look!
+Dialogue: 0,0:23:05.40,0:23:07.90,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This is embarrassing! Please don't!
+Dialogue: 0,0:23:08.43,0:23:11.18,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I beg of you, please!
+Dialogue: 0,0:23:18.71,0:23:19.58,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:23:20.09,0:23:22.39,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No-! Stop it!
+Dialogue: 0,0:23:24.09,0:23:25.04,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Now, let's see...
+Dialogue: 0,0:23:25.59,0:23:29.01,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Of course, you'll insist that you're a virgin.
+Dialogue: 0,0:23:29.29,0:23:33.10,Kurutta Kyoutou Dialogue,,0000,0000,0000,,However, this is for the academy, so I still need to check.
+Dialogue: 0,0:23:33.67,0:23:34.98,Kurutta Kyoutou Dialogue,,0000,0000,0000,,W-What's this?!
+Dialogue: 0,0:23:35.37,0:23:38.02,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The daughter of the Sasaragi family {\i1}isn't{\i0} a virgin?!
+Dialogue: 0,0:23:38.46,0:23:41.57,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'm surprised that you can come to terms with yourself with such shame!
+Dialogue: 0,0:23:42.58,0:23:43.96,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I am a virgin!
+Dialogue: 0,0:23:43.99,0:23:45.34,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I haven't done anything indecent!
+Dialogue: 0,0:23:45.58,0:23:46.99,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Shut your mouth!
+Dialogue: 0,0:23:48.23,0:23:48.81,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Ouch-!
+Dialogue: 0,0:23:49.22,0:23:53.06,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You could just be acting! I need to check you thoroughly...
+Dialogue: 0,0:23:54.65,0:23:56.11,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We start with here!
+Dialogue: 0,0:23:57.62,0:23:58.86,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:24:01.63,0:24:03.73,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You taste good...
+Dialogue: 0,0:24:09.88,0:24:11.01,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Please, don't!
+Dialogue: 0,0:24:11.89,0:24:14.05,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Not there, not-!
+Dialogue: 0,0:24:15.69,0:24:16.35,Kurutta Kyoutou Dialogue,,0000,0000,0000,,That's-!
+Dialogue: 0,0:24:18.06,0:24:18.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It hurts!
+Dialogue: 0,0:24:18.85,0:24:20.56,Kurutta Kyoutou Dialogue,,0000,0000,0000,,There's no way that it hurts!
+Dialogue: 0,0:24:20.94,0:24:25.44,Kurutta Kyoutou Dialogue,,0000,0000,0000,,If you were a real virgin, {\i1}this{\i0} is what would be painful!
+Dialogue: 0,0:24:26.40,0:24:27.36,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It hurts!!
+Dialogue: 0,0:24:29.50,0:24:32.00,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It hurts, it hurts!
+Dialogue: 0,0:24:34.87,0:24:37.50,Kurutta Kyoutou Dialogue,,0000,0000,0000,,It hurts! Please, take it out!
+Dialogue: 0,0:24:37.68,0:24:40.03,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Stop with the cheap act!
+Dialogue: 0,0:24:40.84,0:24:44.80,Kurutta Kyoutou Dialogue,,0000,0000,0000,,You shouldn't scream like a virgin when I'm being this gentle!
+Dialogue: 0,0:24:47.09,0:24:48.70,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'd rather have it done to my butt-!
+Dialogue: 0,0:24:50.19,0:24:52.53,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Oh really? Then...
+Dialogue: 0,0:24:55.64,0:24:56.76,Kurutta Kyoutou Dialogue,,0000,0000,0000,,W-What are you-?
+Dialogue: 0,0:24:58.90,0:25:02.07,Kurutta Kyoutou Dialogue,,0000,0000,0000,,I'll send you to heaven, just as you wanted!
+Dialogue: 0,0:25:02.65,0:25:04.84,Kurutta Kyoutou Dialogue,,0000,0000,0000,,With my cock!
+Dialogue: 0,0:25:06.22,0:25:07.62,Kurutta Kyoutou Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:25:23.31,0:25:27.22,Kurutta Kyoutou Dialogue,,0000,0000,0000,,Looks like everyone has finally awoken to the true nature of teaching!
+Dialogue: 0,0:25:27.81,0:25:29.25,Kurutta Kyoutou Dialogue,,0000,0000,0000,,All is well.
+Dialogue: 0,0:25:29.92,0:25:34.15,Kurutta Kyoutou Dialogue,,0000,0000,0000,,We will restore the shine of this prestigious Kousei academy!
+Dialogue: 0,0:25:42.12,0:25:46.94,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The legend of the crazy vice-principal of Kousei academy had just started.
+Dialogue: 0,0:25:47.58,0:25:50.82,Kurutta Kyoutou Dialogue,,0000,0000,0000,,This is only the beginning.
+Dialogue: 0,0:25:51.13,0:25:55.35,Kurutta Kyoutou Dialogue,,0000,0000,0000,,The new fear, no, the new way of teaching had just begun.

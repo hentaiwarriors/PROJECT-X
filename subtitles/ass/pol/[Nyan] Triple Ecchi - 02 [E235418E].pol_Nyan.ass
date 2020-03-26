@@ -1,0 +1,138 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r112
+Active Line: 1
+Collisions: Normal
+Last Style Storage: Default [848x480]
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video Position: 0
+Video Zoom: 6
+Video Zoom Percent: 0.500000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,18,&H0048D297,&H000000FF,&H005BFFEF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,20,20,12,1
+Style: Tytul,Franklin Gothic Medium,32,&H0051B76F,&H000000FF,&H008BFAFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,85,1
+Style: Znak,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,12,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:44.89,0:02:54.44,Grupa,,0,0,0,,{\blur5\fad(1234,892)}N{\1c&HE5CE79&}y{\1c&HB97A97&}a{\1c&H7F93FF&}n
+Dialogue: 0,0:02:48.77,0:02:54.44,Tytul,,0,0,0,,{\blur5\fad(1108,892)}Odc.2: {\1c&HAA59FC&}Konami
+Dialogue: 0,0:00:01.91,0:00:03.27,Default,,0,0,0,,{\be1}Bracie...
+Dialogue: 0,0:00:05.02,0:00:06.57,Default,,0,0,0,,{\be1}Z tobą...
+Dialogue: 0,0:00:08.82,0:00:10.02,Default,,0,0,0,,{\be1}Z chęcią.
+Dialogue: 0,0:00:12.58,0:00:19.67,Default,,0,0,0,,{\be1}Twój braciszek uwielbia duże piersiątka,\Nprzez co może zrobić naprawdę sprośne rzeczy!
+Dialogue: 0,0:00:21.04,0:00:24.80,Default,,0,0,0,,{\be1}Jak na przykład polizać je dookoła sutków.
+Dialogue: 0,0:00:27.39,0:00:30.72,Default,,0,0,0,,{\be1}Albo ssać je z całej siły!
+Dialogue: 0,0:00:35.45,0:00:44.75,Default,,0,0,0,,{\be1}A gdy będę je ssać to mogę zacząć cię pieprzyć!
+Dialogue: 0,0:00:47.38,0:00:48.92,Default,,0,0,0,,{\be1}Bracie!
+Dialogue: 0,0:00:52.22,0:00:57.75,Default,,0,0,0,,{\be1}Przecież już to robisz!
+Dialogue: 0,0:01:01.46,0:01:08.52,Default,,0,0,0,,{\be1}Ciekawe co by powiedzieli twoi rodzice,\Ngdyby nas zobaczyli.
+Dialogue: 0,0:01:10.85,0:01:16.49,Default,,0,0,0,,{\be1}Nigdy bym nie pomyślał, że może dojść do tego,\Ngdy nie ma twoich rodziców.
+Dialogue: 0,0:01:17.47,0:01:19.42,Default,,0,0,0,,{\be1}Żałujesz?
+Dialogue: 0,0:01:21.23,0:01:30.65,Default,,0,0,0,,{\be1}Nie, od dawna tego pragnęłam!
+Dialogue: 0,0:01:30.65,0:01:31.98,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:01:33.26,0:01:40.18,Default,,0,0,0,,{\be1}Nie mogę się powstrzymać, gdy tak mówisz!
+Dialogue: 0,0:01:40.18,0:01:42.33,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:01:42.87,0:01:48.80,Default,,0,0,0,,{\be1}Muszę się upewnić,\Nże dzisiaj zajdziesz w ciążę!
+Dialogue: 0,0:01:49.85,0:01:54.80,Default,,0,0,0,,{\be1}Dobrze, zostanę twoją żoną!
+Dialogue: 0,0:01:55.54,0:02:02.23,Default,,0,0,0,,{\be1}Spuszczę się w tobie!
+Dialogue: 0,0:02:03.37,0:02:09.15,Default,,0,0,0,,{\be1}Dobrze!\NSpuszczaj się ile chcesz!
+Dialogue: 0,0:02:09.15,0:02:10.74,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:02:27.61,0:02:29.13,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:02:36.89,0:02:38.51,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:02:39.36,0:02:42.83,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:02:44.52,0:02:47.03,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:02:55.76,0:02:57.61,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:02:58.29,0:03:00.54,Default,,0,0,0,,{\be1}Wołałeś?
+Dialogue: 0,0:03:01.63,0:03:03.04,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:03:03.45,0:03:05.42,Default,,0,0,0,,{\be1}Chyba zasnąłem.
+Dialogue: 0,0:03:06.19,0:03:09.92,Default,,0,0,0,,{\be1}Śniłam ci się?
+Dialogue: 0,0:03:13.64,0:03:16.32,Default,,0,0,0,,{\be1}Nie! Skądże!
+Dialogue: 0,0:03:16.32,0:03:17.97,Default,,0,0,0,,{\be1}Idę do kibla.
+Dialogue: 0,0:03:24.97,0:03:32.90,Default (i),,0,0,0,,{\be1}Moi rodzice ciągle pracują, a Konami mieszka obok\Ni często przychodzi zrobić nam kolację.
+Dialogue: 0,0:03:34.24,0:03:36.98,Default,,0,0,0,,{\be1}Postaw to tam.
+Dialogue: 0,0:03:36.98,0:03:38.20,Default,,0,0,0,,{\be1}Tutaj?
+Dialogue: 0,0:03:38.59,0:03:39.85,Default,,0,0,0,,{\be1}Zjedzmy już.
+Dialogue: 0,0:03:39.85,0:03:41.83,Default,,0,0,0,,{\be1}Z chęcią.
+Dialogue: 0,0:03:41.83,0:03:52.38,Default (i),,0,0,0,,{\be1}Z Konami znamy się od dziecka i myślałem o niej\Njednie jak o siostrze, ale urosła tu i ówdzie.
+Dialogue: 0,0:03:52.89,0:03:56.48,Default (i),,0,0,0,,{\be1}Zwłaszcza w jednym miejscu.
+Dialogue: 0,0:04:01.16,0:04:02.56,Default (i),,0,0,0,,{\be1}Spokojnie!
+Dialogue: 0,0:04:21.66,0:04:27.52,Default (i),,0,0,0,,{\be1}Na deser podano piersi!
+Dialogue: 0,0:04:34.00,0:04:36.29,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:04:37.82,0:04:43.69,Default,,0,0,0,,{\be1}Ale chyba śpi.
+Dialogue: 0,0:04:46.84,0:04:52.77,Default (i),,0,0,0,,{\be1}Wybacz, ale muszę choć raz je pomacać!
+Dialogue: 0,0:05:01.03,0:05:04.10,Default,,0,0,0,,{\be1}Wspaniałe!
+Dialogue: 0,0:05:08.15,0:05:11.04,Default (i),,0,0,0,,{\be1}Nie mogę przestać!
+Dialogue: 0,0:05:20.75,0:05:25.78,Default (i),,0,0,0,,{\be1}Bez bluzki pewnie są jeszcze lepsze!
+Dialogue: 0,0:05:32.19,0:05:36.53,Default (i),,0,0,0,,{\be1}Wklęsłe?!\NTo dopiero miła niespodzianka!
+Dialogue: 0,0:05:37.19,0:05:41.69,Default (i),,0,0,0,,{\be1}Pewnie zawstydzają ją.
+Dialogue: 0,0:05:52.64,0:05:55.67,Default (i),,0,0,0,,{\be1}Zaraz pomogę ci z nimi!
+Dialogue: 0,0:06:00.48,0:06:03.17,Default,,0,0,0,,{\be1}Nie śpisz?!
+Dialogue: 0,0:06:04.05,0:06:06.93,Default,,0,0,0,,{\be1}Jakby to wyjaśnić?
+Dialogue: 0,0:06:06.93,0:06:11.79,Default (i),,0,0,0,,{\be1}Są takie cudowne,\Nże nie mogę puścić!
+Dialogue: 0,0:06:15.31,0:06:18.61,Default (i),,0,0,0,,{\be1}Dlaczego nic nie mówi?
+Dialogue: 0,0:06:31.15,0:06:33.05,Default,,0,0,0,,{\be1}Podnieciłaś się?
+Dialogue: 0,0:06:35.45,0:06:37.75,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:07:00.89,0:07:04.41,Default,,0,0,0,,{\be1}Nie! Stój!
+Dialogue: 0,0:07:30.31,0:07:31.85,Default,,0,0,0,,{\be1}Konami?
+Dialogue: 0,0:07:38.47,0:07:43.19,Default,,0,0,0,,{\be1}O cholera! Jaka gorąca!
+Dialogue: 0,0:07:49.83,0:07:52.33,Default,,0,0,0,,{\be1}Włożyłem całego.
+Dialogue: 0,0:07:53.56,0:07:57.78,Default,,0,0,0,,{\be1}Mocno mnie ściskasz.
+Dialogue: 0,0:07:57.78,0:08:00.71,Default,,0,0,0,,{\be1}Nie chcesz, żeby mój fiut czuł się samotny?
+Dialogue: 0,0:08:06.37,0:08:09.25,Default,,0,0,0,,{\be1}Spodobało ci się?
+Dialogue: 0,0:08:09.25,0:08:11.83,Default,,0,0,0,,{\be1}Nie prawda!
+Dialogue: 0,0:08:16.46,0:08:21.92,Default,,0,0,0,,{\be1}Twój jędrny tyłeczek trzęsie się, gdy wkładam.
+Dialogue: 0,0:08:28.62,0:08:33.02,Default,,0,0,0,,{\be1}Jesteś cudowna!\NUwielbiam cię przytulać!
+Dialogue: 0,0:08:33.79,0:08:38.05,Default,,0,0,0,,{\be1}Twoja cipka należy do mnie!
+Dialogue: 0,0:08:45.35,0:08:54.89,Default,,0,0,0,,{\be1}Zaczęłaś nieprzyzwoicie pachnieć,\Noszaleję przez ciebie!
+Dialogue: 0,0:09:06.06,0:09:07.82,Default,,0,0,0,,{\be1}Bracie!
+Dialogue: 0,0:09:10.38,0:09:14.63,Default,,0,0,0,,{\be1}Kocham cię!
+Dialogue: 0,0:09:16.41,0:09:18.30,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:09:19.53,0:09:23.46,Default,,0,0,0,,{\be1}Jesteś taka urocza,\Nże na pewno nie przestanę!
+Dialogue: 0,0:09:24.12,0:09:26.88,Default,,0,0,0,,{\be1}Spuszczę się w tobie!
+Dialogue: 0,0:09:30.84,0:09:37.09,Default,,0,0,0,,{\be1}O rany, robi mi się przyjemnie!
+Dialogue: 0,0:09:39.97,0:09:44.50,Default,,0,0,0,,{\be1}Spuszczę się w środku!
+Dialogue: 0,0:09:47.04,0:09:47.86,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:09:58.64,0:10:00.79,Default,,0,0,0,,{\be1}Bracie.
+Dialogue: 0,0:10:06.12,0:10:07.96,Default,,0,0,0,,{\be1}Kocham cię!
+Dialogue: 0,0:10:11.56,0:10:13.33,Default,,0,0,0,,{\be1}Konami.
+Dialogue: 0,0:10:14.77,0:10:19.64,Default,,0,0,0,,{\be1}Kolejny sen?\NMam jakąś obsesję na jej punkcie?
+Dialogue: 0,0:10:27.65,0:10:29.05,Default,,0,0,0,,{\be1}To nie sen?
+Dialogue: 0,0:10:30.63,0:10:34.78,Default,,0,0,0,,{\be1}Nie wiedziałam, że jesteś zbokiem.
+Dialogue: 0,0:10:41.94,0:10:44.39,Default,,0,0,0,,{\be1}Cała się kleję.
+Dialogue: 0,0:10:46.04,0:10:48.72,Default,,0,0,0,,{\be1}Mogę wykąpać się u ciebie?
+Dialogue: 0,0:10:48.72,0:10:50.34,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:10:58.05,0:11:01.20,Default,,0,0,0,,{\be1}Skoro to rzeczywistość,\Nto możemy to powtórzyć?
+Dialogue: 0,0:11:01.20,0:11:02.97,Default,,0,0,0,,{\be1}Bracie!
+Dialogue: 0,0:11:07.68,0:11:10.44,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:11:11.22,0:11:16.32,Default,,0,0,0,,{\be1}To jest już zawstydzające.
+Dialogue: 0,0:11:16.32,0:11:19.19,Default,,0,0,0,,{\be1}Nie jesteś podniecona?
+Dialogue: 0,0:11:26.71,0:11:29.82,Default,,0,0,0,,{\be1}Nie jestem!
+Dialogue: 0,0:11:30.51,0:11:32.88,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:11:34.24,0:11:37.22,Default,,0,0,0,,{\be1}Już nie wytrzymam!
+Dialogue: 0,0:11:42.97,0:11:46.27,Default,,0,0,0,,{\be1}Tyle się spuściłem, a nadal mi stoi.
+Dialogue: 0,0:11:55.55,0:11:58.56,Default,,0,0,0,,{\be1}Przecież chciałeś jeszcze tylko raz!
+Dialogue: 0,0:11:59.70,0:12:02.71,Default,,0,0,0,,{\be1}Nie przejmuj się szczegółami.
+Dialogue: 0,0:12:03.60,0:12:07.60,Default,,0,0,0,,{\be1}Twoja cipka znowu zaczęła się zaciskać.
+Dialogue: 0,0:12:08.62,0:12:11.17,Default,,0,0,0,,{\be1}Jesteś we mnie!
+Dialogue: 0,0:12:15.50,0:12:23.46,Default,,0,0,0,,{\be1}Jesteś taka ciasna,\Nże możesz mi oderwać fiuta.
+Dialogue: 0,0:12:24.38,0:12:32.36,Default,,0,0,0,,{\be1}Tylko nie to!\NChcę go jeszcze kiedyś poczuć!
+Dialogue: 0,0:12:32.36,0:12:33.82,Default,,0,0,0,,{\be1}Konami!
+Dialogue: 0,0:13:22.43,0:13:24.53,Default,,0,0,0,,{\be1}No nie wierzę!
+Dialogue: 0,0:13:24.53,0:13:28.54,Default,,0,0,0,,{\be1}Jak mogłeś przy pierwszym razie wkładać\Ntak mocno i jeszcze się spuścić we mnie?
+Dialogue: 0,0:13:28.54,0:13:30.95,Default,,0,0,0,,{\be1}A jak zajdę w ciążę?
+Dialogue: 0,0:13:30.95,0:13:35.14,Default,,0,0,0,,{\be1}Przepraszam.\NNa pewno wezmę za to odpowiedzialność.
+Dialogue: 0,0:13:38.79,0:13:42.30,Default,,0,0,0,,{\be1}Trzymam cię za słowo.
+Dialogue: 0,0:13:55.76,0:13:58.70,Default,,0,0,0,,{\be1}Co powiesz na jeszcze jeden raz przed snem?
+Dialogue: 0,0:13:58.70,0:14:01.77,Default,,0,0,0,,{\be1}No niech cię!

@@ -1,0 +1,340 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Untitled
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.71,0:00:04.47,Default,,0,0,0,,Princess Memory: First Half\N
+Dialogue: 0,0:00:13.26,0:00:14.24,Default,,0,0,0,,Collin?\N
+Dialogue: 0,0:00:17.73,0:00:18.72,Default,,0,0,0,,Collin?\N
+Dialogue: 0,0:00:20.36,0:00:21.80,Default,,0,0,0,,Where am I?\N
+Dialogue: 0,0:00:31.71,0:00:33.47,Default,,0,0,0,,- What's that?\N- Collin!\N
+Dialogue: 0,0:00:39.75,0:00:42.74,Default,,0,0,0,,- Collin?\N- How do you know my name?\N
+Dialogue: 0,0:00:43.49,0:00:44.71,Default,,0,0,0,,Save me.\N
+Dialogue: 0,0:00:45.22,0:00:48.99,Default,,0,0,0,,Beauty. Tell me, what's your name?\N
+Dialogue: 0,0:00:50.09,0:00:51.12,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:00:53.30,0:00:56.13,Default,,0,0,0,,What's wrong? Why are you crying?\N
+Dialogue: 0,0:00:57.67,0:00:59.29,Default,,0,0,0,,Please don't cry.\N
+Dialogue: 0,0:00:59.57,0:01:02.56,Default,,0,0,0,,Wait! Felina!\N
+Dialogue: 0,0:01:05.41,0:01:06.87,Default,,0,0,0,,Felina!\N
+Dialogue: 0,0:01:15.05,0:01:16.52,Default,,0,0,0,,What are you doing?\N
+Dialogue: 0,0:01:22.92,0:01:25.65,Default,,0,0,0,,You pervert, Collin! You vile creature.\N
+Dialogue: 0,0:01:26.19,0:01:29.03,Default,,0,0,0,,What's the matter with you?\NAren't we like siblings?\N
+Dialogue: 0,0:01:32.20,0:01:34.96,Default,,0,0,0,,A woman has to do the roof repair alone.\N
+Dialogue: 0,0:01:35.07,0:01:36.80,Default,,0,0,0,,Don't we have a man in the house?\N
+Dialogue: 0,0:01:37.61,0:01:38.50,Default,,0,0,0,,No way!\N
+Dialogue: 0,0:01:46.55,0:01:47.95,Default,,0,0,0,,Sallian. Hi there.\N
+Dialogue: 0,0:01:49.72,0:01:53.92,Default,,0,0,0,,Sorry I'm late.\NLet me get started on that.\N
+Dialogue: 0,0:01:54.56,0:01:56.49,Default,,0,0,0,,It's done. It's all finished.\N
+Dialogue: 0,0:01:56.93,0:01:58.36,Default,,0,0,0,,How disappointing.\N
+Dialogue: 0,0:01:59.86,0:02:01.92,Default,,0,0,0,,- I've had it!\N- Hey, take it easy!\N
+Dialogue: 0,0:02:15.54,0:02:16.91,Default,,0,0,0,,Watch out!\N
+Dialogue: 0,0:02:18.71,0:02:20.98,Default,,0,0,0,,I saved! I'm saved!\N
+Dialogue: 0,0:02:25.85,0:02:28.02,Default,,0,0,0,,- Do you run this inn?\N- Yes.\N
+Dialogue: 0,0:02:28.59,0:02:29.61,Default,,0,0,0,,Yes I do.\N
+Dialogue: 0,0:02:29.96,0:02:32.09,Default,,0,0,0,,All right, I'll be staying for a while.\N
+Dialogue: 0,0:02:38.70,0:02:40.03,Default,,0,0,0,,You mean, Collin?\N
+Dialogue: 0,0:02:40.74,0:02:43.50,Default,,0,0,0,,He was calling out\Na woman's name in his sleep.\N
+Dialogue: 0,0:02:44.64,0:02:47.70,Default,,0,0,0,,So, Collin's finally interested in women?\N
+Dialogue: 0,0:02:48.04,0:02:50.98,Default,,0,0,0,,No! That should never happen!\N
+Dialogue: 0,0:02:51.21,0:02:54.61,Default,,0,0,0,,Pony, why do you care so much?\N
+Dialogue: 0,0:02:55.88,0:02:59.15,Default,,0,0,0,,I don't care about\Nanything like that at all.\N
+Dialogue: 0,0:03:09.33,0:03:10.36,Default,,0,0,0,,What?\N
+Dialogue: 0,0:03:10.83,0:03:12.39,Default,,0,0,0,,Save me!\N
+Dialogue: 0,0:03:13.80,0:03:15.70,Default,,0,0,0,,This voice is...\N
+Dialogue: 0,0:03:19.94,0:03:21.17,Default,,0,0,0,,Collin?\N
+Dialogue: 0,0:03:24.65,0:03:26.55,Default,,0,0,0,,What are you up to, young man?\N
+Dialogue: 0,0:03:26.65,0:03:28.98,Default,,0,0,0,,I'm glad it's only you, Elder.\N
+Dialogue: 0,0:03:31.15,0:03:33.52,Default,,0,0,0,,I heard a strange voice from over there.\N
+Dialogue: 0,0:03:33.89,0:03:36.72,Default,,0,0,0,,From over there? Don't go there.\N
+Dialogue: 0,0:03:37.06,0:03:39.08,Default,,0,0,0,,I'm sure you've heard of it before.\N
+Dialogue: 0,0:03:39.36,0:03:41.63,Default,,0,0,0,,That's a very dangerous cave.\N
+Dialogue: 0,0:03:41.70,0:03:44.86,Default,,0,0,0,,It was a good thing I happened to come by.\N
+Dialogue: 0,0:03:46.50,0:03:49.90,Default,,0,0,0,,If you were to enter that cave...\N
+Dialogue: 0,0:03:50.27,0:03:52.57,Default,,0,0,0,,even one step inside is dangerous.\N
+Dialogue: 0,0:03:52.87,0:03:54.24,Default,,0,0,0,,Even just a step?\N
+Dialogue: 0,0:03:54.48,0:03:57.97,Default,,0,0,0,,If you were to enter that cave...\N
+Dialogue: 0,0:03:58.11,0:03:59.71,Default,,0,0,0,,Well, that's enough for one day.\N
+Dialogue: 0,0:03:59.85,0:04:01.58,Default,,0,0,0,,You've got no idea, do you?\N
+Dialogue: 0,0:04:02.38,0:04:03.82,Default,,0,0,0,,You heard me.\N
+Dialogue: 0,0:04:06.99,0:04:09.18,Default,,0,0,0,,Don't you ever go near it.\N
+Dialogue: 0,0:04:18.10,0:04:19.66,Default,,0,0,0,,What an appetite!\N
+Dialogue: 0,0:04:19.94,0:04:22.43,Default,,0,0,0,,Going on an adventure\Nreally makes you hungry.\N
+Dialogue: 0,0:04:22.50,0:04:25.47,Default,,0,0,0,,You can't fight dragons or ghosts\Non an empty stomach.\N
+Dialogue: 0,0:04:25.61,0:04:27.87,Default,,0,0,0,,- Another serving, please.\N- Yes, of course.\N
+Dialogue: 0,0:04:28.54,0:04:29.94,Default,,0,0,0,,Going on an adventure?\N
+Dialogue: 0,0:04:30.08,0:04:32.60,Default,,0,0,0,,That's right.\NThe world's filled with wonders.\N
+Dialogue: 0,0:04:32.71,0:04:34.68,Default,,0,0,0,,My dream is to see them all.\N
+Dialogue: 0,0:04:35.15,0:04:36.14,Default,,0,0,0,,This food's good.\N
+Dialogue: 0,0:04:36.32,0:04:38.81,Default,,0,0,0,,Going on an adventure.\NThat sounds great!\N
+Dialogue: 0,0:04:39.62,0:04:42.75,Default,,0,0,0,,In this village there aren't\Nany dragons or ghosts.\N
+Dialogue: 0,0:04:43.09,0:04:45.03,Default,,0,0,0,,I'm not so sure.\N
+Dialogue: 0,0:04:45.96,0:04:47.62,Default,,0,0,0,,What do you mean?\N
+Dialogue: 0,0:04:47.76,0:04:52.60,Default,,0,0,0,,That food was delicious.\NWhat's for desert?\N
+Dialogue: 0,0:05:02.01,0:05:02.98,Default,,0,0,0,,What is it?\N
+Dialogue: 0,0:05:04.48,0:05:07.71,Default,,0,0,0,,There's something I want to ask you about.\N
+Dialogue: 0,0:05:08.75,0:05:11.24,Default,,0,0,0,,It's about that cave\Non the edge of the village.\N
+Dialogue: 0,0:05:11.79,0:05:12.78,Default,,0,0,0,,What?\N
+Dialogue: 0,0:05:13.92,0:05:17.55,Default,,0,0,0,,- You should've said that right away.\N- Not so rough!\N
+Dialogue: 0,0:05:21.76,0:05:26.00,Default,,0,0,0,,This is the skull that was found under\Nthe throne of the King of Moo Continent?\N
+Dialogue: 0,0:05:26.23,0:05:28.29,Default,,0,0,0,,A wooden imitation of the real thing?\N
+Dialogue: 0,0:05:28.44,0:05:30.60,Default,,0,0,0,,It's a human skull. It's real.\N
+Dialogue: 0,0:05:34.28,0:05:36.40,Default,,0,0,0,,It's precious. Handle it with care, please.\N
+Dialogue: 0,0:05:36.51,0:05:38.07,Default,,0,0,0,,I'm very sorry.\N
+Dialogue: 0,0:05:38.21,0:05:41.44,Default,,0,0,0,,In fact, the reason why I've come\Nto this village...\N
+Dialogue: 0,0:05:41.55,0:05:43.68,Default,,0,0,0,,is to explore that cave\Non the edge of the village.\N
+Dialogue: 0,0:05:43.85,0:05:44.65,Default,,0,0,0,,That cave?\N
+Dialogue: 0,0:05:45.05,0:05:47.04,Default,,0,0,0,,Do you know something about it?\N
+Dialogue: 0,0:05:47.12,0:05:48.45,Default,,0,0,0,,No. Don't go there.\N
+Dialogue: 0,0:05:48.59,0:05:50.65,Default,,0,0,0,,If you enter that cave even\Nif it's just a step...\N
+Dialogue: 0,0:05:50.73,0:05:52.16,Default,,0,0,0,,Even just a step?\N
+Dialogue: 0,0:05:52.29,0:05:55.23,Default,,0,0,0,,I guess that's about enough for today.\N
+Dialogue: 0,0:05:57.70,0:05:59.03,Default,,0,0,0,,What is it? Tell me.\N
+Dialogue: 0,0:05:59.27,0:06:02.76,Default,,0,0,0,,You said you wanted to go on an adventure,\Nbut you're just scared.\N
+Dialogue: 0,0:06:03.04,0:06:05.53,Default,,0,0,0,,You've got to be kidding,\NI'm not scared at all.\N
+Dialogue: 0,0:06:07.84,0:06:10.50,Default,,0,0,0,,Tell me the truth. You're scared.\N
+Dialogue: 0,0:06:12.91,0:06:14.51,Default,,0,0,0,,I'm not scared.\N
+Dialogue: 0,0:06:24.99,0:06:25.98,Default,,0,0,0,,I'm not.\N
+Dialogue: 0,0:06:26.59,0:06:28.89,Default,,0,0,0,,I'm not scared.\N
+Dialogue: 0,0:06:39.54,0:06:42.27,Default,,0,0,0,,Don't worry. Just leave this to me.\N
+Dialogue: 0,0:06:51.69,0:06:54.02,Default,,0,0,0,,You'll feel much better soon.\N
+Dialogue: 0,0:07:01.10,0:07:03.12,Default,,0,0,0,,Yours is pretty good.\N
+Dialogue: 0,0:07:03.70,0:07:04.79,Default,,0,0,0,,Really?\N
+Dialogue: 0,0:07:05.13,0:07:07.07,Default,,0,0,0,,Makes me want you badly.\N
+Dialogue: 0,0:07:17.21,0:07:19.01,Default,,0,0,0,,Please save me.\N
+Dialogue: 0,0:07:19.45,0:07:20.38,Default,,0,0,0,,Felina!\N
+Dialogue: 0,0:07:25.99,0:07:28.39,Default,,0,0,0,,Feels so good.\N
+Dialogue: 0,0:07:30.02,0:07:31.82,Default,,0,0,0,,How is it? You like it?\N
+Dialogue: 0,0:07:32.03,0:07:33.02,Default,,0,0,0,,It's good.\N
+Dialogue: 0,0:07:37.27,0:07:39.60,Default,,0,0,0,,Will you be on top next?\N
+Dialogue: 0,0:07:44.31,0:07:45.93,Default,,0,0,0,,It's great!\N
+Dialogue: 0,0:07:48.18,0:07:51.24,Default,,0,0,0,,Let's go to that cave together.\N
+Dialogue: 0,0:07:51.95,0:07:55.01,Default,,0,0,0,,You're man enough. It'll be all right.\N
+Dialogue: 0,0:07:56.58,0:07:58.14,Default,,0,0,0,,Will you come with me?\N
+Dialogue: 0,0:07:58.25,0:08:00.48,Default,,0,0,0,,What? I'm coming...\N
+Dialogue: 0,0:08:01.99,0:08:04.93,Default,,0,0,0,,- You'll come then, right?\N- No, it's really not that.\N
+Dialogue: 0,0:08:33.82,0:08:35.41,Default,,0,0,0,,What's wrong, are you scared?\N
+Dialogue: 0,0:08:35.52,0:08:37.89,Default,,0,0,0,,No! It's not like that.\N
+Dialogue: 0,0:08:38.39,0:08:40.16,Default,,0,0,0,,Let's enter then, okay?\N
+Dialogue: 0,0:08:40.26,0:08:42.42,Default,,0,0,0,,Let's do this another day.\N
+Dialogue: 0,0:08:42.70,0:08:44.93,Default,,0,0,0,,All right then, another day.\N
+Dialogue: 0,0:08:46.20,0:08:48.53,Default,,0,0,0,,Thought I'd say that?\N
+Dialogue: 0,0:08:48.74,0:08:50.93,Default,,0,0,0,,Unexpectedly bright.\N
+Dialogue: 0,0:08:51.24,0:08:53.07,Default,,0,0,0,,Nothing's coming out, right?\N
+Dialogue: 0,0:08:53.24,0:08:55.97,Default,,0,0,0,,Wrong. I sense something.\N
+Dialogue: 0,0:08:56.14,0:08:57.77,Default,,0,0,0,,Maybe it's time for us to go back.\N
+Dialogue: 0,0:08:57.85,0:09:00.84,Default,,0,0,0,,What are you so afraid of?\NYou're not a virgin anymore.\N
+Dialogue: 0,0:09:12.26,0:09:13.49,Default,,0,0,0,,Collin!\N
+Dialogue: 0,0:09:19.87,0:09:21.63,Default,,0,0,0,,Not another monster?\N
+Dialogue: 0,0:09:21.77,0:09:23.20,Default,,0,0,0,,Not sure.\N
+Dialogue: 0,0:09:25.91,0:09:27.17,Default,,0,0,0,,Just wait!\N
+Dialogue: 0,0:09:30.48,0:09:32.14,Default,,0,0,0,,It's that girl.\N
+Dialogue: 0,0:09:36.25,0:09:39.22,Default,,0,0,0,,- It's Felina!\N- You know her?\N
+Dialogue: 0,0:09:39.59,0:09:41.75,Default,,0,0,0,,Yeah, I think so.\N
+Dialogue: 0,0:09:44.76,0:09:47.23,Default,,0,0,0,,Felina? It's you, right?\N
+Dialogue: 0,0:09:47.70,0:09:50.29,Default,,0,0,0,,Save me. Please, save me.\N
+Dialogue: 0,0:09:52.73,0:09:53.72,Default,,0,0,0,,They're here!\N
+Dialogue: 0,0:10:01.14,0:10:04.27,Default,,0,0,0,,Looks like we'd better call it a day\Nfor now, okay?\N
+Dialogue: 0,0:10:15.06,0:10:17.75,Default,,0,0,0,,Felina? It's you, right?\N
+Dialogue: 0,0:10:20.76,0:10:21.82,Default,,0,0,0,,Who is she?\N
+Dialogue: 0,0:10:21.96,0:10:25.90,Default,,0,0,0,,You got me. I have no idea.\NCollin seems to know her.\N
+Dialogue: 0,0:10:26.67,0:10:28.19,Default,,0,0,0,,She's a stranger to me.\N
+Dialogue: 0,0:10:29.14,0:10:32.27,Default,,0,0,0,,Here. Chamomile tea.\NIt'll calm you down a bit.\N
+Dialogue: 0,0:10:35.04,0:10:36.98,Default,,0,0,0,,What's wrong with her?\N
+Dialogue: 0,0:10:37.08,0:10:39.07,Default,,0,0,0,,She's been like this the entire time.\N
+Dialogue: 0,0:10:39.35,0:10:42.32,Default,,0,0,0,,So, Collin, who's she? Tell us.\N
+Dialogue: 0,0:10:42.58,0:10:45.78,Default,,0,0,0,,I was told her name is Felina.\N
+Dialogue: 0,0:10:46.15,0:10:48.49,Default,,0,0,0,,I don't know her! Never heard of her.\N
+Dialogue: 0,0:10:49.02,0:10:50.51,Default,,0,0,0,,But l...\N
+Dialogue: 0,0:10:51.13,0:10:54.09,Default,,0,0,0,,- Pony, it's okay, you know?\N- But...\N
+Dialogue: 0,0:10:54.70,0:10:57.49,Default,,0,0,0,,I'm telling you:\NShe's not in her right state.\N
+Dialogue: 0,0:10:59.33,0:11:01.30,Default,,0,0,0,,She's been like this the entire time.\N
+Dialogue: 0,0:11:01.44,0:11:02.70,Default,,0,0,0,,Lost her memory?\N
+Dialogue: 0,0:11:02.87,0:11:04.74,Default,,0,0,0,,It's more like she lost her soul.\N
+Dialogue: 0,0:11:05.54,0:11:07.60,Default,,0,0,0,,What do you mean,\Nshe's lost her soul?\N
+Dialogue: 0,0:11:07.81,0:11:09.94,Default,,0,0,0,,Some time ago,\Nwhile on another adventure...\N
+Dialogue: 0,0:11:10.08,0:11:11.64,Default,,0,0,0,,I saw a man who looked just like her.\N
+Dialogue: 0,0:11:12.11,0:11:13.91,Default,,0,0,0,,What happened to him?\N
+Dialogue: 0,0:11:17.72,0:11:19.19,Default,,0,0,0,,Felina as well?\N
+Dialogue: 0,0:11:19.42,0:11:22.91,Default,,0,0,0,,The man I saw turned to dust in three days.\N
+Dialogue: 0,0:11:23.62,0:11:25.32,Default,,0,0,0,,In three days?\N
+Dialogue: 0,0:11:25.59,0:11:27.25,Default,,0,0,0,,Isn't there any way to save her?\N
+Dialogue: 0,0:11:27.40,0:11:29.92,Default,,0,0,0,,That cave is the only place\Nwe might find a clue.\N
+Dialogue: 0,0:11:30.03,0:11:31.02,Default,,0,0,0,,In that cave?\N
+Dialogue: 0,0:11:31.47,0:11:33.46,Default,,0,0,0,,Did you enter that cave?\N
+Dialogue: 0,0:11:33.63,0:11:36.19,Default,,0,0,0,,He sure did with me. He was brave.\N
+Dialogue: 0,0:11:37.11,0:11:37.83,Default,,0,0,0,,Collin?\N
+Dialogue: 0,0:11:38.01,0:11:40.50,Default,,0,0,0,,I don't know if you've noticed,\Nbut I'm not a kid anymore.\N
+Dialogue: 0,0:11:40.61,0:11:42.34,Default,,0,0,0,,That place is loaded with monsters!\N
+Dialogue: 0,0:11:42.48,0:11:44.64,Default,,0,0,0,,How could you enter\Nsuch a dangerous place?\N
+Dialogue: 0,0:11:44.78,0:11:47.15,Default,,0,0,0,,What are you going to do\Nif a monster eats you up?\N
+Dialogue: 0,0:11:47.25,0:11:48.44,Default,,0,0,0,,You idiot, Collin!\N
+Dialogue: 0,0:11:48.72,0:11:50.68,Default,,0,0,0,,Don't you know anything?\N
+Dialogue: 0,0:11:51.82,0:11:54.98,Default,,0,0,0,,Looks like I better go back\Nto the cave on my own.\N
+Dialogue: 0,0:12:00.43,0:12:02.09,Default,,0,0,0,,Please save me.\N
+Dialogue: 0,0:12:02.66,0:12:03.99,Default,,0,0,0,,I'm going with you.\N
+Dialogue: 0,0:12:06.93,0:12:07.92,Default,,0,0,0,,Collin?\N
+Dialogue: 0,0:12:08.24,0:12:11.47,Default,,0,0,0,,I'm sorry Pony, but I have\Nno choice. I have to save her.\N
+Dialogue: 0,0:12:11.64,0:12:13.87,Default,,0,0,0,,I'm going to be a strong man.\N
+Dialogue: 0,0:12:14.14,0:12:16.54,Default,,0,0,0,,No don't! Don't go there!\N
+Dialogue: 0,0:12:18.41,0:12:20.18,Default,,0,0,0,,Let him go.\N
+Dialogue: 0,0:12:20.58,0:12:23.55,Default,,0,0,0,,- But Sis...\N- You know that Collin's a man.\N
+Dialogue: 0,0:12:23.99,0:12:24.97,Default,,0,0,0,,But...\N
+Dialogue: 0,0:12:25.15,0:12:27.02,Default,,0,0,0,,Don't worry. As soon as we find out...\N
+Dialogue: 0,0:12:27.12,0:12:28.99,Default,,0,0,0,,the way to save Felina,\Nwe'll come right back.\N
+Dialogue: 0,0:12:29.12,0:12:31.28,Default,,0,0,0,,You don't have to worry about it.\N
+Dialogue: 0,0:12:31.36,0:12:33.62,Default,,0,0,0,,Stop your blathering,\Nare you coming or not?\N
+Dialogue: 0,0:12:33.73,0:12:34.85,Default,,0,0,0,,Yes, I'm coming.\N
+Dialogue: 0,0:12:38.40,0:12:41.46,Default,,0,0,0,,It's fine. I'm sure Collin can do it.\N
+Dialogue: 0,0:12:55.45,0:12:57.15,Default,,0,0,0,,Let me handle this one.\N
+Dialogue: 0,0:13:04.73,0:13:06.72,Default,,0,0,0,,There're tons of them, Lily!\N
+Dialogue: 0,0:13:06.79,0:13:09.19,Default,,0,0,0,,Will you do something? Save us!\N
+Dialogue: 0,0:13:09.30,0:13:11.89,Default,,0,0,0,,Didn't you just say\Nyou'd handle this one?\N
+Dialogue: 0,0:13:14.34,0:13:16.63,Default,,0,0,0,,Help me! Don't kill me!\N
+Dialogue: 0,0:13:19.81,0:13:22.90,Default,,0,0,0,,We won't kill you. We're Nuvolians.\N
+Dialogue: 0,0:13:23.01,0:13:24.48,Default,,0,0,0,,We understand your language.\N
+Dialogue: 0,0:13:24.55,0:13:26.51,Default,,0,0,0,,We're the inhabitants of this cave.\N
+Dialogue: 0,0:13:26.65,0:13:28.31,Default,,0,0,0,,He reminds me of someone.\N
+Dialogue: 0,0:13:28.65,0:13:32.78,Default,,0,0,0,,You're the ones\Nwho took away Felina, aren't you?\N
+Dialogue: 0,0:13:32.95,0:13:34.72,Default,,0,0,0,,You know Felina?\N
+Dialogue: 0,0:13:34.99,0:13:36.55,Default,,0,0,0,,The white flower.\N
+Dialogue: 0,0:13:36.79,0:13:39.12,Default,,0,0,0,,- The white flower?\N- Yeah.\N
+Dialogue: 0,0:13:39.73,0:13:42.96,Default,,0,0,0,,A flower that blooms in the place\Nbeyond the door made of rock...\N
+Dialogue: 0,0:13:43.06,0:13:47.02,Default,,0,0,0,,down the stairs.\NIf you take that flower to Felina.\N
+Dialogue: 0,0:13:47.24,0:13:48.67,Default,,0,0,0,,If I take that?\N
+Dialogue: 0,0:13:49.97,0:13:52.10,Default,,0,0,0,,Well, it's enough for the day.\N
+Dialogue: 0,0:13:53.27,0:13:55.14,Default,,0,0,0,,You've got no idea, do you?\N
+Dialogue: 0,0:13:55.54,0:13:57.03,Default,,0,0,0,,Down the stairs?\N
+Dialogue: 0,0:14:00.55,0:14:02.48,Default,,0,0,0,,We came after them\Nbecause we were worried.\N
+Dialogue: 0,0:14:02.55,0:14:03.64,Default,,0,0,0,,It'll be all right.\N
+Dialogue: 0,0:14:03.78,0:14:06.72,Default,,0,0,0,,Once we enter the cave,\Nwe'll be with Collin and Lily.\N
+Dialogue: 0,0:14:14.26,0:14:15.56,Default,,0,0,0,,Hey, Pony!\N
+Dialogue: 0,0:14:22.77,0:14:25.57,Default,,0,0,0,,I was so frightened,\NI couldn't help running right in.\N
+Dialogue: 0,0:14:25.77,0:14:29.17,Default,,0,0,0,,Let's get out of here.\NWhich way do we go now?\N
+Dialogue: 0,0:14:30.34,0:14:32.44,Default,,0,0,0,,I don't think we can go back now.\N
+Dialogue: 0,0:14:36.42,0:14:37.78,Default,,0,0,0,,Run away!\N
+Dialogue: 0,0:14:42.39,0:14:43.65,Default,,0,0,0,,No!\N
+Dialogue: 0,0:14:44.56,0:14:45.55,Default,,0,0,0,,Pony!\N
+Dialogue: 0,0:15:05.15,0:15:06.34,Default,,0,0,0,,I did it!\N
+Dialogue: 0,0:15:06.98,0:15:08.28,Default,,0,0,0,,Look, over there!\N
+Dialogue: 0,0:15:09.45,0:15:12.44,Default,,0,0,0,,Is that the door made of rock\Nwhich Elder Nuvolian spoke of?\N
+Dialogue: 0,0:15:24.53,0:15:26.76,Default,,0,0,0,,This is the white flower.\N
+Dialogue: 0,0:15:28.20,0:15:29.29,Default,,0,0,0,,How beautiful.\N
+Dialogue: 0,0:15:30.77,0:15:31.80,Default,,0,0,0,,Collin...\N
+Dialogue: 0,0:15:34.81,0:15:35.80,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:15:38.88,0:15:40.54,Default,,0,0,0,,Why are you here?\N
+Dialogue: 0,0:15:44.52,0:15:46.51,Default,,0,0,0,,Don't be fooled, Collin.\N
+Dialogue: 0,0:15:47.46,0:15:49.98,Default,,0,0,0,,It's impossible. Felina cannot be here.\N
+Dialogue: 0,0:15:50.49,0:15:53.02,Default,,0,0,0,,I am the soul of Felina.\N
+Dialogue: 0,0:15:53.93,0:15:54.69,Default,,0,0,0,,Soul?\N
+Dialogue: 0,0:15:54.96,0:15:58.45,Default,,0,0,0,,Collin, I've been waiting for you to come.\N
+Dialogue: 0,0:15:58.70,0:16:01.03,Default,,0,0,0,,Felina, you must be saved, right?\N
+Dialogue: 0,0:16:01.57,0:16:05.06,Default,,0,0,0,,No, I cannot return to Felina, yet.\N
+Dialogue: 0,0:16:05.64,0:16:07.04,Default,,0,0,0,,Tell me, how come?\N
+Dialogue: 0,0:16:07.14,0:16:10.08,Default,,0,0,0,,Before I can, there's a condition\Nto be fulfilled.\N
+Dialogue: 0,0:16:10.21,0:16:11.24,Default,,0,0,0,,A condition?\N
+Dialogue: 0,0:16:11.61,0:16:13.31,Default,,0,0,0,,Yes, you see...\N
+Dialogue: 0,0:16:13.61,0:16:15.67,Default,,0,0,0,,you hold the key for that.\N
+Dialogue: 0,0:16:16.38,0:16:21.08,Default,,0,0,0,,I am Madonna Felina, a crystallization\Nof Felina's beautiful heart.\N
+Dialogue: 0,0:16:21.29,0:16:23.76,Default,,0,0,0,,People have many different facets.\N
+Dialogue: 0,0:16:23.92,0:16:27.92,Default,,0,0,0,,Just like everyone else,\NFelina has various facets.\N
+Dialogue: 0,0:16:28.23,0:16:32.26,Default,,0,0,0,,Gentleness, slyness, wisdom, sadness.\N
+Dialogue: 0,0:16:34.87,0:16:36.30,Default,,0,0,0,,What do I have to do?\N
+Dialogue: 0,0:16:36.40,0:16:39.90,Default,,0,0,0,,Can you love all of Felina in her entirety?\N
+Dialogue: 0,0:16:40.11,0:16:43.04,Default,,0,0,0,,- All of her?\N- Can you?\N
+Dialogue: 0,0:16:44.55,0:16:48.57,Default,,0,0,0,,I can! To save Felina, I'll do anything.\N
+Dialogue: 0,0:16:52.59,0:16:54.28,Default,,0,0,0,,Who are you, tell me!\N
+Dialogue: 0,0:16:54.46,0:16:59.55,Default,,0,0,0,,Greetings. I am Sly Felina.\NThe smartest among all the Felinas.\N
+Dialogue: 0,0:17:00.43,0:17:02.62,Default,,0,0,0,,Do you really mean you can accept me?\N
+Dialogue: 0,0:17:02.76,0:17:05.10,Default,,0,0,0,,I will accept any kind of Felina.\N
+Dialogue: 0,0:17:05.60,0:17:06.76,Default,,0,0,0,,Despite this?\N
+Dialogue: 0,0:17:15.14,0:17:17.24,Default,,0,0,0,,Pony! Sallian!\N
+Dialogue: 0,0:17:19.08,0:17:22.57,Default,,0,0,0,,Foolish woman. Look how\Nthey all followed you here.\N
+Dialogue: 0,0:17:24.59,0:17:26.92,Default,,0,0,0,,I'm sorry. We were worried.\N
+Dialogue: 0,0:17:30.62,0:17:34.12,Default,,0,0,0,,I'll give you a choice.\NI'll let you save one of them.\N
+Dialogue: 0,0:17:36.13,0:17:38.10,Default,,0,0,0,,You choose which one you save.\N
+Dialogue: 0,0:17:39.57,0:17:40.90,Default,,0,0,0,,Damn it!\N
+Dialogue: 0,0:17:42.20,0:17:45.70,Default,,0,0,0,,If you don't choose quickly,\Nthey'll both end up dying.\N
+Dialogue: 0,0:17:46.61,0:17:50.10,Default,,0,0,0,,Collin! Please look after Pony.\NShe loves you.\N
+Dialogue: 0,0:17:50.51,0:17:53.45,Default,,0,0,0,,She really loves you, don't forget.\N
+Dialogue: 0,0:17:54.85,0:17:56.78,Default,,0,0,0,,I'll leave her to you, okay?\N
+Dialogue: 0,0:17:58.49,0:17:59.75,Default,,0,0,0,,No don't!\N
+Dialogue: 0,0:17:59.85,0:18:02.02,Default,,0,0,0,,- Just stop it!\N- Try not to move!\N
+Dialogue: 0,0:18:06.73,0:18:08.29,Default,,0,0,0,,Sallian!\N
+Dialogue: 0,0:18:17.61,0:18:19.94,Default,,0,0,0,,That was no fun at all.\N
+Dialogue: 0,0:18:20.01,0:18:23.50,Default,,0,0,0,,But since I promised,\NI'll save one of them.\N
+Dialogue: 0,0:18:31.42,0:18:32.41,Default,,0,0,0,,Pony!\N
+Dialogue: 0,0:18:33.82,0:18:35.29,Default,,0,0,0,,Are you all right?\N
+Dialogue: 0,0:18:36.06,0:18:38.46,Default,,0,0,0,,Collin. Sallian. Sallian.\N
+Dialogue: 0,0:18:38.93,0:18:40.89,Default,,0,0,0,,I'm so sorry I came.\N
+Dialogue: 0,0:18:41.80,0:18:43.56,Default,,0,0,0,,I've caused so much trouble.\N
+Dialogue: 0,0:18:47.87,0:18:50.93,Default,,0,0,0,,Do you hate me now? You must.\N
+Dialogue: 0,0:18:51.37,0:18:53.20,Default,,0,0,0,,Can you still love me?\N
+Dialogue: 0,0:18:53.91,0:18:55.21,Default,,0,0,0,,Can you love me?\N
+Dialogue: 0,0:18:55.38,0:18:57.40,Default,,0,0,0,,Damn it all to hell!\N
+Dialogue: 0,0:18:57.75,0:19:01.84,Default,,0,0,0,,Collin, please don't be misled by Sly Felina.\N
+Dialogue: 0,0:19:02.25,0:19:05.28,Default,,0,0,0,,Big brother, I want to go home right now!\N
+Dialogue: 0,0:19:05.82,0:19:08.62,Default,,0,0,0,,What's the matter with you?\NAren't you a man?\N
+Dialogue: 0,0:19:09.86,0:19:12.16,Default,,0,0,0,,I'm telling you,\Nthey're all Felina's soul.\N
+Dialogue: 0,0:19:14.90,0:19:19.42,Default,,0,0,0,,See, it's not that easy\Nto truly love a person. Is it?\N
+Dialogue: 0,0:19:20.50,0:19:22.26,Default,,0,0,0,,I can't do anything.\N
+Dialogue: 0,0:19:22.74,0:19:24.20,Default,,0,0,0,,How disappointing.\N
+Dialogue: 0,0:19:24.27,0:19:26.40,Default,,0,0,0,,You've already given up?\N
+Dialogue: 0,0:19:27.98,0:19:28.96,Default,,0,0,0,,Collin?\N
+Dialogue: 0,0:19:30.85,0:19:32.21,Default,,0,0,0,,Don't give up.\N
+Dialogue: 0,0:19:35.32,0:19:37.65,Default,,0,0,0,,I won't doubt myself.\N
+Dialogue: 0,0:19:50.26,0:19:51.25,Default,,0,0,0,,They vanished.\N
+Dialogue: 0,0:20:04.61,0:20:05.51,Default,,0,0,0,,Leave them to me.\N
+Dialogue: 0,0:20:05.58,0:20:07.51,Default,,0,0,0,,Take Pony and the white flower. Hurry.\N
+Dialogue: 0,0:20:07.75,0:20:08.74,Default,,0,0,0,,But l...\N
+Dialogue: 0,0:20:08.98,0:20:11.88,Default,,0,0,0,,Just go quickly!\NI'll break a path for you.\N
+Dialogue: 0,0:20:17.26,0:20:18.62,Default,,0,0,0,,Pony, let's go.\N
+Dialogue: 0,0:20:31.97,0:20:33.30,Default,,0,0,0,,It's you, Lily.\N
+Dialogue: 0,0:20:34.31,0:20:36.30,Default,,0,0,0,,That was close, wasn't it?\N
+Dialogue: 0,0:20:39.45,0:20:40.94,Default,,0,0,0,,Thank you.\N
+Dialogue: 0,0:20:43.78,0:20:44.84,Default,,0,0,0,,You okay?\N
+Dialogue: 0,0:20:45.19,0:20:46.45,Default,,0,0,0,,Collin, look at her.\N
+Dialogue: 0,0:20:46.69,0:20:47.71,Default,,0,0,0,,Lily?\N
+Dialogue: 0,0:20:50.79,0:20:53.85,Default,,0,0,0,,I lost focus. My mistake.\N
+Dialogue: 0,0:20:55.53,0:20:58.19,Default,,0,0,0,,Let's go home and treat\Nyour wounds right away.\N
+Dialogue: 0,0:20:58.40,0:21:01.33,Default,,0,0,0,,It's all right. Just leave me.\N
+Dialogue: 0,0:21:01.57,0:21:03.50,Default,,0,0,0,,I probably won't last.\N
+Dialogue: 0,0:21:04.04,0:21:05.70,Default,,0,0,0,,It's all my fault.\N
+Dialogue: 0,0:21:08.91,0:21:10.64,Default,,0,0,0,,Go on Collin, you take it.\N
+Dialogue: 0,0:21:10.81,0:21:13.14,Default,,0,0,0,,It's a memento of my father.\N
+Dialogue: 0,0:21:13.25,0:21:17.62,Default,,0,0,0,,My father always wanted a son.\NA strong and brave son.\N
+Dialogue: 0,0:21:17.99,0:21:20.92,Default,,0,0,0,,You can help me to fulfill his dying wish.\N
+Dialogue: 0,0:21:20.99,0:21:23.72,Default,,0,0,0,,Don't give up, Lily!\NYou're going to see the world, right?\N
+Dialogue: 0,0:21:24.09,0:21:26.32,Default,,0,0,0,,Remember to be brave.\N
+Dialogue: 0,0:21:26.69,0:21:28.82,Default,,0,0,0,,So long as you believe in yourself...\N
+Dialogue: 0,0:21:28.96,0:21:32.02,Default,,0,0,0,,the path will be sure to open.\N
+Dialogue: 0,0:21:33.73,0:21:34.50,Default,,0,0,0,,Lily!\N
+Dialogue: 0,0:21:34.67,0:21:36.16,Default,,0,0,0,,No please, don't!\N
+Dialogue: 0,0:22:10.94,0:22:11.93,Default,,0,0,0,,Pony, it's me.\N
+Dialogue: 0,0:22:16.31,0:22:19.51,Default,,0,0,0,,Pony, I'm sorry. It's all my fault.\N
+Dialogue: 0,0:22:19.71,0:22:22.34,Default,,0,0,0,,I know it's my fault you're left all alone.\N
+Dialogue: 0,0:22:22.65,0:22:24.85,Default,,0,0,0,,I want to forget everything.\N
+Dialogue: 0,0:22:25.42,0:22:26.41,Default,,0,0,0,,Pony.\N
+Dialogue: 0,0:22:30.66,0:22:31.65,Default,,0,0,0,,Collin.\N
+Dialogue: 0,0:22:34.73,0:22:36.70,Default,,0,0,0,,I can taste your tears, Pony.\N
+Dialogue: 0,0:23:27.08,0:23:29.02,Default,,0,0,0,,Not there. Please, no.\N
+Dialogue: 0,0:23:53.37,0:23:54.47,Default,,0,0,0,,You feel okay?\N
+Dialogue: 0,0:23:54.61,0:23:58.60,Default,,0,0,0,,I'm okay, I'm hot.\NI feel you Collin, inside.\N
+Dialogue: 0,0:23:59.31,0:24:01.51,Default,,0,0,0,,Then, let me move about a bit.\N
+Dialogue: 0,0:24:03.35,0:24:04.48,Default,,0,0,0,,Does this hurt?\N
+Dialogue: 0,0:24:06.75,0:24:08.09,Default,,0,0,0,,I like it.\N
+Dialogue: 0,0:24:33.05,0:24:34.48,Default,,0,0,0,,I'm coming!\N
+Dialogue: 0,0:24:36.35,0:24:37.28,Default,,0,0,0,,Come!\N
+Dialogue: 0,0:24:49.80,0:24:50.79,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:24:57.10,0:24:58.00,Default,,0,0,0,,This is...\N
+Dialogue: 0,0:24:58.27,0:24:59.80,Default,,0,0,0,,A beautiful flower.\N
+Dialogue: 0,0:25:00.17,0:25:01.87,Default,,0,0,0,,Felina, you can talk.\N
+Dialogue: 0,0:25:07.48,0:25:11.01,Default,,0,0,0,,Save me please! Save me.\N
+Dialogue: 0,0:25:12.29,0:25:13.28,Default,,0,0,0,,Save me.\N

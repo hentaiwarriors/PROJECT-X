@@ -1,0 +1,345 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+Style: up,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:21.47,0:00:23.39,Default,NTP,0,0,0,,母亲大人
+Dialogue: 0,0:01:55.50,0:01:57.73,Default,NTP,0,0,0,,嗯 好舒服
+Dialogue: 0,0:01:58.26,0:02:01.22,Default,NTP,0,0,0,,嘛 这样一来两星期没问题了
+Dialogue: 0,0:02:13.39,0:02:17.32,staff2,NTP,0,0,0,,とらぶる♥EVOCATION 第2话「ご主人様がいいって言うまで」
+Dialogue: 0,0:02:26.07,0:02:28.31,Default,NTP,0,0,0,,好厉害 好厉害
+Dialogue: 0,0:02:30.10,0:02:32.79,Default,NTP,0,0,0,,一直顶到里面
+Dialogue: 0,0:02:32.79,0:02:34.56,Default,NTP,0,0,0,,莉亚 真的那么舒服么
+Dialogue: 0,0:02:34.56,0:02:37.20,Default,NTP,0,0,0,,是的 非常非常舒服
+Dialogue: 0,0:02:38.80,0:02:39.63,Default,NTP,0,0,0,,莉亚
+Dialogue: 0,0:02:40.64,0:02:41.78,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:02:42.22,0:02:45.26,Default,NTP,0,0,0,,莉亚的 莉亚的那里 怎么样
+Dialogue: 0,0:02:45.26,0:02:47.15,Default,NTP,0,0,0,,好棒 好棒的
+Dialogue: 0,0:02:47.78,0:02:51.69,Default,NTP,0,0,0,,主人 我已经 不行了
+Dialogue: 0,0:02:51.69,0:02:53.93,Default,NTP,0,0,0,,啊 不行了 不行了
+Dialogue: 0,0:02:54.51,0:02:57.92,Default,NTP,0,0,0,,主人 主人
+Dialogue: 0,0:02:56.92,0:02:57.86,Default,NTP,0,0,0,,莉亚
+Dialogue: 0,0:03:16.00,0:03:19.61,Default,NTP,0,0,0,,主人 主人
+Dialogue: 0,0:03:34.85,0:03:35.63,Default,NTP,0,0,0,,我先走了
+Dialogue: 0,0:03:37.02,0:03:39.99,Default,NTP,0,0,0,,主人 包 包
+Dialogue: 0,0:03:42.21,0:03:43.61,Default,NTP,0,0,0,,谢了 莉亚
+Dialogue: 0,0:03:46.76,0:03:49.04,Default,NTP,0,0,0,,好了 打扫 打扫
+Dialogue: 0,0:04:02.59,0:04:04.59,Default,NTP,0,0,0,,这是主人的 
+Dialogue: 0,0:04:04.59,0:04:05.83,Default,NTP,0,0,0,,讨厌
+Dialogue: 0,0:04:16.70,0:04:21.83,Default,NTP,0,0,0,,好了 时间还很充分 今天就做牛肉吧
+Dialogue: 0,0:04:23.45,0:04:25.07,Default,NTP,0,0,0,,你还是老样子啊 莉亚
+Dialogue: 0,0:04:26.12,0:04:26.94,Default,NTP,0,0,0,,谁
+Dialogue: 0,0:04:31.65,0:04:32.72,Default,NTP,0,0,0,,萨迪娜 
+Dialogue: 0,0:04:33.12,0:04:34.74,Default,NTP,0,0,0,,这不是萨迪娜吗
+Dialogue: 0,0:04:35.07,0:04:37.30,Default,NTP,0,0,0,,你能来真是
+Dialogue: 0,0:04:42.60,0:04:44.20,Default,NTP,0,0,0,,不要擅自碰我
+Dialogue: 0,0:04:44.50,0:04:49.47,Default,NTP,0,0,0,,怎么 为什么我们明明是青梅竹马的
+Dialogue: 0,0:04:49.70,0:04:53.28,Default,NTP,0,0,0,,莉亚 你究竟在想什么 
+Dialogue: 0,0:04:53.45,0:04:54.28,Default,NTP,0,0,0,,诶
+Dialogue: 0,0:04:56.00,0:04:59.61,Default,NTP,0,0,0,,我在你后面也马上到了人界
+Dialogue: 0,0:04:59.77,0:05:02.18,Default,NTP,0,0,0,,一口气取得了几个契约
+Dialogue: 0,0:05:02.18,0:05:04.97,Default,NTP,0,0,0,,已经取得了C级贵族称号了
+Dialogue: 0,0:05:04.97,0:05:10.56,Default,NTP,0,0,0,,反观你 不要说初级了 连一个指标都没有达成
+Dialogue: 0,0:05:10.98,0:05:14.55,Default,NTP,0,0,0,,你和那个什么秀矢签订了契约
+Dialogue: 0,0:05:14.55,0:05:17.26,Default,NTP,0,0,0,,已经过了好几个月了啊
+Dialogue: 0,0:05:17.98,0:05:19.09,Default,NTP,0,0,0,,可是
+Dialogue: 0,0:05:20.77,0:05:22.87,Default,NTP,0,0,0,,借口什么的是不承认的
+Dialogue: 0,0:05:23.29,0:05:26.66,Default,NTP,0,0,0,,和我不同 你是大贵族的千金
+Dialogue: 0,0:05:27.09,0:05:30.14,Default,NTP,0,0,0,,魔界名门盖茨伊家的继承人
+Dialogue: 0,0:05:32.47,0:05:35.50,Default,NTP,0,0,0,,那 那个 萨迪娜
+Dialogue: 0,0:05:35.50,0:05:38.22,Default,NTP,0,0,0,,你说的我不是很懂来着
+Dialogue: 0,0:05:38.35,0:05:39.24,Default,NTP,0,0,0,,诶
+Dialogue: 0,0:05:39.73,0:05:43.10,Default,NTP,0,0,0,,和召唤自己的人类签订契约
+Dialogue: 0,0:05:43.10,0:05:46.76,Default,NTP,0,0,0,,并实现他三个愿望才是我们的指标吧
+Dialogue: 0,0:05:47.00,0:05:51.65,Default,NTP,0,0,0,,在这里生活也是主人的愿望之一
+Dialogue: 0,0:05:52.10,0:05:56.23,Default,NTP,0,0,0,,而且 有好好遵循仪式交换了誓约
+Dialogue: 0,0:05:56.23,0:05:59.39,Default,NTP,0,0,0,,主人他也是很满足
+Dialogue: 0,0:05:59.80,0:06:00.72,Default,NTP,0,0,0,,所以
+Dialogue: 0,0:06:00.78,0:06:02.79,Default,NTP,0,0,0,,等 等等 莉亚
+Dialogue: 0,0:06:02.79,0:06:06.90,Default,NTP,0,0,0,,你关于契约和指标 真的有明白么
+Dialogue: 0,0:06:07.17,0:06:09.43,Default,NTP,0,0,0,,和人类签订契约之后 
+Dialogue: 0,0:06:09.43,0:06:15.42,Default,NTP,0,0,0,,在人界时间6月6天6小时内没有取得那个人的灵魂的话
+Dialogue: 0,0:06:15.42,0:06:17.41,Default,NTP,0,0,0,,你就会不合格 
+Dialogue: 0,0:06:17.80,0:06:19.04,Default,NTP,0,0,0,,不止这些
+Dialogue: 0,0:06:19.36,0:06:20.86,Default,NTP,0,0,0,,如果这次你还没有合格的话 
+Dialogue: 0,0:06:20.86,0:06:24.82,Default,NTP,0,0,0,,就会永远失去继承盖茨伊家称号的资格
+Dialogue: 0,0:06:25.10,0:06:26.00,Default,NTP,0,0,0,,你明白么
+Dialogue: 0,0:06:28.25,0:06:29.00,Default,NTP,0,0,0,,假的吧
+Dialogue: 0,0:06:33.43,0:06:36.96,Default,NTP,0,0,0,,算了 反正时间还有剩余
+Dialogue: 0,0:06:36.96,0:06:39.50,Default,NTP,0,0,0,,我也会来帮你的
+Dialogue: 0,0:06:39.86,0:06:42.53,Default,NTP,0,0,0,,无论如何都要把那个男人剩下的愿望给套出来
+Dialogue: 0,0:06:42.53,0:06:44.70,Default,NTP,0,0,0,,把他的灵魂拿到手
+Dialogue: 0,0:06:45.76,0:06:47.28,Default,NTP,0,0,0,,怎么了 莉亚
+Dialogue: 0,0:06:48.66,0:06:53.10,Default,NTP,0,0,0,,如果灵魂被拿走 主人会怎么样
+Dialogue: 0,0:06:54.06,0:06:59.64,Default,NTP,0,0,0,,不知道 反正人类本来就是有没有灵魂都一样
+Dialogue: 0,0:06:59.83,0:07:02.36,Default,NTP,0,0,0,,我很认真的在问你啊 萨迪娜
+Dialogue: 0,0:07:02.92,0:07:05.04,Default,NTP,0,0,0,,一句话就是 僵尸
+Dialogue: 0,0:07:05.50,0:07:09.47,Default,NTP,0,0,0,,变成没有记忆也没有感情只是机械般活着的生物
+Dialogue: 0,0:07:09.47,0:07:11.45,Default,NTP,0,0,0,,那样又怎么样
+Dialogue: 0,0:07:11.96,0:07:13.47,Default,NTP,0,0,0,,听好了 莉亚
+Dialogue: 0,0:07:13.89,0:07:18.79,Default,NTP,0,0,0,,你必须要继承盖茨伊家 这是你的命运
+Dialogue: 0,0:07:19.20,0:07:23.73,Default,NTP,0,0,0,,所以不要为了区区一个人类 而忘记你的名誉和责任
+Dialogue: 0,0:07:23.73,0:07:26.76,Default,NTP,0,0,0,,我知道 但是
+Dialogue: 0,0:07:28.67,0:07:32.60,Default,NTP,0,0,0,,婆婆她 你和你妈妈担心的一样啊
+Dialogue: 0,0:07:33.33,0:07:36.23,Default,NTP,0,0,0,,你的妈妈要我给你带句话
+Dialogue: 0,0:07:36.93,0:07:39.42,Default,NTP,0,0,0,,母亲大人 说什么
+Dialogue: 0,0:07:41.75,0:07:45.26,Default,NTP,0,0,0,,不想回来的话 就不要回来了
+Dialogue: 0,0:07:55.61,0:07:57.22,Default,NTP,0,0,0,,这句话 
+Dialogue: 0,0:07:57.22,0:07:58.86,Default,NTP,0,0,0,,这句话是
+Dialogue: 0,0:08:05.88,0:08:07.46,Default,NTP,0,0,0,,好可怜啊 莉亚
+Dialogue: 0,0:08:08.27,0:08:10.07,Default,NTP,0,0,0,,让我来安慰你
+Dialogue: 0,0:08:10.44,0:08:11.21,Default,NTP,0,0,0,,诶
+Dialogue: 0,0:08:42.23,0:08:43.51,Default,NTP,0,0,0,,萨 萨迪娜
+Dialogue: 0,0:08:48.57,0:08:52.01,Default,NTP,0,0,0,,那个男人 就由我让你忘了他吧
+Dialogue: 0,0:09:04.00,0:09:05.91,Default,NTP,0,0,0,,已经那么有感觉了啊 
+Dialogue: 0,0:09:06.17,0:09:08.05,Default,NTP,0,0,0,,看 都那样子了
+Dialogue: 0,0:09:09.00,0:09:12.31,Default,NTP,0,0,0,,来 也要让我那么舒服哦
+Dialogue: 0,0:09:20.08,0:09:21.77,Default,NTP,0,0,0,,哦 就这样 莉亚
+Dialogue: 0,0:09:21.77,0:09:23.56,Default,NTP,0,0,0,,在来 在用力
+Dialogue: 0,0:09:25.11,0:09:26.42,Default,NTP,0,0,0,,萨迪娜
+Dialogue: 0,0:09:27.29,0:09:29.46,Default,NTP,0,0,0,,怎么样 莉亚
+Dialogue: 0,0:09:29.46,0:09:32.25,Default,NTP,0,0,0,,比起人类来说要舒服多了吧
+Dialogue: 0,0:09:40.20,0:09:42.10,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:09:43.61,0:09:44.01,Default,NTP,0,0,0,,莉亚
+Dialogue: 0,0:09:45.00,0:09:46.07,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:09:47.00,0:09:47.40,Default,NTP,0,0,0,,诶
+Dialogue: 0,0:09:48.74,0:09:50.34,Default,NTP,0,0,0,,对不起 萨迪娜
+Dialogue: 0,0:09:50.82,0:09:51.56,Default,NTP,0,0,0,,但是
+Dialogue: 0,0:09:54.81,0:09:58.61,Default,NTP,0,0,0,,你既然这样 我也有我的方法
+Dialogue: 0,0:10:03.39,0:10:04.26,Default,NTP,0,0,0,,萨迪娜
+Dialogue: 0,0:10:05.12,0:10:07.79,Default,NTP,0,0,0,,由我代替你来做
+Dialogue: 0,0:10:08.60,0:10:10.33,Default,NTP,0,0,0,,为了防止你捣乱 
+Dialogue: 0,0:10:10.33,0:10:13.18,Default,NTP,0,0,0,,你就在这里等着吧
+Dialogue: 0,0:10:13.61,0:10:16.09,Default,NTP,0,0,0,,你要做什么 萨迪娜
+Dialogue: 0,0:10:16.27,0:10:20.33,Default,NTP,0,0,0,,没用的 你是无法打破这个结界的
+Dialogue: 0,0:10:20.87,0:10:21.68,Default,NTP,0,0,0,,再见
+Dialogue: 0,0:10:55.93,0:10:58.89,Default,NTP,0,0,0,,这是 贵族的披风
+Dialogue: 0,0:10:58.89,0:11:00.48,Default,NTP,0,0,0,,为什么我会
+Dialogue: 0,0:11:01.00,0:11:02.87,Default,NTP,0,0,0,,你喜欢么
+Dialogue: 0,0:11:04.11,0:11:07.49,Default,NTP,0,0,0,,能穿上这个 可是我们两人的梦想啊
+Dialogue: 0,0:11:08.84,0:11:10.94,Default,NTP,0,0,0,,萨迪娜 这是什么
+Dialogue: 0,0:11:11.48,0:11:13.42,Default,NTP,0,0,0,,我做的结界哦
+Dialogue: 0,0:11:13.42,0:11:15.62,Default,NTP,0,0,0,,感觉不错吧
+Dialogue: 0,0:11:16.18,0:11:19.21,Default,NTP,0,0,0,,我的魔力也成长了很多呢
+Dialogue: 0,0:11:19.81,0:11:23.64,Default,NTP,0,0,0,,只要用这魔力 从那个叫秀矢的男人那里
+Dialogue: 0,0:11:23.64,0:11:28.54,Default,NTP,0,0,0,,不管是问出还是实现剩下的愿望都易如反掌
+Dialogue: 0,0:11:29.28,0:11:33.51,Default,NTP,0,0,0,,剩下的 只要你把那个男人的灵魂带回魔界就好了
+Dialogue: 0,0:11:34.07,0:11:35.84,Default,NTP,0,0,0,,不行啊 萨迪娜 那种事
+Dialogue: 0,0:11:35.84,0:11:39.87,Default,NTP,0,0,0,,啊呀 那么还是和那个男人解除契约
+Dialogue: 0,0:11:39.87,0:11:42.42,Default,NTP,0,0,0,,等待其他人重新召唤吗
+Dialogue: 0,0:11:42.86,0:11:46.40,Default,NTP,0,0,0,,解除契约 但是
+Dialogue: 0,0:11:46.70,0:11:50.02,Default,NTP,0,0,0,,一旦和主人解除契约的话 
+Dialogue: 0,0:11:50.02,0:11:52.57,Default,NTP,0,0,0,,就再也见不到现在的主人了
+Dialogue: 0,0:11:52.57,0:11:55.47,Default,NTP,0,0,0,,等下 不安分一点的话 我要生气了
+Dialogue: 0,0:11:56.13,0:11:57.77,Default,NTP,0,0,0,,看那个
+Dialogue: 0,0:12:13.49,0:12:14.50,Default,NTP,0,0,0,,那个是
+Dialogue: 0,0:12:18.21,0:12:19.46,Default,NTP,0,0,0,,母亲大人
+Dialogue: 0,0:12:23.09,0:12:26.25,Default,NTP,0,0,0,,虽然不知道你为什么执意要那个男人
+Dialogue: 0,0:12:27.29,0:12:31.24,Default,NTP,0,0,0,,达不成指标的话 你可就回不了魔界了啊
+Dialogue: 0,0:12:32.11,0:12:36.40,Default,NTP,0,0,0,,你能舍弃的了么 故乡 母亲
+Dialogue: 0,0:12:42.36,0:12:42.86,Default,NTP,0,0,0,,是吗 
+Dialogue: 0,0:12:44.37,0:12:45.51,Default,NTP,0,0,0,,我走了
+Dialogue: 0,0:12:46.00,0:12:47.94,Default,NTP,0,0,0,,你就在这里等着吧
+Dialogue: 0,0:12:48.48,0:12:52.64,Default,NTP,0,0,0,,之前的事和今后的事 好好考虑一下吧
+Dialogue: 0,0:12:56.41,0:12:57.50,Default,NTP,0,0,0,,萨迪娜
+Dialogue: 0,0:13:27.18,0:13:29.76,Default,NTP,0,0,0,,啊 多亏你 帮大忙了 谢谢
+Dialogue: 0,0:13:29.76,0:13:32.98,Default,NTP,0,0,0,,我只是做了应该做的 主人 
+Dialogue: 0,0:13:32.98,0:13:35.78,Default,NTP,0,0,0,,是吗 今后也拜托了哦 莉亚
+Dialogue: 0,0:13:35.78,0:13:36.53,Default,NTP,0,0,0,,是
+Dialogue: 0,0:13:36.53,0:13:39.71,Default,NTP,0,0,0,,爸爸 妈妈 快点快点
+Dialogue: 0,0:13:39.71,0:13:41.28,Default,NTP,0,0,0,,木之美等等
+Dialogue: 0,0:13:41.28,0:13:43.24,Default,NTP,0,0,0,,快点去吧
+Dialogue: 0,0:13:43.52,0:13:46.18,Default,NTP,0,0,0,,啊呀 可不能一下跑出去啊
+Dialogue: 0,0:13:46.18,0:13:47.53,Default,NTP,0,0,0,,对不起
+Dialogue: 0,0:13:47.53,0:13:49.55,Default,NTP,0,0,0,,今天就吃好吃的东西吧
+Dialogue: 0,0:13:49.55,0:13:51.59,Default,NTP,0,0,0,,木之美 想吃蛋包饭
+Dialogue: 0,0:13:57.89,0:14:01.58,Default,NTP,0,0,0,,说不定 我们什么时候也会变成那样呢
+Dialogue: 0,0:14:02.05,0:14:06.27,Default,NTP,0,0,0,,别说傻话 人类始祖只是人类
+Dialogue: 0,0:14:06.27,0:14:10.72,Default,NTP,0,0,0,,狡猾 自私 明明胆小却又傲慢
+Dialogue: 0,0:14:10.72,0:14:13.18,Default,NTP,0,0,0,,那样的人类 为什么会和莉亚
+Dialogue: 0,0:14:14.37,0:14:15.86,Default,NTP,0,0,0,,对 对不起
+Dialogue: 0,0:14:16.53,0:14:21.59,Default,NTP,0,0,0,,那个可能如莉亚所说 人类是那种无可救药的生物
+Dialogue: 0,0:14:22.16,0:14:24.79,Default,NTP,0,0,0,,人类里面也是有好人的啊
+Dialogue: 0,0:14:24.99,0:14:28.01,Default,NTP,0,0,0,,比如 像我这样
+Dialogue: 0,0:14:29.77,0:14:31.87,Default,NTP,0,0,0,,当 当然呢 
+Dialogue: 0,0:14:33.06,0:14:35.40,Default,NTP,0,0,0,,莉亚 你今天好奇怪
+Dialogue: 0,0:14:35.94,0:14:38.81,Default,NTP,0,0,0,,怎么会 错觉 错觉
+Dialogue: 0,0:14:40.14,0:14:44.17,Default,NTP,0,0,0,,错觉 是么 错觉啊
+Dialogue: 0,0:14:44.58,0:14:48.22,Default,NTP,0,0,0,,那 稍微换个心情 莉亚陪我一起
+Dialogue: 0,0:14:48.22,0:14:49.89,Default,NTP,0,0,0,,诶 是什么
+Dialogue: 0,0:14:49.89,0:14:51.50,Default,NTP,0,0,0,,嘛 来吧 来吧
+Dialogue: 0,0:15:05.86,0:15:08.23,Default,NTP,0,0,0,,诶 竟然有这样的地方
+Dialogue: 0,0:15:08.73,0:15:12.09,Default,NTP,0,0,0,,莉亚 那个愿望还是拜托你了
+Dialogue: 0,0:15:12.09,0:15:12.97,Default,NTP,0,0,0,,诶
+Dialogue: 0,0:15:12.97,0:15:15.64,Default,NTP,0,0,0,,之前拜托你的第二个愿望
+Dialogue: 0,0:15:15.84,0:15:17.84,Default,NTP,0,0,0,,那 那个是
+Dialogue: 0,0:15:17.84,0:15:18.71,Default,NTP,0,0,0,,怎么了
+Dialogue: 0,0:15:20.66,0:15:24.34,Default,NTP,0,0,0,,对不起 主人 忘记了
+Dialogue: 0,0:15:24.54,0:15:26.70,Default,NTP,0,0,0,,嗯 忘记了啊
+Dialogue: 0,0:15:26.70,0:15:27.86,Default,NTP,0,0,0,,对不起
+Dialogue: 0,0:15:28.29,0:15:33.03,Default,NTP,0,0,0,,真了不起啊 竟然能忘记没有听过的东西
+Dialogue: 0,0:15:33.85,0:15:35.42,Default,NTP,0,0,0,,什么时候发现的 
+Dialogue: 0,0:15:35.42,0:15:36.66,Default,NTP,0,0,0,,一开始就发现了
+Dialogue: 0,0:15:36.92,0:15:40.10,Default,NTP,0,0,0,,感觉到了远超莉亚的魔力
+Dialogue: 0,0:15:40.55,0:15:43.68,Default,NTP,0,0,0,,之前给我黑焦烤蝾螈的也是你吧
+Dialogue: 0,0:15:46.76,0:15:49.88,Default,NTP,0,0,0,,没错 很敏锐呢
+Dialogue: 0,0:15:50.46,0:15:52.69,Default,NTP,0,0,0,,而且还有一个错误
+Dialogue: 0,0:15:53.84,0:15:57.36,Default,NTP,0,0,0,,真正的莉亚的话会和我同撑一把伞
+Dialogue: 0,0:15:58.06,0:16:00.39,Default,NTP,0,0,0,,来吧 现出你的真身来
+Dialogue: 0,0:16:12.24,0:16:13.26,Default,NTP,0,0,0,,莉亚在哪里 
+Dialogue: 0,0:16:13.94,0:16:15.40,Default,NTP,0,0,0,,在这里面
+Dialogue: 0,0:16:16.40,0:16:18.44,Default,NTP,0,0,0,,关在这里面
+Dialogue: 0,0:16:18.44,0:16:21.91,Default,NTP,0,0,0,,关在这莉亚绝对无法打破的结界里
+Dialogue: 0,0:16:22.38,0:16:23.10,Default,NTP,0,0,0,,诶
+Dialogue: 0,0:16:24.99,0:16:28.63,Default,NTP,0,0,0,,真蠢啊 人类怎么可能赢得了恶魔
+Dialogue: 0,0:16:28.63,0:16:29.89,Default,NTP,0,0,0,,把莉亚还给我
+Dialogue: 0,0:16:33.71,0:16:35.37,Default,NTP,0,0,0,,我不是说了吗 你赢不了我
+Dialogue: 0,0:16:38.00,0:16:39.34,Default,NTP,0,0,0,,真是这样么
+Dialogue: 0,0:16:43.00,0:16:44.29,Default,NTP,0,0,0,,嗯 这 这个是
+Dialogue: 0,0:16:48.38,0:16:52.00,Default,NTP,0,0,0,,是 驱魔用的圣灰 神圣之灰
+Dialogue: 0,0:16:52.20,0:16:56.18,Default,NTP,0,0,0,,那个的蝾螈事件之后 为了以防万一备着的
+Dialogue: 0,0:16:56.81,0:16:59.76,Default,NTP,0,0,0,,你这家伙 从哪里拿到的
+Dialogue: 0,0:16:59.76,0:17:02.33,Default,NTP,0,0,0,,我家那无良老爸是这方面专家
+Dialogue: 0,0:17:03.23,0:17:06.69,Default,NTP,0,0,0,,虽然是个无良老头 但今天还真要感谢他
+Dialogue: 0,0:17:07.61,0:17:10.06,Default,NTP,0,0,0,,快 快把莉亚还给我
+Dialogue: 0,0:17:10.51,0:17:12.71,Default,NTP,0,0,0,,你就那么想要那她吗
+Dialogue: 0,0:17:13.26,0:17:16.26,Default,NTP,0,0,0,,是呢 她有一副好身体啊
+Dialogue: 0,0:17:16.26,0:17:20.52,Default,NTP,0,0,0,,什么 你对莉亚做了什么 做了什么
+Dialogue: 0,0:17:20.52,0:17:24.01,Default,NTP,0,0,0,,哼 那么想知道的话就告诉你吧
+Dialogue: 0,0:17:35.53,0:17:37.59,Default,NTP,0,0,0,,你对莉亚做了那种事吗
+Dialogue: 0,0:17:38.20,0:17:42.03,Default,NTP,0,0,0,,真是场不错的秀啊 真想让你也看看
+Dialogue: 0,0:17:43.27,0:17:48.57,Default,NTP,0,0,0,,而且莉亚也很满意呢 那个孩子还真淫乱
+Dialogue: 0,0:17:48.57,0:17:50.55,Default,NTP,0,0,0,,你 你这混蛋
+Dialogue: 0,0:17:50.55,0:17:53.76,Default,NTP,0,0,0,,也让你尝尝和莉亚相同的遭遇
+Dialogue: 0,0:17:56.10,0:17:57.50,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:18:12.47,0:18:14.07,Default,NTP,0,0,0,,莉亚可是魔族
+Dialogue: 0,0:18:14.07,0:18:17.28,Default,NTP,0,0,0,,你认为她能和人类一起生活么
+Dialogue: 0,0:18:17.28,0:18:18.77,Default,NTP,0,0,0,,这 这个
+Dialogue: 0,0:18:18.77,0:18:24.31,Default,NTP,0,0,0,,莉亚身为魔族 留在这个人界只会遭遇不幸
+Dialogue: 0,0:18:24.93,0:18:29.39,Default,NTP,0,0,0,,魔族 莉亚必须得回到魔界才行
+Dialogue: 0,0:18:30.55,0:18:32.03,Default,NTP,0,0,0,,明白的吧
+Dialogue: 0,0:18:35.53,0:18:37.28,Default,NTP,0,0,0,,那又怎么样
+Dialogue: 0,0:18:39.79,0:18:44.71,Default,NTP,0,0,0,,把那个宝石给我 然后放了莉亚 放了她
+Dialogue: 0,0:18:50.02,0:18:51.23,Default,NTP,0,0,0,,真蠢啊 
+Dialogue: 0,0:18:51.23,0:18:55.39,Default,NTP,0,0,0,,我们可是能从交合的人类那里吸收精力的呢
+Dialogue: 0,0:18:59.65,0:19:03.59,Default,NTP,0,0,0,,而且你就那么吃我的挑衅啊
+Dialogue: 0,0:19:04.26,0:19:07.30,Default,NTP,0,0,0,,多亏你魔力也全恢复了
+Dialogue: 0,0:19:07.30,0:19:08.90,Default,NTP,0,0,0,,还得多谢你了
+Dialogue: 0,0:19:10.89,0:19:13.81,Default,NTP,0,0,0,,快 快解除和莉亚的契约
+Dialogue: 0,0:19:14.44,0:19:15.22,Default,NTP,0,0,0,,我拒绝
+Dialogue: 0,0:19:16.73,0:19:21.01,Default,NTP,0,0,0,,是吗 本不想用这种野蛮手段的
+Dialogue: 0,0:19:29.49,0:19:33.32,Default,NTP,0,0,0,,为了让莉亚自由 还有一个方法
+Dialogue: 0,0:19:34.61,0:19:39.11,Default,NTP,0,0,0,,缔结契约的人类 因为某些事故而丧命 
+Dialogue: 0,0:19:39.11,0:19:42.01,Default,NTP,0,0,0,,这份契约就自动会解除
+Dialogue: 0,0:19:42.64,0:19:47.01,Default,NTP,0,0,0,,哼哼 虽然张这样但是我也是那种运气比较好的男人
+Dialogue: 0,0:19:51.00,0:19:54.24,Default,NTP,0,0,0,,快说解除和莉亚的契约
+Dialogue: 0,0:19:54.51,0:19:56.30,Default,NTP,0,0,0,,不然的会就真的
+Dialogue: 0,0:19:56.30,0:19:58.25,Default,NTP,0,0,0,,拒绝
+Dialogue: 0,0:20:18.36,0:20:22.39,Default,NTP,0,0,0,,你能舍弃的了么 故乡 母亲
+Dialogue: 0,0:20:46.35,0:20:49.89,Default,NTP,0,0,0,,哎呀哎呀 怎么了 莉亚
+Dialogue: 0,0:20:46.35,0:20:49.89,staff,NTP,0,0,0,,女主的母亲声优是海贼王的罗宾 女主是乔巴
+Dialogue: 0,0:20:50.50,0:20:55.86,Default,NTP,0,0,0,,那个 大家都说我飞的不好
+Dialogue: 0,0:20:55.86,0:20:59.25,Default,NTP,0,0,0,,莉亚明明是盖茨伊家的人 却那么丢人
+Dialogue: 0,0:21:00.46,0:21:05.35,Default,NTP,0,0,0,,并不是飞的好看就一定能成为贵族的哦 莉亚
+Dialogue: 0,0:21:05.35,0:21:09.17,Default,NTP,0,0,0,,但是但是 我想变成和妈妈一样
+Dialogue: 0,0:21:09.72,0:21:12.73,Default,NTP,0,0,0,,你像你自己就可以了
+Dialogue: 0,0:21:12.73,0:21:18.13,Default,NTP,0,0,0,,并不是像谁 要变的比昨日的自己更加强大才是重要的
+Dialogue: 0,0:21:18.88,0:21:24.88,Default,NTP,0,0,0,,总有一天你要变成大人 要选择自己的道路
+Dialogue: 0,0:21:25.33,0:21:29.64,Default,NTP,0,0,0,,到了那时候 要听从你真正心声哦
+Dialogue: 0,0:21:42.00,0:21:43.43,Default,NTP,0,0,0,,真正的自己
+Dialogue: 0,0:21:46.86,0:21:48.71,Default,NTP,0,0,0,,按我说的做
+Dialogue: 0,0:21:48.71,0:21:50.14,Default,NTP,0,0,0,,拒绝
+Dialogue: 0,0:21:50.14,0:21:55.58,Default,NTP,0,0,0,,为什么 区区人类 为什么能忍耐到这个地步
+Dialogue: 0,0:21:58.53,0:22:00.22,Default,NTP,0,0,0,,莉亚
+Dialogue: 0,0:22:41.56,0:22:43.26,Default,NTP,0,0,0,,莉 莉亚
+Dialogue: 0,0:22:43.26,0:22:46.33,Default,NTP,0,0,0,,怎么可能打破我的结界
+Dialogue: 0,0:22:47.07,0:22:48.28,Default,NTP,0,0,0,,萨迪娜
+Dialogue: 0,0:22:48.70,0:22:50.91,Default,NTP,0,0,0,,诶 莉亚
+Dialogue: 0,0:22:51.62,0:22:54.79,Default,NTP,0,0,0,,主人 没事吧
+Dialogue: 0,0:22:55.51,0:22:58.25,Default,NTP,0,0,0,,莉亚 第二个愿望
+Dialogue: 0,0:22:59.44,0:23:00.79,Default,NTP,0,0,0,,不要离开我
+Dialogue: 0,0:23:00.79,0:23:04.66,Default,NTP,0,0,0,,答应我 绝对不要从我身边离开
+Dialogue: 0,0:23:05.52,0:23:08.37,Default,NTP,0,0,0,,这个愿望无法实现
+Dialogue: 0,0:23:09.37,0:23:12.38,Default,NTP,0,0,0,,因为你是魔族 我是人类么
+Dialogue: 0,0:23:12.38,0:23:13.46,Default,NTP,0,0,0,,不是这样 
+Dialogue: 0,0:23:13.90,0:23:16.44,Default,NTP,0,0,0,,这和第一个愿望重复了
+Dialogue: 0,0:23:16.44,0:23:21.06,Default,NTP,0,0,0,,只要不和主人解除契约 我都会留在主人身边
+Dialogue: 0,0:23:21.06,0:23:23.91,Default,NTP,0,0,0,,不管发生什么 永远
+Dialogue: 0,0:23:23.91,0:23:28.06,Default,NTP,0,0,0,,莉亚 你知道你自己在说什么
+Dialogue: 0,0:23:28.49,0:23:31.33,Default,NTP,0,0,0,,我决定了 萨迪娜
+Dialogue: 0,0:23:36.29,0:23:37.27,Default,NTP,0,0,0,,是么
+Dialogue: 0,0:24:00.82,0:24:01.88,Default,NTP,0,0,0,,萨迪娜
+Dialogue: 0,0:24:02.55,0:24:05.65,Default,NTP,0,0,0,,我们今后也一直是朋友吧
+Dialogue: 0,0:24:06.13,0:24:08.05,Default,NTP,0,0,0,,再见了 莉亚
+Dialogue: 0,0:24:10.18,0:24:14.65,Default,NTP,0,0,0,,啊 对了 最后还有一句话
+Dialogue: 0,0:24:18.55,0:24:20.37,Default,NTP,0,0,0,,要幸福哦
+Dialogue: 0,0:24:22.92,0:24:23.96,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:24:28.07,0:24:30.44,Default,NTP,0,0,0,,谢谢 萨迪娜
+Dialogue: 0,0:24:50.84,0:24:53.97,Default,NTP,0,0,0,,主人 主人 
+Dialogue: 0,0:24:54.57,0:24:57.94,Default,NTP,0,0,0,,莉亚 能不叫那个主人的称呼吗
+Dialogue: 0,0:24:57.94,0:24:59.80,Default,NTP,0,0,0,,诶 但是
+Dialogue: 0,0:25:00.29,0:25:02.25,Default,NTP,0,0,0,,第二个愿望 
+Dialogue: 0,0:25:02.25,0:25:04.05,Default,NTP,0,0,0,,叫我名字
+Dialogue: 0,0:25:04.45,0:25:07.91,Default,NTP,0,0,0,,这样的 我不行
+Dialogue: 0,0:25:08.14,0:25:09.81,Default,NTP,0,0,0,,这是我的愿望
+Dialogue: 0,0:25:10.14,0:25:12.40,Default,NTP,0,0,0,,知道我的名字吧
+Dialogue: 0,0:25:13.00,0:25:14.34,Default,NTP,0,0,0,,秀矢
+Dialogue: 0,0:25:14.34,0:25:18.46,Default,NTP,0,0,0,,嗯 听不到啊 叫清楚一点
+Dialogue: 0,0:25:19.03,0:25:22.17,Default,NTP,0,0,0,,秀矢
+Dialogue: 0,0:25:22.17,0:25:22.87,Default,NTP,0,0,0,,再叫
+Dialogue: 0,0:25:23.60,0:25:24.52,Default,NTP,0,0,0,,秀矢
+Dialogue: 0,0:25:24.52,0:25:25.36,Default,NTP,0,0,0,,再叫
+Dialogue: 0,0:25:25.67,0:25:27.00,Default,NTP,0,0,0,,秀矢
+Dialogue: 0,0:25:27.87,0:25:29.79,Default,NTP,0,0,0,,秀矢
+Dialogue: 0,0:25:32.25,0:25:34.66,Default,NTP,0,0,0,,我读了报告书
+Dialogue: 0,0:25:35.71,0:25:39.65,Default,NTP,0,0,0,,给了你难办的任务了呢
+Dialogue: 0,0:25:40.19,0:25:42.53,Default,NTP,0,0,0,,真是辛苦你了
+Dialogue: 0,0:25:42.53,0:25:45.41,Default,NTP,0,0,0,,非常感谢您的体恤
+Dialogue: 0,0:25:45.41,0:25:48.95,Default,NTP,0,0,0,,好了好了 那种场面话就算了
+Dialogue: 0,0:25:48.95,0:25:50.05,Default,NTP,0,0,0,,起来吧
+Dialogue: 0,0:25:51.76,0:25:56.41,Default,NTP,0,0,0,,婆婆大人 那样真的可以么 莉亚她
+Dialogue: 0,0:26:02.10,0:26:04.89,Default,NTP,0,0,0,,萨迪娜 和人类一样
+Dialogue: 0,0:26:04.89,0:26:07.98,Default,NTP,0,0,0,,我们魔族也有各种各样的活法
+Dialogue: 0,0:26:07.98,0:26:11.88,Default,NTP,0,0,0,,莉亚她凭自己的意志选择了这条道路
+Dialogue: 0,0:26:11.88,0:26:15.54,Default,NTP,0,0,0,,对于那样的孩子 我感到自豪哦
+Dialogue: 0,0:26:18.88,0:26:22.84,Default,NTP,0,0,0,,我的愿望就是那个孩子能得到幸福
+Dialogue: 0,0:26:22.84,0:26:25.53,Default,NTP,0,0,0,,不管在哪里
+Dialogue: 0,0:26:26.52,0:26:31.99,Default,NTP,0,0,0,,我无法释怀 莉亚她让婆婆大人你伤心
+Dialogue: 0,0:26:32.71,0:26:38.33,Default,NTP,0,0,0,,而且 我以为我们能够永远在一起的
+Dialogue: 0,0:26:38.33,0:26:39.01,Default,NTP,0,0,0,,萨迪娜
+Dialogue: 0,0:27:22.17,0:27:24.06,Default,NTP,0,0,0,,秀矢 快点啦
+Dialogue: 0,0:27:24.06,0:27:30.36,Default,NTP,0,0,0,,那个啊 就算是再难得 也不至于买这么多吧
+Dialogue: 0,0:27:30.90,0:27:33.44,Default,NTP,0,0,0,,但是 这件衣服很适合你啊
+Dialogue: 0,0:27:37.78,0:27:39.41,Default,NTP,0,0,0,,谢谢
+Dialogue: 0,0:27:42.39,0:27:43.97,Default,NTP,0,0,0,,话说 秀矢
+Dialogue: 0,0:27:43.97,0:27:44.73,Default,NTP,0,0,0,,怎么
+Dialogue: 0,0:27:45.23,0:27:47.73,Default,NTP,0,0,0,,没有第三个愿望吗
+Dialogue: 0,0:27:47.73,0:27:48.24,Default,NTP,0,0,0,,诶 
+Dialogue: 0,0:27:50.03,0:27:51.88,Default,NTP,0,0,0,,要说有也有
+Dialogue: 0,0:27:52.44,0:27:54.60,Default,NTP,0,0,0,,嘛 下次再说吧
+Dialogue: 0,0:27:55.11,0:27:56.06,Default,NTP,0,0,0,,好的

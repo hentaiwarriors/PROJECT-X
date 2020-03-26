@@ -1,0 +1,414 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,30,&H22E900E9,&HF0000000,&H00FFFFFF,&H009C6DF1,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.00,0:00:32.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}还差一点就能把\N巴斯度拉的战略重镇拿下来
+Dialogue: 0,0:00:32.93,0:00:34.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}下一步应该怎么做呢？
+Dialogue: 0,0:00:35.27,0:00:35.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}打扰了
+Dialogue: 0,0:00:36.67,0:00:37.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯？
+Dialogue: 0,0:00:37.60,0:00:40.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在村子里面找到了奇怪的东西
+Dialogue: 0,0:00:41.00,0:00:42.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯！给我看看
+Dialogue: 0,0:00:44.93,0:00:45.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是…
+Dialogue: 0,0:00:45.80,0:00:47.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是　据说这东西
+Dialogue: 0,0:00:48.07,0:00:51.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}能够召唤出怪物　还能自由的操控
+Dialogue: 0,0:00:52.33,0:00:53.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怪物的？
+Dialogue: 0,0:00:53.73,0:00:53.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是
+Dialogue: 0,0:00:54.40,0:00:57.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}做的不错　下去领赏吧
+Dialogue: 0,0:00:59.60,0:01:01.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}可以好好的利用这东西呢
+Dialogue: 0,0:01:03.37,0:01:06.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}要救出库娜\N就必须要令伊莉娜堕落
+Dialogue: 0,0:01:07.77,0:01:11.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那样的话就要利用\N那能毁灭巴斯度拉的秘密
+Dialogue: 0,0:01:12.30,0:01:16.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这么一来\N身为公主的伊莉娜也无能为力了
+Dialogue: 0,0:01:18.63,0:01:22.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这样我就能令到\N伊莉娜澈底的堕落
+Dialogue: 0,0:01:24.17,0:01:27.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜那家伙\N想看见些什么有趣的事情呢？
+Dialogue: 0,0:01:27.80,0:01:28.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘿嘿嘿
+Dialogue: 0,0:01:29.13,0:01:32.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜哇…啊…
+Dialogue: 0,0:01:32.20,0:01:36.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}想在战场上所向披靡的话　就接受我吧\N呜哇…啊…
+Dialogue: 0,0:01:36.60,0:01:37.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜哇…啊…
+Dialogue: 0,0:01:37.00,0:01:39.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这样一来　你就可以随心所欲了\N呜哇…啊…
+Dialogue: 0,0:01:39.97,0:01:41.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜哇…啊…
+Dialogue: 0,0:01:41.13,0:01:42.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}接受我吧\N呜哇…啊…
+Dialogue: 0,0:01:42.90,0:01:43.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜哇…啊…
+Dialogue: 0,0:01:44.47,0:01:46.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜　我要送点礼物给那家伙呢
+Dialogue: 0,0:01:47.57,0:01:48.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}出来吧 怪物
+Dialogue: 0,0:01:54.33,0:01:55.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}给我出来
+Dialogue: 0,0:02:03.60,0:02:07.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}姬辱 きじょく- プリンセスダブル狩り
+Dialogue: 0,0:02:08.17,0:02:12.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}第三章　姬君！！奸落
+Dialogue: 0,0:02:20.67,0:02:22.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁 那只小动物是什么？
+Dialogue: 0,0:02:23.27,0:02:24.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}给你的礼物啦！
+Dialogue: 0,0:02:24.53,0:02:28.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我想我不在的时候\N你也很寂寞的
+Dialogue: 0,0:02:29.23,0:02:32.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}少胡说八道了　谁会在意你啊
+Dialogue: 0,0:02:33.37,0:02:36.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}而且我也不需要那东西
+Dialogue: 0,0:02:36.63,0:02:38.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你讨厌小动物吗 伊莉娜？
+Dialogue: 0,0:02:39.30,0:02:41.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}重点不是讨厌不讨厌的问题
+Dialogue: 0,0:02:41.77,0:02:47.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}把小动物关起来　太过份了
+Dialogue: 0,0:02:47.23,0:02:50.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哎啊哎啊　蛮温柔的嘛
+Dialogue: 0,0:02:50.43,0:02:53.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}闭嘴　就是那样啦
+Dialogue: 0,0:02:57.57,0:03:00.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}啊嗯
+Dialogue: 0,0:03:01.63,0:03:04.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这小家伙在干什么啊 迪斯多鲁？
+Dialogue: 0,0:03:04.77,0:03:08.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}啊哈哈\N不要舔啦　好痕痒哦
+Dialogue: 0,0:03:08.70,0:03:11.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么看你也很喜欢呢
+Dialogue: 0,0:03:11.63,0:03:13.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是　是那样吗？
+Dialogue: 0,0:03:14.17,0:03:17.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么我就照顾一下这小家伙啦
+Dialogue: 0,0:03:17.90,0:03:20.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要　停下来啦！
+Dialogue: 0,0:03:21.10,0:03:21.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么？
+Dialogue: 0,0:03:26.83,0:03:27.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是什么啊？
+Dialogue: 0,0:03:29.70,0:03:30.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼
+Dialogue: 0,0:03:35.17,0:03:39.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要啊　住手\N好难受　拔出来
+Dialogue: 0,0:03:40.90,0:03:43.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁 叫它住手！
+Dialogue: 0,0:03:45.03,0:03:48.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不好意思\N这家伙不听我话的
+Dialogue: 0,0:03:49.50,0:03:53.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}而且听了你的话\N就更不可能停下来啦
+Dialogue: 0,0:03:54.23,0:03:55.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什…什么？
+Dialogue: 0,0:03:56.83,0:03:58.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要啊！！！
+Dialogue: 0,0:03:59.77,0:04:00.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼哼
+Dialogue: 0,0:04:02.23,0:04:06.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}搞什么啊　好难受\N住手　住手啊
+Dialogue: 0,0:04:09.40,0:04:11.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好痛 不要这样搞我的胸部啊！
+Dialogue: 0,0:04:17.03,0:04:19.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}住手\N这么下去…我…
+Dialogue: 0,0:04:22.37,0:04:23.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}感觉好奇怪啊
+Dialogue: 0,0:04:24.30,0:04:24.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}有什么？
+Dialogue: 0,0:04:28.07,0:04:30.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要停　有感觉了
+Dialogue: 0,0:04:35.20,0:04:36.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁 求求你了
+Dialogue: 0,0:04:36.80,0:04:38.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我…我…
+Dialogue: 0,0:04:42.53,0:04:44.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼　该是怪物行动的时候了
+Dialogue: 0,0:04:52.17,0:04:53.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这么下去　会坏掉的
+Dialogue: 0,0:04:56.10,0:04:57.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}求你了　停止吧
+Dialogue: 0,0:05:09.57,0:05:11.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好了\N让这位公主得到高潮吧
+Dialogue: 0,0:05:35.23,0:05:37.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好啦！你也该满足了吧？
+Dialogue: 0,0:05:39.53,0:05:41.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎样 感觉如何？
+Dialogue: 0,0:05:43.43,0:05:45.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么啦 不回答吗？
+Dialogue: 0,0:05:52.77,0:05:56.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}马上就上前线了\N要给你找个好对手呢！
+Dialogue: 0,0:05:57.30,0:05:58.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么对手啊！
+Dialogue: 0,0:05:59.47,0:06:01.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}老是我们两个人玩　太无聊了
+Dialogue: 0,0:06:03.13,0:06:03.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜
+Dialogue: 0,0:06:04.33,0:06:05.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}找我吗 主人？
+Dialogue: 0,0:06:08.27,0:06:12.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}啊！\N辛苦了　想找你帮忙呢
+Dialogue: 0,0:06:13.00,0:06:14.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是谁啊？
+Dialogue: 0,0:06:15.40,0:06:18.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}您好！我叫艾露娜
+Dialogue: 0,0:06:18.87,0:06:20.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜？
+Dialogue: 0,0:06:21.27,0:06:25.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}高兴吧！今天是她和你玩哦？
+Dialogue: 0,0:06:27.00,0:06:29.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么？你想怎么样？迪…
+Dialogue: 0,0:06:30.33,0:06:32.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}得罪了 伊莉娜公主
+Dialogue: 0,0:06:35.87,0:06:36.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是怎么了？
+Dialogue: 0,0:06:39.33,0:06:42.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你这女人 对我做什么了？
+Dialogue: 0,0:06:43.53,0:06:46.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了能让伊莉娜公主您快乐
+Dialogue: 0,0:06:46.40,0:06:49.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}用了个小魔法而已
+Dialogue: 0,0:06:49.73,0:06:51.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}魔法吗？
+Dialogue: 0,0:06:51.93,0:06:53.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}对！就像这样
+Dialogue: 0,0:07:01.87,0:07:03.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}让您久等了 伊莉娜公主
+Dialogue: 0,0:07:06.07,0:07:07.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你想干什么？
+Dialogue: 0,0:07:08.40,0:07:09.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜公主 得罪了
+Dialogue: 0,0:07:12.57,0:07:12.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么…
+Dialogue: 0,0:07:19.00,0:07:21.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}让你更舒服吧
+Dialogue: 0,0:07:22.80,0:07:23.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}住手啊
+Dialogue: 0,0:07:25.60,0:07:26.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么样 伊莉娜？
+Dialogue: 0,0:07:26.93,0:07:29.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜的那家伙还不错吧
+Dialogue: 0,0:07:29.93,0:07:31.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}说些什么啊！
+Dialogue: 0,0:07:34.60,0:07:36.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}舒服得闭上眼睛了吗？
+Dialogue: 0,0:07:36.70,0:07:38.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么可能啊
+Dialogue: 0,0:07:41.77,0:07:43.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜公主 我不行吗？
+Dialogue: 0,0:07:44.07,0:07:46.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜\N伊莉娜觉得不舒服的话
+Dialogue: 0,0:07:46.33,0:07:50.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你就再加把劲吧
+Dialogue: 0,0:07:51.13,0:07:52.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是 主人！
+Dialogue: 0,0:08:03.27,0:08:06.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜公主 你的技术不错呢！
+Dialogue: 0,0:08:10.07,0:08:13.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好舒服哦 再插深一点
+Dialogue: 0,0:08:16.07,0:08:19.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜 你喜欢那东西的话\N还有一根的哦
+Dialogue: 0,0:08:20.27,0:08:22.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}想要　我还想要
+Dialogue: 0,0:08:24.30,0:08:27.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜 你这是求人的态度吗？
+Dialogue: 0,0:08:28.83,0:08:29.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}请放进来吧
+Dialogue: 0,0:08:29.90,0:08:33.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪…\N把你的大家伙插进我的屁眼里吧
+Dialogue: 0,0:08:35.63,0:08:39.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}主人 这么下去的话\N伊莉娜公主就太可怜了
+Dialogue: 0,0:08:39.57,0:08:41.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你就满足一下她吧！
+Dialogue: 0,0:08:44.03,0:08:45.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}既然你都这么说了\N那就没办法啦
+Dialogue: 0,0:08:45.47,0:08:47.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我去啰 伊莉娜
+Dialogue: 0,0:08:52.76,0:08:57.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}已经去了吗？现在才开始嘛
+Dialogue: 0,0:09:00.20,0:09:01.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}又进来了
+Dialogue: 0,0:09:02.33,0:09:05.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么了 伊莉娜？\N我还没满足呢！
+Dialogue: 0,0:09:08.10,0:09:14.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好舒服啊！我…又要去了
+Dialogue: 0,0:09:14.97,0:09:17.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜 那么就两个一起来吧！
+Dialogue: 0,0:09:17.93,0:09:18.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没问题吧 艾露娜？
+Dialogue: 0,0:09:20.97,0:09:21.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的 主人！
+Dialogue: 0,0:09:24.37,0:09:27.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}射吧…尽情的射吧！
+Dialogue: 0,0:09:33.37,0:09:35.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}感觉如何 伊莉娜公主？
+Dialogue: 0,0:09:35.50,0:09:37.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我和主人的精液
+Dialogue: 0,0:09:38.57,0:09:42.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}阴道和屁眼里都灌得满满的
+Dialogue: 0,0:09:44.63,0:09:46.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我成功地令伊莉娜堕落后
+Dialogue: 0,0:09:47.23,0:09:49.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜的轻禁就能解除
+Dialogue: 0,0:09:50.27,0:09:51.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在把巴斯度拉攻陷之前
+Dialogue: 0,0:09:52.17,0:09:54.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}还是先去确认一下库娜的情况吧！
+Dialogue: 0,0:09:55.27,0:09:56.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}虽然说已经胜利在望
+Dialogue: 0,0:09:56.83,0:09:58.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是小心驶得万年船
+Dialogue: 0,0:09:58.80,0:10:00.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}万一我失败了
+Dialogue: 0,0:10:00.67,0:10:02.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么库娜\N就得一辈子被关在那里
+Dialogue: 0,0:10:03.43,0:10:05.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我到底还是很紧张这点
+Dialogue: 0,0:10:07.90,0:10:09.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}啊！大哥
+Dialogue: 0,0:10:10.10,0:10:11.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}欢迎光临
+Dialogue: 0,0:10:12.70,0:10:15.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜\N很快巴斯度拉的皇宫就要给攻陷了
+Dialogue: 0,0:10:16.40,0:10:20.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}埋藏在那里的秘宝一定能解开诅咒\N把你解救出来的
+Dialogue: 0,0:10:21.13,0:10:21.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我很开心
+Dialogue: 0,0:10:22.90,0:10:26.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不过　要大哥你放下公务来看我
+Dialogue: 0,0:10:26.30,0:10:27.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没有那回事啦
+Dialogue: 0,0:10:28.03,0:10:30.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}攻陷不过是时间上的问题而已
+Dialogue: 0,0:10:31.70,0:10:35.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我怕库娜你寂寞\N所以就赶过来看你啊
+Dialogue: 0,0:10:35.67,0:10:37.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}大哥　我好开心啊
+Dialogue: 0,0:10:38.70,0:10:41.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}有什么愿望吗？\N什么都可以的
+Dialogue: 0,0:10:41.53,0:10:42.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}只要是我能做到
+Dialogue: 0,0:10:43.97,0:10:46.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是　我会不好意思的
+Dialogue: 0,0:10:46.67,0:10:48.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}有什么不好意思　你就快点说吧
+Dialogue: 0,0:10:50.87,0:10:55.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么我就说咯\N库娜…库娜…
+Dialogue: 0,0:10:55.87,0:10:57.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}想要大哥的那个
+Dialogue: 0,0:10:58.30,0:11:01.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我忘记不了第一次那天
+Dialogue: 0,0:11:01.97,0:11:03.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么 你说什么？
+Dialogue: 0,0:11:03.67,0:11:05.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}太小声了 我听不见啊！
+Dialogue: 0,0:11:06.57,0:11:08.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不好意思　想要那个
+Dialogue: 0,0:11:09.27,0:11:11.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}原来如此\N没什么不好意思的
+Dialogue: 0,0:11:12.90,0:11:15.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我一直只顾着战斗　所以不知道
+Dialogue: 0,0:11:16.27,0:11:17.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么
+Dialogue: 0,0:11:17.07,0:11:18.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯！拜托你啦！
+Dialogue: 0,0:11:30.70,0:11:31.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}大哥
+Dialogue: 0,0:11:31.77,0:11:33.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没什么 做得不错
+Dialogue: 0,0:11:34.53,0:11:38.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘻嘻　大哥你高兴就好了
+Dialogue: 0,0:11:38.67,0:11:41.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜\N这次用你那可爱的小嘴来含吧
+Dialogue: 0,0:11:42.27,0:11:43.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我忍不住了
+Dialogue: 0,0:11:43.90,0:11:45.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}总觉得很不好意思呢
+Dialogue: 0,0:11:46.50,0:11:49.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}来吧！\N库娜你一定能做到的 来吧！
+Dialogue: 0,0:11:49.97,0:11:50.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是呢
+Dialogue: 0,0:11:53.83,0:11:57.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}对！就是那样子　慢慢的动
+Dialogue: 0,0:12:03.70,0:12:06.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}很舒服！\N要射到你的脸上了 库娜
+Dialogue: 0,0:12:07.07,0:12:07.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}可以啊
+Dialogue: 0,0:12:10.07,0:12:10.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯！出来了
+Dialogue: 0,0:12:15.63,0:12:16.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯？
+Dialogue: 0,0:12:20.33,0:12:21.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}很不错呢 库娜
+Dialogue: 0,0:12:23.30,0:12:25.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要勉强　吐出来吧
+Dialogue: 0,0:12:27.13,0:12:28.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘻嘻
+Dialogue: 0,0:12:35.77,0:12:37.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了能尽快拯救库娜
+Dialogue: 0,0:12:38.87,0:12:43.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我下定决心　要把皇宫彻底攻陷
+Dialogue: 0,0:12:45.43,0:12:50.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}然后我就确实地　把皇宫占领了
+Dialogue: 0,0:12:52.00,0:12:54.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我为了好好的招呼那三个俘虏
+Dialogue: 0,0:12:54.27,0:12:55.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}用了点力量
+Dialogue: 0,0:12:57.10,0:13:01.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那潮湿而寒冷的地下监狱
+Dialogue: 0,0:13:02.70,0:13:07.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}几百年以来\N都是监禁着那些无辜入狱的人
+Dialogue: 0,0:13:09.00,0:13:14.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那些家伙的怨恨　值得好好利用呢
+Dialogue: 0,0:13:15.47,0:13:18.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}对于巴斯度拉的那些女人来说
+Dialogue: 0,0:13:19.03,0:13:21.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是最适合不过的场所了
+Dialogue: 0,0:13:22.03,0:13:23.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯 迪斯多鲁吗？
+Dialogue: 0,0:13:24.37,0:13:25.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}真不愧是塞丝露
+Dialogue: 0,0:13:26.00,0:13:27.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}光听脚步声　就知道是我
+Dialogue: 0,0:13:28.80,0:13:30.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你这家伙想干什么？
+Dialogue: 0,0:13:31.10,0:13:33.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾伊莎皇妃　感觉还好吗？
+Dialogue: 0,0:13:33.43,0:13:37.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁是吗？\N为什么将我们…
+Dialogue: 0,0:13:38.43,0:13:42.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你把我们关在这里想干什么嘛
+Dialogue: 0,0:13:42.77,0:13:45.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}悠娜 你还是老样子呢！
+Dialogue: 0,0:13:45.80,0:13:50.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就这样在这里反抗一下吧 !\N例如使用魔法等等！
+Dialogue: 0,0:13:50.73,0:13:52.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}能办到的话还用你说！
+Dialogue: 0,0:13:53.40,0:13:54.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为那个女人的关系
+Dialogue: 0,0:13:57.00,0:13:59.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁\N我和悠娜都没有关系
+Dialogue: 0,0:13:59.20,0:14:01.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是至少把艾伊莎皇妃释放
+Dialogue: 0,0:14:01.60,0:14:03.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}难道你\N连这点慈悲之心都没有吗？
+Dialogue: 0,0:14:06.10,0:14:07.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}慈悲之心？
+Dialogue: 0,0:14:07.93,0:14:10.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了这个　我…我…
+Dialogue: 0,0:14:10.00,0:14:11.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}把身体奉献给你也没关系的
+Dialogue: 0,0:14:11.93,0:14:12.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不可以 塞丝露！
+Dialogue: 0,0:14:13.07,0:14:14.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不可以的 塞丝露！
+Dialogue: 0,0:14:14.47,0:14:16.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不值得为我们作牺牲
+Dialogue: 0,0:14:16.87,0:14:18.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不过 殿下！\N再这样下去的话…
+Dialogue: 0,0:14:19.77,0:14:22.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}塞丝露 你不能那样做
+Dialogue: 0,0:14:23.23,0:14:25.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我来 让我来
+Dialogue: 0,0:14:27.30,0:14:28.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你们
+Dialogue: 0,0:14:28.77,0:14:31.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼！真是让人感动的情景啊！
+Dialogue: 0,0:14:31.83,0:14:32.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是…\N塞丝露 还有悠娜
+Dialogue: 0,0:14:33.30,0:14:37.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你们真的认为\N你们的身体那么有价值吗？
+Dialogue: 0,0:14:38.57,0:14:39.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}混…混蛋
+Dialogue: 0,0:14:41.17,0:14:45.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁\N像你这样的人 怎么会…
+Dialogue: 0,0:14:45.77,0:14:48.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好啦！你们三个都出来吧！
+Dialogue: 0,0:14:49.30,0:14:51.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为你们准备了礼物呢！
+Dialogue: 0,0:14:55.73,0:15:00.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘿嘿嘿嘿\N希望你们在这里能得到幸福吧！
+Dialogue: 0,0:15:07.23,0:15:08.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么会这样
+Dialogue: 0,0:15:12.97,0:15:14.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}很抱歉　艾伊莎皇妃
+Dialogue: 0,0:15:15.30,0:15:17.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为我力量不够的缘故
+Dialogue: 0,0:15:17.97,0:15:21.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}可恶的人类　绝不能原谅你们
+Dialogue: 0,0:15:22.50,0:15:25.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这些家伙\N就是巴斯度拉的贵族们
+Dialogue: 0,0:15:26.63,0:15:28.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是把我们\N陷于水深火热之中的元凶
+Dialogue: 0,0:15:29.63,0:15:31.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你们想怎么回报她们\N就怎么回报吧
+Dialogue: 0,0:15:32.90,0:15:33.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}让大家看看脸孔吧
+Dialogue: 0,0:15:34.30,0:15:35.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你们这些丑陋无耻的家伙
+Dialogue: 0,0:15:36.10,0:15:37.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}住手　混蛋
+Dialogue: 0,0:15:37.60,0:15:38.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}干掉她们　干掉
+Dialogue: 0,0:15:40.20,0:15:43.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我的女儿\N就是给巴斯度拉的贵族们杀害的
+Dialogue: 0,0:15:43.90,0:15:45.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}也要她们尝尝同样的滋味
+Dialogue: 0,0:15:46.87,0:15:49.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}请住手　不要那样
+Dialogue: 0,0:15:49.80,0:15:53.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这女人可是上品\N还犹疑些什么呢？
+Dialogue: 0,0:15:55.03,0:15:57.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}（上啊 上啊）
+Dialogue: 0,0:15:57.93,0:15:59.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾伊莎皇妃
+Dialogue: 0,0:16:00.20,0:16:00.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}滚开
+Dialogue: 0,0:16:01.27,0:16:02.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼！亲卫队长
+Dialogue: 0,0:16:03.07,0:16:05.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}还不就是条母狗吗？
+Dialogue: 0,0:16:05.97,0:16:06.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}住手啊
+Dialogue: 0,0:16:06.93,0:16:08.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你们这帮混蛋想干什么嘛？
+Dialogue: 0,0:16:08.80,0:16:10.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}精灵族的女人也不要放过啊！
+Dialogue: 0,0:16:15.90,0:16:20.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}又湿又紧　和精灵干真爽呢
+Dialogue: 0,0:16:35.03,0:16:37.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}时间紧迫　我马上起程回城了
+Dialogue: 0,0:16:38.20,0:16:40.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}她们三个会变成怎样我不想知道
+Dialogue: 0,0:16:41.37,0:16:43.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}反正秘实马上就要到手
+Dialogue: 0,0:16:43.57,0:16:46.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}国家还有人命对我\N就没多少存在意义了
+Dialogue: 0,0:16:47.27,0:16:49.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}当然　遵守约定也是一样
+Dialogue: 0,0:16:52.87,0:16:55.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜…嘿…
+Dialogue: 0,0:17:05.00,0:17:06.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哦　找到了
+Dialogue: 0,0:17:07.47,0:17:09.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}然后　得到了秘宝的我
+Dialogue: 0,0:17:09.90,0:17:12.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就大模大样走向了伊莉娜的房间
+Dialogue: 0,0:17:13.30,0:17:16.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这样一来我就粉碎了\N库娜非要做圣女不可的命运了
+Dialogue: 0,0:17:17.63,0:17:20.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜　我和你约定的日子到了
+Dialogue: 0,0:17:23.57,0:17:26.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那　那是　怎么可能
+Dialogue: 0,0:17:28.83,0:17:33.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我得到秘宝的事实\N同时也宣告了巴斯度拉的失败
+Dialogue: 0,0:17:34.97,0:17:37.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}有了这皇家秘宝　就可以打破封印了
+Dialogue: 0,0:17:42.40,0:17:46.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}啊…
+Dialogue: 0,0:17:48.97,0:17:53.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这时候的嘶喊　是因为力量的解放吗？
+Dialogue: 0,0:17:58.00,0:17:59.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}完成了吗？
+Dialogue: 0,0:17:59.40,0:17:59.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的
+Dialogue: 0,0:18:00.20,0:18:01.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜　在那儿？
+Dialogue: 0,0:18:01.73,0:18:03.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}封印解除了
+Dialogue: 0,0:18:03.73,0:18:05.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜　快现身
+Dialogue: 0,0:18:06.20,0:18:09.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这下库娜大人就可以自由了
+Dialogue: 0,0:18:09.43,0:18:11.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}然后我们真正的主人
+Dialogue: 0,0:18:12.27,0:18:15.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}真正的？你在说什么 艾露娜？
+Dialogue: 0,0:18:15.97,0:18:16.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘿嘿嘿嘿
+Dialogue: 0,0:18:17.67,0:18:18.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼！
+Dialogue: 0,0:18:18.73,0:18:21.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}算了！反正已经达到目的
+Dialogue: 0,0:18:21.63,0:18:22.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那家伙就不管了
+Dialogue: 0,0:18:23.83,0:18:25.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜　我现在就来救你
+Dialogue: 0,0:18:31.37,0:18:31.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜
+Dialogue: 0,0:18:32.53,0:18:34.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}等一下　到底发生什么事情了
+Dialogue: 0,0:18:34.87,0:18:37.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不知道　我要赶去救人
+Dialogue: 0,0:18:38.13,0:18:42.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}白痴！你连想都不想\N就想把封印解除了
+Dialogue: 0,0:18:43.47,0:18:46.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}至少　把我带上
+Dialogue: 0,0:18:46.83,0:18:47.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜
+Dialogue: 0,0:18:47.97,0:18:53.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是我的任务　再次令封印生效
+Dialogue: 0,0:18:57.23,0:18:57.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哇
+Dialogue: 0,0:18:58.03,0:18:59.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}走吧　伊莉娜
+Dialogue: 0,0:19:00.67,0:19:02.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}很晃的　抓紧我
+Dialogue: 0,0:19:03.17,0:19:03.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}知道啦
+Dialogue: 0,0:19:04.77,0:19:06.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜　你要没事才好啊
+Dialogue: 0,0:19:07.77,0:19:10.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}奇怪？明明距离很近的
+Dialogue: 0,0:19:10.77,0:19:12.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么跑了那么久还没到达
+Dialogue: 0,0:19:13.53,0:19:15.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪　快到了
+Dialogue: 0,0:19:15.60,0:19:15.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}闭嘴
+Dialogue: 0,0:19:26.10,0:19:27.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}啊！那是
+Dialogue: 0,0:19:31.07,0:19:32.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那是什么怪物啊
+Dialogue: 0,0:19:33.40,0:19:35.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}开玩笑的吧
+Dialogue: 0,0:19:36.30,0:19:37.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}伊莉娜　在这等着
+Dialogue: 0,0:19:38.60,0:19:39.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是
+Dialogue: 0,0:19:40.13,0:19:41.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好啦　不要乱动
+Dialogue: 0,0:19:42.60,0:19:43.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪！！！
+Dialogue: 0,0:19:44.47,0:19:46.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那怪物把这里都破坏了
+Dialogue: 0,0:19:47.00,0:19:49.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜呢？\N库娜到底怎么样了？
+Dialogue: 0,0:19:50.00,0:19:53.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜！库娜！
+Dialogue: 0,0:19:54.50,0:19:56.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}比我预计的还要快呢
+Dialogue: 0,0:19:57.73,0:19:58.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜
+Dialogue: 0,0:19:59.00,0:20:01.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不用担心　库娜大人没事
+Dialogue: 0,0:20:03.07,0:20:05.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜 这到底是什么一回事？
+Dialogue: 0,0:20:06.07,0:20:08.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}正如阁下你所见
+Dialogue: 0,0:20:08.33,0:20:12.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}封印解除了\N库娜大人得到了解放
+Dialogue: 0,0:20:12.50,0:20:13.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就那么一回事
+Dialogue: 0,0:20:14.50,0:20:16.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那这家伙又是什么来的？
+Dialogue: 0,0:20:16.57,0:20:18.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我可没听说过会发生这种事情
+Dialogue: 0,0:20:20.37,0:20:22.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘿嘿　阁下不是说过
+Dialogue: 0,0:20:23.33,0:20:29.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}只要能救出库娜大人\N毫什么都没关系的吗？
+Dialogue: 0,0:20:30.33,0:20:32.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好吧！把库娜大人还给你
+Dialogue: 0,0:20:34.47,0:20:35.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜
+Dialogue: 0,0:20:36.27,0:20:37.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}大哥
+Dialogue: 0,0:20:37.83,0:20:39.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}感觉怎样 没有受伤吧？
+Dialogue: 0,0:20:40.90,0:20:44.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}突然间出现强光\N然后房子就倒下了
+Dialogue: 0,0:20:44.53,0:20:45.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我好害怕
+Dialogue: 0,0:20:45.50,0:20:47.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没问题 已经没问题了
+Dialogue: 0,0:20:48.37,0:20:49.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}男人
+Dialogue: 0,0:20:50.17,0:20:51.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你给我听好了
+Dialogue: 0,0:20:52.77,0:20:54.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}原来就是你啊
+Dialogue: 0,0:20:55.20,0:21:00.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}本来打算\N利用你的身体来复活的
+Dialogue: 0,0:21:01.27,0:21:07.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没想到你\N真的把秘宝给我毁掉了
+Dialogue: 0,0:21:08.07,0:21:10.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哈哈哈哈
+Dialogue: 0,0:21:10.63,0:21:11.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哼！少在胡说八道了
+Dialogue: 0,0:21:12.43,0:21:13.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就是因为你这混蛋无聊的爱好
+Dialogue: 0,0:21:13.70,0:21:16.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}搞得我没办法安心睡觉
+Dialogue: 0,0:21:18.77,0:21:19.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}愚蠢！
+Dialogue: 0,0:21:21.27,0:21:22.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呜哇
+Dialogue: 0,0:21:24.63,0:21:26.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呵呵 还没死吗？
+Dialogue: 0,0:21:26.60,0:21:29.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}真不愧是最适合的继承者呢！
+Dialogue: 0,0:21:31.10,0:21:31.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}大哥
+Dialogue: 0,0:21:32.30,0:21:33.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别来捣乱
+Dialogue: 0,0:21:35.20,0:21:36.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呃　库娜
+Dialogue: 0,0:21:37.13,0:21:37.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}净做蠢事
+Dialogue: 0,0:21:38.43,0:21:41.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别太小看我的主人了
+Dialogue: 0,0:21:41.60,0:21:42.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾露娜领命
+Dialogue: 0,0:21:43.57,0:21:48.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}把他的王国引领向黑暗吧
+Dialogue: 0,0:21:48.67,0:21:49.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}遵命
+Dialogue: 0,0:21:51.17,0:21:52.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别跑
+Dialogue: 0,0:21:53.90,0:21:55.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪 还好吗？迪！
+Dialogue: 0,0:21:57.50,0:21:57.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪 振作点！迪！
+Dialogue: 0,0:21:57.97,0:22:00.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}呃 库娜！库娜她…
+Dialogue: 0,0:22:02.00,0:22:02.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是诅咒
+Dialogue: 0,0:22:03.07,0:22:04.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜！库娜！
+Dialogue: 0,0:22:05.23,0:22:07.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜！库娜！\N求你了 睁开眼睛吧
+Dialogue: 0,0:22:08.27,0:22:11.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜！呜哇！！！\N库娜
+Dialogue: 0,0:22:11.87,0:22:13.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}库娜！！！！！！
+Dialogue: 0,0:22:14.70,0:22:15.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在那之后几天
+Dialogue: 0,0:22:16.30,0:22:18.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}世界陷入了混乱之中
+Dialogue: 0,0:22:19.20,0:22:20.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}魔王的突然复活
+Dialogue: 0,0:22:21.20,0:22:23.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}还有随之而来的怪物
+Dialogue: 0,0:22:24.23,0:22:26.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}以刚刚经历了庞大战争的国力
+Dialogue: 0,0:22:27.30,0:22:29.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}根本无法阻挡魔王的前进脚步
+Dialogue: 0,0:22:30.27,0:22:33.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就算是教团\N也在数天内被全灭了
+Dialogue: 0,0:22:35.37,0:22:36.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}照现在的情况发展下去
+Dialogue: 0,0:22:37.37,0:22:41.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}魔王占领世界只是时间问题
+Dialogue: 0,0:22:42.07,0:22:44.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}世界会陷入危机中
+Dialogue: 0,0:22:46.17,0:22:48.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}都只因为…
+Dialogue: 0,0:22:52.60,0:22:53.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯　伊莉娜
+Dialogue: 0,0:22:54.27,0:22:57.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么了 在这儿会感冒的哦！
+Dialogue: 0,0:22:57.47,0:22:58.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}今天就回去吧
+Dialogue: 0,0:22:59.20,0:23:00.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯
+Dialogue: 0,0:23:01.73,0:23:05.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}亚斯迪利亚皇都\N近期相当的麻烦
+Dialogue: 0,0:23:05.83,0:23:07.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为不断的有难民涌入
+Dialogue: 0,0:23:08.63,0:23:11.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}出现了大规模的混乱和暴动
+Dialogue: 0,0:23:11.70,0:23:13.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}还好多亏了伊莉娜的统率
+Dialogue: 0,0:23:14.17,0:23:15.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}真的要去吗？
+Dialogue: 0,0:23:15.83,0:23:18.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯！为了要解开库娜身上的诅咒
+Dialogue: 0,0:23:18.77,0:23:20.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}一定要打倒那家伙
+Dialogue: 0,0:23:21.90,0:23:23.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是吗？那样啊？
+Dialogue: 0,0:23:24.50,0:23:25.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不是想阻止你
+Dialogue: 0,0:23:26.10,0:23:29.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在你回来之前\N就由我暂时照料你妹妹和这个国家
+Dialogue: 0,0:23:30.23,0:23:31.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么 要你操心了
+Dialogue: 0,0:23:32.83,0:23:33.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要哭嘛
+Dialogue: 0,0:23:34.17,0:23:35.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是了 带上这个
+Dialogue: 0,0:23:37.43,0:23:38.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}新的符咒吗？
+Dialogue: 0,0:23:39.00,0:23:39.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}听好了
+Dialogue: 0,0:23:40.23,0:23:41.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯　知道
+Dialogue: 0,0:23:42.10,0:23:43.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}一定要活着回来
+Dialogue: 0,0:23:44.37,0:23:47.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了你妹妹 也为了我
+Dialogue: 0,0:23:48.73,0:23:49.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嗯！我答应你
+Dialogue: 0,0:23:50.40,0:23:50.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁
+Dialogue: 0,0:23:54.67,0:23:58.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多鲁 求你了\N临走前再抱抱我吧
+Dialogue: 0,0:23:58.67,0:24:00.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好吧！达成你的心愿
+Dialogue: 0,0:24:00.87,0:24:02.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我好高兴哦 迪斯多鲁
+Dialogue: 0,0:24:34.57,0:24:36.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪 不要死
+Dialogue: 0,0:24:37.40,0:24:40.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}时间是王国历 399 年　大神月
+Dialogue: 0,0:24:41.47,0:24:43.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}战斗开始了
+

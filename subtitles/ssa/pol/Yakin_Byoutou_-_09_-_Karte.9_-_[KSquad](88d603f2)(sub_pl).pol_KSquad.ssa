@@ -1,0 +1,280 @@
+﻿[Script Info]
+
+;--------------------------------------------
+;|  This is a Sub Station Alpha v4 script   |
+;|                                          |
+;| Created with MEDUSA - Subtitling Station |
+;--------------------------------------------
+
+Title: <untitled>
+Original Script: <unknown>
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,DawnCastle,35,16777215,16777215,11993088,11993088,-1,0,1,2,0,6,30,30,405,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: Marked=0,0:01:43.57,0:01:46.63,Default,NTP,0000,0000,0000,!Effect,Obecnie po odejściu ze szpitala mieszka w domu.
+Dialogue: Marked=0,0:01:47.24,0:01:49.30,Default,NTP,0000,0000,0000,!Effect,Za pół roku wychodzi za mąż.
+Dialogue: Marked=0,0:01:55.81,0:01:58.30,Default,NTP,0000,0000,0000,!Effect,Nie musicie się dalej zajmować tą sprawą...
+Dialogue: Marked=0,0:01:59.88,0:02:00.97,Default,NTP,0000,0000,0000,!Effect,Co masz na myśli?
+Dialogue: Marked=0,0:02:01.65,0:02:03.71,Default,NTP,0000,0000,0000,!Effect,Ponieważ jest córką prezesa firmy Towtac?
+Dialogue: Marked=0,0:02:04.69,0:02:06.48,Default,NTP,0000,0000,0000,!Effect,Czyżby wywierali na nas nacisk?
+Dialogue: Marked=0,0:02:07.99,0:02:10.05,Default,NTP,0000,0000,0000,!Effect,To rozkaz. Nic nie mów.
+Dialogue: Marked=0,0:02:29.01,0:02:31.07,Default,NTP,0000,0000,0000,!Effect,Zaczekaj, proszę!
+Dialogue: Marked=0,0:02:33.28,0:02:35.84,Default,NTP,0000,0000,0000,!Effect,Dlaczego? Nie każ mi dłużej czekać.
+Dialogue: Marked=0,0:02:36.15,0:02:36.81,Default,NTP,0000,0000,0000,!Effect,Ale…
+Dialogue: Marked=0,0:02:38.32,0:02:39.22,Default,NTP,0000,0000,0000,!Effect,Chodź.
+Dialogue: Marked=0,0:02:45.39,0:02:48.49,Default,NTP,0000,0000,0000,!Effect,Może nasi rodzice ustawili to małżeństwo,
+Dialogue: Marked=0,0:02:48.93,0:02:50.66,Default,NTP,0000,0000,0000,!Effect,ale ja cię kocham, Ako.
+Dialogue: Marked=0,0:02:52.13,0:02:52.86,Default,NTP,0000,0000,0000,!Effect,To dlatego…
+Dialogue: Marked=0,0:03:14.72,0:03:21.09,Default,NTP,0000,0000,0000,!Effect,Ryunosuke, naprawdę mnie kochasz?
+Dialogue: Marked=0,0:03:22.23,0:03:24.72,Default,NTP,0000,0000,0000,!Effect,O-Oczywiście.
+Dialogue: Marked=0,0:03:30.77,0:03:32.30,Default,NTP,0000,0000,0000,!Effect,Uieś biodra.
+Dialogue: Marked=0,0:03:32.61,0:03:34.51,Default,NTP,0000,0000,0000,!Effect,T-Tak?
+Dialogue: Marked=0,0:03:39.95,0:03:44.01,Default,NTP,0000,0000,0000,!Effect,Cicha woda brzegi rwie.
+Dialogue: Marked=0,0:03:45.69,0:03:48.12,Default,NTP,0000,0000,0000,!Effect,Widzę, że nasze małżeństwo będzie...
+Dialogue: Marked=0,0:03:59.97,0:04:01.44,Default,NTP,0000,0000,0000,!Effect,Z-Zaraz dojdę.
+Dialogue: Marked=0,0:04:36.81,0:04:38.80,Default,NTP,0000,0000,0000,!Effect,Ako… Kocham cię…
+Dialogue: Marked=0,0:04:38.91,0:04:41.47,Default,NTP,0000,0000,0000,!Effect,Chcę poprosić cię o przysługę.
+Dialogue: Marked=0,0:04:41.91,0:04:43.71,Default,NTP,0000,0000,0000,!Effect,Proś o co tylko zechcesz.
+Dialogue: Marked=0,0:04:45.61,0:04:47.31,Default,NTP,0000,0000,0000,!Effect,Nie masz nic przeciwko temu, byśmy zrobili to tutaj?
+Dialogue: Marked=0,0:04:48.68,0:04:54.88,Default,NTP,0000,0000,0000,!Effect,Zrobię to pierwsza, a później ty zrobisz to dla mnie.
+Dialogue: Marked=0,0:04:55.36,0:04:57.72,Default,NTP,0000,0000,0000,!Effect,P-Pewnie… Zrobimy to tutaj?
+Dialogue: Marked=0,0:04:59.33,0:05:00.42,Default,NTP,0000,0000,0000,!Effect,W porządku!
+Dialogue: Marked=0,0:05:00.60,0:05:03.19,Default,NTP,0000,0000,0000,!Effect,Więc zrobię to pierwsza.
+Dialogue: Marked=0,0:05:10.21,0:05:12.17,Default,NTP,0000,0000,0000,!Effect,Nawet słodko pierdzisz.
+Dialogue: Marked=0,0:05:14.81,0:05:16.21,Default,NTP,0000,0000,0000,!Effect,A-Ako?
+Dialogue: Marked=0,0:05:18.15,0:05:20.24,Default,NTP,0000,0000,0000,!Effect,C-Co to, do diabła, jest?
+Dialogue: Marked=0,0:05:20.88,0:05:23.04,Default,NTP,0000,0000,0000,!Effect,Teraz chcę zobaczyć, jak ty to robisz, Ryunosuke.
+Dialogue: Marked=0,0:05:23.12,0:05:24.75,Default,NTP,0000,0000,0000,!Effect,C-Co to za chory żart?
+Dialogue: Marked=0,0:05:30.09,0:05:31.79,Default,NTP,0000,0000,0000,!Effect,Mówię poważnie…
+Dialogue: Marked=0,0:05:32.43,0:05:38.30,Default,NTP,0000,0000,0000,!Effect,Moje fekalia przy twoich.
+Dialogue: Marked=0,0:05:39.03,0:05:43.23,Default,NTP,0000,0000,0000,!Effect,Myślałam, że naprawdę mnie kochasz, czyżbym się myliła?
+Dialogue: Marked=0,0:05:43.34,0:05:46.00,Default,NTP,0000,0000,0000,!Effect,A kogo to obchodzi? Ja w tym nie mam żadnego interesu!
+Dialogue: Marked=0,0:05:46.64,0:05:50.01,Default,NTP,0000,0000,0000,!Effect,Jesteś zboczona! Odwołujemy zaręczyny! To koniec!
+Dialogue: Marked=0,0:06:08.06,0:06:10.50,Default,NTP,0000,0000,0000,!Effect,{\i1}Junichiro Fujisawa{\i0}
+Dialogue: Marked=0,0:06:18.67,0:06:22.47,Default,NTP,0000,0000,0000,!Effect,Nie zgadzam się z tym, że Ako Fujisawa nie jest w to zamieszana!
+Dialogue: Marked=0,0:06:22.71,0:06:24.51,Default,NTP,0000,0000,0000,!Effect,Wiem, że naciskano na nas, ale to nie oznacza,
+Dialogue: Marked=0,0:06:24.71,0:06:26.77,Default,NTP,0000,0000,0000,!Effect,że córka prezesa wielkiej firmy farmaceutycznej
+Dialogue: Marked=0,0:06:26.88,0:06:28.04,Default,NTP,0000,0000,0000,!Effect,nie jest w to zamieszana!
+Dialogue: Marked=0,0:06:28.75,0:06:30.48,Default,NTP,0000,0000,0000,!Effect,Rozumiem, jak się czujesz.
+Dialogue: Marked=0,0:06:30.82,0:06:31.88,Default,NTP,0000,0000,0000,!Effect,Więc dlaczego?
+Dialogue: Marked=0,0:06:32.02,0:06:35.35,Default,NTP,0000,0000,0000,!Effect,To niemożliwe. Nie daj się zwieść.
+Dialogue: Marked=0,0:06:36.59,0:06:38.89,Default,NTP,0000,0000,0000,!Effect,Badaliśmy tylko sprawę,
+Dialogue: Marked=0,0:06:38.93,0:06:42.12,Default,NTP,0000,0000,0000,!Effect,zabójstwa Ryuji Hirasaki przez Ren Nanase, to wszystko.
+Dialogue: Marked=0,0:06:43.53,0:06:45.56,Default,NTP,0000,0000,0000,!Effect,Musimy jedynie ustalić motyw.
+Dialogue: Marked=0,0:06:45.80,0:06:46.46,Default,NTP,0000,0000,0000,!Effect,Ale…
+Dialogue: Marked=0,0:06:47.07,0:06:50.44,Default,NTP,0000,0000,0000,!Effect,Sprawa Remi Shinjyo wypłynęła nagle,
+Dialogue: Marked=0,0:06:50.81,0:06:52.71,Default,NTP,0000,0000,0000,!Effect,ale czy dowiedzieliśmy się czegoś nowego od Hikaru Kodamy?
+Dialogue: Marked=0,0:06:53.08,0:06:53.80,Default,NTP,0000,0000,0000,!Effect,Więc…
+Dialogue: Marked=0,0:06:55.64,0:07:00.51,Default,NTP,0000,0000,0000,!Effect,Poza tym jedyną osobą, która poznała Ryuji Hirasakę, jest Ren Nanase.
+Dialogue: Marked=0,0:07:00.68,0:07:02.45,Default,NTP,0000,0000,0000,!Effect,Wiecie, że ona jest w ciąży?
+Dialogue: Marked=0,0:07:02.52,0:07:03.54,Default,NTP,0000,0000,0000,!Effect,Co? Z kim?
+Dialogue: Marked=0,0:07:04.55,0:07:06.15,Default,NTP,0000,0000,0000,!Effect,Nie powie nam tego.
+Dialogue: Marked=0,0:07:14.56,0:07:18.62,Default,NTP,0000,0000,0000,!Effect,Zdawało mi się, że słyszałem głos panienki.
+Dialogue: Marked=0,0:07:35.68,0:07:39.45,Default,NTP,0000,0000,0000,!Effect,Dlaczego... Dlaczego to jest takie przyjemne?
+Dialogue: Marked=0,0:07:39.72,0:07:46.59,Default,NTP,0000,0000,0000,!Effect,Dlaczego... Dlaczego, doktorze?
+Dialogue: Marked=0,0:07:48.43,0:07:50.36,Default,NTP,0000,0000,0000,!Effect,Jak przyjemnie…
+Dialogue: Marked=0,0:07:50.60,0:07:54.13,Default,NTP,0000,0000,0000,!Effect,{\i1} Nie potrafisz nawet zrobić tego porządnie? {\i0}
+Dialogue: Marked=0,0:07:55.50,0:07:57.30,Default,NTP,0000,0000,0000,!Effect,{\i1} Nie chcę tego robić tak wyglądając! {\i0}
+Dialogue: Marked=0,0:07:57.34,0:08:01.83,Default,NTP,0000,0000,0000,!Effect,{\i1} Masz z tym jakiś problem? Zatem popracujmy nad tym pomysłem! {\i0}
+Dialogue: Marked=0,0:08:08.25,0:08:09.91,Default,NTP,0000,0000,0000,!Effect,No dobra, zaczynamy, Ako!
+Dialogue: Marked=0,0:08:12.09,0:08:16.99,Default,NTP,0000,0000,0000,!Effect,Au! To boli! Opuść mnie, proszę! Opuść!
+Dialogue: Marked=0,0:08:17.96,0:08:22.99,Default,NTP,0000,0000,0000,!Effect,O czym ty mówisz? To dopiero początek, Ako!
+Dialogue: Marked=0,0:08:45.25,0:08:50.09,Default,NTP,0000,0000,0000,!Effect,To boli… to boli. Zostanę pocięta na kawałki...
+Dialogue: Marked=0,0:08:50.63,0:08:52.79,Default,NTP,0000,0000,0000,!Effect,Proszę, opuść mnie! Opuść!
+Dialogue: Marked=0,0:08:52.86,0:08:55.39,Default,NTP,0000,0000,0000,!Effect,Zamknij się! Może to cię wreszcie uciszy!
+Dialogue: Marked=0,0:08:55.43,0:08:57.06,Default,NTP,0000,0000,0000,!Effect,Nie! Proszę, opuść mnie!
+Dialogue: Marked=0,0:08:57.20,0:08:57.72,Default,NTP,0000,0000,0000,!Effect,Masz!
+Dialogue: Marked=0,0:09:02.37,0:09:03.60,Default,NTP,0000,0000,0000,!Effect,Bierz!
+Dialogue: Marked=0,0:09:16.65,0:09:17.78,Default,NTP,0000,0000,0000,!Effect,I jak?
+Dialogue: Marked=0,0:09:34.24,0:09:38.50,Default,NTP,0000,0000,0000,!Effect,To boli! Nie podoba mi się to!
+Dialogue: Marked=0,0:09:38.54,0:09:41.03,Default,NTP,0000,0000,0000,!Effect,-To boli!
+Dialogue: Marked=0,0:09:38.54,0:09:41.03,Default,NTP,0000,0000,0000,!Effect,-Czekać, bo to boli?
+Dialogue: Marked=0,0:09:41.08,0:09:43.01,Default,NTP,0000,0000,0000,!Effect,To twoja wina, że nie byłaś czysta!
+Dialogue: Marked=0,0:09:44.61,0:09:45.55,Default,NTP,0000,0000,0000,!Effect,A masz!
+Dialogue: Marked=0,0:09:52.05,0:09:54.42,Default,NTP,0000,0000,0000,!Effect,I jak? Nie jest przyjemnie?
+Dialogue: Marked=0,0:09:54.46,0:09:56.72,Default,NTP,0000,0000,0000,!Effect,To boli! Zaraz rozerwie mnie na kawałki! Opuść mnie!
+Dialogue: Marked=0,0:09:56.76,0:10:00.49,Default,NTP,0000,0000,0000,!Effect,-Nie kłam! Przyjemnie ci, co?
+Dialogue: Marked=0,0:09:56.76,0:10:00.49,Default,NTP,0000,0000,0000,!Effect,-Dochodzę!
+Dialogue: Marked=0,0:10:04.00,0:10:07.49,Default,NTP,0000,0000,0000,!Effect,Spójrz na to! Było ci tak przyjemnie, że aż nie wytrzymałaś!
+Dialogue: Marked=0,0:10:22.85,0:10:25.88,Default,NTP,0000,0000,0000,!Effect,Przestań! Nie potrząsaj mną! To boli!
+Dialogue: Marked=0,0:10:26.05,0:10:31.05,Default,NTP,0000,0000,0000,!Effect,O czym ty mówisz? Właśnie doszłaś! Musi ci być przyjemnie!
+Dialogue: Marked=0,0:10:31.59,0:10:37.23,Default,NTP,0000,0000,0000,!Effect,Ale… moje ciało… rozerwie się zaraz na kawałki! Boli!
+Dialogue: Marked=0,0:10:37.43,0:10:41.37,Default,NTP,0000,0000,0000,!Effect,Co za egoistka! Powinnaś się czuć zaspokojona, ale nie chcesz,
+Dialogue: Marked=0,0:10:41.44,0:10:46.40,Default,NTP,0000,0000,0000,!Effect,bym cię wypełnił. Niezła jesteś, jak na bogatą dziewczynę!
+Dialogue: Marked=0,0:10:47.38,0:10:50.54,Default,NTP,0000,0000,0000,!Effect,Chcesz jeszcze raz dojść, co? Głupia dziwka!
+Dialogue: Marked=0,0:11:56.65,0:11:58.14,Default,NTP,0000,0000,0000,!Effect,Zaraz dojdę!
+Dialogue: Marked=0,0:11:59.61,0:12:03.88,Default,NTP,0000,0000,0000,!Effect,Ja też! Ja też! Dochodzę! Dochodzę! Dochodzę!
+Dialogue: Marked=0,0:12:08.26,0:12:09.02,Default,NTP,0000,0000,0000,!Effect,W usta!
+Dialogue: Marked=0,0:12:27.81,0:12:28.80,Default,NTP,0000,0000,0000,!Effect,Zabierz ręce.
+Dialogue: Marked=0,0:12:31.55,0:12:32.14,Default,NTP,0000,0000,0000,!Effect,Au!
+Dialogue: Marked=0,0:12:32.81,0:12:35.08,Default,NTP,0000,0000,0000,!Effect,To pali! Proszę przestać, doktorze!
+Dialogue: Marked=0,0:12:35.25,0:12:36.77,Default,NTP,0000,0000,0000,!Effect,Muszę to zdezynfekować!
+Dialogue: Marked=0,0:12:37.85,0:12:41.58,Default,NTP,0000,0000,0000,!Effect,Chcesz, by wdała się infekcja?
+Dialogue: Marked=0,0:12:41.72,0:12:42.49,Default,NTP,0000,0000,0000,!Effect,Doktorze…
+Dialogue: Marked=0,0:12:42.69,0:12:49.10,Default,NTP,0000,0000,0000,!Effect,A co, jeśli się przeziębisz, moja słodka Ako...
+Dialogue: Marked=0,0:12:49.50,0:12:50.33,Default,NTP,0000,0000,0000,!Effect,Doktorze…
+Dialogue: Marked=0,0:12:53.13,0:12:55.69,Default,NTP,0000,0000,0000,!Effect,Doktorze! Doktorze!
+Dialogue: Marked=0,0:13:05.88,0:13:07.28,Default,NTP,0000,0000,0000,!Effect,Panienko…
+Dialogue: Marked=0,0:13:13.09,0:13:15.49,Default,NTP,0000,0000,0000,!Effect,Dlaczego nie powiedziałaś nam, że byłaś w ciąży?
+Dialogue: Marked=0,0:13:17.89,0:13:21.33,Default,NTP,0000,0000,0000,!Effect,To twoje ciało, a będąc pielęgniarką nie ma mowy,
+Dialogue: Marked=0,0:13:21.36,0:13:22.59,Default,NTP,0000,0000,0000,!Effect,byś o tym nie wiedziała.
+Dialogue: Marked=0,0:13:22.90,0:13:28.60,Default,NTP,0000,0000,0000,!Effect,To może nie wyjść dziecku na dobre, więc zakończmy to śledztwo.
+Dialogue: Marked=0,0:13:30.04,0:13:30.80,Default,NTP,0000,0000,0000,!Effect,Tamtego dnia…
+Dialogue: Marked=0,0:13:32.07,0:13:36.98,Default,NTP,0000,0000,0000,!Effect,Kiedy dowiedziałam się, że jestem w ciąży, była tam również szefowa funkcjonariuszy medycznych.
+Dialogue: Marked=0,0:13:37.41,0:13:40.94,Default,NTP,0000,0000,0000,!Effect,Szefowa funkcjonariuszy medycznych? Ta, która tamtego dnia popełniła samobójstwo?
+Dialogue: Marked=0,0:13:41.38,0:13:42.75,Default,NTP,0000,0000,0000,!Effect,Wtedy Hirasaka widział jak spada z dachu?
+Dialogue: Marked=0,0:13:42.85,0:13:44.41,Default,NTP,0000,0000,0000,!Effect,Mówisz o Narumi Jinguji?
+Dialogue: Marked=0,0:13:44.59,0:13:45.88,Default,NTP,0000,0000,0000,!Effect,Po co tam była?
+Dialogue: Marked=0,0:13:46.29,0:13:46.95,Default,NTP,0000,0000,0000,!Effect,Wtedy…
+Dialogue: Marked=0,0:13:49.42,0:13:51.59,Default,NTP,0000,0000,0000,!Effect,Pierwszy raz się źle poczułam...
+Dialogue: Marked=0,0:14:36.77,0:14:40.37,Default,NTP,0000,0000,0000,!Effect,Idę dzisiaj na nockę, więc tam zostanę. A ty, Ren?
+Dialogue: Marked=0,0:14:42.11,0:14:44.48,Default,NTP,0000,0000,0000,!Effect,Posprzątam tu trochę i wrócę do akademika.
+Dialogue: Marked=0,0:14:44.58,0:14:48.14,Default,NTP,0000,0000,0000,!Effect,Rozumiem. Bardzo dziękuję, że to robisz.
+Dialogue: Marked=0,0:15:09.24,0:15:10.47,Default,NTP,0000,0000,0000,!Effect,Czy jest Hirasaka?
+Dialogue: Marked=0,0:15:17.01,0:15:17.81,Default,NTP,0000,0000,0000,!Effect,T-Ty...
+Dialogue: Marked=0,0:15:18.61,0:15:19.71,Default,NTP,0000,0000,0000,!Effect,Nic ci nie jest?
+Dialogue: Marked=0,0:15:22.18,0:15:23.58,Default,NTP,0000,0000,0000,!Effect,Nie mów, że...
+Dialogue: Marked=0,0:15:28.82,0:15:29.81,Default,NTP,0000,0000,0000,!Effect,Zaskoczyłam cię?
+Dialogue: Marked=0,0:15:30.26,0:15:30.82,Default,NTP,0000,0000,0000,!Effect,Tak.
+Dialogue: Marked=0,0:15:31.53,0:15:35.55,Default,NTP,0000,0000,0000,!Effect,Nie miałam pojęcia, że chodziła pani z doktorem Hirasaką do jednej klasy.
+Dialogue: Marked=0,0:15:36.73,0:15:37.46,Default,NTP,0000,0000,0000,!Effect,Umm…
+Dialogue: Marked=0,0:15:37.70,0:15:38.46,Default,NTP,0000,0000,0000,!Effect,O co chodzi?
+Dialogue: Marked=0,0:15:38.80,0:15:42.43,Default,NTP,0000,0000,0000,!Effect,Zastanawiałam się, jaką osobą był młody doktor Hirasaka.
+Dialogue: Marked=0,0:15:42.77,0:15:49.14,Default,NTP,0000,0000,0000,!Effect,Nic się nie zmienił. Kiedyś i teraz to dokładnie ta sama osoba.
+Dialogue: Marked=0,0:15:49.94,0:15:51.81,Default,NTP,0000,0000,0000,!Effect,Chodziliście ze sobą?
+Dialogue: Marked=0,0:15:52.45,0:15:53.44,Default,NTP,0000,0000,0000,!Effect,Z Hirasaką?
+Dialogue: Marked=0,0:15:54.82,0:15:58.58,Default,NTP,0000,0000,0000,!Effect,Oczywiście, że nie. Jest jedyny w swoim rodzaju, a ja nigdy nie potrafiłam się utrzymać.
+Dialogue: Marked=0,0:16:00.72,0:16:02.55,Default,NTP,0000,0000,0000,!Effect,A wam chyba wiedzie się dobrze.
+Dialogue: Marked=0,0:16:03.66,0:16:05.09,Default,NTP,0000,0000,0000,!Effect,Więc co chcesz zrobić?
+Dialogue: Marked=0,0:16:06.09,0:16:06.92,Default,NTP,0000,0000,0000,!Effect,Urodzisz?
+Dialogue: Marked=0,0:16:12.03,0:16:12.86,Default,NTP,0000,0000,0000,!Effect,Przepraszam.
+Dialogue: Marked=0,0:16:17.44,0:16:25.11,Default,NTP,0000,0000,0000,!Effect,Wtedy... nie miałam pojęcia, co szefowa chciała mi przekazać...
+Dialogue: Marked=0,0:16:32.95,0:16:36.91,Default,NTP,0000,0000,0000,!Effect,Doktorze... Co teraz powinnam zrobić...
+Dialogue: Marked=0,0:16:36.96,0:16:41.55,Default,NTP,0000,0000,0000,!Effect,{\i1} Rodzina Hirasaka {\i0}
+Dialogue: Marked=0,0:16:41.60,0:16:45.36,Default,NTP,0000,0000,0000,!Effect,To ty tego nie wiesz? Boże, aleś ty głupia!
+Dialogue: Marked=0,0:16:46.40,0:16:47.43,Default,NTP,0000,0000,0000,!Effect,Przepraszam…
+Dialogue: Marked=0,0:16:47.94,0:16:52.07,Default,NTP,0000,0000,0000,!Effect,Nie przepraszaj za każdym razem! Tylko dzięki twoim rodzinnym powiązaniom
+Dialogue: Marked=0,0:16:52.11,0:16:57.07,Default,NTP,0000,0000,0000,!Effect,taka dziwka jak ty może tutaj pracować! Rozumiesz?
+Dialogue: Marked=0,0:16:57.45,0:16:58.24,Default,NTP,0000,0000,0000,!Effect,Ale to...
+Dialogue: Marked=0,0:16:58.51,0:17:04.58,Default,NTP,0000,0000,0000,!Effect,Znowu zaczynasz? Tylko ty jedna tego nie rozumiesz...
+Dialogue: Marked=0,0:17:11.23,0:17:15.32,Default,NTP,0000,0000,0000,!Effect,Użyjemy tego, by naprostować myszce skłonności!
+Dialogue: Marked=0,0:17:15.93,0:17:19.96,Default,NTP,0000,0000,0000,!Effect,Będzie to również milowy krok w badaniach nad wrażliwością!
+Dialogue: Marked=0,0:17:20.54,0:17:21.40,Default,NTP,0000,0000,0000,!Effect,Ale to…
+Dialogue: Marked=0,0:17:21.44,0:17:22.23,Default,NTP,0000,0000,0000,!Effect,Zamknij się!
+Dialogue: Marked=0,0:17:22.27,0:17:25.10,Default,NTP,0000,0000,0000,!Effect,Stój! Nie rób tego! Boję się!
+Dialogue: Marked=0,0:17:25.14,0:17:30.41,Default,NTP,0000,0000,0000,!Effect,Uspokój się! Ustawiłem najniższe napięcie. Nie martw się!
+Dialogue: Marked=0,0:17:30.45,0:17:31.97,Default,NTP,0000,0000,0000,!Effect,Proszę, nie!
+Dialogue: Marked=0,0:17:32.01,0:17:33.24,Default,NTP,0000,0000,0000,!Effect,Cicho!
+Dialogue: Marked=0,0:17:38.55,0:17:43.01,Default,NTP,0000,0000,0000,!Effect,Tak jak myślałem! Przypomniałem sobie szkolny eksperyment,
+Dialogue: Marked=0,0:17:43.06,0:17:44.96,Default,NTP,0000,0000,0000,!Effect,w którym przepuszczaliśmy prąd żabie przez nogi! Tkanka twoich piersi reaguje!
+Dialogue: Marked=0,0:17:44.99,0:17:47.26,Default,NTP,0000,0000,0000,!Effect,To znaczy, że taka zgrabna dupeczka jak ty ma mięśnie!
+Dialogue: Marked=0,0:17:50.13,0:17:54.30,Default,NTP,0000,0000,0000,!Effect,Ciekawe, czy defibrylatorem można rozluźniać mięśnie.
+Dialogue: Marked=0,0:17:57.84,0:18:02.74,Default,NTP,0000,0000,0000,!Effect,To bardzo ciekawy pomysł... Wypróbujemy go?
+Dialogue: Marked=0,0:18:04.95,0:18:11.41,Default,NTP,0000,0000,0000,!Effect,Wiedziałem, że zareagujesz! Dobra! Zatem sprawmy ci więcej przyjemności!
+Dialogue: Marked=0,0:18:30.14,0:18:31.94,Default,NTP,0000,0000,0000,!Effect,Doszłaś!
+Dialogue: Marked=0,0:18:32.57,0:18:35.30,Default,NTP,0000,0000,0000,!Effect,Nie spodziewałem się takiego wyniku!
+Dialogue: Marked=0,0:18:35.91,0:18:38.71,Default,NTP,0000,0000,0000,!Effect,Założę się, że jesteś teraz całkiem wrażliwa.
+Dialogue: Marked=0,0:18:39.68,0:18:41.98,Default,NTP,0000,0000,0000,!Effect,Sprawdźmy to!
+Dialogue: Marked=0,0:18:46.96,0:18:51.45,Default,NTP,0000,0000,0000,!Effect,Teraz to jest bardzo zdrętwiał uczucie. A te sporadyczne
+Dialogue: Marked=0,0:18:51.53,0:18:56.76,Default,NTP,0000,0000,0000,!Effect,skurcze nie są wynikiem świadomych ruchów.
+Dialogue: Marked=0,0:19:41.38,0:19:42.31,Default,NTP,0000,0000,0000,!Effect,Nadchodzę!
+Dialogue: Marked=0,0:19:55.56,0:20:04.52,Default,NTP,0000,0000,0000,!Effect,Eksperyment zakończony pełnym sukcesem. Czy naprostowaliśmy cię już, Ako?
+Dialogue: Marked=0,0:20:11.74,0:20:12.30,Default,NTP,0000,0000,0000,!Effect,Hej…
+Dialogue: Marked=0,0:20:14.74,0:20:16.73,Default,NTP,0000,0000,0000,!Effect,S-Stanęło!
+Dialogue: Marked=0,0:20:22.05,0:20:25.95,Default,NTP,0000,0000,0000,!Effect,Cholera, oddychaj! Obudź się! Ako, ty idiotko!
+Dialogue: Marked=0,0:20:27.49,0:20:29.22,Default,NTP,0000,0000,0000,!Effect,Cholera! Napięcie 200!
+Dialogue: Marked=0,0:20:30.36,0:20:32.02,Default,NTP,0000,0000,0000,!Effect,S-Strzał!
+Dialogue: Marked=0,0:20:35.06,0:20:36.36,Default,NTP,0000,0000,0000,!Effect,Cholera! Znowu!
+Dialogue: Marked=0,0:20:39.03,0:20:40.40,Default,NTP,0000,0000,0000,!Effect,Cholera, jeszcze raz!
+Dialogue: Marked=0,0:20:42.60,0:20:46.04,Default,NTP,0000,0000,0000,!Effect,Hej! Obudź się, Ako!
+Dialogue: Marked=0,0:20:49.11,0:20:50.10,Default,NTP,0000,0000,0000,!Effect,Doktorze…
+Dialogue: Marked=0,0:20:56.92,0:21:01.25,Default,NTP,0000,0000,0000,!Effect,Więc, kto jest ojcem twojego dziecka?
+Dialogue: Marked=0,0:21:01.72,0:21:05.06,Default,NTP,0000,0000,0000,!Effect,Naoya Ohkawa, tak? Kochałaś się z nim, prawda?
+Dialogue: Marked=0,0:21:05.53,0:21:07.79,Default,NTP,0000,0000,0000,!Effect,To raczej niemożliwe, by był to Ryuji Hirasaka, prawda?
+Dialogue: Marked=0,0:21:09.00,0:21:11.97,Default,NTP,0000,0000,0000,!Effect,Ale, w takim razie, jesteś ofiarą gwałtu Hirasaki
+Dialogue: Marked=0,0:21:12.00,0:21:14.40,Default,NTP,0000,0000,0000,!Effect,i zaszłaś w ciążę bez swojej woli.
+Dialogue: Marked=0,0:21:15.20,0:21:16.97,Default,NTP,0000,0000,0000,!Effect,To dlatego postanowiłaś zabić Hirasakę...
+Dialogue: Marked=0,0:21:17.00,0:21:20.91,Default,NTP,0000,0000,0000,!Effect,Mylisz się! Doktor nigdy mnie nie zgwałcił!
+Dialogue: Marked=0,0:21:20.98,0:21:21.67,Default,NTP,0000,0000,0000,!Effect,Kłamiesz!
+Dialogue: Marked=0,0:21:22.21,0:21:28.24,Default,NTP,0000,0000,0000,!Effect,Nie kłamię! Ojcem mojego dziecka człowiek, którego kocham, Ryuji Hirasaka!
+Dialogue: Marked=0,0:21:29.82,0:21:32.91,Default,NTP,0000,0000,0000,!Effect,Naoya Ohkawa przysłał to przez swojego menedżera.
+Dialogue: Marked=0,0:21:33.02,0:21:34.35,Default,NTP,0000,0000,0000,!Effect,{\i1} Ja nic nie wiem. {\i0}
+Dialogue: Marked=0,0:21:35.06,0:21:38.08,Default,NTP,0000,0000,0000,!Effect,Twierdzi, że nie mamy z nim o czym rozmawiać.
+Dialogue: Marked=0,0:21:38.39,0:21:39.12,Default,NTP,0000,0000,0000,!Effect,Rozumiem…
+Dialogue: Marked=0,0:21:39.56,0:21:42.89,Default,NTP,0000,0000,0000,!Effect,Nieznany jest także powód samobójstwa Narumi Jinguji.
+Dialogue: Marked=0,0:21:43.10,0:21:46.86,Default,NTP,0000,0000,0000,!Effect,Sprawdziłam też byłych kolegów z klasy Narumi Jinguji i Ryuji Hirasaki,
+Dialogue: Marked=0,0:21:46.90,0:21:53.17,Default,NTP,0000,0000,0000,!Effect,lecz ich przyjaciele odnieśli sukcesy i o niczym nie wiedzą.
+Dialogue: Marked=0,0:22:00.92,0:22:03.54,Default,NTP,0000,0000,0000,!Effect,{\i1} Mieszkać z dziewczyną, którą wyszkoliłeś... Czyż to nie słodkie? {\i0}
+Dialogue: Marked=0,0:22:03.99,0:22:09.82,Default,NTP,0000,0000,0000,!Effect,{\i1} Twoja bezczelność nic a nic się nie zmieniła. {\i0}
+Dialogue: Marked=0,0:22:21.10,0:22:24.59,Default,NTP,0000,0000,0000,!Effect,Mamy zgodzę na przyjęcie. Chcesz przyjść, Hirasaka?
+Dialogue: Marked=0,0:22:24.97,0:22:26.63,Default,NTP,0000,0000,0000,!Effect,Możemy się też wszyscy poznać.
+Dialogue: Marked=0,0:22:34.05,0:22:38.14,Default,NTP,0000,0000,0000,!Effect,By zostać lekarzami, nie możemy ciągle się uczyć.
+Dialogue: Marked=0,0:22:38.52,0:22:42.05,Default,NTP,0000,0000,0000,!Effect,Wreszcie skończyliśmy egzaminy wstępne, więc się nieco zabawmy.
+Dialogue: Marked=0,0:22:42.12,0:22:43.02,Default,NTP,0000,0000,0000,!Effect,S-Skończ już!
+Dialogue: Marked=0,0:22:44.59,0:22:46.42,Default,NTP,0000,0000,0000,!Effect,Och… myślę, że zdam.
+Dialogue: Marked=0,0:22:47.09,0:22:50.76,Default,NTP,0000,0000,0000,!Effect,Może innym razem.
+Dialogue: Marked=0,0:22:58.81,0:23:01.60,Default,NTP,0000,0000,0000,!Effect,{\i1} To było nasze pierwsze spotkanie. {\i0}
+Dialogue: Marked=0,0:23:04.35,0:23:07.28,Default,NTP,0000,0000,0000,!Effect,{\i1} Był dziwnym facetem. Myślałam, że... {\i0}
+Dialogue: Marked=0,0:23:07.75,0:23:09.98,Default,NTP,0000,0000,0000,!Effect,{\i1} Lecz z jakichś powodów nie mogłam przestać o nim myśleć. {\i0}
+Dialogue: Marked=0,0:23:12.49,0:23:15.42,Default,NTP,0000,0000,0000,!Effect,{\i1} Hirasaka nie był jak inni idioci przychodzący do szkoły, {\i0}
+Dialogue: Marked=0,0:23:15.46,0:23:17.98,Default,NTP,0000,0000,0000,!Effect,{\i1} by zostać wiejskimi lekarzami, bądź przejąć rodzinny interes. {\i0}
+Dialogue: Marked=0,0:23:18.43,0:23:22.52,Default,NTP,0000,0000,0000,!Effect,{\i1} Pomału coraz bardziej się nim interesowałam. {\i0}
+Dialogue: Marked=0,0:23:23.80,0:23:26.29,Default,NTP,0000,0000,0000,!Effect,Dobra. A teraz patrzcie uważnie!
+Dialogue: Marked=0,0:23:27.07,0:23:29.97,Default,NTP,0000,0000,0000,!Effect,To, a potem to.
+Dialogue: Marked=0,0:23:41.42,0:23:45.44,Default,NTP,0000,0000,0000,!Effect,{\i1} On z całego serca chciał zostać lekarzem. {\i0}
+Dialogue: Marked=0,0:23:47.96,0:23:50.98,Default,NTP,0000,0000,0000,!Effect,Dlaczego postanowiłeś zostać lekarzem, Hirasaka?
+Dialogue: Marked=0,0:23:51.03,0:23:52.36,Default,NTP,0000,0000,0000,!Effect,A szczególnie ginekologiem...
+Dialogue: Marked=0,0:23:52.79,0:23:54.45,Default,NTP,0000,0000,0000,!Effect,Czemu o to pytasz?
+Dialogue: Marked=0,0:23:54.83,0:23:58.60,Default,NTP,0000,0000,0000,!Effect,Tak tylko się pytam. Pewnie dlatego, że lubisz kobiety!
+Dialogue: Marked=0,0:23:59.13,0:24:00.26,Default,NTP,0000,0000,0000,!Effect,Kocham je.
+Dialogue: Marked=0,0:24:00.64,0:24:01.53,Default,NTP,0000,0000,0000,!Effect,Wiedziałam.
+Dialogue: Marked=0,0:24:01.87,0:24:04.20,Default,NTP,0000,0000,0000,!Effect,Bardzo je szanuję.
+Dialogue: Marked=0,0:24:05.01,0:24:08.17,Default,NTP,0000,0000,0000,!Effect,Ponieważ wszyscy ludzie rodzą się z kobiety.
+Dialogue: Marked=0,0:24:08.61,0:24:11.13,Default,NTP,0000,0000,0000,!Effect,To kobiety tworzyły historię ludzkości.
+Dialogue: Marked=0,0:24:11.88,0:24:17.51,Default,NTP,0000,0000,0000,!Effect,Przeraża mnie tajemnica kobiecej zdolności tworzenia.
+Dialogue: Marked=0,0:24:18.65,0:24:21.68,Default,NTP,0000,0000,0000,!Effect,Takie kobiety musimy obdarzać wielkim szacunkiem.
+Dialogue: Marked=0,0:24:22.06,0:24:24.18,Default,NTP,0000,0000,0000,!Effect,Dlatego wybrałem ginekologię.
+Dialogue: Marked=0,0:24:24.99,0:24:27.93,Default,NTP,0000,0000,0000,!Effect,Rozumiem. Przepraszam, nie chciałam cię drażnić.
+Dialogue: Marked=0,0:24:28.63,0:24:32.59,Default,NTP,0000,0000,0000,!Effect,Nie sądziłam, że sporo o tym myślałeś, Hirasaka.
+Dialogue: Marked=0,0:24:36.14,0:24:37.30,Default,NTP,0000,0000,0000,!Effect,Chyba skoczyła z dachu!
+Dialogue: Marked=0,0:24:37.44,0:24:38.60,Default,NTP,0000,0000,0000,!Effect,Żyje?
+Dialogue: Marked=0,0:24:40.01,0:24:40.91,Default,NTP,0000,0000,0000,!Effect,Hirasaka!
+Dialogue: Marked=0,0:24:43.68,0:24:47.27,Default,NTP,0000,0000,0000,!Effect,Słyszysz mnie? Niech ktoś wezwie pogotowie!
+Dialogue: Marked=0,0:24:47.65,0:24:48.95,Default,NTP,0000,0000,0000,!Effect,Hej, nic ci nie jest?
+Dialogue: Marked=0,0:24:49.35,0:24:51.55,Default,NTP,0000,0000,0000,!Effect,{\i1} Nic nie mogłam zrobić... {\i0}
+Dialogue: Marked=0,0:24:58.89,0:25:03.13,Default,NTP,0000,0000,0000,!Effect,Idiotka... Rzucić się z dachu przed urodzeniem dziecka...
+Dialogue: Marked=0,0:25:03.53,0:25:08.73,Default,NTP,0000,0000,0000,!Effect,po cudownym połączeniu męskiego nasienia i kobiecego jajeczka...
+Dialogue: Marked=0,0:25:09.27,0:25:11.83,Default,NTP,0000,0000,0000,!Effect,{\i1} Nieważne jak wyglądał, myślałam, że jest miłą osobą, {\i0}
+Dialogue: Marked=0,0:25:11.87,0:25:15.71,Default,NTP,0000,0000,0000,!Effect,{\i1} która naprawdę powinna zostać lekarzem i szczerze go szanowałam. {\i0}
+Dialogue: Marked=0,0:25:16.81,0:25:20.94,Default,NTP,0000,0000,0000,!Effect,{\i1} Nawet później Hirasaka nigdy nie pokazywał się na studenckich imprezach, {\i0}
+Dialogue: Marked=0,0:25:20.98,0:25:22.47,Default,NTP,0000,0000,0000,!Effect,{\i1} i ciągle się uczył. {\i0}
+Dialogue: Marked=0,0:25:23.22,0:25:27.15,Default,NTP,0000,0000,0000,!Effect,{\i1} Nawet na praktykach byłam z Hirasaką. {\i0}
+Dialogue: Marked=0,0:25:28.59,0:25:32.55,Default,NTP,0000,0000,0000,!Effect,{\i1} Może był to zbieg okoliczności, a może przeznaczenie... {\i0}
+Dialogue: Marked=0,0:25:39.03,0:25:40.02,Default,NTP,0000,0000,0000,!Effect,Za dobrą robotę.
+Dialogue: Marked=0,0:25:45.41,0:25:48.64,Default,NTP,0000,0000,0000,!Effect,Jestem kompletnie wykończona. A ty, Hirasaka?
+Dialogue: Marked=0,0:25:49.04,0:25:54.68,Default,NTP,0000,0000,0000,!Effect,Czuję się bardzo dobrze. Najlepiej jest być kształtowanym przez doświadczenie.
+Dialogue: Marked=0,0:25:55.28,0:25:57.75,Default,NTP,0000,0000,0000,!Effect,Jak twoje badania? Jakieś postępy?
+Dialogue: Marked=0,0:25:57.89,0:26:01.65,Default,NTP,0000,0000,0000,!Effect,Skupiam się na charakterystycznych objawach infekcji, co jest ciekawe,
+Dialogue: Marked=0,0:26:03.29,0:26:08.13,Default,NTP,0000,0000,0000,!Effect,ale wkrótce zamierzam przeprowadzić inny ostateczny eksperyment.
+Dialogue: Marked=0,0:26:08.53,0:26:11.86,Default,NTP,0000,0000,0000,!Effect,Ostateczny eksperyment? Zabawnie brzmi.
+Dialogue: Marked=0,0:26:12.23,0:26:14.90,Default,NTP,0000,0000,0000,!Effect,Byłoby fajnie, gdybyś mi pomogła.
+Dialogue: Marked=0,0:26:15.20,0:26:17.90,Default,NTP,0000,0000,0000,!Effect,Oczywiście, zawsze do usług.
+Dialogue: Marked=0,0:26:18.34,0:26:20.00,Default,NTP,0000,0000,0000,!Effect,Dzięki, doceniam to.
+Dialogue: Marked=0,0:26:33.72,0:26:37.25,Default,NTP,0000,0000,0000,!Effect,{\i1} Ta noc była punktem zwrotnym, który zaważył na reszcie mojego życia... {\i0}

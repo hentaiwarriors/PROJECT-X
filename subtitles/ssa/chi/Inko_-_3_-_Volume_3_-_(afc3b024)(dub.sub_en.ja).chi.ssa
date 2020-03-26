@@ -1,0 +1,106 @@
+﻿[Script Info]
+; This is a Sub Station Alpha v4 script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Note: This file was saved by Subresync.
+; 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Simhei,20,&Hffffff,&H00ffff,&H000000,&H000000,-1,0,1,2,0,2,20,20,25,0,136
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: Marked=0,0:00:46.05,0:00:47.35,Default,,0000,0000,0000,,店...店长！？
+Dialogue: Marked=0,0:00:59.45,0:01:03.68,Default,,0000,0000,0000,,这可是分土豆的练习喔
+Dialogue: Marked=0,0:01:05.86,0:01:06.98,Default,,0000,0000,0000,,好烫...
+Dialogue: Marked=0,0:01:13.15,0:01:13.83,Default,,0000,0000,0000,,讨厌！
+Dialogue: Marked=0,0:01:15.46,0:01:19.47,Default,,0000,0000,0000,,听好了，就这样老实点\N不要把商品打翻了
+Dialogue: Marked=0,0:01:20.82,0:01:22.68,Default,,0000,0000,0000,,好烫...好烫啊
+Dialogue: Marked=0,0:01:23.55,0:01:26.33,Default,,0000,0000,0000,,所以说乱动会把东西打翻的
+Dialogue: Marked=0,0:01:27.45,0:01:30.21,Default,,0000,0000,0000,,我要做什么好呢？
+Dialogue: Marked=0,0:01:30.21,0:01:33.70,Default,,0000,0000,0000,,接下来...玲奈是前辈啊
+Dialogue: Marked=0,0:01:33.70,0:01:37.59,Default,,0000,0000,0000,,那就来点有难度的练习好了
+Dialogue: Marked=0,0:01:38.44,0:01:42.69,Default,,0000,0000,0000,,你把人家弄痛了啦！\N要用小费来补偿哦
+Dialogue: Marked=0,0:01:43.49,0:01:47.12,Default,,0000,0000,0000,,没问题啦\N只要后面有剩下的就没问题
+Dialogue: Marked=0,0:01:50.03,0:01:52.42,Default,,0000,0000,0000,,本店的薯条真是受欢迎啊
+Dialogue: Marked=0,0:01:53.40,0:01:55.80,Default,,0000,0000,0000,,不抓紧一点是不行的哦
+Dialogue: Marked=0,0:01:57.68,0:02:00.42,Default,,0000,0000,0000,,不要这样，要掉了
+Dialogue: Marked=0,0:02:00.42,0:02:04.40,Default,,0000,0000,0000,,不行吗？我还以为这样不错
+Dialogue: Marked=0,0:02:04.40,0:02:07.08,Default,,0000,0000,0000,,这么做怎么可能！
+Dialogue: Marked=0,0:02:07.66,0:02:09.27,Default,,0000,0000,0000,,那就没办法了
+Dialogue: Marked=0,0:02:20.85,0:02:23.65,Default,,0000,0000,0000,,讨厌，薯条也进去了！
+Dialogue: Marked=0,0:02:23.65,0:02:26.78,Default,,0000,0000,0000,,对玲奈来说不是很好吗？\N全部拉出来就好了
+Dialogue: Marked=0,0:02:26.78,0:02:27.90,Default,,0000,0000,0000,,不要！
+Dialogue: Marked=0,0:02:27.90,0:02:30.31,Default,,0000,0000,0000,,跟男人这么做不是很好吗？
+Dialogue: Marked=0,0:02:31.20,0:02:34.60,Default,,0000,0000,0000,,是吧，彩夏？\N你也是这么认为吧？
+Dialogue: Marked=0,0:02:34.81,0:02:38.48,Default,,0000,0000,0000,,不要这么说，彩夏很讨厌男人的
+Dialogue: Marked=0,0:02:38.48,0:02:41.61,Default,,0000,0000,0000,,真的吗？\N所以我才要跟你玩啊？
+Dialogue: Marked=0,0:02:43.08,0:02:45.62,Default,,0000,0000,0000,,讨厌男人真是浪费
+Dialogue: Marked=0,0:02:46.45,0:02:47.44,Default,,0000,0000,0000,,烫！
+Dialogue: Marked=0,0:02:48.43,0:02:53.50,Default,,0000,0000,0000,,不行，屁眼是要给阿胜的\N其他人都不行
+Dialogue: Marked=0,0:02:59.07,0:03:01.35,Default,,0000,0000,0000,,哦，阿胜啊
+Dialogue: Marked=0,0:03:01.35,0:03:04.78,Default,,0000,0000,0000,,不就是那个足球部的？
+Dialogue: Marked=0,0:03:13.80,0:03:16.60,Default,,0000,0000,0000,,哼，这么说来还是我的后辈嘛
+Dialogue: Marked=0,0:03:16.60,0:03:20.50,Default,,0000,0000,0000,,的确是在去年夏天\N在我这里打工的
+Dialogue: Marked=0,0:03:25.54,0:03:26.89,Default,,0000,0000,0000,,玲奈
+Dialogue: Marked=0,0:03:53.89,0:03:55.86,Default,,0000,0000,0000,,喂，是我
+Dialogue: Marked=0,0:03:56.64,0:03:58.73,Default,,0000,0000,0000,,哟？现在在干嘛啊？
+Dialogue: Marked=0,0:04:00.01,0:04:01.54,Default,,0000,0000,0000,,现在有空来这里了
+Dialogue: Marked=0,0:04:03.55,0:04:07.66,Default,,0000,0000,0000,,知道我的店在哪吗？\N那我在顶楼等你了
+Dialogue: Marked=0,0:04:10.06,0:04:12.50,Default,,0000,0000,0000,,讨厌！你叫谁过来了？
+Dialogue: Marked=0,0:04:13.01,0:04:14.88,Default,,0000,0000,0000,,没什么，你等一下就知道了
+Dialogue: Marked=0,0:04:34.86,0:04:37.96,Default,,0000,0000,0000,,学长...有事吗？
+Dialogue: Marked=0,0:04:38.68,0:04:42.54,Default,,0000,0000,0000,,现在这两个人正在接受教育呢
+Dialogue: Marked=0,0:04:43.09,0:04:48.09,Default,,0000,0000,0000,,我一个人可能有点忙不过来\N所以就叫你来帮忙了
+Dialogue: Marked=0,0:04:51.18,0:04:53.29,Default,,0000,0000,0000,,好了，有新的客人来了！
+Dialogue: Marked=0,0:04:54.17,0:04:55.51,Default,,0000,0000,0000,,欢迎光临
+Dialogue: Marked=0,0:04:55.51,0:04:57.26,Default,,0000,0000,0000,,欢...欢迎光临
+Dialogue: Marked=0,0:05:02.17,0:05:04.38,Default,,0000,0000,0000,,店...店长，我...
+Dialogue: Marked=0,0:05:04.75,0:05:07.22,Default,,0000,0000,0000,,你没有选择客人的权利！！
+Dialogue: Marked=0,0:05:08.80,0:05:09.32,Default,,0000,0000,0000,,来吧
+Dialogue: Marked=0,0:05:10.03,0:05:11.15,Default,,0000,0000,0000,,是...
+Dialogue: Marked=0,0:05:14.40,0:05:19.31,Default,,0000,0000,0000,,客人，感觉还舒服吗？
+Dialogue: Marked=0,0:05:20.05,0:05:22.02,Default,,0000,0000,0000,,很好...非常好
+Dialogue: Marked=0,0:05:22.02,0:05:24.41,Default,,0000,0000,0000,,非...非常感谢
+Dialogue: Marked=0,0:05:32.89,0:05:35.50,Default,,0000,0000,0000,,嗯...看来练习有成果了
+Dialogue: Marked=0,0:05:37.27,0:05:41.08,Default,,0000,0000,0000,,不管是面对怎样的客人\N一定要拿出真心来服侍客人
+Dialogue: Marked=0,0:05:41.08,0:05:44.00,Default,,0000,0000,0000,,这就是接待客人的准则啊！
+Dialogue: Marked=0,0:05:49.78,0:05:54.06,Default,,0000,0000,0000,,那么，现在就是给努力的人\N奖励的时候了
+Dialogue: Marked=0,0:05:55.50,0:05:56.39,Default,,0000,0000,0000,,彩夏！？
+Dialogue: Marked=0,0:05:57.99,0:05:59.37,Default,,0000,0000,0000,,阿胜！！
+Dialogue: Marked=0,0:06:10.39,0:06:11.42,Default,,0000,0000,0000,,彩夏...
+Dialogue: Marked=0,0:06:11.42,0:06:12.62,Default,,0000,0000,0000,,阿...胜
+Dialogue: Marked=0,0:06:23.30,0:06:25.74,Default,,0000,0000,0000,,可以吗，我要插进去了，彩夏？
+Dialogue: Marked=0,0:06:25.74,0:06:27.69,Default,,0000,0000,0000,,好，阿胜
+Dialogue: Marked=0,0:06:30.48,0:06:32.78,Default,,0000,0000,0000,,彩夏，好厉害啊
+Dialogue: Marked=0,0:06:32.78,0:06:36.99,Default,,0000,0000,0000,,喜欢...喜欢...好喜欢你，阿胜
+Dialogue: Marked=0,0:06:36.99,0:06:38.34,Default,,0000,0000,0000,,有感觉了
+Dialogue: Marked=0,0:06:38.34,0:06:39.92,Default,,0000,0000,0000,,好紧啊！
+Dialogue: Marked=0,0:06:41.38,0:06:44.19,Default,,0000,0000,0000,,彩夏居然会这么淫荡
+Dialogue: Marked=0,0:06:44.97,0:06:46.83,Default,,0000,0000,0000,,-怎样，不甘心吗？\N-没那回事
+Dialogue: Marked=0,0:06:47.07,0:06:48.15,Default,,0000,0000,0000,,阿胜
+Dialogue: Marked=0,0:07:47.71,0:07:53.82,Default,,0000,0000,0000,,店长，昨天的事你还没有\N用名牌手提包补偿我呢
+Dialogue: Marked=0,0:07:56.17,0:07:59.19,Default,,0000,0000,0000,,而且从那之后一直\N都是现在这个样子
+Dialogue: Marked=0,0:07:59.19,0:08:02.30,Default,,0000,0000,0000,,手提包不行，那太贵了
+Dialogue: Marked=0,0:08:02.30,0:08:04.11,Default,,0000,0000,0000,,那用什么好呢？
+Dialogue: Marked=0,0:08:04.11,0:08:06.03,Default,,0000,0000,0000,,我请你吃拉面好了
+Dialogue: Marked=0,0:08:06.03,0:08:08.38,Default,,0000,0000,0000,,□，真小气！！
+Dialogue: Marked=0,0:08:08.54,0:08:11.20,Default,,0000,0000,0000,,话说回来，阿胜他们在做什么？
+Dialogue: Marked=0,0:08:16.59,0:08:19.98,Default,,0000,0000,0000,,他们正在某个没人地方亲热呢
+Dialogue: Marked=0,0:08:28.08,0:08:28.81,Default,,0000,0000,0000,,是这样吗？
+Dialogue: Marked=0,0:08:30.01,0:08:32.56,Default,,0000,0000,0000,,事的，再用力一点
+Dialogue: Marked=0,0:08:33.61,0:08:36.00,Default,,0000,0000,0000,,很好，阿胜！
+Dialogue: Marked=0,0:08:36.00,0:08:40.41,Default,,0000,0000,0000,,彩夏，多谢学长教我
+Dialogue: Marked=0,0:08:54.99,0:08:57.20,Default,,0000,0000,0000,,我最喜欢做爱了！
+Dialogue: Marked=0,0:09:08.25,0:09:10.96,Default,,0000,0000,0000,,好棒...店长
+Dialogue: Marked=0,0:09:13.25,0:09:16.51,Default,,0000,0000,0000,,我快不行了

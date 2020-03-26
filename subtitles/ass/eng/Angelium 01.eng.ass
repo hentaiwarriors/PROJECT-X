@@ -1,0 +1,395 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AN_Main,Nimrod,30,&H00F3F6F3,&H00000000,&H00786056,&H00DBC1B5,1,0,0,0,100,100,0,0,1,2,1,2,20,20,20,0
+Style: AN_Intro,Ottawa Bold,30,&H00FFFFFF,&H00000000,&HD0FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,190,0
+Style: AN_BikiB,Arial,36,&H00354FD3,&H00000000,&H80354FD3,&H00D8CCF7,1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,0
+Style: AN_BikiW,Cutting Corners,48,&H00FCFEFE,&H00000000,&H00FFFFFF,&H00545976,0,0,0,0,100,100,3,13,1,0,3,2,20,20,20,0
+Style: AN_BikiR,Cutting Corners,48,&H00203FDB,&H00000000,&H00F0F2FE,&H00203FDB,0,0,0,0,100,100,3,19,1,3,1,2,20,20,20,0
+Style: AN_BikiP1,Cutting Corners,48,&H0068156F,&H00000000,&H0066156D,&H80000000,0,0,0,0,100,100,3,16,1,1,4,2,20,20,20,0
+Style: AN_BikiP2,Cutting Corners,48,&H0068156F,&H00000000,&H0066156D,&H80000000,0,0,0,0,100,100,3,-6,1,1,4,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:15.40,0:00:18.05,AN_Intro,,0000,0000,0000,,{\fad(1000,470)}Before the beginning...
+Dialogue: 0,0:00:18.05,0:00:20.67,AN_Intro,,0000,0000,0000,,{\fad(470,300)}...there was no light or shadow...
+Dialogue: 0,0:00:20.70,0:00:24.20,AN_Intro,,0000,0000,0000,,{\fad(250,710)}...even time didn't exist.
+Dialogue: 0,0:00:25.34,0:00:27.41,AN_Intro,,0000,0000,0000,,{\fad(300,390)}In the beginning of everything...
+Dialogue: 0,0:00:27.51,0:00:33.00,AN_Intro,,0000,0000,0000,,{\fad(290,1200)}...there was chaos.
+Dialogue: 0,0:01:27.65,0:01:28.84,AN_Main,,0000,0000,0000,,{\be1}Lord Zeus?
+Dialogue: 0,0:01:29.38,0:01:30.87,AN_Main,,0000,0000,0000,,{\be1}Lord Zeus?
+Dialogue: 0,0:01:31.02,0:01:32.78,AN_Main,,0000,0000,0000,,{\be1}Lord Zeus?
+Dialogue: 0,0:01:37.09,0:01:38.39,AN_Main,,0000,0000,0000,,{\be1}That Hera...
+Dialogue: 0,0:01:38.56,0:01:42.52,AN_Main,,0000,0000,0000,,{\be1}She slapped me really hard... Does she want to kill me?
+Dialogue: 0,0:01:42.66,0:01:45.22,AN_Main,,0000,0000,0000,,{\be1}Aww, you got a big booboo, poor Zeu-chu.
+Dialogue: 0,0:01:45.33,0:01:47.43,AN_Main,,0000,0000,0000,,{\be1}I was so close...
+Dialogue: 0,0:01:49.10,0:01:51.80,AN_Main,,0000,0000,0000,,{\be1}Fella caught you cheating again?
+Dialogue: 0,0:01:51.94,0:01:54.64,AN_Main,,0000,0000,0000,,{\be1}Oshime, how many times do I have to tell you?
+Dialogue: 0,0:01:54.91,0:01:56.84,AN_Main,,0000,0000,0000,,{\be1}Her name is Hera, not Fella.
+Dialogue: 0,0:01:57.38,0:01:59.40,AN_Main,,0000,0000,0000,,{\be1}I don't even want to mention her name right now...
+Dialogue: 0,0:02:00.05,0:02:02.92,AN_Main,,0000,0000,0000,,{\be1}You should stop having affairs in Heaven.
+Dialogue: 0,0:02:03.22,0:02:07.71,AN_Main,,0000,0000,0000,,{\be1}You're always using your divine powers to hit on angels...
+Dialogue: 0,0:02:07.89,0:02:10.41,AN_Main,,0000,0000,0000,,{\be1}...of course Fella will find out...
+Dialogue: 0,0:02:11.03,0:02:13.05,AN_Main,,0000,0000,0000,,{\be1}You shut your mouth!
+Dialogue: 0,0:02:13.26,0:02:16.70,AN_Main,,0000,0000,0000,,{\be1}How can I get close to young, sexy angels and...
+Dialogue: 0,0:02:16.80,0:02:20.56,AN_Main,,0000,0000,0000,,{\be1}...do all sorts of naughty things without Hera finding out?
+Dialogue: 0,0:02:20.67,0:02:23.23,AN_Main,,0000,0000,0000,,{\be1}Oh, I want to do it! I want to do it!
+Dialogue: 0,0:02:23.34,0:02:25.57,AN_Main,,0000,0000,0000,,{\be1}I want to do it with young angels!
+Dialogue: 0,0:02:26.01,0:02:31.54,AN_Main,,0000,0000,0000,,{\be1}I want to do it!
+Dialogue: 0,0:02:31.71,0:02:35.01,AN_Main,,0000,0000,0000,,{\be1}L-Lord Zeus, you might want to keep your voice down.
+Dialogue: 0,0:02:35.12,0:02:37.24,AN_Main,,0000,0000,0000,,{\be1}Everyone in Heaven will hear you.
+Dialogue: 0,0:02:37.39,0:02:39.58,AN_Main,,0000,0000,0000,,{\be1}Oh, it's the Chief Angel.
+Dialogue: 0,0:02:39.72,0:02:42.16,AN_Main,,0000,0000,0000,,{\be1}I've been looking all over Heaven for you.
+Dialogue: 0,0:02:42.32,0:02:44.99,AN_Main,,0000,0000,0000,,{\be1}This is a divine palace...
+Dialogue: 0,0:02:45.13,0:02:48.56,AN_Main,,0000,0000,0000,,{\be1}...you should watch your mouth and try to behave yourself.
+Dialogue: 0,0:02:48.73,0:02:49.46,AN_Main,,0000,0000,0000,,{\be1}Shut up!
+Dialogue: 0,0:02:49.56,0:02:50.76,AN_Main,,0000,0000,0000,,{\be1}Lord Zeus!
+Dialogue: 0,0:02:51.90,0:02:54.33,AN_Main,,0000,0000,0000,,{\be1}Are you going to treat me like an idiot, too?
+Dialogue: 0,0:02:56.14,0:02:58.16,AN_Main,,0000,0000,0000,,{\be1}So, what do you want?
+Dialogue: 0,0:02:58.91,0:03:01.34,AN_Main,,0000,0000,0000,,{\be1}Well, it's almost time, so...
+Dialogue: 0,0:03:01.58,0:03:02.70,AN_Main,,0000,0000,0000,,{\be1}For what?
+Dialogue: 0,0:03:03.01,0:03:05.10,AN_Main,,0000,0000,0000,,{\be1}H-Have you forgotten?
+Dialogue: 0,0:03:05.28,0:03:10.27,AN_Main,,0000,0000,0000,,{\be1}Today is the day of the angels' yearly promotional examination.
+Dialogue: 0,0:03:10.42,0:03:13.35,AN_Main,,0000,0000,0000,,{\be1}You guys go ahead. I'm busy right now.
+Dialogue: 0,0:03:13.49,0:03:14.65,AN_Main,,0000,0000,0000,,{\be1}Count me out.
+Dialogue: 0,0:03:14.76,0:03:15.92,AN_Main,,0000,0000,0000,,{\be1}Unacceptable!
+Dialogue: 0,0:03:16.39,0:03:19.85,AN_Main,,0000,0000,0000,,{\be1}The future of young angels depends on this test.
+Dialogue: 0,0:03:20.63,0:03:25.59,AN_Main,,0000,0000,0000,,{\be1}Do you understand your position as King of the Gods?
+Dialogue: 0,0:03:25.80,0:03:27.29,AN_Main,,0000,0000,0000,,{\be1}Okay, okay, I understand.
+Dialogue: 0,0:03:27.40,0:03:30.46,AN_Main,,0000,0000,0000,,{\be1}I'm tired of listening to your lectures.
+Dialogue: 0,0:03:30.77,0:03:31.80,AN_Main,,0000,0000,0000,,{\be1}Very well.
+Dialogue: 0,0:03:32.04,0:03:34.87,AN_Main,,0000,0000,0000,,{\be1}The angels who will be taking the test for...
+Dialogue: 0,0:03:34.98,0:03:39.11,AN_Main,,0000,0000,0000,,{\be1}...B-Class angel are, Hesperis, Euproshne, and Aurora.
+Dialogue: 0,0:03:40.55,0:03:44.14,AN_Main,,0000,0000,0000,,{\be1}Hesperis, Euproshne, and Aurora?
+Dialogue: 0,0:03:44.25,0:03:46.12,AN_Main,,0000,0000,0000,,{\be1}Those three...
+Dialogue: 0,0:03:46.86,0:03:51.42,AN_Main,,0000,0000,0000,,{\be1}As you know, the test will be to see how many humans they can help on Earth.
+Dialogue: 0,0:03:51.56,0:03:55.96,AN_Main,,0000,0000,0000,,{\be1}Their final score will be judged on virtue, generosity, courage, and intelligence.
+Dialogue: 0,0:03:56.06,0:03:59.63,AN_Main,,0000,0000,0000,,{\be1}We'll rank each category from A to D.
+Dialogue: 0,0:04:00.30,0:04:01.63,AN_Main,,0000,0000,0000,,{\be1}On Earth?
+Dialogue: 0,0:04:01.84,0:04:03.33,AN_Main,,0000,0000,0000,,{\be1}They have three months.
+Dialogue: 0,0:04:03.44,0:04:05.03,AN_Main,,0000,0000,0000,,{\be1}During that time, they have to...
+Dialogue: 0,0:04:05.14,0:04:06.40,AN_Main,,0000,0000,0000,,{\be1}I see!
+Dialogue: 0,0:04:08.74,0:04:11.21,AN_Main,,0000,0000,0000,,{\be1}Um, Lord Zeus?
+Dialogue: 0,0:04:35.47,0:04:36.94,AN_Main,,0000,0000,0000,,{\be1}Get out of my way!
+Dialogue: 0,0:04:37.04,0:04:38.73,AN_Main,,0000,0000,0000,,{\be1}Out of his way!
+Dialogue: 0,0:04:38.84,0:04:41.33,AN_Main,,0000,0000,0000,,{\be1}I'm just here to deliver a package...
+Dialogue: 0,0:04:41.81,0:04:43.00,AN_Main,,0000,0000,0000,,{\be1}Can it!
+Dialogue: 0,0:04:43.24,0:04:44.44,AN_Main,,0000,0000,0000,,{\be1}I'm sorry!
+Dialogue: 0,0:04:44.75,0:04:46.87,AN_Main,,0000,0000,0000,,{\be1}Come on, can you guys just leave for today?
+Dialogue: 0,0:04:51.02,0:04:53.82,AN_Main,,0000,0000,0000,,{\be1}What do you care? You have no customers in here.
+Dialogue: 0,0:04:53.96,0:04:55.39,AN_Main,,0000,0000,0000,,{\be1}No customers at all!
+Dialogue: 0,0:04:55.49,0:04:57.46,AN_Main,,0000,0000,0000,,{\be1}That's because you guys are here!
+Dialogue: 0,0:04:57.63,0:05:00.62,AN_Main,,0000,0000,0000,,{\be1}Hey now, don't try to blame it on us.
+Dialogue: 0,0:05:00.93,0:05:01.95,AN_Main,,0000,0000,0000,,{\be1}What?
+Dialogue: 0,0:05:02.10,0:05:05.36,AN_Main,,0000,0000,0000,,{\be1}It's not our fault that you can't sell any flowers.
+Dialogue: 0,0:05:05.93,0:05:06.49,AN_Main,,0000,0000,0000,,{\be1}You...
+Dialogue: 0,0:05:06.60,0:05:07.47,AN_Main,,0000,0000,0000,,{\be1}Hey now...
+Dialogue: 0,0:05:08.44,0:05:10.70,AN_Main,,0000,0000,0000,,{\be1}I don't approve of violence.
+Dialogue: 0,0:05:10.81,0:05:12.67,AN_Main,,0000,0000,0000,,{\be1}Me neither.
+Dialogue: 0,0:05:13.17,0:05:16.63,AN_Main,,0000,0000,0000,,{\be1}We could help you with closing the store if you want.
+Dialogue: 0,0:05:17.15,0:05:18.24,AN_Main,,0000,0000,0000,,{\be1}Why you...
+Dialogue: 0,0:05:18.55,0:05:20.14,AN_Main,,0000,0000,0000,,{\be1}Could I have some flowers, please?
+Dialogue: 0,0:05:21.38,0:05:23.72,AN_Main,,0000,0000,0000,,{\be1}I'd like these freesia too.
+Dialogue: 0,0:05:25.05,0:05:28.05,AN_Main,,0000,0000,0000,,{\be1}I want this lily!
+Dialogue: 0,0:05:28.16,0:05:29.18,AN_Main,,0000,0000,0000,,{\be1}Uh, yes.
+Dialogue: 0,0:05:29.59,0:05:31.62,AN_Main,,0000,0000,0000,,{\be1}In a minute.
+Dialogue: 0,0:05:33.13,0:05:34.49,AN_Main,,0000,0000,0000,,{\be1}Who the hell are you?
+Dialogue: 0,0:05:35.00,0:05:37.19,AN_Main,,0000,0000,0000,,{\be1}Will you move? You're blocking the flowers.
+Dialogue: 0,0:05:37.30,0:05:38.20,AN_Main,,0000,0000,0000,,{\be1}What?
+Dialogue: 0,0:05:39.07,0:05:44.70,AN_Main,,0000,0000,0000,,{\be1}You're scaring the flowers with that face of yours.
+Dialogue: 0,0:05:45.41,0:05:47.17,AN_Main,,0000,0000,0000,,{\be1}Yes, he is.
+Dialogue: 0,0:05:48.88,0:05:50.71,AN_Main,,0000,0000,0000,,{\be1}You had better stay out of it!
+Dialogue: 0,0:05:55.92,0:05:56.91,AN_Main,,0000,0000,0000,,{\be1}Why you...
+Dialogue: 0,0:05:57.39,0:05:59.41,AN_Main,,0000,0000,0000,,{\be1}And what if we don't?
+Dialogue: 0,0:05:59.62,0:06:00.82,AN_Main,,0000,0000,0000,,{\be1}Bitch!
+Dialogue: 0,0:06:02.19,0:06:03.56,AN_Main,,0000,0000,0000,,{\be1}That's enough!
+Dialogue: 0,0:06:03.69,0:06:06.75,AN_Main,,0000,0000,0000,,{\be1}If you're going to keep causing trouble, I'll call the cops!
+Dialogue: 0,0:06:08.46,0:06:09.99,AN_Main,,0000,0000,0000,,{\be1}You'll pay for this!
+Dialogue: 0,0:06:10.10,0:06:11.93,AN_Main,,0000,0000,0000,,{\be1}You will!
+Dialogue: 0,0:06:12.63,0:06:14.43,AN_Main,,0000,0000,0000,,{\be1}Will you take a rain check?
+Dialogue: 0,0:06:18.44,0:06:19.70,AN_Main,,0000,0000,0000,,{\be1}Land speculators?
+Dialogue: 0,0:06:20.34,0:06:21.24,AN_Main,,0000,0000,0000,,{\be1}Yeah.
+Dialogue: 0,0:06:21.41,0:06:25.57,AN_Main,,0000,0000,0000,,{\be1}After my grandma died, I've been taking care of the flower shop by myself...
+Dialogue: 0,0:06:26.08,0:06:29.28,AN_Main,,0000,0000,0000,,{\be1}...but recently those guys have been trying to close this store.
+Dialogue: 0,0:06:29.45,0:06:30.78,AN_Main,,0000,0000,0000,,{\be1}That's terrible!
+Dialogue: 0,0:06:30.95,0:06:32.44,AN_Main,,0000,0000,0000,,{\be1}They are such meanies!
+Dialogue: 0,0:06:33.35,0:06:37.55,AN_Main,,0000,0000,0000,,{\be1}But I will protect this shop from them, no matter what!
+Dialogue: 0,0:06:37.89,0:06:40.05,AN_Main,,0000,0000,0000,,{\be1}We will help you.
+Dialogue: 0,0:06:41.16,0:06:43.96,AN_Main,,0000,0000,0000,,{\be1}We will make this shop thrive!
+Dialogue: 0,0:06:44.17,0:06:45.69,AN_Main,,0000,0000,0000,,{\be1}Leave everything to us!
+Dialogue: 0,0:06:46.40,0:06:48.37,AN_Main,,0000,0000,0000,,{\be1}But why?
+Dialogue: 0,0:06:49.24,0:06:51.40,AN_Main,,0000,0000,0000,,{\be1}Because that's our test...
+Dialogue: 0,0:06:51.57,0:06:53.51,AN_Main,,0000,0000,0000,,{\be1}...I mean, our mission!
+Dialogue: 0,0:06:57.15,0:07:00.11,AN_Main,,0000,0000,0000,,{\be1}But we have one favor to ask you...
+Dialogue: 0,0:07:00.35,0:07:02.48,AN_Main,,0000,0000,0000,,{\be1}Can we live with you?
+Dialogue: 0,0:07:02.58,0:07:04.14,AN_Main,,0000,0000,0000,,{\be1}Live with me?
+Dialogue: 0,0:07:04.39,0:07:08.52,AN_Main,,0000,0000,0000,,{\be1}We haven't found a place to live yet, so...
+Dialogue: 0,0:07:09.16,0:07:11.46,AN_Main,,0000,0000,0000,,{\be1}Well, I guess it's okay...
+Dialogue: 0,0:07:12.46,0:07:13.79,AN_Main,,0000,0000,0000,,{\be1}Great!
+Dialogue: 0,0:07:13.90,0:07:16.30,AN_Main,,0000,0000,0000,,{\be1}We don't have to sleep outside.
+Dialogue: 0,0:07:16.46,0:07:19.99,AN_Main,,0000,0000,0000,,{\be1}This must be a divine blessing...
+Dialogue: 0,0:07:20.10,0:07:21.50,AN_Main,,0000,0000,0000,,{\be1}Excuse me...
+Dialogue: 0,0:07:21.64,0:07:22.36,AN_Main,,0000,0000,0000,,{\be1}Yes?
+Dialogue: 0,0:07:22.57,0:07:23.97,AN_Main,,0000,0000,0000,,{\be1}Welcome! How may I help you?
+Dialogue: 0,0:07:24.37,0:07:26.81,AN_Main,,0000,0000,0000,,{\be1}Well, I'm not a customer.
+Dialogue: 0,0:07:27.21,0:07:29.27,AN_Main,,0000,0000,0000,,{\be1}I just want to get a signature for this package.
+Dialogue: 0,0:07:38.75,0:07:43.05,AN_Main,,0000,0000,0000,,{\be1}My human name is Yuu Amamiya. My angel name is Hesperis.
+Dialogue: 0,0:07:43.93,0:07:48.06,AN_Main,,0000,0000,0000,,{\be1}Her human name is Miki Yuunaki. Her angel name is Euproshne.
+Dialogue: 0,0:07:49.00,0:07:53.49,AN_Main,,0000,0000,0000,,{\be1}And her human name is Chadoko Asagiri. Her angel name is Aurora.
+Dialogue: 0,0:07:55.50,0:08:01.60,AN_Main,,0000,0000,0000,,{\be1}Actually, we are angels, sent to earth take the examination for promotion.
+Dialogue: 0,0:08:06.88,0:08:08.11,AN_Main,,0000,0000,0000,,{\be1}Listen carefully...
+Dialogue: 0,0:08:08.28,0:08:12.12,AN_Main,,0000,0000,0000,,{\be1}You must make as many humans happy as you possibly can.
+Dialogue: 0,0:08:12.45,0:08:14.85,AN_Main,,0000,0000,0000,,{\be1}That's the task for the test.
+Dialogue: 0,0:08:14.99,0:08:19.12,AN_Main,,0000,0000,0000,,{\be1}But you cannot let anyone know that you are angels.
+Dialogue: 0,0:08:19.96,0:08:22.86,AN_Main,,0000,0000,0000,,{\be1}You are not to use any angelic powers, either.
+Dialogue: 0,0:08:23.50,0:08:30.13,AN_Main,,0000,0000,0000,,{\be1}Many hardships await you, but don't let that get you down, and do your best!
+Dialogue: 0,0:08:31.24,0:08:34.94,AN_Main,,0000,0000,0000,,{\be1}We know you can pass this test!
+Dialogue: 0,0:08:35.08,0:08:36.13,AN_Main,,0000,0000,0000,,{\be1}Yes!
+Dialogue: 0,0:08:46.92,0:08:50.45,AN_Main,,0000,0000,0000,,{\be1}Are these all the flowers to deliver?
+Dialogue: 0,0:08:50.63,0:08:53.09,AN_Main,,0000,0000,0000,,{\be1}Yeah, but is it really okay to ask you to do this?
+Dialogue: 0,0:08:53.19,0:08:55.06,AN_Main,,0000,0000,0000,,{\be1}There is no need to worry!
+Dialogue: 0,0:08:55.23,0:08:57.13,AN_Main,,0000,0000,0000,,{\be1}You can count on us!
+Dialogue: 0,0:08:58.23,0:09:02.53,AN_Main,,0000,0000,0000,,{\be1}That's right. This shop will be flooded with customers in no time!
+Dialogue: 0,0:09:03.37,0:09:07.14,AN_Main,,0000,0000,0000,,{\be1}Well, I'm not going to get my hopes too high...
+Dialogue: 0,0:09:07.68,0:09:11.13,AN_Main,,0000,0000,0000,,{\be1}That's not a very nice thing to say. Don't you trust my sense of art?
+Dialogue: 0,0:09:13.51,0:09:15.54,AN_Main,,0000,0000,0000,,{\be1}Well, we're off to make our deliveries.
+Dialogue: 0,0:09:15.72,0:09:18.31,AN_Main,,0000,0000,0000,,{\be1}Be careful, Yuu!
+Dialogue: 0,0:09:19.55,0:09:21.78,AN_Main,,0000,0000,0000,,{\be1}I'll see you later, Miki.
+Dialogue: 0,0:09:24.13,0:09:25.85,AN_Main,,0000,0000,0000,,{\be1}Where are you going, Miki?
+Dialogue: 0,0:09:26.79,0:09:28.79,AN_Main,,0000,0000,0000,,{\be1}I'm teaching a swimming lesson.
+Dialogue: 0,0:09:40.74,0:09:42.51,AN_Main,,0000,0000,0000,,{\be1}Well, well...
+Dialogue: 0,0:09:48.98,0:09:51.65,AN_Main,,0000,0000,0000,,{\be1}Hi, I met you at the store yesterday.
+Dialogue: 0,0:09:52.12,0:09:54.02,AN_Main,,0000,0000,0000,,{\be1}Oh, you are...
+Dialogue: 0,0:09:56.32,0:09:58.09,AN_Main,,0000,0000,0000,,{\be1}...excuse me, but have we met?
+Dialogue: 0,0:09:58.86,0:10:01.92,AN_Main,,0000,0000,0000,,{\be1}I delivered a package to the flower shop yesterday...
+Dialogue: 0,0:10:02.03,0:10:04.12,AN_Main,,0000,0000,0000,,{\be1}Oh right. You're the delivery man.
+Dialogue: 0,0:10:04.47,0:10:06.16,AN_Main,,0000,0000,0000,,{\be1}So, do you work here?
+Dialogue: 0,0:10:06.47,0:10:08.09,AN_Main,,0000,0000,0000,,{\be1}Yes, I just started today.
+Dialogue: 0,0:10:08.70,0:10:10.30,AN_Main,,0000,0000,0000,,{\be1}Do you work here too?
+Dialogue: 0,0:10:10.41,0:10:13.37,AN_Main,,0000,0000,0000,,{\be1}Yes. I work a few part-time jobs.
+Dialogue: 0,0:10:13.51,0:10:15.91,AN_Main,,0000,0000,0000,,{\be1}I'm Yorishiro.
+Dialogue: 0,0:10:16.31,0:10:20.94,AN_Main,,0000,0000,0000,,{\be1}I'm Miki Yuunaki. You can call me Miki.
+Dialogue: 0,0:10:22.85,0:10:24.91,AN_Main,,0000,0000,0000,,{\be1}Yes, Miki.
+Dialogue: 0,0:10:28.59,0:10:33.93,AN_Main,,0000,0000,0000,,{\be1}Okay everyone, we are going to do some stretching in the water first.
+Dialogue: 0,0:10:34.20,0:10:38.93,AN_Main,,0000,0000,0000,,{\be1}Move your body just like I do in the pool.
+Dialogue: 0,0:10:39.60,0:10:40.43,AN_Main,,0000,0000,0000,,{\be1}Now...
+Dialogue: 0,0:10:41.80,0:10:45.50,AN_Main,,0000,0000,0000,,{\be1}One, two, one, two...
+Dialogue: 0,0:10:46.44,0:10:48.20,AN_Main,,0000,0000,0000,,{\be1}One, two...
+Dialogue: 0,0:10:48.68,0:10:50.97,AN_Main,,0000,0000,0000,,{\be1}Next, stretch your side.
+Dialogue: 0,0:10:51.38,0:10:53.07,AN_Main,,0000,0000,0000,,{\be1}One, two...
+Dialogue: 0,0:10:53.21,0:10:54.68,AN_Main,,0000,0000,0000,,{\be1}One, two...
+Dialogue: 0,0:10:55.38,0:10:57.18,AN_Main,,0000,0000,0000,,{\be1}And the other side...
+Dialogue: 0,0:10:58.29,0:11:00.31,AN_Main,,0000,0000,0000,,{\be1}{\i1}W-What am I looking at?{\i0}
+Dialogue: 0,0:11:00.46,0:11:02.18,AN_Main,,0000,0000,0000,,{\be1}{\i1}I'm working right now...{\i0}
+Dialogue: 0,0:11:15.57,0:11:16.80,AN_Main,,0000,0000,0000,,{\be1}Yorishiro!
+Dialogue: 0,0:11:17.61,0:11:19.63,AN_Main,,0000,0000,0000,,{\be1}Are you okay?
+Dialogue: 0,0:11:23.95,0:11:25.94,AN_Main,,0000,0000,0000,,{\be1}Come on, grab my hand.
+Dialogue: 0,0:11:26.31,0:11:28.94,AN_Main,,0000,0000,0000,,{\be1}Um, I can't right now.
+Dialogue: 0,0:11:29.52,0:11:30.07,AN_Main,,0000,0000,0000,,{\be1}Huh?
+Dialogue: 0,0:11:30.22,0:11:31.95,AN_Main,,0000,0000,0000,,{\be1}Well, my lower body is...
+Dialogue: 0,0:11:32.45,0:11:34.11,AN_Main,,0000,0000,0000,,{\be1}Does it hurt?
+Dialogue: 0,0:11:34.29,0:11:36.15,AN_Main,,0000,0000,0000,,{\be1}No, it doesn't hurt, but...
+Dialogue: 0,0:11:36.29,0:11:37.95,AN_Main,,0000,0000,0000,,{\be1}Go on, grab my hand.
+Dialogue: 0,0:11:38.29,0:11:39.45,AN_Main,,0000,0000,0000,,{\be1}O-Okay...
+Dialogue: 0,0:11:48.97,0:11:52.20,AN_Main,,0000,0000,0000,,{\be1}{\i1}Oh no! This time I really got a cramp!{\i0}
+Dialogue: 0,0:11:52.57,0:11:54.37,AN_Main,,0000,0000,0000,,{\be1}Is something wrong?
+Dialogue: 0,0:11:55.78,0:11:57.30,AN_Main,,0000,0000,0000,,{\be1}M-My leg...
+Dialogue: 0,0:12:11.23,0:12:12.62,AN_Main,,0000,0000,0000,,{\be1}Yorishiro?
+Dialogue: 0,0:12:13.06,0:12:13.99,AN_Main,,0000,0000,0000,,{\be1}Yorishiro?
+Dialogue: 0,0:12:20.27,0:12:21.63,AN_Main,,0000,0000,0000,,{\be1}{\i1}What should I do?{\i0}
+Dialogue: 0,0:12:21.74,0:12:24.50,AN_Main,,0000,0000,0000,,{\be1}{\i1}He isn't breathing, I have to do something...{\i0}
+Dialogue: 0,0:12:28.14,0:12:29.23,AN_Main,,0000,0000,0000,,{\be1}Oh my...
+Dialogue: 0,0:12:30.01,0:12:31.34,AN_Main,,0000,0000,0000,,{\be1}Well, excuse me.
+Dialogue: 0,0:12:41.76,0:12:42.88,AN_Main,,0000,0000,0000,,{\be1}{\i1}What's this?{\i0}
+Dialogue: 0,0:12:43.02,0:12:45.42,AN_Main,,0000,0000,0000,,{\be1}{\i1}What is this soft feeling?{\i0}
+Dialogue: 0,0:12:47.23,0:12:48.53,AN_Main,,0000,0000,0000,,{\be1}{\i1}M-Miki!{\i0}
+Dialogue: 0,0:12:56.60,0:12:59.04,AN_Main,,0000,0000,0000,,{\be1}{\i1}Ooh, I'm the luckiest man on Earth!{\i0}
+Dialogue: 0,0:13:02.61,0:13:06.05,AN_Main,,0000,0000,0000,,{\be1}{\i1}Her lips are so soft...{\i0}
+Dialogue: 0,0:13:30.44,0:13:32.96,AN_Main,,0000,0000,0000,,{\be1}That's right. Keep doing that.
+Dialogue: 0,0:13:33.44,0:13:34.74,AN_Main,,0000,0000,0000,,{\be1}It feels great.
+Dialogue: 0,0:13:34.84,0:13:35.67,AN_Main,,0000,0000,0000,,{\be1}What?
+Dialogue: 0,0:13:39.15,0:13:44.45,AN_Main,,0000,0000,0000,,{\be1}{\i1}What was that? I just felt something really hot inside my body...{\i0}
+Dialogue: 0,0:13:49.19,0:13:50.62,AN_Main,,0000,0000,0000,,{\be1}That's right...
+Dialogue: 0,0:13:50.76,0:13:51.55,AN_Main,,0000,0000,0000,,{\be1}What?
+Dialogue: 0,0:13:52.79,0:13:54.09,AN_Main,,0000,0000,0000,,{\be1}Go on.
+Dialogue: 0,0:13:54.76,0:13:55.56,AN_Main,,0000,0000,0000,,{\be1}Yes.
+Dialogue: 0,0:14:01.70,0:14:02.86,AN_Main,,0000,0000,0000,,{\be1}{\i1}Oh, it feels good...{\i0}
+Dialogue: 0,0:14:05.71,0:14:09.30,AN_Main,,0000,0000,0000,,{\be1}{\i1}My goodness, what am I doing?{\i0}
+Dialogue: 0,0:14:09.64,0:14:12.74,AN_Main,,0000,0000,0000,,{\be1}{\i1}But my body is so hot...{\i0}
+Dialogue: 0,0:14:13.25,0:14:19.08,AN_Main,,0000,0000,0000,,{\be1}{\i1}This must be the test Lord Zeus was talking about.{\i0}
+Dialogue: 0,0:14:19.85,0:14:22.91,AN_Main,,0000,0000,0000,,{\be1}Now, kiss me.
+Dialogue: 0,0:14:24.06,0:14:25.03,AN_Main,,0000,0000,0000,,{\be1}Kiss?
+Dialogue: 0,0:14:25.16,0:14:27.13,AN_Main,,0000,0000,0000,,{\be1}That's right, kiss me.
+Dialogue: 0,0:14:27.96,0:14:29.09,AN_Main,,0000,0000,0000,,{\be1}Yes...
+Dialogue: 0,0:15:15.61,0:15:16.77,AN_Main,,0000,0000,0000,,{\be1}Huh?
+Dialogue: 0,0:15:17.68,0:15:18.61,AN_Main,,0000,0000,0000,,{\be1}Miki?
+Dialogue: 0,0:15:20.88,0:15:23.78,AN_Main,,0000,0000,0000,,{\be1}Are you feeling okay now?
+Dialogue: 0,0:15:49.18,0:15:51.11,AN_Main,,0000,0000,0000,,{\be1}This is so boring.
+Dialogue: 0,0:15:51.58,0:15:55.11,AN_Main,,0000,0000,0000,,{\be1}There are no customers...
+Dialogue: 0,0:15:57.12,0:16:01.68,AN_Main,,0000,0000,0000,,{\be1}I arranged those bouquets with all my love, but there's no one to buy...
+Dialogue: 0,0:16:04.63,0:16:06.62,AN_Main,,0000,0000,0000,,{\be1}Those are the thugs from the other day!
+Dialogue: 0,0:16:06.96,0:16:09.19,AN_Main,,0000,0000,0000,,{\be1}Those are precious flowers!
+Dialogue: 0,0:16:12.50,0:16:15.73,AN_Main,,0000,0000,0000,,{\be1}You came out of nowhere!
+Dialogue: 0,0:16:15.84,0:16:17.00,AN_Main,,0000,0000,0000,,{\be1}You did!
+Dialogue: 0,0:16:17.27,0:16:20.04,AN_Main,,0000,0000,0000,,{\be1}What are you talking about? You jumped right in front of me!
+Dialogue: 0,0:16:20.17,0:16:23.23,AN_Main,,0000,0000,0000,,{\be1}I could take you to the police if that's what you want.
+Dialogue: 0,0:16:23.38,0:16:27.14,AN_Main,,0000,0000,0000,,{\be1}Or if you sold the shop to us right now, we would forget about this.
+Dialogue: 0,0:16:27.68,0:16:29.15,AN_Main,,0000,0000,0000,,{\be1}It's you again!
+Dialogue: 0,0:16:29.52,0:16:33.65,AN_Main,,0000,0000,0000,,{\be1}You had better give it up already, or I will have to teach you a lesson again...
+Dialogue: 0,0:16:34.42,0:16:36.15,AN_Main,,0000,0000,0000,,{\be1}Yes, he will!
+Dialogue: 0,0:16:43.06,0:16:44.12,AN_Main,,0000,0000,0000,,{\be1}Hey stop it!
+Dialogue: 0,0:16:47.30,0:16:49.13,AN_Main,,0000,0000,0000,,{\be1}You should not step on the flowers.
+Dialogue: 0,0:16:50.67,0:16:52.10,AN_Main,,0000,0000,0000,,{\be1}What's that?
+Dialogue: 0,0:16:52.77,0:16:53.64,AN_Main,,0000,0000,0000,,{\be1}Get lost!
+Dialogue: 0,0:17:01.55,0:17:02.98,AN_Main,,0000,0000,0000,,{\be1}E-Excuse me...
+Dialogue: 0,0:17:03.52,0:17:05.14,AN_Main,,0000,0000,0000,,{\be1}Thank you so much.
+Dialogue: 0,0:17:05.42,0:17:08.39,AN_Main,,0000,0000,0000,,{\be1}Can I see some flowers?
+Dialogue: 0,0:17:08.56,0:17:09.85,AN_Main,,0000,0000,0000,,{\be1}Yes, of course.
+Dialogue: 0,0:17:09.99,0:17:11.65,AN_Main,,0000,0000,0000,,{\be1}Minori, we've got a customer.
+Dialogue: 0,0:17:15.03,0:17:16.33,AN_Main,,0000,0000,0000,,{\be1}What a beautiful rose...
+Dialogue: 0,0:17:16.43,0:17:21.33,AN_Main,,0000,0000,0000,,{\be1}My late grandma took great care to grow those roses.
+Dialogue: 0,0:17:21.80,0:17:22.67,AN_Main,,0000,0000,0000,,{\be1}I'll take a dozen.
+Dialogue: 0,0:17:23.24,0:17:25.60,AN_Main,,0000,0000,0000,,{\be1}Thank you very much.
+Dialogue: 0,0:17:25.87,0:17:27.67,AN_Main,,0000,0000,0000,,{\be1}And that bouquet.
+Dialogue: 0,0:17:28.08,0:17:31.24,AN_Main,,0000,0000,0000,,{\be1}Huh? But this is...
+Dialogue: 0,0:17:31.38,0:17:32.71,AN_Main,,0000,0000,0000,,{\be1}Just throw it in.
+Dialogue: 0,0:17:32.85,0:17:35.68,AN_Main,,0000,0000,0000,,{\be1}Oh, thank you so much!
+Dialogue: 0,0:17:40.29,0:17:41.22,AN_Main,,0000,0000,0000,,{\be1}Thanks for your help.
+Dialogue: 0,0:17:42.12,0:17:44.11,AN_Main,,0000,0000,0000,,{\be1}Thank you, come again!
+Dialogue: 0,0:17:45.16,0:17:47.53,AN_Main,,0000,0000,0000,,{\be1}What a generous customer...
+Dialogue: 0,0:17:47.66,0:17:51.06,AN_Main,,0000,0000,0000,,{\be1}See? He totally understood my taste!
+Dialogue: 0,0:17:51.27,0:17:53.23,AN_Main,,0000,0000,0000,,{\be1}I wonder...
+Dialogue: 0,0:18:16.26,0:18:19.62,AN_Main,,0000,0000,0000,,{\be1}Wake up, my little angels.
+Dialogue: 0,0:18:19.86,0:18:21.23,AN_Main,,0000,0000,0000,,{\be1}Lord Zeus?
+Dialogue: 0,0:18:23.06,0:18:24.19,AN_Main,,0000,0000,0000,,{\be1}Lord Zeus?
+Dialogue: 0,0:18:24.33,0:18:28.17,AN_Main,,0000,0000,0000,,{\be1}I'm speaking to you from Pantheon Palace.
+Dialogue: 0,0:18:28.27,0:18:29.33,AN_Main,,0000,0000,0000,,{\be1}I understand, Lord.
+Dialogue: 0,0:18:29.47,0:18:32.60,AN_Main,,0000,0000,0000,,{\be1}Will you wake Chadoko up please?
+Dialogue: 0,0:18:32.81,0:18:34.67,AN_Main,,0000,0000,0000,,{\be1}Chadoko! Wake up!
+Dialogue: 0,0:18:35.61,0:18:37.70,AN_Main,,0000,0000,0000,,{\be1}Hmm? Is it morning already?
+Dialogue: 0,0:18:37.91,0:18:40.14,AN_Main,,0000,0000,0000,,{\be1}No. Lord Zeus is here to talk to us.
+Dialogue: 0,0:18:41.28,0:18:42.65,AN_Main,,0000,0000,0000,,{\be1}Really?
+Dialogue: 0,0:18:44.05,0:18:46.58,AN_Main,,0000,0000,0000,,{\be1}Everyone, just relax and listen.
+Dialogue: 0,0:18:46.75,0:18:50.02,AN_Main,,0000,0000,0000,,{\be1}As you all know the test has already begun.
+Dialogue: 0,0:18:50.16,0:18:53.02,AN_Main,,0000,0000,0000,,{\be1}So, how did you do, Miki?
+Dialogue: 0,0:18:53.16,0:18:56.22,AN_Main,,0000,0000,0000,,{\be1}Well, I think I made someone happy.
+Dialogue: 0,0:18:56.40,0:18:58.09,AN_Main,,0000,0000,0000,,{\be1}What about you, Chadoko?
+Dialogue: 0,0:18:58.20,0:19:00.33,AN_Main,,0000,0000,0000,,{\be1}Yes! I did a good job!
+Dialogue: 0,0:19:00.47,0:19:01.66,AN_Main,,0000,0000,0000,,{\be1}Oh really?
+Dialogue: 0,0:19:01.80,0:19:03.33,AN_Main,,0000,0000,0000,,{\be1}And Yuu?
+Dialogue: 0,0:19:03.47,0:19:07.13,AN_Main,,0000,0000,0000,,{\be1}I failed miserably.
+Dialogue: 0,0:19:07.41,0:19:09.93,AN_Main,,0000,0000,0000,,{\be1}But it was because of those men!
+Dialogue: 0,0:19:10.21,0:19:13.61,AN_Main,,0000,0000,0000,,{\be1}Yuu, you cannot blame others for your mistakes.
+Dialogue: 0,0:19:13.75,0:19:15.15,AN_Main,,0000,0000,0000,,{\be1}Yes, Lord Zeus.
+Dialogue: 0,0:19:15.72,0:19:21.59,AN_Main,,0000,0000,0000,,{\be1}If you are to improve your efforts, you must blame no one but yourself.
+Dialogue: 0,0:19:21.92,0:19:22.79,AN_Main,,0000,0000,0000,,{\be1}Yes...
+Dialogue: 0,0:19:22.92,0:19:27.33,AN_Main,,0000,0000,0000,,{\be1}Don't let this get to you, Yuu. There are still plenty of chances.
+Dialogue: 0,0:19:28.20,0:19:31.56,AN_Main,,0000,0000,0000,,{\be1}I'll look forward to tomorrow!
+Dialogue: 0,0:19:31.73,0:19:33.79,AN_Main,,0000,0000,0000,,{\be1}Good luck!
+Dialogue: 0,0:19:38.66,0:19:45.66,AN_BikiB,,0000,0000,0000,,{\be1}{\move(337,-246,337,118)}SPECIAL   EFFECTS   HERO   SHOW
+Dialogue: 0,0:19:38.66,0:19:45.66,AN_BikiP1,,0000,0000,0000,,{\be1}{\move(234,-79,234,285)}BEAST
+Dialogue: 0,0:19:38.66,0:19:45.66,AN_BikiP2,,0000,0000,0000,,{\be1}{\move(460,-89,460,275)}WARRIORS
+Dialogue: 0,0:19:38.66,0:19:45.66,AN_BikiR,,0000,0000,0000,,{\be1}{\move(175,56,175,420)}BIKI
+Dialogue: 0,0:19:38.66,0:19:45.66,AN_BikiR,,0000,0000,0000,,{\be1}{\move(365,26,365,390)}ANIMAL
+Dialogue: 0,0:19:38.66,0:19:45.66,AN_BikiW,,0000,0000,0000,,{\be1}{\move(567,36,567,400)}SHOW
+Dialogue: 0,0:19:50.05,0:19:52.61,AN_Main,,0000,0000,0000,,{\be1}I'm going to do my best and make up for lost time tomorrow.
+Dialogue: 0,0:19:52.79,0:19:55.28,AN_Main,,0000,0000,0000,,{\be1}I can't lose to Chado and Miki either...
+Dialogue: 0,0:19:55.39,0:19:56.69,AN_Main,,0000,0000,0000,,{\be1}Let me zip up and...
+Dialogue: 0,0:19:57.66,0:19:59.18,AN_Main,,0000,0000,0000,,{\be1}Ooh, this costume is really tight.
+Dialogue: 0,0:20:01.83,0:20:04.70,AN_Main,,0000,0000,0000,,{\be1}It's wedged in around my sensitive area...
+Dialogue: 0,0:20:09.94,0:20:12.87,AN_Main,,0000,0000,0000,,{\be1}Here I am! I'm Biki Panther!
+Dialogue: 0,0:20:13.81,0:20:16.57,AN_Main,,0000,0000,0000,,{\be1}Do I look cool, or what?
+Dialogue: 0,0:20:22.42,0:20:24.91,AN_Main,,0000,0000,0000,,{\be1}What's happening to me?
+Dialogue: 0,0:20:25.59,0:20:28.58,AN_Main,,0000,0000,0000,,{\be1}My body is getting hot...
+Dialogue: 0,0:20:29.39,0:20:30.65,AN_Main,,0000,0000,0000,,{\be1}Not only that...
+Dialogue: 0,0:20:32.86,0:20:36.96,AN_Main,,0000,0000,0000,,{\be1}...it feels like my body has become more sensitive.
+Dialogue: 0,0:20:50.78,0:20:51.75,AN_Main,,0000,0000,0000,,{\be1}Warriors of Justice!
+Dialogue: 0,0:20:52.05,0:20:52.98,AN_Main,,0000,0000,0000,,{\be1}We're the animal warriors!
+Dialogue: 0,0:20:53.95,0:20:55.78,AN_Main,,0000,0000,0000,,{\be1}Biki Animals!
+Dialogue: 0,0:21:09.86,0:21:10.83,AN_Main,,0000,0000,0000,,{\be1}Good show.
+Dialogue: 0,0:21:11.37,0:21:12.80,AN_Main,,0000,0000,0000,,{\be1}It was a great show!
+Dialogue: 0,0:21:12.90,0:21:14.73,AN_Main,,0000,0000,0000,,{\be1}Yuu, you were really great.
+Dialogue: 0,0:21:15.97,0:21:17.23,AN_Main,,0000,0000,0000,,{\be1}Thank you.
+Dialogue: 0,0:21:22.34,0:21:26.11,AN_Main,,0000,0000,0000,,{\be1}{\i1}I'm wet... What's wrong with me?{\i0}
+Dialogue: 0,0:21:32.45,0:21:36.51,AN_Main,,0000,0000,0000,,{\be1}No, I can't. I shouldn't do such a thing...
+Dialogue: 0,0:21:38.83,0:21:39.62,AN_Main,,0000,0000,0000,,{\be1}Y-Yes?
+Dialogue: 0,0:21:40.03,0:21:41.86,AN_Main,,0000,0000,0000,,{\be1}Yuu, can I come in?
+Dialogue: 0,0:21:42.80,0:21:43.99,AN_Main,,0000,0000,0000,,{\be1}Yeah, sure.
+Dialogue: 0,0:21:44.97,0:21:46.13,AN_Main,,0000,0000,0000,,{\be1}Yuu...
+Dialogue: 0,0:21:46.47,0:21:48.26,AN_Main,,0000,0000,0000,,{\be1}Are you feeling all right?
+Dialogue: 0,0:21:48.77,0:21:50.10,AN_Main,,0000,0000,0000,,{\be1}Yes, I'm fine.
+Dialogue: 0,0:21:50.54,0:21:51.63,AN_Main,,0000,0000,0000,,{\be1}Good...
+Dialogue: 0,0:22:00.88,0:22:03.41,AN_Main,,0000,0000,0000,,{\be1}You'll feel better if I do this...
+Dialogue: 0,0:22:03.58,0:22:04.52,AN_Main,,0000,0000,0000,,{\be1}What?
+Dialogue: 0,0:22:04.82,0:22:05.98,AN_Main,,0000,0000,0000,,{\be1}You're so beautiful
+Dialogue: 0,0:22:06.12,0:22:07.92,AN_Main,,0000,0000,0000,,{\be1}No, it's embarrassing!
+Dialogue: 0,0:22:08.42,0:22:10.69,AN_Main,,0000,0000,0000,,{\be1}Stop it, Yorishiro...
+Dialogue: 0,0:22:12.39,0:22:15.02,AN_Main,,0000,0000,0000,,{\be1}{\i1}I don't know what's going on...{\i0}
+Dialogue: 0,0:22:15.33,0:22:18.46,AN_Main,,0000,0000,0000,,{\be1}{\i1}...but I can't resist it.{\i0}
+Dialogue: 0,0:22:19.47,0:22:21.90,AN_Main,,0000,0000,0000,,{\be1}{\i1}Besides... it feels good...{\i0}
+Dialogue: 0,0:22:29.91,0:22:31.24,AN_Main,,0000,0000,0000,,{\be1}Yuu...
+Dialogue: 0,0:22:32.35,0:22:33.90,AN_Main,,0000,0000,0000,,{\be1}Suck this.
+Dialogue: 0,0:22:34.01,0:22:37.14,AN_Main,,0000,0000,0000,,{\be1}It will make me feel really good...
+Dialogue: 0,0:22:43.26,0:22:45.16,AN_Main,,0000,0000,0000,,{\be1}{\i1}Oh, it feels good...{\i0}
+Dialogue: 0,0:22:49.76,0:22:54.17,AN_Main,,0000,0000,0000,,{\be1}{\i1}This must be the test Lord Zeus was talking about...{\i0}
+Dialogue: 0,0:23:00.21,0:23:02.68,AN_Main,,0000,0000,0000,,{\be1}It feels great, Yuu...
+Dialogue: 0,0:23:10.75,0:23:12.05,AN_Main,,0000,0000,0000,,{\be1}Yuu...
+Dialogue: 0,0:23:25.63,0:23:26.83,AN_Main,,0000,0000,0000,,{\be1}I'll put it in.
+Dialogue: 0,0:23:39.41,0:23:43.32,AN_Main,,0000,0000,0000,,{\be1}{\i1}Lord Zeus, is this also part of the test?{\i0}
+Dialogue: 0,0:23:45.92,0:23:47.82,AN_Main,,0000,0000,0000,,{\be1}{\i1}Oh, it feels great! I can't hold back...{\i0}
+Dialogue: 0,0:23:56.76,0:23:57.56,AN_Main,,0000,0000,0000,,{\be1}What the...
+Dialogue: 0,0:24:09.44,0:24:11.04,AN_Main,,0000,0000,0000,,{\be1}It's a Sex Beast!
+Dialogue: 0,0:24:11.15,0:24:12.17,AN_Main,,0000,0000,0000,,{\be1}Why is it here?
+Dialogue: 0,0:24:16.88,0:24:17.82,AN_Main,,0000,0000,0000,,{\be1}Yuu!
+Dialogue: 0,0:24:17.99,0:24:22.79,AN_Main,,0000,0000,0000,,{\be1}Damn it, if I use any more godly powers, Hera will find out about me...
+Dialogue: 0,0:24:22.89,0:24:23.69,AN_Main,,0000,0000,0000,,{\be1}I have no choice!
+Dialogue: 0,0:24:40.11,0:24:41.34,AN_Main,,0000,0000,0000,,{\be1}Yorishiro!
+Dialogue: 0,0:24:42.18,0:24:44.67,AN_Main,,0000,0000,0000,,{\be1}Come on, you monster! I will fight you!
+Dialogue: 0,0:24:50.75,0:24:53.24,AN_Main,,0000,0000,0000,,{\be1}Take this! And this! And this!
+Dialogue: 0,0:24:53.52,0:24:54.32,AN_Main,,0000,0000,0000,,{\be1}And this!
+Dialogue: 0,0:24:54.82,0:24:57.76,AN_Main,,0000,0000,0000,,{\be1}Take this! And this! And this!
+Dialogue: 0,0:24:58.33,0:25:00.59,AN_Main,,0000,0000,0000,,{\be1}I'm not going to lose!
+Dialogue: 0,0:25:00.69,0:25:02.32,AN_Main,,0000,0000,0000,,{\be1}You're not going to beat me!
+Dialogue: 0,0:25:02.93,0:25:07.80,AN_Main,,0000,0000,0000,,{\be1}Take this! And this! And this!
+Dialogue: 0,0:25:13.97,0:25:17.27,AN_Main,,0000,0000,0000,,{\be1}Eat this!
+Dialogue: 0,0:25:31.79,0:25:33.62,AN_Main,,0000,0000,0000,,{\be1}Yorishiro, are you okay?
+Dialogue: 0,0:25:33.76,0:25:35.52,AN_Main,,0000,0000,0000,,{\be1}I defeated the monster!
+Dialogue: 0,0:25:35.66,0:25:36.89,AN_Main,,0000,0000,0000,,{\be1}Yuu...
+Dialogue: 0,0:25:37.20,0:25:38.69,AN_Main,,0000,0000,0000,,{\be1}I did it! I did it!
+Dialogue: 0,0:25:39.30,0:25:41.60,AN_Main,,0000,0000,0000,,{\be1}Hey, Yuu...
+Dialogue: 0,0:25:42.30,0:25:44.70,AN_Main,,0000,0000,0000,,{\be1}What was I doing?
+Dialogue: 0,0:25:50.61,0:25:51.84,AN_Main,,0000,0000,0000,,{\be1}Zeu-chu!
+Dialogue: 0,0:25:52.01,0:25:53.34,AN_Main,,0000,0000,0000,,{\be1}Zeu-chu!
+Dialogue: 0,0:26:14.00,0:26:15.97,AN_Main,,0000,0000,0000,,{\be1}Are you sure about that?
+Dialogue: 0,0:26:16.07,0:26:18.09,AN_Main,,0000,0000,0000,,{\be1}Yes. I saw it with my own eyes.
+Dialogue: 0,0:26:19.97,0:26:21.41,AN_Main,,0000,0000,0000,,{\be1}But I don't understand...
+Dialogue: 0,0:26:21.54,0:26:24.48,AN_Main,,0000,0000,0000,,{\be1}Are they trying to invade Hell?
+Dialogue: 0,0:26:25.25,0:26:30.74,AN_Main,,0000,0000,0000,,{\be1}Persephone, go to the surface and find out what his real purpose is.
+Dialogue: 0,0:26:31.39,0:26:35.12,AN_Main,,0000,0000,0000,,{\be1}And if those angels get in your way, eliminate them.
+Dialogue: 0,0:26:38.69,0:26:40.59,AN_Main,,0000,0000,0000,,{\be1}Okay!

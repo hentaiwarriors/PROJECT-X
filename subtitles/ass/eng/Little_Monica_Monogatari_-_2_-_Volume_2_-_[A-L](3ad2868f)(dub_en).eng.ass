@@ -1,0 +1,527 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: LM_Eng,FlamencoD,34,&H00B6B6FF,&H00000000,&H005959A9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,10,0
+Style: LM_Rom,Bubblefont,22,&H00FFB6B6,&H00FFB6B6,&H00A95959,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,128
+Style: LM_Title,Marriage,40,&H004389AC,&H00000000,&H00152B53,&H00C5D9EB,0,0,0,0,100,100,0,0,1,3,0,2,20,20,10,0
+Style: LM_Sub,Johnny Mac Scrawl BRK,44,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,110,100,0,0,0,0,0,2,20,20,10,0
+Style: LM_Cred,Johnny Mac Scrawl BRK,44,&H000C0E0A,&H00000000,&H990C0E0A,&H00000000,0,0,0,0,90,100,0,0,0,0,0,2,20,20,10,0
+Style: LM_Cred2,Johnny Mac Scrawl BRK,26,&H000C0E0A,&H00000000,&H990C0E0A,&H00000000,0,0,0,0,90,100,0,0,1,1,0,2,20,20,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.53,0:00:04.62,LM_Eng,,0000,0000,0000,,Give a synopsis of the last episode, please!
+Dialogue: 0,0:00:06.80,0:00:07.39,LM_Eng,,0000,0000,0000,,Eh...
+Dialogue: 0,0:00:09.74,0:00:12.50,LM_Eng,,0000,0000,0000,,I have returned to my hometown, Little Monica, after being away for a long time.
+Dialogue: 0,0:00:12.87,0:00:15.00,LM_Eng,,0000,0000,0000,,The changes I saw were staggering.
+Dialogue: 0,0:00:16.04,0:00:20.21,LM_Eng,,0000,0000,0000,,Everyone used to love the arts. Everyone used to be generous and happy in this city.
+Dialogue: 0,0:00:21.45,0:00:27.05,LM_Eng,,0000,0000,0000,,But now, Kajo rules the city, and it is overrun with evil.
+Dialogue: 0,0:00:29.92,0:00:33.86,LM_Eng,,0000,0000,0000,,How can I restore Little Monica back to the cheerful city that it used to be?
+Dialogue: 0,0:00:36.16,0:00:38.36,LM_Eng,,0000,0000,0000,,No... I have to think of the city now.
+Dialogue: 0,0:00:38.60,0:00:40.50,LM_Eng,,0000,0000,0000,,But it's so hard to concentrate...
+Dialogue: 0,0:00:41.27,0:00:44.67,LM_Eng,,0000,0000,0000,,Mei, you shouldn't be doing this. You're going to get in trouble again.
+Dialogue: 0,0:00:45.11,0:00:48.20,LM_Eng,,0000,0000,0000,,It's okay. Sis went shopping.
+Dialogue: 0,0:00:48.94,0:00:50.00,LM_Eng,,0000,0000,0000,,But Mei...
+Dialogue: 0,0:00:50.95,0:00:53.54,LM_Eng,,0000,0000,0000,,You're the one who said I could do whatever I wanted.
+Dialogue: 0,0:00:54.82,0:00:57.28,LM_Eng,,0000,0000,0000,,Hi Mei. I'm researching some things about the city.
+Dialogue: 0,0:00:57.55,0:00:59.21,LM_Eng,,0000,0000,0000,,You can do whatever you want as long as you don't distract me.
+Dialogue: 0,0:00:59.65,0:01:00.18,LM_Eng,,0000,0000,0000,,Okay.
+Dialogue: 0,0:01:00.86,0:01:02.15,LM_Eng,,0000,0000,0000,,I said as long as you didn't distract me...
+Dialogue: 0,0:01:02.52,0:01:03.46,LM_Eng,,0000,0000,0000,,Am I distracting you?
+Dialogue: 0,0:01:08.03,0:01:11.43,LM_Eng,,0000,0000,0000,,Hi Tina... I didn't know you were there.
+Dialogue: 0,0:01:12.40,0:01:13.96,LM_Eng,,0000,0000,0000,,Will, I...
+Dialogue: 0,0:01:14.40,0:01:14.93,LM_Eng,,0000,0000,0000,,Tina.
+Dialogue: 0,0:01:16.07,0:01:20.40,LM_Eng,,0000,0000,0000,,Tina, lick this! It tastes just like your cakes!
+Dialogue: 0,0:01:20.68,0:01:23.70,LM_Eng,,0000,0000,0000,,Huh? Does that mean it's sweet? That can't be good!
+Dialogue: 0,0:01:25.24,0:01:26.07,LM_Eng,,0000,0000,0000,,Well?
+Dialogue: 0,0:01:27.32,0:01:28.81,LM_Eng,,0000,0000,0000,,You're right. It's salty.
+Dialogue: 0,0:01:29.42,0:01:30.01,LM_Eng,,0000,0000,0000,,Salty?!
+Dialogue: 0,0:01:30.32,0:01:32.95,LM_Eng,,0000,0000,0000,,You always put in too much salt.
+Dialogue: 0,0:01:33.15,0:01:34.62,LM_Eng,,0000,0000,0000,,Oh, now I get it.
+Dialogue: 0,0:01:35.59,0:01:36.92,LM_Eng,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:01:37.63,0:01:40.89,LM_Eng,,0000,0000,0000,,Have another lick. You might grow to like it.
+Dialogue: 0,0:01:41.13,0:01:41.49,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}Sure.\N{\r}Okay.
+Dialogue: 0,0:01:41.96,0:01:43.90,LM_Eng,,0000,0000,0000,,What obedient girls...
+Dialogue: 0,0:02:00.98,0:02:04.32,LM_Eng,,0000,0000,0000,,You two really like it, huh?
+Dialogue: 0,0:02:04.78,0:02:05.73,LM_Sub,,0000,0000,0000,,{\be1}I don't want to stop.
+Dialogue: 0,0:02:05.89,0:02:06.77,LM_Sub,,0000,0000,0000,,{\be1}I can't stop.
+Dialogue: 0,0:02:07.19,0:02:09.35,LM_Eng,,0000,0000,0000,,You make it sound like it's a shrimp chip.
+Dialogue: 0,0:02:09.94,0:02:11.18,LM_Sub,,0000,0000,0000,,{\be1}What is a shrimp chip?
+Dialogue: 0,0:02:12.56,0:02:16.19,LM_Eng,,0000,0000,0000,,It's a snack. They are eaten in Asian countries.
+Dialogue: 0,0:02:17.20,0:02:18.76,LM_Eng,,0000,0000,0000,,You know so much.
+Dialogue: 0,0:02:19.10,0:02:20.16,LM_Eng,,0000,0000,0000,,You're so amazing.
+Dialogue: 0,0:02:20.87,0:02:23.80,LM_Eng,,0000,0000,0000,,But there are things that I can't figure out.
+Dialogue: 0,0:02:24.81,0:02:25.53,LM_Eng,,0000,0000,0000,,Really?
+Dialogue: 0,0:02:25.61,0:02:26.73,LM_Eng,,0000,0000,0000,,Like what?
+Dialogue: 0,0:02:27.71,0:02:34.05,LM_Eng,,0000,0000,0000,,Kajo wanted to see all of you naked the other day. What was that all about?
+Dialogue: 0,0:02:34.62,0:02:38.35,LM_Eng,,0000,0000,0000,,Maybe if I saw you naked again, I might be able to figure it out.
+Dialogue: 0,0:02:39.09,0:02:40.59,LM_Eng,,0000,0000,0000,,Will you take your clothes off?
+Dialogue: 0,0:02:40.59,0:02:40.69,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}Okay! Sure!\N{\r}Will you take your clothes off?
+Dialogue: 0,0:02:48.30,0:02:52.20,LM_Eng,,0000,0000,0000,,I can't tell by just looking. I should take a closer look.
+Dialogue: 0,0:02:52.87,0:02:54.49,LM_Eng,,0000,0000,0000,,Can both of you get on the bed?
+Dialogue: 0,0:02:55.20,0:02:59.16,LM_Eng,,0000,0000,0000,,I want to check a certain part of your body very well.
+Dialogue: 0,0:02:59.91,0:03:00.74,LM_Eng,,0000,0000,0000,,A certain part?
+Dialogue: 0,0:03:01.08,0:03:01.56,LM_Eng,,0000,0000,0000,,That is...
+Dialogue: 0,0:03:02.31,0:03:02.90,LM_Eng,,0000,0000,0000,,Here!
+Dialogue: 0,0:03:08.45,0:03:12.82,LM_Eng,,0000,0000,0000,,The temperature and wetness are different. Does this mean something?
+Dialogue: 0,0:03:13.49,0:03:14.95,LM_Eng,,0000,0000,0000,,Will, I...
+Dialogue: 0,0:03:15.19,0:03:16.68,LM_Eng,,0000,0000,0000,,You're so amazing, Will.
+Dialogue: 0,0:03:17.16,0:03:17.89,LM_Eng,,0000,0000,0000,,Really?
+Dialogue: 0,0:03:18.89,0:03:21.45,LM_Eng,,0000,0000,0000,,Let me see how you taste.
+Dialogue: 0,0:03:21.73,0:03:24.25,LM_Eng,,0000,0000,0000,,Spread your legs and lie down.
+Dialogue: 0,0:03:24.47,0:03:25.23,LM_Eng,,0000,0000,0000,,I'm home!
+Dialogue: 0,0:03:25.57,0:03:29.72,LM_Title,,0000,0000,0000,,{\fad(1000,380)\pos(258,236)\be1\bord5\3c&HC5D9EB}The Little Monica Story
+Dialogue: 1,0:03:25.57,0:03:29.72,LM_Title,,0000,0000,0000,,{\fad(1000,380)\pos(258,236)}The Little Monica Story
+Dialogue: 0,0:03:25.57,0:03:29.72,LM_Title,,0000,0000,0000,,{\fad(1000,380)\pos(356,336)\be1\bord1\shad1\1c&H0F1559\3c&H3F4589\4a&H80\fnTempus Sans ITC}Part 2
+Dialogue: 0,0:03:29.64,0:03:30.00,LM_Eng,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:30.77,0:03:32.33,LM_Eng,,0000,0000,0000,,Tina? Mei?
+Dialogue: 0,0:03:35.88,0:03:37.43,LM_Eng,,0000,0000,0000,,They taste slightly different.
+Dialogue: 0,0:03:39.38,0:03:42.41,LM_Eng,,0000,0000,0000,,The amount and the consistency is also different.
+Dialogue: 0,0:03:43.68,0:03:46.48,LM_Eng,,0000,0000,0000,,The size of their breasts and their texture...
+Dialogue: 0,0:03:48.32,0:03:50.38,LM_Eng,,0000,0000,0000,,They suck differently too.
+Dialogue: 0,0:03:52.43,0:03:54.69,LM_Eng,,0000,0000,0000,,Tina! Mei! Is anyone home?
+Dialogue: 0,0:03:55.46,0:03:56.36,LM_Eng,,0000,0000,0000,,Will...
+Dialogue: 0,0:03:56.56,0:03:59.12,LM_Eng,,0000,0000,0000,,Will, it feels so good.
+Dialogue: 0,0:04:01.64,0:04:03.50,LM_Eng,,0000,0000,0000,,They're both really feeling it.
+Dialogue: 0,0:04:05.27,0:04:06.40,LM_Eng,,0000,0000,0000,,Jeez, those two...
+Dialogue: 0,0:04:06.97,0:04:09.00,LM_Eng,,0000,0000,0000,,I'm going to stick it in.
+Dialogue: 0,0:04:10.64,0:04:12.77,LM_Eng,,0000,0000,0000,,Will, give it to me.
+Dialogue: 0,0:04:13.08,0:04:14.88,LM_Eng,,0000,0000,0000,,I want your cock inside me.
+Dialogue: 0,0:04:15.68,0:04:16.34,LM_Eng,,0000,0000,0000,,Okay.
+Dialogue: 0,0:04:18.79,0:04:20.31,LM_Eng,,0000,0000,0000,,Hi Celia. Did you need something?
+Dialogue: 0,0:04:22.52,0:04:24.72,LM_Eng,,0000,0000,0000,,I was looking for Tina and Mei but...
+Dialogue: 0,0:04:25.49,0:04:27.98,LM_Eng,,0000,0000,0000,,Excuse me. I'm going to go downstairs and prepare the store.
+Dialogue: 0,0:04:28.36,0:04:28.95,LM_Eng,,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:29.46,0:04:30.43,LM_Eng,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:04:30.56,0:04:31.16,LM_Eng,,0000,0000,0000,,Mei!
+Dialogue: 0,0:04:32.40,0:04:35.96,LM_Eng,,0000,0000,0000,,You two need to stop slacking off! Jeez...
+Dialogue: 0,0:04:36.50,0:04:40.63,LM_Eng,,0000,0000,0000,,Will! I need you to supervise those two when I'm gone!
+Dialogue: 0,0:04:40.94,0:04:44.74,LM_Eng,,0000,0000,0000,,I'm sorry. I was just trying to learn more about the city and I kept holding them up.
+Dialogue: 0,0:04:45.28,0:04:46.18,LM_Eng,,0000,0000,0000,,Jeez...
+Dialogue: 0,0:04:49.52,0:04:54.42,LM_Eng,,0000,0000,0000,,Men's rooms smell so bad. Open the windows for a change.
+Dialogue: 0,0:04:55.46,0:04:57.42,LM_Eng,,0000,0000,0000,,S...Sure. I'll do that from now on.
+Dialogue: 0,0:04:57.76,0:04:58.35,LM_Eng,,0000,0000,0000,,By the way...
+Dialogue: 0,0:04:58.83,0:04:59.55,LM_Eng,,0000,0000,0000,,Is there something else?
+Dialogue: 0,0:05:00.83,0:05:03.06,LM_Eng,,0000,0000,0000,,Do you want to go out to see the city later?
+Dialogue: 0,0:05:03.90,0:05:07.70,LM_Eng,,0000,0000,0000,,It's hard for you to come up with ideas if you don't see it for yourself.
+Dialogue: 0,0:05:09.17,0:05:12.14,LM_Eng,,0000,0000,0000,,Good idea. Let's do that. That is great.
+Dialogue: 0,0:05:14.41,0:05:16.24,LM_Eng,,0000,0000,0000,,There are a lot of thugs...
+Dialogue: 0,0:05:16.91,0:05:19.04,LM_Eng,,0000,0000,0000,,Some of them are dressed up, but...
+Dialogue: 0,0:05:19.28,0:05:21.01,LM_Eng,,0000,0000,0000,,They're either here for the prostitutes or the gambling.
+Dialogue: 0,0:05:21.58,0:05:25.54,LM_Eng,,0000,0000,0000,,It's pretty quiet during the day, but it gets much worse at night.
+Dialogue: 0,0:05:25.95,0:05:27.55,LM_Eng,,0000,0000,0000,,I didn't think it was so corrupt.
+Dialogue: 0,0:05:29.99,0:05:35.43,LM_Eng,,0000,0000,0000,,I just realized that I don't hear any music. No one is even humming.
+Dialogue: 0,0:05:36.26,0:05:39.20,LM_Eng,,0000,0000,0000,,Kajo banned music.
+Dialogue: 0,0:05:39.87,0:05:43.60,LM_Eng,,0000,0000,0000,,The strip show you went to is one of the few places where it's allowed.
+Dialogue: 0,0:05:45.11,0:05:48.77,LM_Eng,,0000,0000,0000,,We can only play our instruments because we're not in the center of the city, but...
+Dialogue: 0,0:05:49.01,0:05:52.78,LM_Eng,,0000,0000,0000,,...we have to be careful. If we get caught, we'll be sent to prison.
+Dialogue: 0,0:05:53.58,0:05:55.14,LM_Eng,,0000,0000,0000,,This is all because of Kajo...
+Dialogue: 0,0:05:55.62,0:05:58.45,LM_Eng,,0000,0000,0000,,The first thing we need to do is figure out how to get rid of him.
+Dialogue: 0,0:05:58.82,0:06:01.48,LM_Eng,,0000,0000,0000,,Kajo has enough money from his shady businesses...
+Dialogue: 0,0:06:01.89,0:06:03.88,LM_Eng,,0000,0000,0000,,...to bribe both the army and the police.
+Dialogue: 0,0:06:04.33,0:06:05.95,LM_Eng,,0000,0000,0000,,Everyone is too scared to speak up.
+Dialogue: 0,0:06:11.90,0:06:13.96,LM_Eng,,0000,0000,0000,,Isn't that Mom?
+Dialogue: 0,0:06:16.70,0:06:17.47,LM_Eng,,0000,0000,0000,,It looks like her.
+Dialogue: 0,0:06:18.51,0:06:23.74,LM_Eng,,0000,0000,0000,,I was too young when Mom left, so I don't really remember her.
+Dialogue: 0,0:06:23.94,0:06:24.81,LM_Eng,,0000,0000,0000,,Let's ask her!
+Dialogue: 0,0:06:24.95,0:06:25.31,LM_Eng,,0000,0000,0000,,Will!
+Dialogue: 0,0:06:26.25,0:06:27.27,LM_Eng,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:06:28.05,0:06:28.51,LM_Eng,,0000,0000,0000,,Yes?
+Dialogue: 0,0:06:28.92,0:06:31.01,LM_Eng,,0000,0000,0000,,Are you Ingrid?
+Dialogue: 0,0:06:32.95,0:06:38.48,LM_Eng,,0000,0000,0000,,Are you? This is Celia, Tina, and Mei. Do you remember?
+Dialogue: 0,0:06:39.23,0:06:41.19,LM_Eng,,0000,0000,0000,,They're your daughters.
+Dialogue: 0,0:06:41.73,0:06:45.26,LM_Eng,,0000,0000,0000,,I don't have any children. I've given myself to God.
+Dialogue: 0,0:06:45.87,0:06:51.74,LM_Eng,,0000,0000,0000,,I'm sure that you can tell I'm a nun by just looking at me. Are you making fun of me?
+Dialogue: 0,0:06:52.17,0:06:54.33,LM_Eng,,0000,0000,0000,,Will. Let's go. It's not her.
+Dialogue: 0,0:06:54.41,0:06:59.28,LM_Eng,,0000,0000,0000,,No, I'm the oldest, so my memory is the best. She's definitely Ingrid.
+Dialogue: 0,0:06:59.85,0:07:00.71,LM_Eng,,0000,0000,0000,,Please stop!
+Dialogue: 0,0:07:01.85,0:07:02.82,LM_Eng,,0000,0000,0000,,You're bothering me.
+Dialogue: 0,0:07:28.34,0:07:28.60,LM_Eng,,0000,0000,0000,,Will.
+Dialogue: 0,0:07:29.68,0:07:33.37,LM_Eng,,0000,0000,0000,,Celia, I'm sorry I've taken over a corner of your store.
+Dialogue: 0,0:07:33.88,0:07:35.58,LM_Eng,,0000,0000,0000,,It's just that I can concentrate the best here.
+Dialogue: 0,0:07:35.92,0:07:39.28,LM_Eng,,0000,0000,0000,,That is fine. Thanks to Kajo we barely get any customers.
+Dialogue: 0,0:07:39.99,0:07:42.75,LM_Eng,,0000,0000,0000,,Him again... We have to do something quick.
+Dialogue: 0,0:07:44.09,0:07:44.68,LM_Eng,,0000,0000,0000,,Where are Tina and Mei?
+Dialogue: 0,0:07:45.23,0:07:48.02,LM_Eng,,0000,0000,0000,,They're cleaning the kitchen. It's their punishment for slacking off the other day.
+Dialogue: 0,0:07:49.33,0:07:52.32,LM_Eng,,0000,0000,0000,,Then I'd better work hard to rebuild this city.
+Dialogue: 0,0:07:52.67,0:07:56.03,LM_Eng,,0000,0000,0000,,Will, I had a lot of fun yesterday. Thank you.
+Dialogue: 0,0:07:57.64,0:08:01.57,LM_Eng,,0000,0000,0000,,About our mother... You did your best for us, so...
+Dialogue: 0,0:08:01.91,0:08:05.54,LM_Eng,,0000,0000,0000,,Oh, that... I was raised by foster parents, and some things were hard...
+Dialogue: 0,0:08:06.18,0:08:10.48,LM_Eng,,0000,0000,0000,,I was lonely at times, but... you guys didn't even have that.
+Dialogue: 0,0:08:10.95,0:08:14.91,LM_Eng,,0000,0000,0000,,When I thought about how hard that must have been, I...
+Dialogue: 0,0:08:16.06,0:08:20.49,LM_Eng,,0000,0000,0000,,Thank you, Will. It's the thought that counts.
+Dialogue: 0,0:08:21.26,0:08:26.53,LM_Eng,,0000,0000,0000,,It might not have been her, but we'll have you from now on, so...
+Dialogue: 0,0:08:29.07,0:08:32.77,LM_Eng,,0000,0000,0000,,You're right. I'll take good care of all of you.
+Dialogue: 0,0:08:33.61,0:08:39.01,LM_Eng,,0000,0000,0000,,But, I'm really sure that woman is your mother, Ingrid.
+Dialogue: 0,0:08:39.55,0:08:42.21,LM_Eng,,0000,0000,0000,,It was strange the way that she kept denying it.
+Dialogue: 0,0:08:42.75,0:08:44.72,LM_Eng,,0000,0000,0000,,That is because she lost her memory.
+Dialogue: 0,0:08:45.89,0:08:46.55,LM_Eng,,0000,0000,0000,,What is wrong, Will?
+Dialogue: 0,0:08:48.09,0:08:49.99,LM_Eng,,0000,0000,0000,,Welcome. I didn't even notice you come in.
+Dialogue: 0,0:08:51.09,0:08:53.96,LM_Eng,,0000,0000,0000,,Oh? Are you friends with Will?
+Dialogue: 0,0:08:54.26,0:08:55.52,LM_Eng,,0000,0000,0000,,No, I don't know her.
+Dialogue: 0,0:08:55.66,0:08:57.86,LM_Eng,,0000,0000,0000,,She just surprised me because she said that suddenly.
+Dialogue: 0,0:08:58.17,0:08:59.53,LM_Eng,,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:09:00.00,0:09:06.80,LM_Eng,,0000,0000,0000,,I'm a traveling fortune-teller. I heard that the coffee here is great, so I stopped by.
+Dialogue: 0,0:09:07.31,0:09:11.61,LM_Eng,,0000,0000,0000,,When I overheard your interesting conversation, I listened in.
+Dialogue: 0,0:09:13.38,0:09:15.54,LM_Eng,,0000,0000,0000,,Anyway, is what you just said true?
+Dialogue: 0,0:09:16.22,0:09:23.32,LM_Eng,,0000,0000,0000,,It's true. I met her at the port. I thought she was acting strangely, so I asked her...
+Dialogue: 0,0:09:23.96,0:09:27.39,LM_Eng,,0000,0000,0000,,She told me that she lost her memory, but she also said...
+Dialogue: 0,0:09:28.26,0:09:29.89,LM_Eng,,0000,0000,0000,,...that there is something familiar about this place...
+Dialogue: 0,0:09:30.36,0:09:37.33,LM_Eng,,0000,0000,0000,,...and there is someone out there that is precious to her.
+Dialogue: 0,0:09:38.01,0:09:39.17,LM_Eng,,0000,0000,0000,,Will! Does that mean...
+Dialogue: 0,0:09:39.47,0:09:43.24,LM_Eng,,0000,0000,0000,,It must be you girls! That woman is Ingrid!
+Dialogue: 0,0:09:43.71,0:09:45.61,LM_Eng,,0000,0000,0000,,I'm going to go look for Mother!
+Dialogue: 0,0:09:46.11,0:09:47.31,LM_Eng,,0000,0000,0000,,Wait! I'll go with you!
+Dialogue: 0,0:09:48.55,0:09:51.78,LM_Eng,,0000,0000,0000,,She also said there is someone out there who wants to harm her.
+Dialogue: 0,0:09:53.45,0:09:59.12,LM_Eng,,0000,0000,0000,,As far as I can tell, this harm will also affect Little Monica.
+Dialogue: 0,0:10:00.13,0:10:04.72,LM_Eng,,0000,0000,0000,,I want you to listen, because this has to do with the fate of Little Monica.
+Dialogue: 0,0:10:05.33,0:10:08.56,LM_Eng,,0000,0000,0000,,You'll still have time to look for your mother afterwards.
+Dialogue: 0,0:10:11.00,0:10:14.13,LM_Eng,,0000,0000,0000,,Okay, I'll listen. I'll get my sisters.
+Dialogue: 0,0:10:16.58,0:10:18.94,LM_Eng,,0000,0000,0000,,These are my sisters, Tina and Mei. We're all here now.
+Dialogue: 0,0:10:19.68,0:10:22.15,LM_Eng,,0000,0000,0000,,I see. I'm Chateau, a fortune-teller.
+Dialogue: 0,0:10:22.88,0:10:24.61,LM_Eng,,0000,0000,0000,,First, there is something I want to ask you.
+Dialogue: 0,0:10:25.65,0:10:28.25,LM_Eng,,0000,0000,0000,,Do you know where the town's name, Little Monica, comes from?
+Dialogue: 0,0:10:29.09,0:10:31.08,LM_Eng,,0000,0000,0000,,Everyone knows that.
+Dialogue: 0,0:10:31.53,0:10:35.99,LM_Eng,,0000,0000,0000,,Little Monica was the heir of the family that took care of the theater for generations.
+Dialogue: 0,0:10:36.50,0:10:38.93,LM_Eng,,0000,0000,0000,,She is the one who supported the city.
+Dialogue: 0,0:10:39.70,0:10:42.36,LM_Eng,,0000,0000,0000,,But one day, she disappeared...
+Dialogue: 0,0:10:43.14,0:10:45.11,LM_Eng,,0000,0000,0000,,...and I took over the city!
+Dialogue: 0,0:10:47.01,0:10:48.74,LM_Eng,,0000,0000,0000,,About Little Monica's whereabouts...
+Dialogue: 0,0:10:48.81,0:10:49.47,LM_Eng,,0000,0000,0000,,...do you know where she is?
+Dialogue: 0,0:10:50.08,0:10:53.38,LM_Eng,,0000,0000,0000,,Yes, according to a reliable source, Little Monica...
+Dialogue: 0,0:10:53.71,0:10:57.34,LM_Eng,,0000,0000,0000,,...should have died by my hands, but...
+Dialogue: 0,0:11:09.46,0:11:12.06,LM_Eng,,0000,0000,0000,,...instead she disappeared in front of his eyes.
+Dialogue: 0,0:11:13.43,0:11:16.67,LM_Eng,,0000,0000,0000,,Little Monica and her family have the ability to...
+Dialogue: 0,0:11:16.77,0:11:20.97,LM_Eng,,0000,0000,0000,,...possess other people's bodies. That is probably how she hid herself.
+Dialogue: 0,0:11:21.41,0:11:22.93,LM_Eng,,0000,0000,0000,,That happened thirteen years ago...
+Dialogue: 0,0:11:23.18,0:11:25.41,LM_Eng,,0000,0000,0000,,About the same time that Ingrid disappeared!
+Dialogue: 0,0:11:25.88,0:11:28.81,LM_Eng,,0000,0000,0000,,So Little Monica's spirit is hiding inside Mom's body!
+Dialogue: 0,0:11:29.42,0:11:31.99,LM_Eng,,0000,0000,0000,,Yes, but Little Monica can only remain there...
+Dialogue: 0,0:11:32.02,0:11:32.55,LM_Eng,,0000,0000,0000,,...until the night of the full moon of the thirteenth year.
+Dialogue: 0,0:11:32.55,0:11:34.38,LM_Eng,,0000,0000,0000,,...until the night of the full moon of the thirteenth year.
+Dialogue: 0,0:11:34.76,0:11:37.66,LM_Eng,,0000,0000,0000,,If she doesn't leave by then, she'll end up killing her host...
+Dialogue: 0,0:11:37.89,0:11:43.30,LM_Eng,,0000,0000,0000,,Little Monica won't do that. She'll definitely leave.
+Dialogue: 0,0:11:43.46,0:11:47.23,LM_Eng,,0000,0000,0000,,There is no point in killing the host.
+Dialogue: 0,0:11:47.47,0:11:49.46,LM_Eng,,0000,0000,0000,,My opportunity will come when she leaves the body in spirit form.
+Dialogue: 0,0:11:49.80,0:11:52.40,LM_Eng,,0000,0000,0000,,That is when the manuscript and birdcage come into play.
+Dialogue: 0,0:11:52.84,0:11:57.17,LM_Eng,,0000,0000,0000,,If I chant the spell from the manuscript, she'll return to her true self.
+Dialogue: 0,0:11:58.58,0:12:03.14,LM_Eng,,0000,0000,0000,,Then I'll trap her inside the birdcage, and Little Monica will be finished.
+Dialogue: 0,0:12:03.75,0:12:06.55,LM_Eng,,0000,0000,0000,,All I need to do is find the woman who is her host.
+Dialogue: 0,0:12:07.25,0:12:09.38,LM_Eng,,0000,0000,0000,,I see... I read somewhere...
+Dialogue: 0,0:12:09.99,0:12:15.02,LM_Eng,,0000,0000,0000,,...that when a spirit enters a body, marks will appear on the host's body.
+Dialogue: 0,0:12:15.80,0:12:18.09,LM_Eng,,0000,0000,0000,,That is why Kajo is checking the women in the city.
+Dialogue: 0,0:12:18.43,0:12:20.80,LM_Eng,,0000,0000,0000,,He is looking for the scars from when he stabbed her!
+Dialogue: 0,0:12:21.03,0:12:24.13,LM_Eng,,0000,0000,0000,,Wait... But isn't the full moon...?
+Dialogue: 0,0:12:24.37,0:12:24.77,LM_Eng,,0000,0000,0000,,Tonight.
+Dialogue: 0,0:12:25.74,0:12:27.47,LM_Eng,,0000,0000,0000,,Yes, it's tonight.
+Dialogue: 0,0:12:36.92,0:12:39.15,LM_Eng,,0000,0000,0000,,They don't get it, do they...
+Dialogue: 0,0:12:41.15,0:12:46.09,LM_Eng,,0000,0000,0000,,The reason why I stopped to tell you is because I want you to be prepared.
+Dialogue: 0,0:12:47.59,0:12:50.56,LM_Eng,,0000,0000,0000,,When Little Monica leaves your mother's body...
+Dialogue: 0,0:12:51.03,0:12:56.16,LM_Eng,,0000,0000,0000,,...if you can't stop Kajo, someone must be willing to take in Little Monica.
+Dialogue: 0,0:12:57.00,0:12:59.94,LM_Eng,,0000,0000,0000,,The same person can't be possessed twice.
+Dialogue: 0,0:13:00.57,0:13:05.07,LM_Eng,,0000,0000,0000,,If you love this city, I want you to be prepared to make this sacrifice.
+Dialogue: 0,0:13:05.68,0:13:09.38,LM_Eng,,0000,0000,0000,,It's okay. We'll just have to do something about Kajo before that.
+Dialogue: 0,0:13:10.15,0:13:11.17,LM_Eng,,0000,0000,0000,,But how?
+Dialogue: 0,0:13:11.59,0:13:15.39,LM_Eng,,0000,0000,0000,,I'll figure something out. You girls go find your mother.
+Dialogue: 0,0:13:16.36,0:13:18.35,LM_Eng,,0000,0000,0000,,Chateau and I will head to Kajo's mansion.
+Dialogue: 0,0:13:18.93,0:13:19.59,LM_Eng,,0000,0000,0000,,Okay, Celia...
+Dialogue: 0,0:13:21.60,0:13:22.22,LM_Eng,,0000,0000,0000,,Sis...
+Dialogue: 0,0:13:22.93,0:13:24.12,LM_Eng,,0000,0000,0000,,Sis!
+Dialogue: 0,0:13:25.87,0:13:27.96,LM_Eng,,0000,0000,0000,,What is wrong, Sis? You're spacing out.
+Dialogue: 0,0:13:28.40,0:13:29.84,LM_Eng,,0000,0000,0000,,Look! That carriage!
+Dialogue: 0,0:13:30.14,0:13:30.66,LM_Eng,,0000,0000,0000,,Carriage!
+Dialogue: 0,0:13:31.37,0:13:33.93,LM_Eng,,0000,0000,0000,,Mei said she saw Mom in that carriage!
+Dialogue: 0,0:13:34.21,0:13:36.57,LM_Eng,,0000,0000,0000,,Really? But that is Kajo's carriage!
+Dialogue: 0,0:13:36.71,0:13:38.23,LM_Eng,,0000,0000,0000,,I know! We have to go after it!
+Dialogue: 0,0:13:52.39,0:13:53.62,LM_Eng,,0000,0000,0000,,What did you find?
+Dialogue: 0,0:13:54.13,0:13:57.36,LM_Eng,,0000,0000,0000,,It's empty. The carriage is gone, so he is gone too.
+Dialogue: 0,0:13:57.83,0:13:59.66,LM_Eng,,0000,0000,0000,,Damn it! I thought he would be here.
+Dialogue: 0,0:13:59.97,0:14:01.70,LM_Eng,,0000,0000,0000,,He is probably at the outdoor theater.
+Dialogue: 0,0:14:02.14,0:14:04.50,LM_Eng,,0000,0000,0000,,This isn't good. We need to meet up with Celia.
+Dialogue: 0,0:14:05.34,0:14:07.47,LM_Eng,,0000,0000,0000,,What is it, Meow? We have to go.
+Dialogue: 0,0:14:07.98,0:14:11.81,LM_Eng,,0000,0000,0000,,I can't forget the last time we had sex. I want to fuck you again.
+Dialogue: 0,0:14:12.11,0:14:13.77,LM_Eng,,0000,0000,0000,,Now? This isn't the time!
+Dialogue: 0,0:14:14.82,0:14:19.38,LM_Eng,,0000,0000,0000,,But this may be the last time. I might not see you again.
+Dialogue: 0,0:14:19.79,0:14:20.28,LM_Eng,,0000,0000,0000,,Meow...
+Dialogue: 0,0:14:21.92,0:14:23.22,LM_Eng,,0000,0000,0000,,You're going to...?
+Dialogue: 0,0:14:24.83,0:14:27.59,LM_Eng,,0000,0000,0000,,You can't do that! You're not from this city!
+Dialogue: 0,0:14:27.59,0:14:29.39,LM_Eng,,0000,0000,0000,,That is why. So...
+Dialogue: 0,0:14:30.56,0:14:32.66,LM_Eng,,0000,0000,0000,,So please, Will?
+Dialogue: 0,0:14:33.83,0:14:34.30,LM_Eng,,0000,0000,0000,,Meow...
+Dialogue: 0,0:14:42.24,0:14:45.54,LM_Eng,,0000,0000,0000,,Will, it feels so good...
+Dialogue: 0,0:14:48.55,0:14:51.38,LM_Eng,,0000,0000,0000,,The grass is so prickly, it's turning me on.
+Dialogue: 0,0:14:57.12,0:15:01.36,LM_Eng,,0000,0000,0000,,Meow, this isn't like that. It's not that...
+Dialogue: 0,0:15:02.50,0:15:06.96,LM_Eng,,0000,0000,0000,,When I learned that you had decided to become Little Monica's next host...
+Dialogue: 0,0:15:07.30,0:15:08.60,LM_Eng,,0000,0000,0000,,...I was really moved.
+Dialogue: 0,0:15:09.07,0:15:11.94,LM_Eng,,0000,0000,0000,,Huh? I never said that!
+Dialogue: 0,0:15:13.51,0:15:16.31,LM_Eng,,0000,0000,0000,,I said that I might never see you again after this is over...
+Dialogue: 0,0:15:16.84,0:15:20.01,LM_Eng,,0000,0000,0000,,...because I'm leaving this city. That is all.
+Dialogue: 0,0:15:20.38,0:15:24.71,LM_Eng,,0000,0000,0000,,Then this is just sex.
+Dialogue: 0,0:15:25.55,0:15:30.55,LM_Eng,,0000,0000,0000,,Wouldn't you feel guilty if it wasn't just sex? Especially towards Celia?
+Dialogue: 0,0:15:31.26,0:15:35.99,LM_Eng,,0000,0000,0000,,Plus, I doubt you want to stop.
+Dialogue: 0,0:15:37.06,0:15:39.26,LM_Eng,,0000,0000,0000,,Will, touch mine too.
+Dialogue: 0,0:15:39.73,0:15:40.39,LM_Eng,,0000,0000,0000,,Okay.
+Dialogue: 0,0:15:42.50,0:15:48.10,LM_Eng,,0000,0000,0000,,Will, that feels so nice... I can tell you're starting to get into it.
+Dialogue: 0,0:15:48.38,0:15:51.71,LM_Eng,,0000,0000,0000,,You're terrible. You're just taking advantage of me.
+Dialogue: 0,0:15:57.08,0:16:00.75,LM_Eng,,0000,0000,0000,,You're terrible for making me so wet.
+Dialogue: 0,0:16:01.46,0:16:03.92,LM_Eng,,0000,0000,0000,,I didn't think we would do this again.
+Dialogue: 0,0:16:14.94,0:16:18.93,LM_Eng,,0000,0000,0000,,Will, it tastes so good.
+Dialogue: 0,0:16:20.47,0:16:21.60,LM_Eng,,0000,0000,0000,,You too, Meow.
+Dialogue: 0,0:16:22.88,0:16:24.78,LM_Eng,,0000,0000,0000,,You're so wet.
+Dialogue: 0,0:16:25.31,0:16:28.68,LM_Eng,,0000,0000,0000,,I can't wait any longer. Fuck me.
+Dialogue: 0,0:16:36.59,0:16:39.06,LM_Eng,,0000,0000,0000,,It feels so good. Make me feel good.
+Dialogue: 0,0:16:39.39,0:16:40.65,LM_Eng,,0000,0000,0000,,Okay. Here I come.
+Dialogue: 0,0:16:58.21,0:17:01.81,LM_Eng,,0000,0000,0000,,Will, your cock is so big. You're filling me up.
+Dialogue: 0,0:17:03.65,0:17:07.35,LM_Eng,,0000,0000,0000,,It feels so good! I'm going to cum!
+Dialogue: 0,0:17:09.89,0:17:11.82,LM_Eng,,0000,0000,0000,,I...I can't take anymore!
+Dialogue: 0,0:17:12.13,0:17:13.42,LM_Eng,,0000,0000,0000,,Me too... I'm gonna cum!
+Dialogue: 0,0:17:14.33,0:17:15.26,LM_Eng,,0000,0000,0000,,Cum with me!
+Dialogue: 0,0:17:27.74,0:17:30.18,LM_Eng,,0000,0000,0000,,This is where he must be checking the women.
+Dialogue: 0,0:17:30.78,0:17:32.18,LM_Eng,,0000,0000,0000,,Does that mean he is in here?
+Dialogue: 0,0:17:32.48,0:17:34.14,LM_Eng,,0000,0000,0000,,Probably. Let's go in.
+Dialogue: 0,0:17:34.82,0:17:38.84,LM_Eng,,0000,0000,0000,,We'll get caught if it's just us. We should wait until Will comes.
+Dialogue: 0,0:17:39.89,0:17:43.85,LM_Eng,,0000,0000,0000,,We don't have time. The moon is almost out.
+Dialogue: 0,0:17:44.89,0:17:45.62,LM_Eng,,0000,0000,0000,,What is wrong, Tina?
+Dialogue: 0,0:17:46.56,0:17:48.79,LM_Eng,,0000,0000,0000,,Hi Missy. Long time no see.
+Dialogue: 0,0:17:50.56,0:17:53.16,LM_Eng,,0000,0000,0000,,No wonder I couldn't find you at the store.
+Dialogue: 0,0:17:56.37,0:18:00.43,LM_Eng,,0000,0000,0000,,Don't look so depressed. We just had sex.
+Dialogue: 0,0:18:00.54,0:18:05.81,LM_Eng,,0000,0000,0000,,Sex or no sex, I shouldn't have done that. Now I feel so guilty when I think about Celia.
+Dialogue: 0,0:18:05.81,0:18:06.08,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}You can't help it. You're a playboy.\N{\r}Sex or no sex, I shouldn't have done that. Now I feel so guilty when I think about Celia.
+Dialogue: 0,0:18:06.08,0:18:08.60,LM_Eng,,0000,0000,0078,,{\1c&HFFB6B6\3c&HA95959}You can't help it. You're a playboy.
+Dialogue: 0,0:18:12.82,0:18:15.52,LM_Eng,,0000,0000,0000,,Hi, kitty. What is wrong?
+Dialogue: 0,0:18:17.12,0:18:22.06,LM_Eng,,0000,0000,0000,,That is how I always pictured myself up to now, but when I'm with Celia...
+Dialogue: 0,0:18:22.56,0:18:24.00,LM_Eng,,0000,0000,0000,,...I don't want to be like that anymore. After talking to her...
+Dialogue: 0,0:18:24.00,0:18:24.36,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}What? That isn't good!\N{\r}...I don't want to be like that anymore. After talking to her...
+Dialogue: 0,0:18:24.36,0:18:26.03,LM_Eng,,0000,0000,0078,,{\1c&HFFB6B6\3c&HA95959}What? That isn't good!
+Dialogue: 0,0:18:26.40,0:18:26.80,LM_Eng,,0000,0000,0000,,What?
+Dialogue: 0,0:18:27.23,0:18:30.64,LM_Eng,,0000,0000,0000,,They saw their mother taken away in a carriage and followed it.
+Dialogue: 0,0:18:31.27,0:18:31.67,LM_Eng,,0000,0000,0000,,To where?
+Dialogue: 0,0:18:31.94,0:18:33.74,LM_Eng,,0000,0000,0000,,Probably the outdoor theater. Let's go!
+Dialogue: 0,0:18:34.17,0:18:38.67,LM_Eng,,0000,0000,0000,,I knew we shouldn't have been having sex! They might have been caught by now!
+Dialogue: 0,0:18:38.88,0:18:42.71,LM_Eng,,0000,0000,0000,,By the way... Did you think of a way to defeat Kajo?
+Dialogue: 0,0:18:43.25,0:18:46.52,LM_Eng,,0000,0000,0000,,You promised them you would take care of him.
+Dialogue: 0,0:18:46.89,0:18:50.76,LM_Eng,,0000,0000,0000,,You're right. We shouldn't move without a plan...
+Dialogue: 0,0:18:50.99,0:18:52.46,LM_Eng,,0000,0000,0000,,But I haven't thought of one.
+Dialogue: 0,0:18:52.79,0:18:55.89,LM_Eng,,0000,0000,0000,,No way! I thought you already had a plan. I thought you were ready...
+Dialogue: 0,0:18:56.00,0:18:57.62,LM_Eng,,0000,0000,0000,,...because it didn't take much to distract you!
+Dialogue: 0,0:18:57.90,0:19:02.39,LM_Eng,,0000,0000,0000,,I did my homework, but there wasn't any information about his businesses.
+Dialogue: 0,0:19:02.77,0:19:05.03,LM_Eng,,0000,0000,0000,,There wasn't anything about Kajo, either.
+Dialogue: 0,0:19:05.41,0:19:07.93,LM_Eng,,0000,0000,0000,,All I know is that he has bad taste.
+Dialogue: 0,0:19:08.41,0:19:09.03,LM_Eng,,0000,0000,0000,,Have you ever met him?
+Dialogue: 0,0:19:09.58,0:19:11.57,LM_Eng,,0000,0000,0000,,Once, when he came to the store.
+Dialogue: 0,0:19:12.55,0:19:13.67,LM_Eng,,0000,0000,0000,,When he came in...
+Dialogue: 0,0:19:21.42,0:19:24.48,LM_Eng,,0000,0000,0000,,...he was especially sensitive to Ajo playing the violin, and ran out.
+Dialogue: 0,0:19:25.03,0:19:28.02,LM_Eng,,0000,0000,0000,,On top of that, music is banned in this city.
+Dialogue: 0,0:19:28.40,0:19:30.12,LM_Eng,,0000,0000,0000,,His weakness is music!
+Dialogue: 0,0:19:30.60,0:19:34.56,LM_Eng,,0000,0000,0000,,That can't be. They can use music at the strip show. He must hear it.
+Dialogue: 0,0:19:34.83,0:19:36.70,LM_Eng,,0000,0000,0000,,No, he doesn't hear it.
+Dialogue: 0,0:19:37.04,0:19:37.87,LM_Eng,,0000,0000,0000,,Really?
+Dialogue: 0,0:19:38.71,0:19:41.14,LM_Eng,,0000,0000,0000,,Yes, the strip show announcer told me.
+Dialogue: 0,0:19:42.14,0:19:48.21,LM_Eng,,0000,0000,0000,,I'm the one who made Kajo agree to let music be played during the strip show.
+Dialogue: 0,0:19:48.95,0:19:55.38,LM_Eng,,0000,0000,0000,,If I'm announcing, the show must be perfect. It would be stupid without music!
+Dialogue: 0,0:19:57.86,0:19:59.45,LM_Eng,,0000,0000,0000,,How did you make him agree?
+Dialogue: 0,0:19:59.66,0:20:06.86,LM_Eng,,0000,0000,0000,,I gave Kajo earplugs. I asked him to use them during the show.
+Dialogue: 0,0:20:07.50,0:20:09.73,LM_Eng,,0000,0000,0000,,Go ahead. Tell me I'm great.
+Dialogue: 0,0:20:10.87,0:20:11.70,LM_Eng,,0000,0000,0000,,Hell no.
+Dialogue: 0,0:20:12.87,0:20:13.63,LM_Eng,,0000,0000,0000,,Then I'm right!
+Dialogue: 0,0:20:19.75,0:20:23.24,LM_Eng,,0000,0000,0000,,Master Kajo. The nun and the sisters are the last ones.
+Dialogue: 0,0:20:23.58,0:20:26.21,LM_Eng,,0000,0000,0000,,I see. Good work. Oh...
+Dialogue: 0,0:20:26.59,0:20:31.96,LM_Eng,,0000,0000,0000,,That is the woman who rudely threw me... And her sisters too!
+Dialogue: 0,0:20:32.23,0:20:34.25,LM_Eng,,0000,0000,0000,,I don't know who the nun is, but...
+Dialogue: 0,0:20:34.66,0:20:39.83,LM_Eng,,0000,0000,0000,,Why don't we take this opportunity to throw them around?
+Dialogue: 0,0:20:40.03,0:20:41.59,LM_Eng,,0000,0000,0000,,Great idea. Let's do it!
+Dialogue: 0,0:20:41.87,0:20:42.87,LM_Eng,,0000,0000,0000,,Idiots! Don't take me seriously. I would never do something so violent!
+Dialogue: 0,0:20:42.87,0:20:43.80,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}You're our Mom, right?\N{\r}Idiots! Don't take me seriously. I would never do something so violent!
+Dialogue: 0,0:20:43.80,0:20:43.90,LM_Eng,,0000,0000,0000,,Idiots! Don't take me seriously. I would never do something so violent!
+Dialogue: 0,0:20:43.90,0:20:44.64,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}Tina! Shh!\N{\r}Idiots! Don't take me seriously. I would never do something so violent!
+Dialogue: 0,0:20:44.64,0:20:44.90,LM_Eng,,0000,0000,0000,,Idiots! Don't take me seriously. I would never do something so violent!
+Dialogue: 0,0:20:44.90,0:20:46.01,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}She has to be! She is our Mom!\N{\r}Idiots! Don't take me seriously. I would never do something so violent!
+Dialogue: 0,0:20:46.01,0:20:46.04,LM_Eng,,0000,0000,0078,,{\1c&HFFB6B6\3c&HA95959}She has to be! She is our Mom!
+Dialogue: 0,0:20:46.04,0:20:47.14,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}She has to be! She is our Mom!\N{\r} \N{\r}Really?
+Dialogue: 0,0:20:47.31,0:20:47.44,LM_Eng,,0000,0000,0000,,Yes! There should be a more elegant way of doing it. Let me think.
+Dialogue: 0,0:20:47.44,0:20:50.27,LM_Eng,,0000,0000,0000,,{\1c&HFFB6B6\3c&HA95959}Mei, you too! Who knows what they'll do if we don't stay quiet!\N{\r}Yes! There should be a more elegant way of doing it. Let me think.
+Dialogue: 0,0:20:50.61,0:20:56.28,LM_Eng,,0000,0000,0000,,What are they doing over there! Don't they know they're hostages?
+Dialogue: 0,0:20:56.92,0:21:00.91,LM_Eng,,0000,0000,0000,,Oh forget it. Let's get it over with. Take their clothes off.
+Dialogue: 0,0:21:01.42,0:21:01.94,LM_Eng,,0000,0000,0000,,Sis!
+Dialogue: 0,0:21:02.36,0:21:04.05,LM_Eng,,0000,0000,0000,,No, don't come near me!
+Dialogue: 0,0:21:04.76,0:21:06.92,LM_Eng,,0000,0000,0000,,D...Don't worry. Calm down. Will is going save us.
+Dialogue: 0,0:21:07.03,0:21:08.32,LM_Eng,,0000,0000,0000,,Everyone stand back!
+Dialogue: 0,0:21:10.06,0:21:14.59,LM_Eng,,0000,0000,0000,,What is this? Why are we caging them in?
+Dialogue: 0,0:21:15.27,0:21:16.74,LM_Eng,,0000,0000,0000,,What is this? What is going on?
+Dialogue: 0,0:21:16.94,0:21:20.74,LM_Eng,,0000,0000,0000,,It's okay. It's a stage prop. I've cut your ropes.
+Dialogue: 0,0:21:21.84,0:21:23.21,LM_Eng,,0000,0000,0000,,Chateau, thank you.
+Dialogue: 0,0:21:23.41,0:21:25.24,LM_Eng,,0000,0000,0000,,It's too bad I'm not Will, huh?
+Dialogue: 0,0:21:25.55,0:21:27.48,LM_Eng,,0000,0000,0000,,You're the woman from the port.
+Dialogue: 0,0:21:27.85,0:21:30.01,LM_Eng,,0000,0000,0000,,It's good to see you again. You're going to escape with me.
+Dialogue: 0,0:21:30.52,0:21:34.08,LM_Eng,,0000,0000,0000,,You three go behind the stage and wait for us in the orchestra pit.
+Dialogue: 0,0:21:34.92,0:21:36.35,LM_Eng,,0000,0000,0000,,There is an orchestra pit in the back?
+Dialogue: 0,0:21:36.69,0:21:38.52,LM_Eng,,0000,0000,0000,,No time to chat. Hurry!
+Dialogue: 0,0:21:38.76,0:21:43.25,LM_Eng,,0000,0000,0000,,Forget the stage prop. Open the curtains! Hurry!
+Dialogue: 0,0:21:43.63,0:21:46.66,LM_Eng,,0000,0000,0000,,How long are you guys going to sit there?
+Dialogue: 0,0:21:47.70,0:21:49.33,LM_Eng,,0000,0000,0000,,Hurry up and do something!
+Dialogue: 0,0:21:49.47,0:21:51.06,LM_Eng,,0000,0000,0000,,Y...Yes Master Kajo!
+Dialogue: 0,0:21:51.57,0:21:52.44,LM_Eng,,0000,0000,0000,,Where is Will?
+Dialogue: 0,0:21:52.81,0:21:55.40,LM_Eng,,0000,0000,0000,,He went back to get Ajo. He should be back at any minute.
+Dialogue: 0,0:21:55.88,0:21:56.67,LM_Eng,,0000,0000,0000,,Ajo?
+Dialogue: 0,0:21:56.88,0:21:58.47,LM_Eng,,0000,0000,0000,,Hurry and get in.
+Dialogue: 0,0:22:01.08,0:22:05.31,LM_Eng,,0000,0000,0000,,We're going to run straight ahead. It's the fastest way out of this tent.
+Dialogue: 0,0:22:06.05,0:22:08.99,LM_Eng,,0000,0000,0000,,Don't worry. Just hold my hand and run.
+Dialogue: 0,0:22:21.60,0:22:27.13,LM_Eng,,0000,0000,0000,,I see! I see! I seeee! You're the one Little Monica possessed.
+Dialogue: 0,0:22:27.37,0:22:31.47,LM_Eng,,0000,0000,0000,,Finally, the time has come. The night of the full moon of the thirteenth year is here.
+Dialogue: 0,0:22:32.18,0:22:36.48,LM_Eng,,0000,0000,0000,,Come out Little Monica, or else the nun is going to die.
+Dialogue: 0,0:22:37.02,0:22:40.45,LM_Eng,,0000,0000,0000,,Once you come out, you're going turn into a canary and live in this cage.
+Dialogue: 0,0:22:41.05,0:22:47.93,LM_Eng,,0000,0000,0000,,This city will belong to me! I'm going to change its name to Kajo!
+Dialogue: 0,0:22:48.09,0:22:49.65,LM_Eng,,0000,0000,0000,,Wait! I won't let that happen!
+Dialogue: 0,0:22:51.63,0:22:54.12,LM_Eng,,0000,0000,0000,,You again! Are you going to stop me?
+Dialogue: 0,0:22:54.70,0:22:57.03,LM_Eng,,0000,0000,0000,,Not stop you, finish you off!
+Dialogue: 0,0:22:57.17,0:22:58.00,LM_Eng,,0000,0000,0000,,What?
+Dialogue: 0,0:22:58.51,0:22:59.27,LM_Eng,,0000,0000,0000,,Go, Ajo!
+Dialogue: 0,0:23:02.74,0:23:06.87,LM_Eng,,0000,0000,0000,,I discovered your weakness! But that is just the beginning!
+Dialogue: 0,0:23:09.52,0:23:10.78,LM_Eng,,0000,0000,0000,,The curtain is going up.
+Dialogue: 0,0:23:11.32,0:23:13.01,LM_Eng,,0000,0000,0000,,Are we supposed to play now?
+Dialogue: 0,0:23:13.62,0:23:16.02,LM_Eng,,0000,0000,0000,,It's fine. Let's trust Will and play.
+Dialogue: 0,0:23:19.53,0:23:20.42,LM_Eng,,0000,0000,0000,,How do you like that, Kajo?
+Dialogue: 0,0:23:28.94,0:23:31.63,LM_Eng,,0000,0000,0000,,Huh? What happened to me?
+Dialogue: 0,0:23:36.34,0:23:41.91,LM_Eng,,0000,0000,0000,,I see. Ajo was the embodiment of Kajo's love of music. It must have escaped.
+Dialogue: 0,0:23:42.65,0:23:44.71,LM_Eng,,0000,0000,0000,,But I didn't know that he was possessed by a rat.
+Dialogue: 0,0:23:45.08,0:23:45.85,LM_Eng,,0000,0000,0000,,Mom!
+Dialogue: 0,0:23:46.75,0:23:50.02,LM_Eng,,0000,0000,0000,,The scar on your back... Does that mean that you really are our mother?
+Dialogue: 0,0:23:50.39,0:23:53.26,LM_Eng,,0000,0000,0000,,Mom, don't you remember us?
+Dialogue: 0,0:23:55.09,0:23:56.93,LM_Eng,,0000,0000,0000,,I'm glad it worked out, Will. Bye!
+Dialogue: 0,0:23:58.00,0:23:58.86,LM_Eng,,0000,0000,0000,,Really?
+Dialogue: 0,0:24:00.10,0:24:02.76,LM_Eng,,0000,0000,0000,,Mei... Tina... and Celia...
+Dialogue: 0,0:24:03.90,0:24:05.37,LM_Eng,,0000,0000,0000,,Yes, Mom...
+Dialogue: 0,0:24:05.87,0:24:10.33,LM_Eng,,0000,0000,0000,,I'm so surprised. You're all grown up.
+Dialogue: 0,0:24:11.01,0:24:13.17,LM_Eng,,0000,0000,0000,,I'm sorry to surprise you.
+Dialogue: 0,0:24:13.28,0:24:14.58,LM_Eng,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:24:15.22,0:24:16.38,LM_Eng,,0000,0000,0000,,Mom!
+Dialogue: 0,0:24:17.08,0:24:18.74,LM_Eng,,0000,0000,0000,,My dear daughters...
+Dialogue: 0,0:24:18.89,0:24:19.87,LM_Eng,,0000,0000,0000,,Mom.
+Dialogue: 0,0:24:21.65,0:24:22.52,LM_Eng,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:24:23.89,0:24:26.65,LM_Eng,,0000,0000,0000,,Thanks to everyone, the evil Kajo is no more.
+Dialogue: 0,0:24:28.06,0:24:28.96,LM_Eng,,0000,0000,0000,,Little Monica.
+Dialogue: 0,0:24:29.86,0:24:31.42,LM_Eng,,0000,0000,0000,,I'm sure that with your hard work...
+Dialogue: 0,0:24:31.80,0:24:36.00,LM_Eng,,0000,0000,0000,,...peace will return to Little Monica...
+Dialogue: 0,0:24:36.47,0:24:40.41,LM_Eng,,0000,0000,0000,,I believe that day will come, and I will be watching from afar.
+Dialogue: 0,0:24:57.96,0:25:01.36,LM_Eng,,0000,0000,0000,,The show is going to start, but they're not back yet.
+Dialogue: 0,0:25:01.89,0:25:05.85,LM_Eng,,0000,0000,0000,,Did they say where they were going? It's about to start.
+Dialogue: 0,0:25:07.73,0:25:11.69,LM_Eng,,0000,0000,0000,,The main reason I came back here was to see you again.
+Dialogue: 0,0:25:13.54,0:25:18.00,LM_Eng,,0000,0000,0000,,I love you. I always have. I only have eyes for you.
+Dialogue: 0,0:25:18.58,0:25:19.88,LM_Eng,,0000,0000,0000,,Me too, Will.
+Dialogue: 0,0:26:00.32,0:26:01.98,LM_Eng,,0000,0000,0000,,Will, make love to me...
+Dialogue: 0,0:26:02.26,0:26:04.22,LM_Eng,,0000,0000,0000,,Not yet, Celia. Go down on me.
+Dialogue: 0,0:26:12.87,0:26:15.10,LM_Eng,,0000,0000,0000,,Good, Celia. Can you do it with your mouth?
+Dialogue: 0,0:26:27.35,0:26:30.48,LM_Eng,,0000,0000,0000,,That is good. It feels really good.
+Dialogue: 0,0:26:33.02,0:26:34.82,LM_Eng,,0000,0000,0000,,It feels really good... I'm going to cum soon.
+Dialogue: 0,0:26:41.26,0:26:41.85,LM_Eng,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:26:42.96,0:26:43.55,LM_Eng,,0000,0000,0000,,Yes.
+Dialogue: 0,0:26:46.77,0:26:47.76,LM_Eng,,0000,0000,0000,,Are you all right, Celia?
+Dialogue: 0,0:26:49.10,0:26:51.54,LM_Eng,,0000,0000,0000,,I'm okay. It feels really good.
+Dialogue: 0,0:26:52.44,0:26:52.90,LM_Eng,,0000,0000,0000,,Celia.
+Dialogue: 0,0:27:00.75,0:27:04.84,LM_Eng,,0000,0000,0000,,I'm so happy. We've become one. I'm so happy...
+Dialogue: 0,0:27:05.28,0:27:05.94,LM_Eng,,0000,0000,0000,,Me too...
+Dialogue: 0,0:27:09.26,0:27:10.35,LM_Eng,,0000,0000,0000,,It feels so good.
+Dialogue: 0,0:27:12.73,0:27:15.99,LM_Eng,,0000,0000,0000,,More. Fuck me harder.
+Dialogue: 0,0:27:20.97,0:27:24.43,LM_Eng,,0000,0000,0000,,Your hard cock is thrusting in and out...
+Dialogue: 0,0:27:26.61,0:27:29.37,LM_Eng,,0000,0000,0000,,You're the best, Celia. I love you.
+Dialogue: 0,0:27:29.91,0:27:31.93,LM_Eng,,0000,0000,0000,,I love you too.
+Dialogue: 0,0:27:33.35,0:27:34.94,LM_Eng,,0000,0000,0000,,I'm going to cum...
+Dialogue: 0,0:27:35.31,0:27:36.37,LM_Eng,,0000,0000,0000,,Go ahead... cum.
+Dialogue: 0,0:28:01.11,0:28:02.10,LM_Cred,,0000,0000,0000,,{\pos(486,156)\be1}What's that
+Dialogue: 0,0:28:01.11,0:28:02.10,LM_Cred,,0000,0000,0000,,{\pos(463,220)\be1}you
+Dialogue: 0,0:28:01.11,0:28:02.10,LM_Cred,,0000,0000,0000,,{\pos(498,302)\be1}bastard?
+Dialogue: 0,0:28:03.11,0:28:04.10,LM_Cred,,0000,0000,0000,,{\pos(486,156)\be1}What's that
+Dialogue: 0,0:28:03.11,0:28:04.10,LM_Cred,,0000,0000,0000,,{\pos(463,220)\be1}you
+Dialogue: 0,0:28:03.11,0:28:04.10,LM_Cred,,0000,0000,0000,,{\pos(498,302)\be1}bastard?
+Dialogue: 0,0:28:05.11,0:28:06.10,LM_Cred,,0000,0000,0000,,{\pos(486,156)\be1}What's that
+Dialogue: 0,0:28:05.11,0:28:06.10,LM_Cred,,0000,0000,0000,,{\pos(463,220)\be1}you
+Dialogue: 0,0:28:05.11,0:28:06.10,LM_Cred,,0000,0000,0000,,{\pos(498,302)\be1}bastard?
+Dialogue: 0,0:28:45.36,0:28:47.36,LM_Cred2,,0000,0000,0000,,{\pos(436,181)}I'll rip
+Dialogue: 0,0:28:45.36,0:28:47.36,LM_Cred2,,0000,0000,0000,,{\pos(456,227)}off your
+Dialogue: 0,0:28:45.36,0:28:47.36,LM_Cred2,,0000,0000,0000,,{\pos(526,321)}skirt!
+Dialogue: 0,0:28:53.79,0:28:55.78,LM_Cred2,,0000,0000,0000,,{\pos(436,201)}Mei-chan, you're so
+Dialogue: 0,0:28:53.79,0:28:55.78,LM_Cred2,,0000,0000,0000,,{\pos(486,230)}cute, aren't you?
+Dialogue: 0,0:28:53.79,0:28:55.78,LM_Cred2,,0000,0000,0000,,{\pos(480,257)}Shall we go on a date to get
+Dialogue: 0,0:28:53.79,0:28:55.78,LM_Cred2,,0000,0000,0000,,{\pos(503,312)}to know each other?
+Dialogue: 0,0:28:02.19,0:28:05.87,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,360,\1c&HA95959\3c&HFFFFFF)\t(361,363,\1c&HFFB6B6\3c&HA95959)}{\k36}I {\r\t(361,750,\1c&HA95959\3c&HFFFFFF)\t(751,753,\1c&HFFB6B6\3c&HA95959)}{\k39}love {\r\t(751,1080,\1c&HA95959\3c&HFFFFFF)\t(1081,1082,\1c&HFFB6B6\3c&HA95959)}{\k33}you {\r\t(1081,1320,\1c&HA95959\3c&HFFFFFF)\t(1321,1322,\1c&HFFB6B6\3c&HA95959)}{\k24}se{\r\t(1321,1550,\1c&HA95959\3c&HFFFFFF)\t(1551,1552,\1c&HFFB6B6\3c&HA95959)}{\k23}ka{\r\t(1551,1800,\1c&HA95959\3c&HFFFFFF)\t(1801,1802,\1c&HFFB6B6\3c&HA95959)}{\k25}i {\r\t(1801,2080,\1c&HA95959\3c&HFFFFFF)\t(2081,2088,\1c&HFFB6B6\3c&HA95959)}{\k28}de {\r\t(2081,2890,\1c&HA95959\3c&HFFFFFF)\t(2891,2892,\1c&HFFB6B6\3c&HA95959)}{\k81}hi{\r\t(2891,3130,\1c&HA95959\3c&HFFFFFF)\t(3131,3134,\1c&HFFB6B6\3c&HA95959)}{\k24}to{\r\t(3131,3610,\1c&HA95959\3c&HFFFFFF))}{\k48}tsu
+Dialogue: 0,0:28:06.23,0:28:10.57,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,210,\1c&HA95959\3c&HFFFFFF)\t(211,214,\1c&HFFB6B6\3c&HA95959)}{\k21}de{\r\t(211,630,\1c&HA95959\3c&HFFFFFF)\t(631,637,\1c&HFFB6B6\3c&HA95959)}{\k42}a{\r\t(631,1340,\1c&HA95959\3c&HFFFFFF)\t(1341,1341,\1c&HFFB6B6\3c&HA95959)}{\k71}tta {\r\t(1341,1520,\1c&HA95959\3c&HFFFFFF)\t(1521,1521,\1c&HFFB6B6\3c&HA95959)}{\k18}ki{\r\t(1521,1680,\1c&HA95959\3c&HFFFFFF)\t(1681,1683,\1c&HFFB6B6\3c&HA95959)}{\k16}se{\r\t(1681,2060,\1c&HA95959\3c&HFFFFFF)\t(2061,2061,\1c&HFFB6B6\3c&HA95959)}{\k38}ki {\r\t(2061,2210,\1c&HA95959\3c&HFFFFFF)\t(2211,2211,\1c&HFFB6B6\3c&HA95959)}{\k15}sa{\r\t(2211,2360,\1c&HA95959\3c&HFFFFFF)\t(2361,2362,\1c&HFFB6B6\3c&HA95959)}{\k15}i{\r\t(2361,2620,\1c&HA95959\3c&HFFFFFF)\t(2621,2622,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(2621,2860,\1c&HA95959\3c&HFFFFFF)\t(2861,2862,\1c&HFFB6B6\3c&HA95959)}{\k24}u {\r\t(2861,3070,\1c&HA95959\3c&HFFFFFF)\t(3071,3075,\1c&HFFB6B6\3c&HA95959)}{\k21}no {\r\t(3071,3620,\1c&HA95959\3c&HFFFFFF)\t(3621,3626,\1c&HFFB6B6\3c&HA95959)}{\k55}pre{\r\t(3621,4270,\1c&HA95959\3c&HFFFFFF))}{\k65}sent
+Dialogue: 0,0:28:10.75,0:28:14.63,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,270,\1c&HA95959\3c&HFFFFFF)\t(271,271,\1c&HFFB6B6\3c&HA95959)}{\k27}i{\r\t(271,390,\1c&HA95959\3c&HFFFFFF)\t(391,396,\1c&HFFB6B6\3c&HA95959)}{\k12}to{\r\t(391,1040,\1c&HA95959\3c&HFFFFFF)\t(1041,1042,\1c&HFFB6B6\3c&HA95959)}{\k65}shii {\r\t(1041,1300,\1c&HA95959\3c&HFFFFFF)\t(1301,1302,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(1301,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1562,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(1561,1810,\1c&HA95959\3c&HFFFFFF)\t(1811,1812,\1c&HFFB6B6\3c&HA95959)}{\k25}ro {\r\t(1811,2090,\1c&HA95959\3c&HFFFFFF)\t(2091,2092,\1c&HFFB6B6\3c&HA95959)}{\k28}ka{\r\t(2091,2350,\1c&HA95959\3c&HFFFFFF)\t(2351,2352,\1c&HFFB6B6\3c&HA95959)}{\k26}ze {\r\t(2351,2600,\1c&HA95959\3c&HFFFFFF)\t(2601,2602,\1c&HFFB6B6\3c&HA95959)}{\k25}ni {\r\t(2601,2840,\1c&HA95959\3c&HFFFFFF)\t(2841,2845,\1c&HFFB6B6\3c&HA95959)}{\k24}no{\r\t(2841,3400,\1c&HA95959\3c&HFFFFFF)\t(3401,3404,\1c&HFFB6B6\3c&HA95959)}{\k56}se{\r\t(3401,3870,\1c&HA95959\3c&HFFFFFF))}{\k47}te
+Dialogue: 0,0:28:14.77,0:28:20.89,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,240,\1c&HA95959\3c&HFFFFFF)\t(241,242,\1c&HFFB6B6\3c&HA95959)}{\k24}o{\r\t(241,490,\1c&HA95959\3c&HFFFFFF)\t(491,491,\1c&HFFB6B6\3c&HA95959)}{\k25}mo{\r\t(491,630,\1c&HA95959\3c&HFFFFFF)\t(631,636,\1c&HFFB6B6\3c&HA95959)}{\k14}i {\r\t(631,1290,\1c&HA95959\3c&HFFFFFF)\t(1291,1292,\1c&HFFB6B6\3c&HA95959)}{\k66}mo {\r\t(1291,1520,\1c&HA95959\3c&HFFFFFF)\t(1521,1521,\1c&HFFB6B6\3c&HA95959)}{\k23}ko{\r\t(1521,1690,\1c&HA95959\3c&HFFFFFF)\t(1691,1701,\1c&HFFB6B6\3c&HA95959)}{\k17}e {\r\t(1691,2870,\1c&HA95959\3c&HFFFFFF)\t(2871,2875,\1c&HFFB6B6\3c&HA95959)}{\k118}mo {\r\t(2871,3430,\1c&HA95959\3c&HFFFFFF)\t(3431,3432,\1c&HFFB6B6\3c&HA95959)}{\k56}ki{\r\t(3431,3670,\1c&HA95959\3c&HFFFFFF)\t(3671,3672,\1c&HFFB6B6\3c&HA95959)}{\k24}tto {\r\t(3671,3950,\1c&HA95959\3c&HFFFFFF)\t(3951,3952,\1c&HFFB6B6\3c&HA95959)}{\k28}to{\r\t(3951,4220,\1c&HA95959\3c&HFFFFFF)\t(4221,4225,\1c&HFFB6B6\3c&HA95959)}{\k27}do{\r\t(4221,4740,\1c&HA95959\3c&HFFFFFF)\t(4741,4742,\1c&HFFB6B6\3c&HA95959)}{\k52}ku {\r\t(4741,5030,\1c&HA95959\3c&HFFFFFF)\t(5031,5040,\1c&HFFB6B6\3c&HA95959)}{\k29}ka{\r\t(5031,6050,\1c&HA95959\3c&HFFFFFF))}{\k102}ra
+Dialogue: 0,0:28:20.87,0:28:24.08,LM_Rom,,0000,0000,0000,,{\fad(0,2000)}{\r}{\r\t(0,310,\1c&HA95959\3c&HFFFFFF)\t(311,312,\1c&HFFB6B6\3c&HA95959)}{\k31}say {\r\t(311,580,\1c&HA95959\3c&HFFFFFF)\t(581,606,\1c&HFFB6B6\3c&HA95959)}{\k27}my {\r\t(581,3190,\1c&HA95959\3c&HFFFFFF))}{\k261}heart
+Dialogue: 0,0:28:38.89,0:28:42.33,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,540,\1c&HA95959\3c&HFFFFFF)\t(541,542,\1c&HFFB6B6\3c&HA95959)}{\k54}se{\r\t(541,790,\1c&HA95959\3c&HFFFFFF)\t(791,792,\1c&HFFB6B6\3c&HA95959)}{\k25}pi{\r\t(791,1070,\1c&HA95959\3c&HFFFFFF)\t(1071,1072,\1c&HFFB6B6\3c&HA95959)}{\k28}a {\r\t(1071,1310,\1c&HA95959\3c&HFFFFFF)\t(1311,1312,\1c&HFFB6B6\3c&HA95959)}{\k24}i{\r\t(1311,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1565,\1c&HFFB6B6\3c&HA95959)}{\k25}ro {\r\t(1561,2100,\1c&HA95959\3c&HFFFFFF)\t(2101,2102,\1c&HFFB6B6\3c&HA95959)}{\k54}no {\r\t(2101,2390,\1c&HA95959\3c&HFFFFFF)\t(2391,2392,\1c&HFFB6B6\3c&HA95959)}{\k29}ho{\r\t(2391,2640,\1c&HA95959\3c&HFFFFFF)\t(2641,2647,\1c&HFFB6B6\3c&HA95959)}{\k25}ri{\r\t(2641,3380,\1c&HA95959\3c&HFFFFFF))}{\k74}dei
+Dialogue: 0,0:28:43.18,0:28:46.63,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,540,\1c&HA95959\3c&HFFFFFF)\t(541,542,\1c&HFFB6B6\3c&HA95959)}{\k54}ka{\r\t(541,790,\1c&HA95959\3c&HFFFFFF)\t(791,792,\1c&HFFB6B6\3c&HA95959)}{\k25}wa{\r\t(791,1070,\1c&HA95959\3c&HFFFFFF)\t(1071,1072,\1c&HFFB6B6\3c&HA95959)}{\k28}ra{\r\t(1071,1330,\1c&HA95959\3c&HFFFFFF)\t(1331,1332,\1c&HFFB6B6\3c&HA95959)}{\k26}na{\r\t(1331,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1565,\1c&HFFB6B6\3c&HA95959)}{\k23}i {\r\t(1561,2110,\1c&HA95959\3c&HFFFFFF)\t(2111,2114,\1c&HFFB6B6\3c&HA95959)}{\k55}be{\r\t(2111,2610,\1c&HA95959\3c&HFFFFFF)\t(2611,2617,\1c&HFFB6B6\3c&HA95959)}{\k50}ru{\r\t(2611,3410,\1c&HA95959\3c&HFFFFFF))}{\k80}be
+Dialogue: 0,0:28:47.38,0:28:51.18,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,360,\1c&HA95959\3c&HFFFFFF)\t(361,365,\1c&HFFB6B6\3c&HA95959)}{\k36}ha{\r\t(361,890,\1c&HA95959\3c&HFFFFFF)\t(891,892,\1c&HFFB6B6\3c&HA95959)}{\k53}zu {\r\t(891,1180,\1c&HA95959\3c&HFFFFFF)\t(1181,1182,\1c&HFFB6B6\3c&HA95959)}{\k29}a{\r\t(1181,1420,\1c&HA95959\3c&HFFFFFF)\t(1421,1422,\1c&HFFB6B6\3c&HA95959)}{\k24}tsu {\r\t(1421,1670,\1c&HA95959\3c&HFFFFFF)\t(1671,1675,\1c&HFFB6B6\3c&HA95959)}{\k25}no {\r\t(1671,2210,\1c&HA95959\3c&HFFFFFF)\t(2211,2215,\1c&HFFB6B6\3c&HA95959)}{\k54}ko{\r\t(2211,2730,\1c&HA95959\3c&HFFFFFF)\t(2731,2740,\1c&HFFB6B6\3c&HA95959)}{\k52}i {\r\t(2731,3760,\1c&HA95959\3c&HFFFFFF))}{\k103}wo
+Dialogue: 0,0:28:51.77,0:28:55.69,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,250,\1c&HA95959\3c&HFFFFFF)\t(251,252,\1c&HFFB6B6\3c&HA95959)}{\k25}o{\r\t(251,470,\1c&HA95959\3c&HFFFFFF)\t(471,472,\1c&HFFB6B6\3c&HA95959)}{\k22}mo{\r\t(471,710,\1c&HA95959\3c&HFFFFFF)\t(711,712,\1c&HFFB6B6\3c&HA95959)}{\k24}i {\r\t(711,1010,\1c&HA95959\3c&HFFFFFF)\t(1011,1012,\1c&HFFB6B6\3c&HA95959)}{\k30}no{\r\t(1011,1280,\1c&HA95959\3c&HFFFFFF)\t(1281,1282,\1c&HFFB6B6\3c&HA95959)}{\k27}bu{\r\t(1281,1520,\1c&HA95959\3c&HFFFFFF)\t(1521,1525,\1c&HFFB6B6\3c&HA95959)}{\k24}n {\r\t(1521,2060,\1c&HA95959\3c&HFFFFFF)\t(2061,2062,\1c&HFFB6B6\3c&HA95959)}{\k54}so {\r\t(2061,2350,\1c&HA95959\3c&HFFFFFF)\t(2351,2352,\1c&HFFB6B6\3c&HA95959)}{\k29}so{\r\t(2351,2570,\1c&HA95959\3c&HFFFFFF)\t(2571,2582,\1c&HFFB6B6\3c&HA95959)}{\k22}gu{\r\t(2571,3860,\1c&HA95959\3c&HFFFFFF))}{\k129}ne
+Dialogue: 0,0:28:56.05,0:28:59.53,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,520,\1c&HA95959\3c&HFFFFFF)\t(521,522,\1c&HFFB6B6\3c&HA95959)}{\k52}zu{\r\t(521,760,\1c&HA95959\3c&HFFFFFF)\t(761,762,\1c&HFFB6B6\3c&HA95959)}{\k24}tto {\r\t(761,1060,\1c&HA95959\3c&HFFFFFF)\t(1061,1062,\1c&HFFB6B6\3c&HA95959)}{\k30}a{\r\t(1061,1290,\1c&HA95959\3c&HFFFFFF)\t(1291,1292,\1c&HFFB6B6\3c&HA95959)}{\k23}na{\r\t(1291,1550,\1c&HA95959\3c&HFFFFFF)\t(1551,1552,\1c&HFFB6B6\3c&HA95959)}{\k26}ta {\r\t(1551,1810,\1c&HA95959\3c&HFFFFFF)\t(1811,1812,\1c&HFFB6B6\3c&HA95959)}{\k26}wo {\r\t(1811,2100,\1c&HA95959\3c&HFFFFFF)\t(2101,2102,\1c&HFFB6B6\3c&HA95959)}{\k29}shi{\r\t(2101,2350,\1c&HA95959\3c&HFFFFFF)\t(2351,2352,\1c&HFFB6B6\3c&HA95959)}{\k25}n{\r\t(2351,2610,\1c&HA95959\3c&HFFFFFF)\t(2611,2618,\1c&HFFB6B6\3c&HA95959)}{\k26}ji{\r\t(2611,3420,\1c&HA95959\3c&HFFFFFF))}{\k81}te
+Dialogue: 0,0:29:00.30,0:29:03.90,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,530,\1c&HA95959\3c&HFFFFFF)\t(531,532,\1c&HFFB6B6\3c&HA95959)}{\k53}mo{\r\t(531,790,\1c&HA95959\3c&HFFFFFF)\t(791,792,\1c&HFFB6B6\3c&HA95959)}{\k26}to {\r\t(791,1060,\1c&HA95959\3c&HFFFFFF)\t(1061,1062,\1c&HFFB6B6\3c&HA95959)}{\k27}yu{\r\t(1061,1350,\1c&HA95959\3c&HFFFFFF)\t(1351,1352,\1c&HFFB6B6\3c&HA95959)}{\k29}u{\r\t(1351,1590,\1c&HA95959\3c&HFFFFFF)\t(1591,1592,\1c&HFFB6B6\3c&HA95959)}{\k24}ki {\r\t(1591,1860,\1c&HA95959\3c&HFFFFFF)\t(1861,1862,\1c&HFFB6B6\3c&HA95959)}{\k27}wo {\r\t(1861,2090,\1c&HA95959\3c&HFFFFFF)\t(2091,2095,\1c&HFFB6B6\3c&HA95959)}{\k23}de {\r\t(2091,2650,\1c&HA95959\3c&HFFFFFF)\t(2651,2658,\1c&HFFB6B6\3c&HA95959)}{\k56}so{\r\t(2651,3550,\1c&HA95959\3c&HFFFFFF))}{\k90}u
+Dialogue: 0,0:29:04.59,0:29:09.05,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,570,\1c&HA95959\3c&HFFFFFF)\t(571,572,\1c&HFFB6B6\3c&HA95959)}{\k57}ki{\r\t(571,820,\1c&HA95959\3c&HFFFFFF)\t(821,822,\1c&HFFB6B6\3c&HA95959)}{\k25}tto {\r\t(821,1070,\1c&HA95959\3c&HFFFFFF)\t(1071,1072,\1c&HFFB6B6\3c&HA95959)}{\k25}i{\r\t(1071,1330,\1c&HA95959\3c&HFFFFFF)\t(1331,1332,\1c&HFFB6B6\3c&HA95959)}{\k26}i {\r\t(1331,1620,\1c&HA95959\3c&HFFFFFF)\t(1621,1622,\1c&HFFB6B6\3c&HA95959)}{\k29}ne {\r\t(1621,1870,\1c&HA95959\3c&HFFFFFF)\t(1871,1872,\1c&HFFB6B6\3c&HA95959)}{\k25}to {\r\t(1871,2110,\1c&HA95959\3c&HFFFFFF)\t(2111,2112,\1c&HFFB6B6\3c&HA95959)}{\k24}o{\r\t(2111,2360,\1c&HA95959\3c&HFFFFFF)\t(2361,2362,\1c&HFFB6B6\3c&HA95959)}{\k25}mo{\r\t(2361,2640,\1c&HA95959\3c&HFFFFFF)\t(2641,2645,\1c&HFFB6B6\3c&HA95959)}{\k28}e{\r\t(2641,3170,\1c&HA95959\3c&HFFFFFF)\t(3171,3172,\1c&HFFB6B6\3c&HA95959)}{\k53}ru {\r\t(3171,3430,\1c&HA95959\3c&HFFFFFF)\t(3431,3433,\1c&HFFB6B6\3c&HA95959)}{\k26}e{\r\t(3431,3740,\1c&HA95959\3c&HFFFFFF)\t(3741,3746,\1c&HFFB6B6\3c&HA95959)}{\k31}ga{\r\t(3741,4390,\1c&HA95959\3c&HFFFFFF))}{\k65}o
+Dialogue: 0,0:29:09.94,0:29:14.62,LM_Rom,,0000,0000,0000,,{\fad(0,2000)}{\r}{\r\t(0,270,\1c&HA95959\3c&HFFFFFF)\t(271,272,\1c&HFFB6B6\3c&HA95959)}{\k27}ki{\r\t(271,510,\1c&HA95959\3c&HFFFFFF)\t(511,512,\1c&HFFB6B6\3c&HA95959)}{\k24}mi {\r\t(511,760,\1c&HA95959\3c&HFFFFFF)\t(761,765,\1c&HFFB6B6\3c&HA95959)}{\k25}ni {\r\t(761,1300,\1c&HA95959\3c&HFFFFFF)\t(1301,1305,\1c&HFFB6B6\3c&HA95959)}{\k54}a{\r\t(1301,1850,\1c&HA95959\3c&HFFFFFF)\t(1851,1854,\1c&HFFB6B6\3c&HA95959)}{\k55}ge{\r\t(1851,2330,\1c&HA95959\3c&HFFFFFF)\t(2331,2353,\1c&HFFB6B6\3c&HA95959)}{\k48}ru {\r\t(2331,4640,\1c&HA95959\3c&HFFFFFF))}{\k231}yo
+Dialogue: 0,0:29:15.04,0:29:18.92,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,410,\1c&HA95959\3c&HFFFFFF)\t(411,413,\1c&HFFB6B6\3c&HA95959)}{\k41}I {\r\t(411,810,\1c&HA95959\3c&HFFFFFF)\t(811,812,\1c&HFFB6B6\3c&HA95959)}{\k40}love {\r\t(811,1040,\1c&HA95959\3c&HFFFFFF)\t(1041,1042,\1c&HFFB6B6\3c&HA95959)}{\k23}you {\r\t(1041,1330,\1c&HA95959\3c&HFFFFFF)\t(1331,1332,\1c&HFFB6B6\3c&HA95959)}{\k29}se{\r\t(1331,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1562,\1c&HFFB6B6\3c&HA95959)}{\k23}ka{\r\t(1561,1820,\1c&HA95959\3c&HFFFFFF)\t(1821,1822,\1c&HFFB6B6\3c&HA95959)}{\k26}i {\r\t(1821,2120,\1c&HA95959\3c&HFFFFFF)\t(2121,2127,\1c&HFFB6B6\3c&HA95959)}{\k30}de {\r\t(2121,2880,\1c&HA95959\3c&HFFFFFF)\t(2881,2882,\1c&HFFB6B6\3c&HA95959)}{\k76}hi{\r\t(2881,3160,\1c&HA95959\3c&HFFFFFF)\t(3161,3166,\1c&HFFB6B6\3c&HA95959)}{\k28}to{\r\t(3161,3830,\1c&HA95959\3c&HFFFFFF))}{\k67}tsu
+Dialogue: 0,0:29:19.01,0:29:23.46,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,280,\1c&HA95959\3c&HFFFFFF)\t(281,284,\1c&HFFB6B6\3c&HA95959)}{\k28}de{\r\t(281,700,\1c&HA95959\3c&HFFFFFF)\t(701,706,\1c&HFFB6B6\3c&HA95959)}{\k42}a{\r\t(701,1390,\1c&HA95959\3c&HFFFFFF)\t(1391,1392,\1c&HFFB6B6\3c&HA95959)}{\k69}tta {\r\t(1391,1600,\1c&HA95959\3c&HFFFFFF)\t(1601,1601,\1c&HFFB6B6\3c&HA95959)}{\k21}ki{\r\t(1601,1780,\1c&HA95959\3c&HFFFFFF)\t(1781,1783,\1c&HFFB6B6\3c&HA95959)}{\k18}se{\r\t(1781,2160,\1c&HA95959\3c&HFFFFFF)\t(2161,2161,\1c&HFFB6B6\3c&HA95959)}{\k38}ki {\r\t(2161,2280,\1c&HA95959\3c&HFFFFFF)\t(2281,2281,\1c&HFFB6B6\3c&HA95959)}{\k12}sa{\r\t(2281,2430,\1c&HA95959\3c&HFFFFFF)\t(2431,2432,\1c&HFFB6B6\3c&HA95959)}{\k15}i{\r\t(2431,2650,\1c&HA95959\3c&HFFFFFF)\t(2651,2652,\1c&HFFB6B6\3c&HA95959)}{\k22}ko{\r\t(2651,2950,\1c&HA95959\3c&HFFFFFF)\t(2951,2952,\1c&HFFB6B6\3c&HA95959)}{\k30}u {\r\t(2951,3160,\1c&HA95959\3c&HFFFFFF)\t(3161,3165,\1c&HFFB6B6\3c&HA95959)}{\k21}no {\r\t(3161,3730,\1c&HA95959\3c&HFFFFFF)\t(3731,3736,\1c&HFFB6B6\3c&HA95959)}{\k57}pre{\r\t(3731,4380,\1c&HA95959\3c&HFFFFFF))}{\k65}sent
+Dialogue: 0,0:29:23.61,0:29:27.59,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,260,\1c&HA95959\3c&HFFFFFF)\t(261,261,\1c&HFFB6B6\3c&HA95959)}{\k26}i{\r\t(261,380,\1c&HA95959\3c&HFFFFFF)\t(381,386,\1c&HFFB6B6\3c&HA95959)}{\k12}to{\r\t(381,1020,\1c&HA95959\3c&HFFFFFF)\t(1021,1022,\1c&HFFB6B6\3c&HA95959)}{\k64}shii {\r\t(1021,1280,\1c&HA95959\3c&HFFFFFF)\t(1281,1282,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(1281,1540,\1c&HA95959\3c&HFFFFFF)\t(1541,1542,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(1541,1840,\1c&HA95959\3c&HFFFFFF)\t(1841,1842,\1c&HFFB6B6\3c&HA95959)}{\k30}ro {\r\t(1841,2060,\1c&HA95959\3c&HFFFFFF)\t(2061,2063,\1c&HFFB6B6\3c&HA95959)}{\k22}u{\r\t(2061,2400,\1c&HA95959\3c&HFFFFFF)\t(2401,2402,\1c&HFFB6B6\3c&HA95959)}{\k34}ta{\r\t(2401,2660,\1c&HA95959\3c&HFFFFFF)\t(2661,2662,\1c&HFFB6B6\3c&HA95959)}{\k26}bi {\r\t(2661,2870,\1c&HA95959\3c&HFFFFFF)\t(2871,2874,\1c&HFFB6B6\3c&HA95959)}{\k21}no{\r\t(2871,3360,\1c&HA95959\3c&HFFFFFF)\t(3361,3365,\1c&HFFB6B6\3c&HA95959)}{\k49}se{\r\t(3361,3930,\1c&HA95959\3c&HFFFFFF))}{\k57}te
+Dialogue: 0,0:29:27.61,0:29:33.69,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,310,\1c&HA95959\3c&HFFFFFF)\t(311,312,\1c&HFFB6B6\3c&HA95959)}{\k31}mi{\r\t(311,580,\1c&HA95959\3c&HFFFFFF)\t(581,581,\1c&HFFB6B6\3c&HA95959)}{\k27}ra{\r\t(581,730,\1c&HA95959\3c&HFFFFFF)\t(731,736,\1c&HFFB6B6\3c&HA95959)}{\k15}i {\r\t(731,1400,\1c&HA95959\3c&HFFFFFF)\t(1401,1402,\1c&HFFB6B6\3c&HA95959)}{\k67}mo {\r\t(1401,1630,\1c&HA95959\3c&HFFFFFF)\t(1631,1631,\1c&HFFB6B6\3c&HA95959)}{\k23}yu{\r\t(1631,1770,\1c&HA95959\3c&HFFFFFF)\t(1771,1781,\1c&HFFB6B6\3c&HA95959)}{\k14}me {\r\t(1771,2970,\1c&HA95959\3c&HFFFFFF)\t(2971,2974,\1c&HFFB6B6\3c&HA95959)}{\k120}mo {\r\t(2971,3460,\1c&HA95959\3c&HFFFFFF)\t(3461,3462,\1c&HFFB6B6\3c&HA95959)}{\k49}ki{\r\t(3461,3690,\1c&HA95959\3c&HFFFFFF)\t(3691,3693,\1c&HFFB6B6\3c&HA95959)}{\k23}tto {\r\t(3691,4000,\1c&HA95959\3c&HFFFFFF)\t(4001,4002,\1c&HFFB6B6\3c&HA95959)}{\k31}ka{\r\t(4001,4270,\1c&HA95959\3c&HFFFFFF)\t(4271,4275,\1c&HFFB6B6\3c&HA95959)}{\k27}ra {\r\t(4271,4790,\1c&HA95959\3c&HFFFFFF)\t(4791,4792,\1c&HFFB6B6\3c&HA95959)}{\k52}u{\r\t(4791,5060,\1c&HA95959\3c&HFFFFFF)\t(5061,5069,\1c&HFFB6B6\3c&HA95959)}{\k27}ta{\r\t(5061,5990,\1c&HA95959\3c&HFFFFFF))}{\k93}ra
+Dialogue: 0,0:29:33.78,0:29:37.19,LM_Rom,,0000,0000,0000,,{\fad(0,2000)}{\r}{\r\t(0,310,\1c&HA95959\3c&HFFFFFF)\t(311,312,\1c&HFFB6B6\3c&HA95959)}{\k31}say {\r\t(311,580,\1c&HA95959\3c&HFFFFFF)\t(581,583,\1c&HFFB6B6\3c&HA95959)}{\k27}you {\r\t(581,950,\1c&HA95959\3c&HFFFFFF)\t(951,974,\1c&HFFB6B6\3c&HA95959)}{\k37}love {\r\t(951,3380,\1c&HA95959\3c&HFFFFFF))}{\k243}me
+Dialogue: 0,0:28:02.19,0:28:05.87,LM_Eng,,0000,0000,0000,,I love you! You're the only one in the world!
+Dialogue: 0,0:28:06.23,0:28:10.57,LM_Eng,,0000,0000,0000,,Our miracle encounter was the best present!
+Dialogue: 0,0:28:10.75,0:28:14.63,LM_Eng,,0000,0000,0000,,I trust my heart...
+Dialogue: 0,0:28:14.77,0:28:20.89,LM_Eng,,0000,0000,0000,,...and voice will reach you.
+Dialogue: 0,0:28:20.87,0:28:24.08,LM_Eng,,0000,0000,0000,,{\fad(0,2000)}Say my heart.
+Dialogue: 0,0:28:38.89,0:28:42.33,LM_Eng,,0000,0000,0000,,Holiday in Sepia...
+Dialogue: 0,0:28:43.18,0:28:46.63,LM_Eng,,0000,0000,0000,,Velvet never changes...
+Dialogue: 0,0:28:47.38,0:28:51.18,LM_Eng,,0000,0000,0000,,Passionate love - 
+Dialogue: 0,0:28:51.77,0:28:55.69,LM_Eng,,0000,0000,0000,,- I'll put my heart into it.
+Dialogue: 0,0:28:56.05,0:28:59.53,LM_Eng,,0000,0000,0000,,I'll trust you all the way.
+Dialogue: 0,0:29:00.30,0:29:03.90,LM_Eng,,0000,0000,0000,,Let's be more courageous.
+Dialogue: 0,0:29:04.59,0:29:09.05,LM_Eng,,0000,0000,0000,,You'll smile and think everything is good...
+Dialogue: 0,0:29:09.94,0:29:14.62,LM_Eng,,0000,0000,0000,,{\fad(0,2000)}...I can give you that.
+Dialogue: 0,0:29:15.04,0:29:18.92,LM_Eng,,0000,0000,0000,,I love you! You're the only one in the world!
+Dialogue: 0,0:29:19.01,0:29:23.46,LM_Eng,,0000,0000,0000,,Our miracle encounter was the best present!
+Dialogue: 0,0:29:23.61,0:29:27.59,LM_Eng,,0000,0000,0000,,My heart and thoughts will definitely reach you...
+Dialogue: 0,0:29:27.61,0:29:33.69,LM_Eng,,0000,0000,0000,,...because I put my heart to the wind.
+Dialogue: 0,0:29:33.78,0:29:37.19,LM_Eng,,0000,0000,0000,,{\fad(0,2000)}Say you love me.
+Dialogue: 0,0:30:08.44,0:30:12.12,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,360,\1c&HA95959\3c&HFFFFFF)\t(361,363,\1c&HFFB6B6\3c&HA95959)}{\k36}I {\r\t(361,750,\1c&HA95959\3c&HFFFFFF)\t(751,753,\1c&HFFB6B6\3c&HA95959)}{\k39}love {\r\t(751,1080,\1c&HA95959\3c&HFFFFFF)\t(1081,1082,\1c&HFFB6B6\3c&HA95959)}{\k33}you {\r\t(1081,1320,\1c&HA95959\3c&HFFFFFF)\t(1321,1322,\1c&HFFB6B6\3c&HA95959)}{\k24}se{\r\t(1321,1550,\1c&HA95959\3c&HFFFFFF)\t(1551,1552,\1c&HFFB6B6\3c&HA95959)}{\k23}ka{\r\t(1551,1800,\1c&HA95959\3c&HFFFFFF)\t(1801,1802,\1c&HFFB6B6\3c&HA95959)}{\k25}i {\r\t(1801,2080,\1c&HA95959\3c&HFFFFFF)\t(2081,2088,\1c&HFFB6B6\3c&HA95959)}{\k28}de {\r\t(2081,2890,\1c&HA95959\3c&HFFFFFF)\t(2891,2892,\1c&HFFB6B6\3c&HA95959)}{\k81}hi{\r\t(2891,3130,\1c&HA95959\3c&HFFFFFF)\t(3131,3134,\1c&HFFB6B6\3c&HA95959)}{\k24}to{\r\t(3131,3610,\1c&HA95959\3c&HFFFFFF))}{\k48}tsu
+Dialogue: 0,0:30:12.48,0:30:16.82,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,210,\1c&HA95959\3c&HFFFFFF)\t(211,214,\1c&HFFB6B6\3c&HA95959)}{\k21}de{\r\t(211,630,\1c&HA95959\3c&HFFFFFF)\t(631,637,\1c&HFFB6B6\3c&HA95959)}{\k42}a{\r\t(631,1340,\1c&HA95959\3c&HFFFFFF)\t(1341,1341,\1c&HFFB6B6\3c&HA95959)}{\k71}tta {\r\t(1341,1520,\1c&HA95959\3c&HFFFFFF)\t(1521,1521,\1c&HFFB6B6\3c&HA95959)}{\k18}ki{\r\t(1521,1680,\1c&HA95959\3c&HFFFFFF)\t(1681,1683,\1c&HFFB6B6\3c&HA95959)}{\k16}se{\r\t(1681,2060,\1c&HA95959\3c&HFFFFFF)\t(2061,2061,\1c&HFFB6B6\3c&HA95959)}{\k38}ki {\r\t(2061,2210,\1c&HA95959\3c&HFFFFFF)\t(2211,2211,\1c&HFFB6B6\3c&HA95959)}{\k15}sa{\r\t(2211,2360,\1c&HA95959\3c&HFFFFFF)\t(2361,2362,\1c&HFFB6B6\3c&HA95959)}{\k15}i{\r\t(2361,2620,\1c&HA95959\3c&HFFFFFF)\t(2621,2622,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(2621,2860,\1c&HA95959\3c&HFFFFFF)\t(2861,2862,\1c&HFFB6B6\3c&HA95959)}{\k24}u {\r\t(2861,3070,\1c&HA95959\3c&HFFFFFF)\t(3071,3075,\1c&HFFB6B6\3c&HA95959)}{\k21}no {\r\t(3071,3620,\1c&HA95959\3c&HFFFFFF)\t(3621,3626,\1c&HFFB6B6\3c&HA95959)}{\k55}pre{\r\t(3621,4270,\1c&HA95959\3c&HFFFFFF))}{\k65}sent
+Dialogue: 0,0:30:17.00,0:30:20.88,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,270,\1c&HA95959\3c&HFFFFFF)\t(271,271,\1c&HFFB6B6\3c&HA95959)}{\k27}i{\r\t(271,390,\1c&HA95959\3c&HFFFFFF)\t(391,396,\1c&HFFB6B6\3c&HA95959)}{\k12}to{\r\t(391,1040,\1c&HA95959\3c&HFFFFFF)\t(1041,1042,\1c&HFFB6B6\3c&HA95959)}{\k65}shii {\r\t(1041,1300,\1c&HA95959\3c&HFFFFFF)\t(1301,1302,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(1301,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1562,\1c&HFFB6B6\3c&HA95959)}{\k26}ko{\r\t(1561,1810,\1c&HA95959\3c&HFFFFFF)\t(1811,1812,\1c&HFFB6B6\3c&HA95959)}{\k25}ro {\r\t(1811,2090,\1c&HA95959\3c&HFFFFFF)\t(2091,2092,\1c&HFFB6B6\3c&HA95959)}{\k28}ka{\r\t(2091,2350,\1c&HA95959\3c&HFFFFFF)\t(2351,2352,\1c&HFFB6B6\3c&HA95959)}{\k26}ze {\r\t(2351,2600,\1c&HA95959\3c&HFFFFFF)\t(2601,2602,\1c&HFFB6B6\3c&HA95959)}{\k25}ni {\r\t(2601,2840,\1c&HA95959\3c&HFFFFFF)\t(2841,2845,\1c&HFFB6B6\3c&HA95959)}{\k24}no{\r\t(2841,3400,\1c&HA95959\3c&HFFFFFF)\t(3401,3404,\1c&HFFB6B6\3c&HA95959)}{\k56}se{\r\t(3401,3870,\1c&HA95959\3c&HFFFFFF))}{\k47}te
+Dialogue: 0,0:30:21.02,0:30:27.14,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,240,\1c&HA95959\3c&HFFFFFF)\t(241,242,\1c&HFFB6B6\3c&HA95959)}{\k24}o{\r\t(241,490,\1c&HA95959\3c&HFFFFFF)\t(491,491,\1c&HFFB6B6\3c&HA95959)}{\k25}mo{\r\t(491,630,\1c&HA95959\3c&HFFFFFF)\t(631,636,\1c&HFFB6B6\3c&HA95959)}{\k14}i {\r\t(631,1290,\1c&HA95959\3c&HFFFFFF)\t(1291,1292,\1c&HFFB6B6\3c&HA95959)}{\k66}mo {\r\t(1291,1520,\1c&HA95959\3c&HFFFFFF)\t(1521,1521,\1c&HFFB6B6\3c&HA95959)}{\k23}ko{\r\t(1521,1690,\1c&HA95959\3c&HFFFFFF)\t(1691,1701,\1c&HFFB6B6\3c&HA95959)}{\k17}e {\r\t(1691,2870,\1c&HA95959\3c&HFFFFFF)\t(2871,2875,\1c&HFFB6B6\3c&HA95959)}{\k118}mo {\r\t(2871,3430,\1c&HA95959\3c&HFFFFFF)\t(3431,3432,\1c&HFFB6B6\3c&HA95959)}{\k56}ki{\r\t(3431,3670,\1c&HA95959\3c&HFFFFFF)\t(3671,3672,\1c&HFFB6B6\3c&HA95959)}{\k24}tto {\r\t(3671,3950,\1c&HA95959\3c&HFFFFFF)\t(3951,3952,\1c&HFFB6B6\3c&HA95959)}{\k28}to{\r\t(3951,4220,\1c&HA95959\3c&HFFFFFF)\t(4221,4225,\1c&HFFB6B6\3c&HA95959)}{\k27}do{\r\t(4221,4740,\1c&HA95959\3c&HFFFFFF)\t(4741,4742,\1c&HFFB6B6\3c&HA95959)}{\k52}ku {\r\t(4741,5030,\1c&HA95959\3c&HFFFFFF)\t(5031,5040,\1c&HFFB6B6\3c&HA95959)}{\k29}ka{\r\t(5031,6050,\1c&HA95959\3c&HFFFFFF))}{\k102}ra
+Dialogue: 0,0:30:27.12,0:30:30.33,LM_Rom,,0000,0000,0000,,{\fad(0,2000)}{\r}{\r\t(0,310,\1c&HA95959\3c&HFFFFFF)\t(311,312,\1c&HFFB6B6\3c&HA95959)}{\k31}say {\r\t(311,580,\1c&HA95959\3c&HFFFFFF)\t(581,606,\1c&HFFB6B6\3c&HA95959)}{\k27}my {\r\t(581,3190,\1c&HA95959\3c&HFFFFFF))}{\k261}heart
+Dialogue: 0,0:30:45.14,0:30:48.58,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,540,\1c&HA95959\3c&HFFFFFF)\t(541,542,\1c&HFFB6B6\3c&HA95959)}{\k54}se{\r\t(541,790,\1c&HA95959\3c&HFFFFFF)\t(791,792,\1c&HFFB6B6\3c&HA95959)}{\k25}pi{\r\t(791,1070,\1c&HA95959\3c&HFFFFFF)\t(1071,1072,\1c&HFFB6B6\3c&HA95959)}{\k28}a {\r\t(1071,1310,\1c&HA95959\3c&HFFFFFF)\t(1311,1312,\1c&HFFB6B6\3c&HA95959)}{\k24}i{\r\t(1311,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1565,\1c&HFFB6B6\3c&HA95959)}{\k25}ro {\r\t(1561,2100,\1c&HA95959\3c&HFFFFFF)\t(2101,2102,\1c&HFFB6B6\3c&HA95959)}{\k54}no {\r\t(2101,2390,\1c&HA95959\3c&HFFFFFF)\t(2391,2392,\1c&HFFB6B6\3c&HA95959)}{\k29}ho{\r\t(2391,2640,\1c&HA95959\3c&HFFFFFF)\t(2641,2647,\1c&HFFB6B6\3c&HA95959)}{\k25}ri{\r\t(2641,3380,\1c&HA95959\3c&HFFFFFF))}{\k74}dei
+Dialogue: 0,0:30:49.43,0:30:52.88,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,540,\1c&HA95959\3c&HFFFFFF)\t(541,542,\1c&HFFB6B6\3c&HA95959)}{\k54}ka{\r\t(541,790,\1c&HA95959\3c&HFFFFFF)\t(791,792,\1c&HFFB6B6\3c&HA95959)}{\k25}wa{\r\t(791,1070,\1c&HA95959\3c&HFFFFFF)\t(1071,1072,\1c&HFFB6B6\3c&HA95959)}{\k28}ra{\r\t(1071,1330,\1c&HA95959\3c&HFFFFFF)\t(1331,1332,\1c&HFFB6B6\3c&HA95959)}{\k26}na{\r\t(1331,1560,\1c&HA95959\3c&HFFFFFF)\t(1561,1565,\1c&HFFB6B6\3c&HA95959)}{\k23}i {\r\t(1561,2110,\1c&HA95959\3c&HFFFFFF)\t(2111,2114,\1c&HFFB6B6\3c&HA95959)}{\k55}be{\r\t(2111,2610,\1c&HA95959\3c&HFFFFFF)\t(2611,2617,\1c&HFFB6B6\3c&HA95959)}{\k50}ru{\r\t(2611,3410,\1c&HA95959\3c&HFFFFFF))}{\k80}be
+Dialogue: 0,0:30:53.63,0:30:57.43,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,360,\1c&HA95959\3c&HFFFFFF)\t(361,365,\1c&HFFB6B6\3c&HA95959)}{\k36}ha{\r\t(361,890,\1c&HA95959\3c&HFFFFFF)\t(891,892,\1c&HFFB6B6\3c&HA95959)}{\k53}zu {\r\t(891,1180,\1c&HA95959\3c&HFFFFFF)\t(1181,1182,\1c&HFFB6B6\3c&HA95959)}{\k29}a{\r\t(1181,1420,\1c&HA95959\3c&HFFFFFF)\t(1421,1422,\1c&HFFB6B6\3c&HA95959)}{\k24}tsu {\r\t(1421,1670,\1c&HA95959\3c&HFFFFFF)\t(1671,1675,\1c&HFFB6B6\3c&HA95959)}{\k25}no {\r\t(1671,2210,\1c&HA95959\3c&HFFFFFF)\t(2211,2215,\1c&HFFB6B6\3c&HA95959)}{\k54}ko{\r\t(2211,2730,\1c&HA95959\3c&HFFFFFF)\t(2731,2740,\1c&HFFB6B6\3c&HA95959)}{\k52}i {\r\t(2731,3760,\1c&HA95959\3c&HFFFFFF))}{\k103}wo
+Dialogue: 0,0:30:58.02,0:31:01.94,LM_Rom,,0000,0000,0000,,{\r}{\r\t(0,250,\1c&HA95959\3c&HFFFFFF)\t(251,252,\1c&HFFB6B6\3c&HA95959)}{\k25}o{\r\t(251,470,\1c&HA95959\3c&HFFFFFF)\t(471,472,\1c&HFFB6B6\3c&HA95959)}{\k22}mo{\r\t(471,710,\1c&HA95959\3c&HFFFFFF)\t(711,712,\1c&HFFB6B6\3c&HA95959)}{\k24}i {\r\t(711,1010,\1c&HA95959\3c&HFFFFFF)\t(1011,1012,\1c&HFFB6B6\3c&HA95959)}{\k30}no{\r\t(1011,1280,\1c&HA95959\3c&HFFFFFF)\t(1281,1282,\1c&HFFB6B6\3c&HA95959)}{\k27}bu{\r\t(1281,1520,\1c&HA95959\3c&HFFFFFF)\t(1521,1525,\1c&HFFB6B6\3c&HA95959)}{\k24}n {\r\t(1521,2060,\1c&HA95959\3c&HFFFFFF)\t(2061,2062,\1c&HFFB6B6\3c&HA95959)}{\k54}so {\r\t(2061,2350,\1c&HA95959\3c&HFFFFFF)\t(2351,2352,\1c&HFFB6B6\3c&HA95959)}{\k29}so{\r\t(2351,2570,\1c&HA95959\3c&HFFFFFF)\t(2571,2582,\1c&HFFB6B6\3c&HA95959)}{\k22}gu{\r\t(2571,3860,\1c&HA95959\3c&HFFFFFF))}{\k129}ne
+Dialogue: 0,0:31:02.30,0:31:05.78,LM_Rom,,0000,0000,0000,,{\fad(0,3000)}{\r}{\r\t(0,520,\1c&HA95959\3c&HFFFFFF)\t(521,522,\1c&HFFB6B6\3c&HA95959)}{\k52}zu{\r\t(521,760,\1c&HA95959\3c&HFFFFFF)\t(761,762,\1c&HFFB6B6\3c&HA95959)}{\k24}tto {\r\t(761,1060,\1c&HA95959\3c&HFFFFFF)\t(1061,1062,\1c&HFFB6B6\3c&HA95959)}{\k30}a{\r\t(1061,1290,\1c&HA95959\3c&HFFFFFF)\t(1291,1292,\1c&HFFB6B6\3c&HA95959)}{\k23}na{\r\t(1291,1550,\1c&HA95959\3c&HFFFFFF)\t(1551,1552,\1c&HFFB6B6\3c&HA95959)}{\k26}ta {\r\t(1551,1810,\1c&HA95959\3c&HFFFFFF)\t(1811,1812,\1c&HFFB6B6\3c&HA95959)}{\k26}wo {\r\t(1811,2100,\1c&HA95959\3c&HFFFFFF)\t(2101,2102,\1c&HFFB6B6\3c&HA95959)}{\k29}shi{\r\t(2101,2350,\1c&HA95959\3c&HFFFFFF)\t(2351,2352,\1c&HFFB6B6\3c&HA95959)}{\k25}n{\r\t(2351,2610,\1c&HA95959\3c&HFFFFFF)\t(2611,2618,\1c&HFFB6B6\3c&HA95959)}{\k26}ji{\r\t(2611,3420,\1c&HA95959\3c&HFFFFFF))}{\k81}te
+Dialogue: 0,0:30:08.44,0:30:12.12,LM_Eng,,0000,0000,0000,,I love you! You're the only one in the world!
+Dialogue: 0,0:30:12.48,0:30:16.82,LM_Eng,,0000,0000,0000,,Our miracle encounter was the best present!
+Dialogue: 0,0:30:17.00,0:30:20.88,LM_Eng,,0000,0000,0000,,I trust my heart...
+Dialogue: 0,0:30:21.02,0:30:27.14,LM_Eng,,0000,0000,0000,,...and voice will reach you.
+Dialogue: 0,0:30:27.12,0:30:30.33,LM_Eng,,0000,0000,0000,,{\fad(0,2000)}Say my heart.
+Dialogue: 0,0:30:45.14,0:30:48.58,LM_Eng,,0000,0000,0000,,Holiday in Sepia...
+Dialogue: 0,0:30:49.43,0:30:52.88,LM_Eng,,0000,0000,0000,,Velvet never changes...
+Dialogue: 0,0:30:53.63,0:30:57.43,LM_Eng,,0000,0000,0000,,Passionate love - 
+Dialogue: 0,0:30:58.02,0:31:01.94,LM_Eng,,0000,0000,0000,,- I'll put my heart into it.
+Dialogue: 0,0:31:02.30,0:31:05.78,LM_Eng,,0000,0000,0000,,{\fad(0,3000)}I'll trust you all the way.

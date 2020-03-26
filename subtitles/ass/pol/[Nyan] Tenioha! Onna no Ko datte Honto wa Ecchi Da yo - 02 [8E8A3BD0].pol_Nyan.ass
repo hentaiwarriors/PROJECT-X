@@ -1,0 +1,145 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r112
+Active Line: 3
+Audio File: ?video
+Collisions: Normal
+Last Style Storage: Default [848x480]
+Original Script: Nyan
+Original Translation: kostek00
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video File: Tenioha! Onna no Ko datte Honto wa Ecchi Da yo - 02.mp4
+Video Position: 20912
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,18,&H008117FE,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,20,20,12,1
+Style: Tytul,Franklin Gothic Medium,26,&H00CB8C12,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,65,1
+Style: Znak,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,12,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:35.68,0:00:37.52,Znak,,0,0,0,,{\be1}Od Nanase
+Dialogue: 0,0:01:51.76,0:01:56.26,Grupa,,0,0,0,,{\be1\fad(269,0)}Nyan
+Dialogue: 0,0:01:53.76,0:01:56.26,Tytul,,0,0,0,,{\be1\fad(271,0)}Z koleżankami zawsze i wszędzie!
+Dialogue: 0,0:14:04.16,0:14:12.12,Znak,,0,0,0,,{\be1\pos(170,12)}Pierwsza randka na której\NHiro spuścił się we mnie!
+Dialogue: 0,0:14:04.16,0:14:12.12,Znak,,0,0,0,,{\be1\pos(690,12)}Pamiątka na znak\Nnaszego partnerstwa.
+Dialogue: 0,0:00:01.87,0:00:05.08,Default,,0,0,0,,{\be1}Hiro!
+Dialogue: 0,0:00:07.28,0:00:11.53,Default,,0,0,0,,{\be1}Twój klub nazywa się Stowarzyszeniem\NIntelektualno-Kulturowych Badań?
+Dialogue: 0,0:00:13.21,0:00:15.04,Default,,0,0,0,,{\be1}Może i ja dołączę?
+Dialogue: 0,0:00:15.67,0:00:18.00,Default,,0,0,0,,{\be1}Ten klub to jedna wielka pomyłka.
+Dialogue: 0,0:00:18.38,0:00:21.93,Default,,0,0,0,,{\be1}To nic, wydaje mi się, że może być fajnie.
+Dialogue: 0,0:00:22.60,0:00:25.56,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:00:35.68,0:00:41.23,Default,,0,0,0,,{\be1}Hiro, przekażę ci moją cenną kolekcję.
+Dialogue: 0,0:00:42.72,0:00:44.31,Default,,0,0,0,,{\be1}Niezłe fotki.
+Dialogue: 0,0:00:45.95,0:00:50.24,Default,,0,0,0,,{\be1}Piękny tyłeczek.
+Dialogue: 0,0:00:50.54,0:00:52.20,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:00:56.96,0:00:58.46,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:01:00.08,0:01:02.57,Default,,0,0,0,,{\be1}To tylko... Te... No...
+Dialogue: 0,0:01:07.12,0:01:08.92,Default,,0,0,0,,{\be1}Hiro, to...
+Dialogue: 0,0:01:09.68,0:01:11.38,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:01:12.26,0:01:14.34,Default,,0,0,0,,{\be1}Masz moje zdjęcia...
+Dialogue: 0,0:01:14.34,0:01:17.31,Default,,0,0,0,,{\be1}Żeby się strzepać!
+Dialogue: 0,0:01:20.95,0:01:24.94,Default,,0,0,0,,{\be1}Podniecają cię?
+Dialogue: 0,0:01:26.20,0:01:27.40,Default,,0,0,0,,{\be1}Ta...
+Dialogue: 0,0:01:30.40,0:01:34.82,Default (i),,0,0,0,,{\be1}To miał być żart! O cholera!
+Dialogue: 0,0:01:39.92,0:01:41.25,Default,,0,0,0,,{\be1}Hiro.
+Dialogue: 0,0:01:41.84,0:01:43.21,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:01:46.10,0:01:50.23,Default,,0,0,0,,{\be1}Chciałbyś zrobić to ze mną?
+Dialogue: 0,0:02:14.12,0:02:16.28,Default,,0,0,0,,{\be1}To było zboczone.
+Dialogue: 0,0:02:41.16,0:02:42.73,Default,,0,0,0,,{\be1}Czekaj chwilę.
+Dialogue: 0,0:02:43.62,0:02:46.80,Default,,0,0,0,,{\be1}Podnieciło mnie to.
+Dialogue: 0,0:02:54.69,0:02:57.45,Default,,0,0,0,,{\be1}Hiro.
+Dialogue: 0,0:03:13.22,0:03:15.03,Default,,0,0,0,,{\be1}Trochę się wstydzę.
+Dialogue: 0,0:03:15.03,0:03:16.47,Default,,0,0,0,,{\be1}Wyglądasz świetnie.
+Dialogue: 0,0:03:16.47,0:03:17.93,Default,,0,0,0,,{\be1}Mówisz o piersiach?
+Dialogue: 0,0:03:17.93,0:03:19.89,Default,,0,0,0,,{\be1}O nich też.
+Dialogue: 0,0:03:21.06,0:03:23.71,Default,,0,0,0,,{\be1}Dotykasz ich w zboczony sposób.
+Dialogue: 0,0:03:24.19,0:03:26.98,Default,,0,0,0,,{\be1}Nie, to...
+Dialogue: 0,0:03:32.87,0:03:35.80,Default,,0,0,0,,{\be1}Zostawisz mi malinkę.
+Dialogue: 0,0:03:41.71,0:03:44.07,Default,,0,0,0,,{\be1}Czuję twoje palce!
+Dialogue: 0,0:03:47.58,0:03:50.09,Default,,0,0,0,,{\be1}Słyszę same zboczone dźwięki.
+Dialogue: 0,0:03:52.18,0:03:55.55,Default,,0,0,0,,{\be1}Twój penis drży.
+Dialogue: 0,0:04:07.27,0:04:10.73,Default,,0,0,0,,{\be1}Hiro, zacznijmy już.
+Dialogue: 0,0:04:15.94,0:04:19.61,Default,,0,0,0,,{\be1}Oddam ci swoje dziewictwo, ale...
+Dialogue: 0,0:04:20.11,0:04:23.03,Default,,0,0,0,,{\be1}Wiem, będę delikatny.
+Dialogue: 0,0:04:27.07,0:04:28.92,Default,,0,0,0,,{\be1}Coś taka mokra?
+Dialogue: 0,0:04:29.27,0:04:32.88,Default,,0,0,0,,{\be1}To przez sposób w jaki mnie całowałeś.
+Dialogue: 0,0:04:32.88,0:04:36.71,Default (i),,0,0,0,,{\be1}Moja cipka zapamiętuje jego kształt.
+Dialogue: 0,0:04:36.71,0:04:38.34,Default,,0,0,0,,{\be1}Pora je wziąć.
+Dialogue: 0,0:04:40.17,0:04:41.76,Default,,0,0,0,,{\be1}Dobra, wkładaj.
+Dialogue: 0,0:04:42.71,0:04:44.76,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:04:45.35,0:04:46.29,Default,,0,0,0,,{\be1}Ami?
+Dialogue: 0,0:04:50.85,0:04:55.82,Default,,0,0,0,,{\be1}Nie przestawaj,\Nchcę czuć ból pierwszego razu.
+Dialogue: 0,0:04:57.45,0:04:59.58,Default (i),,0,0,0,,{\be1}Rozpycha mnie!
+Dialogue: 0,0:05:00.74,0:05:04.44,Default (i),,0,0,0,,{\be1}Ciągle wkłada i robi dziwne dźwięki!
+Dialogue: 0,0:05:05.19,0:05:07.60,Default (i),,0,0,0,,{\be1}To jest najprawdziwszy seks.
+Dialogue: 0,0:05:10.40,0:05:13.49,Default,,0,0,0,,{\be1}Twój penis robi się coraz większy!
+Dialogue: 0,0:05:13.49,0:05:15.92,Default,,0,0,0,,{\be1}To dlatego, że jest mi przyjemnie.
+Dialogue: 0,0:05:20.33,0:05:25.08,Default (i),,0,0,0,,{\be1}To nie fair, bo mnie to boli.
+Dialogue: 0,0:05:40.07,0:05:41.49,Default,,0,0,0,,{\be1}Nie powstrzymam się!
+Dialogue: 0,0:05:41.96,0:05:44.92,Default,,0,0,0,,{\be1}Możesz spuścić się we mnie!
+Dialogue: 0,0:05:46.99,0:05:48.42,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:05:59.52,0:06:03.63,Default,,0,0,0,,{\be1}Seks jest niesamowity.
+Dialogue: 0,0:06:07.48,0:06:09.56,Default,,0,0,0,,{\be1}Nadal ci stoi.
+Dialogue: 0,0:06:16.53,0:06:20.40,Default,,0,0,0,,{\be1}Sperma wylatuje w zboczony sposób!
+Dialogue: 0,0:06:21.97,0:06:28.98,Default (i),,0,0,0,,{\be1}Dopiero co straciłam dziewictwo,\Na już robi mi się przyjemnie.
+Dialogue: 0,0:06:32.13,0:06:36.50,Default,,0,0,0,,{\be1}Wkładaj go mocniej!
+Dialogue: 0,0:06:39.18,0:06:40.72,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:06:58.03,0:07:02.84,Default (i),,0,0,0,,{\be1}Tak mi przyjemnie,\Nże kręci mi się w głowie.
+Dialogue: 0,0:07:15.96,0:07:18.73,Default,,0,0,0,,{\be1}O nie, Hiro!
+Dialogue: 0,0:07:31.07,0:07:36.14,Default (i),,0,0,0,,{\be1}Robi się większy,\Nzaraz znowu dojdzie?
+Dialogue: 0,0:07:44.12,0:07:50.89,Default,,0,0,0,,{\be1}Spuść się we mnie!\NChcę twojej spermy!
+Dialogue: 0,0:08:22.95,0:08:26.19,Default (i),,0,0,0,,{\be1}Ciągle spuszcza się we mnie.
+Dialogue: 0,0:08:26.19,0:08:30.78,Default,,0,0,0,,{\be1}Głupku, za dużo się spuszczasz.
+Dialogue: 0,0:08:31.17,0:08:33.96,Default,,0,0,0,,{\be1}Chyba pasujemy do siebie.
+Dialogue: 0,0:08:34.80,0:08:35.70,Default,,0,0,0,,{\be1}Możliwe.
+Dialogue: 0,0:08:40.42,0:08:44.28,Default,,0,0,0,,{\be1}Hiro, powtórzmy to kiedyś, dobra?
+Dialogue: 0,0:08:47.52,0:08:53.11,Default (i),,0,0,0,,{\be1}Od tamtego dnia dostaliśmy\Nobsesji na punkcie seksu.
+Dialogue: 0,0:08:55.27,0:08:57.39,Default,,0,0,0,,{\be1}Najpierw chcę wziąć prysznic.
+Dialogue: 0,0:08:57.39,0:08:58.86,Default,,0,0,0,,{\be1}Po co?
+Dialogue: 0,0:08:58.86,0:09:00.70,Default,,0,0,0,,{\be1}Jestem spocona.
+Dialogue: 0,0:09:04.23,0:09:06.45,Default,,0,0,0,,{\be1}Wspaniały.
+Dialogue: 0,0:09:06.45,0:09:09.58,Default,,0,0,0,,{\be1}Nie obwąchuj mnie!
+Dialogue: 0,0:09:09.58,0:09:12.24,Default,,0,0,0,,{\be1}Pachniesz bardzo podniecająco.
+Dialogue: 0,0:09:13.21,0:09:16.16,Default (i),,0,0,0,,{\be1}Wącha moją pachę!
+Dialogue: 0,0:09:16.83,0:09:19.91,Default (i),,0,0,0,,{\be1}A teraz jeszcze ją liże!
+Dialogue: 0,0:09:20.67,0:09:24.10,Default,,0,0,0,,{\be1}Smakujesz wstydem i kwaśnym smakiem.
+Dialogue: 0,0:09:26.12,0:09:30.88,Default,,0,0,0,,{\be1}Wylizujesz każdy skrawek!
+Dialogue: 0,0:09:33.56,0:09:37.21,Default,,0,0,0,,{\be1}Weź mnie wreszcie!
+Dialogue: 0,0:09:38.26,0:09:40.24,Default,,0,0,0,,{\be1}No nie wiem.
+Dialogue: 0,0:09:41.81,0:09:46.13,Default,,0,0,0,,{\be1}Szybko, włóż go.
+Dialogue: 0,0:09:46.93,0:09:48.86,Default,,0,0,0,,{\be1}Niech ci będzie!
+Dialogue: 0,0:09:49.79,0:09:53.58,Default (i),,0,0,0,,{\be1}Włożył całego za jednym zamachem!
+Dialogue: 0,0:09:56.09,0:09:58.70,Default,,0,0,0,,{\be1}Twój kutas rozpycha mnie!
+Dialogue: 0,0:09:59.34,0:10:03.16,Default,,0,0,0,,{\be1}Jesteś bardzo ciasna i gorąca!
+Dialogue: 0,0:10:03.76,0:10:07.59,Default,,0,0,0,,{\be1}Wkładasz go bardzo głęboko!
+Dialogue: 0,0:10:12.81,0:10:15.81,Default,,0,0,0,,{\be1}W piersi też mi jest przyjemnie.
+Dialogue: 0,0:10:27.12,0:10:28.44,Default,,0,0,0,,{\be1}Hiro.
+Dialogue: 0,0:10:32.49,0:10:33.91,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:10:37.25,0:10:38.45,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:10:38.87,0:10:41.90,Default,,0,0,0,,{\be1}Masz cudowną cipkę!
+Dialogue: 0,0:10:41.90,0:10:44.91,Default,,0,0,0,,{\be1}A ty kutasa!
+Dialogue: 0,0:10:46.25,0:10:50.55,Default,,0,0,0,,{\be1}Seks jest cudowny!
+Dialogue: 0,0:10:53.77,0:10:59.18,Default,,0,0,0,,{\be1}Twój kutas z radością wchodzi we mnie!
+Dialogue: 0,0:11:02.42,0:11:05.27,Default,,0,0,0,,{\be1}Włożysz mi zaraz w macicę!
+Dialogue: 0,0:11:05.86,0:11:07.73,Default,,0,0,0,,{\be1}Zrobiłaś się ciaśniejsza!
+Dialogue: 0,0:11:08.57,0:11:13.70,Default,,0,0,0,,{\be1}Tak mi przyjemnie,\Ngdy wkładasz go głęboko!
+Dialogue: 0,0:11:14.73,0:11:20.20,Default,,0,0,0,,{\be1}Tak! Wkładaj głębiej!
+Dialogue: 0,0:11:46.99,0:11:48.07,Default,,0,0,0,,{\be1}W środku!
+Dialogue: 0,0:11:50.86,0:11:53.32,Default,,0,0,0,,{\be1}Spuść się we mnie!
+Dialogue: 0,0:12:06.84,0:12:12.08,Default,,0,0,0,,{\be1}Doszliśmy w tym samym momencie.
+Dialogue: 0,0:13:47.69,0:13:52.02,Default (i),,0,0,0,,{\be1}Zazwyczaj przychodzą tu pary i znajomi.
+Dialogue: 0,0:13:52.33,0:13:54.98,Default (i),,0,0,0,,{\be1}Ale my jesteśmy tu po...
+Dialogue: 0,0:13:54.98,0:13:57.12,Default,,0,0,0,,{\be1}Robię zdjęcie.
+Dialogue: 0,0:13:57.98,0:14:00.82,Default,,0,0,0,,{\be1}Przyda nam się pamiątka.

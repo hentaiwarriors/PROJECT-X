@@ -1,0 +1,549 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.0 Build536  Sep 27 2016  18:57:22
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: ?video
+Video File: Ninja Vol.04.mkv
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 1549
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,60,&H004D0EFF,&H000000FF,&H784D0EFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,120,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.65,0:00:11.66,Grupa,,0,0,0,,{\be1\fad(1000,1000)}Nyan
+Dialogue: 0,0:00:19.46,0:00:24.99,Tytul,,0,0,0,,{\blur5\fad(1353,257)}Ninja kontra zło
+Dialogue: 0,0:01:04.64,0:01:08.72,Default,,0,0,0,,{\be1}Niedługo się obudzi.
+Dialogue: 0,0:01:09.55,0:01:13.32,Default,,0,0,0,,{\be1}Choćby nie wiem co musimy go bronić.
+Dialogue: 0,0:01:14.86,0:01:20.44,Default,,0,0,0,,{\be1}Czekaliśmy 500 lat, musimy walczyć.
+Dialogue: 0,0:01:36.53,0:01:39.76,Default,,0,0,0,,{\be1}Straszni z was słabeusze.
+Dialogue: 0,0:01:45.83,0:01:46.75,Default,,0,0,0,,{\be1}Tędy!
+Dialogue: 0,0:01:48.47,0:01:51.43,Default,,0,0,0,,{\be1}Tylko ze względu na misję.
+Dialogue: 0,0:01:52.65,0:01:54.15,Default,,0,0,0,,{\be1}Saizo!
+Dialogue: 0,0:01:56.35,0:01:58.47,Default,,0,0,0,,{\be1}Tak nie mogę, muszę się rozebrać.
+Dialogue: 0,0:02:02.11,0:02:03.10,Default,,0,0,0,,{\be1}Nie mogę zdjąć.
+Dialogue: 0,0:02:06.61,0:02:11.45,Default (i),,0,0,0,,{\be1}Każdej nocy to robi.
+Dialogue: 0,0:02:11.98,0:02:14.70,Default,,0,0,0,,{\be1}Zaraz się zacznie.
+Dialogue: 0,0:02:14.70,0:02:16.45,Default,,0,0,0,,{\be1}Nie zniosę tego.
+Dialogue: 0,0:02:17.69,0:02:21.29,Default,,0,0,0,,{\be1}Saizo, patrz jak się podnieciłam!
+Dialogue: 0,0:02:21.29,0:02:25.54,Default,,0,0,0,,{\be1}Jestem mokra i sutki mi sterczą!
+Dialogue: 0,0:02:25.54,0:02:29.54,Default,,0,0,0,,{\be1}Słyszysz moje odgłosy?
+Dialogue: 0,0:02:29.54,0:02:34.86,Default,,0,0,0,,{\be1}Patrz na mnie!\NAlbo nie, wstydzę się!
+Dialogue: 0,0:02:34.86,0:02:37.24,Default,,0,0,0,,{\be1}Patrz! Albo nie!
+Dialogue: 0,0:02:39.03,0:02:40.22,Default (i),,0,0,0,,{\be1}Zdecyduj się!
+Dialogue: 0,0:02:41.42,0:02:46.88,Default,,0,0,0,,{\be1}Twój kutas wszedł we mnie!
+Dialogue: 0,0:02:48.97,0:02:52.52,Default,,0,0,0,,{\be1}Wkładaj go we mnie!
+Dialogue: 0,0:02:55.16,0:03:00.30,Default,,0,0,0,,{\be1}Saizo! Nie tak mocno,\Nbo zranisz mi cipkę!
+Dialogue: 0,0:03:01.89,0:03:05.24,Default,,0,0,0,,{\be1}Delikatniej!
+Dialogue: 0,0:03:11.42,0:03:12.93,Default,,0,0,0,,{\be1}Saizo!
+Dialogue: 0,0:03:14.64,0:03:15.76,Default,,0,0,0,,{\be1}Saizo!
+Dialogue: 0,0:03:17.34,0:03:19.41,Default,,0,0,0,,{\be1}Spać nie mogę!
+Dialogue: 0,0:03:19.41,0:03:22.65,Default (i),,0,0,0,,{\be1}Naprawdę zakochała się w Saizo.
+Dialogue: 0,0:03:22.65,0:03:26.76,Default (i),,0,0,0,,{\be1}Doszła dopiero raz,\Nwięc potrzebuje jeszcze ze 30 minut.
+Dialogue: 0,0:03:26.76,0:03:29.64,Default (i),,0,0,0,,{\be1}Pójdę na spacer.
+Dialogue: 0,0:03:29.64,0:03:33.03,Default,,0,0,0,,{\be1}Znowu dochodzę!
+Dialogue: 0,0:03:36.42,0:03:41.45,Default (i),,0,0,0,,{\be1}Szkoda, że nie ma Ayi,\Numiałaby pomóc Shinobu.
+Dialogue: 0,0:03:48.16,0:03:49.62,Default (i),,0,0,0,,{\be1}Ktoś tam jest.
+Dialogue: 0,0:03:49.62,0:03:51.33,Default (i),,0,0,0,,{\be1}Kogo przyniosło o tej porze?
+Dialogue: 0,0:04:01.02,0:04:03.61,Default,,0,0,0,,{\be1}Niemożliwe! Aya?
+Dialogue: 0,0:04:04.78,0:04:05.89,Default,,0,0,0,,{\be1}Aya!
+Dialogue: 0,0:04:06.43,0:04:08.90,Default,,0,0,0,,{\be1}Niemożliwe, to była Aya!
+Dialogue: 0,0:04:24.51,0:04:26.91,Default,,0,0,0,,{\be1}To na pewno była ona!
+Dialogue: 0,0:04:27.24,0:04:32.63,Default,,0,0,0,,{\be1}Shinobu, nie uwierzysz!\NTam była Aya!
+Dialogue: 0,0:04:36.36,0:04:37.77,Default,,0,0,0,,{\be1}Beznadzieja.
+Dialogue: 0,0:04:40.58,0:04:44.85,Default,,0,0,0,,{\be1}Przestań się masturbować każdej nocy!
+Dialogue: 0,0:04:45.13,0:04:48.08,Default,,0,0,0,,{\be1}Nie musiałaś mnie bić!
+Dialogue: 0,0:04:48.08,0:04:54.57,Default,,0,0,0,,{\be1}Niedługo będziemy mieć festyn,\Na tobie we łbie tylko jedno!
+Dialogue: 0,0:04:54.94,0:04:58.19,Default,,0,0,0,,{\be1}A co ja poradzę, że się zakochałam?
+Dialogue: 0,0:04:58.19,0:05:03.90,Default,,0,0,0,,{\be1}A ty to może w nikim się nie bujasz, desperatko?
+Dialogue: 0,0:05:04.59,0:05:06.40,Default,,0,0,0,,{\be1}Coś powiedziała?
+Dialogue: 0,0:05:06.40,0:05:08.01,Default,,0,0,0,,{\be1}A tak nie jest?
+Dialogue: 0,0:05:08.01,0:05:14.63,Default,,0,0,0,,{\be1}Nie zrozumiesz mnie,\Ndopóki się sama nie zakochasz!
+Dialogue: 0,0:05:15.24,0:05:18.21,Default,,0,0,0,,{\be1}Mądrala się znalazła!
+Dialogue: 0,0:05:18.21,0:05:21.28,Default,,0,0,0,,{\be1}To ile razy już się spotkaliście?
+Dialogue: 0,0:05:21.28,0:05:22.09,Default,,0,0,0,,{\be1}No...
+Dialogue: 0,0:05:22.09,0:05:25.10,Default,,0,0,0,,{\be1}A widzisz?\NI to ma być miłość?
+Dialogue: 0,0:05:25.55,0:05:29.17,Default,,0,0,0,,{\be1}Masturbować się to każdy potrafi!
+Dialogue: 0,0:05:29.17,0:05:31.14,Default,,0,0,0,,{\be1}Śmiechu warta miłość!
+Dialogue: 0,0:05:33.75,0:05:39.18,Default,,0,0,0,,{\be1}Masz rację, co to za miłość,\Njeśli się z nim nie widuję?
+Dialogue: 0,0:05:39.18,0:05:43.69,Default,,0,0,0,,{\be1}- To koniec, więcej go nie zobaczę!\N- Co ty wygadujesz?
+Dialogue: 0,0:05:43.69,0:05:49.20,Default,,0,0,0,,{\be1}- Zobaczysz, będzie dobrze!\N- To koniec mojej miłości!
+Dialogue: 0,0:05:50.23,0:05:54.51,Default,,0,0,0,,{\be1}Daj spokój nie mówiłam na serio!
+Dialogue: 0,0:05:54.51,0:05:57.96,Default,,0,0,0,,{\be1}Ale taka prawda, to koniec!
+Dialogue: 0,0:05:57.96,0:06:01.64,Default,,0,0,0,,{\be1}Naprawdę wszystko się ułoży! Zobaczysz!
+Dialogue: 0,0:06:03.71,0:06:05.28,Default,,0,0,0,,{\be1}Shinobu.
+Dialogue: 0,0:06:05.28,0:06:06.67,Default,,0,0,0,,{\be1}Dziewczyny.
+Dialogue: 0,0:06:06.67,0:06:07.39,Default,,0,0,0,,{\be1}Panie dyrektor.
+Dialogue: 0,0:06:07.87,0:06:10.18,Default,,0,0,0,,{\be1}Co z przygotowaniami do festynu?
+Dialogue: 0,0:06:10.18,0:06:12.90,Default,,0,0,0,,{\be1}Wiecie, że nie mamy czasu.
+Dialogue: 0,0:06:12.90,0:06:18.43,Default,,0,0,0,,{\be1}My tylko ustalałyśmy,\Nco przygotować na występ.
+Dialogue: 0,0:06:18.43,0:06:20.38,Default,,0,0,0,,{\be1}Pamiętacie, że zostało 5 dni?
+Dialogue: 0,0:06:20.38,0:06:21.90,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:06:22.37,0:06:24.62,Default,,0,0,0,,{\be1}Nie chce mi się na niego iść.
+Dialogue: 0,0:06:24.62,0:06:26.41,Default,,0,0,0,,{\be1}No co ty, chodź.
+Dialogue: 0,0:06:28.65,0:06:31.93,Default,,0,0,0,,{\be1}A właśnie, wczoraj w nocy widziałam Ayę!
+Dialogue: 0,0:06:31.93,0:06:34.42,Default,,0,0,0,,{\be1}To była ona, żywa!
+Dialogue: 0,0:06:34.80,0:06:37.38,Default,,0,0,0,,{\be1}Aya żyje?
+Dialogue: 0,0:06:37.85,0:06:42.63,Default,,0,0,0,,{\be1}Tak, widziałam ją w stroju\Nninja przed akademikiem!
+Dialogue: 0,0:06:44.47,0:06:47.63,Default,,0,0,0,,{\be1}Niech pani jej nie słucha, przyśniło jej się.
+Dialogue: 0,0:06:47.63,0:06:49.12,Default,,0,0,0,,{\be1}Ale to prawda!
+Dialogue: 0,0:06:49.12,0:06:50.80,Default,,0,0,0,,{\be1}Zamknij się!
+Dialogue: 0,0:06:50.80,0:06:53.60,Default,,0,0,0,,{\be1}Zajmiemy się festynem.
+Dialogue: 0,0:06:53.60,0:06:55.16,Default,,0,0,0,,{\be1}Puszczaj!
+Dialogue: 0,0:06:55.16,0:06:56.84,Default,,0,0,0,,{\be1}Aya...
+Dialogue: 0,0:06:58.44,0:07:00.31,Default,,0,0,0,,{\be1}Ale to prawda!
+Dialogue: 0,0:07:00.31,0:07:01.81,Default,,0,0,0,,{\be1}Teraz twoja kwestia.
+Dialogue: 0,0:07:01.81,0:07:05.36,Default,,0,0,0,,{\be1}"Rozpalę twoje serce moją miłością."
+Dialogue: 0,0:07:05.75,0:07:07.91,Default,,0,0,0,,{\be1}Słuchasz ty mnie?
+Dialogue: 0,0:07:07.91,0:07:09.91,Default,,0,0,0,,{\be1}Nie ma takiej kwestii.
+Dialogue: 0,0:07:11.94,0:07:16.97,Default,,0,0,0,,{\be1}Moje serce może rozpalić tylko Saizo.
+Dialogue: 0,0:07:16.97,0:07:18.63,Default,,0,0,0,,{\be1}Nie ma takiej kwestii!
+Dialogue: 0,0:07:19.76,0:07:20.93,Default,,0,0,0,,{\be1}Shinobu!
+Dialogue: 0,0:07:20.93,0:07:22.13,Default,,0,0,0,,{\be1}Cicho.
+Dialogue: 0,0:07:22.51,0:07:23.46,Default,,0,0,0,,{\be1}Słyszysz?
+Dialogue: 0,0:07:23.46,0:07:24.99,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:07:24.99,0:07:27.64,Default,,0,0,0,,{\be1}Słyszę coś.\NKtoś tu jest.
+Dialogue: 0,0:07:27.64,0:07:29.14,Default,,0,0,0,,{\be1}Co? Kto?
+Dialogue: 0,0:07:29.42,0:07:31.60,Default,,0,0,0,,{\be1}Jest za sceną.
+Dialogue: 0,0:07:31.60,0:07:33.90,Default,,0,0,0,,{\be1}Kto tam jest?
+Dialogue: 0,0:07:33.90,0:07:36.40,Default,,0,0,0,,{\be1}Nie wiem, ale ktoś jest.
+Dialogue: 0,0:07:36.40,0:07:38.40,Default,,0,0,0,,{\be1}Kiedy ja nic nie słyszę.
+Dialogue: 0,0:07:38.40,0:07:41.51,Default,,0,0,0,,{\be1}To może być ktoś żywy, chodźmy.
+Dialogue: 0,0:07:48.41,0:07:49.44,Default,,0,0,0,,{\be1}To tam.
+Dialogue: 0,0:07:49.44,0:07:52.38,Default,,0,0,0,,{\be1}Co tam jest?
+Dialogue: 0,0:07:54.84,0:07:56.82,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:08:05.94,0:08:09.24,Default,,0,0,0,,{\be1}Czy to nie Tamura z klasy E?
+Dialogue: 0,0:08:09.24,0:08:11.30,Default,,0,0,0,,{\be1}Do diabła, kto to zrobił?
+Dialogue: 0,0:08:11.30,0:08:14.53,Default,,0,0,0,,{\be1}Ona jeszcze żyje!
+Dialogue: 0,0:08:14.53,0:08:18.87,Default,,0,0,0,,{\be1}Nie możemy jej ruszyć,\Nbo nóż może się wbić w serce!
+Dialogue: 0,0:08:18.87,0:08:21.57,Default,,0,0,0,,{\be1}Wie o tym i dlatego się nie rusza.
+Dialogue: 0,0:08:21.57,0:08:23.79,Default,,0,0,0,,{\be1}Przytrzymuje go mięśniami.
+Dialogue: 0,0:08:23.79,0:08:25.89,Default,,0,0,0,,{\be1}O nie! Co za okrucieństwo!
+Dialogue: 0,0:08:28.22,0:08:30.90,Default,,0,0,0,,{\be1}Może spróbujemy go wyjąć?
+Dialogue: 0,0:08:30.90,0:08:33.58,Default,,0,0,0,,{\be1}Dobra, spróbuję.
+Dialogue: 0,0:08:33.84,0:08:38.58,Default,,0,0,0,,{\be1}Nie ruszaj się jeszcze przez 5 sekund.
+Dialogue: 0,0:08:40.94,0:08:44.09,Default,,0,0,0,,{\be1}Jeszcze chwilę.
+Dialogue: 0,0:08:46.21,0:08:49.13,Default,,0,0,0,,{\be1}Już prawie.
+Dialogue: 0,0:08:50.89,0:08:52.10,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:55.11,0:08:56.98,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:57.73,0:09:01.79,Default,,0,0,0,,{\be1}Przeżyłaby, gdybym się pospieszyła.
+Dialogue: 0,0:09:01.79,0:09:04.64,Default,,0,0,0,,{\be1}Nie obwiniaj się.
+Dialogue: 0,0:09:04.64,0:09:06.58,Default,,0,0,0,,{\be1}To jedna z technik Kouga.
+Dialogue: 0,0:09:06.58,0:09:08.09,Default,,0,0,0,,{\be1}Nazywa się "ostatnie chwile".
+Dialogue: 0,0:09:08.09,0:09:12.51,Default,,0,0,0,,{\be1}Tylko oni potrafią zatrzymać nóż zaraz przy sercu.
+Dialogue: 0,0:09:13.17,0:09:16.37,Default,,0,0,0,,{\be1}Tamten mężczyzna był w mundurku szkoły K.P?
+Dialogue: 0,0:09:16.84,0:09:17.68,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:09:17.68,0:09:24.72,Default,,0,0,0,,{\be1}Tak to jego ręka była w Tamurze\Ni znalazłyśmy go martwego.
+Dialogue: 0,0:09:24.72,0:09:28.99,Default,,0,0,0,,{\be1}Rozumiem.\NCo o tym myślicie?
+Dialogue: 0,0:09:29.68,0:09:34.87,Default,,0,0,0,,{\be1}Został zabity przez kogoś\Npo tym jak zgwałcił dziewczynę.
+Dialogue: 0,0:09:34.87,0:09:41.35,Default,,0,0,0,,{\be1}To wygląda na robotę kogoś z Iga,\Nale na pewno nie zrobiła tego Tamura.
+Dialogue: 0,0:09:41.79,0:09:43.31,Default,,0,0,0,,{\be1}Więc kto?
+Dialogue: 0,0:09:43.68,0:09:48.86,Default,,0,0,0,,{\be1}Nie chcę, ale muszę to\Npowiedzieć, myślę, że to Aya.
+Dialogue: 0,0:09:50.02,0:09:50.86,Default,,0,0,0,,{\be1}Aya?
+Dialogue: 0,0:09:50.86,0:09:51.77,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:09:51.77,0:09:58.24,Default,,0,0,0,,{\be1}Poza Shinobu, tylko Aya\Njest równie silna co Tamura.
+Dialogue: 0,0:09:58.24,0:10:00.37,Default,,0,0,0,,{\be1}Ona naprawdę żyje.
+Dialogue: 0,0:10:03.99,0:10:09.29,Default,,0,0,0,,{\be1}Wprowadziłam alarm poziomu C,\Nale festyn i tak się odbędzie.
+Dialogue: 0,0:10:09.86,0:10:14.39,Default,,0,0,0,,{\be1}Wróg zinfiltrował naszą szkołę,\Nale nie musimy ich schwytać.
+Dialogue: 0,0:10:14.73,0:10:16.35,Default,,0,0,0,,{\be1}Zabijcie na miejscu.
+Dialogue: 0,0:10:16.65,0:10:18.89,Default,,0,0,0,,{\be1}Ale pani dyrektor!
+Dialogue: 0,0:10:18.89,0:10:23.48,Default,,0,0,0,,{\be1}Shinobu, Kouga atakują\Nnajwrażliwsze miejsce kobiet.
+Dialogue: 0,0:10:23.48,0:10:27.61,Default,,0,0,0,,{\be1}Nie okazuj im litości.\NPowiem wprost, oszukali cię.
+Dialogue: 0,0:10:28.19,0:10:30.86,Default,,0,0,0,,{\be1}Ja też tak sądzę.
+Dialogue: 0,0:10:30.86,0:10:32.03,Default,,0,0,0,,{\be1}Idźcie.
+Dialogue: 0,0:10:39.71,0:10:40.89,Default,,0,0,0,,{\be1}Przestańcie.
+Dialogue: 0,0:10:40.89,0:10:44.88,Default,,0,0,0,,{\be1}Niezła, podobno jest ciasna.
+Dialogue: 0,0:10:45.28,0:10:49.27,Default,,0,0,0,,{\be1}Jesteście z Kouga, prawda?\NJestem narzeczoną Sakai Koutaro.
+Dialogue: 0,0:10:49.27,0:10:52.05,Default,,0,0,0,,{\be1}Myślicie, że ujdzie wam to?
+Dialogue: 0,0:10:52.05,0:10:54.41,Default,,0,0,0,,{\be1}A ty nadal o tym?
+Dialogue: 0,0:10:54.41,0:10:56.85,Default,,0,0,0,,{\be1}O niczym nie wiesz?
+Dialogue: 0,0:10:57.20,0:11:02.39,Default,,0,0,0,,{\be1}On rozkazał nam to zrobić.
+Dialogue: 0,0:11:03.81,0:11:09.08,Default,,0,0,0,,{\be1}Mówił, że wyglądasz niewinnie,\Nale tak naprawdę jesteś zboczona.
+Dialogue: 0,0:11:09.08,0:11:13.03,Default,,0,0,0,,{\be1}Lubisz wkładać palce w cipkę i tyłek, co?
+Dialogue: 0,0:11:13.03,0:11:16.64,Default,,0,0,0,,{\be1}Kouga nie trzymają się z Iga.
+Dialogue: 0,0:11:16.64,0:11:18.83,Default,,0,0,0,,{\be1}Masz szczęście.
+Dialogue: 0,0:11:18.83,0:11:20.80,Default,,0,0,0,,{\be1}Czas się za nią zabrać.
+Dialogue: 0,0:11:20.80,0:11:24.84,Default,,0,0,0,,{\be1}Mam cię pieprzyć, dopóki nie będziesz krwawić.
+Dialogue: 0,0:11:28.49,0:11:31.63,Default,,0,0,0,,{\be1}Nie lekceważ nas, nie jesteśmy leszczami!
+Dialogue: 0,0:11:37.50,0:11:43.84,Default,,0,0,0,,{\be1}Podobno wystarczy chwilę cię\Ndotykać i już robisz się mokra.
+Dialogue: 0,0:11:44.53,0:11:46.15,Default,,0,0,0,,{\be1}I jak?
+Dialogue: 0,0:11:48.38,0:11:52.40,Default,,0,0,0,,{\be1}Co do, już jest mokra.\NNie za dobrze ci?
+Dialogue: 0,0:11:53.64,0:11:58.41,Default,,0,0,0,,{\be1}- Podobno jesteś niezła w to.\N- Nie!
+Dialogue: 0,0:12:00.01,0:12:05.37,Default,,0,0,0,,{\be1}Nie opieraj się, bo pożałujesz.
+Dialogue: 0,0:12:07.11,0:12:09.14,Default,,0,0,0,,{\be1}No ssij.
+Dialogue: 0,0:12:12.91,0:12:15.18,Default,,0,0,0,,{\be1}Chyba się posikała.
+Dialogue: 0,0:12:16.13,0:12:20.19,Default,,0,0,0,,{\be1}W fiutem w mordzie wygląda jak wiewiórka.
+Dialogue: 0,0:12:25.92,0:12:27.86,Default,,0,0,0,,{\be1}Zrobiła się ciaśniejsza.
+Dialogue: 0,0:12:29.77,0:12:31.72,Default,,0,0,0,,{\be1}Zacznę ją pieprzyć.
+Dialogue: 0,0:12:31.72,0:12:33.22,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:12:35.45,0:12:41.08,Default,,0,0,0,,{\be1}Nie miej mi tego za złe,\NKoutaro mi to rozkazał.
+Dialogue: 0,0:12:42.88,0:12:44.16,Default,,0,0,0,,{\be1}Jedziemy!
+Dialogue: 0,0:13:01.97,0:13:07.14,Default,,0,0,0,,{\be1}Nigdy nie wybaczę Kouga.
+Dialogue: 0,0:13:08.64,0:13:09.77,Default,,0,0,0,,{\be1}Nigdy!
+Dialogue: 0,0:13:18.85,0:13:20.56,Default (i),,0,0,0,,{\be1}Znowu się spóźniłem.
+Dialogue: 0,0:13:23.14,0:13:24.95,Default,,0,0,0,,{\be1}Kurwa.
+Dialogue: 0,0:13:26.99,0:13:29.66,Default,,0,0,0,,{\be1}To "ostatnie chwile", technika Kouga.
+Dialogue: 0,0:13:29.96,0:13:33.15,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:13:33.15,0:13:36.97,Default (i),,0,0,0,,{\be1}Ma uszkodzone organy\Nwewnętrzne, nie przeżyje tego.
+Dialogue: 0,0:13:36.97,0:13:38.67,Default (i),,0,0,0,,{\be1}Ale może coś jeszcze powie.
+Dialogue: 0,0:13:45.68,0:13:48.66,Default,,0,0,0,,{\be1}Kto to zrobił?\NBo na pewno nie ten gość.
+Dialogue: 0,0:13:49.55,0:13:51.82,Default,,0,0,0,,{\be1}Weź się w garść, nic ci nie będzie.
+Dialogue: 0,0:13:52.44,0:13:53.20,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:13:53.20,0:13:53.82,Default,,0,0,0,,{\be1}Kobieta.
+Dialogue: 0,0:13:53.82,0:13:55.69,Default,,0,0,0,,{\be1}Co? Jaka kobieta?
+Dialogue: 0,0:14:02.82,0:14:04.74,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:14:07.91,0:14:09.57,Default,,0,0,0,,{\be1}Co za okrucieństwo.
+Dialogue: 0,0:14:09.57,0:14:13.63,Default,,0,0,0,,{\be1}Ten gość jest z Kouga, to jeden z nas.
+Dialogue: 0,0:14:13.63,0:14:18.18,Default,,0,0,0,,{\be1}On nie zaatakowałby Iga,\Nktoś to zrobił, żeby ich uciszyć.
+Dialogue: 0,0:14:18.18,0:14:23.18,Default,,0,0,0,,{\be1}Ktoś próbuje namieszać między Iga i Kouga,\Nwygląda to na sztuczkę Negoro.
+Dialogue: 0,0:14:23.18,0:14:27.14,Default,,0,0,0,,{\be1}Saizo, będą kłopoty.
+Dialogue: 0,0:14:31.52,0:14:33.95,Default,,0,0,0,,{\be1}Poziom C.
+Dialogue: 0,0:14:33.95,0:14:37.20,Default,,0,0,0,,{\be1}Nie chce mi się patrolować samej.
+Dialogue: 0,0:14:38.59,0:14:40.90,Default,,0,0,0,,{\be1}Oby nic się nie stało.
+Dialogue: 0,0:14:47.46,0:14:49.66,Default (i),,0,0,0,,{\be1}Co się dzieje?!
+Dialogue: 0,0:14:51.12,0:14:53.41,Default (i),,0,0,0,,{\be1}Jestem tylko ścianą!
+Dialogue: 0,0:14:53.41,0:14:57.17,Default,,0,0,0,,{\be1}Już ja ci dam coś dobrego!
+Dialogue: 0,0:14:59.08,0:15:00.13,Default,,0,0,0,,{\be1}Niezłe nogi.
+Dialogue: 0,0:15:07.43,0:15:09.40,Default,,0,0,0,,{\be1}Ściśnij mocniej!
+Dialogue: 0,0:15:16.07,0:15:17.69,Default (i),,0,0,0,,{\be1}Okrutne!
+Dialogue: 0,0:15:18.51,0:15:21.15,Default,,0,0,0,,{\be1}Ssij mocniej!
+Dialogue: 0,0:15:22.34,0:15:24.80,Default,,0,0,0,,{\be1}Ośliń go, bo nie jest miło!
+Dialogue: 0,0:15:24.80,0:15:27.26,Default,,0,0,0,,{\be1}Wiem, że jeszcze dasz radę!
+Dialogue: 0,0:15:27.26,0:15:30.16,Default,,0,0,0,,{\be1}Nie chcesz już?
+Dialogue: 0,0:15:32.02,0:15:37.67,Default,,0,0,0,,{\be1}Podnieć mnie mocniej!
+Dialogue: 0,0:15:38.37,0:15:40.17,Default (i),,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:15:42.74,0:15:46.18,Default,,0,0,0,,{\be1}Nadziałem cię jak pączka!
+Dialogue: 0,0:15:48.78,0:15:51.18,Default,,0,0,0,,{\be1}Co? Ej, co robisz?
+Dialogue: 0,0:15:51.95,0:15:54.49,Default (i),,0,0,0,,{\be1}Co jest? Nagle się uspokoił.
+Dialogue: 0,0:15:56.51,0:16:01.14,Default,,0,0,0,,{\be1}Cholera! O ja pierdolę!
+Dialogue: 0,0:16:01.14,0:16:05.70,Default,,0,0,0,,{\be1}Byłem na patrolu i wtedy\Nzobaczyłem jakąś dziewczynę...
+Dialogue: 0,0:16:06.12,0:16:07.70,Default (i),,0,0,0,,{\be1}Dziewczynę?
+Dialogue: 0,0:16:08.01,0:16:12.30,Default,,0,0,0,,{\be1}Była jakaś inna, cała świeciła.
+Dialogue: 0,0:16:12.30,0:16:13.95,Default,,0,0,0,,{\be1}Była taka piękna.
+Dialogue: 0,0:16:14.38,0:16:16.29,Default,,0,0,0,,{\be1}Kto to był?
+Dialogue: 0,0:16:16.29,0:16:19.92,Default,,0,0,0,,{\be1}Miała długie włosy i białą cerę.
+Dialogue: 0,0:16:19.92,0:16:21.92,Default (i),,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:16:24.42,0:16:26.93,Default,,0,0,0,,{\be1}Ej, ty!
+Dialogue: 0,0:16:37.63,0:16:38.91,Default,,0,0,0,,{\be1}Aya!
+Dialogue: 0,0:16:40.42,0:16:41.96,Default,,0,0,0,,{\be1}Saizo?
+Dialogue: 0,0:16:44.06,0:16:44.82,Default,,0,0,0,,{\be1}Nagi?!
+Dialogue: 0,0:16:44.82,0:16:47.28,Default,,0,0,0,,{\be1}Dawno się nie widzieliśmy.
+Dialogue: 0,0:16:47.28,0:16:49.84,Default,,0,0,0,,{\be1}Pragnę cię.
+Dialogue: 0,0:16:49.84,0:16:56.79,Default,,0,0,0,,{\be1}Co ty wygadujesz wyglądając jak debil?
+Dialogue: 0,0:16:57.28,0:16:58.75,Default,,0,0,0,,{\be1}Pragnę cię.
+Dialogue: 0,0:16:59.83,0:17:01.54,Default,,0,0,0,,{\be1}Obciągnij mi.
+Dialogue: 0,0:17:01.80,0:17:03.63,Default,,0,0,0,,{\be1}Saizo?
+Dialogue: 0,0:17:07.30,0:17:10.78,Default,,0,0,0,,{\be1}Ssij mocniej.
+Dialogue: 0,0:17:10.78,0:17:14.23,Default,,0,0,0,,{\be1}Co z tobą? Postaraj się.
+Dialogue: 0,0:17:16.07,0:17:19.52,Default,,0,0,0,,{\be1}Wkładaj aż do gardła.
+Dialogue: 0,0:17:20.38,0:17:22.34,Default,,0,0,0,,{\be1}Właśnie tak.
+Dialogue: 0,0:17:22.34,0:17:25.77,Default,,0,0,0,,{\be1}Postaraj się, to wsadzę ci go w tyłek.
+Dialogue: 0,0:17:26.41,0:17:31.28,Default (i),,0,0,0,,{\be1}To naprawdę jest Saizo?
+Dialogue: 0,0:17:31.28,0:17:34.28,Default,,0,0,0,,{\be1}Powiem wprost, oszukali cię.
+Dialogue: 0,0:17:34.28,0:17:36.79,Default,,0,0,0,,{\be1}Ja też tak sądzę.
+Dialogue: 0,0:17:37.22,0:17:38.78,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:17:39.46,0:17:42.29,Default,,0,0,0,,{\be1}Stań na czworaka i wypnij tyłek.
+Dialogue: 0,0:17:43.53,0:17:44.92,Default,,0,0,0,,{\be1}Na czworaka!
+Dialogue: 0,0:17:46.40,0:17:49.42,Default,,0,0,0,,{\be1}Nogi szerzej.
+Dialogue: 0,0:17:50.49,0:17:54.29,Default,,0,0,0,,{\be1}Jaki mały tyłek, jak mam go niby włożyć?
+Dialogue: 0,0:17:54.29,0:17:55.40,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:17:56.19,0:17:58.34,Default,,0,0,0,,{\be1}Zaczyna drżeć.
+Dialogue: 0,0:17:58.34,0:18:00.96,Default,,0,0,0,,{\be1}Proszę, przestań!
+Dialogue: 0,0:18:00.96,0:18:04.30,Default,,0,0,0,,{\be1}Cipkę też masz małą.
+Dialogue: 0,0:18:06.23,0:18:09.99,Default,,0,0,0,,{\be1}Jeden palec to za mało, co?
+Dialogue: 0,0:18:10.54,0:18:12.20,Default,,0,0,0,,{\be1}To masz więcej.
+Dialogue: 0,0:18:12.20,0:18:14.20,Default,,0,0,0,,{\be1}Wkładam!
+Dialogue: 0,0:18:15.34,0:18:18.78,Default,,0,0,0,,{\be1}Nawet 3 to za mało.
+Dialogue: 0,0:18:19.67,0:18:24.04,Default,,0,0,0,,{\be1}Chcesz więcej, co nie?
+Dialogue: 0,0:18:24.04,0:18:25.95,Default,,0,0,0,,{\be1}Zabawimy się.
+Dialogue: 0,0:18:27.55,0:18:29.13,Default,,0,0,0,,{\be1}Shinobu!
+Dialogue: 0,0:18:29.84,0:18:31.13,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:18:31.62,0:18:34.39,Default,,0,0,0,,{\be1}Shinobu, nie ufaj mu,\NKouga to nasi wrogowie!
+Dialogue: 0,0:18:34.39,0:18:37.86,Default,,0,0,0,,{\be1}On chce cię zabić!
+Dialogue: 0,0:18:37.86,0:18:40.11,Default,,0,0,0,,{\be1}Walcz z nim!
+Dialogue: 0,0:18:40.11,0:18:44.64,Default (i),,0,0,0,,{\be1}To nie może być Saizo,\Na nawet jeśli to oszalał.
+Dialogue: 0,0:18:54.62,0:18:55.57,Default,,0,0,0,,{\be1}Mam cię!
+Dialogue: 0,0:18:58.22,0:18:59.62,Default,,0,0,0,,{\be1}Saru, teraz!
+Dialogue: 0,0:19:00.38,0:19:01.43,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:19:07.76,0:19:08.74,Default,,0,0,0,,{\be1}Świetnie.
+Dialogue: 0,0:19:08.74,0:19:11.34,Default,,0,0,0,,{\be1}Trochę przesadziłeś, wiesz?
+Dialogue: 0,0:19:12.38,0:19:13.59,Default,,0,0,0,,{\be1}Aya!
+Dialogue: 0,0:19:13.59,0:19:17.48,Default,,0,0,0,,{\be1}Cholera! Rozwiążcie mnie!
+Dialogue: 0,0:19:17.48,0:19:21.72,Default,,0,0,0,,{\be1}Była bardzo ostrożna,\Nmusiałem się postarać.
+Dialogue: 0,0:19:21.72,0:19:23.06,Default,,0,0,0,,{\be1}W sumie racja.
+Dialogue: 0,0:19:23.74,0:19:28.56,Default,,0,0,0,,{\be1}Shinobu, wybacz, trochę przesadziłem.
+Dialogue: 0,0:19:29.56,0:19:34.03,Default,,0,0,0,,{\be1}To nie jest wasza przyjaciółka tylko Negoro.
+Dialogue: 0,0:19:34.03,0:19:38.49,Default,,0,0,0,,{\be1}Nie daj się omamić Kouga!
+Dialogue: 0,0:19:38.49,0:19:42.41,Default,,0,0,0,,{\be1}Sama pomyśl,\Nmartwi nie zmartwychwstają.
+Dialogue: 0,0:19:42.41,0:19:45.75,Default,,0,0,0,,{\be1}Wygląda na żywą, ale to tak\Nnaprawdę marionetka Negoro.
+Dialogue: 0,0:19:45.75,0:19:46.77,Default,,0,0,0,,{\be1}Nieprawda!
+Dialogue: 0,0:19:46.77,0:19:47.85,Default,,0,0,0,,{\be1}Zamilcz, suko!
+Dialogue: 0,0:19:47.85,0:19:49.82,Default,,0,0,0,,{\be1}Komu uwierzyć?
+Dialogue: 0,0:19:49.82,0:19:52.74,Default,,0,0,0,,{\be1}Nie wierz mu, to nasi wrogowie!
+Dialogue: 0,0:19:52.74,0:19:54.84,Default,,0,0,0,,{\be1}Więc niby Aya ożyła?
+Dialogue: 0,0:19:54.84,0:20:00.85,Default,,0,0,0,,{\be1}Nie! Jestem jej siostrą bliźniaczką Ayano!
+Dialogue: 0,0:20:03.36,0:20:04.60,Default,,0,0,0,,{\be1}Saizo!
+Dialogue: 0,0:20:05.12,0:20:06.24,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:20:07.34,0:20:08.35,Default,,0,0,0,,{\be1}Mówi prawdę.
+Dialogue: 0,0:20:08.35,0:20:09.53,Default,,0,0,0,,{\be1}Pani dyrektor!
+Dialogue: 0,0:20:09.53,0:20:14.70,Default,,0,0,0,,{\be1}Rozmawiałam z Iga w USA, bliźniaczka\NAyi miała przyjechać do Japonii.
+Dialogue: 0,0:20:14.70,0:20:16.82,Default,,0,0,0,,{\be1}Ayano jest jedną z nas.
+Dialogue: 0,0:20:17.30,0:20:19.51,Default,,0,0,0,,{\be1}Widzisz?
+Dialogue: 0,0:20:19.51,0:20:22.33,Default,,0,0,0,,{\be1}Ayano, zaraz cię uwolnię.
+Dialogue: 0,0:20:22.95,0:20:26.36,Default,,0,0,0,,{\be1}Robi się nieciekawie.
+Dialogue: 0,0:20:26.36,0:20:27.54,Default,,0,0,0,,{\be1}Dokładnie.
+Dialogue: 0,0:20:27.54,0:20:31.51,Default,,0,0,0,,{\be1}Jesteście nieźli, ale to wasz koniec.
+Dialogue: 0,0:20:31.51,0:20:34.16,Default,,0,0,0,,{\be1}Przez was straciliśmy wielu ludzi.
+Dialogue: 0,0:20:34.16,0:20:36.31,Default,,0,0,0,,{\be1}A naszych wybiła ona.
+Dialogue: 0,0:20:36.31,0:20:38.09,Default,,0,0,0,,{\be1}Sami się prosiliście.
+Dialogue: 0,0:20:39.17,0:20:41.02,Default,,0,0,0,,{\be1}Ayano, to ty zabiłaś tamtych gości?
+Dialogue: 0,0:20:41.02,0:20:43.81,Default,,0,0,0,,{\be1}A nie mówiłam?!
+Dialogue: 0,0:20:44.39,0:20:47.04,Default,,0,0,0,,{\be1}Pozbądźmy się ich.
+Dialogue: 0,0:20:47.04,0:20:49.81,Default,,0,0,0,,{\be1}Nie da rady, już ich tu nie ma.
+Dialogue: 0,0:20:51.24,0:20:52.32,Default,,0,0,0,,{\be1}Klasyka!
+Dialogue: 0,0:20:53.70,0:20:54.82,Default,,0,0,0,,{\be1}Angielski?
+Dialogue: 0,0:20:55.53,0:20:56.79,Default,,0,0,0,,{\be1}Tak, znam angielski.
+Dialogue: 0,0:20:56.79,0:20:57.79,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:20:57.79,0:21:00.20,Default,,0,0,0,,{\be1}Więc nie będziesz miała\Nproblemów na sprawdzianach.
+Dialogue: 0,0:21:00.20,0:21:04.05,Default,,0,0,0,,{\be1}No nie wiem, pisownia\Nbardzo się różni od mowy.
+Dialogue: 0,0:21:04.05,0:21:06.12,Default,,0,0,0,,{\be1}To i tak niesamowite.
+Dialogue: 0,0:21:06.12,0:21:09.72,Default,,0,0,0,,{\be1}No, Aya była cienka z angielskiego.
+Dialogue: 0,0:21:10.37,0:21:11.04,Default,,0,0,0,,{\be1}Kretynko!
+Dialogue: 0,0:21:12.37,0:21:13.29,Default,,0,0,0,,{\be1}Nic się nie stało.
+Dialogue: 0,0:21:14.16,0:21:17.71,Default,,0,0,0,,{\be1}Na pewno mogę tu zostać?\NTo twoje łóżko.
+Dialogue: 0,0:21:17.71,0:21:20.30,Default,,0,0,0,,{\be1}Jasne, możemy spać gdzie indziej.
+Dialogue: 0,0:21:20.52,0:21:21.31,Default,,0,0,0,,{\be1}Na pewno?
+Dialogue: 0,0:21:21.31,0:21:22.32,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:21:22.32,0:21:25.87,Default,,0,0,0,,{\be1}Przynajmniej nie będziesz robić nic głupiego.
+Dialogue: 0,0:21:29.60,0:21:30.89,Default (i),,0,0,0,,{\be1}Czegoś nie rozumiem.
+Dialogue: 0,0:21:30.89,0:21:35.69,Default (i),,0,0,0,,{\be1}Jeśli zabiła tamtego gościa,\Nto czemu nie uratowała Tamury?
+Dialogue: 0,0:21:35.69,0:21:40.28,Default (i),,0,0,0,,{\be1}Jeszcze żyła, gdy przyszłyśmy,\Na ona miała dużo czasu.
+Dialogue: 0,0:21:40.88,0:21:44.62,Default (i),,0,0,0,,{\be1}Saizo, kim jesteś?
+Dialogue: 0,0:21:45.79,0:21:46.82,Default (i),,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:21:48.13,0:21:49.79,Default (i),,0,0,0,,{\be1}Znikła.
+Dialogue: 0,0:21:52.75,0:21:54.43,Default,,0,0,0,,{\be1}Melduję się.
+Dialogue: 0,0:21:54.43,0:21:55.88,Default,,0,0,0,,{\be1}- Rozumiesz, prawda?\N- Tak.
+Dialogue: 0,0:21:56.38,0:22:00.65,Default,,0,0,0,,{\be1}Musisz ich zabić póki są na\Nnaszym terenie, jeden jest już ranny.
+Dialogue: 0,0:22:00.65,0:22:01.27,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:22:01.27,0:22:02.09,Default,,0,0,0,,{\be1}Więc idź.
+Dialogue: 0,0:22:04.47,0:22:07.10,Default (i),,0,0,0,,{\be1}Mogłaby uratować Iga.
+Dialogue: 0,0:22:09.48,0:22:11.73,Default,,0,0,0,,{\be1}Wykonała ruch.
+Dialogue: 0,0:22:14.87,0:22:15.86,Default,,0,0,0,,{\be1}Już tu jest.
+Dialogue: 0,0:22:15.86,0:22:17.36,Default,,0,0,0,,{\be1}Uważaj.
+Dialogue: 0,0:22:19.08,0:22:21.07,Default,,0,0,0,,{\be1}Uważaj, tu jest trucizna!
+Dialogue: 0,0:22:21.43,0:22:23.57,Default,,0,0,0,,{\be1}Jest nad nami!
+Dialogue: 0,0:22:35.23,0:22:37.86,Default,,0,0,0,,{\be1}Potrafi nawet to?
+Dialogue: 0,0:22:52.07,0:22:54.74,Default,,0,0,0,,{\be1}Ty suko!
+Dialogue: 0,0:22:56.30,0:22:57.02,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:23:16.55,0:23:20.98,Default,,0,0,0,,{\be1}Zabij ją.
+Dialogue: 0,0:23:23.75,0:23:24.80,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:23:25.77,0:23:26.72,Default,,0,0,0,,{\be1}To Ayano.
+Dialogue: 0,0:23:26.72,0:23:29.31,Default,,0,0,0,,{\be1}Ona pokonała ich czy na odwrót?
+Dialogue: 0,0:23:30.77,0:23:32.62,Default,,0,0,0,,{\be1}Zaczynamy.
+Dialogue: 0,0:23:32.62,0:23:33.52,Default,,0,0,0,,{\be1}Będzie ciekawie.
+Dialogue: 0,0:23:34.04,0:23:35.02,Default,,0,0,0,,{\be1}Ruszać!
+Dialogue: 0,0:23:40.35,0:23:41.10,Default,,0,0,0,,{\be1}Lena!
+Dialogue: 0,0:23:41.10,0:23:43.51,Default,,0,0,0,,{\be1}Ja się tobą zajmę.
+Dialogue: 0,0:23:47.16,0:23:49.40,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:56.44,0:23:58.62,Default,,0,0,0,,{\be1}My też się zabawimy.
+Dialogue: 0,0:23:58.83,0:24:00.20,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:24:01.63,0:24:04.09,Default,,0,0,0,,{\be1}- Nie!\N- Nie bądź taka.
+Dialogue: 0,0:24:10.71,0:24:12.81,Default,,0,0,0,,{\be1}Saizo, nie!
+Dialogue: 0,0:24:13.38,0:24:16.91,Default,,0,0,0,,{\be1}Niedobrze! To oni!
+Dialogue: 0,0:24:18.17,0:24:20.56,Default,,0,0,0,,{\be1}Zatrzymaj ich!
+Dialogue: 0,0:24:23.71,0:24:28.07,Default,,0,0,0,,{\be1}Co robicie, kretyni? Zabijcie ją!
+Dialogue: 0,0:24:28.77,0:24:31.78,Default,,0,0,0,,{\be1}Kogo? Może ciebie?
+Dialogue: 0,0:24:33.60,0:24:36.46,Default,,0,0,0,,{\be1}Myślisz, że tym mnie zabijesz?
+Dialogue: 0,0:24:37.13,0:24:38.58,Default,,0,0,0,,{\be1}Tak, wystarczy mi sam nóż.
+Dialogue: 0,0:24:38.58,0:24:39.90,Default,,0,0,0,,{\be1}Jesteś wyszczekany.
+Dialogue: 0,0:24:39.90,0:24:41.44,Default,,0,0,0,,{\be1}Wystarczy, że dobrze trafię.
+Dialogue: 0,0:24:41.44,0:24:42.59,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:24:42.59,0:24:46.67,Default,,0,0,0,,{\be1}Jesteś tam!
+Dialogue: 0,0:24:51.92,0:24:53.32,Default,,0,0,0,,{\be1}Ayano!
+Dialogue: 0,0:24:54.61,0:24:57.94,Default,,0,0,0,,{\be1}Ayano!
+Dialogue: 0,0:24:58.95,0:25:00.10,Default,,0,0,0,,{\be1}- Ayano!\N- Przeżyje.
+Dialogue: 0,0:25:00.81,0:25:02.11,Default,,0,0,0,,{\be1}Użyłem ostatniej chwili.
+Dialogue: 0,0:25:02.33,0:25:04.50,Default,,0,0,0,,{\be1}Szybko, wyjmij go!
+Dialogue: 0,0:25:04.50,0:25:05.60,Default,,0,0,0,,{\be1}Jeszcze nie.
+Dialogue: 0,0:25:05.60,0:25:07.30,Default,,0,0,0,,{\be1}Nie wiem czy nie jest wrogiem.
+Dialogue: 0,0:25:07.30,0:25:10.32,Default,,0,0,0,,{\be1}- Gdzie jestem?\N- Ayano!
+Dialogue: 0,0:25:10.98,0:25:13.58,Default,,0,0,0,,{\be1}Zmienił się jej kolor oczu.
+Dialogue: 0,0:25:13.58,0:25:14.68,Default,,0,0,0,,{\be1}Ayano!
+Dialogue: 0,0:25:17.02,0:25:18.83,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:25:18.83,0:25:21.12,Default,,0,0,0,,{\be1}Była kontrolowana.
+Dialogue: 0,0:25:21.12,0:25:25.30,Default,,0,0,0,,{\be1}Robiła to wszystko,\Nżeby wywołać wojnę między Iga i Kouga.
+Dialogue: 0,0:25:25.90,0:25:29.84,Default,,0,0,0,,{\be1}Jest taka silna mimo kontroli.\NWróg nie żartuje.
+Dialogue: 0,0:25:30.80,0:25:34.19,Default,,0,0,0,,{\be1}Przez ból nie kontrolowała mnie.
+Dialogue: 0,0:25:34.19,0:25:36.37,Default,,0,0,0,,{\be1}Znowu udawałeś.
+Dialogue: 0,0:25:36.37,0:25:38.56,Default,,0,0,0,,{\be1}Saru może mieć problem.
+Dialogue: 0,0:25:39.40,0:25:41.88,Default,,0,0,0,,{\be1}Jak dobrze, Osaru!
+Dialogue: 0,0:25:41.88,0:25:44.80,Default,,0,0,0,,{\be1}Saru, nie Osaru.
+Dialogue: 0,0:25:44.80,0:25:49.03,Default,,0,0,0,,{\be1}- Osaru!\N- Przecież mówię, że nie Osaru.
+Dialogue: 0,0:25:51.73,0:25:54.07,Default,,0,0,0,,{\be1}Uciekli wam?!
+Dialogue: 0,0:25:54.07,0:25:55.21,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:25:55.21,0:25:57.04,Default,,0,0,0,,{\be1}Byli bardzo szybcy.
+Dialogue: 0,0:25:57.04,0:25:59.58,Default,,0,0,0,,{\be1}A do tego silni.
+Dialogue: 0,0:26:00.42,0:26:05.54,Default,,0,0,0,,{\be1}Ayano nic nie pamięta,\Na wy nie potraficie ich złapać!
+Dialogue: 0,0:26:06.01,0:26:07.80,Default,,0,0,0,,{\be1}Co to ma znaczyć?!
+Dialogue: 0,0:26:10.68,0:26:13.30,Default,,0,0,0,,{\be1}Jutro jest festyn, uważajcie na Kouga.
+Dialogue: 0,0:26:13.76,0:26:14.82,Default,,0,0,0,,{\be1}A teraz odejdźcie.
+Dialogue: 0,0:26:14.82,0:26:15.99,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:26:23.70,0:26:26.01,Default,,0,0,0,,{\be1}Czemu miniówa, kretynie?
+Dialogue: 0,0:26:26.01,0:26:29.15,Default,,0,0,0,,{\be1}Spoko, nikt nie zauważy.
+Dialogue: 0,0:26:29.15,0:26:30.19,Default,,0,0,0,,{\be1}Jesteś pewien?
+Dialogue: 0,0:26:31.02,0:26:33.11,Default,,0,0,0,,{\be1}Do twarzy ci w tym.
+Dialogue: 0,0:26:33.11,0:26:34.37,Default,,0,0,0,,{\be1}Morda w kubeł.
+Dialogue: 0,0:26:38.07,0:26:39.21,Default,,0,0,0,,{\be1}Tam są.
+Dialogue: 0,0:26:39.21,0:26:43.21,Default,,0,0,0,,{\be1}Rozpalę twoje serce moją miłością!
+Dialogue: 0,0:26:43.21,0:26:47.76,Default,,0,0,0,,{\be1}Naprawdę? Tylko ty mógłbyś to zrobić!
+Dialogue: 0,0:26:47.76,0:26:51.42,Default,,0,0,0,,{\be1}Nieważne z jakiej rodziny pochodzimy,\Nnasza miłość będzie wieczna!
+Dialogue: 0,0:26:52.10,0:26:53.94,Default,,0,0,0,,{\be1}Cieszę się!
+Dialogue: 0,0:26:53.94,0:26:55.43,Default,,0,0,0,,{\be1}Chodź do mnie!
+Dialogue: 0,0:26:56.08,0:26:58.11,Default,,0,0,0,,{\be1}Co to za gówno?
+Dialogue: 0,0:26:58.11,0:27:00.60,Default,,0,0,0,,{\be1}Nie wiem, ale podobno Iga sobie to cenią.
+Dialogue: 0,0:27:00.60,0:27:02.94,Default,,0,0,0,,{\be1}Odgrywają to od 500 lat.
+Dialogue: 0,0:27:03.20,0:27:07.07,Default,,0,0,0,,{\be1}Patrz! Nawet słońce wstało dzięki naszej miłości!
+Dialogue: 0,0:27:07.07,0:27:09.05,Default,,0,0,0,,{\be1}Miłość jest cudowna!
+Dialogue: 0,0:27:09.05,0:27:09.94,Default,,0,0,0,,{\be1}Miłość!
+Dialogue: 0,0:27:09.94,0:27:11.28,Default,,0,0,0,,{\be1}Tak, miłość!
+Dialogue: 0,0:27:11.28,0:27:13.95,Default,,0,0,0,,{\be1}Miłość jest wszystkim!
+Dialogue: 0,0:27:18.54,0:27:20.95,Default,,0,0,0,,{\be1}Zabije je obie.
+Dialogue: 0,0:27:20.95,0:27:27.96,Default,,0,0,0,,{\be1}Zabij!
+Dialogue: 0,0:27:47.24,0:27:51.89,Default,,0,0,0,,{\be1}Reiko, pamiętaj o bliznach na piersi.
+Dialogue: 0,0:27:51.89,0:27:54.14,Default,,0,0,0,,{\be1}Pamiętaj kto ci je zrobił.
+Dialogue: 0,0:27:54.14,0:27:56.85,Default,,0,0,0,,{\be1}One nigdy nie znikną.
+Dialogue: 0,0:27:56.85,0:28:01.16,Default,,0,0,0,,{\be1}To przez nie zaczęłaś pracę w szkole.
+Dialogue: 0,0:28:01.16,0:28:04.50,Default,,0,0,0,,{\be1}Czy nie na Kouga chciałaś się zemścić?
+Dialogue: 0,0:28:04.95,0:28:07.50,Default,,0,0,0,,{\be1}Twój wróg jest tam.
+Dialogue: 0,0:28:14.05,0:28:15.71,Default,,0,0,0,,{\be1}Zabij ich!
+Dialogue: 0,0:28:15.71,0:28:19.51,Default,,0,0,0,,{\be1}Sztuka ninja: igły wiśni!
+Dialogue: 0,0:28:19.51,0:28:20.40,Default,,0,0,0,,{\be1}Nadchodzi.
+Dialogue: 0,0:28:29.37,0:28:30.85,Default,,0,0,0,,{\be1}Umówisz się ze mną?
+Dialogue: 0,0:28:32.27,0:28:35.07,Default,,0,0,0,,{\be1}Nie obijaj się!
+Dialogue: 0,0:28:39.85,0:28:41.94,Default,,0,0,0,,{\be1}Co jest? Chcą powtórki?
+Dialogue: 0,0:28:41.94,0:28:45.20,Default,,0,0,0,,{\be1}Nie pleć głupot, dyrektorka walczy!
+Dialogue: 0,0:28:45.60,0:28:50.21,Default,,0,0,0,,{\be1}Tę technikę nazywają błyskawicą.
+Dialogue: 0,0:28:51.32,0:28:55.21,Default,,0,0,0,,{\be1}Przecież po niej jest się słabym przez 3 dni!
+Dialogue: 0,0:28:56.31,0:28:58.97,Default,,0,0,0,,{\be1}Atakuje Saizo!
+Dialogue: 0,0:28:59.89,0:29:01.98,Default,,0,0,0,,{\be1}Cholera, to błyskawica.
+Dialogue: 0,0:29:01.98,0:29:03.18,Default,,0,0,0,,{\be1}Muszę uważać.
+Dialogue: 0,0:29:08.13,0:29:09.33,Default,,0,0,0,,{\be1}Shinobu!
+Dialogue: 0,0:29:11.42,0:29:13.44,Default,,0,0,0,,{\be1}Shinobu, nie rób tego!
+Dialogue: 0,0:29:13.82,0:29:17.94,Default,,0,0,0,,{\be1}Powstrzymam ją, zanim w pełni się naładuje!
+Dialogue: 0,0:29:20.44,0:29:22.07,Default,,0,0,0,,{\be1}Za późno!
+Dialogue: 0,0:29:22.07,0:29:23.45,Default,,0,0,0,,{\be1}Shinobu!
+Dialogue: 0,0:29:24.75,0:29:25.95,Default,,0,0,0,,{\be1}Udało się.
+Dialogue: 0,0:29:38.10,0:29:41.07,Default,,0,0,0,,{\be1}- Shinobu.\N- Saizo?
+Dialogue: 0,0:29:43.45,0:29:46.62,Default,,0,0,0,,{\be1}Czemu jesteśmy nadzy?
+Dialogue: 0,0:29:46.62,0:29:47.67,Default,,0,0,0,,{\be1}Shinobu.
+Dialogue: 0,0:29:51.16,0:29:52.08,Default,,0,0,0,,{\be1}Chodź do mnie.
+Dialogue: 0,0:29:59.76,0:30:01.93,Default,,0,0,0,,{\be1}Kocham cię.
+Dialogue: 0,0:30:02.77,0:30:06.30,Default,,0,0,0,,{\be1}Ja ciebie też.
+Dialogue: 0,0:30:10.78,0:30:14.16,Default,,0,0,0,,{\be1}Jesteś już mokra.
+Dialogue: 0,0:30:15.17,0:30:16.52,Default,,0,0,0,,{\be1}Łatwo się podniecasz.
+Dialogue: 0,0:30:17.42,0:30:20.49,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:30:20.49,0:30:21.71,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:30:22.42,0:30:24.51,Default,,0,0,0,,{\be1}Jesteś piękna.
+Dialogue: 0,0:30:26.16,0:30:28.41,Default,,0,0,0,,{\be1}Włóż go.
+Dialogue: 0,0:30:29.23,0:30:32.95,Default,,0,0,0,,{\be1}Cały czas czekałam, aż będziemy się kochać.
+Dialogue: 0,0:30:34.24,0:30:35.23,Default,,0,0,0,,{\be1}Shinobu.
+Dialogue: 0,0:30:35.52,0:30:38.00,Default,,0,0,0,,{\be1}Czuję go!
+Dialogue: 0,0:30:38.00,0:30:42.03,Default,,0,0,0,,{\be1}- Wkładam!\N- Tak! Włóż go!
+Dialogue: 0,0:30:48.42,0:30:49.37,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:30:49.95,0:30:52.33,Default,,0,0,0,,{\be1}Wiedziałam, że chcesz, abym użyła tej techniki.
+Dialogue: 0,0:31:14.37,0:31:17.26,Default,,0,0,0,,{\be1}Niemożliwe, Iga i Kouga zjednoczyli się.
+Dialogue: 0,0:31:17.26,0:31:20.83,Default,,0,0,0,,{\be1}Będę musiał czekać kolejne 500 lat.
+Dialogue: 0,0:31:20.83,0:31:24.73,Default,,0,0,0,,{\be1}Nie powinienem używać do tego Negoro.
+Dialogue: 0,0:31:33.97,0:31:37.05,Default,,0,0,0,,{\be1}Saizo, obudź się.
+Dialogue: 0,0:31:38.48,0:31:39.72,Default,,0,0,0,,{\be1}Saizo.
+Dialogue: 0,0:31:41.27,0:31:42.39,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:31:43.12,0:31:45.47,Default,,0,0,0,,{\be1}Tak, ale co się stało?
+Dialogue: 0,0:31:45.47,0:31:48.04,Default,,0,0,0,,{\be1}Wiem tylko, że dyrektorka użyła błyskawicy.
+Dialogue: 0,0:31:48.04,0:31:52.92,Default,,0,0,0,,{\be1}No tak, weszliśmy w zasięg jej techniki.
+Dialogue: 0,0:31:52.92,0:31:53.86,Default,,0,0,0,,{\be1}A potem?
+Dialogue: 0,0:31:53.86,0:31:56.07,Default,,0,0,0,,{\be1}Nie wiem, najpierw wstańmy.
+Dialogue: 0,0:31:56.99,0:31:59.23,Default,,0,0,0,,{\be1}Cholera, jestem w środku!
+Dialogue: 0,0:31:59.23,0:32:02.61,Default,,0,0,0,,{\be1}- A do tego stoi mi!\N- Saizo!
+Dialogue: 0,0:32:03.17,0:32:05.61,Default,,0,0,0,,{\be1}Chcesz kontynuować?
+Dialogue: 0,0:32:06.54,0:32:07.71,Default,,0,0,0,,{\be1}No wiesz co?
+Dialogue: 0,0:32:07.71,0:32:09.02,Default,,0,0,0,,{\be1}A czemu nie?
+Dialogue: 0,0:32:09.02,0:32:12.53,Default,,0,0,0,,{\be1}Nie wiem co się stało,\Nale chyba już po wszystkim.
+Dialogue: 0,0:32:12.53,0:32:14.95,Default,,0,0,0,,{\be1}Poza tym i tak już jestem w tobie.
+Dialogue: 0,0:32:14.95,0:32:16.50,Default,,0,0,0,,{\be1}- Ruszasz nim.\N- No.
+Dialogue: 0,0:32:18.28,0:32:19.48,Default,,0,0,0,,{\be1}Saizo!
+Dialogue: 0,0:32:20.09,0:32:21.35,Default,,0,0,0,,{\be1}Shinobu.
+Dialogue: 0,0:32:21.35,0:32:30.35,Default,,0,0,0,,{\be1}- Cudownie! Mam w sobie twojego kutasa!\N- Ale jesteś ciasna!
+Dialogue: 0,0:32:30.35,0:32:33.14,Default,,0,0,0,,{\be1}Pieprz mnie mocniej!
+Dialogue: 0,0:32:33.14,0:32:37.71,Default,,0,0,0,,{\be1}Shinobu!
+Dialogue: 0,0:32:38.36,0:32:44.15,Default,,0,0,0,,{\be1}- Saizo!\N- Zaraz dojdę! Mogę?
+Dialogue: 0,0:32:47.34,0:32:50.62,Default,,0,0,0,,{\be1}Nie chcę wam przeszkadzać, ale...
+Dialogue: 0,0:32:50.62,0:32:52.16,Default,,0,0,0,,{\be1}Dobrze wyglądasz, wiesz?
+Dialogue: 0,0:32:52.16,0:32:54.71,Default,,0,0,0,,{\be1}Może małe wyjaśnienie, co?
+Dialogue: 0,0:32:54.71,0:32:56.48,Default,,0,0,0,,{\be1}Sam nie wiem co się stało.
+Dialogue: 0,0:32:56.48,0:32:57.16,Default,,0,0,0,,{\be1}No nie...
+Dialogue: 0,0:32:58.14,0:32:58.96,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:32:59.71,0:33:01.42,Default,,0,0,0,,{\be1}Nie ruszaj się.
+Dialogue: 0,0:33:01.42,0:33:03.76,Default,,0,0,0,,{\be1}Nic teraz nie mów!
+Dialogue: 0,0:33:03.76,0:33:05.50,Default,,0,0,0,,{\be1}Co ci?
+Dialogue: 0,0:33:05.50,0:33:06.88,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:33:08.36,0:33:10.50,Default,,0,0,0,,{\be1}Saizo, spuść się!
+Dialogue: 0,0:33:19.02,0:33:22.50,Default,,0,0,0,,{\be1}Razem z Saizo pokonałam diabła?
+Dialogue: 0,0:33:22.50,0:33:23.40,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:33:23.40,0:33:30.30,Default,,0,0,0,,{\be1}Próbował wpłynąć na mnie tak samo\Njak manipulował Ayano poprzez Negoro.
+Dialogue: 0,0:33:30.30,0:33:33.07,Default,,0,0,0,,{\be1}Chciał wywołać wojnę między Iga i Kouga.
+Dialogue: 0,0:33:33.07,0:33:39.66,Default,,0,0,0,,{\be1}Dałam się oszukać, ale na moment\Nudało mi się zatrzymać czas dzięki błyskawicy.
+Dialogue: 0,0:33:40.26,0:33:42.52,Default,,0,0,0,,{\be1}Shinobu, dzięki tobie wygraliśmy.
+Dialogue: 0,0:33:42.52,0:33:43.81,Default,,0,0,0,,{\be1}Mnie?
+Dialogue: 0,0:33:43.81,0:33:44.42,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:33:44.68,0:33:46.74,Default,,0,0,0,,{\be1}Przecież nic nie zrobiłam.
+Dialogue: 0,0:33:46.74,0:33:51.78,Default,,0,0,0,,{\be1}Podejrzewałam, że możesz mieć jakieś\Nukryte moce, ale nie wiedziałam jakie.
+Dialogue: 0,0:33:51.78,0:33:53.91,Default,,0,0,0,,{\be1}Kiedy ja tylko uprawiałam seks z Saizo.
+Dialogue: 0,0:33:53.91,0:33:54.68,Default,,0,0,0,,{\be1}To jest to.
+Dialogue: 0,0:33:55.07,0:34:00.95,Default,,0,0,0,,{\be1}Miłość jest tym co posiadasz,\Na o czym większość ninja zapomina.
+Dialogue: 0,0:34:00.95,0:34:03.44,Default,,0,0,0,,{\be1}Dzięki temu zjednoczyliśmy się.
+Dialogue: 0,0:34:03.44,0:34:06.83,Default,,0,0,0,,{\be1}Gdy Iga i Kouga są razem,\Nnikt nie jest w stanie nas pokonać.
+Dialogue: 0,0:34:06.83,0:34:08.90,Default,,0,0,0,,{\be1}Nasze klany wywodzą się z jednego plemienia.
+Dialogue: 0,0:34:09.97,0:34:12.38,Default,,0,0,0,,{\be1}Tak było w naszym występie.
+Dialogue: 0,0:34:12.38,0:34:17.34,Default,,0,0,0,,{\be1}Dokładnie, to w nim była\Nodpowiedź od ponad 500 lat.
+Dialogue: 0,0:34:17.34,0:34:17.91,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:34:18.79,0:34:25.60,Default,,0,0,0,,{\be1}To wszystko.\NŚwietnie się spisałyście.
+Dialogue: 0,0:34:25.60,0:34:26.22,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:34:26.22,0:34:27.92,Default,,0,0,0,,{\be1}Wasi chłopcy czekają.
+Dialogue: 0,0:34:29.02,0:34:31.16,Default,,0,0,0,,{\be1}I nasi nowi sojusznicy.
+Dialogue: 0,0:34:34.76,0:34:35.85,Default,,0,0,0,,{\be1}Shinobu!
+Dialogue: 0,0:34:35.85,0:34:38.94,Default,,0,0,0,,{\be1}Lena, pojedźmy gdzieś!
+Dialogue: 0,0:34:38.94,0:34:39.89,Default,,0,0,0,,{\be1}Co z nimi?
+Dialogue: 0,0:34:39.89,0:34:41.90,Default,,0,0,0,,{\be1}Za bardzo się różnią.
+Dialogue: 0,0:34:41.90,0:34:44.31,Default,,0,0,0,,{\be1}No już, idźcie do nich.
+Dialogue: 0,0:34:44.31,0:34:45.36,Default,,0,0,0,,{\be1}Zwalniam was z lekcji.
+Dialogue: 0,0:34:49.04,0:34:50.52,Default,,0,0,0,,{\be1}Trzymajcie się!
+Dialogue: 0,0:34:50.52,0:34:51.49,Default,,0,0,0,,{\be1}Ratunku!
+Dialogue: 0,0:34:51.49,0:34:52.89,Default,,0,0,0,,{\be1}Saizo, nie wygłupiaj się!
+Dialogue: 0,0:34:52.89,0:34:55.82,Default,,0,0,0,,{\be1}- Osaru!\N- Mów mi Saru!
+Dialogue: 0,0:34:56.19,0:34:59.71,Default,,0,0,0,,{\be1}Udało mu się wpłynąć na mnie.
+Dialogue: 0,0:34:59.71,0:35:01.87,Default,,0,0,0,,{\be1}Nie wolno lekceważyć diabła.
+Dialogue: 0,0:35:02.30,0:35:03.41,Default,,0,0,0,,{\be1}Tylko że...
+Dialogue: 0,0:35:04.79,0:35:07.84,Default,,0,0,0,,{\be1}Gdy się obudziłam zniknęły moje blizny.
+Dialogue: 0,0:35:11.33,0:35:15.01,Default,,0,0,0,,{\be1}Może w końcu znajdę sobie chłopaka?
+Dialogue: 0,0:35:16.59,0:35:17.55,Default,,0,0,0,,{\be1}Ayano!
+Dialogue: 0,0:35:18.69,0:35:20.81,Default,,0,0,0,,{\be1}Co za rzęch.
+Dialogue: 0,0:35:20.81,0:35:22.66,Default,,0,0,0,,{\be1}To nic, wsiadaj.
+Dialogue: 0,0:35:22.66,0:35:24.98,Default,,0,0,0,,{\be1}- Jedziemy na przejażdżkę.\N- Zabawimy się.
+Dialogue: 0,0:35:24.98,0:35:27.56,Default,,0,0,0,,{\be1}Wsiadaj!

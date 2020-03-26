@@ -1,0 +1,378 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.6.1 r123  Feb 28 2015  22:35:38
+Active Line: 350
+Audio File: ..\Kyonyuu Fantasy[WorkRaw].mkv
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Scroll Position: 412
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video File: ..\Kyonyuu Fantasy[WorkRaw].mkv
+Video Position: 18549
+Video Zoom: 8
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.02,0:00:05.99,Grupa,,0,0,0,,{\blur1\fad(982,0)}Nyan
+Dialogue: 0,0:00:09.49,0:00:13.30,Default,,0,0,0,,{\blur1}Ciekawe czy znajdę dzisiaj jakiś soczysty kąsek.
+Dialogue: 0,0:00:21.97,0:00:25.25,Default,,0,0,0,,{\blur1}Wczoraj padła dwunasta ofiara!\NNawet w domu nie czuję się bezpieczny!
+Dialogue: 0,0:00:25.25,0:00:27.02,Default,,0,0,0,,{\blur1}Zróbcie coś z tym!
+Dialogue: 0,0:00:27.02,0:00:28.92,Default,,0,0,0,,{\blur1}Zostawicie nas na śmierć?!
+Dialogue: 0,0:00:28.92,0:00:30.48,Default,,0,0,0,,{\blur1}A może nie potraficie?
+Dialogue: 0,0:00:30.48,0:00:33.51,Default,,0,0,0,,{\blur1}Spokojnie, wezwaliśmy już pomoc.
+Dialogue: 0,0:00:33.92,0:00:37.64,Default,,0,0,0,,{\blur1}Tylko żeby to nie był kolejny słabeusz!
+Dialogue: 0,0:00:38.84,0:00:42.77,Default,,0,0,0,,{\blur1}Panie, przybył Ryuuto Henge!
+Dialogue: 0,0:00:44.62,0:00:48.53,Default,,0,0,0,,{\blur1}Co za wyczucie!\NMożecie być spokojni!
+Dialogue: 0,0:00:48.53,0:00:55.72,Default,,0,0,0,,{\blur1}Może i wygląda niegroźnie, ale to właśnie on\Nzajmie się eksterminacją demonów.
+Dialogue: 0,0:00:59.00,0:01:00.50,Default,,0,0,0,,{\blur1}Sukkub?
+Dialogue: 0,0:01:00.50,0:01:05.51,Default,,0,0,0,,{\blur1}Wysysa życie ze wszystkich\Nmężczyzn w wiosce po kolei.
+Dialogue: 0,0:01:05.51,0:01:07.98,Default,,0,0,0,,{\blur1}Dobrze, że przybyłeś.
+Dialogue: 0,0:01:07.98,0:01:12.72,Default,,0,0,0,,{\blur1}Nie jestem łowcą demonów\Ntylko posłańcem mojego dowódcy.
+Dialogue: 0,0:01:12.72,0:01:16.46,Default,,0,0,0,,{\blur1}Więc od teraz ja jestem twoim dowódcą\Ni rozkazuję ci zgładzić demona.
+Dialogue: 0,0:01:17.91,0:01:21.63,Default,,0,0,0,,{\blur1}Słyszałem, że byłeś najgorszy\Nw Akademii Królewskiego Zakonu.
+Dialogue: 0,0:01:21.63,0:01:24.20,Default,,0,0,0,,{\blur1}Jesteś obrazą dla rycerzy.
+Dialogue: 0,0:01:24.20,0:01:30.18,Default,,0,0,0,,{\blur1}Twoi towarzysze z akademii zaszli dość wysoko,\Nty natomiast jesteś zaledwie posłańcem.
+Dialogue: 0,0:01:30.18,0:01:33.47,Default,,0,0,0,,{\blur1}Twoje życie nie ma żadnej wartości.
+Dialogue: 0,0:01:33.47,0:01:38.26,Default,,0,0,0,,{\blur1}Powinieneś być wdzięczny, że daję ci\Nokazję polec w walce z sukkubem.
+Dialogue: 0,0:01:42.32,0:01:44.09,Default,,0,0,0,,{\blur1}Chcesz coś powiedzieć?
+Dialogue: 0,0:01:44.09,0:01:48.04,Default,,0,0,0,,{\blur1}Jeśli pokonam sukkuba dostanę nagrodę?
+Dialogue: 0,0:01:48.76,0:01:51.38,Default,,0,0,0,,{\blur1}Myślisz, że dasz radę?
+Dialogue: 0,0:01:51.38,0:01:53.84,Default,,0,0,0,,{\blur1}Inaczej byś nie wydał rozkazu, prawda, panie?
+Dialogue: 0,0:02:04.35,0:02:08.32,Default,,0,0,0,,{\blur1}Wstydź się!\NPrzynosisz hańbę naszej akademii!
+Dialogue: 0,0:02:09.09,0:02:10.97,Default,,0,0,0,,{\blur1}Nie dotykaj mnie.
+Dialogue: 0,0:02:10.97,0:02:13.32,Default,,0,0,0,,{\blur1}Nie rozmawiam z tak żałosnymi ludźmi.
+Dialogue: 0,0:02:15.14,0:02:16.80,Default,,0,0,0,,{\blur1}Co za frajer!
+Dialogue: 0,0:02:16.80,0:02:22.57,Default,,0,0,0,,{\blur1}Jeśli zostanę kiedyś królem,\Nto ty będziesz moim chłopcem na posyłki.
+Dialogue: 0,0:02:24.78,0:02:28.13,Default,,0,0,0,,{\blur1}Czosnek i krzyż raczej nie zadziałają.
+Dialogue: 0,0:02:32.98,0:02:36.89,Default,,0,0,0,,{\blur1}Czy to nie on przybył z Oto?
+Dialogue: 0,0:02:41.25,0:02:43.44,Default,,0,0,0,,{\blur1}Cześć, co tak długo?
+Dialogue: 0,0:02:48.61,0:02:49.52,Default,,0,0,0,,{\blur1}Ktoś ty?
+Dialogue: 0,0:02:50.81,0:02:55.40,Default,,0,0,0,,{\blur1}Shamsiel Shahar,\Nmożesz mówić mi Shamsiel.
+Dialogue: 0,0:02:56.12,0:02:58.00,Default,,0,0,0,,{\blur1}Jesteś dziwką?
+Dialogue: 0,0:02:58.00,0:02:59.48,Default,,0,0,0,,{\blur1}Może.
+Dialogue: 0,0:03:00.52,0:03:02.67,Default,,0,0,0,,{\blur1}Widzę, że sporo z ciebie wycisnę.
+Dialogue: 0,0:03:02.67,0:03:03.41,Default,,0,0,0,,{\blur1}Czego?
+Dialogue: 0,0:03:03.87,0:03:05.15,Default,,0,0,0,,{\blur1}Spermy.
+Dialogue: 0,0:03:06.37,0:03:08.96,Default,,0,0,0,,{\blur1}Jesteś z Boan?\NBo jesteś ładna.
+Dialogue: 0,0:03:08.96,0:03:10.17,Default,,0,0,0,,{\blur1}Naprawdę?
+Dialogue: 0,0:03:10.17,0:03:13.39,Default,,0,0,0,,{\blur1}Pierwszy raz człowiek nazwał mnie ładną!
+Dialogue: 0,0:03:13.39,0:03:14.13,Default,,0,0,0,,{\blur1}Człowiek?
+Dialogue: 0,0:03:21.33,0:03:23.82,Default,,0,0,0,,{\blur1}Jesteś demonem?
+Dialogue: 0,0:03:23.82,0:03:26.14,Default,,0,0,0,,{\blur1}A dokładniej to sukkubem.
+Dialogue: 0,0:03:27.01,0:03:30.06,Default,,0,0,0,,{\blur1}Więc tych dwunastu...
+Dialogue: 0,0:03:30.06,0:03:32.90,Default,,0,0,0,,{\blur1}Nie chciałam ich zabijać.
+Dialogue: 0,0:03:33.48,0:03:36.90,Default,,0,0,0,,{\blur1}Wyssałam z nich tylko\Ntroszkę spermy, a im się umarło.
+Dialogue: 0,0:03:37.47,0:03:39.50,Default,,0,0,0,,{\blur1}Ty potworze!
+Dialogue: 0,0:03:40.41,0:03:43.66,Default,,0,0,0,,{\blur1}Jak masz wyjmować miecz, to weź tamten.
+Dialogue: 0,0:03:47.51,0:03:49.51,Default,,0,0,0,,{\blur1}Co robisz?
+Dialogue: 0,0:03:49.51,0:03:52.92,Default,,0,0,0,,{\blur1}A co może robić sukkub, głuptasie?
+Dialogue: 0,0:03:53.35,0:03:56.68,Default,,0,0,0,,{\blur1}Między cycusie.
+Dialogue: 0,0:03:57.24,0:03:58.85,Default,,0,0,0,,{\blur1}Poczujesz się nieziemsko.
+Dialogue: 0,0:03:58.85,0:04:03.39,Default,,0,0,0,,{\blur1}Od razu przepraszam,\Njeśli tobie też się umrze.
+Dialogue: 0,0:04:06.32,0:04:08.84,Default,,0,0,0,,{\blur1}Jaki twardy.
+Dialogue: 0,0:04:11.36,0:04:12.69,Default,,0,0,0,,{\blur1}Wypuść mnie!
+Dialogue: 0,0:04:14.36,0:04:19.95,Default,,0,0,0,,{\blur1}Na pewno mam cię wypuścić?
+Dialogue: 0,0:04:20.43,0:04:27.28,Default,,0,0,0,,{\blur1}Uwielbiam wkładać między cycusie,\Nbo mężczyźni też to lubią!
+Dialogue: 0,0:04:27.28,0:04:28.21,Default,,0,0,0,,{\blur1}Przestań!
+Dialogue: 0,0:04:28.57,0:04:32.21,Default,,0,0,0,,{\blur1}Naprawdę myślisz, że cię posłucham?
+Dialogue: 0,0:04:32.21,0:04:37.10,Default,,0,0,0,,{\blur1}Niedługo chyba wyleci.\NZacznę mocniej pocierać.
+Dialogue: 0,0:04:37.10,0:04:38.72,Default,,0,0,0,,{\blur1}Tak mi dobrze, że chyba umrę!
+Dialogue: 0,0:04:38.72,0:04:44.35,Default,,0,0,0,,{\blur1}W takim razie umrzyj między moimi cycuszkami!
+Dialogue: 0,0:04:44.35,0:04:46.72,Default,,0,0,0,,{\blur1}Już nie mogę!
+Dialogue: 0,0:04:50.08,0:04:52.23,Default,,0,0,0,,{\blur1}Ale jej dużo!
+Dialogue: 0,0:04:57.07,0:04:58.74,Default,,0,0,0,,{\blur1}Pychotka!
+Dialogue: 0,0:05:01.36,0:05:02.92,Default,,0,0,0,,{\blur1}Nie umarłeś?
+Dialogue: 0,0:05:05.57,0:05:07.75,Default,,0,0,0,,{\blur1}Wyleci coś jeszcze?
+Dialogue: 0,0:05:10.19,0:05:11.97,Default,,0,0,0,,{\blur1}Przestań!\NJestem teraz nadwrażliwy!
+Dialogue: 0,0:05:11.97,0:05:14.09,Default,,0,0,0,,{\blur1}Przecież wiem.
+Dialogue: 0,0:05:17.58,0:05:20.08,Default,,0,0,0,,{\blur1}Spuść się!
+Dialogue: 0,0:05:27.91,0:05:29.22,Default,,0,0,0,,{\blur1}Znowu dochodzę!
+Dialogue: 0,0:05:32.43,0:05:36.48,Default,,0,0,0,,{\blur1}Niesamowite, więcej niż wcześniej!
+Dialogue: 0,0:05:36.48,0:05:37.73,Default,,0,0,0,,{\blur1}Chcę więcej.
+Dialogue: 0,0:05:38.52,0:05:40.18,Default,,0,0,0,,{\blur1}Przestań w końcu.
+Dialogue: 0,0:05:40.18,0:05:43.24,Default,,0,0,0,,{\blur1}Nie ma mowy.
+Dialogue: 0,0:05:51.95,0:05:54.83,Default,,0,0,0,,{\blur1}Niesamowicie dużo jej.
+Dialogue: 0,0:05:56.00,0:05:59.26,Default,,0,0,0,,{\blur1}Nigdy nie spotkałam takiego człowieka.
+Dialogue: 0,0:06:01.71,0:06:03.76,Default,,0,0,0,,{\blur1}Zrobię coś wyjątkowego.
+Dialogue: 0,0:06:04.28,0:06:08.26,Default,,0,0,0,,{\blur1}Tak dużo się spuściłeś,\Nże w nagrodę obciągnę ci.
+Dialogue: 0,0:06:13.51,0:06:20.53,Default,,0,0,0,,{\blur1}Czujesz się jak w niebie, nie?
+Dialogue: 0,0:06:20.53,0:06:22.31,Default,,0,0,0,,{\blur1}Raczej piekle.
+Dialogue: 0,0:06:23.17,0:06:25.85,Default,,0,0,0,,{\blur1}Chcesz mocniej?
+Dialogue: 0,0:06:26.66,0:06:29.03,Default,,0,0,0,,{\blur1}Choćby tak?
+Dialogue: 0,0:06:29.76,0:06:33.38,Default,,0,0,0,,{\blur1}Powstrzymywanie się\Nprzy sukkubie jest daremne.
+Dialogue: 0,0:06:33.38,0:06:37.04,Default,,0,0,0,,{\blur1}No, dalej.\NDochodzisz już?
+Dialogue: 0,0:06:37.64,0:06:40.80,Default,,0,0,0,,{\blur1}Zrobię wszystko, co zechcesz tylko przestań!
+Dialogue: 0,0:06:43.20,0:06:44.86,Default,,0,0,0,,{\blur1}Wszystko?
+Dialogue: 0,0:06:49.89,0:06:51.73,Default,,0,0,0,,{\blur1}Więc mam prośbę.
+Dialogue: 0,0:06:51.73,0:06:52.56,Default,,0,0,0,,{\blur1}Jaką?
+Dialogue: 0,0:06:54.05,0:06:57.56,Default,,0,0,0,,{\blur1}Wypuść całą spermę i umrzyj!
+Dialogue: 0,0:07:03.57,0:07:07.46,Default,,0,0,0,,{\blur1}Tym razem wyssę całą spermę\Ni poślę cię do nieba.
+Dialogue: 0,0:07:07.46,0:07:12.15,Default,,0,0,0,,{\blur1}To mój prezent pożegnalny,\Nwięc spuść się dużo i umrzyj!
+Dialogue: 0,0:07:13.58,0:07:15.51,Default,,0,0,0,,{\blur1}Żegnaj!
+Dialogue: 0,0:07:20.09,0:07:26.01,Default,,0,0,0,,{\blur1}Tak mi przykro, dzięki niemu\Nmiałeś się stąd uwolnić, panie.
+Dialogue: 0,0:07:26.01,0:07:28.59,Default,,0,0,0,,{\blur1}Znajdzie się wielu na jego miejsce.
+Dialogue: 0,0:07:28.59,0:07:31.54,Default,,0,0,0,,{\blur1}Ważniejsze jest to, czy on jutro przyjedzie?
+Dialogue: 0,0:07:31.54,0:07:33.49,Default,,0,0,0,,{\blur1}Jak najbardziej, panie!
+Dialogue: 0,0:07:33.49,0:07:36.18,Default,,0,0,0,,{\blur1}W końcu wrócę do Oto.
+Dialogue: 0,0:07:36.18,0:07:39.11,Default,,0,0,0,,{\blur1}Nie mam zamiaru siedzieć\Ndo końca życia w Boan.
+Dialogue: 0,0:07:46.71,0:07:48.41,Default,,0,0,0,,{\blur1}Dużo wyleciało.
+Dialogue: 0,0:07:53.18,0:07:56.62,Default,,0,0,0,,{\blur1}Delicje!\NJestem pod wrażeniem.
+Dialogue: 0,0:07:59.13,0:08:01.91,Default,,0,0,0,,{\blur1}Niemożliwe, żyje?!
+Dialogue: 0,0:08:01.91,0:08:05.60,Default,,0,0,0,,{\blur1}Zazwyczaj wystarczą tylko cycki.
+Dialogue: 0,0:08:05.60,0:08:07.63,Default,,0,0,0,,{\blur1}Na pewno jest człowiekiem?
+Dialogue: 0,0:08:08.62,0:08:10.80,Default,,0,0,0,,{\blur1}Czy ja wyglądam na stołówkę?
+Dialogue: 0,0:08:17.11,0:08:18.65,Default,,0,0,0,,{\blur1}Już wiem.
+Dialogue: 0,0:08:19.16,0:08:25.65,Default,,0,0,0,,{\blur1}Masz bardzo dużo spermy.\NW drodze wyjątku włożę go w cipkę.
+Dialogue: 0,0:08:25.65,0:08:29.58,Default,,0,0,0,,{\blur1}Choć możesz umrzeć zaraz po włożeniu.
+Dialogue: 0,0:08:29.58,0:08:32.16,Default,,0,0,0,,{\blur1}Jesteś niebywałym szczęściarzem.
+Dialogue: 0,0:08:43.61,0:08:46.67,Default,,0,0,0,,{\blur1}Czujesz jakbyś miał się rozpuścić?
+Dialogue: 0,0:08:47.33,0:08:50.89,Default,,0,0,0,,{\blur1}Mam najlepszą cipkę ze wszystkich.
+Dialogue: 0,0:08:54.50,0:08:58.06,Default,,0,0,0,,{\blur1}Chcesz się już spuścić?
+Dialogue: 0,0:08:58.06,0:09:00.94,Default,,0,0,0,,{\blur1}A może to twój pierwszy raz?
+Dialogue: 0,0:09:02.53,0:09:04.00,Default (i),,0,0,0,,{\blur1}Jak dobrze!
+Dialogue: 0,0:09:04.00,0:09:08.88,Default,,0,0,0,,{\blur1}Jeśli dużo się spuścisz,\Nto może dam ci dotknąć moje cycuszki.
+Dialogue: 0,0:09:10.29,0:09:12.60,Default,,0,0,0,,{\blur1}Lubisz cycuszki, nie?
+Dialogue: 0,0:09:13.29,0:09:19.75,Default,,0,0,0,,{\blur1}No dalej, dasz radę ich dotknąć?
+Dialogue: 0,0:09:28.96,0:09:33.09,Default,,0,0,0,,{\blur1}Co się dzieje?\NJest mi niesamowicie przyjemnie!
+Dialogue: 0,0:09:41.41,0:09:45.81,Default,,0,0,0,,{\blur1}Dlaczego jest mi tak cudownie?
+Dialogue: 0,0:09:47.74,0:09:49.74,Default (i),,0,0,0,,{\blur1}Cudownie.
+Dialogue: 0,0:09:50.25,0:09:52.52,Default (i),,0,0,0,,{\blur1}I do tego te piersi.
+Dialogue: 0,0:09:52.52,0:09:58.02,Default,,0,0,0,,{\blur1}Nie mogę przestać!\NCudownie mi!
+Dialogue: 0,0:10:00.30,0:10:03.75,Default,,0,0,0,,{\blur1}Przestań, bo zaraz dojdę!
+Dialogue: 0,0:10:04.76,0:10:08.46,Default,,0,0,0,,{\blur1}Człowiek zaraz doprowadzi mnie do orgazmu!
+Dialogue: 0,0:10:10.19,0:10:11.61,Default,,0,0,0,,{\blur1}Zaraz dojdę!
+Dialogue: 0,0:10:11.61,0:10:15.72,Default,,0,0,0,,{\blur1}Człowiek nie może dać orgazm demonowi!
+Dialogue: 0,0:10:20.04,0:10:22.77,Default,,0,0,0,,{\blur1}Cudownie, zaraz umrę!
+Dialogue: 0,0:10:23.96,0:10:29.31,Default,,0,0,0,,{\blur1}Pomocy! Demon nie może dojść!
+Dialogue: 0,0:10:30.14,0:10:31.64,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:10:34.00,0:10:34.78,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:10:42.26,0:10:47.21,Default,,0,0,0,,{\blur1}Niesamowite, tak dużo jej wylatuje!
+Dialogue: 0,0:10:48.88,0:10:52.13,Default (i),,0,0,0,,{\blur1}Jej cipka zasysa mnie.
+Dialogue: 0,0:10:59.20,0:11:00.82,Default,,0,0,0,,{\blur1}Jeszcze.
+Dialogue: 0,0:11:00.82,0:11:03.81,Default,,0,0,0,,{\blur1}Nie dam rady, prędzej umrę.
+Dialogue: 0,0:11:04.99,0:11:07.17,Default,,0,0,0,,{\blur1}Jak masz na imię?
+Dialogue: 0,0:11:07.17,0:11:09.54,Default,,0,0,0,,{\blur1}Ryuuto...
+Dialogue: 0,0:11:09.54,0:11:11.32,Default,,0,0,0,,{\blur1}Ryuuto.
+Dialogue: 0,0:11:12.25,0:11:16.32,Default,,0,0,0,,{\blur1}Zapamiętam.
+Dialogue: 0,0:11:17.63,0:11:20.94,Default,,0,0,0,,{\blur1}Witaj w niebie.
+Dialogue: 0,0:11:29.34,0:11:32.73,Default,,0,0,0,,{\blur1}Co z rebeliantami?
+Dialogue: 0,0:11:32.73,0:11:37.81,Default,,0,0,0,,{\blur1}Bez zmian, nadal próbujemy nakłonić\Nszlachtę, żeby wróciła do domów.
+Dialogue: 0,0:11:37.81,0:11:39.68,Default,,0,0,0,,{\blur1}Niestety problemem jest Gladys.
+Dialogue: 0,0:11:39.68,0:11:43.10,Default,,0,0,0,,{\blur1}Po dwóch latach nadal nie zaatakowali Oto.
+Dialogue: 0,0:11:43.53,0:11:47.65,Default,,0,0,0,,{\blur1}Sama szlachta nie zapewni siłę państwu.
+Dialogue: 0,0:11:47.65,0:11:53.79,Default,,0,0,0,,{\blur1}To dzięki Akademii Królewskiego Zakonu nasze państwo\Njest silne i mamy wielu wspaniałych rycerzy.
+Dialogue: 0,0:11:53.79,0:11:57.11,Default,,0,0,0,,{\blur1}Musimy stłamsić rebelię,\Nżeby ich nie stracić.
+Dialogue: 0,0:11:59.18,0:12:00.28,Default,,0,0,0,,{\blur1}Gdzie jest Bobon?
+Dialogue: 0,0:12:00.28,0:12:02.63,Default,,0,0,0,,{\blur1}W sąsiednim kraju Ringobalt.
+Dialogue: 0,0:12:02.63,0:12:05.12,Default,,0,0,0,,{\blur1}Wasza wysokość zezwoliła na jego wyjazd.
+Dialogue: 0,0:12:05.12,0:12:11.61,Default,,0,0,0,,{\blur1}Mój następca nie może być byle mięczakiem.
+Dialogue: 0,0:12:11.61,0:12:12.63,Default,,0,0,0,,{\blur1}Ale...
+Dialogue: 0,0:12:13.22,0:12:16.24,Default,,0,0,0,,{\blur1}Mam mu zostawić państwo?
+Dialogue: 0,0:12:16.24,0:12:20.64,Default,,0,0,0,,{\blur1}Dopóki żyję nigdy na to nie pozwolę.
+Dialogue: 0,0:12:27.68,0:12:29.01,Default,,0,0,0,,{\blur1}Cześć.
+Dialogue: 0,0:12:32.66,0:12:34.99,Default,,0,0,0,,{\blur1}W niebie też są sukkuby?!
+Dialogue: 0,0:12:34.99,0:12:38.10,Default,,0,0,0,,{\blur1}Nie umarłeś, to nadal Boan.
+Dialogue: 0,0:12:38.70,0:12:44.25,Default,,0,0,0,,{\blur1}Polubiłam twojego kutaska,\Ndlatego zostaję tu.
+Dialogue: 0,0:12:44.25,0:12:45.16,Default,,0,0,0,,{\blur1}Co?
+Dialogue: 0,0:12:45.66,0:12:53.17,Default,,0,0,0,,{\blur1}Jeśli dasz mi się codziennie doić,\Nto nie będę więcej atakować wieśniaków.
+Dialogue: 0,0:12:53.70,0:12:57.06,Default,,0,0,0,,{\blur1}Wypędzić pewnie się nie dasz?
+Dialogue: 0,0:12:57.06,0:12:57.92,Default,,0,0,0,,{\blur1}Już to zrobiłeś.
+Dialogue: 0,0:12:58.83,0:13:00.94,Default,,0,0,0,,{\blur1}Miałam niesamowity orgazm.
+Dialogue: 0,0:13:00.94,0:13:05.26,Default,,0,0,0,,{\blur1}Dlatego zostaję twoją niewolnicą!
+Dialogue: 0,0:13:10.73,0:13:14.36,Default,,0,0,0,,{\blur1}To ten sukkub odpowiedzialny\Nza śmierć 12 mężczyzn?
+Dialogue: 0,0:13:14.36,0:13:17.44,Default,,0,0,0,,{\blur1}Tak, obiecała więcej tego nie robić.
+Dialogue: 0,0:13:18.03,0:13:21.10,Default,,0,0,0,,{\blur1}Nie ufam demonowi.
+Dialogue: 0,0:13:22.17,0:13:25.03,Default,,0,0,0,,{\blur1}Zjem cię wstrętny człowieku!
+Dialogue: 0,0:13:27.08,0:13:29.38,Default,,0,0,0,,{\blur1}Poproszę o nagrodę.
+Dialogue: 0,0:13:29.38,0:13:33.82,Default,,0,0,0,,{\blur1}Jaką nagrodę?!\NNie wypędziłeś jej!
+Dialogue: 0,0:13:33.82,0:13:35.04,Default,,0,0,0,,{\blur1}Panie.
+Dialogue: 0,0:13:36.93,0:13:39.34,Default,,0,0,0,,{\blur1}Jednak potrafisz myśleć.
+Dialogue: 0,0:13:40.63,0:13:45.56,Default,,0,0,0,,{\blur1}W nagrodę możesz zostać\Nstrażnikiem mojej żony.
+Dialogue: 0,0:13:46.01,0:13:50.20,Default,,0,0,0,,{\blur1}Wyjeżdża dzisiaj popołudniu,\Nnatychmiast idź do niej.
+Dialogue: 0,0:13:51.90,0:13:54.56,Default,,0,0,0,,{\blur1}Dobrze się nią zajmij.
+Dialogue: 0,0:13:54.56,0:13:58.57,Default,,0,0,0,,{\blur1}Od dawna żyje w celibacie,\Nwięc tym też się zajmij.
+Dialogue: 0,0:13:58.57,0:14:02.50,Default,,0,0,0,,{\blur1}Ma niezłe ciałko,\Nlekka stymulacja ją podnieca.
+Dialogue: 0,0:14:02.50,0:14:03.88,Default,,0,0,0,,{\blur1}Ryuuto.
+Dialogue: 0,0:14:07.35,0:14:10.58,Default,,0,0,0,,{\blur1}Dawno nie byłam z mężczyzną z Oto.
+Dialogue: 0,0:14:11.03,0:14:12.58,Default (i),,0,0,0,,{\blur1}Niezłe piersi.
+Dialogue: 0,0:14:14.51,0:14:17.55,Default,,0,0,0,,{\blur1}Słyszałam, że wypędziłeś sukkuba.
+Dialogue: 0,0:14:17.55,0:14:21.10,Default,,0,0,0,,{\blur1}Nie tyle co wypędziłem, a zniewoliłem.
+Dialogue: 0,0:14:23.09,0:14:26.39,Default,,0,0,0,,{\blur1}Musieli być zaskoczeni\Npatrząc na twoją przeszłość.
+Dialogue: 0,0:14:26.39,0:14:28.10,Default,,0,0,0,,{\blur1}Nie wiedziałem, że pan ma tak piękną żoną.
+Dialogue: 0,0:14:28.73,0:14:30.48,Default,,0,0,0,,{\blur1}Mów mi Roxanne.
+Dialogue: 0,0:14:30.48,0:14:34.10,Default,,0,0,0,,{\blur1}Mężczyźni z Oto lubią żartować.
+Dialogue: 0,0:14:34.10,0:14:37.71,Default,,0,0,0,,{\blur1}Napijecie się przed wyjazdem?
+Dialogue: 0,0:14:39.59,0:14:42.88,Default,,0,0,0,,{\blur1}Podałem afrodyzjak.
+Dialogue: 0,0:14:42.88,0:14:46.57,Default,,0,0,0,,{\blur1}Teraz wystarczy zobaczyć\Njej niewierność i mam rozwód.
+Dialogue: 0,0:14:46.57,0:14:50.12,Default,,0,0,0,,{\blur1}Rycerze z Oto będą pana.
+Dialogue: 0,0:14:51.30,0:14:53.64,Default,,0,0,0,,{\blur1}Wszystko w porządku, panie?!
+Dialogue: 0,0:14:53.64,0:14:55.14,Default,,0,0,0,,{\blur1}Tak.
+Dialogue: 0,0:14:55.94,0:14:56.97,Default,,0,0,0,,{\blur1}Wyruszamy!
+Dialogue: 0,0:14:59.63,0:15:02.63,Default,,0,0,0,,{\blur1}Poznałam sekrecik!
+Dialogue: 0,0:15:07.77,0:15:12.65,Default (i),,0,0,0,,{\blur1}Cudowne piersi.\NSą większe niż Shamsiel.
+Dialogue: 0,0:15:14.17,0:15:17.23,Default (i),,0,0,0,,{\blur1}Chciałbym je pomacać.
+Dialogue: 0,0:15:20.23,0:15:23.38,Default,,0,0,0,,{\blur1}Przepraszam, bolą mnie piersi.
+Dialogue: 0,0:15:23.38,0:15:25.13,Default,,0,0,0,,{\blur1}Dobrze się czujesz?
+Dialogue: 0,0:15:25.13,0:15:27.92,Default,,0,0,0,,{\blur1}Możemy chwilę odpocząć?
+Dialogue: 0,0:15:35.03,0:15:36.58,Default,,0,0,0,,{\blur1}Gdzie byłaś?
+Dialogue: 0,0:15:36.58,0:15:38.63,Default,,0,0,0,,{\blur1}Po coś fajnego.
+Dialogue: 0,0:15:38.63,0:15:39.75,Default,,0,0,0,,{\blur1}Co?
+Dialogue: 0,0:15:39.75,0:15:44.51,Default,,0,0,0,,{\blur1}Ten szlachcic coś knuje, patrz.
+Dialogue: 0,0:15:45.65,0:15:48.51,Default,,0,0,0,,{\blur1}Skąd to masz?
+Dialogue: 0,0:15:48.96,0:15:51.92,Default,,0,0,0,,{\blur1}To moje podziękowanie za spermę.
+Dialogue: 0,0:15:54.78,0:15:56.52,Default,,0,0,0,,{\blur1}Ryuuto?
+Dialogue: 0,0:15:59.10,0:16:00.02,Default,,0,0,0,,{\blur1}Wzywałaś, pani?
+Dialogue: 0,0:16:00.60,0:16:03.79,Default,,0,0,0,,{\blur1}Potrzebuję twojej pomocy.
+Dialogue: 0,0:16:03.79,0:16:05.24,Default,,0,0,0,,{\blur1}O co chodzi?
+Dialogue: 0,0:16:05.24,0:16:07.85,Default,,0,0,0,,{\blur1}Możesz pomasować moje piersi?
+Dialogue: 0,0:16:08.96,0:16:15.54,Default,,0,0,0,,{\blur1}Bardzo mnie bolą piersi,\Nwięc pomyślałam, że masaż dobrze zrobi.
+Dialogue: 0,0:16:16.42,0:16:17.84,Default,,0,0,0,,{\blur1}Ale...
+Dialogue: 0,0:16:17.84,0:16:22.05,Default,,0,0,0,,{\blur1}Jesteś rycerzem,\Nporzucisz damę w potrzebie?
+Dialogue: 0,0:16:29.49,0:16:31.13,Default,,0,0,0,,{\blur1}Mocniej.
+Dialogue: 0,0:16:31.13,0:16:33.10,Default,,0,0,0,,{\blur1}Tak?
+Dialogue: 0,0:16:34.81,0:16:39.23,Default,,0,0,0,,{\blur1}Przepraszam, że musisz\Nsłuchać moich odgłosów.
+Dialogue: 0,0:16:39.23,0:16:41.75,Default,,0,0,0,,{\blur1}To nic.\NCzy ból mija?
+Dialogue: 0,0:16:41.75,0:16:44.65,Default,,0,0,0,,{\blur1}Tak, nie przestawaj.
+Dialogue: 0,0:16:48.20,0:16:54.40,Default (i),,0,0,0,,{\blur1}Podnieciła się, a mnie stanął\Nod samego macania.
+Dialogue: 0,0:16:55.12,0:17:02.09,Default,,0,0,0,,{\blur1}Nie zapomnij o sutkach, tam też boli.
+Dialogue: 0,0:17:02.09,0:17:03.33,Default,,0,0,0,,{\blur1}Dobrze.
+Dialogue: 0,0:17:07.45,0:17:11.58,Default,,0,0,0,,{\blur1}Tak, mleko wylatuje!
+Dialogue: 0,0:17:13.80,0:17:16.06,Default,,0,0,0,,{\blur1}Ściskać jeszcze?
+Dialogue: 0,0:17:17.20,0:17:19.14,Default,,0,0,0,,{\blur1}Tak.
+Dialogue: 0,0:17:24.12,0:17:28.75,Default,,0,0,0,,{\blur1}Jak będziesz tak mocno ściskać, to...
+Dialogue: 0,0:17:32.89,0:17:35.90,Default,,0,0,0,,{\blur1}Jesteś w tym dobry.
+Dialogue: 0,0:17:35.90,0:17:38.01,Default,,0,0,0,,{\blur1}Czy już wszystko w porządku?
+Dialogue: 0,0:17:38.01,0:17:44.78,Default,,0,0,0,,{\blur1}Tak, ale tobie najwyraźniej stanął.
+Dialogue: 0,0:17:44.78,0:17:47.28,Default,,0,0,0,,{\blur1}Musi boleć.
+Dialogue: 0,0:17:47.28,0:17:50.34,Default,,0,0,0,,{\blur1}To tylko taka drobna choroba.
+Dialogue: 0,0:17:50.34,0:17:54.85,Default,,0,0,0,,{\blur1}W takim razie muszę ci z nią pomóc.
+Dialogue: 0,0:17:56.79,0:17:58.13,Default,,0,0,0,,{\blur1}Niesamowite!
+Dialogue: 0,0:18:01.46,0:18:03.05,Default,,0,0,0,,{\blur1}Ryuuto.
+Dialogue: 0,0:18:03.05,0:18:04.73,Default,,0,0,0,,{\blur1}Pani.
+Dialogue: 0,0:18:09.82,0:18:12.99,Default,,0,0,0,,{\blur1}Pani, nie powinnaś.
+Dialogue: 0,0:18:14.01,0:18:18.64,Default,,0,0,0,,{\blur1}Pomogę ci z twoją chorobą.
+Dialogue: 0,0:18:21.55,0:18:25.02,Default,,0,0,0,,{\blur1}Przepraszam, teraz ciebie boli?
+Dialogue: 0,0:18:25.02,0:18:28.65,Default,,0,0,0,,{\blur1}Dawno nie miałam penisa.
+Dialogue: 0,0:18:31.26,0:18:32.46,Default,,0,0,0,,{\blur1}Pani język...
+Dialogue: 0,0:18:34.52,0:18:39.51,Default,,0,0,0,,{\blur1}Musisz się czym prędzej spuścić, prawda?
+Dialogue: 0,0:18:43.26,0:18:46.43,Default,,0,0,0,,{\blur1}Lubisz to?
+Dialogue: 0,0:18:48.57,0:18:51.92,Default,,0,0,0,,{\blur1}Twój penis drży.
+Dialogue: 0,0:18:53.15,0:18:56.32,Default,,0,0,0,,{\blur1}Pani, nie tak mocno!
+Dialogue: 0,0:18:57.04,0:19:02.93,Default,,0,0,0,,{\blur1}Spuść mi się w buzi!
+Dialogue: 0,0:19:07.33,0:19:09.34,Default,,0,0,0,,{\blur1}Pani!
+Dialogue: 0,0:19:20.27,0:19:24.10,Default (i),,0,0,0,,{\blur1}Szlachcianka pije moją spermę.
+Dialogue: 0,0:19:34.11,0:19:35.64,Default,,0,0,0,,{\blur1}Kochanie?
+Dialogue: 0,0:19:37.17,0:19:39.66,Default,,0,0,0,,{\blur1}Czekałem na tę chwilę.
+Dialogue: 0,0:19:39.66,0:19:42.62,Default,,0,0,0,,{\blur1}Wiedziałem, że to zrobisz.
+Dialogue: 0,0:19:47.39,0:19:49.63,Default,,0,0,0,,{\blur1}Panie!
+Dialogue: 0,0:19:50.10,0:19:53.41,Default,,0,0,0,,{\blur1}Co to ma znaczyć?!\NWystawiacie mnie?!
+Dialogue: 0,0:19:54.13,0:19:58.06,Default,,0,0,0,,{\blur1}Ryuuto, oni próbowali cię aresztować.
+Dialogue: 0,0:19:58.77,0:20:00.14,Default,,0,0,0,,{\blur1}Przyznacie się?
+Dialogue: 0,0:20:01.28,0:20:02.66,Default,,0,0,0,,{\blur1}Skąd to masz?!
+Dialogue: 0,0:20:02.66,0:20:04.98,Default,,0,0,0,,{\blur1}A bo ja wiem?
+Dialogue: 0,0:20:09.62,0:20:11.69,Default,,0,0,0,,{\blur1}Ciekawe czy się nabierze.
+Dialogue: 0,0:20:11.69,0:20:15.36,Default,,0,0,0,,{\blur1}Tym się nie przejmuj.\NPowiadomiłaś żołnierzy?
+Dialogue: 0,0:20:15.36,0:20:16.31,Default,,0,0,0,,{\blur1}Tak.
+Dialogue: 0,0:20:16.31,0:20:18.15,Default,,0,0,0,,{\blur1}W takim razie schowajcie się.
+Dialogue: 0,0:20:20.63,0:20:24.08,Default,,0,0,0,,{\blur1}Jestem lord Aboine.
+Dialogue: 0,0:20:24.08,0:20:29.13,Default,,0,0,0,,{\blur1}Sprzymierzysz się ze mną,\Njeśli wzniecę rebelię?
+Dialogue: 0,0:20:29.13,0:20:34.67,Default,,0,0,0,,{\blur1}Tak, imperium Bobon będzie rządzić światem.
+Dialogue: 0,0:20:35.97,0:20:37.82,Default,,0,0,0,,{\blur1}Ty też tak myślisz?
+Dialogue: 0,0:20:37.82,0:20:42.46,Default,,0,0,0,,{\blur1}Rycerze ojca są do niczego.
+Dialogue: 0,0:20:42.46,0:20:47.18,Default,,0,0,0,,{\blur1}Gdy Boan dołączy do rebelii\NOto będzie nie lada w kłopotach.
+Dialogue: 0,0:20:47.18,0:20:49.44,Default,,0,0,0,,{\blur1}Proszę to zagwarantować.
+Dialogue: 0,0:20:49.44,0:20:54.35,Default,,0,0,0,,{\blur1}Dużo na tym zyskasz.\NGdy zostanę królem mianuję cię moją prawą ręką.
+Dialogue: 0,0:20:54.35,0:20:56.14,Default,,0,0,0,,{\blur1}Bardzo dziękuję.
+Dialogue: 0,0:20:56.14,0:21:00.40,Default,,0,0,0,,{\blur1}Czy słyszałeś panie\No idiocie zwanym Ryuuto Henge?
+Dialogue: 0,0:21:00.40,0:21:03.99,Default,,0,0,0,,{\blur1}Tak, byliśmy razem w akademii i był najgorszy.
+Dialogue: 0,0:21:03.99,0:21:06.77,Default,,0,0,0,,{\blur1}Jak wyglądał?
+Dialogue: 0,0:21:06.77,0:21:09.26,Default,,0,0,0,,{\blur1}Żadna by go nie chciała.
+Dialogue: 0,0:21:09.26,0:21:12.96,Default,,0,0,0,,{\blur1}Masz na myśli tak?
+Dialogue: 0,0:21:14.08,0:21:15.50,Default,,0,0,0,,{\blur1}Nie mogę się ruszyć!
+Dialogue: 0,0:21:21.45,0:21:29.41,Default,,0,0,0,,{\blur1}Ten mężczyzna razem z lordem Aboine\Nchcieli wzniecić rebelię!
+Dialogue: 0,0:21:29.41,0:21:30.98,Default,,0,0,0,,{\blur1}Do lochu z nim!
+Dialogue: 0,0:21:31.74,0:21:33.54,Default,,0,0,0,,{\blur1}To niesprawiedliwe!
+Dialogue: 0,0:21:33.54,0:21:37.48,Default,,0,0,0,,{\blur1}Niesprawiedliwy jest ten kto spiskuje.
+Dialogue: 0,0:21:37.48,0:21:38.49,Default,,0,0,0,,{\blur1}Zabrać go.
+Dialogue: 0,0:21:38.92,0:21:41.25,Default,,0,0,0,,{\blur1}Ty wiesz kim ja jestem?!
+Dialogue: 0,0:21:41.25,0:21:42.99,Default,,0,0,0,,{\blur1}Tyle wystarczy?
+Dialogue: 0,0:21:44.07,0:21:45.83,Default,,0,0,0,,{\blur1}Tak!
+Dialogue: 0,0:21:47.75,0:21:51.59,Default,,0,0,0,,{\blur1}Pewnie zmęczyła się pani.\NProszę odpocząć.
+Dialogue: 0,0:21:53.15,0:21:54.90,Default,,0,0,0,,{\blur1}Dobranoc.
+Dialogue: 0,0:21:58.98,0:22:00.76,Default,,0,0,0,,{\blur1}Pani?
+Dialogue: 0,0:22:00.76,0:22:03.09,Default,,0,0,0,,{\blur1}Nie zostawiaj mnie.
+Dialogue: 0,0:22:04.58,0:22:05.81,Default,,0,0,0,,{\blur1}Weź mnie.
+Dialogue: 0,0:22:08.15,0:22:09.46,Default,,0,0,0,,{\blur1}Ale...
+Dialogue: 0,0:22:12.21,0:22:15.11,Default,,0,0,0,,{\blur1}Chcesz uciec ode mnie?
+Dialogue: 0,0:22:18.63,0:22:20.22,Default,,0,0,0,,{\blur1}Ssij je.
+Dialogue: 0,0:22:30.04,0:22:33.37,Default,,0,0,0,,{\blur1}Nie tak.
+Dialogue: 0,0:22:41.18,0:22:46.15,Default,,0,0,0,,{\blur1}Lubi pani być dotykana po piersiach, prawda?
+Dialogue: 0,0:22:46.15,0:22:50.71,Default,,0,0,0,,{\blur1}No, bo to jest przyjemne.\NSsij je mocniej.
+Dialogue: 0,0:22:54.83,0:22:58.48,Default,,0,0,0,,{\blur1}Pijesz moje mleko.
+Dialogue: 0,0:23:00.75,0:23:02.85,Default,,0,0,0,,{\blur1}Nie aż tak mocno.
+Dialogue: 0,0:23:09.99,0:23:14.83,Default,,0,0,0,,{\blur1}Mleko znowu wylatuje!
+Dialogue: 0,0:23:31.73,0:23:35.41,Default,,0,0,0,,{\blur1}Obie naraz?!
+Dialogue: 0,0:23:37.74,0:23:42.30,Default,,0,0,0,,{\blur1}O tak, ssij! Mocniej!
+Dialogue: 0,0:23:45.03,0:23:48.28,Default,,0,0,0,,{\blur1}Cudownie!
+Dialogue: 0,0:23:48.28,0:23:51.76,Default (i),,0,0,0,,{\blur1}Przepyszne mleko.
+Dialogue: 0,0:23:53.67,0:23:57.89,Default,,0,0,0,,{\blur1}Zaraz dojdę od piersi!
+Dialogue: 0,0:23:59.27,0:24:01.61,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:24:11.48,0:24:14.56,Default,,0,0,0,,{\blur1}Nie wytrzymam.
+Dialogue: 0,0:24:14.56,0:24:17.38,Default,,0,0,0,,{\blur1}Ryuuto, włóż go.
+Dialogue: 0,0:24:47.21,0:24:48.89,Default,,0,0,0,,{\blur1}Pani!
+Dialogue: 0,0:24:50.93,0:24:55.22,Default,,0,0,0,,{\blur1}Ściskaj moje piersi!
+Dialogue: 0,0:25:04.93,0:25:07.60,Default,,0,0,0,,{\blur1}Wkładasz go i ssiesz je jednocześnie.
+Dialogue: 0,0:25:07.60,0:25:10.52,Default,,0,0,0,,{\blur1}Pani, nie ściskaj go tak mocno.
+Dialogue: 0,0:25:10.52,0:25:14.03,Default,,0,0,0,,{\blur1}To dlatego, że ssiesz obie naraz.
+Dialogue: 0,0:25:14.03,0:25:16.57,Default,,0,0,0,,{\blur1}Do tego zostały stworzone.
+Dialogue: 0,0:25:19.20,0:25:22.79,Default,,0,0,0,,{\blur1}Ssij i wkładaj mocniej!
+Dialogue: 0,0:25:25.91,0:25:28.76,Default,,0,0,0,,{\blur1}Jesteś cudowny!
+Dialogue: 0,0:25:29.89,0:25:38.08,Default,,0,0,0,,{\blur1}Proszę, nie przestawaj ich ssać!
+Dialogue: 0,0:25:42.41,0:25:43.84,Default,,0,0,0,,{\blur1}Zaraz dojdę!
+Dialogue: 0,0:25:45.50,0:25:48.81,Default,,0,0,0,,{\blur1}Spuść się we mnie!
+Dialogue: 0,0:25:50.37,0:25:52.82,Default,,0,0,0,,{\blur1}Dobra!
+Dialogue: 0,0:25:52.82,0:25:54.50,Default,,0,0,0,,{\blur1}Spuść się!
+Dialogue: 0,0:25:54.50,0:25:56.53,Default,,0,0,0,,{\blur1}Masz cudownego penisa!
+Dialogue: 0,0:25:57.30,0:25:59.79,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:26:00.30,0:26:03.25,Default,,0,0,0,,{\blur1}Dojdę, gdy ssiesz moje piersi!
+Dialogue: 0,0:26:04.26,0:26:06.48,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:26:09.57,0:26:13.26,Default,,0,0,0,,{\blur1}Cudownie!
+Dialogue: 0,0:26:18.23,0:26:21.49,Default,,0,0,0,,{\blur1}Jesteś cudowny.
+Dialogue: 0,0:26:21.49,0:26:26.06,Default,,0,0,0,,{\blur1}Ty także, pani.\NUwielbiam twoje jęki.
+Dialogue: 0,0:26:26.97,0:26:32.03,Default,,0,0,0,,{\blur1}Ryuuto, nie zapomnij o mnie.
+Dialogue: 0,0:26:40.05,0:26:41.63,Default,,0,0,0,,{\blur1}Jesteś pewien?!
+Dialogue: 0,0:26:41.63,0:26:42.45,Default,,0,0,0,,{\blur1}Tak.
+Dialogue: 0,0:26:42.45,0:26:44.07,Default,,0,0,0,,{\blur1}Toż to absurd!
+Dialogue: 0,0:26:44.07,0:26:46.59,Default,,0,0,0,,{\blur1}Jak on śmiał spiskować przeciwko mnie?!
+Dialogue: 0,0:26:47.19,0:26:49.66,Default,,0,0,0,,{\blur1}Kto pojmał mego syna?
+Dialogue: 0,0:26:49.66,0:26:51.95,Default,,0,0,0,,{\blur1}Ryuuto Henge.
+Dialogue: 0,0:26:51.95,0:26:55.83,Default,,0,0,0,,{\blur1}Najgorszy ze wszystkich\Nw Akademii Królewskiego Zakonu z tego roku.
+Dialogue: 0,0:26:55.83,0:26:58.12,Default,,0,0,0,,{\blur1}Co? Z akademii?
+Dialogue: 0,0:26:59.61,0:27:02.93,Default,,0,0,0,,{\blur1}Natychmiast go wezwij!\NChcę z nim pomówić!
+Dialogue: 0,0:27:04.02,0:27:08.06,Default,,0,0,0,,{\blur1}Kto by pomyślał,\Nże rycerz z akademii dojdzie do tego.
+Dialogue: 0,0:27:08.06,0:27:12.16,Default,,0,0,0,,{\blur1}Mam tylko nadzieję,\Nże jest odpowiednim rycerzem.
+Dialogue: 0,0:27:14.06,0:27:17.04,Default,,0,0,0,,{\blur1}To rozkaz króla.
+Dialogue: 0,0:27:17.83,0:27:20.87,Default,,0,0,0,,{\blur1}Nie przypuszczałam,\Nże jeszcze cię zobaczę.
+Dialogue: 0,0:27:21.52,0:27:24.17,Default,,0,0,0,,{\blur1}A ja nie przypuszczałem,\Nże przyjdziesz do mnie.
+Dialogue: 0,0:27:24.17,0:27:25.91,Default,,0,0,0,,{\blur1}Odpocznij sobie.
+Dialogue: 0,0:27:30.89,0:27:32.38,Default,,0,0,0,,{\blur1}Moja nagroda!
+Dialogue: 0,0:27:35.88,0:27:42.48,Default,,0,0,0,,{\blur1}Sam król chce cię widzieć.\NMoże mianuje cię na osobistego strażnika?
+Dialogue: 0,0:27:42.48,0:27:44.98,Default,,0,0,0,,{\blur1}Wolałbym dowodzić niż chronić.
+Dialogue: 0,0:27:45.59,0:27:49.01,Default,,0,0,0,,{\blur1}Idę z tobą do Oto!
+Dialogue: 0,0:27:49.96,0:27:51.65,Default,,0,0,0,,{\blur1}Duszę się.
+Dialogue: 0,0:27:52.58,0:27:54.13,Default,,0,0,0,,{\blur1}Jesteś pewien?
+Dialogue: 0,0:27:54.13,0:27:58.66,Default,,0,0,0,,{\blur1}Tak, generał wysłał mnie osobiście.
+Dialogue: 0,0:27:58.66,0:28:00.89,Default,,0,0,0,,{\blur1}Rozumiem, dobra robota.
+Dialogue: 0,0:28:05.82,0:28:10.47,Default,,0,0,0,,{\blur1}Rycerz z Boan? To dziwne.

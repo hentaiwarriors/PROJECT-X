@@ -1,0 +1,311 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Isaku 03
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.09,0:00:07.25,Default,,0,0,0,,<FONT COLOR=yellow size=2>이 자막은 2차 가공 배포 및 상업적 용도로 쓰여져선 안되며 <FONT COLOR=yellow size=2>다른 곳에 퍼가실때 꼭 출처를 밝혀주시기 바랍니다. <FONT COLOR=yellow size=2>자막은 한 사람의 지적 재산이라고 할 수 있습니다.
+Dialogue: 0,0:00:07.25,0:00:14.72,Default,,0,0,0,,<FONT COLOR=33ffff size=2>추억록 자막팀 <FONT COLOR=WHITE>오아시스<FONT COLOR=RED>™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=FFFF97>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:00:37.12,0:00:38.00,Default,,0,0,0,,다행이야
+Dialogue: 0,0:00:38.00,0:00:44.72,Default,,0,0,0,,정신이 들었네..
+Dialogue: 0,0:00:44.72,0:00:49.25,Default,,0,0,0,,코..토..미..상
+Dialogue: 0,0:00:49.25,0:00:50.52,Default,,0,0,0,,걱정했었어..
+Dialogue: 0,0:00:50.52,0:00:54.64,Default,,0,0,0,,미유키 수업중에 갑자기 쓰러져서
+Dialogue: 0,0:00:54.64,0:00:57.53,Default,,0,0,0,,그런.
+Dialogue: 0,0:00:57.53,0:01:01.71,Default,,0,0,0,,우리들은 분명히 구학교안에서..
+Dialogue: 0,0:01:01.71,0:01:03.23,Default,,0,0,0,,구학교라니..
+Dialogue: 0,0:01:03.23,0:01:07.12,Default,,0,0,0,,무슨일..?뭐가?
+Dialogue: 0,0:01:07.12,0:01:10.66,Default,,0,0,0,,지금까지의 일... 모두 꿈?
+Dialogue: 0,0:01:10.66,0:01:14.96,Default,,0,0,0,,그 일이..
+Dialogue: 0,0:01:14.96,0:01:17.75,Default,,0,0,0,,하지만,나 놀랐어...
+Dialogue: 0,0:01:17.75,0:01:19.57,Default,,0,0,0,,에?
+Dialogue: 0,0:01:19.57,0:01:25.64,Default,,0,0,0,,미유키상,
+Dialogue: 0,0:01:25.64,0:01:30.93,Default,,0,0,0,,생각했던대로 가슴이 크네.
+Dialogue: 0,0:01:30.93,0:01:35.52,Default,,0,0,0,,와,부드러워라.
+Dialogue: 0,0:01:35.52,0:01:37.49,Default,,0,0,0,,감촉도 좋아.
+Dialogue: 0,0:01:37.49,0:01:42.47,Default,,0,0,0,,싫어...
+Dialogue: 0,0:01:44.94,0:01:47.88,Default,,0,0,0,,이정도라면 이사쿠씨도 즐거워 할거야.
+Dialogue: 0,0:01:47.88,0:01:50.67,Default,,0,0,0,,에?
+Dialogue: 0,0:01:52.33,0:01:58.11,Default,,0,0,0,,미유키.믿고 있었는데..
+Dialogue: 0,0:01:58.11,0:02:00.92,Default,,0,0,0,,난 믿고 있었는데...
+Dialogue: 0,0:02:00.92,0:02:04.30,Default,,0,0,0,,코토미,난
+Dialogue: 0,0:02:04.30,0:02:08.82,Default,,0,0,0,,나 보여버리고 말아서..창피한 것 전부.
+Dialogue: 0,0:02:08.82,0:02:11.58,Default,,0,0,0,,이사쿠씨에게.
+Dialogue: 0,0:02:11.58,0:02:18.73,Default,,0,0,0,,그러니까,미유키도 네..나와 같이 빠져들어..
+Dialogue: 0,0:02:18.73,0:02:21.75,Default,,0,0,0,,안돼,그만둬.
+Dialogue: 0,0:02:21.75,0:02:28.83,Default,,0,0,0,,모두다 기다리고 있어.
+Dialogue: 0,0:02:28.83,0:02:34.36,Default,,0,0,0,,아라,미유키 이렇게나 젖었네..
+Dialogue: 0,0:02:34.36,0:02:39.22,Default,,0,0,0,,이사쿠씨에게 전부 보이면 점 점더 기분이 좋게 돼
+Dialogue: 0,0:02:39.22,0:02:43.15,Default,,0,0,0,,거짓말,그런 짓.
+Dialogue: 0,0:02:43.15,0:02:48.05,Default,,0,0,0,,이렇게 세우고 있으면서..
+Dialogue: 0,0:02:48.05,0:02:52.07,Default,,0,0,0,,귀여운 팬티. 하지만,이제 필요없어....
+Dialogue: 0,0:02:52.07,0:02:54.97,Default,,0,0,0,,안돼.거긴
+Dialogue: 0,0:02:54.97,0:02:57.56,Default,,0,0,0,,사실은 만져주길 바라면서
+Dialogue: 0,0:02:57.56,0:03:02.13,Default,,0,0,0,,이사쿠씨에게 범해지면 꿈꾸는 듯 한 기분이 돼.
+Dialogue: 0,0:03:02.13,0:03:06.60,Default,,0,0,0,,아냐. 틀려...틀려...틀려..아니야..
+Dialogue: 0,0:03:06.60,0:03:14.23,Default,,0,0,0,,<FONT COLOR=DEEPSKYBLU>아~~~~~~~~~~~~~~~~~
+Dialogue: 0,0:03:15.25,0:03:16.31,Default,,0,0,0,,<FONT COLOR=DEEPSKYBLU> 遺 作
+Dialogue: 0,0:03:16.31,0:03:18.18,Default,,0,0,0,,<FONT COLOR=ffccff> 遺 作
+Dialogue: 0,0:03:18.18,0:03:23.34,Default,,0,0,0,,<FONT COLOR=RED> 遺 作 <FONT COLOR=33ffff size=2>제<FONT COLOR=33ffff size=2> 3화 <FONT COLOR=WHITE>_<FONT COLOR=ffccff> 미 유 키
+Dialogue: 0,0:03:51.68,0:03:56.06,Default,,0,0,0,,어~,미유키.
+Dialogue: 0,0:04:00.09,0:04:03.82,Default,,0,0,0,,어떻게 된거야..대체..
+Dialogue: 0,0:04:29.64,0:04:31.97,Default,,0,0,0,,기다렸지..
+Dialogue: 0,0:04:35.90,0:04:38.83,Default,,0,0,0,,아..
+Dialogue: 0,0:04:38.83,0:04:41.11,Default,,0,0,0,,무..무네미츠군.
+Dialogue: 0,0:04:41.11,0:04:50.88,Default,,0,0,0,,이 도련님은 말야 한패라서 말야. 너의 몸을 가질수 있도록 도와주었지.
+Dialogue: 0,0:04:57.00,0:05:04.12,Default,,0,0,0,,수고했다..무네미츠,마지막은 나혼자서 즐기도록 하지.
+Dialogue: 0,0:05:05.92,0:05:09.26,Default,,0,0,0,,기다려.미유키...어디 가는거야?
+Dialogue: 0,0:05:11.89,0:05:13.40,Default,,0,0,0,,냉정해 지라구..
+Dialogue: 0,0:05:13.40,0:05:15.97,Default,,0,0,0,,평소의 너같지 않다구.
+Dialogue: 0,0:05:15.97,0:05:18.13,Default,,0,0,0,,자 그럼 어떻게 하면 좋을것 같아?
+Dialogue: 0,0:05:18.13,0:05:20.44,Default,,0,0,0,,가르쳐 줘..
+Dialogue: 0,0:05:20.44,0:05:23.00,Default,,0,0,0,,그건.....
+Dialogue: 0,0:05:23.00,0:05:27.24,Default,,0,0,0,,내탓이야.내탓으로 코토미가.
+Dialogue: 0,0:05:27.24,0:05:33.86,Default,,0,0,0,,미유키 탓이 아냐.내.내가 좀더 정신을 차렸으면,
+Dialogue: 0,0:05:33.86,0:05:37.11,Default,,0,0,0,,켄타군,어.
+Dialogue: 0,0:05:37.11,0:05:38.94,Default,,0,0,0,,켄타군,여기..
+Dialogue: 0,0:05:38.94,0:05:40.94,Default,,0,0,0,,에?
+Dialogue: 0,0:05:40.94,0:05:44.64,Default,,0,0,0,,여닫이 문같아 보여
+Dialogue: 0,0:05:44.64,0:05:50.95,Default,,0,0,0,,어이 보지 잘 보이도록 좀더 엉덩이를 세워서 벌리라구
+Dialogue: 0,0:05:52.48,0:05:55.54,Default,,0,0,0,,만지면 안돼
+Dialogue: 0,0:05:56.78,0:06:01.08,Default,,0,0,0,,어때 만져지는 모습이.
+Dialogue: 0,0:06:01.68,0:06:06.43,Default,,0,0,0,,이정도로 취할까?
+Dialogue: 0,0:06:10.69,0:06:13.82,Default,,0,0,0,,모처럼 귀여운 속옷이 젖어버렸군.
+Dialogue: 0,0:06:13.82,0:06:17.00,Default,,0,0,0,,싫어..말하지마세요.
+Dialogue: 0,0:06:17.00,0:06:25.06,Default,,0,0,0,,몸은 솔직하구나..자 벌써
+Dialogue: 0,0:06:25.06,0:06:28.02,Default,,0,0,0,,그럼 좋은 목소리가 나오게 넣어 볼까나?
+Dialogue: 0,0:06:28.02,0:06:31.71,Default,,0,0,0,,싫어.부탁이예요..그것만은.
+Dialogue: 0,0:06:31.71,0:06:36.57,Default,,0,0,0,,충분히 차근차근 느끼게될텐데. 무슨 말을 하는거야.
+Dialogue: 0,0:06:36.57,0:06:39.86,Default,,0,0,0,,켄타군
+Dialogue: 0,0:06:44.26,0:06:48.19,Default,,0,0,0,,어때?,처음하는 남자의 맛은.
+Dialogue: 0,0:06:48.19,0:06:53.30,Default,,0,0,0,,싫어.싫어.그만둬.
+Dialogue: 0,0:07:18.45,0:07:21.10,Default,,0,0,0,,진파치군.
+Dialogue: 0,0:07:22.28,0:07:23.57,Default,,0,0,0,,진파치.
+Dialogue: 0,0:07:23.57,0:07:30.85,Default,,0,0,0,,진파치군.너 어.싫어.
+Dialogue: 0,0:07:30.85,0:07:33.82,Default,,0,0,0,,싫어가 아냐.위로 해라
+Dialogue: 0,0:07:33.82,0:07:35.80,Default,,0,0,0,,싫어.싫어.
+Dialogue: 0,0:07:35.80,0:07:38.57,Default,,0,0,0,,호라,,,,
+Dialogue: 0,0:07:44.96,0:07:58.08,Default,,0,0,0,,좋지, 잠겨드는 마음이 되는게. 코토미 넌 얼굴만이 아니라 몸도 열중적이구나.
+Dialogue: 0,0:08:21.50,0:08:27.69,Default,,0,0,0,,이것으로 넌 나의 첫번째 여자다.감사하거라..
+Dialogue: 0,0:08:32.43,0:08:34.10,Default,,0,0,0,,네...켄타군.
+Dialogue: 0,0:08:34.10,0:08:35.45,Default,,0,0,0,,에?
+Dialogue: 0,0:08:35.45,0:08:41.54,Default,,0,0,0,,만약,있지 말야.코토미라도. 나처럼...
+Dialogue: 0,0:08:41.54,0:08:44.47,Default,,0,0,0,,아무것도 아냐.
+Dialogue: 0,0:08:50.42,0:08:54.90,Default,,0,0,0,,음 그래 좋아.
+Dialogue: 0,0:08:54.90,0:09:00.97,Default,,0,0,0,,잘하게 된것 같군...음
+Dialogue: 0,0:09:00.97,0:09:02.29,Default,,0,0,0,,코토미짱.
+Dialogue: 0,0:09:02.29,0:09:04.93,Default,,0,0,0,,이런이런.
+Dialogue: 0,0:09:04.93,0:09:07.87,Default,,0,0,0,,코토미상. 그런짓 하지마.
+Dialogue: 0,0:09:07.87,0:09:11.16,Default,,0,0,0,,무리다.듣지 않을거야..
+Dialogue: 0,0:09:11.16,0:09:15.23,Default,,0,0,0,,코토미는 지금 말하는 중이야...
+Dialogue: 0,0:09:15.23,0:09:17.66,Default,,0,0,0,,이사쿠..네녀석
+Dialogue: 0,0:09:17.66,0:09:20.65,Default,,0,0,0,,코토미를 놓아줘.사람도 아냐.
+Dialogue: 0,0:09:20.65,0:09:23.96,Default,,0,0,0,,좋아.이젠 됐다.코토미.
+Dialogue: 0,0:09:23.96,0:09:29.54,Default,,0,0,0,,친구들에게 인사를 해야지.
+Dialogue: 0,0:09:29.54,0:09:31.81,Default,,0,0,0,,켄..타..군.
+Dialogue: 0,0:09:31.81,0:09:36.35,Default,,0,0,0,,나에게 받은 선물을 모두에게 보여줘야지!
+Dialogue: 0,0:09:36.35,0:09:37.72,Default,,0,0,0,,에?
+Dialogue: 0,0:09:37.72,0:09:45.51,Default,,0,0,0,,어느때처럼 더러워진 있으면 기분이 나빠진다고 생각해서말야.
+Dialogue: 0,0:09:45.51,0:09:50.83,Default,,0,0,0,,사람들을 생각하는 여자는 무늬가 있는 팬티가 어울리지.
+Dialogue: 0,0:09:50.83,0:09:52.48,Default,,0,0,0,,무..무슨 짓을.
+Dialogue: 0,0:09:52.48,0:09:54.04,Default,,0,0,0,,이사쿠
+Dialogue: 0,0:09:54.04,0:10:01.75,Default,,0,0,0,,저녀석 아까까지 나에게 범해져서 히히 하면서 너의 있는곳을 봤지.
+Dialogue: 0,0:10:01.75,0:10:06.32,Default,,0,0,0,,정말,남자에게 보여서 인가?
+Dialogue: 0,0:10:06.32,0:10:09.98,Default,,0,0,0,,뭐야? 좋아하는 남자에게 보여져서 느끼건가?
+Dialogue: 0,0:10:09.98,0:10:11.89,Default,,0,0,0,,싫어,보면 싫어.
+Dialogue: 0,0:10:11.89,0:10:16.17,Default,,0,0,0,,어느정도 젖었는지 보여주라구.
+Dialogue: 0,0:10:16.17,0:10:23.92,Default,,0,0,0,,아 안돼....
+Dialogue: 0,0:10:23.92,0:10:25.51,Default,,0,0,0,,보지마
+Dialogue: 0,0:10:25.51,0:10:31.85,Default,,0,0,0,,그만둬.내가 대신할테니까! 그러니까!코토미를 놓아줘!
+Dialogue: 0,0:10:32.11,0:10:36.41,Default,,0,0,0,,재미있군.
+Dialogue: 0,0:10:36.41,0:10:44.20,Default,,0,0,0,,거기서 순순히 되라.
+Dialogue: 0,0:10:44.20,0:10:46.90,Default,,0,0,0,,핥아라.
+Dialogue: 0,0:10:46.90,0:10:52.03,Default,,0,0,0,,코토미가 이렇게 된건 누구 탓이지.
+Dialogue: 0,0:10:52.03,0:10:54.37,Default,,0,0,0,,핥아서 깨끗이 해라.
+Dialogue: 0,0:10:54.37,0:10:59.22,Default,,0,0,0,,그만둬!미유키.
+Dialogue: 0,0:10:59.22,0:11:03.69,Default,,0,0,0,,어이,빨리 하라구.
+Dialogue: 0,0:11:23.63,0:11:26.18,Default,,0,0,0,,어때? 이정도로 만족해.
+Dialogue: 0,0:11:26.18,0:11:30.40,Default,,0,0,0,,글쎄,어떨까나?
+Dialogue: 0,0:11:30.40,0:11:36.50,Default,,0,0,0,,코토미,저 태도의 미유키를 용서해줄까?
+Dialogue: 0,0:11:36.50,0:11:41.73,Default,,0,0,0,,어떻게 하고 싶나? 코토미
+Dialogue: 0,0:11:41.73,0:11:45.48,Default,,0,0,0,,확실히 말하지 않으면 모른다구.
+Dialogue: 0,0:11:45.48,0:11:50.12,Default,,0,0,0,,미유키상이 일보는 것을 보구 싶어요.
+Dialogue: 0,0:11:50.12,0:11:52.08,Default,,0,0,0,,코토미상
+Dialogue: 0,0:11:52.08,0:11:55.24,Default,,0,0,0,,자 어떠냐?그거 빨리 보여달라구.
+Dialogue: 0,0:11:55.24,0:11:57.71,Default,,0,0,0,,자 어떠냐?그거 빨리 보여달라구. 코토미짱
+Dialogue: 0,0:11:57.71,0:12:03.11,Default,,0,0,0,,알겠어.코토미가 그렇게 하라면.
+Dialogue: 0,0:12:03.11,0:12:07.20,Default,,0,0,0,,켄타에게도 보여주라구.
+Dialogue: 0,0:12:24.42,0:12:28.79,Default,,0,0,0,,다리를 벌리지 않으면 의미가 없잖아..
+Dialogue: 0,0:12:45.81,0:12:50.10,Default,,0,0,0,,언제나 일 끝내는 것을 보여주는 여자
+Dialogue: 0,0:12:50.10,0:12:58.25,Default,,0,0,0,,좋은 감이다. 어때? 보이면서 하는것이.기분가 좋지!
+Dialogue: 0,0:12:58.25,0:13:03.18,Default,,0,0,0,,이사쿠.
+Dialogue: 0,0:13:03.18,0:13:07.13,Default,,0,0,0,,진,진파치.어째서..
+Dialogue: 0,0:13:07.13,0:13:08.23,Default,,0,0,0,,켄타군.
+Dialogue: 0,0:13:08.23,0:13:10.55,Default,,0,0,0,,아직 끝나지 않았다구.
+Dialogue: 0,0:13:10.55,0:13:13.15,Default,,0,0,0,,진파치 너 설마..
+Dialogue: 0,0:13:13.15,0:13:15.72,Default,,0,0,0,,하지 않을 수 없었어!켄타.
+Dialogue: 0,0:13:15.72,0:13:21.21,Default,,0,0,0,,정답이잖아.코토미가 좀더 창피스럽게 되었다구.
+Dialogue: 0,0:13:21.21,0:13:24.11,Default,,0,0,0,,자.어떻게 해주길 바라지?
+Dialogue: 0,0:13:24.11,0:13:30.16,Default,,0,0,0,,널 배반한 여자에게 뭘 하게 할까?
+Dialogue: 0,0:13:30.16,0:13:31.88,Default,,0,0,0,,코토미!
+Dialogue: 0,0:13:31.88,0:13:32.92,Default,,0,0,0,,관..자..ㅇ.
+Dialogue: 0,0:13:32.92,0:13:35.64,Default,,0,0,0,,좀더 큰 소리로
+Dialogue: 0,0:13:35.64,0:13:43.98,Default,,0,0,0,,미유키상이 관장당해서 괴로워하는것을 보고 싶어요.
+Dialogue: 0,0:13:43.98,0:13:48.14,Default,,0,0,0,,어떻게 할건가?물론 하겠지.
+Dialogue: 0,0:13:48.14,0:13:50.17,Default,,0,0,0,,코토미짱.
+Dialogue: 0,0:13:50.17,0:13:56.53,Default,,0,0,0,,시끄럽다!코토미가 그렇게 하길 바라고 있잖아!
+Dialogue: 0,0:13:56.53,0:13:58.12,Default,,0,0,0,,알겠습니다.
+Dialogue: 0,0:13:58.12,0:14:02.45,Default,,0,0,0,,좋아 빨리 이쪽으로 엉덩이를 향해라.
+Dialogue: 0,0:14:04.84,0:14:09.66,Default,,0,0,0,,코토미,네가 했던걸 알려주거라.
+Dialogue: 0,0:14:09.66,0:14:10.31,Default,,0,0,0,,예
+Dialogue: 0,0:14:10.31,0:14:12.93,Default,,0,0,0,,그만둬어.코토미짱.
+Dialogue: 0,0:14:12.93,0:14:15.35,Default,,0,0,0,,진파치,너 왜.
+Dialogue: 0,0:14:15.35,0:14:21.43,Default,,0,0,0,,진파치는 말야 미유키를 좋아해서 말야.계속 말야.
+Dialogue: 0,0:14:21.43,0:14:27.76,Default,,0,0,0,,엄청 좋아하는 미유키의 모습을 찍어서 기뻐했지.
+Dialogue: 0,0:14:27.76,0:14:33.68,Default,,0,0,0,,그렇지만,내가 알려줬지.
+Dialogue: 0,0:14:33.68,0:14:45.98,Default,,0,0,0,,여자란,알수 없는 면과 알수 있는것이 있다고 말야.
+Dialogue: 0,0:14:45.98,0:14:50.60,Default,,0,0,0,,코토미는 알았지..
+Dialogue: 0,0:14:50.60,0:14:57.13,Default,,0,0,0,,미유키가 참을 수 없게 조금은 즐겁게 해라..
+Dialogue: 0,0:14:57.13,0:15:00.07,Default,,0,0,0,,좀더 엉덩이를 벌려줘.
+Dialogue: 0,0:15:00.07,0:15:08.11,Default,,0,0,0,,괜찮아.조금 참으면,
+Dialogue: 0,0:15:08.11,0:15:10.73,Default,,0,0,0,,잠깐,코토미상
+Dialogue: 0,0:15:10.73,0:15:15.71,Default,,0,0,0,,뭐냐? 이제와서 싫다는 것은 아니겠지.
+Dialogue: 0,0:15:15.71,0:15:20.93,Default,,0,0,0,,코토미상이 하라면 뭐라도 할테니.
+Dialogue: 0,0:15:20.93,0:15:24.18,Default,,0,0,0,,하지만, 이건 싫어.
+Dialogue: 0,0:15:24.18,0:15:26.68,Default,,0,0,0,,켄타군앞에서 절대로 싫어.
+Dialogue: 0,0:15:26.68,0:15:28.79,Default,,0,0,0,,미유키.
+Dialogue: 0,0:15:28.79,0:15:37.47,Default,,0,0,0,,자 이런데 코토미어떻게 할래. 아까까지만해도 켄타의 앞에서 해주지 않았나?
+Dialogue: 0,0:15:42.94,0:15:48.84,Default,,0,0,0,,싫어.그만해...부탁이야.
+Dialogue: 0,0:15:48.84,0:15:51.55,Default,,0,0,0,,이것으로 한번 족한가?
+Dialogue: 0,0:15:51.55,0:15:54.80,Default,,0,0,0,,적당히 해!이사쿠!
+Dialogue: 0,0:15:54.80,0:15:58.29,Default,,0,0,0,,이이상 너에게 당하게 놔둘것 같아?
+Dialogue: 0,0:15:58.29,0:16:00.86,Default,,0,0,0,,흠,진파치.저녀석을 쓰러뜨려라.
+Dialogue: 0,0:16:00.86,0:16:05.72,Default,,0,0,0,,안돼.그렇게 하지마.
+Dialogue: 0,0:16:05.72,0:16:09.29,Default,,0,0,0,,켄타군.켄타군.
+Dialogue: 0,0:16:09.29,0:16:13.31,Default,,0,0,0,,미..미유키.
+Dialogue: 0,0:16:28.92,0:16:32.00,Default,,0,0,0,,리카.
+Dialogue: 0,0:16:33.54,0:16:38.33,Default,,0,0,0,,아! 코토미짱.미유키.
+Dialogue: 0,0:16:46.22,0:16:47.83,Default,,0,0,0,,좋은 얼굴이다.
+Dialogue: 0,0:16:47.83,0:16:52.93,Default,,0,0,0,,이것으로 너의 최후로 했던게 의미가 있지.
+Dialogue: 0,0:16:52.93,0:17:00.48,Default,,0,0,0,,여자가 참을수 없게 되는쪽이 요염하지..
+Dialogue: 0,0:17:04.92,0:17:10.78,Default,,0,0,0,,최고로군.코토미때 넣을때는.
+Dialogue: 0,0:17:10.78,0:17:19.29,Default,,0,0,0,,코.코토미상.부탁이야.보지마.
+Dialogue: 0,0:17:19.29,0:17:22.33,Default,,0,0,0,,흥.켄타 다음은 코토미인가?
+Dialogue: 0,0:17:22.33,0:17:26.46,Default,,0,0,0,,정말,젊은 여자는 내생각대로 곤란해.
+Dialogue: 0,0:17:26.46,0:17:27.58,Default,,0,0,0,,어이,진파치.
+Dialogue: 0,0:17:27.58,0:17:31.48,Default,,0,0,0,,아. 알겠어!
+Dialogue: 0,0:17:31.48,0:17:34.49,Default,,0,0,0,,안돼.안돼.진파치군.그만둬.
+Dialogue: 0,0:17:34.49,0:17:38.42,Default,,0,0,0,,그렇게..만져지면.
+Dialogue: 0,0:17:38.42,0:17:43.35,Default,,0,0,0,,참지마.나오게 하면. 편해져..
+Dialogue: 0,0:17:43.35,0:17:50.93,Default,,0,0,0,,나.나와..
+Dialogue: 0,0:17:50.93,0:17:56.55,Default,,0,0,0,,코토미.보지마.
+Dialogue: 0,0:17:56.55,0:18:17.71,Default,,0,0,0,,어이,어이,마지막까지 보라구.
+Dialogue: 0,0:18:17.71,0:18:20.60,Default,,0,0,0,,어이. 무네미츠.정신차려!
+Dialogue: 0,0:18:20.60,0:18:23.57,Default,,0,0,0,,이 방에서 나갈수 있는 법을 가르쳐 줘!
+Dialogue: 0,0:18:23.57,0:18:27.56,Default,,0,0,0,,큭.안돼는가!
+Dialogue: 0,0:18:27.56,0:18:30.25,Default,,0,0,0,,응
+Dialogue: 0,0:18:33.78,0:18:40.81,Default,,0,0,0,,저녀석이나 이녀석이나 여자란 밖에선 속을 안보이는 것이 모두같아.
+Dialogue: 0,0:18:49.38,0:18:51.26,Default,,0,0,0,,리카상
+Dialogue: 0,0:18:51.85,0:18:55.06,Default,,0,0,0,,눈을 떼지 말라구.
+Dialogue: 0,0:18:59.30,0:19:04.93,Default,,0,0,0,,잘 머리에 새겨둬라..
+Dialogue: 0,0:19:05.37,0:19:08.23,Default,,0,0,0,,이것이 여자의 본모습이다.
+Dialogue: 0,0:19:08.23,0:19:12.27,Default,,0,0,0,,그.그렇지 않아.
+Dialogue: 0,0:19:18.50,0:19:24.85,Default,,0,0,0,,싫군,한심스러운 모습.
+Dialogue: 0,0:19:24.85,0:19:29.04,Default,,0,0,0,,모두,무리한 일을 당해서..
+Dialogue: 0,0:19:29.04,0:19:35.83,Default,,0,0,0,,머리가 멍해지지않나? 자 이녀석은 어떨까?
+Dialogue: 0,0:19:38.15,0:19:47.83,Default,,0,0,0,,남자를 몰랐던 어떻든 한번 범해지면 탐하고 더 하게 되지!
+Dialogue: 0,0:19:47.83,0:19:49.97,Default,,0,0,0,,틀려.틀려.
+Dialogue: 0,0:19:49.97,0:19:56.08,Default,,0,0,0,,흥.그렇다면,너 자신은 어떻지?
+Dialogue: 0,0:19:56.08,0:19:58.24,Default,,0,0,0,,그만둬.
+Dialogue: 0,0:19:58.24,0:20:03.43,Default,,0,0,0,,뭐야?해주길바라는 건가?
+Dialogue: 0,0:20:03.43,0:20:05.63,Default,,0,0,0,,이건 뭐지?
+Dialogue: 0,0:20:05.63,0:20:08.98,Default,,0,0,0,,싫어..틀려.틀려..
+Dialogue: 0,0:20:08.98,0:20:14.02,Default,,0,0,0,,가르쳐 줄까?남자맛을..
+Dialogue: 0,0:20:29.27,0:20:35.51,Default,,0,0,0,,시작할땐 싫다지만,확실히 몸에 알게 해주지.
+Dialogue: 0,0:20:52.45,0:20:54.84,Default,,0,0,0,,코토미짱.
+Dialogue: 0,0:20:54.84,0:20:56.93,Default,,0,0,0,,켄타군.
+Dialogue: 0,0:20:56.93,0:21:00.89,Default,,0,0,0,,켄.타..군.
+Dialogue: 0,0:21:00.89,0:21:04.60,Default,,0,0,0,,그렇지.용서해주지 않아도..
+Dialogue: 0,0:21:04.60,0:21:11.41,Default,,0,0,0,,미안해.괴로웠어..나 때문에 상처입게된 미유키와 너를
+Dialogue: 0,0:21:11.41,0:21:17.43,Default,,0,0,0,,이젠 어떻게 되도 좋다고.....난...
+Dialogue: 0,0:21:17.43,0:21:20.81,Default,,0,0,0,,나...
+Dialogue: 0,0:21:20.81,0:21:26.48,Default,,0,0,0,,싫다고 해도 좋아.나 같은건 미워하는 것도. 당연해.
+Dialogue: 0,0:21:26.48,0:21:27.38,Default,,0,0,0,,하지만,
+Dialogue: 0,0:21:27.38,0:21:32.85,Default,,0,0,0,,부탁이야. 미유키를 구해줘.
+Dialogue: 0,0:21:32.85,0:21:36.02,Default,,0,0,0,,코토미짱
+Dialogue: 0,0:21:36.02,0:21:40.25,Default,,0,0,0,,미유키,켄타군을 좋아하고 있어.
+Dialogue: 0,0:21:40.25,0:21:43.69,Default,,0,0,0,,코토미짱
+Dialogue: 0,0:21:43.69,0:21:48.31,Default,,0,0,0,,싫어. 이젠 싫어.
+Dialogue: 0,0:21:48.31,0:21:54.48,Default,,0,0,0,,어라 진파치.할수있게 해라.
+Dialogue: 0,0:21:54.48,0:22:02.43,Default,,0,0,0,,미유키.미안해.난
+Dialogue: 0,0:22:02.43,0:22:07.10,Default,,0,0,0,,동생일은 계속 괜찮을거야.
+Dialogue: 0,0:22:07.10,0:22:10.14,Default,,0,0,0,,모모또의 일.헉!
+Dialogue: 0,0:22:10.14,0:22:15.00,Default,,0,0,0,,설마.그런
+Dialogue: 0,0:22:15.00,0:22:18.83,Default,,0,0,0,,괴물.당신같은 자는 인간도 아냐!
+Dialogue: 0,0:22:18.83,0:22:24.78,Default,,0,0,0,,흥,아직도 자존심이 남아있나?
+Dialogue: 0,0:22:24.78,0:22:26.08,Default,,0,0,0,,싫어.
+Dialogue: 0,0:22:26.08,0:22:31.05,Default,,0,0,0,,그러면,여기도 한번쯤 해주는 편이 좋을 것 같군
+Dialogue: 0,0:22:31.05,0:22:32.53,Default,,0,0,0,,뭘 할생각이야..
+Dialogue: 0,0:22:32.53,0:22:34.53,Default,,0,0,0,,거기는 거기는 싫어.
+Dialogue: 0,0:22:34.53,0:22:44.46,Default,,0,0,0,,부탁이야.그만둬.
+Dialogue: 0,0:22:44.46,0:23:16.49,Default,,0,0,0,,어때,당하는 것이 어때?
+Dialogue: 0,0:23:29.87,0:23:33.23,Default,,0,0,0,,학생들이 구학교에서 담력시험
+Dialogue: 0,0:23:33.23,0:23:38.86,Default,,0,0,0,,무드를 만들려고 할려고 불을 피운것이 원인인가?
+Dialogue: 0,0:23:38.86,0:23:44.30,Default,,0,0,0,,건물은 전소. 후에 학생들의 시체가 나온다.
+Dialogue: 0,0:23:44.30,0:23:50.20,Default,,0,0,0,,흠.내가 만든 완벽한 시나리오다.
+Dialogue: 0,0:23:52.64,0:24:14.32,Default,,0,0,0,,자,피날레다..
+Dialogue: 0,0:24:14.32,0:24:15.55,Default,,0,0,0,,싫.싫어.
+Dialogue: 0,0:24:15.55,0:24:20.68,Default,,0,0,0,,이 녀석 용서못해,용서 못해.
+Dialogue: 0,0:24:28.87,0:24:32.15,Default,,0,0,0,,켄타군.
+Dialogue: 0,0:24:32.15,0:24:37.01,Default,,0,0,0,,괜찮아,미유키.
+Dialogue: 0,0:24:37.01,0:24:39.52,Default,,0,0,0,,정말로 켄타군이야.
+Dialogue: 0,0:24:39.52,0:24:42.91,Default,,0,0,0,,자,빨리 모두 있는 곳으로 가자.
+Dialogue: 0,0:24:44.38,0:24:46.86,Default,,0,0,0,,난 가지 않을거야.
+Dialogue: 0,0:24:46.86,0:24:48.65,Default,,0,0,0,,미유키.
+Dialogue: 0,0:24:48.65,0:24:53.02,Default,,0,0,0,,난 이사쿠에게 불결해졌어.
+Dialogue: 0,0:24:53.02,0:24:58.87,Default,,0,0,0,,동생의 원수인데도.난...난..
+Dialogue: 0,0:24:58.87,0:25:02.52,Default,,0,0,0,,보지말아줘.부탁이야.
+Dialogue: 0,0:25:02.52,0:25:06.87,Default,,0,0,0,,잊어버려,이 나쁜 꿈을 잊어버린는거야.
+Dialogue: 0,0:25:06.87,0:25:11.11,Default,,0,0,0,,여기에.언제라도.이런곳에 있어선 안돼.
+Dialogue: 0,0:25:11.11,0:25:12.58,Default,,0,0,0,,켄타군.
+Dialogue: 0,0:25:12.58,0:25:15.39,Default,,0,0,0,,미유키.
+Dialogue: 0,0:25:15.39,0:25:21.29,Default,,0,0,0,,켄타군,켄타군,켄타군,
+Dialogue: 0,0:25:21.29,0:25:27.33,Default,,0,0,0,,무네미츠의 얻은 열쇠로 문을 열수 있을거야.모두 기다리고 있어.
+Dialogue: 0,0:25:40.08,0:25:44.51,Default,,0,0,0,,헤,좀더 즐거워진건가?
+Dialogue: 0,0:25:50.21,0:25:52.85,Default,,0,0,0,,어
+Dialogue: 0,0:25:52.85,0:25:56.92,Default,,0,0,0,,켄타군
+Dialogue: 0,0:25:56.92,0:26:00.01,Default,,0,0,0,,다행이야. 무사해서.
+Dialogue: 0,0:26:17.19,0:26:24.31,Default,,0,0,0,,해서.악몽의 구학교의 건물은 불에 둘러 쌓여 쓰러졌다.
+Dialogue: 0,0:26:24.31,0:26:30.81,Default,,0,0,0,,그 안에 갇혀 있었던 이사쿠의 모습은 건물이 타는 동안에도 발견되지않았다...
+Dialogue: 0,0:26:30.81,0:26:41.50,Default,,0,0,0,,마치,꿈처럼.만약 때가 되서 우리들의 마음을 누군가의 얼굴을 보구 애기해도 환상이라고 할것이다.
+Dialogue: 0,0:26:41.50,0:26:44.31,Default,,0,0,0,,이제와서.그런것을 생각할뿐.
+Dialogue: 0,0:26:44.31,0:26:49.33,Default,,0,0,0,,우리들의 유일한 구원일지도...
+Dialogue: 0,0:26:49.33,0:26:50.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=BLUE>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLU>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=FFFF97>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:50.00,0:26:51.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=YELLOW>오<FONT COLOR=GREEN>아<FONT COLOR=RED>시<FONT COLOR=DEEPSKYBLUE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=GREEN>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:51.00,0:26:52.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=WHITE>오<FONT COLOR=YELLOW>아<FONT COLOR=GREEN>시<FONT COLOR=RED>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=RED>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:52.00,0:26:53.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=DEEPSKYBLUE>오<FONT COLOR=WHITE>아<FONT COLOR=YELLOW>시<FONT COLOR=GREEN>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=DEEPSKYBLUE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:53.00,0:26:54.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=YELLOW>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLUE>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=YELLOW>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:54.00,0:26:55.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=RED>오<FONT COLOR=DEEPSKYBLUE>아<FONT COLOR=WHITE>시<FONT COLOR=YELLOW>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=DEEPSKYBLUE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:55.00,0:26:56.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=BLUE>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLUE>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=WHITE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:56.00,0:26:57.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=YELLOW>오<FONT COLOR=GREEN>아<FONT COLOR=RED>시<FONT COLOR=DEEPSKYBLUE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=DEEPSKYBLUE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:57.00,0:26:58.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=WHITE>오<FONT COLOR=YELLOW>아<FONT COLOR=GREEN>시<FONT COLOR=RED>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=RED>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:58.00,0:26:59.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=DEEPSKYBLUE>오<FONT COLOR=WHITE>아<FONT COLOR=YELLOW>시<FONT COLOR=GREEN>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=FFFF97>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:26:59.00,0:27:00.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=BLUE>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLU>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=DEEPSKYBLUE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:00.00,0:27:01.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=YELLOW>오<FONT COLOR=GREEN>아<FONT COLOR=RED>시<FONT COLOR=DEEPSKYBLUE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=WHITE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:01.00,0:27:02.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=WHITE>오<FONT COLOR=YELLOW>아<FONT COLOR=GREEN>시<FONT COLOR=RED>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=FFFF97>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:02.00,0:27:03.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=DEEPSKYBLUE>오<FONT COLOR=WHITE>아<FONT COLOR=YELLOW>시<FONT COLOR=GREEN>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=GREEN>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:03.00,0:27:04.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=YELLOW>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLUE>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=YELLOW>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:04.00,0:27:05.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=RED>오<FONT COLOR=DEEPSKYBLUE>아<FONT COLOR=WHITE>시<FONT COLOR=YELLOW>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=WHITE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:05.00,0:27:06.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=BLUE>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLUE>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=DEEPSKYBLUE>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:06.00,0:27:07.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=YELLOW>오<FONT COLOR=GREEN>아<FONT COLOR=RED>시<FONT COLOR=DEEPSKYBLUE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=RED>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:07.00,0:27:08.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=WHITE>오<FONT COLOR=YELLOW>아<FONT COLOR=GREEN>시<FONT COLOR=RED>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=YELLOW>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:08.00,0:27:09.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=DEEPSKYBLUE>오<FONT COLOR=WHITE>아<FONT COLOR=YELLOW>시<FONT COLOR=GREEN>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=GREEN>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:09.00,0:27:10.00,Default,,0,0,0,,<FONT COLOR=ffccff size=2>추억록 자막팀 <FONT COLOR=BLUE>오<FONT COLOR=RED>아<FONT COLOR=DEEPSKYBLU>시<FONT COLOR=WHITE>스™ <FONT COLOR=WHITE size=3>◁<FONT COLOR=FFFF97>http://recollect.ce.ro/<FONT COLOR=WHITE>▷ <FONT COLOR=33ffff>번역:<FONT COLOR=WHITE>Key<FONT COLOR=ffccff>☞<FONT COLOR=ffccff>☜ <FONT COLOR=33ffff>제작:<FONT COLOR=WHITE>글군
+Dialogue: 0,0:27:10.00,0:27:11.00,Default,,0,0,0,,<FONT COLOR=RED>--END--

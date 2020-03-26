@@ -1,0 +1,499 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build390  Sep 10 2015  15:38:19
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Collisions: Normal
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00ED64FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,65,&H00ED64FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,8,20,20,50,1
+Style: Tytul,Franklin Gothic Medium,50,&H00ED64FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,2,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:06.61,0:00:11.41,Grupa,,0,0,0,,{\fad(522,566)}Nyan
+Dialogue: 0,0:00:06.61,0:00:11.41,Anime,,0,0,0,,{\fad(522,566)}Soap no Moko-chan
+Dialogue: 0,0:00:12.28,0:00:16.62,Tytul,,0,0,170,,{\fad(524,604)\shad0}Zboczona Moko
+Dialogue: 0,0:13:22.78,0:13:27.58,Tytul,,0,0,80,,{\1c&HEBEEED&\4c&HEBEEED&\t(0,397,\1c&HED64FF&\4c&H000000&)\t(4318,4777,\1c&HEBEEED&\4c&HEBEEED&}Szofer powraca
+Dialogue: 0,0:26:17.18,0:26:21.85,Tytul,,0,0,100,,{\1c&HEBEEED&\4c&HEBEEED&\t(0,563,\1c&HED64FF&\4c&H000000&)\t(3983,4650,\1c&HEBEEED&\4c&HEBEEED&}Sztuka leniuchowania
+Dialogue: 0,0:00:41.27,0:00:42.48,Default,,0,0,0,,{\be1}Biegnie!
+Dialogue: 0,0:00:55.25,0:00:58.25,Default,,0,0,0,,{\be1}Jak zawsze piękna.
+Dialogue: 0,0:00:59.37,0:01:04.46,Default,,0,0,0,,{\be1}Do diabła z logiką, jestem romantykiem!
+Dialogue: 0,0:01:08.13,0:01:10.80,Default,,0,0,0,,{\be1}A jemu co? ADHD?
+Dialogue: 0,0:01:11.49,0:01:15.36,Default (i),,0,0,0,,{\be1}Cholera, pobiegłem za szybko!
+Dialogue: 0,0:01:19.19,0:01:26.47,Default (i),,0,0,0,,{\be1}To całkiem niezła sytuacja, teraz\Npodejdzie i spyta czy wszystko w porządku.
+Dialogue: 0,0:01:26.47,0:01:28.52,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:01:28.52,0:01:29.28,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:01:30.97,0:01:32.99,Default,,0,0,0,,{\be1}Jesteś w moim typie.
+Dialogue: 0,0:01:34.32,0:01:35.46,Default,,0,0,0,,{\be1}Co za poczwara!
+Dialogue: 0,0:01:35.46,0:01:37.28,Default,,0,0,0,,{\be1}Może wybierzemy się na kolację?
+Dialogue: 0,0:01:37.28,0:01:39.96,Default,,0,0,0,,{\be1}- Odwal się!\N- Nie ma mowy!
+Dialogue: 0,0:01:46.00,0:01:49.51,Default,,0,0,0,,{\be1}Więc ma na imię Motoko.
+Dialogue: 0,0:01:49.92,0:01:53.55,Default,,0,0,0,,{\be1}- Piękne imię.\N- Ej, ty, co tam robisz?
+Dialogue: 0,0:01:54.09,0:01:56.11,Default,,0,0,0,,{\be1}Mieszkasz tu gdzieś?
+Dialogue: 0,0:01:56.11,0:01:57.76,Default,,0,0,0,,{\be1}Nie zupełnie.
+Dialogue: 0,0:02:00.90,0:02:02.31,Default,,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:02:07.04,0:02:08.73,Default,,0,0,0,,{\be1}Cześć, Moko.
+Dialogue: 0,0:02:09.11,0:02:10.87,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:02:10.87,0:02:13.85,Default,,0,0,0,,{\be1}Poczęstujesz kawą?\NBo mi się skończyła.
+Dialogue: 0,0:02:13.85,0:02:16.51,Default,,0,0,0,,{\be1}Jasne, daj mi chwilę.
+Dialogue: 0,0:02:16.51,0:02:17.85,Default,,0,0,0,,{\be1}Biegałaś?
+Dialogue: 0,0:02:17.85,0:02:20.79,Default,,0,0,0,,{\be1}Tak, może się przyłączysz?
+Dialogue: 0,0:02:20.79,0:02:22.75,Default,,0,0,0,,{\be1}Dobre sobie.
+Dialogue: 0,0:02:22.75,0:02:25.89,Default,,0,0,0,,{\be1}Przecież to wstyd biegać o tej godzinie.
+Dialogue: 0,0:02:25.89,0:02:29.29,Default,,0,0,0,,{\be1}Nie mam wyboru, pracujemy wieczorami.
+Dialogue: 0,0:02:29.93,0:02:33.05,Default,,0,0,0,,{\be1}Wprawdzie trochę wstyd, ale będę zdrowsza.
+Dialogue: 0,0:02:35.06,0:02:37.50,Default,,0,0,0,,{\be1}Za to fajki szkodzą.
+Dialogue: 0,0:02:37.50,0:02:43.21,Default,,0,0,0,,{\be1}Czy ty czasem nie lubisz być zawstydzona?
+Dialogue: 0,0:02:43.21,0:02:51.07,Default,,0,0,0,,{\be1}No bo masz na sobie tylko koszulkę i spodenki,\Njesteś bez stanika i świecisz brzuchem.
+Dialogue: 0,0:02:51.47,0:02:55.11,Default,,0,0,0,,{\be1}Widać, że próbujesz\Nprzyciągnąć męskie spojrzenia.
+Dialogue: 0,0:02:56.12,0:02:57.12,Default,,0,0,0,,{\be1}Nieprawda.
+Dialogue: 0,0:02:57.55,0:03:01.81,Default,,0,0,0,,{\be1}Zrobiła się z ciebie niezła zboczucha.
+Dialogue: 0,0:03:01.81,0:03:03.09,Default,,0,0,0,,{\be1}Nieprawda!
+Dialogue: 0,0:03:03.09,0:03:07.93,Default,,0,0,0,,{\be1}Żal mi facetów, muszą się\Npowstrzymywać przy tobie.
+Dialogue: 0,0:03:07.93,0:03:09.92,Default,,0,0,0,,{\be1}- Już mówiłam...\N- Już wiem!
+Dialogue: 0,0:03:09.92,0:03:13.92,Default,,0,0,0,,{\be1}Jesteś nimfomanką,\Ndlatego zostałaś masażystką.
+Dialogue: 0,0:03:14.50,0:03:21.71,Default,,0,0,0,,{\be1}Nie, chciałam tylko sprawiać\Nprzyjemność mężczyznom!
+Dialogue: 0,0:03:21.71,0:03:26.06,Default,,0,0,0,,{\be1}No oczywiście, a te majtki to po co?
+Dialogue: 0,0:03:28.09,0:03:30.15,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:03:31.22,0:03:32.81,Default,,0,0,0,,{\be1}Idiotka!
+Dialogue: 0,0:03:35.59,0:03:40.75,Default,,0,0,0,,{\be1}Rozmowa z tobą zawsze mnie\Npobudza i nie potrzebuję kawy.
+Dialogue: 0,0:03:41.93,0:03:43.75,Default,,0,0,0,,{\be1}Zboczucha.
+Dialogue: 0,0:03:44.18,0:03:46.05,Default,,0,0,0,,{\be1}Do zobaczenia w salonie.
+Dialogue: 0,0:03:46.74,0:03:48.25,Default,,0,0,0,,{\be1}Idiotka!
+Dialogue: 0,0:04:11.65,0:04:15.77,Default (i),,0,0,0,,{\be1}Jesteś nimfomanką,\Ndlatego zostałaś masażystką.
+Dialogue: 0,0:04:16.53,0:04:18.17,Default,,0,0,0,,{\be1}Nie jestem zboczona.
+Dialogue: 0,0:04:24.61,0:04:26.16,Default,,0,0,0,,{\be1}Nałożę te.
+Dialogue: 0,0:04:28.05,0:04:29.80,Default,,0,0,0,,{\be1}Czas się ubrać.
+Dialogue: 0,0:04:35.71,0:04:38.25,Default,,0,0,0,,{\be1}No nie, jak ja wyglądam?
+Dialogue: 0,0:04:38.96,0:04:40.97,Default,,0,0,0,,{\be1}Czemu się podnieciłam?
+Dialogue: 0,0:04:40.97,0:04:42.50,Default,,0,0,0,,{\be1}Złe sutki.
+Dialogue: 0,0:04:47.16,0:04:48.69,Default,,0,0,0,,{\be1}Nie mogę przestać.
+Dialogue: 0,0:05:14.79,0:05:17.37,Default,,0,0,0,,{\be1}Prawdziwy anioł.
+Dialogue: 0,0:05:21.73,0:05:25.34,Default,,0,0,0,,{\be1}Coś ty zrobił z moimi warzywami?!
+Dialogue: 0,0:05:25.34,0:05:28.06,Default,,0,0,0,,{\be1}O nie, co ja wyprawiam?
+Dialogue: 0,0:05:28.06,0:05:30.56,Default,,0,0,0,,{\be1}Stoi mu!
+Dialogue: 0,0:05:30.56,0:05:32.14,Default,,0,0,0,,{\be1}Ale wielki!
+Dialogue: 0,0:05:32.14,0:05:33.56,Default,,0,0,0,,{\be1}Pewnie podglądał!
+Dialogue: 0,0:05:34.19,0:05:39.28,Default,,0,0,0,,{\be1}Podglądał mnie ktoś?\NNo nie, Lisa znowu będzie mi dokuczać.
+Dialogue: 0,0:05:50.29,0:05:55.83,Default (i),,0,0,0,,{\be1}Jak śmiał, idiota, nazwać mnie zboczeńcem?
+Dialogue: 0,0:05:55.83,0:05:58.38,Default (i),,0,0,0,,{\be1}Ciekawe dokąd jedzie.
+Dialogue: 0,0:06:17.95,0:06:21.27,Default (i),,0,0,0,,{\be1}Idzie na randkę?
+Dialogue: 0,0:06:22.33,0:06:28.23,Default (i),,0,0,0,,{\be1}Gdyby poszła ze mną\Nzabrałbym ją w fajne miejsce.
+Dialogue: 0,0:06:28.23,0:06:30.66,Default (i),,0,0,0,,{\be1}Po co tu przyszła?
+Dialogue: 0,0:06:31.37,0:06:33.48,Default (i),,0,0,0,,{\be1}Zgubiła się?
+Dialogue: 0,0:06:41.41,0:06:43.68,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:06:44.47,0:06:45.64,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:06:45.64,0:06:49.68,Default,,0,0,0,,{\be1}Moko, jeden z klientów był zachwycony tobą.
+Dialogue: 0,0:06:50.70,0:06:52.52,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:06:52.52,0:06:59.10,Default,,0,0,0,,{\be1}Powiedział, że twoje usługi są wyjątkowo\Nzboczone i tylko prawdziwa zboczucha tak potrafi.
+Dialogue: 0,0:06:59.10,0:07:00.94,Default,,0,0,0,,{\be1}Zboczucha?
+Dialogue: 0,0:07:00.94,0:07:05.95,Default,,0,0,0,,{\be1}O co tu chodzi?
+Dialogue: 0,0:07:05.95,0:07:09.04,Default,,0,0,0,,{\be1}Dzień dobry, panie Hirooka.\NDawno pana nie było.
+Dialogue: 0,0:07:09.04,0:07:10.95,Default,,0,0,0,,{\be1}Byłem zajęty.
+Dialogue: 0,0:07:17.30,0:07:19.50,Default,,0,0,0,,{\be1}Jesteś cudowna!
+Dialogue: 0,0:07:29.01,0:07:33.01,Default,,0,0,0,,{\be1}Jakby nie patrzeć, to jest\Nnapisane, że to salon masażu!
+Dialogue: 0,0:07:43.31,0:07:45.53,Default,,0,0,0,,{\be1}Już wiem!
+Dialogue: 0,0:07:46.67,0:07:49.03,Default,,0,0,0,,{\be1}Kiedy w końcu spłacicie dług?
+Dialogue: 0,0:07:49.03,0:07:53.68,Default,,0,0,0,,{\be1}Proszę poczekać jeszcze miesiąc.
+Dialogue: 0,0:07:53.68,0:07:54.75,Default,,0,0,0,,{\be1}Prosimy.
+Dialogue: 0,0:07:54.75,0:07:56.89,Default,,0,0,0,,{\be1}Macie mnie za durnia?!
+Dialogue: 0,0:07:56.89,0:08:00.04,Default,,0,0,0,,{\be1}Błagamy pana.
+Dialogue: 0,0:08:00.04,0:08:02.50,Default,,0,0,0,,{\be1}Proszę jeszcze poczekać.
+Dialogue: 0,0:08:03.09,0:08:05.70,Default,,0,0,0,,{\be1}Masz śliczną córkę.
+Dialogue: 0,0:08:05.70,0:08:08.26,Default,,0,0,0,,{\be1}Dobra, biorę ją za dług.
+Dialogue: 0,0:08:08.26,0:08:11.76,Default,,0,0,0,,{\be1}- Idziemy!\N- Tatuśku, pomóż!
+Dialogue: 0,0:08:12.07,0:08:15.27,Default,,0,0,0,,{\be1}Tak na pewno było!
+Dialogue: 0,0:08:15.27,0:08:20.31,Default,,0,0,0,,{\be1}Muszę uratować niewiastę w potrzebie!
+Dialogue: 0,0:08:20.70,0:08:25.32,Default,,0,0,0,,{\be1}Niech pan przestanie się\Ntak wpatrywać, wstydzę się.
+Dialogue: 0,0:08:26.32,0:08:28.82,Default,,0,0,0,,{\be1}Nie mogłem się powstrzymać.
+Dialogue: 0,0:08:28.82,0:08:31.69,Default,,0,0,0,,{\be1}Jest coś lepszego od patrzenia!
+Dialogue: 0,0:08:31.69,0:08:33.59,Default,,0,0,0,,{\be1}Niech pan nie patrzy!
+Dialogue: 0,0:09:29.45,0:09:30.91,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:09:30.91,0:09:32.53,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:09:38.99,0:09:44.81,Default,,0,0,0,,{\be1}Jesteś cudowna.\NBardzo seksowna i zboczona.
+Dialogue: 0,0:09:50.27,0:09:52.24,Default,,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:09:53.67,0:09:54.74,Default,,0,0,0,,{\be1}Zdawało mi się.
+Dialogue: 0,0:09:55.41,0:09:57.32,Default,,0,0,0,,{\be1}Może tędy?
+Dialogue: 0,0:09:59.38,0:10:01.25,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:10:01.86,0:10:03.75,Default (i),,0,0,0,,{\be1}To ona?
+Dialogue: 0,0:10:05.18,0:10:07.00,Default (i),,0,0,0,,{\be1}Jednak nie.
+Dialogue: 0,0:10:10.12,0:10:13.22,Default,,0,0,0,,{\be1}Rozumiem, Lisa tak powiedziała.
+Dialogue: 0,0:10:13.59,0:10:22.73,Default,,0,0,0,,{\be1}Zawsze wmawiam sobie, że lubię sprawiać\Nprzyjemność, ale może po prostu chcę seksu?
+Dialogue: 0,0:10:22.73,0:10:24.93,Default,,0,0,0,,{\be1}To brzmi niedorzecznie.
+Dialogue: 0,0:10:24.93,0:10:28.94,Default,,0,0,0,,{\be1}Nie ma nic złego w byciu zboczonym.
+Dialogue: 0,0:10:28.94,0:10:33.28,Default,,0,0,0,,{\be1}Wiesz czemu przyszedłem do tego salonu?
+Dialogue: 0,0:10:33.28,0:10:41.79,Default,,0,0,0,,{\be1}Jako przewodniczący komisji edukacyjnej\Nchciałem uchronić dziewczęta przed tym zawodem.
+Dialogue: 0,0:10:42.32,0:10:48.79,Default,,0,0,0,,{\be1}A przynajmniej dopóki nie poznałem ciebie.
+Dialogue: 0,0:10:49.19,0:10:52.80,Default,,0,0,0,,{\be1}A teraz jestem twoim klientem.
+Dialogue: 0,0:10:52.80,0:10:54.90,Default,,0,0,0,,{\be1}Wiesz czemu?
+Dialogue: 0,0:10:56.03,0:10:59.06,Default,,0,0,0,,{\be1}Bo lubisz seks.
+Dialogue: 0,0:10:59.44,0:11:06.71,Default,,0,0,0,,{\be1}Ucieszyłem się, że są dziewczyny,\Nktóre lubią seks i czerpią z niego korzyści.
+Dialogue: 0,0:11:06.71,0:11:10.27,Default,,0,0,0,,{\be1}Reszta twoich klientów pewnie myśli tak samo.
+Dialogue: 0,0:11:10.90,0:11:16.28,Default,,0,0,0,,{\be1}Przychodzą tu, bo wiedzą, że będziesz\Ncieszyć się seksem razem z nimi.
+Dialogue: 0,0:11:16.28,0:11:19.78,Default,,0,0,0,,{\be1}Byciem zboczonym nie złe, nie?
+Dialogue: 0,0:11:20.17,0:11:21.09,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:11:21.09,0:11:25.43,Default,,0,0,0,,{\be1}Skoro to uszczęśliwia klientów, to będę zboczona.
+Dialogue: 0,0:11:25.43,0:11:29.09,Default,,0,0,0,,{\be1}To wyglądało jakby pouczał mnie nauczyciel.
+Dialogue: 0,0:11:29.81,0:11:33.20,Default,,0,0,0,,{\be1}Wybacz, schorzenie zawodowe.
+Dialogue: 0,0:11:35.73,0:11:37.59,Default,,0,0,0,,{\be1}Dostaniesz sprawiedliwością po ryju!
+Dialogue: 0,0:11:41.08,0:11:42.43,Default,,0,0,0,,{\be1}Panie Hirooka!
+Dialogue: 0,0:11:42.85,0:11:44.43,Default (i),,0,0,0,,{\be1}Udało się.
+Dialogue: 0,0:11:44.98,0:11:48.49,Default,,0,0,0,,{\be1}Moja ukochana, przybyłem ci na ratunek.
+Dialogue: 0,0:11:48.49,0:11:50.15,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:11:50.15,0:11:52.63,Default,,0,0,0,,{\be1}Nie musisz nic mówić.
+Dialogue: 0,0:11:52.63,0:11:59.56,Default,,0,0,0,,{\be1}Wiem, że zmusili cię do pracy\Ntutaj przez długi ojca.
+Dialogue: 0,0:11:59.56,0:12:00.60,Default,,0,0,0,,{\be1}Jakie długi?
+Dialogue: 0,0:12:00.60,0:12:03.01,Default,,0,0,0,,{\be1}- Moko, co się dzieje?\N- Szefie!
+Dialogue: 0,0:12:03.01,0:12:04.45,Default,,0,0,0,,{\be1}Szef?
+Dialogue: 0,0:12:05.07,0:12:10.04,Default,,0,0,0,,{\be1}Więc to ty zmuszasz Motoko do tego!
+Dialogue: 0,0:12:10.25,0:12:12.54,Default,,0,0,0,,{\be1}Pieprzona pijawka!
+Dialogue: 0,0:12:13.71,0:12:14.84,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:12:14.84,0:12:18.34,Default,,0,0,0,,{\be1}- Już w porządku.\N- Co ma być w porządku?!
+Dialogue: 0,0:12:18.82,0:12:23.35,Default,,0,0,0,,{\be1}Pobiłeś mojego klienta i szefa!\NZa kogo się masz?!
+Dialogue: 0,0:12:23.85,0:12:28.35,Default,,0,0,0,,{\be1}Przybyłem wyciągnąć cię\Nz tego piekła, moja śliczna.
+Dialogue: 0,0:12:30.03,0:12:33.73,Default,,0,0,0,,{\be1}- Nie pomyliło ci się coś?\N- Niby co?
+Dialogue: 0,0:12:33.73,0:12:37.12,Default,,0,0,0,,{\be1}Pracuję tu, bo chcę tego.
+Dialogue: 0,0:12:37.12,0:12:38.47,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:38.47,0:12:41.28,Default,,0,0,0,,{\be1}- Lubię moją pracę.\N- Niemożliwe!
+Dialogue: 0,0:12:41.83,0:12:43.78,Default,,0,0,0,,{\be1}Uwielbiam ją.
+Dialogue: 0,0:12:44.55,0:12:45.79,Default,,0,0,0,,{\be1}Nie...
+Dialogue: 0,0:12:46.21,0:12:49.51,Default,,0,0,0,,{\be1}Jak każda dziewczyna lubię seks.
+Dialogue: 0,0:12:49.51,0:12:51.05,Default,,0,0,0,,{\be1}To nie może być prawda.
+Dialogue: 0,0:12:51.05,0:12:53.31,Default,,0,0,0,,{\be1}Co za głupek.
+Dialogue: 0,0:12:53.31,0:12:57.55,Default,,0,0,0,,{\be1}Chcesz się przekonać?\NPewnie masz wielką ochotę.
+Dialogue: 0,0:13:03.89,0:13:08.27,Default,,0,0,0,,{\be1}Wiedziałam. Chodź, obciągnę ci.
+Dialogue: 0,0:13:11.23,0:13:13.02,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:13:14.31,0:13:16.27,Default,,0,0,0,,{\be1}Uciekł?
+Dialogue: 0,0:13:16.27,0:13:20.15,Default,,0,0,0,,{\be1}Chyba nie lubi seksu, a przecież jest taki przyjemny.
+Dialogue: 0,0:13:33.96,0:13:38.20,Default,,0,0,0,,{\be1}Dzień dobry.\NDobrze znowu cię widzieć.
+Dialogue: 0,0:13:38.96,0:13:43.55,Default,,0,0,0,,{\be1}Dostaniesz nieziemską obsługę.
+Dialogue: 0,0:13:45.18,0:13:47.19,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:13:48.22,0:13:49.87,Default (i),,0,0,0,,{\be1}Najpierw obciąganie.
+Dialogue: 0,0:13:54.81,0:13:56.37,Default (i),,0,0,0,,{\be1}Potem mycie.
+Dialogue: 0,0:13:59.68,0:14:02.86,Default (i),,0,0,0,,{\be1}Po kąpieli pozycja 69.
+Dialogue: 0,0:14:07.86,0:14:09.79,Default (i),,0,0,0,,{\be1}Potem wylizanie.
+Dialogue: 0,0:14:28.61,0:14:31.92,Default (i),,0,0,0,,{\be1}Jestem Funaki Masahiro, student.
+Dialogue: 0,0:14:31.92,0:14:39.78,Default (i),,0,0,0,,{\be1}Do salonu masażu zacząłem\Nprzychodzi pół roku temu.
+Dialogue: 0,0:14:45.30,0:14:47.31,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:14:47.31,0:14:51.79,Default,,0,0,0,,{\be1}Cześć, to ja, Madoka. Obudziłam cię?
+Dialogue: 0,0:14:51.79,0:14:56.17,Default,,0,0,0,,{\be1}Jestem w Roppongi,\Nale nie mogę złapać taksówki.
+Dialogue: 0,0:14:57.34,0:15:00.80,Default,,0,0,0,,{\be1}Naprawdę przyjedziesz? Cieszę się!
+Dialogue: 0,0:15:02.85,0:15:04.69,Default,,0,0,0,,{\be1}No niech stracę.
+Dialogue: 0,0:15:11.81,0:15:13.85,Default,,0,0,0,,{\be1}Już pędzę, Madoka!
+Dialogue: 0,0:15:25.90,0:15:30.32,Default,,0,0,0,,{\be1}Wielkie dzięki.\NZadzwonię kiedy indziej.
+Dialogue: 0,0:15:34.41,0:15:37.38,Default,,0,0,0,,{\be1}Madoka, może pójdziemy jutro na randkę?
+Dialogue: 0,0:15:37.38,0:15:40.82,Default,,0,0,0,,{\be1}Przepraszam, ale mam już plany na jutro.
+Dialogue: 0,0:15:40.82,0:15:42.84,Default,,0,0,0,,{\be1}Dobranoc.
+Dialogue: 0,0:15:49.85,0:15:55.85,Default,,0,0,0,,{\be1}Cholera, robię jej za szofera.
+Dialogue: 0,0:16:06.66,0:16:08.17,Default,,0,0,0,,{\be1}Jesteś cała?!
+Dialogue: 0,0:16:09.20,0:16:10.41,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:16:10.41,0:16:13.35,Default,,0,0,0,,{\be1}Naprawdę? Zraniłaś się w nogę!
+Dialogue: 0,0:16:13.35,0:16:17.06,Default,,0,0,0,,{\be1}Pewnie przy upadku.
+Dialogue: 0,0:16:17.06,0:16:19.79,Default,,0,0,0,,{\be1}Na szczęście obejdzie się bez szpitala.
+Dialogue: 0,0:16:20.41,0:16:23.54,Default,,0,0,0,,{\be1}W takim razie pozwól, że cię podwiozę.
+Dialogue: 0,0:16:23.54,0:16:25.26,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:16:31.30,0:16:34.27,Default,,0,0,0,,{\be1}Dziękuję za podwiezienie.
+Dialogue: 0,0:16:34.27,0:16:37.27,Default,,0,0,0,,{\be1}To ja dziękuję za zaproszenie.
+Dialogue: 0,0:16:37.27,0:16:42.81,Default,,0,0,0,,{\be1}Niepotrzebnie, przecież\Nmuszę się jakoś zrewanżować.
+Dialogue: 0,0:16:42.81,0:16:44.07,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:16:44.98,0:16:48.03,Default (i),,0,0,0,,{\be1}Jest całkiem inna niż Madoka.
+Dialogue: 0,0:16:51.82,0:16:53.52,Default,,0,0,0,,{\be1}Śmiało.
+Dialogue: 0,0:16:54.10,0:16:55.09,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:17:00.65,0:17:03.30,Default,,0,0,0,,{\be1}Krew ci leci z nosa.
+Dialogue: 0,0:17:03.30,0:17:04.53,Default,,0,0,0,,{\be1}Trzymaj.
+Dialogue: 0,0:17:04.53,0:17:06.00,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:17:10.97,0:17:12.01,Default,,0,0,0,,{\be1}Co się stało?!
+Dialogue: 0,0:17:13.76,0:17:16.51,Default,,0,0,0,,{\be1}To trochę za wiele jak dla mnie.
+Dialogue: 0,0:17:17.58,0:17:18.52,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:17:18.52,0:17:21.12,Default,,0,0,0,,{\be1}Przepraszam, nie zauważyłam.
+Dialogue: 0,0:17:21.12,0:17:23.16,Default,,0,0,0,,{\be1}Nic nie szkodzi.
+Dialogue: 0,0:17:23.16,0:17:29.03,Default,,0,0,0,,{\be1}Wybacz, że pytam, ale chyba dawno\Nnie uprawiałeś seksy, prawda?
+Dialogue: 0,0:17:30.50,0:17:31.93,Default,,0,0,0,,{\be1}Co za wstyd.
+Dialogue: 0,0:17:31.93,0:17:33.22,Default,,0,0,0,,{\be1}A jednak!
+Dialogue: 0,0:17:34.20,0:17:39.74,Default,,0,0,0,,{\be1}Jak będziesz miał czas,\Nto wpadnij do salonu masażu, pracuję tam.
+Dialogue: 0,0:17:42.12,0:17:44.03,Default,,0,0,0,,{\be1}Gwarantuje zadowolenie.
+Dialogue: 0,0:17:53.80,0:17:55.49,Default,,0,0,0,,{\be1}Takagi przy telefonie.
+Dialogue: 0,0:17:55.49,0:17:56.65,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:17:56.65,0:17:58.59,Default,,0,0,0,,{\be1}A, to ty.
+Dialogue: 0,0:17:58.59,0:18:00.06,Default,,0,0,0,,{\be1}Kolacja?
+Dialogue: 0,0:18:00.06,0:18:04.70,Default,,0,0,0,,{\be1}Przepraszam, ale jestem zajęta,\Nmożesz zadzwonić kiedy indziej?
+Dialogue: 0,0:18:06.13,0:18:07.27,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:18:11.03,0:18:14.03,Default,,0,0,0,,{\be1}Jednak robię tylko za szofera.
+Dialogue: 0,0:18:15.81,0:18:18.53,Default (i),,0,0,0,,{\be1}I tak tu trafiłem.
+Dialogue: 0,0:18:19.32,0:18:25.38,Default,,0,0,0,,{\be1}Ciągle dzwoni, żebyś ją podwiózł,\Na nawet nie trzymaliście się nawet za ręce?
+Dialogue: 0,0:18:25.38,0:18:29.17,Default,,0,0,0,,{\be1}Ona jest okropna!
+Dialogue: 0,0:18:29.17,0:18:31.74,Default,,0,0,0,,{\be1}Nie przeszkadza mi to.
+Dialogue: 0,0:18:32.42,0:18:39.22,Default,,0,0,0,,{\be1}Myślałem, że kiedyś zrozumie,\Njeśli będę robić wszystko co zechce.
+Dialogue: 0,0:18:39.22,0:18:41.68,Default,,0,0,0,,{\be1}Funaki!
+Dialogue: 0,0:18:41.68,0:18:47.30,Default,,0,0,0,,{\be1}Robiłem sobie nadzieje, ale koniec z tym!
+Dialogue: 0,0:18:56.88,0:18:58.20,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:18:58.20,0:19:03.96,Default,,0,0,0,,{\be1}Funaki, to ja.\NNie mogę złapać taksówki.
+Dialogue: 0,0:19:03.96,0:19:06.96,Default,,0,0,0,,{\be1}Mógłbyś przyjechać po mnie?
+Dialogue: 0,0:19:08.49,0:19:13.14,Default,,0,0,0,,{\be1}Jaja sobie robisz?!\NNie wiesz która godzina, debilko?!
+Dialogue: 0,0:19:17.49,0:19:19.47,Default,,0,0,0,,{\be1}Debilko?!
+Dialogue: 0,0:19:19.47,0:19:24.79,Default,,0,0,0,,{\be1}Może byłem za ostry?\NNieważne, wystarczy mi Moko.
+Dialogue: 0,0:19:25.48,0:19:32.49,Default,,0,0,0,,{\be1}Jak taki kmiot śmiał?!\NPożałuje tego!
+Dialogue: 0,0:19:33.75,0:19:34.88,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:19:34.88,0:19:38.32,Default (i),,0,0,0,,{\be1}I tak zacząłem przychodzić do Moko.
+Dialogue: 0,0:19:38.32,0:19:41.24,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:19:41.24,0:19:44.16,Default,,0,0,0,,{\be1}Możesz przychodzić tak często?
+Dialogue: 0,0:19:44.16,0:19:45.03,Default,,0,0,0,,{\be1}Czemu pytasz?
+Dialogue: 0,0:19:45.03,0:19:48.50,Default,,0,0,0,,{\be1}Jesteś studentem, stać cię na to?
+Dialogue: 0,0:19:48.50,0:19:51.38,Default,,0,0,0,,{\be1}Spoko, sprzedałem samochód.
+Dialogue: 0,0:19:52.92,0:19:58.64,Default,,0,0,0,,{\be1}To nic, przynajmniej pozbyłem się Madoki!\NNie będę robił za darmową taksówkę.
+Dialogue: 0,0:19:59.80,0:20:01.22,Default,,0,0,0,,{\be1}No nie wierzę!
+Dialogue: 0,0:20:01.22,0:20:09.65,Default,,0,0,0,,{\be1}Rzucił taką ślicznotkę,\Nżeby chodzić do burdelu?!
+Dialogue: 0,0:20:10.42,0:20:13.69,Default (i),,0,0,0,,{\be1}Nie powinien robić sobie nadziei.
+Dialogue: 0,0:20:13.69,0:20:19.00,Default (i),,0,0,0,,{\be1}Jestem jego tylko na 40 minut.
+Dialogue: 0,0:20:19.00,0:20:21.83,Default (i),,0,0,0,,{\be1}Źle zrobił sprzedając samochód.
+Dialogue: 0,0:20:21.83,0:20:23.83,Default (i),,0,0,0,,{\be1}Teraz czuję się odpowiedzialna.
+Dialogue: 0,0:20:23.83,0:20:26.64,Default,,0,0,0,,{\be1}Ej, stój!
+Dialogue: 0,0:20:26.64,0:20:28.21,Default,,0,0,0,,{\be1}Tu jesteś!
+Dialogue: 0,0:20:28.21,0:20:29.97,Default,,0,0,0,,{\be1}Madoka!
+Dialogue: 0,0:20:29.97,0:20:32.87,Default,,0,0,0,,{\be1}Ty jesteś tą Madoką?
+Dialogue: 0,0:20:32.87,0:20:35.18,Default,,0,0,0,,{\be1}A żebyś wiedziała!
+Dialogue: 0,0:20:35.18,0:20:39.02,Default,,0,0,0,,{\be1}Jak śmiałaś zabrać mojego faceta, zdziro?!
+Dialogue: 0,0:20:39.02,0:20:41.93,Default,,0,0,0,,{\be1}Przecież i tak go tylko wykorzystywałaś!
+Dialogue: 0,0:20:42.76,0:20:47.36,Default,,0,0,0,,{\be1}No i co z tego?! To nadal mój facet!
+Dialogue: 0,0:20:47.36,0:20:52.98,Default,,0,0,0,,{\be1}Nie dam sobie pluć\Nw twarz i to jeszcze dziwce!
+Dialogue: 0,0:20:52.98,0:20:54.98,Default,,0,0,0,,{\be1}Duma mi nie pozwala!
+Dialogue: 0,0:20:56.23,0:21:01.99,Default,,0,0,0,,{\be1}Wyrwałaś go tylko na ciało,\Nale wiedz, że moje też jest świetne!
+Dialogue: 0,0:21:02.74,0:21:04.20,Default,,0,0,0,,{\be1}Odważna.
+Dialogue: 0,0:21:07.31,0:21:11.11,Default,,0,0,0,,{\be1}Gratuluję ciała.
+Dialogue: 0,0:21:11.11,0:21:12.86,Default,,0,0,0,,{\be1}- Key!\N- Ktoś ty?
+Dialogue: 0,0:21:12.86,0:21:17.84,Default,,0,0,0,,{\be1}Jedna z tutejszych dziwek\Ni słyszałam waszą rozmowę.
+Dialogue: 0,0:21:17.84,0:21:21.30,Default,,0,0,0,,{\be1}Moko wyrwała twojego chłopaka ciałem.
+Dialogue: 0,0:21:21.30,0:21:23.85,Default,,0,0,0,,{\be1}Nie chłopaka tylko faceta!
+Dialogue: 0,0:21:24.36,0:21:26.36,Default,,0,0,0,,{\be1}I tylko drugiego!
+Dialogue: 0,0:21:26.36,0:21:30.33,Default,,0,0,0,,{\be1}Nieważne, wyrwała, tak?
+Dialogue: 0,0:21:30.33,0:21:34.06,Default,,0,0,0,,{\be1}W takim razie odzyskaj go\Ntakim samym sposobem.
+Dialogue: 0,0:21:35.57,0:21:41.07,Default,,0,0,0,,{\be1}Zobaczymy, która z was jest lepsza w seksie.
+Dialogue: 0,0:21:43.21,0:21:46.14,Default,,0,0,0,,{\be1}- Dobra, wchodzę w to!\N- A ty Moko?
+Dialogue: 0,0:21:47.08,0:21:53.16,Default (i),,0,0,0,,{\be1}Radzę ci nie lekceważyć mnie,\Nja też mam sporo doświadczenia!
+Dialogue: 0,0:21:53.16,0:21:55.16,Default,,0,0,0,,{\be1}Ja pierwsza!
+Dialogue: 0,0:22:06.10,0:22:08.06,Default,,0,0,0,,{\be1}Zaczynamy.
+Dialogue: 0,0:22:11.12,0:22:13.17,Default,,0,0,0,,{\be1}Nieźle, nie?
+Dialogue: 0,0:22:14.10,0:22:20.13,Default,,0,0,0,,{\be1}Lepiej bądź wdzięczny,\Nże uprawiasz ze mną seks, kmiocie!
+Dialogue: 0,0:22:22.57,0:22:24.62,Default,,0,0,0,,{\be1}Jeszcze nie koniec!
+Dialogue: 0,0:22:33.58,0:22:35.16,Default,,0,0,0,,{\be1}Jeszcze!
+Dialogue: 0,0:22:35.16,0:22:39.63,Default,,0,0,0,,{\be1}Masz farta, że pieprzysz mnie!
+Dialogue: 0,0:22:45.51,0:22:48.01,Default,,0,0,0,,{\be1}Twoja kolej, profesjonalistko.
+Dialogue: 0,0:22:49.21,0:22:53.64,Default (i),,0,0,0,,{\be1}Doszedł 3 razy, tak łatwo jej nie pójdzie.
+Dialogue: 0,0:22:53.65,0:22:55.65,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:22:57.45,0:23:01.15,Default,,0,0,0,,{\be1}Nie mam sił.
+Dialogue: 0,0:23:01.79,0:23:03.89,Default,,0,0,0,,{\be1}Już wygrałam!
+Dialogue: 0,0:23:03.89,0:23:05.16,Default,,0,0,0,,{\be1}Jesteś pewna?
+Dialogue: 0,0:23:05.16,0:23:08.90,Default,,0,0,0,,{\be1}Wymęczyła cię, odpocznij trochę.
+Dialogue: 0,0:23:08.90,0:23:10.12,Default,,0,0,0,,{\be1}Sorki.
+Dialogue: 0,0:23:10.12,0:23:15.37,Default,,0,0,0,,{\be1}To nic, nie powinno się zmuszać do seksu.
+Dialogue: 0,0:23:15.37,0:23:16.73,Default,,0,0,0,,{\be1}Moko.
+Dialogue: 0,0:23:29.64,0:23:33.89,Default,,0,0,0,,{\be1}Znowu ci stoi, jesteś niesamowity.
+Dialogue: 0,0:23:34.89,0:23:36.40,Default,,0,0,0,,{\be1}Moko!
+Dialogue: 0,0:23:36.40,0:23:39.72,Default,,0,0,0,,{\be1}Jeśli ci odpowiadam to chodź.
+Dialogue: 0,0:23:42.93,0:23:45.09,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:23:47.56,0:23:49.77,Default,,0,0,0,,{\be1}W końcu się grzmocą.
+Dialogue: 0,0:23:49.77,0:23:52.16,Default,,0,0,0,,{\be1}Spójrz na jego wyraz twarzy.
+Dialogue: 0,0:23:52.68,0:23:56.15,Default,,0,0,0,,{\be1}Jest inny niż, gdy był z tobą.
+Dialogue: 0,0:23:56.15,0:23:58.17,Default,,0,0,0,,{\be1}No i co?
+Dialogue: 0,0:23:59.15,0:24:02.67,Default,,0,0,0,,{\be1}To nie wszystko.
+Dialogue: 0,0:24:02.99,0:24:05.15,Default,,0,0,0,,{\be1}On prowadzi i to w swoim tempie.
+Dialogue: 0,0:24:05.15,0:24:06.46,Default,,0,0,0,,{\be1}Ożeż to...
+Dialogue: 0,0:24:06.46,0:24:10.43,Default,,0,0,0,,{\be1}Jesteś egoistką, która\Nwykorzystuje seks jak narzędzie.
+Dialogue: 0,0:24:10.43,0:24:18.02,Default,,0,0,0,,{\be1}Ty nie sprawiasz przyjemności jak Moko,\Njesteś jak dmuchana lala.
+Dialogue: 0,0:24:18.02,0:24:20.19,Default,,0,0,0,,{\be1}Wypraszam sobie!
+Dialogue: 0,0:24:29.31,0:24:30.78,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:24:32.64,0:24:33.74,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:24:39.29,0:24:42.54,Default,,0,0,0,,{\be1}Uwielbiam cię, Moko!
+Dialogue: 0,0:24:42.54,0:24:45.59,Default,,0,0,0,,{\be1}Jak dla mnie Moko wygrała.
+Dialogue: 0,0:24:47.23,0:24:50.23,Default,,0,0,0,,{\be1}Przegrałam z byle dziwką?
+Dialogue: 0,0:24:50.23,0:24:51.51,Default,,0,0,0,,{\be1}Moko!
+Dialogue: 0,0:24:51.51,0:24:55.56,Default (i),,0,0,0,,{\be1}Muszę coś zrobić. Już wiem.
+Dialogue: 0,0:24:57.14,0:25:02.65,Default,,0,0,0,,{\be1}Jak mogłaś tak wykorzystywać\NFunakiego, nieczuła suko?!
+Dialogue: 0,0:25:02.65,0:25:04.23,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:25:04.23,0:25:06.45,Default,,0,0,0,,{\be1}No właśnie, wredna krowo!
+Dialogue: 0,0:25:06.45,0:25:07.99,Default,,0,0,0,,{\be1}Głupia cipa!
+Dialogue: 0,0:25:07.99,0:25:08.92,Default,,0,0,0,,{\be1}Śmieć!
+Dialogue: 0,0:25:08.92,0:25:11.17,Default,,0,0,0,,{\be1}Nie zasługujesz na Funakiego!
+Dialogue: 0,0:25:11.17,0:25:14.32,Default,,0,0,0,,{\be1}Nie zasługujesz na nikogo!\NKup sobie wibratora!
+Dialogue: 0,0:25:14.32,0:25:15.99,Default,,0,0,0,,{\be1}Lepiej od razu się powieś!
+Dialogue: 0,0:25:16.58,0:25:21.14,Default,,0,0,0,,{\be1}Przestańcie ją obrażać!
+Dialogue: 0,0:25:24.20,0:25:27.76,Default,,0,0,0,,{\be1}Wiem, że Madoka też potrafi być wrażliwa!
+Dialogue: 0,0:25:28.70,0:25:31.76,Default,,0,0,0,,{\be1}Dlaczego stajesz po mojej stronie?
+Dialogue: 0,0:25:31.76,0:25:34.72,Default,,0,0,0,,{\be1}Bo jestem twoim facetem.
+Dialogue: 0,0:25:37.46,0:25:38.64,Default,,0,0,0,,{\be1}Funaki!
+Dialogue: 0,0:25:39.10,0:25:40.12,Default,,0,0,0,,{\be1}Madoka!
+Dialogue: 0,0:25:40.12,0:25:41.38,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:25:41.38,0:25:44.25,Default,,0,0,0,,{\be1}Specjalnie ją obrażałaś.
+Dialogue: 0,0:25:44.25,0:25:49.65,Default,,0,0,0,,{\be1}Po takiej wiązance każdy\Nfacet stanąłby po jej stronie.
+Dialogue: 0,0:25:49.96,0:25:53.40,Default,,0,0,0,,{\be1}Najważniejsze, że wszystko się ułożyło.
+Dialogue: 0,0:25:53.40,0:25:56.70,Default (i),,0,0,0,,{\be1}Choć szkoda, że stracę klienta.
+Dialogue: 0,0:25:56.70,0:26:02.96,Default,,0,0,0,,{\be1}Ej, muszę przyznać, że masz niezłe ciało i talent,\Nmoże chcesz tu pracować? Dobrze płacę.
+Dialogue: 0,0:26:03.65,0:26:04.96,Default,,0,0,0,,{\be1}Serio?!
+Dialogue: 0,0:26:05.57,0:26:09.05,Default,,0,0,0,,{\be1}Madoka, chodź!
+Dialogue: 0,0:26:09.05,0:26:12.25,Default,,0,0,0,,{\be1}Szefie...
+Dialogue: 0,0:26:12.25,0:26:14.18,Default,,0,0,0,,{\be1}Moko!
+Dialogue: 0,0:26:14.18,0:26:15.67,Default,,0,0,0,,{\be1}I po ptokach.
+Dialogue: 0,0:26:22.96,0:26:24.19,Default,,0,0,0,,{\be1}Zobaczmy.
+Dialogue: 0,0:26:24.19,0:26:30.23,Default,,0,0,0,,{\be1}Moko jest było pielęgniarką,\Nma piękne oczy i duże piersi.
+Dialogue: 0,0:26:30.23,0:26:34.37,Default,,0,0,0,,{\be1}Zmieniła pracę aby zadowalać mężczyzn.
+Dialogue: 0,0:26:35.03,0:26:40.84,Default,,0,0,0,,{\be1}Każdy mężczyzna będzie zadowolony z jej usług.
+Dialogue: 0,0:26:40.84,0:26:47.40,Default,,0,0,0,,{\be1}Jej ulubiona pozycja to na misjonarza,\Na najwrażliwsza jest między nogami.
+Dialogue: 0,0:26:48.38,0:26:51.52,Default,,0,0,0,,{\be1}Nareszcie Moko jest w czasopiśmie.
+Dialogue: 0,0:26:51.52,0:26:55.26,Default,,0,0,0,,{\be1}Chcę, żeby była jak najpopularniejsza.
+Dialogue: 0,0:26:55.86,0:26:57.03,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:26:57.03,0:26:59.13,Default,,0,0,0,,{\be1}Cześć, podobna byłaś w jakimś czasopiśmie.
+Dialogue: 0,0:26:59.13,0:26:59.86,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:26:59.86,0:27:02.77,Default,,0,0,0,,{\be1}Będę samotny, jeśli staniesz się popularna.
+Dialogue: 0,0:27:03.73,0:27:07.77,Default,,0,0,0,,{\be1}Nie zmienię się niezależnie od sławy.
+Dialogue: 0,0:27:07.77,0:27:10.87,Default,,0,0,0,,{\be1}A nawet stanę się lepsza.
+Dialogue: 0,0:27:10.87,0:27:15.75,Default,,0,0,0,,{\be1}Dla mnie najważniejsze to zadowolić klienta.
+Dialogue: 0,0:27:33.10,0:27:34.17,Default,,0,0,0,,{\be1}Zapraszam.
+Dialogue: 0,0:27:34.60,0:27:35.88,Default,,0,0,0,,{\be1}Moko!
+Dialogue: 0,0:27:54.65,0:27:56.82,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:27:58.14,0:27:58.82,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:27:59.75,0:28:01.93,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:28:03.33,0:28:06.12,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:28:07.70,0:28:10.33,Default,,0,0,0,,{\be1}Próbowanie tylu pozycji naraz bywa męczące.
+Dialogue: 0,0:28:10.33,0:28:13.21,Default,,0,0,0,,{\be1}Moko, następny klient już czeka.
+Dialogue: 0,0:28:15.54,0:28:18.72,Default,,0,0,0,,{\be1}Przepraszam, że musiał pan czekać.
+Dialogue: 0,0:28:19.54,0:28:22.32,Default,,0,0,0,,{\be1}Czekałem prawie godzinę!
+Dialogue: 0,0:28:22.32,0:28:24.27,Default,,0,0,0,,{\be1}Najmocniej przepraszam.
+Dialogue: 0,0:28:24.58,0:28:29.31,Default,,0,0,0,,{\be1}Czytałem o tobie w tym magazynie\Ni specjalnie przyjechałem z miasta.
+Dialogue: 0,0:28:29.72,0:28:33.02,Default,,0,0,0,,{\be1}W ramach przeprosin zrobię coś specjalnego.
+Dialogue: 0,0:28:33.02,0:28:33.82,Default,,0,0,0,,{\be1}No ja myślę.
+Dialogue: 0,0:28:36.46,0:28:39.02,Default,,0,0,0,,{\be1}Księżycowy Królik, słucham?
+Dialogue: 0,0:28:39.66,0:28:41.03,Default,,0,0,0,,{\be1}Chce pan do Moko?
+Dialogue: 0,0:28:42.26,0:28:46.30,Default,,0,0,0,,{\be1}Jest zajęta aż do 20:00.
+Dialogue: 0,0:28:46.30,0:28:48.04,Default,,0,0,0,,{\be1}Czy może być później?
+Dialogue: 0,0:28:48.54,0:28:50.04,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:28:50.51,0:28:53.01,Default,,0,0,0,,{\be1}Kolejny klient do Moko?
+Dialogue: 0,0:28:53.01,0:28:53.91,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:28:53.91,0:28:56.35,Default,,0,0,0,,{\be1}Magazyn robi swoje.
+Dialogue: 0,0:28:56.35,0:28:58.30,Default,,0,0,0,,{\be1}Dokładnie.
+Dialogue: 0,0:29:08.35,0:29:10.56,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:29:11.71,0:29:13.57,Default,,0,0,0,,{\be1}Nareszcie.
+Dialogue: 0,0:29:13.90,0:29:16.00,Default,,0,0,0,,{\be1}Dobra robota.
+Dialogue: 0,0:29:18.57,0:29:20.17,Default,,0,0,0,,{\be1}Poczekalnia.
+Dialogue: 0,0:29:20.17,0:29:23.12,Default,,0,0,0,,{\be1}Co ty wyprawiasz?! Klient już czeka!
+Dialogue: 0,0:29:24.11,0:29:25.62,Default,,0,0,0,,{\be1}Lecę!
+Dialogue: 0,0:29:25.62,0:29:27.62,Default,,0,0,0,,{\be1}Pa.
+Dialogue: 0,0:29:40.62,0:29:42.68,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:29:57.54,0:29:59.74,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:30:10.63,0:30:14.73,Default,,0,0,0,,{\be1}Dziękuję...
+Dialogue: 0,0:30:16.16,0:30:18.70,Default,,0,0,0,,{\be1}Moko, wszystko w porządku?
+Dialogue: 0,0:30:20.36,0:30:22.63,Default,,0,0,0,,{\be1}Ta, jasne.
+Dialogue: 0,0:30:22.63,0:30:24.72,Default,,0,0,0,,{\be1}Nie wygląda na to.
+Dialogue: 0,0:30:25.27,0:30:29.67,Default,,0,0,0,,{\be1}Nie miałaś dzisiaj żadnej przerwy.
+Dialogue: 0,0:30:29.67,0:30:31.77,Default,,0,0,0,,{\be1}Może lepiej skończ na dzisiaj?
+Dialogue: 0,0:30:32.47,0:30:36.95,Default,,0,0,0,,{\be1}Nie mogę, mam następnego klienta.
+Dialogue: 0,0:30:36.95,0:30:40.78,Default,,0,0,0,,{\be1}Nie mogę skończyć, dopóki mam klientów.
+Dialogue: 0,0:30:41.38,0:30:43.53,Default,,0,0,0,,{\be1}Moko, klient.
+Dialogue: 0,0:30:45.58,0:30:46.92,Default,,0,0,0,,{\be1}Idę.
+Dialogue: 0,0:30:46.92,0:30:48.79,Default,,0,0,0,,{\be1}- Dobrze się czujesz?\N- Tylko się nie przepracuj.
+Dialogue: 0,0:30:50.77,0:30:53.59,Default,,0,0,0,,{\be1}Wszystko w porządku?\NLedwo stoisz na nogach.
+Dialogue: 0,0:30:53.59,0:30:55.33,Default,,0,0,0,,{\be1}Tak, jest dobrze.
+Dialogue: 0,0:30:55.33,0:30:56.86,Default,,0,0,0,,{\be1}Nie jesteś zmęczona?
+Dialogue: 0,0:30:56.86,0:30:58.29,Default,,0,0,0,,{\be1}Nie, dam radę.
+Dialogue: 0,0:30:59.10,0:31:04.80,Default (i),,0,0,0,,{\be1}Co się ze mną dzieje?\NLepiej zacznę się ruszać, to otrzeźwieję.
+Dialogue: 0,0:31:10.47,0:31:11.73,Default,,0,0,0,,{\be1}Wszystko w porządku?!
+Dialogue: 0,0:31:17.48,0:31:20.07,Default,,0,0,0,,{\be1}Moko!
+Dialogue: 0,0:31:21.32,0:31:22.76,Default,,0,0,0,,{\be1}Jak się czujesz?
+Dialogue: 0,0:31:22.76,0:31:23.93,Default,,0,0,0,,{\be1}Gdzie jestem?
+Dialogue: 0,0:31:23.93,0:31:25.41,Default,,0,0,0,,{\be1}W poczekalni.
+Dialogue: 0,0:31:26.46,0:31:27.49,Default,,0,0,0,,{\be1}Co z klientem?!
+Dialogue: 0,0:31:28.04,0:31:31.16,Default,,0,0,0,,{\be1}Poprosiłem, żeby przełożył wizytę.
+Dialogue: 0,0:31:31.16,0:31:32.48,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:31:32.48,0:31:34.90,Default,,0,0,0,,{\be1}Ale z ciebie niezdara.
+Dialogue: 0,0:31:34.90,0:31:39.48,Default,,0,0,0,,{\be1}To było do przewidzenia.\NChodźmy do domu i tak już późno.
+Dialogue: 0,0:31:39.48,0:31:42.67,Default,,0,0,0,,{\be1}Moko, podwiozę cię,\Ndzisiaj jestem samochodem.
+Dialogue: 0,0:31:43.45,0:31:46.18,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:31:52.83,0:31:55.59,Default,,0,0,0,,{\be1}Jesteś strasznie uparta.
+Dialogue: 0,0:31:56.22,0:31:58.65,Default,,0,0,0,,{\be1}Dlaczego zmuszałaś się aż nie zemdlałaś?
+Dialogue: 0,0:31:59.29,0:32:06.23,Default,,0,0,0,,{\be1}No bo muszę się starać,\Nw końcu zapłacili za moje usługi.
+Dialogue: 0,0:32:06.23,0:32:08.44,Default,,0,0,0,,{\be1}Trzeba znać umiar.
+Dialogue: 0,0:32:08.44,0:32:14.28,Default,,0,0,0,,{\be1}Gdy masz tak dużo klientów\Nmusisz się bardziej oszczędzać.
+Dialogue: 0,0:32:14.28,0:32:16.41,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:32:16.41,0:32:22.21,Default,,0,0,0,,{\be1}Stałaś się popularna, musisz\Nodpowiednio dzielić siły na wszystkich.
+Dialogue: 0,0:32:22.58,0:32:25.22,Default,,0,0,0,,{\be1}Nie wiem jak.
+Dialogue: 0,0:32:25.22,0:32:30.96,Default,,0,0,0,,{\be1}Reszta dziewczyn będzie mieć\Ntrudniej, jeśli ty będziesz mdleć.
+Dialogue: 0,0:32:30.96,0:32:37.33,Default,,0,0,0,,{\be1}Nie żal ci klientów, którzy przychodzą specjalnie\Ndo ciebie, a ty nie możesz się nimi zająć?
+Dialogue: 0,0:32:37.33,0:32:43.23,Default,,0,0,0,,{\be1}Masz rację, ale nie wiem jak to zrobić.
+Dialogue: 0,0:32:43.77,0:32:46.54,Default,,0,0,0,,{\be1}Dam ci małą podpowiedź.
+Dialogue: 0,0:32:56.45,0:32:58.67,Default,,0,0,0,,{\be1}Dzień dobry, jestem Moko.
+Dialogue: 0,0:32:59.02,0:33:00.72,Default,,0,0,0,,{\be1}Miło mi.
+Dialogue: 0,0:33:01.35,0:33:03.17,Default,,0,0,0,,{\be1}Jesteś ładniejsza niż na zdjęciu!
+Dialogue: 0,0:33:03.80,0:33:10.18,Default,,0,0,0,,{\be1}Proszę pana, jestem tu nowa\Ni wiem za bardzo co robić.
+Dialogue: 0,0:33:10.53,0:33:13.68,Default,,0,0,0,,{\be1}Najlepiej mów,\Nże jesteś nowa i niewiele potrafisz.
+Dialogue: 0,0:33:13.68,0:33:18.96,Default,,0,0,0,,{\be1}Klienci wolą niezbyt obeznane,\Njeszcze nie wyuczone dziewczyny.
+Dialogue: 0,0:33:20.28,0:33:21.69,Default,,0,0,0,,{\be1}Nie wiesz?
+Dialogue: 0,0:33:24.13,0:33:27.78,Default,,0,0,0,,{\be1}Rozumiem, nauczę cię wszystkiego co trzeba.
+Dialogue: 0,0:33:27.78,0:33:32.20,Default,,0,0,0,,{\be1}- Tak naprawdę to wolę niedoświadczone.\N- Cieszę się.
+Dialogue: 0,0:33:32.89,0:33:35.20,Default (i),,0,0,0,,{\be1}Key miała rację.
+Dialogue: 0,0:33:41.80,0:33:46.13,Default,,0,0,0,,{\be1}Jeszcze nie umiem myć na leżąco i siedząco.
+Dialogue: 0,0:33:46.13,0:33:49.94,Default,,0,0,0,,{\be1}To nic i tak nie ma z tego pożytku.
+Dialogue: 0,0:33:51.22,0:33:52.28,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:33:52.28,0:33:53.70,Default (i),,0,0,0,,{\be1}Niezły sposób.
+Dialogue: 0,0:33:54.29,0:33:57.72,Default,,0,0,0,,{\be1}Nauczę cię jak powinien wyglądać seks.
+Dialogue: 0,0:33:58.29,0:34:00.73,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:34:05.49,0:34:09.12,Default (i),,0,0,0,,{\be1}Pozwól klientowi robić co chce.
+Dialogue: 0,0:34:10.66,0:34:11.78,Default,,0,0,0,,{\be1}Wkładam.
+Dialogue: 0,0:34:12.39,0:34:13.32,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:34:33.15,0:34:35.68,Default,,0,0,0,,{\be1}- Dziękuję!\N- Jeszcze tu przyjdę.
+Dialogue: 0,0:34:36.79,0:34:38.99,Default (i),,0,0,0,,{\be1}Prościzna.
+Dialogue: 0,0:34:38.99,0:34:43.65,Default (i),,0,0,0,,{\be1}Prościzna, ale czegoś mi brakuje.
+Dialogue: 0,0:34:44.01,0:34:46.65,Default,,0,0,0,,{\be1}Pokażę ci jak umyć.
+Dialogue: 0,0:34:48.46,0:34:51.81,Default,,0,0,0,,{\be1}Tutaj trzeba myć delikatnie.
+Dialogue: 0,0:34:53.07,0:34:56.44,Default,,0,0,0,,{\be1}Na leżąco myjesz tak.
+Dialogue: 0,0:34:59.44,0:35:01.41,Default (i),,0,0,0,,{\be1}Coś jest nie tak.
+Dialogue: 0,0:35:03.31,0:35:05.13,Default,,0,0,0,,{\be1}Przyjdę kiedyś znowu.
+Dialogue: 0,0:35:05.58,0:35:10.71,Default (i),,0,0,0,,{\be1}Klientom się podoba, ale mi coś nie pasuje.
+Dialogue: 0,0:35:14.79,0:35:16.85,Default,,0,0,0,,{\be1}To tu.
+Dialogue: 0,0:35:20.06,0:35:24.60,Default,,0,0,0,,{\be1}{\i1}- No nie wiem, klientom się podoba.{\i0}\N- Młoda damo.
+Dialogue: 0,0:35:25.03,0:35:29.61,Default,,0,0,0,,{\be1}- Jak możesz ignorować klienta?\N- Przepraszam.
+Dialogue: 0,0:35:30.07,0:35:32.77,Default,,0,0,0,,{\be1}Jestem Kawakami.
+Dialogue: 0,0:35:32.77,0:35:37.12,Default,,0,0,0,,{\be1}Słyszałem wiele dobrego o tobie\Ni chciałem cię sprawdzić.
+Dialogue: 0,0:35:37.12,0:35:41.55,Default,,0,0,0,,{\be1}Przyjechałem aż z Kawaski,\Nliczę na dobrą obsługę.
+Dialogue: 0,0:35:41.55,0:35:44.05,Default,,0,0,0,,{\be1}Dziękuję za przybycie.
+Dialogue: 0,0:35:44.05,0:35:46.57,Default,,0,0,0,,{\be1}Zaczynajmy.
+Dialogue: 0,0:35:46.57,0:35:47.37,Default,,0,0,0,,{\be1}Proszę pana.
+Dialogue: 0,0:35:47.69,0:35:50.42,Default,,0,0,0,,{\be1}Co? Niczego nie potrafisz?
+Dialogue: 0,0:35:50.42,0:35:55.09,Default,,0,0,0,,{\be1}Tak, przepraszam.\NMógłby mi pan powiedzieć, co mam robić?
+Dialogue: 0,0:36:05.02,0:36:09.15,Default,,0,0,0,,{\be1}Masz, do widzenia.
+Dialogue: 0,0:36:09.68,0:36:13.48,Default,,0,0,0,,{\be1}Hirooka chyba ogłupiał skoro cię polecił.
+Dialogue: 0,0:36:13.48,0:36:16.08,Default,,0,0,0,,{\be1}To panowie się znają?
+Dialogue: 0,0:36:16.08,0:36:19.36,Default,,0,0,0,,{\be1}Tak, od niego słyszałem o tobie.
+Dialogue: 0,0:36:20.62,0:36:29.38,Default,,0,0,0,,{\be1}Mówił, że jesteś bardzo miłą, oddaną pracy\Ni najlepszą masażystką jaką spotkał.
+Dialogue: 0,0:36:29.93,0:36:33.38,Default,,0,0,0,,{\be1}Ale jednak się pomylił, żegnam.
+Dialogue: 0,0:36:34.80,0:36:39.38,Default (i),,0,0,0,,{\be1}Już wiem czego mi brakowało!
+Dialogue: 0,0:36:39.38,0:36:43.89,Default,,0,0,0,,{\be1}Przepraszam! Kłamałam!
+Dialogue: 0,0:36:47.55,0:36:49.75,Default (i),,0,0,0,,{\be1}Jak tak nie pracuję.
+Dialogue: 0,0:36:49.75,0:36:55.36,Default (i),,0,0,0,,{\be1}Najlepiej mi wychodzi zadowalania\Nklientów najlepiej jak potrafię.
+Dialogue: 0,0:36:57.76,0:37:04.38,Default (i),,0,0,0,,{\be1}Lubię też patrzeć na zadowolonych\Nz mojej pracy klientów.
+Dialogue: 0,0:37:13.21,0:37:14.80,Default (i),,0,0,0,,{\be1}Koniec z tym!
+Dialogue: 0,0:37:27.66,0:37:29.34,Default (i),,0,0,0,,{\be1}Nie będę tak robić!
+Dialogue: 0,0:37:31.56,0:37:35.42,Default,,0,0,0,,{\be1}Chodźmy tym razem na łóżko.
+Dialogue: 0,0:37:36.40,0:37:40.87,Default,,0,0,0,,{\be1}Więcej nie dam rady!\NJestem za stary!
+Dialogue: 0,0:37:40.87,0:37:44.41,Default,,0,0,0,,{\be1}Nieprawdę, da pan radę.
+Dialogue: 0,0:37:49.41,0:37:51.55,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:37:54.25,0:37:58.63,Default,,0,0,0,,{\be1}I dlatego nie będę się więcej obijać.\NMasz coś przeciwko, Key?
+Dialogue: 0,0:37:59.09,0:38:05.43,Default,,0,0,0,,{\be1}No co ty, po prostu martwię się o twoje zdrowie.
+Dialogue: 0,0:38:05.86,0:38:07.14,Default,,0,0,0,,{\be1}Nie musisz.
+Dialogue: 0,0:38:09.86,0:38:13.15,Default,,0,0,0,,{\be1}Wystarczy, że zacznę ćwiczyć.
+Dialogue: 0,0:38:13.67,0:38:16.04,Default,,0,0,0,,{\be1}A rób sobie jak chcesz.
+Dialogue: 0,0:38:23.11,0:38:25.75,Default,,0,0,0,,{\be1}Jak się podobała Moko?
+Dialogue: 0,0:38:25.75,0:38:29.16,Default,,0,0,0,,{\be1}Miałeś rację, jest niesamowita.
+Dialogue: 0,0:38:29.83,0:38:32.17,Default,,0,0,0,,{\be1}I miła, nie?
+Dialogue: 0,0:38:35.89,0:38:39.03,Default,,0,0,0,,{\be1}Będę się starać jeszcze bardziej!

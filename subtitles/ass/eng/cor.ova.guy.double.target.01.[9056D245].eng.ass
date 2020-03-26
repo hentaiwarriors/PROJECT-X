@@ -1,0 +1,428 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.60,0:00:09.47,Default,,0000,0000,0000,,UCHU PLANNING
+Dialogue: 0,0:00:22.35,0:00:27.38,Default,,0000,0000,0000,,Producer Shin Maruyama
+Dialogue: 0,0:00:27.92,0:00:30.89,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:31.13,0:00:36.15,Default,,0000,0000,0000,,Character Designs &\NArt Direction Yorihisa Uchida
+Dialogue: 0,0:00:39.93,0:00:43.96,Default,,0000,0000,0000,,Music Nobuhiko Kashihara
+Dialogue: 0,0:00:47.04,0:00:51.31,Default,,0000,0000,0000,,Original Story &\NDirection Yorihisa Uchida
+Dialogue: 0,0:00:53.95,0:00:57.35,Default,,0000,0000,0000,,Should we be looting an\Nabandoned ship like this, Guy?
+Dialogue: 0,0:00:57.35,0:01:00.39,Default,,0000,0000,0000,,A buck's a buck. Don't get your panties in a wad.
+Dialogue: 0,0:01:00.39,0:01:01.96,Default,,0000,0000,0000,,You're still pissed at me, aren't you?
+Dialogue: 0,0:01:01.96,0:01:03.96,Default,,0000,0000,0000,,If you hadn't been fucking around\Non that last deal,
+Dialogue: 0,0:01:03.96,0:01:05.55,Default,,0000,0000,0000,,we'd have been rich by now.
+Dialogue: 0,0:01:16.64,0:01:18.84,Default,,0000,0000,0000,,Doesn't this strike you as a little odd?
+Dialogue: 0,0:01:18.84,0:01:20.44,Default,,0000,0000,0000,,There's no damage.
+Dialogue: 0,0:01:20.44,0:01:23.28,Default,,0000,0000,0000,,Maybe we'll find the answers on the bridge.
+Dialogue: 0,0:01:25.58,0:01:27.75,Default,,0000,0000,0000,,
+Dialogue: 0,0:01:27.75,0:01:30.05,Default,,0000,0000,0000,,Is this a space ship or a haunted house?
+Dialogue: 0,0:01:30.89,0:01:32.95,Default,,0000,0000,0000,,Guy, let's get out of here.
+Dialogue: 0,0:01:32.95,0:01:35.26,Default,,0000,0000,0000,,This whole thing rubs me the wrong way!
+Dialogue: 0,0:01:35.26,0:01:38.19,Default,,0000,0000,0000,,The only thing that doesn't is your vibrator.
+Dialogue: 0,0:01:38.19,0:01:41.16,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:01.08,0:02:03.05,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:04.25,0:02:05.45,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:02:05.89,0:02:07.01,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:02:08.49,0:02:09.66,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:02:09.66,0:02:12.63,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:27.78,0:02:29.50,Default,,0000,0000,0000,,Who are you trying to kill?!
+Dialogue: 0,0:02:30.88,0:02:33.85,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:38.92,0:02:40.22,Default,,0000,0000,0000,,Fuck off!
+Dialogue: 0,0:02:45.99,0:02:47.96,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:50.33,0:02:52.39,Default,,0000,0000,0000,,Please, help me...
+Dialogue: 0,0:02:52.67,0:02:54.13,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:57.61,0:02:59.07,Default,,0000,0000,0000,,Here...
+Dialogue: 0,0:03:01.18,0:03:02.44,Default,,0000,0000,0000,,Take this...
+Dialogue: 0,0:03:02.44,0:03:04.25,Default,,0000,0000,0000,,...Doctor Vail...
+Dialogue: 0,0:03:04.25,0:03:06.54,Default,,0000,0000,0000,,...prison planet, Geo...
+Dialogue: 0,0:03:11.32,0:03:13.55,Default,,0000,0000,0000,,That was really gross!
+Dialogue: 0,0:03:15.76,0:03:17.99,Default,,0000,0000,0000,,Prison Planet Geo, huh?
+Dialogue: 0,0:03:18.86,0:03:21.02,Default,,0000,0000,0000,,Now, that's what I call interesting.
+Dialogue: 0,0:03:21.30,0:03:27.83,Default,,0000,0000,0000,,GUY
+Dialogue: 0,0:03:30.87,0:03:34.90,Default,,0000,0000,0000,,PLANET GEO
+Dialogue: 0,0:04:01.87,0:04:04.84,Default,,0000,0000,0000,,
+Dialogue: 0,0:05:28.79,0:05:30.99,Default,,0000,0000,0000,,Would you like more, my love?
+Dialogue: 0,0:05:33.46,0:05:35.43,Default,,0000,0000,0000,,Oh yes...
+Dialogue: 0,0:05:36.06,0:05:39.16,Default,,0000,0000,0000,,Let me have it now, ah...
+Dialogue: 0,0:05:40.80,0:05:43.77,Default,,0000,0000,0000,,It's true, you've served me well.
+Dialogue: 0,0:05:43.97,0:05:46.94,Default,,0000,0000,0000,,Zena, attend to her!
+Dialogue: 0,0:05:52.45,0:05:55.25,Default,,0000,0000,0000,,Just relax...
+Dialogue: 0,0:05:57.39,0:06:04.49,Default,,0000,0000,0000,,
+Dialogue: 0,0:06:04.49,0:06:05.49,Default,,0000,0000,0000,,Again...
+Dialogue: 0,0:06:05.49,0:06:06.49,Default,,0000,0000,0000,,Do you like it?
+Dialogue: 0,0:06:06.49,0:06:07.79,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:06:18.51,0:06:21.48,Default,,0000,0000,0000,,
+Dialogue: 0,0:06:42.36,0:06:46.30,Default,,0000,0000,0000,,Madame Heel, you have my most\Neloquent thanks for your continued patronage,
+Dialogue: 0,0:06:46.30,0:06:49.00,Default,,0000,0000,0000,,and you are more beautiful\Nthan I even expected,
+Dialogue: 0,0:06:49.00,0:06:52.14,Default,,0000,0000,0000,,but don't you think you're pushing the\Nboundaries of professional ethics.
+Dialogue: 0,0:06:52.14,0:06:57.08,Default,,0000,0000,0000,,I mean, doing this kind of business and serving\Nas the warden of the prison planet, is well...
+Dialogue: 0,0:06:57.08,0:06:59.51,Default,,0000,0000,0000,,Is none of your damn business!
+Dialogue: 0,0:07:00.38,0:07:04.42,Default,,0000,0000,0000,,But seeing the quality of this shipment,\NI may forgive you.
+Dialogue: 0,0:07:04.42,0:07:07.96,Default,,0000,0000,0000,,These are much too good for prison scum.
+Dialogue: 0,0:07:07.96,0:07:09.92,Default,,0000,0000,0000,,
+Dialogue: 0,0:07:21.77,0:07:23.40,Default,,0000,0000,0000,,Listen up, slaves!
+Dialogue: 0,0:07:23.40,0:07:26.84,Default,,0000,0000,0000,,No matter who or what you were before,\Nyou are now just property.
+Dialogue: 0,0:07:26.84,0:07:28.54,Default,,0000,0000,0000,,My personal property.
+Dialogue: 0,0:07:28.54,0:07:30.55,Default,,0000,0000,0000,,Let me impress upon you how important it is
+Dialogue: 0,0:07:30.55,0:07:34.38,Default,,0000,0000,0000,,for you to ensure my purchase\Nwas a wise investment.
+Dialogue: 0,0:07:35.12,0:07:38.75,Default,,0000,0000,0000,,Should you fail, know that l\Nam Helga Hildius Heel,
+Dialogue: 0,0:07:38.75,0:07:40.89,Default,,0000,0000,0000,,Warden of Prison Planet Geo.
+Dialogue: 0,0:07:40.89,0:07:42.62,Default,,0000,0000,0000,,My word is law.
+Dialogue: 0,0:07:46.63,0:07:48.25,Default,,0000,0000,0000,,Get your ass inside!
+Dialogue: 0,0:07:49.93,0:07:52.70,Default,,0000,0000,0000,,Hey, wait a second!
+Dialogue: 0,0:07:52.83,0:07:55.63,Default,,0000,0000,0000,,I said, wait, god dammit!
+Dialogue: 0,0:07:56.14,0:07:59.11,Default,,0000,0000,0000,,Open this fucking door!
+Dialogue: 0,0:08:03.48,0:08:06.45,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:12.82,0:08:15.72,Default,,0000,0000,0000,,Well, well, look what the guards dragged in.
+Dialogue: 0,0:08:15.72,0:08:17.21,Default,,0000,0000,0000,,Hi...
+Dialogue: 0,0:08:17.86,0:08:21.00,Default,,0000,0000,0000,,You're awful cute for a boy.
+Dialogue: 0,0:08:21.00,0:08:24.40,Default,,0000,0000,0000,,I think we're gonna be good friends.
+Dialogue: 0,0:08:24.40,0:08:26.73,Default,,0000,0000,0000,,Be nice and I won't hurt you too badly.
+Dialogue: 0,0:08:26.73,0:08:29.90,Default,,0000,0000,0000,,No thanks, I'm not into bestiality.
+Dialogue: 0,0:08:30.64,0:08:32.67,Default,,0000,0000,0000,,Don't get cocky with me, boy.
+Dialogue: 0,0:08:32.67,0:08:35.80,Default,,0000,0000,0000,,You'll be begging for it by the\Ntime I'm through with you.
+Dialogue: 0,0:08:35.98,0:08:37.95,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:38.65,0:08:41.45,Default,,0000,0000,0000,,Stop it, you undersexed warthog!
+Dialogue: 0,0:08:41.45,0:08:43.38,Default,,0000,0000,0000,,Keep your filthy paws off me!
+Dialogue: 0,0:08:43.38,0:08:45.35,Default,,0000,0000,0000,,Just relax and enjoy it.
+Dialogue: 0,0:08:45.55,0:08:47.52,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:47.82,0:08:51.26,Default,,0000,0000,0000,,Aw, dammit! Can't you understand\Nwhen someone means no?
+Dialogue: 0,0:08:52.36,0:08:55.30,Default,,0000,0000,0000,,You'll be feeling fine in just a second.
+Dialogue: 0,0:08:57.20,0:09:01.10,Default,,0000,0000,0000,,Oh, ho! What's this? Somebody's got a secret.
+Dialogue: 0,0:09:01.10,0:09:02.90,Default,,0000,0000,0000,,I like surprises.
+Dialogue: 0,0:09:02.90,0:09:04.37,Default,,0000,0000,0000,,Damn you!
+Dialogue: 0,0:09:05.27,0:09:06.31,Default,,0000,0000,0000,,
+Dialogue: 0,0:09:06.31,0:09:07.43,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:09:08.81,0:09:12.08,Default,,0000,0000,0000,,Party's over, fat boy.\NYour affections aren't returned.
+Dialogue: 0,0:09:12.08,0:09:13.08,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:09:13.08,0:09:14.08,Default,,0000,0000,0000,,What's up, Doc?
+Dialogue: 0,0:09:14.08,0:09:15.08,Default,,0000,0000,0000,,Oh, nothing!
+Dialogue: 0,0:09:15.08,0:09:16.12,Default,,0000,0000,0000,,
+Dialogue: 0,0:09:16.12,0:09:17.24,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:09:18.15,0:09:21.02,Default,,0000,0000,0000,,You gotta have more guts than\Nbrains to fuck with me.
+Dialogue: 0,0:09:21.02,0:09:22.82,Default,,0000,0000,0000,,Bad move, fat boy.
+Dialogue: 0,0:09:22.82,0:09:24.45,Default,,0000,0000,0000,,Wha? What?!
+Dialogue: 0,0:09:29.36,0:09:32.63,Default,,0000,0000,0000,,Sonuva... Your ass in mine!
+Dialogue: 0,0:09:42.01,0:09:44.60,Default,,0000,0000,0000,,Any other predictions, fat boy?
+Dialogue: 0,0:09:45.88,0:09:47.85,Default,,0000,0000,0000,,
+Dialogue: 0,0:09:54.86,0:09:56.32,Default,,0000,0000,0000,,Serves him right.
+Dialogue: 0,0:09:58.53,0:10:00.19,Default,,0000,0000,0000,,So, what have you learned?
+Dialogue: 0,0:10:00.19,0:10:02.53,Default,,0000,0000,0000,,The scale of this operation is mind-boggling.
+Dialogue: 0,0:10:02.53,0:10:06.50,Default,,0000,0000,0000,,They're using these prisoners as slave labor.\NIllegally, of course.
+Dialogue: 0,0:10:06.50,0:10:09.47,Default,,0000,0000,0000,,To manufacture equally illegal youth drugs.
+Dialogue: 0,0:10:09.47,0:10:10.87,Default,,0000,0000,0000,,That's the way I've got it figured.
+Dialogue: 0,0:10:12.31,0:10:14.78,Default,,0000,0000,0000,,The monster we found was Allen Hase.
+Dialogue: 0,0:10:14.78,0:10:19.05,Default,,0000,0000,0000,,He was working here all right, with\Nsome guy named Doctor Vail.
+Dialogue: 0,0:10:19.05,0:10:21.08,Default,,0000,0000,0000,,And that card?\NAnything on it?
+Dialogue: 0,0:10:21.08,0:10:23.88,Default,,0000,0000,0000,,It could be a new rejuvenation drug.
+Dialogue: 0,0:10:23.88,0:10:27.34,Default,,0000,0000,0000,,I won't know until I break the fuckin'\Ncode on the piece of shit.
+Dialogue: 0,0:10:27.69,0:10:31.69,Default,,0000,0000,0000,,Why don't we just locate this mysterious\NDoctor Vail guy then?
+Dialogue: 0,0:10:31.69,0:10:34.86,Default,,0000,0000,0000,,At the very least, I think he ought\Nto be able to crack the code.
+Dialogue: 0,0:10:35.40,0:10:38.73,Default,,0000,0000,0000,,Warden Heel doesn't deserve\Na monopoly on this.
+Dialogue: 0,0:10:38.73,0:10:41.43,Default,,0000,0000,0000,,We may see a profit out of this yet.
+Dialogue: 0,0:10:41.90,0:10:43.50,Default,,0000,0000,0000,,Zena! Zena, please!
+Dialogue: 0,0:10:43.50,0:10:45.17,Default,,0000,0000,0000,,Don't send me to the pit!
+Dialogue: 0,0:10:45.17,0:10:47.33,Default,,0000,0000,0000,,Anything! Anything but that!
+Dialogue: 0,0:10:47.61,0:10:49.94,Default,,0000,0000,0000,,Don't touch my boots, you pig.
+Dialogue: 0,0:10:49.94,0:10:52.38,Default,,0000,0000,0000,,Being assigned to the pit\Nfrightens you, does it?
+Dialogue: 0,0:10:52.38,0:10:54.55,Default,,0000,0000,0000,,Work hard and maybe the warden\Nwill send you back.
+Dialogue: 0,0:10:54.55,0:10:55.55,Default,,0000,0000,0000,,No, please!
+Dialogue: 0,0:10:55.55,0:10:58.45,Default,,0000,0000,0000,,You know that no prisoner who goes\Ndown there ever comes back!
+Dialogue: 0,0:10:58.45,0:10:59.92,Default,,0000,0000,0000,,Asshole!
+Dialogue: 0,0:11:00.89,0:11:05.03,Default,,0000,0000,0000,,You've all received life sentences,\Nlife sentences without parole.
+Dialogue: 0,0:11:05.03,0:11:08.89,Default,,0000,0000,0000,,Madame Heel has now generously\Noffered you this way out.
+Dialogue: 0,0:11:09.43,0:11:12.47,Default,,0000,0000,0000,,If you work hard, she'll reward you for it.
+Dialogue: 0,0:11:12.47,0:11:14.80,Default,,0000,0000,0000,,It's not as though you have a choice, you know.
+Dialogue: 0,0:11:14.80,0:11:15.87,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:11:15.87,0:11:17.84,Default,,0000,0000,0000,,
+Dialogue: 0,0:11:21.91,0:11:23.38,Default,,0000,0000,0000,,Look at the fuckin' girls!
+Dialogue: 0,0:11:24.61,0:11:26.20,Default,,0000,0000,0000,,Exactly right!
+Dialogue: 0,0:11:26.65,0:11:31.14,Default,,0000,0000,0000,,Pick out the one you like.\NThe best workers are always well rewarded.
+Dialogue: 0,0:11:32.55,0:11:35.52,Default,,0000,0000,0000,,
+Dialogue: 0,0:11:36.79,0:11:39.16,Default,,0000,0000,0000,,Oh, think you'll finally get laid?
+Dialogue: 0,0:11:39.16,0:11:40.83,Default,,0000,0000,0000,,All right, get on the elevator.
+Dialogue: 0,0:11:40.83,0:11:43.35,Default,,0000,0000,0000,,Good luck, you'll need it.
+Dialogue: 0,0:12:14.93,0:12:17.36,Default,,0000,0000,0000,,Aw, this sucks!
+Dialogue: 0,0:12:17.36,0:12:21.14,Default,,0000,0000,0000,,Guy, why don't we just do what we came to do?
+Dialogue: 0,0:12:21.14,0:12:22.24,Default,,0000,0000,0000,,Don't start.
+Dialogue: 0,0:12:22.24,0:12:24.44,Default,,0000,0000,0000,,Why not?! I'm beat!
+Dialogue: 0,0:12:24.44,0:12:26.81,Default,,0000,0000,0000,,I'm hot! I can't breathe!
+Dialogue: 0,0:12:26.81,0:12:28.34,Default,,0000,0000,0000,,
+Dialogue: 0,0:12:28.34,0:12:30.21,Default,,0000,0000,0000,,Did I say you could take a break?
+Dialogue: 0,0:12:30.21,0:12:32.27,Default,,0000,0000,0000,,Get back to your post.
+Dialogue: 0,0:12:33.25,0:12:37.02,Default,,0000,0000,0000,,Gee! Haven't you ever heard of taking\Na fucking breather?!
+Dialogue: 0,0:12:37.02,0:12:39.75,Default,,0000,0000,0000,,You sound like someone who\Nenjoys getting whipped.
+Dialogue: 0,0:12:41.32,0:12:42.29,Default,,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:12:43.59,0:12:44.59,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:12:44.59,0:12:47.65,Default,,0000,0000,0000,,Raina, will you calm yourself down?
+Dialogue: 0,0:12:49.80,0:12:52.30,Default,,0000,0000,0000,,Hey, how can I whip him if you won't move?
+Dialogue: 0,0:12:52.30,0:12:54.37,Default,,0000,0000,0000,,
+Dialogue: 0,0:12:54.37,0:12:57.24,Default,,0000,0000,0000,,Shit! I'll have to beat you later.\NStay there.
+Dialogue: 0,0:12:58.77,0:13:01.64,Default,,0000,0000,0000,,
+Dialogue: 0,0:13:01.64,0:13:03.04,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:13:04.28,0:13:07.77,Default,,0000,0000,0000,,Oh... Oh... Help me...
+Dialogue: 0,0:13:13.15,0:13:14.36,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:13:14.36,0:13:16.22,Default,,0000,0000,0000,,I think so.
+Dialogue: 0,0:13:16.22,0:13:18.69,Default,,0000,0000,0000,,He said no one comes out of here alive!
+Dialogue: 0,0:13:20.80,0:13:23.63,Default,,0000,0000,0000,,All right, get back to your assignments,\Nand uh...
+Dialogue: 0,0:13:23.63,0:13:25.79,Default,,0000,0000,0000,,Someone toss that corpse in the incinerator.
+Dialogue: 0,0:13:28.40,0:13:31.46,Default,,0000,0000,0000,,Maybe Planet Geo is another name for Hell.
+Dialogue: 0,0:13:32.94,0:13:35.91,Default,,0000,0000,0000,,
+Dialogue: 0,0:14:09.01,0:14:10.98,Default,,0000,0000,0000,,
+Dialogue: 0,0:14:11.21,0:14:13.14,Default,,0000,0000,0000,,- Hi there!
+Dialogue: 0,0:14:11.81,0:14:13.14,Default,,0000,0000,0000,,- Oh, no!
+Dialogue: 0,0:14:15.85,0:14:19.72,Default,,0000,0000,0000,,You're staying here!\NTwo's a crowd when you're one.
+Dialogue: 0,0:14:19.72,0:14:21.52,Default,,0000,0000,0000,,I'm coming, so there.
+Dialogue: 0,0:14:21.52,0:14:22.59,Default,,0000,0000,0000,,Oh, no, you're not!
+Dialogue: 0,0:14:22.59,0:14:24.06,Default,,0000,0000,0000,,And if I scream?
+Dialogue: 0,0:14:24.99,0:14:26.69,Default,,0000,0000,0000,,Fuck it! I don't care.
+Dialogue: 0,0:14:26.69,0:14:28.16,Default,,0000,0000,0000,,Lucky!
+Dialogue: 0,0:14:28.46,0:14:30.43,Default,,0000,0000,0000,,
+Dialogue: 0,0:14:34.90,0:14:37.87,Default,,0000,0000,0000,,
+Dialogue: 0,0:14:36.20,0:14:38.33,Default,,0000,0000,0000,,Again! Do it again!
+Dialogue: 0,0:14:51.33,0:14:53.27,Default,,0000,0000,0000,,Use that impertinent litte tongue of yours.
+Dialogue: 0,0:14:57.07,0:15:03.90,Default,,0000,0000,0000,,Just think of all the girls you'll spare from a\Nsimilar fate if you can satisfy me completely.
+Dialogue: 0,0:15:15.48,0:15:16.54,Default,,0000,0000,0000,,
+Dialogue: 0,0:15:16.54,0:15:18.01,Default,,0000,0000,0000,,Who's out there?!
+Dialogue: 0,0:15:18.25,0:15:22.77,Default,,0000,0000,0000,,Please accept our apologies for interrupting a\Ntender moment such as this, Warden Heel.
+Dialogue: 0,0:15:23.15,0:15:24.78,Default,,0000,0000,0000,,Who the fuck are you?!
+Dialogue: 0,0:15:25.92,0:15:27.25,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:15:27.25,0:15:31.25,Default,,0000,0000,0000,,I wasn't expecting to find you under quite\Nthese circumstances, Cara.
+Dialogue: 0,0:15:31.49,0:15:32.89,Default,,0000,0000,0000,,Cara?
+Dialogue: 0,0:15:37.20,0:15:38.97,Default,,0000,0000,0000,,That was stupid.
+Dialogue: 0,0:15:38.97,0:15:43.10,Default,,0000,0000,0000,,Having caught you be the tail, so to speak,\NI have a small favor to ask.
+Dialogue: 0,0:15:43.10,0:15:46.17,Default,,0000,0000,0000,,My life for a pardon and release, right?
+Dialogue: 0,0:15:46.17,0:15:48.31,Default,,0000,0000,0000,,Well, that'd be nice,
+Dialogue: 0,0:15:48.31,0:15:51.51,Default,,0000,0000,0000,,but what I'd really like is to meet\Nyour friend Doctor Vail.
+Dialogue: 0,0:15:51.51,0:15:52.95,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:52.95,0:15:55.02,Default,,0000,0000,0000,,What do you know about Vail?
+Dialogue: 0,0:15:55.02,0:15:58.02,Default,,0000,0000,0000,,Let's just say we run into an old friend of his.
+Dialogue: 0,0:15:58.02,0:16:01.46,Default,,0000,0000,0000,,You're spies! What have you found out?
+Dialogue: 0,0:16:01.46,0:16:04.66,Default,,0000,0000,0000,,Shut up! Remember who's got the\Nknife against her throat.
+Dialogue: 0,0:16:04.66,0:16:07.49,Default,,0000,0000,0000,,Now, let's not be hasty. I can get him for you.
+Dialogue: 0,0:16:07.49,0:16:11.19,Default,,0000,0000,0000,,Now, that's being a good bitch.\NNo tricks, all right?
+Dialogue: 0,0:16:12.73,0:16:13.93,Default,,0000,0000,0000,,
+Dialogue: 0,0:16:21.48,0:16:22.98,Default,,0000,0000,0000,,We're screwed!
+Dialogue: 0,0:16:22.98,0:16:24.41,Default,,0000,0000,0000,,
+Dialogue: 0,0:16:24.78,0:16:26.08,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:16:26.31,0:16:28.68,Default,,0000,0000,0000,,I knew you'd find me.
+Dialogue: 0,0:16:29.72,0:16:32.24,Default,,0000,0000,0000,,Find them! Don't let them escape!
+Dialogue: 0,0:16:32.35,0:16:35.35,Default,,0000,0000,0000,,A Block, checks out.\NB Block, checks out. C Block, checks out.
+Dialogue: 0,0:16:37.02,0:16:39.49,Default,,0000,0000,0000,,Damn it, where the hell are they?
+Dialogue: 0,0:16:39.49,0:16:41.66,Default,,0000,0000,0000,,Explosion in B Block!
+Dialogue: 0,0:16:41.66,0:16:42.79,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:46.57,0:16:49.64,Default,,0000,0000,0000,,Hey, good thing your friend knew\Nwhere the armory was.
+Dialogue: 0,0:16:49.64,0:16:50.84,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:50.84,0:16:53.27,Default,,0000,0000,0000,,Thanks to her, we've still got a chance\Nof blowing this shithole.
+Dialogue: 0,0:16:53.64,0:16:56.17,Default,,0000,0000,0000,,She can borrow my clothes\Nwhen we get back to the ship.
+Dialogue: 0,0:16:58.51,0:17:01.48,Default,,0000,0000,0000,,
+Dialogue: 0,0:17:07.12,0:17:08.99,Default,,0000,0000,0000,,This has gone far enough.
+Dialogue: 0,0:17:08.99,0:17:12.76,Default,,0000,0000,0000,,All right, get a platoon down to D Block.\NI'll meet them there.
+Dialogue: 0,0:17:12.99,0:17:14.23,Default,,0000,0000,0000,,
+Dialogue: 0,0:17:14.23,0:17:16.06,Default,,0000,0000,0000,,Hey, look! Is that a way out?
+Dialogue: 0,0:17:16.06,0:17:17.69,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:20.53,0:17:23.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:17:24.27,0:17:26.71,Default,,0000,0000,0000,,Out of the pan and into the fire...
+Dialogue: 0,0:17:28.08,0:17:29.87,Default,,0000,0000,0000,,I've found them! Over here!
+Dialogue: 0,0:17:33.28,0:17:34.77,Default,,0000,0000,0000,,Surrender at once!
+Dialogue: 0,0:17:42.26,0:17:44.12,Default,,0000,0000,0000,,Whatever you do, don't stop running!
+Dialogue: 0,0:17:46.49,0:17:48.98,Default,,0000,0000,0000,,Drop the bridge! Do it!
+Dialogue: 0,0:17:58.71,0:18:00.17,Default,,0000,0000,0000,,Cara!
+Dialogue: 0,0:18:00.34,0:18:01.81,Default,,0000,0000,0000,,Raina!
+Dialogue: 0,0:18:07.18,0:18:11.14,Default,,0000,0000,0000,,
+Dialogue: 0,0:18:18.16,0:18:22.12,Default,,0000,0000,0000,,
+Dialogue: 0,0:18:35.44,0:18:38.41,Default,,0000,0000,0000,,
+Dialogue: 0,0:18:40.68,0:18:42.95,Default,,0000,0000,0000,,What the... Where the hell am l?
+Dialogue: 0,0:18:44.15,0:18:46.12,Default,,0000,0000,0000,,
+Dialogue: 0,0:18:42.95,0:18:44.09,Default,,0000,0000,0000,,Who is out there?
+Dialogue: 0,0:18:48.96,0:18:51.25,Default,,0000,0000,0000,,And what do we have here?
+Dialogue: 0,0:18:51.63,0:18:53.39,Default,,0000,0000,0000,,Doctor Vail, I presume.
+Dialogue: 0,0:18:54.76,0:18:59.07,Default,,0000,0000,0000,,So, Doctor Hase finally managed\Nto do himself in.
+Dialogue: 0,0:18:59.07,0:19:03.40,Default,,0000,0000,0000,,What a fool, using himself for\Nhis mutation experiments.
+Dialogue: 0,0:19:03.40,0:19:07.27,Default,,0000,0000,0000,,Shit! Then, this data doesn't hold the\Nformula for the fountain of youth?
+Dialogue: 0,0:19:07.27,0:19:10.24,Default,,0000,0000,0000,,Only if you want to be a very old monster.
+Dialogue: 0,0:19:10.24,0:19:14.18,Default,,0000,0000,0000,,Hase's specialty was gene\Nmanipulation and assembly.
+Dialogue: 0,0:19:14.18,0:19:20.21,Default,,0000,0000,0000,,But most of his results can be duplicated by\Nsimple exposure to the geo plasmids.
+Dialogue: 0,0:19:20.75,0:19:22.29,Default,,0000,0000,0000,,Plasmids?
+Dialogue: 0,0:19:22.29,0:19:28.40,Default,,0000,0000,0000,,The virus-like organisms that inhabit Geo,\Nwhich is itself a huge living organism.
+Dialogue: 0,0:19:28.40,0:19:33.17,Default,,0000,0000,0000,,This place is the central processor,\Nthe "brain" if you will.
+Dialogue: 0,0:19:33.17,0:19:36.04,Default,,0000,0000,0000,,Have you ever heard of panspermia?
+Dialogue: 0,0:19:36.04,0:19:43.01,Default,,0000,0000,0000,,In this theory, all the stars in the universe are\Nmade up of thinly dispersed "life particles".
+Dialogue: 0,0:19:43.01,0:19:46.41,Default,,0000,0000,0000,,Planet Geo is proof of panspermia.
+Dialogue: 0,0:19:46.41,0:19:49.25,Default,,0000,0000,0000,,This is a truly amazing discovery.
+Dialogue: 0,0:19:49.85,0:19:51.88,Default,,0000,0000,0000,,Are you out of your fucking mind?!
+Dialogue: 0,0:19:52.29,0:19:55.59,Default,,0000,0000,0000,,Shit! Do you know what I've put up\Nwith because of this?!
+Dialogue: 0,0:19:55.59,0:19:57.56,Default,,0000,0000,0000,,Stop! That data is valuable!
+Dialogue: 0,0:19:58.26,0:19:59.59,Default,,0000,0000,0000,,
+Dialogue: 0,0:19:59.59,0:20:01.36,Default,,0000,0000,0000,,There he is!
+Dialogue: 0,0:20:05.13,0:20:07.43,Default,,0000,0000,0000,,Let's take this from the top again.
+Dialogue: 0,0:20:07.43,0:20:11.10,Default,,0000,0000,0000,,Now, are you working for the government?\NOr maybe another syndicate?
+Dialogue: 0,0:20:11.10,0:20:14.16,Default,,0000,0000,0000,,No, I'm not! Neither! I'm just a two-bit thief!
+Dialogue: 0,0:20:14.34,0:20:16.04,Default,,0000,0000,0000,,Goddamn that hurts!
+Dialogue: 0,0:20:17.48,0:20:19.67,Default,,0000,0000,0000,,Leave me the fuck alone!
+Dialogue: 0,0:20:26.19,0:20:29.09,Default,,0000,0000,0000,,Now then, prepare to spill your guts.
+Dialogue: 0,0:20:29.09,0:20:31.43,Default,,0000,0000,0000,,Excuse my interruption, sir!
+Dialogue: 0,0:20:31.43,0:20:34.23,Default,,0000,0000,0000,,They've finally found the last escapee.
+Dialogue: 0,0:20:34.23,0:20:36.29,Default,,0000,0000,0000,,Right! I'll be right there.
+Dialogue: 0,0:20:36.93,0:20:40.07,Default,,0000,0000,0000,,Warden Heel, you'll leave a piece\Nof her me, won't you?
+Dialogue: 0,0:20:40.07,0:20:41.80,Default,,0000,0000,0000,,I'll leave something.
+Dialogue: 0,0:20:41.80,0:20:42.80,Default,,0000,0000,0000,,Guy...
+Dialogue: 0,0:20:42.80,0:20:46.07,Default,,0000,0000,0000,,I wouldn't waste my worries on him, my dear.
+Dialogue: 0,0:20:46.07,0:20:50.28,Default,,0000,0000,0000,,Now then, how can we occupy\Nour time while we wait.
+Dialogue: 0,0:20:50.28,0:20:53.75,Default,,0000,0000,0000,,Perhaps your new friends would like to play.
+Dialogue: 0,0:20:53.75,0:20:56.72,Default,,0000,0000,0000,,
+Dialogue: 0,0:21:00.29,0:21:02.96,Default,,0000,0000,0000,,I said not to bring any guns in here!
+Dialogue: 0,0:21:02.96,0:21:06.15,Default,,0000,0000,0000,,Sir, the escapee is hiding\Nsomewhere in these caves.
+Dialogue: 0,0:21:06.59,0:21:08.93,Default,,0000,0000,0000,,Down among those anomalies...
+Dialogue: 0,0:21:11.03,0:21:13.47,Default,,0000,0000,0000,,Well? Go down there and get him then.
+Dialogue: 0,0:21:13.47,0:21:15.33,Default,,0000,0000,0000,,Right! Uh, yes, sir!
+Dialogue: 0,0:21:15.47,0:21:19.64,Default,,0000,0000,0000,,Whatever you do, do not use any\Nguns in this part of Geo!
+Dialogue: 0,0:21:19.64,0:21:21.71,Default,,0000,0000,0000,,What are you babbling about, Doctor?
+Dialogue: 0,0:21:21.71,0:21:23.88,Default,,0000,0000,0000,,This is the planet's central processor.
+Dialogue: 0,0:21:23.88,0:21:26.21,Default,,0000,0000,0000,,If you set it off, it could be catastrophic.
+Dialogue: 0,0:21:26.21,0:21:31.12,Default,,0000,0000,0000,,Not this nonsense again? Are you still\Ntrying to prove that this planet's alive?
+Dialogue: 0,0:21:31.12,0:21:32.52,Default,,0000,0000,0000,,Do it! Sweep the area!
+Dialogue: 0,0:21:32.52,0:21:34.39,Default,,0000,0000,0000,,No! You must not!
+Dialogue: 0,0:21:34.39,0:21:36.19,Default,,0000,0000,0000,,Please, stop them!
+Dialogue: 0,0:21:40.16,0:21:41.63,Default,,0000,0000,0000,,Please, stop them.
+Dialogue: 0,0:21:41.63,0:21:44.50,Default,,0000,0000,0000,,Shut up! And don't touch my sled!
+Dialogue: 0,0:21:44.67,0:21:47.29,Default,,0000,0000,0000,,Please... Please stop this.
+Dialogue: 0,0:22:10.59,0:22:12.33,Default,,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:22:12.33,0:22:14.80,Default,,0000,0000,0000,,Oh, my God!
+Dialogue: 0,0:22:14.80,0:22:16.76,Default,,0000,0000,0000,,What the... Fuck!
+Dialogue: 0,0:22:22.47,0:22:25.74,Default,,0000,0000,0000,,Wh..What the... Now what's going on?!
+Dialogue: 0,0:22:25.74,0:22:30.51,Default,,0000,0000,0000,,My "crazy theory" just acquired a great\Ndeal more supporting evidence.
+Dialogue: 0,0:22:39.99,0:22:41.45,Default,,0000,0000,0000,,Fuck off!
+Dialogue: 0,0:22:44.12,0:22:45.89,Default,,0000,0000,0000,,Fuck it! Bad move...
+Dialogue: 0,0:22:58.77,0:23:01.21,Default,,0000,0000,0000,,Take that! And that! And that!
+Dialogue: 0,0:23:01.54,0:23:03.17,Default,,0000,0000,0000,,Have another, you freak!
+Dialogue: 0,0:23:04.58,0:23:06.14,Default,,0000,0000,0000,,Ah, shit, no ammo.
+Dialogue: 0,0:23:06.68,0:23:10.38,Default,,0000,0000,0000,,Please! Where are you going?\NWhere does that leave me?
+Dialogue: 0,0:23:21.66,0:23:23.86,Default,,0000,0000,0000,,This is insane.
+Dialogue: 0,0:23:23.86,0:23:25.73,Default,,0000,0000,0000,,This can't be happening!
+Dialogue: 0,0:23:26.90,0:23:28.20,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:23:38.21,0:23:39.51,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:24:07.34,0:24:10.31,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:10.98,0:24:13.18,Default,,0000,0000,0000,,Why is that alarm sounding?
+Dialogue: 0,0:24:13.18,0:24:15.84,Default,,0000,0000,0000,,And I thought felt tremors just then.
+Dialogue: 0,0:24:19.52,0:24:22.49,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:39.67,0:24:40.97,Default,,0000,0000,0000,,Raina...
+Dialogue: 0,0:24:47.48,0:24:50.92,Default,,0000,0000,0000,,You got such a cute ass,\NI'm going to give it a big kiss.
+Dialogue: 0,0:24:54.39,0:24:56.92,Default,,0000,0000,0000,,Bastard! I won't forget this.
+Dialogue: 0,0:24:56.92,0:24:59.93,Default,,0000,0000,0000,,You've got a big mouth.\NI'll have to shove something in it.
+Dialogue: 0,0:25:09.80,0:25:12.95,Default,,0000,0000,0000,,What a stud, two women at once!
+Dialogue: 0,0:25:04.00,0:25:06.97,Default,,0000,0000,0000,,
+Dialogue: 0,0:25:19.45,0:25:22.42,Default,,0000,0000,0000,,
+Dialogue: 0,0:26:44.50,0:26:47.00,Default,,0000,0000,0000,,Where's my stupid partner at a time like this?!
+Dialogue: 0,0:26:47.50,0:26:50.00,Default,,0000,0000,0000,,Guy, damn it, where are you?!
+Dialogue: 0,0:26:54.57,0:26:56.08,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:26:56.08,0:26:59.05,Default,,0000,0000,0000,,Guy! 
+Dialogue: 0,0:27:12.83,0:27:14.12,Default,,0000,0000,0000,,Guy?
+Dialogue: 0,0:27:15.63,0:27:18.33,Default,,0000,0000,0000,,{\an8}Danger! Evacuate these levels at once!
+Dialogue: 0,0:27:18.33,0:27:20.13,Default,,0000,0000,0000,,{\an8}Evacuate at once! Danger!
+Dialogue: 0,0:27:20.13,0:27:21.57,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:27:21.57,0:27:23.44,Default,,0000,0000,0000,,Somebody answer me!
+Dialogue: 0,0:27:23.44,0:27:25.54,Default,,0000,0000,0000,,Zena!
+Dialogue: 0,0:27:25.54,0:27:27.57,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:27:27.57,0:27:29.51,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:27:29.51,0:27:31.48,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:27:31.48,0:27:33.48,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:27:33.48,0:27:35.55,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:27:35.55,0:27:36.75,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:27:36.75,0:27:38.72,Default,,0000,0000,0000,,
+Dialogue: 0,0:27:39.59,0:27:41.66,Default,,0000,0000,0000,,Hang in there, Guy.
+Dialogue: 0,0:27:41.66,0:27:43.95,Default,,0000,0000,0000,,
+Dialogue: 0,0:27:54.00,0:27:55.00,Default,,0000,0000,0000,,Fuck!
+Dialogue: 0,0:27:55.00,0:27:58.14,Default,,0000,0000,0000,,My jewels... All my precious jewels...
+Dialogue: 0,0:27:58.14,0:28:00.00,Default,,0000,0000,0000,,I can't lose them!
+Dialogue: 0,0:28:01.54,0:28:03.68,Default,,0000,0000,0000,,This is all your fault!
+Dialogue: 0,0:28:03.68,0:28:07.25,Default,,0000,0000,0000,,Everything was fine until you showed up!
+Dialogue: 0,0:28:07.25,0:28:09.04,Default,,0000,0000,0000,,You've ruined everything!
+Dialogue: 0,0:28:11.95,0:28:14.51,Default,,0000,0000,0000,,You've destroyed all that had value to me!
+Dialogue: 0,0:28:30.74,0:28:32.71,Default,,0000,0000,0000,,
+Dialogue: 0,0:28:36.18,0:28:37.18,Default,,0000,0000,0000,,We've got to go!
+Dialogue: 0,0:28:37.18,0:28:38.91,Default,,0000,0000,0000,,I know, but Guy...
+Dialogue: 0,0:28:41.95,0:28:43.38,Default,,0000,0000,0000,,Guy...
+Dialogue: 0,0:28:51.32,0:28:53.72,Default,,0000,0000,0000,,Go on, Raina! Leave!
+Dialogue: 0,0:29:00.17,0:29:01.46,Default,,0000,0000,0000,,Cara!
+Dialogue: 0,0:29:03.20,0:29:05.23,Default,,0000,0000,0000,,Get out now, Rania! Get out!
+Dialogue: 0,0:29:05.97,0:29:07.54,Default,,0000,0000,0000,,Get out while you can!
+Dialogue: 0,0:29:07.54,0:29:09.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:29:09.44,0:29:10.74,Default,,0000,0000,0000,,Cara!
+Dialogue: 0,0:29:11.78,0:29:13.55,Default,,0000,0000,0000,,Goddammit!
+Dialogue: 0,0:29:13.55,0:29:15.88,Default,,0000,0000,0000,,Dammit! Let her go!
+Dialogue: 0,0:29:16.35,0:29:17.75,Default,,0000,0000,0000,,
+Dialogue: 0,0:29:18.12,0:29:19.59,Default,,0000,0000,0000,,CARA!!
+Dialogue: 0,0:29:34.50,0:29:37.47,Default,,0000,0000,0000,,
+Dialogue: 0,0:29:41.31,0:29:44.28,Default,,0000,0000,0000,,
+Dialogue: 0,0:29:47.98,0:29:50.71,Default,,0000,0000,0000,,G..G..Guy!
+Dialogue: 0,0:29:51.79,0:29:54.58,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:29:55.96,0:29:58.52,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:31:05.02,0:31:06.76,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:31:06.76,0:31:08.73,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:31:08.73,0:31:10.73,Default,,0000,0000,0000,,{\an8}Danger! Evacuate at once!
+Dialogue: 0,0:31:10.73,0:31:12.63,Default,,0000,0000,0000,,
+Dialogue: 0,0:31:12.63,0:31:14.73,Default,,0000,0000,0000,,
+Dialogue: 0,0:31:14.73,0:31:17.23,Default,,0000,0000,0000,,
+Dialogue: 0,0:31:41.86,0:31:45.97,Default,,0000,0000,0000,,Out of all those people,\Nonly ten percent made it to safety.
+Dialogue: 0,0:31:45.97,0:31:49.59,Default,,0000,0000,0000,,Still, under the circumstances,\Nthat's an amazing number.
+Dialogue: 0,0:31:50.10,0:31:53.91,Default,,0000,0000,0000,,I suppose we should consider\Nourselves lucky too, huh?
+Dialogue: 0,0:31:53.91,0:31:55.84,Default,,0000,0000,0000,,Lucky? Us?
+Dialogue: 0,0:31:57.18,0:31:59.64,Default,,0000,0000,0000,,Whadda ya' wanna do with this slave trader?
+Dialogue: 0,0:32:02.78,0:32:04.41,Default,,0000,0000,0000,,The garbage chute.
+Dialogue: 0,0:32:10.79,0:32:13.92,Default,,0000,0000,0000,,About your friend, I'm sorry we lost her.
+Dialogue: 0,0:32:19.50,0:32:21.73,Default,,0000,0000,0000,,Guy, who was she?
+Dialogue: 0,0:32:21.73,0:32:23.17,Default,,0000,0000,0000,,We're out of fuel.
+Dialogue: 0,0:32:23.54,0:32:29.68,Default,,0000,0000,0000,,Eh?! Of all the stupid things!\NWhat are we going to do now?!
+Dialogue: 0,0:32:29.68,0:32:33.81,Default,,0000,0000,0000,,We're gonna die watching the stars roll by!\NThat"s what!
+Dialogue: 0,0:32:33.81,0:32:39.09,Default,,0000,0000,0000,,We'll never see home again!\NOh, God, and my library books!
+Dialogue: 0,0:32:39.09,0:32:41.62,Default,,0000,0000,0000,,What's so funny, you freak of nature?!
+Dialogue: 0,0:32:41.62,0:32:46.39,Default,,0000,0000,0000,,Turning into that thing must have left you\Nmentally unstable. You've flipped!
+Dialogue: 0,0:32:46.39,0:32:48.66,Default,,0000,0000,0000,,Guy, I don't wanna die!
+Dialogue: 0,0:32:48.66,0:32:51.26,Default,,0000,0000,0000,,This can't be happening!
+Dialogue: 0,0:32:51.26,0:32:54.70,Default,,0000,0000,0000,,Please, Lord! I'll be good from now on!\NI promise!
+Dialogue: 0,0:32:55.07,0:32:58.20,Default,,0000,0000,0000,,Guy, why don't you do something?!
+Dialogue: 0,0:32:58.20,0:33:01.37,Default,,0000,0000,0000,,This is space crusier PC-001.
+Dialogue: 0,0:33:01.37,0:33:03.24,Default,,0000,0000,0000,,We have received your distress call
+Dialogue: 0,0:33:03.24,0:33:05.40,Default,,0000,0000,0000,,and are own our way to your rescue.
+Dialogue: 0,0:33:06.65,0:33:09.64,Default,,0000,0000,0000,,Okay, so we're lucky!
+Dialogue: 0,0:33:28.87,0:33:31.97,Default,,0000,0000,0000,,{\an8}You're trapped and your screams\Nseem about to freeze
+Dialogue: 0,0:33:31.97,0:33:35.14,Default,,0000,0000,0000,,{\an8}Then he cuts the darkness like a knife
+Dialogue: 0,0:33:35.14,0:33:37.78,Default,,0000,0000,0000,,{\an8}He gives a wink just to say hello
+Dialogue: 0,0:33:37.78,0:33:39.45,Default,,0000,0000,0000,,{\an8}It feels good
+Dialogue: 0,0:33:39.45,0:33:41.55,Default,,0000,0000,0000,,{\an8}He's the best there is
+Dialogue: 0,0:33:41.55,0:33:44.62,Default,,0000,0000,0000,,{\an8}The road ahead leads towards your dream
+Dialogue: 0,0:33:44.62,0:33:47.89,Default,,0000,0000,0000,,{\an8}But dynamite's hidden along the way
+Dialogue: 0,0:33:47.89,0:33:50.92,Default,,0000,0000,0000,,{\an8}It's romantic, you know
+Dialogue: 0,0:33:50.92,0:33:53.39,Default,,0000,0000,0000,,{\an8}But to him, it's just a game
+Dialogue: 0,0:33:54.03,0:33:57.23,Default,,0000,0000,0000,,{\an8}Two rash, adventurous hearts
+Dialogue: 0,0:33:57.23,0:34:00.47,Default,,0000,0000,0000,,{\an8}Suddenly they come together
+Dialogue: 0,0:34:00.47,0:34:05.96,Default,,0000,0000,0000,,{\an8}It's a whole new universe
+Dialogue: 0,0:34:06.17,0:34:09.28,Default,,0000,0000,0000,,{\an8}It's a hazardous escape
+Dialogue: 0,0:34:09.28,0:34:12.65,Default,,0000,0000,0000,,{\an8}He tosses you a kiss along with his smile
+Dialogue: 0,0:34:12.65,0:34:15.62,Default,,0000,0000,0000,,{\an8}But the joke
+Dialogue: 0,0:34:15.62,0:34:18.82,Default,,0000,0000,0000,,{\an8}Is on you
+Dialogue: 0,0:34:18.82,0:34:22.06,Default,,0000,0000,0000,,{\an8}It's a hazardous rendezvous
+Dialogue: 0,0:34:22.06,0:34:25.39,Default,,0000,0000,0000,,{\an8}But there's never been such a promise
+Dialogue: 0,0:34:25.39,0:34:27.66,Default,,0000,0000,0000,,{\an8}It could happen any time
+Dialogue: 0,0:34:27.66,0:34:31.06,Default,,0000,0000,0000,,{\an8}So fall in love!
+Dialogue: 0,0:34:31.60,0:34:34.77,Default,,0000,0000,0000,,{\an8}It's a hazardous escape
+Dialogue: 0,0:34:34.77,0:34:35.80,Default,,0000,0000,0000,,{\an8}And you can't dodge your feelings for him
+Dialogue: 0,0:34:35.80,0:34:38.10,Default,,0000,0000,0000,,{\an8}And you can't dodge your feelings for him
+Dialogue: 0,0:34:38.10,0:34:40.97,Default,,0000,0000,0000,,{\an8}You'll have to move fast
+Dialogue: 0,0:34:40.97,0:34:44.00,Default,,0000,0000,0000,,{\an8}Or go mad
+Dialogue: 0,0:34:44.24,0:34:47.48,Default,,0000,0000,0000,,{\an8}It's a hazardous rendezvous
+Dialogue: 0,0:34:47.48,0:34:50.78,Default,,0000,0000,0000,,{\an8}And there's never been any hope before
+Dialogue: 0,0:34:50.78,0:34:53.12,Default,,0000,0000,0000,,{\an8}It can happen any time
+Dialogue: 0,0:34:53.12,0:34:56.79,Default,,0000,0000,0000,,{\an8}So fall in love!
+Dialogue: 0,0:34:56.79,0:35:01.06,Default,,0000,0000,0000,,{\an8}Fall in love!

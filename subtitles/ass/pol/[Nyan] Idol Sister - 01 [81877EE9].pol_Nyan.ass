@@ -1,0 +1,311 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build416  Oct 11 2015  12:01:21
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 720
+PlayResY: 480
+Collisions: Normal
+Last Style Storage: [720x480]
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.2,0,7,11,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:26.84,0:00:31.30,Grupa,,0,0,0,,{\be1\fad(0,361)\1c&HC48400&}N{\1c&H10B789&}y{\1c&H0058FF&}a{\1c&H741EFF&}n
+Dialogue: 0,0:00:52.16,0:00:54.16,Znak,,0,0,0,,{\be1\fs30\bord2\3c&HFFFFFF&\1c&H004DF3&}Takano Ayaka {\1c&H000000&}- {\1c&H168A00&}Ayachii
+Dialogue: 0,0:01:03.33,0:01:07.33,Znak,,0,0,0,,{\be1\fs30\bord2\3c&HFFFFFF&\1c&H470DC8&}Kamii Maki {\1c&H000000&}- {\1c&H009BED&}Makinya
+Dialogue: 0,0:01:14.09,0:01:20.02,Znak,,0,0,0,,{\be1\fs30\bord2\3c&HFFFFFF&\1c&H9A6DF8&}Ooizumi Maina {\1c&H000000&}- {\1c&H000FCB&}Maimai
+Dialogue: 0,0:05:51.20,0:05:54.21,Znak,,0,0,0,,{\be1}Nie otwierać, zepsuta.
+Dialogue: 0,0:00:39.05,0:00:44.65,Default (i),,0,0,0,,{\be1}Dziewczyny z IKB31 połączyły się\Ni tworzą nową grupę, Platinum Kiss.
+Dialogue: 0,0:00:45.20,0:00:48.83,Default (i),,0,0,0,,{\be1}Nasze motto to: "Będziesz nasz\Ndzięki jakości naszych piosenek!".
+Dialogue: 0,0:00:48.83,0:00:53.91,Default (i),,0,0,0,,{\be1}Nazywam się Takano Ayaka\Ni jestem byłym członkiem IKB31.
+Dialogue: 0,0:00:53.91,0:00:58.71,Default (i),,0,0,0,,{\be1}Codziennie jestem zajęta, bo występuję albo\Nw telewizji, albo pozuje do sesji zdjęciowych.
+Dialogue: 0,0:00:58.71,0:01:03.04,Default (i),,0,0,0,,{\be1}Jeszcze mi daleko, ale zamierzam zostać super gwiazdą!
+Dialogue: 0,0:01:04.13,0:01:08.01,Default (i),,0,0,0,,{\be1}To jest Kamii Maki, typ energicznej sportsmenki.
+Dialogue: 0,0:01:08.01,0:01:15.59,Default (i),,0,0,0,,{\be1}Czasem bywa nieśmiała i gdy zrobi minę onieśmielonej,\Nto ludzie chcą ją od razu przytulić, zdobyła tak dużo fanów.
+Dialogue: 0,0:01:16.65,0:01:20.82,Default (i),,0,0,0,,{\be1}Również były członek IKB31, Ooizumi Maina.
+Dialogue: 0,0:01:20.82,0:01:23.78,Default (i),,0,0,0,,{\be1}Dzięki dużym cyckom jest bardzo popularna!
+Dialogue: 0,0:01:23.78,0:01:27.24,Default (i),,0,0,0,,{\be1}Sama nie wiem czy jest mało\Ndomyślna czy po prostu ostrożna.
+Dialogue: 0,0:01:27.24,0:01:30.10,Default (i),,0,0,0,,{\be1}Przynajmniej ma jej co podskoczyć.
+Dialogue: 0,0:01:44.09,0:01:47.00,Default (i),,0,0,0,,{\be1}Od dawna chciałam być idolką.
+Dialogue: 0,0:01:47.00,0:01:52.34,Default (i),,0,0,0,,{\be1}Pod pozorem super życia kryje się trudny świat,\Nw którym trzeba nieustannie rywalizować.
+Dialogue: 0,0:01:58.65,0:02:05.03,Default (i),,0,0,0,,{\be1}To pewnie dzięki niemu udaje\Nnam się przetrwać w tym świecie.
+Dialogue: 0,0:02:05.78,0:02:09.95,Default (i),,0,0,0,,{\be1}To mój brat i menadżer Platinum Kiss.
+Dialogue: 0,0:02:13.87,0:02:15.99,Default,,0,0,0,,{\be1}Świetna robota!
+Dialogue: 0,0:02:16.54,0:02:21.99,Default,,0,0,0,,{\be1}Kupimy lody w drodze do domu?\NMam ulotkę z jednego sklepu.
+Dialogue: 0,0:02:21.99,0:02:23.73,Default,,0,0,0,,{\be1}Świetny pomysł!
+Dialogue: 0,0:02:25.09,0:02:28.45,Default,,0,0,0,,{\be1}Kocham lody.
+Dialogue: 0,0:02:30.93,0:02:33.64,Default,,0,0,0,,{\be1}Chyba prowadzą nową kampanię reklamową.
+Dialogue: 0,0:02:33.64,0:02:35.01,Default,,0,0,0,,{\be1}Mają nowy smak!
+Dialogue: 0,0:02:35.01,0:02:38.00,Default,,0,0,0,,{\be1}Zaraz, co to za tajemniczy ser?
+Dialogue: 0,0:02:39.35,0:02:43.01,Default,,0,0,0,,{\be1}Maki, to ty nie jesteś na diecie?
+Dialogue: 0,0:02:43.57,0:02:47.02,Default,,0,0,0,,{\be1}Odpuść mi dzisiaj!
+Dialogue: 0,0:02:47.57,0:02:49.56,Default,,0,0,0,,{\be1}Tydzień temu też tak powiedziałaś.
+Dialogue: 0,0:02:49.56,0:02:51.24,Default,,0,0,0,,{\be1}To prawda.
+Dialogue: 0,0:02:51.24,0:02:53.95,Default,,0,0,0,,{\be1}Nie wydaje mi się bym potrzebowała diety.
+Dialogue: 0,0:02:53.95,0:02:56.03,Default,,0,0,0,,{\be1}Bo codziennie się ruszasz.
+Dialogue: 0,0:02:56.54,0:03:01.71,Default,,0,0,0,,{\be1}Ostatnio na sesjach zdjęciowych jest spokojniej,\Nwięc trochę się martwię.
+Dialogue: 0,0:03:01.71,0:03:06.04,Default,,0,0,0,,{\be1}Ja cały czas martwię się o swoją wagę.
+Dialogue: 0,0:03:06.50,0:03:11.04,Default,,0,0,0,,{\be1}Ty przecież masz super ciałko!
+Dialogue: 0,0:03:12.72,0:03:16.61,Default,,0,0,0,,{\be1}Chciałaś obrazić moje piersi?
+Dialogue: 0,0:03:17.77,0:03:22.06,Default,,0,0,0,,{\be1}Nie, wolałabym mieć takie jak ty!
+Dialogue: 0,0:03:22.06,0:03:25.81,Default (i),,0,0,0,,{\be1}Ayachii znowu zaczyna molestować Maimai.
+Dialogue: 0,0:03:25.81,0:03:33.11,Default,,0,0,0,,{\be1}{\i1}- Zawsze zaczyna się wygłupiać, gdy mamy wolne.{\i0}\N- Może zamiast lodów zjem ciebie?
+Dialogue: 0,0:03:36.12,0:03:39.45,Default (i),,0,0,0,,{\be1}Jesteśmy dla siebie bliskimi przyjaciółkami.
+Dialogue: 0,0:03:39.45,0:03:45.35,Default (i),,0,0,0,,{\be1}A najfajniej jest, gdy po pracy idziemy na spacer.
+Dialogue: 0,0:03:46.08,0:03:50.08,Default (i),,0,0,0,,{\be1}Byłam wniebowzięta, gdy utworzoną naszą grupę.
+Dialogue: 0,0:03:52.63,0:03:59.22,Default,,0,0,0,,{\be1}A właśnie, twój brat mówił, że może nie przyjść jutro.
+Dialogue: 0,0:03:59.22,0:04:01.31,Default,,0,0,0,,{\be1}Ostatnio ma dużo pracy.
+Dialogue: 0,0:04:01.31,0:04:03.09,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:04:03.09,0:04:08.19,Default,,0,0,0,,{\be1}Może znowu wpadnie do nas na chwilę?
+Dialogue: 0,0:04:08.19,0:04:09.95,Default,,0,0,0,,{\be1}Możliwe.
+Dialogue: 0,0:04:15.66,0:04:20.11,Default,,0,0,0,,{\be1}Będzie mi jutro smutno na scenie bez niego.
+Dialogue: 0,0:04:21.87,0:04:25.11,Default,,0,0,0,,{\be1}Zaczynam się martwić, czy dobrze wystąpimy.
+Dialogue: 0,0:04:25.71,0:04:28.92,Default,,0,0,0,,{\be1}Dziewczyny, przesadzacie!
+Dialogue: 0,0:04:28.92,0:04:33.12,Default,,0,0,0,,{\be1}Będzie dobrze nawet bez brata!
+Dialogue: 0,0:04:33.59,0:04:40.39,Default,,0,0,0,,{\be1}Już wiem! Chodźmy na karaoke,\Nwyśpiewamy się jak nigdy!
+Dialogue: 0,0:04:40.39,0:04:46.48,Default (i),,0,0,0,,{\be1}Rozumiem, bez brata czują się niepewnie.
+Dialogue: 0,0:04:46.48,0:04:50.07,Default (i),,0,0,0,,{\be1}Prawdę powiedziawszy to ja też.
+Dialogue: 0,0:05:06.88,0:05:08.15,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:05:09.17,0:05:12.67,Default,,0,0,0,,{\be1}Występujecie za godzinę,\Nprzygotujcie się do tego czasu.
+Dialogue: 0,0:05:12.67,0:05:15.16,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:05:18.09,0:05:21.18,Default,,0,0,0,,{\be1}Ayachii, co zrobimy?
+Dialogue: 0,0:05:21.64,0:05:27.17,Default,,0,0,0,,{\be1}Nie sądziłam, że aż tak będę się\Ndenerwować bez twojego brata.
+Dialogue: 0,0:05:29.78,0:05:35.18,Default,,0,0,0,,{\be1}Może uspokoimy się, gdy usłyszymy jego głos.
+Dialogue: 0,0:05:35.86,0:05:39.69,Default,,0,0,0,,{\be1}Proszę, odbierz.
+Dialogue: 0,0:05:55.72,0:05:59.38,Default,,0,0,0,,{\be1}Czy tylko mi dzwoni z szafki?
+Dialogue: 0,0:06:00.21,0:06:02.85,Default,,0,0,0,,{\be1}Niemożliwe.
+Dialogue: 0,0:06:02.85,0:06:05.22,Default,,0,0,0,,{\be1}Dobra, otwieram.
+Dialogue: 0,0:06:16.86,0:06:18.07,Default,,0,0,0,,{\be1}Yo!
+Dialogue: 0,0:06:21.00,0:06:24.24,Default,,0,0,0,,{\be1}Zwaliłem, nie wyłączyłem telefonu.
+Dialogue: 0,0:06:24.24,0:06:25.75,Default,,0,0,0,,{\be1}Niech cię...
+Dialogue: 0,0:06:25.75,0:06:29.24,Default,,0,0,0,,{\be1}Już dzwoniłybyśmy na policję, gdybyś to nie był ty!
+Dialogue: 0,0:06:29.24,0:06:32.13,Default,,0,0,0,,{\be1}Zaraz, cały czas byłeś w szafce?
+Dialogue: 0,0:06:32.13,0:06:34.24,Default,,0,0,0,,{\be1}Oczywiście, jakoś musiałem podglądać.
+Dialogue: 0,0:06:34.24,0:06:39.18,Default,,0,0,0,,{\be1}Nawet nie wiem na co zacząć narzekać.
+Dialogue: 0,0:06:39.18,0:06:43.61,Default,,0,0,0,,{\be1}Tak w ogóle to w pokoju jest 15 ukrytych kamer.
+Dialogue: 0,0:06:44.68,0:06:48.25,Default,,0,0,0,,{\be1}Chcę uwiecznić każdą chwilę waszej kariery.
+Dialogue: 0,0:06:48.25,0:06:51.48,Default,,0,0,0,,{\be1}Działały, gdy się przebierałyśmy?
+Dialogue: 0,0:06:51.48,0:06:52.40,Default,,0,0,0,,{\be1}No jasne.
+Dialogue: 0,0:06:52.40,0:06:55.48,Default,,0,0,0,,{\be1}Ayachii, masz zboczonego brata.
+Dialogue: 0,0:06:55.48,0:06:59.24,Default,,0,0,0,,{\be1}Idolki, zawsze powinny się dobrze prezentować.
+Dialogue: 0,0:06:59.24,0:07:01.27,Default,,0,0,0,,{\be1}Dzięki temu zostaniecie...
+Dialogue: 0,0:07:01.27,0:07:05.41,Default,,0,0,0,,{\be1}To dlatego powiedziałeś wczoraj, że będziesz zajęty?!
+Dialogue: 0,0:07:05.41,0:07:06.53,Default,,0,0,0,,{\be1}Nie inaczej.
+Dialogue: 0,0:07:13.79,0:07:15.84,Default,,0,0,0,,{\be1}Żyjesz?!
+Dialogue: 0,0:07:16.71,0:07:19.17,Default,,0,0,0,,{\be1}Dzisiaj różowe...
+Dialogue: 0,0:07:19.17,0:07:20.42,Default,,0,0,0,,{\be1}Zdychaj!
+Dialogue: 0,0:07:21.01,0:07:24.26,Default (i),,0,0,0,,{\be1}To właśnie mój brat.
+Dialogue: 0,0:07:24.26,0:07:26.81,Default (i),,0,0,0,,{\be1}Maniak idolek z kompleksem siostry.
+Dialogue: 0,0:07:26.81,0:07:30.93,Default (i),,0,0,0,,{\be1}Został menadżerem w tym samym czasie co ja idolką.
+Dialogue: 0,0:07:31.41,0:07:34.42,Default (i),,0,0,0,,{\be1}A teraz zajmuje się nami.
+Dialogue: 0,0:07:35.90,0:07:38.95,Default (i),,0,0,0,,{\be1}Od tych monologów boli mnie głowa.
+Dialogue: 0,0:07:38.95,0:07:41.21,Default,,0,0,0,,{\be1}Trzymaj się!
+Dialogue: 0,0:07:44.37,0:07:47.95,Default,,0,0,0,,{\be1}Gdy ściskasz tak spodenki\Nw kroku, to wyglądasz cudownie.
+Dialogue: 0,0:07:50.95,0:07:53.21,Default,,0,0,0,,{\be1}Nie patrz!
+Dialogue: 0,0:07:58.82,0:08:00.61,Default,,0,0,0,,{\be1}Makinya...
+Dialogue: 0,0:08:03.05,0:08:04.47,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:08:04.47,0:08:06.47,Default,,0,0,0,,{\be1}Lepiej mnie wysłuchaj!
+Dialogue: 0,0:08:07.64,0:08:10.02,Default,,0,0,0,,{\be1}Mamy problem!
+Dialogue: 0,0:08:10.02,0:08:14.47,Default,,0,0,0,,{\be1}Niedługo występ, a nie możemy się uspokoić!
+Dialogue: 0,0:08:15.56,0:08:18.69,Default,,0,0,0,,{\be1}Co mamy zrobić?
+Dialogue: 0,0:08:18.69,0:08:20.48,Default,,0,0,0,,{\be1}Ciągle tak mamy.
+Dialogue: 0,0:08:23.15,0:08:27.05,Default,,0,0,0,,{\be1}Czujesz jak wali mi serce?
+Dialogue: 0,0:08:28.16,0:08:32.33,Default,,0,0,0,,{\be1}Zrób to co zawsze przed występem.
+Dialogue: 0,0:08:40.50,0:08:45.72,Default,,0,0,0,,{\be1}Robi się przyjemnie od samego całowania.
+Dialogue: 0,0:08:46.55,0:08:52.21,Default,,0,0,0,,{\be1}Pomóż nam swoim ciałem, tak jak zawsze.
+Dialogue: 0,0:08:55.19,0:09:02.52,Default,,0,0,0,,{\be1}Przez ciebie zrobiłam się zboczona.
+Dialogue: 0,0:09:06.24,0:09:10.05,Default,,0,0,0,,{\be1}Teraz musisz wziąć za to odpowiedzialność.
+Dialogue: 0,0:09:12.25,0:09:14.75,Default,,0,0,0,,{\be1}Możemy się trochę zabawić, nie?
+Dialogue: 0,0:09:14.75,0:09:18.63,Default,,0,0,0,,{\be1}Ty to bywasz zbyt szczera.
+Dialogue: 0,0:09:19.29,0:09:23.21,Default,,0,0,0,,{\be1}Łał, podskakuje jakby się cieszył.
+Dialogue: 0,0:09:23.21,0:09:26.55,Default,,0,0,0,,{\be1}Mocno ci już stoi.
+Dialogue: 0,0:09:26.55,0:09:31.06,Default,,0,0,0,,{\be1}Zadowolimy cię ustami.
+Dialogue: 0,0:09:31.06,0:09:36.21,Default,,0,0,0,,{\be1}Czuję jakbym miała się rozpuścić od jego gorąca.
+Dialogue: 0,0:09:38.98,0:09:42.23,Default,,0,0,0,,{\be1}Niesamowite, staje coraz mocniej.
+Dialogue: 0,0:09:42.23,0:09:48.41,Default,,0,0,0,,{\be1}- Zadowól się nami.\N- Ale wy jesteście śliczne!
+Dialogue: 0,0:09:48.41,0:09:53.49,Default (i),,0,0,0,,{\be1}Niesamowite, z jego kutasa zaczyna wyciekać!
+Dialogue: 0,0:09:59.75,0:10:03.67,Default (i),,0,0,0,,{\be1}Maki głęboko go wkłada.
+Dialogue: 0,0:10:10.14,0:10:15.09,Default (i),,0,0,0,,{\be1}Co za miękkie i delikatne cycuszki.\NJestem w niebie!
+Dialogue: 0,0:10:21.61,0:10:24.23,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:10:24.23,0:10:29.11,Default (i),,0,0,0,,{\be1}Ale to wygląda nieprzyzwoicie, gdy tak go ssie.
+Dialogue: 0,0:10:29.11,0:10:33.11,Default,,0,0,0,,{\be1}Masz cudowne usta, Maki!
+Dialogue: 0,0:10:34.62,0:10:38.12,Default,,0,0,0,,{\be1}Brat, ja też chcę.
+Dialogue: 0,0:10:39.16,0:10:45.12,Default (i),,0,0,0,,{\be1}Co mam robić?\NSamo patrzenie na brata podnieca mnie.
+Dialogue: 0,0:10:46.13,0:10:51.13,Default (i),,0,0,0,,{\be1}Przyjemnie mi od samego całowania.
+Dialogue: 0,0:10:52.18,0:10:57.14,Default (i),,0,0,0,,{\be1}Wstyd się przyznać, ale robię się mokra.
+Dialogue: 0,0:10:57.14,0:11:01.14,Default,,0,0,0,,{\be1}Tym razem zabaw się z moimi piersiami.
+Dialogue: 0,0:11:01.14,0:11:05.86,Default (i),,0,0,0,,{\be1}Ale ona ma miękkie cycuszki.
+Dialogue: 0,0:11:05.86,0:11:08.15,Default,,0,0,0,,{\be1}Tak jest dobrze?
+Dialogue: 0,0:11:10.66,0:11:12.74,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:11:12.74,0:11:21.83,Default,,0,0,0,,{\be1}Bo ja nie mogę skupić myli, gdy liżę twojego kutasa.
+Dialogue: 0,0:11:21.83,0:11:28.17,Default (i),,0,0,0,,{\be1}Zadowól się moimi piersiami.
+Dialogue: 0,0:11:29.59,0:11:33.22,Default (i),,0,0,0,,{\be1}Ślina brata jest pyszna.
+Dialogue: 0,0:11:34.01,0:11:38.18,Default (i),,0,0,0,,{\be1}Zrobię wszystko, żeby go zadowolić.
+Dialogue: 0,0:11:38.89,0:11:45.57,Default,,0,0,0,,{\be1}Gdy mam twojego kutasa między\Npiersiami to i mi jest przyjemnie.
+Dialogue: 0,0:11:45.57,0:11:48.36,Default,,0,0,0,,{\be1}Mnie też.
+Dialogue: 0,0:11:48.36,0:11:54.53,Default,,0,0,0,,{\be1}Spuść mi się dużo na twarz.
+Dialogue: 0,0:11:54.53,0:11:57.03,Default,,0,0,0,,{\be1}Wypuszczę wszystko na ciebie!
+Dialogue: 0,0:11:57.03,0:11:58.61,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:11:58.61,0:12:03.21,Default,,0,0,0,,{\be1}Dobra, spuść się gdzie chcesz!
+Dialogue: 0,0:12:06.38,0:12:12.32,Default (i),,0,0,0,,{\be1}Spuszczaj się na mnie, ile tylko zechcesz.
+Dialogue: 0,0:12:12.32,0:12:17.81,Default,,0,0,0,,{\be1}Coraz bardziej się podniecam.
+Dialogue: 0,0:12:22.60,0:12:24.19,Default,,0,0,0,,{\be1}Bracie.
+Dialogue: 0,0:12:25.81,0:12:32.73,Default,,0,0,0,,{\be1}Przez ciebie mam mokre majtki.
+Dialogue: 0,0:12:35.53,0:12:38.24,Default,,0,0,0,,{\be1}Nie wyjdę tak na scenę.
+Dialogue: 0,0:12:38.24,0:12:44.25,Default,,0,0,0,,{\be1}Dlatego zrób co trzeba i zadowól się mną!
+Dialogue: 0,0:12:47.51,0:12:51.01,Default (i),,0,0,0,,{\be1}Znowu się zbłaźniłam.
+Dialogue: 0,0:12:51.01,0:12:54.84,Default (i),,0,0,0,,{\be1}Ale nie mogę się powstrzymać.
+Dialogue: 0,0:12:58.54,0:13:02.22,Default (i),,0,0,0,,{\be1}Nagle wszedł do samego końca!
+Dialogue: 0,0:13:02.23,0:13:07.02,Default (i),,0,0,0,,{\be1}O nie, ledwo włożyłam, a zaraz dojdę!
+Dialogue: 0,0:13:07.02,0:13:09.27,Default (i),,0,0,0,,{\be1}Bracie!
+Dialogue: 0,0:13:09.73,0:13:13.07,Default,,0,0,0,,{\be1}Nie wytrzymam, jeśli tak mocno będziesz wkładać!
+Dialogue: 0,0:13:13.07,0:13:19.28,Default,,0,0,0,,{\be1}No ale dotykasz moich najwrażliwszych miejsc!
+Dialogue: 0,0:13:19.28,0:13:24.41,Default,,0,0,0,,{\be1}Cały czas dotykasz nim macicę!
+Dialogue: 0,0:13:24.41,0:13:28.38,Default,,0,0,0,,{\be1}Twój kutas wchodzi bardzo głęboko!
+Dialogue: 0,0:13:28.38,0:13:32.00,Default,,0,0,0,,{\be1}Od kiedy to jesteś taka zboczona?
+Dialogue: 0,0:13:32.00,0:13:35.67,Default,,0,0,0,,{\be1}To twoja wina!
+Dialogue: 0,0:13:37.68,0:13:42.03,Default,,0,0,0,,{\be1}Cudownie! Liż je więcej!
+Dialogue: 0,0:13:44.98,0:13:46.31,Default,,0,0,0,,{\be1}Zaraz znowu dojdę!
+Dialogue: 0,0:13:49.40,0:13:52.31,Default,,0,0,0,,{\be1}Zaraz spuszczę się w tobie.
+Dialogue: 0,0:13:52.31,0:13:57.13,Default,,0,0,0,,{\be1}Tak, wypuść dużo spermy w środku!
+Dialogue: 0,0:13:58.57,0:14:02.52,Default,,0,0,0,,{\be1}O rany, ja też dochodzę!
+Dialogue: 0,0:14:02.52,0:14:08.62,Default,,0,0,0,,{\be1}Dochodzę od dotykania macicy!
+Dialogue: 0,0:14:15.55,0:14:23.38,Default (i),,0,0,0,,{\be1}Gorąca sperma wlewa mi się do macicy.
+Dialogue: 0,0:14:23.38,0:14:25.89,Default,,0,0,0,,{\be1}Jestem szczęśliwa!
+Dialogue: 0,0:14:25.89,0:14:29.39,Default,,0,0,0,,{\be1}Nie zaciskaj tak mocno cipki,\Nbo nie przestanę się spuszczać!
+Dialogue: 0,0:14:31.11,0:14:34.70,Default,,0,0,0,,{\be1}Dostałam całą twoją spermę.
+Dialogue: 0,0:14:35.48,0:14:39.42,Default (i),,0,0,0,,{\be1}Mam w sobie dużo spermy!
+Dialogue: 0,0:14:41.07,0:14:44.40,Default,,0,0,0,,{\be1}Czekaj, niedługo zaczynamy!
+Dialogue: 0,0:14:44.87,0:14:48.61,Default,,0,0,0,,{\be1}Ktoś z pracowników może przyjść!
+Dialogue: 0,0:14:48.61,0:14:51.40,Default,,0,0,0,,{\be1}To czemu jesteś taka mokra?
+Dialogue: 0,0:14:52.59,0:14:56.42,Default,,0,0,0,,{\be1}No bo robisz mi nieprzyzwoite rzeczy!
+Dialogue: 0,0:14:56.96,0:15:02.01,Default,,0,0,0,,{\be1}Przynajmniej wiem, że chcesz!
+Dialogue: 0,0:15:05.93,0:15:10.02,Default (i),,0,0,0,,{\be1}Cudownie! Jej cipka mocno ściska!
+Dialogue: 0,0:15:10.02,0:15:14.23,Default (i),,0,0,0,,{\be1}Już ja ją porządnie zerżnę!
+Dialogue: 0,0:15:14.23,0:15:19.52,Default (i),,0,0,0,,{\be1}Co robić?\NTak mocno mi go wkłada!
+Dialogue: 0,0:15:19.52,0:15:23.24,Default (i),,0,0,0,,{\be1}Cały czas dotykam jej macicy!
+Dialogue: 0,0:15:23.24,0:15:28.78,Default (i),,0,0,0,,{\be1}To byłaby katastrofa, gdyby ktoś nas\Nzobaczył, a i tak się podniecam!
+Dialogue: 0,0:15:29.99,0:15:37.45,Default (i),,0,0,0,,{\be1}O nie, nie mogę skupić myśli!
+Dialogue: 0,0:15:37.45,0:15:42.46,Default,,0,0,0,,{\be1}Twój kutas dotyka wrażliwych miejsc!
+Dialogue: 0,0:15:42.93,0:15:47.77,Default,,0,0,0,,{\be1}Można mi czuć taką przyjemność, gdy fani czekają?
+Dialogue: 0,0:15:48.60,0:15:50.47,Default,,0,0,0,,{\be1}Potraktuj to jak rozgrzewkę!
+Dialogue: 0,0:15:51.73,0:15:55.40,Default,,0,0,0,,{\be1}- Bracie! O nie!\N- Zaraz dojdę!
+Dialogue: 0,0:15:55.40,0:15:59.23,Default (i),,0,0,0,,{\be1}Nie wytrzymam, moje ciało mnie nie słucha!
+Dialogue: 0,0:15:59.24,0:16:00.48,Default,,0,0,0,,{\be1}Dojdę w środku!
+Dialogue: 0,0:16:01.45,0:16:06.32,Default (i),,0,0,0,,{\be1}Wypuszcza całą spermę we mnie!
+Dialogue: 0,0:16:08.54,0:16:12.99,Default (i),,0,0,0,,{\be1}Od spermy mam nogi jak z waty!
+Dialogue: 0,0:16:14.88,0:16:19.23,Default,,0,0,0,,{\be1}Tak mi ściskasz kutasa, że jest cudownie!
+Dialogue: 0,0:16:20.01,0:16:24.24,Default,,0,0,0,,{\be1}Ale jej dużo!
+Dialogue: 0,0:16:29.01,0:16:32.50,Default,,0,0,0,,{\be1}W tobie też dużo się spuszczę.
+Dialogue: 0,0:16:32.50,0:16:35.60,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:16:35.60,0:16:41.16,Default,,0,0,0,,{\be1}Chcę twoją spermę, czy to na sobie, czy w środku.
+Dialogue: 0,0:16:44.07,0:16:46.41,Default,,0,0,0,,{\be1}Ale jesteś już mokra.
+Dialogue: 0,0:16:49.79,0:16:54.27,Default,,0,0,0,,{\be1}Twój kutas wchodzi głęboko!
+Dialogue: 0,0:16:56.92,0:17:01.75,Default,,0,0,0,,{\be1}Piersi mi podskakują, gdy wkładasz kutasa!
+Dialogue: 0,0:17:05.34,0:17:09.64,Default,,0,0,0,,{\be1}Należysz tylko do mnie!
+Dialogue: 0,0:17:09.64,0:17:13.55,Default,,0,0,0,,{\be1}Cieszy mnie to!
+Dialogue: 0,0:17:14.92,0:17:18.56,Default (i),,0,0,0,,{\be1}Mocno mi go wciąga,\Njakby chciała mnie od razu wydoić!
+Dialogue: 0,0:17:19.06,0:17:22.88,Default,,0,0,0,,{\be1}Aleś ty zboczona, nawet sutki ci sterczą!
+Dialogue: 0,0:17:22.88,0:17:24.87,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:17:25.57,0:17:34.83,Default,,0,0,0,,{\be1}Dla ciebie mogę być jeszcze bardziej\Nzboczona, tylko pieprz mnie mocniej!
+Dialogue: 0,0:17:37.88,0:17:39.09,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:17:39.84,0:17:48.89,Default (i),,0,0,0,,{\be1}Mocno wkłada mi kutasa i ciągle dotyka macicy!
+Dialogue: 0,0:17:52.47,0:17:54.17,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:18:04.32,0:18:09.20,Default (i),,0,0,0,,{\be1}Macica mi drży, gdy wlatuje w nią sperma!
+Dialogue: 0,0:18:11.16,0:18:19.62,Default,,0,0,0,,{\be1}Jestem pełna spermy. Cudownie mi.
+Dialogue: 0,0:18:19.62,0:18:21.91,Default,,0,0,0,,{\be1}Mnie też.
+Dialogue: 0,0:18:26.30,0:18:29.22,Default,,0,0,0,,{\be1}No to jeszcze raz.
+Dialogue: 0,0:18:29.22,0:18:32.89,Default,,0,0,0,,{\be1}- Niedługo mamy występ.\N- Spoko, jakoś zdążymy.
+Dialogue: 0,0:18:32.89,0:18:37.64,Default,,0,0,0,,{\be1}Ale z ciebie niewyżyty zbok!
+Dialogue: 0,0:18:38.10,0:18:41.03,Default,,0,0,0,,{\be1}Czemu zawsze musisz...
+Dialogue: 0,0:18:43.69,0:18:46.19,Default,,0,0,0,,{\be1}Jakie wy jesteście zboczone.
+Dialogue: 0,0:18:46.19,0:18:51.75,Default,,0,0,0,,{\be1}To dopiero początek zabawy.\NAyaka, ściśnij mocniej.
+Dialogue: 0,0:18:52.51,0:18:54.65,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:18:56.85,0:18:59.94,Default,,0,0,0,,{\be1}Mogę podziwiać 3 piękne tyłeczki.
+Dialogue: 0,0:18:59.94,0:19:02.63,Default,,0,0,0,,{\be1}Przestań nas zawstydzać, kretynie!
+Dialogue: 0,0:19:02.63,0:19:05.62,Default,,0,0,0,,{\be1}Makinya, Maimai, wasze cipki też są kuszące!
+Dialogue: 0,0:19:05.62,0:19:09.93,Default,,0,0,0,,{\be1}- Cudownie!\N- Najpierw spuszczę się w Makinyi!
+Dialogue: 0,0:19:09.93,0:19:12.29,Default,,0,0,0,,{\be1}Od razu wkładasz do samego końca!
+Dialogue: 0,0:19:13.05,0:19:16.31,Default,,0,0,0,,{\be1}Zaraz znowu spuścisz się we mnie!
+Dialogue: 0,0:19:16.93,0:19:20.60,Default,,0,0,0,,{\be1}Robisz się bardziej mokra od mojej spermy!
+Dialogue: 0,0:19:22.48,0:19:24.03,Default,,0,0,0,,{\be1}Bracie?
+Dialogue: 0,0:19:24.90,0:19:27.53,Default,,0,0,0,,{\be1}Czas na drugi wytrysk!
+Dialogue: 0,0:19:27.53,0:19:30.65,Default,,0,0,0,,{\be1}Czekaj, już nie dam rady!
+Dialogue: 0,0:19:30.65,0:19:32.65,Default,,0,0,0,,{\be1}Zaraz poleci!
+Dialogue: 0,0:19:32.65,0:19:36.74,Default (i),,0,0,0,,{\be1}Niesamowite, tak mocno go wkłada!
+Dialogue: 0,0:19:36.74,0:19:40.95,Default (i),,0,0,0,,{\be1}Zaraz zapełni mi całą cipkę!
+Dialogue: 0,0:19:43.92,0:19:51.34,Default,,0,0,0,,{\be1}Nie dam rady, za dobrze mi!\NNie panuję nad własnym ciałem!
+Dialogue: 0,0:19:51.34,0:19:54.72,Default (i),,0,0,0,,{\be1}Głęboko wkłada kutasa!
+Dialogue: 0,0:19:54.72,0:20:02.27,Default (i),,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:20:02.27,0:20:06.07,Default (i),,0,0,0,,{\be1}Nareszcie wlewa się we mnie sperma!
+Dialogue: 0,0:20:06.07,0:20:10.04,Default,,0,0,0,,{\be1}- Nie mogę przestać!\N{\i1}- Zapełnia mi cipkę!
+Dialogue: 0,0:20:14.41,0:20:19.13,Default,,0,0,0,,{\be1}Od razu głęboko go wkładasz!
+Dialogue: 0,0:20:25.08,0:20:27.78,Default,,0,0,0,,{\be1}Jesteś podły.
+Dialogue: 0,0:20:29.75,0:20:32.92,Default,,0,0,0,,{\be1}Ciebie równie mocno zerżnę!
+Dialogue: 0,0:20:32.93,0:20:35.68,Default,,0,0,0,,{\be1}Wchodzi głęboko!
+Dialogue: 0,0:20:35.68,0:20:38.18,Default,,0,0,0,,{\be1}Tak dobrze mi jeszcze nie było!
+Dialogue: 0,0:20:38.18,0:20:41.10,Default,,0,0,0,,{\be1}Czujesz, jak mocno go wkładam?
+Dialogue: 0,0:20:41.10,0:20:46.77,Default (i),,0,0,0,,{\be1}Nie przestaje uderzać o macicę!
+Dialogue: 0,0:20:52.40,0:20:54.55,Default,,0,0,0,,{\be1}Otwórz usta.
+Dialogue: 0,0:21:10.13,0:21:14.50,Default (i),,0,0,0,,{\be1}Wkłada mi go aż do gardła!
+Dialogue: 0,0:21:18.93,0:21:21.32,Default,,0,0,0,,{\be1}Nie zmarnuj ani kropli.
+Dialogue: 0,0:21:22.10,0:21:25.05,Default,,0,0,0,,{\be1}Masz cudowny języczek!
+Dialogue: 0,0:21:25.98,0:21:30.81,Default (i),,0,0,0,,{\be1}Chcę wypić całą jego spermę!
+Dialogue: 0,0:21:31.98,0:21:33.01,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:21:37.82,0:21:43.27,Default (i),,0,0,0,,{\be1}Czuję jego zapach.\NWypuszcza dużo spermy.
+Dialogue: 0,0:21:44.54,0:21:49.83,Default (i),,0,0,0,,{\be1}Sperma cieknie mi po języku.
+Dialogue: 0,0:21:50.71,0:21:55.55,Default (i),,0,0,0,,{\be1}Tyle razy się spuścił, a nadal jest gęsta.
+Dialogue: 0,0:21:55.55,0:21:59.92,Default (i),,0,0,0,,{\be1}Przykleja mi się do gardła i jest gorąca.
+Dialogue: 0,0:21:59.92,0:22:02.64,Default,,0,0,0,,{\be1}Cipka też dostanie.
+Dialogue: 0,0:22:02.64,0:22:06.73,Default,,0,0,0,,{\be1}Szybko, włóż go! Bracie!
+Dialogue: 0,0:22:07.90,0:22:08.90,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:22:08.90,0:22:14.85,Default,,0,0,0,,{\be1}Mocniej! Oboje poczujmy dużo przyjemności!
+Dialogue: 0,0:22:15.61,0:22:20.74,Default (i),,0,0,0,,{\be1}O tak! Nigdy mnie nie opuszczaj!
+Dialogue: 0,0:22:20.74,0:22:24.86,Default (i),,0,0,0,,{\be1}Chcę zostać z tobą na zawsze!
+Dialogue: 0,0:22:24.86,0:22:30.86,Default (i),,0,0,0,,{\be1}Popycha mi nawet macicę!
+Dialogue: 0,0:22:30.86,0:22:38.88,Default,,0,0,0,,{\be1}Nie wytrzymam, wypuść wszystko we mnie!
+Dialogue: 0,0:22:39.32,0:22:43.97,Default,,0,0,0,,{\be1}Dobra, zaraz wszystko dostaniesz!
+Dialogue: 0,0:22:43.97,0:22:52.06,Default,,0,0,0,,{\be1}Spuść się i zapełnij mnie spermą!
+Dialogue: 0,0:22:52.06,0:22:53.28,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:22:53.94,0:22:59.90,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:23:02.70,0:23:09.91,Default,,0,0,0,,{\be1}Więcej spermy wlatuje we mnie!
+Dialogue: 0,0:23:20.63,0:23:23.54,Default,,0,0,0,,{\be1}Jesteś cudowny!
+Dialogue: 0,0:23:24.81,0:23:26.81,Default,,0,0,0,,{\be1}No to wkładam.
+Dialogue: 0,0:23:26.81,0:23:27.93,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:23:28.72,0:23:32.65,Default,,0,0,0,,{\be1}Pieprz mnie mocniej!
+Dialogue: 0,0:23:32.65,0:23:35.06,Default,,0,0,0,,{\be1}Uwielbiam twój smak!
+Dialogue: 0,0:23:35.07,0:23:38.36,Default,,0,0,0,,{\be1}Ale z ciebie zbok!
+Dialogue: 0,0:23:38.36,0:23:45.83,Default,,0,0,0,,{\be1}Dopiero po występie będziemy mogli więcej\Nsię zabawiać, liżcie ile tylko chcecie.
+Dialogue: 0,0:23:45.83,0:23:48.58,Default,,0,0,0,,{\be1}Dochodzę! Podnieście głowy!
+Dialogue: 0,0:24:00.05,0:24:05.42,Default,,0,0,0,,{\be1}Dostałyśmy dużo miłości.
+Dialogue: 0,0:24:05.42,0:24:11.44,Default,,0,0,0,,{\be1}Dzięki tobie uspokoiłyśmy się.
+Dialogue: 0,0:24:12.90,0:24:16.09,Default,,0,0,0,,{\be1}Brat, teraz się postaramy.
+Dialogue: 0,0:25:09.99,0:25:13.82,Default (i),,0,0,0,,{\be1}O cholera, podniecam się!
+Dialogue: 0,0:25:18.29,0:25:23.88,Default (i),,0,0,0,,{\be1}Sperma rusza się we mnie!
+Dialogue: 0,0:25:25.13,0:25:31.99,Default (i),,0,0,0,,{\be1}O nie, sperma zaczyna wyciekać!
+Dialogue: 0,0:25:37.76,0:25:40.32,Default (i),,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:25:40.32,0:25:44.24,Default,,0,0,0,,{\be1}Dziękujemy!
+Dialogue: 0,0:25:53.83,0:25:57.29,Default,,0,0,0,,{\be1}Spisałyście się, było świetnie.
+Dialogue: 0,0:25:57.29,0:25:59.42,Default,,0,0,0,,{\be1}To dzięki tobie.
+Dialogue: 0,0:25:59.42,0:26:02.46,Default,,0,0,0,,{\be1}Nie, to wy się postarałyście.
+Dialogue: 0,0:26:03.17,0:26:10.47,Default,,0,0,0,,{\be1}Nieprawda, to dzięki twojemu dopingowi.
+Dialogue: 0,0:26:10.89,0:26:18.48,Default,,0,0,0,,{\be1}Byłam bardzo spokojna wiedząc,\Nże mam w sobie twoją spermę.
+Dialogue: 0,0:26:19.06,0:26:23.07,Default,,0,0,0,,{\be1}Przestańcie się kleić, a ty ślinić.
+Dialogue: 0,0:26:23.07,0:26:24.36,Default,,0,0,0,,{\be1}Serio?!
+Dialogue: 0,0:26:25.03,0:26:27.70,Default,,0,0,0,,{\be1}Łatwo cię rozszyfrować.
+Dialogue: 0,0:26:29.95,0:26:34.49,Default (i),,0,0,0,,{\be1}Zostałam sławną idolką dzięki mojemu bratu.
+Dialogue: 0,0:26:37.12,0:26:44.72,Default (i),,0,0,0,,{\be1}Wprawdzie jest głupi i zboczony, ale wiem,\Nże nie przestaniu mu na nas zależeć.
+Dialogue: 0,0:26:45.71,0:26:47.89,Default (i),,0,0,0,,{\be1}Bardzo go kocham!

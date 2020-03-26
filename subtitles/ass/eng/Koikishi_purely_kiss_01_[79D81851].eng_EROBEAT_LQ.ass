@@ -1,0 +1,486 @@
+﻿[Script Info]
+Title: Koikishi Purely Kiss
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 720
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,82,105,0,0,1,2.5,0,2,10,10,17,1
+Style: Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,79,100,0,0,1,2,0,2,10,10,9,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.69,0:00:07.82,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:00:07.82,0:00:08.82,Default,,0,0,0,,I'll head over right now!
+Dialogue: 0,0:00:10.03,0:00:11.90,Default,,0,0,0,,I'll get you out right away.
+Dialogue: 0,0:00:14.20,0:00:16.66,Default,,0,0,0,,Leave me and run, or you'll be in danger as well.
+Dialogue: 0,0:00:16.66,0:00:21.70,Default,,0,0,0,,No. If it's the knights of justice I saw\Non TV, they would never abandon...
+Dialogue: 0,0:00:27.21,0:00:30.46,Default,,0,0,0,,Well done! Everything's alright now.
+Dialogue: 0,0:00:30.92,0:00:32.97,Default,,0,0,0,,It was a knight that saved us.
+Dialogue: 0,0:00:32.97,0:00:34.47,Default,,0,0,0,,Knights of the modern era.
+Dialogue: 0,0:00:39.35,0:00:41.22,Default,,0,0,0,,I've decided. I'm going to become a knight.
+Dialogue: 0,0:00:41.22,0:00:42.64,Default,,0,0,0,,I pledge to you here,
+Dialogue: 0,0:00:43.23,0:00:46.23,Default,,0,0,0,,that I will become a knight that fulfills\Njustice better than all other!
+Dialogue: 0,0:00:46.48,0:00:47.73,Default,,0,0,0,,I pledge, too.
+Dialogue: 0,0:00:47.73,0:00:51.03,Default,,0,0,0,,I'll become a knight that protects\Nmore people than anyone else!
+Dialogue: 0,0:00:51.03,0:00:53.28,Default,,0,0,0,,Let's meet here someday again!
+Dialogue: 0,0:00:58.99,0:01:00.99,Default,,0,0,0,,I'm leaving my back to you, Kaname!
+Dialogue: 0,0:01:00.99,0:01:03.33,Default,,0,0,0,,Leave it to me, Elcia!
+Dialogue: 0,0:01:07.67,0:01:08.88,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:01:10.04,0:01:13.51,Default,,0,0,0,,Well done, but your swordsmanship is coarse as usual.
+Dialogue: 0,0:01:13.51,0:01:14.67,Default,,0,0,0,,C'mon, don't say that.
+Dialogue: 0,0:01:15.43,0:01:19.10,Default,,0,0,0,,I'm happy as long as I can protect Cia's back.
+Dialogue: 0,0:01:19.10,0:01:21.06,Default,,0,0,0,,You're being a little too comfortable, Kaname.
+Dialogue: 0,0:01:21.06,0:01:22.64,Default,,0,0,0,,Ah, my bad.
+Dialogue: 0,0:01:23.52,0:01:25.89,Default,,0,0,0,,My heart feels like it's going to explode, Kaname.
+Dialogue: 0,0:01:33.99,0:01:35.78,Title,,0,0,0,,{\fad(520,0)}Translation: Snake | Timing: v1touch | Typeset, Encode: ShocWave\NPresented by Erobeat | http://www.erobeat.net | #erobeat @ irc.rizon.net
+Dialogue: 0,0:01:41.53,0:01:43.12,Default,,0,0,0,,What?
+Dialogue: 0,0:01:43.33,0:01:45.08,Default,,0,0,0,,Wait, wait, wait!
+Dialogue: 0,0:01:45.08,0:01:46.37,Default,,0,0,0,,How do you know?
+Dialogue: 0,0:01:46.66,0:01:49.42,Default,,0,0,0,,The president was talking about it earlier.
+Dialogue: 0,0:01:49.42,0:01:51.38,Default,,0,0,0,,That old man...
+Dialogue: 0,0:01:51.54,0:01:54.63,Default,,0,0,0,,Why not? It's not like it's something you have to hide.
+Dialogue: 0,0:01:55.38,0:01:57.51,Default,,0,0,0,,Nii-san, how did I not hear of this?
+Dialogue: 0,0:01:58.30,0:02:00.34,Default,,0,0,0,,Hey, hey, so what kind of person is she?
+Dialogue: 0,0:02:00.60,0:02:02.43,Default,,0,0,0,,Please explain this!
+Dialogue: 0,0:02:01.55,0:02:03.01,Default,,0,0,0,,C'mon tell me!
+Dialogue: 0,0:02:02.43,0:02:03.81,Default,,0,0,0,,Wait up, please!
+Dialogue: 0,0:02:05.06,0:02:06.81,Default,,0,0,0,,What is the meaning of this, Nii-san?
+Dialogue: 0,0:02:07.52,0:02:09.10,Default,,0,0,0,,Ah, Cia!
+Dialogue: 0,0:02:09.52,0:02:10.86,Default,,0,0,0,,Cia?
+Dialogue: 0,0:02:10.86,0:02:12.52,Default,,0,0,0,,Elcia-san...
+Dialogue: 0,0:02:17.11,0:02:20.11,Default,,0,0,0,,Um, it's a paired patrol so,
+Dialogue: 0,0:02:20.78,0:02:24.12,Default,,0,0,0,,um, it works less well if you're too far away...
+Dialogue: 0,0:02:24.12,0:02:26.16,Default,,0,0,0,,And it's hard to talk, too.
+Dialogue: 0,0:02:26.95,0:02:28.62,Default,,0,0,0,,Suspicious people discovered.
+Dialogue: 0,0:02:29.71,0:02:30.50,Default,,0,0,0,,We need to pursuit.
+Dialogue: 0,0:02:30.50,0:02:32.67,Default,,0,0,0,,Hey Cia! Don't chase after them on your own!
+Dialogue: 0,0:02:32.67,0:02:34.75,Default,,0,0,0,,We should contact the leader Kaori-san first!
+Dialogue: 0,0:02:36.21,0:02:38.47,Default,,0,0,0,,Hey Cia! What happened to you!?
+Dialogue: 0,0:02:38.93,0:02:40.55,Default,,0,0,0,,Cia!
+Dialogue: 0,0:02:48.73,0:02:50.35,Default,,0,0,0,,Like I'd let you run away!
+Dialogue: 0,0:02:50.35,0:02:51.65,Default,,0,0,0,,Oh?
+Dialogue: 0,0:02:51.65,0:02:56.19,Default,,0,0,0,,For a cute knight to come right into\Nthe HQs of a theft group, huh?
+Dialogue: 0,0:03:02.24,0:03:04.70,Default,,0,0,0,,This is bad. I've been completely surrounded.
+Dialogue: 0,0:03:04.70,0:03:07.87,Default,,0,0,0,,And right now, I don't have Kaname\Nto protect my backside.
+Dialogue: 0,0:03:07.87,0:03:09.79,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:09.79,0:03:12.58,Default,,0,0,0,,It won't be fun if you don't resist a little.
+Dialogue: 0,0:03:13.33,0:03:19.42,Default,,0,0,0,,Well there are ways to enjoy a scared little girl as well.
+Dialogue: 0,0:03:21.09,0:03:22.89,Default,,0,0,0,,Who the fuck are you!?
+Dialogue: 0,0:03:25.05,0:03:26.76,Default,,0,0,0,,You bastard!
+Dialogue: 0,0:03:27.60,0:03:30.48,Default,,0,0,0,,That rough, left-handed sword.
+Dialogue: 0,0:03:30.98,0:03:33.48,Default,,0,0,0,,Damn it! Go! Take care of him!
+Dialogue: 0,0:03:33.86,0:03:36.40,Default,,0,0,0,,Coming in alone again like that,
+Dialogue: 0,0:03:36.40,0:03:38.86,Default,,0,0,0,,knights are all stupid aren't you?
+Dialogue: 0,0:03:38.86,0:03:39.94,Default,,0,0,0,,I'm not alone!
+Dialogue: 0,0:03:40.61,0:03:43.16,Default,,0,0,0,,There's another powerful knight right there!
+Dialogue: 0,0:03:53.21,0:03:57.46,Default,,0,0,0,,Amazing... My body is suddenly free to move.
+Dialogue: 0,0:03:59.42,0:04:01.34,Default,,0,0,0,,The knights are coming in groups!
+Dialogue: 0,0:04:01.34,0:04:02.34,Default,,0,0,0,,Shit!
+Dialogue: 0,0:04:02.34,0:04:03.34,Default,,0,0,0,,Run!
+Dialogue: 0,0:04:03.97,0:04:05.80,Default,,0,0,0,,Cia! Are you okay?
+Dialogue: 0,0:04:06.10,0:04:08.76,Default,,0,0,0,,You didn't have to come, you know...
+Dialogue: 0,0:04:11.60,0:04:15.48,Default,,0,0,0,,You idiot! I was really... really worried about you.
+Dialogue: 0,0:04:17.86,0:04:19.32,Default,,0,0,0,,Sorry... I'm sorry.
+Dialogue: 0,0:04:19.90,0:04:23.20,Default,,0,0,0,,I was thinking that... I'd had to be able to fight alone.
+Dialogue: 0,0:04:23.20,0:04:26.12,Default,,0,0,0,,But I ended up realizing that,
+Dialogue: 0,0:04:26.12,0:04:29.49,Default,,0,0,0,,without you, I'm unable to put forth my strengths.
+Dialogue: 0,0:04:29.66,0:04:32.75,Default,,0,0,0,,Then it'd be fine if we always hold out together, right?
+Dialogue: 0,0:04:33.21,0:04:34.25,Default,,0,0,0,,But...
+Dialogue: 0,0:04:34.83,0:04:35.75,Default,,0,0,0,,But...
+Dialogue: 0,0:04:46.34,0:04:48.10,Default,,0,0,0,,No sense, and no thoughts!
+Dialogue: 0,0:04:50.26,0:04:52.06,Default,,0,0,0,,With undivided attention!
+Dialogue: 0,0:04:55.31,0:04:57.40,Default,,0,0,0,,And a completely clear mind!
+Dialogue: 0,0:04:57.94,0:05:00.11,Default,,0,0,0,,Cia! As expected you were here.
+Dialogue: 0,0:05:00.32,0:05:03.32,Default,,0,0,0,,Like a clear mirror and still waters!
+Dialogue: 0,0:05:02.07,0:05:03.86,Default,,0,0,0,,Wait, wait, wait, wait!!
+Dialogue: 0,0:05:06.66,0:05:09.20,Default,,0,0,0,,Ouch... Ah that was quite scary.
+Dialogue: 0,0:05:09.62,0:05:12.41,Default,,0,0,0,,It's Kaname's bad for suddenly appearing in...
+Dialogue: 0,0:05:12.41,0:05:13.96,Default,,0,0,0,,front of me.
+Dialogue: 0,0:05:18.63,0:05:21.42,Default,,0,0,0,,Cia, there's something I want to tell you.
+Dialogue: 0,0:05:21.42,0:05:23.42,Default,,0,0,0,,There's nothing you can get from me.
+Dialogue: 0,0:05:23.42,0:05:25.97,Default,,0,0,0,,Why don't you ask someone like\Nyour marriage meeting partner?
+Dialogue: 0,0:05:26.26,0:05:26.97,Default,,0,0,0,,Cia...
+Dialogue: 0,0:05:28.72,0:05:30.51,Default,,0,0,0,,I declined the marriage meeting.
+Dialogue: 0,0:05:30.51,0:05:32.01,Default,,0,0,0,,There just one reason.
+Dialogue: 0,0:05:32.01,0:05:34.39,Default,,0,0,0,,I have a girl I like.
+Dialogue: 0,0:05:34.39,0:05:35.85,Default,,0,0,0,,I can't lie anymore.
+Dialogue: 0,0:05:35.85,0:05:37.23,Default,,0,0,0,,I like you, Cia!
+Dialogue: 0,0:05:37.60,0:05:39.23,Default,,0,0,0,,K-kaname...
+Dialogue: 0,0:05:39.81,0:05:42.07,Default,,0,0,0,,Please don't lie to me either, Cia.
+Dialogue: 0,0:05:42.32,0:05:44.36,Default,,0,0,0,,Answer with all honesty, please!
+Dialogue: 0,0:05:45.15,0:05:46.11,Default,,0,0,0,,I don't know...
+Dialogue: 0,0:05:46.95,0:05:48.36,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:05:48.86,0:05:51.58,Default,,0,0,0,,Since when... No,
+Dialogue: 0,0:05:51.58,0:05:56.04,Default,,0,0,0,,it was probably since we first met, I've always... always...
+Dialogue: 0,0:05:56.04,0:05:58.71,Default,,0,0,0,,Kaname...
+Dialogue: 0,0:05:58.71,0:06:00.88,Default,,0,0,0,,I like you, too.
+Dialogue: 0,0:06:01.59,0:06:02.80,Default,,0,0,0,,Cia...
+Dialogue: 0,0:06:02.80,0:06:05.38,Default,,0,0,0,,Sorry for not telling you earlier.
+Dialogue: 0,0:06:05.72,0:06:09.26,Default,,0,0,0,,You're really late, you know. But I\Nguess that's true for both of us.
+Dialogue: 0,0:06:15.64,0:06:19.90,Default,,0,0,0,,Kaname, no... My feelings are overflowing...
+Dialogue: 0,0:06:21.44,0:06:22.86,Default,,0,0,0,,Don't be in such a hurry.
+Dialogue: 0,0:06:22.86,0:06:24.65,Default,,0,0,0,,I'm going to lose myself...
+Dialogue: 0,0:06:26.57,0:06:29.32,Default,,0,0,0,,It's unfair for you to do all you want...
+Dialogue: 0,0:06:29.32,0:06:32.24,Default,,0,0,0,,I want to... touch Kaname, too.
+Dialogue: 0,0:06:32.24,0:06:33.91,Default,,0,0,0,,I want us to both be... loving each other...
+Dialogue: 0,0:06:37.37,0:06:39.12,Default,,0,0,0,,It's like...
+Dialogue: 0,0:06:39.12,0:06:41.21,Default,,0,0,0,,I'm getting a burn from your tongue...
+Dialogue: 0,0:06:41.92,0:06:43.09,Default,,0,0,0,,Kaname?
+Dialogue: 0,0:06:43.34,0:06:45.76,Default,,0,0,0,,I want to know more about you, Cia.
+Dialogue: 0,0:06:49.34,0:06:51.34,Default,,0,0,0,,Don't look too much...
+Dialogue: 0,0:06:51.34,0:06:52.85,Default,,0,0,0,,It's embarrassing...
+Dialogue: 0,0:06:52.85,0:06:55.14,Default,,0,0,0,,What are you talking about? They're beautiful.
+Dialogue: 0,0:06:55.14,0:06:57.73,Default,,0,0,0,,No... I'm just being touched and yet...
+Dialogue: 0,0:06:57.73,0:06:59.27,Default,,0,0,0,,I'm feeling it too much...
+Dialogue: 0,0:07:00.10,0:07:02.06,Default,,0,0,0,,Don't grab them like that...
+Dialogue: 0,0:07:05.61,0:07:06.53,Default,,0,0,0,,That's...
+Dialogue: 0,0:07:07.23,0:07:10.28,Default,,0,0,0,,not somewhere you should lick...
+Dialogue: 0,0:07:13.57,0:07:14.83,Default,,0,0,0,,It's hot...
+Dialogue: 0,0:07:14.83,0:07:18.79,Default,,0,0,0,,Whenever Kaname touches me, it keeps getting hotter...
+Dialogue: 0,0:07:18.79,0:07:22.79,Default,,0,0,0,,This is the first time I've been like\Nthis... I don't know what to do...
+Dialogue: 0,0:07:23.96,0:07:26.38,Default,,0,0,0,,Cia, you don't have to hold back.
+Dialogue: 0,0:07:26.38,0:07:29.05,Default,,0,0,0,,Even if you say that...
+Dialogue: 0,0:07:30.30,0:07:34.72,Default,,0,0,0,,Kaname... Kaname! K-kaname, I, I'm already...
+Dialogue: 0,0:07:41.02,0:07:42.94,Default,,0,0,0,,Did you cum, Cia?
+Dialogue: 0,0:07:42.94,0:07:46.36,Default,,0,0,0,,Cum? I see, so this is what is called "cumming"...
+Dialogue: 0,0:07:46.36,0:07:47.78,Default,,0,0,0,,It's Kaname's fault, alright?
+Dialogue: 0,0:07:48.28,0:07:51.53,Default,,0,0,0,,Being attacked over and over again... this is as if...
+Dialogue: 0,0:07:51.86,0:07:54.53,Default,,0,0,0,,Kaname, where are you touching?
+Dialogue: 0,0:07:54.66,0:07:58.04,Default,,0,0,0,,No! I'm sweating from practice, it's dirty!
+Dialogue: 0,0:07:59.45,0:08:01.66,Default,,0,0,0,,There's nothing dirty about Cia!
+Dialogue: 0,0:08:01.66,0:08:03.79,Default,,0,0,0,,No... it's really...
+Dialogue: 0,0:08:04.04,0:08:07.29,Default,,0,0,0,,Really? Even though Cia is saying\Nshe feels good down here.
+Dialogue: 0,0:08:08.42,0:08:11.26,Default,,0,0,0,,Don't! Don't make such kind of noises...
+Dialogue: 0,0:08:11.26,0:08:14.09,Default,,0,0,0,,I'll... I'll cum again...
+Dialogue: 0,0:08:14.09,0:08:15.55,Default,,0,0,0,,Wait, Kaname...
+Dialogue: 0,0:08:33.45,0:08:34.82,Default,,0,0,0,,K-Kaname...
+Dialogue: 0,0:08:35.99,0:08:39.70,Default,,0,0,0,,Cia... Sorry, I don't think I can hold back anymore.
+Dialogue: 0,0:08:40.83,0:08:44.17,Default,,0,0,0,,Me, too... I want to give you everything.
+Dialogue: 0,0:08:44.17,0:08:45.29,Default,,0,0,0,,Cia...
+Dialogue: 0,0:08:52.47,0:08:54.51,Default,,0,0,0,,A bit lower...
+Dialogue: 0,0:09:00.10,0:09:01.31,Default,,0,0,0,,Kaname...
+Dialogue: 0,0:09:05.81,0:09:08.06,Default,,0,0,0,,Are you okay, Cia?
+Dialogue: 0,0:09:09.57,0:09:13.82,Default,,0,0,0,,I'm fine. More importantly if you\Ndon't come deeper inside...
+Dialogue: 0,0:09:14.57,0:09:16.36,Default,,0,0,0,,It'd be painful for you, right?
+Dialogue: 0,0:09:16.36,0:09:17.28,Default,,0,0,0,,But...
+Dialogue: 0,0:09:17.28,0:09:21.08,Default,,0,0,0,,I already said it, right? That I want to take all of you.
+Dialogue: 0,0:09:21.45,0:09:22.58,Default,,0,0,0,,Cia!
+Dialogue: 0,0:09:35.55,0:09:37.76,Default,,0,0,0,,Cia, it's all in!
+Dialogue: 0,0:09:37.76,0:09:40.14,Default,,0,0,0,,I'm a very lucky person...
+Dialogue: 0,0:09:40.14,0:09:43.60,Default,,0,0,0,,To give my first time to my first love...
+Dialogue: 0,0:09:43.81,0:09:44.85,Default,,0,0,0,,Cia!
+Dialogue: 0,0:09:49.36,0:09:50.65,Default,,0,0,0,,Kaname!
+Dialogue: 0,0:09:51.94,0:09:56.24,Default,,0,0,0,,Cia's insides... are soft... and it feels really good!
+Dialogue: 0,0:09:56.24,0:10:00.70,Default,,0,0,0,,Don't lie, Kaname... You're holding back...
+Dialogue: 0,0:10:00.70,0:10:03.83,Default,,0,0,0,,I want you to feel it lots as well...
+Dialogue: 0,0:10:04.16,0:10:06.66,Default,,0,0,0,,Even though you look like you really hurt...
+Dialogue: 0,0:10:06.66,0:10:09.04,Default,,0,0,0,,You'll engrave it deep inside me, right?
+Dialogue: 0,0:10:09.83,0:10:11.29,Default,,0,0,0,,So this moment
+Dialogue: 0,0:10:11.88,0:10:13.80,Default,,0,0,0,,never vanishes in my life!
+Dialogue: 0,0:10:14.92,0:10:16.05,Default,,0,0,0,,Cia, I love you!
+Dialogue: 0,0:10:17.68,0:10:19.80,Default,,0,0,0,,Cia! Cia!
+Dialogue: 0,0:10:20.14,0:10:24.06,Default,,0,0,0,,I can tell... where Kaname is right now...
+Dialogue: 0,0:10:24.52,0:10:28.44,Default,,0,0,0,,How deep you are going into me... I can tell!
+Dialogue: 0,0:10:28.44,0:10:31.31,Default,,0,0,0,,Feel me too, Kaname!
+Dialogue: 0,0:10:31.98,0:10:35.19,Default,,0,0,0,,Please! Hit deep inside me!
+Dialogue: 0,0:10:35.99,0:10:39.36,Default,,0,0,0,,The sensation of me... that only you will know...
+Dialogue: 0,0:10:39.36,0:10:42.70,Default,,0,0,0,,Burn it in your memory for the rest of your life...
+Dialogue: 0,0:10:44.29,0:10:45.95,Default,,0,0,0,,I love you, Cia!
+Dialogue: 0,0:10:46.16,0:10:47.71,Default,,0,0,0,,Kaname! Love you!
+Dialogue: 0,0:10:47.83,0:10:48.91,Default,,0,0,0,,Kaname!
+Dialogue: 0,0:10:48.91,0:10:49.92,Default,,0,0,0,,Cia!
+Dialogue: 0,0:10:50.87,0:10:52.33,Default,,0,0,0,,This is...
+Dialogue: 0,0:10:55.92,0:11:00.18,Default,,0,0,0,,Kaname, it's going deeper that before...
+Dialogue: 0,0:11:00.68,0:11:03.18,Default,,0,0,0,,Something other than pain...
+Dialogue: 0,0:11:04.56,0:11:07.18,Default,,0,0,0,,It's good! What is this? It feels good!
+Dialogue: 0,0:11:07.18,0:11:10.06,Default,,0,0,0,,K-kaname's feelings are being conveyed...
+Dialogue: 0,0:11:10.81,0:11:12.98,Default,,0,0,0,,That you want me so much...
+Dialogue: 0,0:11:12.98,0:11:15.11,Default,,0,0,0,,I'm... already...
+Dialogue: 0,0:11:15.11,0:11:16.78,Default,,0,0,0,,Cia, me too.
+Dialogue: 0,0:11:16.78,0:11:17.99,Default,,0,0,0,,I'm already...
+Dialogue: 0,0:11:18.74,0:11:21.36,Default,,0,0,0,,I want it! From inside Kaname's body to inside mine,
+Dialogue: 0,0:11:21.36,0:11:22.62,Default,,0,0,0,,the sperm that your body produces...
+Dialogue: 0,0:11:22.62,0:11:26.45,Default,,0,0,0,,Pour it all into me through your phallus!
+Dialogue: 0,0:11:26.45,0:11:29.46,Default,,0,0,0,,Kaname! All of it...
+Dialogue: 0,0:11:29.46,0:11:33.25,Default,,0,0,0,,Warm my insides with your feelings!
+Dialogue: 0,0:11:35.21,0:11:36.55,Default,,0,0,0,,Cia!
+Dialogue: 0,0:11:37.13,0:11:39.47,Default,,0,0,0,,It's hot! It came... It's coming...
+Dialogue: 0,0:11:40.13,0:11:41.63,Default,,0,0,0,,Cumming...
+Dialogue: 0,0:11:43.89,0:11:49.43,Default,,0,0,0,,I can't stop cumming inside Cia...
+Dialogue: 0,0:11:49.43,0:11:51.27,Default,,0,0,0,,Hot...
+Dialogue: 0,0:11:52.52,0:11:57.36,Default,,0,0,0,,It's hot... If this goes on, I'm really going to get burned...
+Dialogue: 0,0:11:58.11,0:12:01.65,Default,,0,0,0,,Sorry Cia, looks like it's not gonna stop for a while.
+Dialogue: 0,0:12:01.65,0:12:05.16,Default,,0,0,0,,It's fine. More importantly don't take it out.
+Dialogue: 0,0:12:05.16,0:12:08.91,Default,,0,0,0,,I want to keep being... connected with you...
+Dialogue: 0,0:12:21.76,0:12:23.22,Default,,0,0,0,,Kaname...
+Dialogue: 0,0:12:23.22,0:12:24.64,Default,,0,0,0,,Cia...
+Dialogue: 0,0:12:30.72,0:12:32.94,Default,,0,0,0,,Ah! That must be it.
+Dialogue: 0,0:12:32.94,0:12:34.27,Default,,0,0,0,,Sorry to keep you waiting!
+Dialogue: 0,0:12:34.27,0:12:35.69,Default,,0,0,0,,Oh, Cia... uh!
+Dialogue: 0,0:12:36.52,0:12:40.23,Default,,0,0,0,,This... If you look again, she has an amazing body.
+Dialogue: 0,0:12:40.23,0:12:42.61,Default,,0,0,0,,It's good to relax once in a while, huh.
+Dialogue: 0,0:12:42.90,0:12:44.95,Default,,0,0,0,,Kaname? Where are you looking.
+Dialogue: 0,0:12:44.95,0:12:47.20,Default,,0,0,0,,S-sorry! I couldn't help but...
+Dialogue: 0,0:12:47.20,0:12:52.04,Default,,0,0,0,,Oh well. Kaname did mistake me\Nfor a guy in that past before.
+Dialogue: 0,0:12:52.04,0:12:54.33,Default,,0,0,0,,I'll make you re-recognize me here.
+Dialogue: 0,0:12:55.00,0:12:59.96,Default,,0,0,0,,However, although we were kids... for me\Nto make a mistake on Elcia's gender...
+Dialogue: 0,0:12:59.96,0:13:03.88,Default,,0,0,0,,How's this? No matter how you\Nlook at it, I'm a woman, right?
+Dialogue: 0,0:13:03.88,0:13:05.84,Default,,0,0,0,,There's not a single thing to complain about.
+Dialogue: 0,0:13:05.84,0:13:09.72,Default,,0,0,0,,Good. The Kaname in the past should\Nbe reflecting on himself.
+Dialogue: 0,0:13:11.52,0:13:13.06,Default,,0,0,0,,Cia, this is...
+Dialogue: 0,0:13:13.64,0:13:16.35,Default,,0,0,0,,If, if there's something you want to say, blurt it out.
+Dialogue: 0,0:13:16.35,0:13:18.86,Default,,0,0,0,,It's a very unique room...
+Dialogue: 0,0:13:18.86,0:13:20.82,Default,,0,0,0,,That's a very common way to put it.
+Dialogue: 0,0:13:21.44,0:13:23.36,Default,,0,0,0,,This is my hobby.
+Dialogue: 0,0:13:23.36,0:13:25.90,Default,,0,0,0,,People often think it's strange, but...
+Dialogue: 0,0:13:25.90,0:13:28.07,Default,,0,0,0,,There's nothing wrong or bad about it.
+Dialogue: 0,0:13:28.07,0:13:33.25,Default,,0,0,0,,For starters, there's no reason why\NI can't collect stuffed dolls, right?
+Dialogue: 0,0:13:33.25,0:13:36.08,Default,,0,0,0,,That's right, there would never be.
+Dialogue: 0,0:13:36.08,0:13:38.25,Default,,0,0,0,,By the way that alligator...
+Dialogue: 0,0:13:38.25,0:13:40.46,Default,,0,0,0,,Ah, this child? He's called Porthos!
+Dialogue: 0,0:13:42.25,0:13:44.42,Default,,0,0,0,,Kaname! Here, say ah...
+Dialogue: 0,0:13:44.92,0:13:48.30,Default,,0,0,0,,C-Cia! This might be a little too embarrassing...
+Dialogue: 0,0:13:48.64,0:13:51.72,Default,,0,0,0,,It-it's fine! Other couples are doing it, too.
+Dialogue: 0,0:13:51.72,0:13:52.31,Default,,0,0,0,,Here...
+Dialogue: 0,0:14:00.98,0:14:02.73,Default,,0,0,0,,I took it off properly...
+Dialogue: 0,0:14:02.73,0:14:05.40,Default,,0,0,0,,Me and Kaname are a couple.
+Dialogue: 0,0:14:05.40,0:14:07.95,Default,,0,0,0,,I still thought so at this time.
+Dialogue: 0,0:14:10.28,0:14:12.53,Default,,0,0,0,,Kaname is still...
+Dialogue: 0,0:14:13.24,0:14:15.33,Default,,0,0,0,,a lucky pervert...
+Dialogue: 0,0:14:15.50,0:14:17.12,Default,,0,0,0,,So you saw...
+Dialogue: 0,0:14:15.95,0:14:21.34,Default,,0,0,0,,Or should I say he does things\Nat surprisingly horrible times...
+Dialogue: 0,0:14:22.04,0:14:25.55,Default,,0,0,0,,I'm not worried about such things!
+Dialogue: 0,0:14:25.55,0:14:28.01,Default,,0,0,0,,Yeah! Not worried at all!
+Dialogue: 0,0:14:30.89,0:14:33.31,Default,,0,0,0,,The problem is not that, but...
+Dialogue: 0,0:14:35.10,0:14:36.85,Default,,0,0,0,,Let's sleep early today!
+Dialogue: 0,0:14:36.85,0:14:39.98,Default,,0,0,0,,I have a date with Kaname tomorrow, after all!
+Dialogue: 0,0:14:40.35,0:14:43.02,Default,,0,0,0,,We should go there, and then there...
+Dialogue: 0,0:14:43.02,0:14:46.28,Default,,0,0,0,,I wonder if we'll end up doing it again at the end...
+Dialogue: 0,0:14:46.86,0:14:47.74,Default,,0,0,0,,Ah, Cia!
+Dialogue: 0,0:14:48.65,0:14:50.24,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:14:51.78,0:14:54.12,Default,,0,0,0,,But the Umaibo is the best I think!
+Dialogue: 0,0:14:54.12,0:14:56.54,Default,,0,0,0,,Yeah, that's certainly tasty.
+Dialogue: 0,0:14:56.54,0:15:00.54,Default,,0,0,0,,By the way, Elcia-san's breasts\Nare very plump and beautiful.
+Dialogue: 0,0:15:00.54,0:15:01.75,Default,,0,0,0,,R-Really?
+Dialogue: 0,0:15:01.96,0:15:05.34,Default,,0,0,0,,It's amazing! Your boobs float on water!
+Dialogue: 0,0:15:07.71,0:15:12.01,Default,,0,0,0,,I wonder if Nii-san became a captive of this bust as well...
+Dialogue: 0,0:15:12.01,0:15:13.26,Default,,0,0,0,,Yuu!
+Dialogue: 0,0:15:13.97,0:15:16.77,Default,,0,0,0,,But it's true that if you do this...
+Dialogue: 0,0:15:17.43,0:15:20.06,Default,,0,0,0,,you can really calm down...
+Dialogue: 0,0:15:21.14,0:15:26.02,Default,,0,0,0,,If it's a sister in law like Elcia-san, I might want one.
+Dialogue: 0,0:15:26.78,0:15:28.11,Default,,0,0,0,,Yuu?
+Dialogue: 0,0:15:29.07,0:15:32.61,Default,,0,0,0,,I want a sister like Cia as well!
+Dialogue: 0,0:15:33.32,0:15:35.33,Default,,0,0,0,,So soft!
+Dialogue: 0,0:15:36.12,0:15:38.79,Default,,0,0,0,,My chest is not a toy!
+Dialogue: 0,0:15:40.62,0:15:44.29,Default,,0,0,0,,I wonder if Kaname likes larger breasts as expected...
+Dialogue: 0,0:15:44.29,0:15:46.34,Default,,0,0,0,,That must be the case, since
+Dialogue: 0,0:15:46.34,0:15:49.55,Default,,0,0,0,,when we're doing it he...
+Dialogue: 0,0:15:49.55,0:15:53.09,Default,,0,0,0,,But then, what about Kaori-san?
+Dialogue: 0,0:15:53.09,0:15:56.31,Default,,0,0,0,,I've never seen such amazing breasts anywhere else.
+Dialogue: 0,0:15:56.31,0:16:00.10,Default,,0,0,0,,I don't suppose Kaname is going after Kaori-san as well...
+Dialogue: 0,0:16:03.98,0:16:06.19,Default,,0,0,0,,C'mon!
+Dialogue: 0,0:16:13.82,0:16:15.03,Default,,0,0,0,,Kaname...
+Dialogue: 0,0:16:15.49,0:16:17.24,Default,,0,0,0,,From then on,
+Dialogue: 0,0:16:17.24,0:16:19.33,Default,,0,0,0,,I started avoiding Kaname.
+Dialogue: 0,0:16:21.37,0:16:23.75,Default,,0,0,0,,It was... a time of nothing but pain.
+Dialogue: 0,0:17:13.47,0:17:16.89,Default,,0,0,0,,The view here hasn't changed at all from back then.
+Dialogue: 0,0:17:17.34,0:17:19.89,Default,,0,0,0,,The town and the sea you can see from here...
+Dialogue: 0,0:17:21.18,0:17:22.60,Default,,0,0,0,,Kaname...
+Dialogue: 0,0:17:23.52,0:17:24.89,Default,,0,0,0,,Cia...
+Dialogue: 0,0:17:25.94,0:17:29.11,Default,,0,0,0,,I didn't think that Kaname would come here as well.
+Dialogue: 0,0:17:30.52,0:17:34.44,Default,,0,0,0,,Because this is the important place\Nwhen our connection started.
+Dialogue: 0,0:17:34.44,0:17:36.49,Default,,0,0,0,,It's a great thing that it started but...
+Dialogue: 0,0:17:36.49,0:17:39.87,Default,,0,0,0,,Before I knew it, I lost sight of the goal.
+Dialogue: 0,0:17:40.33,0:17:43.00,Default,,0,0,0,,Cia, do you remember what happened on that day?
+Dialogue: 0,0:17:43.16,0:17:45.29,Default,,0,0,0,,Of course. I remember.
+Dialogue: 0,0:17:46.92,0:17:48.04,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:17:48.04,0:17:49.04,Default,,0,0,0,,I'll head over right now!
+Dialogue: 0,0:17:50.25,0:17:52.17,Default,,0,0,0,,I'll get you out right away.
+Dialogue: 0,0:17:54.88,0:17:56.55,Default,,0,0,0,,The scar on your right hand,
+Dialogue: 0,0:17:56.55,0:17:58.80,Default,,0,0,0,,is from trying to help me at that time.
+Dialogue: 0,0:17:59.22,0:18:00.93,Default,,0,0,0,,Cia, about what happened before...
+Dialogue: 0,0:18:00.93,0:18:02.64,Default,,0,0,0,,That was because Kaori-san was drunk and...
+Dialogue: 0,0:18:02.64,0:18:04.06,Default,,0,0,0,,You don't have to say it.
+Dialogue: 0,0:18:04.27,0:18:07.85,Default,,0,0,0,,I wonder why I was upset... Kaname's not\Nthe kind of person to do such things.
+Dialogue: 0,0:18:07.85,0:18:10.06,Default,,0,0,0,,I should know that the best.
+Dialogue: 0,0:18:10.69,0:18:13.53,Default,,0,0,0,,Although the goal is still very far away,
+Dialogue: 0,0:18:14.32,0:18:18.32,Default,,0,0,0,,Please walk all the way with me, Cia.
+Dialogue: 0,0:18:18.66,0:18:21.58,Default,,0,0,0,,We'll always be together, Kaname.
+Dialogue: 0,0:18:44.31,0:18:47.02,Default,,0,0,0,,For it to become this big...
+Dialogue: 0,0:18:47.02,0:18:49.44,Default,,0,0,0,,You've really been holding back, haven't you?
+Dialogue: 0,0:18:49.44,0:18:50.65,Default,,0,0,0,,Very well then.
+Dialogue: 0,0:18:50.65,0:18:53.36,Default,,0,0,0,,I'll take responsibility and release it for you.
+Dialogue: 0,0:18:53.69,0:18:57.78,Default,,0,0,0,,But you really can't get used to the grotesqueness\Nno matter how many times you look at this.
+Dialogue: 0,0:18:57.94,0:19:00.07,Default,,0,0,0,,I don't mind since it's Kaname's but...
+Dialogue: 0,0:19:00.07,0:19:00.95,Default,,0,0,0,,Hey!
+Dialogue: 0,0:19:00.95,0:19:03.74,Default,,0,0,0,,It's twitching around like some kind of monster...
+Dialogue: 0,0:19:03.74,0:19:08.16,Default,,0,0,0,,I don't know what it's gonna do\Nif I don't hold it still like this.
+Dialogue: 0,0:19:08.16,0:19:09.12,Default,,0,0,0,,It feels good!
+Dialogue: 0,0:19:09.12,0:19:13.75,Default,,0,0,0,,Geez, I'll take responsibility so you\Ndon't direct your desires to others...
+Dialogue: 0,0:19:15.55,0:19:19.55,Default,,0,0,0,,It's hard, and really salty...
+Dialogue: 0,0:19:19.55,0:19:22.55,Default,,0,0,0,,I can't let Cia do everything, can I?
+Dialogue: 0,0:19:24.18,0:19:25.22,Default,,0,0,0,,Kaname?
+Dialogue: 0,0:19:25.72,0:19:26.89,Default,,0,0,0,,No way!
+Dialogue: 0,0:19:28.85,0:19:30.77,Default,,0,0,0,,I'm going to have a taste.
+Dialogue: 0,0:19:30.77,0:19:32.35,Default,,0,0,0,,There's no such need...
+Dialogue: 0,0:19:33.81,0:19:36.53,Default,,0,0,0,,It's a little sour, but surprisingly easy to drink.
+Dialogue: 0,0:19:37.15,0:19:38.90,Default,,0,0,0,,I'm doing it right now.
+Dialogue: 0,0:19:38.90,0:19:42.03,Default,,0,0,0,,There's no need for you to do anything...
+Dialogue: 0,0:19:42.03,0:19:43.78,Default,,0,0,0,,If you're gonna be so stubborn,
+Dialogue: 0,0:19:45.24,0:19:49.96,Default,,0,0,0,,I'll keep going until your waist gives away!
+Dialogue: 0,0:19:49.96,0:19:52.75,Default,,0,0,0,,Cia's become really daring.
+Dialogue: 0,0:19:53.67,0:19:54.75,Default,,0,0,0,,You idiot!
+Dialogue: 0,0:19:54.75,0:19:58.21,Default,,0,0,0,,Who do you think made be become so?
+Dialogue: 0,0:19:58.21,0:20:02.18,Default,,0,0,0,,It was you that made me such a sloppy woman!
+Dialogue: 0,0:20:03.43,0:20:05.60,Default,,0,0,0,,Cia! I'm going to...
+Dialogue: 0,0:20:05.60,0:20:08.01,Default,,0,0,0,,It's fine! Let it out!
+Dialogue: 0,0:20:08.01,0:20:10.14,Default,,0,0,0,,Let it out inside my mouth!
+Dialogue: 0,0:20:10.73,0:20:11.98,Default,,0,0,0,,It's coming out!
+Dialogue: 0,0:20:18.15,0:20:22.28,Default,,0,0,0,,Knights like us are doing such disgraceful things...
+Dialogue: 0,0:20:23.45,0:20:25.62,Default,,0,0,0,,Knights are humans as well...
+Dialogue: 0,0:20:25.62,0:20:27.99,Default,,0,0,0,,And we're man and woman!
+Dialogue: 0,0:20:27.99,0:20:29.91,Default,,0,0,0,,That's true but...
+Dialogue: 0,0:20:30.62,0:20:35.13,Default,,0,0,0,,Kaname's is moving around trying to get its way with me.
+Dialogue: 0,0:20:35.67,0:20:37.42,Default,,0,0,0,,It's like a small you.
+Dialogue: 0,0:20:38.04,0:20:39.42,Default,,0,0,0,,Again!
+Dialogue: 0,0:20:42.22,0:20:43.76,Default,,0,0,0,,Sorry, Cia.
+Dialogue: 0,0:20:46.76,0:20:48.01,Default,,0,0,0,,There.
+Dialogue: 0,0:20:48.43,0:20:50.52,Default,,0,0,0,,What are you doing, Kaname?
+Dialogue: 0,0:20:50.52,0:20:52.68,Default,,0,0,0,,I thought I'd put on a rubber.
+Dialogue: 0,0:20:53.77,0:20:57.02,Default,,0,0,0,,We've already confirmed on each\Nother's determination, right?
+Dialogue: 0,0:20:57.02,0:21:00.11,Default,,0,0,0,,Don't you have enough dare to make me pregnant?
+Dialogue: 0,0:21:00.69,0:21:04.45,Default,,0,0,0,,I want... a fruit of love.
+Dialogue: 0,0:21:04.86,0:21:07.16,Default,,0,0,0,,I get it. Cia!
+Dialogue: 0,0:21:08.07,0:21:09.74,Default,,0,0,0,,It's tight inside...
+Dialogue: 0,0:21:10.41,0:21:13.08,Default,,0,0,0,,you're spreading me...
+Dialogue: 0,0:21:13.50,0:21:14.66,Default,,0,0,0,,Cia!
+Dialogue: 0,0:21:16.00,0:21:17.46,Default,,0,0,0,,It's good!
+Dialogue: 0,0:21:17.46,0:21:19.00,Default,,0,0,0,,You're really lewd right now!
+Dialogue: 0,0:21:19.34,0:21:22.76,Default,,0,0,0,,I can't help it! There's no woman that wouldn't feel it,
+Dialogue: 0,0:21:22.76,0:21:25.84,Default,,0,0,0,,From being penetrated by a man she loves!
+Dialogue: 0,0:21:25.84,0:21:30.01,Default,,0,0,0,,Let alone that man being her first love!
+Dialogue: 0,0:21:31.60,0:21:33.18,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:21:36.90,0:21:38.40,Default,,0,0,0,,Kaname is...
+Dialogue: 0,0:21:38.40,0:21:43.03,Default,,0,0,0,,bursting his feelings... deep inside me...
+Dialogue: 0,0:21:43.03,0:21:46.03,Default,,0,0,0,,It's so hot... It feels like I can cum from just this...
+Dialogue: 0,0:21:50.58,0:21:55.04,Default,,0,0,0,,I've got to take responsibility till the very\Nend, for turning you into a monster...
+Dialogue: 0,0:21:55.66,0:21:56.67,Default,,0,0,0,,Cia!
+Dialogue: 0,0:21:58.29,0:22:00.96,Default,,0,0,0,,Everything is... being broken...
+Dialogue: 0,0:22:00.96,0:22:04.26,Default,,0,0,0,,My precious place is being hit and crushed...
+Dialogue: 0,0:22:04.26,0:22:06.76,Default,,0,0,0,,Make me yours!
+Dialogue: 0,0:22:06.76,0:22:09.34,Default,,0,0,0,,Cia's insides are sucking tightly!
+Dialogue: 0,0:22:09.34,0:22:11.22,Default,,0,0,0,,Shut up! Who's fault is that!
+Dialogue: 0,0:22:11.22,0:22:16.31,Default,,0,0,0,,Who's the one rampaging inside while\Nturning it into his own shape!?
+Dialogue: 0,0:22:19.40,0:22:20.86,Default,,0,0,0,,K-Kaname...
+Dialogue: 0,0:22:22.69,0:22:27.45,Default,,0,0,0,,I'll, I'll be engraved... the pleasures of being a woman...
+Dialogue: 0,0:22:27.45,0:22:29.57,Default,,0,0,0,,Even though I'm a knight, why?
+Dialogue: 0,0:22:29.57,0:22:31.12,Default,,0,0,0,,Even though I'm a knight...
+Dialogue: 0,0:22:31.12,0:22:34.33,Default,,0,0,0,,Ka-Kaname... I'm... I'm going to...
+Dialogue: 0,0:22:34.62,0:22:37.79,Default,,0,0,0,,Me too! So please, just a bit more!
+Dialogue: 0,0:22:37.79,0:22:41.92,Default,,0,0,0,,It's not like I can't resist it right now...
+Dialogue: 0,0:22:41.92,0:22:43.09,Default,,0,0,0,,Cia!
+Dialogue: 0,0:22:44.17,0:22:46.97,Default,,0,0,0,,Kaname, Kaname, if this goes on I'll end up...
+Dialogue: 0,0:22:46.97,0:22:50.93,Default,,0,0,0,,Hurry up! Please! I don't want to be alone! Not alone!
+Dialogue: 0,0:22:50.93,0:22:52.39,Default,,0,0,0,,Cia!
+Dialogue: 0,0:22:55.60,0:22:58.85,Default,,0,0,0,,My womb is filled with your seed...
+Dialogue: 0,0:22:59.19,0:23:03.06,Default,,0,0,0,,Something is... Tingling inside my head
+Dialogue: 0,0:23:03.61,0:23:05.61,Default,,0,0,0,,I think I'm gonna pass away...
+Dialogue: 0,0:23:05.61,0:23:06.94,Default,,0,0,0,,Kaname...
+Dialogue: 0,0:23:08.61,0:23:10.95,Default,,0,0,0,,If you keep going like this...
+Dialogue: 0,0:23:10.95,0:23:12.87,Default,,0,0,0,,No! What are you doing?
+Dialogue: 0,0:23:12.87,0:23:15.33,Default,,0,0,0,,Stop it, Kaname, it's dirty!
+Dialogue: 0,0:23:15.33,0:23:18.00,Default,,0,0,0,,Then I'll make it clean.
+Dialogue: 0,0:23:21.75,0:23:24.25,Default,,0,0,0,,Kaname, Kaname!
+Dialogue: 0,0:23:25.17,0:23:26.38,Default,,0,0,0,,Cia!
+Dialogue: 0,0:23:27.30,0:23:30.18,Default,,0,0,0,,No more! I'll cum again... I'll cum!
+Dialogue: 0,0:23:30.18,0:23:32.89,Default,,0,0,0,,I can't... think straight anymore...
+Dialogue: 0,0:23:34.39,0:23:38.81,Default,,0,0,0,,Why have I... become such a... disgraceful woman...
+Dialogue: 0,0:23:40.10,0:23:41.94,Default,,0,0,0,,It's in front of me...
+Dialogue: 0,0:23:42.44,0:23:44.40,Default,,0,0,0,,so being disgraceful is fine!
+Dialogue: 0,0:23:45.23,0:23:50.90,Default,,0,0,0,,Of course! Such... such a slutty appearance...\Ncan be only in front of you!
+Dialogue: 0,0:23:51.65,0:23:52.90,Default,,0,0,0,,Cia, I'm gonna...
+Dialogue: 0,0:23:52.90,0:23:55.41,Default,,0,0,0,,You can't! Kaname, it's already full!
+Dialogue: 0,0:23:55.41,0:23:58.33,Default,,0,0,0,,Any more is... No!
+Dialogue: 0,0:24:02.67,0:24:05.79,Default,,0,0,0,,Even though I said no more will fit...
+Dialogue: 0,0:24:07.34,0:24:11.93,Default,,0,0,0,,Sorry, Kaname, my body is falling apart.
+Dialogue: 0,0:24:11.93,0:24:14.30,Default,,0,0,0,,This is the last...
+Dialogue: 0,0:24:14.51,0:24:20.81,Default,,0,0,0,,Okay. With this, I'll pour all the sperm I made, inside Cia!
+Dialogue: 0,0:24:21.23,0:24:24.56,Default,,0,0,0,,Kaname! Even though I'm a knight,
+Dialogue: 0,0:24:24.56,0:24:27.90,Default,,0,0,0,,I've become such a disgraceful woman for you!
+Dialogue: 0,0:24:27.90,0:24:30.53,Default,,0,0,0,,Thank me! Elcia Harvence!
+Dialogue: 0,0:24:31.03,0:24:36.20,Default,,0,0,0,,Hurry, together! I want to head\Ntowards an orgasm with you!
+Dialogue: 0,0:24:36.20,0:24:39.83,Default,,0,0,0,,I want it! Kaname's sperm in my womb!
+Dialogue: 0,0:24:39.83,0:24:41.87,Default,,0,0,0,,If it's you then I don't mind if you break it!
+Dialogue: 0,0:24:41.87,0:24:44.12,Default,,0,0,0,,I'm prepared!
+Dialogue: 0,0:24:44.37,0:24:45.46,Default,,0,0,0,,Kaname!
+Dialogue: 0,0:24:46.58,0:24:48.25,Default,,0,0,0,,I'm... going to...
+Dialogue: 0,0:24:49.96,0:24:51.55,Default,,0,0,0,,Are you going to cum, Cia?
+Dialogue: 0,0:24:51.55,0:24:55.01,Default,,0,0,0,,Yes! I'm cumming... Kaname is making me cum again!
+Dialogue: 0,0:24:55.01,0:24:57.47,Default,,0,0,0,,I'm happy! To cum from Kaname...
+Dialogue: 0,0:24:58.26,0:24:59.97,Default,,0,0,0,,Kaname!
+Dialogue: 0,0:25:04.31,0:25:06.94,Default,,0,0,0,,Kaname... Always...
+Dialogue: 0,0:25:11.61,0:25:12.99,Default,,0,0,0,,I really like you,
+Dialogue: 0,0:25:13.61,0:25:14.74,Default,,0,0,0,,Kaname.
+Dialogue: 0,0:25:14.74,0:25:15.91,Default,,0,0,0,,Me too, Cia.
+Dialogue: 0,0:25:19.20,0:25:20.41,Default,,0,0,0,,I love you.
+Dialogue: 0,0:25:20.99,0:25:25.37,Default,,0,0,0,,Such acts... It'd be trouble if the past me found out.
+Dialogue: 0,0:25:25.37,0:25:27.63,Default,,0,0,0,,I'll be chopped into pieces for sure.
+Dialogue: 0,0:25:27.63,0:25:28.92,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:25:28.92,0:25:31.71,Default,,0,0,0,,If that happens, the me right now will protect you.
+Dialogue: 0,0:25:32.76,0:25:37.43,Default,,0,0,0,,'Cause you forced me to learn\Nthe happiness of a woman.
+Dialogue: 0,0:25:38.72,0:25:43.27,Default,,0,0,0,,We reconfirmed our goals at the\Nplace of memories for us.
+Dialogue: 0,0:25:43.27,0:25:47.23,Default,,0,0,0,,After that, we both passed the test to become Paladins.
+Dialogue: 0,0:25:47.56,0:25:51.02,Default,,0,0,0,,However, that was but another new beginning.
+Dialogue: 0,0:25:53.74,0:25:58.07,Default,,0,0,0,,To demand such things while I'm\Ncooking is a breach of manners!
+Dialogue: 0,0:25:58.07,0:26:01.33,Default,,0,0,0,,If you're dressed like that, there's no way I could resist!
+Dialogue: 0,0:26:01.33,0:26:03.87,Default,,0,0,0,,I just didn't have anything to wear!
+Dialogue: 0,0:26:03.87,0:26:07.37,Default,,0,0,0,,I wasn't responding to your request or anything!
+Dialogue: 0,0:26:07.37,0:26:08.75,Default,,0,0,0,,Let's just leave it at that.
+Dialogue: 0,0:26:10.29,0:26:12.25,Default,,0,0,0,,No, I confess!
+Dialogue: 0,0:26:13.17,0:26:17.34,Default,,0,0,0,,If I don't get a taste of your seed regularly,
+Dialogue: 0,0:26:17.34,0:26:19.64,Default,,0,0,0,,my body tingles...
+Dialogue: 0,0:26:19.64,0:26:20.72,Default,,0,0,0,,Cia!
+Dialogue: 0,0:26:20.72,0:26:23.77,Default,,0,0,0,,Me too. If I don't drink your milk regularly...
+Dialogue: 0,0:26:24.93,0:26:29.94,Default,,0,0,0,,You can't! Kaname! That's not just for you!
+Dialogue: 0,0:26:29.94,0:26:32.27,Default,,0,0,0,,C'mon, what's the real reason?
+Dialogue: 0,0:26:32.73,0:26:34.98,Default,,0,0,0,,Because I feel too much from it!
+Dialogue: 0,0:26:34.98,0:26:37.49,Default,,0,0,0,,Don't make me say that you idiot!
+Dialogue: 0,0:26:39.32,0:26:41.20,Default,,0,0,0,,Once in a while I should feed Cia as well...
+Dialogue: 0,0:26:41.20,0:26:42.70,Default,,0,0,0,,Here, say ah...
+Dialogue: 0,0:26:44.45,0:26:46.54,Default,,0,0,0,,Cia, thanks for everything!
+Dialogue: 0,0:26:46.54,0:26:50.63,Default,,0,0,0,,While walking on the same path\Nand being a prideful knight,
+Dialogue: 0,0:26:50.63,0:26:55.00,Default,,0,0,0,,taking care of my frenzy and calming\Nme down every day like this!
+Dialogue: 0,0:26:55.34,0:26:58.80,Default,,0,0,0,,Like I said, that's true for me as well.
+Dialogue: 0,0:27:00.01,0:27:04.60,Default,,0,0,0,,I go crazy, too. I want Kaname's so bad...
+Dialogue: 0,0:27:05.18,0:27:07.06,Default,,0,0,0,,I can't wait anymore...
+Dialogue: 0,0:27:07.68,0:27:10.85,Default,,0,0,0,,Then together! Let's cum together!
+Dialogue: 0,0:27:19.32,0:27:22.82,Default,,0,0,0,,Geez, you really shot out so much...
+Dialogue: 0,0:27:22.82,0:27:25.41,Default,,0,0,0,,The baby inside is probably really surprised as well.
+Dialogue: 0,0:27:25.41,0:27:28.37,Default,,0,0,0,,I want it to not only know Cia, but me too!
+Dialogue: 0,0:27:28.37,0:27:29.83,Default,,0,0,0,,Well?
+Dialogue: 0,0:27:29.83,0:27:33.92,Default,,0,0,0,,What would happen if the baby was\Nraised by a pervert like you?
+Dialogue: 0,0:27:33.92,0:27:36.34,Default,,0,0,0,,But Cia likes it, don't you?
+Dialogue: 0,0:27:36.34,0:27:38.76,Default,,0,0,0,,That's only because it's you.
+Dialogue: 0,0:27:38.76,0:27:40.63,Default,,0,0,0,,You haughty person.
+Dialogue: 0,0:27:45.89,0:27:47.18,Default,,0,0,0,,Emergency contact!?
+Dialogue: 0,0:27:47.18,0:27:48.22,Default,,0,0,0,,Did some kind of incident happen?
+Dialogue: 0,0:27:48.22,0:27:49.73,Default,,0,0,0,,Kaname, we're leaving in five minutes!
+Dialogue: 0,0:27:49.73,0:27:50.89,Default,,0,0,0,,I get it!
+Dialogue: 0,0:27:51.48,0:27:53.40,Default,,0,0,0,,We have pledged to each other.
+Dialogue: 0,0:27:53.73,0:27:57.40,Default,,0,0,0,,And that is a bond stronger than any other between us.
+Dialogue: 0,0:27:57.94,0:28:05.03,Default,,0,0,0,,Right now, we have walked towards the promise\Nwhen we were young, by becoming Paladins.
+Dialogue: 0,0:28:05.78,0:28:07.20,Default,,0,0,0,,Is your body alright?
+Dialogue: 0,0:28:07.20,0:28:10.20,Default,,0,0,0,,I'm fine, Kaname. Mothers are strong.
+Dialogue: 0,0:28:10.20,0:28:13.58,Default,,0,0,0,,And now, we have taken new oaths.
+Dialogue: 0,0:28:13.58,0:28:17.05,Default,,0,0,0,,An oath to protect each other and live on together.
+Dialogue: 0,0:28:19.05,0:28:19.76,Default,,0,0,0,,Kaname!
+Dialogue: 0,0:28:20.55,0:28:21.59,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:28:21.59,0:28:22.93,Default,,0,0,0,,You forgot something.
+Dialogue: 0,0:28:23.68,0:28:24.76,Default,,0,0,0,,C'mon, let's go!
+Dialogue: 0,0:28:27.26,0:28:29.68,Default,,0,0,0,,Someone is waiting for us!
+Dialogue: 0,0:30:12.03,0:30:13.12,Default,,0,0,0,,Nii-san...
+Dialogue: 0,0:30:13.58,0:30:15.41,Default,,0,0,0,,Please wait for me.

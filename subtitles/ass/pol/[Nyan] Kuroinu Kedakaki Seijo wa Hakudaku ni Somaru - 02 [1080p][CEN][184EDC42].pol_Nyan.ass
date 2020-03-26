@@ -1,0 +1,286 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.743
+Title: Nyan
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Original Script: kostek00
+YCbCr Matrix: TV.601
+Last Style Storage: [1920x1080]
+Video Zoom Percent: 0.375000
+Video Position: 475
+Collisions: Normal
+Active Line: 0
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (i),Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (top),Franklin Gothic Medium,58.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,8,20,20,23,1
+Style: Grupa,Franklin Gothic Medium,36.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.4,0,7,27,10,23,1
+Style: Anime,Franklin Gothic Medium,60.7,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,60.7,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.43,0:00:06.43,Grupa,,0,0,0,,{\be1\fad(500,500)}Nyan
+Dialogue: 0,0:00:01.92,0:00:03.36,Default,,0,0,0,,{\be1}Co to ma znaczyć?!
+Dialogue: 0,0:00:05.45,0:00:06.90,Default,,0,0,0,,{\be1}Alicia.
+Dialogue: 0,0:00:07.65,0:00:10.82,Default,,0,0,0,,{\be1}Przepraszam, że się uniosłam.
+Dialogue: 0,0:00:11.56,0:00:17.44,Default,,0,0,0,,{\be1}Ale to jest nie do przyjęcia!
+Dialogue: 0,0:00:46.15,0:00:48.09,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:00:48.09,0:00:52.44,Default,,0,0,0,,{\be1}Tak, ale boję się.
+Dialogue: 0,0:00:52.78,0:00:56.97,Default,,0,0,0,,{\be1}Nasze siły potrzebują wsparcia we wschodnim lesie!
+Dialogue: 0,0:00:56.97,0:00:59.95,Default,,0,0,0,,{\be1}Pospieszcie się, musimy wytrzymać!
+Dialogue: 0,0:01:00.92,0:01:04.53,Default,,0,0,0,,{\be1}Z całą pewnością wróg dostanie posiłki.
+Dialogue: 0,0:01:04.53,0:01:06.15,Default,,0,0,0,,{\be1}To nasze najważniejsze godziny.
+Dialogue: 0,0:01:07.29,0:01:09.68,Default,,0,0,0,,{\be1}Wytrzymajcie!
+Dialogue: 0,0:01:09.68,0:01:10.96,Default,,0,0,0,,{\be1}Księżniczko!
+Dialogue: 0,0:01:11.62,0:01:14.58,Default,,0,0,0,,{\be1}Co?! To niemożliwe!
+Dialogue: 0,0:01:14.58,0:01:18.57,Default,,0,0,0,,{\be1}Pojmali wszystkich cywili?!
+Dialogue: 0,0:01:18.57,0:01:22.47,Default,,0,0,0,,{\be1}Księżniczko, tam jest niebezpiecznie!
+Dialogue: 0,0:01:24.21,0:01:25.48,Default,,0,0,0,,{\be1}Co to ma być?!
+Dialogue: 0,0:01:41.88,0:01:42.99,Default,,0,0,0,,{\be1}Nie rób tego!
+Dialogue: 0,0:01:42.99,0:01:44.50,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:01:47.37,0:01:53.00,Default,,0,0,0,,{\be1}Czas się zabawić z siostrzyczkami!
+Dialogue: 0,0:01:53.00,0:01:56.51,Default,,0,0,0,,{\be1}Będziemy je pieprzyć cały dzień!
+Dialogue: 0,0:01:56.51,0:01:58.58,Default,,0,0,0,,{\be1}Jak śmiesz?!
+Dialogue: 0,0:01:58.58,0:02:02.01,Default,,0,0,0,,{\be1}Ty jesteś księżniczką tych ziem?
+Dialogue: 0,0:02:02.01,0:02:07.35,Default,,0,0,0,,{\be1}Będziesz stamtąd dobrze widzieć nasz mały spektakl!
+Dialogue: 0,0:02:07.75,0:02:08.85,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:02:09.20,0:02:17.53,Default,,0,0,0,,{\be1}Będziesz patrzeć jak pieprzymy siostry, które porzuciłaś!
+Dialogue: 0,0:02:17.97,0:02:22.78,Default,,0,0,0,,{\be1}Ani się waż!\NNie wybaczę ci jeśli je skrzywdzisz!
+Dialogue: 0,0:02:23.84,0:02:30.04,Default,,0,0,0,,{\be1}To może zejdziesz tu i zajmiesz ich miejsce?
+Dialogue: 0,0:02:31.29,0:02:36.24,Default,,0,0,0,,{\be1}Księżniczko, to ty?\NProszę, nie patrz!
+Dialogue: 0,0:02:36.24,0:02:40.86,Default,,0,0,0,,{\be1}Musisz nas zostawić!\NMasz bitwę do wygrania!
+Dialogue: 0,0:02:41.71,0:02:45.14,Default,,0,0,0,,{\be1}Macie natychmiast przestać!
+Dialogue: 0,0:02:46.01,0:02:51.06,Default,,0,0,0,,{\be1}Zgłupiałaś?!\NNikt nie przestanie, bo ty tak mówisz!
+Dialogue: 0,0:02:52.56,0:02:56.90,Default,,0,0,0,,{\be1}Choćby nie wiem co,\Nmusisz walczyć i chronić poddanych!
+Dialogue: 0,0:03:05.09,0:03:06.82,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:03:07.91,0:03:13.02,Default,,0,0,0,,{\be1}Potwór zabrał moje dziewictwo!
+Dialogue: 0,0:03:14.86,0:03:19.75,Default,,0,0,0,,{\be1}Moja pochwa piecze!
+Dialogue: 0,0:03:22.46,0:03:26.35,Default (i),,0,0,0,,{\be1}Nie mogę płakać, bo zasmucę księżniczkę.
+Dialogue: 0,0:03:26.35,0:03:30.60,Default (i),,0,0,0,,{\be1}Bogini, daj mi siłę, żebym wytrzymała tę mękę.
+Dialogue: 0,0:03:41.61,0:03:50.62,Default,,0,0,0,,{\be1}Przecież tamtędy sikam,\Nwięc czemu mnie tam liżesz?
+Dialogue: 0,0:03:54.50,0:03:57.70,Default,,0,0,0,,{\be1}Nie liż mnie tam!
+Dialogue: 0,0:03:58.85,0:04:02.34,Default,,0,0,0,,{\be1}Nie wkładaj języka do środka!
+Dialogue: 0,0:04:11.47,0:04:14.15,Default,,0,0,0,,{\be1}Nie liż!
+Dialogue: 0,0:04:18.48,0:04:26.66,Default,,0,0,0,,{\be1}Uczono mnie, że to obrzydliwe,\Nale robi mi się gorąco!
+Dialogue: 0,0:04:27.64,0:04:32.66,Default (i),,0,0,0,,{\be1}Co się dzieje? To jest przyjemne?
+Dialogue: 0,0:04:33.61,0:04:38.38,Default,,0,0,0,,{\be1}Nie liż tam!
+Dialogue: 0,0:04:40.32,0:04:42.87,Default,,0,0,0,,{\be1}Wkładasz do środka!
+Dialogue: 0,0:04:45.20,0:04:48.00,Default,,0,0,0,,{\be1}Zrobiłam się mokra!
+Dialogue: 0,0:04:54.98,0:05:00.27,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:05:03.02,0:05:14.46,Default,,0,0,0,,{\be1}Bogini, wybacz mi moje postępowanie,\Nale moje ciało mnie nie słucha.
+Dialogue: 0,0:05:21.03,0:05:21.96,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:05:22.26,0:05:25.47,Default,,0,0,0,,{\be1}Nie tam! To boli!
+Dialogue: 0,0:05:28.38,0:05:33.81,Default,,0,0,0,,{\be1}Nie ciągnij moich sutków!\NRozciągniesz moje piersi!
+Dialogue: 0,0:05:35.35,0:05:40.24,Default,,0,0,0,,{\be1}Odgryziecie mi sutki!
+Dialogue: 0,0:05:50.35,0:06:00.33,Default (i),,0,0,0,,{\be1}Potwór skończył w mojej buzi\Ni muszę ją teraz wypić!
+Dialogue: 0,0:06:09.26,0:06:12.11,Default (i),,0,0,0,,{\be1}Ale śmierdzi!
+Dialogue: 0,0:06:12.11,0:06:19.65,Default (i),,0,0,0,,{\be1}Wypuścił śmierdzącą spermę na moją twarz i piersi!
+Dialogue: 0,0:06:19.65,0:06:23.30,Default,,0,0,0,,{\be1}Nie spuszczaj się już!
+Dialogue: 0,0:06:23.30,0:06:26.15,Default,,0,0,0,,{\be1}Więcej się nie zmieści!
+Dialogue: 0,0:06:39.84,0:06:42.11,Default,,0,0,0,,{\be1}Gorąco mi w piersi!
+Dialogue: 0,0:06:42.11,0:06:45.17,Default,,0,0,0,,{\be1}Ale to śmierdzi!
+Dialogue: 0,0:06:46.57,0:06:48.18,Default,,0,0,0,,{\be1}Wspaniały spektakl!
+Dialogue: 0,0:06:48.18,0:06:54.79,Default,,0,0,0,,{\be1}Siostry zakonne jęczą z zachwytu od naszej spermy!
+Dialogue: 0,0:06:54.79,0:06:58.68,Default,,0,0,0,,{\be1}Nie jęczymy z zachwytu!
+Dialogue: 0,0:06:59.25,0:07:05.17,Default,,0,0,0,,{\be1}Właśnie że jęczycie i to nas najbardziej rajcuje.
+Dialogue: 0,0:07:05.17,0:07:08.69,Default,,0,0,0,,{\be1}Teraz chcemy rżnąć was jeszcze więcej.
+Dialogue: 0,0:07:09.63,0:07:12.95,Default,,0,0,0,,{\be1}Nie miałam zamiaru tego robić.
+Dialogue: 0,0:07:12.95,0:07:17.50,Default,,0,0,0,,{\be1}No i co teraz zrobisz, księżniczko? Zostawisz je?
+Dialogue: 0,0:07:17.50,0:07:19.25,Default,,0,0,0,,{\be1}Mam je zostawić?
+Dialogue: 0,0:07:19.25,0:07:28.04,Default,,0,0,0,,{\be1}Namyślaj się ile chcesz, a w między czasie\Nzabawimy się z siostrzyczkami!
+Dialogue: 0,0:07:29.70,0:07:34.47,Default,,0,0,0,,{\be1}Błagam, księżniczko, zostaw nas.
+Dialogue: 0,0:07:34.47,0:07:38.47,Default,,0,0,0,,{\be1}Proszę, nie patrz na nas.
+Dialogue: 0,0:07:40.68,0:07:41.89,Default,,0,0,0,,{\be1}Księżniczko.
+Dialogue: 0,0:07:41.89,0:07:43.40,Default,,0,0,0,,{\be1}Wiem!
+Dialogue: 0,0:07:43.40,0:07:48.86,Default,,0,0,0,,{\be1}Wiem, że muszę to znieść\Nalbo ich poświęcenie pójdzie na marne.
+Dialogue: 0,0:07:49.49,0:07:53.70,Default (i),,0,0,0,,{\be1}Naprawdę mam to zrobić?
+Dialogue: 0,0:07:53.70,0:07:58.49,Default (i),,0,0,0,,{\be1}Jeśli je zostawię nadal będę\Nmogła zwać się rycerzem?
+Dialogue: 0,0:08:00.00,0:08:01.64,Default,,0,0,0,,{\be1}Popłakała się!
+Dialogue: 0,0:08:01.64,0:08:05.50,Default,,0,0,0,,{\be1}A to oznacza, że możemy się dalej zabawiać!
+Dialogue: 0,0:08:06.93,0:08:08.50,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:19.17,0:08:21.27,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:24.35,0:08:25.27,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:08:26.48,0:08:27.77,Default,,0,0,0,,{\be1}Mówiłaś coś?
+Dialogue: 0,0:08:27.77,0:08:32.35,Default,,0,0,0,,{\be1}Musisz mówić głośniej, księżniczko.
+Dialogue: 0,0:08:35.67,0:08:36.73,Default,,0,0,0,,{\be1}Poddajmy się.
+Dialogue: 0,0:08:36.73,0:08:39.77,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:08:39.77,0:08:44.25,Default,,0,0,0,,{\be1}Księżniczko, musisz to jakoś znieść.
+Dialogue: 0,0:08:44.25,0:08:45.69,Default,,0,0,0,,{\be1}Poddajmy się!
+Dialogue: 0,0:09:15.84,0:09:19.66,Default,,0,0,0,,{\be1}Przyjemnie ci, królowo?
+Dialogue: 0,0:09:20.41,0:09:23.66,Default,,0,0,0,,{\be1}Ale ty jesteś zboczona!
+Dialogue: 0,0:09:31.35,0:09:35.06,Default,,0,0,0,,{\be1}Jak się czujesz, księżniczko?
+Dialogue: 0,0:09:35.06,0:09:36.33,Default,,0,0,0,,{\be1}Beasley?
+Dialogue: 0,0:09:37.11,0:09:39.38,Default,,0,0,0,,{\be1}Co tu robisz?
+Dialogue: 0,0:09:44.45,0:09:51.82,Default (i),,0,0,0,,{\be1}Przegraliśmy, bo wysadzono bramę.
+Dialogue: 0,0:09:51.82,0:09:53.81,Default,,0,0,0,,{\be1}Niemożliwe, minister?!
+Dialogue: 0,0:09:56.14,0:09:59.41,Default,,0,0,0,,{\be1}Dobrze się domyślasz, księżniczko.
+Dialogue: 0,0:10:00.43,0:10:02.35,Default,,0,0,0,,{\be1}Ty łajdaku!
+Dialogue: 0,0:10:02.95,0:10:04.49,Default,,0,0,0,,{\be1}Nie wstyd ci?!
+Dialogue: 0,0:10:04.49,0:10:10.46,Default,,0,0,0,,{\be1}Nie przegralibyśmy tej bitwy!
+Dialogue: 0,0:10:10.80,0:10:15.97,Default,,0,0,0,,{\be1}Od teraz staniesz się towarem luksusowym.
+Dialogue: 0,0:10:19.55,0:10:24.97,Default (i),,0,0,0,,{\be1}W liście było napisane,\Nże najemnicy pokonali Mroczną Królową.
+Dialogue: 0,0:10:25.54,0:10:28.98,Default (i),,0,0,0,,{\be1}W wyniku czego utworzono wiele nowych nacji.
+Dialogue: 0,0:10:30.98,0:10:35.28,Default (i),,0,0,0,,{\be1}A Vault utworzył królestwo służących.
+Dialogue: 0,0:10:36.08,0:10:43.99,Default (i),,0,0,0,,{\be1}Wszystkie kobiety w królestwie mają zaspokajać\Nkażdego mężczyznę, który sobie tego zażyczy.
+Dialogue: 0,0:10:43.99,0:10:48.45,Default,,0,0,0,,{\be1}Odmawiam! Nie dam się wykorzystać!
+Dialogue: 0,0:10:49.47,0:10:51.00,Default,,0,0,0,,{\be1}Co cię tak śmieszy?!
+Dialogue: 0,0:10:51.69,0:11:02.01,Default,,0,0,0,,{\be1}Czy muszę mówić co się stanie\Nz twoimi poddanymi i Prim jeśli odmówisz?
+Dialogue: 0,0:11:03.01,0:11:06.01,Default,,0,0,0,,{\be1}Jak daleko się jeszcze posuniesz?!
+Dialogue: 0,0:11:06.01,0:11:10.03,Default,,0,0,0,,{\be1}Ja? Donikąd jeśli wybierzesz.
+Dialogue: 0,0:11:10.69,0:11:12.20,Default,,0,0,0,,{\be1}Łajdak!
+Dialogue: 0,0:11:13.48,0:11:17.83,Default,,0,0,0,,{\be1}To jak będzie, księżniczko?
+Dialogue: 0,0:11:20.70,0:11:23.55,Default (i),,0,0,0,,{\be1}Nie mam wyboru.
+Dialogue: 0,0:11:29.46,0:11:36.05,Default,,0,0,0,,{\be1}Mądry wybór, wiesz kiedy się poddać.
+Dialogue: 0,0:11:38.50,0:11:45.04,Default,,0,0,0,,{\be1}Cudowna pozycja!
+Dialogue: 0,0:12:01.99,0:12:07.28,Default (i),,0,0,0,,{\be1}Być może to kara boska.
+Dialogue: 0,0:12:08.41,0:12:16.12,Default (i),,0,0,0,,{\be1}I mam teraz cierpieć tak samo jak moi poddani.
+Dialogue: 0,0:12:16.12,0:12:21.96,Default,,0,0,0,,{\be1}Zaprawdę wspaniały wyraz twarzy.
+Dialogue: 0,0:12:24.88,0:12:27.01,Default (i),,0,0,0,,{\be1}To ma być moja kara?
+Dialogue: 0,0:12:28.19,0:12:32.30,Default (i),,0,0,0,,{\be1}Jest za okrutna.
+Dialogue: 0,0:12:35.08,0:12:40.01,Default,,0,0,0,,{\be1}Wyglądasz jakbyś chciała coś powiedzieć.
+Dialogue: 0,0:12:41.17,0:12:44.00,Default,,0,0,0,,{\be1}Nie chcę.
+Dialogue: 0,0:12:51.31,0:12:54.65,Default (i),,0,0,0,,{\be1}Całuje mnie?
+Dialogue: 0,0:12:56.26,0:12:59.13,Default (i),,0,0,0,,{\be1}Beasley mnie całuje?
+Dialogue: 0,0:13:04.44,0:13:07.83,Default (i),,0,0,0,,{\be1}Nie mogę się odwrócić, bo trzyma mój język.
+Dialogue: 0,0:13:09.82,0:13:12.81,Default (i),,0,0,0,,{\be1}Powinno mi być niedobrze, ale...
+Dialogue: 0,0:13:15.58,0:13:17.85,Default (i),,0,0,0,,{\be1}Co to za uczucie?
+Dialogue: 0,0:13:20.42,0:13:21.73,Default (i),,0,0,0,,{\be1}Gorąco mi.
+Dialogue: 0,0:13:30.02,0:13:32.24,Default,,0,0,0,,{\be1}Jesteś gotowa.
+Dialogue: 0,0:13:46.80,0:13:51.68,Default,,0,0,0,,{\be1}Gdzie twoje maniery?\NDopiero zaczynamy zabawę.
+Dialogue: 0,0:13:54.68,0:13:55.76,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:14:01.74,0:14:05.51,Default,,0,0,0,,{\be1}Nie pocieraj nim tam!
+Dialogue: 0,0:14:06.57,0:14:11.42,Default,,0,0,0,,{\be1}A gdzie jest to twoje „tam”?
+Dialogue: 0,0:14:11.42,0:14:12.58,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:14:16.69,0:14:21.94,Default,,0,0,0,,{\be1}No przecież pocierasz się tam!
+Dialogue: 0,0:14:23.57,0:14:25.86,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:14:27.12,0:14:30.23,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:14:30.23,0:14:33.18,Default,,0,0,0,,{\be1}Nie mam zamiaru przestawać.
+Dialogue: 0,0:14:33.18,0:14:41.60,Default,,0,0,0,,{\be1}Pocieranie się o twój kwiatuszek jest przecudowne.
+Dialogue: 0,0:14:43.12,0:14:46.19,Default,,0,0,0,,{\be1}No przestań! Nie ruszaj nim tak mocno!
+Dialogue: 0,0:14:47.47,0:14:52.70,Default,,0,0,0,,{\be1}Wygląda na to, że wiesz co się z tobą dzieje.
+Dialogue: 0,0:14:54.08,0:14:56.01,Default,,0,0,0,,{\be1}Nie wiem o czym mówisz!
+Dialogue: 0,0:14:56.01,0:15:00.21,Default,,0,0,0,,{\be1}Więc sprawię, że zrozumiesz!
+Dialogue: 0,0:15:00.96,0:15:04.34,Default,,0,0,0,,{\be1}To boli! Nie pchaj go tak!
+Dialogue: 0,0:15:04.34,0:15:10.09,Default,,0,0,0,,{\be1}Zapewne już zauważyłaś,\Nże to wybrzuszenie jest wrażliwe.
+Dialogue: 0,0:15:12.59,0:15:18.85,Default,,0,0,0,,{\be1}Tak, czuję jak twardnieje! Nie pocieraj o nie!
+Dialogue: 0,0:15:18.85,0:15:21.86,Default,,0,0,0,,{\be1}To jest łechtaczka!
+Dialogue: 0,0:15:21.86,0:15:27.86,Default,,0,0,0,,{\be1}To maleństwo jest tak samo wrażliwe jak kutas!
+Dialogue: 0,0:15:28.72,0:15:29.53,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:15:30.98,0:15:32.35,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:33.07,0:15:36.03,Default,,0,0,0,,{\be1}Nie tak mocno! Coś się dzieje!
+Dialogue: 0,0:15:36.61,0:15:41.43,Default,,0,0,0,,{\be1}Nie pocieraj łechtaczki!
+Dialogue: 0,0:15:46.55,0:15:49.05,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:50.48,0:15:55.05,Default,,0,0,0,,{\be1}Słyszysz swoje jęki i mokrą cipkę?
+Dialogue: 0,0:15:56.94,0:15:58.49,Default,,0,0,0,,{\be1}Nie wiem!
+Dialogue: 0,0:15:59.56,0:16:05.48,Default,,0,0,0,,{\be1}Twoja cipka jest mokra od soków.
+Dialogue: 0,0:16:05.48,0:16:06.06,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:16:06.83,0:16:10.57,Default (i),,0,0,0,,{\be1}Cipka? Mówi o mojej pochwie?
+Dialogue: 0,0:16:11.58,0:16:14.47,Default (i),,0,0,0,,{\be1}Soki z mojej cipki?
+Dialogue: 0,0:16:15.41,0:16:22.09,Default,,0,0,0,,{\be1}Chcesz zobaczyć mojego kutasa\Nmokrego od twoich soków?
+Dialogue: 0,0:16:33.28,0:16:35.78,Default,,0,0,0,,{\be1}Nie wystarczy ci już?
+Dialogue: 0,0:16:35.78,0:16:40.60,Default,,0,0,0,,{\be1}Co takiego?\NKto by się teraz powstrzymał?
+Dialogue: 0,0:16:42.40,0:16:47.11,Default,,0,0,0,,{\be1}Poczuj jego zapach, kształt i ciepło.
+Dialogue: 0,0:16:48.11,0:16:54.11,Default,,0,0,0,,{\be1}To kutas, dowód męstwa.
+Dialogue: 0,0:16:54.89,0:16:59.26,Default (i),,0,0,0,,{\be1}Jest taki twardy i gorący jakby miał mnie poparzyć.
+Dialogue: 0,0:17:00.18,0:17:05.29,Default (i),,0,0,0,,{\be1}Więc to jest męski członek.
+Dialogue: 0,0:17:06.25,0:17:08.29,Default (i),,0,0,0,,{\be1}Nazwał go kutasem.
+Dialogue: 0,0:17:08.29,0:17:10.64,Default (i),,0,0,0,,{\be1}Co za nieprzyzwoita nazwa.
+Dialogue: 0,0:17:10.64,0:17:12.30,Default (i),,0,0,0,,{\be1}Kutas.
+Dialogue: 0,0:17:12.30,0:17:17.80,Default,,0,0,0,,{\be1}Chciałbym, żebyś teraz sprawiła aby wyleciała sperma.
+Dialogue: 0,0:17:18.28,0:17:22.95,Default,,0,0,0,,{\be1}Księżniczko, spójrz przed siebie.
+Dialogue: 0,0:17:28.56,0:17:31.09,Default,,0,0,0,,{\be1}Taka pozycja...
+Dialogue: 0,0:17:33.20,0:17:34.95,Default (i),,0,0,0,,{\be1}Nieprzyzwoita.
+Dialogue: 0,0:17:34.95,0:17:44.83,Default (i),,0,0,0,,{\be1}Wszystkie soki na jego kutasie są moje?
+Dialogue: 0,0:17:44.83,0:17:50.88,Default,,0,0,0,,{\be1}Jaki słodki zapach.\NTo dowód, że się podnieciłaś.
+Dialogue: 0,0:17:50.88,0:17:52.48,Default,,0,0,0,,{\be1}Kłamiesz!
+Dialogue: 0,0:17:52.48,0:17:54.84,Default,,0,0,0,,{\be1}Absolutnie.
+Dialogue: 0,0:17:55.14,0:17:56.34,Default,,0,0,0,,{\be1}Patrz.
+Dialogue: 0,0:18:00.43,0:18:06.22,Default,,0,0,0,,{\be1}Widać wnętrze twojej dziewiczej cipki.
+Dialogue: 0,0:18:06.85,0:18:11.86,Default,,0,0,0,,{\be1}Masz taką śliczną, różową cipkę.
+Dialogue: 0,0:18:14.00,0:18:15.83,Default,,0,0,0,,{\be1}Po prostu mnie zabij!
+Dialogue: 0,0:18:16.89,0:18:18.86,Default,,0,0,0,,{\be1}Cała ty.
+Dialogue: 0,0:18:19.26,0:18:23.23,Default,,0,0,0,,{\be1}Nie będę się więcej powstrzymywał!
+Dialogue: 0,0:18:24.49,0:18:28.30,Default,,0,0,0,,{\be1}Patrz, zaraz go włożę!
+Dialogue: 0,0:18:29.50,0:18:35.34,Default,,0,0,0,,{\be1}Brudny kutas zdrajcy zaraz\Nwejdzie w śliczną cipkę księżniczki!
+Dialogue: 0,0:18:35.34,0:18:36.86,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:45.78,0:18:50.84,Default,,0,0,0,,{\be1}Jesteś taka mokra i ciasna jak oczekiwałem.
+Dialogue: 0,0:18:50.84,0:18:52.89,Default,,0,0,0,,{\be1}Nie ma to jak dziewica.
+Dialogue: 0,0:18:55.67,0:18:58.87,Default (i),,0,0,0,,{\be1}Dlaczego jest taki duży?
+Dialogue: 0,0:18:58.87,0:19:01.27,Default (i),,0,0,0,,{\be1}Braknie mi tchu.
+Dialogue: 0,0:19:01.27,0:19:05.04,Default (i),,0,0,0,,{\be1}Mam wrażenie jakbym miała eksplodować.
+Dialogue: 0,0:19:06.70,0:19:10.17,Default (i),,0,0,0,,{\be1}Wkłada go bardzo powoli.
+Dialogue: 0,0:19:11.92,0:19:16.05,Default (i),,0,0,0,,{\be1}Wkłada we mnie ten paskudny zdrajca.
+Dialogue: 0,0:19:18.17,0:19:24.05,Default (i),,0,0,0,,{\be1}Zatrzymał się, to koniec?
+Dialogue: 0,0:19:24.05,0:19:27.81,Default,,0,0,0,,{\be1}W końcu doszedłem.
+Dialogue: 0,0:19:27.81,0:19:30.49,Default,,0,0,0,,{\be1}Gdzie?
+Dialogue: 0,0:19:32.56,0:19:39.81,Default,,0,0,0,,{\be1}Do twojego najważniejszego miejsca, dziewictwa!
+Dialogue: 0,0:19:40.66,0:19:41.80,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:19:43.15,0:19:46.08,Default,,0,0,0,,{\be1}Lubisz narzekać, co?
+Dialogue: 0,0:19:46.08,0:19:51.46,Default,,0,0,0,,{\be1}No cóż, nie będę dłużej przeciągał!
+Dialogue: 0,0:19:54.00,0:19:57.05,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:19:59.15,0:20:05.05,Default (i),,0,0,0,,{\be1}Przerwał moje dziewictwo!
+Dialogue: 0,0:20:05.05,0:20:11.06,Default,,0,0,0,,{\be1}Jak to jest stracić dziewictwo ze zdrajcą?
+Dialogue: 0,0:20:11.59,0:20:17.07,Default,,0,0,0,,{\be1}To było tylko dziewictwo, włożę jeszcze dalej.
+Dialogue: 0,0:20:18.63,0:20:20.22,Default (i),,0,0,0,,{\be1}Wkłada go!
+Dialogue: 0,0:20:20.92,0:20:27.37,Default (i),,0,0,0,,{\be1}Wkłada kutasa coraz głębiej we mnie!
+Dialogue: 0,0:20:43.51,0:20:52.52,Default,,0,0,0,,{\be1}Włożyłem całego, do samego końca.
+Dialogue: 0,0:20:56.65,0:20:59.50,Default,,0,0,0,,{\be1}Ale i tak nie doszliśmy do najlepszego.
+Dialogue: 0,0:21:00.78,0:21:02.03,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:21:16.63,0:21:23.25,Default (i),,0,0,0,,{\be1}Jeśli wytrzymam, moi poddani\Ni Prim zostaną oszczędzeni!
+Dialogue: 0,0:21:29.11,0:21:37.96,Default,,0,0,0,,{\be1}Nieważne jak dumna i czysta jest kobieta,\Npod ubraniami jest kolejną kobietą chcącą kutasa.
+Dialogue: 0,0:21:37.96,0:21:43.07,Default,,0,0,0,,{\be1}Ale nie chcę żebyś ty zmieniła się w jedną z nich.
+Dialogue: 0,0:21:43.07,0:21:47.54,Default,,0,0,0,,{\be1}Chcę żebyś nadal była dumną i silną księżniczką.
+Dialogue: 0,0:21:47.54,0:21:53.75,Default,,0,0,0,,{\be1}Zrobię z ciebie najlepszą sukę!
+Dialogue: 0,0:21:56.62,0:22:00.79,Default,,0,0,0,,{\be1}Nie! Cholerny hipokryta!
+Dialogue: 0,0:22:01.50,0:22:06.46,Default,,0,0,0,,{\be1}Ależ skąd, zawsze będziesz przy mnie.
+Dialogue: 0,0:22:06.46,0:22:12.55,Default,,0,0,0,,{\be1}Będę cię szlifował jak najcenniejszy klejnot!
+Dialogue: 0,0:22:20.11,0:22:22.93,Default (i),,0,0,0,,{\be1}Nie całuj mnie!
+Dialogue: 0,0:22:33.41,0:22:37.79,Default (i),,0,0,0,,{\be1}Zaczął inaczej wkładać!
+Dialogue: 0,0:22:40.78,0:22:42.23,Default (i),,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:22:42.93,0:22:47.66,Default (i),,0,0,0,,{\be1}Wkłada go i całuje mnie!
+Dialogue: 0,0:22:50.17,0:22:52.95,Default (i),,0,0,0,,{\be1}Co jest? Dziwnie się czuję!
+Dialogue: 0,0:22:54.23,0:22:56.81,Default (i),,0,0,0,,{\be1}Całowanie i moja cipka...
+Dialogue: 0,0:22:59.05,0:23:01.25,Default (i),,0,0,0,,{\be1}Coś się dzieje.
+Dialogue: 0,0:23:01.25,0:23:03.15,Default (i),,0,0,0,,{\be1}Coś jest nie tak.
+Dialogue: 0,0:23:06.22,0:23:11.80,Default (i),,0,0,0,,{\be1}Jak tak dalej pójdzie to będę miała orgazm!
+Dialogue: 0,0:23:13.21,0:23:15.95,Default (i),,0,0,0,,{\be1}Naprawdę dojdę?
+Dialogue: 0,0:23:15.95,0:23:19.51,Default (i),,0,0,0,,{\be1}To nie może być prawda!
+Dialogue: 0,0:23:21.50,0:23:24.54,Default (i),,0,0,0,,{\be1}Nie chcę dojść! Wyjmij!
+Dialogue: 0,0:23:24.54,0:23:28.79,Default (i),,0,0,0,,{\be1}Zabieraj kutasa i ten jęzor!
+Dialogue: 0,0:23:29.67,0:23:33.03,Default (i),,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:23:35.52,0:23:39.55,Default (i),,0,0,0,,{\be1}Jego kutas robi się twardszy we mnie!
+Dialogue: 0,0:23:40.77,0:23:46.77,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:23:48.25,0:23:52.72,Default (i),,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:23:52.72,0:23:56.58,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:23:58.60,0:24:06.09,Default,,0,0,0,,{\be1}Księżniczko! Doszedłem w tobie!
+Dialogue: 0,0:24:09.09,0:24:10.06,Default (i),,0,0,0,,{\be1}Wypuszcza ją.
+Dialogue: 0,0:24:11.72,0:24:16.00,Default (i),,0,0,0,,{\be1}Wypuszcza spermę we mnie!
+Dialogue: 0,0:24:22.97,0:24:27.93,Default,,0,0,0,,{\be1}Jeszcze nie skończyłem!
+Dialogue: 0,0:24:29.61,0:24:31.51,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:24:34.50,0:24:45.63,Default,,0,0,0,,{\be1}Długo czekałem na dzień, w którym\Nzabiorę twoje dziewictwo i spuszczę się w tobie!
+Dialogue: 0,0:24:50.01,0:24:52.63,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:24:52.63,0:24:55.30,Default,,0,0,0,,{\be1}Otwórzcie celę!
+Dialogue: 0,0:24:59.18,0:25:00.50,Default,,0,0,0,,{\be1}Nie zniosę tego!
+Dialogue: 0,0:25:00.50,0:25:01.88,Default,,0,0,0,,{\be1}Nie wkładaj!
+Dialogue: 0,0:25:01.89,0:25:05.40,Default,,0,0,0,,{\be1}Nie spuszczaj się we mnie!
+Dialogue: 0,0:25:05.40,0:25:12.92,Default,,0,0,0,,{\be1}Masz pojęcie jak długo marzyłem, żeby cię zhańbić?
+Dialogue: 0,0:25:13.65,0:25:14.54,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:14.54,0:25:20.91,Default,,0,0,0,,{\be1}Nie dam ci uciec dopóki cię nie zapełnię spermą!
+Dialogue: 0,0:25:21.41,0:25:26.42,Default,,0,0,0,,{\be1}Zapłodnię cię!
+Dialogue: 0,0:25:29.01,0:25:36.38,Default,,0,0,0,,{\be1}- Dochodzę!\N- Nie spuszczaj się we mnie!
+Dialogue: 0,0:25:54.99,0:25:56.92,Default,,0,0,0,,{\be1}Prim...
+Dialogue: 0,0:27:11.05,0:27:15.40,Default,,0,0,0,,{\be1}Kłamczucha.

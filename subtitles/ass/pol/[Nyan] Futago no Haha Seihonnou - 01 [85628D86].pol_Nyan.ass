@@ -1,0 +1,229 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r112
+Active Line: 1
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Timer: 100.0000
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video File: VTS_06_1.avs
+Video Position: 5636
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,14,&H000E0ACC,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,30,&H003F2200,&H000000FF,&H00968C74,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,150,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:56.49,0:03:01.16,Grupa,,0,0,0,,{\be1\fad(1521,0)}Nyan
+Dialogue: 0,0:03:01.29,0:03:05.81,Tytul,,0,0,0,,{\fad(1142,416)}Podwójne pożądanie
+Dialogue: 0,0:05:24.64,0:05:31.64,Znak,,0,0,0,,{\be1}Spotkaj\NNie spotykaj
+Dialogue: 0,0:06:14.95,0:06:16.16,Znak,,0,0,0,,{\be1}Od Akane
+Dialogue: 0,0:18:13.99,0:18:17.95,Znak,,0,0,0,,{\be1}Akane: Chcę się z tobą zobaczyć.\NSpotkajmy się w...
+Dialogue: 0,0:00:10.92,0:00:12.59,Default,,0,0,0,,{\be1}- Nie!\NZamknij mordę!
+Dialogue: 0,0:00:15.11,0:00:17.30,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:00:17.30,0:00:20.30,Default,,0,0,0,,{\be1}- Morda w kubeł!\N- Nie!
+Dialogue: 0,0:00:22.29,0:00:24.90,Default,,0,0,0,,{\be1}Chcesz żebyśmy cię obili?
+Dialogue: 0,0:00:30.60,0:00:32.76,Default,,0,0,0,,{\be1}Wielgachne cyce.
+Dialogue: 0,0:00:39.60,0:00:40.80,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:00:48.55,0:00:51.55,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:00:53.59,0:00:55.78,Default,,0,0,0,,{\be1}Pora zacząć zabawę.
+Dialogue: 0,0:00:56.94,0:00:59.26,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:00:59.26,0:01:00.30,Default,,0,0,0,,{\be1}Nie wierzgaj!
+Dialogue: 0,0:01:00.86,0:01:03.72,Default,,0,0,0,,{\be1}Nie wkładaj go!
+Dialogue: 0,0:01:04.30,0:01:07.06,Default,,0,0,0,,{\be1}Nie! Pomocy!
+Dialogue: 0,0:01:29.19,0:01:33.64,Default,,0,0,0,,{\be1}Jaka ciasna.\NPróbuje wypchnąć mojego kutasa.
+Dialogue: 0,0:02:13.84,0:02:16.29,Default,,0,0,0,,{\be1}Nie gryź!\NDochodzę!
+Dialogue: 0,0:02:27.05,0:02:28.81,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:02:35.02,0:02:38.72,Default (i),,0,0,0,,{\be1}Spuścił się we mnie.
+Dialogue: 0,0:02:38.72,0:02:42.26,Default (i),,0,0,0,,{\be1}Jest gorąca.
+Dialogue: 0,0:03:15.96,0:03:17.79,Default,,0,0,0,,{\be1}Minoru, wychodzę.
+Dialogue: 0,0:03:20.80,0:03:22.82,Default,,0,0,0,,{\be1}Dzisiaj masz nocną zmianę?
+Dialogue: 0,0:03:22.82,0:03:26.80,Default,,0,0,0,,{\be1}Tak.\NKolację masz w lodówce.
+Dialogue: 0,0:03:27.67,0:03:30.29,Default,,0,0,0,,{\be1}Dobra.\NJeszcze jedno.
+Dialogue: 0,0:03:34.65,0:03:35.33,Default,,0,0,0,,{\be1}A to?
+Dialogue: 0,0:03:36.34,0:03:38.04,Default,,0,0,0,,{\be1}Zapomniałam.
+Dialogue: 0,0:03:40.99,0:03:45.89,Default,,0,0,0,,{\be1}Nowe pielęgniarki poprosiły,\Nżebym ugotowała im ryż.
+Dialogue: 0,0:03:45.89,0:03:47.69,Default,,0,0,0,,{\be1}Prawie zapomniałam.
+Dialogue: 0,0:03:48.82,0:03:51.36,Default,,0,0,0,,{\be1}Dużo się wczoraj napracowałam przy nim.
+Dialogue: 0,0:03:51.36,0:03:53.50,Default,,0,0,0,,{\be1}Zostało też dla ciebie w lodówce.
+Dialogue: 0,0:03:53.50,0:03:55.91,Default,,0,0,0,,{\be1}Mamo, spóźnisz się.
+Dialogue: 0,0:03:55.91,0:03:57.60,Default,,0,0,0,,{\be1}Masz rację.
+Dialogue: 0,0:04:02.35,0:04:04.82,Default,,0,0,0,,{\be1}I ona jest naczelną pielęgniarką.
+Dialogue: 0,0:05:15.63,0:05:17.62,Default,,0,0,0,,{\be1}Znowu się zabawia.
+Dialogue: 0,0:05:17.62,0:05:20.43,Default,,0,0,0,,{\be1}Jej mąż musi dużo wyjeżdżać.
+Dialogue: 0,0:05:22.83,0:05:24.64,Default,,0,0,0,,{\be1}To jakaś pomyłka?
+Dialogue: 0,0:05:56.04,0:05:57.18,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:06:09.73,0:06:11.40,Default,,0,0,0,,{\be1}Potrzeba pani czegoś?
+Dialogue: 0,0:06:13.07,0:06:14.94,Default,,0,0,0,,{\be1}Jestem Akane.
+Dialogue: 0,0:06:26.92,0:06:30.52,Default,,0,0,0,,{\be1}Te strony nazywają\Npośrednikami miłości, prawda?
+Dialogue: 0,0:06:30.52,0:06:32.55,Default,,0,0,0,,{\be1}Pierwszy raz z takiej korzystam.
+Dialogue: 0,0:06:36.76,0:06:39.36,Default,,0,0,0,,{\be1}Chyba się pomyliłeś.
+Dialogue: 0,0:06:39.36,0:06:43.31,Default,,0,0,0,,{\be1}Dostałam twojego maila\Nod kogoś kogo znasz.
+Dialogue: 0,0:06:46.60,0:06:48.82,Default,,0,0,0,,{\be1}Czemu akurat ja?
+Dialogue: 0,0:06:53.43,0:06:56.78,Default,,0,0,0,,{\be1}Chciałam cię zobaczyć jak najszybciej.
+Dialogue: 0,0:07:30.72,0:07:32.81,Default,,0,0,0,,{\be1}Bądź delikatny.
+Dialogue: 0,0:07:46.40,0:07:48.57,Default,,0,0,0,,{\be1}O nie, podniecam się!
+Dialogue: 0,0:07:48.57,0:07:53.27,Default,,0,0,0,,{\be1}Tak się cieszę!\NMocniej!
+Dialogue: 0,0:08:02.33,0:08:06.82,Default,,0,0,0,,{\be1}Nie tutaj, trochę w prawo.
+Dialogue: 0,0:08:06.82,0:08:10.13,Default,,0,0,0,,{\be1}Jeszcze trochę.
+Dialogue: 0,0:08:18.90,0:08:21.09,Default,,0,0,0,,{\be1}Drzwi są otwarte.
+Dialogue: 0,0:08:22.37,0:08:25.70,Default,,0,0,0,,{\be1}Zapomniałam je zamknąć?
+Dialogue: 0,0:08:25.70,0:08:28.84,Default,,0,0,0,,{\be1}Minoru, zapomniałam czegoś.
+Dialogue: 0,0:08:28.84,0:08:32.09,Default,,0,0,0,,{\be1}Możesz mi przynieść przejazdówkę?\NLeży koło telewizora.
+Dialogue: 0,0:08:37.98,0:08:39.35,Default,,0,0,0,,{\be1}Wyszedł?
+Dialogue: 0,0:08:43.35,0:08:45.19,Default,,0,0,0,,{\be1}Może jest w kiblu?
+Dialogue: 0,0:08:45.19,0:08:46.60,Default,,0,0,0,,{\be1}Minoru.
+Dialogue: 0,0:08:54.93,0:08:57.43,Default,,0,0,0,,{\be1}Przestań.\NNie teraz.
+Dialogue: 0,0:09:14.89,0:09:18.89,Default,,0,0,0,,{\be1}Dziwne, gdzie ja ją podziałam?
+Dialogue: 0,0:09:20.93,0:09:22.71,Default,,0,0,0,,{\be1}No nie, tu ją miałam.
+Dialogue: 0,0:09:23.99,0:09:26.62,Default,,0,0,0,,{\be1}Minoru, wychodzę.
+Dialogue: 0,0:09:40.85,0:09:43.45,Default,,0,0,0,,{\be1}Ciszej.
+Dialogue: 0,0:09:43.45,0:09:45.27,Default,,0,0,0,,{\be1}I tak już wyszła.
+Dialogue: 0,0:09:45.27,0:09:47.47,Default,,0,0,0,,{\be1}Ale sąsiedzi usłyszą.
+Dialogue: 0,0:09:48.93,0:09:52.06,Default,,0,0,0,,{\be1}Włóż mi go teraz w tyłek.
+Dialogue: 0,0:09:55.46,0:09:56.85,Default (i),,0,0,0,,{\be1}Ale ciasny!
+Dialogue: 0,0:10:32.79,0:10:35.73,Default,,0,0,0,,{\be1}Ale ciasny!
+Dialogue: 0,0:10:35.73,0:10:37.79,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:10:39.14,0:10:40.80,Default,,0,0,0,,{\be1}Mocno się podjarałam!
+Dialogue: 0,0:10:42.81,0:10:46.55,Default,,0,0,0,,{\be1}Tak! Cudownie!
+Dialogue: 0,0:10:46.55,0:10:48.58,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:10:54.09,0:10:55.81,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:10:58.29,0:11:00.41,Default,,0,0,0,,{\be1}Nie chcę znowu tak jak wtedy!
+Dialogue: 0,0:11:00.41,0:11:05.96,Default,,0,0,0,,{\be1}Chcę zapomnieć o tamtym gwałcie!
+Dialogue: 0,0:11:05.96,0:11:08.33,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:11:08.98,0:11:10.70,Default (i),,0,0,0,,{\be1}Została zgwałcona?
+Dialogue: 0,0:11:11.96,0:11:14.27,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:11:14.27,0:11:17.82,Default (i),,0,0,0,,{\be1}Ilu facetów musiało ją wtedy zgwałcić?
+Dialogue: 0,0:11:19.84,0:11:21.44,Default,,0,0,0,,{\be1}Nie wyjmuj!
+Dialogue: 0,0:11:45.62,0:11:47.87,Default,,0,0,0,,{\be1}- Dochodzę!\N- Dochodzę!
+Dialogue: 0,0:11:49.76,0:11:53.00,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:11:58.37,0:12:02.13,Default,,0,0,0,,{\be1}Spuść się we mnie!
+Dialogue: 0,0:12:22.61,0:12:25.58,Default,,0,0,0,,{\be1}Mam zostawić swój mail czy telefon?
+Dialogue: 0,0:12:25.58,0:12:27.78,Default,,0,0,0,,{\be1}A muszę wybierać?
+Dialogue: 0,0:12:27.78,0:12:30.88,Default,,0,0,0,,{\be1}Tak będzie najlepiej.
+Dialogue: 0,0:12:30.88,0:12:33.24,Default,,0,0,0,,{\be1}No chyba, że nie chcesz w ogóle?
+Dialogue: 0,0:12:34.75,0:12:38.75,Default,,0,0,0,,{\be1}Sama wybierz.
+Dialogue: 0,0:12:39.49,0:12:42.75,Default,,0,0,0,,{\be1}Mów mi Akane, niech ci będzie.
+Dialogue: 0,0:13:03.29,0:13:05.24,Default,,0,0,0,,{\be1}Twoja matka już wyszła?
+Dialogue: 0,0:13:19.26,0:13:21.58,Default,,0,0,0,,{\be1}Jeśli chcesz to możemy razem zjeść kolację.
+Dialogue: 0,0:13:22.07,0:13:23.53,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:13:23.53,0:13:24.90,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:13:24.90,0:13:30.34,Default,,0,0,0,,{\be1}Mój mąż jest ciągle w podróży\Nsłużbowej, a nie chcę siedzieć sama.
+Dialogue: 0,0:13:30.34,0:13:33.25,Default,,0,0,0,,{\be1}Mogę zrobić twoje ulubione danie.
+Dialogue: 0,0:13:34.11,0:13:36.31,Default,,0,0,0,,{\be1}Będziesz wniebowzięty.
+Dialogue: 0,0:13:46.59,0:13:49.39,Default,,0,0,0,,{\be1}Dziękuję, było przepyszne.
+Dialogue: 0,0:13:49.39,0:13:52.61,Default,,0,0,0,,{\be1}Czyli było warto się postarać.
+Dialogue: 0,0:13:53.69,0:13:57.65,Default,,0,0,0,,{\be1}Nie widać, żebyś była w ciąży.
+Dialogue: 0,0:13:58.84,0:14:00.18,Default,,0,0,0,,{\be1}No nie?
+Dialogue: 0,0:14:05.78,0:14:08.84,Default,,0,0,0,,{\be1}To moje pierwsze dziecko,\Nwięc nie wiem co robić.
+Dialogue: 0,0:14:08.84,0:14:11.72,Default,,0,0,0,,{\be1}Czasem czuję jak się rusza.
+Dialogue: 0,0:14:11.72,0:14:13.12,Default,,0,0,0,,{\be1}Czujesz?
+Dialogue: 0,0:14:13.12,0:14:14.14,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:14:16.09,0:14:17.99,Default,,0,0,0,,{\be1}Przyłóż głowę.
+Dialogue: 0,0:14:21.19,0:14:24.15,Default,,0,0,0,,{\be1}A teraz słyszysz?
+Dialogue: 0,0:14:26.51,0:14:28.00,Default,,0,0,0,,{\be1}No nie wiem.
+Dialogue: 0,0:14:28.00,0:14:30.04,Default,,0,0,0,,{\be1}Cokolwiek?
+Dialogue: 0,0:14:31.40,0:14:36.16,Default,,0,0,0,,{\be1}W zasadzie to słyszę,\Njak się codziennie masturbujesz.
+Dialogue: 0,0:14:37.75,0:14:38.95,Default,,0,0,0,,{\be1}Aż mi wstyd.
+Dialogue: 0,0:14:41.53,0:14:45.08,Default,,0,0,0,,{\be1}Jesteś mokra.\NNie nosisz majtek?
+Dialogue: 0,0:14:45.08,0:14:48.25,Default,,0,0,0,,{\be1}Wolę chodzić bez nich.
+Dialogue: 0,0:14:48.25,0:14:50.71,Default,,0,0,0,,{\be1}Nie przestawaj.
+Dialogue: 0,0:14:57.50,0:14:58.75,Default,,0,0,0,,{\be1}Minoru.
+Dialogue: 0,0:15:31.46,0:15:34.76,Default,,0,0,0,,{\be1}O nie, zwariuję.
+Dialogue: 0,0:15:36.23,0:15:38.47,Default,,0,0,0,,{\be1}Włóż go.
+Dialogue: 0,0:15:44.68,0:15:46.62,Default,,0,0,0,,{\be1}Jak dobrze.
+Dialogue: 0,0:15:48.91,0:15:51.20,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:15:51.78,0:15:52.49,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:16:14.44,0:16:17.55,Default,,0,0,0,,{\be1}Tak! Cudownie!
+Dialogue: 0,0:16:23.25,0:16:24.35,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:16:27.62,0:16:28.65,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:16:30.52,0:16:32.07,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:16:32.76,0:16:37.57,Default (i),,0,0,0,,{\be1}Może uprawiać seks w ciąży?
+Dialogue: 0,0:16:55.05,0:16:58.52,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:17:11.36,0:17:16.19,Default,,0,0,0,,{\be1}Co się stało, że wyszedłeś ze mną do sklepu?
+Dialogue: 0,0:17:16.80,0:17:22.01,Default,,0,0,0,,{\be1}Nic, pomyślałem, że jesteś\Nzmęczona po pracy i pomogę ci.
+Dialogue: 0,0:17:22.01,0:17:23.94,Default,,0,0,0,,{\be1}Na pewno tylko tyle?
+Dialogue: 0,0:17:25.46,0:17:26.41,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:17:38.69,0:17:40.24,Default,,0,0,0,,{\be1}Dawno się nie widziałyśmy.
+Dialogue: 0,0:17:42.36,0:17:43.43,Default,,0,0,0,,{\be1}Dobrze wyglądasz.
+Dialogue: 0,0:18:01.40,0:18:04.57,Default,,0,0,0,,{\be1}Kto to był?\NTwoja znajoma?
+Dialogue: 0,0:18:06.44,0:18:07.81,Default,,0,0,0,,{\be1}Tak jakby.
+Dialogue: 0,0:18:21.90,0:18:24.56,Default,,0,0,0,,{\be1}Przepraszam, ale muszę pójść do kumpla.
+Dialogue: 0,0:18:57.45,0:18:58.96,Default,,0,0,0,,{\be1}Ciekawy pokój.
+Dialogue: 0,0:19:01.97,0:19:04.26,Default,,0,0,0,,{\be1}Nie wiedziałem, że kręci cię to.
+Dialogue: 0,0:19:05.04,0:19:08.18,Default,,0,0,0,,{\be1}Myślałeś, że jestem nudną babą?
+Dialogue: 0,0:19:10.01,0:19:12.18,Default,,0,0,0,,{\be1}Trochę boli, jak zwykłą zabawę.
+Dialogue: 0,0:19:12.82,0:19:15.82,Default,,0,0,0,,{\be1}To nie było przypadkowe spotkanie, prawda?
+Dialogue: 0,0:19:15.82,0:19:20.86,Default,,0,0,0,,{\be1}Powiedz mi o co chodzi,\Nto szybko ją skończymy.
+Dialogue: 0,0:19:20.86,0:19:26.00,Default,,0,0,0,,{\be1}Już mówiłam, że to był przypadek\Ni poznałyśmy się dawno temu.
+Dialogue: 0,0:19:26.00,0:19:27.74,Default,,0,0,0,,{\be1}Nie powiesz po dobroci?
+Dialogue: 0,0:19:38.31,0:19:40.21,Default,,0,0,0,,{\be1}Skiń głową, gdy będziesz bardziej wylewna.
+Dialogue: 0,0:20:06.79,0:20:10.87,Default,,0,0,0,,{\be1}Co was łączy?
+Dialogue: 0,0:20:28.23,0:20:31.10,Default,,0,0,0,,{\be1}Czy teraz jesteś skora do rozmowy?
+Dialogue: 0,0:20:36.27,0:20:39.73,Default,,0,0,0,,{\be1}Czyli nie.
+Dialogue: 0,0:20:47.96,0:20:50.49,Default,,0,0,0,,{\be1}Zobaczymy ile wytrzymasz.
+Dialogue: 0,0:20:58.86,0:21:00.21,Default,,0,0,0,,{\be1}Chce ci się pić?
+Dialogue: 0,0:21:19.71,0:21:21.73,Default,,0,0,0,,{\be1}Wystarczy ci już?
+Dialogue: 0,0:21:22.75,0:21:24.23,Default,,0,0,0,,{\be1}Puść mnie do kibla.
+Dialogue: 0,0:21:25.28,0:21:27.07,Default,,0,0,0,,{\be1}A powiesz?
+Dialogue: 0,0:21:29.75,0:21:32.24,Default,,0,0,0,,{\be1}Chyba nie obejdzie się bez tego.
+Dialogue: 0,0:21:37.90,0:21:41.76,Default,,0,0,0,,{\be1}Gdzie mam go włożyć?
+Dialogue: 0,0:21:53.68,0:21:56.52,Default,,0,0,0,,{\be1}Pewnie chcesz w tyłek?
+Dialogue: 0,0:22:08.16,0:22:09.74,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:22:12.56,0:22:15.49,Default,,0,0,0,,{\be1}W drugą dziurę dostaniesz coś lepszego.
+Dialogue: 0,0:22:22.07,0:22:23.82,Default,,0,0,0,,{\be1}Musze do kibla!
+Dialogue: 0,0:22:30.51,0:22:33.81,Default,,0,0,0,,{\be1}Musze do kibla!
+Dialogue: 0,0:22:44.83,0:22:49.28,Default,,0,0,0,,{\be1}Wyjmij mi go z tyłka!
+Dialogue: 0,0:22:50.73,0:22:54.53,Default,,0,0,0,,{\be1}Więc gadaj co was łączy.
+Dialogue: 0,0:22:58.84,0:23:01.31,Default,,0,0,0,,{\be1}Skoro tak bardzo chcesz to powiem!
+Dialogue: 0,0:23:01.31,0:23:05.03,Default,,0,0,0,,{\be1}Jestem jej siostrą!
+Dialogue: 0,0:23:10.82,0:23:12.35,Default,,0,0,0,,{\be1}Niemożliwe.
+Dialogue: 0,0:23:31.84,0:23:35.91,Default,,0,0,0,,{\be1}Cześć, zaraz zrobię kolację.
+Dialogue: 0,0:23:36.88,0:23:38.96,Default,,0,0,0,,{\be1}Spotkałem się z Akane.
+Dialogue: 0,0:23:41.39,0:23:43.95,Default,,0,0,0,,{\be1}Powiedziała ci?
+Dialogue: 0,0:23:43.95,0:23:45.08,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:23:52.86,0:23:58.10,Default,,0,0,0,,{\be1}Przepraszam, nie chciałam tego ukrywać.
+Dialogue: 0,0:23:58.10,0:24:01.92,Default,,0,0,0,,{\be1}Chciałam ci kiedyś o niej powiedzieć.
+Dialogue: 0,0:24:04.54,0:24:08.95,Default,,0,0,0,,{\be1}Wiedziałam, że kiedyś nadejdzie ten dzień.
+Dialogue: 0,0:24:08.95,0:24:13.93,Default,,0,0,0,,{\be1}To prawda, jesteś synem Akane.
+Dialogue: 0,0:24:15.49,0:24:18.29,Default (i),,0,0,0,,{\be1}Nie chcę znowu tak jak wtedy!
+Dialogue: 0,0:24:18.29,0:24:24.15,Default (i),,0,0,0,,{\be1}Chcę zapomnieć o tamtym gwałcie!
+Dialogue: 0,0:24:25.40,0:24:29.77,Default (i),,0,0,0,,{\be1}Jestem dzieckiem gwałtu?
+Dialogue: 0,0:24:29.77,0:24:34.64,Default (i),,0,0,0,,{\be1}Na dodatek przeleciałem własną matkę?
+Dialogue: 0,0:24:40.14,0:24:42.22,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:24:44.78,0:24:46.15,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:24:53.86,0:24:56.35,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:32.07,0:25:33.08,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:33.83,0:25:37.36,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:25:46.98,0:25:49.71,Default,,0,0,0,,{\be1}Błagam, przestań!
+Dialogue: 0,0:25:49.71,0:25:51.61,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:52.15,0:26:05.14,Default,,0,0,0,,{\be1}Czujesz się upokorzona,\Ngdy twój niby syn chce cię zerżną?!
+Dialogue: 0,0:26:10.35,0:26:12.06,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:26:22.28,0:26:28.88,Default,,0,0,0,,{\be1}No proszę, nikt jeszcze\Nnie zrobił z ciebie kobiety.
+Dialogue: 0,0:26:32.59,0:26:34.07,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:26:38.84,0:26:40.38,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:26:43.90,0:26:47.06,Default,,0,0,0,,{\be1}- No to się podjarałem!\N- Co chcesz zrobić?!
+Dialogue: 0,0:26:49.01,0:26:53.02,Default,,0,0,0,,{\be1}Pobawię się też tą dziurką!
+Dialogue: 0,0:26:53.48,0:26:55.43,Default,,0,0,0,,{\be1}Nie rób tego!
+Dialogue: 0,0:26:58.18,0:27:03.48,Default,,0,0,0,,{\be1}Nie myśl o mnie źle,\Nchcę tylko pogłębić nasze więzi.
+Dialogue: 0,0:27:06.60,0:27:08.20,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:27:17.13,0:27:20.68,Default (i),,0,0,0,,{\be1}Nie ma co się powstrzymywać,\Nwidać, że podoba się jej.
+Dialogue: 0,0:27:24.04,0:27:26.55,Default,,0,0,0,,{\be1}Jak chcesz mogę przestać.
+Dialogue: 0,0:27:44.16,0:27:46.07,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:27:46.07,0:27:53.41,Default,,0,0,0,,{\be1}Spuszczasz się we mnie!
+Dialogue: 0,0:27:55.31,0:28:00.31,Default,,0,0,0,,{\be1}Dobrze, byłaś dziewicą, a i tak doszłaś.
+Dialogue: 0,0:28:00.31,0:28:04.92,Default,,0,0,0,,{\be1}Musiałaś się dużo masturbować,\Ngdy mnie nie było.
+Dialogue: 0,0:28:04.92,0:28:09.01,Default,,0,0,0,,{\be1}W nagrodę zerżnę cię w dupsko.

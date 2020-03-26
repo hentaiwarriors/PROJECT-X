@@ -1,0 +1,450 @@
+﻿[Script Info]
+Title: [SubDESU-H] Mune Kyun! Heartful Cafe 01
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Original Script: SubDESU-H
+Original Translation: Rebate_War
+Original Editing: BT
+Original Timing: HentaiKamiSama
+Collisions: Normal
+Last Style Storage: Default
+Audio File: ..\Mune Kyun! Heart cafe 01.mkv
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Mune Kyun! Heartful Cafe Dialogue,Amerigo BT,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Mune Kyun! Heartful Cafe log 1,Albertus Extra Bold,30,&H00B0DCE7,&H000000FF,&H001383AD,&H00034764,0,0,0,0,100,100,0,0,1,1.5,4,2,10,10,10,1
+Style: Mune Kyun! Heartful Cafe log 2,Aurora BdCn BT,35,&H00643287,&H000000FF,&H000F8BAF,&H005E3585,0,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: Mune Kyun! Heartful Cafe Sign1,Americana XBd BT,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
+Style: Mune Kyun! Heartful Cafe Sign2,71mksd2,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Mune Kyun! Heartful Cafe Sign E-mail,AmerType Md BT,20,&H000E0E11,&H000000FF,&H00FBFBFE,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Mune Kyun! Heartful Cafe TL Note,Arial Rounded MT Bold,23,&H00FAF7F8,&H000000FF,&H00590F78,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.59,0:00:36.74,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:01:00.53,0:01:03.26,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Miss, you didn't pay enough for the coffee.
+Dialogue: 0,0:01:07.98,0:01:14.33,Mune Kyun! Heartful Cafe log 1,,0000,0000,0000,,{\fad(500,0)\pos(185,125)}SubDESU-H
+Dialogue: 0,0:01:07.98,0:01:14.33,Mune Kyun! Heartful Cafe log 2,,0000,0000,0000,,{\fad(500,0)\pos(374,128)}Presents
+Dialogue: 0,0:01:16.17,0:01:17.60,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, please help me with my studies.
+Dialogue: 0,0:01:17.80,0:01:19.40,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I have a test coming up.
+Dialogue: 0,0:01:19.66,0:01:21.27,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sure, but don't rely too much on me.
+Dialogue: 0,0:01:21.32,0:01:22.91,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You're hogging him, Chika-chan!
+Dialogue: 0,0:01:22.91,0:01:25.00,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'm not as smart as you, Chiori.
+Dialogue: 0,0:01:25.49,0:01:27.23,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Anyway, let's get started, Onii-chan!
+Dialogue: 0,0:01:27.62,0:01:29.61,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hey hey! I'm working right now!
+Dialogue: 0,0:01:29.99,0:01:31.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But there aren't any customers!
+Dialogue: 0,0:01:32.18,0:01:33.83,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,There's one over there, see?
+Dialogue: 0,0:01:46.07,0:01:47.66,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'll help you after I close the shop.
+Dialogue: 0,0:01:48.21,0:01:49.23,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That's a promise, okay?
+Dialogue: 0,0:01:49.36,0:01:50.16,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,See you later!
+Dialogue: 0,0:01:53.71,0:01:55.03,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sorry for the disturbance...
+Dialogue: 0,0:01:55.47,0:01:57.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No, it's fine. You three sure get along!
+Dialogue: 0,0:01:58.89,0:02:02.17,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Well, it's more like I'm being used than getting along with them.
+Dialogue: 0,0:02:02.62,0:02:06.63,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You're more than siblings; you're more like young lovers!
+Dialogue: 0,0:02:06.99,0:02:08.21,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,D-Do you want a refill?
+Dialogue: 0,0:02:09.58,0:02:11.26,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Is that your treat?
+Dialogue: 0,0:02:13.33,0:02:15.78,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hello. How are you doing, Master?
+Dialogue: 0,0:02:16.73,0:02:21.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's been three weeks since you left to find better coffee beans.
+Dialogue: 0,0:02:23.12,0:02:27.39,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,By the way, about my step-sisters Chika and Chiori...
+Dialogue: 0,0:02:28.05,0:02:29.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,They're living here in one of the free rooms.
+Dialogue: 0,0:02:31.59,0:02:35.63,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Please let them stay until I leave high school.
+Dialogue: 0,0:02:37.00,0:02:37.87,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Once I graduate,
+Dialogue: 0,0:02:38.25,0:02:41.02,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,they're supposed to leave for America where our father lives.
+Dialogue: 0,0:02:42.48,0:02:45.09,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's been a few years since I met my sisters,
+Dialogue: 0,0:02:46.21,0:02:50.64,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,but it feels as if I had them all along.
+Dialogue: 0,0:02:53.34,0:02:56.50,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I was wondering what would happen when Dad suddenly told me
+Dialogue: 0,0:02:56.62,0:02:57.90,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,to take care of them,
+Dialogue: 0,0:02:58.37,0:02:59.52,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,but it's actually going pretty smoothly!
+Dialogue: 0,0:03:00.15,0:03:03.76,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,However, since that cafe chain Tanny Texas opened over there,
+Dialogue: 0,0:03:04.60,0:03:06.22,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,customers aren't coming here as often...
+Dialogue: 0,0:03:07.83,0:03:10.01,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But isn't it nice and peaceful here, Master?
+Dialogue: 0,0:03:10.64,0:03:11.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan...
+Dialogue: 0,0:03:11.97,0:03:14.24,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But your coffee tastes so good...
+Dialogue: 0,0:03:15.10,0:03:16.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:03:16.79,0:03:19.68,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We must value loyal customers.
+Dialogue: 0,0:03:27.32,0:03:29.92,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, please go wake up Chika-chan!
+Dialogue: 0,0:03:30.37,0:03:31.20,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:03:34.90,0:03:36.01,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika! Wake up...
+Dialogue: 0,0:03:48.79,0:03:50.24,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you saw me changing, didn't you!
+Dialogue: 0,0:03:50.47,0:03:51.37,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I didn't. No way!
+Dialogue: 0,0:03:51.97,0:03:53.94,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Then as punishment, you'll go on a date with me.
+Dialogue: 0,0:03:53.95,0:03:56.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I really didn't see anything! I didn't see those sky blue panties.
+Dialogue: 0,0:03:56.86,0:03:58.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I knew it! You did see!
+Dialogue: 0,0:03:58.79,0:04:00.79,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you don't go on a date with me, I'll get mad!
+Dialogue: 0,0:04:01.06,0:04:01.81,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Go for it.
+Dialogue: 0,0:04:01.99,0:04:03.34,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'll climb on the roof!
+Dialogue: 0,0:04:03.50,0:04:04.34,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Be careful.
+Dialogue: 0,0:04:04.37,0:04:05.93,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'll get naked!
+Dialogue: 0,0:04:09.37,0:04:10.35,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:04:10.61,0:04:11.14,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Go on a date with me.
+Dialogue: 0,0:04:12.76,0:04:14.70,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Shopping with Chiori!
+Dialogue: 0,0:04:16.27,0:04:17.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That's unfair, Chiori!
+Dialogue: 0,0:04:18.09,0:04:19.87,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Why would it be...
+Dialogue: 0,0:04:18.70,0:04:21.92,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Master, since the three of us started living together,
+Dialogue: 0,0:04:22.14,0:04:24.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,we've begun filling out the calendar.
+Dialogue: 0,0:04:25.80,0:04:28.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,When they want to go out with me, they write it there.
+Dialogue: 0,0:04:28.55,0:04:32.57,Mune Kyun! Heartful Cafe Sign2,,0000,0000,0000,,{\pos(239,221)\fad(500,0)\c&H775AAC&}Shopping with Chika!
+Dialogue: 0,0:04:28.55,0:04:32.57,Mune Kyun! Heartful Cafe Sign2,,0000,0000,0000,,{\frz337.89\pos(422,141)\fad(500,0)\c&H4AB3AA&}Date with Chiori!
+Dialogue: 0,0:04:29.97,0:04:32.53,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Whenever it's been decided, I circle them. But...
+Dialogue: 0,0:04:32.73,0:04:34.41,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Please circle Chiori's!
+Dialogue: 0,0:04:34.62,0:04:37.50,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you don't go with me, you'll be in trouble!
+Dialogue: 0,0:04:48.81,0:04:50.66,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan! Make sure that you're watching me!
+Dialogue: 0,0:04:50.95,0:04:51.67,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Okay, okay!
+Dialogue: 0,0:04:54.81,0:04:56.44,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:04:56.99,0:04:58.04,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:59.00,0:04:59.65,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,
+Dialogue: 0,0:05:06.26,0:05:06.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika-!
+Dialogue: 0,0:05:09.50,0:05:10.67,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Are you okay?!
+Dialogue: 0,0:05:10.98,0:05:12.39,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's happening?! Hey!
+Dialogue: 0,0:05:13.17,0:05:14.97,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,N-No, don't talk!
+Dialogue: 0,0:05:17.91,0:05:18.82,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,H-Hey-!
+Dialogue: 0,0:05:20.44,0:05:21.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you freak! Pervert!
+Dialogue: 0,0:05:22.27,0:05:24.97,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I was just trying to save you! You're too mean.
+Dialogue: 0,0:05:24.98,0:05:25.93,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What?!
+Dialogue: 0,0:05:26.41,0:05:27.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You're quite heavy...
+Dialogue: 0,0:05:34.75,0:05:35.95,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Isn't it cute?! {Uguu~}
+Dialogue: 0,0:05:35.99,0:05:37.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You're buying {\i1}another{\i0} pig?
+Dialogue: 0,0:05:37.92,0:05:39.17,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I can't?
+Dialogue: 0,0:05:39.69,0:05:42.28,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Um, you can, but let's just get one!
+Dialogue: 0,0:05:47.10,0:05:48.18,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I bet that right now...
+Dialogue: 0,0:05:50.46,0:05:52.82,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan and Chiori are...
+Dialogue: 0,0:06:05.15,0:06:07.85,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We sure bought a lot! Will you be okay?
+Dialogue: 0,0:06:08.25,0:06:10.69,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What are we going to do with all of this?
+Dialogue: 0,0:06:10.75,0:06:13.90,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You can eat a lot to get some energy for tonight!
+Dialogue: 0,0:06:14.01,0:06:16.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hey, don't say that!
+Dialogue: 0,0:06:17.13,0:06:19.68,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Why? Did I say something weird?
+Dialogue: 0,0:06:20.91,0:06:22.97,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The total comes to 8,080 Yen.
+Dialogue: 0,0:06:23.70,0:06:24.85,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,How many install payments?
+Dialogue: 0,0:06:25.08,0:06:25.66,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Just one, please.
+Dialogue: 0,0:06:28.03,0:06:30.03,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'm terribly sorry.
+Dialogue: 0,0:06:30.29,0:06:32.90,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It looks like your card has been declined at the moment.
+Dialogue: 0,0:06:32.97,0:06:33.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What? Really?
+Dialogue: 0,0:06:37.09,0:06:38.26,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:06:38.36,0:06:41.80,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I think we got a letter about this a few days ago.
+Dialogue: 0,0:06:42.09,0:06:43.45,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,This isn't good...
+Dialogue: 0,0:06:43.53,0:06:45.76,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let's hurry home and tell Chika-chan!
+Dialogue: 0,0:06:59.91,0:07:02.15,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No! I can't-!
+Dialogue: 0,0:07:10.31,0:07:11.80,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan-!
+Dialogue: 0,0:07:20.93,0:07:23.46,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's going to happen to Chika? {Happen to me is better? Could get confusing}
+Dialogue: 0,0:07:32.98,0:07:35.66,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The next day, I got an email from Master.
+Dialogue: 0,0:07:36.33,0:07:48.01,Mune Kyun! Heartful Cafe Sign E-mail,,0000,0000,0000,,{\frz3.706\pos(324,278)\fad(500,0)}I’m sorry, Shinya. I had to pay an informant for the details of the farm that grows legendary coffee beans, and I needed some money. I apologize, but please lend me some of the cafe money. {TL note: The animators failed here since with the same line is repeated twice in the second line.}
+Dialogue: 0,0:07:36.33,0:07:48.01,Mune Kyun! Heartful Cafe TL Note,,0000,0000,0000,,{\fad(500,0)}TL note: The animators failed here since with the same line is repeated twice in the second line.
+Dialogue: 0,0:07:37.35,0:07:39.41,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It was Master who withdrew the money.
+Dialogue: 0,0:07:39.61,0:07:43.60,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,He apparently needed it for the legendary coffee beans.
+Dialogue: 0,0:07:48.86,0:07:51.14,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Geez, Master...
+Dialogue: 0,0:07:52.57,0:07:54.36,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, will we be okay?
+Dialogue: 0,0:07:55.30,0:07:59.76,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah, the only money we have is the 55,000 yen left in the cashier.
+Dialogue: 0,0:08:00.18,0:08:02.72,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We have to get by with this.
+Dialogue: 0,0:08:03.77,0:08:08.04,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, these are our savings. There isn't much, but please use it!
+Dialogue: 0,0:08:08.14,0:08:10.59,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hey, don't worry about it! We'll manage!
+Dialogue: 0,0:08:11.74,0:08:14.69,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We also got mail from Dad.
+Dialogue: 0,0:08:16.12,0:08:16.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What does it say?
+Dialogue: 0,0:08:17.31,0:08:20.10,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,He said that the job went well and that the house is complete,
+Dialogue: 0,0:08:20.19,0:08:21.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,so he said to come on over to America.
+Dialogue: 0,0:08:21.48,0:08:22.82,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The tickets are in it, too.
+Dialogue: 0,0:08:23.89,0:08:26.67,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The shop's like this, so this isn't a bad time for you two to go to America...
+Dialogue: 0,0:08:26.96,0:08:28.26,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you idiot!
+Dialogue: 0,0:08:28.58,0:08:32.12,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We can't leave the shop and Onii-chan like this!
+Dialogue: 0,0:08:32.12,0:08:33.70,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Who cares if we're low on cash!
+Dialogue: 0,0:08:33.78,0:08:35.61,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If we work together, we can get through!
+Dialogue: 0,0:08:35.90,0:08:39.60,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Even if you say that, what are we going to do about buying supplies tomorrow?
+Dialogue: 0,0:08:40.03,0:08:41.97,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We just have to get a lot of customers, right?
+Dialogue: 0,0:08:42.30,0:08:43.34,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Leave it to us!
+Dialogue: 0,0:08:43.92,0:08:45.72,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let’s go, Chiori. I need your help.
+Dialogue: 0,0:08:46.75,0:08:47.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You guys sure are lively!
+Dialogue: 0,0:08:48.08,0:08:50.32,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh Aya-chan, sorry for being so loud.
+Dialogue: 0,0:08:50.38,0:08:51.50,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No, I don't mind!
+Dialogue: 0,0:08:51.60,0:08:55.15,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Master, please don't hesitate to ask if you need anything.
+Dialogue: 0,0:08:55.64,0:08:58.04,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Thanks, but I think we'll manage.
+Dialogue: 0,0:09:04.10,0:09:07.05,Mune Kyun! Heartful Cafe Sign2,,0000,0000,0000,,{\fad(500,0)\frz14.945\pos(271,184)\c&H4646B1&}Shop re-opening!
+Dialogue: 0,0:09:04.10,0:09:07.05,Mune Kyun! Heartful Cafe Sign2,,0000,0000,0000,,{\fad(500,0)\frz21.593\c&H3CAEAA&\pos(457,203)}Chika
+Dialogue: 0,0:09:04.10,0:09:07.05,Mune Kyun! Heartful Cafe Sign2,,0000,0000,0000,,{\fad(500,0)\frz16.591\pos(313,367)\c&H745CA6&}Let's try out best!
+Dialogue: 0,0:09:04.10,0:09:07.05,Mune Kyun! Heartful Cafe Sign2,,0000,0000,0000,,{\fad(500,0)\pos(461,383)\frz15.461\c&H745CA6&}Chiori
+Dialogue: 0,0:09:16.38,0:09:17.16,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Ehh?!
+Dialogue: 0,0:09:22.76,0:09:24.06,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh, Onii-chan!
+Dialogue: 0,0:09:24.30,0:09:25.47,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Welcome home, Onii-chan!
+Dialogue: 0,0:09:25.63,0:09:26.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's happening?
+Dialogue: 0,0:09:26.81,0:09:27.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Um, well!
+Dialogue: 0,0:09:27.71,0:09:28.76,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Um, are you their brother?
+Dialogue: 0,0:09:28.94,0:09:31.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Nice to meet you; I'm your sister's classmate.
+Dialogue: 0,0:09:31.73,0:09:32.72,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,This is Shun-kun!
+Dialogue: 0,0:09:33.14,0:09:36.57,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Shun-kun advertised our place on the Internet for us!
+Dialogue: 0,0:09:36.71,0:09:37.64,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:09:37.96,0:09:39.94,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It looks like you've helped us out immensely.
+Dialogue: 0,0:09:40.30,0:09:41.49,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No, it's nothing.
+Dialogue: 0,0:09:41.78,0:09:42.64,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Please excuse me.
+Dialogue: 0,0:09:43.13,0:09:44.49,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika, Chiori, come with me for a moment.
+Dialogue: 0,0:09:46.99,0:09:48.85,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's with the get-up?
+Dialogue: 0,0:09:49.00,0:09:50.07,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You don't know?
+Dialogue: 0,0:09:50.17,0:09:52.81,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's the princess costume for Wonderful Cafe!
+Dialogue: 0,0:09:53.19,0:09:56.53,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I know that you two watch that show every week,
+Dialogue: 0,0:09:56.89,0:10:00.80,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,but I'm asking {\i1}why{\i0} you're dressed like that!
+Dialogue: 0,0:10:01.37,0:10:02.21,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Because it's cute.
+Dialogue: 0,0:10:02.44,0:10:03.64,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We've got one for you too, Onii-chan!
+Dialogue: 0,0:10:03.75,0:10:05.26,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Tada!
+Dialogue: 0,0:10:07.52,0:10:09.85,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Please wear this tomorrow!
+Dialogue: 0,0:10:09.89,0:10:11.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,This costume is from when Prince Cappuccino
+Dialogue: 0,0:10:12.01,0:10:14.17,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,confesses his love to us, the princess!
+Dialogue: 0,0:10:14.30,0:10:15.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Isn't it great?
+Dialogue: 0,0:10:16.01,0:10:17.79,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I-I won't wear that!
+Dialogue: 0,0:10:18.18,0:10:18.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Why not?
+Dialogue: 0,0:10:20.29,0:10:23.18,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,An adult like me can't wear such an embarrassing costume!
+Dialogue: 0,0:10:23.20,0:10:24.53,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,My pride won't allow it!
+Dialogue: 0,0:10:25.17,0:10:27.51,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's more fun when we all match!
+Dialogue: 0,0:10:27.74,0:10:30.53,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Wouldn't it be strange if we all wore such a thing?!
+Dialogue: 0,0:10:30.87,0:10:32.23,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's not strange!
+Dialogue: 0,0:10:32.88,0:10:35.51,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Anyway! If you like cosplay so much,
+Dialogue: 0,0:10:35.68,0:10:37.83,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,why don't you ask Shun-kun to wear it?
+Dialogue: 0,0:10:37.90,0:10:40.14,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Shun-kun is a customer!
+Dialogue: 0,0:10:40.28,0:10:44.80,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Anyway! When I say I won't wear it, I really won't! {wtf raw fucking up at 10:43)
+Dialogue: 0,0:10:44.94,0:10:46.22,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you meanie!
+Dialogue: 0,0:10:46.34,0:10:47.10,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Autocrat!
+Dialogue: 0,0:10:47.13,0:10:48.27,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You guys-!
+Dialogue: 0,0:10:48.58,0:10:53.01,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Well, if I was going to wear such an embarrassing costume...
+Dialogue: 0,0:10:53.61,0:10:54.81,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you were going to...?
+Dialogue: 0,0:10:57.58,0:11:00.57,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I won't! I definitely won't! I won't I won't I won't! {Nien nien nien!}
+Dialogue: 0,0:11:01.03,0:11:03.01,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Excuse me! Could I have the menu?
+Dialogue: 0,0:11:03.18,0:11:04.27,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Could I get a refill?
+Dialogue: 0,0:11:04.27,0:11:05.88,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Off to work, off to work!
+Dialogue: 0,0:11:06.54,0:11:07.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sorry to make you wait!
+Dialogue: 0,0:11:07.79,0:11:09.50,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yes! Please hold on!
+Dialogue: 0,0:11:09.64,0:11:11.44,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Okay, right away!
+Dialogue: 0,0:11:13.78,0:11:14.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:11:15.44,0:11:17.06,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh yes, right away!
+Dialogue: 0,0:11:17.06,0:11:18.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sorry it's so noisy...
+Dialogue: 0,0:11:18.57,0:11:21.00,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No, it's fun with so many people!
+Dialogue: 0,0:11:21.44,0:11:23.08,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:11:23.11,0:11:24.36,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:11:24.74,0:11:25.06,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Here!
+Dialogue: 0,0:11:25.06,0:11:26.42,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:11:26.98,0:11:29.28,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, stop slacking off and make some coffee!
+Dialogue: 0,0:11:29.43,0:11:30.25,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sure.
+Dialogue: 0,0:11:31.60,0:11:32.48,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Thanks for the coffee!
+Dialogue: 0,0:11:32.59,0:11:34.07,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,See you later, Chika-chan!
+Dialogue: 0,0:11:34.54,0:11:36.11,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:11:38.17,0:11:39.23,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We did it!
+Dialogue: 0,0:11:39.41,0:11:41.24,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If we keep doing this, we'll be fine, right?
+Dialogue: 0,0:11:41.40,0:11:43.03,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah, we will!
+Dialogue: 0,0:11:44.41,0:11:47.02,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,This is all thanks to Chiori and Chika-chan!
+Dialogue: 0,0:11:47.23,0:11:48.77,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You better appreciate it, Onii-chan!
+Dialogue: 0,0:11:49.05,0:11:50.86,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah, yeah. I do.
+Dialogue: 0,0:11:58.56,0:11:59.08,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hello?
+Dialogue: 0,0:12:14.67,0:12:16.43,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh? It's full?
+Dialogue: 0,0:12:16.83,0:12:19.20,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sorry, we're full at the moment!
+Dialogue: 0,0:12:19.23,0:12:21.75,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Um, if you don't mind standing...
+Dialogue: 0,0:12:21.75,0:12:24.15,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hey Chika! They can't drink while standing!
+Dialogue: 0,0:12:24.75,0:12:26.62,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Then we'll come later, Chika-chan.
+Dialogue: 0,0:12:26.86,0:12:28.62,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Okay! See you later!
+Dialogue: 0,0:12:43.72,0:12:45.49,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-san hasn't come around lately...
+Dialogue: 0,0:12:45.72,0:12:47.34,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:12:47.75,0:12:49.19,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Are you feeling lonely without her?
+Dialogue: 0,0:12:49.23,0:12:50.36,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,D-Don't be stupid!
+Dialogue: 0,0:12:50.64,0:12:53.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I was just wondering if it's a burden for her that it's so noisy now...
+Dialogue: 0,0:12:54.61,0:12:55.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's the truth!
+Dialogue: 0,0:12:55.70,0:12:57.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you're so cute!
+Dialogue: 0,0:12:57.53,0:13:00.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You guys! Stop messing around and do your job!
+Dialogue: 0,0:13:06.74,0:13:10.40,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hey Chiori, doesn't Onii-chan want us here?
+Dialogue: 0,0:13:10.83,0:13:11.31,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:13:11.98,0:13:14.59,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Doesn't Onii-chan like Aya-san?
+Dialogue: 0,0:13:14.95,0:13:15.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Ehh?!
+Dialogue: 0,0:13:16.15,0:13:17.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Would we be in the way?
+Dialogue: 0,0:13:18.28,0:13:19.25,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I wonder...
+Dialogue: 0,0:13:21.08,0:13:24.13,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Siblings can't be together forever, can they?
+Dialogue: 0,0:13:24.95,0:13:26.31,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That's...
+Dialogue: 0,0:13:32.15,0:13:33.17,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We're home!
+Dialogue: 0,0:13:33.32,0:13:34.62,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yo, welcome back!
+Dialogue: 0,0:13:34.99,0:13:36.37,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'm so exhausted!
+Dialogue: 0,0:13:36.50,0:13:38.79,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Getting your young and frail sisters to shop for you...
+Dialogue: 0,0:13:38.87,0:13:41.81,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sorry, I'll make some delicious coffee for you!
+Dialogue: 0,0:13:43.14,0:13:45.56,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, I talked it over with Chiori.
+Dialogue: 0,0:13:45.65,0:13:49.03,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We thought that we should go to America.
+Dialogue: 0,0:13:50.98,0:13:53.78,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah, isn't that a good idea? The shop's doing fine now.
+Dialogue: 0,0:13:55.23,0:14:00.23,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,More people are coming in for your coffee than our cosplay...
+Dialogue: 0,0:14:00.47,0:14:03.07,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The coffee that you make is number one! So...
+Dialogue: 0,0:14:03.23,0:14:06.59,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The cafe is in business again, so we're off to America!
+Dialogue: 0,0:14:07.45,0:14:10.61,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,On our last day, let's all be together.
+Dialogue: 0,0:14:10.92,0:14:11.90,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Promise?
+Dialogue: 0,0:14:15.65,0:14:15.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:17.15,0:14:18.31,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan!
+Dialogue: 0,0:14:51.93,0:14:53.82,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, the bath's ready!
+Dialogue: 0,0:14:59.93,0:15:02.11,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, can we come in too?
+Dialogue: 0,0:15:02.47,0:15:03.02,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:15:03.38,0:15:07.25,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We'll wash your back, since we can't bathe together when we go to America.
+Dialogue: 0,0:15:08.89,0:15:10.05,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Wait-! Hey!
+Dialogue: 0,0:15:11.02,0:15:12.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Can we? This is the last time.
+Dialogue: 0,0:15:14.36,0:15:15.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:15:15.77,0:15:16.75,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yay!
+Dialogue: 0,0:15:22.83,0:15:24.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, were you expecting something different?
+Dialogue: 0,0:15:25.79,0:15:26.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Like I would!
+Dialogue: 0,0:15:27.18,0:15:27.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:15:28.12,0:15:29.59,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,So big!
+Dialogue: 0,0:15:31.66,0:15:32.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I-Idiot! Don't look!
+Dialogue: 0,0:15:33.14,0:15:34.80,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh? You're turning red!
+Dialogue: 0,0:15:34.81,0:15:36.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you're so cute!
+Dialogue: 0,0:15:36.35,0:15:37.28,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Shut-up!
+Dialogue: 0,0:15:38.59,0:15:41.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,The three of us played around merrily,
+Dialogue: 0,0:15:42.76,0:15:46.48,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,like we were going to miss doing it.
+Dialogue: 0,0:16:10.45,0:16:11.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori, Chiori!
+Dialogue: 0,0:16:12.28,0:16:13.29,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We're leaving soon!
+Dialogue: 0,0:16:15.29,0:16:16.52,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:16:16.93,0:16:18.29,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori is coming too!
+Dialogue: 0,0:16:18.84,0:16:20.89,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori, are you packed?
+Dialogue: 0,0:16:21.05,0:16:22.44,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I've got most of it done.
+Dialogue: 0,0:16:22.46,0:16:24.89,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Really? I haven't started at all!
+Dialogue: 0,0:16:24.91,0:16:27.28,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We have to be there at 2 o'clock!
+Dialogue: 0,0:16:27.49,0:16:29.88,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you need other things, I'll send them later.
+Dialogue: 0,0:16:31.43,0:16:35.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Today is the last day that we'll be together, isn't it?
+Dialogue: 0,0:16:36.60,0:16:39.24,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let's all stay together today, okay?
+Dialogue: 0,0:16:40.26,0:16:41.30,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Promise?
+Dialogue: 0,0:16:42.31,0:16:42.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:00.71,0:17:03.16,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, let's close for today!
+Dialogue: 0,0:17:03.11,0:17:04.87,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We won't be here tomorrow, you know!
+Dialogue: 0,0:17:05.18,0:17:06.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chama!
+Dialogue: 0,0:17:06.60,0:17:09.44,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Okay, okay! Go put the closed sign out.
+Dialogue: 0,0:17:09.62,0:17:10.29,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Yay!
+Dialogue: 0,0:17:10.30,0:17:11.12,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let all go out!
+Dialogue: 0,0:17:11.12,0:17:12.14,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let's eat at a restaurant!
+Dialogue: 0,0:17:23.05,0:17:25.05,Mune Kyun! Heartful Cafe Sign1,,0000,0000,0000,,Sign: Closed
+Dialogue: 0,0:17:26.32,0:17:27.43,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let’s go, Onii-chan!
+Dialogue: 0,0:17:27.56,0:17:27.93,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Ok.
+Dialogue: 0,0:17:28.85,0:17:29.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Hang on!
+Dialogue: 0,0:17:30.28,0:17:31.21,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Mail from Aya-chan?
+Dialogue: 0,0:17:31.06,0:17:33.06,Mune Kyun! Heartful Cafe Sign1,,0000,0000,0000,,Phone text: Help me! Apartment, hurry
+Dialogue: 0,0:17:35.06,0:17:37.06,Mune Kyun! Heartful Cafe Sign1,,0000,0000,0000,,Phone text: Help me! Apartment, hurry
+Dialogue: 0,0:17:35.67,0:17:37.11,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's wrong, Onii-chan?
+Dialogue: 0,0:17:37.73,0:17:39.13,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan's in trouble!
+Dialogue: 0,0:17:40.26,0:17:40.83,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'll be off!
+Dialogue: 0,0:17:40.85,0:17:43.62,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Wait, Onii-chan! We won't be here tomorrow!
+Dialogue: 0,0:17:43.93,0:17:45.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You promised that we’d be together today!
+Dialogue: 0,0:17:45.83,0:17:46.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'll be right back!
+Dialogue: 0,0:17:47.34,0:17:49.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, do you care about Aya-san that much?
+Dialogue: 0,0:17:50.31,0:17:52.45,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Do you care about her more than Chiori and Chika-chan?
+Dialogue: 0,0:17:52.87,0:17:53.46,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori...
+Dialogue: 0,0:17:54.14,0:17:56.41,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you care about her that much, then go ahead!
+Dialogue: 0,0:17:57.17,0:17:58.94,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori... I'm sorry!
+Dialogue: 0,0:18:01.98,0:18:02.63,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori...
+Dialogue: 0,0:18:03.78,0:18:06.42,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika-chan, why am I crying?
+Dialogue: 0,0:18:07.06,0:18:07.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:18:09.88,0:18:11.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You're crying too, Chika-chan...
+Dialogue: 0,0:18:13.50,0:18:15.53,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I don't care about Onii-chan!
+Dialogue: 0,0:18:17.69,0:18:18.40,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan!
+Dialogue: 0,0:18:18.76,0:18:20.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan, are you okay?! Aya-chan!
+Dialogue: 0,0:18:21.48,0:18:22.22,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan!!
+Dialogue: 0,0:18:27.41,0:18:29.96,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan, I called the cops so they'll be here soon!
+Dialogue: 0,0:18:30.36,0:18:31.42,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:19:04.05,0:19:09.21,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Master... There is someone I was dating...
+Dialogue: 0,0:19:10.22,0:19:16.19,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But... He went to a far off university and he's boarding there,
+Dialogue: 0,0:19:16.91,0:19:18.42,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,so I don't see him very often...
+Dialogue: 0,0:19:19.94,0:19:21.69,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I missed him too,
+Dialogue: 0,0:19:22.56,0:19:26.39,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,but he must have missed me more...
+Dialogue: 0,0:19:28.09,0:19:30.41,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,He had gotten some lady friends,
+Dialogue: 0,0:19:32.67,0:19:36.43,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,and he started to not come see me during breaks...
+Dialogue: 0,0:19:37.55,0:19:40.49,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It seems that he's had physical relations with them, too...
+Dialogue: 0,0:19:41.66,0:19:44.61,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,He's probably done it a lot by now...
+Dialogue: 0,0:19:45.91,0:19:49.19,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,He was an honest and kind person...
+Dialogue: 0,0:19:50.27,0:19:56.18,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But... He said that he wanted to break up since we were so far apart!
+Dialogue: 0,0:19:59.38,0:20:00.21,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That's why...
+Dialogue: 0,0:20:00.95,0:20:06.58,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That's why I wanted to know why he wanted to...
+Dialogue: 0,0:20:08.34,0:20:09.73,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Through dating sites, I...
+Dialogue: 0,0:20:11.39,0:20:14.49,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But... I really didn't know why!
+Dialogue: 0,0:20:16.44,0:20:23.19,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Master, is it fun to play around with lots of girls?
+Dialogue: 0,0:20:26.37,0:20:27.05,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan,
+Dialogue: 0,0:20:28.48,0:20:33.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,some parts of men are made for that,
+Dialogue: 0,0:20:34.90,0:20:37.94,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,but it shouldn't be with just anybody.
+Dialogue: 0,0:20:40.28,0:20:41.59,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Even if your bodies are connected,
+Dialogue: 0,0:20:42.34,0:20:45.31,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,it doesn't feel good unless your feelings are there too.
+Dialogue: 0,0:20:46.77,0:20:49.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Humans feel safe when they're cuddling
+Dialogue: 0,0:20:50.21,0:20:52.50,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,and can feel each other's warmth, but...
+Dialogue: 0,0:20:53.75,0:20:56.94,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Without true feelings, it just doesn't work.
+Dialogue: 0,0:20:59.22,0:21:00.32,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It shouldn't be with just anyone.
+Dialogue: 0,0:21:01.67,0:21:03.19,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Who it is is what matters.
+Dialogue: 0,0:21:04.20,0:21:07.70,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Master, I think I understand.
+Dialogue: 0,0:21:08.56,0:21:11.91,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I feel that I can understand if it's you, Master...
+Dialogue: 0,0:21:13.58,0:21:16.32,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Master, please hold me!
+Dialogue: 0,0:21:33.65,0:21:38.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I love you, Master...
+Dialogue: 0,0:21:40.03,0:21:40.63,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Aya-chan...
+Dialogue: 0,0:21:53.26,0:21:54.27,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan...
+Dialogue: 0,0:21:55.04,0:21:56.13,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan!
+Dialogue: 0,0:21:56.60,0:21:58.37,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you care about her that much, then go ahead!
+Dialogue: 0,0:21:58.79,0:22:00.97,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,On the last day, let's all be together.
+Dialogue: 0,0:22:00.97,0:22:03.32,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Promise? Onii-chan, you idiot!
+Dialogue: 0,0:22:03.65,0:22:04.59,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan...
+Dialogue: 0,0:22:05.48,0:22:06.11,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Goodbye...
+Dialogue: 0,0:22:06.15,0:22:07.17,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Stay well...
+Dialogue: 0,0:22:38.17,0:22:38.90,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori...
+Dialogue: 0,0:22:44.51,0:22:45.89,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's departing at 2:25!
+Dialogue: 0,0:22:58.05,0:22:59.07,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:23:01.00,0:23:04.78,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I promised that we'd be together on the last day!
+Dialogue: 0,0:23:06.14,0:23:09.54,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If they leave, I might not see them ever again!
+Dialogue: 0,0:23:10.85,0:23:12.78,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I... I...!
+Dialogue: 0,0:23:14.28,0:23:16.22,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika! Chiori!
+Dialogue: 0,0:23:25.00,0:23:27.89,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It's prince Cappuccino! {x2}
+Dialogue: 0,0:23:35.65,0:23:38.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You, the one riding the bike! Pull over immediately!
+Dialogue: 0,0:24:05.82,0:24:06.91,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sorry! Excuse me!
+Dialogue: 0,0:24:19.26,0:24:21.26,Mune Kyun! Heartful Cafe Sign1,,0000,0000,0000,,Sign: Boarding > third terminal
+Dialogue: 0,0:24:39.15,0:24:41.26,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika! Chiori!
+Dialogue: 0,0:24:45.89,0:24:48.03,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika... Chiori...
+Dialogue: 0,0:24:55.48,0:24:55.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:25:02.83,0:25:03.51,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'm so sorry!
+Dialogue: 0,0:25:09.62,0:25:15.80,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,For the first time in my life, I realized that I lost something precious to me.
+Dialogue: 0,0:25:33.86,0:25:35.21,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Welcome home!
+Dialogue: 0,0:25:35.47,0:25:37.22,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Onii-chan, you're late!
+Dialogue: 0,0:25:37.37,0:25:38.39,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika?! Chiori?!
+Dialogue: 0,0:25:38.84,0:25:39.92,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:25:40.24,0:25:41.25,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Didn't you leave for America?
+Dialogue: 0,0:25:42.04,0:25:43.31,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What happened last night?
+Dialogue: 0,0:25:43.91,0:25:45.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What did you do with Aya-san?
+Dialogue: 0,0:25:47.85,0:25:51.23,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Something terrible happened to Aya-chan, and several things happened...
+Dialogue: 0,0:25:51.67,0:25:54.86,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh! You're wearing Prince Cappuccino's costume!
+Dialogue: 0,0:25:55.19,0:25:56.39,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Whoa! No way!
+Dialogue: 0,0:25:56.78,0:25:57.83,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Why?
+Dialogue: 0,0:25:57.98,0:26:00.69,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Did you go to Narita Airport like {\i1}that?{\i0}
+Dialogue: 0,0:26:00.72,0:26:02.04,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Ehh? No way!
+Dialogue: 0,0:26:02.04,0:26:03.40,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Really? That's so cool!
+Dialogue: 0,0:26:03.45,0:26:06.42,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I dressed up like this to see you two off
+Dialogue: 0,0:26:06.65,0:26:09.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,as some sort of apology for breaking our promise!
+Dialogue: 0,0:26:10.02,0:26:11.37,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It was so embarrassing!
+Dialogue: 0,0:26:11.38,0:26:13.09,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh really?
+Dialogue: 0,0:26:13.45,0:26:17.88,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If you say that, then I guess we can't leave you.
+Dialogue: 0,0:26:18.28,0:26:21.25,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,You'll have a hard time running the cafe without us.
+Dialogue: 0,0:26:21.33,0:26:24.77,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,If it's like this, then it can't be helped. We'll live with you!
+Dialogue: 0,0:26:25.31,0:26:26.09,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,But why?
+Dialogue: 0,0:26:26.56,0:26:27.99,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Your room was empty...
+Dialogue: 0,0:26:28.28,0:26:29.90,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That room was quite dark,
+Dialogue: 0,0:26:30.00,0:26:32.47,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,so we moved to the south side beside your room!
+Dialogue: 0,0:26:33.16,0:26:35.40,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Does that mean that I'm between you and Chika?
+Dialogue: 0,0:26:35.71,0:26:41.07,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,It wouldn't be fair if only Chika-chan got the room next to you, right?
+Dialogue: 0,0:26:41.91,0:26:46.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Anyway, since you broke our promise, you'll have to date me tomorrow.
+Dialogue: 0,0:26:47.01,0:26:49.43,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That's not fair, he's going with Chiori!
+Dialogue: 0,0:26:49.21,0:26:50.14,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Me!
+Dialogue: 0,0:26:50.16,0:26:51.76,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chiori!
+Dialogue: 0,0:26:50.51,0:26:52.22,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Geez, let go!
+Dialogue: 0,0:26:54.38,0:26:55.72,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's this? A letter from Dad?
+Dialogue: 0,0:26:55.85,0:26:57.12,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Eh?! No!
+Dialogue: 0,0:26:58.25,0:26:58.98,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,What's it say?
+Dialogue: 0,0:26:59.36,0:27:00.38,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:27:00.90,0:27:03.84,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Dad said that he was having some trouble with work,
+Dialogue: 0,0:27:04.21,0:27:06.55,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,so he said to stay in Japan for a little longer.
+Dialogue: 0,0:27:07.42,0:27:09.32,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Oh, I see...
+Dialogue: 0,0:27:09.76,0:27:13.49,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,And you said that you're staying since I'd have a hard time running the cafe?
+Dialogue: 0,0:27:13.64,0:27:15.52,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,That you'd feel sorry for me?
+Dialogue: 0,0:27:17.32,0:27:19.25,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,So, um...
+Dialogue: 0,0:27:19.94,0:27:22.01,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Let's get along, okay?
+Dialogue: 0,0:27:22.35,0:27:24.50,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Chika...! Chiori!
+Dialogue: 0,0:27:25.91,0:27:27.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,We're sorry!
+Dialogue: 0,0:27:26.77,0:27:28.57,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Shut it! Sit down!
+Dialogue: 0,0:27:28.72,0:27:29.87,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No, no!
+Dialogue: 0,0:27:29.64,0:27:30.71,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Don't say no, sit!
+Dialogue: 0,0:27:31.28,0:27:32.03,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,Sit down you two!
+Dialogue: 0,0:27:32.45,0:27:33.75,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I won't let you sleep until you do!
+Dialogue: 0,0:27:33.52,0:27:34.14,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:27:34.46,0:27:35.97,Mune Kyun! Heartful Cafe Dialogue,,0000,0000,0000,,I won't let you sleep, then!
+Dialogue: 0,0:29:17.01,0:29:26.28,Mune Kyun! Heartful Cafe Sign E-mail,,0000,0000,0000,,{\frz3.706\fad(0,400)\pos(330,341)}Sorry, it seems that I was tricked about the information before. I’m really sorry! However, the gods didn’t forsake me! I won the lottery I bought out of frustration! I’ll deposit some into the account. I won’t be back anytime soon, so please take care of the café while I’m away.

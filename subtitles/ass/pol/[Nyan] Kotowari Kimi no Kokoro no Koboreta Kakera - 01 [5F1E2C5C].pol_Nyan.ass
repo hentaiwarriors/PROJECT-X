@@ -1,0 +1,238 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r112
+Active Line: 1
+Audio URI: 探偵 - sound.wav
+Collisions: Normal
+Last Style Storage: Default [848x480]
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Scroll Position: 283
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video Position: 0
+Video Zoom: 6
+Video Zoom Percent: 1
+WrapStyle: 0
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,18,&H000D218A,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,20,20,12,1
+Style: Tytul,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00131334,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,35,20,10,1
+Style: Znak,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,12,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:27:45.23,0:27:53.07,Grupa,,0,0,0,,{\be5\fad(2811,1734)}Nyan
+Dialogue: 0,0:27:47.48,0:27:52.15,Tytul,,0,0,0,,{\blur5\fad(1646,2315)}Dziwna detektyw Minamo i urocza niemowa Hatsuka
+Dialogue: 0,0:00:14.82,0:00:17.12,Default (i),,0,0,0,,{\be1}Ta dziewczyna to Kunashi Hatsuka.
+Dialogue: 0,0:00:17.12,0:00:22.68,Default (i),,0,0,0,,{\be1}Przez wypadek nie może mówić,\Ndlatego chciałbym coś dla niej zrobić.
+Dialogue: 0,0:00:25.48,0:00:29.90,Default (i),,0,0,0,,{\be1}To jest Sanshishi,\Nfragment duszy Hatsuki, inaczej Kotowari.
+Dialogue: 0,0:00:29.90,0:00:34.51,Default (i),,0,0,0,,{\be1}Traktuje mnie jak głupka\Ni ciągle się ze mną kłóci.
+Dialogue: 0,0:00:34.51,0:00:38.95,Default,,0,0,0,,{\be1}Ogórasie, wiesz co to suszona, słona ikra?
+Dialogue: 0,0:00:38.95,0:00:43.36,Default,,0,0,0,,{\be1}Tak, ale nigdy jej nie jadłem.
+Dialogue: 0,0:00:43.36,0:00:45.77,Default,,0,0,0,,{\be1}Jak myślisz, jak smakują?
+Dialogue: 0,0:00:45.77,0:00:52.49,Default,,0,0,0,,{\be1}Wyglądają podobnie jak ikra dorsza,\Nwięc chyba tak samo, nie?
+Dialogue: 0,0:00:52.49,0:00:57.35,Default,,0,0,0,,{\be1}Źle, źle!\NTe twoje złe nawyki.
+Dialogue: 0,0:00:57.35,0:01:03.04,Default,,0,0,0,,{\be1}Jak nie wiesz, to nie zgaduj tylko się przyznaj.
+Dialogue: 0,0:01:04.30,0:01:06.17,Default,,0,0,0,,{\be1}Chyba masz rację.
+Dialogue: 0,0:01:06.17,0:01:07.80,Default,,0,0,0,,{\be1}Co cię tak śmieszy?!
+Dialogue: 0,0:01:07.80,0:01:12.26,Default,,0,0,0,,{\be1}Nic, po prostu przyzwyczaiłem się do twoich kazań.
+Dialogue: 0,0:01:12.26,0:01:16.15,Default,,0,0,0,,{\be1}Nie ma co tracić oddechu na żółtodzioba!
+Dialogue: 0,0:01:16.15,0:01:18.25,Default,,0,0,0,,{\be1}O tak mi przykro!
+Dialogue: 0,0:01:18.25,0:01:23.31,Default,,0,0,0,,{\be1}A ty to może lepsza?\NSama niczego nie wiesz i ciągle zgadujesz.
+Dialogue: 0,0:01:23.31,0:01:26.92,Default,,0,0,0,,{\be1}Nie porównuj mnie do siebie, robaku.
+Dialogue: 0,0:01:28.32,0:01:29.86,Default,,0,0,0,,{\be1}No co?
+Dialogue: 0,0:01:31.87,0:01:34.40,Default,,0,0,0,,{\be1}Mówiłam, że nie chcę!
+Dialogue: 0,0:01:38.18,0:01:43.08,Default,,0,0,0,,{\be1}Mam ją pogłaskać po głowie,\Ntak jak ty to lubisz?
+Dialogue: 0,0:01:43.65,0:01:48.16,Default,,0,0,0,,{\be1}Tak mi przykro, ale nie mam\Nzamiaru przyjaźnić się z tobą.
+Dialogue: 0,0:01:48.16,0:01:51.16,Default,,0,0,0,,{\be1}I nawzajem!
+Dialogue: 0,0:01:54.77,0:01:56.10,Default,,0,0,0,,{\be1}Szukasz czegoś?
+Dialogue: 0,0:01:56.10,0:01:57.26,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:01:59.10,0:02:00.38,Default,,0,0,0,,{\be1}Coś tej wielkości...
+Dialogue: 0,0:02:00.38,0:02:04.93,Default,,0,0,0,,{\be1}Słyszałam waszą rozmowę,\Nmój asystencie.
+Dialogue: 0,0:02:04.93,0:02:07.27,Default,,0,0,0,,{\be1}Znowu udajesz detektywa?
+Dialogue: 0,0:02:07.77,0:02:12.65,Default (i),,0,0,0,,{\be1}Tsuburaya Minamo, maniaczka seriali.\NCiągle naśladuje aktorów.
+Dialogue: 0,0:02:12.65,0:02:15.80,Default (i),,0,0,0,,{\be1}Z jakiegoś powodu przykleiła się do mnie.
+Dialogue: 0,0:02:17.85,0:02:19.83,Default,,0,0,0,,{\be1}A tej co?
+Dialogue: 0,0:02:20.79,0:02:22.68,Default,,0,0,0,,{\be1}Że niby kogoś udaję? Dobre sobie.
+Dialogue: 0,0:02:22.68,0:02:25.95,Default,,0,0,0,,{\be1}Możesz mi śmiało powierzyć wyszukanie tej rzeczy.
+Dialogue: 0,0:02:25.95,0:02:29.80,Default (i),,0,0,0,,{\be1}Skąd ona wytrzasnęła tę czapkę?
+Dialogue: 0,0:02:29.80,0:02:37.43,Default,,0,0,0,,{\be1}Rozwiązałam już tyle piekielnie trudnych zagadek,\Nże powinieneś mnie znać na wylot.
+Dialogue: 0,0:02:37.43,0:02:39.43,Default,,0,0,0,,{\be1}Sorry, ale pomyliłaś mnie z kimś.
+Dialogue: 0,0:02:39.43,0:02:46.35,Default,,0,0,0,,{\be1}Jakie to przykre, znasz mnie tak dobrze,\Na mimo to tak szybko we mnie powątpiewasz.
+Dialogue: 0,0:02:47.38,0:02:53.38,Default,,0,0,0,,{\be1}Na szczęście ta sprawa\Njest bardzo podobna do poprzedniej.
+Dialogue: 0,0:02:53.77,0:02:57.40,Default,,0,0,0,,{\be1}I dlatego ostatnie słowo będzie należeć do mnie.
+Dialogue: 0,0:02:57.40,0:03:02.50,Default,,0,0,0,,{\be1}Cały splendor spadnie na mnie.
+Dialogue: 0,0:03:03.00,0:03:06.27,Default,,0,0,0,,{\be1}Czy ty mnie uważasz za Watsona?
+Dialogue: 0,0:03:06.27,0:03:12.17,Default,,0,0,0,,{\be1}Wiesz jaka jest różnica między tobą i Watsonem?
+Dialogue: 0,0:03:12.17,0:03:14.01,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:03:14.01,0:03:16.67,Default,,0,0,0,,{\be1}Pasja z jaką rozwiązywał zagadki.
+Dialogue: 0,0:03:16.67,0:03:22.02,Default,,0,0,0,,{\be1}Jesteś sprawiedliwą osobą lecz brak ci pasji.
+Dialogue: 0,0:03:22.02,0:03:28.00,Default,,0,0,0,,{\be1}W sumie masz rację.\NBiorę się za to, bo muszę.
+Dialogue: 0,0:03:28.00,0:03:31.44,Default,,0,0,0,,{\be1}Nie przeszkadza ci to?!\NPrzecież stoisz po stronie sprawiedliwości!
+Dialogue: 0,0:03:31.44,0:03:35.54,Default,,0,0,0,,{\be1}Już ci wczoraj powiedziałem,\Nże nie jestem sojusznikiem sprawiedliwości.
+Dialogue: 0,0:03:36.40,0:03:39.83,Default,,0,0,0,,{\be1}Tylko sprawiedliwość rozwiąże tę sprawę!
+Dialogue: 0,0:03:39.83,0:03:43.35,Default,,0,0,0,,{\be1}Brak pasji w tobie wynika z nieodpowiedniego myślenia.
+Dialogue: 0,0:03:43.35,0:03:44.20,Default,,0,0,0,,{\be1}Już powiedziałem...
+Dialogue: 0,0:03:44.20,0:03:49.04,Default,,0,0,0,,{\be1}Nie martw się,\Nbędę uzupełnieniem twoich braków.
+Dialogue: 0,0:03:53.63,0:04:00.04,Default,,0,0,0,,{\be1}Chodźmy, najpierw zbierzemy informacje,\Na potem zbadamy miejsce zbrodni.
+Dialogue: 0,0:04:08.05,0:04:09.70,Default,,0,0,0,,{\be1}Szukacie czegoś?
+Dialogue: 0,0:04:10.40,0:04:15.03,Default,,0,0,0,,{\be1}Przykro mi, ale nie jestem w stanie wam pomóc.
+Dialogue: 0,0:04:15.57,0:04:18.24,Default,,0,0,0,,{\be1}Dziękujemy za współpracę.
+Dialogue: 0,0:04:24.06,0:04:25.75,Default,,0,0,0,,{\be1}Tsuina.
+Dialogue: 0,0:04:37.41,0:04:39.80,Default (i),,0,0,0,,{\be1}Yuki i Kiyomi.
+Dialogue: 0,0:04:39.80,0:04:43.08,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:05:06.74,0:05:09.16,Default,,0,0,0,,{\be1}To nie tak!
+Dialogue: 0,0:05:10.57,0:05:12.63,Default,,0,0,0,,{\be1}- Zdychaj!\N- Zdychaj!
+Dialogue: 0,0:05:17.52,0:05:19.98,Default,,0,0,0,,{\be1}Jestem głodna.
+Dialogue: 0,0:05:19.98,0:05:23.01,Default (i),,0,0,0,,{\be1}Jestem pewien, że znudziło ją to.
+Dialogue: 0,0:05:23.55,0:05:26.10,Default,,0,0,0,,{\be1}Głód stępi nasze zmysły.
+Dialogue: 0,0:05:26.10,0:05:30.02,Default,,0,0,0,,{\be1}Wręcz przeciwnie,\Nbędziesz jeszcze lepiej myśleć.
+Dialogue: 0,0:05:30.02,0:05:32.75,Default,,0,0,0,,{\be1}Nie wiesz, że geniusze\Nnie kierują się zdrowym rozsądkiem?
+Dialogue: 0,0:05:32.75,0:05:35.63,Default (i),,0,0,0,,{\be1}Ty chcesz po prostu do domu.
+Dialogue: 0,0:05:39.07,0:05:41.17,Default,,0,0,0,,{\be1}Gdzie biegniesz?
+Dialogue: 0,0:05:46.77,0:05:50.40,Default,,0,0,0,,{\be1}Znalazłaś jakąś poszlakę, pani detektyw?
+Dialogue: 0,0:05:50.40,0:05:51.37,Default,,0,0,0,,{\be1}Patrz!
+Dialogue: 0,0:05:51.92,0:05:54.75,Default,,0,0,0,,{\be1}Przepiękna spinka z kwiatkiem.
+Dialogue: 0,0:05:54.75,0:05:56.45,Default,,0,0,0,,{\be1}Jaka jaskrawa.
+Dialogue: 0,0:05:56.45,0:05:59.13,Default,,0,0,0,,{\be1}Ty nic nie rozumiesz.
+Dialogue: 0,0:05:59.13,0:06:02.85,Default,,0,0,0,,{\be1}Taka spinka będzie idealnie do mnie pasować.
+Dialogue: 0,0:06:02.85,0:06:04.45,Default,,0,0,0,,{\be1}To ją kup.
+Dialogue: 0,0:06:04.45,0:06:07.48,Default,,0,0,0,,{\be1}Nie chcę, oglądałam tylko.
+Dialogue: 0,0:06:11.95,0:06:14.70,Default,,0,0,0,,{\be1}Kup ją jak tak bardzo ci się podoba!
+Dialogue: 0,0:06:14.70,0:06:16.73,Default,,0,0,0,,{\be1}Mówiłam, że tylko oglądam!
+Dialogue: 0,0:06:16.73,0:06:18.61,Default,,0,0,0,,{\be1}Po co wszystko utrudniasz?
+Dialogue: 0,0:06:21.90,0:06:24.56,Default,,0,0,0,,{\be1}Nie mam kasy.
+Dialogue: 0,0:06:26.87,0:06:30.87,Default,,0,0,0,,{\be1}Niech ci będzie, kupię ci ją.
+Dialogue: 0,0:06:30.87,0:06:32.47,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:06:33.25,0:06:38.20,Default,,0,0,0,,{\be1}Jak możesz kupować dziewczynie\Nprezent z takim nastawieniem?
+Dialogue: 0,0:06:38.20,0:06:41.59,Default,,0,0,0,,{\be1}Kupię ci ją, ale dostaniesz ją później.
+Dialogue: 0,0:06:41.59,0:06:42.80,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:06:42.80,0:06:45.95,Default,,0,0,0,,{\be1}Bo teraz prowadzimy śledztwo, pani detektyw.
+Dialogue: 0,0:06:45.95,0:06:48.76,Default,,0,0,0,,{\be1}Jeżeli będziesz pomocna to dostaniesz ją.
+Dialogue: 0,0:06:48.76,0:06:53.22,Default,,0,0,0,,{\be1}Stawiasz mi warunki?
+Dialogue: 0,0:06:53.22,0:06:56.27,Default,,0,0,0,,{\be1}Chcesz mnie przekupić byle błyskotką!
+Dialogue: 0,0:06:56.27,0:06:58.25,Default,,0,0,0,,{\be1}Nie to nie.
+Dialogue: 0,0:06:58.25,0:07:01.61,Default,,0,0,0,,{\be1}Przyjmuję warunki!
+Dialogue: 0,0:07:07.56,0:07:09.28,Default,,0,0,0,,{\be1}Stójcie.
+Dialogue: 0,0:07:12.79,0:07:14.95,Default,,0,0,0,,{\be1}Chcecie czegoś?
+Dialogue: 0,0:07:14.95,0:07:18.42,Default,,0,0,0,,{\be1}Tak, mam do ciebie sprawę.
+Dialogue: 0,0:07:18.42,0:07:19.29,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:07:19.70,0:07:22.34,Default,,0,0,0,,{\be1}Co cię łączy z Yuki?
+Dialogue: 0,0:07:24.17,0:07:26.60,Default (i),,0,0,0,,{\be1}Więc o to chodzi.
+Dialogue: 0,0:07:26.60,0:07:32.91,Default (i),,0,0,0,,{\be1}Zazdroszczą mi, że znam Yuki i chcą mnie pobić.
+Dialogue: 0,0:07:39.65,0:07:44.72,Default,,0,0,0,,{\be1}Następnym razem skończysz gorzej.
+Dialogue: 0,0:08:03.77,0:08:06.17,Default,,0,0,0,,{\be1}Miło mi, że się martwiłaś.
+Dialogue: 0,0:08:07.90,0:08:09.50,Default,,0,0,0,,{\be1}Mishiro.
+Dialogue: 0,0:08:09.50,0:08:13.64,Default (i),,0,0,0,,{\be1}Siedzi identycznie jak dziewczyna z jednego serialu.
+Dialogue: 0,0:08:17.44,0:08:20.60,Default,,0,0,0,,{\be1}Nigdy cię nie zostawię.
+Dialogue: 0,0:08:20.60,0:08:24.88,Default,,0,0,0,,{\be1}Chcę ci zawsze pomagać, za to jaki jesteś.
+Dialogue: 0,0:08:29.03,0:08:31.72,Default (i),,0,0,0,,{\be1}Gdzie ja to słyszałem?
+Dialogue: 0,0:08:53.40,0:08:59.67,Default,,0,0,0,,{\be1}Nic mi nie jest.\NMam małą cipkę, ale i tak chcę ciebie.
+Dialogue: 0,0:08:59.67,0:09:00.44,Default,,0,0,0,,{\be1}Minamo.
+Dialogue: 0,0:09:02.42,0:09:05.97,Default,,0,0,0,,{\be1}Nie przestawaj.
+Dialogue: 0,0:09:05.97,0:09:07.32,Default,,0,0,0,,{\be1}Minamo.
+Dialogue: 0,0:09:14.85,0:09:15.91,Default,,0,0,0,,{\be1}Mishiro.
+Dialogue: 0,0:09:26.00,0:09:27.40,Default,,0,0,0,,{\be1}Minamo?
+Dialogue: 0,0:09:29.80,0:09:31.70,Default,,0,0,0,,{\be1}Nic mi nie jest.
+Dialogue: 0,0:09:31.70,0:09:38.38,Default,,0,0,0,,{\be1}Po prostu zaskoczyłeś mnie,\Nza szybko włożyłeś.
+Dialogue: 0,0:09:45.40,0:09:46.78,Default,,0,0,0,,{\be1}Mishiro.
+Dialogue: 0,0:09:57.53,0:10:00.70,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:10:00.70,0:10:01.89,Default,,0,0,0,,{\be1}Minamo.
+Dialogue: 0,0:10:04.88,0:10:09.40,Default,,0,0,0,,{\be1}Nie przestawaj,\Nzrób ze mną co chcesz.
+Dialogue: 0,0:10:09.40,0:10:12.53,Default,,0,0,0,,{\be1}Nic mi nie będzie.
+Dialogue: 0,0:10:17.90,0:10:19.47,Default,,0,0,0,,{\be1}Minamo, zaraz...
+Dialogue: 0,0:10:21.32,0:10:22.48,Default,,0,0,0,,{\be1}Wiem.
+Dialogue: 0,0:10:22.48,0:10:29.48,Default,,0,0,0,,{\be1}Twój kutas zaczął drżeć we mnie.
+Dialogue: 0,0:10:30.15,0:10:31.11,Default,,0,0,0,,{\be1}Jestem szczęśliwa!
+Dialogue: 0,0:10:44.04,0:10:45.90,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:10:45.90,0:10:47.65,Default,,0,0,0,,{\be1}Minamo!
+Dialogue: 0,0:10:47.65,0:10:48.53,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:10:48.53,0:10:50.67,Default,,0,0,0,,{\be1}- Minamo!\N- Mishiro!
+Dialogue: 0,0:10:57.78,0:11:02.43,Default,,0,0,0,,{\be1}Mishiro, spuść się!
+Dialogue: 0,0:11:32.37,0:11:39.47,Default,,0,0,0,,{\be1}Wypuściłeś we mnie gorącą spermę.
+Dialogue: 0,0:11:39.96,0:11:45.98,Default,,0,0,0,,{\be1}Nie przestajesz się we mnie spuszczać.
+Dialogue: 0,0:11:50.39,0:11:53.88,Default,,0,0,0,,{\be1}Przepraszam, byłem za ostry.
+Dialogue: 0,0:11:55.22,0:11:57.74,Default,,0,0,0,,{\be1}Było cudownie.
+Dialogue: 0,0:11:57.74,0:12:03.93,Default,,0,0,0,,{\be1}Zaskoczyło mnie, jak dużo radości może dać seks.
+Dialogue: 0,0:12:03.93,0:12:06.57,Default,,0,0,0,,{\be1}To pewnie dlatego że z tobą uprawiałam go.
+Dialogue: 0,0:12:06.57,0:12:08.25,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:12:10.16,0:12:11.73,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:12:22.42,0:12:23.55,Default,,0,0,0,,{\be1}Minamo!
+Dialogue: 0,0:12:23.55,0:12:30.97,Default,,0,0,0,,{\be1}Ledwo straciłam dziewictwo,\Na moja cipka chce więcej!
+Dialogue: 0,0:12:36.44,0:12:39.25,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:12:44.15,0:12:46.41,Default,,0,0,0,,{\be1}Minamo, kocham cię!
+Dialogue: 0,0:12:51.17,0:12:52.47,Default,,0,0,0,,{\be1}Kocham cię!
+Dialogue: 0,0:13:11.60,0:13:19.15,Default,,0,0,0,,{\be1}Moja cipka jest rozpalona\Ni pragnie cię coraz mocniej.
+Dialogue: 0,0:13:25.41,0:13:31.22,Default,,0,0,0,,{\be1}Cudownie!\NMishiro, chcę widzieć twoją twarz!
+Dialogue: 0,0:13:33.80,0:13:36.34,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:13:42.20,0:13:48.65,Default,,0,0,0,,{\be1}Twój kutas wchodzi tak mocno we mnie!
+Dialogue: 0,0:13:48.65,0:13:49.65,Default,,0,0,0,,{\be1}Minamo!
+Dialogue: 0,0:13:56.85,0:14:02.57,Default,,0,0,0,,{\be1}Spuść się we mnie!\NChcę poczuć twoją spermę całym ciałem!
+Dialogue: 0,0:14:07.90,0:14:11.70,Default,,0,0,0,,{\be1}Niedługo spuścisz się we mnie!
+Dialogue: 0,0:14:11.70,0:14:12.95,Default,,0,0,0,,{\be1}Minamo!
+Dialogue: 0,0:14:17.60,0:14:18.60,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:14:18.60,0:14:21.50,Default,,0,0,0,,{\be1}Minamo!
+Dialogue: 0,0:14:29.56,0:14:31.80,Default,,0,0,0,,{\be1}Mishiro!
+Dialogue: 0,0:14:33.32,0:14:35.98,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:15:08.37,0:15:14.12,Default,,0,0,0,,{\be1}Jesteś cudowny, nadal ci stoi.
+Dialogue: 0,0:15:14.12,0:15:16.27,Default,,0,0,0,,{\be1}To dlatego, że jesteś taka delikatna.
+Dialogue: 0,0:15:16.27,0:15:19.88,Default,,0,0,0,,{\be1}Więc postaram się być delikatniejsza.
+Dialogue: 0,0:15:29.25,0:15:33.41,Default,,0,0,0,,{\be1}Przepraszam, nie znalazłem twojej zguby.
+Dialogue: 0,0:15:33.41,0:15:40.50,Default,,0,0,0,,{\be1}To nic, ale Hatsuka może mieć trudności,\Njeśli nie będę mogła używać mocy.
+Dialogue: 0,0:15:40.50,0:15:41.67,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:15:42.12,0:15:47.68,Default (i),,0,0,0,,{\be1}Chciałem zrobić coś dla Hatsuki, ale zawiodłem.
+Dialogue: 0,0:15:51.18,0:15:54.65,Default,,0,0,0,,{\be1}Co tu robicie w czasie lekcji?
+Dialogue: 0,0:15:56.69,0:16:00.60,Default,,0,0,0,,{\be1}Nie mam już mocy by trzymać ludzi z dala.
+Dialogue: 0,0:16:00.60,0:16:04.44,Default (i),,0,0,0,,{\be1}Więc to przez nią nikt tu nie przychodził.
+Dialogue: 0,0:16:05.02,0:16:08.20,Default,,0,0,0,,{\be1}Ty jesteś nowym uczniem, Tsuina, prawda?
+Dialogue: 0,0:16:08.20,0:16:09.15,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:16:09.15,0:16:16.83,Default,,0,0,0,,{\be1}Wagarowanie nie jest błahostką,\Nale dobrze się złożyło, bo muszę z tobą porozmawiać.
+Dialogue: 0,0:16:17.28,0:16:27.34,Default,,0,0,0,,{\be1}Klasa próbowała zaprzyjaźnić się z Kunashi\Ni nawet zaczęło im to wychodzić.
+Dialogue: 0,0:16:27.34,0:16:31.47,Default,,0,0,0,,{\be1}Ale zmieniła się odkąd zaczęła z tobą przebywać.
+Dialogue: 0,0:16:31.47,0:16:37.73,Default,,0,0,0,,{\be1}Nie zakazuję wam spotykać się,\Nbo sam nie masz zbyt wielu przyjaciół.
+Dialogue: 0,0:16:37.73,0:16:43.38,Default,,0,0,0,,{\be1}Chcę was tylko ostrzec,\Nżebyście nie przebywali ze sobą non-stop.
+Dialogue: 0,0:16:43.38,0:16:45.82,Default,,0,0,0,,{\be1}Musicie otworzyć się na świat.
+Dialogue: 0,0:16:46.30,0:16:47.65,Default,,0,0,0,,{\be1}Hatsuka.
+Dialogue: 0,0:16:49.70,0:16:53.55,Default,,0,0,0,,{\be1}Pogaduchy możecie zosta... Stójcie!
+Dialogue: 0,0:17:00.05,0:17:01.68,Default,,0,0,0,,{\be1}Dlaczego uciekłaś?
+Dialogue: 0,0:17:02.72,0:17:04.77,Default,,0,0,0,,{\be1}Boisz się?
+Dialogue: 0,0:17:04.77,0:17:08.40,Default,,0,0,0,,{\be1}Tylko dlatego uciekasz w takich chwilach?
+Dialogue: 0,0:17:09.80,0:17:11.10,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:17:11.10,0:17:14.01,Default,,0,0,0,,{\be1}Nie chcesz, żeby Ogóras to słyszał?
+Dialogue: 0,0:17:16.67,0:17:19.31,Default,,0,0,0,,{\be1}Mam odejść?
+Dialogue: 0,0:17:19.92,0:17:23.06,Default,,0,0,0,,{\be1}Jak zawsze wykonam twoje polecenie.
+Dialogue: 0,0:17:25.07,0:17:27.20,Default,,0,0,0,,{\be1}Sanshishi!
+Dialogue: 0,0:17:27.20,0:17:30.63,Default,,0,0,0,,{\be1}To nie było miłe.
+Dialogue: 0,0:17:51.50,0:17:52.93,Default,,0,0,0,,{\be1}Chcesz przestać?
+Dialogue: 0,0:17:55.12,0:17:56.43,Default,,0,0,0,,{\be1}Hatsuka.
+Dialogue: 0,0:18:03.11,0:18:04.60,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:18:17.37,0:18:19.37,Default,,0,0,0,,{\be1}Kocham cię.
+Dialogue: 0,0:18:20.67,0:18:22.12,Default,,0,0,0,,{\be1}Hatsuka.
+Dialogue: 0,0:18:37.22,0:18:40.46,Default,,0,0,0,,{\be1}Spokojnie, jesteś piękna.
+Dialogue: 0,0:18:41.35,0:18:43.50,Default,,0,0,0,,{\be1}Dotknę cię.
+Dialogue: 0,0:18:59.97,0:19:01.93,Default,,0,0,0,,{\be1}Możesz rozłożyć nogi?
+Dialogue: 0,0:19:35.65,0:19:37.47,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:19:46.89,0:19:48.17,Default,,0,0,0,,{\be1}Na pewno chcesz?
+Dialogue: 0,0:19:55.30,0:19:57.05,Default,,0,0,0,,{\be1}No to wkładam.
+Dialogue: 0,0:20:21.45,0:20:24.40,Default,,0,0,0,,{\be1}Włożyłem do końca.
+Dialogue: 0,0:20:28.08,0:20:30.13,Default,,0,0,0,,{\be1}Idziemy na do końca?
+Dialogue: 0,0:20:31.75,0:20:35.74,Default,,0,0,0,,{\be1}Jesteś pewna?\NMoże jeszcze mocniej boleć.
+Dialogue: 0,0:20:41.60,0:20:42.95,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:20:55.67,0:20:57.18,Default,,0,0,0,,{\be1}Hatsuka!
+Dialogue: 0,0:21:30.87,0:21:32.76,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:21:43.27,0:21:46.13,Default,,0,0,0,,{\be1}Hatsuka!
+Dialogue: 0,0:23:18.10,0:23:19.55,Default,,0,0,0,,{\be1}Hatsuka!
+Dialogue: 0,0:23:39.70,0:23:42.48,Default,,0,0,0,,{\be1}Dojdźmy razem.
+Dialogue: 0,0:23:48.10,0:23:49.55,Default,,0,0,0,,{\be1}Hatsuka!
+Dialogue: 0,0:24:34.27,0:24:36.19,Default,,0,0,0,,{\be1}Spuszczę się w tobie!
+Dialogue: 0,0:25:06.49,0:25:10.11,Default,,0,0,0,,{\be1}Nie musisz tego robić.
+Dialogue: 0,0:26:33.40,0:26:36.80,Default,,0,0,0,,{\be1}Z seksu obie strony powinny czerpać przyjemność.
+Dialogue: 0,0:27:05.85,0:27:07.23,Default,,0,0,0,,{\be1}Hatsuka!

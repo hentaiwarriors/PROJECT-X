@@ -1,0 +1,227 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build470  Jan  9 2016  12:22:32
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
+Last Style Storage: [720x480]
+Audio File: ../Outputs/[RAW][SakuraCircle] Taimanin Asagi 2 - 01 (DVD 720x480 Hi10P H264 AAC).mkv
+Video File: ../Outputs/[RAW][SakuraCircle] Taimanin Asagi 2 - 01 (DVD 720x480 Hi10P H264 AAC).mkv
+Video AR Mode: 4
+Video AR Value: 1.777083
+Video Zoom Percent: 0.750000
+Scroll Position: 24
+Active Line: 0
+Video Position: 4494
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.7,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00222ED7,&H00000000,-1,-1,0,0,100,100,0,0,1,4,0,7,11,10,10,1
+Style: Anime,Franklin Gothic Medium,35,&H00FFFFFF,&H000000FF,&H00222ED7,&H00000000,0,0,0,0,100,100,0,0,1,6,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,34,&H00FFFFFF,&H000000FF,&H00242ED7,&H00000000,0,0,0,0,100,100,0,0,1,8,0,2,20,20,150,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:18.25,0:02:25.06,Grupa,,0,0,0,,{\blur5\fad(188,115)}Nyan
+Dialogue: 0,0:02:18.25,0:02:25.33,Anime,,0,0,0,,{\blur8\fad(188,152)}Taimanin Asagi
+Dialogue: 0,0:02:29.93,0:02:32.94,Tytul,,0,0,0,,{\blur10}Odcinek 1: Zmienione raz jeszcze
+Dialogue: 0,0:00:01.48,0:00:07.35,Default (i),,0,0,0,,{\be1}Minął rok od zniszczenia Areny Chaosu,\Nale sam chaos jeszcze nie znikł.
+Dialogue: 0,0:00:07.35,0:00:11.52,Default (i),,0,0,0,,{\be1}W Zatoce Tokijskiej leży sztuczna wyspa\Nnazwana Królestwem Tokijskim.
+Dialogue: 0,0:00:11.52,0:00:15.56,Default (i),,0,0,0,,{\be1}Na niej znajdzie wszystko czego\Nspołeczeństwo nie akceptuje.
+Dialogue: 0,0:00:15.56,0:00:19.90,Default (i),,0,0,0,,{\be1}Miejsce zamieszkane przez ludzi dotkniętych\Nmrokiem i sprzymierzeńców Jinmy.
+Dialogue: 0,0:00:23.44,0:00:31.06,Default (i),,0,0,0,,{\be1}Z Sakurą zostałyśmy tam wysłane by sprawdzić\Nczy istnieje organizacja terrorystyczna Ryuumo...
+Dialogue: 0,0:00:31.06,0:00:36.29,Default (i),,0,0,0,,{\be1}Jak również odnaleźć poprzednio wysłaną ninja.
+Dialogue: 0,0:01:07.75,0:01:10.72,Default,,0,0,0,,{\be1}Wyczuwam ninja, łowca demonów?
+Dialogue: 0,0:01:10.72,0:01:12.62,Default,,0,0,0,,{\be1}Jedna z nas?
+Dialogue: 0,0:01:12.62,0:01:15.49,Default,,0,0,0,,{\be1}Jestem Saya.
+Dialogue: 0,0:01:15.49,0:01:18.36,Default,,0,0,0,,{\be1}Jak mniemam Asagi i Sakura, tak?
+Dialogue: 0,0:01:18.36,0:01:21.13,Default,,0,0,0,,{\be1}Ty nas znasz?
+Dialogue: 0,0:01:21.13,0:01:25.50,Default,,0,0,0,,{\be1}No, bo to na was muszę się zemścić za Oboro.
+Dialogue: 0,0:01:25.50,0:01:27.23,Default,,0,0,0,,{\be1}Co powiedziałaś?
+Dialogue: 0,0:01:35.34,0:01:36.61,Default,,0,0,0,,{\be1}Potwór.
+Dialogue: 0,0:01:36.61,0:01:38.51,Default,,0,0,0,,{\be1}Nie lubię pająków!
+Dialogue: 0,0:01:38.52,0:01:40.71,Default,,0,0,0,,{\be1}Jesteś okropna!
+Dialogue: 0,0:01:40.71,0:01:45.02,Default,,0,0,0,,{\be1}Ta postać to moc łowców demonów!
+Dialogue: 0,0:01:45.52,0:01:47.26,Default,,0,0,0,,{\be1}Moc łowców?
+Dialogue: 0,0:01:47.26,0:01:51.90,Default,,0,0,0,,{\be1}Wy też możecie się zmienić!
+Dialogue: 0,0:01:52.34,0:01:54.28,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:01:54.28,0:01:55.90,Default,,0,0,0,,{\be1}Przestań pieprzyć!
+Dialogue: 0,0:01:55.90,0:01:59.28,Default,,0,0,0,,{\be1}Nawet nie wiecie kim jesteście?
+Dialogue: 0,0:01:59.28,0:02:03.85,Default,,0,0,0,,{\be1}Nauczę was czym są łowcy!
+Dialogue: 0,0:02:04.34,0:02:06.21,Default,,0,0,0,,{\be1}Kryzys wytrzymania!
+Dialogue: 0,0:02:49.85,0:02:51.32,Default,,0,0,0,,{\be1}Gdzie jestem?
+Dialogue: 0,0:02:53.14,0:03:01.45,Default,,0,0,0,,{\be1}Zabij setkę, przeżyj wojnę,\Nale radości nigdzie nie zaznasz.
+Dialogue: 0,0:03:03.23,0:03:13.51,Default,,0,0,0,,{\be1}Utraceni przyjaciele, nieważne ilu\Nzabiję gniewu, smutki i nadziei nie odczuwam.
+Dialogue: 0,0:03:25.62,0:03:27.95,Default,,0,0,0,,{\be1}Pożądasz mnie?
+Dialogue: 0,0:03:27.95,0:03:31.42,Default,,0,0,0,,{\be1}Przywołaj swoje pokręcone moce, Igawa Asagi.
+Dialogue: 0,0:03:31.42,0:03:32.95,Default,,0,0,0,,{\be1}Przepadnij!
+Dialogue: 0,0:03:52.39,0:03:56.49,Default,,0,0,0,,{\be1}Cześć, Asagi. Wyglądasz na niezadowoloną.
+Dialogue: 0,0:03:58.55,0:04:02.45,Default,,0,0,0,,{\be1}Sakura śpi w moim pokoju.
+Dialogue: 0,0:04:02.94,0:04:06.50,Default,,0,0,0,,{\be1}Wyglądasz na zadowoloną.
+Dialogue: 0,0:04:09.12,0:04:15.74,Default,,0,0,0,,{\be1}Bo będę mogła cię trenować\Ni jednocześnie pomścić Oboro.
+Dialogue: 0,0:04:15.74,0:04:18.24,Default,,0,0,0,,{\be1}Dla kogo pracujesz?
+Dialogue: 0,0:04:18.24,0:04:20.24,Default,,0,0,0,,{\be1}Dla mnie.
+Dialogue: 0,0:04:25.78,0:04:29.83,Default,,0,0,0,,{\be1}Przecież zabiłam cię na Arenie Chaosu!
+Dialogue: 0,0:04:30.95,0:04:32.89,Default,,0,0,0,,{\be1}Miło cię poznać.
+Dialogue: 0,0:04:34.04,0:04:35.39,Default,,0,0,0,,{\be1}Poznać?
+Dialogue: 0,0:04:36.09,0:04:38.16,Default,,0,0,0,,{\be1}Jestem klonem Oboro.
+Dialogue: 0,0:04:38.16,0:04:41.39,Default,,0,0,0,,{\be1}Wynikiem połączenia ludzkiej\Ni demonicznej technologii.
+Dialogue: 0,0:04:41.81,0:04:43.23,Default,,0,0,0,,{\be1}Klon?
+Dialogue: 0,0:04:43.23,0:04:50.60,Default,,0,0,0,,{\be1}Jestem również szefową Ryuumon,\Na wszystko dzięki temu, że zabiłaś mój oryginał.
+Dialogue: 0,0:04:50.60,0:04:52.00,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:04:54.97,0:04:57.01,Default,,0,0,0,,{\be1}Ja też się tu urodziłam.
+Dialogue: 0,0:04:57.01,0:05:00.48,Default,,0,0,0,,{\be1}Nie, ona jest sztucznie wyhodowana.
+Dialogue: 0,0:05:00.48,0:05:07.82,Default,,0,0,0,,{\be1}Używając oryginalnego ciała ninja obudziliśmy w\Nniej geny łowcy tworząc najlepszego łowcę.
+Dialogue: 0,0:05:10.12,0:05:16.04,Default,,0,0,0,,{\be1}Geny ninja mają uśpione zdolności do przetrwania.
+Dialogue: 0,0:05:16.04,0:05:18.60,Default,,0,0,0,,{\be1}A ona jej ich esencją.
+Dialogue: 0,0:05:19.15,0:05:21.37,Default,,0,0,0,,{\be1}Ona jest łowcą?!
+Dialogue: 0,0:05:21.95,0:05:26.40,Default,,0,0,0,,{\be1}Każdy łowca ma w sobie uśpioną, prawdziwą formę.
+Dialogue: 0,0:05:26.40,0:05:29.38,Default,,0,0,0,,{\be1}Ty również.
+Dialogue: 0,0:05:32.74,0:05:41.82,Default,,0,0,0,,{\be1}Bazując na tobie stworzę\Njeszcze potężniejszych łowców.
+Dialogue: 0,0:05:42.18,0:05:44.32,Default,,0,0,0,,{\be1}Nie pozwolę na to!
+Dialogue: 0,0:05:45.18,0:05:47.77,Default,,0,0,0,,{\be1}Wiedziałam, że to powiesz.
+Dialogue: 0,0:05:51.15,0:05:55.63,Default,,0,0,0,,{\be1}Nie możemy użyć kogoś kto\Ndobrowolnie się na to nie zgodzi.
+Dialogue: 0,0:05:56.28,0:06:04.92,Default,,0,0,0,,{\be1}Dlatego będziemy cię trenować,\Ndopóki nie staniesz się posłuszną kurwą!
+Dialogue: 0,0:06:07.85,0:06:11.36,Default,,0,0,0,,{\be1}Najpierw zmodyfikuję te cycki.
+Dialogue: 0,0:06:11.36,0:06:15.12,Default,,0,0,0,,{\be1}Zmieniać, trenować, aż w końcu dziwka!
+Dialogue: 0,0:06:20.99,0:06:22.43,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:06:24.94,0:06:30.34,Default,,0,0,0,,{\be1}Nie przywrócono ci ciała sprzed\Nmodyfikacji na Arenie Chaosu, prawda?
+Dialogue: 0,0:06:30.80,0:06:36.62,Default,,0,0,0,,{\be1}Teraz będziesz tysiące razy wrażliwsza,\Nwięc pewnie dojdziesz od samego ukłucia.
+Dialogue: 0,0:06:36.62,0:06:39.12,Default,,0,0,0,,{\be1}Potrafię zablokować wszelkie odczucia!
+Dialogue: 0,0:06:40.78,0:06:42.61,Default,,0,0,0,,{\be1}Cała drżysz.
+Dialogue: 0,0:06:50.63,0:06:52.86,Default,,0,0,0,,{\be1}Co za kurewskie pojękiwania.
+Dialogue: 0,0:06:52.86,0:06:54.66,Default,,0,0,0,,{\be1}Już się podnieciłaś?
+Dialogue: 0,0:06:54.66,0:06:56.63,Default,,0,0,0,,{\be1}Dziwka!
+Dialogue: 0,0:06:56.63,0:06:59.67,Default (i),,0,0,0,,{\be1}Nie mogę się podniecić!
+Dialogue: 0,0:07:01.48,0:07:03.70,Default,,0,0,0,,{\be1}Skończ z tym!
+Dialogue: 0,0:07:04.33,0:07:06.48,Default,,0,0,0,,{\be1}Jaka niecierpliwa.
+Dialogue: 0,0:07:06.48,0:07:09.48,Default,,0,0,0,,{\be1}Najpierw trzeba wszystko wstrzyknąć.
+Dialogue: 0,0:07:11.34,0:07:13.98,Default,,0,0,0,,{\be1}Wiesz co ci wstrzykuję?
+Dialogue: 0,0:07:15.05,0:07:16.48,Default,,0,0,0,,{\be1}No ciekawe.
+Dialogue: 0,0:07:16.49,0:07:23.52,Default,,0,0,0,,{\be1}Ten płyn zmienia właściwości komórek\Npozwalając na dodanie im nowych funkcji.
+Dialogue: 0,0:07:23.52,0:07:26.00,Default,,0,0,0,,{\be1}W tym wypadku sutki zmieni na łechtaczki!
+Dialogue: 0,0:07:26.46,0:07:28.99,Default,,0,0,0,,{\be1}Dwie wielgachne łechtaczki!
+Dialogue: 0,0:07:32.49,0:07:37.70,Default,,0,0,0,,{\be1}Czyż to nie cudownie mieć lepsze\Ngabaryty do seksu niż dla dziecka?
+Dialogue: 0,0:07:37.70,0:07:40.78,Default,,0,0,0,,{\be1}Orgazm przy dotykaniu i ssaniu!
+Dialogue: 0,0:07:40.78,0:07:43.42,Default,,0,0,0,,{\be1}Będziesz cudowną matką!
+Dialogue: 0,0:07:46.04,0:07:49.29,Default,,0,0,0,,{\be1}Wpływa we mnie! Gorąco!
+Dialogue: 0,0:07:50.41,0:07:52.78,Default,,0,0,0,,{\be1}Chyba zaczyna działać.
+Dialogue: 0,0:07:52.78,0:07:56.29,Default,,0,0,0,,{\be1}Ale z ciebie zboczucha skoro to cię podnieca!
+Dialogue: 0,0:08:03.39,0:08:06.43,Default,,0,0,0,,{\be1}Jeszcze chwila i wszystko wstrzyknie.
+Dialogue: 0,0:08:09.49,0:08:10.97,Default,,0,0,0,,{\be1}Już wszystko.
+Dialogue: 0,0:08:10.97,0:08:12.44,Default,,0,0,0,,{\be1}Zmiana gotowa!
+Dialogue: 0,0:08:17.18,0:08:19.91,Default,,0,0,0,,{\be1}Ale ma teraz wielkie sutki!
+Dialogue: 0,0:08:19.91,0:08:21.96,Default,,0,0,0,,{\be1}Ale ty jesteś sprośna.
+Dialogue: 0,0:08:23.33,0:08:26.12,Default,,0,0,0,,{\be1}Serio? Bo mi się to nawet podoba.
+Dialogue: 0,0:08:26.84,0:08:30.55,Default,,0,0,0,,{\be1}Ten prowokatorski ton pasuje do ciebie.
+Dialogue: 0,0:08:30.55,0:08:31.62,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:08:46.02,0:08:48.14,Default,,0,0,0,,{\be1}Podnieca cię chłostanie?
+Dialogue: 0,0:08:48.14,0:08:51.45,Default,,0,0,0,,{\be1}Twoje nowe łechtaczki drżą.
+Dialogue: 0,0:08:52.22,0:08:55.45,Default,,0,0,0,,{\be1}To mnie nie podnieca!
+Dialogue: 0,0:08:55.45,0:09:00.49,Default,,0,0,0,,{\be1}Znowu ten ton?\NZaczynasz mnie wkurwiać.
+Dialogue: 0,0:09:00.49,0:09:03.19,Default,,0,0,0,,{\be1}Dam ci coś lepszego.
+Dialogue: 0,0:09:09.39,0:09:10.60,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:09:12.05,0:09:13.41,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:09:19.14,0:09:24.48,Default (i),,0,0,0,,{\be1}Tak mi dobrze, a przecież powinno boleć.
+Dialogue: 0,0:09:26.03,0:09:26.78,Default (i),,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:09:26.78,0:09:31.42,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:09:33.17,0:09:36.80,Default,,0,0,0,,{\be1}Jak śmiesz mnie zmieniać?!
+Dialogue: 0,0:09:36.80,0:09:41.77,Default,,0,0,0,,{\be1}Nie waż się dotykać moich\Nsutków paskudnymi mackami!
+Dialogue: 0,0:09:41.77,0:09:46.57,Default,,0,0,0,,{\be1}Nie będzie przebaczenia! Zabiję cię!
+Dialogue: 0,0:09:46.57,0:09:51.42,Default,,0,0,0,,{\be1}Tak! Chciałam zobaczyć twój gniew!
+Dialogue: 0,0:09:51.42,0:09:56.61,Default,,0,0,0,,{\be1}Mam w sobie wspomnienia oryginału zanim ją zabiłaś.
+Dialogue: 0,0:09:56.61,0:09:59.46,Default,,0,0,0,,{\be1}To naprawdę boli, gdy je wspominam.
+Dialogue: 0,0:09:59.46,0:10:03.77,Default,,0,0,0,,{\be1}Tak bardzo cię nienawidzę,\Nże nie mogę się powstrzymać!
+Dialogue: 0,0:10:03.77,0:10:08.06,Default,,0,0,0,,{\be1}Gdy widzę jak cierpisz, to aż robię się mokra!
+Dialogue: 0,0:10:08.52,0:10:10.69,Default,,0,0,0,,{\be1}Jesteś taka sama jak oryginał!
+Dialogue: 0,0:10:11.62,0:10:13.06,Default,,0,0,0,,{\be1}Zwykły degenerat!
+Dialogue: 0,0:10:14.73,0:10:19.50,Default,,0,0,0,,{\be1}Cudownie! Twój opór jest wspaniały!
+Dialogue: 0,0:10:19.50,0:10:23.50,Default,,0,0,0,,{\be1}Chcę widzieć jak się opierasz!
+Dialogue: 0,0:10:29.13,0:10:34.68,Default,,0,0,0,,{\be1}Oboro! Nigdy ci tego nie wybaczę!
+Dialogue: 0,0:10:42.13,0:10:45.89,Default,,0,0,0,,{\be1}Twoja mina mówi coś innego.
+Dialogue: 0,0:10:46.51,0:10:52.24,Default,,0,0,0,,{\be1}O nie, zaraz dojdę!
+Dialogue: 0,0:10:53.44,0:10:57.76,Default,,0,0,0,,{\be1}Za wcześnie, to jeszcze nie koniec.
+Dialogue: 0,0:11:15.29,0:11:19.72,Default,,0,0,0,,{\be1}Dochodzę sutkami!
+Dialogue: 0,0:11:19.73,0:11:22.47,Default,,0,0,0,,{\be1}Mleko tryska litrami!
+Dialogue: 0,0:11:22.47,0:11:26.73,Default,,0,0,0,,{\be1}Powinnaś czuć to samo co mężczyzna przy wytrysku.
+Dialogue: 0,0:11:28.28,0:11:30.54,Default,,0,0,0,,{\be1}Nie przestaje!
+Dialogue: 0,0:11:31.92,0:11:33.68,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:11:34.91,0:11:41.75,Default,,0,0,0,,{\be1}Nie! Nie przestaje!
+Dialogue: 0,0:11:41.75,0:11:46.59,Default,,0,0,0,,{\be1}Na zakończenie pokaż jaką idiotyczną minę robisz!
+Dialogue: 0,0:11:55.89,0:12:04.47,Default,,0,0,0,,{\be1}Wyciśniemy cię, dopóki nie zostanie ani kropli.
+Dialogue: 0,0:12:07.78,0:12:11.74,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:12:15.49,0:12:19.54,Default,,0,0,0,,{\be1}Wspaniała mina.\NWyraz nieszczęścia.
+Dialogue: 0,0:12:19.54,0:12:22.83,Default,,0,0,0,,{\be1}Już wiem czemu oryginał tak bardzo to lubił.
+Dialogue: 0,0:12:33.49,0:12:37.50,Default,,0,0,0,,{\be1}Sakura, ale ty jesteś zboczona!
+Dialogue: 0,0:12:44.13,0:12:47.11,Default,,0,0,0,,{\be1}Cały czas dochodzisz!
+Dialogue: 0,0:12:49.30,0:12:56.54,Default (i),,0,0,0,,{\be1}Moje ciało zostało zmienione na Arenie Chaosu,\Nprzez co moja cipka jest wiecznie niewyżyta.
+Dialogue: 0,0:12:57.67,0:13:00.88,Default (i),,0,0,0,,{\be1}Lek przeciwdziałający temu przestał działać.
+Dialogue: 0,0:13:01.87,0:13:03.94,Default (i),,0,0,0,,{\be1}Muszę go szybko zażyć!
+Dialogue: 0,0:13:13.34,0:13:15.85,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:13:17.21,0:13:19.27,Default,,0,0,0,,{\be1}Jaka słaba.
+Dialogue: 0,0:13:19.27,0:13:23.35,Default,,0,0,0,,{\be1}Asagi wytrzymała trochę dłużej.
+Dialogue: 0,0:13:24.79,0:13:28.27,Default,,0,0,0,,{\be1}Nie przestaję się coraz mocniej podniecać!
+Dialogue: 0,0:13:30.71,0:13:33.72,Default,,0,0,0,,{\be1}Znowu dochodzisz?
+Dialogue: 0,0:13:33.72,0:13:38.46,Default,,0,0,0,,{\be1}A spróbuj tylko bez pozwolenia, a ukarzę cię.
+Dialogue: 0,0:13:38.47,0:13:44.74,Default (i),,0,0,0,,{\be1}O nie, zaraz znowu dojdę!
+Dialogue: 0,0:13:47.88,0:13:51.94,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:13:51.94,0:13:54.95,Default,,0,0,0,,{\be1}Znowu doszłaś!
+Dialogue: 0,0:13:56.90,0:14:00.42,Default,,0,0,0,,{\be1}Nie doszłam!
+Dialogue: 0,0:14:00.85,0:14:05.05,Default,,0,0,0,,{\be1}Doszłaś! Ale z ciebie suka!
+Dialogue: 0,0:14:05.05,0:14:07.46,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:14:12.44,0:14:16.08,Default,,0,0,0,,{\be1}Za karę dostaniesz 20 klapsów!
+Dialogue: 0,0:14:16.08,0:14:18.81,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:14:20.17,0:14:22.58,Default,,0,0,0,,{\be1}Zrobię to czy chcesz czy nie!
+Dialogue: 0,0:14:26.05,0:14:29.08,Default,,0,0,0,,{\be1}Ale masz minę!
+Dialogue: 0,0:14:32.13,0:14:37.08,Default,,0,0,0,,{\be1}Będziesz mieć cały czerwony tyłek!
+Dialogue: 0,0:14:37.08,0:14:40.96,Default,,0,0,0,,{\be1}Proszę, nie wytrzymam!
+Dialogue: 0,0:14:40.96,0:14:45.96,Default,,0,0,0,,{\be1}A to peszek, kłamczucha dostanie ostre lanie!
+Dialogue: 0,0:14:51.22,0:14:53.90,Default,,0,0,0,,{\be1}Wyglądasz na zadowoloną!
+Dialogue: 0,0:14:53.90,0:14:57.38,Default,,0,0,0,,{\be1}Nie chce mi się tak wolno,\Nwięc przyspieszę!
+Dialogue: 0,0:14:59.62,0:15:02.39,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:04.03,0:15:07.65,Default,,0,0,0,,{\be1}Niczego nie zrozumiałam.
+Dialogue: 0,0:15:12.85,0:15:16.16,Default,,0,0,0,,{\be1}Błagam, przestań!
+Dialogue: 0,0:15:23.32,0:15:28.14,Default,,0,0,0,,{\be1}No nie, wiedziałam, że to lubisz,\Nale żeby aż się zsikać z radości?
+Dialogue: 0,0:15:31.83,0:15:33.22,Default,,0,0,0,,{\be1}Pycha!
+Dialogue: 0,0:15:33.22,0:15:37.16,Default,,0,0,0,,{\be1}Nie wiedziałam, że masz takie słodkie siki!
+Dialogue: 0,0:15:37.16,0:15:39.82,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:15:40.19,0:15:43.69,Default,,0,0,0,,{\be1}Ile dostałaś już klapsów?
+Dialogue: 0,0:15:45.09,0:15:50.07,Default,,0,0,0,,{\be1}Straciłam rachubę, zaczniemy od nowa!
+Dialogue: 0,0:15:53.21,0:15:56.57,Default,,0,0,0,,{\be1}Ciekawe co tym razem wyleci?
+Dialogue: 0,0:15:57.25,0:16:03.58,Default (i),,0,0,0,,{\be1}Asagi, spróbuję wytrzymać, ale...
+Dialogue: 0,0:16:04.23,0:16:08.25,Default,,0,0,0,,{\be1}Dobra, pierwszy!
+Dialogue: 0,0:16:12.02,0:16:16.54,Default,,0,0,0,,{\be1}O nie, wyleci!
+Dialogue: 0,0:16:16.54,0:16:24.93,Default (i),,0,0,0,,{\be1}Asagi, chyba nie dam rady. Wybaczysz mi?
+Dialogue: 0,0:16:24.93,0:16:27.10,Default,,0,0,0,,{\be1}Drugi!
+Dialogue: 0,0:16:27.10,0:16:31.24,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:16:31.89,0:16:35.34,Default,,0,0,0,,{\be1}Znowu doszłaś! Teraz masz przesrane!
+Dialogue: 0,0:16:35.34,0:16:37.40,Default,,0,0,0,,{\be1}200 klapsów!
+Dialogue: 0,0:16:37.40,0:16:40.95,Default,,0,0,0,,{\be1}Nie, rozwalisz mi tyłek!
+Dialogue: 0,0:16:58.91,0:17:01.37,Default (i),,0,0,0,,{\be1}Znowu ten sen.
+Dialogue: 0,0:17:02.27,0:17:04.74,Default,,0,0,0,,{\be1}Wyglądasz na zagubioną.
+Dialogue: 0,0:17:11.74,0:17:17.19,Default,,0,0,0,,{\be1}Żałosne, i ty jesteś najsilniejszym łowcą?
+Dialogue: 0,0:17:17.19,0:17:19.69,Default,,0,0,0,,{\be1}Kim jesteś?!
+Dialogue: 0,0:17:19.69,0:17:21.69,Default,,0,0,0,,{\be1}Tobą.
+Dialogue: 0,0:17:25.61,0:17:28.18,Default,,0,0,0,,{\be1}Pożądaj mocy.
+Dialogue: 0,0:17:28.18,0:17:29.70,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:17:30.38,0:17:35.54,Default,,0,0,0,,{\be1}Poproś mnie o moc, a bez problemu się uwolnisz.
+Dialogue: 0,0:17:54.37,0:17:58.96,Default,,0,0,0,,{\be1}Co tam mamroczesz?\NA może już oszalałaś?
+Dialogue: 0,0:18:00.05,0:18:07.92,Default,,0,0,0,,{\be1}Wybacz...
+Dialogue: 0,0:18:09.60,0:18:19.72,Default,,0,0,0,,{\be1}Macki pokażcie mi jej najżałośniejszą stronę.
+Dialogue: 0,0:18:27.77,0:18:31.73,Default,,0,0,0,,{\be1}Nie zniosę tego! Przestań!
+Dialogue: 0,0:18:35.12,0:18:40.43,Default,,0,0,0,,{\be1}Co za sprośny wygląd, idealny dla ciebie.
+Dialogue: 0,0:18:41.88,0:18:43.74,Default,,0,0,0,,{\be1}Aż sama chcę dojść.
+Dialogue: 0,0:18:45.40,0:18:49.16,Default,,0,0,0,,{\be1}Czekaj, nie wyciskaj więcej mleka!
+Dialogue: 0,0:18:51.08,0:18:58.30,Default,,0,0,0,,{\be1}Nie! Przestań! Oszaleję!
+Dialogue: 0,0:19:01.01,0:19:03.39,Default,,0,0,0,,{\be1}No to oszalej.
+Dialogue: 0,0:19:11.68,0:19:15.02,Default,,0,0,0,,{\be1}Oboro, jeszcze pożałujesz!
+Dialogue: 0,0:19:17.40,0:19:29.07,Default,,0,0,0,,{\be1}Nie dam rady!\NDochodzę ze wszystkich miejsc!

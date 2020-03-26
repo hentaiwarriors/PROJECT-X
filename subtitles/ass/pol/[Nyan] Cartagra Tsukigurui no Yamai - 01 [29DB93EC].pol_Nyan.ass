@@ -1,0 +1,360 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r112
+Active Line: 18
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video Position: 0
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,8,1
+Style: Tytul,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00081048,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,9,1
+Style: Znak,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&HFF000000,&H00000000,0,0,0,0,100,100,0,0,1,0.1,2,8,20,20,12,1
+Style: ED Jap.,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H0000015A,&H00797AFF,0,-1,0,0,100,100,0,0,1,2,2,2,20,20,110,1
+Style: ED PL.,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H0000015A,&H00797AFF,0,-1,0,0,100,100,0,0,1,2,2,2,20,20,15,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:32.05,0:00:38.14,Grupa,,0,0,0,,{\be1\fad(1984,0)}Nyan
+Dialogue: 0,0:00:34.01,0:00:38.14,Tytul,,0,0,0,,{\be1\fad(149,0)}Pierwsza noc
+Dialogue: 0,0:00:48.07,0:00:52.03,Znak,,0,0,0,,{\be1}Makabryczna seria morderstw w Zushi.
+Dialogue: 0,0:01:03.04,0:01:06.46,Znak,,45,0,0,,{\be1\fad(941,895)}7 lat temu.
+Dialogue: 0,0:01:06.55,0:01:09.21,Znak,,0,84,7,,{\be1\fad(976,0)\an9}Zushi
+Dialogue: 0,0:03:48.50,0:03:53.50,Znak,,0,0,0,,{\be1}Kouzuki Keiichirou
+Dialogue: 0,0:26:16.64,0:26:20.52,Znak,,0,35,5,,{\be1\fad(1353,0)\an9}Ueno, ulica Aoi.
+Dialogue: 1,0:27:46.78,0:27:53.99,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(464,370,384,370)}Kizamu hari no oto yawarakana tenohira
+Dialogue: 0,0:27:54.02,0:28:03.32,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(384,370,464,370)}Shinobi yori kuruizaku yokubou
+Dialogue: 1,0:28:03.50,0:28:10.61,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(464,370,384,370)}Usureteku ishiki koboreta aka no iro
+Dialogue: 0,0:28:10.85,0:28:19.88,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(384,370,464,370)}Dakaretai kokoro mushibande
+Dialogue: 1,0:28:21.59,0:28:28.04,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(464,370,384,370)}Mushitachi no koe kikoete kuru
+Dialogue: 0,0:28:28.27,0:28:35.39,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(384,370,464,370)}Tadareta hibi wa nani mo nokosazu
+Dialogue: 1,0:28:39.06,0:28:43.20,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(464,370,384,370)}Lai Lai hibikasete
+Dialogue: 0,0:28:42.90,0:28:47.39,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(384,370,464,370)}Tsumuida towa no shirabe
+Dialogue: 1,0:28:47.45,0:28:55.57,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(464,370,384,370)}Tsuki wa yami ni shizumi hana wa kuchite tokeru
+Dialogue: 0,0:28:55.63,0:29:00.02,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(384,370,464,370)}Itami kurushimi wa
+Dialogue: 1,0:28:59.90,0:29:04.44,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(464,370,384,370)}Yumemita chi no hate made
+Dialogue: 0,0:29:04.57,0:29:14.83,ED Jap.,,0,0,0,,{\be1\fad(150,150)\move(384,370,464,370)}Kono karada horobu made anata wo motome tsudzukeru deshou
+Dialogue: 1,0:27:46.78,0:27:53.99,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(384,465,464,465)}Na dłonie formujące dźwięki czasu...
+Dialogue: 0,0:27:54.02,0:28:03.32,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(464,465,384,465)}Zakradła się żądza pochłaniając wszystko.
+Dialogue: 1,0:28:03.50,0:28:10.61,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(384,465,464,465)}Przepełniona czerwienią świadomość moja zanika...
+Dialogue: 0,0:28:10.85,0:28:19.88,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(464,465,384,465)}Łapiąc się serca pragnącego objęcia.
+Dialogue: 1,0:28:21.59,0:28:28.04,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(384,465,464,465)}Słychać odgłosy robaków.
+Dialogue: 0,0:28:28.27,0:28:35.39,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(464,465,384,465)}Gorące dni odchodzą pozostawiając pustkę.
+Dialogue: 1,0:28:39.06,0:28:43.20,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(384,465,464,465)}Rozbrzmiewaj...
+Dialogue: 0,0:28:42.90,0:28:47.39,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(464,465,384,465)}Niekończąca się melodio.
+Dialogue: 1,0:28:47.45,0:28:55.57,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(384,465,464,465)}Księżyc tonie w mroku, a kwiaty gniją i rozpływają się.
+Dialogue: 0,0:28:55.63,0:29:00.02,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(464,465,384,465)}Tylko ból i smutek...
+Dialogue: 1,0:28:59.90,0:29:04.44,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(384,465,464,465)}Towarzyszyły mi we snach.
+Dialogue: 0,0:29:04.57,0:29:14.83,ED PL.,,0,0,0,,{\be1\fad(150,150)\move(464,465,384,465)}Dopóki nie sczeznę pożądać cię będę!
+Dialogue: 0,0:00:09.48,0:00:17.29,Default (i),,0,0,0,,{\be1}Samo kopanie dziury uszczęśliwia mnie.
+Dialogue: 0,0:00:17.29,0:00:23.29,Default (i),,0,0,0,,{\be1}Każde wbicie łopaty w ziemię\Nłączy mnie na chwilę z tobą.
+Dialogue: 0,0:00:27.93,0:00:30.17,Default (i),,0,0,0,,{\be1}Ciągle pada.
+Dialogue: 0,0:00:57.13,0:01:01.31,Default (i),,0,0,0,,{\be1}Gdyby nie pewne wydarzenia,\Nnigdy nie przyjechałbym do Zushi.
+Dialogue: 0,0:01:09.22,0:01:12.26,Default,,0,0,0,,{\be1}Jak ona śmiała tu przyjść?
+Dialogue: 0,0:01:12.26,0:01:14.49,Default,,0,0,0,,{\be1}No nie?
+Dialogue: 0,0:01:14.49,0:01:15.18,Default,,0,0,0,,{\be1}Idziemy.
+Dialogue: 0,0:01:18.72,0:01:20.23,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:01:21.40,0:01:27.23,Default,,0,0,0,,{\be1}Jestem Takashiro Shuugo, przyjechałem do tego miasta,\Nżeby lekarz przyjrzał się mojej chorobie.
+Dialogue: 0,0:01:32.86,0:01:36.64,Default,,0,0,0,,{\be1}Muszę przyznać, że tutejsi mieszkańcy są okropni.
+Dialogue: 0,0:01:36.64,0:01:40.71,Default,,0,0,0,,{\be1}Nawet nie pomogli ci wstać.
+Dialogue: 0,0:01:41.11,0:01:44.49,Default,,0,0,0,,{\be1}To dlatego że jestem...
+Dialogue: 0,0:01:45.62,0:01:48.65,Default,,0,0,0,,{\be1}Nieważne, dziękuję.
+Dialogue: 0,0:01:59.67,0:02:00.94,Default,,0,0,0,,{\be1}Już.
+Dialogue: 0,0:02:11.43,0:02:14.58,Default (i),,0,0,0,,{\be1}Wtedy wszytko się zaczęło.
+Dialogue: 0,0:03:45.80,0:03:47.90,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:03:50.46,0:03:56.84,Default,,0,0,0,,{\be1}Jestem Takashiro, wysłano mnie tu na polecenie\Ninspektora Arishimy z Komendy Głównej Policji.
+Dialogue: 0,0:03:58.17,0:03:59.59,Default,,0,0,0,,{\be1}Nie ma nikogo?
+Dialogue: 0,0:03:59.59,0:04:01.43,Default,,0,0,0,,{\be1}Jest pan detektywem?
+Dialogue: 0,0:04:02.32,0:04:04.18,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:04:04.18,0:04:06.14,Default,,0,0,0,,{\be1}Proszę za mną.
+Dialogue: 0,0:04:09.29,0:04:10.66,Default,,0,0,0,,{\be1}Proszę się rozgościć.
+Dialogue: 0,0:04:13.01,0:04:15.47,Default,,0,0,0,,{\be1}Keiichirou niedługo przyjdzie.
+Dialogue: 0,0:04:22.17,0:04:28.33,Default (i),,0,0,0,,{\be1}7 lat temu zakochałem się tu w Yurze, ale...
+Dialogue: 0,0:04:34.71,0:04:38.30,Default,,0,0,0,,{\be1}Dziękujemy za przybycie z tak daleka.
+Dialogue: 0,0:04:42.86,0:04:44.18,Default,,0,0,0,,{\be1}Yura?
+Dialogue: 0,0:04:46.65,0:04:49.69,Default,,0,0,0,,{\be1}Musiało być panu ciężko przyjechać tu.
+Dialogue: 0,0:04:49.69,0:04:52.80,Default,,0,0,0,,{\be1}Udało się panu znaleźć\Nten budek od razu po przyjeździe?
+Dialogue: 0,0:04:52.80,0:04:58.74,Default,,0,0,0,,{\be1}Bo wie pan, przejezdnym\Nłatwo jest go przegapić.
+Dialogue: 0,0:04:58.74,0:05:06.45,Default,,0,0,0,,{\be1}Nieważne jak duży jest ten budynek czy jak bogaci są właściciele,\Nto i tak będą stratni jeśli nikt go nie znajdzie, prawda?
+Dialogue: 0,0:05:06.45,0:05:08.34,Default,,0,0,0,,{\be1}Proszę, pana herbata.
+Dialogue: 0,0:05:08.83,0:05:13.92,Default,,0,0,0,,{\be1}Pan jest detektywem, prawda?\NCzekałam na pana przed wejściem.
+Dialogue: 0,0:05:14.65,0:05:15.96,Default,,0,0,0,,{\be1}Cholercia!
+Dialogue: 0,0:05:16.59,0:05:19.63,Default,,0,0,0,,{\be1}Ja tu pana zagaduję, a nawet się nie przedstawiłam.
+Dialogue: 0,0:05:19.99,0:05:22.75,Default,,0,0,0,,{\be1}Nazywam się Kouzuki Kazuna.
+Dialogue: 0,0:05:22.75,0:05:23.78,Default (i),,0,0,0,,{\be1}Kazuna?
+Dialogue: 0,0:05:23.78,0:05:28.68,Default,,0,0,0,,{\be1}Dziękuję, że zechciał pan\Nprzyjechać tu dla mojej siostry.
+Dialogue: 0,0:05:28.68,0:05:34.11,Default (i),,0,0,0,,{\be1}Faktycznie, przecież Yura miała siostrę bliźniaczkę.
+Dialogue: 0,0:05:34.11,0:05:37.03,Default,,0,0,0,,{\be1}Czy coś się stało?
+Dialogue: 0,0:05:37.03,0:05:38.86,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:05:38.86,0:05:43.87,Default,,0,0,0,,{\be1}Jeśli można to chciałbym\Nusłyszeć szczegóły sprawy.
+Dialogue: 0,0:05:43.87,0:05:45.99,Default,,0,0,0,,{\be1}W takim razie ja je przedstawię.
+Dialogue: 0,0:05:45.99,0:05:48.25,Default,,0,0,0,,{\be1}Tato.
+Dialogue: 0,0:05:48.67,0:05:51.31,Default,,0,0,0,,{\be1}Pan Kouzuki Keiichirou.
+Dialogue: 0,0:05:51.31,0:05:53.89,Default,,0,0,0,,{\be1}Kazuna, odejdź.
+Dialogue: 0,0:05:53.89,0:05:58.26,Default,,0,0,0,,{\be1}Ale ta rozmowa ma dotyczyć Yury.
+Dialogue: 0,0:05:58.26,0:06:03.26,Default,,0,0,0,,{\be1}Właśnie dlatego musisz wyjść.
+Dialogue: 0,0:06:06.06,0:06:09.60,Default,,0,0,0,,{\be1}Panie Kouzuki, może siostra Yury powinna...
+Dialogue: 0,0:06:09.60,0:06:11.30,Default,,0,0,0,,{\be1}No nie?
+Dialogue: 0,0:06:11.30,0:06:12.66,Default,,0,0,0,,{\be1}Wyjdź!
+Dialogue: 0,0:06:22.00,0:06:25.99,Default,,0,0,0,,{\be1}To pana polecił inspektor Arishima.
+Dialogue: 0,0:06:25.99,0:06:31.04,Default,,0,0,0,,{\be1}Jestem Takashiro Shuugo,\Na co do zniknięcia pańskiej córki...
+Dialogue: 0,0:06:31.04,0:06:33.20,Default,,0,0,0,,{\be1}Potrafi pan dotrzymać tajemnicy?
+Dialogue: 0,0:06:34.16,0:06:39.01,Default,,0,0,0,,{\be1}Czy zachowa pan dla siebie wszystko co usłyszy?
+Dialogue: 0,0:06:39.01,0:06:42.42,Default,,0,0,0,,{\be1}Poufność jest wpisana w mój zawód.
+Dialogue: 0,0:06:42.42,0:06:44.08,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:06:44.08,0:06:49.51,Default,,0,0,0,,{\be1}Dobrze się pan domyślił.\NChce żeby znalazł pan Yurę, siostrę Kazuny.
+Dialogue: 0,0:06:52.41,0:07:00.62,Default,,0,0,0,,{\be1}Zaginęła 5 lat temu nie wychodząc nawet\Nze swojego pokoju jakby się rozpłynęła.
+Dialogue: 0,0:07:00.62,0:07:06.70,Default,,0,0,0,,{\be1}Ponadto miała zranione oczy,\Nwięc nie mogła sama wyjść.
+Dialogue: 0,0:07:07.11,0:07:09.56,Default,,0,0,0,,{\be1}Może została porwana?
+Dialogue: 0,0:07:09.56,0:07:14.91,Default,,0,0,0,,{\be1}Nie, nie dostaliśmy żadnych żądań okupu czy pogróżek.
+Dialogue: 0,0:07:15.56,0:07:19.91,Default,,0,0,0,,{\be1}Próbowałem wszystkiego,\Nale w połowie przerwała mi wojna.
+Dialogue: 0,0:07:19.91,0:07:22.28,Default,,0,0,0,,{\be1}Zaginęła 5 lat temu.
+Dialogue: 0,0:07:22.28,0:07:25.58,Default,,0,0,0,,{\be1}Nie odnaleziono jej nawet dzięki pańskim wpływom.
+Dialogue: 0,0:07:25.58,0:07:28.34,Default,,0,0,0,,{\be1}Na dodatek wojna wywołała chaos.
+Dialogue: 0,0:07:28.35,0:07:30.19,Default,,0,0,0,,{\be1}Zgadza się.
+Dialogue: 0,0:07:30.19,0:07:33.06,Default,,0,0,0,,{\be1}Dlaczego prosi pan po tylu latach?
+Dialogue: 0,0:07:33.06,0:07:38.39,Default,,0,0,0,,{\be1}Niedawno otrzymaliśmy informację,\Nże widziano Yurę w Ueno.
+Dialogue: 0,0:07:38.39,0:07:39.55,Default,,0,0,0,,{\be1}Ueno?
+Dialogue: 0,0:07:39.55,0:07:44.78,Default,,0,0,0,,{\be1}Tak, to jest to miejsce, gdzie grasuje seryjny morderca.
+Dialogue: 0,0:07:47.15,0:07:50.72,Default,,0,0,0,,{\be1}Ale Yura nie była jego ofiarą.
+Dialogue: 0,0:07:50.72,0:07:55.50,Default,,0,0,0,,{\be1}Kazuna ciągle jęczy,\Nże musimy ją tym razem odnaleźć.
+Dialogue: 0,0:07:55.83,0:08:01.46,Default,,0,0,0,,{\be1}Boi się, że Yura może stać się ofiarą mordercy,\Na przecież to tylko głupie zgadywanie.
+Dialogue: 0,0:08:03.67,0:08:06.54,Default,,0,0,0,,{\be1}To pańska praca.
+Dialogue: 0,0:08:06.54,0:08:08.02,Default,,0,0,0,,{\be1}Przyjmie ją pan?
+Dialogue: 0,0:08:08.02,0:08:10.43,Default,,0,0,0,,{\be1}Dobra, spróbuję.
+Dialogue: 0,0:08:11.86,0:08:16.37,Default,,0,0,0,,{\be1}To dobrze, ale to nie będzie trudne zadanie.
+Dialogue: 0,0:08:16.37,0:08:17.39,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:08:17.39,0:08:22.38,Default,,0,0,0,,{\be1}Bo widzi pan, Yura na pewno nie żyje.
+Dialogue: 0,0:08:44.24,0:08:46.97,Default,,0,0,0,,{\be1}Odegra pan krótkie przedstawienie.
+Dialogue: 0,0:08:47.64,0:08:48.87,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:08:48.87,0:08:53.55,Default,,0,0,0,,{\be1}Dla nas Yura już dawno umarła.
+Dialogue: 0,0:08:53.55,0:08:55.71,Default,,0,0,0,,{\be1}- Ale...\N- Niech pan posłucha.
+Dialogue: 0,0:08:55.71,0:08:59.52,Default,,0,0,0,,{\be1}Już tylko Kazunie zależy na znalezieniu Yury.
+Dialogue: 0,0:09:00.28,0:09:05.70,Default,,0,0,0,,{\be1}Jeśli czegoś nie zrobimy, to Kazuna\Nsama pojedzie do Ueno szukać Yury.
+Dialogue: 0,0:09:06.52,0:09:10.37,Default,,0,0,0,,{\be1}Nie mogę pozwolić jej pojechać tam.
+Dialogue: 0,0:09:11.08,0:09:13.41,Default,,0,0,0,,{\be1}I po to jest nam pan potrzebny.
+Dialogue: 0,0:09:13.83,0:09:18.79,Default,,0,0,0,,{\be1}Czy jest jakiś dowód śmierci Yury?
+Dialogue: 0,0:09:18.79,0:09:20.13,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:09:21.12,0:09:26.23,Default,,0,0,0,,{\be1}Wystarczy, że wciśnie pan jakąś\Nbajeczkę Kazunie, a otrzyma pan zapłatę.
+Dialogue: 0,0:09:26.23,0:09:33.84,Default,,0,0,0,,{\be1}Nie musi pan jej w ogóle szukać,\Nbo nie żyje od pięciu lat.
+Dialogue: 0,0:09:35.54,0:09:41.45,Default,,0,0,0,,{\be1}Panie Shuugo, jestem Hatsune.\NCzy chce się pan wykąpać?
+Dialogue: 0,0:09:41.45,0:09:42.73,Default,,0,0,0,,{\be1}Przydałoby się.
+Dialogue: 0,0:09:49.19,0:09:50.95,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:09:59.12,0:10:00.69,Default,,0,0,0,,{\be1}No i co robisz?!
+Dialogue: 0,0:10:00.69,0:10:04.16,Default,,0,0,0,,{\be1}Przepraszam, zaraz posprzątam!
+Dialogue: 0,0:10:04.16,0:10:06.81,Default,,0,0,0,,{\be1}Ale z ciebie oferma.
+Dialogue: 0,0:10:06.81,0:10:10.31,Default,,0,0,0,,{\be1}Nie rób tak, bo zostanie plama.
+Dialogue: 0,0:10:10.31,0:10:11.93,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:10:11.93,0:10:16.43,Default,,0,0,0,,{\be1}Przez ciebie klient będzie czekał na sake.
+Dialogue: 0,0:10:16.43,0:10:18.33,Default,,0,0,0,,{\be1}Weź się w garść.
+Dialogue: 0,0:10:18.33,0:10:20.09,Default,,0,0,0,,{\be1}Jesteś do niczego.
+Dialogue: 0,0:10:20.09,0:10:21.39,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:10:22.73,0:10:25.02,Default,,0,0,0,,{\be1}Przyłóż się.
+Dialogue: 0,0:10:25.02,0:10:31.15,Default,,0,0,0,,{\be1}Dobrze wiem, że ciągle łazisz\Ndo tego darmozjada profesorka.
+Dialogue: 0,0:10:32.20,0:10:34.74,Default,,0,0,0,,{\be1}Odpuść jej.
+Dialogue: 0,0:10:35.62,0:10:37.12,Default,,0,0,0,,{\be1}Ujaku.
+Dialogue: 0,0:10:38.42,0:10:41.43,Default,,0,0,0,,{\be1}Przecież nie zrobiła tego celowo.
+Dialogue: 0,0:10:41.43,0:10:46.47,Default,,0,0,0,,{\be1}No ale tamten detektyw czeka na sake.
+Dialogue: 0,0:10:46.47,0:10:49.54,Default,,0,0,0,,{\be1}Pójdę go przeprosić.
+Dialogue: 0,0:10:49.54,0:10:50.76,Default,,0,0,0,,{\be1}Ach tak?
+Dialogue: 0,0:10:51.25,0:10:53.21,Default,,0,0,0,,{\be1}Jak chcesz.
+Dialogue: 0,0:10:54.61,0:10:57.17,Default,,0,0,0,,{\be1}Naprawdę przepraszam!
+Dialogue: 0,0:10:57.18,0:11:00.01,Default,,0,0,0,,{\be1}Nie przejmuj się, wracaj do kuchni.
+Dialogue: 0,0:11:02.19,0:11:03.29,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:11:03.97,0:11:07.77,Default,,0,0,0,,{\be1}A zastanawiałam się kto tam stoi.
+Dialogue: 0,0:11:07.77,0:11:10.15,Default,,0,0,0,,{\be1}Skończyłeś pracę?
+Dialogue: 0,0:11:10.15,0:11:13.11,Default,,0,0,0,,{\be1}Po co od razu ten sarkazm?
+Dialogue: 0,0:11:13.71,0:11:16.44,Default,,0,0,0,,{\be1}To nie był sarkazm, p\Nrzez ciebie wychodzę na złośnicę.
+Dialogue: 0,0:11:16.44,0:11:19.35,Default,,0,0,0,,{\be1}A tak mi miło było z tobą.
+Dialogue: 0,0:11:19.35,0:11:22.01,Default,,0,0,0,,{\be1}Dawne dzieje.
+Dialogue: 0,0:11:22.01,0:11:24.37,Default,,0,0,0,,{\be1}Wspomniałaś, że jest tu jakiś detektyw.
+Dialogue: 0,0:11:24.77,0:11:29.38,Default,,0,0,0,,{\be1}Chodzi o te seryjne morderstwa.
+Dialogue: 0,0:11:29.38,0:11:32.52,Default,,0,0,0,,{\be1}W takim razie nie jest chyba klientem?
+Dialogue: 0,0:11:32.52,0:11:35.05,Default,,0,0,0,,{\be1}No skąd.
+Dialogue: 0,0:11:42.33,0:11:44.45,Default,,0,0,0,,{\be1}Proszę, panie detektywie.
+Dialogue: 0,0:11:51.48,0:11:54.08,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:11:56.70,0:12:00.87,Default,,0,0,0,,{\be1}Jest pan zbyt niecierpliwy.
+Dialogue: 0,0:12:03.93,0:12:06.34,Default,,0,0,0,,{\be1}Wstydzę się.
+Dialogue: 0,0:12:07.93,0:12:09.33,Default,,0,0,0,,{\be1}Gorąca.
+Dialogue: 0,0:12:10.08,0:12:11.50,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:12:18.68,0:12:21.89,Default,,0,0,0,,{\be1}Przyjemnie!
+Dialogue: 0,0:12:24.47,0:12:25.96,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:12:34.85,0:12:38.39,Default,,0,0,0,,{\be1}Może pan delikatniej?
+Dialogue: 0,0:13:16.01,0:13:22.49,Default,,0,0,0,,{\be1}Niech się pan pospieszy,\Nnie wytrzymam dłużej.
+Dialogue: 0,0:14:03.42,0:14:06.78,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:14:30.54,0:14:32.80,Default,,0,0,0,,{\be1}Przepraszam za tamto.
+Dialogue: 0,0:14:34.41,0:14:37.69,Default,,0,0,0,,{\be1}Kiedyś to była moja sprawa.
+Dialogue: 0,0:14:39.39,0:14:42.66,Default,,0,0,0,,{\be1}Chce pan coś powiedzieć o seryjnych morderstwach?
+Dialogue: 0,0:14:42.66,0:14:48.12,Default,,0,0,0,,{\be1}Tak, kolejnymi ofiarami były dwie prostytutki.
+Dialogue: 0,0:14:48.12,0:14:51.00,Default,,0,0,0,,{\be1}Podobno morderstwa były niezwykłe.
+Dialogue: 0,0:14:51.00,0:14:55.71,Default,,0,0,0,,{\be1}Po zamordowaniu ofiary zostały rozczłonkowane.
+Dialogue: 0,0:14:56.47,0:14:58.17,Default,,0,0,0,,{\be1}To nie wszystko.
+Dialogue: 0,0:14:58.59,0:15:01.80,Default,,0,0,0,,{\be1}Rany zewnętrzne zostały zrobione przed śmiercią.
+Dialogue: 0,0:15:02.26,0:15:03.43,Default,,0,0,0,,{\be1}To znaczy, że...
+Dialogue: 0,0:15:03.43,0:15:07.90,Default,,0,0,0,,{\be1}Ofiary były torturowane przed śmiercią.
+Dialogue: 0,0:15:09.03,0:15:12.43,Default,,0,0,0,,{\be1}Jest coś jeszcze, czego nie podano do opinii publicznej.
+Dialogue: 0,0:15:12.43,0:15:17.92,Default,,0,0,0,,{\be1}Według autopsji ciała ofiar mają spore ubytki\Nnarządów wewnętrznych od brzucha do genitaliów.
+Dialogue: 0,0:15:17.92,0:15:20.52,Default,,0,0,0,,{\be1}I to właśnie jest w nich unikalne.
+Dialogue: 0,0:15:20.52,0:15:21.82,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:15:21.82,0:15:24.86,Default,,0,0,0,,{\be1}To wygląda jakby ktoś je wyjadł.
+Dialogue: 0,0:15:24.86,0:15:26.74,Default,,0,0,0,,{\be1}Kanibalizm?
+Dialogue: 0,0:15:26.74,0:15:30.14,Default,,0,0,0,,{\be1}Proszę zachować to dla siebie.
+Dialogue: 0,0:15:30.14,0:15:31.38,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:15:31.38,0:15:33.38,Default,,0,0,0,,{\be1}Czy morderca zostawił jakieś ślady?
+Dialogue: 0,0:15:33.38,0:15:38.71,Default,,0,0,0,,{\be1}Nie, nie znaleziono nawet skrawka odciska palca.
+Dialogue: 0,0:15:38.71,0:15:40.83,Default,,0,0,0,,{\be1}Nie było też świadków.
+Dialogue: 0,0:15:40.83,0:15:43.80,Default,,0,0,0,,{\be1}Takie morderstwa były też niedaleko Ueno.
+Dialogue: 0,0:15:44.36,0:15:49.15,Default,,0,0,0,,{\be1}Nawet nie byłem w stanie rozgryźć motywu mordercy.
+Dialogue: 0,0:15:49.91,0:15:55.31,Default,,0,0,0,,{\be1}Tortury mogą wskazywać,\Nże morderca chował urazę do ofiar.
+Dialogue: 0,0:15:55.66,0:15:59.72,Default,,0,0,0,,{\be1}Niestety zbyt mało łączy ofiary.
+Dialogue: 0,0:15:59.72,0:16:01.71,Default,,0,0,0,,{\be1}Pierwszą ofiarą była licealistka.
+Dialogue: 0,0:16:01.71,0:16:04.65,Default,,0,0,0,,{\be1}Następnymi dwoma prostytutki.
+Dialogue: 0,0:16:04.65,0:16:07.11,Default,,0,0,0,,{\be1}A ostatnią gospodyni domowa.
+Dialogue: 0,0:16:07.11,0:16:09.22,Default,,0,0,0,,{\be1}Nic je nie łączy.
+Dialogue: 0,0:16:09.22,0:16:13.89,Default,,0,0,0,,{\be1}To wygląda bardziej na losowe morderstwa.
+Dialogue: 0,0:16:15.50,0:16:18.50,Default,,0,0,0,,{\be1}Jest jeszcze coś dziwnego.
+Dialogue: 0,0:16:18.50,0:16:20.95,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:16:20.95,0:16:28.13,Default,,0,0,0,,{\be1}Ofiary miały wbite pióra wron w łopatki,\Njakby ktoś chciał dorobić im skrzydła.
+Dialogue: 0,0:16:55.04,0:16:57.11,Default,,0,0,0,,{\be1}Kto to zrobił?
+Dialogue: 0,0:17:10.29,0:17:11.51,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:17:12.74,0:17:14.49,Default,,0,0,0,,{\be1}"Tyś, który zamieszkujesz ten plugawy świat..."
+Dialogue: 0,0:17:14.49,0:17:17.75,Default,,0,0,0,,{\be1}"Zapamiętaj, musisz przestrzegać\Nprzepowiedni cesarskiego dziedzica..."
+Dialogue: 0,0:17:17.75,0:17:24.45,Default,,0,0,0,,{\be1}"Albo spadnie na ciebie więcej tragedii\Nanioła o czarnych skrzydłach."
+Dialogue: 0,0:17:24.45,0:17:26.23,Default,,0,0,0,,{\be1}Duma Senri?
+Dialogue: 0,0:17:39.00,0:17:42.37,Default,,0,0,0,,{\be1}Pora wracać do pracy.
+Dialogue: 0,0:17:45.01,0:17:50.35,Default (i),,0,0,0,,{\be1}Yura, kochałem cię z całego serca, ale zdradziłem cię.
+Dialogue: 0,0:17:50.35,0:17:55.04,Default (i),,0,0,0,,{\be1}Od tamtego dnia myślałem,\Nżeby więcej się nie angażować...
+Dialogue: 0,0:17:55.04,0:17:57.52,Default (i),,0,0,0,,{\be1}Ale ciebie nie ma już z nami.
+Dialogue: 0,0:17:59.34,0:18:01.48,Default (i),,0,0,0,,{\be1}Yura? Niemożliwe!
+Dialogue: 0,0:18:05.28,0:18:11.40,Default,,0,0,0,,{\be1}Już powiedziałam, szukam osoby identycznie\Nwyglądającej jak ja i nie chodziło mi o mnie.
+Dialogue: 0,0:18:11.40,0:18:13.20,Default,,0,0,0,,{\be1}To ty?!
+Dialogue: 0,0:18:13.20,0:18:14.53,Default,,0,0,0,,{\be1}Tu pan jest!
+Dialogue: 0,0:18:15.88,0:18:18.21,Default,,0,0,0,,{\be1}Wszędzie pana szukałam!
+Dialogue: 0,0:18:18.21,0:18:25.83,Default,,0,0,0,,{\be1}Poszłam pod pana adres,\Nale był tam burdel Yukishiro.
+Dialogue: 0,0:18:25.83,0:18:29.37,Default,,0,0,0,,{\be1}Nie mógł pan wyraźnie napisać adresu?
+Dialogue: 0,0:18:29.37,0:18:32.09,Default,,0,0,0,,{\be1}Ale ja naprawdę tam mieszkam.
+Dialogue: 0,0:18:32.09,0:18:39.87,Default,,0,0,0,,{\be1}Jest pan tam ich ochroniarzem?
+Dialogue: 0,0:18:39.87,0:18:42.10,Default,,0,0,0,,{\be1}Mieszkam za darmo.
+Dialogue: 0,0:18:42.10,0:18:47.11,Default,,0,0,0,,{\be1}Dawno temu pracowałem\Ndla tamtejszej pani domu, więc pomogła mi.
+Dialogue: 0,0:18:48.17,0:18:50.31,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:18:50.31,0:18:52.35,Default,,0,0,0,,{\be1}Panie detektywie...
+Dialogue: 0,0:18:52.35,0:18:53.82,Default,,0,0,0,,{\be1}Takashiro Shuugo.
+Dialogue: 0,0:18:53.82,0:18:58.69,Default,,0,0,0,,{\be1}Shuugo, mam do ciebie prośbę.
+Dialogue: 0,0:18:58.69,0:19:00.30,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:19:00.30,0:19:02.79,Default,,0,0,0,,{\be1}Jeszcze nic nie powiedziałam.
+Dialogue: 0,0:19:02.79,0:19:06.43,Default,,0,0,0,,{\be1}To nie jest miejsce dla takich dziewczyn.
+Dialogue: 0,0:19:06.43,0:19:10.17,Default,,0,0,0,,{\be1}Wiesz co się teraz tu dzieje?
+Dialogue: 0,0:19:10.17,0:19:13.89,Default,,0,0,0,,{\be1}Chodzi ci o seryjne morderstwa?
+Dialogue: 0,0:19:13.89,0:19:17.55,Default,,0,0,0,,{\be1}Ofiary były okaleczane i rozczłonkowywane.
+Dialogue: 0,0:19:17.55,0:19:21.78,Default,,0,0,0,,{\be1}Skoro wiesz, to wracaj do siebie.
+Dialogue: 0,0:19:21.78,0:19:24.02,Default,,0,0,0,,{\be1}Twój ojciec martwi się o ciebie.
+Dialogue: 0,0:19:25.14,0:19:29.11,Default,,0,0,0,,{\be1}Tym nie musisz się przejmować,\Nnie mieszkam z nim.
+Dialogue: 0,0:19:30.05,0:19:32.64,Default,,0,0,0,,{\be1}Mieszkam z matką.
+Dialogue: 0,0:19:33.77,0:19:38.73,Default,,0,0,0,,{\be1}Musze znaleźć Yurę za wszelką cenę,\Npozwól mi szukać z tobą.
+Dialogue: 0,0:19:38.73,0:19:41.23,Default,,0,0,0,,{\be1}Czy twój ojciec wie?
+Dialogue: 0,0:19:41.23,0:19:44.31,Default,,0,0,0,,{\be1}Pozwolił mi być z tobą.
+Dialogue: 0,0:19:44.31,0:19:46.42,Default,,0,0,0,,{\be1}A jak jej nie znajdziemy?
+Dialogue: 0,0:19:46.42,0:19:48.59,Default,,0,0,0,,{\be1}Na pewno znajdziemy.
+Dialogue: 0,0:19:48.59,0:19:53.09,Default,,0,0,0,,{\be1}A do tego czasu pozwól mi być z tobą,\Nmogę nawet parzyć ci herbatki.
+Dialogue: 0,0:19:53.09,0:19:58.43,Default,,0,0,0,,{\be1}A jeśli trzeba to mogę zatrzymać się w tym samym budynku.
+Dialogue: 0,0:19:58.76,0:20:00.89,Default,,0,0,0,,{\be1}Na to na pewno nie pozwolę.
+Dialogue: 0,0:20:00.89,0:20:05.39,Default,,0,0,0,,{\be1}Niech ci będzie, ale ja ustalam zasady, jasne?
+Dialogue: 0,0:20:05.39,0:20:07.76,Default,,0,0,0,,{\be1}Tak! Dziękuję!
+Dialogue: 0,0:20:07.76,0:20:10.90,Default,,0,0,0,,{\be1}Po pierwsze, masz się mnie zawsze słuchać.
+Dialogue: 0,0:20:10.90,0:20:14.32,Default,,0,0,0,,{\be1}Po drugie, nigdy sama nie podejmuj jakichkolwiek działań.
+Dialogue: 0,0:20:14.32,0:20:15.11,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:20:15.11,0:20:20.49,Default,,0,0,0,,{\be1}No i ostatnie, jeśli jej nie znajdziemy\Npo wykorzystaniu wszystkich tropów, zrezygnujemy.
+Dialogue: 0,0:20:21.01,0:20:22.36,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:20:22.36,0:20:23.63,Default,,0,0,0,,{\be1}Pasuje?
+Dialogue: 0,0:20:25.83,0:20:28.92,Default,,0,0,0,,{\be1}Ja chyba nie muszę przestrzegać ostatniego, prawda?
+Dialogue: 0,0:20:30.62,0:20:34.62,Default,,0,0,0,,{\be1}Zrozumiałam!\NMiło mi będzie z tobą pracować!
+Dialogue: 0,0:20:44.40,0:20:47.14,Default,,0,0,0,,{\be1}Padam z nóg.
+Dialogue: 0,0:20:55.51,0:20:58.56,Default,,0,0,0,,{\be1}Shuu, wchodzę.
+Dialogue: 0,0:21:00.02,0:21:01.29,Default,,0,0,0,,{\be1}Rin.
+Dialogue: 0,0:21:02.51,0:21:06.27,Default,,0,0,0,,{\be1}Mój ostatni klient odwołał spotkanie.
+Dialogue: 0,0:21:06.27,0:21:09.00,Default,,0,0,0,,{\be1}Ale i tak chyba nie powinnaś.
+Dialogue: 0,0:21:09.41,0:21:13.23,Default,,0,0,0,,{\be1}Spokojnie, zamknęłam drzwi.
+Dialogue: 0,0:21:13.23,0:21:15.00,Default,,0,0,0,,{\be1}Nie w tym rzecz.
+Dialogue: 0,0:21:15.58,0:21:18.62,Default,,0,0,0,,{\be1}Wyglądasz na zmęczonego.
+Dialogue: 0,0:21:18.62,0:21:21.10,Default,,0,0,0,,{\be1}Sporo się dzisiaj nachodziłem.
+Dialogue: 0,0:21:21.10,0:21:24.01,Default,,0,0,0,,{\be1}Pomóc ci się zrelaksować?
+Dialogue: 0,0:21:24.01,0:21:25.22,Default,,0,0,0,,{\be1}Rin.
+Dialogue: 0,0:21:25.22,0:21:28.17,Default,,0,0,0,,{\be1}Już ci stanął.
+Dialogue: 0,0:21:28.17,0:21:30.19,Default,,0,0,0,,{\be1}Nie tak mocno.
+Dialogue: 0,0:21:30.65,0:21:33.42,Default,,0,0,0,,{\be1}Będę delikatniejsza.
+Dialogue: 0,0:21:33.42,0:21:36.43,Default,,0,0,0,,{\be1}Możemy mieć problem.
+Dialogue: 0,0:21:36.43,0:21:40.07,Default,,0,0,0,,{\be1}Czyżbyś miał już żonę?
+Dialogue: 0,0:21:40.56,0:21:43.20,Default,,0,0,0,,{\be1}Nie twój interes.
+Dialogue: 0,0:21:46.16,0:21:51.22,Default,,0,0,0,,{\be1}Jakoś się nie opierasz.
+Dialogue: 0,0:21:51.22,0:21:53.73,Default,,0,0,0,,{\be1}Coś się stało?
+Dialogue: 0,0:21:53.73,0:21:56.83,Default,,0,0,0,,{\be1}Wiesz czym jest Duma Senri?
+Dialogue: 0,0:21:56.83,0:21:58.13,Default,,0,0,0,,{\be1}Duma Senri?
+Dialogue: 0,0:21:58.13,0:22:01.63,Default,,0,0,0,,{\be1}Jest powiązana z jakąś przepowiednią.
+Dialogue: 0,0:22:01.63,0:22:08.22,Default,,0,0,0,,{\be1}Już wiem, słyszałam o niej od klienta.\NJest sławną panią domu.
+Dialogue: 0,0:22:08.71,0:22:09.64,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:22:09.64,0:22:13.96,Default,,0,0,0,,{\be1}Niektóre jej przepowiednie sprawdziły się.
+Dialogue: 0,0:22:13.96,0:22:18.98,Default,,0,0,0,,{\be1}Jak na przykład te morderstwa przez,\Nktóre policja chodzi jak struta.
+Dialogue: 0,0:22:18.98,0:22:21.78,Default,,0,0,0,,{\be1}Podobno już jakiś czas temu przepowiedziała je.
+Dialogue: 0,0:22:21.78,0:22:23.87,Default,,0,0,0,,{\be1}Może to przypadek?
+Dialogue: 0,0:22:23.87,0:22:27.39,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:22:27.39,0:22:29.55,Default,,0,0,0,,{\be1}Mam do ciebie prośbę.
+Dialogue: 0,0:22:29.55,0:22:32.58,Default,,0,0,0,,{\be1}Dla ciebie wszystko.
+Dialogue: 0,0:22:32.58,0:22:38.43,Default,,0,0,0,,{\be1}Możesz mnie informować o wszystkim,\Nco usłyszysz na temat Dumy Senri?
+Dialogue: 0,0:22:38.43,0:22:40.47,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:22:40.47,0:22:41.68,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:22:41.68,0:22:47.68,Default,,0,0,0,,{\be1}W zamian dzisiaj noc spędzisz ze mną.
+Dialogue: 0,0:22:47.68,0:22:49.31,Default,,0,0,0,,{\be1}Ale tylko ten jeden raz, dobra?
+Dialogue: 0,0:22:49.31,0:22:50.25,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:22:50.25,0:22:51.25,Default,,0,0,0,,{\be1}Rin.
+Dialogue: 0,0:22:51.25,0:22:53.81,Default,,0,0,0,,{\be1}Niczym się nie przejmuj.
+Dialogue: 0,0:22:59.36,0:23:01.00,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:23:01.00,0:23:02.16,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:23:09.54,0:23:11.01,Default,,0,0,0,,{\be1}Shuu.
+Dialogue: 0,0:23:14.67,0:23:16.35,Default,,0,0,0,,{\be1}Rin!
+Dialogue: 0,0:23:26.99,0:23:29.31,Default,,0,0,0,,{\be1}Rin, tam...
+Dialogue: 0,0:23:30.54,0:23:31.98,Default,,0,0,0,,{\be1}Shuu.
+Dialogue: 0,0:23:35.60,0:23:38.23,Default,,0,0,0,,{\be1}Jesteś wspaniały.
+Dialogue: 0,0:23:39.32,0:23:41.36,Default,,0,0,0,,{\be1}- Chcę go już.\N- Rin.
+Dialogue: 0,0:23:46.16,0:23:48.99,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:24:30.68,0:24:32.91,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:24:33.94,0:24:36.91,Default,,0,0,0,,{\be1}Dojdźmy razem!
+Dialogue: 0,0:24:51.88,0:24:54.81,Default,,0,0,0,,{\be1}Ujaku, tu Takashiro.
+Dialogue: 0,0:24:55.81,0:24:58.97,Default,,0,0,0,,{\be1}Śmiało, wchodź.
+Dialogue: 0,0:25:00.81,0:25:04.65,Default,,0,0,0,,{\be1}Przepraszam, że zerwałam cię\Nna nogi z samego rana.
+Dialogue: 0,0:25:05.23,0:25:11.15,Default,,0,0,0,,{\be1}To nic, tylko to wydarzyło się tak nagle,\Nnaprawdę nie planowałem tego.
+Dialogue: 0,0:25:11.15,0:25:15.12,Default,,0,0,0,,{\be1}To mnie powinnaś winić, Rin nic nie zrobiła.
+Dialogue: 0,0:25:16.31,0:25:19.87,Default,,0,0,0,,{\be1}O czym teraz mówisz?
+Dialogue: 0,0:25:20.60,0:25:23.43,Default,,0,0,0,,{\be1}Przecież mówimy o wczorajszej nocy...
+Dialogue: 0,0:25:23.43,0:25:25.34,Default,,0,0,0,,{\be1}Albo i nie.
+Dialogue: 0,0:25:26.02,0:25:31.09,Default,,0,0,0,,{\be1}Chodzi o to, że od wczoraj nikt nie widział Otohy.
+Dialogue: 0,0:25:31.09,0:25:33.01,Default,,0,0,0,,{\be1}Otoha?
+Dialogue: 0,0:25:33.41,0:25:42.52,Default,,0,0,0,,{\be1}Po zajściu z Hatsune pogadałam sobie z nią,\Nale nie sądzę, żeby obraziła się o to i odeszła.
+Dialogue: 0,0:25:42.93,0:25:45.73,Default,,0,0,0,,{\be1}Może wyszła na zakupy?
+Dialogue: 0,0:25:46.19,0:25:49.14,Default,,0,0,0,,{\be1}To zadanie Hatsune i jej koleżanek.
+Dialogue: 0,0:25:49.91,0:25:52.96,Default,,0,0,0,,{\be1}Martwię się o nią.
+Dialogue: 0,0:25:53.49,0:26:01.50,Default,,0,0,0,,{\be1}Przez te morderstwa była u nas policja z ostrzeżeniem,\Nżeby kobiety nie wychodziły same, bo są łatwym celem.
+Dialogue: 0,0:26:02.65,0:26:12.04,Default,,0,0,0,,{\be1}Dlatego moje dziewczyny zawsze i wszędzie\Nwychodzą z obstawą, ale Otoha chyba wyszła sama.
+Dialogue: 0,0:26:12.04,0:26:15.49,Default,,0,0,0,,{\be1}Dobra, poszukam jej.
+Dialogue: 0,0:26:22.24,0:26:28.25,Default (i),,0,0,0,,{\be1}Otoha jest silną kobietą,\Nna pewno nie dałaby się łatwo zwabić.
+Dialogue: 0,0:26:33.40,0:26:34.91,Default,,0,0,0,,{\be1}Spóźniłeś się.
+Dialogue: 0,0:26:36.51,0:26:40.04,Default,,0,0,0,,{\be1}Nie da się uciec z objęć zniszczenia.
+Dialogue: 0,0:26:40.04,0:26:41.23,Default,,0,0,0,,{\be1}Kim jesteś?
+Dialogue: 0,0:26:41.23,0:26:43.58,Default,,0,0,0,,{\be1}Uwierz w przepowiednię.
+Dialogue: 0,0:26:43.58,0:26:49.20,Default,,0,0,0,,{\be1}Przykro mi, ale nie zwykłem wierzyć we wróżki i bogów.
+Dialogue: 0,0:26:49.20,0:26:54.09,Default,,0,0,0,,{\be1}Posiadają czarne skrzydła, ale w przeciwieństwie\Ndo bogini Benten, nie dostaną się do nieba.
+Dialogue: 0,0:27:12.17,0:27:13.38,Default,,0,0,0,,{\be1}O nie.
+Dialogue: 0,0:27:17.35,0:27:19.65,Default,,0,0,0,,{\be1}Stój, nie wolno tam wchodzić!
+Dialogue: 0,0:27:19.65,0:27:21.08,Default,,0,0,0,,{\be1}Zostaw mnie!
+Dialogue: 0,0:27:36.22,0:27:37.67,Default (i),,0,0,0,,{\be1}Otoha.

@@ -1,0 +1,245 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,楷体,25,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+Style: staff,微软雅黑,20,&H00F29F00,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:01.44,0:00:02.55,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:13.74,0:00:14.61,Default,NTP,0,0,0,,露蒂西娅
+Dialogue: 0,0:00:16.30,0:00:17.31,Default,NTP,0,0,0,,有什么事吗 修
+Dialogue: 0,0:00:17.59,0:00:20.03,Default,NTP,0,0,0,,和露总是在晚上一起玩耍
+Dialogue: 0,0:00:20.15,0:00:21.45,Default,NTP,0,0,0,,我觉得这样有些不过瘾
+Dialogue: 0,0:00:23.43,0:00:26.00,Default,NTP,0,0,0,,哎呀 我没别的意思
+Dialogue: 0,0:00:26.57,0:00:28.17,Default,NTP,0,0,0,,我希望能够有一天
+Dialogue: 0,0:00:28.64,0:00:31.56,Default,NTP,0,0,0,,在太阳下看到露灿烂的笑容
+Dialogue: 0,0:00:36.26,0:00:36.87,Default,NTP,0,0,0,,露
+Dialogue: 0,0:00:46.15,0:00:52.70,staff2,NTP,0,0,0,,少女游戏
+Dialogue: 0,0:01:30.89,0:01:32.38,Default,NTP,0,0,0,,到此为止吗
+Dialogue: 0,0:01:33.08,0:01:33.78,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:02:07.37,0:02:08.88,Default,NTP,0,0,0,,忍不住了
+Dialogue: 0,0:02:09.26,0:02:10.32,Default,NTP,0,0,0,,想要吗
+Dialogue: 0,0:02:43.73,0:02:44.71,Default,NTP,0,0,0,,要插入了
+Dialogue: 0,0:02:49.92,0:02:50.76,Default,NTP,0,0,0,,我快去了
+Dialogue: 0,0:02:57.46,0:02:58.64,Default,NTP,0,0,0,,好深插到深处了
+Dialogue: 0,0:03:51.99,0:03:53.68,Default,NTP,0,0,0,,埃琳娜我快射了
+Dialogue: 0,0:03:54.51,0:03:56.58,Default,NTP,0,0,0,,射吧用力射吧我也要去了
+Dialogue: 0,0:04:17.02,0:04:18.25,Default,NTP,0,0,0,,什么时候回来
+Dialogue: 0,0:04:19.24,0:04:20.50,Default,NTP,0,0,0,,这得看我心情
+Dialogue: 0,0:04:24.47,0:04:25.27,Default,NTP,0,0,0,,好吧
+Dialogue: 0,0:04:48.39,0:04:49.84,Default,NTP,0,0,0,,看来不会来了吧
+Dialogue: 0,0:04:53.16,0:04:54.93,Default,NTP,0,0,0,,修 是你吧 修
+Dialogue: 0,0:04:57.57,0:04:58.37,Default,NTP,0,0,0,,让你久等了
+Dialogue: 0,0:04:59.73,0:05:02.19,Default,NTP,0,0,0,,没有 我也是刚到不久
+Dialogue: 0,0:05:02.63,0:05:04.72,Default,NTP,0,0,0,,诶 你又长高了
+Dialogue: 0,0:05:04.84,0:05:08.13,Default,NTP,0,0,0,,是吗 听你这么一说好像是长高了些
+Dialogue: 0,0:05:10.07,0:05:13.80,Default,NTP,0,0,0,,是呢 每天都在成长
+Dialogue: 0,0:05:14.30,0:05:17.35,Default,NTP,0,0,0,,没多久就超过我了
+Dialogue: 0,0:05:17.80,0:05:20.24,Default,NTP,0,0,0,,长的不光是身高哦
+Dialogue: 0,0:05:21.73,0:05:26.26,Default,NTP,0,0,0,,现在我在铁匠铺老板鲍勃叔叔那里工作了
+Dialogue: 0,0:05:27.23,0:05:28.58,Default,NTP,0,0,0,,在铁匠铺工作
+Dialogue: 0,0:05:29.93,0:05:35.70,Default,NTP,0,0,0,,是啊 学门手艺不论到哪儿都能带着你生活
+Dialogue: 0,0:05:37.86,0:05:42.02,Default,NTP,0,0,0,,我想快点学会这门手艺 然后和你结婚
+Dialogue: 0,0:05:43.81,0:05:46.43,Default,NTP,0,0,0,,让我成为修的新娘
+Dialogue: 0,0:05:46.90,0:05:47.81,Default,NTP,0,0,0,,不愿意吗
+Dialogue: 0,0:05:49.37,0:05:51.69,Default,NTP,0,0,0,,修的手很温暖
+Dialogue: 0,0:05:52.02,0:05:53.48,Default,NTP,0,0,0,,但是我
+Dialogue: 0,0:05:54.00,0:05:56.30,Default,NTP,0,0,0,,不行 不行的 我...
+Dialogue: 0,0:05:56.83,0:06:00.83,Default,NTP,0,0,0,,我们生活在不同的世界里
+Dialogue: 0,0:06:03.16,0:06:05.06,Default,NTP,0,0,0,,不要拘泥这些小事
+Dialogue: 0,0:06:05.40,0:06:07.47,Default,NTP,0,0,0,,对我来说 你就是你
+Dialogue: 0,0:06:07.74,0:06:09.37,Default,NTP,0,0,0,,我们结婚吧
+Dialogue: 0,0:06:11.27,0:06:11.83,Default,NTP,0,0,0,,到春天
+Dialogue: 0,0:06:12.42,0:06:15.66,Default,NTP,0,0,0,,不 到了夏天你就能看到我独当一面的样子
+Dialogue: 0,0:06:16.61,0:06:21.36,Default,NTP,0,0,0,,到时候我再向你提亲 给你些时间考虑一下吧
+Dialogue: 0,0:06:29.22,0:06:30.00,Default,NTP,0,0,0,,露
+Dialogue: 0,0:06:56.82,0:07:01.31,Default,NTP,0,0,0,,到春天 不 \N到了夏天你就能看到我独当一面的样子
+Dialogue: 0,0:07:02.63,0:07:07.34,Default,NTP,0,0,0,,到时我再向你提亲 给你些时间考虑一下吧
+Dialogue: 0,0:07:10.92,0:07:11.87,Default,NTP,0,0,0,,露
+Dialogue: 0,0:07:16.21,0:07:17.17,Default,NTP,0,0,0,,修
+Dialogue: 0,0:07:18.93,0:07:20.35,Default,NTP,0,0,0,,这不是莱文吗
+Dialogue: 0,0:07:20.62,0:07:22.90,Default,NTP,0,0,0,,你不是在铁匠铺值班吗
+Dialogue: 0,0:07:24.12,0:07:28.40,Default,NTP,0,0,0,,那种破店 这种活交给新来的伙计就行了
+Dialogue: 0,0:07:30.76,0:07:32.66,Default,NTP,0,0,0,,你这是怎么了
+Dialogue: 0,0:07:32.78,0:07:35.73,Default,NTP,0,0,0,,难得休息却一副不高兴的表情
+Dialogue: 0,0:07:36.08,0:07:38.19,Default,NTP,0,0,0,,被小姑娘甩了吗
+Dialogue: 0,0:07:40.02,0:07:41.48,Default,NTP,0,0,0,,开个玩笑啦
+Dialogue: 0,0:07:42.21,0:07:45.60,Default,NTP,0,0,0,,你不好好看店要去哪里鬼混
+Dialogue: 0,0:07:46.59,0:07:50.55,Default,NTP,0,0,0,,还用问吗 当然去找女人
+Dialogue: 0,0:07:50.78,0:07:53.02,Default,NTP,0,0,0,,哇你们还在交往啊
+Dialogue: 0,0:07:53.14,0:07:55.31,Default,NTP,0,0,0,,莱文你这次处得真久啊
+Dialogue: 0,0:07:55.84,0:07:57.35,Default,NTP,0,0,0,,嗯这次是动了真情
+Dialogue: 0,0:07:58.46,0:08:00.97,Default,NTP,0,0,0,,为了她献出生命我都无怨无悔
+Dialogue: 0,0:08:01.49,0:08:03.41,Default,NTP,0,0,0,,莱文你...
+Dialogue: 0,0:08:05.53,0:08:06.82,Default,NTP,0,0,0,,怎么了突然...
+Dialogue: 0,0:08:12.21,0:08:14.81,Default,NTP,0,0,0,,好像不是我们这儿的人 你认识吗
+Dialogue: 0,0:08:15.04,0:08:16.65,Default,NTP,0,0,0,,不 我不认识他
+Dialogue: 0,0:08:23.29,0:08:24.12,Default,NTP,0,0,0,,埃琳娜
+Dialogue: 0,0:08:27.57,0:08:29.56,Default,NTP,0,0,0,,哇 真是不可思议
+Dialogue: 0,0:08:29.98,0:08:34.94,Default,NTP,0,0,0,,最正经的女人和其他地方的男人幽会
+Dialogue: 0,0:08:35.85,0:08:38.20,Default,NTP,0,0,0,,莱文你怎么能这么说
+Dialogue: 0,0:08:38.32,0:08:41.37,Default,NTP,0,0,0,,怎么 难道你对她还有念想
+Dialogue: 0,0:08:41.78,0:08:46.17,Default,NTP,0,0,0,,一年前 你拒绝了埃琳娜 还想挽回吗
+Dialogue: 0,0:08:47.01,0:08:49.16,Default,NTP,0,0,0,,我并不打算伤害她
+Dialogue: 0,0:08:49.64,0:08:54.27,Default,NTP,0,0,0,,只是一直有心上人没法跟她交往
+Dialogue: 0,0:08:56.50,0:08:59.18,Default,NTP,0,0,0,,嘿今天轮到你被甩了吧
+Dialogue: 0,0:08:59.30,0:09:00.41,Default,NTP,0,0,0,,才没有
+Dialogue: 0,0:09:00.77,0:09:03.88,Default,NTP,0,0,0,,好吧 埃琳娜新找了个男人
+Dialogue: 0,0:09:04.16,0:09:07.33,Default,NTP,0,0,0,,你也赶紧重找个女友吧
+Dialogue: 0,0:09:07.81,0:09:08.83,Default,NTP,0,0,0,,拜拜了
+Dialogue: 0,0:09:11.54,0:09:12.90,Default,NTP,0,0,0,,莱文你这个家伙
+Dialogue: 0,0:09:30.58,0:09:31.34,Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:09:35.03,0:09:36.75,Default,NTP,0,0,0,,不行 好害羞啊
+Dialogue: 0,0:09:43.29,0:09:45.88,Default,NTP,0,0,0,,讨厌有感觉了
+Dialogue: 0,0:09:46.49,0:09:48.27,Default,NTP,0,0,0,,我变得好奇怪了
+Dialogue: 0,0:09:55.29,0:09:58.47,Default,NTP,0,0,0,,不行要高潮了
+Dialogue: 0,0:10:04.87,0:10:07.94,Default,NTP,0,0,0,,求你 我想要你的那个
+Dialogue: 0,0:10:28.72,0:10:31.63,Default,NTP,0,0,0,,我也快要...埃琳娜
+Dialogue: 0,0:10:43.77,0:10:48.66,Default,NTP,0,0,0,,插得好深 碰到深处了
+Dialogue: 0,0:11:51.32,0:11:53.47,Default,NTP,0,0,0,,去了去了高潮了
+Dialogue: 0,0:12:06.86,0:12:07.88,Default,NTP,0,0,0,,大概来不及了
+Dialogue: 0,0:12:08.19,0:12:10.24,Default,NTP,0,0,0,,终究是擦肩而过的命运
+Dialogue: 0,0:12:12.50,0:12:16.44,Default,NTP,0,0,0,,你还是没有抛弃我
+Dialogue: 0,0:12:18.99,0:12:19.99,Default,NTP,0,0,0,,你想干什么
+Dialogue: 0,0:12:47.35,0:12:50.53,Default,NTP,0,0,0,,不
+Dialogue: 0,0:13:07.34,0:13:09.03,Default,NTP,0,0,0,,你好棒 莱文
+Dialogue: 0,0:13:44.02,0:13:45.59,Default,NTP,0,0,0,,来吧不必客气
+Dialogue: 0,0:13:47.67,0:13:50.59,Default,NTP,0,0,0,,你怎么了希莉丝 不想占有我吗
+Dialogue: 0,0:13:51.78,0:13:52.95,Default,NTP,0,0,0,,笨蛋
+Dialogue: 0,0:14:33.75,0:14:39.63,Default,NTP,0,0,0,,莱文莱文莱文我快去了
+Dialogue: 0,0:14:40.28,0:14:40.99,Default,NTP,0,0,0,,我也是
+Dialogue: 0,0:14:50.24,0:14:53.00,Default,NTP,0,0,0,,我们交往很久了呢
+Dialogue: 0,0:14:53.22,0:14:56.17,Default,NTP,0,0,0,,是啊 已经交往五年了
+Dialogue: 0,0:14:56.45,0:14:58.00,Default,NTP,0,0,0,,怎么突然说这个
+Dialogue: 0,0:14:58.34,0:15:00.18,Default,NTP,0,0,0,,没什么
+Dialogue: 0,0:15:02.51,0:15:03.43,Default,NTP,0,0,0,,很可疑
+Dialogue: 0,0:15:04.02,0:15:05.68,Default,NTP,0,0,0,,刚才看到一个陌生男子
+Dialogue: 0,0:15:07.47,0:15:08.65,Default,NTP,0,0,0,,深更半夜的 你看清了吗
+Dialogue: 0,0:15:08.68,0:15:11.78,Default,NTP,0,0,0,,怎么说呢 给人一种毛骨悚然的感觉
+Dialogue: 0,0:15:12.30,0:15:17.56,Default,NTP,0,0,0,,像是人又不像是人 宛如玩偶一样
+Dialogue: 0,0:15:19.46,0:15:21.21,Default,NTP,0,0,0,,不像是人吗
+Dialogue: 0,0:15:33.49,0:15:35.82,Default,NTP,0,0,0,,希莉丝 我知道是什么了 是你
+Dialogue: 0,0:15:35.94,0:15:37.68,Default,NTP,0,0,0,,和你散发出同样的气息
+Dialogue: 0,0:15:39.21,0:15:40.65,Default,NTP,0,0,0,,原来是这样啊
+Dialogue: 0,0:15:41.05,0:15:44.24,Default,NTP,0,0,0,,大概那个埃琳娜和我的情况一样
+Dialogue: 0,0:15:51.15,0:15:54.37,Default,NTP,0,0,0,,楼下发生什么了 很热闹
+Dialogue: 0,0:15:59.74,0:16:02.93,Default,NTP,0,0,0,,多半是哪户人家招了贼
+Dialogue: 0,0:16:03.78,0:16:05.10,Default,NTP,0,0,0,,没意思
+Dialogue: 0,0:16:05.22,0:16:05.86,Default,NTP,0,0,0,,是啊
+Dialogue: 0,0:16:13.10,0:16:14.47,Default,NTP,0,0,0,,被盗了
+Dialogue: 0,0:16:14.98,0:16:17.70,Default,NTP,0,0,0,,该死的区区一个小姑娘
+Dialogue: 0,0:16:18.17,0:16:20.90,Default,NTP,0,0,0,,说好只抢食物不对人出手
+Dialogue: 0,0:16:21.23,0:16:23.42,Default,NTP,0,0,0,,不能再继续这样下去了 必须复仇
+Dialogue: 0,0:16:23.93,0:16:25.89,Default,NTP,0,0,0,,但是对于我们来说
+Dialogue: 0,0:16:26.01,0:16:27.87,Default,NTP,0,0,0,,村子里最重要的是粮食
+Dialogue: 0,0:16:36.23,0:16:40.07,Default,NTP,0,0,0,,街上和城里都很吵闹 发生了什么吗
+Dialogue: 0,0:16:40.34,0:16:41.01,Default,NTP,0,0,0,,是...
+Dialogue: 0,0:16:41.13,0:16:42.20,Default,NTP,0,0,0,,出人命了
+Dialogue: 0,0:16:42.32,0:16:43.31,Default,NTP,0,0,0,,蒂雅
+Dialogue: 0,0:16:43.57,0:16:45.92,Default,NTP,0,0,0,,听到的消息从一个小女孩那传出来的
+Dialogue: 0,0:16:46.16,0:16:47.33,Default,NTP,0,0,0,,小道消息
+Dialogue: 0,0:16:47.84,0:16:49.21,Default,NTP,0,0,0,,大家一下子混乱了
+Dialogue: 0,0:16:49.33,0:16:51.90,Default,NTP,0,0,0,,偷窃食物以外的粮食
+Dialogue: 0,0:16:52.02,0:16:53.83,Default,NTP,0,0,0,,哼 自作自受
+Dialogue: 0,0:16:53.95,0:16:56.55,Default,NTP,0,0,0,,那家伙到处沾花惹草
+Dialogue: 0,0:16:56.67,0:16:59.57,Default,NTP,0,0,0,,不过长老们可没这么想
+Dialogue: 0,0:17:00.13,0:17:02.39,Default,NTP,0,0,0,,把大家放一边不管
+Dialogue: 0,0:17:02.51,0:17:05.01,Default,NTP,0,0,0,,他们创建了小镇
+Dialogue: 0,0:17:05.25,0:17:08.50,Default,NTP,0,0,0,,坚称那里是自己的牧场
+Dialogue: 0,0:17:11.78,0:17:15.52,Default,NTP,0,0,0,,现在街上很混乱最好别乱跑
+Dialogue: 0,0:17:18.64,0:17:20.44,Default,NTP,0,0,0,,哼 没关系的
+Dialogue: 0,0:17:22.47,0:17:23.92,Default,NTP,0,0,0,,是吧 露蒂西娅
+Dialogue: 0,0:17:24.44,0:17:26.79,Default,NTP,0,0,0,,风头浪尖上 还是等一阵子吧
+Dialogue: 0,0:17:28.18,0:17:29.11,Default,NTP,0,0,0,,没问题的
+Dialogue: 0,0:17:29.35,0:17:32.88,Default,NTP,0,0,0,,根本不必为那种男人担心
+Dialogue: 0,0:17:33.87,0:17:34.59,Default,NTP,0,0,0,,但是
+Dialogue: 0,0:17:35.29,0:17:37.70,Default,NTP,0,0,0,,你打算就这样保持下去吗
+Dialogue: 0,0:17:37.82,0:17:40.92,Default,NTP,0,0,0,,对他保密也不吃饭
+Dialogue: 0,0:17:41.30,0:17:43.27,Default,NTP,0,0,0,,好吧 和他交往不知道是幸还是不幸
+Dialogue: 0,0:17:43.39,0:17:44.85,Default,NTP,0,0,0,,想到这就没食欲
+Dialogue: 0,0:17:47.39,0:17:49.12,Default,NTP,0,0,0,,不幸就在一旁看着
+Dialogue: 0,0:17:49.16,0:17:51.15,Default,NTP,0,0,0,,这么做就能幸福吗
+Dialogue: 0,0:17:53.28,0:17:54.49,Default,NTP,0,0,0,,现在的情况是
+Dialogue: 0,0:17:54.77,0:17:58.26,Default,NTP,0,0,0,,我们和人类不和谐得生活着
+Dialogue: 0,0:18:03.18,0:18:05.96,Default,NTP,0,0,0,,要像那个人类女孩一样
+Dialogue: 0,0:18:06.22,0:18:08.66,Default,NTP,0,0,0,,必须作出选择
+Dialogue: 0,0:18:13.55,0:18:14.04,Default,NTP,0,0,0,,修
+Dialogue: 0,0:18:16.18,0:18:17.41,Default,NTP,0,0,0,,还没找到吗?
+Dialogue: 0,0:18:17.41,0:18:19.47,Default,NTP,0,0,0,,去那边儿找找
+Dialogue: 0,0:18:51.19,0:18:52.14,Default,NTP,0,0,0,,来了吗
+Dialogue: 0,0:18:54.92,0:18:55.65,Default,NTP,0,0,0,,露
+Dialogue: 0,0:18:56.00,0:18:56.87,Default,NTP,0,0,0,,修
+Dialogue: 0,0:18:57.21,0:18:58.56,Default,NTP,0,0,0,,露 让你久等了
+Dialogue: 0,0:18:59.59,0:19:00.77,Default,NTP,0,0,0,,没事吧
+Dialogue: 0,0:19:01.54,0:19:04.79,Default,NTP,0,0,0,,街上的出入口戒备森严稍微费了点工夫
+Dialogue: 0,0:19:05.09,0:19:06.35,Default,NTP,0,0,0,,没什么关系
+Dialogue: 0,0:19:07.41,0:19:10.96,Default,NTP,0,0,0,,说得也是 没想到事件这么快发展到这种程度
+Dialogue: 0,0:19:11.79,0:19:15.14,Default,NTP,0,0,0,,确实这次很重视
+Dialogue: 0,0:19:16.50,0:19:19.82,Default,NTP,0,0,0,,有很多人把矛头指向你们一族
+Dialogue: 0,0:19:22.45,0:19:23.43,Default,NTP,0,0,0,,不用害怕
+Dialogue: 0,0:19:23.80,0:19:25.85,Default,NTP,0,0,0,,我绝对不会做那种事
+Dialogue: 0,0:19:26.45,0:19:27.30,Default,NTP,0,0,0,,修
+Dialogue: 0,0:19:40.51,0:19:42.88,Default,NTP,0,0,0,,埃琳娜 她哭了
+Dialogue: 0,0:19:43.69,0:19:44.88,Default,NTP,0,0,0,,她哭了
+Dialogue: 0,0:19:45.33,0:19:47.24,Default,NTP,0,0,0,,什么都不说安安静静的
+Dialogue: 0,0:19:48.30,0:19:51.89,Default,NTP,0,0,0,,一定那男的很爱埃琳娜
+Dialogue: 0,0:19:53.86,0:19:57.82,Default,NTP,0,0,0,,不过我们能和人类的关系建立到那一步吗
+Dialogue: 0,0:20:06.47,0:20:08.13,Default,NTP,0,0,0,,露不是有我在吗
+Dialogue: 0,0:20:08.69,0:20:10.82,Default,NTP,0,0,0,,建立那种的关系也不是什么难事呀
+Dialogue: 0,0:20:11.81,0:20:12.62,Default,NTP,0,0,0,,不是吗
+Dialogue: 0,0:20:15.07,0:20:17.39,Default,NTP,0,0,0,,好暖 修的手好温暖
+Dialogue: 0,0:20:17.69,0:20:20.07,Default,NTP,0,0,0,,我和这双手...
+Dialogue: 0,0:20:26.47,0:20:29.02,Default,NTP,0,0,0,,露我带给你带了礼物
+Dialogue: 0,0:20:33.00,0:20:34.89,Default,NTP,0,0,0,,这是我头一回做的
+Dialogue: 0,0:20:35.35,0:20:38.67,Default,NTP,0,0,0,,推倒重来好多次终于做好了
+Dialogue: 0,0:20:39.97,0:20:42.11,Default,NTP,0,0,0,,想请你收下
+Dialogue: 0,0:20:43.87,0:20:47.79,Default,NTP,0,0,0,,啊不是现在就需要你的答复
+Dialogue: 0,0:20:50.14,0:20:51.32,Default,NTP,0,0,0,,你可以好好考虑
+Dialogue: 0,0:20:51.67,0:20:54.28,Default,NTP,0,0,0,,如果你愿意和我在一起
+Dialogue: 0,0:20:54.61,0:20:56.39,Default,NTP,0,0,0,,那就带上戒指吧
+Dialogue: 0,0:21:00.00,0:21:02.36,Default,NTP,0,0,0,,我会一直等你
+Dialogue: 0,0:21:05.23,0:21:07.92,Default,NTP,0,0,0,,抱歉我不是真得打算让你那样
+Dialogue: 0,0:21:14.38,0:21:15.71,Default,NTP,0,0,0,,必须作出选择
+Dialogue: 0,0:21:53.57,0:21:54.40,Default,NTP,0,0,0,,可以吗?
+Dialogue: 0,0:21:58.26,0:21:59.11,Default,NTP,0,0,0,,露蒂西娅
+Dialogue: 0,0:21:59.39,0:22:00.04,Default,NTP,0,0,0,,修
+Dialogue: 0,0:22:49.65,0:22:51.34,Default,NTP,0,0,0,,露 你那里好湿
+Dialogue: 0,0:22:51.76,0:22:53.97,Default,NTP,0,0,0,,别说出来 人家好难为情
+Dialogue: 0,0:22:54.09,0:22:55.05,Default,NTP,0,0,0,,可以让我看你那里吗
+Dialogue: 0,0:22:56.79,0:22:58.04,Default,NTP,0,0,0,,怎么会...
+Dialogue: 0,0:22:58.40,0:23:01.38,Default,NTP,0,0,0,,我想看了解露的一切 可以吗?
+Dialogue: 0,0:23:15.71,0:23:18.26,Default,NTP,0,0,0,,露把腿分开一些
+Dialogue: 0,0:23:26.84,0:23:29.76,Default,NTP,0,0,0,,露你那里好美像宝石一样
+Dialogue: 0,0:23:30.86,0:23:32.26,Default,NTP,0,0,0,,修 你那样做...
+Dialogue: 0,0:23:50.55,0:23:53.07,Default,NTP,0,0,0,,修 我已经...
+Dialogue: 0,0:23:55.06,0:23:56.24,Default,NTP,0,0,0,,拜托你
+Dialogue: 0,0:23:57.52,0:23:58.20,Default,NTP,0,0,0,,露
+Dialogue: 0,0:24:01.37,0:24:01.77,Default,NTP,0,0,0,,露
+Dialogue: 0,0:24:04.58,0:24:05.88,Default,NTP,0,0,0,,没问题的进来吧
+Dialogue: 0,0:24:06.00,0:24:08.29,Default,NTP,0,0,0,,我的身体想充分感受你的爱
+Dialogue: 0,0:24:25.91,0:24:28.08,Default,NTP,0,0,0,,我们融合为一体了
+Dialogue: 0,0:24:28.58,0:24:30.98,Default,NTP,0,0,0,,我感觉很幸福 修
+Dialogue: 0,0:25:02.64,0:25:07.64,Default,NTP,0,0,0,,修 我已经快不行了
+Dialogue: 0,0:25:33.64,0:25:35.90,Default,NTP,0,0,0,,高潮了
+Dialogue: 0,0:25:58.33,0:25:59.77,Default,NTP,0,0,0,,有人叛离我们了
+Dialogue: 0,0:26:00.21,0:26:01.29,Default,NTP,0,0,0,,诶是谁
+Dialogue: 0,0:26:01.57,0:26:02.31,Default,NTP,0,0,0,,是希莉丝
+Dialogue: 0,0:26:03.00,0:26:05.01,Default,NTP,0,0,0,,和村子里的一个男人私奔了
+Dialogue: 0,0:26:05.35,0:26:06.35,Default,NTP,0,0,0,,真是的 
+Dialogue: 0,0:26:06.35,0:26:08.48,Default,NTP,0,0,0,,偏偏在这个非常时期
+Dialogue: 0,0:26:09.04,0:26:09.91,Default,NTP,0,0,0,,希莉丝
+Dialogue: 0,0:26:12.73,0:26:14.50,Default,NTP,0,0,0,,必须作出选择

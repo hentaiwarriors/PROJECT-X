@@ -1,0 +1,75 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Bible Black Only 01
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.28,Default,,0,0,0,,{\c&H8DE98D&}http://cafe.naver.com/yakwang{\c&H00C3FF&} -야광-\N {\b1\c&H33CC00&}AMD {\c&HFF6600&}K6-2{\c&H00CCFF&} 400Mhz {\c&H0033FF&}[ジオン殘黨 지온잔당]{\b0}\N{\c&H0088FF&}제작일 : 2006년1월21일 \N{\c&HFF7200&}야광에서만 161번째 자막
+Dialogue: 0,0:00:06.28,0:00:11.89,Default,,0,0,0,,바이블 블랙 {\c&Hred&}온리 버전 VOL.1\N{\c&HFF7200&}http://blog.naver.com/k72155\N 지온잔당 자막 생산공장
+Dialogue: 0,0:00:43.43,0:00:48.31,Default,,0,0,0,,바이블 블랙
+Dialogue: 0,0:00:48.31,0:00:53.24,Default,,0,0,0,,바이블 블랙 {\c&Hred&}온리 버전\N직원 화장실에서...
+Dialogue: 0,0:01:34.32,0:01:37.67,Default,,0,0,0,,나는.. 악마에게 안겼던 여자
+Dialogue: 0,0:02:03.89,0:02:07.84,Default,,0,0,0,,악마에게... 순결을 빼았겨버린 여자
+Dialogue: 0,0:03:08.72,0:03:13.70,Default,,0,0,0,,아~ 한번더 한번더\N엉망 진창으로 당하고싶어
+Dialogue: 0,0:03:15.18,0:03:16.89,Default,,0,0,0,,악마에게~
+Dialogue: 0,0:03:26.95,0:03:29.20,Default,,0,0,0,,교.. 교감선생님!
+Dialogue: 0,0:03:40.51,0:03:41.93,Default,,0,0,0,,그만두세요!
+Dialogue: 0,0:03:41.93,0:03:43.18,Default,,0,0,0,,교감선생님!
+Dialogue: 0,0:04:52.72,0:04:53.89,Default,,0,0,0,,여기다
+Dialogue: 0,0:04:55.20,0:04:56.61,Default,,0,0,0,,선생님...
+Dialogue: 0,0:05:10.55,0:05:12.78,Default,,0,0,0,,좋아~ 교감선생님
+Dialogue: 0,0:06:46.32,0:06:49.31,Default,,0,0,0,,선생님.. 굉장해요..
+Dialogue: 0,0:06:58.11,0:07:01.50,Default,,0,0,0,,가라앉지않아...\N흥분이 내려가지않아
+Dialogue: 0,0:07:02.92,0:07:08.49,Default,,0,0,0,,교감선생님 한번더\N이번엔 밑에쪽 입에 부탁해요
+Dialogue: 0,0:07:25.82,0:07:26.76,Default,,0,0,0,,아파~
+Dialogue: 0,0:07:33.05,0:07:34.63,Default,,0,0,0,,교감선생님?
+Dialogue: 0,0:07:35.06,0:07:37.70,Default,,0,0,0,,원하는 데로 해주지
+Dialogue: 0,0:07:38.68,0:07:40.26,Default,,0,0,0,,그 목소리는!
+Dialogue: 0,0:08:51.78,0:08:54.44,Default,,0,0,0,,이제..이제 용서해줘~
+Dialogue: 0,0:09:01.74,0:09:04.42,Default,,0,0,0,,그만두지마 부탁이야~
+Dialogue: 0,0:09:16.21,0:09:18.33,Default,,0,0,0,,강하..강하~
+Dialogue: 0,0:09:19.60,0:09:22.39,Default,,0,0,0,,그래 이 느낌이야!
+Dialogue: 0,0:09:41.77,0:09:46.64,Default,,0,0,0,,그래 이게..이런걸 원했어!
+Dialogue: 0,0:10:11.02,0:10:14.56,Default,,0,0,0,,나는 악마의 노예
+Dialogue: 0,0:10:16.35,0:10:20.38,Default,,0,0,0,,끝
+Dialogue: 0,0:10:20.38,0:10:51.48,Default,,0,0,0,,{\c&HFF7200&}http://blog.naver.com/k72155\N 지온잔당 자막 생산공장
+Dialogue: 0,0:11:23.81,0:11:28.77,Default,,0,0,0,,바이블 블랙
+Dialogue: 0,0:11:28.77,0:11:33.69,Default,,0,0,0,,바이블 블랙 {\c&Hred&}온리 버전\N비밀의 특훈
+Dialogue: 0,0:11:43.86,0:11:45.02,Default,,0,0,0,,늦어!
+Dialogue: 0,0:12:21.01,0:12:22.65,Default,,0,0,0,,섯어..
+Dialogue: 0,0:12:49.81,0:12:52.41,Default,,0,0,0,,안돼! 사람이 와버려!
+Dialogue: 0,0:14:52.50,0:14:53.98,Default,,0,0,0,,맛있어
+Dialogue: 0,0:15:05.76,0:15:08.21,Default,,0,0,0,,미키모토\N- 예 부장님
+Dialogue: 0,0:15:39.99,0:15:43.25,Default,,0,0,0,,뭐야~ 젖꼭지가 섯잖아
+Dialogue: 0,0:15:43.25,0:15:46.68,Default,,0,0,0,,그쪽은?\N- 이쪽도 반응하고 있어요
+Dialogue: 0,0:15:46.68,0:15:49.19,Default,,0,0,0,,그럼 슬슬 벚겨줄까
+Dialogue: 0,0:16:07.93,0:16:11.14,Default,,0,0,0,,재미있을것 같네\N가보자~
+Dialogue: 0,0:16:12.06,0:16:16.82,Default,,0,0,0,,저기~저기~\N이런건 남자가 있는게 즐거워♥
+Dialogue: 0,0:16:22.20,0:16:24.03,Default,,0,0,0,,아름다운 그곳~
+Dialogue: 0,0:16:25.86,0:16:30.15,Default,,0,0,0,,좀더 쓰지않으면 아까워\N그치~?
+Dialogue: 0,0:16:37.52,0:16:38.65,Default,,0,0,0,,싫어~!
+Dialogue: 0,0:16:39.50,0:16:40.28,Default,,0,0,0,,그만둬~
+Dialogue: 0,0:17:02.19,0:17:05.26,Default,,0,0,0,,그..그만둬~ 부탁이야!
+Dialogue: 0,0:17:29.92,0:17:30.95,Default,,0,0,0,,굉장해~
+Dialogue: 0,0:17:40.65,0:17:41.98,Default,,0,0,0,,부장님~
+Dialogue: 0,0:17:59.03,0:18:01.69,Default,,0,0,0,,부탁이야~ 빨아줘~
+Dialogue: 0,0:18:05.91,0:18:06.98,Default,,0,0,0,,좋아~
+Dialogue: 0,0:18:15.43,0:18:19.43,Default,,0,0,0,,저기~\N이쪽도 완전히 준비다됐어
+Dialogue: 0,0:18:21.44,0:18:22.82,Default,,0,0,0,,싫어~ 기다려~
+Dialogue: 0,0:18:28.13,0:18:31.90,Default,,0,0,0,,내가.. 내가먼저야
+Dialogue: 0,0:18:32.75,0:18:34.92,Default,,0,0,0,,안돼 나도~
+Dialogue: 0,0:19:38.64,0:19:41.77,Default,,0,0,0,,또.. 하자~
+Dialogue: 0,0:19:41.77,0:19:46.55,Default,,0,0,0,,끝
+Dialogue: 0,0:19:46.55,0:20:17.40,Default,,0,0,0,,{\c&HFF7200&}http://blog.naver.com/k72155\N 지온잔당 자막 생산공장
+Dialogue: 0,0:20:48.62,0:20:53.69,Default,,0,0,0,,바이블 블랙
+Dialogue: 0,0:20:53.69,0:20:58.49,Default,,0,0,0,,바이블 블랙 {\c&Hred&}온리 버전\N실록 강의실
+Dialogue: 0,0:22:31.79,0:22:34.11,Default,,0,0,0,,소리 지르지마~
+Dialogue: 0,0:24:02.48,0:24:06.71,Default,,0,0,0,,끝 (-_-;)
+Dialogue: 0,0:24:06.71,0:24:30.58,Default,,0,0,0,,{\c&H8DE98D&}http://cafe.naver.com/yakwang{\c&H00C3FF&} -야광-\N {\b1\c&H33CC00&}AMD {\c&HFF6600&}K6-2{\c&H00CCFF&} 400Mhz {\c&H0033FF&}[ジオン殘黨 지온잔당]{\b0}\N{\c&H0088FF&}제작일 : 2006년1월21일 \N{\c&HFF7200&}야광에서만 161번째 자막

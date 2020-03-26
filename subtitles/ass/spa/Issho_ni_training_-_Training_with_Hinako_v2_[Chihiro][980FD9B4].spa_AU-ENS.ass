@@ -1,0 +1,628 @@
+﻿[Script Info]
+; ---
+; Editado usando PerrySub 0.8.14.0
+; Do it Perry style!! ~( º3º)~ ~(ºxº )~
+; ---
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 32620
+Last Style Storage: Default
+PerrySubVersion: PerrySub 0.8.14.0
+Video File: G:\AU\hinako\hinako.mkv
+Audio File: ?video
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hinako,OffensiveBold,35,&H00FFFFFF,&H000000FF,&H00001F5E,&H00BBA6FF,1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.10,0:00:03.81,Hinako,,0000,0000,0000,,{\be1}¡Chicos, vamos a hacerlo!
+Dialogue: 0,0:00:42.87,0:00:45.46,Hinako,,0000,0000,0000,,{\be1}¡Ah! ¡Cuánto tiempo!
+Dialogue: 0,0:00:45.46,0:00:47.54,Hinako,,0000,0000,0000,,{\be1}¡Tíos! ¡Tíos de verdad!
+Dialogue: 0,0:00:47.54,0:00:50.04,Hinako,,0000,0000,0000,,{\be1}¿Eh? ¿Estoy muy cerca?
+Dialogue: 0,0:00:51.68,0:00:53.01,Hinako,,0000,0000,0000,,{\be1}Qué rancio...
+Dialogue: 0,0:00:53.38,0:00:55.33,Hinako,,0000,0000,0000,,{\be1}Con lo cachonda que estaba...
+Dialogue: 0,0:00:55.87,0:00:58.24,Hinako,,0000,0000,0000,,{\be1}Soy Hinako. Encantada.
+Dialogue: 0,0:00:58.74,0:01:01.03,Hinako,,0000,0000,0000,,{\be1}Ehm... esa cara...
+Dialogue: 0,0:01:01.03,0:01:03.64,Hinako,,0000,0000,0000,,{\be1}¿No tienes ni idea de qué va esto?
+Dialogue: 0,0:01:04.00,0:01:06.29,Hinako,,0000,0000,0000,,{\be1}Ehm... ¿cómo te lo explico?
+Dialogue: 0,0:01:07.91,0:01:10.76,Hinako,,0000,0000,0000,,{\be1}Desde tu punto de vista, soy un dibujo, ¿no?
+Dialogue: 0,0:01:10.76,0:01:15.48,Hinako,,0000,0000,0000,,{\be1}No sé cómo pero supongo que es en lo que me he transformado, ¿no?
+Dialogue: 0,0:01:15.48,0:01:18.57,Hinako,,0000,0000,0000,,{\be1}Hace un tiempo estaba viendo un anime muy divertido y...
+Dialogue: 0,0:01:18.57,0:01:20.47,Hinako,,0000,0000,0000,,{\be1}Sin pensármelo dos veces grité "¡Quiero ir ahí!"
+Dialogue: 0,0:01:20.47,0:01:22.48,Hinako,,0000,0000,0000,,{\be1}Y así acabé.
+Dialogue: 0,0:01:22.48,0:01:25.78,Hinako,,0000,0000,0000,,{\be1}Por eso ahora soy un dibujo.
+Dialogue: 0,0:01:26.21,0:01:29.59,Hinako,,0000,0000,0000,,{\be1}Incluso yo me hago preguntas cuando me veo animada.
+Dialogue: 0,0:01:31.08,0:01:32.63,Hinako,,0000,0000,0000,,{\be1}Joder... tienes horchata en las venas. {Original: Eh... que poca reacción.}
+Dialogue: 0,0:01:32.63,0:01:34.45,Hinako,,0000,0000,0000,,{\be1}¿No debería sorprenderte más?
+Dialogue: 0,0:01:35.04,0:01:37.29,Hinako,,0000,0000,0000,,{\be1}¡Vamos a hacerlo!
+Dialogue: 0,0:01:37.29,0:01:39.17,Hinako,,0000,0000,0000,,{\be1}¡Entre dibujos y humanos!
+Dialogue: 0,0:01:39.17,0:01:40.81,Hinako,,0000,0000,0000,,{\be1}¿Cómo lo hacemos?
+Dialogue: 0,0:01:41.53,0:01:42.84,Hinako,,0000,0000,0000,,{\be1}¡Hagamos piedra, papel, tijeras!
+Dialogue: 0,0:01:43.22,0:01:45.64,Hinako,,0000,0000,0000,,{\be1}¡Piedra, papel, tijeras!
+Dialogue: 0,0:01:45.64,0:01:50.22,Hinako,,0000,0000,0000,,{\be1}¿Eh? ¿No quieres? Pues nada...
+Dialogue: 0,0:01:51.74,0:01:54.83,Hinako,,0000,0000,0000,,{\be1}¡Ya sé! ¡Hagamos ejercicio!
+Dialogue: 0,0:01:54.83,0:01:57.16,Hinako,,0000,0000,0000,,{\be1}Ehm... os preguntaréis por qué.
+Dialogue: 0,0:01:57.16,0:01:58.81,Hinako,,0000,0000,0000,,{\be1}Que no salga de aquí...
+Dialogue: 0,0:01:59.95,0:02:01.04,Hinako,,0000,0000,0000,,{\be1}He engordado.
+Dialogue: 0,0:02:02.70,0:02:04.03,Hinako,,0000,0000,0000,,{\be1}¡No hace falta que miréis! {cartel luego}
+Dialogue: 0,0:02:04.03,0:02:08.03,Hinako,,0000,0000,0000,,{\be1}La verdad es que me llegó esto ayer.
+Dialogue: 0,0:02:08.03,0:02:10.08,Hinako,,0000,0000,0000,,{\be1}Por tanto...
+Dialogue: 0,0:02:10.88,0:02:12.18,Hinako,,0000,0000,0000,,{\be1}¡hazlo conmigo!
+Dialogue: 0,0:02:12.18,0:02:13.04,Hinako,,0000,0000,0000,,{\be1}Ejercicio.
+Dialogue: 0,0:02:13.04,0:02:14.67,Hinako,,0000,0000,0000,,{\be1}Ejercicio.
+Dialogue: 0,0:02:14.67,0:02:18.95,Hinako,,0000,0000,0000,,{\be1}Serán flexiones, sentadillas y abdominales, no es para tanto.
+Dialogue: 0,0:02:19.59,0:02:23.37,Hinako,,0000,0000,0000,,{\be1}Pero en estos casos lo importante es la constancia.
+Dialogue: 0,0:02:23.37,0:02:29.51,Hinako,,0000,0000,0000,,{\be1}¿Eh? Ahora que te miro... ¿No estás un poco mollejo?
+Dialogue: 0,0:02:30.22,0:02:31.47,Hinako,,0000,0000,0000,,{\be1}¡Pues ya está!
+Dialogue: 0,0:02:31.47,0:02:33.06,Hinako,,0000,0000,0000,,{\be1}¡Preparémonos!
+Dialogue: 0,0:02:33.43,0:02:34.59,Hinako,,0000,0000,0000,,{\be1}¡Y empecemos a hacer ejercicio!
+Dialogue: 0,0:02:34.59,0:02:35.48,Hinako,,0000,0000,0000,,{\be1}¡Empecemos!
+Dialogue: 0,0:02:37.94,0:02:42.82,Hinako,,0000,0000,0000,,{\be1}Como ya te había dicho, empezaremos con flexiones, sentadillas y abdominales.
+Dialogue: 0,0:02:43.22,0:02:46.01,Hinako,,0000,0000,0000,,{\be1}Hagamos series de 12, ¿vale?
+Dialogue: 0,0:02:46.01,0:02:47.78,Hinako,,0000,0000,0000,,{\be1}¡Primero, flexiones!
+Dialogue: 0,0:02:47.78,0:02:49.68,Hinako,,0000,0000,0000,,{\be1}¡No levantéis mucho el culo ni lo dejéis caer!
+Dialogue: 0,0:02:50.45,0:02:52.41,Hinako,,0000,0000,0000,,{\be1}¡Vamos a probar!
+Dialogue: 0,0:02:52.41,0:02:54.53,Hinako,,0000,0000,0000,,{\be1}Como cuando como penes.
+Dialogue: 0,0:02:54.53,0:02:55.45,Hinako,,0000,0000,0000,,{\be1}Una...
+Dialogue: 0,0:02:55.92,0:02:57.91,Hinako,,0000,0000,0000,,{\be1}¿Entendido?
+Dialogue: 0,0:02:58.85,0:03:00.86,Hinako,,0000,0000,0000,,{\be1}Lo estáis haciendo conmigo, ¿no?
+Dialogue: 0,0:03:00.86,0:03:02.59,Hinako,,0000,0000,0000,,{\be1}Se ve bien el canalillo, ¿no?
+Dialogue: 0,0:03:03.04,0:03:06.01,Hinako,,0000,0000,0000,,{\be1}¡Venga, flexiones!
+Dialogue: 0,0:03:07.97,0:03:09.01,Hinako,,0000,0000,0000,,{\be1}Una.
+Dialogue: 0,0:03:09.66,0:03:10.39,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:03:11.23,0:03:11.77,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:03:12.58,0:03:13.30,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:03:13.93,0:03:14.84,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:03:15.52,0:03:16.53,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:03:16.90,0:03:17.77,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:03:18.48,0:03:19.27,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:03:20.42,0:03:21.09,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:03:21.77,0:03:22.30,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:03:22.86,0:03:23.98,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:03:24.69,0:03:25.47,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:03:25.82,0:03:27.90,Hinako,,0000,0000,0000,,{\be1}¡Listo!
+Dialogue: 0,0:03:27.90,0:03:30.37,Hinako,,0000,0000,0000,,{\be1}Como hace tiempo que no hago, cansa, ¿eh?
+Dialogue: 0,0:03:30.72,0:03:32.74,Hinako,,0000,0000,0000,,{\be1}Pero esto es sólo el comienzo.
+Dialogue: 0,0:03:33.19,0:03:34.51,Hinako,,0000,0000,0000,,{\be1}Ahora abdominales.
+Dialogue: 0,0:03:34.51,0:03:37.71,Hinako,,0000,0000,0000,,{\be1}Se hacen doblando las rodillas, espatarrada y con las manos tras la cabeza.
+Dialogue: 0,0:03:37.71,0:03:39.25,Hinako,,0000,0000,0000,,{\be1}¡Útil para felaciones!
+Dialogue: 0,0:03:41.31,0:03:42.56,Hinako,,0000,0000,0000,,{\be1}¿Lo veis?
+Dialogue: 0,0:03:42.56,0:03:46.68,Hinako,,0000,0000,0000,,{\be1}No hagáis fuerza con el cuello, y no paréis de respirar. {claro, no se nos vaya a morir alguien asfixiado xD}
+Dialogue: 0,0:03:46.68,0:03:49.55,Hinako,,0000,0000,0000,,{\be1}Abdominales, vamos allá.
+Dialogue: 0,0:03:51.06,0:03:51.71,Hinako,,0000,0000,0000,,{\be1}Una.
+Dialogue: 0,0:03:52.44,0:03:53.22,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:03:53.92,0:03:54.60,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:03:55.57,0:03:56.18,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:03:57.23,0:03:57.81,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:03:58.59,0:03:59.53,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:04:00.27,0:04:00.72,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:04:01.53,0:04:02.42,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:04:03.15,0:04:03.69,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:04:04.72,0:04:05.19,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:04:06.19,0:04:07.05,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:04:07.70,0:04:08.78,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:04:08.78,0:04:11.09,Hinako,,0000,0000,0000,,{\be1}¡Ah, se acabó!
+Dialogue: 0,0:04:11.09,0:04:13.83,Hinako,,0000,0000,0000,,{\be1}¿Cómo va? ¿Aguantáis el ritmo?
+Dialogue: 0,0:04:13.83,0:04:16.07,Hinako,,0000,0000,0000,,{\be1}¡Ya casi hemos llegado, ánimo!
+Dialogue: 0,0:04:16.07,0:04:18.81,Hinako,,0000,0000,0000,,{\be1}Ahora, sentadillas.
+Dialogue: 0,0:04:18.81,0:04:19.59,Hinako,,0000,0000,0000,,{\be1}¡Así!
+Dialogue: 0,0:04:19.95,0:04:21.38,Hinako,,0000,0000,0000,,{\be1}Como el acoplamiento espacial.
+Dialogue: 0,0:04:21.38,0:04:23.88,Hinako,,0000,0000,0000,,{\be1}¡Adelante!
+Dialogue: 0,0:04:26.05,0:04:26.88,Hinako,,0000,0000,0000,,{\be1}Uno.
+Dialogue: 0,0:04:26.88,0:04:27.55,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:04:28.78,0:04:29.38,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:04:30.09,0:04:30.89,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:04:31.75,0:04:32.30,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:04:32.72,0:04:33.56,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:04:34.56,0:04:35.06,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:04:36.06,0:04:37.18,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:04:37.62,0:04:38.22,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:04:39.08,0:04:39.80,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:04:40.61,0:04:41.69,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:04:42.44,0:04:43.15,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:04:43.54,0:04:47.10,Hinako,,0000,0000,0000,,{\be1}¡Hemos acabado!
+Dialogue: 0,0:04:47.10,0:04:50.41,Hinako,,0000,0000,0000,,{\be1}Tengo el cuerpo ardiendo.
+Dialogue: 0,0:04:53.49,0:04:57.07,Hinako,,0000,0000,0000,,{\be1}No hemos estado mucho, ¿pero a que parece que hayamos hecho un montón?
+Dialogue: 0,0:04:57.07,0:04:59.71,Hinako,,0000,0000,0000,,{\be1}¡Puede ser duro, pero si sigues, obtendrás resultados!
+Dialogue: 0,0:05:00.57,0:05:03.66,Hinako,,0000,0000,0000,,{\be1}La verdad es que ya llevaba tiempo sin hacer ejercicio.
+Dialogue: 0,0:05:04.01,0:05:05.46,Hinako,,0000,0000,0000,,{\be1}Ah, qué recuerdos...
+Dialogue: 0,0:05:05.46,0:05:06.40,Hinako,,0000,0000,0000,,{\be1}Cuando hacía la calle...
+Dialogue: 0,0:05:06.40,0:05:10.81,Hinako,,0000,0000,0000,,{\be1}Ah, ya es hora. ¡Tengo que prepararme!
+Dialogue: 0,0:05:10.81,0:05:12.48,Hinako,,0000,0000,0000,,{\be1}Ya me toca salir en la serie.
+Dialogue: 0,0:05:12.48,0:05:15.01,Hinako,,0000,0000,0000,,{\be1}Puede parecer que estoy tranquila pero me estoy esforzando a tope, ¿sabes?
+Dialogue: 0,0:05:15.01,0:05:18.73,Hinako,,0000,0000,0000,,{\be1}¡Así que seguid entrenando para endurecer vuestros miembros!
+Dialogue: 0,0:05:19.64,0:05:22.40,Hinako,,0000,0000,0000,,{\be1}Volved mañana, ¿vale?
+Dialogue: 0,0:05:23.96,0:05:26.30,Hinako,,0000,0000,0000,,{\be1}¡Toma ya! ¡Seguro, eh!
+Dialogue: 0,0:05:26.30,0:05:28.50,Hinako,,0000,0000,0000,,{\be1}¡Tenéis que volver mañana sin falta!, ¿eh?
+Dialogue: 0,0:05:28.50,0:05:30.72,Hinako,,0000,0000,0000,,{\be1}Promesa de pulgares~
+Dialogue: 0,0:05:30.72,0:05:32.28,Hinako,,0000,0000,0000,,{\be1}¡Prometido!
+Dialogue: 0,0:05:32.64,0:05:35.87,Hinako,,0000,0000,0000,,{\be1}¡Muchas gracias por lo de hoy, hasta mañana!
+Dialogue: 0,0:06:26.84,0:06:29.90,Hinako,CARTEL,0000,0000,0000,,{\fad(400,400)\4c&H28335A&\3c&HF6F1F9&\bord4\shad2\pos(300,364)}{\be1}Protagoniza      {\fs50}Hinako
+Dialogue: 0,0:06:26.84,0:06:29.90,Hinako,CARTEL,0000,0000,0000,,{\fad(400,400)\4c&H250D58&\1c&H8E3EFF&\bord0\shad1\pos(300,364)}{\be1}Protagoniza      {\fs50}Hinako
+Dialogue: 0,0:06:32.52,0:06:34.31,Hinako,,0000,0000,0000,,{\be1}¡Entrenando juntos!
+Dialogue: 0,0:06:41.08,0:06:43.40,Hinako,,0000,0000,0000,,{\be1}¡Ah! ¡Espera un momento!
+Dialogue: 0,0:06:45.90,0:06:49.81,Hinako,,0000,0000,0000,,{\be1}¡Jo, menudo susto! ¡Me has pillado por sorpresa!
+Dialogue: 0,0:06:49.81,0:06:54.82,Hinako,,0000,0000,0000,,{\be1}Pero has vuelto de verdad. Me alegra que hayas cumplido la promesa.
+Dialogue: 0,0:06:55.20,0:06:57.32,Hinako,,0000,0000,0000,,{\be1}¡Venga, hoy también toca currar!
+Dialogue: 0,0:06:57.32,0:07:00.66,Hinako,,0000,0000,0000,,{\be1}¡Empecemos con las flexiones! ¡Vamos!
+Dialogue: 0,0:07:02.58,0:07:03.61,Hinako,,0000,0000,0000,,{\be1}Una.
+Dialogue: 0,0:07:04.16,0:07:05.03,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:07:05.67,0:07:06.46,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:07:07.43,0:07:07.92,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:07:09.09,0:07:09.42,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:07:10.56,0:07:11.55,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:07:12.06,0:07:12.86,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:07:13.40,0:07:14.51,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:07:14.85,0:07:15.47,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:07:16.31,0:07:17.04,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:07:17.84,0:07:18.35,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:07:19.38,0:07:20.64,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:07:20.64,0:07:22.76,Hinako,,0000,0000,0000,,{\be1}¡Ahora abdominales!
+Dialogue: 0,0:07:24.91,0:07:25.61,Hinako,,0000,0000,0000,,{\be1}Uno.
+Dialogue: 0,0:07:26.32,0:07:26.81,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:07:27.83,0:07:28.31,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:07:29.31,0:07:29.81,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:07:30.83,0:07:30.94,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:07:32.30,0:07:32.36,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:07:33.58,0:07:34.24,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:07:35.28,0:07:35.97,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:07:36.45,0:07:36.78,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:07:38.01,0:07:38.28,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:07:39.20,0:07:40.15,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:07:40.75,0:07:41.57,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:07:42.16,0:07:44.41,Hinako,,0000,0000,0000,,{\be1}¡Y para acabar, sentadillas!
+Dialogue: 0,0:07:46.37,0:07:47.65,Hinako,,0000,0000,0000,,{\be1}Uno.
+Dialogue: 0,0:07:48.21,0:07:48.71,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:07:49.33,0:07:50.36,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:07:51.15,0:07:51.87,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:07:52.73,0:07:53.09,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:07:53.92,0:07:54.59,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:07:55.30,0:07:56.40,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:07:57.16,0:07:58.15,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:07:58.77,0:07:59.45,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:08:00.16,0:08:00.86,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:08:01.60,0:08:02.60,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:08:03.10,0:08:04.27,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:08:04.79,0:08:06.98,Hinako,,0000,0000,0000,,{\be1}Se acabó por hoy.
+Dialogue: 0,0:08:06.98,0:08:10.52,Hinako,,0000,0000,0000,,{\be1}¿Eh? ¿Aún tienes ganas de más? ¡Qué hombretón!
+Dialogue: 0,0:08:10.52,0:08:12.77,Hinako,,0000,0000,0000,,{\be1}Pero no hace falta pasarse, ¿eh?
+Dialogue: 0,0:08:15.64,0:08:17.84,Hinako,,0000,0000,0000,,{\be1}Gracias por hacerlo conmigo.
+Dialogue: 0,0:08:17.84,0:08:19.75,Hinako,,0000,0000,0000,,{\be1}Eres muy amable~
+Dialogue: 0,0:08:20.11,0:08:23.11,Hinako,,0000,0000,0000,,{\be1}Sólo estamos haciendo ejercicio, pero...
+Dialogue: 0,0:08:23.82,0:08:29.27,Hinako,,0000,0000,0000,,{\be1}Me divierte hacerlo contigo a diario.
+Dialogue: 0,0:08:30.50,0:08:33.58,Hinako,,0000,0000,0000,,{\be1}¡Tranqui eh! ¡No va con segundas ni nada!
+Dialogue: 0,0:08:33.58,0:08:37.13,Hinako,,0000,0000,0000,,{\be1}Ah, ya me toca salir. Voy a prepararme.
+Dialogue: 0,0:08:37.13,0:08:37.65,Hinako,,0000,0000,0000,,{\be1}¡Adiosín!
+Dialogue: 0,0:08:40.33,0:08:40.92,Hinako,,0000,0000,0000,,{\be1}Muac.
+Dialogue: 0,0:08:41.97,0:08:42.86,Hinako,,0000,0000,0000,,{\be1}¡Adiós!
+Dialogue: 0,0:09:34.40,0:09:37.55,Hinako,CARTEL,0000,0000,0000,,{\fad(400,400)\4c&H28335A&\3c&HF6F1F9&\bord4\shad2\pos(300,364)}{\be1}Protagoniza      {\fs50}Hinako
+Dialogue: 0,0:09:34.40,0:09:37.55,Hinako,CARTEL,0000,0000,0000,,{\fad(400,400)\4c&H250D58&\1c&H8E3EFF&\bord0\shad1\pos(300,364)}{\be1}Protagoniza      {\fs50}Hinako
+Dialogue: 0,0:09:40.00,0:09:41.82,Hinako,,0000,0000,0000,,{\be1}¡Entrenando juntos!
+Dialogue: 0,0:09:47.32,0:09:49.66,Hinako,,0000,0000,0000,,{\be1}Ah, tengo hambre.
+Dialogue: 0,0:09:49.66,0:09:51.33,Hinako,,0000,0000,0000,,{\be1}¡Pero no es momento de comer!
+Dialogue: 0,0:09:51.33,0:09:53.03,Hinako,,0000,0000,0000,,{\be1}La noche es peligrosa, ¿sabes?
+Dialogue: 0,0:09:53.03,0:09:56.00,Hinako,,0000,0000,0000,,{\be1}Controlaré mis ansias.
+Dialogue: 0,0:09:59.76,0:10:00.62,Hinako,,0000,0000,0000,,{\be1}Uno.
+Dialogue: 0,0:10:01.26,0:10:01.95,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:10:02.74,0:10:03.38,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:10:04.18,0:10:04.93,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:10:05.77,0:10:06.43,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:10:07.25,0:10:08.15,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:10:08.74,0:10:09.58,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:10:10.30,0:10:11.13,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:10:12.27,0:10:12.68,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:10:13.42,0:10:14.09,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:10:14.80,0:10:15.66,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:10:16.29,0:10:17.19,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:10:21.81,0:10:22.62,Hinako,,0000,0000,0000,,{\be1}Uno.
+Dialogue: 0,0:10:23.14,0:10:23.92,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:10:24.60,0:10:25.35,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:10:26.08,0:10:26.83,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:10:27.57,0:10:28.22,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:10:29.06,0:10:29.81,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:10:30.56,0:10:31.37,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:10:32.05,0:10:32.90,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:10:33.64,0:10:33.96,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:10:35.15,0:10:35.82,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:10:36.63,0:10:37.64,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:10:38.02,0:10:38.87,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:10:39.60,0:10:40.49,Hinako,,0000,0000,0000,,{\be1}Trece.
+Dialogue: 0,0:10:41.11,0:10:42.02,Hinako,,0000,0000,0000,,{\be1}Catorce.
+Dialogue: 0,0:10:42.57,0:10:43.51,Hinako,,0000,0000,0000,,{\be1}Quince.
+Dialogue: 0,0:10:44.06,0:10:44.92,Hinako,,0000,0000,0000,,{\be1}Dieciséis.
+Dialogue: 0,0:10:45.58,0:10:46.47,Hinako,,0000,0000,0000,,{\be1}Diecisiete.
+Dialogue: 0,0:10:47.06,0:10:48.15,Hinako,,0000,0000,0000,,{\be1}Dieciocho.
+Dialogue: 0,0:10:48.68,0:10:49.43,Hinako,,0000,0000,0000,,{\be1}Diecinueve.
+Dialogue: 0,0:10:50.05,0:10:50.94,Hinako,,0000,0000,0000,,{\be1}Veinte.
+Dialogue: 0,0:10:51.46,0:10:52.52,Hinako,,0000,0000,0000,,{\be1}Veintiuno.
+Dialogue: 0,0:10:52.97,0:10:54.12,Hinako,,0000,0000,0000,,{\be1}Veintidós.
+Dialogue: 0,0:10:54.53,0:10:55.57,Hinako,,0000,0000,0000,,{\be1}Veintitrés.
+Dialogue: 0,0:10:56.07,0:10:57.16,Hinako,,0000,0000,0000,,{\be1}Veinticuatro.
+Dialogue: 0,0:11:01.15,0:11:01.90,Hinako,,0000,0000,0000,,{\be1}Uno.
+Dialogue: 0,0:11:02.58,0:11:03.37,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:11:04.02,0:11:04.85,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:11:05.48,0:11:06.23,Hinako,,0000,0000,0000,,{\be1}Cuatro.
+Dialogue: 0,0:11:07.02,0:11:07.76,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:11:08.52,0:11:09.40,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:11:09.93,0:11:10.82,Hinako,,0000,0000,0000,,{\be1}Siete.
+Dialogue: 0,0:11:11.60,0:11:12.46,Hinako,,0000,0000,0000,,{\be1}Ocho.
+Dialogue: 0,0:11:13.13,0:11:13.66,Hinako,,0000,0000,0000,,{\be1}Nueve.
+Dialogue: 0,0:11:14.65,0:11:15.32,Hinako,,0000,0000,0000,,{\be1}Diez.
+Dialogue: 0,0:11:16.08,0:11:17.04,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:11:17.72,0:11:18.57,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:11:22.84,0:11:23.55,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos uno.
+Dialogue: 0,0:11:24.18,0:11:24.93,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos dos.
+Dialogue: 0,0:11:25.62,0:11:26.29,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos tres.
+Dialogue: 0,0:11:27.12,0:11:27.85,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos cuatro.
+Dialogue: 0,0:11:28.74,0:11:29.36,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos cinco.
+Dialogue: 0,0:11:30.13,0:11:31.01,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos seis.
+Dialogue: 0,0:11:31.59,0:11:32.49,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos siete.
+Dialogue: 0,0:11:33.22,0:11:34.00,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos ocho.
+Dialogue: 0,0:11:34.91,0:11:35.35,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos nueve.
+Dialogue: 0,0:11:36.33,0:11:36.99,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos diez.
+Dialogue: 0,0:11:37.78,0:11:38.64,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos once.
+Dialogue: 0,0:11:39.29,0:11:40.12,Hinako,,0000,0000,0000,,{\be1}Ochenta y tres mil cuatrocientos doce.
+Dialogue: 0,0:11:44.53,0:11:45.28,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos uno.
+Dialogue: 0,0:11:45.88,0:11:46.56,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos dos.
+Dialogue: 0,0:11:47.43,0:11:47.96,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos tres.
+Dialogue: 0,0:11:48.72,0:11:49.55,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos cuatro.
+Dialogue: 0,0:11:50.42,0:11:51.09,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos cinco.
+Dialogue: 0,0:11:51.75,0:11:52.65,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos seis.
+Dialogue: 0,0:11:53.24,0:11:54.12,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos siete.
+Dialogue: 0,0:11:54.90,0:11:55.70,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos ocho.
+Dialogue: 0,0:11:56.59,0:11:57.04,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos nueve.
+Dialogue: 0,0:11:58.00,0:11:58.68,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos diez.
+Dialogue: 0,0:11:59.44,0:12:00.31,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos once.
+Dialogue: 0,0:12:00.94,0:12:01.78,Hinako,,0000,0000,0000,,{\be1}Dos millones doscientos doce.
+Dialogue: 0,0:12:06.22,0:12:07.16,Hinako,,0000,0000,0000,,{\be1}Ichi.
+Dialogue: 0,0:12:07.64,0:12:08.34,Hinako,,0000,0000,0000,,{\be1}Ni.
+Dialogue: 0,0:12:09.10,0:12:09.74,Hinako,,0000,0000,0000,,{\be1}San.
+Dialogue: 0,0:12:10.58,0:12:11.26,Hinako,,0000,0000,0000,,{\be1}Shi.
+Dialogue: 0,0:12:12.07,0:12:12.72,Hinako,,0000,0000,0000,,{\be1}Go.
+Dialogue: 0,0:12:13.56,0:12:14.38,Hinako,,0000,0000,0000,,{\be1}Roku.
+Dialogue: 0,0:12:15.04,0:12:15.89,Hinako,,0000,0000,0000,,{\be1}Shichi.
+Dialogue: 0,0:12:16.55,0:12:17.40,Hinako,,0000,0000,0000,,{\be1}Hachi.
+Dialogue: 0,0:12:18.07,0:12:18.73,Hinako,,0000,0000,0000,,{\be1}Kyuu.
+Dialogue: 0,0:12:19.67,0:12:20.30,Hinako,,0000,0000,0000,,{\be1}Juu.
+Dialogue: 0,0:12:21.13,0:12:21.99,Hinako,,0000,0000,0000,,{\be1}Juuichi.
+Dialogue: 0,0:12:22.51,0:12:23.38,Hinako,,0000,0000,0000,,{\be1}Juuni.
+Dialogue: 0,0:12:24.05,0:12:24.94,Hinako,,0000,0000,0000,,{\be1}Juusan.
+Dialogue: 0,0:12:25.61,0:12:26.47,Hinako,,0000,0000,0000,,{\be1}Juushi.
+Dialogue: 0,0:12:27.13,0:12:28.03,Hinako,,0000,0000,0000,,{\be1}Juugo.
+Dialogue: 0,0:12:28.53,0:12:29.34,Hinako,,0000,0000,0000,,{\be1}Juuroku.
+Dialogue: 0,0:12:30.07,0:12:31.24,Hinako,,0000,0000,0000,,{\be1}Juushichi.
+Dialogue: 0,0:12:31.59,0:12:32.36,Hinako,,0000,0000,0000,,{\be1}Juuhachi.
+Dialogue: 0,0:12:33.01,0:12:33.89,Hinako,,0000,0000,0000,,{\be1}Juukyuu.
+Dialogue: 0,0:12:34.55,0:12:35.39,Hinako,,0000,0000,0000,,{\be1}Nijuu.
+Dialogue: 0,0:12:35.91,0:12:36.98,Hinako,,0000,0000,0000,,{\be1}Nijuuichi.
+Dialogue: 0,0:12:37.47,0:12:38.56,Hinako,,0000,0000,0000,,{\be1}Nijuuni.
+Dialogue: 0,0:12:38.99,0:12:40.05,Hinako,,0000,0000,0000,,{\be1}Nijuusan.
+Dialogue: 0,0:12:40.54,0:12:41.63,Hinako,,0000,0000,0000,,{\be1}Nijuushi.
+Dialogue: 0,0:12:45.92,0:12:46.67,Hinako,,0000,0000,0000,,{\be1}一
+Dialogue: 0,0:12:47.47,0:12:48.00,Hinako,,0000,0000,0000,,{\be1}二
+Dialogue: 0,0:12:48.97,0:12:49.40,Hinako,,0000,0000,0000,,{\be1}三
+Dialogue: 0,0:12:50.47,0:12:50.96,Hinako,,0000,0000,0000,,{\be1}四
+Dialogue: 0,0:12:51.78,0:12:52.42,Hinako,,0000,0000,0000,,{\be1}五
+Dialogue: 0,0:12:53.47,0:12:54.14,Hinako,,0000,0000,0000,,{\be1}六
+Dialogue: 0,0:12:54.97,0:12:55.47,Hinako,,0000,0000,0000,,{\be1}七
+Dialogue: 0,0:12:56.47,0:12:57.04,Hinako,,0000,0000,0000,,{\be1}八
+Dialogue: 0,0:12:57.98,0:12:58.41,Hinako,,0000,0000,0000,,{\be1}九
+Dialogue: 0,0:12:59.48,0:12:59.95,Hinako,,0000,0000,0000,,{\be1}十
+Dialogue: 0,0:13:00.98,0:13:01.56,Hinako,,0000,0000,0000,,{\be1}十一
+Dialogue: 0,0:13:02.48,0:13:03.11,Hinako,,0000,0000,0000,,{\be1}十二
+Dialogue: 0,0:13:07.61,0:13:08.53,Hinako,,0000,0000,0000,,{\be1}One.
+Dialogue: 0,0:13:09.22,0:13:10.03,Hinako,,0000,0000,0000,,{\be1}Two.
+Dialogue: 0,0:13:10.72,0:13:11.53,Hinako,,0000,0000,0000,,{\be1}Three.
+Dialogue: 0,0:13:12.02,0:13:13.03,Hinako,,0000,0000,0000,,{\be1}Four.
+Dialogue: 0,0:13:13.50,0:13:14.53,Hinako,,0000,0000,0000,,{\be1}Five.
+Dialogue: 0,0:13:14.97,0:13:15.99,Hinako,,0000,0000,0000,,{\be1}Six.
+Dialogue: 0,0:13:16.43,0:13:17.50,Hinako,,0000,0000,0000,,{\be1}Seven.
+Dialogue: 0,0:13:18.20,0:13:19.00,Hinako,,0000,0000,0000,,{\be1}Eight.
+Dialogue: 0,0:13:19.57,0:13:20.50,Hinako,,0000,0000,0000,,{\be1}Nine.
+Dialogue: 0,0:13:21.19,0:13:22.00,Hinako,,0000,0000,0000,,{\be1}Ten.
+Dialogue: 0,0:13:22.69,0:13:23.50,Hinako,,0000,0000,0000,,{\be1}Eleven.
+Dialogue: 0,0:13:24.19,0:13:25.00,Hinako,,0000,0000,0000,,{\be1}Twelve.
+Dialogue: 0,0:13:29.30,0:13:29.97,Hinako,,0000,0000,0000,,{\be1}1.
+Dialogue: 0,0:13:30.77,0:13:31.80,Hinako,,0000,0000,0000,,{\be1}10.
+Dialogue: 0,0:13:32.34,0:13:33.30,Hinako,,0000,0000,0000,,{\be1}11.
+Dialogue: 0,0:13:33.85,0:13:34.80,Hinako,,0000,0000,0000,,{\be1}100.
+Dialogue: 0,0:13:35.42,0:13:36.31,Hinako,,0000,0000,0000,,{\be1}101.
+Dialogue: 0,0:13:36.87,0:13:37.77,Hinako,,0000,0000,0000,,{\be1}110.
+Dialogue: 0,0:13:38.47,0:13:39.27,Hinako,,0000,0000,0000,,{\be1}111.
+Dialogue: 0,0:13:39.90,0:13:40.77,Hinako,,0000,0000,0000,,{\be1}1000.
+Dialogue: 0,0:13:41.46,0:13:42.27,Hinako,,0000,0000,0000,,{\be1}1001.
+Dialogue: 0,0:13:42.94,0:13:43.77,Hinako,,0000,0000,0000,,{\be1}1010.
+Dialogue: 0,0:13:44.19,0:13:45.27,Hinako,,0000,0000,0000,,{\be1}1011.
+Dialogue: 0,0:13:45.73,0:13:46.78,Hinako,,0000,0000,0000,,{\be1}1100.
+Dialogue: 0,0:13:50.99,0:13:51.61,Hinako,,0000,0000,0000,,{\be1}Eins.
+Dialogue: 0,0:13:52.29,0:13:53.07,Hinako,,0000,0000,0000,,{\be1}Zwei.
+Dialogue: 0,0:13:53.71,0:13:54.51,Hinako,,0000,0000,0000,,{\be1}Drei.
+Dialogue: 0,0:13:55.21,0:13:56.02,Hinako,,0000,0000,0000,,{\be1}Vier.
+Dialogue: 0,0:13:56.85,0:13:57.51,Hinako,,0000,0000,0000,,{\be1}Fünf.
+Dialogue: 0,0:13:58.19,0:13:59.12,Hinako,,0000,0000,0000,,{\be1}Sechs.
+Dialogue: 0,0:13:59.52,0:14:00.57,Hinako,,0000,0000,0000,,{\be1}Sieben.
+Dialogue: 0,0:14:01.13,0:14:02.09,Hinako,,0000,0000,0000,,{\be1}Acht.
+Dialogue: 0,0:14:02.67,0:14:03.50,Hinako,,0000,0000,0000,,{\be1}Neun.
+Dialogue: 0,0:14:04.20,0:14:04.90,Hinako,,0000,0000,0000,,{\be1}Zehn.
+Dialogue: 0,0:14:05.69,0:14:06.62,Hinako,,0000,0000,0000,,{\be1}Elf.
+Dialogue: 0,0:14:07.15,0:14:08.01,Hinako,,0000,0000,0000,,{\be1}Zwölf.
+Dialogue: 0,0:14:08.55,0:14:09.59,Hinako,,0000,0000,0000,,{\be1}Dreizehn.
+Dialogue: 0,0:14:10.04,0:14:11.02,Hinako,,0000,0000,0000,,{\be1}Vierzehn.
+Dialogue: 0,0:14:11.63,0:14:12.57,Hinako,,0000,0000,0000,,{\be1}Fünfzehn.
+Dialogue: 0,0:14:13.14,0:14:14.17,Hinako,,0000,0000,0000,,{\be1}Sechzehn.
+Dialogue: 0,0:14:14.67,0:14:15.61,Hinako,,0000,0000,0000,,{\be1}Siebzehn.
+Dialogue: 0,0:14:16.01,0:14:17.15,Hinako,,0000,0000,0000,,{\be1}Achtzehn.
+Dialogue: 0,0:14:17.67,0:14:18.60,Hinako,,0000,0000,0000,,{\be1}Neunzehn.
+Dialogue: 0,0:14:19.06,0:14:19.96,Hinako,,0000,0000,0000,,{\be1}Zwanzig.
+Dialogue: 0,0:14:20.54,0:14:21.89,Hinako,,0000,0000,0000,,{\be1}Einundzwanzig.
+Dialogue: 0,0:14:21.89,0:14:23.12,Hinako,,0000,0000,0000,,{\be1}Zweiundzwanzig.
+Dialogue: 0,0:14:23.48,0:14:24.58,Hinako,,0000,0000,0000,,{\be1}Dreiundzwanzig.
+Dialogue: 0,0:14:24.99,0:14:26.16,Hinako,,0000,0000,0000,,{\be1}Vierundzwanzig.
+Dialogue: 0,0:14:30.69,0:14:31.48,Hinako,,0000,0000,0000,,{\be1}Bat.
+Dialogue: 0,0:14:32.03,0:14:32.73,Hinako,,0000,0000,0000,,{\be1}Bi.
+Dialogue: 0,0:14:33.77,0:14:34.70,Hinako,,0000,0000,0000,,{\be1}Hiru.
+Dialogue: 0,0:14:35.08,0:14:35.85,Hinako,,0000,0000,0000,,{\be1}Lau.
+Dialogue: 0,0:14:36.67,0:14:37.37,Hinako,,0000,0000,0000,,{\be1}Bost.
+Dialogue: 0,0:14:38.18,0:14:39.16,Hinako,,0000,0000,0000,,{\be1}Sei.
+Dialogue: 0,0:14:39.58,0:14:40.66,Hinako,,0000,0000,0000,,{\be1}Zazpi.
+Dialogue: 0,0:14:41.02,0:14:42.16,Hinako,,0000,0000,0000,,{\be1}Zortzi.
+Dialogue: 0,0:14:42.58,0:14:43.31,Hinako,,0000,0000,0000,,{\be1}Bederatzi.
+Dialogue: 0,0:14:44.07,0:14:44.74,Hinako,,0000,0000,0000,,{\be1}Hamar.
+Dialogue: 0,0:14:45.52,0:14:46.67,Hinako,,0000,0000,0000,,{\be1}Hamaika.
+Dialogue: 0,0:14:47.09,0:14:48.17,Hinako,,0000,0000,0000,,{\be1}Hamabi.
+Dialogue: 0,0:14:52.38,0:14:53.10,Hinako,,0000,0000,0000,,{\be1}Un.
+Dialogue: 0,0:14:53.86,0:14:54.58,Hinako,,0000,0000,0000,,{\be1}Dous.
+Dialogue: 0,0:14:55.37,0:14:56.12,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:14:56.71,0:14:57.48,Hinako,,0000,0000,0000,,{\be1}Catro.
+Dialogue: 0,0:14:58.34,0:14:58.96,Hinako,,0000,0000,0000,,{\be1}Cinco.
+Dialogue: 0,0:14:59.73,0:15:00.58,Hinako,,0000,0000,0000,,{\be1}Seis.
+Dialogue: 0,0:15:01.24,0:15:02.27,Hinako,,0000,0000,0000,,{\be1}Sete. {Gibernau}
+Dialogue: 0,0:15:02.74,0:15:03.66,Hinako,,0000,0000,0000,,{\be1}Oito.
+Dialogue: 0,0:15:04.25,0:15:04.89,Hinako,,0000,0000,0000,,{\be1}Nove.
+Dialogue: 0,0:15:05.69,0:15:06.49,Hinako,,0000,0000,0000,,{\be1}Dez.
+Dialogue: 0,0:15:07.07,0:15:08.03,Hinako,,0000,0000,0000,,{\be1}Once.
+Dialogue: 0,0:15:08.76,0:15:09.67,Hinako,,0000,0000,0000,,{\be1}Doce.
+Dialogue: 0,0:15:16.57,0:15:18.90,Hinako,,0000,0000,0000,,{\be1}¡Adelgazando!
+Dialogue: 0,0:15:39.76,0:15:41.79,Hinako,,0000,0000,0000,,{\be1}¡Adelgazando!
+Dialogue: 0,0:15:45.77,0:15:47.86,Hinako,,0000,0000,0000,,{\be1}¡Adelgazando!
+Dialogue: 0,0:15:51.78,0:15:53.86,Hinako,,0000,0000,0000,,{\be1}¡Adelgazando!
+Dialogue: 0,0:15:57.74,0:15:59.24,Hinako,,0000,0000,0000,,{\be1}¡Adelgazando!
+Dialogue: 0,0:16:03.75,0:16:06.75,Hinako,,0000,0000,0000,,{\be1}¡Adelgazando!
+Dialogue: 0,0:16:15.47,0:16:16.01,Hinako,,0000,0000,0000,,{\be1}Uno, que no pare ninguno.
+Dialogue: 0,0:16:16.63,0:16:17.51,Hinako,,0000,0000,0000,,{\be1}Dos, nos movemos los dos.
+Dialogue: 0,0:16:18.22,0:16:19.01,Hinako,,0000,0000,0000,,{\be1}Tres, lo mismo pero al revés.
+Dialogue: 0,0:16:19.72,0:16:20.51,Hinako,,0000,0000,0000,,{\be1}Cuatro, me voy a la farra un rato.
+Dialogue: 0,0:16:21.22,0:16:22.01,Hinako,,0000,0000,0000,,{\be1}Cinco, bailo un brinco.
+Dialogue: 0,0:16:22.72,0:16:23.52,Hinako,,0000,0000,0000,,{\be1}Y seis, no me veis.
+Dialogue: 0,0:16:24.18,0:16:24.97,Hinako,,0000,0000,0000,,{\be1}Siete, que nadie se siente.
+Dialogue: 0,0:16:25.68,0:16:26.48,Hinako,,0000,0000,0000,,{\be1}Ocho, me voy de bareta.
+Dialogue: 0,0:16:27.19,0:16:27.98,Hinako,,0000,0000,0000,,{\be1}Nueve, esto se mueve.
+Dialogue: 0,0:16:28.69,0:16:29.48,Hinako,,0000,0000,0000,,{\be1}Y diez, muévete otra vez.
+Dialogue: 0,0:16:30.19,0:16:30.98,Hinako,,0000,0000,0000,,{\be1}Vente
+Dialogue: 0,0:16:31.69,0:16:32.48,Hinako,,0000,0000,0000,,{\be1}y vente
+Dialogue: 0,0:16:37.15,0:16:38.07,Hinako,,0000,0000,0000,,{\be1}de bareta
+Dialogue: 0,0:16:38.58,0:16:39.24,Hinako,,0000,0000,0000,,{\be1}con la tía
+Dialogue: 0,0:16:40.00,0:16:40.74,Hinako,,0000,0000,0000,,{\be1}Enriqueta
+Dialogue: 0,0:16:41.40,0:16:42.24,Hinako,,0000,0000,0000,,{\be1}que va de
+Dialogue: 0,0:16:42.91,0:16:43.74,Hinako,,0000,0000,0000,,{\be1}fabareta
+Dialogue: 0,0:16:44.41,0:16:45.20,Hinako,,0000,0000,0000,,{\be1}montada en
+Dialogue: 0,0:16:45.97,0:16:46.71,Hinako,,0000,0000,0000,,{\be1}bicicleta
+Dialogue: 0,0:16:47.37,0:16:48.21,Hinako,,0000,0000,0000,,{\be1}y lleva
+Dialogue: 0,0:16:48.89,0:16:49.71,Hinako,,0000,0000,0000,,{\be1}camiseta
+Dialogue: 0,0:16:50.47,0:16:51.21,Hinako,,0000,0000,0000,,{\be1}siempre.
+Dialogue: 0,0:16:51.54,0:16:52.71,Hinako,,0000,0000,0000,,{\be1}Mírala.
+Dialogue: 0,0:16:53.04,0:16:54.21,Hinako,,0000,0000,0000,,{\be1}Mírala.
+Dialogue: 0,0:16:58.84,0:16:59.55,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:00.00,0:17:00.81,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:01.59,0:17:02.30,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:03.01,0:17:03.77,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:04.61,0:17:05.19,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:06.01,0:17:06.65,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:07.49,0:17:08.29,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:08.98,0:17:09.69,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:10.57,0:17:11.35,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:12.06,0:17:12.72,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:13.50,0:17:14.45,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:15.14,0:17:16.00,Hinako,,0000,0000,0000,,{\be1}Rape.
+Dialogue: 0,0:17:20.17,0:17:21.11,Hinako,,0000,0000,0000,,{\be1}Un.
+Dialogue: 0,0:17:21.59,0:17:22.38,Hinako,,0000,0000,0000,,{\be1}Dos.
+Dialogue: 0,0:17:23.09,0:17:23.87,Hinako,,0000,0000,0000,,{\be1}Tres.
+Dialogue: 0,0:17:24.65,0:17:25.44,Hinako,,0000,0000,0000,,{\be1}Quatre.
+Dialogue: 0,0:17:26.15,0:17:26.86,Hinako,,0000,0000,0000,,{\be1}Cinc.
+Dialogue: 0,0:17:27.57,0:17:28.39,Hinako,,0000,0000,0000,,{\be1}Sis.
+Dialogue: 0,0:17:29.08,0:17:30.01,Hinako,,0000,0000,0000,,{\be1}Set.
+Dialogue: 0,0:17:30.54,0:17:31.56,Hinako,,0000,0000,0000,,{\be1}Vuit.
+Dialogue: 0,0:17:32.18,0:17:33.04,Hinako,,0000,0000,0000,,{\be1}Nou.
+Dialogue: 0,0:17:33.69,0:17:34.45,Hinako,,0000,0000,0000,,{\be1}Deu.
+Dialogue: 0,0:17:34.98,0:17:36.21,Hinako,,0000,0000,0000,,{\be1}Onze.
+Dialogue: 0,0:17:36.68,0:17:37.57,Hinako,,0000,0000,0000,,{\be1}Dotze.
+Dialogue: 0,0:17:38.11,0:17:39.06,Hinako,,0000,0000,0000,,{\be1}Tretze.
+Dialogue: 0,0:17:39.48,0:17:40.41,Hinako,,0000,0000,0000,,{\be1}Catorze.
+Dialogue: 0,0:17:40.99,0:17:41.96,Hinako,,0000,0000,0000,,{\be1}Quinze.
+Dialogue: 0,0:17:42.54,0:17:43.54,Hinako,,0000,0000,0000,,{\be1}Setze.
+Dialogue: 0,0:17:43.98,0:17:45.04,Hinako,,0000,0000,0000,,{\be1}Disset.
+Dialogue: 0,0:17:45.56,0:17:46.62,Hinako,,0000,0000,0000,,{\be1}Divuit.
+Dialogue: 0,0:17:46.98,0:17:47.97,Hinako,,0000,0000,0000,,{\be1}Dinou.
+Dialogue: 0,0:17:48.51,0:17:49.50,Hinako,,0000,0000,0000,,{\be1}Vint.
+Dialogue: 0,0:17:49.81,0:17:51.00,Hinako,,0000,0000,0000,,{\be1}Vint-i-un.
+Dialogue: 0,0:17:51.54,0:17:53.01,Hinako,,0000,0000,0000,,{\be1}Vint-i-dos.
+Dialogue: 0,0:17:53.01,0:17:54.41,Hinako,,0000,0000,0000,,{\be1}Vint-i-tres.
+Dialogue: 0,0:17:54.41,0:17:55.57,Hinako,,0000,0000,0000,,{\be1}Vint-i-quatre.
+Dialogue: 0,0:18:00.24,0:18:00.89,Hinako,,0000,0000,0000,,{\be1}Bueno.
+Dialogue: 0,0:18:01.46,0:18:02.15,Hinako,,0000,0000,0000,,{\be1}Sé que
+Dialogue: 0,0:18:02.86,0:18:03.66,Hinako,,0000,0000,0000,,{\be1}ninguno de
+Dialogue: 0,0:18:04.37,0:18:05.12,Hinako,,0000,0000,0000,,{\be1}vosotros,
+Dialogue: 0,0:18:05.99,0:18:06.61,Hinako,,0000,0000,0000,,{\be1}queridos
+Dialogue: 0,0:18:07.34,0:18:08.36,Hinako,,0000,0000,0000,,{\be1}espectadores,
+Dialogue: 0,0:18:08.85,0:18:09.54,Hinako,,0000,0000,0000,,{\be1}estaréis
+Dialogue: 0,0:18:10.45,0:18:11.42,Hinako,,0000,0000,0000,,{\be1}haciendo
+Dialogue: 0,0:18:11.97,0:18:12.75,Hinako,,0000,0000,0000,,{\be1}estos
+Dialogue: 0,0:18:13.38,0:18:14.11,Hinako,,0000,0000,0000,,{\be1}ejercicios
+Dialogue: 0,0:18:14.88,0:18:15.85,Hinako,,0000,0000,0000,,{\be1}igual
+Dialogue: 0,0:18:16.41,0:18:17.25,Hinako,,0000,0000,0000,,{\be1}que yo.
+Dialogue: 0,0:18:21.55,0:18:22.43,Hinako,,0000,0000,0000,,{\be1}Probablemente
+Dialogue: 0,0:18:23.01,0:18:23.77,Hinako,,0000,0000,0000,,{\be1}seáis unos
+Dialogue: 0,0:18:24.48,0:18:25.25,Hinako,,0000,0000,0000,,{\be1}pajeros
+Dialogue: 0,0:18:26.03,0:18:26.76,Hinako,,0000,0000,0000,,{\be1}con sólo un
+Dialogue: 0,0:18:27.53,0:18:28.22,Hinako,,0000,0000,0000,,{\be1}músculo
+Dialogue: 0,0:18:28.98,0:18:29.79,Hinako,,0000,0000,0000,,{\be1}ejercitado,
+Dialogue: 0,0:18:30.42,0:18:31.39,Hinako,,0000,0000,0000,,{\be1}ese
+Dialogue: 0,0:18:32.08,0:18:32.94,Hinako,,0000,0000,0000,,{\be1}de vuestro
+Dialogue: 0,0:18:33.57,0:18:34.44,Hinako,,0000,0000,0000,,{\be1}brazo
+Dialogue: 0,0:18:35.10,0:18:35.78,Hinako,,0000,0000,0000,,{\be1}derecho,
+Dialogue: 0,0:18:36.51,0:18:37.51,Hinako,,0000,0000,0000,,{\be1}junto al
+Dialogue: 0,0:18:38.02,0:18:38.95,Hinako,,0000,0000,0000,,{\be1}codo.
+Dialogue: 0,0:19:44.52,0:19:45.01,Hinako,,0000,0000,0000,,{\be1}Porque
+Dialogue: 0,0:19:45.76,0:19:46.59,Hinako,,0000,0000,0000,,{\be1}sólo hay
+Dialogue: 0,0:19:47.26,0:19:48.09,Hinako,,0000,0000,0000,,{\be1}dos motivos
+Dialogue: 0,0:19:48.76,0:19:49.60,Hinako,,0000,0000,0000,,{\be1}por los que
+Dialogue: 0,0:19:50.26,0:19:51.10,Hinako,,0000,0000,0000,,{\be1}alguien
+Dialogue: 0,0:19:51.77,0:19:52.60,Hinako,,0000,0000,0000,,{\be1}querría
+Dialogue: 0,0:19:53.22,0:19:54.06,Hinako,,0000,0000,0000,,{\be1}ver
+Dialogue: 0,0:19:54.73,0:19:55.56,Hinako,,0000,0000,0000,,{\be1}semejante
+Dialogue: 0,0:19:56.23,0:19:57.06,Hinako,,0000,0000,0000,,{\be1}basura
+Dialogue: 0,0:19:57.73,0:19:58.56,Hinako,,0000,0000,0000,,{\be1}de anime,
+Dialogue: 0,0:19:59.23,0:20:00.07,Hinako,,0000,0000,0000,,{\be1}que
+Dialogue: 0,0:20:00.73,0:20:01.57,Hinako,,0000,0000,0000,,{\be1}son:
+Dialogue: 0,0:20:06.20,0:20:07.10,Hinako,,0000,0000,0000,,{\be1}Te
+Dialogue: 0,0:20:07.62,0:20:08.39,Hinako,,0000,0000,0000,,{\be1}gusta
+Dialogue: 0,0:20:09.03,0:20:09.90,Hinako,,0000,0000,0000,,{\be1}verme
+Dialogue: 0,0:20:10.62,0:20:11.43,Hinako,,0000,0000,0000,,{\be1}las
+Dialogue: 0,0:20:12.12,0:20:12.91,Hinako,,0000,0000,0000,,{\be1}tetas
+Dialogue: 0,0:20:13.58,0:20:14.42,Hinako,,0000,0000,0000,,{\be1}saltar,
+Dialogue: 0,0:20:15.04,0:20:16.02,Hinako,,0000,0000,0000,,{\be1}o bien
+Dialogue: 0,0:20:16.58,0:20:17.63,Hinako,,0000,0000,0000,,{\be1}quieres
+Dialogue: 0,0:20:18.08,0:20:18.97,Hinako,,0000,0000,0000,,{\be1}ver
+Dialogue: 0,0:20:19.54,0:20:20.39,Hinako,,0000,0000,0000,,{\be1}esta
+Dialogue: 0,0:20:21.04,0:20:22.22,Hinako,,0000,0000,0000,,{\be1}mierda
+Dialogue: 0,0:20:22.59,0:20:23.60,Hinako,,0000,0000,0000,,{\be1}de tradu 4tl.
+Dialogue: 0,0:20:28.00,0:20:28.91,Hinako,,0000,0000,0000,,{\be1}Es
+Dialogue: 0,0:20:29.36,0:20:30.11,Hinako,,0000,0000,0000,,{\be1}tan
+Dialogue: 0,0:20:30.71,0:20:31.55,Hinako,,0000,0000,0000,,{\be1}lamentable
+Dialogue: 0,0:20:32.29,0:20:33.04,Hinako,,0000,0000,0000,,{\be1}que ya ni
+Dialogue: 0,0:20:33.88,0:20:34.46,Hinako,,0000,0000,0000,,{\be1}reciclan
+Dialogue: 0,0:20:35.22,0:20:36.12,Hinako,,0000,0000,0000,,{\be1}animación
+Dialogue: 0,0:20:36.63,0:20:37.69,Hinako,,0000,0000,0000,,{\be1}y ponen
+Dialogue: 0,0:20:38.21,0:20:39.22,Hinako,,0000,0000,0000,,{\be1}directamente
+Dialogue: 0,0:20:39.76,0:20:40.51,Hinako,,0000,0000,0000,,{\be1}una imagen
+Dialogue: 0,0:20:41.29,0:20:42.06,Hinako,,0000,0000,0000,,{\be1}estática
+Dialogue: 0,0:20:42.80,0:20:44.42,Hinako,,0000,0000,0000,,{\be1}haciendo
+Dialogue: 0,0:20:44.42,0:20:45.41,Hinako,,0000,0000,0000,,{\be1}scroll.
+Dialogue: 0,0:20:49.50,0:20:50.07,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:50.82,0:20:51.44,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:52.32,0:20:53.12,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:53.64,0:20:54.46,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:55.23,0:20:56.18,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:56.78,0:20:57.67,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:58.31,0:20:59.18,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:20:59.78,0:21:00.71,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:01.28,0:21:01.99,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:02.59,0:21:03.57,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:04.21,0:21:05.21,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:05.78,0:21:06.65,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:11.25,0:21:11.76,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:12.58,0:21:13.22,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:14.00,0:21:14.69,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:15.36,0:21:16.15,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:16.99,0:21:17.77,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:18.55,0:21:19.45,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:20.01,0:21:20.89,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:21.52,0:21:22.42,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:23.05,0:21:23.80,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:24.27,0:21:25.31,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:26.00,0:21:27.01,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:27.55,0:21:28.37,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:29.06,0:21:29.99,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:30.50,0:21:31.49,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:31.99,0:21:32.91,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:33.51,0:21:34.51,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:35.09,0:21:35.93,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:36.79,0:21:37.48,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:38.15,0:21:39.05,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:39.68,0:21:40.54,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:41.10,0:21:42.14,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:42.58,0:21:43.62,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:44.05,0:21:45.08,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:45.55,0:21:46.57,Hinako,,0000,0000,0000,,{\be1}Fap.
+Dialogue: 0,0:21:50.80,0:21:51.47,Hinako,,0000,0000,0000,,{\be1}¿Vais
+Dialogue: 0,0:21:52.15,0:21:52.89,Hinako,,0000,0000,0000,,{\be1}terminando
+Dialogue: 0,0:21:53.68,0:21:54.31,Hinako,,0000,0000,0000,,{\be1}la
+Dialogue: 0,0:21:54.85,0:21:55.81,Hinako,,0000,0000,0000,,{\be1}pajilla
+Dialogue: 0,0:21:56.68,0:21:57.28,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:21:57.85,0:21:58.87,Hinako,,0000,0000,0000,,{\be1}turno?
+Dialogue: 0,0:21:59.35,0:22:00.47,Hinako,,0000,0000,0000,,{\be1}Porque
+Dialogue: 0,0:22:00.81,0:22:01.95,Hinako,,0000,0000,0000,,{\be1}empiezo
+Dialogue: 0,0:22:02.31,0:22:03.33,Hinako,,0000,0000,0000,,{\be1}a cansarme
+Dialogue: 0,0:22:03.81,0:22:04.86,Hinako,,0000,0000,0000,,{\be1}de saltar
+Dialogue: 0,0:22:05.64,0:22:06.82,Hinako,,0000,0000,0000,,{\be1}sin
+Dialogue: 0,0:22:07.32,0:22:08.32,Hinako,,0000,0000,0000,,{\be1}parar.
+Dialogue: 0,0:22:12.50,0:22:13.16,Hinako,,0000,0000,0000,,{\be1}El
+Dialogue: 0,0:22:13.81,0:22:14.46,Hinako,,0000,0000,0000,,{\be1}señor
+Dialogue: 0,0:22:15.03,0:22:15.96,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:22:16.53,0:22:17.41,Hinako,,0000,0000,0000,,{\be1}la
+Dialogue: 0,0:22:18.04,0:22:19.00,Hinako,,0000,0000,0000,,{\be1}cámara
+Dialogue: 0,0:22:19.54,0:22:20.53,Hinako,,0000,0000,0000,,{\be1}cada
+Dialogue: 0,0:22:21.04,0:22:22.04,Hinako,,0000,0000,0000,,{\be1}vez
+Dialogue: 0,0:22:22.54,0:22:23.61,Hinako,,0000,0000,0000,,{\be1}se
+Dialogue: 0,0:22:24.04,0:22:24.96,Hinako,,0000,0000,0000,,{\be1}acerca
+Dialogue: 0,0:22:25.54,0:22:26.45,Hinako,,0000,0000,0000,,{\be1}más
+Dialogue: 0,0:22:27.05,0:22:28.18,Hinako,,0000,0000,0000,,{\be1}a
+Dialogue: 0,0:22:28.55,0:22:29.58,Hinako,,0000,0000,0000,,{\be1}mis
+Dialogue: 0,0:22:30.01,0:22:31.15,Hinako,,0000,0000,0000,,{\be1}ubres,
+Dialogue: 0,0:22:31.51,0:22:33.01,Hinako,,0000,0000,0000,,{\be1}no
+Dialogue: 0,0:22:33.01,0:22:34.16,Hinako,,0000,0000,0000,,{\be1}sé
+Dialogue: 0,0:22:34.51,0:22:36.01,Hinako,,0000,0000,0000,,{\be1}qué
+Dialogue: 0,0:22:36.01,0:22:37.51,Hinako,,0000,0000,0000,,{\be1}les
+Dialogue: 0,0:22:37.51,0:22:39.02,Hinako,,0000,0000,0000,,{\be1}verá
+Dialogue: 0,0:22:39.02,0:22:40.11,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:22:40.52,0:22:42.02,Hinako,,0000,0000,0000,,{\be1}interesante,
+Dialogue: 0,0:22:42.35,0:22:43.52,Hinako,,0000,0000,0000,,{\be1}qué
+Dialogue: 0,0:22:43.52,0:22:45.02,Hinako,,0000,0000,0000,,{\be1}tío
+Dialogue: 0,0:22:45.02,0:22:46.52,Hinako,,0000,0000,0000,,{\be1}más
+Dialogue: 0,0:22:46.52,0:22:48.02,Hinako,,0000,0000,0000,,{\be1}raro.
+Dialogue: 0,0:22:51.86,0:22:52.86,Hinako,,0000,0000,0000,,{\be1}Espero
+Dialogue: 0,0:22:53.63,0:22:55.13,Hinako,,0000,0000,0000,,{\be1}que
+Dialogue: 0,0:22:55.13,0:22:56.53,Hinako,,0000,0000,0000,,{\be1}os
+Dialogue: 0,0:22:56.53,0:22:57.61,Hinako,,0000,0000,0000,,{\be1}haya
+Dialogue: 0,0:22:58.12,0:22:59.57,Hinako,,0000,0000,0000,,{\be1}dado
+Dialogue: 0,0:22:59.57,0:23:00.90,Hinako,,0000,0000,0000,,{\be1}tiempo
+Dialogue: 0,0:23:00.90,0:23:02.41,Hinako,,0000,0000,0000,,{\be1}a
+Dialogue: 0,0:23:02.41,0:23:03.98,Hinako,,0000,0000,0000,,{\be1}terminar
+Dialogue: 0,0:23:03.98,0:23:05.38,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:23:05.38,0:23:06.48,Hinako,,0000,0000,0000,,{\be1}tocaros
+Dialogue: 0,0:23:07.09,0:23:08.48,Hinako,,0000,0000,0000,,{\be1}vuestro
+Dialogue: 0,0:23:08.48,0:23:09.81,Hinako,,0000,0000,0000,,{\be1}miembro.
+Dialogue: 0,0:23:13.55,0:23:15.24,Hinako,,0000,0000,0000,,{\be1}Yo
+Dialogue: 0,0:23:15.24,0:23:16.29,Hinako,,0000,0000,0000,,{\be1}estoy
+Dialogue: 0,0:23:16.64,0:23:17.65,Hinako,,0000,0000,0000,,{\be1}aburrida
+Dialogue: 0,0:23:18.21,0:23:19.25,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:23:19.82,0:23:20.66,Hinako,,0000,0000,0000,,{\be1}saltar
+Dialogue: 0,0:23:21.29,0:23:22.28,Hinako,,0000,0000,0000,,{\be1}y
+Dialogue: 0,0:23:22.75,0:23:23.96,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:23:24.37,0:23:25.38,Hinako,,0000,0000,0000,,{\be1}llevar
+Dialogue: 0,0:23:25.88,0:23:27.06,Hinako,,0000,0000,0000,,{\be1}veinte
+Dialogue: 0,0:23:27.06,0:23:28.18,Hinako,,0000,0000,0000,,{\be1}minutos
+Dialogue: 0,0:23:28.74,0:23:30.21,Hinako,,0000,0000,0000,,{\be1}contando,
+Dialogue: 0,0:23:30.21,0:23:31.69,Hinako,,0000,0000,0000,,{\be1}así
+Dialogue: 0,0:23:31.69,0:23:33.31,Hinako,,0000,0000,0000,,{\be1}que
+Dialogue: 0,0:23:33.31,0:23:34.71,Hinako,,0000,0000,0000,,{\be1}me
+Dialogue: 0,0:23:34.71,0:23:36.19,Hinako,,0000,0000,0000,,{\be1}quedo
+Dialogue: 0,0:23:36.19,0:23:37.32,Hinako,,0000,0000,0000,,{\be1}aquí
+Dialogue: 0,0:23:37.72,0:23:38.87,Hinako,,0000,0000,0000,,{\be1}enseñando
+Dialogue: 0,0:23:39.58,0:23:40.80,Hinako,,0000,0000,0000,,{\be1}canalillo,
+Dialogue: 0,0:23:40.80,0:23:42.24,Hinako,,0000,0000,0000,,{\be1}harta
+Dialogue: 0,0:23:42.24,0:23:43.65,Hinako,,0000,0000,0000,,{\be1}de
+Dialogue: 0,0:23:43.65,0:23:45.18,Hinako,,0000,0000,0000,,{\be1}decir
+Dialogue: 0,0:23:45.18,0:23:46.73,Hinako,,0000,0000,0000,,{\be1}gilipolleces.
+Dialogue: 0,0:23:46.73,0:23:48.22,Hinako,,0000,0000,0000,,{\be1}Hasta
+Dialogue: 0,0:23:48.22,0:23:49.59,Hinako,,0000,0000,0000,,{\be1}siempre.

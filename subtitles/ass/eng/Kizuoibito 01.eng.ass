@@ -1,0 +1,331 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Kizuoibito 01
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:44.21,0:00:46.91,Default,,0,0,0,,It is said villagers in the dorp\Nare much passionate for searching gold
+Dialogue: 0,0:00:47.84,0:00:50.79,Default,,0,0,0,,There have been\Nmany moneybags appearing.
+Dialogue: 0,0:00:52.61,0:00:55.86,Default,,0,0,0,,Yes, such fellows
+Dialogue: 0,0:00:56.38,0:00:57.95,Default,,0,0,0,,called Gold-searching men
+Dialogue: 0,0:00:58.35,0:00:59.30,Default,,0,0,0,,No wonder.
+Dialogue: 0,0:00:59.59,0:01:02.26,Default,,0,0,0,,Are eager to become rich men\Nin one night.
+Dialogue: 0,0:01:02.52,0:01:04.33,Default,,0,0,0,,Yes, I've heard there are\Nsome Japanese amony them,
+Dialogue: 0,0:01:04.83,0:01:08.14,Default,,0,0,0,,although ifs only rumors.
+Dialogue: 0,0:01:08.36,0:01:09.10,Default,,0,0,0,,Ah,
+Dialogue: 0,0:01:09.36,0:01:10.87,Default,,0,0,0,,lam planing to\Nhave a influencing report
+Dialogue: 0,0:01:11.13,0:01:13.04,Default,,0,0,0,,in this program
+Dialogue: 0,0:01:13.84,0:01:17.58,Default,,0,0,0,,So Kouxia will be on vocation.
+Dialogue: 0,0:01:18.37,0:01:20.28,Default,,0,0,0,,Are there on earth
+Dialogue: 0,0:01:20.58,0:01:22.18,Default,,0,0,0,,Japanese in them?
+Dialogue: 0,0:01:28.38,0:01:29.95,Default,,0,0,0,,It is said the Japanese is male
+Dialogue: 0,0:01:30.39,0:01:31.73,Default,,0,0,0,,called Liaohuamu.
+Dialogue: 0,0:01:32.59,0:01:34.57,Default,,0,0,0,,Liao means surface.
+Dialogue: 0,0:01:35.86,0:01:38.63,Default,,0,0,0,,Firstly, go cross Nilu Forest\Nand then to Bilian
+Dialogue: 0,0:01:39.15,0:01:40.83,Default,,0,0,0,,just there,\Nthey got the final information.
+Dialogue: 0,0:01:41.20,0:01:42.27,Default,,0,0,0,,And then to Balema
+Dialogue: 0,0:01:42.69,0:01:45.73,Default,,0,0,0,,Besides, Bilian is called\Nthe city of Wulubu
+Dialogue: 0,0:01:46.27,0:01:49.44,Default,,0,0,0,,Wulubu is a bald mount
+Dialogue: 0,0:01:50.04,0:01:53.38,Default,,0,0,0,,which enters the midland,\Nso it can be called 'Gateway', is it'?
+Dialogue: 0,0:02:01.85,0:02:05.80,Default,,0,0,0,,BELEM
+Dialogue: 0,0:02:18.43,0:02:19.94,Default,,0,0,0,,In this place,
+Dialogue: 0,0:02:20.60,0:02:23.71,Default,,0,0,0,,chasing and hurting vulture\Nis prohibited
+Dialogue: 0,0:02:24.66,0:02:25.84,Default,,0,0,0,,It may be the king of birds, is it?
+Dialogue: 0,0:02:26.30,0:02:27.71,Default,,0,0,0,,So they give food to them.
+Dialogue: 0,0:02:29.58,0:02:31.35,Default,,0,0,0,,It's Amazon creditably!
+Dialogue: 0,0:02:31.71,0:02:32.78,Default,,0,0,0,,Excitingly
+Dialogue: 0,0:03:36.24,0:03:37.37,Default,,0,0,0,,Is it she, a beauty standing\Nat the fortress of Gashiduo Road,
+Dialogue: 0,0:03:37.70,0:03:39.98,Default,,0,0,0,,challenging Gashaman
+Dialogue: 0,0:03:41.07,0:03:42.31,Default,,0,0,0,,Pretty!
+Dialogue: 0,0:03:42.73,0:03:44.01,Default,,0,0,0,,Miss Xihu is so beautiful.
+Dialogue: 0,0:03:52.89,0:03:53.86,Default,,0,0,0,,Mr.Ahsahe'?
+Dialogue: 0,0:03:56.96,0:03:57.90,Default,,0,0,0,,Mr.Ahsahe!
+Dialogue: 0,0:04:10.14,0:04:11.64,Default,,0,0,0,,What's matter? Who are you?
+Dialogue: 0,0:04:33.73,0:04:35.00,Default,,0,0,0,,Ready! Set!
+Dialogue: 0,0:05:25.27,0:05:26.58,Default,,0,0,0,,What are you doing? Stop!
+Dialogue: 0,0:05:26.91,0:05:27.76,Default,,0,0,0,,Let me go!
+Dialogue: 0,0:05:30.95,0:05:33.49,Default,,0,0,0,,Lady, Amazon is a terrible place.
+Dialogue: 0,0:05:34.35,0:05:36.30,Default,,0,0,0,,It is much fortunately\Nto have so little pains.
+Dialogue: 0,0:05:37.19,0:05:38.86,Default,,0,0,0,,How about back Japan right now.
+Dialogue: 0,0:06:12.39,0:06:13.20,Default,,0,0,0,,Maiden?
+Dialogue: 0,0:07:06.65,0:07:07.78,Default,,0,0,0,,Hu...Xihu?
+Dialogue: 0,0:07:08.55,0:07:09.82,Default,,0,0,0,,What's wrong with you?
+Dialogue: 0,0:07:10.85,0:07:11.62,Default,,0,0,0,,Nothing
+Dialogue: 0,0:07:12.02,0:07:13.50,Default,,0,0,0,,Good, you are fine.
+Dialogue: 0,0:07:14.55,0:07:15.76,Default,,0,0,0,,But I am sorry
+Dialogue: 0,0:07:16.26,0:07:18.20,Default,,0,0,0,,lam reckless at that time.
+Dialogue: 0,0:07:18.38,0:07:19.05,Default,,0,0,0,,Never mind.
+Dialogue: 0,0:07:20.75,0:07:22.75,Default,,0,0,0,,I want to have a rest upstairs
+Dialogue: 0,0:07:34.51,0:07:35.18,Default,,0,0,0,,Too surprising,
+Dialogue: 0,0:07:36.04,0:07:37.42,Default,,0,0,0,,You are maiden.
+Dialogue: 0,0:07:41.68,0:07:43.89,Default,,0,0,0,,I will take you to the Police,\Neven you are killed,
+Dialogue: 0,0:07:44.42,0:07:45.62,Default,,0,0,0,,I will bring your body to there.
+Dialogue: 0,0:07:52.88,0:07:54.33,Default,,0,0,0,,Your karate is useless.
+Dialogue: 0,0:07:54.89,0:07:56.74,Default,,0,0,0,,I am the vanguard of the soccer.
+Dialogue: 0,0:07:59.10,0:08:01.58,Default,,0,0,0,,I don't want you\Nto vistit Liaohuamu any more,
+Dialogue: 0,0:08:02.44,0:08:03.81,Default,,0,0,0,,so I intruded you and
+Dialogue: 0,0:08:04.60,0:08:06.95,Default,,0,0,0,,thought you may go back Japan for fear.
+Dialogue: 0,0:08:08.01,0:08:10.01,Default,,0,0,0,,But it seems you will not go back.
+Dialogue: 0,0:08:25.46,0:08:29.10,Default,,0,0,0,,You wanted to make\Na sincere apology to me just now, yes?
+Dialogue: 0,0:08:30.90,0:08:33.00,Default,,0,0,0,,If you swim in the river\Nfull of the maneating fish
+Dialogue: 0,0:08:34.00,0:08:35.88,Default,,0,0,0,,I can accept your apology.
+Dialogue: 0,0:08:36.27,0:08:39.31,Default,,0,0,0,,It is to say, you are ate up by them.
+Dialogue: 0,0:09:28.12,0:09:29.83,Default,,0,0,0,,Maneating fish find the quarry
+Dialogue: 0,0:09:30.06,0:09:31.09,Default,,0,0,0,,by their smell,
+Dialogue: 0,0:09:31.56,0:09:33.94,Default,,0,0,0,,after confirming safety,\Nthey come to chase their quarry.
+Dialogue: 0,0:09:34.66,0:09:36.66,Default,,0,0,0,,So leave them as soon as see them coming
+Dialogue: 0,0:09:37.26,0:09:38.87,Default,,0,0,0,,doing actions, no stop
+Dialogue: 0,0:09:39.40,0:09:40.67,Default,,0,0,0,,to leave them away.
+Dialogue: 0,0:09:41.33,0:09:43.24,Default,,0,0,0,,In this way, they can't come close.
+Dialogue: 0,0:10:07.99,0:10:09.63,Default,,0,0,0,,Your hair...white before?
+Dialogue: 0,0:10:13.36,0:10:15.13,Default,,0,0,0,,Colored black
+Dialogue: 0,0:10:17.60,0:10:20.21,Default,,0,0,0,,Japanese came to this place
+Dialogue: 0,0:10:21.60,0:10:23.67,Default,,0,0,0,,color their white hair into black.
+Dialogue: 0,0:10:23.97,0:10:25.74,Default,,0,0,0,,A hurt on the back.
+Dialogue: 0,0:10:26.67,0:10:29.15,Default,,0,0,0,,I was once the vanguard of soccer.
+Dialogue: 0,0:10:29.48,0:10:30.36,Default,,0,0,0,,That guy
+Dialogue: 0,0:10:31.55,0:10:33.16,Default,,0,0,0,,what?
+Dialogue: 0,0:10:33.49,0:10:36.06,Default,,0,0,0,,He wants to prevent\Nour legwork on gold diggers.
+Dialogue: 0,0:10:53.50,0:10:54.74,Default,,0,0,0,,I put my dreams
+Dialogue: 0,0:10:55.21,0:10:56.45,Default,,0,0,0,,in your shoes
+Dialogue: 0,0:10:57.67,0:10:59.21,Default,,0,0,0,,look it after returning the hotel
+Dialogue: 0,0:11:08.56,0:11:09.90,Default,,0,0,0,,gold sands?
+Dialogue: 0,0:11:10.82,0:11:11.80,Default,,0,0,0,,Gold?
+Dialogue: 0,0:11:13.02,0:11:15.73,Default,,0,0,0,,The guy is Liaohuamu
+Dialogue: 0,0:11:49.86,0:11:51.34,Default,,0,0,0,,Stop. . . stop!
+Dialogue: 0,0:12:07.84,0:12:08.94,Default,,0,0,0,,What's wrong? Xihu
+Dialogue: 0,0:12:09.38,0:12:11.79,Default,,0,0,0,,The guy is Liaohuamu,\Na Japanese gold digger.
+Dialogue: 0,0:12:12.09,0:12:13.69,Default,,0,0,0,,What? Liaohuamu!
+Dialogue: 0,0:12:14.51,0:12:16.05,Default,,0,0,0,,The guy who attacked Mr. Ahsahe
+Dialogue: 0,0:12:16.89,0:12:18.20,Default,,0,0,0,,made him faint yesterday.
+Dialogue: 0,0:12:19.49,0:12:20.47,Default,,0,0,0,,Hey. guy!
+Dialogue: 0,0:12:20.96,0:12:21.96,Default,,0,0,0,,Wait, Mr. Ahsahe!
+Dialogue: 0,0:12:33.00,0:12:34.27,Default,,0,0,0,,Now we owe nothing to each other
+Dialogue: 0,0:12:34.67,0:12:35.68,Default,,0,0,0,,Mr. Photographer
+Dialogue: 0,0:12:39.11,0:12:41.39,Default,,0,0,0,,Wait! No force!
+Dialogue: 0,0:12:43.32,0:12:45.76,Default,,0,0,0,,Sorry, I treat you right now.
+Dialogue: 0,0:12:46.39,0:12:47.36,Default,,0,0,0,,No, thanks.
+Dialogue: 0,0:12:48.22,0:12:51.36,Default,,0,0,0,,But legwork must be stoped right now,\Nifs the most important!
+Dialogue: 0,0:12:51.56,0:12:52.37,Default,,0,0,0,,Back home.
+Dialogue: 0,0:12:52.69,0:12:54.37,Default,,0,0,0,,Liaohuamu,
+Dialogue: 0,0:12:54.69,0:12:55.60,Default,,0,0,0,,How about we have a talk
+Dialogue: 0,0:12:56.23,0:12:57.57,Default,,0,0,0,,We all are Japanese,
+Dialogue: 0,0:12:58.06,0:12:59.44,Default,,0,0,0,,why he refuses being interviewed?
+Dialogue: 0,0:13:01.47,0:13:02.71,Default,,0,0,0,,If you tell us the cause,
+Dialogue: 0,0:13:03.24,0:13:05.27,Default,,0,0,0,,we will not trouble you
+Dialogue: 0,0:13:07.83,0:13:08.54,Default,,0,0,0,,Wait!
+Dialogue: 0,0:13:08.87,0:13:11.28,Default,,0,0,0,,Wait, we are reporters.
+Dialogue: 0,0:13:12.15,0:13:15.62,Default,,0,0,0,,We must find him even lose our life.\NGold digger Liaohuamu
+Dialogue: 0,0:13:16.25,0:13:18.92,Default,,0,0,0,,You have no right to stop us.
+Dialogue: 0,0:13:22.39,0:13:25.00,Default,,0,0,0,,This is called Gaola,
+Dialogue: 0,0:13:25.33,0:13:28.00,Default,,0,0,0,,the purest gold of 99.99
+Dialogue: 0,0:13:29.42,0:13:31.56,Default,,0,0,0,,To now,
+Dialogue: 0,0:13:32.17,0:13:34.44,Default,,0,0,0,,How much viaticum remains we have?
+Dialogue: 0,0:13:35.30,0:13:36.61,Default,,0,0,0,,Take it back!
+Dialogue: 0,0:13:41.11,0:13:43.28,Default,,0,0,0,,You think every problems\Ncan be solved by gold,
+Dialogue: 0,0:13:43.81,0:13:46.12,Default,,0,0,0,,even reporters' conscience\Ncan be bought by gold.
+Dialogue: 0,0:13:46.48,0:13:47.46,Default,,0,0,0,,Absolutely impossible.
+Dialogue: 0,0:13:55.49,0:13:57.40,Default,,0,0,0,,Pick it up! What a pity, Xihu!
+Dialogue: 0,0:14:01.63,0:14:02.54,Default,,0,0,0,,Come!
+Dialogue: 0,0:14:03.19,0:14:04.69,Default,,0,0,0,,OK, come here!
+Dialogue: 0,0:14:05.86,0:14:07.63,Default,,0,0,0,,The guy will not give it up so easily!
+Dialogue: 0,0:14:08.46,0:14:11.81,Default,,0,0,0,,Pick it up!\NThe gold represents my youthhood.
+Dialogue: 0,0:14:12.90,0:14:14.88,Default,,0,0,0,,Do you know? I want to give it to you.
+Dialogue: 0,0:14:12.91,0:14:12.92,Default,,0,0,0,,
+Dialogue: 0,0:14:15.44,0:14:16.82,Default,,0,0,0,,The youthhood all?
+Dialogue: 0,0:14:17.57,0:14:19.28,Default,,0,0,0,,Yes! My world!
+Dialogue: 0,0:14:20.18,0:14:21.22,Default,,0,0,0,,Pick it up! Xihu!
+Dialogue: 0,0:14:21.67,0:14:22.85,Default,,0,0,0,,This guy!
+Dialogue: 0,0:14:23.38,0:14:25.09,Default,,0,0,0,,Don't call her so casual!
+Dialogue: 0,0:14:27.09,0:14:28.03,Default,,0,0,0,,IS it?
+Dialogue: 0,0:14:28.86,0:14:31.34,Default,,0,0,0,,The gold is the result of\Nyour sweat and blood,
+Dialogue: 0,0:14:31.85,0:14:34.69,Default,,0,0,0,,the result of your hard work\Nfor a long time, your youthhood.
+Dialogue: 0,0:14:35.86,0:14:38.67,Default,,0,0,0,,Do you think it worthy?
+Dialogue: 0,0:14:41.07,0:14:42.31,Default,,0,0,0,,This, returen to you.
+Dialogue: 0,0:14:42.90,0:14:45.75,Default,,0,0,0,,It's useless to me.
+Dialogue: 0,0:15:09.40,0:15:11.54,Default,,0,0,0,,Gold diggers can\Nbe divided into three kinds.
+Dialogue: 0,0:15:12.26,0:15:14.86,Default,,0,0,0,,Winner, loser and victim
+Dialogue: 0,0:15:15.94,0:15:17.51,Default,,0,0,0,,Winner find gold.
+Dialogue: 0,0:15:18.07,0:15:19.71,Default,,0,0,0,,Loser find no gold
+Dialogue: 0,0:15:20.17,0:15:22.92,Default,,0,0,0,,but they create victims.
+Dialogue: 0,0:15:24.14,0:15:26.06,Default,,0,0,0,,This is the final warning.
+Dialogue: 0,0:15:35.12,0:15:37.00,Default,,0,0,0,,Stop reporting now, go back!
+Dialogue: 0,0:15:37.69,0:15:39.90,Default,,0,0,0,,If you don't want to be victim.
+Dialogue: 0,0:15:41.53,0:15:43.34,Default,,0,0,0,,Which kind you belong to?
+Dialogue: 0,0:15:44.49,0:15:47.06,Default,,0,0,0,,I'm loser, as well as avenger
+Dialogue: 0,0:15:47.99,0:15:48.97,Default,,0,0,0,,Avenger?
+Dialogue: 0,0:16:00.51,0:16:01.69,Default,,0,0,0,,Yes! I'm avenger!
+Dialogue: 0,0:16:09.76,0:16:11.43,Default,,0,0,0,,So confusing
+Dialogue: 0,0:16:11.86,0:16:14.13,Default,,0,0,0,,Winner, loser,
+Dialogue: 0,0:16:14.66,0:16:16.14,Default,,0,0,0,,ls the guy mad?
+Dialogue: 0,0:16:16.73,0:16:18.07,Default,,0,0,0,,But he is great.
+Dialogue: 0,0:16:18.53,0:16:21.10,Default,,0,0,0,,The gold is valuable,
+Dialogue: 0,0:16:21.60,0:16:22.77,Default,,0,0,0,,equal to billions of Yuan
+Dialogue: 0,0:16:23.16,0:16:24.64,Default,,0,0,0,,bring it to the Police.
+Dialogue: 0,0:16:31.24,0:16:33.94,Default,,0,0,0,,I'm loser, as well as avenger
+Dialogue: 0,0:16:35.32,0:16:38.02,Default,,0,0,0,,avenger... avenger
+Dialogue: 0,0:16:38.85,0:16:40.16,Default,,0,0,0,,What's on earth the meaning?
+Dialogue: 0,0:16:41.15,0:16:42.36,Default,,0,0,0,,In a word, set off right now.
+Dialogue: 0,0:16:42.71,0:16:44.06,Default,,0,0,0,,Don't stay here any longer.
+Dialogue: 0,0:16:47.96,0:16:49.10,Default,,0,0,0,,Worst! Sankou
+Dialogue: 0,0:16:49.25,0:16:50.29,Default,,0,0,0,,Take the gold carefully.
+Dialogue: 0,0:17:12.39,0:17:13.42,Default,,0,0,0,,The guy's?
+Dialogue: 0,0:17:13.79,0:17:15.10,Default,,0,0,0,,They are local gold diggers
+Dialogue: 0,0:18:16.64,0:18:18.62,Default,,0,0,0,,Stop!
+Dialogue: 0,0:18:18.91,0:18:20.15,Default,,0,0,0,,What do you want to do with her?
+Dialogue: 0,0:18:20.55,0:18:22.53,Default,,0,0,0,,Don't touch her,\Notherwise I will beat you.
+Dialogue: 0,0:18:24.46,0:18:26.80,Default,,0,0,0,,Don't lie to me!\NYou've said you don't want the gold.
+Dialogue: 0,0:18:27.13,0:18:28.97,Default,,0,0,0,,It's Liaohuamu himself, put it down.
+Dialogue: 0,0:18:29.46,0:18:31.27,Default,,0,0,0,,I've said you are not worthy of\Nour confidence.
+Dialogue: 0,0:18:32.33,0:18:35.25,Default,,0,0,0,,I know better about white-haired ghost\Nthan you.
+Dialogue: 0,0:18:35.94,0:18:37.01,Default,,0,0,0,,White-haired ghost?
+Dialogue: 0,0:18:37.34,0:18:39.32,Default,,0,0,0,,Yes! It's Liaohuamu
+Dialogue: 0,0:18:39.94,0:18:41.54,Default,,0,0,0,,A cold-blooded guy.
+Dialogue: 0,0:18:42.01,0:18:43.58,Default,,0,0,0,,For money, he can kill everyone.
+Dialogue: 0,0:18:44.18,0:18:45.59,Default,,0,0,0,,Just like a demon.
+Dialogue: 0,0:18:46.15,0:18:48.49,Default,,0,0,0,,Such a guy never put down gold\Nwithout sake.
+Dialogue: 0,0:18:48.97,0:18:50.45,Default,,0,0,0,,Hey! Speak out!
+Dialogue: 0,0:18:50.78,0:18:52.02,Default,,0,0,0,,Where did you get the gold?
+Dialogue: 0,0:18:53.45,0:18:54.69,Default,,0,0,0,,I don't know. I don't know.
+Dialogue: 0,0:18:54.99,0:18:55.97,Default,,0,0,0,,Really?
+Dialogue: 0,0:19:04.26,0:19:06.18,Default,,0,0,0,,This is poison cicala called Masajia
+Dialogue: 0,0:19:06.66,0:19:08.64,Default,,0,0,0,,Formal name is Ladabule
+Dialogue: 0,0:19:09.16,0:19:11.97,Default,,0,0,0,,If pinked by it, man wants to get woman
+Dialogue: 0,0:19:12.36,0:19:14.14,Default,,0,0,0,,and woman wants to be embraced by man,
+Dialogue: 0,0:19:14.54,0:19:16.49,Default,,0,0,0,,closest to her.
+Dialogue: 0,0:19:19.91,0:19:21.12,Default,,0,0,0,,What do you want?
+Dialogue: 0,0:19:33.86,0:19:35.60,Default,,0,0,0,,Stop! Stop please!
+Dialogue: 0,0:19:37.13,0:19:39.11,Default,,0,0,0,,We do nothing.
+Dialogue: 0,0:19:39.83,0:19:41.44,Default,,0,0,0,,It Masajia itself flying here.
+Dialogue: 0,0:19:41.76,0:19:44.07,Default,,0,0,0,,Why not to stop\Non the stern of this girl?
+Dialogue: 0,0:19:58.18,0:19:59.66,Default,,0,0,0,,OK, we give all the gold we have to you.
+Dialogue: 0,0:20:00.19,0:20:01.46,Default,,0,0,0,,You also got our camera!
+Dialogue: 0,0:20:01.96,0:20:03.13,Default,,0,0,0,,Please, stop!
+Dialogue: 0,0:20:04.08,0:20:05.12,Default,,0,0,0,,Try!
+Dialogue: 0,0:20:05.56,0:20:07.56,Default,,0,0,0,,Try to move your stern!
+Dialogue: 0,0:20:08.52,0:20:10.09,Default,,0,0,0,,Throw Masajia out soon,
+Dialogue: 0,0:20:10.40,0:20:11.64,Default,,0,0,0,,otherwise you will be bited.
+Dialogue: 0,0:20:42.16,0:20:43.70,Default,,0,0,0,,That is Indian's superstition.
+Dialogue: 0,0:20:44.26,0:20:45.63,Default,,0,0,0,,Even bited by Masajia,\Nyou will be all right.
+Dialogue: 0,0:20:52.11,0:20:54.64,Default,,0,0,0,,It's me, give the gold to them.
+Dialogue: 0,0:20:55.81,0:20:57.35,Default,,0,0,0,,You don't agree? You scraps.
+Dialogue: 0,0:21:00.31,0:21:01.49,Default,,0,0,0,,Yes, we are waiting
+Dialogue: 0,0:21:01.95,0:21:05.02,Default,,0,0,0,,You come here without help.
+Dialogue: 0,0:21:06.09,0:21:08.46,Default,,0,0,0,,Are you the boss of\Nthose wandering dogs?
+Dialogue: 0,0:21:09.35,0:21:11.09,Default,,0,0,0,,Watch your mouth! How about cooperation?
+Dialogue: 0,0:21:11.35,0:21:12.52,Default,,0,0,0,,Liaohuamu.
+Dialogue: 0,0:21:13.75,0:21:17.03,Default,,0,0,0,,What a pity!\NI never sell gold to sinister gang.
+Dialogue: 0,0:21:17.92,0:21:18.99,Default,,0,0,0,,Sinister gang?
+Dialogue: 0,0:21:19.53,0:21:21.77,Default,,0,0,0,,Yes, they are sinister gang.
+Dialogue: 0,0:21:22.70,0:21:24.34,Default,,0,0,0,,They outsmart Brazil government,
+Dialogue: 0,0:21:24.90,0:21:26.67,Default,,0,0,0,,{\i1}gather gum hum gum diggers{\i0}
+Dialogue: 0,0:21:26.90,0:21:28.00,Default,,0,0,0,,and then bring them\Nto their organization.
+Dialogue: 0,0:21:29.28,0:21:31.45,Default,,0,0,0,,I've knowed being followed up by them,
+Dialogue: 0,0:21:32.47,0:21:34.42,Default,,0,0,0,,so put the gold down here on purpose.
+Dialogue: 0,0:21:35.58,0:21:36.89,Default,,0,0,0,,There are two purposes
+Dialogue: 0,0:21:37.64,0:21:41.52,Default,,0,0,0,,One is to make you experience dangers\Nin person
+Dialogue: 0,0:21:41.96,0:21:43.70,Default,,0,0,0,,then you stop the legwork.
+Dialogue: 0,0:21:44.89,0:21:46.53,Default,,0,0,0,,Another one is
+Dialogue: 0,0:21:48.06,0:21:49.60,Default,,0,0,0,,to unveil those guy,
+Dialogue: 0,0:21:50.03,0:21:51.37,Default,,0,0,0,,drive them out of this place.
+Dialogue: 0,0:21:52.53,0:21:53.67,Default,,0,0,0,,If you dare, fire now!
+Dialogue: 0,0:21:54.33,0:21:55.94,Default,,0,0,0,,These little-caliber bullets
+Dialogue: 0,0:21:56.44,0:21:57.88,Default,,0,0,0,,can't threat me,
+Dialogue: 0,0:21:59.94,0:22:03.15,Default,,0,0,0,,Yes, we are clear about it too.
+Dialogue: 0,0:22:03.67,0:22:06.08,Default,,0,0,0,,To deal with\Nlong-life white-haired ghost
+Dialogue: 0,0:22:06.58,0:22:09.39,Default,,0,0,0,,of couse, we should have some odds.
+Dialogue: 0,0:22:15.32,0:22:16.32,Default,,0,0,0,,Liaohuamu
+Dialogue: 0,0:22:16.59,0:22:18.90,Default,,0,0,0,,I saw you buying this toy,
+Dialogue: 0,0:22:20.12,0:22:22.66,Default,,0,0,0,,you are hesitating\Nto choose an elephant toy
+Dialogue: 0,0:22:23.03,0:22:24.80,Default,,0,0,0,,or a person-like toy,
+Dialogue: 0,0:22:27.77,0:22:30.75,Default,,0,0,0,,but finally you bought\Na person-like toy of love.
+Dialogue: 0,0:22:31.44,0:22:33.58,Default,,0,0,0,,To who?
+Dialogue: 0,0:22:34.34,0:22:36.62,Default,,0,0,0,,You fall in love with a woman,\Nso surprising.
+Dialogue: 0,0:22:37.08,0:22:39.42,Default,,0,0,0,,It's easy to have a talk.
+Dialogue: 0,0:22:45.98,0:22:47.68,Default,,0,0,0,,How is it going? Liaohuamu.
+Dialogue: 0,0:22:48.19,0:22:50.67,Default,,0,0,0,,Don't you care if the lady get hurted?
+Dialogue: 0,0:22:51.02,0:22:52.77,Default,,0,0,0,,How about accept this dealing ?
+Dialogue: 0,0:22:54.76,0:22:55.76,Default,,0,0,0,,Despicable guys.
+Dialogue: 0,0:22:56.10,0:22:57.63,Default,,0,0,0,,Never forgive you.
+Dialogue: 0,0:23:52.29,0:23:53.63,Default,,0,0,0,,Ah...monster
+Dialogue: 0,0:23:55.78,0:23:56.78,Default,,0,0,0,,Run, run.
+Dialogue: 0,0:24:30.22,0:24:31.46,Default,,0,0,0,,I will surrender to the Police.
+Dialogue: 0,0:24:32.15,0:24:34.06,Default,,0,0,0,,A hearing is waiting for me.
+Dialogue: 0,0:24:34.83,0:24:37.40,Default,,0,0,0,,It takes half a year to prove that\Nlam innocent and released.
+Dialogue: 0,0:24:39.13,0:24:40.87,Default,,0,0,0,,In this case, our legwork can't go on.
+Dialogue: 0,0:24:41.27,0:24:42.18,Default,,0,0,0,,To me,
+Dialogue: 0,0:24:44.87,0:24:46.51,Default,,0,0,0,,when I take taxi back,
+Dialogue: 0,0:24:47.07,0:24:49.31,Default,,0,0,0,,I should say "Pozhishalu" in Brazilian,
+Dialogue: 0,0:24:49.98,0:24:52.48,Default,,0,0,0,,Most of Japanese pronounciation\Ncan't help you,
+Dialogue: 0,0:24:53.10,0:24:54.48,Default,,0,0,0,,so use this way to remember,
+Dialogue: 0,0:24:55.18,0:24:56.46,Default,,0,0,0,,Boshizhoulu'
+Dialogue: 0,0:24:57.05,0:24:59.36,Default,,0,0,0,,This pronounciation is surely helpful.
+Dialogue: 0,0:25:44.06,0:25:46.04,Default,,0,0,0,,Ah, you are from a remote place,
+Dialogue: 0,0:25:46.22,0:25:47.86,Default,,0,0,0,,want to see the man, doesn't it'?
+Dialogue: 0,0:25:54.77,0:25:56.48,Default,,0,0,0,,Ah, is he still here?
+Dialogue: 0,0:25:57.08,0:25:58.85,Default,,0,0,0,,Two weeks have passed away!
+Dialogue: 0,0:26:00.01,0:26:01.58,Default,,0,0,0,,The legwork has finished.
+Dialogue: 0,0:26:02.05,0:26:03.05,Default,,0,0,0,,You have no proportion.
+Dialogue: 0,0:26:03.94,0:26:05.42,Default,,0,0,0,,You want to say good-bye to me, is it?
+Dialogue: 0,0:26:07.31,0:26:09.59,Default,,0,0,0,,I have given my resign letter\Nto the legwork group.
+Dialogue: 0,0:26:10.56,0:26:12.47,Default,,0,0,0,,I come here
+Dialogue: 0,0:26:12.79,0:26:14.36,Default,,0,0,0,,for the person-like toy
+Dialogue: 0,0:26:14.89,0:26:16.43,Default,,0,0,0,,and my future.
+Dialogue: 0,0:26:17.00,0:26:18.94,Default,,0,0,0,,I will never leave you alone,
+Dialogue: 0,0:26:19.43,0:26:20.50,Default,,0,0,0,,be with you
+Dialogue: 0,0:26:21.33,0:26:23.01,Default,,0,0,0,,day and night,
+Dialogue: 0,0:26:23.50,0:26:25.60,Default,,0,0,0,,even you go bathing and to washing room.
+Dialogue: 0,0:26:27.77,0:26:28.62,Default,,0,0,0,,Why?
+Dialogue: 0,0:26:28.94,0:26:29.89,Default,,0,0,0,,Hatred
+Dialogue: 0,0:26:30.27,0:26:31.21,Default,,0,0,0,,I hate you
+Dialogue: 0,0:26:31.71,0:26:33.32,Default,,0,0,0,,I want to take avenge on you\Nfor the shame you brought to me.
+Dialogue: 0,0:26:34.01,0:26:36.12,Default,,0,0,0,,If not succeed, I'd like to die.
+Dialogue: 0,0:26:50.43,0:26:52.93,Default,,0,0,0,,It's obstacle,\Nbesides it's not a good place
+Dialogue: 0,0:26:53.23,0:26:55.27,Default,,0,0,0,,where woman can live.
+Dialogue: 0,0:26:55.66,0:26:57.07,Default,,0,0,0,,At last,\Nyou will become the food of vultures.
+Dialogue: 0,0:26:58.64,0:27:00.24,Default,,0,0,0,,You protect me
+Dialogue: 0,0:27:00.74,0:27:02.12,Default,,0,0,0,,if vultures attack me,
+Dialogue: 0,0:27:02.51,0:27:03.82,Default,,0,0,0,,You kill them,
+Dialogue: 0,0:27:09.05,0:27:11.49,Default,,0,0,0,,vultures don't attack strangers.
+Dialogue: 0,0:27:11.72,0:27:13.86,Default,,0,0,0,,Can you shoot them down?
+Dialogue: 0,0:27:15.09,0:27:16.29,Default,,0,0,0,,If for me,
+Dialogue: 0,0:27:21.66,0:27:22.73,Default,,0,0,0,,Impossible,
+Dialogue: 0,0:27:25.47,0:27:26.74,Default,,0,0,0,,May I go with you?
+Dialogue: 0,0:27:27.07,0:27:28.07,Default,,0,0,0,,Take me there?
+Dialogue: 0,0:27:29.00,0:27:30.38,Default,,0,0,0,,A great farewell.
+Dialogue: 0,0:27:31.14,0:27:32.67,Default,,0,0,0,,You don't want to\Nleave without saying a word,
+Dialogue: 0,0:27:33.07,0:27:34.98,Default,,0,0,0,,don't want to\Nsay good-bye frankly as well,
+Dialogue: 0,0:27:35.44,0:27:37.29,Default,,0,0,0,,and you speak out\Nthe bet with hatred as an excuse,
+Dialogue: 0,0:27:37.81,0:27:39.45,Default,,0,0,0,,and make the impossibility
+Dialogue: 0,0:27:39.70,0:27:40.91,Default,,0,0,0,,as the prelude of goodbye.
+Dialogue: 0,0:27:41.35,0:27:42.95,Default,,0,0,0,,An performance for leaving
+Dialogue: 0,0:27:43.78,0:27:44.89,Default,,0,0,0,,is much suitable for you,
+Dialogue: 0,0:27:46.39,0:27:47.36,Default,,0,0,0,,is it?
+Dialogue: 0,0:27:51.89,0:27:53.23,Default,,0,0,0,,Can you accompany me to the port?
+Dialogue: 0,0:27:53.66,0:27:54.90,Default,,0,0,0,,The gold you gave to me
+Dialogue: 0,0:27:55.40,0:27:56.67,Default,,0,0,0,,is kept here.
+Dialogue: 0,0:27:57.23,0:27:58.73,Default,,0,0,0,,I present a small scrap
+Dialogue: 0,0:27:59.03,0:28:00.38,Default,,0,0,0,,to the officer of the Police,
+Dialogue: 0,0:28:01.10,0:28:04.34,Default,,0,0,0,,so policemen will not interfere me
+Dialogue: 0,0:28:04.93,0:28:06.74,Default,,0,0,0,,if you walk with me to the port.
+Dialogue: 0,0:28:35.94,0:28:38.71,Default,,0,0,0,,I will not throw you away\Nif you go back Japan,
+Dialogue: 0,0:28:39.16,0:28:41.41,Default,,0,0,0,,I will unveil you sooner or later.
+Dialogue: 0,0:28:42.24,0:28:43.74,Default,,0,0,0,,There is a Japanese saying,
+Dialogue: 0,0:28:48.15,0:28:49.96,Default,,0,0,0,,It dosen't matter.
+Dialogue: 0,0:28:59.22,0:29:00.86,Default,,0,0,0,,Bye-
+Dialogue: 0,0:29:17.61,0:29:19.68,Default,,0,0,0,,I think I will not forget you.
+Dialogue: 0,0:29:20.45,0:29:21.95,Default,,0,0,0,,But perhaps you will not remember me.
+Dialogue: 0,0:29:22.45,0:29:23.36,Default,,0,0,0,,Good-bye!
+Dialogue: 0,0:30:32.15,0:30:33.19,Default,,0,0,0,,I win!
+Dialogue: 0,0:30:33.75,0:30:35.16,Default,,0,0,0,,You shoot vultures, don't you?
+Dialogue: 0,0:30:35.49,0:30:36.43,Default,,0,0,0,,For me!
+Dialogue: 0,0:30:39.85,0:30:43.16,Default,,0,0,0,,I want to be with you. I love you!
+Dialogue: 0,0:30:57.71,0:30:59.16,Default,,0,0,0,,Xihu!

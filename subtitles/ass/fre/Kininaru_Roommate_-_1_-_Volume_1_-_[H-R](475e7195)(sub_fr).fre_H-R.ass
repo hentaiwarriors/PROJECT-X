@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: <FR>
+Original Script: <Fr>
+ScriptType: v4.00+
+Creator: Hijo
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Comic Sans MS,21,&H00FFFFFF,&H00FFFFFF,&H00FB833D,&H00FB833D,-1,0,1,1,1,2,30,30,10,0,0
+Style: Default2,Comic Sans MS,20,&H00FFFFFF,&H00FFFFFF,&H00FF2DEF,&H00FF2DEF,-1,0,1,1,1,2,30,30,10,0,0
+Style: Default3,Comic Sans MS,20,&H00FFFFFF,&H00FFFFFF,&H00FB833D,&H00FB833D,-1,0,1,1,1,2,30,30,10,0,0
+Style: team,Comic Sans MS,24,&H00FFFFFF,&H00FFFFFF,&H00CC405B,&H00CC405B,-1,0,1,1,1,2,30,30,10,0,0
+Style: credits,Impact,18,&H00FFFFFF,&H0000FFFF,&H003F0B71,&H001F1F1F,-1,0,1,1,1,2,30,30,10,0,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.06,0:00:04.76,Default,,0000,0000,0000,,Je suis si heureuse que nous allions au même lycée en avril.
+Dialogue: 0,0:00:00.06,0:00:04.76,Default2,,0000,0000,0000,,{\a6}{\i1}Note : Au Japon, la rentrée se fait en avril{\i0}
+Dialogue: 0,0:00:04.93,0:00:05.83,Default,,0000,0000,0000,,Ouais...
+Dialogue: 0,0:00:06.43,0:00:09.56,Default,,0000,0000,0000,,Tu as vraiment étudié à fond pour moi, n'est-ce pas ?
+Dialogue: 0,0:00:09.94,0:00:10.63,Default,,0000,0000,0000,,Ouais...
+Dialogue: 0,0:00:11.51,0:00:14.00,Default,,0000,0000,0000,,Hé, tu m'écoutes Suguru ?
+Dialogue: 0,0:00:15.38,0:00:16.37,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:00:20.11,0:00:21.51,Default,,0000,0000,0000,,Embrasse-moi.
+Dialogue: 0,0:00:22.25,0:00:23.84,Default,,0000,0000,0000,,Ou... oui...
+Dialogue: 0,0:01:15.14,0:01:16.70,Default,,0000,0000,0000,,Détends-toi un peu.
+Dialogue: 0,0:01:18.81,0:01:19.97,Default,,0000,0000,0000,,Allez, détends-toi.
+Dialogue: 0,0:01:20.54,0:01:21.77,Default,,0000,0000,0000,,Je...
+Dialogue: 0,0:01:24.11,0:01:25.41,Default,,0000,0000,0000,,Ca fait mal.
+Dialogue: 0,0:01:27.35,0:01:28.04,Default,,0000,0000,0000,,Pardon.
+Dialogue: 0,0:01:32.72,0:01:34.45,Default,,0000,0000,0000,,Hazuki, ouvre les jambes.
+Dialogue: 0,0:01:35.99,0:01:37.29,Default,,0000,0000,0000,,Si tu n'ouvres pas...
+Dialogue: 0,0:01:37.76,0:01:39.85,Default,,0000,0000,0000,,Non, éteins la lumière...
+Dialogue: 0,0:01:39.96,0:01:41.83,Default,,0000,0000,0000,,Non, allez.
+Dialogue: 0,0:01:47.20,0:01:54.00,team,,0000,0000,0000,,{\a6}<b>Hentai - Révélation</b>
+Dialogue: 0,0:01:56.14,0:01:58.58,Default,,0000,0000,0000,,Ne... regarde pas.
+Dialogue: 0,0:01:59.71,0:02:00.77,Default,,0000,0000,0000,,Ca non plus.
+Dialogue: 0,0:02:01.48,0:02:02.41,Default,,0000,0000,0000,,Arrête.
+Dialogue: 0,0:02:27.01,0:02:28.84,Default,,0000,0000,0000,,Non, pas ici.
+Dialogue: 0,0:02:35.98,0:02:37.64,Default,,0000,0000,0000,,Suguru, je veux te faire plaisir aussi.
+Dialogue: 0,0:02:38.52,0:02:39.32,Default,,0000,0000,0000,,Vraiment !?
+Dialogue: 0,0:02:39.55,0:02:44.72,Default,,0000,0000,0000,,Oui, j'ai aussi étudié les différentes façons de te faire du bien.
+Dialogue: 0,0:02:54.00,0:02:56.63,Default,,0000,0000,0000,,Alors, c'est bon ?
+Dialogue: 0,0:02:57.61,0:02:58.57,Default,,0000,0000,0000,,Oui...
+Dialogue: 0,0:03:07.72,0:03:09.01,Default,,0000,0000,0000,,C'est bon...
+Dialogue: 0,0:03:11.92,0:03:15.41,Default,,0000,0000,0000,,Hazuki, je peux y aller ?
+Dialogue: 0,0:03:18.49,0:03:19.96,Default,,0000,0000,0000,,Oui, d'accord.
+Dialogue: 0,0:03:22.03,0:03:23.33,Default,,0000,0000,0000,,J'y vais...
+Dialogue: 0,0:03:27.27,0:03:29.53,Default,,0000,0000,0000,,Je crois que c'est ici...?
+Dialogue: 0,0:03:34.74,0:03:37.17,Default,,0000,0000,0000,,Ca...
+Dialogue: 0,0:03:38.05,0:03:39.67,Default,,0000,0000,0000,,...fait mal !
+Dialogue: 0,0:03:40.38,0:03:41.75,Default,,0000,0000,0000,,Tu vas bien ?
+Dialogue: 0,0:03:42.22,0:03:43.11,Default,,0000,0000,0000,,Oui...
+Dialogue: 0,0:03:43.78,0:03:44.77,Default,,0000,0000,0000,,Tu veux qu'on arrête ?
+Dialogue: 0,0:03:45.35,0:03:48.12,Default,,0000,0000,0000,,Non, c'est bon...
+Dialogue: 0,0:03:48.42,0:03:49.32,Default,,0000,0000,0000,,Ok...
+Dialogue: 0,0:03:54.73,0:03:57.79,Default,,0000,0000,0000,,Suguru, tu es à l'intérieur...
+Dialogue: 0,0:03:58.33,0:04:01.17,Default,,0000,0000,0000,,C'est si chaud... et bon.
+Dialogue: 0,0:04:02.04,0:04:05.53,Default,,0000,0000,0000,,Hazuki, tu es toute chaude aussi, c'est bon.
+Dialogue: 0,0:04:16.75,0:04:18.01,Default,,0000,0000,0000,,<i>Ca fait mal...</i>
+Dialogue: 0,0:04:18.75,0:04:21.02,Default,,0000,0000,0000,,<i>C'était pas censé faire du bien ?</i>
+Dialogue: 0,0:04:24.26,0:04:26.75,Default,,0000,0000,0000,,C'est trop serré, je ne...
+Dialogue: 0,0:04:27.49,0:04:29.96,Default,,0000,0000,0000,,Je... je jouis, Hazuki !
+Dialogue: 0,0:04:31.27,0:04:32.89,Default,,0000,0000,0000,,R... retire-toi !
+Dialogue: 0,0:04:40.81,0:04:45.58,Default,,0000,0000,0000,,J'ai ton sperme partout sur le corps.
+Dialogue: 0,0:04:46.28,0:04:49.58,Default,,0000,0000,0000,,Tu devais vraiment attendre ce moment.
+Dialogue: 0,0:04:50.42,0:04:53.48,Default,,0000,0000,0000,,Mais on peut le faire n'importe quand maintenant.
+Dialogue: 0,0:04:54.15,0:04:56.68,Default,,0000,0000,0000,,Merci d'avoir tenu ta promesse, Suguru.
+Dialogue: 0,0:04:58.89,0:05:00.62,Default,,0000,0000,0000,,Tu m'écoutes, Suguru ?
+Dialogue: 0,0:05:01.43,0:05:02.40,Default,,0000,0000,0000,,Désolé....
+Dialogue: 0,0:05:03.53,0:05:05.66,Default,,0000,0000,0000,,Qu'est-ce qui ne va pas ? Pourquoi tu t'excuses ?
+Dialogue: 0,0:05:06.57,0:05:07.80,Default,,0000,0000,0000,,Je suis vraiment désolé !
+Dialogue: 0,0:05:08.34,0:05:10.33,Default,,0000,0000,0000,,Quoi, tu as joui à l'intérieur ?
+Dialogue: 0,0:05:10.80,0:05:12.60,Default,,0000,0000,0000,,Non, c'est pas ça.
+Dialogue: 0,0:05:13.14,0:05:14.30,Default,,0000,0000,0000,,Quoi alors ?
+Dialogue: 0,0:05:15.74,0:05:17.90,Default,,0000,0000,0000,,Ech... échoué
+Dialogue: 0,0:05:18.71,0:05:19.70,Default,,0000,0000,0000,,Hein ?
+Dialogue: 0,0:05:20.41,0:05:23.18,Default,,0000,0000,0000,,Je suis désolé,\Nje n'ai pas été accepté !
+Dialogue: 0,0:05:24.22,0:05:26.58,Default,,0000,0000,0000,,Pas été accepté ?
+Dialogue: 0,0:05:27.66,0:05:28.38,Default,,0000,0000,0000,,Oui...
+Dialogue: 0,0:05:29.76,0:05:31.09,Default,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:05:31.16,0:05:31.95,Default,,0000,0000,0000,,Désolé.
+Dialogue: 0,0:05:32.06,0:05:34.89,Default,,0000,0000,0000,,Pourquoi tu ne me l'as pas dit plus tôt ?
+Dialogue: 0,0:05:36.50,0:05:40.56,Default,,0000,0000,0000,,Je voulais... coucher... avec toi.
+Dialogue: 0,0:05:41.67,0:05:42.64,Default,,0000,0000,0000,,Vraiment désolé !
+Dialogue: 0,0:05:43.84,0:05:45.50,Default,,0000,0000,0000,,C'est pour ça... ?
+Dialogue: 0,0:05:46.34,0:05:50.90,Default,,0000,0000,0000,,Oui, mais je travaillerais dur pour réussir l'an prochain, alors Hazuki...
+Dialogue: 0,0:05:51.55,0:05:53.78,Default,,0000,0000,0000,,Sale menteur !!
+Dialogue: 0,0:05:59.85,0:06:01.62,Default,,0000,0000,0000,,<i>Pas de copine, pas d'école...</i>
+Dialogue: 0,0:06:01.86,0:06:04.15,Default,,0000,0000,0000,,<i>Mais tout ça vient de mes mensonges...</i>
+Dialogue: 0,0:06:06.83,0:06:10.39,Default,,0000,0000,0000,,<i>Je n'aurais jamais dû faire une telle promesse.</i>
+Dialogue: 0,0:06:11.63,0:06:14.69,Default,,0000,0000,0000,,<i>Je crois que je vais juste en finir en sautant...</i>
+Dialogue: 0,0:06:25.11,0:06:26.81,Default,,0000,0000,0000,,<i>Quelqu'un entre dans la rivière, serait-ce... !?</i>
+Dialogue: 0,0:06:27.51,0:06:28.57,Default,,0000,0000,0000,,<i>Une personne suicidaire !</i>
+Dialogue: 0,0:06:37.29,0:06:38.85,Default,,0000,0000,0000,,Ne fais pas ça !
+Dialogue: 0,0:06:42.43,0:06:45.19,Default,,0000,0000,0000,,Il ne faut pas se suicider à cause des études !
+Dialogue: 0,0:06:49.80,0:06:51.40,Default,,0000,0000,0000,,<i>Elle est mignonne.</i>
+Dialogue: 0,0:06:52.07,0:06:53.66,Default,,0000,0000,0000,,Pardon, vous allez bien ?
+Dialogue: 0,0:06:55.18,0:06:56.37,Default,,0000,0000,0000,,Ma broche.
+Dialogue: 0,0:06:56.98,0:06:58.95,Default,,0000,0000,0000,,Oh, vous cherchiez votre broche.
+Dialogue: 0,0:06:59.15,0:07:00.17,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:07:02.98,0:07:04.97,Default,,0000,0000,0000,,Je l'ai faite tomber du pont.
+Dialogue: 0,0:07:07.86,0:07:09.05,Default,,0000,0000,0000,,Elle ressemble à quoi ?
+Dialogue: 0,0:07:09.59,0:07:11.82,Default,,0000,0000,0000,,Elle est à peu près de cette taille, plutôt ronde,
+Dialogue: 0,0:07:12.23,0:07:13.82,Default,,0000,0000,0000,,blanche avec une touche de bleu
+Dialogue: 0,0:07:13.89,0:07:16.39,Default,,0000,0000,0000,,et je l'ai attachée à un cordon pour en faire un collier.
+Dialogue: 0,0:07:18.70,0:07:22.00,Default,,0000,0000,0000,,Mais tu n'es pas obligé de m'aider...
+Dialogue: 0,0:07:22.10,0:07:25.13,Default,,0000,0000,0000,,<i>Si je ne le fais pas, il va faire noir et elle sera vraiment perdue.</i>
+Dialogue: 0,0:07:26.97,0:07:29.27,Default,,0000,0000,0000,,En plus, c'est de ma faute si tu es trempée.
+Dialogue: 0,0:07:40.59,0:07:42.11,Default,,0000,0000,0000,,Où peut-elle...
+Dialogue: 0,0:07:46.76,0:07:50.03,Default,,0000,0000,0000,,Je ne peux pas me passer de ce souvenir de ma mère...
+Dialogue: 0,0:07:52.00,0:07:53.73,Default,,0000,0000,0000,,Est-ce qu'elle se serait déplacée ?
+Dialogue: 0,0:07:56.90,0:07:59.40,Default,,0000,0000,0000,,Ne t'inquiètes pas, on va la trouver !
+Dialogue: 0,0:08:01.34,0:08:03.74,Default,,0000,0000,0000,,Ca va aller, je suis désolée...
+Dialogue: 0,0:08:05.48,0:08:07.91,Default,,0000,0000,0000,,Qu'est-ce que tu racontes, c'était pas censé être important ?
+Dialogue: 0,0:08:08.28,0:08:09.81,Default,,0000,0000,0000,,N'abandonne pas.
+Dialogue: 0,0:08:09.88,0:08:10.91,Default,,0000,0000,0000,,Trouvons-la !
+Dialogue: 0,0:08:11.39,0:08:12.37,Default,,0000,0000,0000,,Mais...
+Dialogue: 0,0:08:13.99,0:08:15.75,Default,,0000,0000,0000,,On a cherché partout...
+Dialogue: 0,0:08:16.26,0:08:18.45,Default,,0000,0000,0000,,Si elle l'a faite tombé du pont... c'est ça !
+Dialogue: 0,0:08:22.63,0:08:23.69,Default,,0000,0000,0000,,Trouvée !
+Dialogue: 0,0:08:26.37,0:08:27.42,Default,,0000,0000,0000,,Tu vois, elle est ici !
+Dialogue: 0,0:08:27.50,0:08:30.20,Default,,0000,0000,0000,,Elle était juste coincée entre les rochers !
+Dialogue: 0,0:08:38.25,0:08:42.34,Default,,0000,0000,0000,,Merci beaucoup !
+Dialogue: 0,0:08:44.05,0:08:46.02,Default,,0000,0000,0000,,Voilà, ne la perds plus.
+Dialogue: 0,0:08:55.40,0:08:57.66,Default,,0000,0000,0000,,C'est mon numéro.
+Dialogue: 0,0:08:58.73,0:09:00.63,Default,,0000,0000,0000,,Tu m'appelleras, promis ?
+Dialogue: 0,0:09:01.74,0:09:02.43,Default,,0000,0000,0000,,Bien sûr.
+Dialogue: 0,0:09:05.54,0:09:07.77,Default,,0000,0000,0000,,Qu'est-ce que tu fais, Suguru !
+Dialogue: 0,0:09:08.78,0:09:10.61,Default,,0000,0000,0000,,H... heu, je ne connais pas ton nom !?
+Dialogue: 0,0:09:12.28,0:09:14.44,Default,,0000,0000,0000,,Hé, Suguru !
+Dialogue: 0,0:09:16.72,0:09:18.69,Default,,0000,0000,0000,,C'est qui cette fille ?
+Dialogue: 0,0:09:20.45,0:09:22.29,Default,,0000,0000,0000,,Je t'appellerai !
+Dialogue: 0,0:09:27.63,0:09:29.79,Default,,0000,0000,0000,,Suguru !
+Dialogue: 0,0:09:33.70,0:09:36.40,Default,,0000,0000,0000,,Ha... Hazuki, non !\NIl y a une explication...
+Dialogue: 0,0:09:36.97,0:09:38.64,Default,,0000,0000,0000,,C'est qui cette fille que tu dragues ?
+Dialogue: 0,0:09:38.87,0:09:42.34,Default,,0000,0000,0000,,Menteur, pervers, monsieur incapable-de-se-retirer !
+Dialogue: 0,0:09:42.68,0:09:44.17,Default,,0000,0000,0000,,Ecoute-moi, Hazuki !
+Dialogue: 0,0:09:53.65,0:09:56.92,Default,,0000,0000,0000,,Idiot de Suguru !!
+Dialogue: 0,0:10:08.47,0:10:10.03,Default,,0000,0000,0000,,Hé, attends.
+Dialogue: 0,0:10:17.14,0:10:18.37,Default,,0000,0000,0000,,Hazuki...
+Dialogue: 0,0:10:24.95,0:10:25.92,Default,,0000,0000,0000,,Ouch !
+Dialogue: 0,0:10:25.99,0:10:29.01,Default,,0000,0000,0000,,Oh, ne te cause plus d'ennuis.
+Dialogue: 0,0:10:29.39,0:10:30.79,Default,,0000,0000,0000,,Merci beaucoup.
+Dialogue: 0,0:10:31.39,0:10:35.33,Default,,0000,0000,0000,,Mais pourquoi êtes-vous aussi gentille avec moi ?
+Dialogue: 0,0:10:35.60,0:10:37.26,Default,,0000,0000,0000,,Ai-je besoin d'un motif ?
+Dialogue: 0,0:10:37.40,0:10:39.73,Default,,0000,0000,0000,,Comment pourrai-je ne pas être gentille
+Dialogue: 0,0:10:39.84,0:10:42.73,Default,,0000,0000,0000,,avec une mignon petit chaton pleurant dans le caniveau ?
+Dialogue: 0,0:10:45.74,0:10:49.07,Default,,0000,0000,0000,,Prends une douche,\Ntu vas attraper froid.
+Dialogue: 0,0:10:52.38,0:10:53.51,Default,,0000,0000,0000,,J'entre.
+Dialogue: 0,0:10:56.05,0:10:57.21,Default,,0000,0000,0000,,Tu t'es bien lavé ?
+Dialogue: 0,0:10:59.19,0:11:00.68,Default,,0000,0000,0000,,Tu pleures encore ?
+Dialogue: 0,0:11:07.66,0:11:09.39,Default,,0000,0000,0000,,Ne sois pas si tendu.
+Dialogue: 0,0:11:12.17,0:11:14.66,Default,,0000,0000,0000,,Wahou, tu es vraiment dur d'ici.
+Dialogue: 0,0:11:19.21,0:11:21.04,Default,,0000,0000,0000,,Oh, que voilà...
+Dialogue: 0,0:11:22.44,0:11:23.60,Default,,0000,0000,0000,,Laisse-moi le laver.
+Dialogue: 0,0:11:53.57,0:11:55.17,Default,,0000,0000,0000,,Oh, tu es si énergique.
+Dialogue: 0,0:11:58.01,0:11:59.14,Default,,0000,0000,0000,,Pardon...
+Dialogue: 0,0:12:02.68,0:12:03.84,Default,,0000,0000,0000,,Trop mignon.
+Dialogue: 0,0:12:13.99,0:12:15.89,Default,,0000,0000,0000,,Alors, ça t'a fait du bien ?
+Dialogue: 0,0:12:21.33,0:12:22.27,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:12:30.41,0:12:33.31,Default,,0000,0000,0000,,C'est impressionant, et trés viril...
+Dialogue: 0,0:12:34.61,0:12:36.21,Default,,0000,0000,0000,,Ca remue.
+Dialogue: 0,0:12:36.28,0:12:39.01,Default,,0000,0000,0000,,Ne t'inquiètes... de rien.
+Dialogue: 0,0:12:39.59,0:12:42.25,Default,,0000,0000,0000,,Sois fier, tu es un homme.
+Dialogue: 0,0:12:46.03,0:12:49.26,Default,,0000,0000,0000,,Après tout, tu me plais, n'est-ce pas ?
+Dialogue: 0,0:12:59.97,0:13:01.57,Default,,0000,0000,0000,,Si gros...
+Dialogue: 0,0:13:01.64,0:13:05.17,Default,,0000,0000,0000,,Ca va si profondément, je sais que tu peux le sentir...
+Dialogue: 0,0:13:07.35,0:13:11.37,Default,,0000,0000,0000,,Bouge tes hanches,\Npousse vers le haut...
+Dialogue: 0,0:13:30.44,0:13:32.77,Default,,0000,0000,0000,,C'est bon...
+Dialogue: 0,0:13:34.21,0:13:35.94,Default,,0000,0000,0000,,Ca...ca va si loin !
+Dialogue: 0,0:13:37.01,0:13:39.27,Default,,0000,0000,0000,,Je jouis... je jouis !
+Dialogue: 0,0:13:44.05,0:13:45.28,Default,,0000,0000,0000,,Madame...
+Dialogue: 0,0:13:46.22,0:13:48.31,Default,,0000,0000,0000,,C'est Yukiko, mon garçon.
+Dialogue: 0,0:13:48.56,0:13:49.68,Default,,0000,0000,0000,,Yukiko-san...
+Dialogue: 0,0:13:50.89,0:13:52.76,Default,,0000,0000,0000,,Continuons.
+Dialogue: 0,0:13:55.23,0:13:59.60,Default,,0000,0000,0000,,Oui... c'est encore gros et dur...
+Dialogue: 0,0:14:00.47,0:14:02.26,Default,,0000,0000,0000,,Bouge à l'intérieur, plus !
+Dialogue: 0,0:14:10.81,0:14:13.61,Default,,0000,0000,0000,,Dedans, c'est loin dedans...
+Dialogue: 0,0:14:52.02,0:14:53.68,Default,,0000,0000,0000,,Encore... encore !
+Dialogue: 0,0:15:06.33,0:15:08.20,Default,,0000,0000,0000,,C'est bon...
+Dialogue: 0,0:15:30.89,0:15:33.09,Default,,0000,0000,0000,,Je vais jouir...
+Dialogue: 0,0:15:33.19,0:15:35.68,Default,,0000,0000,0000,,Jouis... à l'intérieur !
+Dialogue: 0,0:15:36.96,0:15:40.73,Default,,0000,0000,0000,,Donne-moi... donne-moi tout ce que tu as !
+Dialogue: 0,0:15:47.07,0:15:48.90,Default,,0000,0000,0000,,Je jouis !!
+Dialogue: 0,0:15:55.38,0:15:57.04,Default,,0000,0000,0000,,C'était super...
+Dialogue: 0,0:15:57.15,0:16:00.48,Default,,0000,0000,0000,,Tu as été... merveilleux.
+Dialogue: 0,0:16:04.66,0:16:08.22,Default,,0000,0000,0000,,<i>Pourquoi ai-je été si... chaude aujourd'hui ?</i>
+Dialogue: 0,0:16:09.30,0:16:12.70,Default,,0000,0000,0000,,<i>Est-ce parce qu'il lui ressemble ?</i>
+Dialogue: 0,0:16:14.23,0:16:16.33,Default,,0000,0000,0000,,<i>Et puis, ce fut bon.</i>
+Dialogue: 0,0:16:23.01,0:16:25.24,Default,,0000,0000,0000,,N'est-ce pas... des habits d'homme ?
+Dialogue: 0,0:16:26.91,0:16:28.21,Default,,0000,0000,0000,,Oh, tu es réveillé ?
+Dialogue: 0,0:16:28.28,0:16:29.77,Default,,0000,0000,0000,,Bonjour.
+Dialogue: 0,0:16:30.55,0:16:32.18,Default,,0000,0000,0000,,Ce fut une bonne soirée.
+Dialogue: 0,0:16:34.89,0:16:37.52,Default,,0000,0000,0000,,Si tu n'y vois pas d'inconvénient...
+Dialogue: 0,0:16:38.02,0:16:39.55,Default,,0000,0000,0000,,Tu peux habiter ici.
+Dialogue: 0,0:16:39.93,0:16:40.69,Default,,0000,0000,0000,,Alors ?
+Dialogue: 0,0:16:42.36,0:16:43.16,Default,,0000,0000,0000,,Yukiko-san !
+Dialogue: 0,0:16:46.10,0:16:47.26,Default,,0000,0000,0000,,Une seconde.
+Dialogue: 0,0:16:47.90,0:16:50.39,Default,,0000,0000,0000,,Oui-oui... qui est-ce ?
+Dialogue: 0,0:16:50.47,0:16:52.20,Default,,0000,0000,0000,,C'est moi, laisse-moi entrer.
+Dialogue: 0,0:16:53.37,0:16:56.37,Default,,00?0,0000,0000,,Une minute, je suis encore en pyjama.
+Dialogue: 0,0:16:58.01,0:17:00.38,Default,,0000,0000,0000,,Vite, par ici... désolée, vite !
+Dialogue: 0,0:17:01.05,0:17:03.61,Default,,0000,0000,0000,,Attends ici, pardon, attends s'il te plaît !
+Dialogue: 0,0:17:04.05,0:17:05.48,Default,,0000,0000,0000,,Hé, qu'est-ce qui se passe...
+Dialogue: 0,0:17:07.82,0:17:08.69,Default,,0000,0000,0000,,Vraiment désolée.
+Dialogue: 0,0:17:10.09,0:17:11.96,Default,,0000,0000,0000,,Tu pourrais au moins appeler avant...
+Dialogue: 0,0:17:24.24,0:17:25.93,Default2,,0000,0000,0000,,{\a6}{\i1}Note : Merci et au revoir
+Dialogue: 0,0:17:28.84,0:17:30.14,Default,,0000,0000,0000,,<i>Je n'ai pas été accepté pour l'école</i>
+Dialogue: 0,0:17:30.30,0:17:32.54,Default,,0000,0000,0000,,<i>et j'ai eu le coeur brisé 3 fois en 2 jours...</i>
+Dialogue: 0,0:17:36.25,0:17:37.30,Default,,0000,0000,0000,,Je devrais juste quitter...
+Dialogue: 0,0:17:37.92,0:17:39.89,Default,,0000,0000,0000,,Tu as rompu avec Suguru !?
+Dialogue: 0,0:17:40.89,0:17:44.15,Default,,0000,0000,0000,,Ne te mets pas à crier comme ça, Nee-chan.
+Dialogue: 0,0:17:40.89,0:17:44.15,Default2,,0000,0000,0000,,{\a6}{\i1}Note : Nee/Onee-chan utilisé pour parler à sa soeur.
+Dialogue: 0,0:17:44.26,0:17:45.99,Default,,0000,0000,0000,,Tu m'as surprise.
+Dialogue: 0,0:17:46.79,0:17:48.52,Default,,0000,0000,0000,,C'est moi qui ait été surprise.
+Dialogue: 0,0:17:48.83,0:17:52.70,Default,,0000,0000,0000,,Je veux dire, pourquoi ?\NVous étiez si amoureux.
+Dialogue: 0,0:17:53.83,0:17:59.47,Default,,0000,0000,0000,,Mais Onee-chan, il a menti à propos de ses résultats et a pris ma virginité !
+Dialogue: 0,0:18:00.51,0:18:03.07,Default,,0000,0000,0000,,Et après ça, il flirtait le jour-même.
+Dialogue: 0,0:18:03.41,0:18:06.04,Default,,0000,0000,0000,,C'est parce que tu l'as fait attendre trop longtemps.
+Dialogue: 0,0:18:06.15,0:18:11.18,Default,,0000,0000,0000,,C'est bien d'être restée vierge jusqu'à ta majorité,
+Dialogue: 0,0:18:11.30,0:18:15.49,Default,,0000,0000,0000,,mais ça a du être dur pour Suguru-kun d'attendre un an pour le faire.
+Dialogue: 0,0:18:17.19,0:18:20.75,Default,,0000,0000,0000,,Ce n'est pas de ma faute, c'est la sienne.
+Dialogue: 0,0:18:20.86,0:18:24.09,Default,,0000,0000,0000,,Non seulement il a menti,\Nmais il m'a aussi déflorée...
+Dialogue: 0,0:18:25.23,0:18:27.72,Default,,0000,0000,0000,,Je ne peux plus lui faire confiance.
+Dialogue: 0,0:18:27.83,0:18:29.93,Default,,0000,0000,0000,,Je ne le reverrai plus jamais !
+Dialogue: 0,0:18:32.31,0:18:36.21,Default,,0000,0000,0000,,Donc ça veut dire\Nqu'il est seul et dispo.
+Dialogue: 0,0:18:38.21,0:18:40.20,Default,,0000,0000,0000,,Je crois que\Nje vais aller le réconforter.
+Dialogue: 0,0:18:41.01,0:18:41.84,Default,,0000,0000,0000,,Eh, non !
+Dialogue: 0,0:18:42.42,0:18:44.51,Default,,0000,0000,0000,,Quoi, tu as bien rompu, non ?
+Dialogue: 0,0:18:46.99,0:18:48.68,Default,,0000,0000,0000,,Tu ne sortiras plus avec lui, c'est bien ça ?
+Dialogue: 0,0:18:49.36,0:18:51.41,Default,,0000,0000,0000,,Oui, mais...
+Dialogue: 0,0:18:51.69,0:18:54.16,Default,,0000,0000,0000,,Donc je peux l'avoir, n'est-ce pas ?
+Dialogue: 0,0:18:54.29,0:18:56.42,Default,,0000,0000,0000,,Oui...
+Dialogue: 0,0:18:56.86,0:18:59.49,Default,,0000,0000,0000,,Bien, je vais le chercher !
+Dialogue: 0,0:18:59.93,0:19:01.13,Default,,0000,0000,0000,,Hé, attends !
+Dialogue: 0,0:19:02.37,0:19:03.67,Default,,0000,0000,0000,,Suguru, tu es...
+Dialogue: 0,0:19:03.77,0:19:05.33,Default,,0000,0000,0000,,Trop bête !
+Dialogue: 0,0:19:25.12,0:19:26.15,Default,,0000,0000,0000,,Pourquoi...
+Dialogue: 0,0:19:27.79,0:19:29.79,Default,,0000,0000,0000,,Ne m'appelles-tu pas... ?
+Dialogue: 0,0:19:30.86,0:19:34.99,Default,,0000,0000,0000,,<i>Maintenant je dois vivre dans cette ville tout seul.</i>
+Dialogue: 0,0:19:35.13,0:19:36.69,Default,,0000,0000,0000,,<i>Tellement déprimant...</i>
+Dialogue: 0,0:19:37.34,0:19:40.07,Default3,,0000,0000,0000,,Allez les mecs, soyez les bienvenus au Théâtre Skalabe.
+Dialogue: 0,0:19:40.14,0:19:43.77,Default3,,0000,0000,0000,,Nous avons de super boissons et des filles nues !
+Dialogue: 0,0:19:44.81,0:19:47.18,Default,,0000,0000,0000,,<i>L'appartement de mon oncle devrait être dans le coin.</i>
+Dialogue: 0,0:19:47.28,0:19:49.34,Default,,0000,0000,0000,,Où est-il ?
+Dialogue: 0,0:19:54.62,0:19:56.32,Default,,0000,0000,0000,,Hé, toi.
+Dialogue: 0,0:19:56.42,0:20:00.02,Default,,0000,0000,0000,,Regardes-tu par ici parce que tu veux voir des stripteases ?
+Dialogue: 0,0:20:00.46,0:20:03.09,Default,,0000,0000,0000,,Quoi !?\NPas du tout, ce n'est pas ça.
+Dialogue: 0,0:20:03.73,0:20:06.60,Default,,0000,0000,0000,,Oh, tu reluquais mes seins alors ?
+Dialogue: 0,0:20:07.90,0:20:08.77,Default,,0000,0000,0000,,Heu...
+Dialogue: 0,0:20:09.77,0:20:11.93,Default,,0000,0000,0000,,Je recherche cette adresse.
+Dialogue: 0,0:20:13.31,0:20:14.43,Default,,0000,0000,0000,,Voyons voir...
+Dialogue: 0,0:20:14.64,0:20:16.23,Default,,0000,0000,0000,,Oh, c'est ici.
+Dialogue: 0,0:20:16.48,0:20:18.60,Default,,0000,0000,0000,,Heu, je cherche un appartement.
+Dialogue: 0,0:20:19.91,0:20:23.31,Default,,0000,0000,0000,,Ici, ici, nous avons un nouveau client !
+Dialogue: 0,0:20:23.65,0:20:24.55,Default,,0000,0000,0000,,Hé, attends !
+Dialogue: 0,0:20:24.95,0:20:26.32,Default,,0000,0000,0000,,Bienvenue...
+Dialogue: 0,0:20:26.65,0:20:28.09,Default,,0000,0000,0000,,Au Théâtre Skalabe !
+Dialogue: 0,0:20:33.83,0:20:35.29,Default,,0000,0000,0000,,Par ici, viens par ici.
+Dialogue: 0,0:20:36.33,0:20:39.06,Default,,0000,0000,0000,,Heu, attends...\NJe ne suis pas... et...
+Dialogue: 0,0:20:39.60,0:20:41.93,Default,,0000,0000,0000,,Un traitement spécial VIP pour toi.
+Dialogue: 0,0:20:42.67,0:20:44.26,Default,,0000,0000,0000,,Apportez-nous de quoi boire.
+Dialogue: 0,0:20:45.91,0:20:48.57,Default,,0000,0000,0000,,Je me demande ce qui lui a pris ?
+Dialogue: 0,0:20:49.21,0:20:52.64,Default,,0000,0000,0000,,Il est rare de la voir s'asseoir à côté d'un client.
+Dialogue: 0,0:20:53.35,0:20:55.21,Default,,0000,0000,0000,,Peut-être est-elle amoureuse ?
+Dialogue: 0,0:20:55.78,0:20:57.65,Default,,0000,0000,0000,,Quoi, c'est pas possible !?
+Dialogue: 0,0:20:58.08,0:21:00.02,Default,,0000,0000,0000,,Il est plutôt mignon.
+Dialogue: 0,0:21:14.17,0:21:15.73,Default,,0000,0000,0000,,<i>Elle est magnifique...</i>
+Dialogue: 0,0:21:42.96,0:21:43.99,Default,,0000,0000,0000,,<i>Ses seins...</i>
+Dialogue: 0,0:21:44.50,0:21:46.12,Default,,0000,0000,0000,,<i>C'est vraiment un striptease...</i>
+Dialogue: 0,0:22:20.67,0:22:24.19,Default,,0000,0000,0000,,Tu sais, mes seins sont plus gros.
+Dialogue: 0,0:22:29.18,0:22:32.67,Default,,0000,0000,0000,,Oh, c'est vrai !\NJe cherchais un appartement.
+Dialogue: 0,0:22:33.48,0:22:34.81,Default,,0000,0000,0000,,Je t'ai dis que c'était ici.
+Dialogue: 0,0:22:34.88,0:22:37.41,Default,,0000,0000,0000,,Heu, mais c'est une zone commercante ici.
+Dialogue: 0,0:22:38.12,0:22:39.64,Default,,0000,0000,0000,,Les logements sont à l'étage.
+Dialogue: 0,0:22:39.75,0:22:42.22,Default,,0000,0000,0000,,On habite toutes ici.
+Dialogue: 0,0:22:42.76,0:22:43.38,Default,,0000,0000,0000,,Quoi !?
+Dialogue: 0,0:22:44.62,0:22:46.42,Default,,0000,0000,0000,,Bienvenue au Théâtre Skalabe.
+Dialogue: 0,0:22:48.36,0:22:51.39,Default,,0000,0000,0000,,<i>Il n'y a qu'une seule pièce au 6e étage, donc c'est facile à trouver.</i>
+Dialogue: 0,0:22:55.57,0:22:57.73,Default,,0000,0000,0000,,<i>C'est une grande pièce... et meublée.</i>
+Dialogue: 0,0:22:58.47,0:23:00.23,Default,,0000,0000,0000,,<i>Il y a un balcon aussi.</i>
+Dialogue: 0,0:23:01.37,0:23:04.31,Default,,0000,0000,0000,,<i>Hazuki vit elle aussi dans les environs...</i>
+Dialogue: 0,0:23:04.81,0:23:06.21,Default,,0000,0000,0000,,<i>Hazuki...</i>
+Dialogue: 0,0:23:06.75,0:23:09.61,Default,,0000,0000,0000,,Oh, j'avais laissé les lumières allumées ?
+Dialogue: 0,0:23:12.55,0:23:14.45,Default,,0000,0000,0000,,<i>Heu, elle est...</i>
+Dialogue: 0,0:23:15.29,0:23:16.95,Default,,0000,0000,0000,,J'ai trop transpiré.
+Dialogue: 0,0:23:17.26,0:23:18.81,Default,,0000,0000,0000,,J'ai besoin d'une douche.
+Dialogue: 0,0:23:20.16,0:23:23.36,Default,,0000,0000,0000,,<i>Attends, elle se déshabille dans ma chambre !?</i>
+Dialogue: 0,0:23:31.80,0:23:34.57,Default,,0000,0000,0000,,Aurais-je laissé la fenêtre ouverte également ?
+Dialogue: 0,0:23:39.01,0:23:41.71,Default,,0000,0000,0000,,Un pervers, à l'aide !
+Dialogue: 0,0:23:42.18,0:23:43.71,Default,,0000,0000,0000,,Non, je ne suis pas un pervers !
+Dialogue: 0,0:23:44.55,0:23:46.78,Default,,0000,0000,0000,,Aidez-moi, quelqu'un !
+Dialogue: 0,0:23:47.15,0:23:48.09,Default,,0000,0000,0000,,Attends, c'est moi !
+Dialogue: 0,0:23:52.26,0:23:52.88,Default,,0000,0000,0000,,Désolé !
+Dialogue: 0,0:23:53.66,0:23:55.63,Default,,0000,0000,0000,,A... attends, écoute !
+Dialogue: 0,0:23:56.23,0:23:57.16,Default,,000?,0000,0000,,S'il te plaît, écoute !
+Dialogue: 0,0:23:57.96,0:24:00.09,Default,,0000,0000,0000,,Calme-toi, c'est moi !
+Dialogue: 0,0:24:04.24,0:24:05.10,Default,,0000,0000,0000,,Désolé...
+Dialogue: 0,0:24:09.01,0:24:10.17,Default,,0000,0000,0000,,Espèce de pervers !
+Dialogue: 0,0:24:11.21,0:24:12.27,Default,,0000,0000,0000,,Crève !
+Dialogue: 0,0:24:12.35,0:24:13.31,Default,,0000,0000,0000,,Tuez-le !
+Dialogue: 0,0:24:15.62,0:24:17.52,Default,,0000,0000,0000,,Alors c'est lui le pervers !?
+Dialogue: 0,0:24:17.98,0:24:19.54,Default,,0000,0000,0000,,Ai, appelle les flics !
+Dialogue: 0,0:24:20.39,0:24:21.82,Default,,0000,0000,0000,,Quoi, les flics !?
+Dialogue: 0,0:24:22.32,0:24:23.88,Default,,0000,0000,0000,,C'est bon, tout va bien.
+Dialogue: 0,0:24:24.22,0:24:27.12,Default,,0000,0000,0000,,Attends, je le connais.
+Dialogue: 0,0:24:27.89,0:24:30.86,Default,,0000,0000,0000,,Quoi !? Ce n'est pas juste un pervers, c'est aussi un harceleur !?
+Dialogue: 0,0:24:32.27,0:24:33.43,Default,,0000,0000,0000,,Harceleur ?
+Dialogue: 0,0:24:34.00,0:24:35.52,Default,,0000,0000,0000,,Espèce d'enfoiré !
+Dialogue: 0,0:24:36.24,0:24:38.00,Default,,0000,0000,0000,,C'est pas moi !
+Dialogue: 0,0:24:38.40,0:24:39.70,Default,,0000,0000,0000,,Vous allez bien les filles ?
+Dialogue: 0,0:24:40.14,0:24:41.63,Default,,0000,0000,0000,,Hé, maman et le manager.
+Dialogue: 0,0:24:41.81,0:24:44.61,Default,,0000,0000,0000,,Alors c'est toi le petit pervers !
+Dialogue: 0,0:24:44.68,0:24:45.80,Default,,0000,0000,0000,,Regarde-moi !
+Dialogue: 0,0:24:48.88,0:24:50.31,Default,,0000,0000,0000,,Su... Suguru !?
+Dialogue: 0,0:24:51.32,0:24:52.31,Default,,0000,0000,0000,,Mon oncle !
+Dialogue: 0,0:24:54.25,0:24:55.88,Default,,0000,0000,0000,,Hé, je suis vraiment désolé.
+Dialogue: 0,0:24:56.09,0:24:59.22,Default,,0000,0000,0000,,J'avais totalement oublié que j'avais loué cette chambre à Suguru.
+Dialogue: 0,0:24:59.29,0:25:02.13,Default,,0000,0000,0000,,Alors j'ai laissé Urara y emménager.
+Dialogue: 0,0:25:02.90,0:25:04.45,Default,,0000,0000,0000,,C'est cruel, mon oncle.
+Dialogue: 0,0:25:06.50,0:25:08.19,Default,,0000,0000,0000,,Hé, ne t'inquiètes pas.
+Dialogue: 0,0:25:08.30,0:25:11.90,Default,,0000,0000,0000,,J'ai une chambre\Ntrès spéciale qui t'attend.
+Dialogue: 0,0:25:15.84,0:25:18.81,Default,,0000,0000,0000,,Regarde et sois surpris,\Nça vient d'être construit !
+Dialogue: 0,0:25:20.15,0:25:21.61,Default,,0000,0000,0000,,Quoi !!?
+Dialogue: 0,0:25:21.81,0:25:23.68,Default,,0000,0000,0000,,Hé, ça a été dur !
+Dialogue: 0,0:25:23.92,0:25:26.01,Default,,0000,0000,0000,,Ca m'a pris 3 jours à faire.
+Dialogue: 0,0:25:26.12,0:25:28.95,Default,,0000,0000,0000,,Bon boulot, hein ?
+Dialogue: 0,0:25:30.32,0:25:32.31,Default,,0000,0000,0000,,Oh, je vais habiter ici !
+Dialogue: 0,0:25:32.73,0:25:33.62,Default,,0000,0000,0000,,Quoi !?
+Dialogue: 0,0:25:33.76,0:25:35.73,Default,,0000,0000,0000,,Attends, qu'est-ce que tu racontes ?
+Dialogue: 0,0:25:36.33,0:25:37.96,Default,,0000,0000,0000,,Tu vas attraper froid et mourrir !
+Dialogue: 0,0:25:39.30,0:25:43.26,Default,,0000,0000,0000,,Mais... Suguru ne peux pas vivre ici à cause de moi.
+Dialogue: 0,0:25:45.34,0:25:48.74,Default,,0000,0000,0000,,Pas moyen qu'on laisse une fille vivre ici !
+Dialogue: 0,0:25:50.08,0:25:51.51,Default,,0000,0000,0000,,J'y habiterais !
+Dialogue: 0,0:25:53.35,0:25:56.61,Default,,0000,0000,0000,,Je ne peux pas laisser Urara-san habiter un tel endroit.
+Dialogue: 0,0:25:57.42,0:25:58.68,Default,,0000,0000,0000,,"Un tel endroit" !?
+Dialogue: 0,0:25:58.75,0:26:00.65,Default,,0000,0000,0000,,Suguru, toi aussi !
+Dialogue: 0,0:26:00.89,0:26:02.05,Default,,0000,0000,0000,,Il a raison.
+Dialogue: 0,0:26:02.12,0:26:03.18,Default,,0000,0000,0000,,Je suis d'accord.
+Dialogue: 0,0:26:03.49,0:26:04.98,Default,,0000,0000,0000,,Félicitations, Urara.
+Dialogue: 0,0:26:05.76,0:26:07.23,Default,,0000,0000,0000,,Mais...
+Dialogue: 0,0:26:13.43,0:26:14.30,Default,,0000,0000,0000,,Je sais !
+Dialogue: 0,0:26:14.37,0:26:16.67,Default,,0000,0000,0000,,Nous devrions habiter cette pièce tous les deux !
+Dialogue: 0,0:26:17.37,0:26:18.80,Default,,0000,0000,0000,,Quoi !?
+Dialogue: 0,0:26:29.00,0:26:39.30,credits,,0000,0000,0000,,{\a6}Traduction : Sekhmet\NCorrection : Hijo et Luna
+Dialogue: 0,0:26:39.90,0:26:47.30,credits,,0000,0000,0000,,{\a6}Toutes nos séries en ddl sur :\N<i>http://hijo82.hentai.free.fr</i>
+Dialogue: 0,0:26:47.50,0:26:51.00,credits,,0000,0000,0000,,{\a6}Téléchargements gratuits et sans limites fonctionnant grâce aux dons des internautes,
+Dialogue: 0,0:26:51.20,0:26:55.30,credits,,0000,0000,0000,,{\a6}alors n'hésitez pas à nous aider !

@@ -1,0 +1,241 @@
+﻿[Script Info]
+
+;--------------------------------------------
+;|  This is a Sub Station Alpha v4 script   |
+;|                                          |
+;| Created with MEDUSA - Subtitling Station |
+;--------------------------------------------
+
+Title: <untitled>
+Original Script: <unknown>
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,DawnCastle,35,16777215,16777215,11993088,11993088,-1,0,1,2,0,6,30,30,405,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: Marked=0,0:01:40.06,0:01:46.19,Default,NTP,0000,0000,0000,!Effect,Nie rozumiem tego… Dla mnie wygląda to na prostą sprawę o zniesławienie.
+Dialogue: Marked=0,0:01:48.40,0:01:50.34,Default,NTP,0000,0000,0000,!Effect,Hej, i co pani na to? Proszę odpowiedzieć.
+Dialogue: Marked=0,0:01:50.91,0:01:53.00,Default,NTP,0000,0000,0000,!Effect,A może byś się tak już zamknął, Wakai?
+Dialogue: Marked=0,0:01:53.21,0:01:54.04,Default,NTP,0000,0000,0000,!Effect,Och, przepraszam.
+Dialogue: Marked=0,0:01:55.54,0:01:59.57,Default,NTP,0000,0000,0000,!Effect,Doktor… Mnie kochał…
+Dialogue: Marked=0,0:02:09.43,0:02:09.91,Default,NTP,0000,0000,0000,!Effect,Siostra przełożona?
+Dialogue: Marked=0,0:02:15.16,0:02:16.63,Default,NTP,0000,0000,0000,!Effect,Co się stało, siostro?
+Dialogue: Marked=0,0:02:19.00,0:02:19.83,Default,NTP,0000,0000,0000,!Effect,To nic…
+Dialogue: Marked=0,0:02:20.07,0:02:21.66,Default,NTP,0000,0000,0000,!Effect,Ale… Nic pani nie jest?
+Dialogue: Marked=0,0:02:22.37,0:02:25.83,Default,NTP,0000,0000,0000,!Effect,Powiedziałem, że to nic! Pośpiesz się i wracaj na izbę przyjęć!
+Dialogue: Marked=0,0:02:28.88,0:02:30.44,Default,NTP,0000,0000,0000,!Effect,Zawołam kogoś.
+Dialogue: Marked=0,0:02:30.65,0:02:32.11,Default,NTP,0000,0000,0000,!Effect,Zostaw mnie w spokoju!
+Dialogue: Marked=0,0:02:32.88,0:02:37.75,Default,NTP,0000,0000,0000,!Effect,O co chodzi? Krzyczeć tak w środku nocy… Coś się stało?
+Dialogue: Marked=0,0:02:37.95,0:02:41.32,Default,NTP,0000,0000,0000,!Effect,Doktorze! Siostra… Coś jej jest!
+Dialogue: Marked=0,0:02:41.59,0:02:42.25,Default,NTP,0000,0000,0000,!Effect,Nie!
+Dialogue: Marked=0,0:02:45.23,0:02:45.69,Default,NTP,0000,0000,0000,!Effect,Siostro?
+Dialogue: Marked=0,0:02:49.50,0:02:50.33,Default,NTP,0000,0000,0000,!Effect,Do łazienki…
+Dialogue: Marked=0,0:02:50.87,0:02:52.23,Default,NTP,0000,0000,0000,!Effect,Siostro! Siostro!
+Dialogue: Marked=0,0:02:54.50,0:02:57.23,Default,NTP,0000,0000,0000,!Effect,Nie jest dobrze! Zabierzmy ją do mojego gabinetu!
+Dialogue: Marked=0,0:02:57.61,0:02:58.16,Default,NTP,0000,0000,0000,!Effect,Dobrze!
+Dialogue: Marked=0,0:02:58.37,0:03:01.37,Default,NTP,0000,0000,0000,!Effect,Pójdź po kogoś na izbę przyjęć.
+Dialogue: Marked=0,0:03:01.94,0:03:03.31,Default,NTP,0000,0000,0000,!Effect,Zrozumiałam, doktorze.
+Dialogue: Marked=0,0:03:07.65,0:03:09.28,Default,NTP,0000,0000,0000,!Effect,-Proszę wytrzymać, siostro!
+Dialogue: Marked=0,0:03:07.65,0:03:09.28,Default,NTP,0000,0000,0000,!Effect,-N-Nie!
+Dialogue: Marked=0,0:03:18.43,0:03:21.06,Default,NTP,0000,0000,0000,!Effect,-Nie! Puszczaj mnie!
+Dialogue: Marked=0,0:03:18.43,0:03:21.06,Default,NTP,0000,0000,0000,!Effect,-Proszę się nie ruszać, siostro!
+Dialogue: Marked=0,0:03:21.10,0:03:22.65,Default,NTP,0000,0000,0000,!Effect,-Stójcie, nie róbcie tego!
+Dialogue: Marked=0,0:03:21.10,0:03:22.65,Default,NTP,0000,0000,0000,!Effect,-Nie możemy panią zbadać!
+Dialogue: Marked=0,0:03:22.97,0:03:27.23,Default,NTP,0000,0000,0000,!Effect,Zachowujesz się jak dziecko, Shinjyo. Uspokój się!
+Dialogue: Marked=0,0:03:27.27,0:03:28.20,Default,NTP,0000,0000,0000,!Effect,Przestańcie!
+Dialogue: Marked=0,0:03:30.17,0:03:31.83,Default,NTP,0000,0000,0000,!Effect,Nie! Nie patrzcie…
+Dialogue: Marked=0,0:03:32.78,0:03:35.77,Default,NTP,0000,0000,0000,!Effect,Ale wzdęło ci brzuch. Co ci się stało?
+Dialogue: Marked=0,0:03:40.58,0:03:41.95,Default,NTP,0000,0000,0000,!Effect,Doktorze! To…
+Dialogue: Marked=0,0:03:42.38,0:03:44.05,Default,NTP,0000,0000,0000,!Effect,Panno Nanase, proszę się odsunąć.
+Dialogue: Marked=0,0:03:45.45,0:03:46.05,Default,NTP,0000,0000,0000,!Effect,T-Tak.
+Dialogue: Marked=0,0:03:46.09,0:03:47.65,Default,NTP,0000,0000,0000,!Effect,Proszę leżeć spokojnie, szefowo!
+Dialogue: Marked=0,0:03:47.86,0:03:49.29,Default,NTP,0000,0000,0000,!Effect,Doktorze, szybko!
+Dialogue: Marked=0,0:03:49.79,0:03:50.82,Default,NTP,0000,0000,0000,!Effect,Tak, wiem.
+Dialogue: Marked=0,0:03:53.26,0:03:54.99,Default,NTP,0000,0000,0000,!Effect,Stać! Nie dotykać mnie!
+Dialogue: Marked=0,0:03:58.23,0:04:03.83,Default,NTP,0000,0000,0000,!Effect,Panno Shinjyo, sądzę, że to najwyższy czas, by się wypróżnić.
+Dialogue: Marked=0,0:04:12.38,0:04:13.71,Default,NTP,0000,0000,0000,!Effect,Przestań!
+Dialogue: Marked=0,0:04:14.18,0:04:15.17,Default,NTP,0000,0000,0000,!Effect,Co ty mówisz?
+Dialogue: Marked=0,0:04:16.05,0:04:20.11,Default,NTP,0000,0000,0000,!Effect,Lekarz ma zignorować cierpienie swojego pacjenta?
+Dialogue: Marked=0,0:04:22.32,0:04:23.42,Default,NTP,0000,0000,0000,!Effect,Panno Nanase, wziernik!
+Dialogue: Marked=0,0:04:23.89,0:04:24.29,Default,NTP,0000,0000,0000,!Effect,J-Już.
+Dialogue: Marked=0,0:04:45.38,0:04:46.18,Default,NTP,0000,0000,0000,!Effect,Zbliża się.
+Dialogue: Marked=0,0:04:48.65,0:04:49.91,Default,NTP,0000,0000,0000,!Effect,Nie wytrzymam tego.
+Dialogue: Marked=0,0:04:50.55,0:04:51.25,Default,NTP,0000,0000,0000,!Effect,Niedobrze.
+Dialogue: Marked=0,0:05:23.22,0:05:25.45,Default,NTP,0000,0000,0000,!Effect,Więc o to tu chodziło!
+Dialogue: Marked=0,0:05:25.89,0:05:29.92,Default,NTP,0000,0000,0000,!Effect,Nie ma potrzeby się powstrzymywać, aż do zmoczenia się, panno Shinjyo!
+Dialogue: Marked=0,0:05:30.83,0:05:34.23,Default,NTP,0000,0000,0000,!Effect,Inaczej się rozchorujesz! Proszę opróżniać się codziennie z rana!
+Dialogue: Marked=0,0:06:20.08,0:06:21.44,Default,NTP,0000,0000,0000,!Effect,Dochodzę! Dochodzę!
+Dialogue: Marked=0,0:06:40.63,0:06:42.22,Default,NTP,0000,0000,0000,!Effect,Ren, jesteś piękna.
+Dialogue: Marked=0,0:06:55.68,0:07:02.38,Default,NTP,0000,0000,0000,!Effect,Doktorze… robisz to samo… z… panną Shinjyo?
+Dialogue: Marked=0,0:07:02.62,0:07:07.28,Default,NTP,0000,0000,0000,!Effect,N-Nie! Ostatnio chyba panna Shinjyo była dla ciebie trochę za ostra,
+Dialogue: Marked=0,0:07:07.39,0:07:10.38,Default,NTP,0000,0000,0000,!Effect,więc pomyślałem, że dam jej nauczkę. Nic więcej. Nie przejmuj się.
+Dialogue: Marked=0,0:07:11.16,0:07:14.15,Default,NTP,0000,0000,0000,!Effect,Doktor zrobił coś dla mnie... Szczerze mówiąc myślałam...
+Dialogue: Marked=0,0:07:14.46,0:07:18.73,Default,NTP,0000,0000,0000,!Effect,Nie zaprzeczę, że wtedy się nie cieszyłam, nawet jak było to kłamstwo.
+Dialogue: Marked=0,0:07:20.44,0:07:24.46,Default,NTP,0000,0000,0000,!Effect,Stałam się kobietą, która nie mogła bez niego żyć...
+Dialogue: Marked=0,0:07:24.81,0:07:29.30,Default,NTP,0000,0000,0000,!Effect,Więc byliście przyjaciółmi? Więc dlaczego go zabiłaś?
+Dialogue: Marked=0,0:07:30.11,0:07:31.04,Default,NTP,0000,0000,0000,!Effect,Co to ma znaczyć?
+Dialogue: Marked=0,0:07:31.45,0:07:34.11,Default,NTP,0000,0000,0000,!Effect,Shinjyo... Remi Shinjyo...
+Dialogue: Marked=0,0:07:35.02,0:07:36.61,Default,NTP,0000,0000,0000,!Effect,Siostra oddziałowa ginekologii.
+Dialogue: Marked=0,0:07:37.25,0:07:39.24,Default,NTP,0000,0000,0000,!Effect,Porozmawiam z nią jutro z doktorem Asaką.
+Dialogue: Marked=0,0:08:07.18,0:08:12.75,Default,NTP,0000,0000,0000,!Effect,Czy długo nam to zajmie? Mam dyżur.
+Dialogue: Marked=0,0:08:16.39,0:08:22.42,Default,NTP,0000,0000,0000,!Effect,Założę się, że w tak dużym szpitalu ma pani ciągłe kłopoty z powodu pomówień.
+Dialogue: Marked=0,0:08:23.47,0:08:24.56,Default,NTP,0000,0000,0000,!Effect,Takie, jak błędy lekarskie.
+Dialogue: Marked=0,0:08:24.73,0:08:26.20,Default,NTP,0000,0000,0000,!Effect,O-O czym pan mówi?
+Dialogue: Marked=0,0:08:27.34,0:08:29.74,Default,NTP,0000,0000,0000,!Effect,W naszym szpitalu nigdy nie było takich skarg!
+Dialogue: Marked=0,0:08:30.17,0:08:35.34,Default,NTP,0000,0000,0000,!Effect,Och, przepraszam. Przyzwyczajenie zawodowe. Muszę zważać na to, co mówię.
+Dialogue: Marked=0,0:08:36.21,0:08:40.77,Default,NTP,0000,0000,0000,!Effect,Mamy kilka pytań dotyczących niedawnego morderstwa Ryuji Hirasaki.
+Dialogue: Marked=0,0:08:41.28,0:08:45.01,Default,NTP,0000,0000,0000,!Effect,Och, o to panu chodzi… Przepraszam, że na pana naskoczyłam.
+Dialogue: Marked=0,0:08:45.79,0:08:48.02,Default,NTP,0000,0000,0000,!Effect,Nie możemy tolerować czegoś takiego jak błędy lekarskie.
+Dialogue: Marked=0,0:08:48.66,0:08:53.42,Default,NTP,0000,0000,0000,!Effect,Oczywiście, rozumiem. Ma pani odpowiedzialną pracę.
+Dialogue: Marked=0,0:08:55.80,0:08:58.73,Default,NTP,0000,0000,0000,!Effect,Ups! Panno Shinjyo!
+Dialogue: Marked=0,0:09:01.80,0:09:02.60,Default,NTP,0000,0000,0000,!Effect,Nic pani nie jest?
+Dialogue: Marked=0,0:09:02.97,0:09:06.60,Default,NTP,0000,0000,0000,!Effect,Tak, przepraszam. Mam lekką anemię…
+Dialogue: Marked=0,0:09:07.74,0:09:10.64,Default,NTP,0000,0000,0000,!Effect,Czy któregoś dnia opowie nam pani swoją historię?
+Dialogue: Marked=0,0:09:10.81,0:09:14.04,Default,NTP,0000,0000,0000,!Effect,Tak, oczywiście. Chociaż nie wiem, czy to coś da.
+Dialogue: Marked=0,0:09:14.62,0:09:16.14,Default,NTP,0000,0000,0000,!Effect,Cóż, zatem na dzisiaj skończymy.
+Dialogue: Marked=0,0:09:27.26,0:09:29.56,Default,NTP,0000,0000,0000,!Effect,{\i1} Nic nie mogę powiedzieć… Nic… {\i0}
+Dialogue: Marked=0,0:09:30.47,0:09:33.37,Default,NTP,0000,0000,0000,!Effect,Dobrze, panno Shinjyo, zaczynamy eksperyment.
+Dialogue: Marked=0,0:09:34.47,0:09:39.87,Default,NTP,0000,0000,0000,!Effect,Gdy się tym posmarujesz, poczujesz ciepło, więc chcę, byś się tym radowała.
+Dialogue: Marked=0,0:09:40.21,0:09:41.77,Default,NTP,0000,0000,0000,!Effect,Co… Co robisz?
+Dialogue: Marked=0,0:09:42.38,0:09:44.31,Default,NTP,0000,0000,0000,!Effect,Wynalazłem nowy płyn kosmetyczny.
+Dialogue: Marked=0,0:09:44.68,0:09:48.58,Default,NTP,0000,0000,0000,!Effect,Chcę sprawdzić jego działanie, a ty będziesz moim królikiem doświadczalnym.
+Dialogue: Marked=0,0:09:52.55,0:09:56.49,Default,NTP,0000,0000,0000,!Effect,Hej, hej, panno Shinjyo. Nie możesz się tak szybko podniecać.
+Dialogue: Marked=0,0:09:56.69,0:09:58.72,Default,NTP,0000,0000,0000,!Effect,Przecież niczego nie czuję.
+Dialogue: Marked=0,0:09:58.76,0:10:00.79,Default,NTP,0000,0000,0000,!Effect,Nie musisz się powstrzymywać.
+Dialogue: Marked=0,0:10:14.41,0:10:15.31,Default,NTP,0000,0000,0000,!Effect,Dok… torze…
+Dialogue: Marked=0,0:10:20.98,0:10:22.28,Default,NTP,0000,0000,0000,!Effect,Jak przyjemnie…
+Dialogue: Marked=0,0:11:14.14,0:11:19.20,Default,NTP,0000,0000,0000,!Effect,Rozumiem… Więc miał doskonałe kontakty ze swoimi pacjentkami.
+Dialogue: Marked=0,0:11:20.34,0:11:23.87,Default,NTP,0000,0000,0000,!Effect,Panno Shinjyo, czy doktor Ryuji Hirasaka zrobił pani kiedyś coś,
+Dialogue: Marked=0,0:11:23.98,0:11:27.18,Default,NTP,0000,0000,0000,!Effect,co było dla pani znacząco kłopotliwe?
+Dialogue: Marked=0,0:11:27.58,0:11:29.48,Default,NTP,0000,0000,0000,!Effect,N-Nie, nigdy czegoś takiego nie zrobił.
+Dialogue: Marked=0,0:11:30.39,0:11:33.05,Default,NTP,0000,0000,0000,!Effect,Czy pan Hirasaka nigdy pani w żaden sposób nie groził?
+Dialogue: Marked=0,0:11:35.26,0:11:36.95,Default,NTP,0000,0000,0000,!Effect,Jeżeli nic się działo, to w porządku.
+Dialogue: Marked=0,0:11:37.43,0:11:41.23,Default,NTP,0000,0000,0000,!Effect,Cóż… Pana Hirasaki już nie ma. Nie musi już pani tego ukrywać…
+Dialogue: Marked=0,0:11:41.26,0:11:44.72,Default,NTP,0000,0000,0000,!Effect,Nie mam nic do dodania. Powiedziałem już wszystko co wiem.
+Dialogue: Marked=0,0:11:46.23,0:11:46.96,Default,NTP,0000,0000,0000,!Effect,Rozumiem.
+Dialogue: Marked=0,0:11:47.44,0:11:49.56,Default,NTP,0000,0000,0000,!Effect,Proszę wybaczyć, muszę wracać do pracy.
+Dialogue: Marked=0,0:11:56.48,0:11:58.04,Default,NTP,0000,0000,0000,!Effect,Ta kobieta coś ukrywa.
+Dialogue: Marked=0,0:12:17.67,0:12:19.53,Default,NTP,0000,0000,0000,!Effect,Halo…Ren, słyszysz mnie?
+Dialogue: Marked=0,0:12:20.04,0:12:21.06,Default,NTP,0000,0000,0000,!Effect,Tak, doktorze.
+Dialogue: Marked=0,0:12:24.11,0:12:26.60,Default,NTP,0000,0000,0000,!Effect,Chciałem się zapytać, czy znalazłaś pracę domową, którą ci zostawiłem.
+Dialogue: Marked=0,0:12:26.98,0:12:28.24,Default,NTP,0000,0000,0000,!Effect,Tak, oczywiście, że znalazłam.
+Dialogue: Marked=0,0:12:28.88,0:12:32.57,Default,NTP,0000,0000,0000,!Effect,Ten eksperyment ma na celu zwiększenie twojej wrażliwości.
+Dialogue: Marked=0,0:12:33.32,0:12:35.08,Default,NTP,0000,0000,0000,!Effect,I jak się czujesz?
+Dialogue: Marked=0,0:12:35.98,0:12:38.38,Default,NTP,0000,0000,0000,!Effect,Jakbyś to był ty, doktorze.
+Dialogue: Marked=0,0:12:40.89,0:12:45.49,Default,NTP,0000,0000,0000,!Effect,I bardzo dobrze. Osobiście go kupiłem specjalnie dla ciebie.
+Dialogue: Marked=0,0:12:46.66,0:12:47.32,Default,NTP,0000,0000,0000,!Effect,Tak…
+Dialogue: Marked=0,0:12:52.10,0:12:56.13,Default,NTP,0000,0000,0000,!Effect,Ren, w niedzielę mam wolne. Może pójdziemy na randkę?
+Dialogue: Marked=0,0:12:56.60,0:12:57.70,Default,NTP,0000,0000,0000,!Effect,Tak, doktorze…
+Dialogue: Marked=0,0:12:58.21,0:13:00.90,Default,NTP,0000,0000,0000,!Effect,A zatem chcę, byś doszła jeszcze 5 razy...
+Dialogue: Marked=0,0:13:01.28,0:13:05.34,Default,NTP,0000,0000,0000,!Effect,Wypróbujemy go w trudniejszych warunkach. Włóż go sobie w tyłek.
+Dialogue: Marked=0,0:13:05.41,0:13:06.21,Default,NTP,0000,0000,0000,!Effect,Zrozumiałam…
+Dialogue: Marked=0,0:13:17.43,0:13:18.19,Default,NTP,0000,0000,0000,!Effect,Już jest.
+Dialogue: Marked=0,0:13:18.83,0:13:21.42,Default,NTP,0000,0000,0000,!Effect,Dobrze! A teraz ciesz się tym!
+Dialogue: Marked=0,0:13:37.88,0:13:44.88,Default,NTP,0000,0000,0000,!Effect,Końcówka jest ostra... jest we mnie…wibruje…
+Dialogue: Marked=0,0:13:46.32,0:13:50.66,Default,NTP,0000,0000,0000,!Effect,Pragnę ciebie, doktorze… Chcę być twoja…
+Dialogue: Marked=0,0:13:56.83,0:13:57.66,Default,NTP,0000,0000,0000,!Effect,Co to za dźwięk?
+Dialogue: Marked=0,0:14:07.14,0:14:09.08,Default,NTP,0000,0000,0000,!Effect,Ren… c… dźwięk… hej!
+Dialogue: Marked=0,0:14:10.91,0:14:14.87,Default,NTP,0000,0000,0000,!Effect,Mów dalej, doktorze! Chcę poczuć w sobie twój głos!
+Dialogue: Marked=0,0:14:15.78,0:14:17.95,Default,NTP,0000,0000,0000,!Effect,Ren! Hej! Co jest grane?
+Dialogue: Marked=0,0:14:18.69,0:14:19.55,Default,NTP,0000,0000,0000,!Effect,Dochodzę!
+Dialogue: Marked=0,0:14:24.49,0:14:30.62,Default,NTP,0000,0000,0000,!Effect,Jeszcze raz zapytam. Dlaczego zabiła pani doktora Hirasakę, skoro bardzo go pani kochała!
+Dialogue: Marked=0,0:14:31.67,0:14:35.83,Default,NTP,0000,0000,0000,!Effect,Nie przesłuchuję cię po to, by wysłuchiwać twoich perwersyjnych fantazji seksualnych!
+Dialogue: Marked=0,0:14:36.94,0:14:39.70,Default,NTP,0000,0000,0000,!Effect,Poza tym, co podobało się pani w tym Hirasace?
+Dialogue: Marked=0,0:14:40.74,0:14:43.18,Default,NTP,0000,0000,0000,!Effect,Doktor mnie zniewolił.
+Dialogue: Marked=0,0:15:28.89,0:15:30.76,Default,NTP,0000,0000,0000,!Effect,Razem 5229 jenów.
+Dialogue: Marked=0,0:15:46.84,0:15:49.37,Default,NTP,0000,0000,0000,!Effect,Tak jak przypuszczałem, świetnie na tobie leży.
+Dialogue: Marked=0,0:16:53.41,0:16:54.88,Default,NTP,0000,0000,0000,!Effect,Dobra, Ren, do dzieła!
+Dialogue: Marked=0,0:16:58.98,0:17:02.51,Default,NTP,0000,0000,0000,!Effect,Ren… dochodzę… dochodzę!
+Dialogue: Marked=0,0:17:18.63,0:17:21.93,Default,NTP,0000,0000,0000,!Effect,Doktorze, chcesz bym w tym chodziła?
+Dialogue: Marked=0,0:17:22.24,0:17:26.90,Default,NTP,0000,0000,0000,!Effect,Tak. Na początku możesz czuć się dziwnie, lecz przyzwyczaisz się.
+Dialogue: Marked=0,0:17:29.44,0:17:32.85,Default,NTP,0000,0000,0000,!Effect,Podczas chodzenia zaczniesz je odczuwać, twoje soki i moje,
+Dialogue: Marked=0,0:17:32.88,0:17:36.34,Default,NTP,0000,0000,0000,!Effect,jak mieszają się ze sobą, spływają w dół po udach,
+Dialogue: Marked=0,0:17:36.38,0:17:39.51,Default,NTP,0000,0000,0000,!Effect,aż ludzie będą w stanie je zobaczyć.
+Dialogue: Marked=0,0:17:40.32,0:17:41.55,Default,NTP,0000,0000,0000,!Effect,Czujesz to?
+Dialogue: Marked=0,0:17:46.56,0:17:48.59,Default,NTP,0000,0000,0000,!Effect,Nie! Opieraj się! Zignoruj to!
+Dialogue: Marked=0,0:17:49.93,0:17:52.20,Default,NTP,0000,0000,0000,!Effect,Nawet tyle nie zniesiesz?
+Dialogue: Marked=0,0:17:52.77,0:17:53.46,Default,NTP,0000,0000,0000,!Effect,A-Ale…
+Dialogue: Marked=0,0:17:58.07,0:18:01.13,Default,NTP,0000,0000,0000,!Effect,Ren, chcesz zostać kobietą,
+Dialogue: Marked=0,0:18:01.18,0:18:02.87,Default,NTP,0000,0000,0000,!Effect,która podnieca się byle czym?
+Dialogue: Marked=0,0:18:03.04,0:18:03.70,Default,NTP,0000,0000,0000,!Effect,Nie, ale…
+Dialogue: Marked=0,0:18:05.81,0:18:09.21,Default,NTP,0000,0000,0000,!Effect,By naprawdę docenić uczucie, musisz się oprzeć
+Dialogue: Marked=0,0:18:09.32,0:18:12.25,Default,NTP,0000,0000,0000,!Effect,zewnętrznym i często trywialnym bodźcom i wznieść ponad to. Rozumiesz?
+Dialogue: Marked=0,0:18:13.05,0:18:13.68,Default,NTP,0000,0000,0000,!Effect,Nie…
+Dialogue: Marked=0,0:18:13.72,0:18:18.45,Default,NTP,0000,0000,0000,!Effect,Innymi słowy, nie daj się zwieść trywialnym bodźcom.
+Dialogue: Marked=0,0:18:40.11,0:18:40.91,Default,NTP,0000,0000,0000,!Effect,Nic pani nie jest?
+Dialogue: Marked=0,0:18:42.02,0:18:42.71,Default,NTP,0000,0000,0000,!Effect,To pani?
+Dialogue: Marked=0,0:18:48.12,0:18:49.49,Default,NTP,0000,0000,0000,!Effect,Och… T-To…
+Dialogue: Marked=0,0:18:55.90,0:18:56.52,Default,NTP,0000,0000,0000,!Effect,Wstań…
+Dialogue: Marked=0,0:19:02.97,0:19:10.27,Default,NTP,0000,0000,0000,!Effect,Jeśli to czujesz w tym tłumie, każdy to zobaczy. Postaraj się, Ren!
+Dialogue: Marked=0,0:19:35.30,0:19:36.17,Default,NTP,0000,0000,0000,!Effect,Zepsuło się?
+Dialogue: Marked=0,0:19:48.45,0:19:51.71,Default,NTP,0000,0000,0000,!Effect,Nie… Nie patrzcie… Nie patrzcie na mnie…
+Dialogue: Marked=0,0:20:09.40,0:20:11.60,Default,NTP,0000,0000,0000,!Effect,Tylko wspomnienia, żadnego postępu.
+Dialogue: Marked=0,0:20:12.61,0:20:13.80,Default,NTP,0000,0000,0000,!Effect,Wakai, podejdź tutaj.
+Dialogue: Marked=0,0:20:13.88,0:20:14.34,Default,NTP,0000,0000,0000,!Effect,Już.
+Dialogue: Marked=0,0:20:18.05,0:20:18.74,Default,NTP,0000,0000,0000,!Effect,Panno Shinjyo.
+Dialogue: Marked=0,0:20:20.55,0:20:22.74,Default,NTP,0000,0000,0000,!Effect,Opowie mi pani swoją wersję?
+Dialogue: Marked=0,0:20:30.02,0:20:32.05,Default,NTP,0000,0000,0000,!Effect,W-Więc… Ja…
+Dialogue: Marked=0,0:20:35.06,0:20:35.82,Default,NTP,0000,0000,0000,!Effect,Zatrzymać ją!
+Dialogue: Marked=0,0:20:44.97,0:20:46.03,Default,NTP,0000,0000,0000,!Effect,Dlaczego pani uciekała?
+Dialogue: Marked=0,0:20:46.11,0:20:49.91,Default,NTP,0000,0000,0000,!Effect,Przecież… Przecież powiedziałam, że nic więcej nie wiem!
+Dialogue: Marked=0,0:20:50.34,0:20:52.01,Default,NTP,0000,0000,0000,!Effect,Więc nie miała pani powodu do ucieczki!
+Dialogue: Marked=0,0:20:52.51,0:20:55.14,Default,NTP,0000,0000,0000,!Effect,Chcę, by przyszła dziś pani na posterunek.
+Dialogue: Marked=0,0:21:05.79,0:21:06.49,Default,NTP,0000,0000,0000,!Effect,Co to jest?
+Dialogue: Marked=0,0:21:07.80,0:21:12.16,Default,NTP,0000,0000,0000,!Effect,Co to... Ale swędzi... Swędzi mnie...
+Dialogue: Marked=0,0:21:14.14,0:21:16.10,Default,NTP,0000,0000,0000,!Effect,J-Jak przyjemnie.
+Dialogue: Marked=0,0:21:19.34,0:21:21.47,Default,NTP,0000,0000,0000,!Effect,Doktorze! Ta maść, którą mnie pan posmarował…
+Dialogue: Marked=0,0:21:21.54,0:21:24.98,Default,NTP,0000,0000,0000,!Effect,Ach, to? To zwykłe kultury bakterii.
+Dialogue: Marked=0,0:21:25.51,0:21:29.24,Default,NTP,0000,0000,0000,!Effect,Chociaż specjalnie je przygotowałem, by rozprzestrzeniały się bardzo szybko.
+Dialogue: Marked=0,0:21:29.82,0:21:30.48,Default,NTP,0000,0000,0000,!Effect,Bakterie?
+Dialogue: Marked=0,0:21:30.52,0:21:34.78,Default,NTP,0000,0000,0000,!Effect,Odkąd zostałaś pielęgniarką powinnaś je znać, panno Shinjyo. To Kanjita.
+Dialogue: Marked=0,0:21:35.29,0:21:39.32,Default,NTP,0000,0000,0000,!Effect,Kanjita! Och, nie! One mogą spowodować podrażnienie!
+Dialogue: Marked=0,0:21:39.49,0:21:42.55,Default,NTP,0000,0000,0000,!Effect,Poza tym, to mnie na prawdę swędzi, a kiedy je drapiesz,
+Dialogue: Marked=0,0:21:42.60,0:21:45.40,Default,NTP,0000,0000,0000,!Effect,jest bardzo przyjemnie. Nic na to nie poradzisz, prawda?
+Dialogue: Marked=0,0:21:46.13,0:21:47.50,Default,NTP,0000,0000,0000,!Effect,Tak, doktorze…
+Dialogue: Marked=0,0:21:49.67,0:21:54.97,Default,NTP,0000,0000,0000,!Effect,To niesamowite! Wygląda na to, że mają tu niezłą zabawę.
+Dialogue: Marked=0,0:22:04.65,0:22:10.32,Default,NTP,0000,0000,0000,!Effect,Leukorrhea o tak silnym zapachu. Jest nawet jadalna.
+Dialogue: Marked=0,0:22:15.00,0:22:17.76,Default,NTP,0000,0000,0000,!Effect,Jeszcze nigdy nie próbowałem twojej domowej kuchni, panno Shinjyo.
+Dialogue: Marked=0,0:22:22.44,0:22:25.37,Default,NTP,0000,0000,0000,!Effect,Jestem pewny, że twoje gówno byłoby smaczniejsze.
+Dialogue: Marked=0,0:22:25.91,0:22:26.77,Default,NTP,0000,0000,0000,!Effect,Chcę trochę…
+Dialogue: Marked=0,0:22:26.84,0:22:27.50,Default,NTP,0000,0000,0000,!Effect,Dobrze.
+Dialogue: Marked=0,0:22:31.48,0:22:32.04,Default,NTP,0000,0000,0000,!Effect,Masz!
+Dialogue: Marked=0,0:22:35.28,0:22:36.98,Default,NTP,0000,0000,0000,!Effect,I jak smakuje?
+Dialogue: Marked=0,0:22:38.22,0:22:39.35,Default,NTP,0000,0000,0000,!Effect,Doskonale.
+Dialogue: Marked=0,0:22:39.55,0:22:41.72,Default,NTP,0000,0000,0000,!Effect,Dobrze, więc zabawmy się trochę!
+Dialogue: Marked=0,0:22:46.46,0:22:51.99,Default,NTP,0000,0000,0000,!Effect,Tak, doktorze! Swędzi… Jak cudownie.
+Dialogue: Marked=0,0:22:54.17,0:22:55.86,Default,NTP,0000,0000,0000,!Effect,Jeszcze, jeszcze!
+Dialogue: Marked=0,0:23:01.18,0:23:03.97,Default,NTP,0000,0000,0000,!Effect,Jak cudownie, Nie… Zaraz się posikam.
+Dialogue: Marked=0,0:23:19.73,0:23:20.46,Default,NTP,0000,0000,0000,!Effect,Doktorze…
+Dialogue: Marked=0,0:23:20.53,0:23:22.66,Default,NTP,0000,0000,0000,!Effect,I jak? Przyjemniej niż normalnie?
+Dialogue: Marked=0,0:23:32.47,0:23:33.46,Default,NTP,0000,0000,0000,!Effect,Cudownie!
+Dialogue: Marked=0,0:23:53.03,0:23:55.62,Default,NTP,0000,0000,0000,!Effect,Cóż, wystarczy na dzisiaj?
+Dialogue: Marked=0,0:23:56.20,0:23:59.83,Default,NTP,0000,0000,0000,!Effect,Nie! Jeszcze, jeszcze! Jak cudownie!
+Dialogue: Marked=0,0:24:00.43,0:24:06.50,Default,NTP,0000,0000,0000,!Effect,Doktorze! Doktorze! Niech mnie pan przeleci… we mnie…
+Dialogue: Marked=0,0:24:11.68,0:24:13.08,Default,NTP,0000,0000,0000,!Effect,Moja cipka płonie!
+Dialogue: Marked=0,0:24:14.72,0:24:23.65,Default,NTP,0000,0000,0000,!Effect,Płonie! Ale przyjemnie! Tak! Boli, ale przyjemnie!
+Dialogue: Marked=0,0:24:28.03,0:24:32.40,Default,NTP,0000,0000,0000,!Effect,Nie mogę logicznie myśleć! Rozpierdol mi mózg! Wypierdol mnie!
+Dialogue: Marked=0,0:24:39.07,0:24:41.63,Default,NTP,0000,0000,0000,!Effect,Spuść się we mnie! Spuść się!
+Dialogue: Marked=0,0:24:42.68,0:24:43.41,Default,NTP,0000,0000,0000,!Effect,Proszę bardzo!
+Dialogue: Marked=0,0:25:04.63,0:25:06.26,Default,NTP,0000,0000,0000,!Effect,Jesteś taka, jak Ren Nanase.
+Dialogue: Marked=0,0:25:07.07,0:25:08.19,Default,NTP,0000,0000,0000,!Effect,Ne zrozumcie mnie źle.
+Dialogue: Marked=0,0:25:08.97,0:25:12.46,Default,NTP,0000,0000,0000,!Effect,Może i wciągnęłam się w chory, perwersyjny seks z doktorem,
+Dialogue: Marked=0,0:25:13.77,0:25:15.90,Default,NTP,0000,0000,0000,!Effect,ale tylko fizycznie.
+Dialogue: Marked=0,0:25:16.78,0:25:18.40,Default,NTP,0000,0000,0000,!Effect,Więc to próbowałaś ukryć?
+Dialogue: Marked=0,0:25:18.91,0:25:19.61,Default,NTP,0000,0000,0000,!Effect,Oczywiście!
+Dialogue: Marked=0,0:25:19.98,0:25:22.18,Default,NTP,0000,0000,0000,!Effect,Czy to… Naprawdę tak czujesz?
+Dialogue: Marked=0,0:25:23.12,0:25:28.56,Default,NTP,0000,0000,0000,!Effect,Tak, robiłam to z własnej woli! Tyle mam do powiedzenia!

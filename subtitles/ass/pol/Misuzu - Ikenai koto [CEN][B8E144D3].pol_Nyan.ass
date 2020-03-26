@@ -1,0 +1,122 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.3.642  Dec 26 2016  15:59:02
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 848
+PlayResY: 480
+Last Style Storage: [848x480]
+Audio File: F:/Animation/[160806][Animan]Misuzu イケナイコトAnime Edition.mp4
+Video File: F:/Animation/[160806][Animan]Misuzu イケナイコトAnime Edition.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Active Line: 0
+Video Position: 11095
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H001F2230,&H000000FF,&H00A4F2F9,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,46,&H001F2230,&H000000FF,&H00F6DFB7,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:43.17,0:00:50.02,Grupa,,0,0,0,,{\blur2\1c&H000000&\3c&H000000&\t(0,941,\1c&H1F2230&\3c&HA4F2F9&)\t(5907,$end$,\1c&H000000&\3c&H000000&)}Nyan
+Dialogue: 0,0:00:43.17,0:00:50.02,Anime,,0,0,0,,{\blur3\pos(140,287)\1c&H000000&\3c&H000000&\t(0,941,\1c&H1F2230&\3c&HF6DFB7&)\t(5907,$end$,\1c&H000000&\3c&H000000&)}Ikenai Koto
+Dialogue: 0,0:00:06.73,0:00:08.39,Default,,0,0,0,,{\be1}Zgłodniałam.
+Dialogue: 0,0:00:08.78,0:00:11.89,Default,,0,0,0,,{\be1}Yuuto, dzisiaj nie pracujesz, nie?
+Dialogue: 0,0:00:11.89,0:00:14.91,Default,,0,0,0,,{\be1}Dawno nie wychodziliśmy razem,\Nmoże coś zjemy?
+Dialogue: 0,0:00:24.46,0:00:27.69,Default,,0,0,0,,{\be1}Gdzie się gapisz?!
+Dialogue: 0,0:00:28.83,0:00:32.29,Default,,0,0,0,,{\be1}A co ja poradzę?\NTy mi nie chcesz dać.
+Dialogue: 0,0:00:32.97,0:00:38.02,Default,,0,0,0,,{\be1}Dobrze wiesz czemu, nic na to nie poradzę.
+Dialogue: 0,0:00:38.02,0:00:40.66,Default,,0,0,0,,{\be1}To może chociaż...
+Dialogue: 0,0:00:52.13,0:00:57.08,Default,,0,0,0,,{\be1}Pociąg ekspresowy.\NNie zatrzymuje się na miejskich stacjach.
+Dialogue: 0,0:00:57.08,0:01:00.91,Default,,0,0,0,,{\be1}Lepiej przestańmy.
+Dialogue: 0,0:01:01.15,0:01:06.65,Default,,0,0,0,,{\be1}Mowy nie ma, obiecałaś że będę mógł to zrobić.
+Dialogue: 0,0:01:07.32,0:01:09.57,Default,,0,0,0,,{\be1}No tak, ale...
+Dialogue: 0,0:01:12.57,0:01:14.10,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:01:14.87,0:01:22.36,Default (i),,0,0,0,,{\be1}Nie spodziewałam się,\Nże zechce zagrać zboczeńca w pociągu.
+Dialogue: 0,0:01:27.83,0:01:30.32,Default,,0,0,0,,{\be1}Zobaczą nas!
+Dialogue: 0,0:01:31.80,0:01:34.94,Default,,0,0,0,,{\be1}Tylko nawet nie próbuj wkładać pod ubrania.
+Dialogue: 0,0:01:34.94,0:01:36.20,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:01:36.83,0:01:39.51,Default,,0,0,0,,{\be1}Zabiję jeśli spróbujesz.
+Dialogue: 0,0:01:39.51,0:01:40.91,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:01:41.67,0:01:43.43,Default,,0,0,0,,{\be1}Chyba śnisz.
+Dialogue: 0,0:01:46.83,0:01:50.67,Default,,0,0,0,,{\be1}Zaraz, nie masz stanika?
+Dialogue: 0,0:01:51.69,0:01:53.10,Default (i),,0,0,0,,{\be1}Cholera.
+Dialogue: 0,0:01:53.10,0:01:56.54,Default (i),,0,0,0,,{\be1}Nie noszę stanika podczas miesiączki,\Nbo piersi mi się powiększają i obciera je.
+Dialogue: 0,0:02:08.54,0:02:11.30,Default,,0,0,0,,{\be1}Znowu?
+Dialogue: 0,0:02:11.96,0:02:17.38,Default,,0,0,0,,{\be1}Niby nie jest ci przyjemnie,\Nale mokra to jesteś.
+Dialogue: 0,0:02:20.31,0:02:22.77,Default,,0,0,0,,{\be1}Słychać te odgłosy.
+Dialogue: 0,0:02:23.32,0:02:25.52,Default,,0,0,0,,{\be1}Nieprawda, kretynie!
+Dialogue: 0,0:02:29.43,0:02:30.13,Default (i),,0,0,0,,{\be1}Cholera.
+Dialogue: 0,0:02:32.83,0:02:35.54,Default,,0,0,0,,{\be1}Zaczynam się dziwnie czuć.
+Dialogue: 0,0:02:40.65,0:02:42.60,Default,,0,0,0,,{\be1}Przestraszyłam się.
+Dialogue: 0,0:02:52.18,0:02:54.17,Default (i),,0,0,0,,{\be1}Co z nim?
+Dialogue: 0,0:02:56.31,0:02:57.87,Default (i),,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:03:03.10,0:03:07.37,Default (i),,0,0,0,,{\be1}Yuuto, pożałujesz tego!
+Dialogue: 0,0:03:11.24,0:03:16.67,Default,,0,0,0,,{\be1}Mówiłam, że masz nie wkładać pod ubrania!
+Dialogue: 0,0:03:19.63,0:03:23.63,Default,,0,0,0,,{\be1}No proszę, licealistka, która lubi być obmacywana?
+Dialogue: 0,0:03:24.55,0:03:25.68,Default,,0,0,0,,{\be1}Ktoś ty?
+Dialogue: 0,0:03:31.46,0:03:33.48,Default,,0,0,0,,{\be1}Nie, ja...
+Dialogue: 0,0:03:34.50,0:03:36.75,Default (i),,0,0,0,,{\be1}Yuuto, gdzie jesteś?
+Dialogue: 0,0:03:40.72,0:03:42.33,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:03:43.87,0:03:45.79,Default,,0,0,0,,{\be1}Już nie udawaj.
+Dialogue: 0,0:03:49.93,0:03:53.33,Default,,0,0,0,,{\be1}Podnieciłaś się jak tylko cię dotknąłem.
+Dialogue: 0,0:04:03.60,0:04:08.41,Default,,0,0,0,,{\be1}Jesteś bardzo mokra,\Na to znaczy, że chcesz się z nami zabawić.
+Dialogue: 0,0:04:09.09,0:04:11.45,Default (i),,0,0,0,,{\be1}Jakimi nami?
+Dialogue: 0,0:04:14.12,0:04:16.43,Default,,0,0,0,,{\be1}Trafiła się niezła.
+Dialogue: 0,0:04:18.55,0:04:20.28,Default (i),,0,0,0,,{\be1}Dwóch?
+Dialogue: 0,0:04:20.28,0:04:25.96,Default,,0,0,0,,{\be1}Patrzyłem na ciebie już jakiś czas,\Ncały czas się tak zabawiasz?
+Dialogue: 0,0:04:33.69,0:04:34.65,Default (i),,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:04:38.46,0:04:39.58,Default (i),,0,0,0,,{\be1}Muszę ich powstrzymać!
+Dialogue: 0,0:04:43.11,0:04:45.97,Default (i),,0,0,0,,{\be1}O nie, nie mogę zacząć jęczeć!
+Dialogue: 0,0:04:45.97,0:04:50.18,Default,,0,0,0,,{\be1}Ale nie wierzgaj tak,\Nbo będziesz przeszkadzać ludziom.
+Dialogue: 0,0:05:15.14,0:05:17.81,Default (i),,0,0,0,,{\be1}Nie wkładaj palców!
+Dialogue: 0,0:05:23.99,0:05:29.33,Default,,0,0,0,,{\be1}Nie powinnaś jęczeć tak głośno.
+Dialogue: 0,0:05:33.94,0:05:37.64,Default (i),,0,0,0,,{\be1}Wkłada je tak głęboko!
+Dialogue: 0,0:05:48.66,0:05:53.37,Default,,0,0,0,,{\be1}Ktoś zauważy, jeśli będzie\Ntak mocno z ciebie cieknąć.
+Dialogue: 0,0:05:58.39,0:06:01.52,Default,,0,0,0,,{\be1}Rozumiem, masz okres.
+Dialogue: 0,0:06:03.64,0:06:06.34,Default,,0,0,0,,{\be1}Patrz jak nabrudziłaś.
+Dialogue: 0,0:06:15.48,0:06:20.74,Default (i),,0,0,0,,{\be1}Yuuto, jestem tutaj!
+Dialogue: 0,0:06:26.72,0:06:30.46,Default,,0,0,0,,{\be1}To może zaczniemy zabawę?
+Dialogue: 0,0:06:31.35,0:06:37.71,Default,,0,0,0,,{\be1}Muszę uważać, bo jeszcze się pośliznę\Ni upadnę na twój bałagan.
+Dialogue: 0,0:06:50.20,0:06:51.54,Default (i),,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:07:01.33,0:07:08.01,Default,,0,0,0,,{\be1}Nie znam innej dziewczyny,\Nktóra zrobiłaby to w pociągu.
+Dialogue: 0,0:07:14.43,0:07:21.50,Default,,0,0,0,,{\be1}Muszę wkładać w rytm pociągu.
+Dialogue: 0,0:07:24.06,0:07:26.68,Default (i),,0,0,0,,{\be1}Dotyka mnie nim z tyłu!
+Dialogue: 0,0:07:26.68,0:07:34.17,Default,,0,0,0,,{\be1}Przez twój cudowny tyłeczek\Nnie będę mógł się powstrzymać.
+Dialogue: 0,0:07:36.61,0:07:40.91,Default,,0,0,0,,{\be1}Z przodu nie ma dla mnie miejsca,\Nwięc wejdę od tyłu.
+Dialogue: 0,0:07:44.75,0:07:48.91,Default,,0,0,0,,{\be1}Taka mała dziurka, a taka mokra.
+Dialogue: 0,0:07:50.09,0:07:55.77,Default (i),,0,0,0,,{\be1}Nie ma mowy, żeby się zmieścił!
+Dialogue: 0,0:07:55.77,0:07:58.34,Default,,0,0,0,,{\be1}Rozluźnij się.
+Dialogue: 0,0:08:05.25,0:08:08.19,Default,,0,0,0,,{\be1}Będę wkładał powoli.
+Dialogue: 0,0:08:17.72,0:08:22.85,Default,,0,0,0,,{\be1}Z przodu zrobiła się ciaśniejsza.
+Dialogue: 0,0:08:56.17,0:08:57.37,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:09:00.69,0:09:04.28,Default,,0,0,0,,{\be1}Nie męczy cię stanie?
+Dialogue: 0,0:09:06.30,0:09:09.17,Default,,0,0,0,,{\be1}Trzymaj się mocno.
+Dialogue: 0,0:09:11.72,0:09:15.20,Default,,0,0,0,,{\be1}Zajmiemy się tobą, dopóki nie dojedziemy do stacji.
+Dialogue: 0,0:09:18.95,0:09:21.93,Default (i),,0,0,0,,{\be1}Będziemy to robić aż do stacji?
+Dialogue: 0,0:09:43.25,0:09:45.97,Default (i),,0,0,0,,{\be1}Wkładają do samego końca!
+Dialogue: 0,0:10:09.31,0:10:12.42,Default,,0,0,0,,{\be1}Uważaj, obejmij mnie mocniej.
+Dialogue: 0,0:10:43.94,0:10:50.63,Default,,0,0,0,,{\be1}Za chwilę przystanek.\NProszę uważać podczas hamowania.
+Dialogue: 0,0:10:51.28,0:10:53.98,Default,,0,0,0,,{\be1}Trzeba zaraz kończyć.
+Dialogue: 0,0:11:27.94,0:11:33.26,Default,,0,0,0,,{\be1}Przystanek, proszę pamiętać o swoich rzeczach.
+Dialogue: 0,0:11:34.57,0:11:37.37,Default,,0,0,0,,{\be1}Powtórzmy to kiedyś.
+Dialogue: 0,0:11:46.85,0:11:49.91,Default,,0,0,0,,{\be1}Pociąg ekspresowy.\NNie zatrzymuje się na miejskich stacjach.
+Dialogue: 0,0:11:53.11,0:11:54.74,Default (i),,0,0,0,,{\be1}Muszę wysiąść.
+Dialogue: 0,0:11:54.74,0:11:56.96,Default (i),,0,0,0,,{\be1}Zobaczę się z Yuuto w domu.
+Dialogue: 0,0:11:59.09,0:12:01.13,Default,,0,0,0,,{\be1}Już wysiadasz?
+Dialogue: 0,0:12:01.13,0:12:03.98,Default,,0,0,0,,{\be1}Zabaw się teraz z nami.
+Dialogue: 0,0:12:04.35,0:12:06.78,Default,,0,0,0,,{\be1}- Nie, przestańcie!\N- To jak będzie?
+Dialogue: 0,0:12:06.78,0:12:09.53,Default,,0,0,0,,{\be1}- Długo ci się nie zejdzie.\N- Puszczajcie!
+Dialogue: 0,0:12:10.21,0:12:13.41,Default,,0,0,0,,{\be1}- No dawaj.\N- Nie chcę!
+Dialogue: 0,0:12:13.41,0:12:18.72,Default,,0,0,0,,{\be1}- Drzwi się zamykają, proszę uważać.\N- Przestańcie! O nie!

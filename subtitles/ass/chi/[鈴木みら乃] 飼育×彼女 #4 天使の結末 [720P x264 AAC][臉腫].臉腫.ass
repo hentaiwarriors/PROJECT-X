@@ -1,0 +1,133 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,47,&H00FFFFFF,&H000000FF,&H00800080,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,134
+Style: 注释,SimSun,45,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,0,0,0,0,118,100,0,0,1,3,0,8,18,18,5,1
+Style: SIM,汉仪粗圆简,98,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,118,100,0,0,1,0,0,2,18,18,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.46,0:00:11.27,Default,,0,0,0,,阿荘
+Dialogue: 0,0:00:12.00,0:00:15.84,Default,,0,0,0,,我的身體裡還有惡魔嗎？
+Dialogue: 0,0:00:16.47,0:00:19.11,Default,,0,0,0,,惡魔 有嗎？
+Dialogue: 0,0:00:45.30,0:00:48.37,Default,,0,0,0,,好 好 好舒服
+Dialogue: 0,0:00:49.07,0:00:55.48,Default,,0,0,0,,在我的身體裡攪來攪去
+Dialogue: 0,0:00:58.81,0:01:04.85,Default,,0,0,0,,好 好舒服 太舒服了
+Dialogue: 0,0:01:18.83,0:01:20.23,Default,,0,0,0,,射了 要射了哦
+Dialogue: 0,0:01:21.57,0:01:23.70,Default,,0,0,0,,快
+Dialogue: 0,0:01:33.25,0:01:37.65,Default,,0,0,0,,要去了
+Dialogue: 0,0:02:15.06,0:02:18.59,Default,,0,0,0,,{\3c&HB815FD&\fs34.5\c&HFDE5FF&\blur3\an8}本字幕由臉腫字幕組製作 僅供交流學習 請於下載後24小時內刪除\N翻譯:銀君 校對:厄洛蒂克 時軸:幕下 壓製:菓菓
+Dialogue: 0,0:02:15.06,0:02:18.59,Default,,0,0,0,,{\bord3\blur1.5\fs60\3c&HF03AF8&\pos(986.635,564)}飼{\3c&H000000&}育{\c&H000000&\3c&H2F10ED&\fs45}X{\fs60\c&HFFFFFF&}女{\3c&H0000FF&}友
+Dialogue: 0,0:02:15.96,0:02:18.59,Default,,0,0,0,,{\3c&HB815FD&\c&HFDE5FF&\blur3\pos(640,694.5)}天使的終結篇
+Dialogue: 0,0:02:27.43,0:02:29.40,Default,,0,0,0,,用力 再用力
+Dialogue: 0,0:02:30.20,0:02:32.57,Default,,0,0,0,,把你身體裡的惡魔給逼出來
+Dialogue: 0,0:02:43.12,0:02:44.02,Default,,0,0,0,,把上衣脫了
+Dialogue: 0,0:02:46.19,0:02:47.89,Default,,0,0,0,,用體操服把地板擦乾淨
+Dialogue: 0,0:02:48.39,0:02:49.42,Default,,0,0,0,,好
+Dialogue: 0,0:03:02.24,0:03:05.51,Default,,0,0,0,,你看 全部擦乾了哦
+Dialogue: 0,0:03:06.61,0:03:09.68,Default,,0,0,0,,把臉朝上 張開嘴
+Dialogue: 0,0:03:19.92,0:03:21.18,Default,,0,0,0,,讓淨化完的東西
+Dialogue: 0,0:03:21.43,0:03:23.66,Default,,0,0,0,,再次回到身體
+Dialogue: 0,0:03:24.12,0:03:26.33,Default,,0,0,0,,給我一滴都不剩地喝下去
+Dialogue: 0,0:03:36.24,0:03:37.60,Default,,0,0,0,,灑在地板上的東西
+Dialogue: 0,0:03:37.87,0:03:40.11,Default,,0,0,0,,不用你的舌頭給我舔乾淨的話
+Dialogue: 0,0:03:41.07,0:03:42.78,Default,,0,0,0,,肉棒你就別想了
+Dialogue: 0,0:03:45.11,0:03:45.58,Default,,0,0,0,,好
+Dialogue: 0,0:04:00.76,0:04:02.80,Default,,0,0,0,,{\an8\fs47}我們拜訪失蹤女性曾經工作的
+Dialogue: 0,0:04:03.10,0:04:05.93,Default,,0,0,0,,{\an8\fs47}便利商店的店長
+Dialogue: 0,0:04:06.47,0:04:10.84,Default,,0,0,0,,{\an8\fs47}所以說 為什麼都一個多月了還毫無進展啊
+Dialogue: 0,0:04:11.14,0:04:13.81,Default,,0,0,0,,{\an8\fs47}有空來我這裡採訪的
+Dialogue: 0,0:04:14.21,0:04:16.81,Default,,0,0,0,,{\an8\fs47}不如去把紅帽子的男人找到啊
+Dialogue: 0,0:04:17.31,0:04:19.05,Default,,0,0,0,,{\an8\fs47}犯人就是那傢伙啊
+Dialogue: 0,0:04:20.51,0:04:24.32,Default,,0,0,0,,{\an8\fs47}警察通過調查便利商店裡的監視錄影機
+Dialogue: 0,0:04:24.82,0:04:27.85,Default,,0,0,0,,{\an8\fs47}在尋找紅帽子的人的身份的同時
+Dialogue: 0,0:04:28.42,0:04:33.76,Default,,0,0,0,,{\an8\fs47}也在調查這個男人和便利商店的女性失蹤之間的關聯
+Dialogue: 0,0:04:28.42,0:04:29.29,Default,,0,0,0,,阿荘
+Dialogue: 0,0:04:29.66,0:04:33.79,Default,,0,0,0,,我 好奇怪 全身都好燙
+Dialogue: 0,0:04:35.50,0:04:36.50,Default,,0,0,0,,好燙啊
+Dialogue: 0,0:04:51.85,0:04:53.05,Default,,0,0,0,,好冰
+Dialogue: 0,0:05:07.03,0:05:08.30,Default,,0,0,0,,好舒服
+Dialogue: 0,0:05:18.11,0:05:19.61,Default,,0,0,0,,緊度不錯
+Dialogue: 0,0:05:46.87,0:05:50.74,Default,,0,0,0,,喂 這樣的話下一個冰塊就放不進去了啊
+Dialogue: 0,0:05:56.41,0:06:01.41,Default,,0,0,0,,小莊 這樣不行啊
+Dialogue: 0,0:06:42.92,0:06:51.00,Default,,0,0,0,,出來了 出來了 射出來了
+Dialogue: 0,0:08:54.96,0:08:59.39,Default,,0,0,0,,做愛 阿荘 最喜歓了
+Dialogue: 0,0:09:13.57,0:09:18.41,Default,,0,0,0,,還有一點點就要生了呢
+Dialogue: 0,0:09:22.98,0:09:24.95,Default,,0,0,0,,雖然淨化掉了惡魔
+Dialogue: 0,0:09:25.65,0:09:28.29,Default,,0,0,0,,天使卻變成了妖怪
+Dialogue: 0,0:09:29.62,0:09:30.92,Default,,0,0,0,,我出去買香菸
+Dialogue: 0,0:09:35.70,0:09:39.73,Default,,0,0,0,,名字叫什麼好呢？
+Dialogue: 0,0:09:45.27,0:09:46.71,Default,,0,0,0,,看我發現了什麼
+Dialogue: 0,0:09:48.11,0:09:50.88,Default,,0,0,0,,拍個照片好了
+Dialogue: 0,0:09:54.25,0:09:55.12,Default,,0,0,0,,對不起
+Dialogue: 0,0:09:56.65,0:09:59.25,Default,,0,0,0,,和小奈的事情不是玩玩的
+Dialogue: 0,0:09:59.55,0:10:01.99,Default,,0,0,0,,雖然是真的在交往
+Dialogue: 0,0:10:02.76,0:10:07.43,Default,,0,0,0,,但是我的雙親出了交通事故去世了
+Dialogue: 0,0:10:07.96,0:10:09.36,Default,,0,0,0,,因為需要錢
+Dialogue: 0,0:10:10.23,0:10:12.93,Default,,0,0,0,,小奈向我提議說
+Dialogue: 0,0:10:13.33,0:10:15.60,Default,,0,0,0,,用這樣像是偷拍的錄影
+Dialogue: 0,0:10:16.27,0:10:18.84,Default,,0,0,0,,應該可以多少賺些錢
+Dialogue: 0,0:10:21.51,0:10:25.25,Default,,0,0,0,,但是 我現在找到了新的地方打工
+Dialogue: 0,0:10:25.75,0:10:30.18,Default,,0,0,0,,是不會用這樣的錄影讓小奈傷心的
+Dialogue: 0,0:10:30.58,0:10:32.55,Default,,0,0,0,,這個 我把這個給你
+Dialogue: 0,0:10:32.72,0:10:34.92,Default,,0,0,0,,不管怎麼用都隨你
+Dialogue: 0,0:10:35.19,0:10:36.79,Default,,0,0,0,,所以……好嗎
+Dialogue: 0,0:10:49.30,0:10:49.87,Default,,0,0,0,,怎麼了
+Dialogue: 0,0:10:59.28,0:11:02.72,Default,,0,0,0,,惡魔降臨！
+Dialogue: 0,0:11:07.22,0:11:15.10,Default,,0,0,0,,大家 一起下地獄吧
+Dialogue: 0,0:12:30.14,0:12:31.20,Default,,0,0,0,,真是爽翻了
+Dialogue: 0,0:12:36.24,0:12:37.38,Default,,0,0,0,,真糟糕
+Dialogue: 0,0:12:37.74,0:12:38.55,Default,,0,0,0,,真的嗎？
+Dialogue: 0,0:12:38.91,0:12:40.15,Default,,0,0,0,,不要 不要
+Dialogue: 0,0:13:10.78,0:13:11.68,Default,,0,0,0,,奈津子？
+Dialogue: 0,0:13:12.35,0:13:13.18,Default,,0,0,0,,奈津子
+Dialogue: 0,0:13:13.71,0:13:17.35,Default,,0,0,0,,啊 是在便利商店裡搭訕過的巨乳蘿莉啊
+Dialogue: 0,0:13:18.12,0:13:19.72,Default,,0,0,0,,真讓人懷念呢
+Dialogue: 0,0:13:20.05,0:13:22.96,Default,,0,0,0,,好 今天就用這個擼了
+Dialogue: 0,0:13:24.42,0:13:25.73,Default,,0,0,0,,{\an8\fs47}下一條新聞
+Dialogue: 0,0:13:26.19,0:13:27.46,Default,,0,0,0,,{\an8\fs47}六日上午四時左右
+Dialogue: 0,0:13:27.83,0:13:29.73,Default,,0,0,0,,{\an8\fs47}在練馬區的A1街道
+Dialogue: 0,0:13:30.06,0:13:33.70,Default,,0,0,0,,{\an8\fs47}一全裸女子從名為鈴木乃的公寓上跳下
+Dialogue: 0,0:13:33.70,0:13:36.67,Default,,0,0,0,,{\an8\fs47}跳下 砸中了下面路過的一名男子
+Dialogue: 0,0:13:30.30,0:13:35.34,Default,,0,0,0,,{\an1\fs33}註:新聞中的A1C和鈴木乃 分別是製作分社和本家
+Dialogue: 0,0:13:38.37,0:13:41.67,Default,,0,0,0,,{\an8\fs47}該名女子就是從去年因失蹤而請求搜尋的
+Dialogue: 0,0:13:42.14,0:13:44.14,Default,,0,0,0,,{\an8\fs47}住在附近的二十餘歲的女子
+Dialogue: 0,0:13:44.24,0:13:45.18,Default,,0,0,0,,{\an8\fs47}女子當場死亡
+Dialogue: 0,0:13:45.75,0:13:48.55,Default,,0,0,0,,{\an8\fs47}牽連進來的是這個公寓的住戶
+Dialogue: 0,0:13:48.95,0:13:51.28,Default,,0,0,0,,{\an8\fs47}三十二歲的無職男子
+Dialogue: 0,0:13:51.82,0:13:53.22,Default,,0,0,0,,{\an8\fs47}男子目前處於昏迷
+Dialogue: 0,0:13:51.82,0:13:53.05,Default,,0,0,0,,奈津子
+Dialogue: 0,0:13:53.59,0:13:54.62,Default,,0,0,0,,那個大叔也？
+Dialogue: 0,0:13:55.92,0:14:01.33,Default,,0,0,0,,女子曾經工作的便利商店
+Dialogue: 0,0:13:55.92,0:13:58.46,Default,,0,0,0,,{\an8\fs47}進一步消息稱 因為女子墜落
+Dialogue: 0,0:13:58.83,0:14:01.29,Default,,0,0,0,,{\an8\fs47}肚子裡的孩子也已經死亡
+Dialogue: 0,0:14:01.63,0:14:02.33,Default,,0,0,0,,騙人的吧
+Dialogue: 0,0:14:02.90,0:14:05.03,Default,,0,0,0,,女子手裡握著的手機中
+Dialogue: 0,0:14:05.50,0:14:09.67,Default,,0,0,0,,存儲著多個與這次跳樓可能有關的錄影
+Dialogue: 0,0:14:08.33,0:14:14.34,Default,,0,0,0,,{\fs30\pos(771.986,443.357)\frz5.14\3c&HFFFFFF&\3a&H00&\c&H463F04&}同型號的智慧型手機
+Dialogue: 0,0:14:10.54,0:14:14.34,Default,,0,0,0,,警方正從人為和意外兩方面展開調查
+Dialogue: 0,0:14:14.77,0:14:16.11,Default,,0,0,0,,請問哪位？
+Dialogue: 0,0:14:16.71,0:14:20.65,Default,,0,0,0,,晚安 是柴田先生的房間吧
+Dialogue: 0,0:14:21.31,0:14:23.02,Default,,0,0,0,,我是練馬警察局的
+Dialogue: 0,0:14:24.48,0:14:26.32,Default,,0,0,0,,能占用你一點時間嗎？
+Dialogue: 0,0:14:33.43,0:14:34.66,Default,,0,0,0,,歡迎光臨
+

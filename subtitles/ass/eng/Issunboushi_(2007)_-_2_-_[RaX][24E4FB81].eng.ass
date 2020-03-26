@@ -1,0 +1,347 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,25,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.12,0:00:03.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}Winner of 2nd Annual Vanilla\N{\1c&H00e2ff19}Original Story Contest
+Dialogue: 0,0:00:03.56,0:00:05.18,Default,,0000,0000,0000,,{\1c&H00e2ff19}Original Story by Manmaru
+Dialogue: 0,0:00:10.30,0:00:11.96,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:00:13.07,0:00:15.03,Default,,0000,0000,0000,,{\1c&H00e2ff19}What? What? What?
+Dialogue: 0,0:00:17.30,0:00:18.60,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz.
+Dialogue: 0,0:00:22.28,0:00:23.26,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun!
+Dialogue: 0,0:00:23.38,0:00:26.04,Default,,0000,0000,0000,,{\1c&H00e2ff19}You have such a cute girlfriend...
+Dialogue: 0,0:00:26.35,0:00:28.34,Default,,0000,0000,0000,,{\1c&H00e2ff19}...but you're fooling\N{\1c&H00e2ff19}around with the professor?
+Dialogue: 0,0:00:28.48,0:00:31.51,Default,,0000,0000,0000,,{\1c&H00e2ff19}You're such scum, scum, scum!
+Dialogue: 0,0:00:31.79,0:00:34.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}You... You...
+Dialogue: 0,0:00:34.45,0:00:37.55,Default,,0000,0000,0000,,{\1c&H00e2ff19}Japanese playboy!
+Dialogue: 0,0:00:38.12,0:00:41.32,Default,,0000,0000,0000,,{\1c&H00e2ff19}Wait a minute Liz...
+Dialogue: 0,0:00:42.36,0:00:46.30,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's not what it looks like...
+Dialogue: 0,0:00:46.93,0:00:48.37,Default,,0000,0000,0000,,{\1c&H00e2ff19}There's a reason for all this...
+Dialogue: 0,0:00:48.87,0:00:49.93,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't want to hear it!
+Dialogue: 0,0:00:50.04,0:00:51.13,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't want to hear it!
+Dialogue: 0,0:00:51.27,0:00:52.26,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't want to hear it!
+Dialogue: 0,0:00:52.37,0:00:53.46,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't want to hear it!
+Dialogue: 0,0:00:53.61,0:00:54.87,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't want to hear it!
+Dialogue: 0,0:00:57.24,0:00:58.27,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz?
+Dialogue: 0,0:00:58.58,0:00:59.57,Default,,0000,0000,0000,,{\1c&H00e2ff19}Could you stop?
+Dialogue: 0,0:01:07.69,0:01:08.81,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:01:09.42,0:01:12.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}Wha... Wha... Wha...
+Dialogue: 0,0:01:12.59,0:01:16.53,Default,,0000,0000,0000,,{\1c&H00e2ff19}What?
+Dialogue: 0,0:01:30.34,0:01:31.71,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:01:36.08,0:01:38.21,Default,,0000,0000,0000,,{\1c&H00e2ff19}What happened?
+Dialogue: 0,0:01:38.79,0:01:41.81,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't know if you'll believe me or not,\N{\1c&H00e2ff19}but...
+Dialogue: 0,0:01:42.66,0:01:48.99,Default,,0000,0000,0000,,{\1c&H00e2ff19}The Erotic Adventures of Tom Thumb\N{\1c&H00e2ff19}Part 2
+Dialogue: 0,0:01:51.03,0:01:56.47,Default,,0000,0000,0000,,{\1c&H00e2ff19}I was writing a report last night,\N{\1c&H00e2ff19}but I fainted because I was hungry.
+Dialogue: 0,0:01:56.60,0:02:01.04,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then a guy who claims to be my\N{\1c&H00e2ff19}ancestor appeared in my dream.
+Dialogue: 0,0:02:01.14,0:02:04.20,Default,,0000,0000,0000,,{\1c&H00e2ff19}He said he'll make my life a little better.
+Dialogue: 0,0:02:05.11,0:02:09.14,Default,,0000,0000,0000,,{\1c&H00e2ff19}When I woke up, I realized\N{\1c&H00e2ff19}that my body had shrunk.
+Dialogue: 0,0:02:09.42,0:02:12.91,Default,,0000,0000,0000,,{\1c&H00e2ff19}I was bewildered, and Masumi\N{\1c&H00e2ff19}appeared all of a sudden.
+Dialogue: 0,0:02:13.12,0:02:15.28,Default,,0000,0000,0000,,{\1c&H00e2ff19}I tried to hide, but she found me.
+Dialogue: 0,0:02:15.96,0:02:18.98,Default,,0000,0000,0000,,{\1c&H00e2ff19}She ended up helping\N{\1c&H00e2ff19}me write my report...
+Dialogue: 0,0:02:19.09,0:02:21.22,Default,,0000,0000,0000,,{\1c&H00e2ff19}...and when she went to\N{\1c&H00e2ff19}the university to drop it off...
+Dialogue: 0,0:02:21.59,0:02:23.69,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't know,\N{\1c&H00e2ff19}maybe she's got a weak bladder.
+Dialogue: 0,0:02:24.03,0:02:26.66,Default,,0000,0000,0000,,{\1c&H00e2ff19}She fainted.
+Dialogue: 0,0:02:28.27,0:02:31.10,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then Liz and the professor saw me...
+Dialogue: 0,0:02:31.24,0:02:33.71,Default,,0000,0000,0000,,{\1c&H00e2ff19}...and they thought I was\N{\1c&H00e2ff19}some kind of a toy...
+Dialogue: 0,0:02:33.84,0:02:34.93,Default,,0000,0000,0000,,{\1c&H00e2ff19}...and they fought over me.
+Dialogue: 0,0:02:35.34,0:02:37.54,Default,,0000,0000,0000,,{\1c&H00e2ff19}I finally ended up\N{\1c&H00e2ff19}at the professor's place.
+Dialogue: 0,0:02:37.68,0:02:40.70,Default,,0000,0000,0000,,{\1c&H00e2ff19}When we arrived at her\N{\1c&H00e2ff19}place, she got really drunk.
+Dialogue: 0,0:02:40.88,0:02:42.37,Default,,0000,0000,0000,,{\1c&H00e2ff19}She was out of control.
+Dialogue: 0,0:02:43.02,0:02:45.54,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then somehow, I returned to normal.
+Dialogue: 0,0:02:45.69,0:02:48.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}So I escaped while the\N{\1c&H00e2ff19}professor was still drunk.
+Dialogue: 0,0:02:49.26,0:02:51.12,Default,,0000,0000,0000,,{\1c&H00e2ff19}That's how it was.
+Dialogue: 0,0:02:53.89,0:02:57.80,Default,,0000,0000,0000,,{\1c&H00e2ff19}Anyway, what do you think I should do?
+Dialogue: 0,0:02:58.00,0:03:00.83,Default,,0000,0000,0000,,{\1c&H00e2ff19}I can't just go home like this...
+Dialogue: 0,0:03:14.11,0:03:15.44,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:03:15.98,0:03:16.95,Default,,0000,0000,0000,,{\1c&H00e2ff19}Yes?
+Dialogue: 0,0:03:19.09,0:03:21.49,Default,,0000,0000,0000,,{\1c&H00e2ff19}You're going to owe me big time.
+Dialogue: 0,0:03:21.82,0:03:24.72,Default,,0000,0000,0000,,{\1c&H00e2ff19}After all, it's too high to pay.
+Dialogue: 0,0:03:25.19,0:03:27.28,Default,,0000,0000,0000,,{\1c&H00e2ff19}What? But...
+Dialogue: 0,0:03:27.53,0:03:28.89,Default,,0000,0000,0000,,{\1c&H00e2ff19}Oh, it's a joke!
+Dialogue: 0,0:03:29.06,0:03:32.90,Default,,0000,0000,0000,,{\1c&H00e2ff19}Give and take for my sweet darling?
+Dialogue: 0,0:03:38.00,0:03:40.44,Default,,0000,0000,0000,,{\1c&H00e2ff19}Umm... Why did you call me darling?
+Dialogue: 0,0:03:41.04,0:03:43.44,Default,,0000,0000,0000,,{\1c&H00e2ff19}Well, the reason for that is...
+Dialogue: 0,0:03:43.98,0:03:46.17,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's good to be young, eh?
+Dialogue: 0,0:03:46.85,0:03:53.58,Default,,0000,0000,0000,,{\1c&H00e2ff19}When I was young, I was delivering\N{\1c&H00e2ff19}brain busters almost every night.
+Dialogue: 0,0:03:53.99,0:03:57.32,Default,,0000,0000,0000,,{\1c&H00e2ff19}They called me "Dangerous K."
+Dialogue: 0,0:04:00.93,0:04:06.56,Default,,0000,0000,0000,,{\1c&H00e2ff19}Don't make me unleash Tigerdriver 9!
+Dialogue: 0,0:04:09.14,0:04:12.80,Default,,0000,0000,0000,,{\1c&H00e2ff19}But I'm nothing but a worthless guy...
+Dialogue: 0,0:04:18.61,0:04:20.67,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm so tired...
+Dialogue: 0,0:04:27.55,0:04:28.68,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz!
+Dialogue: 0,0:04:28.99,0:04:30.39,Default,,0000,0000,0000,,{\1c&H00e2ff19}Stop!
+Dialogue: 0,0:04:32.16,0:04:33.42,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun...
+Dialogue: 0,0:04:48.84,0:04:51.74,Default,,0000,0000,0000,,{\1c&H00e2ff19}I can't believe I knew a celebrity...
+Dialogue: 0,0:04:53.15,0:04:54.55,Default,,0000,0000,0000,,{\1c&H00e2ff19}Yeah...
+Dialogue: 0,0:04:55.25,0:05:00.31,Default,,0000,0000,0000,,{\1c&H00e2ff19}You normally wouldn't think about\N{\1c&H00e2ff19}going to grad school if you weren't rich.
+Dialogue: 0,0:05:00.89,0:05:03.82,Default,,0000,0000,0000,,{\1c&H00e2ff19}What am I going to do now?
+Dialogue: 0,0:05:06.99,0:05:08.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:05:17.00,0:05:18.47,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:05:20.61,0:05:22.16,Default,,0000,0000,0000,,{\1c&H00e2ff19}Just listen!
+Dialogue: 0,0:05:22.28,0:05:23.24,Default,,0000,0000,0000,,{\1c&H00e2ff19}Yes!
+Dialogue: 0,0:05:23.48,0:05:27.21,Default,,0000,0000,0000,,{\1c&H00e2ff19}Earlier today, I called you darling.
+Dialogue: 0,0:05:27.55,0:05:30.57,Default,,0000,0000,0000,,{\1c&H00e2ff19}Do you understand my feelings?
+Dialogue: 0,0:05:31.98,0:05:34.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}But look at my size...
+Dialogue: 0,0:05:35.22,0:05:38.59,Default,,0000,0000,0000,,{\1c&H00e2ff19}You make it sound like you're\N{\1c&H00e2ff19}fine when you're normal.
+Dialogue: 0,0:05:40.36,0:05:42.09,Default,,0000,0000,0000,,{\1c&H00e2ff19}That was uncalled for.
+Dialogue: 0,0:05:42.36,0:05:43.73,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm sorry...
+Dialogue: 0,0:05:47.83,0:05:51.63,Default,,0000,0000,0000,,{\1c&H00e2ff19}I don't care about your\N{\1c&H00e2ff19}appearance, status, or wealth.
+Dialogue: 0,0:05:51.84,0:05:53.81,Default,,0000,0000,0000,,{\1c&H00e2ff19}You'll always be Issun.
+Dialogue: 0,0:05:53.97,0:05:59.04,Default,,0000,0000,0000,,{\1c&H00e2ff19}My feelings for you will never change.
+Dialogue: 0,0:05:59.71,0:06:00.97,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz...
+Dialogue: 0,0:06:11.82,0:06:15.19,Default,,0000,0000,0000,,{\1c&H00e2ff19}We're very close to each other,\N{\1c&H00e2ff19}but I feel farther away from you.
+Dialogue: 0,0:06:15.29,0:06:16.76,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's sad.
+Dialogue: 0,0:06:19.23,0:06:20.36,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz...
+Dialogue: 0,0:06:29.34,0:06:30.74,Default,,0000,0000,0000,,{\1c&H00e2ff19}It tickles...
+Dialogue: 0,0:06:30.91,0:06:32.71,Default,,0000,0000,0000,,{\1c&H00e2ff19}I give up, Issun.
+Dialogue: 0,0:06:39.32,0:06:40.29,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz?
+Dialogue: 0,0:06:40.49,0:06:41.78,Default,,0000,0000,0000,,{\1c&H00e2ff19}Are you still ticklish?
+Dialogue: 0,0:06:41.92,0:06:43.32,Default,,0000,0000,0000,,{\1c&H00e2ff19}Your nipples are getting hard.
+Dialogue: 0,0:06:43.56,0:06:49.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}That's because you're\N{\1c&H00e2ff19}playing with my nipples!
+Dialogue: 0,0:06:50.83,0:06:52.06,Default,,0000,0000,0000,,{\1c&H00e2ff19}And does it feel good?
+Dialogue: 0,0:06:52.17,0:06:53.63,Default,,0000,0000,0000,,{\1c&H00e2ff19}Should I keep going?
+Dialogue: 0,0:06:54.30,0:06:55.89,Default,,0000,0000,0000,,{\1c&H00e2ff19}Of course.
+Dialogue: 0,0:06:56.00,0:07:00.41,Default,,0000,0000,0000,,{\1c&H00e2ff19}I always wanted you to do this to me.
+Dialogue: 0,0:07:00.57,0:07:04.60,Default,,0000,0000,0000,,{\1c&H00e2ff19}Keep going!
+Dialogue: 0,0:07:08.05,0:07:13.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm not a graceful Japanese\N{\1c&H00e2ff19}woman, but to you...
+Dialogue: 0,0:07:21.93,0:07:23.73,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm sorry, Liz...
+Dialogue: 0,0:07:23.86,0:07:26.23,Default,,0000,0000,0000,,{\1c&H00e2ff19}I know... I know.
+Dialogue: 0,0:07:29.94,0:07:31.53,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:07:32.57,0:07:33.97,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:07:34.24,0:07:36.97,Default,,0000,0000,0000,,{\1c&H00e2ff19}Something hard is pressing\N{\1c&H00e2ff19}against my cheek.
+Dialogue: 0,0:07:40.68,0:07:41.84,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun...
+Dialogue: 0,0:07:42.01,0:07:43.85,Default,,0000,0000,0000,,{\1c&H00e2ff19}I want you to stay still...
+Dialogue: 0,0:07:44.12,0:07:47.18,Default,,0000,0000,0000,,{\1c&H00e2ff19}I want to feel you as much as I can...
+Dialogue: 0,0:07:54.03,0:07:55.08,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:07:55.16,0:07:57.69,Default,,0000,0000,0000,,{\1c&H00e2ff19}Watch me. Okay? Okay?
+Dialogue: 0,0:07:58.16,0:08:04.93,Default,,0000,0000,0000,,{\1c&H00e2ff19}I was always doing indecent\N{\1c&H00e2ff19}things while thinking about you!
+Dialogue: 0,0:08:05.34,0:08:08.17,Default,,0000,0000,0000,,{\1c&H00e2ff19}Playing with myself like this...
+Dialogue: 0,0:08:10.74,0:08:16.77,Default,,0000,0000,0000,,{\1c&H00e2ff19}I always saw you looking at the\N{\1c&H00e2ff19}professor's boobs with lecherous looks.
+Dialogue: 0,0:08:16.92,0:08:21.08,Default,,0000,0000,0000,,{\1c&H00e2ff19}I... I wanted you\N{\1c&H00e2ff19}to look at my boobs too...
+Dialogue: 0,0:08:21.29,0:08:23.26,Default,,0000,0000,0000,,{\1c&H00e2ff19}I was playing with my boobs\N{\1c&H00e2ff19}thinking about those things.
+Dialogue: 0,0:08:23.49,0:08:28.65,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then my boobs became more sensitive.
+Dialogue: 0,0:08:31.96,0:08:35.37,Default,,0000,0000,0000,,{\1c&H00e2ff19}I feel embarrassed since\N{\1c&H00e2ff19}you're watching me...
+Dialogue: 0,0:08:35.47,0:08:37.06,Default,,0000,0000,0000,,{\1c&H00e2ff19}I feel embarrassed but...
+Dialogue: 0,0:08:39.01,0:08:40.60,Default,,0000,0000,0000,,{\1c&H00e2ff19}My bean...
+Dialogue: 0,0:08:40.74,0:08:42.83,Default,,0000,0000,0000,,{\1c&H00e2ff19}I mean my clitoris...
+Dialogue: 0,0:08:43.08,0:08:44.67,Default,,0000,0000,0000,,{\1c&H00e2ff19}It got bigger...
+Dialogue: 0,0:08:44.81,0:08:47.24,Default,,0000,0000,0000,,{\1c&H00e2ff19}It got bigger!
+Dialogue: 0,0:08:52.45,0:08:56.82,Default,,0000,0000,0000,,{\1c&H00e2ff19}My ear... my ear!
+Dialogue: 0,0:09:00.96,0:09:04.52,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's flowing out!
+Dialogue: 0,0:09:21.88,0:09:24.44,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm sorry, Issun...
+Dialogue: 0,0:09:35.06,0:09:37.03,Default,,0000,0000,0000,,{\1c&H00e2ff19}I can't sleep!
+Dialogue: 0,0:09:50.44,0:09:52.04,Default,,0000,0000,0000,,{\1c&H00e2ff19}Okay, tie her up.
+Dialogue: 0,0:09:52.21,0:09:53.34,Default,,0000,0000,0000,,{\1c&H00e2ff19}Okay.
+Dialogue: 0,0:10:21.44,0:10:22.00,Default,,0000,0000,0000,,{\1c&H00e2ff19}Well...
+Dialogue: 0,0:10:22.07,0:10:26.01,Default,,0000,0000,0000,,{\1c&H00e2ff19}...if we can reach an agreement with your\N{\1c&H00e2ff19}father then we'll let you go without any harm.
+Dialogue: 0,0:10:26.78,0:10:28.14,Default,,0000,0000,0000,,{\1c&H00e2ff19}Just stay still...
+Dialogue: 0,0:10:30.02,0:10:31.42,Default,,0000,0000,0000,,{\1c&H00e2ff19}My... you're one scary girl.
+Dialogue: 0,0:10:31.58,0:10:35.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}If we don't keep you tied up,\N{\1c&H00e2ff19}you might end up biting us...
+Dialogue: 0,0:10:37.96,0:10:39.39,Default,,0000,0000,0000,,{\1c&H00e2ff19}Listen up, girlie.
+Dialogue: 0,0:10:39.79,0:10:45.09,Default,,0000,0000,0000,,{\1c&H00e2ff19}If you keep messing with us,\N{\1c&H00e2ff19}then you won't be going home safely.
+Dialogue: 0,0:10:45.70,0:10:50.53,Default,,0000,0000,0000,,{\1c&H00e2ff19}As long as we keep you alive,\N{\1c&H00e2ff19}your stupid father is gonna pay...
+Dialogue: 0,0:10:50.74,0:10:51.96,Default,,0000,0000,0000,,{\1c&H00e2ff19}Brother.
+Dialogue: 0,0:10:53.14,0:10:56.37,Default,,0000,0000,0000,,{\1c&H00e2ff19}I want to do it with her...
+Dialogue: 0,0:10:56.68,0:10:59.65,Default,,0000,0000,0000,,{\1c&H00e2ff19}I want to play with her cunt\N{\1c&H00e2ff19}while she has her panties on...
+Dialogue: 0,0:10:59.78,0:11:06.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then I want to smell her stained\N{\1c&H00e2ff19}panties and do her in and out.
+Dialogue: 0,0:11:06.19,0:11:09.02,Default,,0000,0000,0000,,{\1c&H00e2ff19}I love the smell of urine!
+Dialogue: 0,0:11:09.26,0:11:10.55,Default,,0000,0000,0000,,{\1c&H00e2ff19}Hey, girlie.
+Dialogue: 0,0:11:10.69,0:11:12.75,Default,,0000,0000,0000,,{\1c&H00e2ff19}You heard what my partner said...
+Dialogue: 0,0:11:12.99,0:11:14.69,Default,,0000,0000,0000,,{\1c&H00e2ff19}Can you do what he says?
+Dialogue: 0,0:11:16.30,0:11:17.32,Default,,0000,0000,0000,,{\1c&H00e2ff19}Damn.
+Dialogue: 0,0:11:17.46,0:11:19.90,Default,,0000,0000,0000,,{\1c&H00e2ff19}Isn't there anything I can do?
+Dialogue: 0,0:11:27.21,0:11:31.17,Default,,0000,0000,0000,,{\1c&H00e2ff19}I just love a girl's panties!
+Dialogue: 0,0:11:34.61,0:11:36.91,Default,,0000,0000,0000,,{\1c&H00e2ff19}Don't even think about running away.
+Dialogue: 0,0:11:37.15,0:11:40.81,Default,,0000,0000,0000,,{\1c&H00e2ff19}If you try anything funny,\N{\1c&H00e2ff19}I'll make him attack you.
+Dialogue: 0,0:11:47.43,0:11:49.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}What do you think you're doing?
+Dialogue: 0,0:11:49.60,0:11:51.15,Default,,0000,0000,0000,,{\1c&H00e2ff19}You idiot!
+Dialogue: 0,0:11:51.33,0:11:53.92,Default,,0000,0000,0000,,{\1c&H00e2ff19}Don't lay a finger on her until I say so!
+Dialogue: 0,0:11:55.67,0:12:01.30,Default,,0000,0000,0000,,{\1c&H00e2ff19}So you better pray that\N{\1c&H00e2ff19}you go home unharmed...
+Dialogue: 0,0:12:01.44,0:12:03.50,Default,,0000,0000,0000,,{\1c&H00e2ff19}I won't lay a finger on her.
+Dialogue: 0,0:12:03.78,0:12:06.14,Default,,0000,0000,0000,,{\1c&H00e2ff19}Yeah, I'm counting on you.
+Dialogue: 0,0:12:13.55,0:12:17.11,Default,,0000,0000,0000,,{\1c&H00e2ff19}Where is he? Where is he?
+Dialogue: 0,0:12:17.49,0:12:21.98,Default,,0000,0000,0000,,{\1c&H00e2ff19}I really want to have\N{\1c&H00e2ff19}my cock in and out...
+Dialogue: 0,0:12:22.23,0:12:23.20,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz!
+Dialogue: 0,0:12:24.46,0:12:26.16,Default,,0000,0000,0000,,{\1c&H00e2ff19}Be quiet!
+Dialogue: 0,0:12:26.57,0:12:27.53,Default,,0000,0000,0000,,{\1c&H00e2ff19}Listen.
+Dialogue: 0,0:12:27.67,0:12:29.86,Default,,0000,0000,0000,,{\1c&H00e2ff19}There's going to be a\N{\1c&H00e2ff19}chance for you to escape.
+Dialogue: 0,0:12:29.97,0:12:30.94,Default,,0000,0000,0000,,{\1c&H00e2ff19}So...
+Dialogue: 0,0:12:31.07,0:12:34.84,Default,,0000,0000,0000,,{\1c&H00e2ff19}I can't take it anymore!
+Dialogue: 0,0:12:34.97,0:12:38.50,Default,,0000,0000,0000,,{\1c&H00e2ff19}My cock is starting to ache...
+Dialogue: 0,0:12:44.88,0:12:47.48,Default,,0000,0000,0000,,{\1c&H00e2ff19}Huh? What's going on?
+Dialogue: 0,0:13:05.54,0:13:09.17,Default,,0000,0000,0000,,{\1c&H00e2ff19}No! I don't want this!
+Dialogue: 0,0:13:10.14,0:13:13.24,Default,,0000,0000,0000,,{\1c&H00e2ff19}This in-and-out is so good!
+Dialogue: 0,0:13:13.51,0:13:16.85,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz, hang in there.
+Dialogue: 0,0:13:16.95,0:13:18.47,Default,,0000,0000,0000,,{\1c&H00e2ff19}Am I gonna climax?
+Dialogue: 0,0:13:18.58,0:13:19.57,Default,,0000,0000,0000,,{\1c&H00e2ff19}Am I?
+Dialogue: 0,0:13:19.72,0:13:23.38,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm coming! I'm coming! I'm coming!
+Dialogue: 0,0:13:31.13,0:13:32.72,Default,,0000,0000,0000,,{\1c&H00e2ff19}No more...
+Dialogue: 0,0:13:32.87,0:13:35.36,Default,,0000,0000,0000,,{\1c&H00e2ff19}Help me, Issun...
+Dialogue: 0,0:13:40.31,0:13:42.60,Default,,0000,0000,0000,,{\1c&H00e2ff19}No!
+Dialogue: 0,0:13:51.65,0:13:55.14,Default,,0000,0000,0000,,{\1c&H00e2ff19}I love boobies too.
+Dialogue: 0,0:13:57.59,0:13:59.22,Default,,0000,0000,0000,,{\1c&H00e2ff19}Can't you release any breast milk?
+Dialogue: 0,0:13:59.76,0:14:01.25,Default,,0000,0000,0000,,{\1c&H00e2ff19}Can't you?
+Dialogue: 0,0:14:02.60,0:14:03.93,Default,,0000,0000,0000,,{\1c&H00e2ff19}No...
+Dialogue: 0,0:14:04.10,0:14:07.12,Default,,0000,0000,0000,,{\1c&H00e2ff19}Help me, Issun...
+Dialogue: 0,0:14:10.17,0:14:11.26,Default,,0000,0000,0000,,{\1c&H00e2ff19}No.
+Dialogue: 0,0:14:12.77,0:14:15.04,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's getting wet.
+Dialogue: 0,0:14:23.78,0:14:26.68,Default,,0000,0000,0000,,{\1c&H00e2ff19}Huh? It's not going in.
+Dialogue: 0,0:14:42.70,0:14:44.50,Default,,0000,0000,0000,,{\1c&H00e2ff19}My eye... my eye!
+Dialogue: 0,0:14:44.60,0:14:45.76,Default,,0000,0000,0000,,{\1c&H00e2ff19}It burns!
+Dialogue: 0,0:14:45.91,0:14:49.47,Default,,0000,0000,0000,,{\1c&H00e2ff19}My eye... What happened to my eye?
+Dialogue: 0,0:14:50.11,0:14:51.47,Default,,0000,0000,0000,,{\1c&H00e2ff19}My eye...
+Dialogue: 0,0:15:12.03,0:15:14.97,Default,,0000,0000,0000,,{\1c&H00e2ff19}You're supposed to be a grad student.
+Dialogue: 0,0:15:15.13,0:15:18.70,Default,,0000,0000,0000,,{\1c&H00e2ff19}Can't you even keep quiet?
+Dialogue: 0,0:15:20.87,0:15:22.64,Default,,0000,0000,0000,,{\1c&H00e2ff19}Useless fool!
+Dialogue: 0,0:15:23.61,0:15:27.60,Default,,0000,0000,0000,,{\1c&H00e2ff19}I didn't want to hurt you,\N{\1c&H00e2ff19}but you leave me with no choice.
+Dialogue: 0,0:15:27.78,0:15:32.48,Default,,0000,0000,0000,,{\1c&H00e2ff19}You couldn't even follow\N{\1c&H00e2ff19}my simple directions.
+Dialogue: 0,0:15:32.79,0:15:33.95,Default,,0000,0000,0000,,{\1c&H00e2ff19}So...
+Dialogue: 0,0:15:34.65,0:15:38.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'll bust your knees\N{\1c&H00e2ff19}so bad that you can't escape!
+Dialogue: 0,0:15:55.41,0:15:57.84,Default,,0000,0000,0000,,{\1c&H00e2ff19}My life was really short...
+Dialogue: 0,0:15:58.61,0:16:00.37,Default,,0000,0000,0000,,{\1c&H00e2ff19}Nothing good ever happened...
+Dialogue: 0,0:16:01.41,0:16:07.18,Default,,0000,0000,0000,,{\1c&H00e2ff19}Well, finding out Liz likes me and\N{\1c&H00e2ff19}doing it with the professor was good...
+Dialogue: 0,0:16:07.42,0:16:09.55,Default,,0000,0000,0000,,{\1c&H00e2ff19}The only things\N{\1c&H00e2ff19}I can recall are erotic things.
+Dialogue: 0,0:16:09.69,0:16:11.85,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm a no-good human being...
+Dialogue: 0,0:16:11.99,0:16:12.98,Default,,0000,0000,0000,,{\1c&H00e2ff19}Huh?
+Dialogue: 0,0:16:13.09,0:16:17.55,Default,,0000,0000,0000,,{\1c&H00e2ff19}If you think about it, there's no way\N{\1c&H00e2ff19}I could've stopped that steel pipe...
+Dialogue: 0,0:16:17.70,0:16:19.46,Default,,0000,0000,0000,,{\1c&H00e2ff19}...with a body this small.
+Dialogue: 0,0:16:19.63,0:16:23.00,Default,,0000,0000,0000,,{\1c&H00e2ff19}My ancestor was useless\N{\1c&H00e2ff19}till the very end...
+Dialogue: 0,0:16:23.14,0:16:24.63,Default,,0000,0000,0000,,{\1c&H00e2ff19}Idiot.
+Dialogue: 0,0:16:25.80,0:16:28.27,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm starting to lose consciousness...
+Dialogue: 0,0:16:29.44,0:16:30.97,Default,,0000,0000,0000,,{\1c&H00e2ff19}Ah, useless guy!
+Dialogue: 0,0:16:33.21,0:16:37.11,Default,,0000,0000,0000,,{\1c&H00e2ff19}I might be willing to help you and the girl.
+Dialogue: 0,0:16:37.25,0:16:38.27,Default,,0000,0000,0000,,{\1c&H00e2ff19}Really?
+Dialogue: 0,0:16:38.42,0:16:40.61,Default,,0000,0000,0000,,{\1c&H00e2ff19}Since I'm a kind person.
+Dialogue: 0,0:16:40.95,0:16:42.39,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then hurry up!
+Dialogue: 0,0:16:43.22,0:16:44.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}Please help us.
+Dialogue: 0,0:16:44.96,0:16:50.12,Default,,0000,0000,0000,,{\1c&H00e2ff19}I can't just let our clan die out like this.
+Dialogue: 0,0:16:50.36,0:16:51.83,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then hurry up!
+Dialogue: 0,0:17:03.54,0:17:04.63,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:17:06.41,0:17:08.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm really glad you're alive...
+Dialogue: 0,0:17:09.38,0:17:12.44,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun ran head-on into the\N{\1c&H00e2ff19}pipe and there was a flash.
+Dialogue: 0,0:17:12.58,0:17:14.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}You went flying and...
+Dialogue: 0,0:17:14.65,0:17:19.11,Default,,0000,0000,0000,,{\1c&H00e2ff19}But after the flash,\N{\1c&H00e2ff19}you returned to your normal size...
+Dialogue: 0,0:17:19.49,0:17:22.79,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm really glad...
+Dialogue: 0,0:17:33.01,0:17:36.50,Default,,0000,0000,0000,,{\1c&H00e2ff19}I guess that ancestor\N{\1c&H00e2ff19}was useful after all...
+Dialogue: 0,0:17:46.15,0:17:49.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun... I can hear your heart beating.
+Dialogue: 0,0:17:49.49,0:17:51.32,Default,,0000,0000,0000,,{\1c&H00e2ff19}Same with me...
+Dialogue: 0,0:17:52.09,0:17:53.58,Default,,0000,0000,0000,,{\1c&H00e2ff19}You're right, Liz.
+Dialogue: 0,0:17:53.96,0:17:55.39,Default,,0000,0000,0000,,{\1c&H00e2ff19}Your heartbeat...
+Dialogue: 0,0:17:58.66,0:18:01.13,Default,,0000,0000,0000,,{\1c&H00e2ff19}Your cock got bigger.
+Dialogue: 0,0:18:01.27,0:18:03.13,Default,,0000,0000,0000,,{\1c&H00e2ff19}Wait a minute, Liz!
+Dialogue: 0,0:18:04.17,0:18:07.54,Default,,0000,0000,0000,,{\1c&H00e2ff19}No way. No one will get in our way now.
+Dialogue: 0,0:18:07.71,0:18:10.68,Default,,0000,0000,0000,,{\1c&H00e2ff19}Nothing to obstruct.
+Dialogue: 0,0:18:10.88,0:18:13.37,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's time to have sex.
+Dialogue: 0,0:18:13.95,0:18:16.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}But right here?
+Dialogue: 0,0:18:19.28,0:18:22.31,Default,,0000,0000,0000,,{\1c&H00e2ff19}Plus, people might see us.
+Dialogue: 0,0:18:24.22,0:18:27.92,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm lovin' you, Issun.
+Dialogue: 0,0:18:28.09,0:18:31.89,Default,,0000,0000,0000,,{\1c&H00e2ff19}Did you mean those\N{\1c&H00e2ff19}words you said to me?
+Dialogue: 0,0:18:32.03,0:18:33.22,Default,,0000,0000,0000,,{\1c&H00e2ff19}I like you...
+Dialogue: 0,0:18:33.37,0:18:35.13,Default,,0000,0000,0000,,{\1c&H00e2ff19}I like you, but...
+Dialogue: 0,0:18:35.67,0:18:38.40,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then it's natural to have sex.
+Dialogue: 0,0:18:44.54,0:18:47.14,Default,,0000,0000,0000,,{\1c&H00e2ff19}Your cock is getting all sticky.
+Dialogue: 0,0:18:54.79,0:18:56.58,Default,,0000,0000,0000,,{\1c&H00e2ff19}Wait a minute!
+Dialogue: 0,0:18:56.72,0:18:59.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}Don't you want to do me?
+Dialogue: 0,0:18:59.49,0:19:01.86,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's not that...
+Dialogue: 0,0:19:02.49,0:19:05.40,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's my first time doing it with you, Liz...
+Dialogue: 0,0:19:05.73,0:19:07.49,Default,,0000,0000,0000,,{\1c&H00e2ff19}So you know...
+Dialogue: 0,0:19:08.00,0:19:11.96,Default,,0000,0000,0000,,{\1c&H00e2ff19}Oh, so you want to do\N{\1c&H00e2ff19}the missionary position?
+Dialogue: 0,0:19:13.74,0:19:15.33,Default,,0000,0000,0000,,{\1c&H00e2ff19}She doesn't seem to get it, but...
+Dialogue: 0,0:19:15.44,0:19:16.74,Default,,0000,0000,0000,,{\1c&H00e2ff19}Oh, well.
+Dialogue: 0,0:19:23.58,0:19:25.14,Default,,0000,0000,0000,,{\1c&H00e2ff19}Don't worry...
+Dialogue: 0,0:19:59.85,0:20:02.29,Default,,0000,0000,0000,,{\1c&H00e2ff19}No, not that...
+Dialogue: 0,0:20:08.36,0:20:09.85,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's tight!
+Dialogue: 0,0:20:11.10,0:20:15.19,Default,,0000,0000,0000,,{\1c&H00e2ff19}Your hot stuff is coming out!
+Dialogue: 0,0:20:19.91,0:20:21.87,Default,,0000,0000,0000,,{\1c&H00e2ff19}Sorry. I released it inside...
+Dialogue: 0,0:20:23.84,0:20:25.83,Default,,0000,0000,0000,,{\1c&H00e2ff19}You're sorry?
+Dialogue: 0,0:20:25.98,0:20:29.97,Default,,0000,0000,0000,,{\1c&H00e2ff19}I was happy...
+Dialogue: 0,0:20:31.55,0:20:34.35,Default,,0000,0000,0000,,{\1c&H00e2ff19}Your cock is still rock hard!
+Dialogue: 0,0:20:34.59,0:20:36.05,Default,,0000,0000,0000,,{\1c&H00e2ff19}Never tapped.
+Dialogue: 0,0:20:37.36,0:20:39.62,Default,,0000,0000,0000,,{\1c&H00e2ff19}I can keep going too...
+Dialogue: 0,0:20:40.16,0:20:41.56,Default,,0000,0000,0000,,{\1c&H00e2ff19}Again.
+Dialogue: 0,0:20:41.66,0:20:43.06,Default,,0000,0000,0000,,{\1c&H00e2ff19}Once more.
+Dialogue: 0,0:20:55.24,0:20:56.73,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's going all the way in...
+Dialogue: 0,0:20:57.11,0:20:58.41,Default,,0000,0000,0000,,{\1c&H00e2ff19}Deep inside...
+Dialogue: 0,0:21:05.48,0:21:06.51,Default,,0000,0000,0000,,{\1c&H00e2ff19}No...
+Dialogue: 0,0:21:06.62,0:21:08.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun... Issun...
+Dialogue: 0,0:21:08.59,0:21:10.99,Default,,0000,0000,0000,,{\1c&H00e2ff19}My boobs... no...
+Dialogue: 0,0:21:24.70,0:21:27.70,Default,,0000,0000,0000,,{\1c&H00e2ff19}Liz, lift your legs up and\N{\1c&H00e2ff19}try moving on your own.
+Dialogue: 0,0:21:28.14,0:21:30.40,Default,,0000,0000,0000,,{\1c&H00e2ff19}My private area is exposed.
+Dialogue: 0,0:21:30.71,0:21:31.94,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm embarrassed.
+Dialogue: 0,0:21:32.11,0:21:34.20,Default,,0000,0000,0000,,{\1c&H00e2ff19}But it feels good right?
+Dialogue: 0,0:21:34.35,0:21:35.40,Default,,0000,0000,0000,,{\1c&H00e2ff19}Yes.
+Dialogue: 0,0:21:44.09,0:21:46.39,Default,,0000,0000,0000,,{\1c&H00e2ff19}I'm about to climax.
+Dialogue: 0,0:21:46.99,0:21:50.39,Default,,0000,0000,0000,,{\1c&H00e2ff19}No, not doggy style.
+Dialogue: 0,0:22:36.44,0:22:38.00,Default,,0000,0000,0000,,{\1c&H00e2ff19}Hey, Issun?
+Dialogue: 0,0:22:39.08,0:22:42.01,Default,,0000,0000,0000,,{\1c&H00e2ff19}When should we get married?
+Dialogue: 0,0:22:42.28,0:22:43.75,Default,,0000,0000,0000,,{\1c&H00e2ff19}Oh, yeah...
+Dialogue: 0,0:22:44.08,0:22:45.91,Default,,0000,0000,0000,,{\1c&H00e2ff19}Let's do that when we graduate.
+Dialogue: 0,0:22:46.05,0:22:51.18,Default,,0000,0000,0000,,{\1c&H00e2ff19}This is embarrassing, but I have no\N{\1c&H00e2ff19}confidence nor money to make you happy...
+Dialogue: 0,0:22:51.36,0:22:52.95,Default,,0000,0000,0000,,{\1c&H00e2ff19}Money is no problem...
+Dialogue: 0,0:22:53.29,0:22:55.38,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's not like that.
+Dialogue: 0,0:22:55.49,0:22:59.83,Default,,0000,0000,0000,,{\1c&H00e2ff19}I have to make you happy on my own...
+Dialogue: 0,0:22:59.97,0:23:02.87,Default,,0000,0000,0000,,{\1c&H00e2ff19}Okay, if you say so...
+Dialogue: 0,0:23:07.24,0:23:08.90,Default,,0000,0000,0000,,{\1c&H00e2ff19}Tomo! Issunbashi!
+Dialogue: 0,0:23:13.18,0:23:14.15,Default,,0000,0000,0000,,{\1c&H00e2ff19}Tomo!
+Dialogue: 0,0:23:14.28,0:23:16.65,Default,,0000,0000,0000,,{\1c&H00e2ff19}Why did you leave without me?
+Dialogue: 0,0:23:17.12,0:23:18.58,Default,,0000,0000,0000,,{\1c&H00e2ff19}My spare panties...
+Dialogue: 0,0:23:20.05,0:23:21.54,Default,,0000,0000,0000,,{\1c&H00e2ff19}Who are you supposed to be?
+Dialogue: 0,0:23:22.09,0:23:23.32,Default,,0000,0000,0000,,{\1c&H00e2ff19}His wife!
+Dialogue: 0,0:23:27.33,0:23:28.59,Default,,0000,0000,0000,,{\1c&H00e2ff19}Well, you see...
+Dialogue: 0,0:23:31.73,0:23:33.10,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issunbashi!
+Dialogue: 0,0:23:33.23,0:23:34.96,Default,,0000,0000,0000,,{\1c&H00e2ff19}What do you mean you got married?
+Dialogue: 0,0:23:35.10,0:23:39.54,Default,,0000,0000,0000,,{\1c&H00e2ff19}I like you so much that\N{\1c&H00e2ff19}I dream of having sex with you!
+Dialogue: 0,0:23:39.67,0:23:41.87,Default,,0000,0000,0000,,{\1c&H00e2ff19}So I thought I would tell you my feelings.
+Dialogue: 0,0:23:42.01,0:23:44.60,Default,,0000,0000,0000,,{\1c&H00e2ff19}I came here to tell you how I truly feel...
+Dialogue: 0,0:23:45.38,0:23:47.07,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's just not fair!
+Dialogue: 0,0:23:47.55,0:23:49.24,Default,,0000,0000,0000,,{\1c&H00e2ff19}Well, you see...
+Dialogue: 0,0:23:49.98,0:23:53.04,Default,,0000,0000,0000,,{\1c&H00e2ff19}The marriage hasn't been finalized yet...
+Dialogue: 0,0:23:53.69,0:23:56.15,Default,,0000,0000,0000,,{\1c&H00e2ff19}But I guess we're engaged...
+Dialogue: 0,0:23:56.42,0:23:57.62,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun!
+Dialogue: 0,0:23:57.76,0:24:00.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}Why aren't you speaking confidently?
+Dialogue: 0,0:24:00.59,0:24:05.19,Default,,0000,0000,0000,,{\1c&H00e2ff19}You told me before in bed that you\N{\1c&H00e2ff19}want to marry me after we graduate!
+Dialogue: 0,0:24:05.36,0:24:06.46,Default,,0000,0000,0000,,{\1c&H00e2ff19}What?
+Dialogue: 0,0:24:10.80,0:24:13.13,Default,,0000,0000,0000,,{\1c&H00e2ff19}Now calm down, people...
+Dialogue: 0,0:24:13.34,0:24:15.20,Default,,0000,0000,0000,,{\1c&H00e2ff19}Then who's it going to be?
+Dialogue: 0,0:24:15.34,0:24:16.31,Default,,0000,0000,0000,,{\1c&H00e2ff19}What?
+Dialogue: 0,0:24:19.74,0:24:20.84,Default,,0000,0000,0000,,{\1c&H00e2ff19}Well?
+Dialogue: 0,0:24:20.95,0:24:26.51,Default,,0000,0000,0000,,{\1c&H00e2ff19}It's nice to be surrounded by\N{\1c&H00e2ff19}rich and beautiful women right?
+Dialogue: 0,0:24:28.25,0:24:29.45,Default,,0000,0000,0000,,{\1c&H00e2ff19}Nevermind that.
+Dialogue: 0,0:24:29.62,0:24:31.38,Default,,0000,0000,0000,,{\1c&H00e2ff19}Help me get out of this situation!
+Dialogue: 0,0:24:32.02,0:24:33.22,Default,,0000,0000,0000,,{\1c&H00e2ff19}What's wrong?
+Dialogue: 0,0:24:33.36,0:24:34.99,Default,,0000,0000,0000,,{\1c&H00e2ff19}You're good for nothing!
+Dialogue: 0,0:24:35.13,0:24:37.89,Default,,0000,0000,0000,,{\1c&H00e2ff19}That's not necessary...
+Dialogue: 0,0:24:43.03,0:24:45.43,Default,,0000,0000,0000,,{\1c&H00e2ff19}Not again!
+Dialogue: 0,0:24:58.32,0:24:59.75,Default,,0000,0000,0000,,{\1c&H00e2ff19}Tomo?
+Dialogue: 0,0:25:00.25,0:25:02.48,Default,,0000,0000,0000,,{\1c&H00e2ff19}Where did he go?
+Dialogue: 0,0:25:02.75,0:25:04.02,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun?
+Dialogue: 0,0:25:13.43,0:25:14.40,Default,,0000,0000,0000,,{\1c&H00e2ff19}Tomo!
+Dialogue: 0,0:25:14.53,0:25:15.69,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issunbashi!
+Dialogue: 0,0:25:15.80,0:25:17.10,Default,,0000,0000,0000,,{\1c&H00e2ff19}Issun!

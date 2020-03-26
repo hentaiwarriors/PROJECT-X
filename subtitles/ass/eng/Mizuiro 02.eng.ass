@@ -1,0 +1,394 @@
+﻿Title: Default Aegisub file
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base01,Arial Narrow,28,&H00CC0000,&H0000FFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Base02,Arial Narrow,24,&H00663366,&H0000FFFF,&H00FFFFFF,&H80000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Base03,Arial Narrow,42,&H00CC0000,&H0000FFFF,&H00FFFFFF,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: Base04,Arial Narrow,26,&H00999999,&H0000FFFF,&H00333333,&H80000000,0,0,0,0,80,100,0,0,1,1,0,2,10,10,10,1
+Style: Base05,Arial Narrow,26,&H006699CC,&H0000FFFF,&H00333333,&H80000000,0,0,0,0,80,100,0,0,1,1,0,8,10,10,10,1
+Style: Base06,Arial Narrow,26,&H00999999,&H0000FFFF,&H00333333,&H80000000,0,0,0,0,80,100,0,0,1,1,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.83,0:00:03.66,Base01,,0000,0000,0000,,﻿Once more...
+Dialogue: 0,0:00:03.67,0:00:06.21,Base01,,0000,0000,0000,,﻿We'll see each other again...
+Dialogue: 0,0:00:15.39,0:00:18.30,Base01,,0000,0000,0000,,﻿Onii-chan, I'm coming in.
+Dialogue: 0,0:00:20.10,0:00:23.39,Base01,,0000,0000,0000,,﻿Here, I got your uniform from the cleaners.
+Dialogue: 0,0:00:23.39,0:00:25.23,Base01,,0000,0000,0000,,﻿I'm putting it in the closet, okay?
+Dialogue: 0,0:00:25.23,0:00:27.81,Base01,,0000,0000,0000,,﻿Oh, thank you.
+Dialogue: 0,0:00:27.81,0:00:28.90,Base01,,0000,0000,0000,,﻿Hmm...
+Dialogue: 0,0:00:30.36,0:00:32.19,Base01,,0000,0000,0000,,﻿There's a technique in opening it.
+Dialogue: 0,0:00:32.19,0:00:33.28,Base01,,0000,0000,0000,,﻿A technique?
+Dialogue: 0,0:00:33.28,0:00:34.74,Base01,,0000,0000,0000,,﻿Uh-huh.
+Dialogue: 0,0:00:37.28,0:00:38.07,Base01,,0000,0000,0000,,﻿There, see?
+Dialogue: 0,0:00:38.87,0:00:41.12,Base01,,0000,0000,0000,,﻿I don't think I can remember all of that.
+Dialogue: 0,0:00:41.49,0:00:43.04,Base01,,0000,0000,0000,,﻿Oh, you'll learn.
+Dialogue: 0,0:00:43.04,0:00:43.58,Base01,,0000,0000,0000,,﻿There.
+Dialogue: 0,0:00:47.08,0:00:49.34,Base01,,0000,0000,0000,,﻿Only Hiyori can open this.
+Dialogue: 0,0:00:50.84,0:00:52.38,Base01,,0000,0000,0000,,﻿Sister Hiyori...
+Dialogue: 0,0:00:58.14,0:01:01.39,Base01,,0000,0000,0000,,﻿I wonder how are you doing now...
+Dialogue: 0,0:01:02.18,0:01:05.06,Base01,,0000,0000,0000,,﻿That clumsy friend of ours is probably\N﻿happy in her new school.
+Dialogue: 0,0:01:05.06,0:01:07.77,Base01,,0000,0000,0000,,﻿So let's not worry about her anymore.
+Dialogue: 0,0:01:08.31,0:01:11.65,Base01,,0000,0000,0000,,﻿Hey Onii-chan, you can be really mean sometimes.
+Dialogue: 0,0:01:12.07,0:01:13.98,Base01,,0000,0000,0000,,﻿Later! Good night!
+Dialogue: 0,0:01:14.78,0:01:15.61,Base01,,0000,0000,0000,,﻿Good night!
+Dialogue: 0,0:01:23.70,0:01:24.33,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:01:24.33,0:01:25.66,Base01,,0000,0000,0000,,﻿What the?
+Dialogue: 0,0:01:25.96,0:01:28.62,Base01,,0000,0000,0000,,﻿Whoa, it's dark!
+Dialogue: 0,0:01:31.42,0:01:33.96,Base01,,0000,0000,0000,,﻿It's cramped and dark in here!
+Dialogue: 0,0:01:34.42,0:01:36.30,Base01,,0000,0000,0000,,﻿Help me!
+Dialogue: 0,0:01:40.68,0:01:42.51,Base01,,0000,0000,0000,,﻿Ow, ow, ouch.
+Dialogue: 0,0:01:42.51,0:01:43.06,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:01:45.18,0:01:47.10,Base01,,0000,0000,0000,,﻿W-What is this?
+Dialogue: 0,0:01:50.52,0:01:52.31,Base01,,0000,0000,0000,,﻿Might this be, a butt?
+Dialogue: 0,0:01:52.57,0:01:53.57,Base01,,0000,0000,0000,,﻿Whoa!
+Dialogue: 0,0:02:02.91,0:02:04.37,Base01,,0000,0000,0000,,﻿Hi-Hiyori!
+Dialogue: 0,0:02:04.37,0:02:13.71,Base04,,0000,0000,0000,,﻿The color of my sky...
+Dialogue: 0,0:02:04.37,0:02:13.71,Base05,,0000,0000,0000,,﻿Watashi no sora no iro
+Dialogue: 0,0:02:18.73,0:02:22.45,Base03,,0000,0000,0000,,﻿2nd Period: Hiyori's Chapter
+Dialogue: 0,0:02:22.93,0:02:29.38,Base04,,0000,0000,0000,,I breathe once on a winter street
+Dialogue: 0,0:02:22.93,0:02:29.38,Base05,,0000,0000,0000,,﻿Hitoiki fuyu no michi
+Dialogue: 0,0:02:30.35,0:02:36.98,Base04,,0000,0000,0000,,I frolicked around you all the time
+Dialogue: 0,0:02:30.35,0:02:36.98,Base05,,0000,0000,0000,,Zutto soba de hashaideta
+Dialogue: 0,0:02:37.57,0:02:45.37,Base04,,0000,0000,0000,,The left hand you stretched out felt really far away
+Dialogue: 0,0:02:37.57,0:02:45.37,Base05,,0000,0000,0000,,﻿Sashidashita hidari te ga sugoku toukute
+Dialogue: 0,0:02:47.08,0:02:57.59,Base04,,0000,0000,0000,,﻿I couldn't hold in my tears, and the sky I'm used to seeing was light blue
+Dialogue: 0,0:02:47.08,0:02:57.59,Base05,,0000,0000,0000,,Namida koraekirezu minareta sora wa itsumo mizuiro 
+Dialogue: 0,0:02:57.80,0:03:04.75,Base04,,0000,0000,0000,,The wind blows through my hearts as I just stand there
+Dialogue: 0,0:02:57.80,0:03:04.75,Base05,,0000,0000,0000,,﻿Tachidomaru kokoro no naka fukinukeru kaze
+Dialogue: 0,0:03:05.22,0:03:15.90,Base04,,0000,0000,0000,,﻿The ring still shines deep in my memories
+Dialogue: 0,0:03:05.22,0:03:15.90,Base05,,0000,0000,0000,,﻿Kioku no soko hikaru ring imamo zutto
+Dialogue: 0,0:03:18.53,0:03:19.57,Base01,,0000,0000,0000,,﻿Hi-Hiyori...
+Dialogue: 0,0:03:20.03,0:03:22.20,Base01,,0000,0000,0000,,﻿What the heck are you doing here?
+Dialogue: 0,0:03:23.20,0:03:25.78,Base01,,0000,0000,0000,,﻿I don't know how I got here.
+Dialogue: 0,0:03:26.08,0:03:28.66,Base01,,0000,0000,0000,,﻿All I can remember is being inside the closet.
+Dialogue: 0,0:03:29.12,0:03:31.66,Base01,,0000,0000,0000,,﻿You suddenly transferred to another school.
+Dialogue: 0,0:03:31.67,0:03:34.17,Base01,,0000,0000,0000,,﻿Then you suddenly show up in here without telling.
+Dialogue: 0,0:03:34.42,0:03:35.50,Base01,,0000,0000,0000,,﻿Transferred?!
+Dialogue: 0,0:03:35.50,0:03:38.13,Base01,,0000,0000,0000,,﻿Huh, did I transferred to another school?
+Dialogue: 0,0:03:38.38,0:03:39.84,Base01,,0000,0000,0000,,﻿Can't you remember?
+Dialogue: 0,0:03:39.84,0:03:41.17,Base01,,0000,0000,0000,,﻿It was last month.
+Dialogue: 0,0:03:41.97,0:03:43.97,Base01,,0000,0000,0000,,﻿No, not at all.
+Dialogue: 0,0:03:44.14,0:03:46.60,Base01,,0000,0000,0000,,﻿Furthermore, Where do you live at now.
+Dialogue: 0,0:03:48.18,0:03:51.43,Base01,,0000,0000,0000,,﻿No, I don't have any clue at all.
+Dialogue: 0,0:03:51.52,0:03:52.35,Base01,,0000,0000,0000,,﻿Really.
+Dialogue: 0,0:03:55.40,0:03:57.11,Base01,,0000,0000,0000,,﻿Hi-Hiyori...
+Dialogue: 0,0:03:57.11,0:03:58.57,Base01,,0000,0000,0000,,﻿Your body...
+Dialogue: 0,0:03:58.90,0:03:59.90,Base01,,0000,0000,0000,,﻿Body?
+Dialogue: 0,0:04:00.90,0:04:02.40,Base01,,0000,0000,0000,,﻿My body is exposed!
+Dialogue: 0,0:04:03.32,0:04:05.57,Base01,,0000,0000,0000,,﻿I-I'm ashamed!!
+Dialogue: 0,0:04:07.45,0:04:08.70,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:04:28.97,0:04:29.76,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:04:31.02,0:04:33.35,Base01,,0000,0000,0000,,﻿Hmmm, my spare clothes.
+Dialogue: 0,0:04:33.73,0:04:34.81,Base01,,0000,0000,0000,,﻿Could it be?!
+Dialogue: 0,0:04:38.61,0:04:39.31,Base01,,0000,0000,0000,,﻿There.
+Dialogue: 0,0:04:41.11,0:04:42.19,Base01,,0000,0000,0000,,﻿All done!
+Dialogue: 0,0:04:42.19,0:04:43.82,Base01,,0000,0000,0000,,﻿Thanks, Ken-chan!
+Dialogue: 0,0:04:43.99,0:04:46.07,Base01,,0000,0000,0000,,﻿Onii-chan, my spare...
+Dialogue: 0,0:04:48.49,0:04:50.20,Base01,,0000,0000,0000,,﻿Floating panties!!
+Dialogue: 0,0:04:57.29,0:04:59.63,Base01,,0000,0000,0000,,﻿Ah! Yu-Yuki!
+Dialogue: 0,0:05:03.13,0:05:05.05,Base01,,0000,0000,0000,,﻿This is terrible!
+Dialogue: 0,0:05:05.05,0:05:06.47,Base01,,0000,0000,0000,,﻿Yuki-chan...
+Dialogue: 0,0:05:06.47,0:05:08.39,Base01,,0000,0000,0000,,﻿Lost consciousness!
+Dialogue: 0,0:05:23.65,0:05:26.28,Base01,,0000,0000,0000,,﻿Why did Yuki-chan passed out?
+Dialogue: 0,0:05:27.53,0:05:28.53,Base01,,0000,0000,0000,,﻿Ken-chan?
+Dialogue: 0,0:05:28.70,0:05:30.16,Base01,,0000,0000,0000,,﻿Why did you took a picture?
+Dialogue: 0,0:05:30.62,0:05:31.78,Base01,,0000,0000,0000,,﻿Just a little bit...
+Dialogue: 0,0:05:39.04,0:05:39.88,Base01,,0000,0000,0000,,﻿Hmmm...
+Dialogue: 0,0:05:39.96,0:05:41.13,Base01,,0000,0000,0000,,﻿She's on it.
+Dialogue: 0,0:05:41.13,0:05:41.67,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:05:42.46,0:05:43.55,Base01,,0000,0000,0000,,﻿Hiyori?
+Dialogue: 0,0:05:49.84,0:05:50.84,Base01,,0000,0000,0000,,﻿She vanished.
+Dialogue: 0,0:05:55.68,0:05:56.52,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:06:06.78,0:06:10.36,Base01,,0000,0000,0000,,﻿Another test again, really!
+Dialogue: 0,0:06:10.82,0:06:13.24,Base01,,0000,0000,0000,,﻿What are you doing there, Kenji?
+Dialogue: 0,0:06:14.87,0:06:16.12,Base01,,0000,0000,0000,,﻿What's that on your hand?
+Dialogue: 0,0:06:16.41,0:06:17.29,Base01,,0000,0000,0000,,﻿Good timing...
+Dialogue: 0,0:06:17.29,0:06:18.54,Base01,,0000,0000,0000,,﻿Everyone, look at this.
+Dialogue: 0,0:06:19.25,0:06:20.08,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:06:20.46,0:06:23.59,Base01,,0000,0000,0000,,﻿What is this, a trick picture?
+Dialogue: 0,0:06:23.96,0:06:25.21,Base01,,0000,0000,0000,,﻿Boring.
+Dialogue: 0,0:06:25.38,0:06:26.76,Base01,,0000,0000,0000,,﻿Yes, it is.
+Dialogue: 0,0:06:26.76,0:06:29.72,Base01,,0000,0000,0000,,﻿I thought it was something more interesting.
+Dialogue: 0,0:06:29.72,0:06:34.93,Base01,,0000,0000,0000,,﻿I want to see something like Kenji's\N﻿nude picture or Yuki's, damn it!
+Dialogue: 0,0:06:35.18,0:06:36.10,Base01,,0000,0000,0000,,﻿That's right!
+Dialogue: 0,0:06:36.10,0:06:39.44,Base01,,0000,0000,0000,,﻿Something really perverted to help me down here!!
+Dialogue: 0,0:06:39.60,0:06:42.86,Base01,,0000,0000,0000,,﻿Kenji-san, what do you want to tell us by showing this?
+Dialogue: 0,0:06:43.11,0:06:46.11,Base01,,0000,0000,0000,,﻿If you can't see anything, never mind.
+Dialogue: 0,0:06:47.15,0:06:49.24,Base01,,0000,0000,0000,,﻿I know it, they can't see Hiyori.
+Dialogue: 0,0:06:56.54,0:06:57.49,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:06:57.79,0:07:00.04,Base01,,0000,0000,0000,,﻿It's dark again!
+Dialogue: 0,0:06:59.29,0:07:00.04,Base01,,0000,0000,0000,,﻿Hiyori!
+Dialogue: 0,0:07:04.42,0:07:05.50,Base01,,0000,0000,0000,,﻿Whoa!
+Dialogue: 0,0:07:07.34,0:07:09.92,Base01,,0000,0000,0000,,﻿Ken-chan, please open it slowly.
+Dialogue: 0,0:07:10.09,0:07:12.89,Base01,,0000,0000,0000,,﻿Hiyori, are you a ghost?
+Dialogue: 0,0:07:13.26,0:07:15.97,Base01,,0000,0000,0000,,﻿Huh, me a ghost?
+Dialogue: 0,0:07:15.97,0:07:18.10,Base01,,0000,0000,0000,,﻿Ha, ha, that can't be.
+Dialogue: 0,0:07:18.10,0:07:20.73,Base01,,0000,0000,0000,,﻿Onii-chan, I'm coming in.
+Dialogue: 0,0:07:20.89,0:07:21.89,Base01,,0000,0000,0000,,﻿Yuki-chan!
+Dialogue: 0,0:07:22.60,0:07:23.77,Base01,,0000,0000,0000,,﻿Yahoo!
+Dialogue: 0,0:07:24.15,0:07:24.86,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:07:27.40,0:07:30.19,Base01,,0000,0000,0000,,﻿Here are some of my clothes, Onii-chan.
+Dialogue: 0,0:07:30.20,0:07:32.78,Base01,,0000,0000,0000,,﻿Because stealing them is wrong.
+Dialogue: 0,0:07:33.24,0:07:33.61,Base01,,0000,0000,0000,,﻿Eh?
+Dialogue: 0,0:07:34.78,0:07:37.99,Base01,,0000,0000,0000,,﻿If Onii-chan has a fetish with this\Nsort of things, just let me know.
+Dialogue: 0,0:07:38.54,0:07:40.95,Base01,,0000,0000,0000,,﻿If you want more, I'll bring it next time...
+Dialogue: 0,0:07:41.25,0:07:42.04,Base01,,0000,0000,0000,,﻿Later!
+Dialogue: 0,0:07:42.04,0:07:44.04,Base01,,0000,0000,0000,,﻿Yu-Yuki! You misunderstood!
+Dialogue: 0,0:07:44.04,0:07:45.67,Base01,,0000,0000,0000,,﻿The clothes are for Hiyori!
+Dialogue: 0,0:07:48.71,0:07:53.47,Base01,,0000,0000,0000,,﻿Do you understand? If she saw you naked, it'll drive her nuts.
+Dialogue: 0,0:07:54.22,0:07:56.43,Base01,,0000,0000,0000,,﻿Besides, Yuki can't see you at all.
+Dialogue: 0,0:07:56.72,0:07:57.97,Base01,,0000,0000,0000,,﻿Only I can.
+Dialogue: 0,0:07:58.43,0:07:59.22,Base01,,0000,0000,0000,,﻿Huh?!
+Dialogue: 0,0:07:59.68,0:08:02.31,Base01,,0000,0000,0000,,﻿I guess I really did turn into a ghost!
+Dialogue: 0,0:08:02.48,0:08:04.90,Base01,,0000,0000,0000,,﻿Why did you turn into a ghost anyway?
+Dialogue: 0,0:08:05.52,0:08:07.06,Base01,,0000,0000,0000,,﻿I don't know.
+Dialogue: 0,0:08:07.44,0:08:09.07,Base01,,0000,0000,0000,,﻿I can't remember anything.
+Dialogue: 0,0:08:09.40,0:08:10.40,Base01,,0000,0000,0000,,﻿I'm confused.
+Dialogue: 0,0:08:11.74,0:08:13.53,Base01,,0000,0000,0000,,﻿What happened to me?
+Dialogue: 0,0:08:14.61,0:08:15.61,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:08:19.12,0:08:22.29,Base01,,0000,0000,0000,,﻿Well, nothing we can do about it.
+Dialogue: 0,0:08:22.29,0:08:24.96,Base01,,0000,0000,0000,,﻿I guess I'll just enjoy being a ghost!
+Dialogue: 0,0:08:26.33,0:08:29.46,Base01,,0000,0000,0000,,﻿You worry me a little...
+Dialogue: 0,0:08:35.59,0:08:36.22,Base01,,0000,0000,0000,,﻿There.
+Dialogue: 0,0:08:39.47,0:08:42.98,Base01,,0000,0000,0000,,﻿Ken-chan, do you have a test tomorrow?
+Dialogue: 0,0:08:42.98,0:08:45.14,Base01,,0000,0000,0000,,﻿Alright, I'll tutor you.
+Dialogue: 0,0:08:46.23,0:08:47.65,Base01,,0000,0000,0000,,﻿Hey, come over here.
+Dialogue: 0,0:08:48.11,0:08:49.90,Base01,,0000,0000,0000,,﻿Hey... Hiyori!
+Dialogue: 0,0:08:50.53,0:08:52.15,Base01,,0000,0000,0000,,﻿Alright, let's begin!
+Dialogue: 0,0:08:55.03,0:08:57.53,Base01,,0000,0000,0000,,﻿This must be...
+Dialogue: 0,0:08:58.33,0:08:59.73,Base01,,0000,0000,0000,,﻿Um...
+Dialogue: 0,0:09:07.03,0:09:08.53,Base02,,0000,0000,0000,,Garbage Head
+Dialogue: 0,0:09:21.85,0:09:24.89,Base01,,0000,0000,0000,,﻿I knew it. It's really fun to be with Ken-chan.
+Dialogue: 0,0:09:32.73,0:09:34.28,Base01,,0000,0000,0000,,﻿The test is finished!
+Dialogue: 0,0:09:34.28,0:09:36.28,Base01,,0000,0000,0000,,﻿We're free now.
+Dialogue: 0,0:09:36.32,0:09:38.82,Base01,,0000,0000,0000,,﻿Kenji, want to hang-out and play?
+Dialogue: 0,0:09:39.66,0:09:41.62,Base01,,0000,0000,0000,,﻿Sorry but I have to do something.
+Dialogue: 0,0:09:41.91,0:09:43.87,Base01,,0000,0000,0000,,﻿So you're really leaving me alone!
+Dialogue: 0,0:09:43.87,0:09:45.87,Base01,,0000,0000,0000,,﻿You meanie!
+Dialogue: 0,0:09:46.75,0:09:47.67,Base01,,0000,0000,0000,,﻿Later.
+Dialogue: 0,0:09:54.05,0:09:54.96,Base01,,0000,0000,0000,,﻿Onii-chan...
+Dialogue: 0,0:10:07.02,0:10:08.98,Base01,,0000,0000,0000,,﻿Why am I inside the closet again?
+Dialogue: 0,0:10:09.27,0:10:11.94,Base01,,0000,0000,0000,,﻿I can't see anything in here.
+Dialogue: 0,0:10:12.40,0:10:15.11,Base01,,0000,0000,0000,,﻿It's dark here Ken-chan!
+Dialogue: 0,0:10:16.90,0:10:18.86,Base01,,0000,0000,0000,,﻿Maybe he's still at school...
+Dialogue: 0,0:10:21.24,0:10:25.54,Base01,,0000,0000,0000,,﻿I remember I hid here when we were young.
+Dialogue: 0,0:10:26.71,0:10:29.50,Base01,,0000,0000,0000,,﻿I got trapped and Ken-chan can't open the door.
+Dialogue: 0,0:10:30.42,0:10:33.29,Base01,,0000,0000,0000,,﻿Until Ken-chan's father came home...
+Dialogue: 0,0:10:33.55,0:10:35.42,Base01,,0000,0000,0000,,﻿We were both crying.
+Dialogue: 0,0:10:36.72,0:10:39.68,Base01,,0000,0000,0000,,﻿Ken-chan really tried to open the door but failed.
+Dialogue: 0,0:10:40.30,0:10:43.64,Base01,,0000,0000,0000,,﻿He was always there knocking on the door.
+Dialogue: 0,0:10:45.27,0:10:47.06,Base01,,0000,0000,0000,,﻿He's really kind hearted.
+Dialogue: 0,0:10:48.48,0:10:52.19,Base01,,0000,0000,0000,,﻿That's why I like Ken-chan.
+Dialogue: 0,0:10:58.03,0:10:59.82,Base01,,0000,0000,0000,,﻿Aaah, my legs?!
+Dialogue: 0,0:11:05.87,0:11:08.00,Base01,,0000,0000,0000,,﻿I'm glad, was that an illusion?
+Dialogue: 0,0:11:08.83,0:11:11.17,Base01,,0000,0000,0000,,﻿What was that I just saw?
+Dialogue: 0,0:11:12.42,0:11:13.42,Base01,,0000,0000,0000,,﻿Ah!
+Dialogue: 0,0:11:14.29,0:11:16.75,Base01,,0000,0000,0000,,﻿Ken-chan, open the door!
+Dialogue: 0,0:11:17.17,0:11:18.80,Base01,,0000,0000,0000,,﻿Uh, Hiyori!
+Dialogue: 0,0:11:20.18,0:11:21.43,Base01,,0000,0000,0000,,﻿Ken-chan...
+Dialogue: 0,0:11:22.97,0:11:27.26,Base01,,0000,0000,0000,,﻿I asked you to take me out for\N﻿helping you study for your test.
+Dialogue: 0,0:11:27.56,0:11:29.52,Base01,,0000,0000,0000,,﻿Why did you took me to the park?
+Dialogue: 0,0:11:29.52,0:11:31.06,Base01,,0000,0000,0000,,﻿It's boring here!
+Dialogue: 0,0:11:31.94,0:11:33.56,Base01,,0000,0000,0000,,﻿It can't be helped.
+Dialogue: 0,0:11:33.86,0:11:38.94,Base01,,0000,0000,0000,,﻿There would be trouble if people see floating\N﻿clothes in the shopping district...
+Dialogue: 0,0:11:40.11,0:11:43.20,Base01,,0000,0000,0000,,﻿But, but...
+Dialogue: 0,0:11:44.07,0:11:46.08,Base01,,0000,0000,0000,,﻿Okay, where do you want to go?
+Dialogue: 0,0:11:46.24,0:11:49.20,Base01,,0000,0000,0000,,﻿To the amusement park and ride on the spinning coffee cups!
+Dialogue: 0,0:11:49.58,0:11:51.37,Base01,,0000,0000,0000,,﻿Impossible, there's too many people in there
+Dialogue: 0,0:11:51.58,0:11:54.88,Base01,,0000,0000,0000,,﻿Well, how about to a family restaurant?
+Dialogue: 0,0:11:54.88,0:11:56.17,Base01,,0000,0000,0000,,﻿Can we?
+Dialogue: 0,0:11:56.17,0:11:58.67,Base01,,0000,0000,0000,,﻿We'll drink a glass of orange juice with two straws together.
+Dialogue: 0,0:11:58.67,0:12:00.67,Base01,,0000,0000,0000,,﻿Romantic, huh?
+Dialogue: 0,0:12:00.84,0:12:01.92,Base01,,0000,0000,0000,,﻿Yeah, right...
+Dialogue: 0,0:12:04.59,0:12:05.89,Base01,,0000,0000,0000,,﻿So cold.
+Dialogue: 0,0:12:06.43,0:12:08.14,Base01,,0000,0000,0000,,﻿How come I don't feel so?
+Dialogue: 0,0:12:09.64,0:12:11.81,Base01,,0000,0000,0000,,﻿Is it because I'm a ghost?
+Dialogue: 0,0:12:14.94,0:12:16.11,Base01,,0000,0000,0000,,﻿Are you cold?
+Dialogue: 0,0:12:23.78,0:12:24.57,Base01,,0000,0000,0000,,﻿Thank you.
+Dialogue: 0,0:12:42.84,0:12:44.63,Base01,,0000,0000,0000,,﻿I'm sorry for taking you here.
+Dialogue: 0,0:12:46.01,0:12:48.26,Base01,,0000,0000,0000,,﻿Don't be, it's really romantic.
+Dialogue: 0,0:12:58.69,0:12:59.31,Base01,,0000,0000,0000,,﻿Eh?
+Dialogue: 0,0:13:05.78,0:13:08.74,Base01,,0000,0000,0000,,﻿It's going to be a special service today.
+Dialogue: 0,0:13:16.33,0:13:18.38,Base01,,0000,0000,0000,,﻿Thank you, Ken-chan.
+Dialogue: 0,0:13:35.77,0:13:37.19,Base01,,0000,0000,0000,,﻿Want to drink more?
+Dialogue: 0,0:13:37.65,0:13:38.35,Base01,,0000,0000,0000,,No...
+Dialogue: 0,0:13:39.06,0:13:42.32,Base01,,0000,0000,0000,,﻿I don't want this to ever run out.
+Dialogue: 0,0:14:03.13,0:14:05.55,Base01,,0000,0000,0000,,﻿Aaah, it's dark!
+Dialogue: 0,0:14:06.17,0:14:07.17,Base01,,0000,0000,0000,,﻿There you go.
+Dialogue: 0,0:14:07.34,0:14:08.26,Base01,,0000,0000,0000,,﻿Ken-chan!
+Dialogue: 0,0:14:08.80,0:14:09.76,Base01,,0000,0000,0000,,﻿Are you okay?
+Dialogue: 0,0:14:10.05,0:14:11.85,Base01,,0000,0000,0000,,﻿I'm not okay.
+Dialogue: 0,0:14:11.85,0:14:12.39,Base01,,0000,0000,0000,,﻿Eh?
+Dialogue: 0,0:14:12.72,0:14:13.64,Base01,,0000,0000,0000,,H﻿ere.
+Dialogue: 0,0:14:13.81,0:14:17.39,Base01,,0000,0000,0000,,﻿You opened it too fast and I was surprised.
+Dialogue: 0,0:14:18.94,0:14:22.36,Base01,,0000,0000,0000,,﻿Could it be that you waited for me after school?
+Dialogue: 0,0:14:22.52,0:14:24.36,Base01,,0000,0000,0000,,﻿Thank you, Ken-chan!
+Dialogue: 0,0:14:24.90,0:14:26.36,Base01,,0000,0000,0000,,﻿Now, now.
+Dialogue: 0,0:14:26.70,0:14:30.57,Base01,,0000,0000,0000,,﻿It's only by chance, I'd never waited for you.
+Dialogue: 0,0:14:33.79,0:14:35.04,Base01,,0000,0000,0000,,﻿Oh, Hiyori.
+Dialogue: 0,0:14:35.04,0:14:36.12,Base01,,0000,0000,0000,,﻿Is that a straw?
+Dialogue: 0,0:14:36.12,0:14:38.58,Base01,,0000,0000,0000,,﻿Uh huh, it's the straw from that time.
+Dialogue: 0,0:14:38.75,0:14:40.29,Base01,,0000,0000,0000,,﻿Why didn't you throw it away.
+Dialogue: 0,0:14:40.52,0:14:41.75,Base01,,0000,0000,0000,,﻿But...
+Dialogue: 0,0:14:42.25,0:14:43.96,Base01,,0000,0000,0000,,﻿But... But...
+Dialogue: 0,0:14:46.30,0:14:48.55,Base01,,0000,0000,0000,,﻿Okay, I understand. Do as you wish.
+Dialogue: 0,0:14:51.80,0:14:52.97,Base01,,0000,0000,0000,,﻿By the way.
+Dialogue: 0,0:14:53.14,0:14:55.93,Base01,,0000,0000,0000,,﻿Why did you became a ghost?
+Dialogue: 0,0:14:58.27,0:15:00.52,Base01,,0000,0000,0000,,﻿I don't know. I just ended up here.
+Dialogue: 0,0:15:02.06,0:15:03.40,Base01,,0000,0000,0000,,﻿Hi-Hiyori!
+Dialogue: 0,0:15:03.86,0:15:05.27,Base01,,0000,0000,0000,,﻿Your legs!
+Dialogue: 0,0:15:05.48,0:15:06.11,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:15:06.44,0:15:07.44,Base01,,0000,0000,0000,,﻿My legs?
+Dialogue: 0,0:15:09.32,0:15:12.20,Base01,,0000,0000,0000,,﻿No, no, not again!
+Dialogue: 0,0:15:12.20,0:15:12.95,Base01,,0000,0000,0000,,﻿Again?
+Dialogue: 0,0:15:13.28,0:15:15.62,Base01,,0000,0000,0000,,﻿Yes, it happened before.
+Dialogue: 0,0:15:17.54,0:15:19.41,Base01,,0000,0000,0000,,﻿I don't understand why.
+Dialogue: 0,0:15:19.58,0:15:22.29,Base01,,0000,0000,0000,,﻿A little odd for a ghost, huh?
+Dialogue: 0,0:15:22.92,0:15:25.63,Base01,,0000,0000,0000,,﻿Could it be that you are vanishing?
+Dialogue: 0,0:15:25.88,0:15:28.34,Base01,,0000,0000,0000,,﻿P-please don't ever say that.
+Dialogue: 0,0:15:28.34,0:15:32.30,Base01,,0000,0000,0000,,﻿It stopped before. Maybe it'll stop again.
+Dialogue: 0,0:15:33.09,0:15:34.05,Base01,,0000,0000,0000,,﻿Again?
+Dialogue: 0,0:15:36.43,0:15:38.22,Base01,,0000,0000,0000,,﻿Please, stop.
+Dialogue: 0,0:15:44.77,0:15:47.11,Base01,,0000,0000,0000,,﻿Don't scare me like that, Hiyori.
+Dialogue: 0,0:15:49.90,0:15:51.61,Base01,,0000,0000,0000,,﻿I'm really glad it stopped...
+Dialogue: 0,0:15:52.07,0:15:54.78,Base01,,0000,0000,0000,,﻿This is the second time I saw it happened.
+Dialogue: 0,0:15:55.78,0:15:57.99,Base01,,0000,0000,0000,,﻿Please, no more...
+Dialogue: 0,0:15:59.54,0:16:00.37,Base01,,0000,0000,0000,,﻿Ken-chan.
+Dialogue: 0,0:16:00.62,0:16:01.16,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:16:01.62,0:16:04.21,Base01,,0000,0000,0000,,﻿Tomorrow will be white day.
+Dialogue: 0,0:16:04.67,0:16:07.00,Base01,,0000,0000,0000,,﻿I would love to receive a present from you.
+Dialogue: 0,0:16:08.80,0:16:11.67,Base01,,0000,0000,0000,,﻿I can't remember getting any chocolates from you...
+Dialogue: 0,0:16:11.68,0:16:13.93,Base01,,0000,0000,0000,,﻿Not even a small one...
+Dialogue: 0,0:16:14.09,0:16:15.80,Base01,,0000,0000,0000,,﻿Is that so?
+Dialogue: 0,0:16:19.68,0:16:22.31,Base01,,0000,0000,0000,,﻿That's why I don't have to give anything back.
+Dialogue: 0,0:16:22.31,0:16:24.65,Base01,,0000,0000,0000,,﻿Eh? Say it ain't so.
+Dialogue: 0,0:16:25.27,0:16:28.32,Base01,,0000,0000,0000,,﻿Just for now, I'll prepare something.
+Dialogue: 0,0:16:28.98,0:16:29.78,Base01,,0000,0000,0000,,﻿Really!
+Dialogue: 0,0:16:29.78,0:16:31.32,Base01,,0000,0000,0000,,﻿What? What? What?
+Dialogue: 0,0:16:31.57,0:16:33.57,Base01,,0000,0000,0000,,﻿You'll know what, tomorrow.
+Dialogue: 0,0:16:33.82,0:16:36.45,Base01,,0000,0000,0000,,﻿Let's meet tomorrow, okay?
+Dialogue: 0,0:16:39.24,0:16:41.37,Base01,,0000,0000,0000,,﻿For sure, right?
+Dialogue: 0,0:17:13.40,0:17:14.95,Base01,,0000,0000,0000,,﻿She disappeared again...
+Dialogue: 0,0:17:15.41,0:17:17.91,Base01,,0000,0000,0000,,﻿Just like the time she transferred before...
+Dialogue: 0,0:17:19.45,0:17:23.95,Base01,,0000,0000,0000,,﻿Now that Hiyori's back, I finally understood\N﻿my true feelings for her...
+Dialogue: 0,0:17:25.21,0:17:27.08,Base01,,0000,0000,0000,,﻿How come I can't say that I love her?
+Dialogue: 0,0:17:27.08,0:17:27.92,Base01,,0000,0000,0000,,﻿No, I can't...
+Dialogue: 0,0:17:28.46,0:17:29.08,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:17:35.18,0:17:36.26,Base01,,0000,0000,0000,,﻿Can't sleep...
+Dialogue: 0,0:17:37.89,0:17:40.30,Base01,,0000,0000,0000,,﻿Can't sleep but I feel I have to.
+Dialogue: 0,0:17:40.31,0:17:41.39,Base01,,0000,0000,0000,,﻿Can't sleep...
+Dialogue: 0,0:17:42.22,0:17:45.18,Base01,,0000,0000,0000,,﻿I have to take some medicine for tomorrow's operation...
+Dialogue: 0,0:17:45.89,0:17:48.06,Base01,,0000,0000,0000,,﻿The nurse had told me to do so...
+Dialogue: 0,0:17:50.77,0:17:53.11,Base01,,0000,0000,0000,,﻿An uncertain operation but I regret nothing.
+Dialogue: 0,0:17:54.19,0:17:56.32,Base01,,0000,0000,0000,,﻿However, what is this?
+Dialogue: 0,0:17:57.32,0:18:02.08,Base01,,0000,0000,0000,,﻿What is this bad feeling right now?
+Dialogue: 0,0:18:18.18,0:18:19.39,Base01,,0000,0000,0000,,﻿Wake up...
+Dialogue: 0,0:18:19.80,0:18:20.72,Base01,,0000,0000,0000,,﻿Ken-chan.
+Dialogue: 0,0:18:22.26,0:18:23.14,Base01,,0000,0000,0000,,﻿Hiyori!
+Dialogue: 0,0:18:25.48,0:18:28.98,Base01,,0000,0000,0000,,﻿Sorry, I missed to come a day.
+Dialogue: 0,0:18:29.44,0:18:33.02,Base01,,0000,0000,0000,,﻿It's okay, we'll do another white day again.
+Dialogue: 0,0:18:33.57,0:18:36.11,Base01,,0000,0000,0000,,﻿I know Hiyori likes it so let's anywhere.
+Dialogue: 0,0:18:36.65,0:18:39.07,Base01,,0000,0000,0000,,﻿Ken-chan, thank you.
+Dialogue: 0,0:18:47.83,0:18:48.96,Base02,,0000,0000,0000,,﻿OPERATION
+Dialogue: 0,0:18:58.22,0:19:00.68,Base01,,0000,0000,0000,,﻿Ken-chan, everyone's looking.
+Dialogue: 0,0:19:00.68,0:19:02.47,Base01,,0000,0000,0000,,﻿Aren't you embarrassed?
+Dialogue: 0,0:19:02.85,0:19:05.18,Base01,,0000,0000,0000,,﻿Not at all, as long as I don't lose you.
+Dialogue: 0,0:19:05.43,0:19:06.35,Base01,,0000,0000,0000,,﻿Thank you.
+Dialogue: 0,0:19:32.33,0:19:34.75,Base01,,0000,0000,0000,,﻿Ken-chan, don't let go.
+Dialogue: 0,0:19:35.75,0:19:40.09,Base01,,0000,0000,0000,,﻿If I ever disappear again, I wouldn't know what to do.
+Dialogue: 0,0:19:40.09,0:19:40.97,Base01,,0000,0000,0000,,﻿I'm afraid.
+Dialogue: 0,0:19:41.26,0:19:43.22,Base01,,0000,0000,0000,,﻿We'll stay together forever.
+Dialogue: 0,0:19:43.93,0:19:44.68,Base01,,0000,0000,0000,,﻿Uh?
+Dialogue: 0,0:19:58.69,0:19:59.69,Base01,,0000,0000,0000,,﻿Ken-chan?
+Dialogue: 0,0:20:01.15,0:20:02.20,Base01,,0000,0000,0000,,﻿Hiyori.
+Dialogue: 0,0:20:39.82,0:20:41.61,Base01,,0000,0000,0000,,﻿You're beautiful, Hiyori.
+Dialogue: 0,0:20:42.24,0:20:43.32,Base01,,0000,0000,0000,,﻿Ken-chan.
+Dialogue: 0,0:20:50.33,0:20:51.41,Base01,,0000,0000,0000,,﻿More.
+Dialogue: 0,0:21:06.26,0:21:08.43,Base01,,0000,0000,0000,,﻿I'm ashamed.
+Dialogue: 0,0:21:22.03,0:21:23.11,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:21:31.04,0:21:32.54,Base01,,0000,0000,0000,,﻿It hurts!
+Dialogue: 0,0:21:32.54,0:21:33.45,Base01,,0000,0000,0000,,﻿Hiyori?
+Dialogue: 0,0:21:34.54,0:21:36.58,Base01,,0000,0000,0000,,﻿I'm okay so...
+Dialogue: 0,0:22:28.97,0:22:31.39,Base01,,0000,0000,0000,,﻿Ken-chan, Ken-chan!
+Dialogue: 0,0:22:31.39,0:22:33.31,Base01,,0000,0000,0000,,﻿Where do you want me to come, Hiyori?
+Dialogue: 0,0:22:33.81,0:22:35.18,Base01,,0000,0000,0000,,﻿In here...
+Dialogue: 0,0:22:35.18,0:22:37.18,Base01,,0000,0000,0000,,﻿More, more...
+Dialogue: 0,0:22:39.69,0:22:41.73,Base01,,0000,0000,0000,,﻿I'm together with Ken-chan...
+Dialogue: 0,0:22:41.73,0:22:44.53,Base01,,0000,0000,0000,,﻿I wish I would never go away from here.
+Dialogue: 0,0:22:47.24,0:22:49.28,Base01,,0000,0000,0000,,﻿I love you, Hiyori!
+Dialogue: 0,0:22:51.74,0:22:53.08,Base01,,0000,0000,0000,,﻿I love you too!
+Dialogue: 0,0:22:58.12,0:23:00.37,Base01,,0000,0000,0000,,﻿Together, forever...
+Dialogue: 0,0:23:12.60,0:23:13.85,Base01,,0000,0000,0000,,﻿Ken-chan?
+Dialogue: 0,0:23:24.77,0:23:27.44,Base01,,0000,0000,0000,,﻿Right now, we will never be apart.
+Dialogue: 0,0:23:39.25,0:23:40.41,Base01,,0000,0000,0000,,﻿Thank you...
+Dialogue: 0,0:24:00.10,0:24:04.98,Base01,,0000,0000,0000,,﻿I-I really did gave you a chocolate.
+Dialogue: 0,0:24:06.23,0:24:08.57,Base01,,0000,0000,0000,,﻿I really don't like going away.
+Dialogue: 0,0:24:09.36,0:24:12.99,Base01,,0000,0000,0000,,﻿I always wished I was close to Ken-chan.
+Dialogue: 0,0:24:19.79,0:24:21.96,Base02,,0000,0000,0000,,﻿OPERATION
+Dialogue: 0,0:24:28.92,0:24:29.88,Base01,,0000,0000,0000,,﻿Hiyori?
+Dialogue: 0,0:24:30.34,0:24:33.84,Base01,,0000,0000,0000,,﻿I really had a good time but I can't see you anymore.
+Dialogue: 0,0:24:34.14,0:24:36.30,Base01,,0000,0000,0000,,﻿I'm really sorry, Ken-chan.
+Dialogue: 0,0:24:36.85,0:24:39.89,Base01,,0000,0000,0000,,﻿Hiyori, what do you mean by this?
+Dialogue: 0,0:24:39.97,0:24:43.14,Base01,,0000,0000,0000,,﻿I can't remember everything.
+Dialogue: 0,0:24:43.69,0:24:47.36,Base01,,0000,0000,0000,,﻿I am not what you think I am.
+Dialogue: 0,0:24:48.44,0:24:53.11,Base01,,0000,0000,0000,,﻿Because if you see the real me, it would only make you sad.
+Dialogue: 0,0:24:53.36,0:24:56.78,Base01,,0000,0000,0000,,﻿What do you mean to see the real you, Hiyori?
+Dialogue: 0,0:24:57.16,0:24:58.87,Base01,,0000,0000,0000,,﻿Bye, Ken-chan...
+Dialogue: 0,0:24:59.41,0:25:00.74,Base01,,0000,0000,0000,,﻿Hi-Hiyori!
+Dialogue: 0,0:25:00.75,0:25:01.91,Base01,,0000,0000,0000,,﻿Sorry...
+Dialogue: 0,0:25:03.08,0:25:04.16,Base01,,0000,0000,0000,,﻿Thank you..
+Dialogue: 0,0:25:05.88,0:25:09.67,Base01,,0000,0000,0000,,﻿I'll never forget with this ring on...
+Dialogue: 0,0:25:12.55,0:25:13.63,Base01,,0000,0000,0000,,﻿Hiyori!
+Dialogue: 0,0:25:17.60,0:25:20.64,Base01,,0000,0000,0000,,﻿Hiyori!!
+Dialogue: 0,0:25:28.48,0:25:30.90,Base01,,0000,0000,0000,,﻿I'm all alone again.
+Dialogue: 0,0:25:42.58,0:25:45.75,Base01,,0000,0000,0000,,﻿A valentine's day chocolate. Hiyori must had made it.
+Dialogue: 0,0:25:46.29,0:25:48.46,Base01,,0000,0000,0000,,﻿A note is attached.
+Dialogue: 0,0:25:48.71,0:25:49.63,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:25:51.50,0:25:53.34,Base02,,0000,0000,0000,,﻿I like you, Ken-chan.
+Dialogue: 0,0:25:53.38,0:25:55.55,Base01,,0000,0000,0000,,﻿I like you, Ken-chan.
+Dialogue: 0,0:26:01.68,0:26:03.39,Base01,,0000,0000,0000,,﻿You're too embarrassed to tell me.
+Dialogue: 0,0:26:03.85,0:26:05.10,Base01,,0000,0000,0000,,﻿Stupid Hiyori...
+Dialogue: 0,0:26:30.00,0:26:33.42,Base01,,0000,0000,0000,,﻿I need to reply to Hiyori's confession.
+Dialogue: 0,0:26:33.80,0:26:36.51,Base01,,0000,0000,0000,,﻿I wonder where you are...
+Dialogue: 0,0:26:51.90,0:26:52.40,Base01,,0000,0000,0000,,﻿Huh?
+Dialogue: 0,0:26:54.86,0:26:57.28,Base01,,0000,0000,0000,,﻿I found you at last, Hiyori.
+Dialogue: 0,0:26:57.82,0:26:58.99,Base01,,0000,0000,0000,,﻿Who are you?
+Dialogue: 0,0:26:59.45,0:27:00.24,Base01,,0000,0000,0000,,﻿Hiyori...
+Dialogue: 0,0:27:00.32,0:27:05.29,Base01,,0000,0000,0000,,﻿Sorry, I lost my memory.
+Dialogue: 0,0:27:13.67,0:27:17.26,Base01,,0000,0000,0000,,﻿I could only remember one thing. The name of the man I love.
+Dialogue: 0,0:27:17.42,0:27:21.59,Base01,,0000,0000,0000,,﻿I think his name was... Ken-chan.
+Dialogue: 0,0:27:23.93,0:27:27.06,Base01,,0000,0000,0000,,﻿I am that Ken-chan, Hiyori.
+Dialogue: 0,0:27:34.52,0:27:35.44,Base01,,0000,0000,0000,,﻿Alright!
+Dialogue: 0,0:27:35.44,0:27:37.23,Base01,,0000,0000,0000,,﻿I got it right this time!
+Dialogue: 0,0:27:37.40,0:27:40.36,Base01,,0000,0000,0000,,﻿This must be your strong subject.
+Dialogue: 0,0:27:40.74,0:27:44.95,Base01,,0000,0000,0000,,﻿The part of the amusement park that I like most is?
+Dialogue: 0,0:27:45.24,0:27:47.33,Base01,,0000,0000,0000,,﻿That will be the spinning coffee cups, right?
+Dialogue: 0,0:27:47.50,0:27:50.54,Base01,,0000,0000,0000,,﻿I embarrassed, I can't taste a thing
+Dialogue: 0,0:27:50.67,0:27:59.91,Base05,,0000,0000,0000,,Kokoro no kakera sagasuyou ni
+Dialogue: 0,0:27:50.67,0:27:59.91,Base06,,0000,0000,0000,,﻿I kept looking for you...
+Dialogue: 0,0:27:50.92,0:27:54.04,Base01,,0000,0000,0000,,﻿You want to try it though, huh?
+Dialogue: 0,0:27:57.38,0:28:00.47,Base01,,0000,0000,0000,,﻿You seem to know everything about me.
+Dialogue: 0,0:28:00.47,0:28:04.30,Base01,,0000,0000,0000,,﻿I still can't remember everything yet.
+Dialogue: 0,0:28:01.40,0:28:10.31,Base05,,0000,0000,0000,,﻿Kimi no koto sagashitsuzuketeta
+Dialogue: 0,0:28:01.40,0:28:10.31,Base06,,0000,0000,0000,,As if I was looking for a fragment of my heart
+Dialogue: 0,0:28:05.60,0:28:07.47,Base01,,0000,0000,0000,,﻿Hiyori, that ring...
+Dialogue: 0,0:28:10.44,0:28:12.23,Base01,,0000,0000,0000,,﻿Why I always...
+Dialogue: 0,0:28:12.23,0:28:30.91,Base05,,0000,0000,0000,,Mono-chro no mainichi ga kimi ga ite kagayaki hajimeteku
+Dialogue: 0,0:28:12.23,0:28:30.91,Base06,,0000,0000,0000,,﻿My monochrome every day started to gain color as you entered my life
+Dialogue: 0,0:28:13.40,0:28:18.28,Base01,,0000,0000,0000,,﻿Why am I shedding tears?
+Dialogue: 0,0:28:32.37,0:28:51.68,Base04,,0000,0000,0000,,You gave me the courage to face the fear of breaking something
+Dialogue: 0,0:28:32.37,0:28:51.68,Base05,,0000,0000,0000,,Kowashite shimau kawasani tachimukau yuuki wo kuretane
+Dialogue: 0,0:28:52.14,0:29:01.59,Base04,,0000,0000,0000,,﻿The strength to open the window to the future
+Dialogue: 0,0:28:52.14,0:29:01.59,Base05,,0000,0000,0000,,﻿Mirai no mado akeru tsuyosa wo
+Dialogue: 0,0:29:02.11,0:29:12.83,Base04,,0000,0000,0000,,I love you. Just that enables me to go without hesistation
+Dialogue: 0,0:29:02.11,0:29:12.83,Base05,,0000,0000,0000,,﻿Kimi ga suki tada soredakede mayowazu ikerunda
+Dialogue: 0,0:29:13.25,0:29:22.92,Base04,,0000,0000,0000,,﻿I will walk this path with you forever...
+Dialogue: 0,0:29:13.25,0:29:22.92,Base05,,0000,0000,0000,,Mlzuiro no kirei na sora no shita wo itsumademo
+Dialogue: 0,0:29:23.38,0:29:33.89,Base04,,0000,0000,0000,,Under the beautiful light blue sky
+Dialogue: 0,0:29:23.38,0:29:33.89,Base05,,0000,0000,0000,,﻿Kimi to aruiteku kono michi wo futari de

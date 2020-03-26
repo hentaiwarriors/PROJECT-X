@@ -1,0 +1,472 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.0.543  Oct 14 2016  11:09:39
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [640x360]
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&HFF000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1.5,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,38,&H00FFFFFF,&H000000FF,&HFF000000,&H00000000,0,0,0,0,100,100,0,0,1,2,3,8,125,20,80,1
+Style: Tytul,Franklin Gothic Medium,32,&H00FFFFFF,&H000000FF,&HFF000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,3,2,20,20,40,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: OP Pl,Franklin Gothic Medium,28,&H00FFEBDD,&H000000FF,&H00FF7A1C,&H96000000,-1,0,0,0,100,100,0,0,1,1.2,2,7,10,20,6,1
+Style: ED Pl,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000073,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:07:47.61,0:07:56.50,Grupa,,0,0,0,,{\be1\fad(483,0)}Nyan
+Dialogue: 0,0:07:47.61,0:07:56.50,Anime,,0,0,0,,{\be1\fad(483,0)\fs58}M{\fs38}INERVA NO {\fs58}K{\fs38}ENSHI
+Dialogue: 0,0:07:47.61,0:07:56.50,Tytul,,0,0,0,,{\be3\fad(483,0)}ODCINEK 3: NADEJŚCIE
+Dialogue: 0,0:07:46.97,0:07:59.45,OP Pl,,0,0,0,,{\be1\fad(300,300)\an9}Przy blasku księżyca zamykam oczy...
+Dialogue: 0,0:08:00.27,0:08:13.62,OP Pl,,0,0,0,,{\be1\fad(300,300)}I słyszę głosy nad sobą.
+Dialogue: 0,0:08:20.14,0:08:32.65,OP Pl,,0,0,0,,{\be1\fad(300,300)}We śnie zmawiam modlitwę...
+Dialogue: 0,0:08:33.55,0:08:46.15,OP Pl,,0,0,0,,{\be1\fad(300,300)}Z nadzieją, że ochroni ona ciebie.
+Dialogue: 0,0:08:46.93,0:09:04.87,OP Pl,,0,0,0,,{\be1\fad(300,300)}Postać na wietrze...
+Dialogue: 0,0:42:44.02,0:42:56.71,ED Pl,,0,0,0,,{\be1\fad(300,300)}Z tęsknotą w oczach wracam do marzeń...
+Dialogue: 0,0:42:57.61,0:43:10.24,ED Pl,,0,0,0,,{\be1\fad(300,300)}Lecz wiatr zaczyna dąć.
+Dialogue: 0,0:43:14.47,0:43:27.23,ED Pl,,0,0,0,,{\be1\fad(300,300)}Przebyłam już daleką drogę.
+Dialogue: 0,0:43:27.87,0:43:40.38,ED Pl,,0,0,0,,{\be1\fad(300,300)}Cienie kwiatów tańczą na wietrze.
+Dialogue: 0,0:43:44.76,0:44:02.16,ED Pl,,0,0,0,,{\be1\fad(300,300)}Ze łzami w niebo wzbija się ptak.
+Dialogue: 0,0:44:05.19,0:44:31.56,ED Pl,,0,0,0,,{\be1\fad(300,300)}Lecz ból sprowadza mnie\Nz powrotem na ziemię, gdy lecę do ciebie.
+Dialogue: 0,0:44:35.60,0:44:48.04,ED Pl,,0,0,0,,{\be1\fad(300,300)}Mam nadzieję, że...
+Dialogue: 0,0:44:49.10,0:45:06.87,ED Pl,,0,0,0,,{\be1\fad(300,300)}Któregoś dnia znowu\Nspotkamy się na naszym wzgórzu.
+Dialogue: 0,0:00:31.10,0:00:33.51,Default,,0,0,0,,Dałbym za taką nawet 2 sztuki złota.
+Dialogue: 0,0:00:34.46,0:00:36.20,Default,,0,0,0,,Dobre to wino.
+Dialogue: 0,0:00:37.04,0:00:40.02,Default,,0,0,0,,Dzisiaj też nie znaleźliśmy pracy.
+Dialogue: 0,0:00:42.55,0:00:43.93,Default,,0,0,0,,Nie martw się.
+Dialogue: 0,0:00:43.93,0:00:47.50,Default,,0,0,0,,W razie czego mogę cię sprzedać.
+Dialogue: 0,0:00:49.14,0:00:50.91,Default,,0,0,0,,Jaki podły!
+Dialogue: 0,0:00:50.91,0:00:52.50,Default,,0,0,0,,Żartowałem.
+Dialogue: 0,0:00:55.99,0:00:59.25,Default,,0,0,0,,Przecież wiesz, że nie oddam cię nikomu.
+Dialogue: 0,0:00:59.86,0:01:01.23,Default,,0,0,0,,Naprawdę?
+Dialogue: 0,0:01:01.23,0:01:03.46,Default,,0,0,0,,Tak.
+Dialogue: 0,0:01:04.83,0:01:07.05,Default,,0,0,0,,Cieszę się, panie!
+Dialogue: 0,0:01:17.53,0:01:18.89,Default,,0,0,0,,Z drogi!
+Dialogue: 0,0:01:18.89,0:01:21.06,Default,,0,0,0,,Spadaj dziadzie!
+Dialogue: 0,0:01:21.88,0:01:23.19,Default,,0,0,0,,Z drogi!
+Dialogue: 0,0:01:23.85,0:01:25.46,Default,,0,0,0,,Znowu oni.
+Dialogue: 0,0:01:25.46,0:01:26.48,Default,,0,0,0,,Kto?
+Dialogue: 0,0:01:26.77,0:01:32.99,Default,,0,0,0,,Rozpieszczone bachory szlachty.\NZawsze robią co chcą.
+Dialogue: 0,0:01:33.33,0:01:37.44,Default,,0,0,0,,Radzę się do nich nie zbliżać,\Na zwłaszcza do niej.
+Dialogue: 0,0:01:45.00,0:01:47.96,Default,,0,0,0,,Żarcie gówniane jak zawsze.
+Dialogue: 0,0:01:48.71,0:01:50.45,Default,,0,0,0,,Barman, zostawiamy pieniądze.
+Dialogue: 0,0:01:50.45,0:01:51.51,Default,,0,0,0,,Dzięki.
+Dialogue: 0,0:01:59.02,0:02:03.19,Default,,0,0,0,,To stolik panienki Patris, spieprzaj!
+Dialogue: 0,0:02:03.19,0:02:03.85,Default,,0,0,0,,Tak jest!
+Dialogue: 0,0:02:10.86,0:02:13.31,Default,,0,0,0,,Proszę, panienko.
+Dialogue: 0,0:02:20.87,0:02:23.62,Default,,0,0,0,,Dawać wino!
+Dialogue: 0,0:02:24.17,0:02:24.92,Default,,0,0,0,,Tak!
+Dialogue: 0,0:02:25.45,0:02:28.42,Default,,0,0,0,,I najlepsze żarcie jakie masz!
+Dialogue: 0,0:02:28.42,0:02:31.92,Default,,0,0,0,,Tutaj dobre i gówniane żarcie\Nsmakuje prawie tak samo.
+Dialogue: 0,0:02:40.90,0:02:43.56,Default,,0,0,0,,Tylko kelnerki są tu dobre.
+Dialogue: 0,0:02:44.37,0:02:46.56,Default,,0,0,0,,To prawda.
+Dialogue: 0,0:02:46.56,0:02:48.94,Default,,0,0,0,,Chodźcie tu!
+Dialogue: 0,0:02:48.94,0:02:49.94,Default,,0,0,0,,Przestań!
+Dialogue: 0,0:02:55.64,0:02:57.64,Default,,0,0,0,,Nalewać mi tu wina!
+Dialogue: 0,0:02:57.64,0:02:58.56,Default,,0,0,0,,Tak jest!
+Dialogue: 0,0:03:13.03,0:03:14.09,Default,,0,0,0,,Za Patris!
+Dialogue: 0,0:03:21.81,0:03:23.56,Default,,0,0,0,,Niezłe.
+Dialogue: 0,0:03:25.51,0:03:27.35,Default,,0,0,0,,Mamy pozwolenie od Patris!
+Dialogue: 0,0:03:35.90,0:03:39.66,Default,,0,0,0,,Tak niewolnice wyglądają najlepiej.
+Dialogue: 0,0:03:41.66,0:03:43.66,Default,,0,0,0,,Proszę, nie!
+Dialogue: 0,0:03:48.00,0:03:48.83,Default,,0,0,0,,Ścierwa.
+Dialogue: 0,0:03:48.83,0:03:51.24,Default,,0,0,0,,Nie mieszaj się.
+Dialogue: 0,0:03:51.24,0:03:52.37,Default,,0,0,0,,Ale!
+Dialogue: 0,0:03:53.63,0:03:56.17,Default,,0,0,0,,Pamiętaj, że też jesteś niewolnicą.
+Dialogue: 0,0:03:57.88,0:04:02.07,Default,,0,0,0,,Przepraszam, panie.
+Dialogue: 0,0:04:32.81,0:04:34.00,Default,,0,0,0,,Co to?
+Dialogue: 0,0:04:34.64,0:04:38.01,Default,,0,0,0,,Panienka Patris chce kupić twoją niewolnicę.
+Dialogue: 0,0:04:43.00,0:04:44.55,Default,,0,0,0,,Całkiem sporo złota.
+Dialogue: 0,0:04:46.19,0:04:47.60,Default,,0,0,0,,No to zabieram ją.
+Dialogue: 0,0:04:47.96,0:04:51.06,Default,,0,0,0,,Stój, kiedy powiedziałem, że ją sprzedaję?
+Dialogue: 0,0:04:52.46,0:04:54.82,Default,,0,0,0,,Chcesz więcej?
+Dialogue: 0,0:04:55.17,0:04:58.40,Default,,0,0,0,,Nie trudź się i tak jej nie sprzedam.
+Dialogue: 0,0:04:59.74,0:05:00.83,Default,,0,0,0,,Diana, wychodzimy.
+Dialogue: 0,0:05:00.83,0:05:01.77,Default,,0,0,0,,Dobrze!
+Dialogue: 0,0:05:01.77,0:05:04.66,Default,,0,0,0,,Zarozumiały skurwiel!
+Dialogue: 0,0:05:13.05,0:05:13.71,Default,,0,0,0,,Idziemy.
+Dialogue: 0,0:05:18.39,0:05:19.49,Default,,0,0,0,,Cain!
+Dialogue: 0,0:05:21.09,0:05:22.51,Default,,0,0,0,,Stać!
+Dialogue: 0,0:05:23.06,0:05:24.51,Default,,0,0,0,,Czego?
+Dialogue: 0,0:05:24.85,0:05:30.06,Default,,0,0,0,,Twierdzisz, że twoja niewolnica jest tak cenna?
+Dialogue: 0,0:05:31.20,0:05:33.27,Default,,0,0,0,,Co? Nie.
+Dialogue: 0,0:05:35.08,0:05:37.43,Default,,0,0,0,,Ale jest dla mnie wszystkim.
+Dialogue: 0,0:05:37.43,0:05:41.86,Default,,0,0,0,,Nie sprzedałbym jej nawet za koronę.
+Dialogue: 0,0:05:44.99,0:05:48.12,Default,,0,0,0,,Przecież to tylko niewolnica!
+Dialogue: 0,0:05:48.12,0:05:51.50,Default,,0,0,0,,Chyba czegoś nie rozumiesz, panienko.
+Dialogue: 0,0:05:51.86,0:05:55.25,Default,,0,0,0,,Nie kupisz cudzego serca za pieniądze!
+Dialogue: 0,0:05:56.24,0:05:59.00,Default,,0,0,0,,Wszystko można kupić za pieniądze.
+Dialogue: 0,0:05:59.70,0:06:04.63,Default,,0,0,0,,Rozumiem.\NW takim razie, ile ty jesteś warta?
+Dialogue: 0,0:06:09.07,0:06:10.84,Default,,0,0,0,,Jesteś piękna.
+Dialogue: 0,0:06:10.84,0:06:14.70,Default,,0,0,0,,Można nawet jesteś tyle warta,\Nco moja niewolnica.
+Dialogue: 0,0:06:17.31,0:06:22.83,Default,,0,0,0,,Ty śmieciu, obraziłeś panienkę\Nw miejscu publicznym, zapłacisz za to!
+Dialogue: 0,0:06:22.83,0:06:24.11,Default,,0,0,0,,Dosyć!
+Dialogue: 0,0:06:29.45,0:06:31.29,Default,,0,0,0,,Wujku!
+Dialogue: 0,0:06:32.22,0:06:36.00,Default,,0,0,0,,Nie pozwolę na takie zachowanie! Wynocha!
+Dialogue: 0,0:06:40.14,0:06:41.27,Default,,0,0,0,,Patris.
+Dialogue: 0,0:06:43.84,0:06:49.01,Default,,0,0,0,,Panie, przepraszam za ich zachowanie.
+Dialogue: 0,0:06:49.71,0:06:51.81,Default,,0,0,0,,Nie trzeba, panie Yajil.
+Dialogue: 0,0:06:52.48,0:06:56.52,Default,,0,0,0,,Ciebie również przepraszam.
+Dialogue: 0,0:06:57.42,0:07:04.03,Default,,0,0,0,,Niepotrzebnie, trochę przesadziłem\Nodsłaniając twarz twojej siostrzenicy.
+Dialogue: 0,0:07:04.49,0:07:07.85,Default,,0,0,0,,Dziękuję, że im wybaczasz.
+Dialogue: 0,0:07:07.85,0:07:11.29,Default,,0,0,0,,Patris straciła rodziców, gdy była mała.
+Dialogue: 0,0:07:11.97,0:07:16.25,Default,,0,0,0,,Byłem na tyle głupi i za bardzo ją rozpieściłem.
+Dialogue: 0,0:07:18.56,0:07:26.61,Default,,0,0,0,,Przez majątek rodziców stała się zarozumiała.
+Dialogue: 0,0:07:27.55,0:07:35.52,Default,,0,0,0,,Jej adoratorzy również pochodzą z bogatych\Nrodzin, lecz są zwykłymi bezwstydnikami.
+Dialogue: 0,0:07:36.23,0:07:37.93,Default,,0,0,0,,Musimy już iść.
+Dialogue: 0,0:07:37.93,0:07:39.17,Default,,0,0,0,,Zaczekaj.
+Dialogue: 0,0:07:40.47,0:07:44.24,Default,,0,0,0,,Mam do ciebie prośbę.
+Dialogue: 0,0:08:10.18,0:08:15.73,Default,,0,0,0,,Nie chcę ich widzieć w tym domu!
+Dialogue: 0,0:08:15.73,0:08:16.81,Default,,0,0,0,,Cisza!
+Dialogue: 0,0:08:18.92,0:08:26.77,Default,,0,0,0,,Od teraz Shou będzie cię pilnował,\Na Diana będzie osobistą pokojówką.
+Dialogue: 0,0:08:27.76,0:08:30.66,Default,,0,0,0,,Shou, miło mi.
+Dialogue: 0,0:08:31.42,0:08:35.66,Default,,0,0,0,,Jestem Diana, będę się panienką zajmować.
+Dialogue: 0,0:08:41.41,0:08:48.38,Default,,0,0,0,,Patris, od teraz nie masz\Nprawa nigdzie wychodzić bez Shou!
+Dialogue: 0,0:08:51.00,0:08:56.91,Default,,0,0,0,,To polecenie twojego opiekuna, zrozumiano?
+Dialogue: 0,0:09:05.54,0:09:10.32,Default,,0,0,0,,Panie, może lepiej\Nzrezygnujmy z tego zlecenia?
+Dialogue: 0,0:09:10.32,0:09:13.04,Default,,0,0,0,,Nie, już je przyjąłem.
+Dialogue: 0,0:09:14.00,0:09:16.66,Default,,0,0,0,,Może być ci ciężko, ale wytrzymaj.
+Dialogue: 0,0:09:17.63,0:09:18.66,Default,,0,0,0,,Tym się nie przejmuj.
+Dialogue: 0,0:09:25.32,0:09:29.81,Default,,0,0,0,,Kyle, mam prośbę.
+Dialogue: 0,0:09:29.81,0:09:30.88,Default,,0,0,0,,Słucham.
+Dialogue: 0,0:09:32.71,0:09:33.38,Default,,0,0,0,,Bo widzisz...
+Dialogue: 0,0:09:37.91,0:09:39.03,Default,,0,0,0,,Dianę?!
+Dialogue: 0,0:09:40.48,0:09:42.69,Default,,0,0,0,,To pomożesz czy nie?
+Dialogue: 0,0:09:44.58,0:09:45.69,Default,,0,0,0,,Dobra.
+Dialogue: 0,0:09:52.16,0:09:57.37,Default,,0,0,0,,Po co wujek ich sprowadził?!
+Dialogue: 0,0:09:58.70,0:09:59.67,Default,,0,0,0,,Kto tam?
+Dialogue: 0,0:09:59.67,0:10:01.29,Default,,0,0,0,,Diana.
+Dialogue: 0,0:10:02.24,0:10:03.33,Default,,0,0,0,,Wejdź.
+Dialogue: 0,0:10:04.44,0:10:05.75,Default,,0,0,0,,Przyniosłam ubrania.
+Dialogue: 0,0:10:06.75,0:10:11.25,Default,,0,0,0,,Sama się ubiorę.\NLepiej tu posprzątaj.
+Dialogue: 0,0:10:11.25,0:10:12.21,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:10:13.78,0:10:15.22,Default,,0,0,0,,Upierz to.
+Dialogue: 0,0:10:25.80,0:10:27.81,Default,,0,0,0,,Mam piękne ciało?
+Dialogue: 0,0:10:34.49,0:10:35.65,Default,,0,0,0,,No?
+Dialogue: 0,0:10:36.31,0:10:37.82,Default,,0,0,0,,Tak.
+Dialogue: 0,0:10:37.83,0:10:39.28,Default,,0,0,0,,Kłamiesz!
+Dialogue: 0,0:10:39.28,0:10:44.68,Default,,0,0,0,,Mam małe piersi i płaski tyłek.
+Dialogue: 0,0:10:44.68,0:10:49.85,Default,,0,0,0,,Według mnie panienka ma piękne ciało.
+Dialogue: 0,0:10:50.50,0:10:56.21,Default,,0,0,0,,Dla mężczyzn byłoby pewnie jeszcze piękniejsze.
+Dialogue: 0,0:10:57.93,0:11:01.85,Default,,0,0,0,,Twoje piersi tak urosły,\Nbo Shou je ciągle dotyka?
+Dialogue: 0,0:11:04.06,0:11:06.81,Default,,0,0,0,,W jaki sposób cię bierze?
+Dialogue: 0,0:11:13.37,0:11:14.71,Default,,0,0,0,,Nie powiem.
+Dialogue: 0,0:11:24.60,0:11:26.37,Default,,0,0,0,,Patris?
+Dialogue: 0,0:11:27.71,0:11:31.11,Default,,0,0,0,,Bez zająknięcia wypytywała o nas.
+Dialogue: 0,0:11:31.11,0:11:34.38,Default,,0,0,0,,Najbardziej interesował ją seks.
+Dialogue: 0,0:11:35.97,0:11:37.53,Default,,0,0,0,,Rozumiem.
+Dialogue: 0,0:11:37.53,0:11:39.89,Default,,0,0,0,,Dziewczęta w jej wieku już takie są.
+Dialogue: 0,0:11:41.44,0:11:44.55,Default,,0,0,0,,Skąd to wiesz, panie?
+Dialogue: 0,0:11:44.55,0:11:47.65,Default,,0,0,0,,Miałeś ich aż tyle?
+Dialogue: 0,0:11:48.38,0:11:53.43,Default,,0,0,0,,Jesteś okrutny, panie.\NZa co spotkało mnie takie nieszczęście?
+Dialogue: 0,0:11:54.00,0:12:01.28,Default,,0,0,0,,Chcesz zrobić z Patris\Nniewolnicę i sprzedać mnie?
+Dialogue: 0,0:12:02.06,0:12:03.79,Default,,0,0,0,,Ciekawy pomysł.
+Dialogue: 0,0:12:04.96,0:12:08.89,Default,,0,0,0,,Panie, nie zostawiaj mnie.
+Dialogue: 0,0:12:11.07,0:12:11.98,Default,,0,0,0,,Shou.
+Dialogue: 0,0:12:31.35,0:12:32.47,Default,,0,0,0,,Tak!
+Dialogue: 0,0:12:33.62,0:12:36.95,Default,,0,0,0,,Jeszcze!
+Dialogue: 0,0:12:43.37,0:12:47.61,Default,,0,0,0,,Shou, daj mi go!
+Dialogue: 0,0:12:48.87,0:12:50.37,Default,,0,0,0,,Kto tam?
+Dialogue: 0,0:12:50.37,0:12:51.54,Default,,0,0,0,,Ja.
+Dialogue: 0,0:12:53.94,0:12:56.05,Default,,0,0,0,,O wilku mowa.
+Dialogue: 0,0:13:05.99,0:13:08.52,Default,,0,0,0,,Potrzebujesz czegoś, panienko?
+Dialogue: 0,0:13:09.36,0:13:10.98,Default,,0,0,0,,Przeszkodziłam?
+Dialogue: 0,0:13:11.73,0:13:15.65,Default,,0,0,0,,Przyśnił się panience koszmar?
+Dialogue: 0,0:13:17.47,0:13:20.66,Default,,0,0,0,,Diana, potrzebuję cię,\Nchodź do mojego pokoju.
+Dialogue: 0,0:13:21.37,0:13:22.33,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:14:07.62,0:14:09.70,Default,,0,0,0,,Ładnie tak wyglądasz.
+Dialogue: 0,0:14:12.71,0:14:16.71,Default,,0,0,0,,Chcesz coś powiedzieć?\NAle masz nie krzyczeć, jasne?
+Dialogue: 0,0:14:21.16,0:14:29.30,Default,,0,0,0,,Nawet jeśli będziesz krzyczeć,\Npowiem, że cię karzę, zrozumiano?
+Dialogue: 0,0:14:33.16,0:14:35.73,Default,,0,0,0,,Panienko, czemu to robisz?
+Dialogue: 0,0:14:36.38,0:14:43.91,Default,,0,0,0,,Nie pozwolę, żeby byle niewolnica była kochana,\Na zwłaszcza przez kogoś kto mnie obraził!
+Dialogue: 0,0:14:44.21,0:14:46.70,Default,,0,0,0,,Tak cię dotykał?
+Dialogue: 0,0:14:47.49,0:14:49.08,Default,,0,0,0,,Nie.
+Dialogue: 0,0:14:55.13,0:14:56.79,Default,,0,0,0,,Sprośne piersi.
+Dialogue: 0,0:14:58.10,0:15:01.80,Default,,0,0,0,,Jakie twarde, podnieciłaś się?
+Dialogue: 0,0:15:03.11,0:15:04.37,Default,,0,0,0,,Nie!
+Dialogue: 0,0:15:11.15,0:15:14.44,Default,,0,0,0,,Powiedz, że się podnieciłaś!
+Dialogue: 0,0:15:17.48,0:15:20.83,Default,,0,0,0,,Uparta, jak sobie chcesz.
+Dialogue: 0,0:15:20.83,0:15:22.44,Default,,0,0,0,,Kyle, twoje kolej.
+Dialogue: 0,0:15:24.46,0:15:26.50,Default,,0,0,0,,Proszę, nie.
+Dialogue: 0,0:15:26.50,0:15:28.87,Default,,0,0,0,,To kara za nieposłuszeństwo.
+Dialogue: 0,0:15:29.50,0:15:34.27,Default,,0,0,0,,Będę patrzeć jak cię upokarza.
+Dialogue: 0,0:15:34.27,0:15:36.96,Default,,0,0,0,,Na co czekasz, rusz się.
+Dialogue: 0,0:15:40.97,0:15:44.76,Default,,0,0,0,,Proszę, nie rób tego.
+Dialogue: 0,0:15:46.28,0:15:49.76,Default,,0,0,0,,Panienko, każ mu przestać!
+Dialogue: 0,0:16:35.44,0:16:36.43,Default,,0,0,0,,Nie!
+Dialogue: 0,0:16:44.93,0:16:47.08,Default,,0,0,0,,Tylko nie tam.
+Dialogue: 0,0:16:47.08,0:16:50.81,Default,,0,0,0,,Przecież widzę, że chcesz.
+Dialogue: 0,0:17:03.29,0:17:04.75,Default,,0,0,0,,Nie!
+Dialogue: 0,0:17:14.52,0:17:15.97,Default,,0,0,0,,Nie wytrzymam!
+Dialogue: 0,0:17:18.98,0:17:20.07,Default,,0,0,0,,Tam...
+Dialogue: 0,0:17:32.59,0:17:36.49,Default,,0,0,0,,Nie!
+Dialogue: 0,0:17:49.81,0:17:56.25,Default,,0,0,0,,Dobrze cię wytrenowana, zazdroszczę Shou.
+Dialogue: 0,0:17:56.25,0:17:59.27,Default,,0,0,0,,Więc czemu przestałeś?
+Dialogue: 0,0:18:01.62,0:18:03.89,Default,,0,0,0,,Masz szansę.
+Dialogue: 0,0:18:03.89,0:18:07.11,Default,,0,0,0,,Rozkazuję ci ją zerżnąć.
+Dialogue: 0,0:18:08.54,0:18:11.57,Default,,0,0,0,,Nawet dla panienki nie\Nwykonam takiego rozkazu.
+Dialogue: 0,0:18:12.10,0:18:15.99,Default,,0,0,0,,Boisz się złamać prawo?\NNie przejmuj się.
+Dialogue: 0,0:18:16.85,0:18:21.95,Default,,0,0,0,,Jeśli Shou się zezłości,\Npozwolę mu zabawić się ze mną.
+Dialogue: 0,0:18:22.41,0:18:24.50,Default,,0,0,0,,Co?
+Dialogue: 0,0:18:24.79,0:18:26.50,Default,,0,0,0,,Będzie sprawiedliwie.
+Dialogue: 0,0:18:28.08,0:18:30.51,Default,,0,0,0,,- Co się tam dzieje?\N- Shou!
+Dialogue: 0,0:18:31.24,0:18:33.72,Default,,0,0,0,,Diana, co się stało?
+Dialogue: 0,0:18:34.18,0:18:37.22,Default,,0,0,0,,Uciekaj przez okno, ja się tym zajmę!
+Dialogue: 0,0:18:45.54,0:18:48.31,Default,,0,0,0,,Co się stało?! Diana!
+Dialogue: 0,0:18:48.31,0:18:51.36,Default,,0,0,0,,Panienko, wejdź na mnie!
+Dialogue: 0,0:18:53.64,0:18:56.07,Default,,0,0,0,,Patris, chodź tu!
+Dialogue: 0,0:18:56.92,0:18:57.99,Default,,0,0,0,,Dobrze!
+Dialogue: 0,0:19:00.68,0:19:04.86,Default,,0,0,0,,Ja się tym zajmę, dobra?
+Dialogue: 0,0:19:05.52,0:19:08.76,Default,,0,0,0,,A teraz mnie pocałuj.
+Dialogue: 0,0:19:17.00,0:19:18.22,Default,,0,0,0,,Panie!
+Dialogue: 0,0:19:19.98,0:19:21.68,Default,,0,0,0,,Co tu się dzieje?
+Dialogue: 0,0:19:22.04,0:19:23.23,Default,,0,0,0,,Bo ja...
+Dialogue: 0,0:19:23.23,0:19:29.36,Default,,0,0,0,,Pokazuję panience jak się trenuje niewolnicę.
+Dialogue: 0,0:19:29.36,0:19:31.49,Default,,0,0,0,,Prawda, panienko?
+Dialogue: 0,0:19:33.50,0:19:37.24,Default,,0,0,0,,Nie pamiętam, żebym ja cię kiedyś wiązał.
+Dialogue: 0,0:19:37.76,0:19:39.21,Default,,0,0,0,,No bo...
+Dialogue: 0,0:19:39.21,0:19:42.53,Default,,0,0,0,,Nie zaszkodzi zrobić coś nowego.
+Dialogue: 0,0:19:43.70,0:19:45.09,Default,,0,0,0,,Rozumiem.
+Dialogue: 0,0:19:45.09,0:19:51.71,Default,,0,0,0,,Za uczenie panienki nieprzyzwoitych rzeczy,\Nbędziesz związana do rana.
+Dialogue: 0,0:19:52.74,0:19:53.88,Default,,0,0,0,,Czekaj!
+Dialogue: 0,0:19:55.23,0:19:59.39,Default,,0,0,0,,To moja wina, nie karz Diany.
+Dialogue: 0,0:19:59.39,0:20:06.35,Default,,0,0,0,,Za karę możesz związać mnie.
+Dialogue: 0,0:20:07.41,0:20:11.08,Default,,0,0,0,,Proszę, ukarz mnie.
+Dialogue: 0,0:20:11.08,0:20:14.07,Default,,0,0,0,,Nie mogę.
+Dialogue: 0,0:20:14.35,0:20:16.66,Default,,0,0,0,,Jestem dżentelmenem.
+Dialogue: 0,0:20:16.66,0:20:20.78,Default,,0,0,0,,Poza tym po zobaczeniu cię taką...
+Dialogue: 0,0:20:28.87,0:20:32.78,Default,,0,0,0,,Mógłbym posunąć się za daleko.
+Dialogue: 0,0:20:38.54,0:20:42.01,Default,,0,0,0,,Radzę zamykać okna.
+Dialogue: 0,0:20:43.78,0:20:47.32,Default,,0,0,0,,Ktoś mógłby tu wejść.
+Dialogue: 0,0:20:50.53,0:20:54.23,Default,,0,0,0,,Diana, będziesz moja.
+Dialogue: 0,0:21:02.63,0:21:05.03,Default,,0,0,0,,Panienka cię polubiła.
+Dialogue: 0,0:21:06.78,0:21:08.00,Default,,0,0,0,,Chyba tak.
+Dialogue: 0,0:21:08.00,0:21:10.79,Default,,0,0,0,,To kto tam jeszcze był?
+Dialogue: 0,0:21:11.61,0:21:13.48,Default,,0,0,0,,Byłyśmy same.
+Dialogue: 0,0:21:13.48,0:21:15.18,Default,,0,0,0,,Będziesz udawać?
+Dialogue: 0,0:21:16.88,0:21:19.28,Default,,0,0,0,,Jednak muszę cię ukarać.
+Dialogue: 0,0:21:20.05,0:21:21.45,Default (i),,0,0,0,,Jest poważny.
+Dialogue: 0,0:21:21.45,0:21:25.89,Default,,0,0,0,,Najwyższa pora.\NChyba za bardzo cię rozpieszczałem.
+Dialogue: 0,0:21:27.57,0:21:29.11,Default (i),,0,0,0,,Boję się!
+Dialogue: 0,0:21:44.21,0:21:48.99,Default,,0,0,0,,Nie żałował sobie.\NMyślałam, że nie przeżyję.
+Dialogue: 0,0:21:49.73,0:21:50.50,Default,,0,0,0,,Ale...
+Dialogue: 0,0:21:53.51,0:21:56.25,Default,,0,0,0,,Nigdy nie byłam tak podniecona.
+Dialogue: 0,0:21:57.32,0:21:58.53,Default,,0,0,0,,Diana.
+Dialogue: 0,0:21:59.26,0:22:03.51,Default,,0,0,0,,Panienka?\NCo panienka robi tak wcześnie?
+Dialogue: 0,0:22:03.86,0:22:09.20,Default,,0,0,0,,Martwiłam się o ciebie.\NNic ci nie jest?
+Dialogue: 0,0:22:09.87,0:22:11.93,Default,,0,0,0,,Torturował cię?
+Dialogue: 0,0:22:12.51,0:22:15.56,Default,,0,0,0,,A jednak.\NCo ci zrobił?
+Dialogue: 0,0:22:16.08,0:22:19.07,Default,,0,0,0,,Nie mogę powiedzieć.
+Dialogue: 0,0:22:20.28,0:22:23.57,Default,,0,0,0,,Zrobił coś czego nie da się opisać?
+Dialogue: 0,0:22:27.05,0:22:29.99,Default,,0,0,0,,Panienko, twój wuj chce cię widzieć.
+Dialogue: 0,0:22:38.60,0:22:42.93,Default,,0,0,0,,Wszystko w porządku?\NGdzie lekarz?
+Dialogue: 0,0:22:43.59,0:22:46.37,Default,,0,0,0,,Wyzdrowieję za kilka dni.
+Dialogue: 0,0:22:47.86,0:22:49.81,Default,,0,0,0,,Zrób coś dla mnie.
+Dialogue: 0,0:22:51.47,0:22:54.43,Default,,0,0,0,,Zanieś to Azmalowi.
+Dialogue: 0,0:22:54.43,0:22:55.31,Default,,0,0,0,,Co to?
+Dialogue: 0,0:22:55.90,0:23:00.58,Default,,0,0,0,,Ważny dokument, ktoś musi go dostarczyć.
+Dialogue: 0,0:23:02.98,0:23:03.90,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:23:04.52,0:23:07.95,Default,,0,0,0,,Shou, możesz jej towarzyszyć?
+Dialogue: 0,0:23:08.60,0:23:09.76,Default,,0,0,0,,Oczywiście.
+Dialogue: 0,0:23:10.37,0:23:12.28,Default,,0,0,0,,W takim razie idę.
+Dialogue: 0,0:23:22.17,0:23:29.26,Default,,0,0,0,,Jeśli wszystko dobrze pójdzie\NPatris będzie twoja.
+Dialogue: 0,0:23:37.05,0:23:39.03,Default,,0,0,0,,Shou, uważaj na siebie.
+Dialogue: 0,0:23:44.86,0:23:48.49,Default,,0,0,0,,Kurwa, sam sobie pobrudzić rąk nie chce.
+Dialogue: 0,0:24:05.26,0:24:07.01,Default,,0,0,0,,Zwolnij!
+Dialogue: 0,0:24:07.74,0:24:09.97,Default,,0,0,0,,Nikt do tej pory nie nadążył za mną!
+Dialogue: 0,0:24:10.35,0:24:13.06,Default,,0,0,0,,Twój koń szybko się zmęczy!
+Dialogue: 0,0:24:13.06,0:24:15.52,Default,,0,0,0,,To wtedy pojadę na twoim!
+Dialogue: 0,0:24:18.03,0:24:19.76,Default,,0,0,0,,Zakryj twarz!
+Dialogue: 0,0:24:19.76,0:24:22.77,Default,,0,0,0,,Nie trzeba, gdy jesteśmy sami!
+Dialogue: 0,0:24:23.13,0:24:26.78,Default,,0,0,0,,Nie chcę, żeby komuś\Nprzyszło coś głupiego do łba!
+Dialogue: 0,0:24:27.07,0:24:30.53,Default,,0,0,0,,Tak mówisz kobiecie, że jest piękna?
+Dialogue: 0,0:24:31.11,0:24:33.28,Default,,0,0,0,,Możesz to tak przyjąć.
+Dialogue: 0,0:24:33.64,0:24:36.75,Default,,0,0,0,,Jesteś strasznie wkurzający.
+Dialogue: 0,0:24:42.18,0:24:43.46,Default,,0,0,0,,Co się stało?
+Dialogue: 0,0:24:51.64,0:24:53.43,Default,,0,0,0,,Patris, odsuń się!
+Dialogue: 0,0:25:11.48,0:25:12.45,Default,,0,0,0,,Czemu nas atakujesz?!
+Dialogue: 0,0:25:17.39,0:25:18.66,Default,,0,0,0,,Shou!
+Dialogue: 0,0:25:24.92,0:25:25.75,Default,,0,0,0,,Co?!
+Dialogue: 0,0:25:30.06,0:25:30.76,Default,,0,0,0,,Patris!
+Dialogue: 0,0:25:32.51,0:25:33.68,Default,,0,0,0,,Spieprzaj!
+Dialogue: 0,0:25:33.68,0:25:35.39,Default,,0,0,0,,Shou!
+Dialogue: 0,0:25:36.27,0:25:37.28,Default,,0,0,0,,Wszystko w porządku?
+Dialogue: 0,0:25:44.49,0:25:46.82,Default,,0,0,0,,Kim jesteście? Wynocha!
+Dialogue: 0,0:25:47.22,0:25:49.32,Default,,0,0,0,,Sam mu nie dasz rady!
+Dialogue: 0,0:25:49.72,0:25:50.32,Default,,0,0,0,,Co?
+Dialogue: 0,0:26:07.40,0:26:08.60,Default,,0,0,0,,Diana.
+Dialogue: 0,0:26:17.88,0:26:19.68,Default,,0,0,0,,Kyle, przestań!
+Dialogue: 0,0:26:20.72,0:26:21.68,Default,,0,0,0,,Co?!
+Dialogue: 0,0:26:21.68,0:26:23.19,Default,,0,0,0,,Kyle?!
+Dialogue: 0,0:26:37.47,0:26:39.72,Default,,0,0,0,,Kyle, nie macie szans.
+Dialogue: 0,0:26:39.72,0:26:44.79,Default,,0,0,0,,Uprzedzam, że umiem walczyć.
+Dialogue: 0,0:26:54.82,0:26:59.26,Default,,0,0,0,,Czemu to robisz?
+Dialogue: 0,0:27:02.88,0:27:04.60,Default,,0,0,0,,Odsuń się od niego!
+Dialogue: 0,0:27:11.39,0:27:16.32,Default,,0,0,0,,Zabijesz Patris?\NZabijesz ukochaną?!
+Dialogue: 0,0:27:20.81,0:27:22.45,Default,,0,0,0,,Wiem, że ją kochasz.
+Dialogue: 0,0:27:24.47,0:27:25.52,Default,,0,0,0,,Kyle.
+Dialogue: 0,0:27:32.80,0:27:34.70,Default,,0,0,0,,Zabić ich!
+Dialogue: 0,0:27:44.99,0:27:47.19,Default,,0,0,0,,Zdychaj!
+Dialogue: 0,0:27:47.19,0:27:48.19,Default,,0,0,0,,Nie!
+Dialogue: 0,0:27:54.61,0:27:56.61,Default,,0,0,0,,Moja ręka!
+Dialogue: 0,0:28:11.51,0:28:13.67,Default,,0,0,0,,Macie mnie.
+Dialogue: 0,0:28:27.93,0:28:28.91,Default,,0,0,0,,Panie!
+Dialogue: 0,0:28:28.91,0:28:31.90,Default,,0,0,0,,Proszę, weź mnie!
+Dialogue: 0,0:28:32.38,0:28:34.59,Default,,0,0,0,,Jeszcze nie.
+Dialogue: 0,0:28:35.83,0:28:37.02,Default,,0,0,0,,Kto tam?
+Dialogue: 0,0:28:37.02,0:28:37.90,Default,,0,0,0,,Kyle.
+Dialogue: 0,0:28:39.69,0:28:40.86,Default,,0,0,0,,Wyjdźcie.
+Dialogue: 0,0:28:40.86,0:28:42.88,Default,,0,0,0,,Tak, panie.
+Dialogue: 0,0:28:48.62,0:28:49.67,Default,,0,0,0,,Wejdź.
+Dialogue: 0,0:28:54.24,0:28:55.80,Default,,0,0,0,,Pozbyłeś się Shou?
+Dialogue: 0,0:29:00.27,0:29:06.97,Default,,0,0,0,,Zgodnie z umową Patris\Njest twoja, a jej majątek mój.
+Dialogue: 0,0:29:08.23,0:29:10.73,Default,,0,0,0,,Otrzymasz nagrodę.
+Dialogue: 0,0:29:13.62,0:29:14.86,Default,,0,0,0,,Weź.
+Dialogue: 0,0:29:16.44,0:29:21.19,Default,,0,0,0,,Możesz odejść lub zostać, twój wybór.
+Dialogue: 0,0:29:22.72,0:29:25.66,Default,,0,0,0,,Już nie mogę się doczekać\Naż Diana będzie mi służyć.
+Dialogue: 0,0:29:26.64,0:29:27.80,Default,,0,0,0,,Stul pysk!
+Dialogue: 0,0:29:27.80,0:29:28.95,Default,,0,0,0,,Co?
+Dialogue: 0,0:29:29.27,0:29:30.78,Default,,0,0,0,,Pieprzyć umowę!
+Dialogue: 0,0:29:30.78,0:29:34.71,Default,,0,0,0,,Wynająłeś zabójców,\Nżeby zabili również mnie!
+Dialogue: 0,0:29:35.09,0:29:39.25,Default,,0,0,0,,A co gorsza kazałeś im zabić Patris!
+Dialogue: 0,0:29:41.07,0:29:45.59,Default,,0,0,0,,Chciałeś zrzucić winę za śmierć Patris na Shou.
+Dialogue: 0,0:29:52.92,0:29:55.56,Default,,0,0,0,,Wszystko już wiemy.
+Dialogue: 0,0:29:55.56,0:29:58.83,Default,,0,0,0,,Zawiodłeś mnie.
+Dialogue: 0,0:29:58.83,0:30:00.44,Default,,0,0,0,,Obleśny staruch!
+Dialogue: 0,0:30:00.74,0:30:03.45,Default,,0,0,0,,Zdradziłeś mnie?!
+Dialogue: 0,0:30:11.54,0:30:16.14,Default,,0,0,0,,Oczarowała cię uroda Diany, prawda?
+Dialogue: 0,0:30:17.61,0:30:21.05,Default,,0,0,0,,Nie dziwię ci się.
+Dialogue: 0,0:30:22.16,0:30:24.05,Default,,0,0,0,,Panie.
+Dialogue: 0,0:30:24.05,0:30:30.51,Default,,0,0,0,,Chciałeś mnie zabić, żeby posiąść Dianę.
+Dialogue: 0,0:30:33.76,0:30:39.57,Default,,0,0,0,,Mamy czterech świadków twoich zbrodni,\Nmogę cię zabić na miejscu.
+Dialogue: 0,0:30:47.56,0:30:50.45,Default,,0,0,0,,Czekaj, daruj mi życie!
+Dialogue: 0,0:30:56.29,0:30:59.11,Default,,0,0,0,,Jestem równie winny co on.
+Dialogue: 0,0:31:01.76,0:31:02.85,Default,,0,0,0,,Kyle!
+Dialogue: 0,0:31:09.18,0:31:10.49,Default,,0,0,0,,Kyle.
+Dialogue: 0,0:31:30.78,0:31:33.33,Default,,0,0,0,,Chcesz zostać moją niewolnicą?
+Dialogue: 0,0:31:33.33,0:31:34.46,Default,,0,0,0,,Tak.
+Dialogue: 0,0:31:42.58,0:31:44.53,Default,,0,0,0,,Diana, wybacz.
+Dialogue: 0,0:31:46.09,0:31:50.83,Default,,0,0,0,,Nie mam zamiaru odbierać ci Shou.
+Dialogue: 0,0:31:53.12,0:31:54.26,Default (i),,0,0,0,,Co robi?
+Dialogue: 0,0:31:57.55,0:32:05.55,Default,,0,0,0,,Pani, proszę, pozwól Shou wziąć mnie po tobie.
+Dialogue: 0,0:32:05.55,0:32:08.11,Default,,0,0,0,,Chcę być waszą niewolnicą.
+Dialogue: 0,0:32:09.10,0:32:13.29,Default,,0,0,0,,Czy ty wiesz co mówisz?
+Dialogue: 0,0:32:14.77,0:32:16.37,Default,,0,0,0,,Tak.
+Dialogue: 0,0:32:17.47,0:32:19.25,Default,,0,0,0,,Rozumiem.
+Dialogue: 0,0:32:35.48,0:32:37.52,Default,,0,0,0,,Jesteś piękna.
+Dialogue: 0,0:32:38.75,0:32:40.98,Default,,0,0,0,,Ja...
+Dialogue: 0,0:32:41.53,0:32:45.22,Default,,0,0,0,,Patris, pan na ciebie czeka.
+Dialogue: 0,0:32:46.90,0:32:49.53,Default,,0,0,0,,Chcę być twoją niewolnicą.
+Dialogue: 0,0:32:58.79,0:33:00.53,Default,,0,0,0,,Spełnię twoje życzenie.
+Dialogue: 0,0:33:06.54,0:33:10.63,Default,,0,0,0,,Cieszę się, panie!
+Dialogue: 0,0:33:16.49,0:33:18.02,Default,,0,0,0,,Nie wychodź!
+Dialogue: 0,0:33:21.00,0:33:27.86,Default,,0,0,0,,Nie, swój pierwszy raz\Nprzeżyjesz sama z panem.
+Dialogue: 0,0:33:37.51,0:33:44.67,Default,,0,0,0,,To urocza i dobra dziewczyna,\Njakoś się dogadamy.
+Dialogue: 0,0:33:53.62,0:33:56.43,Default,,0,0,0,,Czemu jest mi tak smutno?
+Dialogue: 0,0:33:59.78,0:34:04.64,Default,,0,0,0,,Jestem okropna! Shou!
+Dialogue: 0,0:34:12.65,0:34:13.78,Default,,0,0,0,,Panie!
+Dialogue: 0,0:34:14.62,0:34:16.74,Default,,0,0,0,,Proszę, pospiesz się!
+Dialogue: 0,0:34:17.31,0:34:20.08,Default,,0,0,0,,Jesteś bardzo nieprzyzwoita.
+Dialogue: 0,0:34:36.42,0:34:37.88,Default,,0,0,0,,I niegrzeczna.
+Dialogue: 0,0:34:38.68,0:34:42.27,Default,,0,0,0,,Panie, weź mnie.
+Dialogue: 0,0:34:46.39,0:34:47.90,Default,,0,0,0,,O tak!
+Dialogue: 0,0:34:48.29,0:34:52.62,Default,,0,0,0,,- Panie, jeszcze!\N- Co za wymagająca niewolnica.
+Dialogue: 0,0:34:52.62,0:34:58.95,Default,,0,0,0,,Przepraszam, ale już nie wytrzymuję!
+Dialogue: 0,0:35:03.07,0:35:09.75,Default,,0,0,0,,Panie, weź mnie, dłużej tego nie zniosę!
+Dialogue: 0,0:35:10.25,0:35:12.38,Default,,0,0,0,,Kto tu jest w końcu panem?
+Dialogue: 0,0:35:12.96,0:35:14.09,Default,,0,0,0,,No weź!
+Dialogue: 0,0:35:15.68,0:35:18.04,Default,,0,0,0,,Panie, szybciej.
+Dialogue: 0,0:35:24.05,0:35:26.96,Default,,0,0,0,,Jestem szczęśliwa.
+Dialogue: 0,0:35:26.96,0:35:30.83,Default,,0,0,0,,Jesteś mocno podniecona jak na pierwszy raz.
+Dialogue: 0,0:35:30.83,0:35:35.67,Default,,0,0,0,,Niedawno powiedziałeś,\Nże byłabym dobrą niewolnicą.
+Dialogue: 0,0:35:35.67,0:35:37.32,Default,,0,0,0,,Faktycznie.
+Dialogue: 0,0:35:37.61,0:35:42.29,Default,,0,0,0,,Więc wytrenuj swoją nieprzyzwoitą niewolnicę.
+Dialogue: 0,0:35:51.18,0:35:54.38,Default,,0,0,0,,Panie, cudownie mi!
+Dialogue: 0,0:35:58.88,0:36:01.55,Default,,0,0,0,,Nie wytrzymam!
+Dialogue: 0,0:36:03.76,0:36:08.69,Default,,0,0,0,,Zaraz dojdę! Proszę!
+Dialogue: 0,0:36:37.44,0:36:39.13,Default,,0,0,0,,Przyprowadź Kyla.
+Dialogue: 0,0:36:40.09,0:36:42.00,Default,,0,0,0,,Pewnie jest w tamtej karczmie.
+Dialogue: 0,0:36:43.31,0:36:44.24,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:36:59.47,0:37:00.73,Default,,0,0,0,,Panie Kyle.
+Dialogue: 0,0:37:04.07,0:37:05.29,Default,,0,0,0,,To ty.
+Dialogue: 0,0:37:06.66,0:37:08.86,Default,,0,0,0,,Przyszłaś się pośmiać?
+Dialogue: 0,0:37:08.86,0:37:10.79,Default,,0,0,0,,Mój pan chce cię widzieć.
+Dialogue: 0,0:37:25.47,0:37:27.27,Default,,0,0,0,,Ty skurwysynie!
+Dialogue: 0,0:37:27.27,0:37:29.69,Default,,0,0,0,,Mam dla ciebie propozycję.
+Dialogue: 0,0:37:30.90,0:37:36.90,Default,,0,0,0,,Chcę kontynuować swoją podróż,\Nale dwie niewolnice to za wiele.
+Dialogue: 0,0:37:37.67,0:37:41.07,Default,,0,0,0,,Chcę żebyś jedną kupił.
+Dialogue: 0,0:37:46.03,0:37:47.41,Default,,0,0,0,,Przestań żartować.
+Dialogue: 0,0:37:48.25,0:37:49.68,Default,,0,0,0,,Mówię poważnie.
+Dialogue: 0,0:37:54.51,0:37:58.42,Default,,0,0,0,,Moja rodzina handluje\Nniewolnikami od pięciu pokoleń.
+Dialogue: 0,0:38:00.96,0:38:03.14,Default,,0,0,0,,Ale ja nie chciałem takiego życia.
+Dialogue: 0,0:38:05.64,0:38:09.36,Default,,0,0,0,,Rozum podpowiada mi, żebym kupił Dianę.
+Dialogue: 0,0:38:13.31,0:38:16.10,Default,,0,0,0,,Ale serce już nie.
+Dialogue: 0,0:38:16.10,0:38:19.86,Default,,0,0,0,,Diana zbytnio dostosowała się do ciebie.
+Dialogue: 0,0:38:20.44,0:38:23.94,Default,,0,0,0,,Nie wytrenowałbym jej dla siebie.
+Dialogue: 0,0:38:23.94,0:38:24.97,Default,,0,0,0,,A poza tym...
+Dialogue: 0,0:38:24.97,0:38:25.78,Default,,0,0,0,,Tak?
+Dialogue: 0,0:38:26.26,0:38:29.83,Default,,0,0,0,,Ma w sobie zbyt dużo dumy jak na niewolnicę.
+Dialogue: 0,0:38:30.42,0:38:38.67,Default,,0,0,0,,Prędzej by się zabiła niż zmieniła\Nwłaściciela, a tego bym nie chciał.
+Dialogue: 0,0:38:39.84,0:38:41.13,Default,,0,0,0,,Więc?
+Dialogue: 0,0:38:45.69,0:38:47.47,Default,,0,0,0,,Kupię Patris.
+Dialogue: 0,0:38:49.97,0:38:54.69,Default,,0,0,0,,Tak, biorę ją. Ile chcesz?
+Dialogue: 0,0:38:57.07,0:38:58.69,Default,,0,0,0,,Dobra.
+Dialogue: 0,0:39:01.23,0:39:03.70,Default,,0,0,0,,Co powiesz na miedziaka?
+Dialogue: 0,0:39:04.25,0:39:06.07,Default,,0,0,0,,Ile?!
+Dialogue: 0,0:39:09.14,0:39:10.74,Default,,0,0,0,,Za drogo?
+Dialogue: 0,0:39:11.54,0:39:14.04,Default,,0,0,0,,Nie żartuj, biorę!
+Dialogue: 0,0:39:14.82,0:39:17.63,Default,,0,0,0,,Jeszcze zmienisz zdanie.
+Dialogue: 0,0:39:20.86,0:39:26.57,Default,,0,0,0,,Pieniądze otrzymałem, dziewka jest twoja.
+Dialogue: 0,0:39:29.85,0:39:34.07,Default,,0,0,0,,Chcesz być taka jak Diana?
+Dialogue: 0,0:39:37.52,0:39:43.03,Default,,0,0,0,,Chcesz czerpać przyjemność,\Ngdy bierze cię mężczyzna?
+Dialogue: 0,0:39:43.69,0:39:45.26,Default,,0,0,0,,Panie.
+Dialogue: 0,0:39:49.78,0:39:53.73,Default,,0,0,0,,Panie, weź mnie!
+Dialogue: 0,0:39:53.73,0:39:54.69,Default,,0,0,0,,Patris!
+Dialogue: 0,0:39:54.69,0:39:55.96,Default,,0,0,0,,Panie!
+Dialogue: 0,0:39:56.43,0:39:58.91,Default,,0,0,0,,Kocham cię od tak dawna.
+Dialogue: 0,0:39:58.91,0:40:04.13,Default,,0,0,0,,Robiłem wszystko, żebyś mnie nie znienawidziła.
+Dialogue: 0,0:40:04.58,0:40:08.70,Default,,0,0,0,,Czekałam na ten dzień.
+Dialogue: 0,0:40:10.21,0:40:11.62,Default,,0,0,0,,Panie.
+Dialogue: 0,0:40:14.16,0:40:17.54,Default,,0,0,0,,Na zawsze będę twoją niewolnicą.
+Dialogue: 0,0:40:20.33,0:40:24.65,Default,,0,0,0,,Prezent dla dziewki.
+Dialogue: 0,0:40:25.43,0:40:26.47,Default,,0,0,0,,Co?
+Dialogue: 0,0:40:27.53,0:40:31.00,Default,,0,0,0,,Niech ją nosi.
+Dialogue: 0,0:40:31.00,0:40:35.79,Default,,0,0,0,,Nie będzie już taka zarozumiała,\Ngdy będzie pamiętać za ile ją sprzedano.
+Dialogue: 0,0:40:37.79,0:40:39.59,Default,,0,0,0,,Dobry pomysł.
+Dialogue: 0,0:40:39.59,0:40:44.25,Default,,0,0,0,,Zrobię jej naszyjnik z tą monetą w środku.
+Dialogue: 0,0:40:45.66,0:40:49.94,Default,,0,0,0,,A jeśli Patris zechce wydam\Ncałą jej fortunę na niego.
+Dialogue: 0,0:40:51.55,0:40:55.35,Default,,0,0,0,,Kyle, niewolnicy nie mogę posiadać majątków.
+Dialogue: 0,0:40:56.19,0:40:59.85,Default,,0,0,0,,Jeszcze nie założyłem jej obroży.
+Dialogue: 0,0:41:01.56,0:41:04.61,Default,,0,0,0,,Szczwany lis.
+Dialogue: 0,0:41:06.14,0:41:12.18,Default,,0,0,0,,Jeśli wyjdzie za Kyla będąc wolna\Nmoże odziedziczyć spadek rodziców.
+Dialogue: 0,0:41:12.90,0:41:18.97,Default,,0,0,0,,Dlatego nie chce jej zakładać obroży, prawda?
+Dialogue: 0,0:41:19.87,0:41:25.50,Default,,0,0,0,,To prawda, ale gdy nikt nie będzie patrzył...
+Dialogue: 0,0:41:26.13,0:41:27.38,Default,,0,0,0,,Jaki przebiegły.
+Dialogue: 0,0:41:28.02,0:41:30.38,Default,,0,0,0,,Dziękuję.
+Dialogue: 0,0:41:34.34,0:41:36.85,Default,,0,0,0,,Tobie także dziękuję.
+Dialogue: 0,0:41:38.14,0:41:44.12,Default,,0,0,0,,Diana, Patris będzie teraz przechodzić\Ntrening, nie przeszkadzajmy jej.
+Dialogue: 0,0:41:44.12,0:41:47.27,Default,,0,0,0,,I mówi to ktoś kto ją sprzedał.
+Dialogue: 0,0:41:50.76,0:41:52.27,Default,,0,0,0,,Panie.
+Dialogue: 0,0:41:52.85,0:41:53.75,Default,,0,0,0,,Tak?
+Dialogue: 0,0:41:53.75,0:41:57.37,Default,,0,0,0,,Na kim trenowałeś krępowanie?
+Dialogue: 0,0:41:58.49,0:42:00.42,Default,,0,0,0,,Na pewno nie na mnie.
+Dialogue: 0,0:42:01.91,0:42:04.50,Default,,0,0,0,,12 lat to sporo czasu\Ni można się wiele nauczyć.
+Dialogue: 0,0:42:06.67,0:42:09.38,Default,,0,0,0,,Nie dla mnie!
+Dialogue: 0,0:42:10.07,0:42:14.81,Default,,0,0,0,,Faktycznie, wtedy byłaś dziewicą.
+Dialogue: 0,0:42:14.81,0:42:17.35,Default,,0,0,0,,Widać było po twoich reakcjach.
+Dialogue: 0,0:42:21.31,0:42:24.02,Default,,0,0,0,,Spać mi się chce.
+Dialogue: 0,0:42:24.75,0:42:29.03,Default,,0,0,0,,Ty też nie spałaś, nie?\NChcesz spać ze mną?
+Dialogue: 0,0:42:29.51,0:42:31.78,Default,,0,0,0,,Naprawdę idziesz spać?
+Dialogue: 0,0:42:32.70,0:42:34.56,Default,,0,0,0,,O ile mi pozwolisz.
+Dialogue: 0,0:42:34.56,0:42:37.32,Default,,0,0,0,,To nie było fair, panie!

@@ -1,0 +1,365 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build423  Oct 18 2015  14:48:58
+Title: Kainote Ass File
+ScriptType: v4.00+
+Collisions: Normal
+Scroll Position: 0
+Active Line: 0
+Video Zoom Percent: 1
+PlayDepth: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Podstawowy
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FF6EFF,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.3,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,55,&H00FF6EFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H0000DC97,&H00626262,&H00003829,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: ED Rom 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00454545,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,8,20,20,10,1
+Style: ED Kan,Franklin Gothic Medium,25,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,57,1
+Style: ED Kan 2,Franklin Gothic Medium,25,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,8,20,20,57,1
+Style: ED Pl,Franklin Gothic Medium,28,&H0000DC97,&H00626262,&H00003829,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,10,1
+Style: ED Pl 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00454545,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:12.57,0:02:18.53,Grupa,,0,0,0,,{\be1\fad(1606,0)}Nyan
+Dialogue: 0,0:02:12.57,0:02:18.53,Anime,,0,0,0,,{\be2\move(424,-250,424,31,0,3301)\fs140\t(0,3301,\fs55)\bord6\3c&HFF6EFF&\shad3\4c&HC973CA&}Iyashite\hAgerun\hSaiyuuki
+Dialogue: 0,0:02:12.57,0:02:18.53,Anime,,0,0,0,,{\be1\move(424,-250,424,31,0,3301)\fs140\t(0,3301,\fs55)}Iyashite\hAgerun\hSaiyuuki
+Dialogue: 0,0:00:35.18,0:00:37.48,Default,,0,0,0,,{\be1}Już tak późno?!
+Dialogue: 0,0:00:50.96,0:00:51.99,Default,,0,0,0,,{\be1}Gotowa!
+Dialogue: 0,0:00:52.41,0:00:54.66,Default (i),,0,0,0,,{\be1}Nazywam się Arisugawa Mayuko.
+Dialogue: 0,0:00:54.66,0:00:59.61,Default (i),,0,0,0,,{\be1}Niedawno postanowiłam nie dać się\Nwięcej wykorzystywać jak jakąś maszynkę.
+Dialogue: 0,0:00:59.61,0:01:02.74,Default (i),,0,0,0,,{\be1}Aż mi szkoda prawdziwych maszyn.
+Dialogue: 0,0:01:02.74,0:01:05.50,Default,,0,0,0,,{\be1}Przepraszam za spóźnienie!
+Dialogue: 0,0:01:06.15,0:01:07.82,Default,,0,0,0,,{\be1}Cześć, Mayu.
+Dialogue: 0,0:01:07.82,0:01:11.47,Default,,0,0,0,,{\be1}Co tak późno?!\NJuż zaczęłyśmy sprzątać!
+Dialogue: 0,0:01:12.15,0:01:15.47,Default (i),,0,0,0,,{\be1}To są moje cudowne przyjaciółki.
+Dialogue: 0,0:01:15.47,0:01:19.73,Default (i),,0,0,0,,{\be1}Ta elegancka i mądra\Ndziewczyna to Moriyama Izumi.
+Dialogue: 0,0:01:19.73,0:01:23.58,Default (i),,0,0,0,,{\be1}Natomiast ta wesoła\Ni lubiąca podjadać to Hano Usagi.
+Dialogue: 0,0:01:24.98,0:01:33.99,Default (i),,0,0,0,,{\be1}We trójkę tworzymy drużynę naprawiającą zepsute\Ni wyrzucone maszyny dzięki mocy tajemniczych naszyjników.
+Dialogue: 0,0:01:34.68,0:01:36.57,Default (i),,0,0,0,,{\be1}Cudowna praca, nie?
+Dialogue: 0,0:01:38.35,0:01:43.43,Default (i),,0,0,0,,{\be1}No i jeszcze ten Tsutomi.
+Dialogue: 0,0:01:44.96,0:01:47.50,Default (i),,0,0,0,,{\be1}Przez przypadek odkrył nasz sekret.
+Dialogue: 0,0:01:52.56,0:01:53.55,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:01:57.76,0:02:01.71,Default (i),,0,0,0,,{\be1}Ale i z nim sobie poradziłyśmy\Ni teraz ciężko pracujemy!
+Dialogue: 0,0:02:02.52,0:02:06.52,Default (i),,0,0,0,,{\be1}Co dzisiaj będziemy naprawiać?
+Dialogue: 0,0:02:08.84,0:02:10.90,Default,,0,0,0,,{\be1}Witamy!
+Dialogue: 0,0:03:32.86,0:03:34.25,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:04:31.22,0:04:34.50,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:04:46.77,0:04:49.48,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:05:02.45,0:05:07.92,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:05:24.13,0:05:27.71,Default (i),,0,0,0,,{\be1}Tym razem podróżujemy przez jedwabny szlak.
+Dialogue: 0,0:05:27.71,0:05:32.98,Default (i),,0,0,0,,{\be1}Ale niezależnie od sytuacji naprawimy wszystko.
+Dialogue: 0,0:05:33.51,0:05:36.98,Default,,0,0,0,,{\be1}Gorąco, zróbmy przerwę!
+Dialogue: 0,0:05:36.98,0:05:41.56,Default,,0,0,0,,{\be1}Zamknij się, przecież jedziesz na koniu.
+Dialogue: 0,0:05:41.56,0:05:44.24,Default,,0,0,0,,{\be1}Jakoś nie czuję ulgi.
+Dialogue: 0,0:05:44.24,0:05:51.46,Default,,0,0,0,,{\be1}Boli mnie dupa, plecy,\Na do tego jestem spragniony i głodny.
+Dialogue: 0,0:05:51.46,0:05:54.46,Default,,0,0,0,,{\be1}To przez Mayu, bo się spóźnia!
+Dialogue: 0,0:05:56.96,0:05:59.11,Default,,0,0,0,,{\be1}Ja też jestem głodna.
+Dialogue: 0,0:05:59.11,0:06:03.85,Default,,0,0,0,,{\be1}W sumie to coś długo schodzą się jej zakupy.
+Dialogue: 0,0:06:03.85,0:06:06.87,Default,,0,0,0,,{\be1}Wytrzymaj jeszcze trochę,\Nniedługo dojdziemy do miasta.
+Dialogue: 0,0:06:10.28,0:06:13.48,Default,,0,0,0,,{\be1}Mam dość, dalej nie idę!
+Dialogue: 0,0:06:13.48,0:06:16.44,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:06:16.44,0:06:19.69,Default,,0,0,0,,{\be1}Izumi, jestem głodna!
+Dialogue: 0,0:06:19.69,0:06:26.70,Default,,0,0,0,,{\be1}Tylko Mayu może latać na chmurce,\Nwięc pewnie gdzieś się obija!
+Dialogue: 0,0:06:34.14,0:06:36.68,Default,,0,0,0,,{\be1}Pewnie ci ciężko, ale postaraj się.
+Dialogue: 0,0:06:36.68,0:06:39.55,Default,,0,0,0,,{\be1}Spoko, to w końcu koń.
+Dialogue: 0,0:06:40.46,0:06:42.55,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:06:42.55,0:06:44.76,Default,,0,0,0,,{\be1}Naprzód!
+Dialogue: 0,0:06:48.26,0:06:53.27,Default,,0,0,0,,{\be1}Kpisz sobie z nas?!\NPrzerobimy cię na pasztet!
+Dialogue: 0,0:07:04.80,0:07:07.30,Default,,0,0,0,,{\be1}Co ty odwalasz?!
+Dialogue: 0,0:07:20.55,0:07:24.06,Default,,0,0,0,,{\be1}To było szybkie, już widać miasto!
+Dialogue: 0,0:07:24.06,0:07:27.05,Default,,0,0,0,,{\be1}Trzeba było zrobić tak od razu.
+Dialogue: 0,0:08:08.58,0:08:10.10,Default,,0,0,0,,{\be1}Wygląda nieźle!
+Dialogue: 0,0:08:14.10,0:08:18.82,Default,,0,0,0,,{\be1}Zapraszamy ponownie.\NNastępnym razem zrobię coś specjalnego.
+Dialogue: 0,0:08:18.82,0:08:22.09,Default,,0,0,0,,{\be1}W takim razie przyjdę jutro.
+Dialogue: 0,0:08:23.65,0:08:25.61,Default,,0,0,0,,{\be1}Dziękujemy.
+Dialogue: 0,0:08:40.43,0:08:43.63,Default,,0,0,0,,{\be1}- Gdzie idziesz?\N- Może do ubikacji?
+Dialogue: 0,0:08:49.71,0:08:51.26,Default,,0,0,0,,{\be1}Witam.
+Dialogue: 0,0:08:52.91,0:08:55.92,Default,,0,0,0,,{\be1}Zapraszam do Nyan Nyan Spa.
+Dialogue: 0,0:08:55.92,0:08:57.27,Default,,0,0,0,,{\be1}Spa?
+Dialogue: 0,0:08:57.27,0:08:59.25,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:08:59.25,0:09:04.52,Default,,0,0,0,,{\be1}Może odpoczniesz po podróży\Nu boku naszych dziewczyn?
+Dialogue: 0,0:09:08.63,0:09:13.24,Default,,0,0,0,,{\be1}Czemu nie, czasem trzeba się odprężyć.
+Dialogue: 0,0:09:13.85,0:09:16.29,Default,,0,0,0,,{\be1}Wy też idziecie?
+Dialogue: 0,0:09:16.29,0:09:18.97,Default,,0,0,0,,{\be1}W takim razie prowadź pan.
+Dialogue: 0,0:09:18.97,0:09:21.04,Default,,0,0,0,,{\be1}Zapraszam.
+Dialogue: 0,0:09:45.13,0:09:46.86,Default,,0,0,0,,{\be1}Wybrałeś już?
+Dialogue: 0,0:09:47.97,0:09:49.40,Default,,0,0,0,,{\be1}Biorę ją!
+Dialogue: 0,0:09:50.81,0:09:57.41,Default,,0,0,0,,{\be1}Dobrze, dziękuję.\NZaczekaj w pokoju.
+Dialogue: 0,0:10:03.62,0:10:06.92,Default,,0,0,0,,{\be1}Kurka, spóźnię się.
+Dialogue: 0,0:10:12.89,0:10:16.13,Default,,0,0,0,,{\be1}Musiałam polecieć do domu,\Nbo już nie wytrzymywałam.
+Dialogue: 0,0:10:16.13,0:10:17.68,Default,,0,0,0,,{\be1}Zjem tylko jedną.
+Dialogue: 0,0:10:19.68,0:10:25.91,Default,,0,0,0,,{\be1}Dziwne, powinni gdzieś tu być.
+Dialogue: 0,0:10:25.91,0:10:29.19,Default,,0,0,0,,{\be1}A nawet kupiłam im bułki z mięsem.
+Dialogue: 0,0:10:29.19,0:10:31.45,Default,,0,0,0,,{\be1}Sama zjem wszystkie!
+Dialogue: 0,0:10:35.58,0:10:38.39,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:10:44.29,0:10:46.99,Default,,0,0,0,,{\be1}Przepraszam! Ja...
+Dialogue: 0,0:10:47.66,0:10:51.92,Default,,0,0,0,,{\be1}Nic nie szkodzi, na razie użyj samego języka.
+Dialogue: 0,0:10:52.47,0:10:54.01,Default,,0,0,0,,{\be1}O tak?
+Dialogue: 0,0:11:02.34,0:11:03.64,Default,,0,0,0,,{\be1}Tak jest dobrze?
+Dialogue: 0,0:11:03.64,0:11:07.23,Default,,0,0,0,,{\be1}O tak, o to chodziło.
+Dialogue: 0,0:11:14.69,0:11:15.91,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:13:10.34,0:13:12.52,Default,,0,0,0,,{\be1}Nigdy nie byłam w takim spa.
+Dialogue: 0,0:13:13.58,0:13:16.71,Default,,0,0,0,,{\be1}Zdejmę ci majteczki.
+Dialogue: 0,0:13:29.75,0:13:31.63,Default,,0,0,0,,{\be1}Tak jest dobrze?
+Dialogue: 0,0:13:33.96,0:13:37.71,Default,,0,0,0,,{\be1}Podnieś wyżej tyłeczek.
+Dialogue: 0,0:13:40.30,0:13:42.22,Default,,0,0,0,,{\be1}Wstydzę się!
+Dialogue: 0,0:13:42.22,0:13:44.04,Default,,0,0,0,,{\be1}Bardzo dobrze!
+Dialogue: 0,0:13:44.04,0:13:47.76,Default,,0,0,0,,{\be1}A teraz otwórz cipkę palcami.
+Dialogue: 0,0:13:48.41,0:13:50.48,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:14:18.07,0:14:21.14,Default,,0,0,0,,{\be1}Podnieca cię to?
+Dialogue: 0,0:14:37.94,0:14:42.67,Default,,0,0,0,,{\be1}Dobrze ci? Jesteś w niebie?
+Dialogue: 0,0:14:42.67,0:14:43.87,Default,,0,0,0,,{\be1}Żarcik.
+Dialogue: 0,0:14:44.78,0:14:50.07,Default,,0,0,0,,{\be1}Nie dobrze, Lily.\NMusisz wyraźniej pokazywać jak ci jest.
+Dialogue: 0,0:14:51.46,0:14:52.20,Default,,0,0,0,,{\be1}Choćby tak.
+Dialogue: 0,0:14:52.68,0:14:57.96,Default,,0,0,0,,{\be1}Ale to ja miałam dogadzać tobie.
+Dialogue: 0,0:14:57.96,0:15:01.96,Default,,0,0,0,,{\be1}Pozwól, że cię obsłużę.
+Dialogue: 0,0:15:24.33,0:15:27.57,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:15:27.57,0:15:30.16,Default,,0,0,0,,{\be1}Musiałem dotrzeć do nieba.
+Dialogue: 0,0:15:36.25,0:15:38.13,Default,,0,0,0,,{\be1}Może tam są?
+Dialogue: 0,0:15:44.63,0:15:48.34,Default,,0,0,0,,{\be1}To teraz jeszcze ich odszukać.
+Dialogue: 0,0:15:52.77,0:15:57.06,Default,,0,0,0,,{\be1}Lily, daj chwilę odpocząć!
+Dialogue: 0,0:16:00.87,0:16:03.11,Default,,0,0,0,,{\be1}Prawie doszedłem.
+Dialogue: 0,0:16:03.11,0:16:05.82,Default,,0,0,0,,{\be1}Czas na drugą dziurkę.
+Dialogue: 0,0:16:07.50,0:16:09.32,Default,,0,0,0,,{\be1}Tam nie możesz!
+Dialogue: 0,0:16:09.32,0:16:12.83,Default,,0,0,0,,{\be1}Spoko, będę delikatny.
+Dialogue: 0,0:16:20.33,0:16:22.34,Default,,0,0,0,,{\be1}Nie w tyłek!
+Dialogue: 0,0:16:34.51,0:16:35.60,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:16:39.15,0:16:40.73,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:16:40.73,0:16:43.19,Default,,0,0,0,,{\be1}Nie martw się!
+Dialogue: 0,0:16:48.53,0:16:50.74,Default,,0,0,0,,{\be1}Zepsujesz mnie!
+Dialogue: 0,0:17:10.11,0:17:13.19,Default,,0,0,0,,{\be1}Co im się nagle stało?
+Dialogue: 0,0:17:19.14,0:17:21.02,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:17:34.66,0:17:37.12,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:17:38.47,0:17:40.67,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:17:52.38,0:17:53.49,Default,,0,0,0,,{\be1}Tutaj!
+Dialogue: 0,0:17:59.03,0:18:04.15,Default,,0,0,0,,{\be1}O nie, zsikam się!
+Dialogue: 0,0:18:15.87,0:18:19.87,Default,,0,0,0,,{\be1}Dzisiaj mam to w usługach.
+Dialogue: 0,0:18:20.76,0:18:21.83,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:24.67,0:18:26.53,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:51.33,0:18:53.36,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:18:53.83,0:18:57.15,Default,,0,0,0,,{\be1}Mogli chociaż dać wodę koniowi.
+Dialogue: 0,0:18:57.15,0:19:00.49,Default,,0,0,0,,{\be1}Zaharują biedaczysko na śmierć.
+Dialogue: 0,0:19:03.64,0:19:06.46,Default,,0,0,0,,{\be1}Mówił, że są w pokoju 202.
+Dialogue: 0,0:19:06.46,0:19:08.21,Default,,0,0,0,,{\be1}To tutaj.
+Dialogue: 0,0:19:10.64,0:19:14.22,Default,,0,0,0,,{\be1}Panie, jestem.
+Dialogue: 0,0:19:16.24,0:19:18.10,Default,,0,0,0,,{\be1}To nie tutaj.
+Dialogue: 0,0:19:18.10,0:19:19.97,Default,,0,0,0,,{\be1}Pomóż!
+Dialogue: 0,0:19:20.48,0:19:21.97,Default,,0,0,0,,{\be1}Mnichu!
+Dialogue: 0,0:19:25.74,0:19:26.98,Default,,0,0,0,,{\be1}Ożeż ty!
+Dialogue: 0,0:19:30.08,0:19:31.44,Default,,0,0,0,,{\be1}Gotuj się!
+Dialogue: 0,0:19:32.08,0:19:36.95,Default,,0,0,0,,{\be1}Witamy, życzy sobie pani kurs C?
+Dialogue: 0,0:19:57.01,0:20:02.43,Default,,0,0,0,,{\be1}Pozwól, że cię zadowolę.
+Dialogue: 0,0:20:04.58,0:20:05.89,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:20:21.62,0:20:24.62,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:20:48.03,0:20:49.15,Default,,0,0,0,,{\be1}Teraz!
+Dialogue: 0,0:21:04.96,0:21:07.66,Default,,0,0,0,,{\be1}To android!
+Dialogue: 0,0:21:11.58,0:21:12.67,Default,,0,0,0,,{\be1}Izumi?!
+Dialogue: 0,0:21:14.48,0:21:16.17,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:21:26.06,0:21:27.18,Default,,0,0,0,,{\be1}Mayu!
+Dialogue: 0,0:21:27.71,0:21:29.16,Default,,0,0,0,,{\be1}Przeszkodziłam?
+Dialogue: 0,0:21:31.41,0:21:32.71,Default,,0,0,0,,{\be1}Rośnij!
+Dialogue: 0,0:21:51.83,0:21:56.88,Default,,0,0,0,,{\be1}Pozwól, że cię zadowolę.
+Dialogue: 0,0:21:56.88,0:21:59.38,Default,,0,0,0,,{\be1}Mają skopany program?
+Dialogue: 0,0:21:59.80,0:22:02.66,Default,,0,0,0,,{\be1}Muszę ją zatrzymać bez niszczenia jej.
+Dialogue: 0,0:22:07.61,0:22:10.39,Default,,0,0,0,,{\be1}Ciekawe czy wszystko z nią w porządku.
+Dialogue: 0,0:23:02.40,0:23:03.36,Default,,0,0,0,,{\be1}Stój!
+Dialogue: 0,0:23:04.51,0:23:05.73,Default,,0,0,0,,{\be1}Sorki.
+Dialogue: 0,0:23:18.67,0:23:20.67,Default,,0,0,0,,{\be1}No stój!
+Dialogue: 0,0:23:23.82,0:23:26.58,Default,,0,0,0,,{\be1}Proszę, przestań.
+Dialogue: 0,0:23:28.39,0:23:29.60,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:39.57,0:23:43.69,Default,,0,0,0,,{\be1}Proszę się nie ruszać.
+Dialogue: 0,0:23:44.74,0:23:46.20,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:24:00.17,0:24:04.42,Default,,0,0,0,,{\be1}Mayu, czy one są...
+Dialogue: 0,0:24:04.42,0:24:06.68,Default,,0,0,0,,{\be1}Tak, to androidy.
+Dialogue: 0,0:24:07.33,0:24:10.40,Default,,0,0,0,,{\be1}Nikt o nie nie dbał.
+Dialogue: 0,0:24:10.40,0:24:15.06,Default,,0,0,0,,{\be1}Tak mi się wydawało, że cierpią.
+Dialogue: 0,0:24:15.68,0:24:18.69,Default,,0,0,0,,{\be1}Czyli teraz nasza kolej?
+Dialogue: 0,0:24:19.16,0:24:21.37,Default,,0,0,0,,{\be1}Ale najpierw...
+Dialogue: 0,0:24:21.37,0:24:23.69,Default,,0,0,0,,{\be1}Cudnie...
+Dialogue: 0,0:24:25.69,0:24:28.75,Default,,0,0,0,,{\be1}Usagi! Usagi, wstawaj!
+Dialogue: 0,0:24:28.75,0:24:30.95,Default,,0,0,0,,{\be1}Mamy robotę.
+Dialogue: 0,0:24:30.95,0:24:33.95,Default,,0,0,0,,{\be1}Nie budzi się.
+Dialogue: 0,0:24:35.29,0:24:36.96,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:24:37.66,0:24:38.46,Default,,0,0,0,,{\be1}Masz.
+Dialogue: 0,0:24:47.97,0:24:50.44,Default,,0,0,0,,{\be1}Mamy robotę.
+Dialogue: 0,0:25:50.81,0:25:51.95,Default,,0,0,0,,{\be1}Co to?!
+Dialogue: 0,0:26:15.52,0:26:19.53,Default,,0,0,0,,{\be1}Musiało być wam ciężko,\Nale teraz jesteście bezpieczne.
+Dialogue: 0,0:26:19.53,0:26:24.48,Default,,0,0,0,,{\be1}Czas żebyśmy naprawiły was.
+Dialogue: 0,0:27:31.62,0:27:33.93,Default,,0,0,0,,{\be1}Będzie ci jeszcze przyjemniej.
+Dialogue: 0,0:27:50.32,0:27:52.07,Default,,0,0,0,,{\be1}Ale duży!
+Dialogue: 0,0:28:23.95,0:28:25.27,Default,,0,0,0,,{\be1}To jeszcze nie koniec.
+Dialogue: 0,0:28:29.76,0:28:32.77,Default,,0,0,0,,{\be1}Gotowe skończyć?
+Dialogue: 0,0:29:34.29,0:29:36.26,Default,,0,0,0,,{\be1}Są piękne.
+Dialogue: 0,0:29:36.26,0:29:39.62,Default,,0,0,0,,{\be1}Teraz będą dobrze działać.
+Dialogue: 0,0:29:49.52,0:29:52.67,Default,,0,0,0,,{\be1}Najmocniej przepraszam.
+Dialogue: 0,0:29:52.67,0:29:56.53,Default,,0,0,0,,{\be1}Postaram się, żeby to się nigdy nie powtórzyło.
+Dialogue: 0,0:29:56.53,0:30:00.24,Default,,0,0,0,,{\be1}Wierzymy, może pan się już nie kłaniać.
+Dialogue: 0,0:30:00.24,0:30:06.49,Default,,0,0,0,,{\be1}Zapamiętaj sobie,\Nże android też człowiek.
+Dialogue: 0,0:30:06.49,0:30:10.25,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:30:10.25,0:30:14.75,Default,,0,0,0,,{\be1}A wy dbajcie o siebie.
+Dialogue: 0,0:30:14.75,0:30:18.76,Default,,0,0,0,,{\be1}Tak jak my pracujcie z całych\Nsił by być profesjonalistkami.
+Dialogue: 0,0:30:18.76,0:30:20.00,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:30:21.90,0:30:25.26,Default,,0,0,0,,{\be1}Do zobaczeni!\NPrzyjdziemy jeszcze kiedyś!
+Dialogue: 0,0:30:27.76,0:30:29.36,Default,,0,0,0,,{\be1}Idziemy, Usagi.
+Dialogue: 0,0:30:33.79,0:30:36.10,Default,,0,0,0,,{\be1}Czekajcie!
+Dialogue: 0,0:31:04.48,0:31:06.80,Default,,0,0,0,,{\be1}Co tu się stało?
+Dialogue: 0,0:31:06.80,0:31:14.46,Default,,0,0,0,,{\be1}Izumi, jesteś? Usagi!
+Dialogue: 0,0:31:14.46,0:31:17.27,Default,,0,0,0,,{\be1}Gdzie one poszły?
+Dialogue: 0,0:31:35.75,0:31:37.72,Default,,0,0,0,,{\be1}A gdzie jest mnich?
+Dialogue: 0,0:31:37.72,0:31:40.39,Default,,0,0,0,,{\be1}Zapomniałyśmy o nim.
+Dialogue: 0,0:31:40.39,0:31:43.75,Default,,0,0,0,,{\be1}I co z tego?\NNikt nie będzie jęczał.
+Dialogue: 0,0:31:43.75,0:31:45.74,Default,,0,0,0,,{\be1}Masz rację.
+Dialogue: 0,0:31:47.92,0:31:53.42,Default,,0,0,0,,{\be1}Tak w ogóle to czemu\Nopuszczamy miasto tuż przed nocą?
+Dialogue: 0,0:31:53.42,0:31:55.35,Default,,0,0,0,,{\be1}Nie lubię spać na dworze.
+Dialogue: 0,0:31:55.35,0:31:57.23,Default,,0,0,0,,{\be1}Faktycznie.
+Dialogue: 0,0:31:57.23,0:32:00.56,Default,,0,0,0,,{\be1}Ja tam mogę spać na chmurce.
+Dialogue: 0,0:32:00.56,0:32:01.92,Default,,0,0,0,,{\be1}To nie fair!
+Dialogue: 0,0:32:01.92,0:32:05.99,Default,,0,0,0,,{\be1}Nie martw się,\Njutro dojdziemy do następnego miasta.
+Dialogue: 0,0:32:05.99,0:32:07.41,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:32:07.41,0:32:09.91,Default,,0,0,0,,{\be1}- Tak.\N- O nie!
+Dialogue: 0,0:32:17.87,0:32:20.88,Default,,0,0,0,,{\be1}Jestem w niebie!
+Dialogue: 0,0:32:34.57,0:32:38.55,Default,,0,0,0,,{\be1}Cholera, dochodzę!
+Dialogue: 0,0:32:43.01,0:32:44.86,Default,,0,0,0,,{\be1}Trafiłem do nieba.
+Dialogue: 0,0:33:14.14,0:33:14.29,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(104,10,404,10)}Namida nagashitemo sukoshi zutsu omoide ni naru wa
+Dialogue: 0,0:33:25.67,0:33:25.82,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(744,10,444,10)}Hito gomi kaki wakete mise no mae itsu ka hi ga melody
+Dialogue: 0,0:33:37.94,0:33:38.09,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(104,10,404,10)}Annaini kimi ga suki datte utai machi ni hibiiteru
+Dialogue: 0,0:33:48.51,0:33:48.66,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(744,10,444,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:33:54.56,0:33:54.71,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(104,10,404,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:00.59,0:34:00.74,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(744,10,444,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:06.27,0:34:06.42,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(104,10,404,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:34:32.41,0:34:32.56,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(744,10,444,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:38.47,0:34:38.62,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(104,10,404,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:44.47,0:34:44.62,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(744,10,444,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:50.18,0:34:50.33,ED Rom 2,,0,0,0,,{\be1\fad(150,0)\move(104,10,404,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:33:14.14,0:33:14.29,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H00DC97&\3c&H003829&\move(104,10,404,10)}Namida nagashitemo sukoshi zutsu omoide ni naru wa
+Dialogue: 0,0:33:25.67,0:33:25.82,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H0049DC&\3c&H001438&\move(744,10,444,10)}Hito gomi kaki wakete mise no mae itsu ka hi ga melody
+Dialogue: 0,0:33:37.94,0:33:38.09,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&HDCB200&\3c&H383800&\move(104,10,404,10)}Annaini kimi ga suki datte utai machi ni hibiiteru
+Dialogue: 0,0:33:48.51,0:33:48.66,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&HDC00C6&\3c&H380038&\move(744,10,444,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:33:54.56,0:33:54.71,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H57DC00&\3c&H143800&\move(104,10,404,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:00.59,0:34:00.74,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H0000DC&\3c&H000038&\move(744,10,444,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:06.27,0:34:06.42,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H00D9DC&\3c&H003836&\move(104,10,404,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:34:32.41,0:34:32.56,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&HDC1D00&\3c&H380006&\move(744,10,444,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:38.47,0:34:38.62,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H00DC2B&\3c&H003808&\move(104,10,404,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:44.47,0:34:44.62,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&H7C00DC&\3c&H1F0038&\move(744,10,444,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:50.18,0:34:50.33,ED Rom,,0,0,0,,{\be1\fad(150,0)\1c&HDC008E&\3c&H380021&\move(104,10,404,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:33:14.29,0:33:25.56,ED Rom 2,,0,0,0,,{\be1\move(404,10,444,10)}Namida nagashitemo sukoshi zutsu omoide ni naru wa
+Dialogue: 0,0:33:25.82,0:33:37.34,ED Rom 2,,0,0,0,,{\be1\move(444,10,404,10)}Hito gomi kaki wakete mise no mae itsu ka hi ga melody
+Dialogue: 0,0:33:38.09,0:33:48.44,ED Rom 2,,0,0,0,,{\be1\move(404,10,444,10)}Annaini kimi ga suki datte utai machi ni hibiiteru
+Dialogue: 0,0:33:48.66,0:33:53.95,ED Rom 2,,0,0,0,,{\be1\move(444,10,404,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:33:54.71,0:34:00.06,ED Rom 2,,0,0,0,,{\be1\move(404,10,444,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:00.74,0:34:05.98,ED Rom 2,,0,0,0,,{\be1\move(444,10,404,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:06.42,0:34:10.40,ED Rom 2,,0,0,0,,{\be1\move(404,10,444,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:34:32.56,0:34:37.86,ED Rom 2,,0,0,0,,{\be1\move(444,10,404,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:38.62,0:34:44.04,ED Rom 2,,0,0,0,,{\be1\move(404,10,444,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:44.62,0:34:49.86,ED Rom 2,,0,0,0,,{\be1\move(444,10,404,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:50.33,0:34:56.75,ED Rom 2,,0,0,0,,{\be1\move(404,10,444,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:33:14.29,0:33:25.56,ED Rom,,0,0,0,,{\be1\1c&H00DC97&\3c&H003829&\move(404,10,444,10)}Namida nagashitemo sukoshi zutsu omoide ni naru wa
+Dialogue: 0,0:33:25.82,0:33:37.34,ED Rom,,0,0,0,,{\be1\1c&H0049DC&\3c&H001438&\move(444,10,404,10)}Hito gomi kaki wakete mise no mae itsu ka hi ga melody
+Dialogue: 0,0:33:38.09,0:33:48.44,ED Rom,,0,0,0,,{\be1\1c&HDCB200&\3c&H383800&\move(404,10,444,10)}Annaini kimi ga suki datte utai machi ni hibiiteru
+Dialogue: 0,0:33:48.66,0:33:53.95,ED Rom,,0,0,0,,{\be1\1c&HDC00C6&\3c&H380038&\move(444,10,404,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:33:54.71,0:34:00.06,ED Rom,,0,0,0,,{\be1\1c&H57DC00&\3c&H143800&\move(404,10,444,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:00.74,0:34:05.98,ED Rom,,0,0,0,,{\be1\1c&H0000DC&\3c&H000038&\move(444,10,404,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:06.42,0:34:10.40,ED Rom,,0,0,0,,{\be1\1c&H00D9DC&\3c&H003836&\move(404,10,444,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:34:32.56,0:34:37.86,ED Rom,,0,0,0,,{\be1\1c&HDC1D00&\3c&H380006&\move(444,10,404,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:38.62,0:34:44.04,ED Rom,,0,0,0,,{\be1\1c&H00DC2B&\3c&H003808&\move(404,10,444,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:44.62,0:34:49.86,ED Rom,,0,0,0,,{\be1\1c&H7C00DC&\3c&H1F0038&\move(444,10,404,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:50.33,0:34:56.75,ED Rom,,0,0,0,,{\be1\1c&HDC008E&\3c&H380021&\move(404,10,444,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:33:25.55,0:33:25.70,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(444,10,744,10)}Namida nagashitemo sukoshi zutsu omoide ni naru wa
+Dialogue: 0,0:33:37.35,0:33:37.50,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(404,10,144,10)}Hito gomi kaki wakete mise no mae itsu ka hi ga melody
+Dialogue: 0,0:33:48.45,0:33:48.60,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(444,10,744,10)}Annaini kimi ga suki datte utai machi ni hibiiteru
+Dialogue: 0,0:33:53.95,0:33:54.10,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(404,10,144,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:00.04,0:34:00.19,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(444,10,744,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:05.97,0:34:06.12,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(404,10,144,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:10.39,0:34:10.54,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(444,10,744,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:34:37.87,0:34:38.02,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(404,10,144,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:44.05,0:34:44.20,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(444,10,744,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:49.84,0:34:49.99,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(404,10,144,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:56.77,0:34:56.92,ED Rom 2,,0,0,0,,{\be1\fad(0,150)\move(444,10,744,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:33:25.55,0:33:25.70,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H00DC97&\3c&H003829&\move(444,10,744,10)}Namida nagashitemo sukoshi zutsu omoide ni naru wa
+Dialogue: 0,0:33:37.35,0:33:37.50,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H0049DC&\3c&H001438&\move(404,10,144,10)}Hito gomi kaki wakete mise no mae itsu ka hi ga melody
+Dialogue: 0,0:33:48.45,0:33:48.60,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&HDCB200&\3c&H383800&\move(444,10,744,10)}Annaini kimi ga suki datte utai machi ni hibiiteru
+Dialogue: 0,0:33:53.95,0:33:54.10,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&HDC00C6&\3c&H380038&\move(404,10,144,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:00.04,0:34:00.19,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H57DC00&\3c&H143800&\move(444,10,744,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:05.97,0:34:06.12,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H0000DC&\3c&H000038&\move(404,10,144,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:10.39,0:34:10.54,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H00D9DC&\3c&H003836&\move(444,10,744,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:34:37.87,0:34:38.02,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&HDC1D00&\3c&H380006&\move(404,10,144,10)}Kimi no melody ga mune no oku afureteru
+Dialogue: 0,0:34:44.05,0:34:44.20,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H00DC2B&\3c&H003808&\move(444,10,744,10)}Tori no dasenai kako ni mata ima mo shibararete iru
+Dialogue: 0,0:34:49.84,0:34:49.99,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&H7C00DC&\3c&H1F0038&\move(404,10,144,10)}Dareka ja samiishisa umerarenai yo
+Dialogue: 0,0:34:56.77,0:34:56.92,ED Rom,,0,0,0,,{\be1\fad(0,150)\1c&HDC008E&\3c&H380021&\move(444,10,744,10)}Ano hi mitai ni kuchizusandeyo
+Dialogue: 0,0:33:14.14,0:33:14.29,ED Pl 2,,0,0,0,,{\be1\move(744,470,444,470)}Nawet smutne chwile staną się ważnymi wspomnieniami.
+Dialogue: 0,0:33:25.67,0:33:25.82,ED Pl 2,,0,0,0,,{\be1\move(144,470,404,470)}Zatrzymuję się przed sklepem by posłuchać melodii.
+Dialogue: 0,0:33:37.94,0:33:38.09,ED Pl 2,,0,0,0,,{\be1\move(744,470,444,470)}Śpiewam z całych sił jak mocno kocham cię.
+Dialogue: 0,0:33:48.51,0:33:48.66,ED Pl 2,,0,0,0,,{\be1\move(144,470,404,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:33:54.56,0:33:54.71,ED Pl 2,,0,0,0,,{\be1\move(744,470,444,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:00.59,0:34:00.74,ED Pl 2,,0,0,0,,{\be1\move(144,470,404,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:06.27,0:34:06.42,ED Pl 2,,0,0,0,,{\be1\move(744,470,444,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:34:32.41,0:34:32.56,ED Pl 2,,0,0,0,,{\be1\move(144,470,404,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:38.47,0:34:38.62,ED Pl 2,,0,0,0,,{\be1\move(744,470,444,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:44.47,0:34:44.62,ED Pl 2,,0,0,0,,{\be1\move(144,470,404,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:50.18,0:34:50.33,ED Pl 2,,0,0,0,,{\be1\move(744,470,444,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:33:14.14,0:33:14.29,ED Pl,,0,0,0,,{\be1\1c&H00DC97&\3c&H003829&\move(744,470,444,470)}Nawet smutne chwile staną się ważnymi wspomnieniami.
+Dialogue: 0,0:33:25.67,0:33:25.82,ED Pl,,0,0,0,,{\be1\1c&H0049DC&\3c&H001438&\move(144,470,404,470)}Zatrzymuję się przed sklepem by posłuchać melodii.
+Dialogue: 0,0:33:37.94,0:33:38.09,ED Pl,,0,0,0,,{\be1\1c&HDCB200&\3c&H383800&\move(744,470,444,470)}Śpiewam z całych sił jak mocno kocham cię.
+Dialogue: 0,0:33:48.51,0:33:48.66,ED Pl,,0,0,0,,{\be1\1c&HDC00C6&\3c&H380038&\move(144,470,404,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:33:54.56,0:33:54.71,ED Pl,,0,0,0,,{\be1\1c&H57DC00&\3c&H143800&\move(744,470,444,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:00.59,0:34:00.74,ED Pl,,0,0,0,,{\be1\1c&H0000DC&\3c&H000038&\move(144,470,404,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:06.27,0:34:06.42,ED Pl,,0,0,0,,{\be1\1c&H00D9DC&\3c&H003836&\move(744,470,444,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:34:32.41,0:34:32.56,ED Pl,,0,0,0,,{\be1\1c&HDC1D00&\3c&H380006&\move(144,470,404,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:38.47,0:34:38.62,ED Pl,,0,0,0,,{\be1\1c&H00DC2B&\3c&H003808&\move(744,470,444,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:44.47,0:34:44.62,ED Pl,,0,0,0,,{\be1\1c&H7C00DC&\3c&H1F0038&\move(144,470,404,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:50.18,0:34:50.33,ED Pl,,0,0,0,,{\be1\1c&HDC008E&\3c&H380021&\move(744,470,444,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:33:14.29,0:33:25.56,ED Pl 2,,0,0,0,,{\be1\move(444,470,404,470)}Nawet smutne chwile staną się ważnymi wspomnieniami.
+Dialogue: 0,0:33:25.82,0:33:37.34,ED Pl 2,,0,0,0,,{\be1\move(404,470,444,470)}Zatrzymuję się przed sklepem by posłuchać melodii.
+Dialogue: 0,0:33:38.09,0:33:48.44,ED Pl 2,,0,0,0,,{\be1\move(444,470,404,470)}Śpiewam z całych sił jak mocno kocham cię.
+Dialogue: 0,0:33:48.66,0:33:53.95,ED Pl 2,,0,0,0,,{\be1\move(404,470,444,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:33:54.71,0:34:00.06,ED Pl 2,,0,0,0,,{\be1\move(444,470,404,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:00.74,0:34:05.98,ED Pl 2,,0,0,0,,{\be1\move(404,470,444,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:06.42,0:34:10.40,ED Pl 2,,0,0,0,,{\be1\move(444,470,404,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:34:32.56,0:34:37.86,ED Pl 2,,0,0,0,,{\be1\move(404,470,444,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:38.62,0:34:44.04,ED Pl 2,,0,0,0,,{\be1\move(444,470,404,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:44.62,0:34:49.86,ED Pl 2,,0,0,0,,{\be1\move(404,470,444,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:50.33,0:34:56.75,ED Pl 2,,0,0,0,,{\be1\move(444,470,404,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:33:14.29,0:33:25.56,ED Pl,,0,0,0,,{\be1\1c&H00DC97&\3c&H003829&\move(444,470,404,470)}Nawet smutne chwile staną się ważnymi wspomnieniami.
+Dialogue: 0,0:33:25.82,0:33:37.34,ED Pl,,0,0,0,,{\be1\1c&H0049DC&\3c&H001438&\move(404,470,444,470)}Zatrzymuję się przed sklepem by posłuchać melodii.
+Dialogue: 0,0:33:38.09,0:33:48.44,ED Pl,,0,0,0,,{\be1\1c&HDCB200&\3c&H383800&\move(444,470,404,470)}Śpiewam z całych sił jak mocno kocham cię.
+Dialogue: 0,0:33:48.66,0:33:53.95,ED Pl,,0,0,0,,{\be1\1c&HDC00C6&\3c&H380038&\move(404,470,444,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:33:54.71,0:34:00.06,ED Pl,,0,0,0,,{\be1\1c&H57DC00&\3c&H143800&\move(444,470,404,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:00.74,0:34:05.98,ED Pl,,0,0,0,,{\be1\1c&H0000DC&\3c&H000038&\move(404,470,444,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:06.42,0:34:10.40,ED Pl,,0,0,0,,{\be1\1c&H00D9DC&\3c&H003836&\move(444,470,404,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:34:32.56,0:34:37.86,ED Pl,,0,0,0,,{\be1\1c&HDC1D00&\3c&H380006&\move(404,470,444,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:38.62,0:34:44.04,ED Pl,,0,0,0,,{\be1\1c&H00DC2B&\3c&H003808&\move(444,470,404,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:44.62,0:34:49.86,ED Pl,,0,0,0,,{\be1\1c&H7C00DC&\3c&H1F0038&\move(404,470,444,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:50.33,0:34:56.75,ED Pl,,0,0,0,,{\be1\1c&HDC008E&\3c&H380021&\move(444,470,404,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:33:25.55,0:33:25.70,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(404,470,144,470)}Nawet smutne chwile staną się ważnymi wspomnieniami.
+Dialogue: 0,0:33:37.35,0:33:37.50,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(444,470,744,470)}Zatrzymuję się przed sklepem by posłuchać melodii.
+Dialogue: 0,0:33:48.45,0:33:48.60,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(404,470,144,470)}Śpiewam z całych sił jak mocno kocham cię.
+Dialogue: 0,0:33:53.95,0:33:54.10,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(444,470,744,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:00.04,0:34:00.19,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(404,470,144,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:05.97,0:34:06.12,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(444,470,744,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:10.39,0:34:10.54,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(404,470,144,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:34:37.87,0:34:38.02,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(444,470,744,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:44.05,0:34:44.20,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(404,470,144,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:49.84,0:34:49.99,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(444,470,744,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:56.77,0:34:56.92,ED Pl 2,,0,0,0,,{\be1\fad(0,150)\move(404,470,144,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:33:25.55,0:33:25.70,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H00DC97&\3c&H003829&\move(404,470,144,470)}Nawet smutne chwile staną się ważnymi wspomnieniami.
+Dialogue: 0,0:33:37.35,0:33:37.50,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H0049DC&\3c&H001438&\move(444,470,744,470)}Zatrzymuję się przed sklepem by posłuchać melodii.
+Dialogue: 0,0:33:48.45,0:33:48.60,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&HDCB200&\3c&H383800&\move(404,470,144,470)}Śpiewam z całych sił jak mocno kocham cię.
+Dialogue: 0,0:33:53.95,0:33:54.10,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&HDC00C6&\3c&H380038&\move(444,470,744,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:00.04,0:34:00.19,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H57DC00&\3c&H143800&\move(404,470,144,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:05.97,0:34:06.12,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H0000DC&\3c&H000038&\move(444,470,744,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:10.39,0:34:10.54,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H00D9DC&\3c&H003836&\move(404,470,144,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.
+Dialogue: 0,0:34:37.87,0:34:38.02,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&HDC1D00&\3c&H380006&\move(444,470,744,470)}Twoja melodia rozbrzmiewa w sercu moim.
+Dialogue: 0,0:34:44.05,0:34:44.20,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H00DC2B&\3c&H003808&\move(404,470,144,470)}Nie potrafię zostawić przeszłości za sobą.
+Dialogue: 0,0:34:49.84,0:34:49.99,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&H7C00DC&\3c&H1F0038&\move(444,470,744,470)}Tylko ty możesz ulżyć mojej samotności.
+Dialogue: 0,0:34:56.77,0:34:56.92,ED Pl,,0,0,0,,{\be1\fad(0,150)\1c&HDC008E&\3c&H380021&\move(404,470,144,470)}Zaśpiewajmy raz jeszcze jak za dawnych lat.

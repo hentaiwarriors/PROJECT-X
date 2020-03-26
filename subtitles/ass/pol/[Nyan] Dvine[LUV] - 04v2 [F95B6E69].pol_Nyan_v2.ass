@@ -1,0 +1,237 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.4 Build510  Jun 25 2016  15:43:05
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 720
+PlayResY: 540
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 36166
+Last Style Storage: [720x540]
+Video File: [KH]_Dvine_Luv_04[16B8882D].mkv
+Collisions: Normal
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,33.8,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,22,1
+Style: Default (i),Franklin Gothic Medium,33.8,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,22,1
+Style: Default (top),Franklin Gothic Medium,29.2,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,11,1
+Style: Grupa,Franklin Gothic Medium,18,&H00241506,&H000000FF,&H00FBF7F9,&HFF000000,-1,-1,0,0,100,100,0,0,1,2,0,7,11,10,11,1
+Style: Anime,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,40,&H00000000,&H000000FF,&H00FBF7F9,&H00000000,0,0,0,0,100,100,0,0,3,300,0,2,20,20,250,1
+Style: Znak,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:05:06.41,0:05:13.12,Grupa,,0,0,0,,{\fad(939,0)\t(1686,2521,\shad1\4a&H50&)}Nyan
+Dialogue: 0,0:05:13.12,0:05:17.55,Tytul,,0,0,0,,jaskinia{\fscy80}4:  {\fscy100}dziedzictwo
+Dialogue: 0,0:01:03.38,0:01:05.09,Default,,0,0,0,,{\be1}Hyde, chcę go.
+Dialogue: 0,0:01:05.87,0:01:07.34,Default,,0,0,0,,{\be1}A co z ranami?
+Dialogue: 0,0:01:07.72,0:01:09.07,Default,,0,0,0,,{\be1}Nic mi nie jest.
+Dialogue: 0,0:01:09.07,0:01:11.76,Default,,0,0,0,,{\be1}Chcę zapomnieć o wszystkim!
+Dialogue: 0,0:01:24.25,0:01:26.36,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:01:26.98,0:01:27.95,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:02:19.47,0:02:21.45,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:02:23.72,0:02:25.11,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:02:44.45,0:02:46.27,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:02:58.66,0:02:59.94,Default,,0,0,0,,{\be1}Hyde!
+Dialogue: 0,0:03:11.94,0:03:12.91,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:03:36.30,0:03:39.91,Default,,0,0,0,,{\be1}Nie! Hyde!
+Dialogue: 0,0:03:41.08,0:03:43.54,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:03:46.88,0:03:49.21,Default,,0,0,0,,{\be1}Już...
+Dialogue: 0,0:03:50.54,0:03:52.20,Default,,0,0,0,,{\be1}Hyde!
+Dialogue: 0,0:04:01.46,0:04:03.14,Default,,0,0,0,,{\be1}Hyde!
+Dialogue: 0,0:04:04.54,0:04:06.23,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:04:07.04,0:04:08.65,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:04:08.65,0:04:10.61,Default,,0,0,0,,{\be1}Ja też.
+Dialogue: 0,0:04:10.93,0:04:12.78,Default,,0,0,0,,{\be1}Hyde, już...
+Dialogue: 0,0:04:44.50,0:04:45.55,Default,,0,0,0,,{\be1}Teres.
+Dialogue: 0,0:04:47.70,0:04:50.02,Default,,0,0,0,,{\be1}Hyde, dziękuję.
+Dialogue: 0,0:05:25.35,0:05:30.26,Default,,0,0,0,,{\be1}Dziękuję. Przepraszam. Żegnaj.
+Dialogue: 0,0:05:46.66,0:06:16.62,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:06:16.62,0:06:18.17,Default,,0,0,0,,{\be1}To nie twoja wina.
+Dialogue: 0,0:06:18.17,0:06:19.15,Default,,0,0,0,,{\be1}Przepraszam...
+Dialogue: 0,0:06:20.16,0:06:24.11,Default,,0,0,0,,{\be1}To trzęsienie ziemi\Nmoże mieć związek z Yuurą.
+Dialogue: 0,0:07:05.03,0:07:08.57,Default (i),,0,0,0,,{\be1}Yuura, dokąd poszłaś?!
+Dialogue: 0,0:08:19.50,0:08:24.58,Default (i),,0,0,0,,{\be1}Cholera, musi się tu dziać coś niedobrego.
+Dialogue: 0,0:08:24.58,0:08:26.59,Default (i),,0,0,0,,{\be1}To musi być wina Slana!
+Dialogue: 0,0:08:26.59,0:08:28.60,Default (i),,0,0,0,,{\be1}Zapewne nie wróży to niczego dobrego.
+Dialogue: 0,0:08:28.60,0:08:31.16,Default (i),,0,0,0,,{\be1}Yuura, dokąd poszłaś?
+Dialogue: 0,0:08:31.41,0:08:34.62,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:08:47.14,0:08:48.47,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:09:13.07,0:09:18.48,Default,,0,0,0,,{\be1}Hyde, jednak przyszedłeś.
+Dialogue: 0,0:09:19.78,0:09:22.74,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:09:22.74,0:09:24.38,Default,,0,0,0,,{\be1}Gdzie jesteś?!
+Dialogue: 0,0:09:24.60,0:09:26.19,Default,,0,0,0,,{\be1}Wysłuchaj mnie.
+Dialogue: 0,0:09:26.19,0:09:30.34,Default,,0,0,0,,{\be1}Spróbuję na chwilę zatrzymać Castora.
+Dialogue: 0,0:09:30.34,0:09:33.30,Default,,0,0,0,,{\be1}Proszę, zabij go wtedy!
+Dialogue: 0,0:09:33.72,0:09:36.22,Default (i),,0,0,0,,{\be1}Castora? Ma na myśli tego potwora?
+Dialogue: 0,0:09:38.51,0:09:40.88,Default,,0,0,0,,{\be1}A co się stanie z tobą?!
+Dialogue: 0,0:09:40.88,0:09:43.61,Default,,0,0,0,,{\be1}Nie mamy czasu.
+Dialogue: 0,0:09:48.37,0:09:52.66,Default,,0,0,0,,{\be1}To jest to, co wszyscy szukali.
+Dialogue: 0,0:09:54.01,0:09:56.77,Default,,0,0,0,,{\be1}To dziedzictwo starego świata.
+Dialogue: 0,0:09:56.77,0:09:59.37,Default,,0,0,0,,{\be1}To coś?
+Dialogue: 0,0:09:59.77,0:10:01.79,Default,,0,0,0,,{\be1}Jest jednym z rasy Yuury.
+Dialogue: 0,0:10:02.13,0:10:04.71,Default,,0,0,0,,{\be1}Yuura i ten gigant?
+Dialogue: 0,0:10:06.62,0:10:13.88,Default,,0,0,0,,{\be1}Nie, żebym wszystko wiedział, ale\Nkrólewska biblioteka zawiera wiele informacji.
+Dialogue: 0,0:10:14.48,0:10:16.64,Default,,0,0,0,,{\be1}Więc jesteś z zamku?
+Dialogue: 0,0:10:19.08,0:10:24.40,Default,,0,0,0,,{\be1}Moc duchów jest podzielona\Nna giganta, amulet i Yuurę.
+Dialogue: 0,0:10:28.36,0:10:34.63,Default,,0,0,0,,{\be1}Może być ostatnim gigantem,\Na może jest ich więcej.
+Dialogue: 0,0:10:34.63,0:10:37.53,Default,,0,0,0,,{\be1}Wiemy tylko, że zniszczyli antyczny świat.
+Dialogue: 0,0:10:37.53,0:10:42.29,Default,,0,0,0,,{\be1}A teraz mógłby zniszczyć także nasz.
+Dialogue: 0,0:10:43.36,0:10:45.25,Default,,0,0,0,,{\be1}Czekaj, a co z Yuurą?
+Dialogue: 0,0:10:45.97,0:10:51.17,Default,,0,0,0,,{\be1}Jeśli mamy Yuurę i amulet, możemy go\Npowstrzymać, nawet jeżeli nie możemy go zabić.
+Dialogue: 0,0:10:51.76,0:10:56.09,Default,,0,0,0,,{\be1}Więc to Slane go przebudził.
+Dialogue: 0,0:10:56.57,0:10:58.06,Default,,0,0,0,,{\be1}To pewnie tylko część całej historii.
+Dialogue: 0,0:10:58.06,0:11:00.27,Default,,0,0,0,,{\be1}Yuura przebudziła się jako pierwsza dzięki tobie.
+Dialogue: 0,0:11:01.13,0:11:02.73,Default (i),,0,0,0,,{\be1}Więc to moja wina?
+Dialogue: 0,0:11:08.99,0:11:11.86,Default,,0,0,0,,{\be1}Zaczął otwierać oczy, musimy działać!
+Dialogue: 0,0:11:16.40,0:11:17.37,Default,,0,0,0,,{\be1}Co robimy?!
+Dialogue: 0,0:11:21.76,0:11:24.12,Default,,0,0,0,,{\be1}Mnie się nie pytaj.
+Dialogue: 0,0:11:24.12,0:11:26.27,Default,,0,0,0,,{\be1}Wiem tylko, że potrzebujesz amuletu.
+Dialogue: 0,0:11:27.48,0:11:29.68,Default,,0,0,0,,{\be1}Jeśli ty nie możesz, ja to zrobię.
+Dialogue: 0,0:11:29.68,0:11:30.84,Default,,0,0,0,,{\be1}Daj mi amulet.
+Dialogue: 0,0:11:37.72,0:11:38.80,Default,,0,0,0,,{\be1}Yuura.
+Dialogue: 0,0:11:38.80,0:11:39.91,Default,,0,0,0,,{\be1}Hyde!
+Dialogue: 0,0:11:40.64,0:11:45.60,Default,,0,0,0,,{\be1}Hyde, na chwilę zatrzymam Castora.
+Dialogue: 0,0:11:45.60,0:11:47.35,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:11:48.50,0:11:50.75,Default (i),,0,0,0,,{\be1}Nie da się zrobić niczego innego?
+Dialogue: 0,0:11:50.75,0:11:52.31,Default (i),,0,0,0,,{\be1}Muszę go zabić?
+Dialogue: 0,0:13:05.66,0:13:07.48,Default,,0,0,0,,{\be1}Musimy uciekać.
+Dialogue: 0,0:13:07.80,0:13:10.85,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:13:11.73,0:13:15.36,Default,,0,0,0,,{\be1}Gdzie jesteś?!
+Dialogue: 0,0:13:24.99,0:13:26.41,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:13:29.07,0:13:30.29,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:13:30.29,0:13:31.71,Default,,0,0,0,,{\be1}Hyde.
+Dialogue: 0,0:13:31.71,0:13:35.20,Default,,0,0,0,,{\be1}Wydawało mi się, że ktoś mnie woła.
+Dialogue: 0,0:13:35.20,0:13:39.64,Default,,0,0,0,,{\be1}Chciałam sprawdzić kto,\Ngdy zobaczyłam światło.
+Dialogue: 0,0:13:48.87,0:13:50.48,Default,,0,0,0,,{\be1}Niedobrze, nie działa.
+Dialogue: 0,0:13:55.81,0:13:57.57,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:13:58.65,0:14:00.46,Default,,0,0,0,,{\be1}Moc ducha.
+Dialogue: 0,0:14:00.46,0:14:01.78,Default,,0,0,0,,{\be1}Moc ducha?
+Dialogue: 0,0:14:02.22,0:14:04.76,Default,,0,0,0,,{\be1}Zdestabilizowała się.
+Dialogue: 0,0:14:04.76,0:14:06.07,Default,,0,0,0,,{\be1}W tym tempie...
+Dialogue: 0,0:14:06.85,0:14:07.70,Default,,0,0,0,,{\be1}Yuura?
+Dialogue: 0,0:14:07.70,0:14:10.56,Default,,0,0,0,,{\be1}Hyde, przepraszam.
+Dialogue: 0,0:14:10.56,0:14:12.12,Default,,0,0,0,,{\be1}Ale nie mogę iść z tobą.
+Dialogue: 0,0:14:12.57,0:14:14.08,Default,,0,0,0,,{\be1}O czym ty mówisz?
+Dialogue: 0,0:14:14.08,0:14:21.64,Default,,0,0,0,,{\be1}Duch stał się niestabilny,\Nbo uwolnił się z ciała Castora.
+Dialogue: 0,0:14:21.64,0:14:26.07,Default,,0,0,0,,{\be1}Bez ciała zaczyna szaleć.
+Dialogue: 0,0:14:26.07,0:14:30.18,Default,,0,0,0,,{\be1}Staje się czystą energią,\Njeśli nie ma naczynia.
+Dialogue: 0,0:14:30.18,0:14:35.54,Default,,0,0,0,,{\be1}Niedługo wszystko zostanie zniszczone.
+Dialogue: 0,0:14:35.54,0:14:38.36,Default,,0,0,0,,{\be1}Dlatego właśnie musimy stąd uciekać!
+Dialogue: 0,0:14:38.36,0:14:43.11,Default,,0,0,0,,{\be1}To nic nie da, nawet jeśli uciekniemy z jaskini, miasto Arville...
+Dialogue: 0,0:14:43.46,0:14:46.07,Default,,0,0,0,,{\be1}Ma na myśli, że będziemy mogli pożegnać się z tym światem.
+Dialogue: 0,0:14:48.26,0:14:50.95,Default,,0,0,0,,{\be1}To nie dzieje się naprawdę.
+Dialogue: 0,0:14:50.95,0:14:51.91,Default,,0,0,0,,{\be1}Co musimy zrobić?
+Dialogue: 0,0:14:52.61,0:14:54.96,Default,,0,0,0,,{\be1}Tylko ja mogę go zatrzymać.
+Dialogue: 0,0:14:54.96,0:14:56.88,Default,,0,0,0,,{\be1}Dlaczego właśnie ty?!
+Dialogue: 0,0:14:56.88,0:15:00.88,Default,,0,0,0,,{\be1}Castor i ja jesteśmy jedynymi, którzy mogą go zatrzymać.
+Dialogue: 0,0:15:01.75,0:15:04.27,Default,,0,0,0,,{\be1}Czekaj, to cię zabije!
+Dialogue: 0,0:15:04.27,0:15:08.98,Default,,0,0,0,,{\be1}Jeśli nie zatrzymam ducha,\Nwszystko zostanie zniszczone.
+Dialogue: 0,0:15:10.96,0:15:13.17,Default,,0,0,0,,{\be1}Wszystko na czym mi zależy.
+Dialogue: 0,0:15:18.42,0:15:22.12,Default,,0,0,0,,{\be1}Przepraszam za moje wcześniejsze zachowanie.
+Dialogue: 0,0:15:22.12,0:15:26.88,Default,,0,0,0,,{\be1}Pewnie wiadomość, że nie jesteś\Nczłowiekiem, była dla ciebie szokiem.
+Dialogue: 0,0:15:26.88,0:15:30.45,Default,,0,0,0,,{\be1}Tak, ale już jest dobrze.
+Dialogue: 0,0:15:30.45,0:15:32.95,Default,,0,0,0,,{\be1}Już się uspokoiłam.
+Dialogue: 0,0:15:51.04,0:15:52.24,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:15:53.07,0:15:53.60,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:16:05.42,0:16:07.40,Default,,0,0,0,,{\be1}Yuura, czy...
+Dialogue: 0,0:16:08.07,0:16:09.32,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:16:10.66,0:16:12.28,Default,,0,0,0,,{\be1}Wracają ci wspomnienia?
+Dialogue: 0,0:16:13.92,0:16:15.22,Default,,0,0,0,,{\be1}Owszem.
+Dialogue: 0,0:16:27.08,0:16:29.87,Default,,0,0,0,,{\be1}Ale jestem ci naprawdę wdzięczna.
+Dialogue: 0,0:16:29.87,0:16:31.22,Default,,0,0,0,,{\be1}Mi?
+Dialogue: 0,0:16:31.76,0:16:32.48,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:16:32.48,0:16:34.39,Default,,0,0,0,,{\be1}Chciałam ci podziękować.
+Dialogue: 0,0:16:34.96,0:16:37.05,Default,,0,0,0,,{\be1}To nic takiego.
+Dialogue: 0,0:16:37.06,0:16:44.03,Default,,0,0,0,,{\be1}Ty mnie obudziłeś i uratowałeś\Nprzed tamtym mężczyzną.
+Dialogue: 0,0:16:44.03,0:16:45.96,Default,,0,0,0,,{\be1}To naprawdę nic takiego.
+Dialogue: 0,0:16:45.96,0:16:50.24,Default,,0,0,0,,{\be1}Ratujesz mnie zawsze,\Ngdy myślę, że to już mój koniec.
+Dialogue: 0,0:16:50.24,0:16:51.92,Default,,0,0,0,,{\be1}Naprawdę się cieszę.
+Dialogue: 0,0:16:51.92,0:16:52.89,Default,,0,0,0,,{\be1}Yuura.
+Dialogue: 0,0:16:52.89,0:16:57.79,Default,,0,0,0,,{\be1}Jestem tu tylko dlatego,\Nże mnie uratowałeś.
+Dialogue: 0,0:16:57.79,0:16:59.88,Default,,0,0,0,,{\be1}To wspaniałe uczucie.
+Dialogue: 0,0:16:59.88,0:17:06.49,Default,,0,0,0,,{\be1}Dzięki przeznaczeniu mogłam spotkać ciebie,\NSakurę, panią Shizuki i Marie.
+Dialogue: 0,0:17:06.49,0:17:08.79,Default,,0,0,0,,{\be1}Wszyscy bardzo mi pomogliście.
+Dialogue: 0,0:17:08.79,0:17:14.09,Default,,0,0,0,,{\be1}Byliście dla mnie mili,\Nmimo że byłam dla was obca.
+Dialogue: 0,0:17:14.09,0:17:16.85,Default,,0,0,0,,{\be1}Nie powinnaś się tym przejmować.
+Dialogue: 0,0:17:16.85,0:17:20.64,Default,,0,0,0,,{\be1}Wszyscy chcieli ci pomóc, bo cię lubią.
+Dialogue: 0,0:17:20.64,0:17:22.06,Default,,0,0,0,,{\be1}Oczywiście ja też.
+Dialogue: 0,0:17:22.47,0:17:24.67,Default,,0,0,0,,{\be1}Ja też was lubię.
+Dialogue: 0,0:17:24.67,0:17:27.99,Default,,0,0,0,,{\be1}I to jest najważniejsze.
+Dialogue: 0,0:17:29.00,0:17:32.16,Default,,0,0,0,,{\be1}Bardzo ci dziękuję.
+Dialogue: 0,0:17:34.85,0:17:38.34,Default,,0,0,0,,{\be1}Zrobiłeś dla mnie tak wiele.
+Dialogue: 0,0:17:38.34,0:17:40.08,Default,,0,0,0,,{\be1}Nie wiem, co bym bez ciebie zrobiła.
+Dialogue: 0,0:17:47.05,0:17:49.92,Default,,0,0,0,,{\be1}Chciałabym, żeby ta chwila trwała wiecznie.
+Dialogue: 0,0:18:06.85,0:18:10.06,Default,,0,0,0,,{\be1}Trochę się denerwuję.
+Dialogue: 0,0:18:10.06,0:18:12.96,Default,,0,0,0,,{\be1}Ale to było naprawdę przyjemne.
+Dialogue: 0,0:18:12.96,0:18:16.12,Default,,0,0,0,,{\be1}Nigdy tego nie czułam.
+Dialogue: 0,0:18:18.08,0:18:20.68,Default,,0,0,0,,{\be1}To będzie jeszcze przyjemniejsze.
+Dialogue: 0,0:18:20.68,0:18:21.64,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:18:35.87,0:18:38.56,Default,,0,0,0,,{\be1}Jesteś piękna.
+Dialogue: 0,0:19:35.71,0:19:38.62,Default,,0,0,0,,{\be1}Hyde, nie rozumiem co się dzieje!
+Dialogue: 0,0:19:39.37,0:19:40.57,Default,,0,0,0,,{\be1}To jest...
+Dialogue: 0,0:19:47.67,0:19:50.04,Default,,0,0,0,,{\be1}A teraz dotknij go.
+Dialogue: 0,0:19:51.10,0:19:52.39,Default,,0,0,0,,{\be1}O tak?
+Dialogue: 0,0:19:52.39,0:19:53.46,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:19:53.88,0:19:56.88,Default,,0,0,0,,{\be1}Jest taki twardy i gorący.
+Dialogue: 0,0:19:57.23,0:19:59.64,Default,,0,0,0,,{\be1}Ty też pewnie jesteś gorąca w środku.
+Dialogue: 0,0:20:04.62,0:20:07.18,Default,,0,0,0,,{\be1}Wkładaj go powoli.
+Dialogue: 0,0:20:07.18,0:20:08.15,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:20:12.82,0:20:13.69,Default,,0,0,0,,{\be1}Gorąco.
+Dialogue: 0,0:20:13.69,0:20:15.00,Default,,0,0,0,,{\be1}Bardzo boli?
+Dialogue: 0,0:20:16.18,0:20:17.41,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:20:18.16,0:20:20.83,Default,,0,0,0,,{\be1}Właśnie się połączyliśmy.
+Dialogue: 0,0:20:21.39,0:20:24.57,Default,,0,0,0,,{\be1}Połączyłam się z tobą.
+Dialogue: 0,0:20:25.62,0:20:29.93,Default,,0,0,0,,{\be1}Czuję, jak drży we mnie.
+Dialogue: 0,0:20:29.93,0:20:32.04,Default,,0,0,0,,{\be1}To dlatego, że cię bardzo lubię.
+Dialogue: 0,0:20:33.03,0:20:33.96,Default,,0,0,0,,{\be1}Cieszę się.
+Dialogue: 0,0:20:34.57,0:20:35.38,Default,,0,0,0,,{\be1}Ja też.
+Dialogue: 0,0:20:36.03,0:20:38.75,Default,,0,0,0,,{\be1}Kocham cię.
+Dialogue: 0,0:20:38.75,0:20:41.15,Default,,0,0,0,,{\be1}Ja ciebie też.
+Dialogue: 0,0:20:42.78,0:20:44.08,Default,,0,0,0,,{\be1}To dziwne?
+Dialogue: 0,0:20:45.94,0:20:49.31,Default,,0,0,0,,{\be1}Tylko trochę się wstydzę.
+Dialogue: 0,0:20:51.20,0:20:54.86,Default,,0,0,0,,{\be1}Nie mogę się powstrzymać.
+Dialogue: 0,0:20:54.86,0:20:56.94,Default,,0,0,0,,{\be1}Więc ruszaj się jak ty chcesz.
+Dialogue: 0,0:21:17.10,0:21:18.30,Default,,0,0,0,,{\be1}Przepraszam, zabolało?
+Dialogue: 0,0:21:19.48,0:21:22.71,Default,,0,0,0,,{\be1}Nie, poczułam coś dziwnego.
+Dialogue: 0,0:21:22.71,0:21:27.19,Default,,0,0,0,,{\be1}Gdy zacząłeś się ruszać,\Nzaczęło mnie wszędzie mrowić.
+Dialogue: 0,0:21:27.19,0:21:29.27,Default,,0,0,0,,{\be1}- Podobało ci się to?\N- Tak.
+Dialogue: 0,0:21:29.84,0:21:30.95,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:22:31.58,0:22:33.75,Default,,0,0,0,,{\be1}O nie, dziwnie się czuję!
+Dialogue: 0,0:22:34.41,0:22:36.58,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:22:43.85,0:22:44.92,Default,,0,0,0,,{\be1}Yuura!
+Dialogue: 0,0:22:59.16,0:23:03.28,Default,,0,0,0,,{\be1}Hyde, jest mi bardzo gorąco w brzuchu.
+Dialogue: 0,0:23:04.52,0:23:07.24,Default,,0,0,0,,{\be1}Jestem naprawdę szczęśliwa.
+Dialogue: 0,0:23:27.25,0:23:29.05,Default,,0,0,0,,{\be1}Nie pozwolę ci tego zrobić!
+Dialogue: 0,0:23:31.82,0:23:33.97,Default,,0,0,0,,{\be1}Nie poświęcisz się!
+Dialogue: 0,0:23:35.69,0:23:39.85,Default,,0,0,0,,{\be1}Spotkałam cię, bo byłam w tej jaskini.
+Dialogue: 0,0:23:41.39,0:23:43.73,Default,,0,0,0,,{\be1}Żegnaj, Hyde.
+Dialogue: 0,0:26:39.46,0:26:41.37,Default,,0,0,0,,{\be1}Narka.
+Dialogue: 0,0:26:42.22,0:26:45.51,Default,,0,0,0,,{\be1}Do zobaczenia!
+Dialogue: 0,0:26:53.04,0:26:54.46,Default,,0,0,0,,{\be1}Hyde!
+Dialogue: 0,0:26:54.46,0:26:56.21,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:27:01.98,0:27:05.27,Default,,0,0,0,,{\be1}To nie tak, jak myślisz,\Nto bardzo długa historia!
+Dialogue: 0,0:27:05.27,0:27:06.99,Default,,0,0,0,,{\be1}To naprawdę skomplikowana historia!
+Dialogue: 0,0:27:06.99,0:27:10.91,Default,,0,0,0,,{\be1}Do niczego nie doszło,\Nwięc nie masz się o co złościć!
+Dialogue: 0,0:27:10.91,0:27:12.53,Default,,0,0,0,,{\be1}Naprawdę jestem niewinny!
+Dialogue: 0,0:27:15.50,0:27:17.87,Default,,0,0,0,,{\be1}Dlaczego ja?
+Dialogue: 0,0:27:17.87,0:27:22.15,Default,,0,0,0,,{\be1}Ciągle tylko gdzieś się włóczysz!
+Dialogue: 0,0:27:22.15,0:27:23.70,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:27:24.92,0:27:29.31,Default,,0,0,0,,{\be1}Gdzie idziesz?\NNatychmiast wracaj!
+Dialogue: 0,0:27:29.31,0:27:31.54,Default,,0,0,0,,{\be1}Manati, co słychać?
+Dialogue: 0,0:27:31.54,0:27:32.93,Default,,0,0,0,,{\be1}Narka!
+Dialogue: 0,0:27:33.90,0:27:35.55,Default,,0,0,0,,{\be1}Zatrzymaj się, Hyde!
+Dialogue: 0,0:27:40.85,0:27:43.29,Default,,0,0,0,,{\be1}- Zatrzymaj się!\N- Nie ma mowy!
+Dialogue: 0,0:27:49.31,0:27:51.28,Default,,0,0,0,,{\be1}Hyde!
+Dialogue: 0,0:27:56.06,0:28:00.58,Default,,0,0,0,,{\be1}Cześć wam!\NDobrze wyglądacie!
+Dialogue: 0,0:28:00.58,0:28:02.13,Default,,0,0,0,,{\be1}No to narka!
+Dialogue: 0,0:28:03.56,0:28:07.05,Default,,0,0,0,,{\be1}Zatrzymaj się, próżniaku! Hyde!
+Dialogue: 0,0:28:08.88,0:28:16.92,Default (i),,0,0,0,,{\be1}Zostanę jeszcze trochę w Arville,\Nzanim pójdę szukać następnego skarbu.
+Dialogue: 0,0:28:17.50,0:28:19.89,Default (i),,0,0,0,,{\be1}Pewnie z Sakurą.
+Dialogue: 0,0:28:20.32,0:28:21.92,Default,,0,0,0,,{\be1}Hyde!

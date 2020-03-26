@@ -1,0 +1,286 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Itazura 01
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:33.63,0:00:35.11,Default,,0,0,0,,말도 안돼
+Dialogue: 0,0:00:35.11,0:00:42.80,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:00:42.80,0:00:44.66,Default,,0,0,0,,싫어
+Dialogue: 0,0:00:44.66,0:00:45.29,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:00:45.29,0:00:45.87,Default,,0,0,0,,안돼
+Dialogue: 0,0:00:45.87,0:02:04.46,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:04.46,0:02:14.23,Default,,0,0,0,,PRESENT BY 夜&추억록™(www.krclub.info)\N자막제작 BY R.E.D\N본 자막은 상업적 용도로 사용되어 질수없으며\N싱크&오타 수정을 제외한 2차 가공은 금지합니다.
+Dialogue: 0,0:02:14.23,0:02:15.74,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:15.74,0:02:18.64,Default,,0,0,0,,여름이 되면 늘어나는군요
+Dialogue: 0,0:02:18.64,0:02:21.14,Default,,0,0,0,,당신도 만나신적 있으시겠지요
+Dialogue: 0,0:02:21.14,0:02:23.82,Default,,0,0,0,,뭐에요 그게?
+Dialogue: 0,0:02:23.82,0:02:26.64,Default,,0,0,0,,나까오카씨 이번주 특집은
+Dialogue: 0,0:02:26.64,0:02:28.89,Default,,0,0,0,,예 치한입니다
+Dialogue: 0,0:02:28.89,0:02:30.68,Default,,0,0,0,,치.한
+Dialogue: 0,0:02:30.68,0:02:31.09,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:31.09,0:02:34.71,Default,,0,0,0,,예 예 가끔씩 당해서 열받는다구요
+Dialogue: 0,0:02:34.71,0:02:35.68,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:35.68,0:02:38.27,Default,,0,0,0,,당하는쪽이 미인이라는 증거라고요
+Dialogue: 0,0:02:38.27,0:02:39.78,Default,,0,0,0,,그럴까
+Dialogue: 0,0:02:39.78,0:02:42.27,Default,,0,0,0,,하지만 이번에는 하는 쪽이 아닌
+Dialogue: 0,0:02:42.27,0:02:43.83,Default,,0,0,0,,당하는 쪽
+Dialogue: 0,0:02:43.83,0:02:45.10,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:45.10,0:02:47.44,Default,,0,0,0,,당신같은 여성도 실은
+Dialogue: 0,0:02:47.44,0:02:51.90,Default,,0,0,0,,마음속으로 추행당하고 싶어한다는 설이 있는데요
+Dialogue: 0,0:02:51.90,0:02:52.33,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:52.33,0:02:56.20,Default,,0,0,0,,정말 저를 이야기 재료로 하지 말아주세요
+Dialogue: 0,0:02:56.20,0:02:58.90,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:02:58.90,0:03:01.33,Default,,0,0,0,,추행당하는 여성의 반수이상은
+Dialogue: 0,0:03:01.33,0:03:03.90,Default,,0,0,0,,추행당하는것을 기대하고 있던지
+Dialogue: 0,0:03:03.90,0:03:08.08,Default,,0,0,0,,경우에 따라서는 원하고 있다는 데이터가 있어요
+Dialogue: 0,0:03:08.08,0:03:10.31,Default,,0,0,0,,싫다면 확실히 표현을 하겠지요
+Dialogue: 0,0:03:10.31,0:03:12.21,Default,,0,0,0,,요즘 젊은 사람들은
+Dialogue: 0,0:03:12.21,0:03:13.10,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:03:13.10,0:03:15.91,Default,,0,0,0,,그럼 어떻게 할까
+Dialogue: 0,0:03:15.91,0:03:31.62,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:03:31.62,0:03:32.50,Default,,0,0,0,,좋아
+Dialogue: 0,0:03:32.50,0:03:40.58,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:03:40.58,0:03:44.60,Default,,0,0,0,,즉 만원전차에서 치한을 원하는 여성은
+Dialogue: 0,0:03:44.60,0:03:48.07,Default,,0,0,0,,적지않게 있다는 것입니다
+Dialogue: 0,0:03:48.07,0:03:54.11,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:03:54.11,0:03:57.98,Default,,0,0,0,,저항하지 않는다면 그건 허락한거나 같은거라고요
+Dialogue: 0,0:03:57.98,0:04:31.12,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:04:31.12,0:04:33.11,Default,,0,0,0,,놀라게 하지 말라고
+Dialogue: 0,0:04:33.11,0:04:39.31,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:04:39.31,0:04:41.48,Default,,0,0,0,,또 저 여자가 있군
+Dialogue: 0,0:04:41.48,0:04:42.68,Default,,0,0,0,,뭔가 위험하군
+Dialogue: 0,0:04:42.68,0:04:45.61,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:04:45.61,0:04:47.06,Default,,0,0,0,,위험해
+Dialogue: 0,0:04:47.06,0:04:51.59,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:04:51.59,0:04:53.35,Default,,0,0,0,,기분탓인가
+Dialogue: 0,0:04:53.35,0:05:18.55,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:05:18.55,0:05:19.76,Default,,0,0,0,,싫어
+Dialogue: 0,0:05:19.76,0:05:22.52,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:05:22.52,0:05:23.44,Default,,0,0,0,,뭐야
+Dialogue: 0,0:05:23.44,0:05:45.06,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:05:45.06,0:05:48.02,Default,,0,0,0,,싫어 안돼
+Dialogue: 0,0:05:48.02,0:06:04.74,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:06:04.74,0:06:07.33,Default,,0,0,0,,싫어 누군가
+Dialogue: 0,0:06:07.33,0:06:13.82,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:06:13.82,0:06:16.26,Default,,0,0,0,,싫어 그렇게 당하면
+Dialogue: 0,0:06:16.26,0:06:27.37,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:06:27.37,0:06:31.59,Default,,0,0,0,,애액이 애액이 세니까
+Dialogue: 0,0:06:31.59,0:07:01.77,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:07:01.77,0:07:04.39,Default,,0,0,0,,이제 안돼
+Dialogue: 0,0:07:04.39,0:07:31.54,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:07:31.54,0:07:33.19,Default,,0,0,0,,그저 그런 정도군
+Dialogue: 0,0:07:33.19,0:07:49.25,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:07:49.25,0:07:50.91,Default,,0,0,0,,죄 죄송합니다
+Dialogue: 0,0:07:50.91,0:07:51.40,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:07:51.40,0:07:52.63,Default,,0,0,0,,그때의
+Dialogue: 0,0:07:52.63,0:07:55.26,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:07:55.26,0:07:56.35,Default,,0,0,0,,괜찮아요
+Dialogue: 0,0:07:56.35,0:07:59.39,Default,,0,0,0,,제가 멍하니 서있던게 잘못이니까요
+Dialogue: 0,0:07:59.39,0:08:01.59,Default,,0,0,0,,하지만 제가 부딪쳐서
+Dialogue: 0,0:08:01.59,0:08:04.65,Default,,0,0,0,,아니요 정리는 제가 할테니까
+Dialogue: 0,0:08:04.65,0:08:06.14,Default,,0,0,0,,괜찮습니다
+Dialogue: 0,0:08:06.14,0:08:06.37,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:06.37,0:08:08.07,Default,,0,0,0,,정말로 죄송해요
+Dialogue: 0,0:08:08.07,0:08:09.62,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:09.62,0:08:12.64,Default,,0,0,0,,흥 눈치채지 못할줄이야
+Dialogue: 0,0:08:12.64,0:08:12.94,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:12.94,0:08:15.95,Default,,0,0,0,,정말 식은죽 먹기군
+Dialogue: 0,0:08:15.95,0:08:27.13,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:27.13,0:08:31.00,Default,,0,0,0,,흠 그런가 움직일수 없었다면 어쩔수 없지
+Dialogue: 0,0:08:31.00,0:08:34.39,Default,,0,0,0,,현행범이 아니면 잡아도 소용없는걸
+Dialogue: 0,0:08:34.39,0:08:40.41,Default,,0,0,0,,응 그리고 그 여성분도 가만이 놔둘수 없었고
+Dialogue: 0,0:08:40.41,0:08:40.65,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:40.65,0:08:41.91,Default,,0,0,0,,왜 그래? 사야카
+Dialogue: 0,0:08:41.91,0:08:44.97,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:44.97,0:08:46.43,Default,,0,0,0,,잠깐 화장실 좀
+Dialogue: 0,0:08:46.43,0:08:46.75,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:46.75,0:08:47.62,Default,,0,0,0,,괜찮아?
+Dialogue: 0,0:08:47.62,0:08:48.48,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:48.48,0:08:52.03,Default,,0,0,0,,응 관할은 앞으로 두역남았으니까
+Dialogue: 0,0:08:52.03,0:08:53.33,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:53.33,0:08:55.14,Default,,0,0,0,,그럼 힘내
+Dialogue: 0,0:08:55.14,0:08:55.66,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:08:55.66,0:08:57.06,Default,,0,0,0,,다음에 또
+Dialogue: 0,0:08:57.06,0:09:05.13,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:05.13,0:09:07.04,Default,,0,0,0,,빨리 도착했으면
+Dialogue: 0,0:09:07.04,0:09:20.05,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:20.05,0:09:23.01,Default,,0,0,0,,전역에 갔으면 좋았을걸
+Dialogue: 0,0:09:23.01,0:09:29.41,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:29.41,0:09:31.01,Default,,0,0,0,,시 싫어
+Dialogue: 0,0:09:31.01,0:09:33.06,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:33.06,0:09:34.15,Default,,0,0,0,,정말로
+Dialogue: 0,0:09:34.15,0:09:35.57,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:35.57,0:09:37.08,Default,,0,0,0,,그 남자
+Dialogue: 0,0:09:37.08,0:09:37.89,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:37.89,0:09:40.83,Default,,0,0,0,,뭐야 이런때에
+Dialogue: 0,0:09:40.83,0:09:44.86,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:44.86,0:09:49.12,Default,,0,0,0,,지금 움직이면 오줌이 새어버려
+Dialogue: 0,0:09:49.12,0:09:57.42,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:09:57.42,0:09:58.63,Default,,0,0,0,,말도 안돼
+Dialogue: 0,0:09:58.63,0:10:10.16,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:10:10.16,0:10:15.18,Default,,0,0,0,,앞으로 조금이면 앞으로 조금이면 다음 역이니까
+Dialogue: 0,0:10:15.18,0:10:15.95,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:10:15.95,0:10:17.49,Default,,0,0,0,,그러면
+Dialogue: 0,0:10:17.49,0:10:37.24,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:10:37.24,0:10:42.82,Default,,0,0,0,,참아야해 이런곳에서 싼다면
+Dialogue: 0,0:10:42.82,0:10:54.75,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:10:54.75,0:10:59.38,Default,,0,0,0,,화장실이 아니라면 바로 체포했을텐데
+Dialogue: 0,0:10:59.38,0:11:16.48,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:11:16.48,0:11:17.35,Default,,0,0,0,,말도안돼
+Dialogue: 0,0:11:17.35,0:11:17.74,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:11:17.74,0:11:19.43,Default,,0,0,0,,싫어 싫어
+Dialogue: 0,0:11:19.43,0:11:24.66,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:11:24.66,0:11:27.55,Default,,0,0,0,,안돼 싸버려
+Dialogue: 0,0:11:27.55,0:11:45.62,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:11:45.62,0:11:47.10,Default,,0,0,0,,안돼
+Dialogue: 0,0:11:47.10,0:11:48.51,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:11:48.51,0:11:49.54,Default,,0,0,0,,싸버렸군
+Dialogue: 0,0:11:49.54,0:12:05.27,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:05.27,0:12:08.27,Default,,0,0,0,,예상치 못한 해프닝이군
+Dialogue: 0,0:12:08.27,0:12:09.01,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:09.01,0:12:11.10,Default,,0,0,0,,이걸로 조금은 단념했겠지
+Dialogue: 0,0:12:11.10,0:12:14.13,Default,,0,0,0,,하지만 어쩔수 없군 그 여자
+Dialogue: 0,0:12:14.13,0:12:14.34,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:14.34,0:12:17.20,Default,,0,0,0,,싸게 할줄은 말야
+Dialogue: 0,0:12:17.20,0:12:17.53,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:17.53,0:12:20.39,Default,,0,0,0,,여 감탄했어 형씨
+Dialogue: 0,0:12:20.39,0:12:23.99,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:23.99,0:12:26.50,Default,,0,0,0,,무슨소리지 아저씨
+Dialogue: 0,0:12:26.50,0:12:32.38,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:32.38,0:12:35.39,Default,,0,0,0,,그 아저씨 형사인가
+Dialogue: 0,0:12:35.39,0:12:35.84,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:35.84,0:12:39.35,Default,,0,0,0,,하지만 현장범이 아니라면 말야
+Dialogue: 0,0:12:39.35,0:12:40.16,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:12:40.16,0:12:43.80,Default,,0,0,0,,뭐 조심해서 손해볼건 없지
+Dialogue: 0,0:12:43.80,0:13:06.19,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:13:06.19,0:13:07.81,Default,,0,0,0,,저 아저씨
+Dialogue: 0,0:13:07.81,0:13:08.57,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:13:08.57,0:13:11.20,Default,,0,0,0,,제길 잠복해 있었군
+Dialogue: 0,0:13:11.20,0:13:23.70,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:13:23.70,0:13:25.04,Default,,0,0,0,,저녀석
+Dialogue: 0,0:13:25.04,0:13:41.29,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:13:41.29,0:13:43.31,Default,,0,0,0,,싫어 설마
+Dialogue: 0,0:13:43.31,0:14:27.71,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:14:27.71,0:14:30.54,Default,,0,0,0,,안돼 항문은 약해
+Dialogue: 0,0:14:30.54,0:15:41.36,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:15:41.36,0:15:44.72,Default,,0,0,0,,저 아저씨 해버렸군
+Dialogue: 0,0:15:44.72,0:15:47.94,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:15:47.94,0:15:50.14,Default,,0,0,0,,계속 보고 있었어
+Dialogue: 0,0:15:50.14,0:15:51.45,Default,,0,0,0,,나를 말인가
+Dialogue: 0,0:15:51.45,0:15:51.96,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:15:51.96,0:15:56.02,Default,,0,0,0,,좋은걸 보여줘서 그만 말을 걸어버렸어
+Dialogue: 0,0:15:56.02,0:15:58.65,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:15:58.65,0:16:00.44,Default,,0,0,0,,형씨 긴가?
+Dialogue: 0,0:16:00.44,0:16:02.11,Default,,0,0,0,,길어?
+Dialogue: 0,0:16:02.11,0:16:04.27,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:04.27,0:16:05.61,Default,,0,0,0,,치한말야
+Dialogue: 0,0:16:05.61,0:16:07.18,Default,,0,0,0,,치한경력
+Dialogue: 0,0:16:07.18,0:16:07.50,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:07.50,0:16:08.80,Default,,0,0,0,,관계 없잖아
+Dialogue: 0,0:16:08.80,0:16:10.25,Default,,0,0,0,,아저씨 한테는 말야
+Dialogue: 0,0:16:10.25,0:16:10.70,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:10.70,0:16:15.17,Default,,0,0,0,,이전에는 경비원 아가씨한테 챙피를 줬고 말야
+Dialogue: 0,0:16:15.17,0:16:18.48,Default,,0,0,0,,그여자 역시 그런거였나
+Dialogue: 0,0:16:18.48,0:16:19.01,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:19.01,0:16:20.86,Default,,0,0,0,,배짱도 그렇고 기술도 그렇고
+Dialogue: 0,0:16:20.86,0:16:24.38,Default,,0,0,0,,상당히 경험을 쌓은 베테랑으로 봤는데 말야
+Dialogue: 0,0:16:24.38,0:16:26.03,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:26.03,0:16:28.84,Default,,0,0,0,,이건 타고난 재능이군
+Dialogue: 0,0:16:28.84,0:16:31.01,Default,,0,0,0,,그래서 말야 당신을 인정해서
+Dialogue: 0,0:16:31.01,0:16:35.22,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:35.22,0:16:37.07,Default,,0,0,0,,ok여자?
+Dialogue: 0,0:16:37.07,0:16:42.42,Default,,0,0,0,,유명해 남자에게 만져지는걸 기다리는 걸로
+Dialogue: 0,0:16:42.42,0:16:45.25,Default,,0,0,0,,말하자면 치녀라는거야
+Dialogue: 0,0:16:45.25,0:16:48.01,Default,,0,0,0,,왜 그런걸 나에게
+Dialogue: 0,0:16:48.01,0:16:52.72,Default,,0,0,0,,당신이 하는것은 보는것만으로 오싹오싹하게 하는게 있어
+Dialogue: 0,0:16:52.72,0:16:53.05,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:16:53.05,0:16:56.49,Default,,0,0,0,,나는 긴지라고 해
+Dialogue: 0,0:16:56.49,0:17:00.92,Default,,0,0,0,,통칭 소매치기 긴짱이라고 불리고 있지
+Dialogue: 0,0:17:00.92,0:17:02.77,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:02.77,0:17:04.06,Default,,0,0,0,,재미있군
+Dialogue: 0,0:17:04.06,0:17:06.46,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:06.46,0:17:10.58,Default,,0,0,0,,동업자들도 당신을 주목하고 있어
+Dialogue: 0,0:17:10.58,0:17:12.91,Default,,0,0,0,,보고 싶다고 형씨
+Dialogue: 0,0:17:12.91,0:17:16.04,Default,,0,0,0,,당신이 그 여자를 어떻게 요리할지
+Dialogue: 0,0:17:16.04,0:17:16.97,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:16.97,0:17:19.54,Default,,0,0,0,,그럼 어떻게 할까
+Dialogue: 0,0:17:19.54,0:17:27.59,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:27.59,0:17:32.52,Default,,0,0,0,,문근처가 가장 노려지기 쉬운걸 알면서 저기에 있는거야
+Dialogue: 0,0:17:32.52,0:17:34.06,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:34.06,0:17:37.35,Default,,0,0,0,,주변은 우리들로 벽을 만들어 줄테니까
+Dialogue: 0,0:17:37.35,0:17:39.67,Default,,0,0,0,,마음껏 하라고
+Dialogue: 0,0:17:39.67,0:17:40.91,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:40.91,0:17:42.46,Default,,0,0,0,,저여자
+Dialogue: 0,0:17:42.46,0:17:42.91,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:42.91,0:17:46.97,Default,,0,0,0,,예 예 가끔 당해서 열받는다고요
+Dialogue: 0,0:17:46.97,0:17:47.82,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:47.82,0:17:50.12,Default,,0,0,0,,그때의 아나운서
+Dialogue: 0,0:17:50.12,0:17:50.67,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:50.67,0:17:53.70,Default,,0,0,0,,모두 형씨의 실력이 보고싶은거야
+Dialogue: 0,0:17:53.70,0:17:56.95,Default,,0,0,0,,만지는 것과 엿보기는 가까운게 있어서 말야
+Dialogue: 0,0:17:56.95,0:17:57.63,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:17:57.63,0:17:59.39,Default,,0,0,0,,쫄았나
+Dialogue: 0,0:17:59.39,0:18:02.13,Default,,0,0,0,,뭐 강요는 안하겠어
+Dialogue: 0,0:18:02.13,0:18:04.58,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:18:04.58,0:18:06.29,Default,,0,0,0,,그렇게 나오지 않으면
+Dialogue: 0,0:18:06.29,0:18:33.47,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:18:33.47,0:18:35.48,Default,,0,0,0,,아저씨가 말한대로군
+Dialogue: 0,0:18:35.48,0:18:37.66,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:18:37.66,0:18:39.11,Default,,0,0,0,,노브라인가
+Dialogue: 0,0:18:39.11,0:18:52.99,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:18:52.99,0:18:55.46,Default,,0,0,0,,진짜군 이년은
+Dialogue: 0,0:18:55.46,0:18:58.92,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:18:58.92,0:19:00.72,Default,,0,0,0,,꽤 하는군
+Dialogue: 0,0:19:00.72,0:19:01.12,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:19:01.12,0:19:04.01,Default,,0,0,0,,정말 터무니 없는 아나운서군
+Dialogue: 0,0:19:04.01,0:19:22.87,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:19:22.87,0:19:23.91,Default,,0,0,0,,싫어
+Dialogue: 0,0:19:23.91,0:20:09.81,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:20:09.81,0:20:12.38,Default,,0,0,0,,설마 그건 안돼
+Dialogue: 0,0:20:12.38,0:22:25.26,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:22:25.26,0:22:26.70,Default,,0,0,0,,굉장해
+Dialogue: 0,0:22:26.70,0:22:27.67,Default,,0,0,0,,굉장해
+Dialogue: 0,0:22:27.67,0:22:28.72,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:22:28.72,0:22:30.49,Default,,0,0,0,,굉장해요
+Dialogue: 0,0:22:30.49,0:22:34.45,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:22:34.45,0:22:36.11,Default,,0,0,0,,기분 좋아
+Dialogue: 0,0:22:36.11,0:22:55.46,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:22:55.46,0:22:56.70,Default,,0,0,0,,갈거 같아
+Dialogue: 0,0:22:56.70,0:22:57.23,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:22:57.23,0:22:59.50,Default,,0,0,0,,안돼
+Dialogue: 0,0:22:59.50,0:23:10.33,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:23:10.33,0:23:12.38,Default,,0,0,0,,가버려
+Dialogue: 0,0:23:12.38,0:23:12.75,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:23:12.75,0:23:17.49,Default,,0,0,0,,안에 안에 가득
+Dialogue: 0,0:23:17.49,0:23:18.43,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:23:18.43,0:23:20.54,Default,,0,0,0,,뜨거운게
+Dialogue: 0,0:23:20.54,0:23:37.70,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:23:37.70,0:23:39.54,Default,,0,0,0,,당신같은 여성도 실은
+Dialogue: 0,0:23:39.54,0:23:44.10,Default,,0,0,0,,마음속으로 추행당하고 싶어한다는 설이 있는데요
+Dialogue: 0,0:23:44.10,0:23:48.31,Default,,0,0,0,,정말 저를 이야기 재료로 하지 말아주세요
+Dialogue: 0,0:23:48.31,0:23:50.59,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:23:50.59,0:23:53.91,Default,,0,0,0,,자기 스스로 증명하다니 고생많군
+Dialogue: 0,0:23:53.91,0:23:55.32,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:23:55.32,0:23:57.43,Default,,0,0,0,,질내사정해버렸어
+Dialogue: 0,0:23:57.43,0:24:06.18,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:24:06.18,0:24:07.89,Default,,0,0,0,,하코자시인가
+Dialogue: 0,0:24:07.89,0:24:09.72,Default,,0,0,0,,설마하고 생각했지만
+Dialogue: 0,0:24:09.72,0:24:11.49,Default,,0,0,0,,하코자시?
+Dialogue: 0,0:24:11.49,0:24:14.37,Default,,0,0,0,,뭐 차에서 해버리는걸 말하지
+Dialogue: 0,0:24:14.37,0:24:14.68,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:24:14.68,0:24:15.48,Default,,0,0,0,,그래
+Dialogue: 0,0:24:15.48,0:24:16.01,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:24:16.01,0:24:19.92,Default,,0,0,0,,하코자시까지 해버리는 놈은 거의 없지
+Dialogue: 0,0:24:19.92,0:24:22.29,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:24:22.29,0:24:26.12,Default,,0,0,0,,형씨 당신 역시 굉장해
+Dialogue: 0,0:24:26.12,0:24:26.14,Default,,0,0,0,,&nbsp
+Dialogue: 0,0:24:26.14,0:25:00.00,Default,,0,0,0,,치한은 범죄행위입니다 절대 흉내내지 마세요 뭐 흉내려면 감옥갈 각오 하고 하시고 절대 절반이상이 원하지 않습니다 해봤자 천명중 하나꼴일까나
+Dialogue: 0,0:25:00.00,0:25:01.00,Default,,0,0,0,,&nbsp

@@ -1,0 +1,342 @@
+﻿[Script Info]
+Title: Rei Zero - Episode 01
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 856
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Zoom: 6
+Collisions: Normal
+Scroll Position: 11
+Active Line: 24
+YCbCr Matrix: TV.601
+Video Zoom Percent: 1
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Rei Zero - Rei Kirisawa,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H0A74134A,&H1E000000,-1,0,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero - Shouko Munei,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H286A808F,&H32000000,-1,0,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero - Hoakin Naitou,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H320E9496,&H3C000000,-1,0,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero - Gotou,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H0A4E565B,&H1E000000,-1,0,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero - Andere,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H0A000000,&H1E000000,-1,0,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero Title,Bodoni SvtyTwo OS ITC TT,23,&H00FFFFFF,&H000000FF,&H00520990,&H00520990,-1,0,0,0,100,100,0,0,1,1,0.2,2,10,10,10,1
+Style: Rei Zero Dialogue,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H0074134A,&H00000000,-1,0,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero Dialogue Alternate,Barmeno-Regular,30,&H00FFFFFF,&H000000FF,&H00494502,&H00000000,-1,-1,0,0,105,100,0,0,1,1.5,0.5,2,10,10,30,1
+Style: Rei Zero Kara Jap,Feathergraphy Decoration,70,&H00EEB4ED,&H00C692AF,&H00000000,&H00520990,0,0,0,0,110,100,0,0,1,1.5,3,8,10,10,30,1
+Style: Rei Zero Kara Eng,Trinigan FG,50,&H00EEB4ED,&H000000FF,&H00000000,&H00520990,-1,0,0,0,110,100,0,0,1,1.5,1.5,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:40.74,0:00:42.39,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Arrow Two, bin in Position.{\ Arrow Two, I've arrived at the destination.}
+Dialogue: 0,0:00:43.04,0:00:44.11,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Alles klar.{\ All clear from up here.}
+Dialogue: 0,0:00:45.00,0:00:47.23,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Kannst du den Helikopter hören?{\ Can you hear the helicopter sounds?}
+Dialogue: 0,0:00:48.39,0:00:49.08,Rei Zero - Rei Kirisawa,,0,0,10,,{\be1}Nein.{\ No.}
+Dialogue: 0,0:00:49.58,0:00:50.83,Rei Zero - Rei Kirisawa,,0,0,10,,{\be1}Ist das das neueste Modell?{\ Is that the newest machine?}
+Dialogue: 0,0:00:51.42,0:00:53.50,Rei Zero - Rei Kirisawa,,0,0,10,,{\be1}Ich höre hier nur die Grillen zirpen.{\ I just can hear these cricket sounds from here.}
+Dialogue: 0,0:00:53.72,0:00:55.19,Rei Zero - Rei Kirisawa,,0,0,10,,{\be1}Seid ihr auch wirklich da?{\ Are you really in there?}
+Dialogue: 0,0:00:55.29,0:00:57.10,Rei Zero - Shouko Munei,,0,0,20,,{\an8}{\be1}{\i1}Was hältst du von einem kleinen Ratespiel?{\ Then, would you like to play a game with me?}{\i0}
+Dialogue: 0,0:00:57.69,0:00:58.47,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Schere.{\ Scissors.}
+Dialogue: 0,0:01:00.52,0:01:02.64,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Furchtlos wie immer, nicht wahr?{\ As usual, you're not afraid of anything, are you?}
+Dialogue: 0,0:01:03.04,0:01:05.00,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Solltest du auch mal probieren, Munei-san.{\ You should try it once, Munei-san.}{\i0}
+Dialogue: 0,0:01:05.27,0:01:06.27,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Man gewöhnt sich schnell dran.{\ You'll get used of it.}{\i0}
+Dialogue: 0,0:01:06.48,0:01:07.56,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Da muss ich leider passen.{\ I'll have to refuse that.}
+Dialogue: 0,0:01:07.76,0:01:09.14,Rei Zero - Andere,,0,0,10,,{\an8}{\be1}{\i1}Arrow One, Vorbereitungen abgeschlossen.{\ Arrow One, preparation is OK.}{\i0}
+Dialogue: 0,0:01:09.33,0:01:10.23,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Verstanden.{\ Understood.}
+Dialogue: 0,0:01:10.57,0:01:13.80,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Rei, befolge exakt meine Anweisungen.{\ Rei, follow my instructions carefully.}
+Dialogue: 0,0:01:14.17,0:01:15.76,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Heute keine Alleingänge!{\ Don't do any grandstanding today.}
+Dialogue: 0,0:01:16.04,0:01:17.18,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Mal sehen...{\ I'll do my best.}{\i0}
+Dialogue: 0,0:01:18.64,0:01:20.19,Rei Zero - Shouko Munei,,0,0,10,,{\be1}Arrow One, vorwärts!{\ Arrow One, proceed!}
+Dialogue: 0,0:01:21.48,0:01:22.06,Rei Zero - Andere,,0,0,10,,{\be1}Verstanden.{\ Understood.}
+Dialogue: 0,0:01:28.63,0:01:32.64,Rei Zero Title,,0,0,0,,{\blur10\fs70\fsp1\fnSerif Medium\b0\i1\pos(184,191)}{\shad0\bord3}REI
+Dialogue: 0,0:01:28.63,0:01:32.64,Rei Zero Title,,0,0,0,,{\blur10\fs70\fsp1\fnSerif Medium\b0\i1\pos(184,191)}{\shad0\bord3}REI
+Dialogue: 0,0:01:28.63,0:01:32.64,Rei Zero Title,,0,0,0,,{\blur8\pos(525,351)}{\shad0\bord0.1}Lasst uns die Spezialagentin einfangen!{\ Let's capture the special agents!}
+Dialogue: 0,0:01:28.63,0:01:32.64,Rei Zero Title,,0,0,0,,{\blur8\pos(525,351)}{\shad0\bord1}Lasst uns die Spezialagentin einfangen!{\ Let's capture the special agents!}
+Dialogue: 0,0:01:50.61,0:01:52.90,Rei Zero - Shouko Munei,,0,0,20,,{\an8}{\be1}{\i1}Der Strom ist gleich wieder da, du hast 10 Sekunden.{\ The power going to back on soon, you have ten seconds.}{\i0}
+Dialogue: 0,0:01:53.14,0:01:54.46,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Verstanden.{\ Understood.}
+Dialogue: 0,0:02:07.18,0:02:09.59,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}{\i1}Hier Arrow One, Strom wurde wieder hergestellt. {\ This is Arrow One, I've confirm the power has turned back on again.}{\i0}
+Dialogue: 0,0:02:10.24,0:02:12.40,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Hier Arrow Two, Infiltration erfolgreich.{\ Arrow Two, infiltration is a success.}{\i0}
+Dialogue: 0,0:02:12.92,0:02:15.71,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Okay, Arrow Three, setzt euch in Bewegung.{\ OK. Arrow Three, you can move in right now.}
+Dialogue: 0,0:02:16.18,0:02:20.16,Rei Zero - Andere,,0,0,0,,{\be1}Tut uns Leid. Scheint wir haben beim Hausstrom Mist gebaut.{\ I'm sorry, It seems we've triggered something\Nwithin the building electricity.}
+Dialogue: 0,0:02:20.29,0:02:21.96,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}{\i1}So was bringt uns in Teufels Küche...{\ Hey, that's causing trouble in here...}{\i0}
+Dialogue: 0,0:02:23.74,0:02:27.32,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Wie erwartet ist zur Zeit kein Wachpersonal im 35. Stock.{\ As we planned before, there isn't any security on the 35th floor right now.}{\i0}
+Dialogue: 0,0:02:27.82,0:02:29.71,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Wenn wir jetzt zuschlagen, wird's ein Kinderspiel.{\ If we just move in right now, we'll be successful.}{\i0}
+Dialogue: 0,0:02:30.31,0:02:33.15,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Wenn mehr als drei Leute den Raum bewachen, fliehst du.{\ If there are more than three people guarding that place,\Nstep away from there.}
+Dialogue: 0,0:02:33.34,0:02:35.97,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Verstanden, wenn mehr als fünf Leute da sind, lass ich's bleiben.{\ All right, I'll step away if there's more than five people.}{\i0}
+Dialogue: 0,0:02:36.71,0:02:38.21,Rei Zero - Rei Kirisawa,,0,0,20,,{\an8}{\be1}{\i1}Ich gehe dann mal auf Funkstille.{\ I'll cut off the communications for now.}{\i0}
+Dialogue: 0,0:02:38.60,0:02:41.54,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Rei! Rei!?{\ Rei? Rei?!}
+Dialogue: 0,0:02:52.26,0:02:53.07,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Hier ist es.{\ It's in here.}
+Dialogue: 0,0:03:15.90,0:03:16.66,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Sind das...?{\ This is?}
+Dialogue: 0,0:03:17.07,0:03:18.07,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}Ein Stromausfall?{\ The power has down back there.}
+Dialogue: 0,0:03:20.07,0:03:24.26,Rei Zero - Andere,,0,0,0,,{\be1}Genau, aber der Notstrom läuft bereits. Es gibt keine Probleme.{\ That's right, but we got a back-up power supply in here\Nso there won't be any problems.}
+Dialogue: 0,0:03:25.18,0:03:26.19,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Zu fünft, hm?{\ Five people, huh?}
+Dialogue: 0,0:03:26.80,0:03:27.58,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Na dann...{\ Like I care.}
+Dialogue: 0,0:03:30.04,0:03:32.13,Rei Zero - Andere,,0,0,0,,{\be1}Hey, wo willst du denn hin?{\ Hey, where do you think you're go-}
+Dialogue: 0,0:03:37.16,0:03:37.66,Rei Zero - Andere,,0,0,0,,{\be1}Verdammt!{\ Damn it!}
+Dialogue: 0,0:03:48.71,0:03:51.04,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Keine Zeit für Smalltalk.{\ It seems you don't have much time to finish your conversation.}{Huh? I heard 'BDW to ha, maniatta ne'}
+Dialogue: 0,0:04:11.24,0:04:14.45,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Der Boss vom Nord-Syndikat, Joachim Night.{\ The boss of North Cartel, Joachim Night?}
+Dialogue: 0,0:04:15.56,0:04:16.44,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Wer bist du?{\ Who are you?}
+Dialogue: 0,0:04:17.99,0:04:19.71,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Hier stelle ich die Fragen!{\ I'm asking the questions here.}
+Dialogue: 0,0:04:20.10,0:04:21.53,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Joachim Night, richtig?{\ Joachim Night, right?}
+Dialogue: 0,0:04:23.16,0:04:24.04,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}So ist es.{\ That's right.}
+Dialogue: 0,0:04:24.51,0:04:26.38,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Du wagst es mich bluten zu lassen?!{\ You dare make me bleed like this-}
+Dialogue: 0,0:04:27.89,0:04:29.69,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ich lass nicht zu, dass du mich bedrohst.{\ I won't allow you to threaten me.}
+Dialogue: 0,0:04:30.45,0:04:33.70,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Sieht so aus als würde hier mit mehr als nur mit Betäubungsmitteln gehandelt werden.{\ It seems this place isn't really a narcotics storage place.}
+Dialogue: 0,0:04:34.47,0:04:35.43,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Was ist das?{\ What's that thing?}
+Dialogue: 0,0:04:38.71,0:04:40.46,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Mein Geldhahn...{\ It's the money resources.}
+Dialogue: 0,0:04:41.01,0:04:43.67,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Du bist eine dieser Spezialagenten der Drogenpolizei, hm?{\ You're one of those narcotics special agent, huh?}
+Dialogue: 0,0:04:45.39,0:04:47.29,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Antworte einfach auf meine Fragen!{\ Just answer what I'm asking you!}
+Dialogue: 0,0:04:50.62,0:04:52.09,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Wie lautet dein Name?{\ What's your name?}
+Dialogue: 0,0:04:52.84,0:04:54.57,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Ich werde dich töten!{\ I'll make sure to kill you!}
+Dialogue: 0,0:04:55.07,0:04:57.47,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Und dich vergewaltigen! Wieder und immer wieder.{\ I'll rape you... rape you... all over again,}
+Dialogue: 0,0:04:57.61,0:05:00.23,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Bis du es bereust in diese Welt geboren zu sein!{\ so you'll regret being born in this world.}
+Dialogue: 0,0:05:00.79,0:05:05.28,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Deine Familie, deine Freunde, jeden den du kennst...{\ That's right, I'll make your family, your friends, and everyone,}
+Dialogue: 0,0:05:05.38,0:05:07.78,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}...werde ich qualvoll umbringen!{\ I'll make them suffer to death!}
+Dialogue: 0,0:05:08.88,0:05:09.83,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ist dem so?{\ Is that so?}
+Dialogue: 0,0:05:26.94,0:05:29.10,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Lass uns das nochmal in Ruhe ausdiskutieren...{\ Let's talk again slowly after this.}
+Dialogue: 0,0:05:30.89,0:05:33.79,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Hier Arrow Two, habe das Zielobjekt festgenommen.{\ This is Arrow Two, I've captured the target.}
+Dialogue: 0,0:05:34.31,0:05:35.11,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ihr könnt mich jetzt abholen kommen.{\ You can pick me up.}
+Dialogue: 0,0:05:36.78,0:05:39.79,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Du wirst doch hoffentlich jetzt noch nicht ohnmächtig werden?{\ You're not going to pass out on me, now?}
+Dialogue: 0,0:05:47.87,0:05:49.08,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Joachim Night.{\i0}
+Dialogue: 0,0:05:50.11,0:05:52.95,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}International gesuchter Verbrecher. Boss des Nordsyndikats.{\ International crime syndicate boss, North Cartell.}{\i0}
+Dialogue: 0,0:05:53.77,0:05:55.45,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Spitzname: Der General{\ Nickname: General.}{\i0}
+Dialogue: 0,0:05:56.65,0:05:57.69,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Geburtsort: unbekannt{\ Birthplace unknown.}{\i0}
+Dialogue: 0,0:05:57.83,0:05:58.54,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Herkunft: Japan{\ Japanese descent.}{\i0} {Doesn't "ikkeijin" just mean of a single family?}
+Dialogue: 0,0:05:59.62,0:06:03.27,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Ebenfalls bekannt als einer gefürchtetsten Guerrilla-Terroristen des 20. Jahrhunderts.{\ He's also one of the most wanted guerrilla terrorists of the 20th century,}{\i0}
+Dialogue: 0,0:06:03.78,0:06:05.83,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Der rote General.{\ known as the Red General.}{\i0}
+Dialogue: 0,0:06:07.25,0:06:09.80,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Er verfügt über mehrere Geheimlabore in Südamerika.{\ He also has several secret headquarters in South America,}{\i0}
+Dialogue: 0,0:06:09.92,0:06:11.47,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Dort stellen sie die Drogen der neuen Generation her.{\ which create the new generation of narcotics.}{\i0}
+Dialogue: 0,0:06:12.47,0:06:15.82,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Sein Syndikat stützt sich auf Gewaltverbrechen.{\ His syndicate relies on violent crimes,}{\i0}
+Dialogue: 0,0:06:16.06,0:06:19.86,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Nach etlichen Jahren hat sich sein Syndikat an die Spitze durchgesetzt.{\ and after many years he's been able to create the world's most powerful crime syndicate.}{\i0}
+Dialogue: 0,0:06:21.22,0:06:25.66,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Letztes Jahr begannen die Vorbereitungen ein weiteres Labor in Japan zu gründen.{\ Last year, he began planning to make another headquarters in Japan.}{\i0}
+Dialogue: 0,0:06:26.23,0:06:30.10,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Innerhalb eines halben Jahres unterjochte er alle hiesigen Syndikate in der Kanto-Region.{\ Within half year, he's already conquered all syndicates\Nin the Kanto area. }{TL Note: Kanto refers to the area of Japan around Tokyo.}{\i0}
+Dialogue: 0,0:06:31.21,0:06:33.85,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Wir konnten ihn in einem seiner Hotels ausfindig machen und festnehmen.{\ We've tracked and captured him in one of the hotel within those areas,}{\i0}
+Dialogue: 0,0:06:33.85,0:06:38.15,Rei Zero - Gotou,,0,0,0,,{\be1}In anderen Zimmern des Hotels fanden wir jede Menge fremdartiger Substanzen.{\ and have found out there are a lot of unknown things in the other rooms of the hotel.}
+Dialogue: 0,0:06:40.08,0:06:43.78,Rei Zero - Gotou,,0,0,0,,{\be1}Einer seiner Untergebenen, der für die Regierung arbeitet,{\ One of his subordinates who's working in goverment has already noticed,}
+Dialogue: 0,0:06:43.90,0:06:46.11,Rei Zero - Gotou,,0,0,0,,{\be1}hat bereits das Verschwinden seines Bosses bemerkt.{\ and now he's planning to look for his missing boss.}
+Dialogue: 0,0:06:46.42,0:06:49.60,Rei Zero - Gotou,,0,0,0,,{\be1}Wir können ihn höchstens für 48 Stunden hier festhalten.{\ We have a maximum 48 hours to lock him in here.}
+Dialogue: 0,0:06:49.97,0:06:53.83,Rei Zero - Gotou,,0,0,0,,{\be1}Bevor die Zeit um ist, will ich dass ihr herausfindet was er mit den ganzen Chemikalien vor hat.{\ Before the time is over, I want you to find out what he's planning\Nwith all those materials back there. }{TLCer: Huh? Doesn't he say something like "I want you to collect 200% of the materials back there"?}
+Dialogue: 0,0:06:54.12,0:06:55.75,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Klingt so als glaubt ihr tatsächlich, dass dies möglich sei, Chef.{\ You're talking like that's possible to do, Chief.}
+Dialogue: 0,0:06:56.04,0:06:57.58,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Jedenfalls ist es nicht unmöglich...{\ Though it's not impossible to do.}
+Dialogue: 0,0:07:02.19,0:07:03.26,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Rei!
+Dialogue: 0,0:07:04.01,0:07:07.23,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Sollten wir uns nicht wie Soldaten benehmen, wenn er sich als General aufspielt?{\ Don't you think it's better for us to act like a soldier,\Nsince he used to be a soldier?}
+Dialogue: 0,0:07:09.43,0:07:12.86,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Einst einer der größten Guerrilla-Terroristen, der nun ins Drogengeschäft eingestiegen ist.{\ Formerly one of the biggest guerrilla terrorists, who's now working as narcotics boss.}
+Dialogue: 0,0:07:13.58,0:07:15.57,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Strahlst auf einmal gar keine Autorität mehr aus...{\ Don't you think you've lost your authority in there,}
+Dialogue: 0,0:07:15.73,0:07:17.34,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Herr roter General...{\ Mister Red General?}
+Dialogue: 0,0:07:18.37,0:07:19.55,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}12 mal.{\ 12 times.}
+Dialogue: 0,0:07:20.70,0:07:23.87,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Du hast mich 12 mal geschlagen.{\ You've hit me 12 times.}
+Dialogue: 0,0:07:24.23,0:07:27.67,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}12 Schläge im Hotelzimmer.{\ It's 12 times since you hit me back there in the hotel.}
+Dialogue: 0,0:07:34.66,0:07:36.90,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Jetzt sind es 13...{\ Now it's 13 times.}
+Dialogue: 0,0:07:37.64,0:07:40.05,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Oh wie gut, dass du dich so gut erinnern kannst!{\ It's good for us if you have good memory in your head.}
+Dialogue: 0,0:07:40.46,0:07:43.31,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Dann wird es dir leicht fallen meine Fragen zu beantworten.{\ Then I'm sure that you'll be able to answer my questions easily.}
+Dialogue: 0,0:07:43.71,0:07:44.84,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Was stellt ihr her?{\ What's that thing?}
+Dialogue: 0,0:07:47.31,0:07:50.67,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ich sah diese ekligen Dinger in den Röhren.{\ Back there, I saw those creepy things in the tubes.}
+Dialogue: 0,0:07:51.06,0:07:53.87,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Auch wenn ich in jener Nacht nicht alle Daten sichern konnte,{\ Though I couldn't take all of your material data at that time,}
+Dialogue: 0,0:07:55.02,0:07:58.55,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}so konnte ich doch einen Teil davon mitnehmen.{\ I was able to take some of your data last night.}
+Dialogue: 0,0:07:59.27,0:08:02.20,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Unsere Spezialisten arbeiten bereits daran.{\ Our specialist is already working on that data right now.}
+Dialogue: 0,0:08:02.38,0:08:03.83,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wir wissen also ohnehin bald was es ist.{\ We'll know what it is soon.}
+Dialogue: 0,0:08:04.22,0:08:06.93,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wäre also besser für dich gleich zu kooperieren.{\ It's better for you to talk to us without hiding anything.}
+Dialogue: 0,0:08:09.61,0:08:11.00,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Da wäre ich mir nicht so sicher.{\ I'm not sure about that.}
+Dialogue: 0,0:08:11.31,0:08:12.64,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Noch 30 Stunden...{\ It's 30 hours...}
+Dialogue: 0,0:08:12.71,0:08:14.95,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Nein, vielleicht noch 40 Stunden. Dann müsst ihr mich wieder gehen lassen.{\ No, maybe you have about 40 hours left to lock me up like this.}
+Dialogue: 0,0:08:15.68,0:08:19.94,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Ich wette einer meiner Freunde hat sich bereits bei euch gemeldelt und meine Freilassung gefordert.{\ I'm sure there's a friend of mine who's already prepared\Nto release me from here.}
+Dialogue: 0,0:08:20.42,0:08:23.65,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Dann werden die Daten, die ihr mir gestohlen habt,{\ Then your data which you stole from me earlier,}
+Dialogue: 0,0:08:23.86,0:08:26.55,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}schon in wenigen Tagen wertlos sein.{\ will be useless within the next few days.}
+Dialogue: 0,0:08:27.07,0:08:28.69,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}Verstehst du es jetzt?{\ Do you understand right now?}
+Dialogue: 0,0:08:32.84,0:08:36.90,Rei Zero - Hoakin Naitou,,0,0,0,,{\be1}13 Schläge, Fräulein Spezialagentin...{\ It's 13 times, Miss Special Agent.}
+Dialogue: 0,0:08:42.93,0:08:44.08,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}{\i1}Unterbrecht das Verhör.{\ Stop your interogation.}{\i0}
+Dialogue: 0,0:08:44.80,0:08:45.56,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Was?{\ What?}
+Dialogue: 0,0:08:46.01,0:08:48.58,Rei Zero - Gotou,,0,0,0,,{\be1}Wir haben hier einen Informanten, der über die gestrigen Vorfälle sprechen will.{\ There's an informant who wants to talk with us about\Nthe thing that happened yesterday.}
+Dialogue: 0,0:08:49.14,0:08:50.18,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ein Informant?{\ Informant?}
+Dialogue: 0,0:08:53.85,0:08:56.05,Rei Zero - Gotou,,0,0,0,,{\be1}Sicherlich kennt ihr bereits unseren Informanten Uematsu, oder?{\ I'm sure you already know Uematsu the informant, right?}
+Dialogue: 0,0:08:56.48,0:09:00.35,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ja, diese Ratte mit schlechtem Geschmack und goldener Uhr.{\ Yeah, that rat with the bad taste\Nand the golden watch.}
+Dialogue: 0,0:09:00.78,0:09:02.22,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Den könnte ich nie vergessen.{\ Of course I couldn't forget that man.}
+Dialogue: 0,0:09:02.92,0:09:05.64,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Der hat sich auch immer gut bezahlen lassen.{\ Also he always took a lot of money for his informations.}
+Dialogue: 0,0:09:06.12,0:09:09.06,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Einen Informanten wie ihn gibt es nicht zweimal.{\ It's the first time I've seen an informant such as him.}
+Dialogue: 0,0:09:10.01,0:09:13.66,Rei Zero - Gotou,,0,0,0,,{\be1}Dann müssen wir seine Informationen als glaubwürdig einstufen.{\ I suppose that proves his information is trustworthy.}
+Dialogue: 0,0:09:15.48,0:09:19.10,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Aber glauben sie nicht, dass es ungewöhnlich für Uematsu ist uns auf diese Weise zu kontaktieren?{\ But, don't you think it's strange for Uematsu\Nto contact us like this?}
+Dialogue: 0,0:09:19.38,0:09:21.82,Rei Zero - Gotou,,0,0,0,,{\be1}Ich gehe stark davon aus, dass es sich um höchst brisante Informationen handelt.{\ I assume it's going to be dangerous information after all.}
+Dialogue: 0,0:09:22.40,0:09:24.27,Rei Zero - Gotou,,0,0,0,,{\be1}Er besteht darauf sie persönlich zu überbringen.{\ He wants to give it directly to us.}
+Dialogue: 0,0:09:24.40,0:09:26.93,Rei Zero - Gotou,,0,0,0,,{\be1}Und er will in bar bezahlt werden.{\ He also demands that we pay him in cash.}
+Dialogue: 0,0:09:27.65,0:09:30.62,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Finden sie es nicht seltsam, dass er uns gerade jetzt kontaktieren will?{\ Don't you think that the timing is too coincidental?}
+Dialogue: 0,0:09:31.23,0:09:37.24,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Selbst wenn es eine Falle ist, so können wir vielleicht etwas finden, dass Night unter Druck setzt.{\ Although it's going to be a trap, it will be useful\Nif we can find something to pressure Night.}
+Dialogue: 0,0:09:39.08,0:09:41.96,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Das erörtern wir, wenn die Risiken abgeschätzt wurden.{\ We'll decide it after thinking about the dangerous part first.}
+Dialogue: 0,0:09:42.14,0:09:43.39,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ja, selbstverständlich.{\ Yes, of course.}
+Dialogue: 0,0:09:53.25,0:09:56.32,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Er denkt sogar an unsere Sicherheit. Ein überfüllter Zug...{\ He's also thinking of safety within these crowded trains.}
+Dialogue: 0,0:09:56.54,0:09:57.66,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ruhe.{\ Be quiet.}
+Dialogue: 0,0:10:00.88,0:10:01.94,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Er kommt.{\ He's coming.}
+Dialogue: 0,0:10:02.68,0:10:03.42,Rei Zero - Andere,,0,0,0,,{\be1}Verstanden.{\ Understood.}
+Dialogue: 0,0:10:03.93,0:10:04.57,Rei Zero - Andere,,0,0,0,,{\be1}Verstanden.{\ Understood.}
+Dialogue: 0,0:10:05.15,0:10:05.88,Rei Zero - Andere,,0,0,0,,{\be1}Verstanden.{\ Understood.}
+Dialogue: 0,0:10:40.15,0:10:40.84,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Oh! Nein...{\ Oh... No-}
+Dialogue: 0,0:10:45.47,0:10:47.14,Rei Zero - Shouko Munei,,0,0,0,,{\be1}W-Was ist das...?{\ W-What is this...}
+Dialogue: 0,0:10:57.47,0:10:59.08,Rei Zero - Andere,,0,0,0,,{\be1}Du kommst ganz gut mit einer Injektion zurecht.{\ You're able to hold against one shot.}
+Dialogue: 0,0:10:59.48,0:11:02.72,Rei Zero - Andere,,0,0,0,,{\be1}Normalerweise reicht die einfache Dosis, um jemanden in eine kraftlose Puppe zu verwandeln.{\ Usually, it only takes one shot to turn someone into a limp doll.}
+Dialogue: 0,0:11:08.87,0:11:10.45,Rei Zero - Shouko Munei,,0,0,0,,{\be1}A-A-Aufhören!{\ St-top... it-}
+Dialogue: 0,0:11:15.34,0:11:17.68,Rei Zero - Andere,,0,0,0,,{\be1}Es wäre lästig, wenn du jemanden warnen würdest.{\ It'll be a pain if you call someone.}
+Dialogue: 0,0:11:19.27,0:11:21.01,Rei Zero - Shouko Munei,,0,0,0,,{\be1}R-Rei...{\ Re... Rei...}
+Dialogue: 0,0:11:26.21,0:11:26.94,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Unmöglich...{\ It can't be...}
+Dialogue: 0,0:11:27.42,0:11:30.84,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Alle Passagiere sind...{\ All of these passengers are...}
+Dialogue: 0,0:11:32.54,0:11:34.44,Rei Zero - Andere,,0,0,0,,{\be1}Was für eine schlaue Frau du doch bist.{\ What a clever woman, aren't you?}
+Dialogue: 0,0:11:34.84,0:11:36.37,Rei Zero - Andere,,0,0,0,,{\be1}Du liegst vollkommen richtig.{\ Your insight is correct.}
+Dialogue: 0,0:11:37.03,0:11:41.74,Rei Zero - Andere,,0,0,0,,{\be1}Und das hier ist das Zeug, das ihr die ganze Zeit sucht.{\ And then, this is the thing you've all been searching for.}
+Dialogue: 0,0:11:44.39,0:11:46.50,Rei Zero - Andere,,0,0,0,,{\be1}Wir nennen es die Nano-Gehirn-Kontroll-Maschine.{\ It's called the Brain Control Nano Machine.}
+Dialogue: 0,0:11:47.08,0:11:49.81,Rei Zero - Andere,,0,0,0,,{\be1}Es ist ein Serum, dass den Träger auf's Wort hören lässt.{\ It's a serum to control someone's brains with one word.}
+Dialogue: 0,0:11:50.22,0:11:52.13,Rei Zero - Andere,,0,0,0,,{\be1}Auch bei vulgären Befehlen.{\ Even for vulgar uses.}
+Dialogue: 0,0:11:54.10,0:11:56.44,Rei Zero - Andere,,0,0,0,,{\be1}Es wäre kein Spaß, wenn du still bleiben müsstest.{\ It's not going to be fun if you don't react.}
+Dialogue: 0,0:11:57.46,0:12:00.28,Rei Zero - Andere,,0,0,0,,{\be1}Du darfst vor Lust schreien, so laut du willst.{\ I'll let you scream your pleasure as much as you want.}
+Dialogue: 0,0:12:01.48,0:12:03.23,Rei Zero - Shouko Munei,,0,0,0,,{\be1}R-Rei...{\ Re... Rei.}
+Dialogue: 0,0:12:16.36,0:12:18.85,Rei Zero - Andere,,0,0,0,,{\be1}Dann, wollen wir uns mal vergnügen...{\ Then, shall we enjoy ourselves in here?}
+Dialogue: 0,0:12:25.48,0:12:27.80,Rei Zero - Shouko Munei,,0,0,0,,{\be1}A-Aufhören...{\ Stop... it...}
+Dialogue: 0,0:12:39.51,0:12:46.24,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Nein! Nicht! Nicht an meinen Nippeln ziehen...{\ No! Stop... pinching... my nipples...}
+Dialogue: 0,0:13:08.33,0:13:08.89,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Nein...{\ No...}
+Dialogue: 0,0:13:11.27,0:13:14.25,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Wenn ihr so an meinen Nippeln zieht...{\ If you pinch my nipples like that...}
+Dialogue: 0,0:13:25.09,0:13:27.51,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Nein... Das könnt ihr nicht tun!{\ No... you can't do that!}
+Dialogue: 0,0:13:38.82,0:13:41.35,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Meine Zunge bewegt sich von ganz alleine...{\ My tongue is moving by itself...}
+Dialogue: 0,0:13:57.10,0:13:59.89,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Meine Brüste und meine Muschi sind auf's Äußerste erregt.{\ My breasts and my pussy are totally drenched...}
+Dialogue: 0,0:14:16.94,0:14:20.21,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Habe Kontakt hergestellt. Fahre nun mit der Transaktion fort.{\ I've made contact. I'm proceeding with the transaction.}
+Dialogue: 0,0:14:35.76,0:14:38.00,Rei Zero - Gotou,,0,0,0,,{\be1}{\i1}Sicherlich kennt ihr bereits unseren Informanten Uematsu, oder?{\ I'm sure you've already know Uematsu the informant, right?}{\i0}
+Dialogue: 0,0:14:38.57,0:14:41.27,Rei Zero - Shouko Munei,,0,0,0,,{\be1}{\i1}Ja, diese Ratte mit schlechtem Geschmack und goldener Uhr.{\ Yeah, that rat with the bad taste\Nand the golden watch.}{\i0}
+Dialogue: 0,0:14:41.75,0:14:43.42,Rei Zero - Shouko Munei,,0,0,0,,{\be1}{\i1}Den könnte ich nie vergessen.{\ Of course I couldn't forget that man.}{\i0}
+Dialogue: 0,0:14:46.29,0:14:47.38,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}{\i1}Rei, was ist los?{\ Rei, what's the matter?}{\i0}
+Dialogue: 0,0:14:58.33,0:14:59.87,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}{\i1}Rei, antworte!{\ Rei, respond!}{\i0}
+Dialogue: 0,0:15:00.76,0:15:02.35,Rei Zero - Andere,,0,0,0,,{\be1}Sag, dass alles in Ordnung ist.{\ Say there's nothing going on.}
+Dialogue: 0,0:15:03.25,0:15:05.09,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}W-Warum sollte ich...?{\ Why... should... I...}
+Dialogue: 0,0:15:06.20,0:15:09.47,Rei Zero - Andere,,0,0,0,,{\be1}Sag es! Alles in Ordnung. Jetzt!{\ Say it: no problems here. Now.}
+Dialogue: 0,0:15:16.62,0:15:22.10,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Hier... ist alles... in... Ordnung...{\ There... are... no... problems... here...}
+Dialogue: 0,0:15:22.60,0:15:24.88,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}{\i1}Ist das so? Dann fahre mit der Transaktion fort.{\ Is that so? Then proceed with the transaction.}{\i0}
+Dialogue: 0,0:15:25.95,0:15:28.34,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Halt! Das war gerade nicht ich selbst!{\ Wait, that wasn't me just now!}{\i0}
+Dialogue: 0,0:15:41.92,0:15:45.03,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Das... Das kann doch nicht...{\ It... it can't be...}
+Dialogue: 0,0:15:45.40,0:15:49.28,Rei Zero - Andere,,0,0,0,,{\be1}Heute zeige ich dir wie wir arrogante Frauen wie dich bekämpfen.{\ Today, I'll show you how we fight\Narrogant woman like you.}
+Dialogue: 0,0:15:51.70,0:15:53.96,Rei Zero - Andere,,0,0,0,,{\be1}Ich lass dir deine Stimme zum Aufschreien.{\ I'll let you scream with your voice.}
+Dialogue: 0,0:15:54.36,0:15:56.39,Rei Zero - Andere,,0,0,0,,{\be1}Du kannst deinen Lustschreien freien Lauf lassen.{\ You can let out your screams of pleasure.}
+Dialogue: 0,0:16:07.90,0:16:12.05,Rei Zero - Andere,,0,0,0,,{\be1}Hm... so sieht also dein Körper unter dem ganzen Zeug aus...{\ Hm... so this is how your body looks like underneath.}
+Dialogue: 0,0:16:12.42,0:16:14.09,Rei Zero - Andere,,0,0,0,,{\be1}Das macht mich erstaunlich geil.{\ It makes me surprisingly excited.}
+Dialogue: 0,0:16:15.56,0:16:16.97,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Du Wichser! Lass mich gehen!{\ You jerk, let me go...!}
+Dialogue: 0,0:16:18.31,0:16:21.06,Rei Zero - Andere,,0,0,0,,{\be1}Also wirklich... hat es dir etwa noch nicht gereicht?{\ My, my, that wasn't enough for you?}
+Dialogue: 0,0:16:23.26,0:16:26.61,Rei Zero - Andere,,0,0,0,,{\be1}Dieses Serum lässt deine weiblichen Körperflüssigkeiten nur so strömen...{\ I'll let you release a lot of your feminine liquids with this serum,}
+Dialogue: 0,0:16:26.63,0:16:28.55,Rei Zero - Andere,,0,0,0,,{\be1}Gleich wirst du dich um ihn kümmern wollen.{\ then you're going to take care of them.}
+Dialogue: 0,0:16:40.42,0:16:41.53,Rei Zero - Andere,,0,0,0,,{\be1}Was ist los?{\ What's the matter?}
+Dialogue: 0,0:16:41.87,0:16:44.54,Rei Zero - Andere,,0,0,0,,{\be1}Keiner hier hat etwas dagegen deine lüsterne Stimme zu hören.{\ It's perfectly fine for you to let your luscious voice go.}
+Dialogue: 0,0:16:45.29,0:16:46.89,Rei Zero - Andere,,0,0,0,,{\be1}Lass uns hören wie eine läufige Hündin wie du klingt.{\ Let me hear you cry out like an animal in heat.}
+Dialogue: 0,0:16:47.05,0:16:49.47,Rei Zero - Andere,,0,0,0,,{\be1}Allerdings kann ich nicht garantieren, dass dich auch deine Freundin hören wird.{\ Though I can't guarantee that your friends going to hear it.}
+Dialogue: 0,0:16:49.86,0:16:51.05,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}W-Wer würde...{\ Who-who would-}
+Dialogue: 0,0:16:53.14,0:16:54.72,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wer könnte schon stöhnen...{\ Who's going... to moan-}
+Dialogue: 0,0:16:57.55,0:16:58.25,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Nein...{\ No-}
+Dialogue: 0,0:17:00.03,0:17:00.73,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Du...{\ You...}
+Dialogue: 0,0:17:01.19,0:17:03.71,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Hört... Hört damit auf!{\ Stop... doing that...}
+Dialogue: 0,0:17:03.74,0:17:04.55,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Lasst... das...{\ Stop... that-}
+Dialogue: 0,0:17:13.41,0:17:18.14,Rei Zero - Andere,,0,0,0,,{\be1}Dein oberer Mund sagt das eine, aber deine unteren Lippen verraten dich.{\ Your mouth is saying that, but down here is completely honest.}
+Dialogue: 0,0:17:18.95,0:17:20.49,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Ich halte das nicht mehr länger aus.{\ I can't endure something like this.}{\i0}
+Dialogue: 0,0:17:21.15,0:17:21.74,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Aber...{\ But,}{\i0}
+Dialogue: 0,0:17:21.99,0:17:23.72,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Das wird bestimmt nicht...{\ I'll make sure this won't-}{\i0}
+Dialogue: 0,0:17:27.30,0:17:30.09,Rei Zero - Andere,,0,0,0,,{\be1}Hm... Sogar bei dieser Stimulierung, schaffst du es deine Stimme in Zaum zu halten.{\ Hm... even though we're doing like this, you're able\Nto keep your voice in there.}
+Dialogue: 0,0:17:30.09,0:17:31.56,Rei Zero - Andere,,0,0,0,,{\be1}Grandios, grandios...{\ Splendid, splendid.}
+Dialogue: 0,0:17:31.79,0:17:36.83,Rei Zero - Andere,,0,0,0,,{\be1}Als kleine Belohnung für deine Mühen, lass ich dich deine geliebte Agenten-Freundin sehen.{\ As a reward for what you're doing, I'll let you see your precious\Nfriends from the special agents.}
+Dialogue: 0,0:17:49.33,0:17:51.11,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Nein... Aufhören...{\ No... stop it...}
+Dialogue: 0,0:17:52.97,0:17:54.45,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Lass mich doch mal kurz in Ruhe...{\ Let me rest a bit...}
+Dialogue: 0,0:17:55.64,0:17:57.24,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich werde kommen...{\ I'm going to cum...}
+Dialogue: 0,0:17:58.33,0:17:59.52,Rei Zero - Shouko Munei,,0,0,0,,{\be1}K-Komme gleich...{\ Going to cum...}
+Dialogue: 0,0:18:00.62,0:18:03.23,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Komme... Ich komme... Ich komme!!{\ Cum... cumming... cumming-}
+Dialogue: 0,0:18:15.68,0:18:16.34,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Rei...
+Dialogue: 0,0:18:21.38,0:18:23.77,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Nein... Aufhören...{\ No... stop it...}
+Dialogue: 0,0:18:25.36,0:18:31.57,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Schau mich nicht an... Schau mich nicht mit diesen Augen an.{\ Don't look at me... Don't look at me with your face like that-}
+Dialogue: 0,0:18:33.25,0:18:36.88,Rei Zero - Andere,,0,0,0,,{\be1}Warum erklärst du ihr nicht im Detail wie du gerade vergewaltigt wirst?{\ There... there, why don't you tell her how you're being raped.}
+Dialogue: 0,0:18:37.29,0:18:38.55,Rei Zero - Andere,,0,0,0,,{\be1}Erklär es ihr!{\ Explain to her!}
+Dialogue: 0,0:18:39.03,0:18:45.33,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Obwohl ich es nicht will, steckt ein dicker Schwanz in meiner Pussy und dehnt mich.{\ Though I don't want my pussy being raped, my pussy is filled with it...\Nthere's a lot of penis coming inside my pussy...}
+Dialogue: 0,0:18:45.33,0:18:47.81,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich will es nicht, aber ich kann nichts dagegen tun!{\ Though I don't want it, but I couldn't do anything!}
+Dialogue: 0,0:18:49.74,0:18:52.75,Rei Zero - Andere,,0,0,0,,{\be1}So ist's brav! Hier deine Belohnung für die Erläuterung.{\ That's good, I'll reward you for explaining properly.}
+Dialogue: 0,0:18:55.35,0:18:58.33,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Schau mich an... Ich werde kommen, währen Rei mir dabei zusieht.{\ Looking at me... I'm going to cum while Rei is looking at me-}
+Dialogue: 0,0:18:58.33,0:19:01.54,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich werde kommen... ich komme nochmal...{\ Going to cum... going to cum again...}
+Dialogue: 0,0:19:01.54,0:19:04.79,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich komme von meiner verfickten Muschi und alle schauen mit dabei zu...{\ I'm going to cum with my slutty pussy while everyone is looking at me...}
+Dialogue: 0,0:19:04.80,0:19:07.06,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich komme... Ich komme!!{\ Cum... cumming...!}
+Dialogue: 0,0:19:09.70,0:19:14.47,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Munei-san wurde mit dem Serum vollgepumpt. Es es meine Schuld, allein meine Schuld.{\ Munei-san is being shot with that serum,\Nmy fault... It's my fault!}{\i0}
+Dialogue: 0,0:19:16.40,0:19:20.03,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Es... Es fühlt sich gut an... so gesehen zu werden...{\ It's... it's feels good... being seen like this...}
+Dialogue: 0,0:19:22.64,0:19:25.55,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich werde kommen, während du mich ansiehst...{\ I'm going to cum while you look at me...}
+Dialogue: 0,0:19:33.75,0:19:36.03,Rei Zero - Andere,,0,0,0,,{\be1}Das nächste Loch wird eines von deinen sein.{\ The next hole will be yours.}
+Dialogue: 0,0:19:40.86,0:19:42.90,Rei Zero - Andere,,0,0,0,,{\be1}Du schreist bereits beim ersten Zustoßen?{\ You've already screaming with one thrust?}
+Dialogue: 0,0:19:43.25,0:19:46.02,Rei Zero - Andere,,0,0,0,,{\be1}Aber das ist doch gerade erst der Anfang!{\ But it's only the beginning, you know?}
+Dialogue: 0,0:19:52.58,0:19:55.62,Rei Zero - Andere,,0,0,0,,{\be1}Hiermit werde ich dich schwängern, du alte Schachtel!{\ There you go! I'll make you pregnant with this, old hag!}
+Dialogue: 0,0:19:59.48,0:20:02.27,Rei Zero - Shouko Munei,,0,0,0,,{\be1}So viel Sperma...{\ There's a lot of sperm coming out...}
+Dialogue: 0,0:20:02.27,0:20:05.51,Rei Zero - Shouko Munei,,0,0,0,,{\be1}So viel klebriges Sperma kommt aus deinem Penis.{\ There's a lot of sticky thing come out from your penis,}
+Dialogue: 0,0:20:05.51,0:20:07.58,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Es fließt in meine Pussy...{\ It's coming inside my pussy...}
+Dialogue: 0,0:20:08.52,0:20:12.90,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Mehr... Immer mehr fließt in mich...{\ It's coming... It's still coming inside of me...}
+Dialogue: 0,0:20:12.90,0:20:15.25,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Besorg's mir mit deinem Sperma...{\ Make me cum with it...}
+Dialogue: 0,0:20:15.26,0:20:17.30,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Ich will noch mal kommen!{\ Make me cum again!}
+Dialogue: 0,0:20:25.90,0:20:27.70,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Es dringt vor... bis in meine Gebärmutter.{\ It's coming through... in my womb.}
+Dialogue: 0,0:20:28.45,0:20:32.41,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Schieb ihn nicht... so tief in meine Gebärmutter...{\ Don't push it in... don't push it into my womb-}
+Dialogue: 0,0:20:34.13,0:20:38.12,Rei Zero - Andere,,0,0,0,,{\be1}Komm schon! Ich besorg's dir!{\ Go on, cum! Cum! I'll make you cum!}
+Dialogue: 0,0:20:39.50,0:20:40.81,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wer könnte dabei schon...{\ Who's going to-}
+Dialogue: 0,0:20:42.06,0:20:43.65,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wer könnte von... sowas schon kommen?{\ Who's going... to cum-}
+Dialogue: 0,0:20:53.18,0:20:57.66,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Es fließt raus... Es fließt wirklich in mich...{\ It's coming out... It's really coming out... inside of me...}{\i0}
+Dialogue: 0,0:20:58.25,0:21:03.47,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Sein klebriges Sperma fließt in meine Gebärmutter...{\ His sticky sperm is coming into my womb...}{\i0}
+Dialogue: 0,0:21:04.18,0:21:06.27,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Verdammt... Verdammt nochmal...{\ Damn... damn it!}{\i0}
+Dialogue: 0,0:21:14.73,0:21:15.92,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Lasst mich gehen!{\ Let me go!}
+Dialogue: 0,0:21:17.04,0:21:19.77,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Meine Muschi wird gnadenlos durchgefickt...{\ In-inside of my womb is being stirred up...}{\i0}
+Dialogue: 0,0:21:20.22,0:21:23.30,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Ich kann an nichts anderes mehr denken...{\ I can't think of anything else-}{\i0}
+Dialogue: 0,0:21:28.81,0:21:31.66,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Nein... nicht so hart!{\ No... not that hard!}
+Dialogue: 0,0:21:31.66,0:21:34.46,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wenn... Wenn du es so hart machst, werde ich noch...{\ If... if you're doing it that hard, I'm going to-}
+Dialogue: 0,0:21:37.18,0:21:42.45,Rei Zero - Andere,,0,0,0,,{\be1}Gib's endlich zu! Gestehe, dass dich das alles hier antörnt!{\ Admit it. Say it, that you're feeling all of it.}
+Dialogue: 0,0:21:43.79,0:21:47.89,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Wer glaubst du bin ich, dass mich so etwas antörnen könnte...{\ Who do you think... would feel... feel something... like this-}
+Dialogue: 0,0:21:48.87,0:21:50.62,Rei Zero - Andere,,0,0,0,,{\be1}Wie du willst, Schlampe!{\ There you go, bitch!}
+Dialogue: 0,0:21:59.88,0:22:04.79,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ich kom-kom-kom-komme!!!{\ Cum-cum-cum-cum-cum! I'm cumming!!}
+Dialogue: 0,0:22:07.04,0:22:13.12,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Da ist so viel Sperma in meiner Muschi, ich werde bestimmt schwanger...{\ There's a lot of sperm coming inside my pussy,\Nthe semen's going to make me pregnant...}
+Dialogue: 0,0:22:23.92,0:22:26.18,Rei Zero - Andere,,0,0,0,,{\be1}Denk gar nicht erst daran zuzubeißen, ja?{\ Don't even think to bite it, okay?}
+Dialogue: 0,0:22:27.22,0:22:28.53,Rei Zero - Andere,,0,0,0,,{\be1}Ganz zärtlich...{\ Politely...}
+Dialogue: 0,0:22:28.58,0:22:31.61,Rei Zero - Andere,,0,0,0,,{\be1}Genau so, lutsch hingabevoll an meinem Schwanz.{\ That's right, suck it politely with your mouth.}
+Dialogue: 0,0:23:01.56,0:23:02.45,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Lasst mich gehen...{\ Let me go...}
+Dialogue: 0,0:23:06.60,0:23:10.04,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Bedeckt mich nicht mit eurem Sperma... Nein!{\ Don't cover me with your sperm... stop it!}
+Dialogue: 0,0:23:13.14,0:23:15.97,Rei Zero - Shouko Munei,,0,0,0,,{\be1}Du bist schon wieder in mir gekommen...{\ You've let it out inside me again...}
+Dialogue: 0,0:23:43.26,0:23:49.21,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ich werde... euch töten... euch alle... töten...{\ I'll... kill... you... I'm going to... kill you...}
+Dialogue: 0,0:23:53.24,0:23:57.82,Rei Zero - Andere,,0,0,0,,{\be1}Vielleicht sollten wir dich an der nächsten Station rausschmeißen?{\ Then, shall we let you out at the next station?}
+Dialogue: 0,0:24:07.38,0:24:08.85,Rei Zero - Andere,,0,0,0,,{\be1}Ich kümmere mich auch um deine Freundin.{\ I'll take care of your pal.}
+Dialogue: 0,0:24:09.35,0:24:11.32,Rei Zero - Andere,,0,0,0,,{\be1}Wenn du sie retten willst, weißt du was zu tun ist.{\ If you want to save her, you know what to do.}
+Dialogue: 0,0:24:30.97,0:24:32.73,Rei Zero - Andere,,0,0,0,,{\be1}Hey, Zeit für dich zu gehen...{\ Hey, it's time for you to go.}
+Dialogue: 0,0:24:41.62,0:24:44.27,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}Hey... hey... Was ist mit ihr? Drehen die hier einen Porno?{\ Hey... hey... what the matter with her? Are they filming a porno?}
+Dialogue: 0,0:24:44.37,0:24:45.81,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}Was hat sie denn?!{\ What's wrong with her?}
+Dialogue: 0,0:24:45.81,0:24:47.04,Rei Zero - Andere,,0,0,20,,{\an8}{\be1}Wie ekelhaft...{\ It's digusting...}
+Dialogue: 0,0:24:49.17,0:24:50.87,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Das ist...{\ There... is-}
+Dialogue: 0,0:24:51.55,0:24:52.51,Rei Zero - Andere,,0,0,0,,{\be1}Was war in der letzten Spritze?{\ The last serum is?}
+Dialogue: 0,0:24:52.84,0:24:54.19,Rei Zero - Andere,,0,0,0,,{\be1}Das Gegengift...{\ It's the release serum.}
+Dialogue: 0,0:24:54.19,0:24:57.19,Rei Zero - Andere,,0,0,0,,{\be1}Eine Schande, dass wir nicht mit ansehen können was gleich passiert...{\ It's pity that we're not able to watch what'll happen after this.}
+Dialogue: 0,0:25:03.65,0:25:05.44,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ich kann's... nicht mehr halten...{\ I can't... hold it-}
+Dialogue: 0,0:25:11.62,0:25:12.95,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Mein Körper...{\ My body...}
+Dialogue: 0,0:25:13.75,0:25:14.82,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}ist wieder...{\ is being...}
+Dialogue: 0,0:25:15.68,0:25:16.45,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}...frei{\ freed.}
+Dialogue: 0,0:25:18.36,0:25:19.46,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Toilette!{\ Toilet.}
+Dialogue: 0,0:25:20.19,0:25:21.12,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Ganz dringend...{\ Right now...}{\i0}
+Dialogue: 0,0:25:22.95,0:25:23.75,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Ich kann nicht mehr...{\ I can't...}{\i0}
+Dialogue: 0,0:25:24.23,0:25:25.16,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Wenn ich mich nicht sofort...{\ If you're not...}{\i0}
+Dialogue: 0,0:25:26.58,0:25:28.55,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}auf die Toilette lasst...{\ Let me get... to the toilet-}{\i0}
+Dialogue: 0,0:25:33.68,0:25:34.48,Rei Zero - Andere,,0,0,0,,{\be1}Hey, sie da!{\ Hey, you!}
+Dialogue: 0,0:25:36.24,0:25:37.00,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Es kommt!{\ It's going!}{\i0}
+Dialogue: 0,0:25:37.53,0:25:38.81,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Es... kommt rausgeflossen!{\ It's... going out-}{\i0}
+Dialogue: 0,0:25:48.34,0:25:49.73,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Mein Urin...{\ My urine...}{\i0}
+Dialogue: 0,0:25:50.38,0:25:51.36,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}fließt raus...{\ is come out...}{\i0}
+Dialogue: 0,0:25:52.64,0:25:57.74,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Ich komme... während ich... pinkle...{\ I'm cumming... while I'm... peeing...}{\i0}
+Dialogue: 0,0:26:02.37,0:26:05.22,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}{\i1}Ich komme... vom Pinkeln...{\ I'm cumming... while peeing...}{\i0}
+Dialogue: 0,0:26:15.33,0:26:18.72,Rei Zero - Rei Kirisawa,,0,0,0,,{\be1}Ich werde... sie... töten.{\ I'll... kill... you.}
+Dialogue: 0,0:26:21.89,0:26:26.13,Rei Zero Kara Jap,,0,0,0,,{\k38}Na{\k19}ga{\k20}sa{\k22}re{\k18}re{\k79}ba{\k15} {\k12}I{\k14}tsu{\k27}dat{\k18}te {\k25}Ku{\k15}ri{\k23}ka{\k30}e{\k49}shi
+Dialogue: 0,0:26:26.13,0:26:29.63,Rei Zero Kara Jap,,0,0,0,,{\k47}ni {\k36}Mi{\k73}e{\k50}ru{\k3} {\k28}Hi{\k111}bi
+Dialogue: 0,0:26:29.93,0:26:32.80,Rei Zero Kara Jap,,0,0,0,,{\k26}Dai{\k29}ji{\k17}na {\k21}mo{\k17}no {\k73}wa{\k29} {\k10}U{\k13}shi{\k24}nat{\k29}te
+Dialogue: 0,0:26:32.80,0:26:37.67,Rei Zero Kara Jap,,0,0,0,,{\k21}Ha{\k17}ru{\k24}me{\k37}te {\k46}Ki{\k28}zu{\k38}ku{\k45}ra{\k38}shi{\k46}i {\k28}ke{\k118}do
+Dialogue: 0,0:26:37.94,0:26:41.91,Rei Zero Kara Jap,,0,0,0,,{\k30}Ha{\k44}ri{\k11}tsu{\k14}ke{\k13}ta{\k48}you {\k27}ga {\k49}Mai{\k27}ni{\k45}chi {\k89}ni
+Dialogue: 0,0:26:41.91,0:26:45.68,Rei Zero Kara Jap,,0,0,0,,{\k40}Nat{\k26}te {\k24}Na{\k13}ku{\k12}shi{\k48}te {\k25}Ki{\k48}zu{\k27}i{\k50}tat{\k65}te
+Dialogue: 0,0:26:45.68,0:26:52.89,Rei Zero Kara Jap,,0,0,0,,{\k33}{\k14}Ko{\k14}u{\k38}ka{\k15}i {\k25}nan{\k37}te {\k35}shi{\k50}na{\k28}i {\k39}to {\k8}{\k50}O{\k48}mot{\k21}te{\k234}ta
+Dialogue: 0,0:26:53.72,0:27:00.86,Rei Zero Kara Jap,,0,0,0,,{\k82}So{\k50}no {\k52}Hi{\k26}to{\k72}mi {\k75}wo {\k29}Mo{\k21}u {\k52}I{\k26}chi{\k209}do
+Dialogue: 0,0:27:01.86,0:27:08.14,Rei Zero Kara Jap,,0,0,0,,{\k127}Dou{\k50}ka {\k27}Wa{\k37}ta{\k36}shi {\k67}wo{\k8} {\k48}U{\k44}tsu{\k32}shi{\k178}te
+Dialogue: 0,0:27:09.81,0:27:16.48,Rei Zero Kara Jap,,0,0,0,,{\k80}Ko{\k52}no {\k51}O{\k25}mo{\k74}i {\k62}wo {\k42}Mo{\k17}u {\k49}I{\k32}chi{\k241}do
+Dialogue: 0,0:27:17.85,0:27:24.25,Rei Zero Kara Jap,,0,0,0,,{\k70}Do{\k49}u{\k51}ka {\k20}A{\k54}na{\k29}ta {\k65}ni {\k8}{\k49}To{\k50}do{\k25}i{\k170}te
+Dialogue: 0,0:27:25.89,0:27:27.79,Rei Zero Kara Jap,,0,0,0,,{\k41}Mo{\k29}u {\k14}Ni{\k32}do{\k74}to
+Dialogue: 0,0:26:21.89,0:26:26.13,Rei Zero Kara Eng,,0,0,0,,Wenn ich mich verliere, kann ich doch stets{\ If I drifted away, I can always go back}
+Dialogue: 0,0:26:26.13,0:26:29.63,Rei Zero Kara Eng,,0,0,0,,In die Zeit in die ich gehöre zurückkehren{\ to the days where I belong}
+Dialogue: 0,0:26:29.93,0:26:32.80,Rei Zero Kara Eng,,0,0,0,,Selbst wenn ich etwas Wichtiges vergesse{\ Even I lose something important}
+Dialogue: 0,0:26:32.80,0:26:37.67,Rei Zero Kara Eng,,0,0,0,,Kann ich mich doch erinnern{\ There's a way to remember it}
+Dialogue: 0,0:26:37.94,0:26:41.91,Rei Zero Kara Eng,,0,0,0,,Würde ich an vergangenen Tagen festhalten{\ If I just attach to those lost days}
+Dialogue: 0,0:26:41.91,0:26:45.68,Rei Zero Kara Eng,,0,0,0,,Könnte ich mich besser erinnern{\ I might be able to remember something}
+Dialogue: 0,0:26:45.68,0:26:52.89,Rei Zero Kara Eng,,0,0,0,,Aber niemals würde ich bereuen{\ But I never feel any regret in my mind}
+Dialogue: 0,0:26:53.72,0:27:00.86,Rei Zero Kara Eng,,0,0,0,,Mit diesen Augen sollst du mich{\ With those eyes once again}
+Dialogue: 0,0:27:01.86,0:27:08.14,Rei Zero Kara Eng,,0,0,0,,Noch einmal ansehen{\ I want you to look at me}
+Dialogue: 0,0:27:09.81,0:27:16.48,Rei Zero Kara Eng,,0,0,0,,Mit diesen Gefühlen will ich dich{\ With this feeling once again}
+Dialogue: 0,0:27:17.85,0:27:24.25,Rei Zero Kara Eng,,0,0,0,,Noch einmal in die Arme schließen{\ I want to reach for you}
+Dialogue: 0,0:27:25.89,0:27:27.79,Rei Zero Kara Eng,,0,0,0,,Nimmermehr!{\ Never again}

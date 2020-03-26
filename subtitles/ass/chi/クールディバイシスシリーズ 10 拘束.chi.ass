@@ -1,0 +1,349 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: クールディバイシスシリーズ 10 拘束
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,lishu,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,30,30,30,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.75,0:00:19.49,Default,,0,0,0,!Effect,昌樹  我愛你！
+Dialogue: 0,0:00:21.32,0:00:23.26,Default,,0,0,0,!Effect,美幸  我愛妳！
+Dialogue: 0,0:00:23.49,0:00:24.66,Default,,0,0,0,!Effect,非常之愛妳
+Dialogue: 0,0:00:24.86,0:00:27.99,Default,,0,0,0,!Effect,好高興啊！  我也非常非常的愛你
+Dialogue: 0,0:00:29.36,0:00:33.47,Default,,0,0,0,!Effect,昌樹  請不要離開我！
+Dialogue: 0,0:00:34.07,0:00:38.10,Default,,0,0,0,!Effect,救我！救我出去啊！求求你！
+Dialogue: 0,0:00:41.34,0:00:43.38,Default,,0,0,0,!Effect,美幸  我一定會救妳的
+Dialogue: 0,0:00:43.68,0:00:44.71,Default,,0,0,0,!Effect,一定！
+Dialogue: 0,0:00:53.72,0:00:58.46,Default,,0,0,0,!Effect,是夢嗎？誰是美幸啊？  我完全不認識那個女人
+Dialogue: 0,0:00:59.09,0:01:01.09,Default,,0,0,0,!Effect,我是在發春嗎？
+Dialogue: 0,0:01:01.19,0:01:04.36,Default,,0,0,0,!Effect,下一站是落眼寺站  落眼寺站
+Dialogue: 0,0:01:10.30,0:01:12.57,Default,,0,0,0,!Effect,呀！我的背包…
+Dialogue: 0,0:01:14.34,0:01:15.31,Default,,0,0,0,!Effect,喂！等一下！
+Dialogue: 0,0:01:16.31,0:01:17.78,Default,,0,0,0,!Effect,喂！小偷！
+Dialogue: 0,0:01:20.58,0:01:21.78,Default,,0,0,0,!Effect,可惡！
+Dialogue: 0,0:01:30.26,0:01:34.39,Default,,0,0,0,!Effect,搞甚麼啊？混帳！電車又開走了
+Dialogue: 0,0:01:36.33,0:01:37.53,Default,,0,0,0,!Effect,錢包呢？
+Dialogue: 0,0:01:38.96,0:01:40.40,Default,,0,0,0,!Effect,車票呢？
+Dialogue: 0,0:01:51.24,0:01:52.98,Default,,0,0,0,!Effect,下一班列車是…
+Dialogue: 0,0:01:53.85,0:01:55.11,Default,,0,0,0,!Effect,三個小時之後啊
+Dialogue: 0,0:01:55.51,0:01:57.95,Default,,0,0,0,!Effect,但是沒錢就無法乘坐啊
+Dialogue: 0,0:01:58.48,0:02:03.16,Default,,0,0,0,!Effect,在車站…呀？  甚麼？是無人車站嗎？
+Dialogue: 0,0:02:05.16,0:02:07.19,Default,,0,0,0,!Effect,我又沒帶提款卡
+Dialogue: 0,0:02:07.36,0:02:09.80,Default,,0,0,0,!Effect,這種地方也沒有銀行
+Dialogue: 0,0:02:10.23,0:02:11.16,Default,,0,0,0,!Effect,可惡！
+Dialogue: 0,0:02:12.93,0:02:14.63,Default,,0,0,0,!Effect,喂！不要斷哦
+Dialogue: 0,0:02:15.73,0:02:17.34,Default,,0,0,0,!Effect,這…這是地震呀！
+Dialogue: 0,0:02:17.50,0:02:18.74,Default,,0,0,0,!Effect,不得了
+Dialogue: 0,0:02:25.04,0:02:29.74,Default,,0,0,0,!Effect,片名：拘束
+Dialogue: 0,0:02:31.52,0:02:34.65,Default,,0,0,0,!Effect,真倒霉  我是星野昌樹
+Dialogue: 0,0:02:34.92,0:02:36.22,Default,,0,0,0,!Effect,是新聞雜誌的撰稿員
+Dialogue: 0,0:02:36.59,0:02:39.63,Default,,0,0,0,!Effect,為要搜集這一帶的地震資料而來
+Dialogue: 0,0:02:40.16,0:02:43.60,Default,,0,0,0,!Effect,結果一直滯留在這無人的車站
+Dialogue: 0,0:02:44.00,0:02:45.93,Default,,0,0,0,!Effect,真是的！倒楣透了
+Dialogue: 0,0:02:49.97,0:02:52.57,Default,,0,0,0,!Effect,喂！你在做甚麼？
+Dialogue: 0,0:02:52.77,0:02:54.77,Default,,0,0,0,!Effect,呀！在做甚麼嗎？
+Dialogue: 0,0:02:55.01,0:02:56.68,Default,,0,0,0,!Effect,當然是在等電車了哦
+Dialogue: 0,0:02:56.94,0:02:59.78,Default,,0,0,0,!Effect,你怎麼等電車也不會來的哦
+Dialogue: 0,0:03:00.65,0:03:02.05,Default,,0,0,0,!Effect,由於剛才的地震
+Dialogue: 0,0:03:02.15,0:03:05.28,Default,,0,0,0,!Effect,山崖崩塌使鐵路和道路都封閉了
+Dialogue: 0,0:03:05.58,0:03:08.32,Default,,0,0,0,!Effect,我真是倒楣透頂了！
+Dialogue: 0,0:03:12.76,0:03:15.86,Default,,0,0,0,!Effect,錢和車票都沒有了  你有甚麼打算？
+Dialogue: 0,0:03:16.20,0:03:18.53,Default,,0,0,0,!Effect,首先通知編輯
+Dialogue: 0,0:03:19.20,0:03:21.23,Default,,0,0,0,!Effect,再找地方住一晚…
+Dialogue: 0,0:03:21.63,0:03:22.97,Default,,0,0,0,!Effect,沒辦法呢！
+Dialogue: 0,0:03:23.27,0:03:26.67,Default,,0,0,0,!Effect,在鐵路通行之前  暫時就住在我家吧！
+Dialogue: 0,0:03:26.77,0:03:27.67,Default,,0,0,0,!Effect,歡迎你！
+Dialogue: 0,0:03:28.17,0:03:29.01,Default,,0,0,0,!Effect,謝謝妳！
+Dialogue: 0,0:03:29.27,0:03:30.51,Default,,0,0,0,!Effect,但是  可以嗎？
+Dialogue: 0,0:03:30.61,0:03:33.34,Default,,0,0,0,!Effect,我家只有女人也沒關係！  我會拜託媽媽的
+Dialogue: 0,0:03:33.61,0:03:35.35,Default,,0,0,0,!Effect,真是謝謝妳  得救了
+Dialogue: 0,0:03:35.58,0:03:36.75,Default,,0,0,0,!Effect,我是星野昌樹
+Dialogue: 0,0:03:36.85,0:03:37.48,Default,,0,0,0,!Effect,我是…
+Dialogue: 0,0:03:37.62,0:03:38.45,Default,,0,0,0,!Effect,美幸小姐吧
+Dialogue: 0,0:03:39.95,0:03:41.19,Default,,0,0,0,!Effect,怎麼會知道的？
+Dialogue: 0,0:03:42.12,0:03:44.16,Default,,0,0,0,!Effect,呀！素描畫冊上寫著啊！
+Dialogue: 0,0:03:44.49,0:03:45.46,Default,,0,0,0,!Effect,哈！是啊！
+Dialogue: 0,0:03:45.89,0:03:47.49,Default,,0,0,0,!Effect,哪裡是美幸小姐的家…
+Dialogue: 0,0:03:47.83,0:03:50.66,Default,,0,0,0,!Effect,我的家…就在那裡！
+Dialogue: 0,0:03:54.43,0:03:55.47,Default,,0,0,0,!Effect,我回來了！
+Dialogue: 0,0:04:04.18,0:04:05.41,Default,,0,0,0,!Effect,請這邊來  星野先生
+Dialogue: 0,0:04:05.64,0:04:07.38,Default,,0,0,0,!Effect,我取得媽媽的同意了
+Dialogue: 0,0:04:07.58,0:04:09.22,Default,,0,0,0,!Effect,你可以用我們的客房
+Dialogue: 0,0:04:12.89,0:04:15.02,Default,,0,0,0,!Effect,那麼  請你用這間房吧！
+Dialogue: 0,0:04:15.52,0:04:15.92,Default,,0,0,0,!Effect,多謝妳！
+Dialogue: 0,0:04:19.32,0:04:20.53,Default,,0,0,0,!Effect,有甚麼事嗎？
+Dialogue: 0,0:04:21.29,0:04:24.43,Default,,0,0,0,!Effect,呀…！不  真的謝謝妳的幫忙
+Dialogue: 0,0:04:27.40,0:04:29.53,Default,,0,0,0,!Effect,那麼  做好晚飯時再來叫你
+Dialogue: 0,0:04:32.37,0:04:35.47,Default,,0,0,0,!Effect,為甚麼？會是夢中見過的女孩…
+Dialogue: 0,0:04:38.64,0:04:40.35,Default,,0,0,0,!Effect,美幸你已經認識了
+Dialogue: 0,0:04:40.98,0:04:42.65,Default,,0,0,0,!Effect,我是長女陽子
+Dialogue: 0,0:04:42.81,0:04:45.05,Default,,0,0,0,!Effect,這是三女真由  還是高一生
+Dialogue: 0,0:04:45.18,0:04:46.82,Default,,0,0,0,!Effect,這是女傭加奈
+Dialogue: 0,0:04:47.62,0:04:51.72,Default,,0,0,0,!Effect,對不起！  母親從昨天起感冒臥床休息
+Dialogue: 0,0:04:52.16,0:04:53.63,Default,,0,0,0,!Effect,星野先生  到這裡來是…
+Dialogue: 0,0:04:54.56,0:04:56.80,Default,,0,0,0,!Effect,為了搜集地震資料而來的
+Dialogue: 0,0:04:57.43,0:05:00.70,Default,,0,0,0,!Effect,嗯！  星野先生原來是雜誌社的撰稿員
+Dialogue: 0,0:05:01.10,0:05:02.90,Default,,0,0,0,!Effect,寫過甚麼樣的報導嗎？
+Dialogue: 0,0:05:03.57,0:05:05.60,Default,,0,0,0,!Effect,因為只是一直在寫  所以…
+Dialogue: 0,0:05:05.90,0:05:07.31,Default,,0,0,0,!Effect,雜誌名稱是？
+Dialogue: 0,0:05:07.57,0:05:09.24,Default,,0,0,0,!Effect,是一本叫「一週快訊」的書
+Dialogue: 0,0:05:09.51,0:05:10.91,Default,,0,0,0,!Effect,呀！我有看過
+Dialogue: 0,0:05:11.11,0:05:12.88,Default,,0,0,0,!Effect,是一本綜合性的雜誌吧
+Dialogue: 0,0:05:13.18,0:05:15.28,Default,,0,0,0,!Effect,由嚴肅的話題至裸照
+Dialogue: 0,0:05:15.41,0:05:16.85,Default,,0,0,0,!Effect,是一本包羅萬有的雜誌
+Dialogue: 0,0:05:18.08,0:05:18.72,Default,,0,0,0,!Effect,是吧！
+Dialogue: 0,0:05:18.88,0:05:21.72,Default,,0,0,0,!Effect,你有替人拍過裸照嗎？
+Dialogue: 0,0:05:22.82,0:05:24.52,Default,,0,0,0,!Effect,因為我只是取素材
+Dialogue: 0,0:05:24.69,0:05:26.63,Default,,0,0,0,!Effect,而且拍得不好  沒有被取用
+Dialogue: 0,0:05:29.93,0:05:31.00,Default,,0,0,0,!Effect,這個很美味
+Dialogue: 0,0:05:31.26,0:05:32.70,Default,,0,0,0,!Effect,全是加奈做的嗎？
+Dialogue: 0,0:05:33.13,0:05:36.30,Default,,0,0,0,!Effect,是！是真的嗎？  好開心  還要再來點嗎？
+Dialogue: 0,0:05:36.50,0:05:37.24,Default,,0,0,0,!Effect,加奈
+Dialogue: 0,0:05:38.84,0:05:39.67,Default,,0,0,0,!Effect,對不起！
+Dialogue: 0,0:05:42.07,0:05:44.81,Default,,0,0,0,!Effect,對不起  菜做得太多了呢
+Dialogue: 0,0:05:45.01,0:05:46.28,Default,,0,0,0,!Effect,是！謝謝妳
+Dialogue: 0,0:05:46.38,0:05:48.91,Default,,0,0,0,!Effect,姐姐真是的！不要這樣大聲
+Dialogue: 0,0:05:51.38,0:05:55.19,Default,,0,0,0,!Effect,今天算是幸運還是倒楣  我也搞不清楚了
+Dialogue: 0,0:05:55.65,0:05:57.19,Default,,0,0,0,!Effect,還算是幸運嘛
+Dialogue: 0,0:05:57.36,0:06:00.39,Default,,0,0,0,!Effect,能在美人三姐妹的家裡留宿
+Dialogue: 0,0:06:01.03,0:06:02.93,Default,,0,0,0,!Effect,女傭加奈也很可愛嘛
+Dialogue: 0,0:06:03.23,0:06:05.97,Default,,0,0,0,!Effect,客人！洗澡水如何呢？
+Dialogue: 0,0:06:06.87,0:06:08.13,Default,,0,0,0,!Effect,加…加奈
+Dialogue: 0,0:06:08.33,0:06:10.07,Default,,0,0,0,!Effect,讓我來為你擦背吧
+Dialogue: 0,0:06:11.47,0:06:15.31,Default,,0,0,0,!Effect,不…不用了！  這樣…那麼…就拜託妳了
+Dialogue: 0,0:06:21.48,0:06:22.81,Default,,0,0,0,!Effect,加…加奈…
+Dialogue: 0,0:06:23.08,0:06:25.32,Default,,0,0,0,!Effect,哇！已經變這麼大了！
+Dialogue: 0,0:06:25.78,0:06:26.39,Default,,0,0,0,!Effect,為甚麼？
+Dialogue: 0,0:06:26.89,0:06:28.82,Default,,0,0,0,!Effect,這是陽子大人的命令
+Dialogue: 0,0:06:29.25,0:06:31.69,Default,,0,0,0,!Effect,叫我來照顧客人的
+Dialogue: 0,0:06:32.26,0:06:35.86,Default,,0,0,0,!Effect,這裡發生的事  對其他人是秘密
+Dialogue: 0,0:06:36.06,0:06:37.53,Default,,0,0,0,!Effect,請你放心  好好享受吧！
+Dialogue: 0,0:06:37.93,0:06:39.73,Default,,0,0,0,!Effect,陽…陽子小姐也…
+Dialogue: 0,0:06:40.43,0:06:42.07,Default,,0,0,0,!Effect,舒服嗎？
+Dialogue: 0,0:06:42.97,0:06:43.80,Default,,0,0,0,!Effect,好棒啊
+Dialogue: 0,0:06:48.81,0:06:51.24,Default,,0,0,0,!Effect,還要…再讓我更舒服吧！
+Dialogue: 0,0:07:01.45,0:07:02.96,Default,,0,0,0,!Effect,很棒  非常棒啊
+Dialogue: 0,0:07:03.16,0:07:06.49,Default,,0,0,0,!Effect,拜託你  請再…再用力點插我！
+Dialogue: 0,0:07:12.40,0:07:15.20,Default,,0,0,0,!Effect,求求你  在裡面…在裡面射吧！
+Dialogue: 0,0:07:15.37,0:07:16.20,Default,,0,0,0,!Effect,但是…
+Dialogue: 0,0:07:16.54,0:07:18.44,Default,,0,0,0,!Effect,沒問題的…在裡面…
+Dialogue: 0,0:07:20.71,0:07:22.58,Default,,0,0,0,!Effect,現在…現在讓我高潮吧！
+Dialogue: 0,0:07:43.90,0:07:46.13,Default,,0,0,0,!Effect,是夢嗎？
+Dialogue: 0,0:08:11.76,0:08:12.79,Default,,0,0,0,!Effect,加奈
+Dialogue: 0,0:08:13.12,0:08:15.16,Default,,0,0,0,!Effect,誰准許妳做愛的？
+Dialogue: 0,0:08:15.46,0:08:18.20,Default,,0,0,0,!Effect,看來不好好懲罰妳不行了
+Dialogue: 0,0:08:18.96,0:08:21.30,Default,,0,0,0,!Effect,不要  請原諒我吧  陽子大人
+Dialogue: 0,0:08:22.10,0:08:24.34,Default,,0,0,0,!Effect,今天就用600cc吧
+Dialogue: 0,0:08:24.54,0:08:26.47,Default,,0,0,0,!Effect,不要  不行  求求妳原諒我…
+Dialogue: 0,0:08:34.75,0:08:37.08,Default,,0,0,0,!Effect,看！漸漸注入了
+Dialogue: 0,0:08:37.52,0:08:39.15,Default,,0,0,0,!Effect,今天需要多少分鐘呢？
+Dialogue: 0,0:08:39.85,0:08:42.72,Default,,0,0,0,!Effect,陽子大人  妳這樣做的話  加奈會忍不住…
+Dialogue: 0,0:08:44.19,0:08:45.86,Default,,0,0,0,!Effect,不行啊！這樣也不能忍受
+Dialogue: 0,0:08:46.26,0:08:49.63,Default,,0,0,0,!Effect,好不容易把客人請到這裡來觀看
+Dialogue: 0,0:08:50.10,0:08:52.83,Default,,0,0,0,!Effect,而女傭是應該讓客人高興的
+Dialogue: 0,0:08:57.57,0:09:00.41,Default,,0,0,0,!Effect,不要  請不要看我  求求你
+Dialogue: 0,0:09:00.67,0:09:01.51,Default,,0,0,0,!Effect,閉嘴！
+Dialogue: 0,0:09:02.41,0:09:05.44,Default,,0,0,0,!Effect,來吧！請隨便  想再看清楚一點吧！
+Dialogue: 0,0:09:08.58,0:09:10.02,Default,,0,0,0,!Effect,不要  會拉的…
+Dialogue: 0,0:09:10.18,0:09:12.12,Default,,0,0,0,!Effect,來！我們一起玩吧
+Dialogue: 0,0:09:13.99,0:09:15.72,Default,,0,0,0,!Effect,不要  不要…
+Dialogue: 0,0:09:36.14,0:09:37.88,Default,,0,0,0,!Effect,早安！吃早餐了
+Dialogue: 0,0:09:39.84,0:09:41.85,Default,,0,0,0,!Effect,咦？還沒有起來嗎？
+Dialogue: 0,0:09:42.11,0:09:43.65,Default,,0,0,0,!Effect,真是！早餐都快涼了
+Dialogue: 0,0:09:44.82,0:09:45.95,Default,,0,0,0,!Effect,美幸小姐！
+Dialogue: 0,0:09:47.35,0:09:49.65,Default,,0,0,0,!Effect,昨晚發生了甚麼事？
+Dialogue: 0,0:09:50.19,0:09:51.52,Default,,0,0,0,!Effect,又是做夢嗎？
+Dialogue: 0,0:09:54.53,0:09:56.03,Default,,0,0,0,!Effect,妳是加奈小姐吧
+Dialogue: 0,0:09:56.26,0:09:56.83,Default,,0,0,0,!Effect,是！
+Dialogue: 0,0:09:57.06,0:09:58.00,Default,,0,0,0,!Effect,昨晚謝謝妳
+Dialogue: 0,0:09:59.33,0:10:00.30,Default,,0,0,0,!Effect,身體沒問題吧
+Dialogue: 0,0:10:00.47,0:10:01.57,Default,,0,0,0,!Effect,是怎麼回事？
+Dialogue: 0,0:10:01.77,0:10:04.47,Default,,0,0,0,!Effect,因為昨晚妳被陽子小姐懲罰…
+Dialogue: 0,0:10:04.80,0:10:07.34,Default,,0,0,0,!Effect,我沒有被懲罰甚麼的
+Dialogue: 0,0:10:12.31,0:10:15.05,Default,,0,0,0,!Effect,還在吃早餐  去取素材嗎？
+Dialogue: 0,0:10:15.15,0:10:16.65,Default,,0,0,0,!Effect,反正我沒有事  我帶你去吧！
+Dialogue: 0,0:10:19.72,0:10:21.92,Default,,0,0,0,!Effect,看！  就是那裡了  山崖崩塌的地方
+Dialogue: 0,0:10:22.19,0:10:23.72,Default,,0,0,0,!Effect,鐵路和街道都被埋沒了
+Dialogue: 0,0:10:24.12,0:10:25.22,Default,,0,0,0,!Effect,想走近點看看嗎？
+Dialogue: 0,0:10:26.76,0:10:27.79,Default,,0,0,0,!Effect,怎麼了嗎？
+Dialogue: 0,0:10:28.79,0:10:29.26,Default,,0,0,0,!Effect,沒有事
+Dialogue: 0,0:10:29.63,0:10:30.26,Default,,0,0,0,!Effect,走吧！
+Dialogue: 0,0:10:32.33,0:10:34.77,Default,,0,0,0,!Effect,美幸小姐的工作是做甚麼的？
+Dialogue: 0,0:10:35.10,0:10:38.64,Default,,0,0,0,!Effect,我？我現在是幫忙做家務
+Dialogue: 0,0:10:39.30,0:10:41.07,Default,,0,0,0,!Effect,可是  不是有女傭嗎？
+Dialogue: 0,0:10:41.34,0:10:44.68,Default,,0,0,0,!Effect,我呢！  其實是想做一個插圖畫家
+Dialogue: 0,0:10:45.04,0:10:47.85,Default,,0,0,0,!Effect,所以  看！我經常都帶著素描畫冊
+Dialogue: 0,0:10:47.98,0:10:50.65,Default,,0,0,0,!Effect,看到喜歡的東西  可以隨時停下來繪畫
+Dialogue: 0,0:10:51.22,0:10:54.55,Default,,0,0,0,!Effect,星野先生是記者  那你想寫些甚麼東西呢？
+Dialogue: 0,0:10:54.85,0:10:58.76,Default,,0,0,0,!Effect,我將來打算寫小說  但言之尚早
+Dialogue: 0,0:10:59.12,0:11:02.56,Default,,0,0,0,!Effect,那麼  小說完成的話  請送一本給我看
+Dialogue: 0,0:11:03.49,0:11:05.43,Default,,0,0,0,!Effect,真的多多指教了
+Dialogue: 0,0:11:05.86,0:11:06.80,Default,,0,0,0,!Effect,美幸小姐
+Dialogue: 0,0:11:15.07,0:11:18.78,Default,,0,0,0,!Effect,救我！救我出去啊！求求你！
+Dialogue: 0,0:11:19.51,0:11:21.75,Default,,0,0,0,!Effect,不要！你在做甚麼？
+Dialogue: 0,0:11:22.15,0:11:23.58,Default,,0,0,0,!Effect,不！對不起  無意的…
+Dialogue: 0,0:11:36.26,0:11:37.86,Default,,0,0,0,!Effect,究竟發生甚麼事了？
+Dialogue: 0,0:11:41.80,0:11:44.64,Default,,0,0,0,!Effect,怎麼突然閃過親切的感覺？
+Dialogue: 0,0:11:44.97,0:11:46.61,Default,,0,0,0,!Effect,跟那承諾該有點關係
+Dialogue: 0,0:12:10.83,0:12:11.86,Default,,0,0,0,!Effect,美奈…
+Dialogue: 0,0:12:12.26,0:12:15.40,Default,,0,0,0,!Effect,真…真由  不把那玩意借給我的話…
+Dialogue: 0,0:12:15.73,0:12:18.10,Default,,0,0,0,!Effect,美奈是無法忍耐下去的
+Dialogue: 0,0:12:18.54,0:12:20.17,Default,,0,0,0,!Effect,美奈站不起來了
+Dialogue: 0,0:12:20.67,0:12:23.01,Default,,0,0,0,!Effect,美奈的小妹妹好可愛！
+Dialogue: 0,0:12:23.78,0:12:26.61,Default,,0,0,0,!Effect,真由！  妳這麼做的話  美奈會瘋掉的
+Dialogue: 0,0:12:27.25,0:12:30.48,Default,,0,0,0,!Effect,這…這是…這個家是怎麼搞的？
+Dialogue: 0,0:12:32.58,0:12:34.32,Default,,0,0,0,!Effect,咦…呀…哎…嗚…這個…
+Dialogue: 0,0:12:41.96,0:12:44.70,Default,,0,0,0,!Effect,哥哥  真由好想要啊
+Dialogue: 0,0:12:45.73,0:12:49.17,Default,,0,0,0,!Effect,哥哥  要不要一起玩這玩意兒呢？
+Dialogue: 0,0:12:49.73,0:12:51.54,Default,,0,0,0,!Effect,真…真由不用上學嗎？
+Dialogue: 0,0:12:51.87,0:12:54.54,Default,,0,0,0,!Effect,電車沒有來  怎麼上學啊？
+Dialogue: 0,0:12:54.74,0:12:57.78,Default,,0,0,0,!Effect,哥哥！  哥哥也一起來玩這玩具吧
+Dialogue: 0,0:12:57.84,0:12:58.78,Default,,0,0,0,!Effect,呀！等等
+Dialogue: 0,0:12:58.98,0:13:02.98,Default,,0,0,0,!Effect,真由！看！  哥哥那裡也藏了一個玩具啊！
+Dialogue: 0,0:13:03.51,0:13:05.55,Default,,0,0,0,!Effect,哥哥的乳頭有感覺嗎？
+Dialogue: 0,0:13:06.95,0:13:08.59,Default,,0,0,0,!Effect,哥哥  伸出來…
+Dialogue: 0,0:13:11.86,0:13:14.09,Default,,0,0,0,!Effect,哥哥  好舒服！
+Dialogue: 0,0:13:14.86,0:13:16.29,Default,,0,0,0,!Effect,好舒服啊！
+Dialogue: 0,0:13:32.34,0:13:35.95,Default,,0,0,0,!Effect,不要停啊！美奈也濕了啊！
+Dialogue: 0,0:13:37.15,0:13:38.75,Default,,0,0,0,!Effect,很棒  很棒啊
+Dialogue: 0,0:13:43.75,0:13:46.99,Default,,0,0,0,!Effect,那裡很舒服啊  美奈！
+Dialogue: 0,0:13:47.93,0:13:50.66,Default,,0,0,0,!Effect,這樣摩擦下去  我會尿出來的
+Dialogue: 0,0:13:51.30,0:13:53.30,Default,,0,0,0,!Effect,哥哥  快點啊！
+Dialogue: 0,0:13:55.50,0:13:57.54,Default,,0,0,0,!Effect,不  進入了啊！
+Dialogue: 0,0:14:02.54,0:14:05.24,Default,,0,0,0,!Effect,啊！真是太爽了
+Dialogue: 0,0:14:05.81,0:14:08.75,Default,,0,0,0,!Effect,哥哥  來吧！一起去吧！
+Dialogue: 0,0:14:34.47,0:14:36.91,Default,,0,0,0,!Effect,麗子大人  請饒恕我吧
+Dialogue: 0,0:14:41.25,0:14:45.62,Default,,0,0,0,!Effect,陽子！妳在懲罰加奈的時候  跟男人享樂過呢！
+Dialogue: 0,0:14:46.58,0:14:48.72,Default,,0,0,0,!Effect,請妳原諒我  我不會再犯的
+Dialogue: 0,0:14:48.89,0:14:51.02,Default,,0,0,0,!Effect,閉嘴！我沒想過要原諒妳
+Dialogue: 0,0:14:53.99,0:14:56.83,Default,,0,0,0,!Effect,這…這是甚麼樣的家庭？
+Dialogue: 0,0:14:57.56,0:15:01.43,Default,,0,0,0,!Effect,真由  妳跟美奈胡搞的時候  竟然讓男人加入
+Dialogue: 0,0:15:02.03,0:15:03.94,Default,,0,0,0,!Effect,對不起  請原諒我
+Dialogue: 0,0:15:04.44,0:15:06.37,Default,,0,0,0,!Effect,是"請妳原諒我  麗子大人"吧！
+Dialogue: 0,0:15:07.21,0:15:09.34,Default,,0,0,0,!Effect,看來有人還未懲罰夠呢
+Dialogue: 0,0:15:10.14,0:15:10.98,Default,,0,0,0,!Effect,求求妳
+Dialogue: 0,0:15:11.88,0:15:15.51,Default,,0,0,0,!Effect,美幸  妳跟男人一起出去時做過甚麼？
+Dialogue: 0,0:15:16.08,0:15:17.72,Default,,0,0,0,!Effect,妳這個放蕩的女兒
+Dialogue: 0,0:15:18.12,0:15:19.88,Default,,0,0,0,!Effect,求求妳  請妳原諒我！
+Dialogue: 0,0:15:20.49,0:15:22.89,Default,,0,0,0,!Effect,我和星野大人甚麼也沒做過
+Dialogue: 0,0:15:23.85,0:15:25.69,Default,,0,0,0,!Effect,我討厭別人說謊
+Dialogue: 0,0:15:26.72,0:15:27.76,Default,,0,0,0,!Effect,老實說出來
+Dialogue: 0,0:15:28.06,0:15:31.00,Default,,0,0,0,!Effect,是真的  我沒有做任何錯事
+Dialogue: 0,0:15:33.53,0:15:34.70,Default,,0,0,0,!Effect,很頑固啊
+Dialogue: 0,0:15:35.10,0:15:37.64,Default,,0,0,0,!Effect,看來普通的懲罰對妳沒用呢
+Dialogue: 0,0:15:37.84,0:15:39.84,Default,,0,0,0,!Effect,加奈  拿那條有刺的鞭出來
+Dialogue: 0,0:15:40.20,0:15:40.94,Default,,0,0,0,!Effect,是！
+Dialogue: 0,0:15:42.07,0:15:45.51,Default,,0,0,0,!Effect,不要  不要  只有這樣…只有這樣請原諒我
+Dialogue: 0,0:15:46.78,0:15:48.41,Default,,0,0,0,!Effect,只是在海灘接吻而已
+Dialogue: 0,0:15:49.61,0:15:50.68,Default,,0,0,0,!Effect,只有接吻而已嗎？
+Dialogue: 0,0:15:51.12,0:15:52.95,Default,,0,0,0,!Effect,是！只是接吻
+Dialogue: 0,0:15:53.38,0:15:55.85,Default,,0,0,0,!Effect,那樣做的時候很難為情
+Dialogue: 0,0:15:56.09,0:15:59.92,Default,,0,0,0,!Effect,哎呀！  美幸  妳愛上那男人了嗎？
+Dialogue: 0,0:16:00.39,0:16:01.46,Default,,0,0,0,!Effect,不是！這種事…
+Dialogue: 0,0:16:01.69,0:16:02.93,Default,,0,0,0,!Effect,老實說出來
+Dialogue: 0,0:16:08.20,0:16:09.53,Default,,0,0,0,!Effect,麗子大人  請原諒她吧
+Dialogue: 0,0:16:09.67,0:16:11.30,Default,,0,0,0,!Effect,美幸…美幸會死掉的！
+Dialogue: 0,0:16:11.54,0:16:14.94,Default,,0,0,0,!Effect,求求妳！求求妳！請不要！
+Dialogue: 0,0:16:18.41,0:16:20.85,Default,,0,0,0,!Effect,除非她肯老實說出來…
+Dialogue: 0,0:16:20.98,0:16:22.21,Default,,0,0,0,!Effect,停手！是真的！
+Dialogue: 0,0:16:23.61,0:16:25.15,Default,,0,0,0,!Effect,真的甚麼也沒有做過
+Dialogue: 0,0:16:26.12,0:16:29.32,Default,,0,0,0,!Effect,哎呀！王子大人來了啊  美幸！
+Dialogue: 0,0:16:30.96,0:16:33.12,Default,,0,0,0,!Effect,不要  不要看我  轉身啊！
+Dialogue: 0,0:16:33.39,0:16:34.43,Default,,0,0,0,!Effect,美幸
+Dialogue: 0,0:16:35.23,0:16:37.96,Default,,0,0,0,!Effect,為甚麼對自己的女兒也這樣殘酷？
+Dialogue: 0,0:16:38.80,0:16:40.16,Default,,0,0,0,!Effect,我的女兒？
+Dialogue: 0,0:16:40.37,0:16:43.80,Default,,0,0,0,!Effect,這些女人們  全是供我玩樂的女傭而已
+Dialogue: 0,0:16:44.07,0:16:45.57,Default,,0,0,0,!Effect,她…她瘋了！
+Dialogue: 0,0:16:47.44,0:16:51.21,Default,,0,0,0,!Effect,你是我的目的！  加奈注意到你滯留在車站
+Dialogue: 0,0:16:51.34,0:16:54.38,Default,,0,0,0,!Effect,然後美幸跟你說話  把你誘到這大宅來
+Dialogue: 0,0:16:55.88,0:16:59.05,Default,,0,0,0,!Effect,好了！  今天起你就成為我的奴隸了
+Dialogue: 0,0:16:59.92,0:17:02.05,Default,,0,0,0,!Effect,不要說笑了  為甚麼我要聽妳的？
+Dialogue: 0,0:17:02.55,0:17:03.82,Default,,0,0,0,!Effect,好！為甚麼呢？
+Dialogue: 0,0:17:03.99,0:17:07.12,Default,,0,0,0,!Effect,你拒絕的話  你知道美幸會怎樣嗎？
+Dialogue: 0,0:17:08.26,0:17:09.20,Default,,0,0,0,!Effect,美幸…！
+Dialogue: 0,0:17:09.50,0:17:12.10,Default,,0,0,0,!Effect,妳敢對她出手  我就殺了妳
+Dialogue: 0,0:17:12.70,0:17:14.93,Default,,0,0,0,!Effect,昌樹…先生…！
+Dialogue: 0,0:17:15.87,0:17:18.07,Default,,0,0,0,!Effect,怎麼樣？要試試看嗎？
+Dialogue: 0,0:17:18.27,0:17:19.27,Default,,0,0,0,!Effect,甚麼？
+Dialogue: 0,0:17:26.38,0:17:30.62,Default,,0,0,0,!Effect,客人！  昨日在浴室的感覺舒服嗎？
+Dialogue: 0,0:17:31.95,0:17:33.72,Default,,0,0,0,!Effect,加奈和朝美是雙胞胎來的
+Dialogue: 0,0:17:33.82,0:17:35.72,Default,,0,0,0,!Effect,而且是我忠心的僕人
+Dialogue: 0,0:17:35.95,0:17:38.29,Default,,0,0,0,!Effect,而且職責是看守我這些女兒
+Dialogue: 0,0:17:38.82,0:17:43.39,Default,,0,0,0,!Effect,怎樣啊？ 我都不想用這支槍的  要不要跟我來個協議？
+Dialogue: 0,0:17:43.73,0:17:45.30,Default,,0,0,0,!Effect,如果你照我的話去做
+Dialogue: 0,0:17:45.43,0:17:48.07,Default,,0,0,0,!Effect,我就放了美幸  怎麼樣呀？
+Dialogue: 0,0:17:48.20,0:17:50.53,Default,,0,0,0,!Effect,你反抗的話  我就在這裡鞭打美幸
+Dialogue: 0,0:17:50.80,0:17:52.14,Default,,0,0,0,!Effect,哪種是你想要的？
+Dialogue: 0,0:17:54.00,0:17:55.21,Default,,0,0,0,!Effect,我明白了
+Dialogue: 0,0:17:57.88,0:18:01.91,Default,,0,0,0,!Effect,明白就最好！  那麼現在就開始吧
+Dialogue: 0,0:18:07.79,0:18:09.59,Default,,0,0,0,!Effect,外型不錯啊  小伙子！
+Dialogue: 0,0:18:09.95,0:18:13.49,Default,,0,0,0,!Effect,對啊！  既然你們兩人互相喜歡對方
+Dialogue: 0,0:18:13.59,0:18:15.49,Default,,0,0,0,!Effect,就給你們優待吧
+Dialogue: 0,0:18:16.39,0:18:19.80,Default,,0,0,0,!Effect,來！美幸！  過來這裡把妳的一切讓他看清楚
+Dialogue: 0,0:18:21.23,0:18:23.17,Default,,0,0,0,!Effect,這樣…請饒了我！麗子大人…
+Dialogue: 0,0:18:23.33,0:18:25.14,Default,,0,0,0,!Effect,別再愚蠢了  去吧！
+Dialogue: 0,0:18:31.98,0:18:34.01,Default,,0,0,0,!Effect,沒聽到我說甚麼嗎？
+Dialogue: 0,0:18:47.56,0:18:51.10,Default,,0,0,0,!Effect,昌樹先生  請直接看美幸吧！
+Dialogue: 0,0:18:58.67,0:19:00.10,Default,,0,0,0,!Effect,還真老實呢
+Dialogue: 0,0:19:00.24,0:19:02.37,Default,,0,0,0,!Effect,但是美幸  我不會給妳的
+Dialogue: 0,0:19:02.54,0:19:03.31,Default,,0,0,0,!Effect,陽子！
+Dialogue: 0,0:19:03.94,0:19:04.68,Default,,0,0,0,!Effect,是！
+Dialogue: 0,0:19:12.28,0:19:13.48,Default,,0,0,0,!Effect,這個香味是…
+Dialogue: 0,0:19:14.12,0:19:16.35,Default,,0,0,0,!Effect,這是可令你  感到前所未有的快樂的藥
+Dialogue: 0,0:19:16.49,0:19:18.82,Default,,0,0,0,!Effect,不習慣的人會漸漸昏睡
+Dialogue: 0,0:19:18.99,0:19:21.23,Default,,0,0,0,!Effect,令你有飄飄欲仙的感覺
+Dialogue: 0,0:19:22.26,0:19:23.79,Default,,0,0,0,!Effect,那些事果然不是做夢…
+Dialogue: 0,0:19:24.66,0:19:26.03,Default,,0,0,0,!Effect,告訴你一件好事吧
+Dialogue: 0,0:19:26.20,0:19:29.80,Default,,0,0,0,!Effect,令你昏昏欲睡運到這裡來的  就是在這裡的美幸哦
+Dialogue: 0,0:19:31.57,0:19:33.80,Default,,0,0,0,!Effect,是！麗子大人
+Dialogue: 0,0:19:34.51,0:19:36.84,Default,,0,0,0,!Effect,到底想把我怎樣？
+Dialogue: 0,0:19:37.61,0:19:40.25,Default,,0,0,0,!Effect,哥哥  來玩些下流的遊戲吧！
+Dialogue: 0,0:19:41.15,0:19:43.05,Default,,0,0,0,!Effect,星野先生  真厲害
+Dialogue: 0,0:19:44.38,0:19:46.22,Default,,0,0,0,!Effect,乳頭小小的很可愛啊
+Dialogue: 0,0:19:47.22,0:19:49.22,Default,,0,0,0,!Effect,我有點不習慣…
+Dialogue: 0,0:19:48.65,0:19:51.29,Default,,0,0,0,!Effect,姐姐  也讓我舔一下吧！
+Dialogue: 0,0:19:55.66,0:19:59.26,Default,,0,0,0,!Effect,麗子大人！  請給真由來一根大一點的
+Dialogue: 0,0:19:59.76,0:20:03.20,Default,,0,0,0,!Effect,可愛的孩子  真由太喜歡那玩意了呢
+Dialogue: 0,0:20:03.37,0:20:03.90,Default,,0,0,0,!Effect,加奈
+Dialogue: 0,0:20:05.10,0:20:06.74,Default,,0,0,0,!Effect,看！第一隻
+Dialogue: 0,0:20:07.74,0:20:09.97,Default,,0,0,0,!Effect,另一隻給妳的屁股享用吧
+Dialogue: 0,0:20:11.14,0:20:13.11,Default,,0,0,0,!Effect,好舒服！好有感覺啊！
+Dialogue: 0,0:20:13.21,0:20:14.85,Default,,0,0,0,!Effect,真由變得很怪啊！
+Dialogue: 0,0:20:15.05,0:20:17.35,Default,,0,0,0,!Effect,麗子大人  也對我…
+Dialogue: 0,0:20:17.82,0:20:19.85,Default,,0,0,0,!Effect,我就給妳蠟燭吧
+Dialogue: 0,0:20:21.09,0:20:21.92,Default,,0,0,0,!Effect,好熱啊！
+Dialogue: 0,0:20:31.96,0:20:33.33,Default,,0,0,0,!Effect,哎呀哎呀！美幸！
+Dialogue: 0,0:20:33.43,0:20:35.47,Default,,0,0,0,!Effect,看來妳在旁邊看得興奮起來了
+Dialogue: 0,0:20:35.77,0:20:39.00,Default,,0,0,0,!Effect,美幸呢！  其實看到淫蕩的事都感到興奮的
+Dialogue: 0,0:20:39.10,0:20:40.30,Default,,0,0,0,!Effect,小伙子明白嗎？
+Dialogue: 0,0:20:40.70,0:20:41.54,Default,,0,0,0,!Effect,不是…
+Dialogue: 0,0:20:41.84,0:20:45.18,Default,,0,0,0,!Effect,美幸！  這次在小伙子身上尿尿吧
+Dialogue: 0,0:20:52.95,0:20:55.65,Default,,0,0,0,!Effect,昌樹先生  你看我到底吧！
+Dialogue: 0,0:20:56.29,0:20:58.02,Default,,0,0,0,!Effect,我要尿出全部了
+Dialogue: 0,0:21:32.99,0:21:35.29,Default,,0,0,0,!Effect,美幸！我不會讓妳高潮的
+Dialogue: 0,0:21:35.43,0:21:38.03,Default,,0,0,0,!Effect,不要  求求妳  請讓我高潮吧！
+Dialogue: 0,0:21:38.20,0:21:39.73,Default,,0,0,0,!Effect,讓我高潮吧  求求妳！
+Dialogue: 0,0:21:41.27,0:21:43.30,Default,,0,0,0,!Effect,這個小伙子是屬於我的
+Dialogue: 0,0:21:48.21,0:21:50.34,Default,,0,0,0,!Effect,不要！昌樹…
+Dialogue: 0,0:22:02.82,0:22:05.02,Default,,0,0,0,!Effect,好厲害  去了！去了！
+Dialogue: 0,0:22:12.03,0:22:14.26,Default,,0,0,0,!Effect,救我出去啊！求求你！
+Dialogue: 0,0:22:17.40,0:22:20.34,Default,,0,0,0,!Effect,美幸！美幸！  逃走吧！來！快點
+Dialogue: 0,0:22:20.84,0:22:22.07,Default,,0,0,0,!Effect,美幸…！
+Dialogue: 0,0:22:44.96,0:22:46.66,Default,,0,0,0,!Effect,這裡很危險  走吧！
+Dialogue: 0,0:23:05.65,0:23:07.22,Default,,0,0,0,!Effect,大宅全都倒塌了
+Dialogue: 0,0:23:07.62,0:23:09.45,Default,,0,0,0,!Effect,姐姐們都逃走了吧
+Dialogue: 0,0:23:11.12,0:23:12.96,Default,,0,0,0,!Effect,謝謝你  救了我出來
+Dialogue: 0,0:23:13.92,0:23:15.96,Default,,0,0,0,!Effect,因為  我不是答應過妳嗎？
+Dialogue: 0,0:23:17.06,0:23:19.50,Default,,0,0,0,!Effect,在夢中我答應過一定要救妳的
+Dialogue: 0,0:23:20.23,0:23:21.27,Default,,0,0,0,!Effect,謝謝你！
+Dialogue: 0,0:23:23.97,0:23:25.97,Default,,0,0,0,!Effect,是美幸的味道！
+Dialogue: 0,0:24:38.16,0:24:39.16,Default,,0,0,0,!Effect,電車啊！
+Dialogue: 0,0:24:39.46,0:24:40.86,Default,,0,0,0,!Effect,鐵路清理好了
+Dialogue: 0,0:24:50.52,0:24:52.12,Default,,0,0,0,!Effect,美幸！美幸？
+Dialogue: 0,0:24:55.36,0:24:56.06,Default,,0,0,0,!Effect,還在…

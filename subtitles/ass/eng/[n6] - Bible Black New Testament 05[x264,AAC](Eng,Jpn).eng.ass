@@ -1,0 +1,190 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 704
+PlayResY: 528
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,28,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,95,0,0,1,2,2,2,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:05.90,0:01:06.87,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:01:07.31,0:01:08.60,Default,,0000,0000,0000,,Are you making any progress?
+Dialogue: 0,0:01:09.04,0:01:10.63,Default,,0000,0000,0000,,Ah...yes!
+Dialogue: 0,0:01:12.98,0:01:14.78,Default,,0000,0000,0000,,Well, not really...
+Dialogue: 0,0:01:14.85,0:01:16.21,Default,,0000,0000,0000,,Maybe you should take a break.
+Dialogue: 0,0:01:16.28,0:01:17.58,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:01:24.89,0:01:27.05,Default,,0000,0000,0000,,Are you checking up on me?
+Dialogue: 0,0:01:27.39,0:01:29.09,Default,,0000,0000,0000,,N-No...
+Dialogue: 0,0:01:30.33,0:01:32.13,Default,,0000,0000,0000,,Where's Yuge-san?
+Dialogue: 0,0:01:32.80,0:01:34.53,Default,,0000,0000,0000,,He had an emergency.
+Dialogue: 0,0:01:41.97,0:01:44.57,Default,,0000,0000,0000,,I heard Investigator Ichikawa was under your care.
+Dialogue: 0,0:01:44.71,0:01:45.61,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:01:45.68,0:01:47.67,Default,,0000,0000,0000,,Chief Yuge told me about it.
+Dialogue: 0,0:01:48.08,0:01:49.24,Default,,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:01:49.62,0:01:51.71,Default,,0000,0000,0000,,Ah, well...it was...
+Dialogue: 0,0:01:52.45,0:01:55.58,Default,,0000,0000,0000,,Oh, I see. She was an investigator from this place?
+Dialogue: 0,0:01:55.65,0:01:56.55,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:01:56.69,0:01:59.28,Default,,0000,0000,0000,,Before your report was destroyed...
+Dialogue: 0,0:01:59.36,0:02:02.23,Default,,0000,0000,0000,,...Chief Yuge secured this file.
+Dialogue: 0,0:02:02.29,0:02:04.29,Default,,0000,0000,0000,,That's how we learned about this case.
+Dialogue: 0,0:02:04.63,0:02:06.43,Default,,0000,0000,0000,,Secured before it was destroyed?
+Dialogue: 0,0:02:06.70,0:02:12.86,Default,,0000,0000,0000,,About this wound on Investigator Ichikawa that disappeared with a strange light...
+Dialogue: 0,0:02:16.58,0:02:18.63,Default,,0000,0000,0000,,Can you tell me about it in detail?
+Dialogue: 0,0:02:56.85,0:02:58.98,Default,,0000,0000,0000,,Soon, the ritual will take place.
+Dialogue: 0,0:02:59.89,0:03:03.82,Default,,0000,0000,0000,,Now, I want you to bring me your bride.
+Dialogue: 0,0:03:04.06,0:03:06.32,Default,,0000,0000,0000,,My bride?
+Dialogue: 0,0:03:06.46,0:03:07.69,Default,,0000,0000,0000,,What the hell is that?
+Dialogue: 0,0:03:08.19,0:03:09.39,Default,,0000,0000,0000,,Oh, my.
+Dialogue: 0,0:03:09.46,0:03:12.12,Default,,0000,0000,0000,,Even though you seem pretty weak, you're quite persistent.
+Dialogue: 0,0:03:13.93,0:03:16.96,Default,,0000,0000,0000,,You're no different than the Yamanishi-kun I knew back then.
+Dialogue: 0,0:03:17.34,0:03:19.03,Default,,0000,0000,0000,,Kitami-sensei?
+Dialogue: 0,0:03:22.47,0:03:24.14,Default,,0000,0000,0000,,That's right, Yamanishi-kun.
+Dialogue: 0,0:03:25.84,0:03:27.64,Default,,0000,0000,0000,,{\i1}l wanted to see you.{\i0}
+Dialogue: 0,0:03:28.91,0:03:29.97,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:03:36.56,0:03:37.95,Default,,0000,0000,0000,,Yamanishi-kun.
+Dialogue: 0,0:03:38.49,0:03:43.43,Default,,0000,0000,0000,,I want you to provide me with wonderful memories of this school.
+Dialogue: 0,0:04:06.75,0:04:07.88,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:04:07.95,0:04:09.25,Default,,0000,0000,0000,,No, Sensei!
+Dialogue: 0,0:04:37.58,0:04:38.71,Default,,0000,0000,0000,,Sensei...
+Dialogue: 0,0:04:39.02,0:04:40.48,Default,,0000,0000,0000,,Kitami-sensei...
+Dialogue: 0,0:04:57.57,0:04:58.59,Default,,0000,0000,0000,,Come.
+Dialogue: 0,0:04:58.84,0:04:59.77,Default,,0000,0000,0000,,Yamanishi-kun...
+Dialogue: 0,0:05:45.28,0:05:47.25,Default,,0000,0000,0000,,D-Do it...
+Dialogue: 0,0:05:48.42,0:05:50.05,Default,,0000,0000,0000,,Don't tease me like that...
+Dialogue: 0,0:10:02.51,0:10:04.13,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:10:07.95,0:10:09.47,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:10:11.25,0:10:13.65,Default,,0000,0000,0000,,No, not this...
+Dialogue: 0,0:10:13.89,0:10:15.28,Default,,0000,0000,0000,,I don't want this!
+Dialogue: 0,0:10:21.63,0:10:22.85,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:10:24.13,0:10:25.26,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:12:02.89,0:12:06.23,Default,,0000,0000,0000,,You can't put that big thing in my ass!
+Dialogue: 0,0:12:08.47,0:12:09.56,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:12:10.14,0:12:11.43,Default,,0000,0000,0000,,It's too big!
+Dialogue: 0,0:12:12.47,0:12:13.70,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:12:19.74,0:12:20.90,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:13:16.60,0:13:17.90,Default,,0000,0000,0000,,That woman...
+Dialogue: 0,0:13:31.38,0:13:33.65,Default,,0000,0000,0000,,Onee-sama! What is this?
+Dialogue: 0,0:13:34.85,0:13:35.91,Default,,0000,0000,0000,,Stay calm!
+Dialogue: 0,0:13:37.66,0:13:38.64,Default,,0000,0000,0000,,I'll just...
+Dialogue: 0,0:13:45.53,0:13:46.93,Default,,0000,0000,0000,,O-Onee-sama...
+Dialogue: 0,0:14:07.39,0:14:08.98,Default,,0000,0000,0000,,So it was you...
+Dialogue: 0,0:14:12.52,0:14:14.29,Default,,0000,0000,0000,,That woman's puppet...
+Dialogue: 0,0:14:23.07,0:14:26.40,Default,,0000,0000,0000,,I'm sorry for making you do so much...
+Dialogue: 0,0:14:26.77,0:14:28.20,Default,,0000,0000,0000,,It's all right.
+Dialogue: 0,0:14:29.71,0:14:34.27,Default,,0000,0000,0000,,After looking at the files you sent me, I came up with an educated guess.
+Dialogue: 0,0:14:36.58,0:14:38.11,Default,,0000,0000,0000,,Devil worshipers.
+Dialogue: 0,0:14:38.68,0:14:41.78,Default,,0000,0000,0000,,We're looking for a devil's partner mentioned...
+Dialogue: 0,0:14:41.85,0:14:44.55,Default,,0000,0000,0000,,...in Chapter 17 from the ''Revelation of John.''
+Dialogue: 0,0:14:44.62,0:14:48.06,Default,,0000,0000,0000,,And this crazy cult was led by Aleister Crowley.
+Dialogue: 0,0:14:49.09,0:14:53.43,Default,,0000,0000,0000,,Even now, they're looking for the woman in red.
+Dialogue: 0,0:14:54.37,0:14:56.03,Default,,0000,0000,0000,,She is the one known to give birth...
+Dialogue: 0,0:14:56.10,0:14:58.73,Default,,0000,0000,0000,,...to a being that will be more powerful than any king in the world.
+Dialogue: 0,0:14:59.37,0:15:03.14,Default,,0000,0000,0000,,Up until recently, Crowley's granddaughter was that person.
+Dialogue: 0,0:15:03.24,0:15:05.77,Default,,0000,0000,0000,,J-Jody Crowley...
+Dialogue: 0,0:15:06.61,0:15:08.70,Default,,0000,0000,0000,,But I thought she died in a plane crash...
+Dialogue: 0,0:15:09.48,0:15:12.54,Default,,0000,0000,0000,,She is the one responsible for all these incidents...
+Dialogue: 0,0:15:13.35,0:15:14.94,Default,,0000,0000,0000,,Jody Crowley...
+Dialogue: 0,0:15:18.22,0:15:21.35,Default,,0000,0000,0000,,Takashiro-sensei, do you know her?
+Dialogue: 0,0:15:21.99,0:15:22.93,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:15:23.29,0:15:25.99,Default,,0000,0000,0000,,So did she steal the Spear of Longinus that is said to have...
+Dialogue: 0,0:15:26.06,0:15:30.97,Default,,0000,0000,0000,,...pierced the flesh of Christ when he was tied to the cross?
+Dialogue: 0,0:15:32.44,0:15:33.80,Default,,0000,0000,0000,,It was probably her.
+Dialogue: 0,0:15:34.24,0:15:36.50,Default,,0000,0000,0000,,But, why?
+Dialogue: 0,0:15:37.08,0:15:41.03,Default,,0000,0000,0000,,In order to find the devil's partner or the woman in red.
+Dialogue: 0,0:15:42.15,0:15:44.55,Default,,0000,0000,0000,,That scrap of metal has that kind of power?
+Dialogue: 0,0:15:44.75,0:15:50.69,Default,,0000,0000,0000,,But, we haven't found any evidence that will link these crimes to her...
+Dialogue: 0,0:15:50.92,0:15:52.45,Default,,0000,0000,0000,,She may have a different objective...
+Dialogue: 0,0:15:52.52,0:15:57.96,Default,,0000,0000,0000,,...but by reviving Kitami Reika, who was after the original Bible Black...
+Dialogue: 0,0:15:58.10,0:16:02.40,Default,,0000,0000,0000,,...she thought she could find the woman in red much faster.
+Dialogue: 0,0:16:02.73,0:16:06.23,Default,,0000,0000,0000,,The woman in red will seek the original Bible Black.
+Dialogue: 0,0:16:06.30,0:16:08.24,Default,,0000,0000,0000,,In other words, it's like a compass.
+Dialogue: 0,0:16:08.84,0:16:10.36,Default,,0000,0000,0000,,Kitami Reika...
+Dialogue: 0,0:16:10.61,0:16:13.48,Default,,0000,0000,0000,,I heard she was sealed inside Imari-kun...
+Dialogue: 0,0:16:14.11,0:16:14.98,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:15.25,0:16:18.58,Default,,0000,0000,0000,,I told you that when I handed Imari-san over to you.
+Dialogue: 0,0:16:18.78,0:16:19.81,Default,,0000,0000,0000,,Wait...
+Dialogue: 0,0:16:20.18,0:16:24.75,Default,,0000,0000,0000,,So, you're telling me that Imari-kun is now Kitami Reika?
+Dialogue: 0,0:16:25.76,0:16:26.45,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:26.52,0:16:27.65,Default,,0000,0000,0000,,Impossible...
+Dialogue: 0,0:16:27.93,0:16:32.69,Default,,0000,0000,0000,,Before I came here, she showed up at the lab as Imari-kun!
+Dialogue: 0,0:16:41.34,0:16:42.60,Default,,0000,0000,0000,,I'll show you...
+Dialogue: 0,0:16:42.91,0:16:44.67,Default,,0000,0000,0000,,Ritual of the Vulgar!
+Dialogue: 0,0:17:05.16,0:17:06.89,Default,,0000,0000,0000,,Looks like you're finally awake.
+Dialogue: 0,0:17:09.37,0:17:13.33,Default,,0000,0000,0000,,You know what's going to happen, right, Todo-san?
+Dialogue: 0,0:17:13.94,0:17:17.93,Default,,0000,0000,0000,,Since you interrupted our ritual, we'll have to punish you severely.
+Dialogue: 0,0:17:18.18,0:17:19.70,Default,,0000,0000,0000,,How could you do...
+Dialogue: 0,0:17:21.41,0:17:22.78,Default,,0000,0000,0000,,Where's that woman?
+Dialogue: 0,0:17:30.49,0:17:33.72,Default,,0000,0000,0000,,Seems like you want to join her.
+Dialogue: 0,0:17:59.28,0:18:00.51,Default,,0000,0000,0000,,Shiraki-san!
+Dialogue: 0,0:18:01.25,0:18:03.35,Default,,0000,0000,0000,,Takashiro-sensei, what's going on?
+Dialogue: 0,0:18:05.82,0:18:06.72,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,0:18:36.42,0:18:38.05,Default,,0000,0000,0000,,Why you...
+Dialogue: 0,0:18:40.56,0:18:41.99,Default,,0000,0000,0000,,Jody-sama.
+Dialogue: 0,0:18:46.26,0:18:48.96,Default,,0000,0000,0000,,I want you two to help me.
+Dialogue: 0,0:18:51.20,0:18:51.93,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:19:00.91,0:19:02.44,Default,,0000,0000,0000,,What just happened?
+Dialogue: 0,0:19:06.65,0:19:07.71,Default,,0000,0000,0000,,Yuge-san?
+Dialogue: 0,0:19:10.39,0:19:11.25,Default,,0000,0000,0000,,Yuge-san!
+Dialogue: 0,0:19:16.19,0:19:17.25,Default,,0000,0000,0000,,Jody!
+Dialogue: 0,0:19:30.78,0:19:33.01,Default,,0000,0000,0000,,Defend against evil spirits, drive away my bitter enemy...
+Dialogue: 0,0:19:33.08,0:19:35.88,Default,,0000,0000,0000,,End the Seven Misfortunes and bring forth good fortune...
+Dialogue: 0,0:19:36.38,0:19:41.58,Default,,0000,0000,0000,,Rin, Byo, Tou, Sha, Kai, Jin, Retsu, Zai, Zen!
+Dialogue: 0,0:19:41.95,0:19:43.08,Default,,0000,0000,0000,,Destroy!
+Dialogue: 0,0:20:09.75,0:20:11.21,Default,,0000,0000,0000,,Takashiro-sensei?
+Dialogue: 0,0:20:13.68,0:20:15.52,Default,,0000,0000,0000,,Let's go, Yuge-san.
+Dialogue: 0,0:20:15.82,0:20:17.72,Default,,0000,0000,0000,,We're going to rescue Shiraki-san!
+Dialogue: 0,0:20:23.53,0:20:26.02,Default,,0000,0000,0000,,{\i1}Attempted murder at Hou Hospital Report, Naoto Yamanishi{\i0}
+Dialogue: 0,0:20:44.35,0:20:46.61,Default,,0000,0000,0000,,That wasn't Chief Investigator Imari...
+Dialogue: 0,0:20:50.12,0:20:52.35,Default,,0000,0000,0000,,The person who actually saved me was...
+Dialogue: 0,0:21:24.46,0:21:27.82,Default,,0000,0000,0000,,Hey, not so fast, Shiraki-san.
+Dialogue: 0,0:21:28.53,0:21:31.32,Default,,0000,0000,0000,,It's time for your meal. Cheer up.
+Dialogue: 0,0:21:48.58,0:21:53.02,Default,,0000,0000,0000,,Now, you can consume as much lust as you like.
+Dialogue: 0,0:22:03.36,0:22:05.73,Default,,0000,0000,0000,,Come on, others are waiting.
+Dialogue: 0,0:22:05.86,0:22:07.33,Default,,0000,0000,0000,,Better make it quick...
+Dialogue: 0,0:22:10.30,0:22:11.70,Default,,0000,0000,0000,,Come on, come on.
+Dialogue: 0,0:22:24.32,0:22:27.51,Default,,0000,0000,0000,,Are you not used to getting tormented?
+Dialogue: 0,0:22:41.53,0:22:44.56,Default,,0000,0000,0000,,You can't get full satisfaction with a thing like this, right?
+Dialogue: 0,0:22:57.72,0:23:01.15,Default,,0000,0000,0000,,Even though it's not your first time, it's rather tight.
+Dialogue: 0,0:23:01.49,0:23:03.39,Default,,0000,0000,0000,,Come on, get in there.
+Dialogue: 0,0:23:03.72,0:23:04.62,Default,,0000,0000,0000,,Come on.
+Dialogue: 0,0:23:12.70,0:23:15.13,Default,,0000,0000,0000,,O-Onee-sama, what are you doing?
+Dialogue: 0,0:23:22.17,0:23:27.24,Default,,0000,0000,0000,,Did you get treated well as a slave for that woman, Yuki?
+Dialogue: 0,0:23:51.57,0:23:53.80,Default,,0000,0000,0000,,Are you ready to confess, Yuki?
+Dialogue: 0,0:23:53.87,0:23:55.86,Default,,0000,0000,0000,,What is that woman's objective?
+Dialogue: 0,0:24:10.32,0:24:11.98,Default,,0000,0000,0000,,Where is she, Yuki?
+Dialogue: 0,0:24:12.49,0:24:14.12,Default,,0000,0000,0000,,Where is that woman?
+Dialogue: 0,0:24:15.19,0:24:17.63,Default,,0000,0000,0000,,Jody-sama...
+Dialogue: 0,0:24:51.83,0:24:55.89,Default,,0000,0000,0000,,Hey, you're not done with your meal yet, Shiraki-san.
+Dialogue: 0,0:24:57.94,0:24:59.87,Default,,0000,0000,0000,,You haven't had your main dish yet.
+Dialogue: 0,0:25:11.18,0:25:13.41,Default,,0000,0000,0000,,You're doing great, Shiraki-san. Come now.
+Dialogue: 0,0:25:13.75,0:25:17.28,Default,,0000,0000,0000,,You need to be punished severely for being a traitor.
+Dialogue: 0,0:25:21.89,0:25:24.73,Default,,0000,0000,0000,,Hey, you need to make a formal greeting.
+Dialogue: 0,0:25:34.57,0:25:38.70,Default,,0000,0000,0000,,Looks like Shiraki-sensei is going to give you something better, Todo-san.
+Dialogue: 0,0:25:56.09,0:25:57.62,Default,,0000,0000,0000,,Go on, Shiraki-san...
+Dialogue: 0,0:25:58.83,0:26:01.80,Default,,0000,0000,0000,,A teacher's job is to treat their students with utmost care!
+Dialogue: 0,0:27:09.07,0:27:11.03,Default,,0000,0000,0000,,I guess it's time for dessert.
+Dialogue: 0,0:27:12.17,0:27:16.37,Default,,0000,0000,0000,,Now that you're done doing it up the front, you want to do it in the back too, right?

@@ -1,0 +1,383 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.19,0:01:02.39,Default,,0000,0000,0000,,{\an8}You're trapped and your screams\Nseem about to freeze
+Dialogue: 0,0:01:02.39,0:01:03.56,Default,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:01:02.39,0:01:03.56,Default,,0000,0000,0000,,{\an8}You're trapped and your screams\Nseem about to freeze
+Dialogue: 0,0:01:03.56,0:01:06.69,Default,,0000,0000,0000,,{\an8}Then he cuts the darkness like a knife
+Dialogue: 0,0:01:06.69,0:01:09.26,Default,,0000,0000,0000,,{\an8}He gives a wink just to say hello
+Dialogue: 0,0:01:09.26,0:01:10.83,Default,,0000,0000,0000,,{\an8}It feels good
+Dialogue: 0,0:01:10.83,0:01:13.07,Default,,0000,0000,0000,,{\an8}He's the best there is
+Dialogue: 0,0:01:13.07,0:01:14.14,Default,,0000,0000,0000,,{\an8}The road ahead leads towards your dream
+Dialogue: 0,0:01:14.14,0:01:16.24,Default,,0000,0000,0000,,Shit, Guy! What a stud!
+Dialogue: 0,0:01:14.14,0:01:16.24,Default,,0000,0000,0000,,{\an8}The road ahead leads towards your dream
+Dialogue: 0,0:01:16.24,0:01:19.44,Default,,0000,0000,0000,,{\an8}But dynamite's hidden along the way
+Dialogue: 0,0:01:19.44,0:01:20.48,Default,,0000,0000,0000,,{\an8}It's romantic, you know
+Dialogue: 0,0:01:20.48,0:01:25.25,Default,,0000,0000,0000,,Raina, why do you suppose this party's\Ngetting so out of control?
+Dialogue: 0,0:01:20.48,0:01:22.34,Default,,0000,0000,0000,,{\an8}It's romantic, you know
+Dialogue: 0,0:01:22.34,0:01:25.25,Default,,0000,0000,0000,,{\an8}But to him it's just a game
+Dialogue: 0,0:01:25.25,0:01:27.02,Default,,0000,0000,0000,,Not my fault...
+Dialogue: 0,0:01:25.25,0:01:28.98,Default,,0000,0000,0000,,{\an8}Two rash, adventurous hearts
+Dialogue: 0,0:01:27.02,0:01:28.98,Default,,0000,0000,0000,,Well, no more party tricks, okay?
+Dialogue: 0,0:01:28.98,0:01:31.85,Default,,0000,0000,0000,,{\an8}Suddenly, they come together
+Dialogue: 0,0:01:31.85,0:01:37.19,Default,,0000,0000,0000,,{\an8}It's a whole new universe
+Dialogue: 0,0:01:37.59,0:01:38.83,Default,,0000,0000,0000,,{\an8}It's a hazardous escape
+Dialogue: 0,0:01:38.83,0:01:40.83,Default,,0000,0000,0000,,Catch!
+Dialogue: 0,0:01:38.83,0:01:40.83,Default,,0000,0000,0000,,{\an8}It's a hazardous escape
+Dialogue: 0,0:01:40.83,0:01:41.63,Default,,0000,0000,0000,,{\an8}He tosses you a kiss along with his smile
+Dialogue: 0,0:01:41.63,0:01:42.70,Default,,0000,0000,0000,,All right...
+Dialogue: 0,0:01:41.63,0:01:42.70,Default,,0000,0000,0000,,{\an8}He tosses you a kiss along with his smile
+Dialogue: 0,0:01:42.70,0:01:45.33,Default,,0000,0000,0000,,Best hand gets to pilot the spaceship.
+Dialogue: 0,0:01:42.70,0:01:44.20,Default,,0000,0000,0000,,{\an8}He tosses you a kiss along with his smile
+Dialogue: 0,0:01:44.20,0:01:46.94,Default,,0000,0000,0000,,{\an8}But the joke
+Dialogue: 0,0:01:46.94,0:01:49.90,Default,,0000,0000,0000,,{\an8}Is on you
+Dialogue: 0,0:01:49.17,0:01:49.90,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:01:49.90,0:01:51.41,Default,,0000,0000,0000,,Turn 'em over!
+Dialogue: 0,0:01:50.41,0:01:53.58,Default,,0000,0000,0000,,{\an8}It's a hazardous rendezvous
+Dialogue: 0,0:01:53.58,0:01:55.08,Default,,0000,0000,0000,,Tough luck, Guy!
+Dialogue: 0,0:01:53.58,0:01:56.95,Default,,0000,0000,0000,,{\an8}But there's never been such a promise
+Dialogue: 0,0:01:56.95,0:01:59.31,Default,,0000,0000,0000,,{\an8}It could happen any time
+Dialogue: 0,0:01:58.15,0:01:59.95,Default,,0000,0000,0000,,What?! You cheat!
+Dialogue: 0,0:01:59.31,0:02:02.85,Default,,0000,0000,0000,,{\an8}So fall in love!
+Dialogue: 0,0:01:59.95,0:02:02.85,Default,,0000,0000,0000,,Four sevens beats your high card, I think.
+Dialogue: 0,0:02:02.85,0:02:06.25,Default,,0000,0000,0000,,{\an8}It's a hazardous escape
+Dialogue: 0,0:02:04.15,0:02:05.75,Default,,0000,0000,0000,,That means I win.
+Dialogue: 0,0:02:05.75,0:02:07.72,Default,,0000,0000,0000,,I wanna see a rule book!
+Dialogue: 0,0:02:06.25,0:02:09.66,Default,,0000,0000,0000,,{\an8}And you can't dodge your feelings for him
+Dialogue: 0,0:02:07.72,0:02:09.66,Default,,0000,0000,0000,,I wrote the rule book.
+Dialogue: 0,0:02:09.66,0:02:12.36,Default,,0000,0000,0000,,{\an8}You'll have to move fast
+Dialogue: 0,0:02:12.36,0:02:15.70,Default,,0000,0000,0000,,{\an8}Or go mad
+Dialogue: 0,0:02:15.70,0:02:19.03,Default,,0000,0000,0000,,{\an8}It's a hazardous rendezvous
+Dialogue: 0,0:02:19.03,0:02:22.27,Default,,0000,0000,0000,,{\an8}And there's never been any hope before
+Dialogue: 0,0:02:22.27,0:02:24.64,Default,,0000,0000,0000,,{\an8}It can happen any time
+Dialogue: 0,0:02:24.64,0:02:28.31,Default,,0000,0000,0000,,{\an8}So fall in love!
+Dialogue: 0,0:02:28.31,0:02:30.31,Default,,0000,0000,0000,,{\an8}Fall in love!
+Dialogue: 0,0:02:30.31,0:02:33.01,Default,,0000,0000,0000,,Now then, since I'm steering this time,
+Dialogue: 0,0:02:33.01,0:02:35.24,Default,,0000,0000,0000,,it's time for a challenge.
+Dialogue: 0,0:02:36.45,0:02:42.65,Default,,0000,0000,0000,,GUY
+Dialogue: 0,0:02:58.77,0:03:02.33,Default,,0000,0000,0000,,PLANET FREZON
+Dialogue: 0,0:03:22.50,0:03:23.80,Default,,0000,0000,0000,,Dammit all!
+Dialogue: 0,0:03:23.80,0:03:26.32,Default,,0000,0000,0000,,Can't you drive any better than this?
+Dialogue: 0,0:03:27.34,0:03:29.47,Default,,0000,0000,0000,,Enough! Shut your mouth!
+Dialogue: 0,0:03:29.47,0:03:31.67,Default,,0000,0000,0000,,This road's almost as fucked up as you are.
+Dialogue: 0,0:03:31.84,0:03:33.21,Default,,0000,0000,0000,,Mister Charm...
+Dialogue: 0,0:03:33.21,0:03:36.34,Default,,0000,0000,0000,,All right, what brings us to a\Nbackwater like this?
+Dialogue: 0,0:03:36.81,0:03:37.94,Default,,0000,0000,0000,,Look over there.
+Dialogue: 0,0:03:38.88,0:03:40.35,Default,,0000,0000,0000,,What the?
+Dialogue: 0,0:03:40.35,0:03:45.05,Default,,0000,0000,0000,,Hey, that's the place on all those\Nuniversal peace and love pamphlets -
+Dialogue: 0,0:03:45.05,0:03:47.42,Default,,0000,0000,0000,,the People's Free Church of Frezon.
+Dialogue: 0,0:03:47.42,0:03:48.56,Default,,0000,0000,0000,,Good guess.
+Dialogue: 0,0:03:48.56,0:03:50.43,Default,,0000,0000,0000,,It's also the location of our next target.
+Dialogue: 0,0:03:50.43,0:03:51.89,Default,,0000,0000,0000,,Are you shitting me?
+Dialogue: 0,0:03:51.89,0:03:53.09,Default,,0000,0000,0000,,I'm serious.
+Dialogue: 0,0:03:53.09,0:03:55.93,Default,,0000,0000,0000,,There's a heavy payoff waiting for us in there.
+Dialogue: 0,0:03:56.33,0:03:58.70,Default,,0000,0000,0000,,They call it the Goddess of Gold.
+Dialogue: 0,0:03:58.70,0:04:00.86,Default,,0000,0000,0000,,Goddess of Gold?
+Dialogue: 0,0:04:18.59,0:04:22.79,Default,,0000,0000,0000,,To those in the path of shadow,\Nlisten to Lady Arcana.
+Dialogue: 0,0:04:22.79,0:04:25.83,Default,,0000,0000,0000,,All those who have not found the true path,
+Dialogue: 0,0:04:25.83,0:04:28.63,Default,,0000,0000,0000,,I, Noima, shall guide.
+Dialogue: 0,0:04:28.63,0:04:31.70,Default,,0000,0000,0000,,The eve of the promised miracle is at hand.
+Dialogue: 0,0:04:31.70,0:04:36.20,Default,,0000,0000,0000,,Tomorrow, as the three moons of Frezon\Nconverge in the midnight sky...
+Dialogue: 0,0:04:36.20,0:04:41.84,Default,,0000,0000,0000,,The combined rays of their luminances\Nshall encircle our Goddess in holy radiance.
+Dialogue: 0,0:04:41.84,0:04:46.41,Default,,0000,0000,0000,,Then, the seals restraining our\NGoddess shall be at last severed.
+Dialogue: 0,0:04:46.41,0:04:50.92,Default,,0000,0000,0000,,And we, the chosen acolytes,\Nshall become one -
+Dialogue: 0,0:04:50.92,0:04:52.55,Default,,0000,0000,0000,,one with the gods!
+Dialogue: 0,0:04:55.69,0:04:58.06,Default,,0000,0000,0000,,The Golden Goddess was\Ndiscovered among the ruins.
+Dialogue: 0,0:04:58.06,0:05:01.20,Default,,0000,0000,0000,,Its value as an artifact alone is astronomical.
+Dialogue: 0,0:05:01.20,0:05:04.67,Default,,0000,0000,0000,,And that's to say nothing of its ransom value.
+Dialogue: 0,0:05:04.67,0:05:09.10,Default,,0000,0000,0000,,Or worse comes to worse, it'd make a rather\Nhadsome stack of gold bars, ya know.
+Dialogue: 0,0:05:10.34,0:05:11.97,Default,,0000,0000,0000,,What is it, Guy?
+Dialogue: 0,0:05:13.11,0:05:14.73,Default,,0000,0000,0000,,Something's dead up ahead...
+Dialogue: 0,0:05:25.62,0:05:26.85,Default,,0000,0000,0000,,Oh, gross!
+Dialogue: 0,0:05:26.85,0:05:28.55,Default,,0000,0000,0000,,These bodies are all fresh.
+Dialogue: 0,0:05:29.62,0:05:31.23,Default,,0000,0000,0000,,What do you think happened?
+Dialogue: 0,0:05:31.23,0:05:32.52,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:05:33.80,0:05:35.09,Default,,0000,0000,0000,,Get back, Raina!
+Dialogue: 0,0:05:59.95,0:06:01.12,Default,,0000,0000,0000,,Not so tough!
+Dialogue: 0,0:06:01.12,0:06:01.69,Default,,0000,0000,0000,,
+Dialogue: 0,0:06:01.69,0:06:02.76,Default,,0000,0000,0000,,Raina!
+Dialogue: 0,0:06:02.76,0:06:03.88,Default,,0000,0000,0000,,Fuck!
+Dialogue: 0,0:06:12.13,0:06:13.47,Default,,0000,0000,0000,,
+Dialogue: 0,0:06:13.47,0:06:15.74,Default,,0000,0000,0000,,Guy, quit fucking around!
+Dialogue: 0,0:06:15.74,0:06:17.47,Default,,0000,0000,0000,,Why don't you do your trick?
+Dialogue: 0,0:06:17.47,0:06:20.48,Default,,0000,0000,0000,,Bitch, bitch. Why don't you become\Nan honest woman?
+Dialogue: 0,0:06:20.48,0:06:22.18,Default,,0000,0000,0000,,What the fuck's that mean?!
+Dialogue: 0,0:06:22.18,0:06:25.04,Default,,0000,0000,0000,,It means some things are impossible.
+Dialogue: 0,0:06:32.19,0:06:33.98,Default,,0000,0000,0000,,Out of my way!
+Dialogue: 0,0:06:35.16,0:06:38.02,Default,,0000,0000,0000,,Remind me not to ask for your help again!
+Dialogue: 0,0:06:39.73,0:06:42.13,Default,,0000,0000,0000,,Shit, no ammo!
+Dialogue: 0,0:06:48.47,0:06:50.27,Default,,0000,0000,0000,,Raina, get off your ass!
+Dialogue: 0,0:06:50.61,0:06:52.13,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:06:58.95,0:07:01.45,Default,,0000,0000,0000,,Guy, what were those things?
+Dialogue: 0,0:07:01.45,0:07:02.62,Default,,0000,0000,0000,,You're asking me?
+Dialogue: 0,0:07:02.62,0:07:05.75,Default,,0000,0000,0000,,I'd investigate, but we've got an\Nappointment with a golden lady.
+Dialogue: 0,0:07:24.71,0:07:27.67,Default,,0000,0000,0000,,
+Dialogue: 0,0:07:32.91,0:07:36.35,Default,,0000,0000,0000,,Lord Noima! Lady Arcana!
+Dialogue: 0,0:07:37.12,0:07:40.18,Default,,0000,0000,0000,,Lady Arcana! Lord Noima!
+Dialogue: 0,0:07:43.39,0:07:49.86,Default,,0000,0000,0000,,Lady Arcana, Lord Noima, l,\Na poor orphan girl, beg for your help.
+Dialogue: 0,0:07:49.86,0:07:53.90,Default,,0000,0000,0000,,Since my parents death,\NI have been enslaved by a relative,
+Dialogue: 0,0:07:53.90,0:07:57.37,Default,,0000,0000,0000,,a cruel and evil man who beats me constantly.
+Dialogue: 0,0:07:57.37,0:07:59.61,Default,,0000,0000,0000,,Please, I beg for your divine mercy!
+Dialogue: 0,0:07:59.61,0:08:00.64,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:00.64,0:08:02.18,Default,,0000,0000,0000,,Help me, please!
+Dialogue: 0,0:08:02.18,0:08:04.75,Default,,0000,0000,0000,,You cause more trouble than\Nyou're worth, bitch!
+Dialogue: 0,0:08:04.75,0:08:07.15,Default,,0000,0000,0000,,Now, get your worthless ass\Nback to the house.
+Dialogue: 0,0:08:07.15,0:08:09.92,Default,,0000,0000,0000,,It's him! My cruel and evil relative!
+Dialogue: 0,0:08:09.92,0:08:12.72,Default,,0000,0000,0000,,Is this what you've been up to?
+Dialogue: 0,0:08:16.76,0:08:20.86,Default,,0000,0000,0000,,You asshole!\NYou're not supposed to be using live ammo!
+Dialogue: 0,0:08:20.86,0:08:23.66,Default,,0000,0000,0000,,Well, at least you didn't have to ACT scared.
+Dialogue: 0,0:08:28.47,0:08:30.49,Default,,0000,0000,0000,,This is private business.
+Dialogue: 0,0:08:31.01,0:08:34.17,Default,,0000,0000,0000,,It is our holy duty to defend the weak.
+Dialogue: 0,0:08:39.51,0:08:40.81,Default,,0000,0000,0000,,Hah!
+Dialogue: 0,0:08:43.68,0:08:44.81,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:08:51.93,0:08:52.99,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:08:52.99,0:08:56.40,Default,,0000,0000,0000,,No need to fear, my little lost lamb.
+Dialogue: 0,0:08:56.70,0:08:59.26,Default,,0000,0000,0000,,You're under our protection.
+Dialogue: 0,0:09:02.47,0:09:05.60,Default,,0000,0000,0000,,
+Dialogue: 0,0:09:13.15,0:09:14.38,Default,,0000,0000,0000,,Shit...
+Dialogue: 0,0:09:14.38,0:09:16.18,Default,,0000,0000,0000,,I wasn't ready for that.
+Dialogue: 0,0:09:24.99,0:09:28.13,Default,,0000,0000,0000,,From this day forth, you shall dwell with us.
+Dialogue: 0,0:09:28.13,0:09:32.03,Default,,0000,0000,0000,,Moreover, you shall be freed of all earthly ties.
+Dialogue: 0,0:09:37.67,0:09:39.67,Default,,0000,0000,0000,,Take care of yourself, Raina.
+Dialogue: 0,0:09:39.67,0:09:42.23,Default,,0000,0000,0000,,Finding the treasure is up to you now.
+Dialogue: 0,0:10:17.81,0:10:21.01,Default,,0000,0000,0000,,Raina, don't fuck this up.
+Dialogue: 0,0:10:22.48,0:10:24.45,Default,,0000,0000,0000,,I've got trouble enough.
+Dialogue: 0,0:10:25.75,0:10:27.72,Default,,0000,0000,0000,,Too much light, dammit.
+Dialogue: 0,0:10:42.40,0:10:44.06,Default,,0000,0000,0000,,Lady Arcana,
+Dialogue: 0,0:10:44.57,0:10:47.94,Default,,0000,0000,0000,,the leaders of the flock request a conference.
+Dialogue: 0,0:10:51.88,0:10:54.55,Default,,0000,0000,0000,,Lady, what shall I tell them?
+Dialogue: 0,0:10:54.55,0:10:55.85,Default,,0000,0000,0000,,Noima...
+Dialogue: 0,0:10:56.98,0:10:58.28,Default,,0000,0000,0000,,Lady Arcana?
+Dialogue: 0,0:11:12.43,0:11:14.37,Default,,0000,0000,0000,,My Lady Arcana...
+Dialogue: 0,0:11:16.67,0:11:19.11,Default,,0000,0000,0000,,You know I've never done this.
+Dialogue: 0,0:11:20.61,0:11:22.94,Default,,0000,0000,0000,,That's what's worried you?
+Dialogue: 0,0:11:22.94,0:11:27.78,Default,,0000,0000,0000,,Tonight, we take possession of the greatest\Npower our world has ever known.
+Dialogue: 0,0:11:29.45,0:11:35.29,Default,,0000,0000,0000,,And after conquering this planet,\Nwe will turn our attention to the stars.
+Dialogue: 0,0:11:35.82,0:11:38.19,Default,,0000,0000,0000,,Noima, l...
+Dialogue: 0,0:11:38.99,0:11:40.29,Default,,0000,0000,0000,,Arcana...
+Dialogue: 0,0:12:57.24,0:12:59.71,Default,,0000,0000,0000,,Again! Again!
+Dialogue: 0,0:13:26.23,0:13:28.20,Default,,0000,0000,0000,,Heh!
+Dialogue: 0,0:13:33.51,0:13:35.44,Default,,0000,0000,0000,,Time to fly!
+Dialogue: 0,0:13:39.35,0:13:41.78,Default,,0000,0000,0000,,Busy, busy, busy!
+Dialogue: 0,0:13:44.29,0:13:50.09,Default,,0000,0000,0000,,[Arcana] How gratifying to see all of Frezon's\Nheads of state in one place.
+Dialogue: 0,0:13:50.09,0:13:51.09,Default,,0000,0000,0000,,As you know,
+Dialogue: 0,0:13:51.09,0:13:57.87,Default,,0000,0000,0000,,each of your regions has been donating forty\Npercent of your gross profits to our holy cause.
+Dialogue: 0,0:13:57.87,0:14:00.07,Default,,0000,0000,0000,,However, this is no longer enough.
+Dialogue: 0,0:14:00.07,0:14:03.73,Default,,0000,0000,0000,,All donations must now be\Nraised to sixty percent.
+Dialogue: 0,0:14:05.14,0:14:08.21,Default,,0000,0000,0000,,I'm sure none of you will find this a problem.
+Dialogue: 0,0:14:08.21,0:14:09.34,Default,,0000,0000,0000,,
+Dialogue: 0,0:14:09.34,0:14:11.37,Default,,0000,0000,0000,,What?! Is she serious?!
+Dialogue: 0,0:14:17.65,0:14:22.15,Default,,0000,0000,0000,,Now, if I were a golden goddess,\Nwhere would I be?
+Dialogue: 0,0:14:29.63,0:14:31.60,Default,,0000,0000,0000,,
+Dialogue: 0,0:14:35.44,0:14:37.44,Default,,0000,0000,0000,,This in an outrage!
+Dialogue: 0,0:14:37.44,0:14:39.67,Default,,0000,0000,0000,,My people are already starving!
+Dialogue: 0,0:14:39.67,0:14:41.84,Default,,0000,0000,0000,,We can't live with your extortion!
+Dialogue: 0,0:14:41.84,0:14:44.38,Default,,0000,0000,0000,,Your church is nothing but a cancer,
+Dialogue: 0,0:14:44.38,0:14:46.24,Default,,0000,0000,0000,,Ieaching what little we have left!
+Dialogue: 0,0:15:04.67,0:15:07.73,Default,,0000,0000,0000,,That's one of those creatures,\Njust like in the village.
+Dialogue: 0,0:15:20.68,0:15:22.95,Default,,0000,0000,0000,,Have I made my position clear?
+Dialogue: 0,0:15:24.45,0:15:26.54,Default,,0000,0000,0000,,Yesterday, a village died.
+Dialogue: 0,0:15:27.42,0:15:31.63,Default,,0000,0000,0000,,Tomorrow perhaps, this fool's city shall follow.
+Dialogue: 0,0:15:31.63,0:15:34.36,Default,,0000,0000,0000,,That's what happens when you lose your head.
+Dialogue: 0,0:15:34.36,0:15:36.66,Default,,0000,0000,0000,,Now then, is there anyone else
+Dialogue: 0,0:15:37.56,0:15:39.86,Default,,0000,0000,0000,,with something to say?
+Dialogue: 0,0:15:41.84,0:15:44.74,Default,,0000,0000,0000,,Oh, fuck, I'm sleeping in a nut house.
+Dialogue: 0,0:15:58.39,0:16:00.35,Default,,0000,0000,0000,,
+Dialogue: 0,0:16:02.96,0:16:03.92,Default,,0000,0000,0000,,Long enough...
+Dialogue: 0,0:16:04.02,0:16:06.99,Default,,0000,0000,0000,,
+Dialogue: 0,0:16:10.97,0:16:12.26,Default,,0000,0000,0000,,Which way?
+Dialogue: 0,0:16:17.81,0:16:19.27,Default,,0000,0000,0000,,None shall pass.
+Dialogue: 0,0:16:19.27,0:16:21.83,Default,,0000,0000,0000,,Prepare to die most unpleasantly.
+Dialogue: 0,0:16:22.11,0:16:23.41,Default,,0000,0000,0000,,Shit...
+Dialogue: 0,0:16:33.85,0:16:35.69,Default,,0000,0000,0000,,Amateurs...
+Dialogue: 0,0:16:37.09,0:16:39.08,Default,,0000,0000,0000,,What a bunch of morons.
+Dialogue: 0,0:16:43.90,0:16:46.53,Default,,0000,0000,0000,,As if I'd let myself get sucker-punched twice.
+Dialogue: 0,0:16:50.37,0:16:53.70,Default,,0000,0000,0000,,Oh great one, Goddess of Gold,
+Dialogue: 0,0:16:54.24,0:16:57.11,Default,,0000,0000,0000,,grant unto us your chosen servants
+Dialogue: 0,0:16:57.38,0:16:59.35,Default,,0000,0000,0000,,the ultimate power!
+Dialogue: 0,0:17:12.56,0:17:15.16,Default,,0000,0000,0000,,This intruder may not proceed.
+Dialogue: 0,0:17:15.16,0:17:16.73,Default,,0000,0000,0000,,Stop him at all costs!
+Dialogue: 0,0:17:16.73,0:17:18.36,Default,,0000,0000,0000,,By your command.
+Dialogue: 0,0:17:23.30,0:17:25.27,Default,,0000,0000,0000,,Perfect! Did we kill him?
+Dialogue: 0,0:17:45.16,0:17:48.10,Default,,0000,0000,0000,,Shit! That was a new set of power armor too.
+Dialogue: 0,0:17:48.10,0:17:50.06,Default,,0000,0000,0000,,
+Dialogue: 0,0:17:51.00,0:17:52.12,Default,,0000,0000,0000,,Raina!
+Dialogue: 0,0:17:52.83,0:17:54.80,Default,,0000,0000,0000,,Raina, are you all right?
+Dialogue: 0,0:17:55.34,0:17:56.60,Default,,0000,0000,0000,,Guy...
+Dialogue: 0,0:17:56.97,0:18:00.04,Default,,0000,0000,0000,,The treasure's here, this way.
+Dialogue: 0,0:18:00.04,0:18:01.48,Default,,0000,0000,0000,,Fuckin' A!
+Dialogue: 0,0:18:01.48,0:18:03.38,Default,,0000,0000,0000,,Way to go, Raina!
+Dialogue: 0,0:18:13.89,0:18:16.01,Default,,0000,0000,0000,,Look at the moons!
+Dialogue: 0,0:18:16.89,0:18:18.53,Default,,0000,0000,0000,,Our time has come.
+Dialogue: 0,0:18:18.53,0:18:20.93,Default,,0000,0000,0000,,Soon, we shall become gods ourselves.
+Dialogue: 0,0:18:20.93,0:18:22.73,Default,,0000,0000,0000,,
+Dialogue: 0,0:18:22.73,0:18:25.66,Default,,0000,0000,0000,,Sorrí to interrupt, ah, your theological debate,
+Dialogue: 0,0:18:25.73,0:18:28.47,Default,,0000,0000,0000,,but I'm looking for a golden goddess.
+Dialogue: 0,0:18:28.47,0:18:30.66,Default,,0000,0000,0000,,Seen one around here?
+Dialogue: 0,0:18:31.17,0:18:33.27,Default,,0000,0000,0000,,Dog of an unbeliever!
+Dialogue: 0,0:18:33.27,0:18:36.07,Default,,0000,0000,0000,,For such insolence, you'll die.
+Dialogue: 0,0:18:36.48,0:18:40.08,Default,,0000,0000,0000,,Your flesh will serve us well\Nas our first sacrifice.
+Dialogue: 0,0:18:40.08,0:18:43.52,Default,,0000,0000,0000,,Did you really think your appearance\Nhere was by chance?
+Dialogue: 0,0:18:43.52,0:18:47.02,Default,,0000,0000,0000,,Heh, no, I thought it was because\Nof your lousy security.
+Dialogue: 0,0:18:47.02,0:18:50.11,Default,,0000,0000,0000,,Come on, Raina, the treasure's\Nas good as ours.
+Dialogue: 0,0:18:51.33,0:18:52.62,Default,,0000,0000,0000,,Raina?
+Dialogue: 0,0:18:53.76,0:18:55.70,Default,,0000,0000,0000,,Raina, what's wrong?!
+Dialogue: 0,0:18:55.70,0:18:56.99,Default,,0000,0000,0000,,Raina!
+Dialogue: 0,0:18:57.20,0:18:58.90,Default,,0000,0000,0000,,Are you listening to me?
+Dialogue: 0,0:18:58.90,0:19:03.47,Default,,0000,0000,0000,,Raina, you hear only our commands.
+Dialogue: 0,0:19:03.47,0:19:07.60,Default,,0000,0000,0000,,You will kill your friend\Nand bathe in his blood.
+Dialogue: 0,0:19:08.38,0:19:13.54,Default,,0000,0000,0000,,Taste his blood, eat his flesh\Nand suck the marrow from his bones.
+Dialogue: 0,0:19:14.45,0:19:16.58,Default,,0000,0000,0000,,Now, Raina!
+Dialogue: 0,0:19:18.32,0:19:19.62,Default,,0000,0000,0000,,Raina?
+Dialogue: 0,0:19:32.83,0:19:34.03,Default,,0000,0000,0000,,Raina...
+Dialogue: 0,0:19:34.03,0:19:36.47,Default,,0000,0000,0000,,If this is a joke, it's not funny.
+Dialogue: 0,0:19:42.41,0:19:46.65,Default,,0000,0000,0000,,
+Dialogue: 0,0:19:46.65,0:19:49.95,Default,,0000,0000,0000,,No one can resist our ultimate power.
+Dialogue: 0,0:19:50.68,0:19:53.55,Default,,0000,0000,0000,,You've only one chance.
+Dialogue: 0,0:19:53.55,0:19:56.11,Default,,0000,0000,0000,,You've got to kill her first.
+Dialogue: 0,0:19:56.49,0:19:57.96,Default,,0000,0000,0000,,Cut him down!
+Dialogue: 0,0:20:18.98,0:20:20.28,Default,,0000,0000,0000,,Raina...
+Dialogue: 0,0:20:24.05,0:20:25.64,Default,,0000,0000,0000,,Don't do it.
+Dialogue: 0,0:20:27.19,0:20:31.59,Default,,0000,0000,0000,,Can't Guy... I don't want to, but...
+Dialogue: 0,0:20:31.59,0:20:34.22,Default,,0000,0000,0000,,I have no choice.
+Dialogue: 0,0:20:34.56,0:20:36.36,Default,,0000,0000,0000,,Kill me, Guy!
+Dialogue: 0,0:20:36.70,0:20:39.46,Default,,0000,0000,0000,,Kill me before I kill you!
+Dialogue: 0,0:20:45.24,0:20:46.94,Default,,0000,0000,0000,,Delightful!
+Dialogue: 0,0:20:46.94,0:20:50.01,Default,,0000,0000,0000,,One might almost believe they were lovers,\Nwouldn't one?
+Dialogue: 0,0:20:50.01,0:20:52.04,Default,,0000,0000,0000,,I'm getting tired of this.
+Dialogue: 0,0:21:10.53,0:21:13.00,Default,,0000,0000,0000,,He sacrificed himself for her?
+Dialogue: 0,0:21:13.00,0:21:15.59,Default,,0000,0000,0000,,What manner of man is he?
+Dialogue: 0,0:21:16.44,0:21:19.03,Default,,0000,0000,0000,,Not man enough to survive this!
+Dialogue: 0,0:21:19.77,0:21:23.88,Default,,0000,0000,0000,,No matter how much you resist,\Nyou cannot win!
+Dialogue: 0,0:21:23.88,0:21:28.58,Default,,0000,0000,0000,,I shall disembowel the girl and wrap your\Ncorpse in her bloody viscera!
+Dialogue: 0,0:21:32.12,0:21:33.59,Default,,0000,0000,0000,,Raina...
+Dialogue: 0,0:21:37.06,0:21:39.46,Default,,0000,0000,0000,,She will not be harmed!
+Dialogue: 0,0:21:39.46,0:21:40.49,Default,,0000,0000,0000,,You will not touch her!
+Dialogue: 0,0:21:40.49,0:21:43.93,Default,,0000,0000,0000,,After all this, you still defy us?
+Dialogue: 0,0:21:43.93,0:21:46.80,Default,,0000,0000,0000,,He's either mad or very stupid.
+Dialogue: 0,0:21:49.90,0:21:53.43,Default,,0000,0000,0000,,Ah shit, here we go again!
+Dialogue: 0,0:22:12.93,0:22:14.79,Default,,0000,0000,0000,,Impossible!
+Dialogue: 0,0:22:33.08,0:22:35.17,Default,,0000,0000,0000,,Lady Arcana, look!
+Dialogue: 0,0:22:36.72,0:22:38.59,Default,,0000,0000,0000,,Noima, complete the ritual.
+Dialogue: 0,0:22:38.59,0:22:39.71,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:23:09.82,0:23:11.11,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:23:19.09,0:23:23.16,Default,,0000,0000,0000,,Now is the time, now is the moment\Nfor which we have prepared.
+Dialogue: 0,0:23:23.16,0:23:25.47,Default,,0000,0000,0000,,Now we shall rule the universe,
+Dialogue: 0,0:23:25.47,0:23:28.46,Default,,0000,0000,0000,,and my first act will be to crush that insect.
+Dialogue: 0,0:24:24.59,0:24:27.89,Default,,0000,0000,0000,,The time has come for you to DIE!
+Dialogue: 0,0:25:09.67,0:25:11.66,Default,,0000,0000,0000,,G..G..Guy...
+Dialogue: 0,0:25:20.41,0:25:23.54,Default,,0000,0000,0000,,Damn you! Where are you hiding?
+Dialogue: 0,0:25:27.82,0:25:29.69,Default,,0000,0000,0000,,
+Dialogue: 0,0:25:29.69,0:25:32.43,Default,,0000,0000,0000,,There can be no escape.
+Dialogue: 0,0:25:32.43,0:25:37.33,Default,,0000,0000,0000,,Your soul has already been promised - to us!
+Dialogue: 0,0:25:39.17,0:25:41.36,Default,,0000,0000,0000,,Now, infidel...
+Dialogue: 0,0:25:43.44,0:25:45.54,Default,,0000,0000,0000,,You die!
+Dialogue: 0,0:25:45.54,0:25:47.23,Default,,0000,0000,0000,,Up yours!
+Dialogue: 0,0:26:13.93,0:26:15.06,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:26:15.87,0:26:18.41,Default,,0000,0000,0000,,Lady Arcana, escape now.
+Dialogue: 0,0:26:18.41,0:26:19.54,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:26:19.54,0:26:21.10,Default,,0000,0000,0000,,We will live forever.
+Dialogue: 0,0:26:22.14,0:26:25.25,Default,,0000,0000,0000,,Perhaps. I regret that I shall not follow.
+Dialogue: 0,0:26:25.25,0:26:26.25,Default,,0000,0000,0000,,Noima!
+Dialogue: 0,0:26:26.25,0:26:29.22,Default,,0000,0000,0000,,
+Dialogue: 0,0:26:29.52,0:26:31.25,Default,,0000,0000,0000,,I don't understand.
+Dialogue: 0,0:26:31.25,0:26:34.55,Default,,0000,0000,0000,,We had the power of the gods.\NHow could we fail?
+Dialogue: 0,0:26:34.55,0:26:36.72,Default,,0000,0000,0000,,Arcana!
+Dialogue: 0,0:27:00.15,0:27:02.31,Default,,0000,0000,0000,,Damn you all!
+Dialogue: 0,0:27:04.42,0:27:05.65,Default,,0000,0000,0000,,Guy!
+Dialogue: 0,0:27:09.06,0:27:11.55,Default,,0000,0000,0000,,The time has come for you to learn
+Dialogue: 0,0:27:12.36,0:27:15.92,Default,,0000,0000,0000,,what it means to lose all\Nthat is precious to you.
+Dialogue: 0,0:27:29.04,0:27:32.48,Default,,0000,0000,0000,,Guy, don't think you've won this easily.
+Dialogue: 0,0:27:34.01,0:27:36.72,Default,,0000,0000,0000,,This was merely foreplay.
+Dialogue: 0,0:27:36.72,0:27:39.12,Default,,0000,0000,0000,,Until the time we meet again...
+Dialogue: 0,0:27:39.69,0:27:42.15,Default,,0000,0000,0000,,
+Dialogue: 0,0:27:54.57,0:27:56.00,Default,,0000,0000,0000,,Oh, Guy...
+Dialogue: 0,0:28:36.61,0:28:38.41,Default,,0000,0000,0000,,About those two...
+Dialogue: 0,0:28:38.41,0:28:40.95,Default,,0000,0000,0000,,I wonder what they had in mind?
+Dialogue: 0,0:28:40.95,0:28:43.42,Default,,0000,0000,0000,,After they conquered the universe, I mean.
+Dialogue: 0,0:28:44.65,0:28:46.12,Default,,0000,0000,0000,,Who knows?
+Dialogue: 0,0:28:46.12,0:28:52.06,Default,,0000,0000,0000,,In all honesty, I have a hard enough time just\Nimagining the two of us even getting rich.
+Dialogue: 0,0:28:52.06,0:28:54.55,Default,,0000,0000,0000,,Same here.
+Dialogue: 0,0:28:56.53,0:28:59.36,Default,,0000,0000,0000,,I wonder if we'll ever find\Nwhat we're looking for?
+Dialogue: 0,0:29:01.03,0:29:03.63,Default,,0000,0000,0000,,And speaking of which, Raina!
+Dialogue: 0,0:29:03.94,0:29:06.74,Default,,0000,0000,0000,,Why did you go and destroy\Nthe Golden Goddess?!
+Dialogue: 0,0:29:06.74,0:29:08.11,Default,,0000,0000,0000,,Why did I?!
+Dialogue: 0,0:29:08.34,0:29:11.71,Default,,0000,0000,0000,,You'd have been a blueberry pancake\Nif I hadn't, you stupid dork!
+Dialogue: 0,0:29:11.71,0:29:13.05,Default,,0000,0000,0000,,Oh, really?!
+Dialogue: 0,0:29:13.05,0:29:15.62,Default,,0000,0000,0000,,Everything was going fine until you\Nstuck a knife in my stomach!
+Dialogue: 0,0:29:15.62,0:29:16.88,Default,,0000,0000,0000,,You arrogant prick!
+Dialogue: 0,0:29:16.88,0:29:18.41,Default,,0000,0000,0000,,Making something of it, bitch?!
+Dialogue: 0,0:29:19.85,0:29:24.26,Default,,0000,0000,0000,,Harping, neurotic little...
+Dialogue: 0,0:29:19.85,0:29:24.26,Default,,0000,0000,0000,,Over-inflated bag of ego on steroids!
+Dialogue: 0,0:29:24.26,0:29:27.89,Default,,0000,0000,0000,,Hey! What were YOUR hands\Ndoing on MY tits?!
+Dialogue: 0,0:29:27.89,0:29:29.40,Default,,0000,0000,0000,,You must be imagining things.
+Dialogue: 0,0:29:29.40,0:29:31.23,Default,,0000,0000,0000,,Why would I wanna touch a boy's tits?
+Dialogue: 0,0:29:31.23,0:29:33.43,Default,,0000,0000,0000,,Are you calling me a boy?!
+Dialogue: 0,0:29:39.04,0:29:40.44,Default,,0000,0000,0000,,{\an8}It's so warm
+Dialogue: 0,0:29:40.44,0:29:42.28,Default,,0000,0000,0000,,{\an8}In this dream
+Dialogue: 0,0:29:42.28,0:29:45.78,Default,,0000,0000,0000,,{\an8}I've found myself living in
+Dialogue: 0,0:29:45.78,0:29:47.31,Default,,0000,0000,0000,,{\an8}I was alone
+Dialogue: 0,0:29:47.31,0:29:49.38,Default,,0000,0000,0000,,{\an8}In the night
+Dialogue: 0,0:29:49.38,0:29:51.65,Default,,0000,0000,0000,,{\an8}With the darkness creeping in
+Dialogue: 0,0:29:51.65,0:29:53.22,Default,,0000,0000,0000,,{\an8}As I lay
+Dialogue: 0,0:29:53.22,0:29:55.36,Default,,0000,0000,0000,,{\an8}My body pressed
+Dialogue: 0,0:29:55.36,0:29:58.76,Default,,0000,0000,0000,,{\an8}Cold and tight against the glass
+Dialogue: 0,0:29:58.76,0:30:00.19,Default,,0000,0000,0000,,{\an8}The voices from
+Dialogue: 0,0:30:00.19,0:30:02.36,Default,,0000,0000,0000,,{\an8}The heavens came
+Dialogue: 0,0:30:02.36,0:30:05.90,Default,,0000,0000,0000,,{\an8}Wafting down
+Dialogue: 0,0:30:05.90,0:30:09.24,Default,,0000,0000,0000,,{\an8}My heart says go for it
+Dialogue: 0,0:30:09.24,0:30:12.41,Default,,0000,0000,0000,,{\an8}And I reach out my hand
+Dialogue: 0,0:30:12.41,0:30:14.71,Default,,0000,0000,0000,,{\an8}Yet, when it seems I should have it
+Dialogue: 0,0:30:14.71,0:30:18.08,Default,,0000,0000,0000,,{\an8}It's out of my reach
+Dialogue: 0,0:30:18.08,0:30:21.31,Default,,0000,0000,0000,,{\an8}Oh, lonely way
+Dialogue: 0,0:30:21.31,0:30:24.62,Default,,0000,0000,0000,,{\an8}I'm stranger
+Dialogue: 0,0:30:24.62,0:30:27.65,Default,,0000,0000,0000,,{\an8}Now discovering
+Dialogue: 0,0:30:27.65,0:30:30.92,Default,,0000,0000,0000,,{\an8}A new land
+Dialogue: 0,0:30:30.92,0:30:34.29,Default,,0000,0000,0000,,{\an8}Oh, lonely way
+Dialogue: 0,0:30:34.29,0:30:37.76,Default,,0000,0000,0000,,{\an8}I'm stranger
+Dialogue: 0,0:30:37.76,0:30:40.07,Default,,0000,0000,0000,,{\an8}I'll try any way
+Dialogue: 0,0:30:40.07,0:30:43.66,Default,,0000,0000,0000,,{\an8}To get there that I can
+Dialogue: 0,0:30:49.91,0:30:53.55,Default,,0000,0000,0000,,{\an8}Through a narrow, too confined space
+Dialogue: 0,0:30:53.55,0:30:56.82,Default,,0000,0000,0000,,{\an8}Fighting against the wave of time
+Dialogue: 0,0:30:56.82,0:30:58.59,Default,,0000,0000,0000,,{\an8}I find we've reached
+Dialogue: 0,0:30:58.59,0:31:00.62,Default,,0000,0000,0000,,{\an8}All that I sought
+Dialogue: 0,0:31:00.62,0:31:02.92,Default,,0000,0000,0000,,{\an8}When I was still seeking
+Dialogue: 0,0:31:02.92,0:31:04.56,Default,,0000,0000,0000,,{\an8}Despite the bleak
+Dialogue: 0,0:31:04.56,0:31:06.59,Default,,0000,0000,0000,,{\an8}Grey urban streets
+Dialogue: 0,0:31:06.59,0:31:09.93,Default,,0000,0000,0000,,{\an8}I see reality with my eyes
+Dialogue: 0,0:31:09.93,0:31:11.50,Default,,0000,0000,0000,,{\an8}I've a mirror world
+Dialogue: 0,0:31:11.50,0:31:13.57,Default,,0000,0000,0000,,{\an8}Inside my mind
+Dialogue: 0,0:31:13.57,0:31:17.20,Default,,0000,0000,0000,,{\an8}That will not fade away
+Dialogue: 0,0:31:17.20,0:31:20.51,Default,,0000,0000,0000,,{\an8}But if we break that mirror
+Dialogue: 0,0:31:20.51,0:31:23.68,Default,,0000,0000,0000,,{\an8}Will it let my feelings out?
+Dialogue: 0,0:31:23.68,0:31:25.98,Default,,0000,0000,0000,,{\an8}Would they fall as shooting stars
+Dialogue: 0,0:31:25.98,0:31:29.28,Default,,0000,0000,0000,,{\an8}In the midnight sky?
+Dialogue: 0,0:31:29.28,0:31:32.42,Default,,0000,0000,0000,,{\an8}Oh, lonely way
+Dialogue: 0,0:31:32.42,0:31:35.59,Default,,0000,0000,0000,,{\an8}I'm stranger
+Dialogue: 0,0:31:35.59,0:31:38.86,Default,,0000,0000,0000,,{\an8}Now discovering
+Dialogue: 0,0:31:38.86,0:31:42.26,Default,,0000,0000,0000,,{\an8}A new land
+Dialogue: 0,0:31:42.26,0:31:45.47,Default,,0000,0000,0000,,{\an8}Oh, lonely way
+Dialogue: 0,0:31:45.47,0:31:49.24,Default,,0000,0000,0000,,{\an8}I'm stranger
+Dialogue: 0,0:31:49.24,0:31:51.10,Default,,0000,0000,0000,,{\an8}I'll try any way
+Dialogue: 0,0:31:51.10,0:31:54.77,Default,,0000,0000,0000,,{\an8}To get there that I can
+Dialogue: 0,0:32:05.82,0:32:09.06,Default,,0000,0000,0000,,{\an8}This old and used up husk
+Dialogue: 0,0:32:09.06,0:32:12.26,Default,,0000,0000,0000,,{\an8}Still harbors a burning flame
+Dialogue: 0,0:32:12.26,0:32:14.46,Default,,0000,0000,0000,,{\an8}Together, we can do anything
+Dialogue: 0,0:32:14.46,0:32:17.90,Default,,0000,0000,0000,,{\an8}Let's walk on through
+Dialogue: 0,0:32:17.90,0:32:21.07,Default,,0000,0000,0000,,{\an8}Oh, lonely way
+Dialogue: 0,0:32:21.07,0:32:24.20,Default,,0000,0000,0000,,{\an8}I'm a stranger
+Dialogue: 0,0:32:24.20,0:32:27.41,Default,,0000,0000,0000,,{\an8}Discovering a
+Dialogue: 0,0:32:27.41,0:32:30.71,Default,,0000,0000,0000,,{\an8}New land
+Dialogue: 0,0:32:30.71,0:32:34.05,Default,,0000,0000,0000,,{\an8}Oh, lonely way
+Dialogue: 0,0:32:34.05,0:32:37.72,Default,,0000,0000,0000,,{\an8}I'm a stranger
+Dialogue: 0,0:32:37.72,0:32:39.65,Default,,0000,0000,0000,,{\an8}I'll try any way
+Dialogue: 0,0:32:39.65,0:32:43.45,Default,,0000,0000,0000,,{\an8}To get there that I can

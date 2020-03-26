@@ -1,0 +1,289 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.6.1 r122  Feb  8 2015  12:54:16
+Active Line: 25
+Last Style Storage: Podstawowy
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.9,0,2,20,20,30,1
+Style: Default (i),Franklin Gothic Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.9,0,2,20,20,30,1
+Style: Default (top),Franklin Gothic Medium,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H0024509F,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,7,18,10,15,1
+Style: Tytul,Franklin Gothic Medium,52,&H00BA31A8,&H000000FF,&H9600E1F7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
+Style: Znak,Franklin Gothic Medium,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 1,0:00:01.90,0:00:09.99,Grupa,,0,0,0,,{\blur1\fad(561,0)\1c&H8D4FE9&}N{\1c&H7EA0F9&}y{\1c&H9C85FF&}a{\1c&H51A8F7&}n
+Dialogue: 0,0:00:01.90,0:00:09.99,Grupa,,0,0,0,,{\blur1\fad(561,0)\3c&HFFFFFF&\1a&HFF&\bord5}Nyan
+Dialogue: 0,0:00:03.86,0:00:09.99,Tytul,,0,0,0,,{\blur1\fad(978,0)}Festiwal, kąpiel i haremowy raj
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\fsp4\bord9.5\fs55\fad(200,0)\frz9.965\c&H935BE1&\pos(525,71)\3c&HFFFFFF&}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\fsp4\bord9.5\fs55\fad(200,0)\frz350.231\c&H6AB7F4&\pos(749,81)\3c&HFFFFFF&}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\fsp4\bord9.5\fs55\fad(200,0)\pos(636,124)\c&H7452F0&\3c&HFFFFFF&}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\bord9.5\fs55\fad(200,0)\c&H935BE1&\frz357.773\pos(634,60)\3c&HFFFFFF&}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\bord9.5\fs55\fad(200,0)\frz11.31\pos(521,126)\c&H9E63E9&\3c&HFFFFFF&}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\bord9.5\fs55\fad(200,0)\frz347.15\pos(744,130)\c&H76C7F6&\3c&HFFFFFF&}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\fsp4\bord5.5\fs55\fad(200,0)\frz9.965\c&H935BE1&\3c&H4B239A&\pos(525,71)}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\fsp4\bord2.5\fs55\fad(200,0)\frz9.965\c&H935BE1&\3c&HFFFFFF&\pos(525,71)}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\fsp4\bord5.5\fs55\fad(200,0)\3c&H4B239A&\frz350.231\c&H6AB7F4&\pos(749,81)}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\fsp4\bord2.5\fs55\fad(200,0)\3c&HFFFFFF&\frz350.231\c&H6AB7F4&\pos(749,81)}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\fsp4\bord5.5\fs55\fad(200,0)\3c&H4B239A&\pos(636,124)\c&H7452F0&}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\fsp4\bord2.5\fs55\fad(200,0)\3c&HFFFFFF&\pos(636,124)\c&H7452F0&}Kanojo
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\bord5.5\fs55\fad(200,0)\c&H935BE1&\3c&H4B239A&\frz357.773\pos(634,60)}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\bord2.5\fs55\fad(200,0)\3c&HFFFFFF&\frz357.773\c&H735CE8&\pos(634,60)}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\bord5.5\fs55\fad(200,0)\3c&H4B239A&\frz11.31\pos(521,126)\c&H9E63E9&}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\bord2.5\fs55\fad(200,0)\3c&HFFFFFF&\frz11.31\pos(521,126)\c&H9E63E9&}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\1a&HFF&\bord5.5\fs55\fad(200,0)\3c&H4B239A&\frz347.15\pos(744,130)\c&H76C7F6&}x
+Dialogue: 0,0:00:01.90,0:00:09.99,Znak,,0,0,0,,{\blur1\an2\bord2.5\fs55\fad(200,0)\3c&HFFFFFF&\frz347.15\pos(744,130)\c&H76C7F6&}x
+Dialogue: 0,0:07:27.18,0:07:29.30,Znak,,0,0,0,,{\blur1\fad(313,0)}Pech
+Dialogue: 0,0:07:31.14,0:07:33.93,Znak,,0,0,0,,{\blur1}Pech
+Dialogue: 0,0:07:42.19,0:07:45.19,Znak,,0,0,0,,{\blur1\fad(731,0)}Przeznaczona osoba:\NKręci się przy tobie piękna blondynka z długimi włosami.\NPamiętaj, małe jest piękne.
+Dialogue: 0,0:19:26.56,0:19:32.07,Znak,,0,0,0,,{\blur1}42 konkurs na najlepsze lody dzielnicy Tanabaty.
+Dialogue: 0,0:19:40.24,0:19:43.08,Znak,,0,0,0,,{\blur1}42 konkurs na najlepsze lody dzielnicy Tanabaty.
+Dialogue: 0,0:00:18.54,0:00:21.50,Default,,0,0,0,,{\blur1}Shiki ma dzisiaj spore jedzenie.
+Dialogue: 0,0:00:22.07,0:00:23.62,Default,,0,0,0,,{\blur1}Coś się stało?
+Dialogue: 0,0:00:23.62,0:00:26.51,Default,,0,0,0,,{\blur1}Nie.
+Dialogue: 0,0:00:34.51,0:00:37.85,Default,,0,0,0,,{\blur1}Haru i ja jesteśmy...
+Dialogue: 0,0:00:38.39,0:00:40.67,Default,,0,0,0,,{\blur1}Czy Haru kiedykolwiek tak powiedział?
+Dialogue: 0,0:00:40.67,0:00:42.35,Default,,0,0,0,,{\blur1}Nie...
+Dialogue: 0,0:00:42.85,0:00:44.86,Default,,0,0,0,,{\blur1}Haruomi był po prostu napalony.
+Dialogue: 0,0:00:44.86,0:00:46.87,Default,,0,0,0,,{\blur1}Nieprawda!
+Dialogue: 0,0:00:46.87,0:00:49.40,Default,,0,0,0,,{\blur1}Haru należy do nas wszystkich.
+Dialogue: 0,0:00:49.79,0:00:56.09,Default,,0,0,0,,{\blur1}Bądź co bądź Haru to chłopak,\Na wokół ma same ślicznotki.
+Dialogue: 0,0:00:56.09,0:00:59.91,Default,,0,0,0,,{\blur1}Nie ma co się dziwić, że pragnie też nas.
+Dialogue: 0,0:01:00.56,0:01:03.11,Default,,0,0,0,,{\blur1}Dziewczyny!
+Dialogue: 0,0:01:03.11,0:01:05.76,Default,,0,0,0,,{\blur1}Natsumi, wychodzę!
+Dialogue: 0,0:01:05.76,0:01:07.88,Default,,0,0,0,,{\blur1}Czekaj, drugie śniadanie!
+Dialogue: 0,0:01:08.35,0:01:09.14,Default,,0,0,0,,{\blur1}Trzymaj.
+Dialogue: 0,0:01:09.14,0:01:10.26,Default,,0,0,0,,{\blur1}Dzięki.
+Dialogue: 0,0:01:14.59,0:01:15.82,Default,,0,0,0,,{\blur1}Wychodzę.
+Dialogue: 0,0:01:20.41,0:01:23.63,Default (i),,0,0,0,,{\blur1}Nie jest takie złe.\NWręcz przeciwnie, jest smaczne.
+Dialogue: 0,0:01:23.63,0:01:24.77,Default,,0,0,0,,{\blur1}Siemka.
+Dialogue: 0,0:01:25.31,0:01:27.75,Default,,0,0,0,,{\blur1}MinMin Ice wygra w tym roku?
+Dialogue: 0,0:01:28.66,0:01:32.24,Default,,0,0,0,,{\blur1}Mówię o konkursie na najlepsze\Nlody w dzielnicy Tanabaty.
+Dialogue: 0,0:01:33.09,0:01:36.38,Default,,0,0,0,,{\blur1}W przyszłym tygodniu zaczyna się festiwal.
+Dialogue: 0,0:01:36.38,0:01:40.63,Default,,0,0,0,,{\blur1}A ostatniego dnia jest zebranie\Nlokalnych magnatów.
+Dialogue: 0,0:01:40.63,0:01:41.92,Default,,0,0,0,,{\blur1}Nie wiedziałeś?
+Dialogue: 0,0:01:43.50,0:01:48.86,Default,,0,0,0,,{\blur1}Twój sklep wygrał 3 razy z rzędy,\Ngdy mój rok temu zajął trzecie miejsce.
+Dialogue: 0,0:01:48.86,0:01:51.97,Default,,0,0,0,,{\blur1}To oczywiste, lody MinMin Ice są przepyszne.
+Dialogue: 0,0:01:52.62,0:01:56.97,Default,,0,0,0,,{\blur1}A nie mówiąc już o Golden Stone i 101,\Nktóre działają w całym kraju.
+Dialogue: 0,0:01:56.97,0:02:00.60,Default,,0,0,0,,{\blur1}Hage-Dazs nie ma szans z MinMin Ice.
+Dialogue: 0,0:02:00.60,0:02:04.43,Default,,0,0,0,,{\blur1}Wiem, ale tym razem to rozstrzygniemy!
+Dialogue: 0,0:02:04.43,0:02:06.02,Default,,0,0,0,,{\blur1}- Co?\N- Co?
+Dialogue: 0,0:02:06.02,0:02:10.53,Default,,0,0,0,,{\blur1}To nie prośba, to propozycja.
+Dialogue: 0,0:02:15.01,0:02:16.21,Default,,0,0,0,,{\blur1}Przepraszam.
+Dialogue: 0,0:02:16.21,0:02:18.29,Default,,0,0,0,,{\blur1}Dzień dobry.
+Dialogue: 0,0:02:21.44,0:02:23.83,Default,,0,0,0,,{\blur1}Poproszę najlepsze lody.
+Dialogue: 0,0:02:23.83,0:02:25.83,Default,,0,0,0,,{\blur1}Załatwione.
+Dialogue: 0,0:02:25.83,0:02:30.88,Default,,0,0,0,,{\blur1}Będziesz moim sługą jeśli wygramy.
+Dialogue: 0,0:02:30.88,0:02:35.68,Default,,0,0,0,,{\blur1}A ty masz zrobić reklamę MinMin Ice za darmo.
+Dialogue: 0,0:02:35.68,0:02:39.06,Default,,0,0,0,,{\blur1}I masz skończyć z robieniem zbereźnych fotek!
+Dialogue: 0,0:02:39.06,0:02:40.14,Default,,0,0,0,,{\blur1}Wiem!
+Dialogue: 0,0:02:41.28,0:02:48.65,Default,,0,0,0,,{\blur1}Jeszcze jedno, nasze sklepy od niedawna działają\Npod szyldem 101, więc jeśli oni wygrają to i my też.
+Dialogue: 0,0:02:54.52,0:02:55.90,Default,,0,0,0,,{\blur1}Jestem.
+Dialogue: 0,0:03:00.05,0:03:03.00,Default (i),,0,0,0,,{\blur1}Lody Natsumi nie przegrają.
+Dialogue: 0,0:03:03.00,0:03:10.50,Default (i),,0,0,0,,{\blur1}Ale jeśli to ma przyciągnąć do nas więcej klientów i naprostować\NHonnoujiego to upiekę dwie pieczenie na jednym rożnie.
+Dialogue: 0,0:03:14.92,0:03:16.01,Default,,0,0,0,,{\blur1}Cześć.
+Dialogue: 0,0:03:17.51,0:03:18.98,Default,,0,0,0,,{\blur1}Zaskoczony?
+Dialogue: 0,0:03:18.98,0:03:21.72,Default,,0,0,0,,{\blur1}No jasne!
+Dialogue: 0,0:03:21.72,0:03:24.00,Default,,0,0,0,,{\blur1}Co jej odbiło?
+Dialogue: 0,0:03:34.73,0:03:37.96,Default,,0,0,0,,{\blur1}Natsumi, możemy...
+Dialogue: 0,0:03:39.74,0:03:43.19,Default,,0,0,0,,{\blur1}To nie wystarczy.
+Dialogue: 0,0:03:43.19,0:03:46.62,Default,,0,0,0,,{\blur1}Wiem, że to za mało.
+Dialogue: 0,0:03:47.18,0:03:48.42,Default,,0,0,0,,{\blur1}W ten sposób...
+Dialogue: 0,0:03:52.26,0:03:53.63,Default,,0,0,0,,{\blur1}Nie uda się.
+Dialogue: 0,0:03:55.14,0:03:57.13,Default (i),,0,0,0,,{\blur1}Natsumi.
+Dialogue: 0,0:04:04.12,0:04:05.97,Default,,0,0,0,,{\blur1}Coś cię trapi?
+Dialogue: 0,0:04:06.63,0:04:09.62,Default,,0,0,0,,{\blur1}Byakudan, wiesz co tu jest napisane?
+Dialogue: 0,0:04:10.48,0:04:11.89,Default,,0,0,0,,{\blur1}To o ziołach.
+Dialogue: 0,0:04:11.89,0:04:12.77,Default,,0,0,0,,{\blur1}Zioła?
+Dialogue: 0,0:04:13.42,0:04:17.27,Default,,0,0,0,,{\blur1}Tak, dodaje się je do lodów.
+Dialogue: 0,0:04:17.27,0:04:19.74,Default,,0,0,0,,{\blur1}Rozumiem, lody.
+Dialogue: 0,0:04:19.74,0:04:22.22,Default,,0,0,0,,{\blur1}Mogę ci to przetłumaczyć.
+Dialogue: 0,0:04:22.22,0:04:23.99,Default,,0,0,0,,{\blur1}Naprawdę? Dzięki.
+Dialogue: 0,0:04:23.99,0:04:29.00,Default,,0,0,0,,{\blur1}Dobra, ale pójdziesz ze mną na dach?
+Dialogue: 0,0:04:36.48,0:04:42.24,Default,,0,0,0,,{\blur1}Byakudan? Czekaj! Przestań!
+Dialogue: 0,0:04:45.50,0:04:49.18,Default,,0,0,0,,{\blur1}Dzięki, że znalazłeś ten zeszyt.
+Dialogue: 0,0:04:49.71,0:04:51.12,Default,,0,0,0,,{\blur1}Nie ma za co.
+Dialogue: 0,0:04:51.12,0:04:56.36,Default,,0,0,0,,{\blur1}Są tam zapisane przepisy na lody ziołowe.
+Dialogue: 0,0:04:56.78,0:05:00.88,Default,,0,0,0,,{\blur1}Byłam wniebowzięta, gdy go przyniosłeś.
+Dialogue: 0,0:05:00.88,0:05:03.33,Default,,0,0,0,,{\blur1}Znowu nas uratowałeś.
+Dialogue: 0,0:05:03.77,0:05:07.41,Default,,0,0,0,,{\blur1}Nie ma za co, cieszę się, że pomogłem.
+Dialogue: 0,0:05:12.13,0:05:13.37,Default,,0,0,0,,{\blur1}Natsumi?
+Dialogue: 0,0:05:13.37,0:05:16.13,Default,,0,0,0,,{\blur1}Jesteś wspaniały.
+Dialogue: 0,0:05:16.13,0:05:21.13,Default,,0,0,0,,{\blur1}Aha... Wróć! Blokujesz ulicę, jedź!
+Dialogue: 0,0:05:24.99,0:05:31.02,Default,,0,0,0,,{\blur1}Potrzebujemy specjalnej lawendy\Nrosnącej tylko w tamtym miejscu.
+Dialogue: 0,0:05:31.02,0:05:33.23,Default,,0,0,0,,{\blur1}Lubiłaś tamto miejsce, nie?
+Dialogue: 0,0:05:33.23,0:05:39.39,Default,,0,0,0,,{\blur1}Tak, często pływaliśmy tam łodzią, zbierać zioła.
+Dialogue: 0,0:05:41.32,0:05:44.75,Default,,0,0,0,,{\blur1}Ale nie mamy już łodzi.
+Dialogue: 0,0:05:44.75,0:05:48.99,Default,,0,0,0,,{\blur1}Akina powiedziałaby,\Nże musisz ciężko pracować.
+Dialogue: 0,0:05:50.00,0:05:51.25,Default,,0,0,0,,{\blur1}Co?
+Dialogue: 0,0:05:56.11,0:05:58.26,Default,,0,0,0,,{\blur1}Długo wam się zeszło.
+Dialogue: 0,0:05:59.15,0:06:01.41,Default,,0,0,0,,{\blur1}To ty jesteś za szybka.
+Dialogue: 0,0:06:01.41,0:06:03.96,Default,,0,0,0,,{\blur1}Przyjechanie samochodem było oszustwem.
+Dialogue: 0,0:06:03.96,0:06:06.82,Default,,0,0,0,,{\blur1}- A gdzie Haru?\N- Ciężko pracuje.
+Dialogue: 0,0:06:09.46,0:06:13.06,Default,,0,0,0,,{\blur1}Cholera, w ogóle się nie zbliżam!
+Dialogue: 0,0:06:43.75,0:06:46.09,Default,,0,0,0,,{\blur1}Nie dam rady.
+Dialogue: 0,0:06:48.68,0:06:51.12,Default,,0,0,0,,{\blur1}Haru, jesteś wspaniały!
+Dialogue: 0,0:06:51.12,0:06:53.06,Default,,0,0,0,,{\blur1}Proszę bardzo.
+Dialogue: 0,0:06:53.45,0:06:57.56,Default,,0,0,0,,{\blur1}Haru, odpocznij sobie,\Nja pomogę w sklepie.
+Dialogue: 0,0:06:57.95,0:07:00.71,Default,,0,0,0,,{\blur1}Świetna robota.
+Dialogue: 0,0:07:00.71,0:07:03.07,Default,,0,0,0,,{\blur1}Dzięki.\NA gdzie Mafuyu?
+Dialogue: 0,0:07:03.07,0:07:06.91,Default,,0,0,0,,{\blur1}Na górze, sprzedaje wróżby.
+Dialogue: 0,0:07:07.84,0:07:09.49,Default,,0,0,0,,{\blur1}Tu jesteś.
+Dialogue: 0,0:07:09.96,0:07:12.20,Default,,0,0,0,,{\blur1}Zaczęłaś pomagać.
+Dialogue: 0,0:07:12.20,0:07:14.00,Default,,0,0,0,,{\blur1}Bydle.
+Dialogue: 0,0:07:15.92,0:07:18.00,Default,,0,0,0,,{\blur1}Smakują?
+Dialogue: 0,0:07:18.69,0:07:20.50,Default,,0,0,0,,{\blur1}Weź wróżbę.
+Dialogue: 0,0:07:21.31,0:07:23.30,Default,,0,0,0,,{\blur1}No dobra.
+Dialogue: 0,0:07:26.81,0:07:29.30,Default,,0,0,0,,{\blur1}Skąd ja wiedziałem?
+Dialogue: 0,0:07:29.69,0:07:31.01,Default,,0,0,0,,{\blur1}Spróbuję jeszcze raz.
+Dialogue: 0,0:07:35.05,0:07:37.44,Default,,0,0,0,,{\blur1}Karma to wredna suka.
+Dialogue: 0,0:07:37.88,0:07:40.19,Default,,0,0,0,,{\blur1}Pech nie zawsze jest zły.
+Dialogue: 0,0:07:40.64,0:07:43.06,Default,,0,0,0,,{\blur1}To mnie miało pocieszyć?
+Dialogue: 0,0:07:58.57,0:08:01.43,Default,,0,0,0,,{\blur1}Dzięki za lawendę.
+Dialogue: 0,0:08:01.43,0:08:05.22,Default,,0,0,0,,{\blur1}Dla twoich lodów zrobię wszystko.
+Dialogue: 0,0:08:05.78,0:08:10.47,Default,,0,0,0,,{\blur1}MinMin Ice znowu wygra.\NNie damy 101 tej przyjemności.
+Dialogue: 0,0:08:11.48,0:08:13.26,Default,,0,0,0,,{\blur1}Ja posprzątam.
+Dialogue: 0,0:08:13.26,0:08:15.04,Default,,0,0,0,,{\blur1}Poradzę sobie.
+Dialogue: 0,0:08:26.68,0:08:28.14,Default,,0,0,0,,{\blur1}Przepraszam.
+Dialogue: 0,0:08:28.14,0:08:31.21,Default,,0,0,0,,{\blur1}Jestem ci wdzięczna.
+Dialogue: 0,0:08:31.21,0:08:39.25,Default,,0,0,0,,{\blur1}Odkąd się do nas wprowadziłeś,\Nwszystkie jesteśmy szczęśliwe.
+Dialogue: 0,0:08:40.61,0:08:43.25,Default,,0,0,0,,{\blur1}Powinno być na odwrót.
+Dialogue: 0,0:08:43.25,0:08:47.26,Default,,0,0,0,,{\blur1}To ja powinienem być wam wdzięczny.
+Dialogue: 0,0:08:47.84,0:08:51.55,Default,,0,0,0,,{\blur1}Choć czasami potraficie być męczące.
+Dialogue: 0,0:08:52.07,0:08:55.18,Default,,0,0,0,,{\blur1}To w tobie kocham.
+Dialogue: 0,0:08:56.27,0:08:57.75,Default,,0,0,0,,{\blur1}Natsumi?
+Dialogue: 0,0:08:57.75,0:08:59.94,Default,,0,0,0,,{\blur1}Nie ruszaj się.
+Dialogue: 0,0:08:59.94,0:09:03.19,Default,,0,0,0,,{\blur1}Co robisz?
+Dialogue: 0,0:09:03.19,0:09:08.19,Default,,0,0,0,,{\blur1}Chcę ci pomóc ze zmęczeniem.
+Dialogue: 0,0:09:13.98,0:09:17.62,Default,,0,0,0,,{\blur1}Jak dobrze.
+Dialogue: 0,0:09:26.42,0:09:30.09,Default,,0,0,0,,{\blur1}Sutki ci sterczą.
+Dialogue: 0,0:09:30.09,0:09:34.08,Default,,0,0,0,,{\blur1}Twój kutasek też.
+Dialogue: 0,0:09:34.08,0:09:35.31,Default,,0,0,0,,{\blur1}Natsumi!
+Dialogue: 0,0:09:35.31,0:09:38.09,Default,,0,0,0,,{\blur1}Tak?
+Dialogue: 0,0:09:40.81,0:09:42.36,Default,,0,0,0,,{\blur1}Haru?
+Dialogue: 0,0:09:48.24,0:09:51.74,Default,,0,0,0,,{\blur1}Uwielbiasz moje piersi, nie?
+Dialogue: 0,0:09:51.74,0:09:55.07,Default,,0,0,0,,{\blur1}Bo są takie cudowne.
+Dialogue: 0,0:09:55.07,0:09:57.83,Default,,0,0,0,,{\blur1}Dotykaj je, ile chcesz.
+Dialogue: 0,0:09:59.25,0:10:00.79,Default,,0,0,0,,{\blur1}Natsumi.
+Dialogue: 0,0:10:03.23,0:10:07.00,Default,,0,0,0,,{\blur1}Masz takie mięciutkie piersi.
+Dialogue: 0,0:10:09.27,0:10:11.74,Default,,0,0,0,,{\blur1}Oj, Haru.
+Dialogue: 0,0:10:14.94,0:10:18.12,Default,,0,0,0,,{\blur1}A co powiesz na to?
+Dialogue: 0,0:10:18.12,0:10:22.02,Default,,0,0,0,,{\blur1}Jest cudownie.
+Dialogue: 0,0:10:22.02,0:10:23.62,Default,,0,0,0,,{\blur1}Natsumi!
+Dialogue: 0,0:10:28.07,0:10:33.53,Default,,0,0,0,,{\blur1}To wygląda nieprzyzwoicie,\Ngdy tak wchodzi i wychodzi.
+Dialogue: 0,0:10:42.13,0:10:44.50,Default,,0,0,0,,{\blur1}Dochodzisz już?
+Dialogue: 0,0:10:45.25,0:10:49.17,Default,,0,0,0,,{\blur1}Cudownie mi, gdy twoje piersi ściskają go.
+Dialogue: 0,0:10:49.17,0:10:50.50,Default,,0,0,0,,{\blur1}Zaraz dojdę!
+Dialogue: 0,0:10:52.31,0:10:54.53,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:10:58.74,0:11:00.26,Default,,0,0,0,,{\blur1}Natsumi.
+Dialogue: 0,0:11:00.26,0:11:01.22,Default,,0,0,0,,{\blur1}Haru.
+Dialogue: 0,0:11:09.36,0:11:13.11,Default,,0,0,0,,{\blur1}Masz taki fajny tyłeczek.
+Dialogue: 0,0:11:13.11,0:11:16.82,Default,,0,0,0,,{\blur1}Nie rób tak.
+Dialogue: 0,0:11:21.43,0:11:25.03,Default,,0,0,0,,{\blur1}Weszły od razu do środka.
+Dialogue: 0,0:11:29.17,0:11:32.02,Default,,0,0,0,,{\blur1}Nie wytrzymam.
+Dialogue: 0,0:11:32.02,0:11:34.60,Default,,0,0,0,,{\blur1}Wkładam.
+Dialogue: 0,0:11:42.30,0:11:47.15,Default,,0,0,0,,{\blur1}Cudownie!\NWkładasz go bardzo głęboko!
+Dialogue: 0,0:11:54.83,0:11:58.70,Default,,0,0,0,,{\blur1}Ściskaj mocniej moje piersi!
+Dialogue: 0,0:11:59.44,0:12:04.04,Default,,0,0,0,,{\blur1}Jesteś niesamowita w środku!
+Dialogue: 0,0:12:04.04,0:12:07.41,Default,,0,0,0,,{\blur1}Cudownie!
+Dialogue: 0,0:12:26.30,0:12:30.94,Default,,0,0,0,,{\blur1}Wkładaj głębiej!
+Dialogue: 0,0:12:35.53,0:12:37.34,Default,,0,0,0,,{\blur1}Zaraz dojdę!
+Dialogue: 0,0:12:37.34,0:12:42.07,Default,,0,0,0,,{\blur1}Spuść się we mnie!
+Dialogue: 0,0:13:07.33,0:13:10.14,Default (i),,0,0,0,,{\blur1}Są dobre, ale...
+Dialogue: 0,0:13:10.56,0:13:11.85,Default,,0,0,0,,{\blur1}I jak?
+Dialogue: 0,0:13:12.69,0:13:15.21,Default,,0,0,0,,{\blur1}Są dobre, ale nie czuję różnicy.
+Dialogue: 0,0:13:15.21,0:13:17.53,Default,,0,0,0,,{\blur1}To dobrze.
+Dialogue: 0,0:13:17.53,0:13:18.78,Default,,0,0,0,,{\blur1}Czemu?
+Dialogue: 0,0:13:19.43,0:13:25.13,Default (i),,0,0,0,,{\blur1}3 dni do konkursu.\NZaczynam się denerwować.
+Dialogue: 0,0:13:36.37,0:13:38.34,Default,,0,0,0,,{\blur1}Jestem.
+Dialogue: 0,0:13:42.52,0:13:43.80,Default,,0,0,0,,{\blur1}To sen?
+Dialogue: 0,0:13:48.95,0:13:53.02,Default,,0,0,0,,{\blur1}Mafuyu, zakręci nam się w głowach.
+Dialogue: 0,0:13:53.67,0:13:58.32,Default (i),,0,0,0,,{\blur1}Wparowała do wanny\Ni nie odezwała się ani słowem.
+Dialogue: 0,0:13:58.92,0:14:00.66,Default (i),,0,0,0,,{\blur1}O co chodzi?
+Dialogue: 0,0:14:00.66,0:14:03.32,Default,,0,0,0,,{\blur1}Podnieciłeś się.
+Dialogue: 0,0:14:05.17,0:14:09.83,Default,,0,0,0,,{\blur1}Nic na to nie poradzę,\Njestem w wannie ze ślicznotką.
+Dialogue: 0,0:14:09.83,0:14:12.09,Default,,0,0,0,,{\blur1}Jestem śliczna?
+Dialogue: 0,0:14:12.09,0:14:13.79,Default,,0,0,0,,{\blur1}Cóż...
+Dialogue: 0,0:14:15.08,0:14:17.38,Default,,0,0,0,,{\blur1}Tylko gdy jesteś szczera.
+Dialogue: 0,0:14:17.90,0:14:20.92,Default,,0,0,0,,{\blur1}Tylko ty tak uważasz.
+Dialogue: 0,0:14:21.73,0:14:26.22,Default,,0,0,0,,{\blur1}Powinniśmy wychodzić.
+Dialogue: 0,0:14:30.77,0:14:34.23,Default,,0,0,0,,{\blur1}Wolisz duże piersi?
+Dialogue: 0,0:14:34.23,0:14:35.69,Default,,0,0,0,,{\blur1}To dla mnie bez znaczenia.
+Dialogue: 0,0:14:36.63,0:14:39.48,Default,,0,0,0,,{\blur1}Poruszył ci się.
+Dialogue: 0,0:14:41.85,0:14:44.75,Default,,0,0,0,,{\blur1}Jednak zwierz z ciebie.
+Dialogue: 0,0:14:50.59,0:14:52.43,Default,,0,0,0,,{\blur1}Nie ruszaj się.
+Dialogue: 0,0:14:52.43,0:14:55.21,Default,,0,0,0,,{\blur1}Gdzie się tego nauczyłaś?
+Dialogue: 0,0:14:59.21,0:15:02.97,Default,,0,0,0,,{\blur1}Staje ci coraz mocniej.
+Dialogue: 0,0:15:08.47,0:15:10.61,Default,,0,0,0,,{\blur1}Odwróć się do mnie.
+Dialogue: 0,0:15:11.38,0:15:15.65,Default,,0,0,0,,{\blur1}Ja też mogę zadowolić cię piersiami.
+Dialogue: 0,0:15:18.29,0:15:21.48,Default,,0,0,0,,{\blur1}Raczej nie dasz rady.
+Dialogue: 0,0:15:23.07,0:15:25.28,Default,,0,0,0,,{\blur1}Inaczej nie wygram z nimi.
+Dialogue: 0,0:15:26.55,0:15:28.11,Default,,0,0,0,,{\blur1}Patrz.
+Dialogue: 0,0:15:28.61,0:15:31.94,Default,,0,0,0,,{\blur1}Jak zrobisz tak, to wtedy ci się uda.
+Dialogue: 0,0:15:31.94,0:15:34.08,Default,,0,0,0,,{\blur1}Przecież wiem!
+Dialogue: 0,0:15:35.32,0:15:41.08,Default,,0,0,0,,{\blur1}Mocno ci stoi, chcesz się już spuścić?
+Dialogue: 0,0:15:41.08,0:15:44.01,Default,,0,0,0,,{\blur1}Tak, jesteś cudowna.
+Dialogue: 0,0:15:44.78,0:15:47.31,Default,,0,0,0,,{\blur1}No to zrób to.
+Dialogue: 0,0:15:47.31,0:15:50.25,Default,,0,0,0,,{\blur1}Dochodzę!
+Dialogue: 0,0:15:58.50,0:16:00.46,Default,,0,0,0,,{\blur1}Co robisz?
+Dialogue: 0,0:16:08.67,0:16:13.40,Default,,0,0,0,,{\blur1}Patrz jaka jesteś mokra.
+Dialogue: 0,0:16:18.66,0:16:23.27,Default,,0,0,0,,{\blur1}Czekaj, za dobrze mi!
+Dialogue: 0,0:16:24.01,0:16:26.51,Default,,0,0,0,,{\blur1}Zaraz dojdziesz?
+Dialogue: 0,0:16:28.11,0:16:29.19,Default,,0,0,0,,{\blur1}Nie tam!
+Dialogue: 0,0:16:36.37,0:16:38.42,Default,,0,0,0,,{\blur1}Było przyjemnie?
+Dialogue: 0,0:16:40.36,0:16:43.32,Default,,0,0,0,,{\blur1}Tobie nadal stoi.
+Dialogue: 0,0:16:43.84,0:16:46.90,Default,,0,0,0,,{\blur1}Jeśli chcesz, mogę pozwolić ci włożyć.
+Dialogue: 0,0:16:46.90,0:16:49.00,Default,,0,0,0,,{\blur1}Pozwolić?
+Dialogue: 0,0:16:49.75,0:16:51.29,Default,,0,0,0,,{\blur1}Włóż go!
+Dialogue: 0,0:16:52.59,0:16:56.91,Default,,0,0,0,,{\blur1}Chcę twojego fiuta!
+Dialogue: 0,0:17:26.03,0:17:29.35,Default,,0,0,0,,{\blur1}I jak? Przyjemnie?
+Dialogue: 0,0:17:32.07,0:17:37.29,Default,,0,0,0,,{\blur1}Tak! Wkładasz go do samego końca!
+Dialogue: 0,0:17:37.83,0:17:42.21,Default,,0,0,0,,{\blur1}Zaraz dojdę!
+Dialogue: 0,0:17:49.92,0:17:52.22,Default,,0,0,0,,{\blur1}Ja też dochodzę!
+Dialogue: 0,0:17:52.66,0:17:54.55,Default,,0,0,0,,{\blur1}Spuść się!
+Dialogue: 0,0:17:54.55,0:17:59.42,Default,,0,0,0,,{\blur1}Wypuść wszystko we mnie!
+Dialogue: 0,0:18:07.85,0:18:13.16,Default,,0,0,0,,{\blur1}Tak dużo jej wlatuje.
+Dialogue: 0,0:18:17.17,0:18:20.42,Default (i),,0,0,0,,{\blur1}Jutro konkurs.
+Dialogue: 0,0:18:20.42,0:18:24.42,Default (i),,0,0,0,,{\blur1}Mam wrażenie, że nic nie zrobiłem.
+Dialogue: 0,0:18:24.83,0:18:26.98,Default (i),,0,0,0,,{\blur1}Teraz wszystko zależy od Natsumi.
+Dialogue: 0,0:18:28.05,0:18:29.67,Default,,0,0,0,,{\blur1}Zapomniałam.
+Dialogue: 0,0:18:40.46,0:18:42.84,Default,,0,0,0,,{\blur1}- Zakochałeś się już?\N- Jeszcze czego!
+Dialogue: 0,0:18:42.84,0:18:45.14,Default,,0,0,0,,{\blur1}Uwierz w Natsumi.
+Dialogue: 0,0:18:51.69,0:18:53.94,Default,,0,0,0,,{\blur1}Delikatny smak.
+Dialogue: 0,0:18:53.94,0:18:59.20,Default,,0,0,0,,{\blur1}Stały, bez żadnych udziwnień.
+Dialogue: 0,0:18:59.93,0:19:02.40,Default,,0,0,0,,{\blur1}Przepraszam za tamto.
+Dialogue: 0,0:19:02.40,0:19:05.66,Default,,0,0,0,,{\blur1}Ale i tak przyszedł pan.
+Dialogue: 0,0:19:10.56,0:19:13.40,Default,,0,0,0,,{\blur1}Jesteś taka jak on.
+Dialogue: 0,0:19:18.26,0:19:20.81,Default,,0,0,0,,{\blur1}Były pyszne, dziękuję.
+Dialogue: 0,0:19:21.61,0:19:24.56,Default,,0,0,0,,{\blur1}Dziękuję!
+Dialogue: 0,0:19:49.70,0:19:52.55,Default,,0,0,0,,{\blur1}Natsumi, jak poszło?
+Dialogue: 0,0:19:52.55,0:19:57.55,Default,,0,0,0,,{\blur1}Nie za dobrze, 101 wygrało.
+Dialogue: 0,0:19:58.38,0:20:00.72,Default,,0,0,0,,{\blur1}No nie.
+Dialogue: 0,0:20:00.72,0:20:04.22,Default,,0,0,0,,{\blur1}Natsumi, nasz sklep wygrał!
+Dialogue: 0,0:20:07.31,0:20:16.03,Default (i),,0,0,0,,{\blur1}Najwyraźniej 101 opuszczają dzielnicę Tanabaty,\Nprzez co stracili prawo do konkursu.
+Dialogue: 0,0:20:18.84,0:20:22.28,Default,,0,0,0,,{\blur1}To nie on kiedyś pracował u taty?
+Dialogue: 0,0:20:22.78,0:20:26.79,Default,,0,0,0,,{\blur1}Gdy teraz tak mówisz,\Nto wydaje się znajomy.
+Dialogue: 0,0:20:26.79,0:20:28.79,Default,,0,0,0,,{\blur1}To na pewno on.
+Dialogue: 0,0:20:32.88,0:20:34.67,Default,,0,0,0,,{\blur1}Cześć.
+Dialogue: 0,0:20:34.67,0:20:36.38,Default,,0,0,0,,{\blur1}Co tu robicie?
+Dialogue: 0,0:20:36.38,0:20:40.30,Default,,0,0,0,,{\blur1}Przyszłyśmy po Shikiego na korki.
+Dialogue: 0,0:20:40.30,0:20:41.95,Default,,0,0,0,,{\blur1}Korki?
+Dialogue: 0,0:20:43.71,0:20:45.10,Default,,0,0,0,,{\blur1}Jesteś moim wrogiem.
+Dialogue: 0,0:20:45.51,0:20:47.83,Default,,0,0,0,,{\blur1}To tak się przedstawiasz?
+Dialogue: 0,0:20:47.83,0:20:49.81,Default,,0,0,0,,{\blur1}Tak mi mówi intuicja.
+Dialogue: 0,0:20:49.81,0:20:53.27,Default,,0,0,0,,{\blur1}Haru, jakiś ty popularny.
+Dialogue: 0,0:20:53.27,0:20:56.02,Default,,0,0,0,,{\blur1}Akina, Natsumi, ogłaszam tymczasowy rozejm.
+Dialogue: 0,0:20:56.02,0:20:57.39,Default,,0,0,0,,{\blur1}Co?
+Dialogue: 0,0:20:57.39,0:21:01.94,Default (i),,0,0,0,,{\blur1}Moje problemy niestety\Njeszcze trochę potrwają.
+Dialogue: 0,0:21:01.94,0:21:02.93,Default,,0,0,0,,{\blur1}Shiki?!
+Dialogue: 0,0:21:02.93,0:21:03.93,Default,,0,0,0,,{\blur1}Uciekł.
+Dialogue: 0,0:21:03.93,0:21:05.78,Default,,0,0,0,,{\blur1}Haru!

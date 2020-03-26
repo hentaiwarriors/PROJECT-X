@@ -1,0 +1,176 @@
+﻿[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base01,Calibri,20,&H00FFFFFF,&H000000FF,&H00370001,&HC0000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,9,204
+Style: Base02,Calibri,35,&H00FFFFFF,&H000000FF,&H00370001,&HC0000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,7,204
+Style: Base03,Calibri,18,&H00FFFFFF,&H000000FF,&H00370001,&HC0000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,134,204
+Style: Base04,Calibri,30,&H00FFFFFF,&H000000FF,&H00370001,&HC0000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,5,204
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:10.51,0:00:12.01,Base01,,0000,0000,0000,,Bem-vindo,
+Dialogue: 0,0:00:14.68,0:00:16.11,Base01,,0000,0000,0000,,Mestre.
+Dialogue: 0,0:00:16.51,0:00:21.88,Base01,,0000,0000,0000,,Mestre? Isso faz parte do seu trabalho nesta cafeteria?
+Dialogue: 0,0:00:22.12,0:00:25.92,Base01,,0000,0000,0000,,Sim. Eu estou bonita, Mestre?
+Dialogue: 0,0:00:27.42,0:00:28.96,Base01,,0000,0000,0000,,Você não precisa me chamar de Mestre-
+Dialogue: 0,0:00:28.96,0:00:33.03,Base01,,0000,0000,0000,,Aqui é um maid cafe, você não precisa ser tímido,
+Dialogue: 0,0:00:33.50,0:00:36.53,Base01,,0000,0000,0000,,Mestre.
+Dialogue: 0,0:00:39.87,0:00:43.67,Base01,,0000,0000,0000,,Mestre, eu posso anotar o seu pedido?
+Dialogue: 0,0:00:44.44,0:00:49.04,Base01,,0000,0000,0000,,Ah, sim. Vamos ver...\N O que é esse "serviço especial"?
+Dialogue: 0,0:00:49.54,0:00:53.45,Base01,,0000,0000,0000,,Hã! Serviço especial?!
+Dialogue: 0,0:00:53.68,0:00:58.35,Base01,,0000,0000,0000,,Bem, se ele não estiver disponível,\N eu peço outra coisa...
+Dialogue: 0,0:00:58.82,0:01:00.49,Base01,,0000,0000,0000,,Pedido anotado!
+Dialogue: 0,0:01:00.69,0:01:03.56,Base01,,0000,0000,0000,,Espere só um momento, Mestre.
+Dialogue: 0,0:01:08.33,0:01:10.40,Base01,,0000,0000,0000,,Mikura-san, o que você está fazendo?!
+Dialogue: 0,0:01:11.23,0:01:14.40,Base01,,0000,0000,0000,,Eu estou me preparando.
+Dialogue: 0,0:01:15.14,0:01:18.41,Base01,,0000,0000,0000,,Espere só mais um pouquinho, tá?
+Dialogue: 0,0:01:33.05,0:01:35.92,Base01,,0000,0000,0000,,Desculpe a demora, Mestre.
+Dialogue: 0,0:01:36.36,0:01:39.76,Base01,,0000,0000,0000,,M-Mikura-san, essa roupa...
+Dialogue: 0,0:01:43.06,0:01:45.07,Base01,,0000,0000,0000,,Você não gostou dela?
+Dialogue: 0,0:01:46.53,0:01:49.04,Base01,,0000,0000,0000,,Eu tentei fazer o meu melhor...
+Dialogue: 0,0:01:51.27,0:01:54.31,Base01,,0000,0000,0000,,N-Não, não foi isso o que eu quis dizer...
+Dialogue: 0,0:01:56.24,0:02:00.45,Base01,,0000,0000,0000,,Ah, que bom! Ele está ficando grande!
+Dialogue: 0,0:02:01.72,0:02:04.28,Base01,,0000,0000,0000,,Bem, isso é...
+Dialogue: 0,0:02:10.56,0:02:15.33,Base01,,0000,0000,0000,,Então, eu vou começar o serviço especial, Mestre!
+Dialogue: 0,0:02:20.27,0:02:29.54,Base01,,0000,0000,0000,,{\an8}Otacraze Apresenta:
+Dialogue: 0,0:02:20.27,0:02:29.54,Base02,,0000,0000,0000,,{\pos(188,85)}Stretta - The Animation
+Dialogue: 0,0:02:22.14,0:02:29.54,Base03,,0000,0000,0000,,{\pos(135,212)}Volume 1: [ Talvez eu seja um animal ]
+Dialogue: 0,0:02:37.75,0:02:41.46,Base01,,0000,0000,0000,,Ei, Ruma! Você quer ir ao shopping no intervalo?
+Dialogue: 0,0:02:42.29,0:02:46.09,Base01,,0000,0000,0000,,Desculpe! Eu tenho algumas coisas para fazer.
+Dialogue: 0,0:02:46.53,0:02:50.16,Base01,,0000,0000,0000,,Hmm? Aliás, essas roupas...
+Dialogue: 0,0:02:50.17,0:02:50.60,Base01,,0000,0000,0000,,Hã?
+Dialogue: 0,0:02:52.37,0:02:54.54,Base01,,0000,0000,0000,,Não importa o quanto eu olhe...
+Dialogue: 0,0:02:56.67,0:02:59.01,Base01,,0000,0000,0000,,Elas não são um pouco... ousadas?
+Dialogue: 0,0:03:02.51,0:03:03.74,Base01,,0000,0000,0000,,Será que são?
+Dialogue: 0,0:03:09.05,0:03:11.82,Base01,,0000,0000,0000,,Viu? Está tudo bem com elas.
+Dialogue: 0,0:03:11.82,0:03:12.65,Base01,,0000,0000,0000,,Tchau!
+Dialogue: 0,0:03:17.93,0:03:20.69,Base01,,0000,0000,0000,,Por que será que ela está com tanta pressa?
+Dialogue: 0,0:03:28.27,0:03:31.77,Base01,,0000,0000,0000,,Incrível, Mestre! Está tão quente e grande...
+Dialogue: 0,0:03:39.25,0:03:41.52,Base01,,0000,0000,0000,,Isso é gostoso, Mestre?
+Dialogue: 0,0:03:42.25,0:03:46.02,Base01,,0000,0000,0000,,Ah, sinto muito!\N Você quer mais, não é, Mestre?
+Dialogue: 0,0:04:03.97,0:04:07.88,Base01,,0000,0000,0000,,Mestre, permita-me lamber o seu pênis diretamente.
+Dialogue: 0,0:04:11.85,0:04:15.48,Base01,,0000,0000,0000,,Ah, como ele está grande!
+Dialogue: 0,0:04:15.48,0:04:19.02,Base01,,0000,0000,0000,,Bem, eu vou servir o seu pênis com a minha boca.
+Dialogue: 0,0:04:55.42,0:05:00.23,Base01,,0000,0000,0000,,Mi-Mikura-san, isso é muito... gostoso...
+Dialogue: 0,0:05:01.50,0:05:08.77,Base01,,0000,0000,0000,,Mestre...\N Agora me faça sentir prazer também...
+Dialogue: 0,0:05:12.21,0:05:14.44,Base01,,0000,0000,0000,,M-Mikura-san...
+Dialogue: 0,0:05:14.44,0:05:18.75,Base01,,0000,0000,0000,,Esse é o meu suco do amor...\N É outro serviço especial.
+Dialogue: 0,0:05:20.58,0:05:24.79,Base01,,0000,0000,0000,,Por favor beba tudo, Mestre.
+Dialogue: 0,0:06:44.10,0:06:49.47,Base01,,0000,0000,0000,,Mestre... a sua língua é muito... gostosa...
+Dialogue: 0,0:06:51.77,0:06:56.64,Base01,,0000,0000,0000,,Sou eu quem deveria estar servindo você, mas...
+Dialogue: 0,0:06:58.81,0:07:03.22,Base01,,0000,0000,0000,,Sinto muito, isso é tão gostoso que eu...
+Dialogue: 0,0:07:05.02,0:07:07.39,Base01,,0000,0000,0000,,Eu... já vou...
+Dialogue: 0,0:07:11.03,0:07:17.83,Base01,,0000,0000,0000,,Vá em frente, eu vou beber até a última gota!\N Solte, solte bastante!
+Dialogue: 0,0:07:30.51,0:07:34.15,Base01,,0000,0000,0000,,Você sentiu prazer, Mestre?
+Dialogue: 0,0:07:45.36,0:07:49.66,Base01,,0000,0000,0000,,Você ainda está duro. Que bom.
+Dialogue: 0,0:07:49.93,0:07:55.44,Base01,,0000,0000,0000,,Mikura-san, se você continuar fazendo isso eu vou... novamente, sabe...
+Dialogue: 0,0:07:57.31,0:08:02.68,Base01,,0000,0000,0000,,Ah, sabe...\NHoje não tem ninguém em casa.
+Dialogue: 0,0:08:03.75,0:08:05.01,Base01,,0000,0000,0000,,Você quer ir?
+Dialogue: 0,0:08:14.19,0:08:14.76,Base01,,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:18.03,0:08:20.06,Base01,,0000,0000,0000,,Escolha a moldura que você quiser para a foto!
+Dialogue: 0,0:08:25.07,0:08:28.50,Base01,,0000,0000,0000,,T-Tsuchiya, é melhor você ver tudo até o final!
+Dialogue: 0,0:08:28.50,0:08:29.87,Base01,,0000,0000,0000,,Bem, tá.
+Dialogue: 0,0:08:34.98,0:08:38.28,Base01,,0000,0000,0000,,Quando você estiver pronto,\N aperte o botão para tirar a foto!
+Dialogue: 0,0:08:40.75,0:08:42.52,Base01,,0000,0000,0000,,Olhe para a câmera!
+Dialogue: 0,0:08:43.18,0:08:45.92,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:08:47.46,0:08:50.99,Base01,,0000,0000,0000,,Eu paguei peitinho!
+Dialogue: 0,0:08:51.83,0:08:53.53,Base01,,0000,0000,0000,,Vamos tirar outra foto!
+Dialogue: 0,0:08:54.26,0:08:56.76,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:09:00.04,0:09:03.50,Base01,,0000,0000,0000,,Nossa, fotografou lá dentro...
+Dialogue: 0,0:09:06.27,0:09:09.61,Base01,,0000,0000,0000,,Quando você estiver pronto,\N aperte o botão para tirar a foto!
+Dialogue: 0,0:09:10.95,0:09:13.48,Base01,,0000,0000,0000,,Ki... Kirishima-san.
+Dialogue: 0,0:09:20.89,0:09:25.26,Base01,,0000,0000,0000,,O que eu faço?\N Estou ficando muito excitada com isso...
+Dialogue: 0,0:09:27.00,0:09:30.53,Base01,,0000,0000,0000,,Quando você estiver pronto,\N aperte o botão para tirar a foto!
+Dialogue: 0,0:09:35.44,0:09:37.20,Base01,,0000,0000,0000,,K-Kirishima-san...
+Dialogue: 0,0:09:37.21,0:09:38.64,Base01,,0000,0000,0000,,Segure isso!
+Dialogue: 0,0:09:41.08,0:09:43.04,Base01,,0000,0000,0000,,Olhe para a câmera!
+Dialogue: 0,0:09:44.21,0:09:47.01,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:09:50.72,0:09:53.05,Base01,,0000,0000,0000,,A seguir, vamos tentar algo mais bonito!
+Dialogue: 0,0:09:54.42,0:09:57.29,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:09:59.69,0:10:01.20,Base01,,0000,0000,0000,,Se prepare...
+Dialogue: 0,0:10:01.50,0:10:03.66,Base01,,0000,0000,0000,,As próximas duas fotos serão em sequência!
+Dialogue: 0,0:10:03.67,0:10:06.10,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:10:08.10,0:10:11.51,Base01,,0000,0000,0000,,Isso é muito embaraçoso!
+Dialogue: 0,0:10:12.31,0:10:14.27,Base01,,0000,0000,0000,,É redondo!
+Dialogue: 0,0:10:14.74,0:10:18.51,Base01,,0000,0000,0000,,Ampliou na segunda foto?! 
+Dialogue: 0,0:10:19.11,0:10:23.22,Base01,,0000,0000,0000,,Ei, o meu cuzinho é bonito, não é?
+Dialogue: 0,0:10:24.15,0:10:26.52,Base01,,0000,0000,0000,,A próxima foto será de corpo inteiro!
+Dialogue: 0,0:10:27.19,0:10:29.82,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:10:32.33,0:10:34.53,Base01,,0000,0000,0000,,Que lindo!
+Dialogue: 0,0:10:37.33,0:10:39.53,Base01,,0000,0000,0000,,Próxima, próxima!
+Dialogue: 0,0:10:40.04,0:10:42.54,Base01,,0000,0000,0000,,A próxima é a última foto!
+Dialogue: 0,0:10:43.51,0:10:46.27,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:10:47.91,0:10:51.75,Base01,,0000,0000,0000,,Parece até uma foto profissional!
+Dialogue: 0,0:10:54.85,0:10:56.48,Base01,,0000,0000,0000,,Próxima, próxima!
+Dialogue: 0,0:10:59.22,0:11:01.72,Base01,,0000,0000,0000,,Ah, parece que acabou.
+Dialogue: 0,0:11:02.92,0:11:06.06,Base01,,0000,0000,0000,,Vamos fazer isso novamente, mostre o seu também.
+Dialogue: 0,0:11:06.46,0:11:07.59,Base01,,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:07.60,0:11:10.36,Base01,,0000,0000,0000,,Isso está me incomodando há algum tempo.
+Dialogue: 0,0:11:14.04,0:11:16.40,Base01,,0000,0000,0000,,Você quer transar, não é?
+Dialogue: 0,0:11:25.88,0:11:29.05,Base01,,0000,0000,0000,,Quando você estiver pronto,\N aperte o botão para tirar a foto!
+Dialogue: 0,0:11:31.72,0:11:33.79,Base01,,0000,0000,0000,,Olhe para a câmera!
+Dialogue: 0,0:11:36.66,0:11:40.36,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:11:42.50,0:11:45.87,Base01,,0000,0000,0000,,Que safado...\N O seu pau está duro como rocha.
+Dialogue: 0,0:11:46.40,0:11:47.74,Base01,,0000,0000,0000,,Vamos tirar outra foto!
+Dialogue: 0,0:11:48.84,0:11:51.71,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:11:52.87,0:11:55.51,Base01,,0000,0000,0000,,Oh, erótico, erótico!
+Dialogue: 0,0:11:57.25,0:11:59.61,Base01,,0000,0000,0000,,Vamos, enfie!
+Dialogue: 0,0:12:13.29,0:12:16.76,Base01,,0000,0000,0000,,Quando você estiver pronto,\N aperte o botão para tirar a foto!
+Dialogue: 0,0:12:21.27,0:12:23.30,Base01,,0000,0000,0000,,Oh, eu vou derreter todinha!
+Dialogue: 0,0:12:27.64,0:12:29.64,Base01,,0000,0000,0000,,Olhe para a câmera!
+Dialogue: 0,0:12:47.00,0:12:49.76,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:13:04.68,0:13:06.95,Base01,,0000,0000,0000,,A seguir, vamos tentar algo mais bonito!
+Dialogue: 0,0:13:25.47,0:13:28.27,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:13:31.47,0:13:35.11,Base01,,0000,0000,0000,,Isso não é bonito, ficou muito pervertido!
+Dialogue: 0,0:13:49.42,0:13:51.23,Base01,,0000,0000,0000,,As próximas duas fotos serão em sequência!
+Dialogue: 0,0:14:13.01,0:14:15.22,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:14:23.29,0:14:27.03,Base01,,0000,0000,0000,,Como eu pensei, ele deu zoom bem ali...
+Dialogue: 0,0:14:28.00,0:14:31.60,Base01,,0000,0000,0000,,K-Kirishima-san, eu... vou...
+Dialogue: 0,0:14:40.28,0:14:42.98,Base01,,0000,0000,0000,,A próxima foto será de corpo inteiro!
+Dialogue: 0,0:14:43.35,0:14:45.75,Base01,,0000,0000,0000,,Não, eu vou gozar!
+Dialogue: 0,0:14:48.35,0:14:51.05,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:15:05.37,0:15:07.57,Base01,,0000,0000,0000,,A próxima é a última foto!
+Dialogue: 0,0:15:08.30,0:15:11.17,Base01,,0000,0000,0000,,Três, dois, um!
+Dialogue: 0,0:15:31.66,0:15:33.43,Base01,,0000,0000,0000,,Bom trabalho!
+Dialogue: 0,0:16:41.83,0:16:44.00,Base01,,0000,0000,0000,,Não, não me toque ainda.
+Dialogue: 0,0:16:52.51,0:16:53.74,Base01,,0000,0000,0000,,Quer ver?
+Dialogue: 0,0:16:55.24,0:16:58.48,Base01,,0000,0000,0000,,Aqui, dê uma olhada.
+Dialogue: 0,0:17:29.18,0:17:31.01,Base01,,0000,0000,0000,,Espere um pouco...
+Dialogue: 0,0:17:46.90,0:17:47.86,Base01,,0000,0000,0000,,Isso é gostoso?
+Dialogue: 0,0:17:49.56,0:17:50.53,Base01,,0000,0000,0000,,Ruma-san...
+Dialogue: 0,0:17:51.13,0:17:52.77,Base01,,0000,0000,0000,,Será que isso é o suficiente?
+Dialogue: 0,0:18:00.24,0:18:01.61,Base01,,0000,0000,0000,,Você quer meter em mim, não é?
+Dialogue: 0,0:18:08.52,0:18:10.28,Base01,,0000,0000,0000,,Tudo bem, venha.
+Dialogue: 0,0:18:29.44,0:18:32.40,Base01,,0000,0000,0000,,Ele entrou inteiro, não é?
+Dialogue: 0,0:18:33.54,0:18:39.05,Base01,,0000,0000,0000,,Não... Não acredito,\N estou fazendo isso com a Ruma-san...
+Dialogue: 0,0:18:41.35,0:18:43.55,Base01,,0000,0000,0000,,Eu vou deixar você\N experimentar algo espetacular....
+Dialogue: 0,0:18:52.43,0:18:54.40,Base01,,0000,0000,0000,,No-, Incrí-
+Dialogue: 0,0:19:03.67,0:19:08.04,Base01,,0000,0000,0000,,Ei. Não é gostoso?\N O meu interior...
+Dialogue: 0,0:19:15.72,0:19:20.65,Base01,,0000,0000,0000,,O meu corpo não é normal.
+Dialogue: 0,0:19:27.86,0:19:31.63,Base01,,0000,0000,0000,,Não dá mais...\N Eu não consigo segurar mais...
+Dialogue: 0,0:19:31.63,0:19:34.00,Base01,,0000,0000,0000,,Certo, faça o que quiser.
+Dialogue: 0,0:20:06.63,0:20:11.71,Base01,,0000,0000,0000,,Hoje, novamente.\N Ela está com outro rapaz.
+Dialogue: 0,0:20:21.42,0:20:24.02,Base01,,0000,0000,0000,,Eu acho que vou gozar!
+Dialogue: 0,0:20:27.09,0:20:28.39,Base01,,0000,0000,0000,,Que rápido!
+Dialogue: 0,0:20:35.33,0:20:38.20,Base01,,0000,0000,0000,,Que sabor o seu esperma deve ter?
+Dialogue: 0,0:21:38.69,0:21:42.26,Base01,,0000,0000,0000,,Um sabor levemente salgado...
+Dialogue: 0,0:21:43.63,0:21:47.67,Base01,,0000,0000,0000,,Sabe, Ruma-san.\N Nós poderíamos fazer isso nova-
+Dialogue: 0,0:21:47.67,0:21:48.64,Base01,,0000,0000,0000,,Não.
+Dialogue: 0,0:21:49.20,0:21:50.54,Base01,,0000,0000,0000,,Isso é tudo para você.
+Dialogue: 0,0:21:54.98,0:22:01.15,Base01,,0000,0000,0000,,Ah, se você contar isso para alguém,\N eu vou te acusar de estupro.
+Dialogue: 0,0:22:01.15,0:22:03.02,Base01,,0000,0000,0000,,Entendi.
+Dialogue: 0,0:22:08.62,0:22:09.79,Base01,,0000,0000,0000,,Okada-kun?
+Dialogue: 0,0:22:12.53,0:22:15.13,Base01,,0000,0000,0000,,Você se... masturbou?
+Dialogue: 0,0:22:23.71,0:22:27.41,Base01,,0000,0000,0000,,Eu sempre... fico de vigia para ela.
+Dialogue: 0,0:23:13.99,0:23:18.66,Base01,,0000,0000,0000,,Incrível, incrível!\N Você realmente está se esforçando, não é?
+Dialogue: 0,0:23:19.09,0:23:20.49,Base01,,0000,0000,0000,,S-Sim.
+Dialogue: 0,0:23:23.93,0:23:28.84,Base01,,0000,0000,0000,,Ei, os membros dos clubes logo chegarão, deixe o resto comigo.
+Dialogue: 0,0:23:47.26,0:23:51.39,Base01,,0000,0000,0000,,O jeito como a minha buceta envolve o seu pau é diferente quando eu fico de lado, não é?
+Dialogue: 0,0:24:10.35,0:24:12.28,Base01,,0000,0000,0000,,Eu vou...\N Eu vou gozar!
+Dialogue: 0,0:24:59.43,0:25:02.70,Base01,,0000,0000,0000,,Que doce!\N Você pode ficar diabético.
+Dialogue: 0,0:25:09.80,0:25:10.80,Base01,,0000,0000,0000,,Droga!
+Dialogue: 0,0:25:13.24,0:25:15.38,Base01,,0000,0000,0000,,O esperma está escorrendo na sua boca...
+Dialogue: 0,0:25:24.42,0:25:31.23,Base01,,0000,0000,0000,,Ei, você não se masturbou até agora?\N Mesmo estando com tanto tesão...
+Dialogue: 0,0:25:38.73,0:25:41.14,Base01,,0000,0000,0000,,Você tem força de vontade, não é?
+Dialogue: 0,0:25:45.54,0:25:50.78,Base01,,0000,0000,0000,,Como eu pensei, escolher o Okada-kun foi a decisão correta...

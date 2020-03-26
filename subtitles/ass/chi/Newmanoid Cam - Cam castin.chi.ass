@@ -1,0 +1,207 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:1280
+PlayResY:720
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,42,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+Style: Default1,微软雅黑,42,&H00FFFFFF,&H00FFFFFF,&H0071403D,&H00EDB199,-1,0,0,0,100,100,0,0,1,1.81818,1.81818,2,0,0,18,1
+Style: warn,微软雅黑,38,&H00FFFFFF,&H00FFFFFF,&H0071403D,&H00EDB199,-1,0,0,0,100,100,0,0,1,1.81818,1.81818,2,0,0,18,1
+Style: Default2,微软雅黑,42,&H00FFFFFF,&H00FFFFFF,&H0071403D,&H00EDB199,-1,0,0,0,100,100,0,0,1,1.81818,1.81818,2,0,0,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.20,*Default,NTP,0,0,0,,在某个會埸正舉行的大型活動中
+Dialogue: 0,0:00:04.65,0:00:08.22,*Default,NTP,0,0,0,,為了預防趁亂的偷竊和癡漢行為
+Dialogue: 0,0:00:08.65,0:00:13.69,*Default,NTP,0,0,0,,卡姆和史格特前輩在組隊巡視會埸
+Dialogue: 0,0:00:28.48,0:00:30.03,*Default,NTP,0,0,0,,卡姆　快來
+Dialogue: 0,0:00:30.06,0:00:31.21,*Default,NTP,0,0,0,,是～
+Dialogue: 0,0:00:32.25,0:00:34.35,*Default,NTP,0,0,0,,真是的　人真多
+Dialogue: 0,0:00:39.43,0:00:45.19,*Default,NTP,0,0,0,,話說回來　從剛才起相机都向著這边是為什麼？
+Dialogue: 0,0:00:45.21,0:00:46.92,*Default,NTP,0,0,0,,啊　這是因為
+Dialogue: 0,0:00:46.94,0:00:51.74,*Default,NTP,0,0,0,,他們以為卡姆和前輩是在Cosplay憂絕啊
+Dialogue: 0,0:00:51.79,0:00:53.01,*Default,NTP,0,0,0,,憂絕？
+Dialogue: 0,0:00:53.32,0:00:59.49,*Default1,NTP,0,0,0,,現在在TV上播映　"被搶去憂鬱　我絕望了！！"的人氣動画的說
+Dialogue: 0,0:00:59.65,0:01:05.83,*Default,NTP,0,0,0,,前輩是被誤以為叫木龍　卡姆則是叫朝來的角色
+Dialogue: 0,0:01:06.11,0:01:08.32,*Default,NTP,0,0,0,,然後..那个...
+Dialogue: 0,0:01:08.33,0:01:11.19,*Default,NTP,0,0,0,,木龍和朝来是恋人
+Dialogue: 0,0:01:11.62,0:01:16.04,*Default,NTP,0,0,0,,與威脅地球的勢力在戰鬥的哦
+Dialogue: 0,0:01:20.45,0:01:25.64,*Default,NTP,0,0,0,,是嗎　就這样扮Cosplayer調查會不易被發現
+Dialogue: 0,0:01:25.70,0:01:28.09,*Default,NTP,0,0,0,,這這這是潛入作戰对吧
+Dialogue: 0,0:01:28.22,0:01:31.82,*Default,NTP,0,0,0,,潛入作戰的基本　就是低調地融入人群
+Dialogue: 0,0:01:31.89,0:01:33.82,*Default,NTP,0,0,0,,是　卡姆會不醒目的
+Dialogue: 0,0:01:33.89,0:01:35.22,*Default,NTP,0,0,0,,這边是入口
+Dialogue: 0,0:01:35.23,0:01:38.87,*Default,NTP,0,0,0,,好　那么首先...咦？　卡姆？
+Dialogue: 0,0:01:40.84,0:01:41.80,*Default,NTP,0,0,0,,前輩～
+Dialogue: 0,0:01:42.09,0:01:44.54,*Default,NTP,0,0,0,,前輩～
+Dialogue: 0,0:01:53.60,0:01:56.04,*Default,NTP,0,0,0,,前輩迷路了？
+Dialogue: 0,0:01:55.76,0:01:57.52,*Default,NTP,0,0,0,,{\an8}她才是迷途小孩
+Dialogue: 0,0:01:57.95,0:01:59.80,*Default,NTP,0,0,0,,立即聯络广播人員
+Dialogue: 0,0:02:00.44,0:02:03.47,*Default,NTP,0,0,0,,不行　那樣的話会很醒目
+Dialogue: 0,0:02:03.52,0:02:07.50,*Default,NTP,0,0,0,,不要緊前輩　卡姆現在就是Cosplayer
+Dialogue: 0,0:02:07.55,0:02:12.55,*Default,NTP,0,0,0,,我會代替迷路的前輩完美的完成潛入搜查任務的
+Dialogue: 0,0:02:12.60,0:02:14.68,*Default,NTP,0,0,0,,{\an8}迷路小孩x4
+Dialogue: 0,0:02:17.03,0:02:18.40,*Default,NTP,0,0,0,,快看那個
+Dialogue: 0,0:02:18.45,0:02:20.07,*Default,NTP,0,0,0,,憂絕的COSPLAY
+Dialogue: 0,0:02:20.07,0:02:22.71,*Default,NTP,0,0,0,,是朝來炭啊 我們的朝來炭
+Dialogue: 0,0:02:22.75,0:02:25.18,*Default,NTP,0,0,0,,這樣的話 只有做以前一直做的那件事了呢
+Dialogue: 0,0:02:25.21,0:02:26.75,*Default,NTP,0,0,0,,啊 當然啦
+Dialogue: 0,0:02:26.78,0:02:28.91,*Default,NTP,0,0,0,,看來都勃起來了呢 諸君
+Dialogue: 0,0:02:29.07,0:02:30.89,*Default,NTP,0,0,0,,YES YOU ARE HIGHEST
+Dialogue: 0,0:02:32.96,0:02:34.15,*Default,NTP,0,0,0,,呐 我說你
+Dialogue: 0,0:02:35.01,0:02:37.70,*Default,NTP,0,0,0,,你那是憂絕的朝來炭的COS吧？
+Dialogue: 0,0:02:37.73,0:02:40.65,*Default,NTP,0,0,0,,好厲害 簡直就像朝來炭本人似的
+Dialogue: 0,0:02:40.80,0:02:42.91,*Default,NTP,0,0,0,,誒 是嗎？
+Dialogue: 0,0:02:43.83,0:02:45.32,*Default,NTP,0,0,0,,我做到了 前輩
+Dialogue: 0,0:02:45.45,0:02:49.30,*Default,NTP,0,0,0,,現在卡姆成了傑出的COSPLAYER了
+Dialogue: 0,0:02:49.45,0:02:52.30,*Default,NTP,0,0,0,,好的 朝來炭 擺個POSE吧
+Dialogue: 0,0:02:52.39,0:02:56.01,*Default,NTP,0,0,0,,誒 POSE? 這樣嗎？
+Dialogue: 0,0:02:56.33,0:02:59.77,*Default,NTP,0,0,0,,嗯...不行啊 不完全表現出朝來炭的角色的話
+Dialogue: 0,0:02:59.78,0:03:02.69,*Default,NTP,0,0,0,,是不是對朝來炭的理解太膚淺了啊？
+Dialogue: 0,0:03:02.72,0:03:05.16,*Default,NTP,0,0,0,,誒 怎麼辦啊
+Dialogue: 0,0:03:05.27,0:03:09.27,*Default,NTP,0,0,0,,不好好擺POSE的話潛入搜查就要暴露了
+Dialogue: 0,0:03:09.91,0:03:15.65,*Default,NTP,0,0,0,,那個 其實卡姆今天是第一次COSPLAY
+Dialogue: 0,0:03:15.74,0:03:18.59,*Default,NTP,0,0,0,,誒 今天是COSPLAY首秀？
+Dialogue: 0,0:03:18.70,0:03:20.29,*Default,NTP,0,0,0,,CHANCE！
+Dialogue: 0,0:03:20.35,0:03:23.48,*Default,NTP,0,0,0,,這樣的話我們來幫你擺POSE吧
+Dialogue: 0,0:03:23.54,0:03:28.05,*Default,NTP,0,0,0,,作為卡姆醬首次COSPLAY的紀念日 教給你朝來炭的真髓吧
+Dialogue: 0,0:03:28.12,0:03:31.15,*Default,NTP,0,0,0,,真的嗎？ 請多指教
+Dialogue: 0,0:03:37.84,0:03:41.82,*Default,NTP,0,0,0,,在幹嘛啊 好癢啊
+Dialogue: 0,0:03:41.93,0:03:43.88,*Default,NTP,0,0,0,,在幹什麼 當然是在製造角色啦
+Dialogue: 0,0:03:43.91,0:03:48.56,*Default,NTP,0,0,0,,說到朝來炭的話 肯定是被怪物襲擊時那至高的美啦
+Dialogue: 0,0:03:48.59,0:03:51.13,*Default,NTP,0,0,0,,是 是這樣喵 啊
+Dialogue: 0,0:03:51.99,0:03:55.08,*Default,NTP,0,0,0,,呀 那裡是胸部
+Dialogue: 0,0:03:56.52,0:03:58.48,*Default,NTP,0,0,0,,哦 那個表情很棒呢
+Dialogue: 0,0:03:58.50,0:04:00.20,*Default,NTP,0,0,0,,像極了朝來炭了
+Dialogue: 0,0:04:03.03,0:04:07.02,*Default,NTP,0,0,0,,現在的卡姆像個COSPLAYER了嗎？
+Dialogue: 0,0:04:07.08,0:04:10.20,*Default,NTP,0,0,0,,這樣的話就更像個COSPLAYER了
+Dialogue: 0,0:04:10.23,0:04:11.48,*Default,NTP,0,0,0,,來吧
+Dialogue: 0,0:04:25.61,0:04:29.11,*Default,NTP,0,0,0,,頭腦的反應變得遲鈍了
+Dialogue: 0,0:04:29.72,0:04:33.81,*Default,NTP,0,0,0,,有種H的感覺
+Dialogue: 0,0:05:05.33,0:05:09.99,*Default,NTP,0,0,0,,COSPLAYER們還真H呢
+Dialogue: 0,0:05:10.73,0:05:13.23,*Default,NTP,0,0,0,,來吧 卡姆醬
+Dialogue: 0,0:05:16.40,0:05:21.64,*Default,NTP,0,0,0,,來吧 這次這邊也來更像朝來炭一些吧
+Dialogue: 0,0:05:23.70,0:05:25.55,*Default,NTP,0,0,0,,好癢啊
+Dialogue: 0,0:05:29.23,0:05:32.24,*Default,NTP,0,0,0,,真好 卡姆醬用腋下夾著做的也很棒
+Dialogue: 0,0:05:32.26,0:05:35.82,*Default,NTP,0,0,0,,搞不好是會場中最棒的COSPLAYER呢
+Dialogue: 0,0:05:35.90,0:05:42.83,*Default,NTP,0,0,0,,是這樣嗎 COSPLAYER們連腋下夾著也做呢
+Dialogue: 0,0:05:42.86,0:05:45.01,*Default,NTP,0,0,0,,來吧 這邊也
+Dialogue: 0,0:05:49.31,0:05:56.45,*Default,NTP,0,0,0,,好厲害 肉棒不間斷的來 好熱
+Dialogue: 0,0:05:59.06,0:06:03.66,*Default,NTP,0,0,0,,卡姆的身體也熱起來了
+Dialogue: 0,0:06:03.70,0:06:07.33,*Default,NTP,0,0,0,,那可不妙 為了防止熱病了...
+Dialogue: 0,0:06:13.37,0:06:15.60,*Default,NTP,0,0,0,,就算被那樣摩擦著
+Dialogue: 0,0:06:16.18,0:06:19.09,*Default,NTP,0,0,0,,乳頭被肉棒頂著
+Dialogue: 0,0:06:19.42,0:06:26.30,*Default,NTP,0,0,0,,卡姆不能出奶的 不會出奶的
+Dialogue: 0,0:06:29.03,0:06:32.04,*Default,NTP,0,0,0,,卡姆醬 腋下這頭也要集中精神
+Dialogue: 0,0:06:34.00,0:06:37.12,*Default,NTP,0,0,0,,要去了 卡姆醬 要去了喲
+Dialogue: 0,0:06:37.44,0:06:37.90,*Default,NTP,0,0,0,,是的
+Dialogue: 0,0:06:37.92,0:06:43.34,*Default,NTP,0,0,0,,要去了 肉棒好多 卡姆已經...
+Dialogue: 0,0:06:47.00,0:06:50.46,*Default,NTP,0,0,0,,好多 射出來好多
+Dialogue: 0,0:06:50.53,0:06:55.05,*Default,NTP,0,0,0,,肉棒的牛奶 掛滿了卡姆的身上
+Dialogue: 0,0:06:56.66,0:06:59.38,*Default,NTP,0,0,0,,好了 終於要到正題了
+Dialogue: 0,0:06:59.63,0:07:02.72,*Default,NTP,0,0,0,,最高級的想像遊戲激寫
+Dialogue: 0,0:07:02.78,0:07:03.93,*Default,NTP,0,0,0,,要插進去了喲
+Dialogue: 0,0:07:04.03,0:07:08.03,*Default,NTP,0,0,0,,卡姆的小穴裏 要插進怪人的肉棒了喲
+Dialogue: 0,0:07:08.12,0:07:10.32,*Default,NTP,0,0,0,,啊 但是那裡
+Dialogue: 0,0:07:10.41,0:07:12.74,*Default,NTP,0,0,0,,終於朝來炭遭遇危機了
+Dialogue: 0,0:07:12.90,0:07:17.48,*Default,NTP,0,0,0,,現在開始你要表現出不論被如何對待都閃閃發光的朝來炭
+Dialogue: 0,0:07:33.35,0:07:37.70,*Default,NTP,0,0,0,,好厲害 小穴和菊花裏都插進了肉棒
+Dialogue: 0,0:07:41.80,0:07:45.81,*Default,NTP,0,0,0,,好厲害 COSPLAY 好舒服
+Dialogue: 0,0:07:46.53,0:07:50.55,*Default,NTP,0,0,0,,被肉棒這樣的插 卡姆要變得奇怪了
+Dialogue: 0,0:07:50.64,0:07:52.36,*Default,NTP,0,0,0,,變得奇怪了
+Dialogue: 0,0:07:58.93,0:08:04.74,*Default,NTP,0,0,0,,菊花也 小穴也 連嘴裏也感覺到了
+Dialogue: 0,0:08:05.77,0:08:08.32,*Default,NTP,0,0,0,,很好 卡姆醬的演技太棒了
+Dialogue: 0,0:08:08.38,0:08:10.44,*Default,NTP,0,0,0,,你是最棒的COSPLAYER啦
+Dialogue: 0,0:08:11.83,0:08:15.12,*Default,NTP,0,0,0,,是的 卡姆是COSPLAYER
+Dialogue: 0,0:08:15.25,0:08:18.43,*Default,NTP,0,0,0,,是H的COSPLAYER
+Dialogue: 0,0:08:37.10,0:08:40.19,*Default,NTP,0,0,0,,區區這種程度朝來炭可是不會輸的
+Dialogue: 0,0:08:45.80,0:08:46.97,*Default,NTP,0,0,0,,連喉嚨都
+Dialogue: 0,0:08:47.04,0:08:50.12,*Default,NTP,0,0,0,,卡姆喉嚨裏有粗粗的東西進來了
+Dialogue: 0,0:08:51.70,0:08:54.77,*Default,NTP,0,0,0,,因為卡姆醬的COSPLAY那麼暴露
+Dialogue: 0,0:08:55.11,0:08:58.17,*Default,NTP,0,0,0,,我的肉棒變得這麼大
+Dialogue: 0,0:09:00.10,0:09:02.02,*Default,NTP,0,0,0,,要被吸進去了
+Dialogue: 0,0:09:05.05,0:09:06.73,*Default,NTP,0,0,0,,被這樣含著
+Dialogue: 0,0:09:07.37,0:09:11.51,*Default,NTP,0,0,0,,要射了 發射
+Dialogue: 0,0:09:36.10,0:09:44.38,*Default,NTP,0,0,0,,卡姆的嘴裏 充滿了男人的H的汁液
+Dialogue: 0,0:09:44.65,0:09:48.89,*Default,NTP,0,0,0,,來吧 卡姆醬 來接受我們的精子吧
+Dialogue: 0,0:09:49.00,0:09:50.08,*Default,NTP,0,0,0,,是的
+Dialogue: 0,0:09:59.09,0:10:02.55,*Default,NTP,0,0,0,,好的 接下來由這裡來進行COSPLAY
+Dialogue: 0,0:10:02.60,0:10:08.92,*Default,NTP,0,0,0,,好高興 卡姆成了名副其實的COSPLAYER了
+Dialogue: 0,0:10:09.10,0:10:12.15,*Default,NTP,0,0,0,,請給我肉棒吧
+Dialogue: 0,0:10:14.60,0:10:16.01,*Default,NTP,0,0,0,,合 體
+Dialogue: 0,0:10:17.60,0:10:23.68,*Default,NTP,0,0,0,,我插xN
+Dialogue: 0,0:10:24.80,0:10:27.46,*Default,NTP,0,0,0,,好厲害 卡姆醬的裏面簡直是終極棒
+Dialogue: 0,0:10:28.01,0:10:31.81,*Default,NTP,0,0,0,,被那樣吸著的話 很快就會射的喲
+Dialogue: 0,0:10:31.85,0:10:36.53,*Default,NTP,0,0,0,,嗯 給我吧 請射出來 請射裏面
+Dialogue: 0,0:10:36.59,0:10:42.80,*Default,NTP,0,0,0,,請把精液卡姆全部射到裏面去 請把精液射在卡姆的裏面
+Dialogue: 0,0:10:50.90,0:10:54.90,*Default,NTP,0,0,0,,好厲害 COSPLAY好厲害
+Dialogue: 0,0:10:55.31,0:11:00.13,*Default,NTP,0,0,0,,被COSPLAY肉棒插著 卡姆變得奇怪了
+Dialogue: 0,0:11:00.16,0:11:02.79,*Default,NTP,0,0,0,,變得奇怪了
+Dialogue: 0,0:11:02.80,0:11:04.52,*Default,NTP,0,0,0,,要射 要射 要射了喲
+Dialogue: 0,0:11:04.60,0:11:07.22,*Default,NTP,0,0,0,,要在卡姆的COSPLAY身體中 全部射出了喲
+Dialogue: 0,0:11:08.82,0:11:11.80,*Default,NTP,0,0,0,,肉棒骨碌骨碌不斷的攪動著
+Dialogue: 0,0:11:11.85,0:11:12.94,*Default,NTP,0,0,0,,發射
+Dialogue: 0,0:11:17.10,0:11:20.25,*Default,NTP,0,0,0,,精液咕咚咕咚的射進來了
+Dialogue: 0,0:11:20.56,0:11:23.25,*Default,NTP,0,0,0,,積攢了好多
+Dialogue: 0,0:11:30.43,0:11:35.05,*Default,NTP,0,0,0,,卡姆的小穴和菊花都被肉棒弄成了H的形狀
+Dialogue: 0,0:11:35.09,0:11:37.16,*Default,NTP,0,0,0,,變不回去了
+Dialogue: 0,0:11:37.61,0:11:40.18,*Default,NTP,0,0,0,,這樣腰動起來也比較容易 不是挺好嗎
+Dialogue: 0,0:11:40.23,0:11:43.03,*Default,NTP,0,0,0,,永遠將那種形狀刻在身體內吧
+Dialogue: 0,0:11:43.05,0:11:44.14,*Default,NTP,0,0,0,,卡姆醬
+Dialogue: 0,0:11:44.22,0:11:47.10,*Default,NTP,0,0,0,,來品嘗我大量的新鮮精液吧
+Dialogue: 0,0:11:47.21,0:11:50.87,*Default,NTP,0,0,0,,是 請給我吧 請全部給我
+Dialogue: 0,0:11:50.91,0:11:53.18,*Default,NTP,0,0,0,,請把的新鮮精液全部給我
+Dialogue: 0,0:12:00.01,0:12:06.60,*Default,NTP,0,0,0,,溢出來了 卡姆的精液牛奶溢出來了
+Dialogue: 0,0:12:08.12,0:12:10.40,*Default,NTP,0,0,0,,好了 作為最後的角色附加
+Dialogue: 0,0:12:10.42,0:12:13.96,*Default,NTP,0,0,0,,把卡姆醬变成露精下体
+Dialogue: 0,0:12:19.33,0:12:23.84,*Default,NTP,0,0,0,,好多啊 卡姆被灑滿了好多的精液
+Dialogue: 0,0:12:24.90,0:12:29.11,*Default,NTP,0,0,0,,變成了滿是粘粘精子的藝術品了
+Dialogue: 0,0:12:31.43,0:12:35.17,*Default,NTP,0,0,0,,太好了 卡姆醬 這樣就完美的融入角色了
+Dialogue: 0,0:12:35.37,0:12:38.55,*Default,NTP,0,0,0,,作為反面角色的我們也算值得了
+Dialogue: 0,0:12:38.60,0:12:40.34,*Default,NTP,0,0,0,,好 最後 笑一個
+Dialogue: 0,0:12:44.15,0:12:49.07,*Default,NTP,0,0,0,,太好了 這樣就不會拖前輩的後腿
+Dialogue: 0,0:12:49.10,0:12:51.21,*Default,NTP,0,0,0,,完成潛入搜查了
+Dialogue: 0,0:12:51.69,0:12:54.02,*Default,NTP,0,0,0,,喂 卡姆
+Dialogue: 0,0:12:54.04,0:12:56.59,*Default,NTP,0,0,0,,哦呀 跟你一起來的人好像過來了
+Dialogue: 0,0:12:56.85,0:12:58.65,*Default,NTP,0,0,0,,感謝你配合攝影
+Dialogue: 0,0:12:59.22,0:13:00.82,*Default,NTP,0,0,0,,呀 真是好孩子呢
+Dialogue: 0,0:13:00.86,0:13:02.48,*Default,NTP,0,0,0,,真是享盡了癡漢的福分呢
+Dialogue: 0,0:13:02.55,0:13:03.84,*Default,NTP,0,0,0,,半年都可以用這次的打灰機呢
+Dialogue: 0,0:13:03.97,0:13:06.85,*Default,NTP,0,0,0,,非常感謝 癡漢們
+Dialogue: 0,0:13:09.20,0:13:13.87,*Default,NTP,0,0,0,,誒 那液體是什麼？你到底在幹嘛啊
+Dialogue: 0,0:13:13.91,0:13:19.43,*Default,NTP,0,0,0,,嘿嘿 剛剛做完成為COSPLAYER的練習
+Dialogue: 0,0:13:20.55,0:13:27.87,*Default1,NTP,0,0,0,,就這樣卡姆和史格特前輩成功逮捕了在活動中聚集的凶惡的癡漢們
+Dialogue: 0,0:13:39.42,0:13:44.59,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}愛するあなたがいるから
+Dialogue: 0,0:13:44.72,0:13:50.07,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}張り切っちゃうの見てて
+Dialogue: 0,0:13:51.34,0:13:56.56,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}愛と正義と言います
+Dialogue: 0,0:13:56.64,0:14:01.92,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}だから負けないです
+Dialogue: 0,0:14:02.91,0:14:09.00,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}何時でも　失敗ばかりだけど
+Dialogue: 0,0:14:09.08,0:14:15.09,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}一生懸命頑張ってるつもりなの
+Dialogue: 0,0:14:15.10,0:14:21.08,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}いつか　夢に　出て来たヒロイン
+Dialogue: 0,0:14:21.09,0:14:25.80,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}みたいに　成れる　かな
+Dialogue: 0,0:14:25.91,0:14:29.96,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}大丈夫　熱いハートは誰にも負けない
+Dialogue: 0,0:14:29.98,0:14:32.93,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}いまはまだまだ小さいけれど
+Dialogue: 0,0:14:33.05,0:14:35.99,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}上手く出来たらぎゅっとして欲しい
+Dialogue: 0,0:14:36.00,0:14:39.02,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}笑顔で名前を呼んで欲しい
+Dialogue: 0,0:14:39.10,0:14:44.96,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}おかしいなこたってあなたはいるけど
+Dialogue: 0,0:14:45.05,0:14:50.07,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}神様がくれた　運命
+Dialogue: 0,0:14:50.90,0:14:57.13,*Default2,NTP,0,0,0,,{\an8\fad(200,200)}キラキラ　輝いて太陽
+Dialogue: 0,0:13:39.42,0:13:44.59,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}因為有心愛的你在
+Dialogue: 0,0:13:44.72,0:13:50.07,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}所以請看著奮發努力的我
+Dialogue: 0,0:13:51.34,0:13:56.56,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}說著愛與正義
+Dialogue: 0,0:13:56.64,0:14:01.92,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}永遠不會認輸
+Dialogue: 0,0:14:02.91,0:14:09.00,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}雖然不管何時  都不斷地在失敗
+Dialogue: 0,0:14:09.08,0:14:15.09,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}明明打算拼命努力的說
+Dialogue: 0,0:14:15.10,0:14:21.08,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}總有一天會成為像在夢中
+Dialogue: 0,0:14:21.09,0:14:25.80,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}出現的女主角那樣的人的吧
+Dialogue: 0,0:14:25.91,0:14:29.96,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}沒關系  火熱的心不會輸給任何人的
+Dialogue: 0,0:14:29.98,0:14:32.93,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}雖然現在還非常渺小
+Dialogue: 0,0:14:33.05,0:14:35.99,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}如果做得好的話  希望能緊緊地抱下我
+Dialogue: 0,0:14:36.00,0:14:39.02,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}希望能用笑臉來喊我的名字
+Dialogue: 0,0:14:39.10,0:14:44.96,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}無論給予什么答案你都會在那裡
+Dialogue: 0,0:14:45.05,0:14:50.07,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}這就是神明所賜予的命運啊
+Dialogue: 0,0:14:50.90,0:14:57.13,*Default2,NTP,0,0,0,,{\an2\fad(200,200)}就像那閃閃亮亮  不斷閃耀的太陽

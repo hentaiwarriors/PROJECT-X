@@ -1,0 +1,295 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.795 - GridRefactory-5f8b1aa
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+YCbCr Matrix: TV.601
+PlayResX: 848
+PlayResY: 480
+Title: Nyan
+Collisions: Normal
+ScaledBorderAndShadow: yes
+Original Script: kostek00
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+Last Style Storage: Default
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00E2A800,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,44,&H00E2A800,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,10,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:29.75,0:02:36.21,Grupa,,0,0,0,,{\be1\fad(692,0)}Nyan
+Dialogue: 0,0:02:29.75,0:02:36.21,Anime,,0,0,0,,{\be1\fad(692,0)\1c&H904BE5&}Moke Moke {\1c&H0592E9&}Taishou Dendou {\1c&H904BE5&}Musume {\1c&HE2A800&}Arisa
+Dialogue: 0,0:00:27.17,0:00:28.29,Default,,0,0,0,,{\be1}Pułkowniku...
+Dialogue: 0,0:00:32.55,0:00:34.26,Default,,0,0,0,,{\be1}Popełniłaś błąd.
+Dialogue: 0,0:00:34.79,0:00:36.72,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:00:37.12,0:00:43.23,Default,,0,0,0,,{\be1}Syn Morisakiego zdobył Hibachi.
+Dialogue: 0,0:01:02.06,0:01:06.88,Default,,0,0,0,,{\be1}Co sądzisz o Hibachi?
+Dialogue: 0,0:01:09.29,0:01:11.51,Default,,0,0,0,,{\be1}Odpowiadaj!
+Dialogue: 0,0:01:11.51,0:01:14.76,Default,,0,0,0,,{\be1}Nie jest gotowa do użytku jako broń.
+Dialogue: 0,0:01:15.29,0:01:18.72,Default,,0,0,0,,{\be1}Trudno uwierzyć, że jest Hibachi.
+Dialogue: 0,0:01:20.05,0:01:21.95,Default,,0,0,0,,{\be1}Cześć!
+Dialogue: 0,0:01:21.95,0:01:26.26,Default,,0,0,0,,{\be1}Ramune z rana jest przepyszne!
+Dialogue: 0,0:01:27.96,0:01:29.36,Default,,0,0,0,,{\be1}Pieprzony Morisaki!
+Dialogue: 0,0:01:29.66,0:01:34.07,Default,,0,0,0,,{\be1}Dał maszynie niepotrzebne uczucia!
+Dialogue: 0,0:01:34.47,0:01:39.63,Default,,0,0,0,,{\be1}Sekretna broń Armii Krajowej robi za kelnerkę!
+Dialogue: 0,0:01:40.28,0:01:43.54,Default,,0,0,0,,{\be1}Dam ci jeszcze jedną szansę.
+Dialogue: 0,0:01:43.54,0:01:46.12,Default,,0,0,0,,{\be1}Masz ją stamtąd zabrać.
+Dialogue: 0,0:01:46.12,0:01:53.96,Default,,0,0,0,,{\be1}Zrób wszystko, żeby wykonać misję,\Na jeśli trzeba zabij syna Morisakiego.
+Dialogue: 0,0:01:56.25,0:02:02.43,Default,,0,0,0,,{\be1}Pamiętaj o swojej siostrze.
+Dialogue: 0,0:02:13.44,0:02:20.74,Default,,0,0,0,,{\be1}Gdybym zdobył Hibachi\Nw końcu zakończyłbym projekt Smoka.
+Dialogue: 0,0:02:20.74,0:02:25.20,Default,,0,0,0,,{\be1}Nikt by nas nie pokonał.
+Dialogue: 0,0:02:37.16,0:02:39.18,Default,,0,0,0,,{\be1}Co z moim omletem ryżowym?
+Dialogue: 0,0:02:39.18,0:02:42.24,Default,,0,0,0,,{\be1}Już idę!
+Dialogue: 0,0:02:43.40,0:02:44.90,Default,,0,0,0,,{\be1}Gdzie moje curry?
+Dialogue: 0,0:02:44.90,0:02:47.57,Default,,0,0,0,,{\be1}Zaraz podam!
+Dialogue: 0,0:02:48.48,0:02:53.55,Default,,0,0,0,,{\be1}Panie, jeszcze jeden kotlet i hamburger.
+Dialogue: 0,0:02:53.55,0:02:54.69,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:02:57.82,0:03:01.70,Default,,0,0,0,,{\be1}Sama nie dasz rady ich obsłużyć.
+Dialogue: 0,0:03:01.70,0:03:03.50,Default,,0,0,0,,{\be1}Nic nie poradzimy.
+Dialogue: 0,0:03:03.50,0:03:09.52,Default,,0,0,0,,{\be1}Yuuri ma szkołę, a Kotomi jest chora.
+Dialogue: 0,0:03:09.52,0:03:11.83,Default,,0,0,0,,{\be1}Muszę ciężej pracować!
+Dialogue: 0,0:03:11.83,0:03:13.46,Default,,0,0,0,,{\be1}Arisa, długo jeszcze?
+Dialogue: 0,0:03:13.46,0:03:15.67,Default,,0,0,0,,{\be1}Już idę!
+Dialogue: 0,0:03:16.67,0:03:18.44,Default,,0,0,0,,{\be1}Shinichirou.
+Dialogue: 0,0:03:22.09,0:03:25.44,Default,,0,0,0,,{\be1}Dzisiaj nie mam czasu na zabawę.
+Dialogue: 0,0:03:25.44,0:03:27.74,Default,,0,0,0,,{\be1}Nie przyszłam się bawić.
+Dialogue: 0,0:03:27.74,0:03:28.93,Default,,0,0,0,,{\be1}A po co?
+Dialogue: 0,0:03:30.27,0:03:36.40,Default,,0,0,0,,{\be1}Pomyślałam, że mogę ci pomóc.
+Dialogue: 0,0:03:36.40,0:03:41.36,Default,,0,0,0,,{\be1}Dobrze się czujesz?\NNie jesteś chora?
+Dialogue: 0,0:03:41.36,0:03:44.37,Default,,0,0,0,,{\be1}Ja ci oferuję pomoc, a ty co?!
+Dialogue: 0,0:03:45.66,0:03:50.33,Default,,0,0,0,,{\be1}Saya nam pomoże? Dzięki!
+Dialogue: 0,0:03:51.24,0:03:54.60,Default,,0,0,0,,{\be1}Ale tylko jeśli chcecie.
+Dialogue: 0,0:03:54.60,0:03:56.30,Default,,0,0,0,,{\be1}Ależ chcemy!
+Dialogue: 0,0:03:56.30,0:03:57.80,Default,,0,0,0,,{\be1}Prawda, panie?
+Dialogue: 0,0:03:57.80,0:04:02.24,Default,,0,0,0,,{\be1}Cóż, przydałaby się pomoc.
+Dialogue: 0,0:04:02.24,0:04:04.30,Default,,0,0,0,,{\be1}No dobra, chcesz spróbować?
+Dialogue: 0,0:04:07.63,0:04:10.12,Default,,0,0,0,,{\be1}Wyglądasz ślicznie.
+Dialogue: 0,0:04:10.12,0:04:10.98,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:04:10.98,0:04:14.12,Default,,0,0,0,,{\be1}Szata jednak stroi człowieka.
+Dialogue: 0,0:04:14.12,0:04:17.31,Default,,0,0,0,,{\be1}Dobra, skorzystam z twojej pomocy.
+Dialogue: 0,0:04:28.80,0:04:34.33,Default,,0,0,0,,{\be1}A jeśli trzeba zabij syna Morisakiego.
+Dialogue: 0,0:04:35.25,0:04:37.53,Default (i),,0,0,0,,{\be1}Nie chcę tego robić.
+Dialogue: 0,0:04:50.88,0:04:54.10,Default,,0,0,0,,{\be1}Dzień dobry. Co podać?
+Dialogue: 0,0:04:55.30,0:04:56.40,Default,,0,0,0,,{\be1}Kawę.
+Dialogue: 0,0:04:56.40,0:04:58.06,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:04:58.06,0:04:59.62,Default,,0,0,0,,{\be1}Co tu robi Saya?
+Dialogue: 0,0:04:59.62,0:05:02.48,Default,,0,0,0,,{\be1}Kotomi się rozchorowała.
+Dialogue: 0,0:05:02.48,0:05:04.07,Default,,0,0,0,,{\be1}Serio? Jak się czuje?
+Dialogue: 0,0:05:25.59,0:05:29.89,Default,,0,0,0,,{\be1}Nie powstrzymuj się.
+Dialogue: 0,0:05:40.40,0:05:42.94,Default (i),,0,0,0,,{\be1}Czyżbym przesadziła?
+Dialogue: 0,0:05:42.94,0:05:46.32,Default,,0,0,0,,{\be1}Mam nadzieję, że szybko wyzdrowieje.
+Dialogue: 0,0:05:46.32,0:05:49.49,Default,,0,0,0,,{\be1}Oby Yuuri też szybko wróciła.
+Dialogue: 0,0:05:49.49,0:05:51.87,Default,,0,0,0,,{\be1}Muszę coś wymyślić.
+Dialogue: 0,0:05:54.87,0:05:56.79,Default,,0,0,0,,{\be1}Dzięki za pomoc.
+Dialogue: 0,0:05:56.79,0:06:00.33,Default,,0,0,0,,{\be1}- Trzeba pomagać ludziom w potrzebie.\N- Jutro też możesz przyjść.
+Dialogue: 0,0:06:01.66,0:06:03.80,Default,,0,0,0,,{\be1}Przydam się do czegoś?
+Dialogue: 0,0:06:03.80,0:06:05.02,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:06:05.02,0:06:06.76,Default,,0,0,0,,{\be1}Tak, ratujesz nas!
+Dialogue: 0,0:06:07.26,0:06:10.22,Default,,0,0,0,,{\be1}Rozumiem, to do jutra.
+Dialogue: 0,0:06:10.91,0:06:12.48,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:06:12.48,0:06:14.22,Default,,0,0,0,,{\be1}Do jutra!
+Dialogue: 0,0:06:14.54,0:06:15.67,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:06:24.65,0:06:27.61,Default,,0,0,0,,{\be1}Czemu to zrobiła?
+Dialogue: 0,0:07:02.39,0:07:04.97,Default,,0,0,0,,{\be1}Dojdźmy razem.
+Dialogue: 0,0:07:14.97,0:07:16.20,Default,,0,0,0,,{\be1}No nie.
+Dialogue: 0,0:08:00.91,0:08:02.87,Default,,0,0,0,,{\be1}Shinichirou.
+Dialogue: 0,0:08:17.57,0:08:19.89,Default,,0,0,0,,{\be1}Kotomi, mogę wejść?
+Dialogue: 0,0:08:21.74,0:08:24.08,Default,,0,0,0,,{\be1}Przyniosłem ci kolację.
+Dialogue: 0,0:08:27.07,0:08:28.86,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:08:30.43,0:08:32.32,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:08:33.08,0:08:34.30,Default,,0,0,0,,{\be1}Było pyszne.
+Dialogue: 0,0:08:34.30,0:08:36.36,Default,,0,0,0,,{\be1}Nie ma sprawy.
+Dialogue: 0,0:08:38.61,0:08:42.33,Default,,0,0,0,,{\be1}Cieszę się, że zostałam twoją siostrą.
+Dialogue: 0,0:08:44.29,0:08:48.75,Default,,0,0,0,,{\be1}Moi rodzice zginęli 7 lat temu w trzęsieniu ziemi.
+Dialogue: 0,0:08:49.56,0:08:53.55,Default,,0,0,0,,{\be1}Poznałam ciebie, gdy byłam sama.
+Dialogue: 0,0:08:53.55,0:08:57.43,Default,,0,0,0,,{\be1}Od tamtej pory mieszkam z wami.
+Dialogue: 0,0:08:57.43,0:09:03.39,Default,,0,0,0,,{\be1}Ojciec i tak zawsze pracuje\Ndla wojska, a matka zmarła.
+Dialogue: 0,0:09:03.39,0:09:06.85,Default,,0,0,0,,{\be1}Shinichirou, nie opuść mnie.
+Dialogue: 0,0:09:08.05,0:09:10.68,Default,,0,0,0,,{\be1}Zawsze będę twoim bratem.
+Dialogue: 0,0:09:11.97,0:09:12.99,Default,,0,0,0,,{\be1}Kotomi?
+Dialogue: 0,0:09:15.71,0:09:17.32,Default,,0,0,0,,{\be1}Obiecaj.
+Dialogue: 0,0:09:25.46,0:09:26.62,Default,,0,0,0,,{\be1}Kotomi.
+Dialogue: 0,0:09:49.67,0:09:50.92,Default,,0,0,0,,{\be1}Shinichirou!
+Dialogue: 0,0:10:11.09,0:10:12.47,Default,,0,0,0,,{\be1}Shinichirou.
+Dialogue: 0,0:10:15.10,0:10:16.84,Default,,0,0,0,,{\be1}Moja kolej.
+Dialogue: 0,0:10:22.31,0:10:25.35,Default,,0,0,0,,{\be1}Zaczyna ci cieknąć.
+Dialogue: 0,0:10:49.03,0:10:50.60,Default,,0,0,0,,{\be1}Wchodzi!
+Dialogue: 0,0:11:36.29,0:11:40.30,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:12:02.61,0:12:06.87,Default,,0,0,0,,{\be1}Przepraszam, że was zmartwiłam.\NJestem już zdrowa.
+Dialogue: 0,0:12:08.18,0:12:09.83,Default,,0,0,0,,{\be1}Tak się cieszę!
+Dialogue: 0,0:12:10.34,0:12:14.29,Default,,0,0,0,,{\be1}Już nie potrzebujesz mojej pomocy?
+Dialogue: 0,0:12:14.88,0:12:16.75,Default,,0,0,0,,{\be1}No bo Kotomi wróciła.
+Dialogue: 0,0:12:16.75,0:12:20.26,Default,,0,0,0,,{\be1}Nie prawda, jesteś nam potrzebna.
+Dialogue: 0,0:12:20.26,0:12:21.22,Default,,0,0,0,,{\be1}Kotomi.
+Dialogue: 0,0:12:21.60,0:12:23.11,Default,,0,0,0,,{\be1}Prawda?
+Dialogue: 0,0:12:23.11,0:12:25.22,Default,,0,0,0,,{\be1}Yuuri jeszcze nie wróciła.
+Dialogue: 0,0:12:25.22,0:12:26.18,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:12:28.64,0:12:33.10,Default,,0,0,0,,{\be1}Jutro zróbmy sobie wolne i pojedźmy gdzieś.
+Dialogue: 0,0:12:34.39,0:12:36.68,Default,,0,0,0,,{\be1}Wycieczka!
+Dialogue: 0,0:12:36.68,0:12:41.82,Default,,0,0,0,,{\be1}Chcę pójść do parku z tymi kręcącymi rzeczami!
+Dialogue: 0,0:12:41.82,0:12:43.16,Default,,0,0,0,,{\be1}Chodzi ci o wesołe miasteczko.
+Dialogue: 0,0:12:43.16,0:12:45.70,Default,,0,0,0,,{\be1}Tak to się nazywa?
+Dialogue: 0,0:12:45.70,0:12:50.62,Default,,0,0,0,,{\be1}Nie mam odpowiednich ubrań.
+Dialogue: 0,0:12:50.94,0:12:53.37,Default,,0,0,0,,{\be1}Pożyczę ci moje.
+Dialogue: 0,0:12:53.37,0:12:54.88,Default,,0,0,0,,{\be1}Kotomi.
+Dialogue: 0,0:12:54.88,0:12:58.67,Default,,0,0,0,,{\be1}Ale najpierw skończmy pracę.
+Dialogue: 0,0:13:09.32,0:13:13.10,Default (i),,0,0,0,,{\be1}Wesołe miasteczko... Tam wykonam ruch.
+Dialogue: 0,0:13:23.69,0:13:26.07,Default,,0,0,0,,{\be1}Niesamowite!
+Dialogue: 0,0:13:29.03,0:13:31.96,Default,,0,0,0,,{\be1}Tam się kręcą konie!
+Dialogue: 0,0:13:33.21,0:13:37.54,Default,,0,0,0,,{\be1}Arisa, tylko się nie zgub!
+Dialogue: 0,0:13:38.42,0:13:43.32,Default,,0,0,0,,{\be1}Nie jestem przyzwyczajona do takich ubrań.
+Dialogue: 0,0:13:44.01,0:13:47.53,Default,,0,0,0,,{\be1}Naprawdę? Wyglądasz w nich ślicznie.
+Dialogue: 0,0:13:47.53,0:13:49.19,Default,,0,0,0,,{\be1}Prawda, Shinichirou?
+Dialogue: 0,0:13:50.07,0:13:50.97,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:13:51.95,0:13:52.93,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:13:53.54,0:13:57.10,Default (i),,0,0,0,,{\be1}Nie myślałem, że może być taka dziewczęca.
+Dialogue: 0,0:13:57.10,0:13:59.44,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:13:59.44,0:14:01.90,Default,,0,0,0,,{\be1}Chcę na nich pojeździć!
+Dialogue: 0,0:14:02.20,0:14:05.36,Default,,0,0,0,,{\be1}Chodźmy wszyscy.
+Dialogue: 0,0:14:22.67,0:14:24.66,Default,,0,0,0,,{\be1}To było fajne!
+Dialogue: 0,0:14:24.66,0:14:25.91,Default,,0,0,0,,{\be1}Arisa.
+Dialogue: 0,0:14:27.17,0:14:30.68,Default,,0,0,0,,{\be1}Yuuri! Wróciłaś!
+Dialogue: 0,0:14:30.68,0:14:32.35,Default,,0,0,0,,{\be1}Właśnie przyjechałam z Asakusy.
+Dialogue: 0,0:14:33.05,0:14:35.31,Default,,0,0,0,,{\be1}Dobrze cię widzieć.
+Dialogue: 0,0:14:35.31,0:14:38.24,Default,,0,0,0,,{\be1}Pójdę po mojego pana.
+Dialogue: 0,0:14:38.24,0:14:39.98,Default,,0,0,0,,{\be1}Czekaj.
+Dialogue: 0,0:14:39.98,0:14:41.36,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:14:41.36,0:14:43.07,Default,,0,0,0,,{\be1}No bo...
+Dialogue: 0,0:14:44.63,0:14:47.82,Default,,0,0,0,,{\be1}Zaschło mi gardle, napijemy się Ramune?
+Dialogue: 0,0:14:48.85,0:14:51.32,Default,,0,0,0,,{\be1}Ramune! Tak!
+Dialogue: 0,0:14:57.66,0:14:59.70,Default,,0,0,0,,{\be1}Przestraszyłam się!
+Dialogue: 0,0:14:59.70,0:15:02.08,Default,,0,0,0,,{\be1}Tego czegoś?
+Dialogue: 0,0:15:02.08,0:15:03.96,Default,,0,0,0,,{\be1}Gdzie jest Arisa?
+Dialogue: 0,0:15:03.96,0:15:05.80,Default,,0,0,0,,{\be1}Nie wyszła przed nami?
+Dialogue: 0,0:15:05.80,0:15:07.84,Default,,0,0,0,,{\be1}A niech ją...
+Dialogue: 0,0:15:07.84,0:15:10.18,Default,,0,0,0,,{\be1}Poszukam jej.
+Dialogue: 0,0:15:10.18,0:15:11.80,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:15:15.26,0:15:18.73,Default,,0,0,0,,{\be1}Jeśli chcesz możesz wziąć jeszcze jedną.
+Dialogue: 0,0:15:19.31,0:15:23.69,Default,,0,0,0,,{\be1}Tak! Wypiję wszystkie!
+Dialogue: 0,0:15:25.18,0:15:27.33,Default,,0,0,0,,{\be1}Arisa!
+Dialogue: 0,0:15:27.94,0:15:29.71,Default,,0,0,0,,{\be1}Saya!
+Dialogue: 0,0:15:31.21,0:15:33.91,Default,,0,0,0,,{\be1}- Yuuri wróciła!\N- Arisa!
+Dialogue: 0,0:15:34.75,0:15:36.11,Default (i),,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:15:40.96,0:15:43.83,Default,,0,0,0,,{\be1}Puszczaj Sayę!
+Dialogue: 0,0:15:45.04,0:15:48.66,Default,,0,0,0,,{\be1}Panie, kłopoty!
+Dialogue: 0,0:15:49.89,0:15:52.34,Default,,0,0,0,,{\be1}Yuuri? Czy to...
+Dialogue: 0,0:15:53.05,0:15:57.82,Default,,0,0,0,,{\be1}Przyjęłam. Sprawdzę dzisiaj w nocy.
+Dialogue: 0,0:16:01.74,0:16:05.05,Default,,0,0,0,,{\be1}Nie, ja tylko...
+Dialogue: 0,0:16:05.05,0:16:06.18,Default,,0,0,0,,{\be1}Co robicie?!
+Dialogue: 0,0:16:06.18,0:16:11.74,Default,,0,0,0,,{\be1}Rozkaz pułkownika Ryugasaki,\Nmy się resztą zajmiemy.
+Dialogue: 0,0:16:11.74,0:16:13.23,Default,,0,0,0,,{\be1}Nie tak się umawialiśmy!
+Dialogue: 0,0:16:13.23,0:16:17.49,Default,,0,0,0,,{\be1}Morisaki Shinichirou,\Nmasz tu wieczorem przyprowadzić Hibachi.
+Dialogue: 0,0:16:17.93,0:16:21.46,Default,,0,0,0,,{\be1}Albo coś może się jej stać.
+Dialogue: 0,0:16:25.63,0:16:27.38,Default,,0,0,0,,{\be1}Ryugasaki Daimon!
+Dialogue: 0,0:16:27.38,0:16:29.09,Default,,0,0,0,,{\be1}Znasz go?
+Dialogue: 0,0:16:30.32,0:16:34.55,Default,,0,0,0,,{\be1}Razem z nim i Koutaro prowadziliśmy\Nbadania nad androidami.
+Dialogue: 0,0:16:34.55,0:16:38.05,Default,,0,0,0,,{\be1}Mściwy z niego człowiek.
+Dialogue: 0,0:16:38.05,0:16:41.27,Default,,0,0,0,,{\be1}Czy ja jestem bronią?
+Dialogue: 0,0:16:41.66,0:16:45.23,Default,,0,0,0,,{\be1}Mam iść do żołnierzy.
+Dialogue: 0,0:16:47.31,0:16:50.19,Default,,0,0,0,,{\be1}Tu nie ma dla mnie miejsca.
+Dialogue: 0,0:16:50.52,0:16:51.93,Default,,0,0,0,,{\be1}Nie pleć głupot!
+Dialogue: 0,0:16:52.53,0:16:56.66,Default,,0,0,0,,{\be1}Nie jesteś bronią!\NJesteś częścią naszej rodziny!
+Dialogue: 0,0:16:57.24,0:16:59.62,Default,,0,0,0,,{\be1}Panie.
+Dialogue: 0,0:16:59.62,0:17:04.58,Default,,0,0,0,,{\be1}Nie pozwolę armii zrobić wam krzywdy!
+Dialogue: 0,0:17:05.14,0:17:06.58,Default,,0,0,0,,{\be1}Shinichirou.
+Dialogue: 0,0:17:06.58,0:17:14.12,Default,,0,0,0,,{\be1}Shinichirou ma rację,\Nandroidy nie miały być bronią.
+Dialogue: 0,0:17:14.12,0:17:15.05,Default,,0,0,0,,{\be1}Dziadku.
+Dialogue: 0,0:17:15.50,0:17:23.52,Default,,0,0,0,,{\be1}Androidy miały powstrzymać wybuch wojny,\Nale Daimon nie zgodził się.
+Dialogue: 0,0:17:23.52,0:17:30.03,Default,,0,0,0,,{\be1}Koutaro zniszczył wyniki badań i zniknął.
+Dialogue: 0,0:17:30.03,0:17:31.48,Default,,0,0,0,,{\be1}Teraz rozumiem.
+Dialogue: 0,0:17:32.16,0:17:33.63,Default,,0,0,0,,{\be1}Shinichirou.
+Dialogue: 0,0:17:35.32,0:17:38.05,Default (i),,0,0,0,,{\be1}Już idziemy, Saya, Yuuri!
+Dialogue: 0,0:17:44.41,0:17:47.16,Default,,0,0,0,,{\be1}Zawiodłaś mnie.
+Dialogue: 0,0:17:48.16,0:17:50.88,Default,,0,0,0,,{\be1}Pułkowniku, co z nimi zrobić?
+Dialogue: 0,0:17:50.88,0:17:51.88,Default,,0,0,0,,{\be1}Co chcecie.
+Dialogue: 0,0:17:52.29,0:17:54.84,Default,,0,0,0,,{\be1}- Dobra.\N- Co robicie?
+Dialogue: 0,0:17:55.48,0:17:57.30,Default,,0,0,0,,{\be1}- Nie!\N- Łapy precz!
+Dialogue: 0,0:17:58.77,0:18:00.76,Default,,0,0,0,,{\be1}Przestań wierzgać!
+Dialogue: 0,0:18:07.61,0:18:09.35,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:09.35,0:18:10.23,Default,,0,0,0,,{\be1}Saya!
+Dialogue: 0,0:18:13.00,0:18:15.69,Default,,0,0,0,,{\be1}Nie dotykaj mnie!
+Dialogue: 0,0:18:35.76,0:18:37.85,Default,,0,0,0,,{\be1}Jeszcze są małe.
+Dialogue: 0,0:19:08.28,0:19:11.85,Default,,0,0,0,,{\be1}Pokaż cipkę. Pewnie jest śliczna.
+Dialogue: 0,0:19:11.85,0:19:14.91,Default,,0,0,0,,{\be1}Przestań! Nie!
+Dialogue: 0,0:19:15.56,0:19:17.29,Default,,0,0,0,,{\be1}Pewnie dziewica.
+Dialogue: 0,0:19:22.16,0:19:23.52,Default,,0,0,0,,{\be1}Aua!
+Dialogue: 0,0:19:39.32,0:19:43.54,Default (i),,0,0,0,,{\be1}Przepraszam was wszystkich.
+Dialogue: 0,0:19:50.62,0:19:53.78,Default,,0,0,0,,{\be1}Na pewno dobrze pójdzie?
+Dialogue: 0,0:19:53.78,0:19:56.63,Default,,0,0,0,,{\be1}Nie bój żaby.
+Dialogue: 0,0:20:11.69,0:20:14.25,Default,,0,0,0,,{\be1}Kotomi i ja zajmiemy się nimi!
+Dialogue: 0,0:20:14.25,0:20:15.02,Default,,0,0,0,,{\be1}Dziadku.
+Dialogue: 0,0:20:15.02,0:20:20.74,Default,,0,0,0,,{\be1}Pod ziemią jest tajna baza!\NSaya i Yuuri powinny tam być!
+Dialogue: 0,0:20:21.05,0:20:22.18,Default,,0,0,0,,{\be1}Pośpiesz się!
+Dialogue: 0,0:20:24.13,0:20:26.20,Default,,0,0,0,,{\be1}Wyruszamy!
+Dialogue: 0,0:20:28.08,0:20:30.66,Default,,0,0,0,,{\be1}- Kotomi, tędy!\N- Dobrze!
+Dialogue: 0,0:20:34.04,0:20:37.87,Default,,0,0,0,,{\be1}Ta baza jest ogromna.\NGdzie są Saya i Yuuri?
+Dialogue: 0,0:20:37.87,0:20:38.59,Default,,0,0,0,,{\be1}Tam są!
+Dialogue: 0,0:20:50.06,0:20:50.97,Default,,0,0,0,,{\be1}To Hibachi!
+Dialogue: 0,0:20:51.67,0:20:54.65,Default,,0,0,0,,{\be1}Hibachi atakuje!
+Dialogue: 0,0:20:54.65,0:20:55.49,Default,,0,0,0,,{\be1}Arisa.
+Dialogue: 0,0:20:55.49,0:21:00.35,Default,,0,0,0,,{\be1}Panie, chyba jednak jestem bronią.
+Dialogue: 0,0:21:02.46,0:21:04.95,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:21:05.27,0:21:08.66,Default,,0,0,0,,{\be1}Słyszę Sayę! Tędy!
+Dialogue: 0,0:21:08.99,0:21:10.10,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:21:11.24,0:21:13.62,Default,,0,0,0,,{\be1}Hibachi wtargnęła do bazy.
+Dialogue: 0,0:21:14.11,0:21:16.38,Default,,0,0,0,,{\be1}Przyśpieszyć załadunek!
+Dialogue: 0,0:21:21.75,0:21:25.51,Default,,0,0,0,,{\be1}Pora rozdziewiczyć małą.
+Dialogue: 0,0:21:26.78,0:21:28.01,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:29.86,0:21:31.47,Default,,0,0,0,,{\be1}Nie masz co się szarpać!
+Dialogue: 0,0:21:31.88,0:21:35.76,Default,,0,0,0,,{\be1}To boli! Przestań!
+Dialogue: 0,0:21:35.76,0:21:36.90,Default,,0,0,0,,{\be1}Saya.
+Dialogue: 0,0:21:38.05,0:21:40.04,Default,,0,0,0,,{\be1}Nie ruszaj się.
+Dialogue: 0,0:21:44.37,0:21:45.94,Default,,0,0,0,,{\be1}Skurwiele!
+Dialogue: 0,0:21:48.84,0:21:51.28,Default,,0,0,0,,{\be1}- Tak się bałam!\N- Saya.
+Dialogue: 0,0:21:52.40,0:21:54.39,Default,,0,0,0,,{\be1}Pożałujecie!
+Dialogue: 0,0:22:04.13,0:22:06.77,Default,,0,0,0,,{\be1}Przepraszam, to moja wina!
+Dialogue: 0,0:22:06.77,0:22:09.59,Default,,0,0,0,,{\be1}Później pogadamy, teraz musimy uciekać!
+Dialogue: 0,0:22:10.30,0:22:11.66,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:22:11.66,0:22:12.89,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:22:13.56,0:22:15.24,Default,,0,0,0,,{\be1}Shinichirou!
+Dialogue: 0,0:22:19.01,0:22:20.62,Default,,0,0,0,,{\be1}Nic wam nie jest.
+Dialogue: 0,0:22:20.62,0:22:23.00,Default,,0,0,0,,{\be1}Uciekajmy stąd.
+Dialogue: 0,0:22:23.00,0:22:25.26,Default,,0,0,0,,{\be1}A gdzie Arisa?
+Dialogue: 0,0:22:25.26,0:22:28.49,Default,,0,0,0,,{\be1}Idiotka znowu się zgubiła?
+Dialogue: 0,0:22:34.49,0:22:35.91,Default,,0,0,0,,{\be1}To Daimon!
+Dialogue: 0,0:22:37.93,0:22:39.25,Default,,0,0,0,,{\be1}Hibachi.
+Dialogue: 0,0:22:42.94,0:22:48.38,Default,,0,0,0,,{\be1}Tam są źli ludzie. Pożałujecie!
+Dialogue: 0,0:22:56.70,0:22:57.72,Default,,0,0,0,,{\be1}Arisa!
+Dialogue: 0,0:23:00.17,0:23:04.73,Default,,0,0,0,,{\be1}Panie, ukarzę złych ludzi.
+Dialogue: 0,0:23:04.73,0:23:07.67,Default,,0,0,0,,{\be1}Nawet ty nie dasz im radę.
+Dialogue: 0,0:23:09.99,0:23:11.70,Default,,0,0,0,,{\be1}Arisa.
+Dialogue: 0,0:23:12.02,0:23:17.66,Default,,0,0,0,,{\be1}Dziękuję za wszystko, nie zapomnę was.
+Dialogue: 0,0:23:18.12,0:23:21.63,Default,,0,0,0,,{\be1}Właśnie tego pragnął Koutaro.
+Dialogue: 0,0:23:21.93,0:23:28.59,Default,,0,0,0,,{\be1}Obiecaj, że wrócisz do nas.\NBędziemy czekać w domu.
+Dialogue: 0,0:23:36.59,0:23:39.02,Default,,0,0,0,,{\be1}W naszym kierunku leci Hibachi!
+Dialogue: 0,0:23:39.02,0:23:48.92,Default (i),,0,0,0,,{\be1}Szkoda jej, ale z projektem Smoka\Nz łatwością pokonam wszystkich wrogów.
+Dialogue: 0,0:23:49.67,0:23:50.99,Default,,0,0,0,,{\be1}Zestrzelić!
+Dialogue: 0,0:24:00.87,0:24:02.54,Default,,0,0,0,,{\be1}Ognia ze wszystkich wież!
+Dialogue: 0,0:24:08.21,0:24:09.84,Default,,0,0,0,,{\be1}Ja też mogę strzelać!
+Dialogue: 0,0:24:22.36,0:24:23.81,Default,,0,0,0,,{\be1}Nic się nie stało?
+Dialogue: 0,0:24:26.12,0:24:27.77,Default,,0,0,0,,{\be1}To na nic!
+Dialogue: 0,0:24:29.11,0:24:30.24,Default,,0,0,0,,{\be1}Nie poddam się!
+Dialogue: 0,0:24:31.65,0:24:33.20,Default,,0,0,0,,{\be1}Nadlatuje Hibachi!
+Dialogue: 0,0:24:36.03,0:24:38.70,Default,,0,0,0,,{\be1}Ona nazywa się Arisa.
+Dialogue: 0,0:24:41.38,0:24:43.94,Default,,0,0,0,,{\be1}Tak się cieszę!
+Dialogue: 0,0:24:45.05,0:24:48.45,Default,,0,0,0,,{\be1}Dziękuję, panie.
+Dialogue: 0,0:24:54.84,0:24:59.10,Default,,0,0,0,,{\be1}Co się dzieje?! Jeszcze cię dopadnę!
+Dialogue: 0,0:25:03.07,0:25:05.36,Default,,0,0,0,,{\be1}Arisa!
+Dialogue: 0,0:25:05.36,0:25:06.85,Default (i),,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:25:16.51,0:25:18.10,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:25:19.80,0:25:21.16,Default,,0,0,0,,{\be1}Znowu?!
+Dialogue: 0,0:25:27.73,0:25:30.52,Default,,0,0,0,,{\be1}Arisa!
+Dialogue: 0,0:25:33.17,0:25:35.16,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:28:00.93,0:28:02.50,Default,,0,0,0,,{\be1}To był sen?
+Dialogue: 0,0:28:04.47,0:28:07.62,Default,,0,0,0,,{\be1}Panie, wróciłam!

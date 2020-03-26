@@ -1,0 +1,401 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:1280
+PlayResY:720
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,42,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+Style: SUB,Microsoft JhengHei,40,&H00FFFFFF,&HFFFFFFFF,&H000064C8,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,10,0,10,1
+Style: OP-Roma,Microsoft JhengHei,40,&H00C89632,&H00FFFFFF,&H80000000,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,2,0,7,10,0,10,1
+Style: OP-Jap,Microsoft JhengHei,40,&H00C89632,&H00FFFFFF,&H80000000,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,10,0,50,1
+Style: OP-Cht,Microsoft JhengHei,40,&H00FFFFFF,&HFFFFFFFF,&H00800080,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,2,0,3,0,10,10,1
+Style: ED-Roma,Microsoft JhengHei,40,&H00C89632,&H00FFFFFF,&H80000000,&HFFFFFFFF,0,0,0,0,100,100,0,0,1,2,0,7,10,0,10,1
+Style: ED-Jap,Microsoft JhengHei,40,&H00C89632,&H00FFFFFF,&H80000000,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,10,0,50,1
+Style: ED-Cht,Microsoft JhengHei,40,&H00FFFFFF,&HFFFFFFFF,&H00800080,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,2,0,3,0,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:00:01.24,0:00:04.80,Default,NTP,0,0,0,,15美少女漂流記 心跳後宮篇
+Dialogue: 0,0:00:05.28,0:00:06.28,Default,NTP,0,0,0,,要開始嘍
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:01:44.55,0:01:48.45,Default,NTP,0,0,0,,{\fn@Microsoft JhengHei\frz-90\pos(720,80)\fs36\c&H0000FF&\3c&HFFFFFF&\4c&H0000FF&\blur2}不合群的\N獨狼同學
+Dialogue: 0,0:01:44.55,0:01:48.45,Default,NTP,0,0,0,,{\fn@Microsoft JhengHei\frz-90\pos(1260,280)\fs36\an7\c&H649632&\3c&HFFFFFF&\4c&H649632&\blur2}犬耳加肉尾的\N小島神靈
+Dialogue: 0,0:01:44.94,0:01:48.04,Default,NTP,0,0,0,,裸女成群的心跳熱湯溫泉
+Dialogue: 0,0:02:05.62,0:02:07.80,Default,NTP,0,0,0,,真沒想到有新貨
+Dialogue: 0,0:02:07.84,0:02:11.34,Default,NTP,0,0,0,,這臺百分百動作數據捕捉相機
+Dialogue: 0,0:02:12.18,0:02:15.72,Default,NTP,0,0,0,,感覺比在日本時的生活更奢侈了
+Dialogue: 0,0:02:19.76,0:02:23.44,Default,NTP,0,0,0,,男人拿照相機就為一件事
+Dialogue: 0,0:02:56.58,0:02:58.34,Default,NTP,0,0,0,,真是麻煩你了 小猴仔
+Dialogue: 0,0:03:05.68,0:03:07.62,Default,NTP,0,0,0,,就是這個
+Dialogue: 0,0:03:20.12,0:03:22.34,Default,NTP,0,0,0,,奈奈西 我來幫妳擦身吧
+Dialogue: 0,0:03:23.40,0:03:27.16,Default,NTP,0,0,0,,竟然主動提出要侍奉我這個神明 真是想得周到啊
+Dialogue: 0,0:03:43.20,0:03:45.52,Default,NTP,0,0,0,,抱歉抱歉 開了下小差
+Dialogue: 0,0:03:46.10,0:03:48.24,Default,NTP,0,0,0,,不好好擦的話神可是要懲罰妳的哦
+Dialogue: 0,0:03:48.66,0:03:51.26,Default,NTP,0,0,0,,知道啦知道啦 會幫妳擦乾淨的嘛
+Dialogue: 0,0:03:54.68,0:03:56.74,Default,NTP,0,0,0,,鬧夠了吧
+Dialogue: 0,0:03:59.82,0:04:00.56,Default,NTP,0,0,0,,危險
+Dialogue: 0,0:04:09.94,0:04:11.22,Default,NTP,0,0,0,,千葉小姐
+Dialogue: 0,0:04:11.52,0:04:13.96,Default,NTP,0,0,0,,奈奈西真是可愛
+Dialogue: 0,0:04:14.56,0:04:18.88,Default,NTP,0,0,0,,我的愛動物之心都燃燒起來了
+Dialogue: 0,0:04:21.16,0:04:23.34,Default,NTP,0,0,0,,不要啊 千葉小姐
+Dialogue: 0,0:04:24.34,0:04:27.44,Default,NTP,0,0,0,,褻瀆神靈的行為可是重罪啊
+Dialogue: 0,0:04:28.37,0:04:32.17,Default,NTP,0,0,0,,不是我的錯哦 都怪奈奈西妳太可愛了
+Dialogue: 0,0:04:33.61,0:04:36.44,Default,NTP,0,0,0,,為什麼要說這種壞孩子才會說的藉口
+Dialogue: 0,0:04:40.49,0:04:43.94,Default,NTP,0,0,0,,這樣下去的話 被人類玩弄的話
+Dialogue: 0,0:04:44.74,0:04:45.81,Default,NTP,0,0,0,,作為神的自尊就…
+Dialogue: 0,0:04:46.46,0:04:47.33,Default,NTP,0,0,0,,等一下啊 奈奈西
+Dialogue: 0,0:04:51.78,0:04:55.66,Default,NTP,0,0,0,,身體那麼滑溜溜 尾巴卻是這麼毛茸茸 手感真不錯
+Dialogue: 0,0:04:57.28,0:04:59.54,Default,NTP,0,0,0,,不要摸尾巴呀 很敏感的
+Dialogue: 0,0:05:03.17,0:05:06.90,Default,NTP,0,0,0,,奈奈西 為什麼妳會如此的可愛
+Dialogue: 0,0:05:07.87,0:05:12.09,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:05:15.48,0:05:17.50,Default,NTP,0,0,0,,尾巴還真夠敏感的 奈奈西
+Dialogue: 0,0:05:30.61,0:05:35.29,Default,NTP,0,0,0,,都是女人卻做這種行為 作為神是我不能…
+Dialogue: 0,0:05:36.93,0:05:39.05,Default,NTP,0,0,0,,我又不是百合
+Dialogue: 0,0:05:40.05,0:05:42.04,Default,NTP,0,0,0,,只是喜歡可愛的動物而已
+Dialogue: 0,0:05:46.29,0:05:48.85,Default,NTP,0,0,0,,竟然把神仙當成動物來玩弄 怎麼可以這樣
+Dialogue: 0,0:05:52.32,0:05:56.24,Default,NTP,0,0,0,,不可以 神仙的那裡很敏感的
+Dialogue: 0,0:05:59.75,0:06:00.86,Default,NTP,0,0,0,,奈奈西
+Dialogue: 0,0:06:02.82,0:06:06.70,Default,NTP,0,0,0,,千葉小姐濕漉漉的那兒和我的那兒摩擦著
+Dialogue: 0,0:06:08.80,0:06:10.55,Default,NTP,0,0,0,,奈奈西 奈奈西
+Dialogue: 0,0:06:11.36,0:06:13.62,Default,NTP,0,0,0,,不可以啊千葉小姐 再這樣下去的話…
+Dialogue: 0,0:06:18.62,0:06:24.59,Default,NTP,0,0,0,,別抓尾巴呀
+Dialogue: 0,0:06:27.27,0:06:29.10,Default,NTP,0,0,0,,我沒碰尾巴啊
+Dialogue: 0,0:06:30.93,0:06:33.99,Default,NTP,0,0,0,,完了 看走神了 一不小心出手了
+Dialogue: 0,0:06:36.43,0:06:39.35,Default,NTP,0,0,0,,數馬你個混蛋好色猴子
+Dialogue: 0,0:06:44.59,0:06:45.26,Default,NTP,0,0,0,,糟了
+Dialogue: 0,0:06:47.99,0:06:48.78,Default,NTP,0,0,0,,機會
+Dialogue: 0,0:06:49.64,0:06:51.00,Default,NTP,0,0,0,,現在正是復仇的時機
+Dialogue: 0,0:06:51.61,0:06:52.55,Default,NTP,0,0,0,,助我一臂之力吧 神
+Dialogue: 0,0:06:53.81,0:06:54.52,Default,NTP,0,0,0,,你這是幹什麼
+Dialogue: 0,0:06:55.52,0:06:58.67,Default,NTP,0,0,0,,我可不是一直都是被玩的
+Dialogue: 0,0:06:59.85,0:07:01.32,Default,NTP,0,0,0,,雖然也不太想幫數馬吧
+Dialogue: 0,0:07:02.29,0:07:03.44,Default,NTP,0,0,0,,快放手奈奈西
+Dialogue: 0,0:07:04.12,0:07:04.95,Default,NTP,0,0,0,,別放手奈奈西
+Dialogue: 0,0:07:07.11,0:07:08.09,Default,NTP,0,0,0,,住手啊 笨猴子
+Dialogue: 0,0:07:11.35,0:07:14.52,Default,NTP,0,0,0,,被這樣的傢夥揉著胸部竟然這麼有感覺 可惡
+Dialogue: 0,0:07:16.19,0:07:17.67,Default,NTP,0,0,0,,乳頭翹起來嘍
+Dialogue: 0,0:07:33.12,0:07:34.91,Default,NTP,0,0,0,,這個絕對不行
+Dialogue: 0,0:07:35.63,0:07:39.13,Default,NTP,0,0,0,,我可沒有錯哦 都怪千葉妳太性感了
+Dialogue: 0,0:07:42.22,0:07:44.25,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:07:45.79,0:07:46.80,Default,NTP,0,0,0,,混蛋
+Dialogue: 0,0:07:53.88,0:07:56.56,Default,NTP,0,0,0,,這樣子妳是不是能稍微體會到我的感受了呢
+Dialogue: 0,0:07:57.59,0:07:59.55,Default,NTP,0,0,0,,不…住手 奈奈西
+Dialogue: 0,0:08:07.78,0:08:08.48,Default,NTP,0,0,0,,要去嘍 千葉
+Dialogue: 0,0:08:22.21,0:08:24.68,Default,NTP,0,0,0,,千葉的這個表情 真是難得一見啊
+Dialogue: 0,0:08:32.91,0:08:34.12,Default,NTP,0,0,0,,去死吧 臭猴子
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:08:44.40,0:08:48.30,Default,NTP,0,0,0,,{\fn@Microsoft JhengHei\frz-90\fs36\pos(670,400)\c&H800080&\3c&HFFFFFF&\4c&H800080&\blur2}腹黑又酷愛詛咒的\N雙胞胎姐妹之妹妹
+Dialogue: 0,0:08:44.40,0:08:48.30,Default,NTP,0,0,0,,{\fn@Microsoft JhengHei\frz-90\fs36\pos(1180,200)\c&H3276DC&\3c&HFFFFFF&\4c&H0064FA&\blur2}同班的陽光可愛的\N雙胞胎姐妹之姐姐
+Dialogue: 0,0:08:45.56,0:08:48.13,Default,NTP,0,0,0,,心跳姐妹攝影會
+Dialogue: 0,0:09:02.97,0:09:03.66,Default,NTP,0,0,0,,啊 是小數
+Dialogue: 0,0:09:04.22,0:09:05.95,Default,NTP,0,0,0,,無需詛咒他便要死了
+Dialogue: 0,0:09:07.10,0:09:08.37,Default,NTP,0,0,0,,誰要死了
+Dialogue: 0,0:09:09.60,0:09:12.10,Default,NTP,0,0,0,,真遺憾 沒辦法那只好我詛咒你了
+Dialogue: 0,0:09:12.78,0:09:16.02,Default,NTP,0,0,0,,別詛咒 妳的詛咒真的很危險
+Dialogue: 0,0:09:16.67,0:09:18.02,Default,NTP,0,0,0,,小數 那是啥
+Dialogue: 0,0:09:19.62,0:09:20.43,Default,NTP,0,0,0,,這個嘛
+Dialogue: 0,0:09:21.32,0:09:24.46,Default,NTP,0,0,0,,初島製數碼相機NTR105B
+Dialogue: 0,0:09:25.17,0:09:27.00,Default,NTP,0,0,0,,什麼嘛 可惡 知道的那麼詳細
+Dialogue: 0,0:09:28.54,0:09:30.45,Default,NTP,0,0,0,,影子本來就是負責動腦的
+Dialogue: 0,0:09:31.17,0:09:33.19,Default,NTP,0,0,0,,然後光就是負責肉體的
+Dialogue: 0,0:09:40.18,0:09:41.72,Default,NTP,0,0,0,,妳別礙著我啊
+Dialogue: 0,0:09:42.42,0:09:45.30,Default,NTP,0,0,0,,我是在維護姐姐的肖像權
+Dialogue: 0,0:09:45.85,0:09:49.99,Default,NTP,0,0,0,,沒事啦小影 我的美麗是全人類的財產
+Dialogue: 0,0:09:52.10,0:09:55.50,Default,NTP,0,0,0,,啊 姐姐那淫亂的性格太耀眼了
+Dialogue: 0,0:09:56.38,0:09:57.88,Default,NTP,0,0,0,,給我照的漂亮點哦
+Dialogue: 0,0:09:58.88,0:09:59.51,Default,NTP,0,0,0,,包在我身上
+Dialogue: 0,0:10:04.89,0:10:05.74,Default,NTP,0,0,0,,怎麼樣啊 小數
+Dialogue: 0,0:10:06.90,0:10:08.41,Default,NTP,0,0,0,,我性感嗎
+Dialogue: 0,0:10:09.22,0:10:10.46,Default,NTP,0,0,0,,嗯 性感
+Dialogue: 0,0:10:11.69,0:10:12.45,Default,NTP,0,0,0,,對吧對吧
+Dialogue: 0,0:10:14.64,0:10:17.24,Default,NTP,0,0,0,,我對自己的身材還是有點自信的
+Dialogue: 0,0:10:19.27,0:10:20.96,Default,NTP,0,0,0,,喂小數 你照哪兒呢
+Dialogue: 0,0:10:21.83,0:10:23.11,Default,NTP,0,0,0,,身材指的不是這個意思
+Dialogue: 0,0:10:24.12,0:10:24.63,Default,NTP,0,0,0,,抱歉抱歉
+Dialogue: 0,0:10:26.24,0:10:29.21,Default,NTP,0,0,0,,姐姐的心跳正傳達給我
+Dialogue: 0,0:10:30.05,0:10:33.42,Default,NTP,0,0,0,,姐姐被小數照相有感覺了嗎
+Dialogue: 0,0:10:34.27,0:10:36.36,Default,NTP,0,0,0,,小數也真是的 照得那麼起勁像舔人家似的
+Dialogue: 0,0:10:37.32,0:10:38.96,Default,NTP,0,0,0,,我就這麼有魅力？
+Dialogue: 0,0:10:39.39,0:10:39.87,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:10:41.31,0:10:43.60,Default,NTP,0,0,0,,給誠實的小數一點獎勵吧
+Dialogue: 0,0:10:47.07,0:10:47.63,Default,NTP,0,0,0,,不可以
+Dialogue: 0,0:10:48.18,0:10:48.67,Default,NTP,0,0,0,,別妨礙我
+Dialogue: 0,0:10:50.09,0:10:52.12,Default,NTP,0,0,0,,要是對姐姐起了慾望的話就詛咒你哦
+Dialogue: 0,0:10:52.57,0:10:52.91,Default,NTP,0,0,0,,妳煩不煩
+Dialogue: 0,0:10:54.38,0:10:56.40,Default,NTP,0,0,0,,嘛嘛 只要是健康的男生的話
+Dialogue: 0,0:10:56.98,0:10:59.51,Default,NTP,0,0,0,,想著光的那裡勃起也是很正常的嘛
+Dialogue: 0,0:10:59.95,0:11:00.39,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:11:02.20,0:11:04.61,Default,NTP,0,0,0,,機會難得 小影妳也來照點吧
+Dialogue: 0,0:11:05.33,0:11:07.18,Default,NTP,0,0,0,,姐姐 您真的打算…
+Dialogue: 0,0:11:07.94,0:11:12.60,Default,NTP,0,0,0,,影子你這材料 基因什麼的都和光一樣
+Dialogue: 0,0:11:13.01,0:11:13.99,Default,NTP,0,0,0,,所以也是很有魅力的
+Dialogue: 0,0:11:15.02,0:11:15.90,Default,NTP,0,0,0,,對吧 小數
+Dialogue: 0,0:11:16.47,0:11:18.23,Default,NTP,0,0,0,,嗯 說的對
+Dialogue: 0,0:11:19.38,0:11:21.23,Default,NTP,0,0,0,,光看外表的話的確如此…
+Dialogue: 0,0:11:22.65,0:11:25.86,Default,NTP,0,0,0,,你看 最愛漂亮MM的小數都這麼說了
+Dialogue: 0,0:11:26.48,0:11:27.54,Default,NTP,0,0,0,,一起來照吧 小影
+Dialogue: 0,0:11:30.18,0:11:34.86,Default,NTP,0,0,0,,嗯 既然姐姐這麼說了 可以哦
+Dialogue: 0,0:11:43.27,0:11:45.67,Default,NTP,0,0,0,,這副樣子 好害羞
+Dialogue: 0,0:11:46.33,0:11:47.32,Default,NTP,0,0,0,,很可愛哦 小影
+Dialogue: 0,0:11:48.32,0:11:50.15,Default,NTP,0,0,0,,這樣子可以嗎 姐姐
+Dialogue: 0,0:11:50.18,0:11:51.60,Default,NTP,0,0,0,,Good Job  Good Job  Good Job
+Dialogue: 0,0:11:53.18,0:11:55.57,Default,NTP,0,0,0,,我明明想待在沒有光的地方
+Dialogue: 0,0:11:56.16,0:11:57.45,Default,NTP,0,0,0,,可現在卻被關注著
+Dialogue: 0,0:11:58.06,0:12:00.61,Default,NTP,0,0,0,,害羞的部位被人看著
+Dialogue: 0,0:12:02.19,0:12:03.61,Default,NTP,0,0,0,,給 啊
+Dialogue: 0,0:12:05.49,0:12:06.17,Default,NTP,0,0,0,,啊
+Dialogue: 0,0:12:08.04,0:12:10.06,Default,NTP,0,0,0,,小影是不是長肉了
+Dialogue: 0,0:12:10.36,0:12:12.71,Default,NTP,0,0,0,,體重的話和姐姐差不多
+Dialogue: 0,0:12:12.90,0:12:14.92,Default,NTP,0,0,0,,那光豈不是也變胖了
+Dialogue: 0,0:12:15.28,0:12:17.38,Default,NTP,0,0,0,,我…我不是這個意思啦
+Dialogue: 0,0:12:20.68,0:12:21.34,Default,NTP,0,0,0,,喂 小影
+Dialogue: 0,0:12:22.10,0:12:23.46,Default,NTP,0,0,0,,現在很有感覺對吧
+Dialogue: 0,0:12:24.30,0:12:26.44,Default,NTP,0,0,0,,才…才沒有
+Dialogue: 0,0:12:27.46,0:12:29.42,Default,NTP,0,0,0,,妳是瞞不住我的啦
+Dialogue: 0,0:12:30.40,0:12:31.53,Default,NTP,0,0,0,,我們可是雙胞胎啊
+Dialogue: 0,0:12:33.49,0:12:34.54,Default,NTP,0,0,0,,小影妳也知道了對吧
+Dialogue: 0,0:12:35.36,0:12:36.29,Default,NTP,0,0,0,,光我已經濕了
+Dialogue: 0,0:12:37.70,0:12:38.36,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:12:39.28,0:12:43.29,Default,NTP,0,0,0,,小數 再多照照我可愛的樣子吧
+Dialogue: 0,0:12:49.24,0:12:51.50,Default,NTP,0,0,0,,快看 我淫蕩的樣子
+Dialogue: 0,0:12:52.19,0:12:53.04,Default,NTP,0,0,0,,再多看看
+Dialogue: 0,0:12:55.68,0:12:57.77,Default,NTP,0,0,0,,快看啦 求你了
+Dialogue: 0,0:13:01.09,0:13:01.69,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:13:13.69,0:13:17.22,Default,NTP,0,0,0,,小影也自慰的話 快感會翻倍的
+Dialogue: 0,0:13:18.70,0:13:22.49,Default,NTP,0,0,0,,姐姐 小影也很舒服
+Dialogue: 0,0:13:23.75,0:13:25.80,Default,NTP,0,0,0,,就像是在被姐姐摸一樣
+Dialogue: 0,0:13:29.32,0:13:31.52,Default,NTP,0,0,0,,我也能感受到小影你了
+Dialogue: 0,0:13:35.09,0:13:38.18,Default,NTP,0,0,0,,我們倆可是因為小數你的錯變成這樣的
+Dialogue: 0,0:13:38.79,0:13:40.75,Default,NTP,0,0,0,,你可要負責哦
+Dialogue: 0,0:13:41.77,0:13:42.93,Default,NTP,0,0,0,,會負責的吧先從小影開始
+Dialogue: 0,0:13:43.67,0:13:44.29,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:13:45.29,0:13:45.88,Default,NTP,0,0,0,,可以嗎
+Dialogue: 0,0:13:46.45,0:13:50.03,Default,NTP,0,0,0,,向準備完畢一心待插的女孩子詢問這種事可是違反規則的哦
+Dialogue: 0,0:13:50.73,0:13:52.98,Default,NTP,0,0,0,,姐姐 小影我完全沒有準備好…
+Dialogue: 0,0:13:55.58,0:13:58.11,Default,NTP,0,0,0,,看 都已經這麼濕了
+Dialogue: 0,0:13:58.42,0:13:59.77,Default,NTP,0,0,0,,我開動了
+Dialogue: 0,0:14:07.60,0:14:10.00,Default,NTP,0,0,0,,怎麼辦 太舒服了
+Dialogue: 0,0:14:10.68,0:14:13.37,Default,NTP,0,0,0,,姐姐 好爽
+Dialogue: 0,0:14:13.93,0:14:15.69,Default,NTP,0,0,0,,小影爽翻了似的 好可愛
+Dialogue: 0,0:14:16.27,0:14:17.60,Default,NTP,0,0,0,,我也爽起來了
+Dialogue: 0,0:14:22.81,0:14:25.72,Default,NTP,0,0,0,,小數 也讓我舒服一下
+Dialogue: 0,0:14:26.36,0:14:26.80,Default,NTP,0,0,0,,喔
+Dialogue: 0,0:14:29.36,0:14:30.44,Default,NTP,0,0,0,,進來了
+Dialogue: 0,0:14:32.33,0:14:37.78,Default,NTP,0,0,0,,明明是姐姐被插 可小影的那裡卻也像在被插一樣
+Dialogue: 0,0:14:38.57,0:14:40.49,Default,NTP,0,0,0,,這個可不妙 會上癮的
+Dialogue: 0,0:14:41.11,0:14:44.06,Default,NTP,0,0,0,,兩個人都夾得好緊 裡面的感覺也一模一樣
+Dialogue: 0,0:14:44.55,0:14:45.54,Default,NTP,0,0,0,,真不愧是雙胞胎
+Dialogue: 0,0:14:46.35,0:14:51.69,Default,NTP,0,0,0,,小數 也去插插小影吧 然後再插回我
+Dialogue: 0,0:14:52.44,0:14:53.68,Default,NTP,0,0,0,,好的 遵命
+Dialogue: 0,0:14:59.25,0:15:01.99,Default,NTP,0,0,0,,這次真的進來了
+Dialogue: 0,0:15:02.55,0:15:06.21,Default,NTP,0,0,0,,也插進我的裡面來了
+Dialogue: 0,0:15:06.66,0:15:09.39,Default,NTP,0,0,0,,已經不知道被插的是誰了
+Dialogue: 0,0:15:14.38,0:15:15.90,Default,NTP,0,0,0,,雖然要對付兩個人 但我會加油的
+Dialogue: 0,0:15:24.44,0:15:28.16,Default,NTP,0,0,0,,- 姐姐  - 小影
+Dialogue: 0,0:15:29.50,0:15:30.69,Default,NTP,0,0,0,,要去嘍
+Dialogue: 0,0:15:32.99,0:15:34.77,Default,NTP,0,0,0,,來吧
+Dialogue: 0,0:15:41.58,0:15:43.92,Default,NTP,0,0,0,,不愧是我 照到我照片了
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:15:55.75,0:15:59.70,Default,NTP,0,0,0,,{\an1\fn@Microsoft JhengHei\frz-90\fs36\pos(640,20)\c&H329632&\3c&HFFFFFF&\4c&H329632&\blur2}膽小愛哭笨手笨腳的\N美女巨乳教師
+Dialogue: 0,0:15:55.75,0:15:59.70,Default,NTP,0,0,0,,{\an1\fn@Microsoft JhengHei\frz-90\fs36\pos(1200,204)\c&HC86400&\3c&HFFFFFF&\4c&HC86400&\blur2}總是和主人公\N粘在一起的青梅竹馬
+Dialogue: 0,0:15:56.70,0:15:58.88,Default,NTP,0,0,0,,禁斷的晴空下課外授業
+Dialogue: 0,0:16:03.12,0:16:05.61,Default,NTP,0,0,0,,這個唸羞恥心
+Dialogue: 0,0:16:06.49,0:16:08.13,Default,NTP,0,0,0,,大家聽懂了嗎
+Dialogue: 0,0:16:08.77,0:16:09.41,Default,NTP,0,0,0,,好
+Dialogue: 0,0:16:10.02,0:16:11.78,Default,NTP,0,0,0,,要好好記筆記哦
+Dialogue: 0,0:16:12.38,0:16:13.10,Default,NTP,0,0,0,,好
+Dialogue: 0,0:16:15.38,0:16:16.45,Default,NTP,0,0,0,,阿啦 白石君
+Dialogue: 0,0:16:17.01,0:16:17.68,Default,NTP,0,0,0,,是小數
+Dialogue: 0,0:16:21.14,0:16:23.50,Default,NTP,0,0,0,,四谷同學 現在是在上課哦
+Dialogue: 0,0:16:23.54,0:16:25.84,Default,NTP,0,0,0,,老師 妳一個人在幹什麼呢
+Dialogue: 0,0:16:27.21,0:16:29.05,Default,NTP,0,0,0,,幹什麼？看了還不明白嗎
+Dialogue: 0,0:16:31.00,0:16:31.63,Default,NTP,0,0,0,,不明白
+Dialogue: 0,0:16:33.27,0:16:35.42,Default,NTP,0,0,0,,不明白的學生要罰站
+Dialogue: 0,0:16:36.10,0:16:37.40,Default,NTP,0,0,0,,從剛起就一直「站」著了
+Dialogue: 0,0:16:38.33,0:16:39.14,Default,NTP,0,0,0,,答案是 在上課
+Dialogue: 0,0:16:39.60,0:16:41.14,Default,NTP,0,0,0,,上課
+Dialogue: 0,0:16:42.52,0:16:43.98,Default,NTP,0,0,0,,我不是老師嗎
+Dialogue: 0,0:16:44.57,0:16:48.37,Default,NTP,0,0,0,,可是到了這座島上之後卻一直沒有用武之地
+Dialogue: 0,0:16:49.29,0:16:51.88,Default,NTP,0,0,0,,這樣下去的話感覺自己都快變成廢物了
+Dialogue: 0,0:16:52.45,0:16:55.64,Default,NTP,0,0,0,,所以作為教師 想給你們展示一下我優秀的地方
+Dialogue: 0,0:16:56.13,0:16:59.97,Default,NTP,0,0,0,,原來如此 不過只有小琴的話感覺沒什麼意義吧
+Dialogue: 0,0:17:00.41,0:17:03.85,Default,NTP,0,0,0,,就是說啊 大家都不理老師
+Dialogue: 0,0:17:05.01,0:17:07.29,Default,NTP,0,0,0,,學校要倒閉了
+Dialogue: 0,0:17:07.99,0:17:09.02,Default,NTP,0,0,0,,為什麼只有小琴來上課呢
+Dialogue: 0,0:17:09.67,0:17:12.52,Default,NTP,0,0,0,,因為我覺得可能會有能寫進日記裡的好neta
+Dialogue: 0,0:17:13.72,0:17:18.85,Default,NTP,0,0,0,,連不會學習的落魄生白石同學都過來嘲笑我…
+Dialogue: 0,0:17:19.93,0:17:24.28,Default,NTP,0,0,0,,為什麼這個老師能如此自然的說出傷學生心的話呢
+Dialogue: 0,0:17:25.84,0:17:27.29,Default,NTP,0,0,0,,打起精神來 老師
+Dialogue: 0,0:17:29.02,0:17:32.65,Default,NTP,0,0,0,,因為大家都知道老師是個偉大的人
+Dialogue: 0,0:17:33.66,0:17:34.81,Default,NTP,0,0,0,,白石同學
+Dialogue: 0,0:17:37.17,0:17:42.65,Default,NTP,0,0,0,,眼鏡娘 巨乳 女教師
+Dialogue: 0,0:17:43.06,0:17:45.83,Default,NTP,0,0,0,,您的屬性十分完美啊
+Dialogue: 0,0:17:46.58,0:17:48.59,Default,NTP,0,0,0,,眼鏡 巨乳我覺得沒什麼關係吧
+Dialogue: 0,0:17:49.32,0:17:52.07,Default,NTP,0,0,0,,對了 如果是有興趣的科目的話
+Dialogue: 0,0:17:52.56,0:17:54.96,Default,NTP,0,0,0,,大家應該就都會來上課 並且尊敬老師的吧
+Dialogue: 0,0:17:55.53,0:17:56.87,Default,NTP,0,0,0,,有興趣的科目？
+Dialogue: 0,0:17:58.40,0:18:01.15,Default,NTP,0,0,0,,那就是 保健體育
+Dialogue: 0,0:18:01.97,0:18:03.84,Default,NTP,0,0,0,,簡稱保體 主要內容就是保健
+Dialogue: 0,0:18:04.87,0:18:09.66,Default,NTP,0,0,0,,但老師的專業不是保健體育 對這個不是很清楚啊
+Dialogue: 0,0:18:09.99,0:18:12.21,Default,NTP,0,0,0,,那麼就和我一起學習吧
+Dialogue: 0,0:18:12.98,0:18:14.22,Default,NTP,0,0,0,,為了能讓老師上好保健課
+Dialogue: 0,0:18:14.79,0:18:19.41,Default,NTP,0,0,0,,讓我們來研究下男女身體上的區別以及生小孩的生理結構吧
+Dialogue: 0,0:18:14.20,0:18:24.10,Default,NTP,0,0,0,,{\pos(920,100)\frz25\fs60\bord0\shad0\c&H9664FA&}雌蕊 {\c&HC89632&}雄蕊
+Dialogue: 0,0:18:19.64,0:18:22.48,Default,NTP,0,0,0,,小數那樣子不行的 違反倫理的說
+Dialogue: 0,0:18:22.80,0:18:26.24,Default,NTP,0,0,0,,女體研究的話…就請研究我吧
+Dialogue: 0,0:18:27.40,0:18:31.03,Default,NTP,0,0,0,,現在在這島上 少子化已經成為了嚴重的問題
+Dialogue: 0,0:18:31.78,0:18:33.55,Default,NTP,0,0,0,,來學習相應的對策吧
+Dialogue: 0,0:18:33.92,0:18:34.63,Default,NTP,0,0,0,,啥 要做嗎
+Dialogue: 0,0:18:35.76,0:18:38.30,Default,NTP,0,0,0,,為了老師竟然做到這份上…
+Dialogue: 0,0:18:38.98,0:18:41.46,Default,NTP,0,0,0,,好感動 老師我會加油的
+Dialogue: 0,0:18:42.12,0:18:43.91,Default,NTP,0,0,0,,我也會加油的啦 小數
+Dialogue: 0,0:18:46.60,0:18:47.60,Default,NTP,0,0,0,,{\pos(640,500)\shad0}這裡的三個詞都是日語中的訓狗專用詞彙\N其中最後一個的準確意思是\N「在狗面前放吃的 但是在主人下達命令之前不允許吃」
+Dialogue: 0,0:18:44.06,0:18:47.36,Default,NTP,0,0,0,,蹲下 前腿立起 一邊看著
+Dialogue: 0,0:18:47.86,0:18:49.12,Default,NTP,0,0,0,,啥
+Dialogue: 0,0:18:50.45,0:18:52.73,Default,NTP,0,0,0,,這是為了老師而做的
+Dialogue: 0,0:18:53.14,0:18:56.68,Default,NTP,0,0,0,,乖乖待著 等下好好給妳獎勵
+Dialogue: 0,0:18:56.74,0:18:57.58,Default,NTP,0,0,0,,真的嗎
+Dialogue: 0,0:18:57.68,0:18:58.54,Default,NTP,0,0,0,,真的
+Dialogue: 0,0:18:58.74,0:18:59.66,Default,NTP,0,0,0,,真的真的嗎
+Dialogue: 0,0:18:59.82,0:19:00.76,Default,NTP,0,0,0,,真的真的
+Dialogue: 0,0:19:01.41,0:19:01.93,Default,NTP,0,0,0,,說話算話哦
+Dialogue: 0,0:19:03.86,0:19:05.01,Default,NTP,0,0,0,,那麼我們重新開始
+Dialogue: 0,0:19:06.41,0:19:10.97,Default,NTP,0,0,0,,生殖行為中最重要的是首先要讓男性性器官翹起
+Dialogue: 0,0:19:11.53,0:19:16.06,Default,NTP,0,0,0,,以前讀過的書中這麼寫道 口交是最有效的方法
+Dialogue: 0,0:19:17.73,0:19:20.74,Default,NTP,0,0,0,,但是白石君的小雞雞已經勃起了啊
+Dialogue: 0,0:19:22.27,0:19:28.33,Default,NTP,0,0,0,,這還遠遠不夠 看來老師關於男人的身體還需要進一步的學習啊
+Dialogue: 0,0:19:28.72,0:19:30.77,Default,NTP,0,0,0,,來 請舔吧
+Dialogue: 0,0:19:31.87,0:19:33.29,Default,NTP,0,0,0,,知道了啦
+Dialogue: 0,0:19:41.85,0:19:46.82,Default,NTP,0,0,0,,老師竟然大舔學生的男根 這場面真萌
+Dialogue: 0,0:19:49.00,0:19:51.14,Default,NTP,0,0,0,,真的還會變大呢
+Dialogue: 0,0:19:52.09,0:19:54.52,Default,NTP,0,0,0,,在下一直都是階段性變身的
+Dialogue: 0,0:19:55.28,0:19:57.48,Default,NTP,0,0,0,,老師我也應該多多學習啊
+Dialogue: 0,0:20:09.53,0:20:11.32,Default,NTP,0,0,0,,老師 現在請用妳的胸部
+Dialogue: 0,0:20:15.55,0:20:20.25,Default,NTP,0,0,0,,白石君 想摸老師的胸部嗎 像個小孩子一樣
+Dialogue: 0,0:20:20.73,0:20:23.44,Default,NTP,0,0,0,,不 是要這樣 老師
+Dialogue: 0,0:20:25.40,0:20:28.51,Default,NTP,0,0,0,,就這樣雙手握乳夾莖擼動
+Dialogue: 0,0:20:29.21,0:20:31.70,Default,NTP,0,0,0,,這就是保健奧義 乳交
+Dialogue: 0,0:20:32.36,0:20:35.03,Default,NTP,0,0,0,,竟然可以這麼使用胸部 真是深奧啊
+Dialogue: 0,0:20:43.77,0:20:44.17,Default,NTP,0,0,0,,老師
+Dialogue: 0,0:20:46.12,0:20:48.69,Default,NTP,0,0,0,,討厭 粘粘的 好臭
+Dialogue: 0,0:20:49.97,0:20:53.57,Default,NTP,0,0,0,,白石同學 不射在裡面的話是不會有小寶寶的哦
+Dialogue: 0,0:20:54.25,0:20:58.25,Default,NTP,0,0,0,,沒關係 我白石數馬的精子生產量可是日本第一的
+Dialogue: 0,0:20:59.21,0:21:01.69,Default,NTP,0,0,0,,對別的課程要是也有這麼熱心就好了
+Dialogue: 0,0:21:02.11,0:21:03.81,Default,NTP,0,0,0,,看 已經恢復了哦
+Dialogue: 0,0:21:04.27,0:21:04.86,Default,NTP,0,0,0,,來 繼續吧
+Dialogue: 0,0:21:09.26,0:21:13.10,Default,NTP,0,0,0,,老師還是第一次做生小寶寶運動 所以請溫柔點啊
+Dialogue: 0,0:21:13.77,0:21:14.26,Default,NTP,0,0,0,,老師
+Dialogue: 0,0:21:22.77,0:21:25.45,Default,NTP,0,0,0,,老師我在工作中H…
+Dialogue: 0,0:21:27.73,0:21:28.85,Default,NTP,0,0,0,,老師 我要去嘍
+Dialogue: 0,0:21:29.56,0:21:31.01,Default,NTP,0,0,0,,受精的準備做好了嗎
+Dialogue: 0,0:21:31.58,0:21:34.89,Default,NTP,0,0,0,,今天是危險日 多射一點吧
+Dialogue: 0,0:21:35.97,0:21:38.17,Default,NTP,0,0,0,,我要生好多學生出來
+Dialogue: 0,0:21:39.29,0:21:39.80,Default,NTP,0,0,0,,老師
+Dialogue: 0,0:21:45.33,0:21:49.09,Default,NTP,0,0,0,,熱熱的咕咚咕咚湧進了老師的裡面
+Dialogue: 0,0:21:52.49,0:21:54.17,Default,NTP,0,0,0,,喂 要讓我等到什麼時候
+Dialogue: 0,0:21:54.53,0:21:57.02,Default,NTP,0,0,0,,哦 小琴 我太專心於保健课把妳給忘了
+Dialogue: 0,0:21:58.33,0:21:59.98,Default,NTP,0,0,0,,接下來該輪到我了
+Dialogue: 0,0:22:00.82,0:22:01.77,Default,NTP,0,0,0,,我知道了啦
+Dialogue: 0,0:22:04.55,0:22:10.61,Default,NTP,0,0,0,,終於 終於來了 我那濕漉漉的地方終於等到小數了
+Dialogue: 0,0:22:13.54,0:22:14.25,Default,NTP,0,0,0,,進來了
+Dialogue: 0,0:22:27.69,0:22:29.05,Default,NTP,0,0,0,,小數的精液好好喝
+Dialogue: 0,0:22:29.54,0:22:34.12,Default,NTP,0,0,0,,四谷同學的舌功好拽 是在哪兒學的
+Dialogue: 0,0:22:34.59,0:22:37.17,Default,NTP,0,0,0,,小琴可是經常一個人做自我練習的
+Dialogue: 0,0:22:37.74,0:22:39.98,Default,NTP,0,0,0,,小數我還要 我還要
+Dialogue: 0,0:22:40.48,0:22:41.14,Default,NTP,0,0,0,,知道啦知道啦
+Dialogue: 0,0:22:42.87,0:22:43.58,Default,NTP,0,0,0,,小數
+Dialogue: 0,0:22:44.52,0:22:46.28,Default,NTP,0,0,0,,妳也多舔舔老師的啊
+Dialogue: 0,0:22:48.37,0:22:51.26,Default,NTP,0,0,0,,瞭解別人的身體也是保健的一環嘛
+Dialogue: 0,0:22:56.09,0:22:58.56,Default,NTP,0,0,0,,好舒服 又要丟了
+Dialogue: 0,0:22:59.19,0:23:02.14,Default,NTP,0,0,0,,被自己的學生這麼搞 老師的威嚴…
+Dialogue: 0,0:23:02.90,0:23:04.84,Default,NTP,0,0,0,,不行了
+Dialogue: 0,0:23:06.11,0:23:06.92,Default,NTP,0,0,0,,要去嘍 小琴
+Dialogue: 0,0:23:12.84,0:23:16.21,Default,NTP,0,0,0,,進來了 小數的精子射到子宮裡來了
+Dialogue: 0,0:23:21.29,0:23:24.12,Default,NTP,0,0,0,,這樣一來我和小數也就生米煮成熟飯了
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:23:40.39,0:23:40.73,Default,NTP,0,0,0,,咦
+Dialogue: 0,0:23:46.78,0:23:50.72,Default,NTP,0,0,0,,往溫泉裡一張望 發現你暈倒在那兒
+Dialogue: 0,0:23:51.14,0:23:53.76,Default,NTP,0,0,0,,是嗎 那這一切都是？
+Dialogue: 0,0:23:54.53,0:23:56.57,Default,NTP,0,0,0,,都是夢吧
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:00:21.80,0:00:27.10,OP-Roma,NTP,0,0,0,,{\fad(300,300)}{\kf23}Ki{\kf19}ra{\kf27}me{\kf26}ku {\kf55}su{\kf40}i{\kf39}he{\kf11}i{\kf49}sen {\kf52}no {\kf25}ha{\kf5}{\kf119}te
+Dialogue: 0,0:00:27.10,0:00:34.56,OP-Roma,NTP,0,0,0,,{\t(3276,3276,\c&HDD7296&)\t(5487,5487,\c&HFFA81F&)\fad(300,300)}{\kf39}Na{\kf21}ga{\kf112}re{\kf20}tsu{\kf27}i{\kf89}ta {\kf30}{\kf12}to{\kf29}ko{\kf19}na{\kf34}tsu {\kf39}no {\kf48}Lo{\kf41}ve {\kf70}Is{\kf56}land
+Dialogue: 0,0:00:34.56,0:00:39.82,OP-Roma,NTP,0,0,0,,{\c&H0FCF26&)\fad(300,300)}{\kf22}Mi{\kf18}na{\kf30}mi{\kf28}ka{\kf48}ze {\kf43}ni {\kf21}no{\kf18}t{\kf20}te {\kf22}ya{\kf19}t{\kf53}te {\kf28}ki{\kf110}ta
+Dialogue: 0,0:00:39.82,0:00:47.41,OP-Roma,NTP,0,0,0,,{\c&H0FCF26&)\fad(300,300)}{\kf34}Love {\kf121}Affair {\kf22}{\kf47}koi {\kf90}no{\kf23} {\kf18}ma{\kf49}hou {\kf30}ni {\kf35}mi{\kf54}se{\kf41}ra{\kf58}re{\kf14}ta {\kf55}no
+Dialogue: 0,0:00:47.41,0:00:55.46,OP-Roma,NTP,0,0,0,,{\fad(300,300)}{\kf42}Ne{\kf58}e {\kf18}jou{\kf42}shou{\kf25}ki{\kf40}ryuu {\kf88}ni {\kf52}no{\kf21}t{\kf38}te {\kf20}kimi {\kf37}wo {\kf24}tsu{\kf32}ka{\kf29}ma{\kf20}e{\kf20}ta{\kf120}i
+Dialogue: 0,0:00:55.46,0:00:58.88,OP-Roma,NTP,0,0,0,,{\fad(300,300)}{\kf59}Dai{\kf59}su{\kf174}ki
+Dialogue: 0,0:00:59.84,0:01:05.43,OP-Roma,NTP,0,0,0,,{\fad(300,300)}{\kf83}Ao{\kf106}ku {\kf42}{\kf42}hiro{\kf28}ga{\kf23}ru {\kf75}umi {\kf102}he
+Dialogue: 0,0:01:05.43,0:01:09.26,OP-Roma,NTP,0,0,0,,{\c&HE6DA2F&)\fad(300,300)}{\kf23}To{\kf21}bi{\kf20}ko{\kf18}n{\kf52}de {\kf29}mi{\kf26}yo{\kf15}u {\kf29}ha{\kf70}ji{\kf21}ke{\kf23}yo{\kf14}u
+Dialogue: 0,0:01:09.26,0:01:12.64,OP-Roma,NTP,0,0,0,,{\c&HE6DA2F&\fad(300,300)}{\kf9}Te{\kf13}re{\kf34}na{\kf41}i{\kf33}de {\kf103}wara{\kf27}t{\kf50}te
+Dialogue: 0,0:01:12.64,0:01:18.15,OP-Roma,NTP,0,0,0,,{\t(508,1238,\c&H53DF77&)\t(1238,2114,\c&H185ADC&)\t(2115,2114,\c&HE6DA2F&)\t(2906,3000,\c&H9E92C4&)\fad(300,300)}{\kf50}Kyo{\kf33}u {\kf150}mo {\kf27}ma{\kf30}natsu {\kf32}no {\kf86}tai{\kf114}you
+Dialogue: 0,0:01:18.15,0:01:22.03,OP-Roma,NTP,0,0,0,,{\c&H0FCF26&\t(983,1525,\c&HFFA81F&)\fad(300,300)}{\kf24}Ya{\kf19}ke{\kf17}tsu{\kf25}ku {\kf66}ho{\kf22}do {\kf57}ni {\kf21}te{\kf47}ra{\kf34}su {\kf56}yo
+Dialogue: 0,0:01:22.03,0:01:28.58,OP-Roma,NTP,0,0,0,,{\c&H0FCF26&\t(690,1149,\c&HDD7296&)\t(2650,2650,\c&HC4D9F3&)\t(4550,5000,\c&H0FCF26&)\fad(300,300)}{\kf13}Bo{\kf24}ku{\kf27}ra {\kf28}no {\kf29}me{\kf29}ch{\kf28}a {\kf19}ha{\kf23}p{\kf44}py {\kf80}koi {\kf64}mo{\kf226}you
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:00:21.80,0:00:27.10,OP-Jap,NTP,0,0,0,,{\fad(300,300)}{\kf42}き{\kf24}ら{\kf18}め{\kf32}く{\kf74}水{\kf44}平{\kf60}線{\kf58}の{\kf40}果{\kf138}て
+Dialogue: 0,0:00:27.10,0:00:34.56,OP-Jap,NTP,0,0,0,,{\t(3276,3276,\c&HDD7296&)\t(5487,5487,\c&HFFA81F&)\fad(300,300)}{\kf186}流れ{\kf144}着いた{\kf122}常夏{\kf34}の{\kf88}LOVE{\kf172} ISLAND
+Dialogue: 0,0:00:34.56,0:00:39.82,OP-Jap,NTP,0,0,0,,{\c&H0FCF26&)\fad(300,300)}{\kf118}南風に{\kf254}乗ってやって{\kf154}来た
+Dialogue: 0,0:00:39.82,0:00:47.41,OP-Jap,NTP,0,0,0,,{\c&H0FCF26&)\fad(300,300)}{\kf202}Love afair {\kf132}恋の{\kf248}魔法魅せられ{\kf80}た{\kf97}の
+Dialogue: 0,0:00:47.41,0:00:55.46,OP-Jap,NTP,0,0,0,,{\fad(300,300)}{\kf127}ねぇ　{\kf170}上昇気流{\kf134}に乗って　{\kf198}君を捕まえた{\kf176}い
+Dialogue: 0,0:00:55.46,0:00:58.88,OP-Jap,NTP,0,0,0,,{\fad(300,300)}{\kf74}大{\kf52}好{\kf78}き{\kf54}(大好{\kf84}き)
+Dialogue: 0,0:00:59.84,0:01:05.43,OP-Jap,NTP,0,0,0,,{\fad(300,300)}{\kf224}青く{\kf120}広がる{\kf108}海{\kf108}へ
+Dialogue: 0,0:01:05.43,0:01:09.26,OP-Jap,NTP,0,0,0,,{\c&HE6DA2F&)\fad(300,300)}{\kf237}飛び込んで見よう　{\kf146}はじけよう
+Dialogue: 0,0:01:09.26,0:01:12.64,OP-Jap,NTP,0,0,0,,{\c&HE6DA2F&\fad(300,300)}{\kf152}照れない　{\kf186}笑って
+Dialogue: 0,0:01:12.64,0:01:18.15,OP-Jap,NTP,0,0,0,,{\t(508,1238,\c&H53DF77&)\t(1238,2114,\c&H185ADC&)\t(2115,2114,\c&HE6DA2F&)\t(2906,3000,\c&H9E92C4&)\fad(300,300)}{\kf90}今{\kf150}日も{\kf108}真夏の{\kf60}太{\kf143}陽
+Dialogue: 0,0:01:18.15,0:01:22.03,OP-Jap,NTP,0,0,0,,{\c&H0FCF26&\t(983,1525,\c&HFFA81F&)\fad(300,300)}{\kf111}焼け付く{\kf124}ほどに　{\kf153}照らすよ
+Dialogue: 0,0:01:22.03,0:01:28.58,OP-Jap,NTP,0,0,0,,{\c&H0FCF26&\t(690,1149,\c&HDD7296&)\t(2650,2650,\c&HC4D9F3&)\t(4550,5000,\c&H0FCF26&)\fad(300,300)}{\kf77}僕ら{\kf114}のめちゃ{\kf90}ハッピー{\kf70}恋{\kf304}模様
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:00:21.80,0:00:27.10,OP-Cht,NTP,0,0,0,,閃耀的水準線的彼端
+Dialogue: 0,0:00:27.10,0:00:34.56,OP-Cht,NTP,0,0,0,,飄流而來的常夏之愛的島嶼
+Dialogue: 0,0:00:34.56,0:00:39.82,OP-Cht,NTP,0,0,0,,乘著南風終於到來
+Dialogue: 0,0:00:39.82,0:00:47.41,OP-Cht,NTP,0,0,0,,愛的橋段 被戀愛的魔法所迷惑
+Dialogue: 0,0:00:47.41,0:00:55.46,OP-Cht,NTP,0,0,0,,喂 乗著上昇氣流 好想就這樣抓住你
+Dialogue: 0,0:00:55.46,0:00:58.88,OP-Cht,NTP,0,0,0,,最喜歡你(最喜歡你)
+Dialogue: 0,0:00:59.84,0:01:05.43,OP-Cht,NTP,0,0,0,,向著廣闊而蔚藍的大海
+Dialogue: 0,0:01:05.43,0:01:09.26,OP-Cht,NTP,0,0,0,,試著躍入其中吧 綻放出笑容吧
+Dialogue: 0,0:01:09.26,0:01:12.64,OP-Cht,NTP,0,0,0,,不要害羞 露出你的笑臉
+Dialogue: 0,0:01:12.64,0:01:18.15,OP-Cht,NTP,0,0,0,,今天也要讓這盛夏的陽光
+Dialogue: 0,0:01:18.15,0:01:22.03,OP-Cht,NTP,0,0,0,,像要曬傷似的 照耀著
+Dialogue: 0,0:01:22.03,0:01:28.58,OP-Cht,NTP,0,0,0,,我們的超Happy的戀愛模樣
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:24:20.70,0:24:27.37,ED-Roma,NTP,0,0,0,,{\c&H1FA3FF&\t(880,1672,\c&HB68FE9&)\fad(300,300)\kf17}Ma{\kf9}bu{\kf48}shi{\kf7}i {\kf11}hi{\kf39}za{\kf34}shi {\kf35}wo{\kf127} {\kf35}zen{\kf53}shin {\kf21}ni {\kf34}a{\kf28}bi{\kf20}na{\kf37}ga{\kf43}ra
+Dialogue: 0,0:24:27.37,0:24:34.13,ED-Roma,NTP,0,0,0,,{\c&HB68FE9&\t(1112,1570,\c&H58E9DB&)\fad(300,300)}{\kf40}Naga{\kf28}re{\kf30}naga{\kf50}sa{\kf29}re{\kf162}te {\kf39}hiro{\kf25}ga{\kf22}ru {\kf49}umi {\kf24}wo {\kf28}mi{\kf44}te{\kf17}ru
+Dialogue: 0,0:24:34.13,0:24:40.38,ED-Roma,NTP,0,0,0,,{\c&H58E9DB&\t(816,1275,\c&H54CD25&)\fad(300,300)}{\kf22}Ko{\kf12}u{\kf30}shi{\kf16}te {\kf17}ya{\kf33}sa{\kf40}shi{\kf22}i{\kf125} {\kf59}kaze {\kf25}ni {\kf21}da{\kf19}ka{\kf33}re{\kf30}te {\kf21}i{\kf41}ta{\kf21}ra
+Dialogue: 0,0:24:40.84,0:24:46.89,ED-Roma,NTP,0,0,0,,{\c&H54CD25&\t(613,1072,\c&HF37575&)\fad(300,300)}{\kf61}Kagaya{\kf23}ku {\kf23}mi{\kf64}rai {\kf52}wo{\kf111} {\kf24}ki{\kf24}tai {\kf39}shi{\kf8}ch{\kf13}a{\kf32}i{\kf26}so{\kf26}u {\kf43}da {\kf27}yo
+Dialogue: 0,0:24:46.89,0:24:51.85,ED-Roma,NTP,0,0,0,,{\c&HF37575&\t(1028,1486,\c&H7B7BF4&)\fad(300,300)}{\kf80}Chika{\kf72}su{\kf20}gi{\kf61}te {\kf42}{\kf21}de{\kf17}mo {\kf65}too{\kf106}i
+Dialogue: 0,0:24:53.61,0:24:59.45,ED-Roma,NTP,0,0,0,,{\c&H7B7BF4&\t(814,1273,\c&HE26FCC&)\fad(300,300)}{\kf16}Ky{\kf48}o{\kf19}ri{\kf89}kan {\kf61}wo{\kf38} {\kf43}ima {\kf13}ko{\kf49}so {\kf24}ka{\kf42}e{\kf43}te {\kf17}mi{\kf47}se{\kf20}ru {\kf16}yo
+Dialogue: 0,0:24:59.45,0:25:00.28,ED-Roma,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)}{\kf82}Chance
+Dialogue: 0,0:25:00.39,0:25:05.93,ED-Roma,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf26}A{\kf28}na{\kf25}ta {\kf39}no {\kf41}ko{\kf33}to {\kf31}da{\kf22}ke {\kf38}wo {\kf43}zu{\kf64}t{\kf21}to {\kf44}mi{\kf21}te{\kf60}ta
+Dialogue: 0,0:25:05.93,0:25:13.73,ED-Roma,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf26}Ki{\kf21}ra{\kf22}ki{\kf20}ra {\kf20}na {\kf56}ai{\kf60}jou{\kf53}kou{\kf43}sen{\kf82} {\kf44}haa{\kf83}to {\kf45}wo {\kf79}nera{\kf21}i{\kf40}u{\kf38}chi
+Dialogue: 0,0:25:13.75,0:25:19.40,ED-Roma,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf33}Do{\kf10}n{\kf40}na {\kf118}onna {\kf30}no {\kf20}ko {\kf42}mo {\kf29}ka{\kf74}su{\kf22}mu {\kf45}ku{\kf21}ra{\kf73}i
+Dialogue: 0,0:25:19.40,0:25:30.08,ED-Roma,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf22}Ku{\kf21}ra{\kf20}ku{\kf23}ra {\kf86}watashi {\kf14}no {\kf36}mi{\kf52}ryoku {\kf35}de {\kf70}{\kf20}a{\kf21}na{\kf24}ta {\kf31}no {\kf115}hitomi {\kf80}wo {\kf45}hito{\kf36}ri{\kf27}ji{\kf230}me
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:24:20.70,0:24:27.37,ED-Jap,NTP,0,0,0,,{\c&H1FA3FF&\t(880,1672,\c&HB68FE9&)\fad(300,300)\kf89}まぶし{\kf96}い陽射し{\kf81}を{\kf81}　{\kf112}全身に{\kf120}浴びなが{\kf88}ら
+Dialogue: 0,0:24:27.37,0:24:34.13,ED-Jap,NTP,0,0,0,,{\c&HB68FE9&\t(1112,1570,\c&H58E9DB&)\fad(300,300)\kf72}流れ{\kf44}流さ{\kf116}れて{\kf120}　{\kf88}広がる{\kf102}海を観て{\kf134}る
+Dialogue: 0,0:24:34.13,0:24:40.38,ED-Jap,NTP,0,0,0,,{\c&H58E9DB&\t(816,1275,\c&H54CD25&)\fad(300,300)\kf218}こうしてやさしい{\kf132}　{\kf275}风に抱かれていたら
+Dialogue: 0,0:24:40.84,0:24:46.89,ED-Jap,NTP,0,0,0,,{\c&H54CD25&\t(613,1072,\c&HF37575&)\fad(300,300)\kf87}輝く{\kf124}未来を{\kf128}　{\kf80}期待し{\kf120}ちゃいそう{\kf66}だよ
+Dialogue: 0,0:24:46.89,0:24:51.85,ED-Jap,NTP,0,0,0,,{\c&HF37575&\t(1028,1486,\c&H7B7BF4&)\fad(300,300)\kf76}近す{\kf89}ぎ{\kf55}て{\kf60}　{\kf82}でも{\kf134}遠い
+Dialogue: 0,0:24:53.61,0:24:59.45,ED-Jap,NTP,0,0,0,,{\c&H7B7BF4&\t(814,1273,\c&HE26FCC&)\fad(300,300)\kf82}キョ{\kf130}リ感を{\kf44}　{\kf130}今こそ{\kf198}変えてみせるよ
+Dialogue: 0,0:24:59.45,0:25:00.28,ED-Jap,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf83}Chance！
+Dialogue: 0,0:25:00.39,0:25:05.93,ED-Jap,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf118}あなたの{\kf140}ことだ{\kf70}けを{\kf90}ずっと{\kf136}見てた
+Dialogue: 0,0:25:05.93,0:25:13.73,ED-Jap,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf62}キラ{\kf42}キラ{\kf28}な{\kf122}愛情{\kf70}光線{\kf102}　{\kf142}ハー{\kf88}トを{\kf70}狙い{\kf54}撃ち
+Dialogue: 0,0:25:13.75,0:25:19.40,ED-Jap,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf132}どんな{\kf102}女の{\kf70}子も{\kf180}かすむく{\kf81}らい
+Dialogue: 0,0:25:19.40,0:25:30.08,ED-Jap,NTP,0,0,0,,{\c&H00FFFF&\fad(300,300)\kf103}クラクラ{\kf104}私の{\kf188}魅力で{\kf88}彼方の{\kf190}瞳を{\kf96}独り{\kf42}占{\kf257}め
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------
+Dialogue: 0,0:24:20.70,0:24:27.37,ED-Cht,NTP,0,0,0,,將全身沐浴在這燦爛的陽光下
+Dialogue: 0,0:24:27.37,0:24:34.13,ED-Cht,NTP,0,0,0,,任由它漂去 看著那廣闊的海洋
+Dialogue: 0,0:24:34.13,0:24:40.38,ED-Cht,NTP,0,0,0,,像這樣被風溫柔地輕撫著
+Dialogue: 0,0:24:40.84,0:24:46.89,ED-Cht,NTP,0,0,0,,我可以期待吧 那光輝的未來
+Dialogue: 0,0:24:46.89,0:24:51.85,ED-Cht,NTP,0,0,0,,雖然很接近 但仍很遙遠
+Dialogue: 0,0:24:53.61,0:24:59.45,ED-Cht,NTP,0,0,0,,現在就將這距離感改變吧
+Dialogue: 0,0:24:59.45,0:25:00.28,ED-Cht,NTP,0,0,0,,Chance
+Dialogue: 0,0:25:00.39,0:25:05.93,ED-Cht,NTP,0,0,0,,我一直只凝視著你
+Dialogue: 0,0:25:05.93,0:25:13.73,ED-Cht,NTP,0,0,0,,就用這閃閃的愛情光線 瞄準你的心狙擊
+Dialogue: 0,0:25:13.75,0:25:19.40,ED-Cht,NTP,0,0,0,,哪怕是多麼毫不起眼的女孩子
+Dialogue: 0,0:25:19.40,0:25:30.08,ED-Cht,NTP,0,0,0,,也要用我自己的魅力讓你頭暈轉向 來獨佔你的瞳孔
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,----------------------------------------

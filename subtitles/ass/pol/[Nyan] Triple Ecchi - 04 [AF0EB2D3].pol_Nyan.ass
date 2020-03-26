@@ -1,0 +1,233 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r113
+Active Line: 197
+Collisions: Normal
+Last Style Storage: Default [848x480]
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video Position: 0
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,25,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,18,&H0048D297,&H000000FF,&H005BFFEF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,20,20,12,1
+Style: Tytul,Franklin Gothic Medium,32,&H00EC8969,&H000000FF,&H008BFAFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,85,1
+Style: Znak,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,12,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:00.50,0:01:10.09,Grupa,,0,0,0,,{\blur5\fad(1228,896)}N{\1c&HE5CE79&}y{\1c&HB97A97&}a{\1c&H7F93FF&}n
+Dialogue: 0,0:01:05.13,0:01:10.09,Tytul,,0,0,0,,{\blur5\fad(1019,896)}Odc.4: {\1c&HDF41C8&}Shigure raz jeszcze
+Dialogue: 0,0:02:22.86,0:02:25.23,Znak,,0,0,0,,{\be1}Chce za mnie wyjść?!
+Dialogue: 0,0:09:35.43,0:09:36.43,Znak,,0,0,0,,{\be1\pos(709,320)}Zięć zatwierdzony.
+Dialogue: 0,0:16:31.51,0:16:32.97,Znak,,0,45,250,,{\3c&HFFFFFF&\1c&H000000&\be1\fad(523,0)\fs33}Rok później
+Dialogue: 0,0:00:01.01,0:00:03.05,Default,,0,0,0,,{\be1}Takashima!
+Dialogue: 0,0:00:38.46,0:00:40.66,Default,,0,0,0,,{\be1}To jeszcze nie koniec!
+Dialogue: 0,0:00:43.27,0:00:47.78,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:00:53.21,0:00:58.54,Default,,0,0,0,,{\be1}Przestań ryczeć, nawet nie zaczęliśmy.
+Dialogue: 0,0:01:12.07,0:01:16.10,Default,,0,0,0,,{\be1}Przyszedłbyś jutro do mnie?
+Dialogue: 0,0:01:17.13,0:01:18.66,Default,,0,0,0,,{\be1}Jasne!
+Dialogue: 0,0:01:19.69,0:01:24.14,Default (i),,0,0,0,,{\be1}Takashima zaprosiła mnie do siebie, czyżby...
+Dialogue: 0,0:01:30.95,0:01:32.32,Default (i),,0,0,0,,{\be1}Ale wielgachny!
+Dialogue: 0,0:01:33.41,0:01:36.99,Default,,0,0,0,,{\be1}Już mówiłam, że nie chcę!
+Dialogue: 0,0:01:37.43,0:01:39.50,Default,,0,0,0,,{\be1}Dlaczego?!
+Dialogue: 0,0:01:39.50,0:01:43.44,Default,,0,0,0,,{\be1}Nie mam zamiaru wychodzić za niego!
+Dialogue: 0,0:01:44.87,0:01:51.12,Default (i),,0,0,0,,{\be1}Mam posłużyć za wymówkę,\Nżeby nie musiała wyjść za tamtego.
+Dialogue: 0,0:01:51.12,0:01:55.83,Default (i),,0,0,0,,{\be1}Trzeba przyznać, że chatę mają niezłą.
+Dialogue: 0,0:01:55.83,0:01:58.35,Default (i),,0,0,0,,{\be1}Mój dom to łupina.
+Dialogue: 0,0:02:00.53,0:02:03.51,Default,,0,0,0,,{\be1}Uważaj, jest gorąca.
+Dialogue: 0,0:02:03.51,0:02:04.60,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:02:06.41,0:02:09.61,Default,,0,0,0,,{\be1}A tak właściwie to kim jesteś?
+Dialogue: 0,0:02:09.61,0:02:11.30,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:02:11.30,0:02:14.70,Default,,0,0,0,,{\be1}Przepraszam, służę Shigure za żywego...
+Dialogue: 0,0:02:14.70,0:02:17.23,Default,,0,0,0,,{\be1}Właśnie, zapomniałam go przedstawić.
+Dialogue: 0,0:02:17.23,0:02:18.87,Default,,0,0,0,,{\be1}To Kita Komatsu.
+Dialogue: 0,0:02:19.34,0:02:22.87,Default,,0,0,0,,{\be1}Jedyny mężczyzna za którego chcę wyjść!\NSpotykamy się już od jakiegoś czasu!
+Dialogue: 0,0:02:26.34,0:02:27.96,Default,,0,0,0,,{\be1}Mówisz poważnie?!
+Dialogue: 0,0:02:27.96,0:02:30.75,Default,,0,0,0,,{\be1}Oczywiście! Prawda, Kita Komatsu?
+Dialogue: 0,0:02:30.75,0:02:33.96,Default,,0,0,0,,{\be1}Wybacz, że pytam,\Nale z jakiej rodziny pochodzisz?
+Dialogue: 0,0:02:33.96,0:02:35.81,Default,,0,0,0,,{\be1}Gdzie pracują twoi rodzice i ile zarabiają?
+Dialogue: 0,0:02:35.81,0:02:38.34,Default,,0,0,0,,{\be1}Tato, to było niemiłe!
+Dialogue: 0,0:02:38.34,0:02:43.14,Default (i),,0,0,0,,{\be1}- Co ty wygadujesz? To bardzo ważne pytania!\N- Mój ojciec jest zwykłym urzędnikiem.
+Dialogue: 0,0:02:43.14,0:02:52.42,Default (i),,0,0,0,,{\be1}Mamy hipotekę zaciągniętą na 30 lat\Ni małego chomiczka.
+Dialogue: 0,0:02:52.42,0:02:53.36,Default,,0,0,0,,{\be1}Shigure!
+Dialogue: 0,0:02:54.82,0:02:56.82,Default,,0,0,0,,{\be1}Na pewno kochasz go i chodzisz z nim?
+Dialogue: 0,0:02:57.66,0:03:00.08,Default,,0,0,0,,{\be1}Oczywiście.\NNie, Kita Komatsu?
+Dialogue: 0,0:03:01.33,0:03:02.99,Default,,0,0,0,,{\be1}Gdzie on?
+Dialogue: 0,0:03:02.99,0:03:07.83,Default,,0,0,0,,{\be1}Jesteś do niczego.\NPrzed chwilą wyszedł stąd ze łzami w oczach.
+Dialogue: 0,0:03:08.22,0:03:13.82,Default,,0,0,0,,{\be1}Cała ty, myślisz tylko o sobie.
+Dialogue: 0,0:03:13.82,0:03:20.02,Default,,0,0,0,,{\be1}Twierdzisz, że chodzisz z nim,\Na pewnie tylko bawisz się nim.
+Dialogue: 0,0:03:20.92,0:03:22.85,Default (i),,0,0,0,,{\be1}Co ja zrobiłam?
+Dialogue: 0,0:03:22.85,0:03:24.57,Default,,0,0,0,,{\be1}Kita Komatsu!
+Dialogue: 0,0:03:24.57,0:03:25.86,Default,,0,0,0,,{\be1}Shigure!
+Dialogue: 0,0:03:29.67,0:03:31.86,Default,,0,0,0,,{\be1}Tutaj jesteś.
+Dialogue: 0,0:03:32.46,0:03:35.36,Default,,0,0,0,,{\be1}Takashima, wychodzisz za mąż?
+Dialogue: 0,0:03:35.36,0:03:40.37,Default (i),,0,0,15,,{\be1}No i jeszcze to,\Nnie mogę odmówić ojcu.
+Dialogue: 0,0:03:41.40,0:03:44.37,Default,,0,0,0,,{\be1}Nie mam teraz zamiaru za nikogo wychodzić!
+Dialogue: 0,0:03:45.44,0:03:50.03,Default (i),,0,0,18,,{\be1}Założył ładniejsze ubrania, nawet nałożył krawat.
+Dialogue: 0,0:03:50.03,0:03:53.58,Default (i),,0,0,18,,{\be1}Już rozumiem, postarał się dla mnie.
+Dialogue: 0,0:03:56.87,0:03:59.83,Default,,0,0,0,,{\be1}Przestań ryczeć!
+Dialogue: 0,0:04:00.89,0:04:04.57,Default,,0,0,0,,{\be1}Rozbieraj się, czas na bzykanko.
+Dialogue: 0,0:04:04.57,0:04:07.39,Default,,0,0,0,,{\be1}Teraz to chyba nie najlepszy pomysł.
+Dialogue: 0,0:04:07.88,0:04:13.27,Default,,0,0,0,,{\be1}W takich chwilach powinniśmy\Noddać się pożądaniu.
+Dialogue: 0,0:04:14.17,0:04:17.31,Default (i),,0,0,0,,{\be1}Ładnie pachnie\Ni ma takie miękkie usteczka.
+Dialogue: 0,0:04:17.31,0:04:19.41,Default (i),,0,0,0,,{\be1}A jej języczek...
+Dialogue: 0,0:04:21.46,0:04:23.53,Default (i),,0,0,0,,{\be1}Nie włożyła go.
+Dialogue: 0,0:04:24.93,0:04:31.66,Default,,0,0,0,,{\be1}Nigdy nikogo nie całowałem, więc nie wiem co mam robić,\Nale ty pewnie też chciałbyś spróbować, nie?
+Dialogue: 0,0:04:31.66,0:04:38.30,Default,,0,0,0,,{\be1}Jeszcze wielu rzeczy nie wiem,\Ndlatego dzisiaj ty będziesz prowadzić.
+Dialogue: 0,0:04:40.20,0:04:41.85,Default,,0,0,0,,{\be1}Takashima!
+Dialogue: 0,0:04:41.85,0:04:44.50,Default,,0,0,0,,{\be1}Najpierw pokaż cipkę!
+Dialogue: 0,0:04:45.47,0:04:51.11,Default,,0,0,0,,{\be1}Dobra, ale przecież codziennie ją widzisz.\NCzemu chcesz ją zobaczyć?
+Dialogue: 0,0:04:51.11,0:04:52.86,Default,,0,0,0,,{\be1}Po prostu chcę.
+Dialogue: 0,0:04:52.86,0:04:55.35,Default (i),,0,0,0,,{\be1}Robi się trochę zarozumiały.
+Dialogue: 0,0:04:56.62,0:05:01.34,Default,,0,0,0,,{\be1}Szybciej, rozłóż nogi, chcę ją już zobaczyć!
+Dialogue: 0,0:05:01.34,0:05:03.95,Default,,0,0,0,,{\be1}Aleś ty upierdliwy.
+Dialogue: 0,0:05:04.91,0:05:13.75,Default (i),,0,0,0,,{\be1}Wcześniej to ja rozkazywałam,\Nale teraz naglę czuję się zawstydzona.
+Dialogue: 0,0:05:17.73,0:05:21.72,Default (i),,0,0,0,,{\be1}Jeszcze nie przywykłam do tego?
+Dialogue: 0,0:05:21.72,0:05:23.78,Default,,0,0,0,,{\be1}Tak może być?
+Dialogue: 0,0:05:23.78,0:05:26.43,Default,,0,0,0,,{\be1}Musisz jeszcze zabrać rękę.
+Dialogue: 0,0:05:26.43,0:05:28.63,Default,,0,0,0,,{\be1}No wiem.
+Dialogue: 0,0:05:28.63,0:05:31.52,Default (i),,0,0,0,,{\be1}Jakoś mocno się podnieciłam.
+Dialogue: 0,0:05:32.90,0:05:37.40,Default (i),,0,0,0,,{\be1}Nie dam rady!\NStrasznie się zawstydziłam!
+Dialogue: 0,0:05:38.44,0:05:41.15,Default,,0,0,0,,{\be1}Może jednak darujemy sobie?
+Dialogue: 0,0:05:41.15,0:05:42.20,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:05:42.20,0:05:43.16,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:05:44.32,0:05:47.98,Default,,0,0,0,,{\be1}Łał, widzę ją od środka.
+Dialogue: 0,0:05:47.98,0:05:49.78,Default,,0,0,0,,{\be1}Kretyn!
+Dialogue: 0,0:05:49.78,0:05:53.92,Default (i),,0,0,0,,{\be1}Patrzy się na nią, trochę się wstydzę.
+Dialogue: 0,0:05:53.92,0:05:59.24,Default,,0,0,0,,{\be1}Mogę pooglądać twoją cipkę,\Ntak to na pewno się nie powstrzymam.
+Dialogue: 0,0:05:59.24,0:06:03.18,Default,,0,0,0,,{\be1}Zawsze się spieszyliśmy z seksem,\Nale w końcu mogę się jej przyjrzeć.
+Dialogue: 0,0:06:03.18,0:06:04.89,Default,,0,0,0,,{\be1}Przestań gadać!
+Dialogue: 0,0:06:04.89,0:06:07.39,Default,,0,0,0,,{\be1}Mogę ją polizać?
+Dialogue: 0,0:06:07.39,0:06:09.89,Default,,0,0,0,,{\be1}Przestań ciągle się pytać!
+Dialogue: 0,0:06:13.12,0:06:15.61,Default,,0,0,0,,{\be1}Ściskasz mi język.
+Dialogue: 0,0:06:15.61,0:06:17.14,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:06:17.82,0:06:20.36,Default (i),,0,0,0,,{\be1}Włożył mi język.
+Dialogue: 0,0:06:21.71,0:06:24.30,Default (i),,0,0,0,,{\be1}Tylko nie tam!
+Dialogue: 0,0:06:31.19,0:06:34.75,Default,,0,0,0,,{\be1}Czekaj, zróbmy sobie chwilę przerwy.
+Dialogue: 0,0:06:34.75,0:06:38.35,Default,,0,0,0,,{\be1}Nie, dopiero zaczynamy zabawę.
+Dialogue: 0,0:06:38.35,0:06:42.42,Default (i),,0,0,0,,{\be1}- Dobrze wie, że się zawstydziłam.\N- Kocham cię, Takashima!
+Dialogue: 0,0:06:43.32,0:06:45.82,Default,,0,0,0,,{\be1}Nie liż tak!
+Dialogue: 0,0:06:46.43,0:06:50.18,Default,,0,0,0,,{\be1}A ty mnie kochasz?
+Dialogue: 0,0:06:50.18,0:06:51.93,Default,,0,0,0,,{\be1}I po co zadajesz takie pytania?
+Dialogue: 0,0:06:51.93,0:06:55.10,Default,,0,0,0,,{\be1}Odpowiedz albo go włożę.
+Dialogue: 0,0:06:55.10,0:06:58.19,Default,,0,0,0,,{\be1}Czekaj, nie teraz.
+Dialogue: 0,0:06:58.19,0:07:01.08,Default,,0,0,0,,{\be1}Wyglądasz uroczo, gdy się zawstydzasz.
+Dialogue: 0,0:07:01.08,0:07:04.83,Default,,0,0,0,,{\be1}Czekaj, jakoś dziwnie się czuję.
+Dialogue: 0,0:07:05.73,0:07:08.16,Default,,0,0,0,,{\be1}Ale jesteś gorąca.
+Dialogue: 0,0:07:08.16,0:07:11.08,Default,,0,0,0,,{\be1}Nie wkładaj go teraz!
+Dialogue: 0,0:07:11.83,0:07:13.79,Default,,0,0,0,,{\be1}O nie, dochodzę!
+Dialogue: 0,0:07:17.89,0:07:22.78,Default,,0,0,0,,{\be1}Lubisz gdy tak się ruszam?\NTylko odpowiedz szczerze.
+Dialogue: 0,0:07:22.78,0:07:27.43,Default,,0,0,0,,{\be1}Nie wiem jak mam odpowiedzieć!
+Dialogue: 0,0:07:27.98,0:07:30.05,Default (i),,0,0,0,,{\be1}Ciężko mi oddychać.
+Dialogue: 0,0:07:30.05,0:07:35.75,Default,,0,0,0,,{\be1}To było tutaj, nie?\NNie jestem bezużyteczną zaspokajarką.
+Dialogue: 0,0:07:35.75,0:07:39.90,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:07:42.44,0:07:51.43,Default,,0,0,0,,{\be1}Na razie nie wiem czy cię kocham,\Nale wiem, że chcę tylko z tobą uprawiać seks.
+Dialogue: 0,0:07:51.43,0:07:57.54,Default,,0,0,0,,{\be1}Daj chwilę odpocząć.
+Dialogue: 0,0:08:00.98,0:08:03.96,Default,,0,0,0,,{\be1}Cieszy mnie!
+Dialogue: 0,0:08:03.96,0:08:07.55,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:08:07.55,0:08:12.68,Default,,0,0,0,,{\be1}Wybacz, ale z radości nie mogę przestać!
+Dialogue: 0,0:08:15.48,0:08:17.19,Default,,0,0,0,,{\be1}Nie rób tak!
+Dialogue: 0,0:08:18.21,0:08:25.08,Default,,0,0,0,,{\be1}Nie ssij ich, gdy mnie pieprzysz!
+Dialogue: 0,0:08:27.67,0:08:33.57,Default,,0,0,0,,{\be1}Daj mi w końcu odpocząć!
+Dialogue: 0,0:08:37.10,0:08:39.92,Default,,0,0,0,,{\be1}Zaraz dojdę.
+Dialogue: 0,0:08:39.92,0:08:41.19,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:41.19,0:08:45.71,Default,,0,0,0,,{\be1}Spuszczę się jak najgłębiej!
+Dialogue: 0,0:08:46.80,0:08:49.31,Default,,0,0,0,,{\be1}Nie! Dochodzę już!
+Dialogue: 0,0:08:49.31,0:08:52.71,Default,,0,0,0,,{\be1}Cudownie! O nie!
+Dialogue: 0,0:08:54.50,0:08:58.43,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:09:00.14,0:09:05.90,Default,,0,0,0,,{\be1}Przez twoją spermę zaczynam drętwieć.
+Dialogue: 0,0:09:07.16,0:09:11.91,Default,,0,0,0,,{\be1}Tyle się spuszczasz,\Nże musisz być zbokiem.
+Dialogue: 0,0:09:11.91,0:09:13.70,Default,,0,0,0,,{\be1}Takashima.
+Dialogue: 0,0:09:13.70,0:09:15.61,Default (i),,0,0,0,,{\be1}Kocham go.
+Dialogue: 0,0:09:20.79,0:09:24.42,Default,,0,0,0,,{\be1}Psują do siebie i widać, że Shigure go lubi.
+Dialogue: 0,0:09:24.42,0:09:26.74,Default,,0,0,0,,{\be1}No ale...
+Dialogue: 0,0:09:26.74,0:09:28.66,Default,,0,0,0,,{\be1}On jest taki sam jak ty.
+Dialogue: 0,0:09:28.66,0:09:35.63,Default,,0,0,0,,{\be1}Pamiętam jak płakałeś, gdy prosiłeś mnie\No rękę, byłby idealnym zięciem.
+Dialogue: 0,0:09:37.09,0:09:42.00,Default,,0,0,0,,{\be1}Po obejrzeniu ich igraszek\Nnaszła mnie ochota na małe co nieco.
+Dialogue: 0,0:09:44.44,0:09:46.82,Default,,0,0,0,,{\be1}Ale jutro ma ważne spotkanie.
+Dialogue: 0,0:09:46.82,0:09:51.09,Default,,0,0,0,,{\be1}O nie, już dawno nie używałam mojej zaspokajarki.
+Dialogue: 0,0:09:52.22,0:09:53.15,Default,,0,0,0,,{\be1}Nie...
+Dialogue: 0,0:10:01.94,0:10:04.33,Default,,0,0,0,,{\be1}Nadszedł mój czas!
+Dialogue: 0,0:10:07.21,0:10:12.46,Default,,0,0,0,,{\be1}Widziałyście go?\NJest słodki jak wiewiórka.
+Dialogue: 0,0:10:12.46,0:10:15.97,Default,,0,0,0,,{\be1}Ja tam wolę prawdziwych facetów.
+Dialogue: 0,0:10:16.96,0:10:19.41,Default,,0,0,0,,{\be1}Miło mi was poznać.
+Dialogue: 0,0:10:19.41,0:10:21.18,Default,,0,0,0,,{\be1}Halo.
+Dialogue: 0,0:10:22.39,0:10:24.03,Default,,0,0,0,,{\be1}Która to godzina?
+Dialogue: 0,0:10:24.03,0:10:25.44,Default,,0,0,0,,{\be1}Takashima?
+Dialogue: 0,0:10:26.08,0:10:28.61,Default,,0,0,0,,{\be1}Szybciej, bo spóźnimy się na film.
+Dialogue: 0,0:10:28.61,0:10:31.56,Default,,0,0,0,,{\be1}Od kiedy tu jesteś?!
+Dialogue: 0,0:10:31.56,0:10:32.90,Default,,0,0,0,,{\be1}Idziemy.
+Dialogue: 0,0:10:32.90,0:10:35.34,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:10:35.34,0:10:36.91,Default,,0,0,0,,{\be1}Za co?
+Dialogue: 0,0:10:37.91,0:10:40.91,Default,,0,0,0,,{\be1}Przecież chciałeś się tylko przywitać.
+Dialogue: 0,0:10:41.59,0:10:46.54,Default,,0,0,0,,{\be1}Może i ja powinnam się z kimś przywitać?
+Dialogue: 0,0:10:46.54,0:10:48.17,Default,,0,0,0,,{\be1}To nie tak!
+Dialogue: 0,0:10:49.71,0:10:53.53,Default,,0,0,0,,{\be1}A rób sobie jak chcesz, kretynie!
+Dialogue: 0,0:10:53.53,0:10:56.09,Default,,0,0,0,,{\be1}Nawet nie chcę z tobą chodzić!
+Dialogue: 0,0:10:56.61,0:10:59.67,Default (i),,0,0,0,,{\be1}Co to za dziwne uczucie?
+Dialogue: 0,0:11:01.53,0:11:02.60,Default (i),,0,0,0,,{\be1}Zazdrość?!
+Dialogue: 0,0:11:02.60,0:11:07.05,Default,,0,0,0,,{\be1}Absolutnie niemożliwe!
+Dialogue: 0,0:11:09.47,0:11:10.82,Default,,0,0,0,,{\be1}Czas na małe co nieco!
+Dialogue: 0,0:11:24.54,0:11:26.79,Default,,0,0,0,,{\be1}No i co się rumienisz?
+Dialogue: 0,0:11:27.44,0:11:28.96,Default,,0,0,0,,{\be1}Ty zboczku!
+Dialogue: 0,0:11:35.37,0:11:38.76,Default,,0,0,0,,{\be1}Jestem mokra.
+Dialogue: 0,0:11:38.76,0:11:41.76,Default,,0,0,0,,{\be1}A mówiłeś, że mnie kochasz.
+Dialogue: 0,0:11:42.37,0:11:45.23,Default,,0,0,0,,{\be1}Nie myśl, że upiecze ci się to!
+Dialogue: 0,0:11:45.23,0:11:49.27,Default,,0,0,0,,{\be1}Za karę będziesz co najwyżej\Nmógł się strzepać, zboczona wiewióro!
+Dialogue: 0,0:11:50.08,0:11:53.27,Default,,0,0,0,,{\be1}Shigure, przyszedł do ciebie Kita Komatsu.
+Dialogue: 0,0:11:55.53,0:12:00.54,Default,,0,0,0,,{\be1}Takashima, wzruszyłem się wiedząc,\Nże dotykasz się myśląc o mnie!
+Dialogue: 0,0:12:00.54,0:12:01.78,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:12:02.22,0:12:04.22,Default,,0,0,0,,{\be1}Bawcie się dobrze.
+Dialogue: 0,0:12:04.22,0:12:05.54,Default,,0,0,0,,{\be1}Mamo?!
+Dialogue: 0,0:12:05.54,0:12:09.70,Default,,0,0,0,,{\be1}Nie wiedziałem, że myślisz o mnie.
+Dialogue: 0,0:12:09.70,0:12:11.88,Default,,0,0,0,,{\be1}Czekaj, nie wkładaj go teraz!
+Dialogue: 0,0:12:11.88,0:12:15.55,Default,,0,0,0,,{\be1}Będę go wkładać dopóki mnie nie pokochasz.
+Dialogue: 0,0:12:15.55,0:12:16.34,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:18.30,0:12:20.20,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:20.20,0:12:25.26,Default,,0,0,0,,{\be1}Jesteś słodka, gdy się rumienisz.
+Dialogue: 0,0:12:28.51,0:12:30.04,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:38.15,0:12:40.24,Default,,0,0,0,,{\be1}Dlaczego nie przyznasz, że mnie kochasz?
+Dialogue: 0,0:12:41.11,0:12:43.01,Default,,0,0,0,,{\be1}Powiedz to!
+Dialogue: 0,0:12:44.08,0:12:47.21,Default,,0,0,0,,{\be1}Powiedz, że mnie kochasz!
+Dialogue: 0,0:12:48.71,0:12:51.42,Default (i),,0,0,0,,{\be1}Nie bądź taki zarozumiały!
+Dialogue: 0,0:12:52.21,0:12:56.01,Default,,0,0,0,,{\be1}Kto by chciał cię kochać?!
+Dialogue: 0,0:12:56.01,0:13:00.51,Default,,0,0,0,,{\be1}Zapłacisz mi za to!
+Dialogue: 0,0:13:01.70,0:13:03.51,Default,,0,0,0,,{\be1}Przerażasz mnie!
+Dialogue: 0,0:13:05.03,0:13:07.99,Default,,0,0,0,,{\be1}Wycisnę cię do sucha!
+Dialogue: 0,0:13:11.97,0:13:16.07,Default,,0,0,0,,{\be1}Zacząłeś drżeć, już nie wytrzymujesz?
+Dialogue: 0,0:13:16.78,0:13:19.03,Default,,0,0,0,,{\be1}Zapłacisz mi za wszystko!
+Dialogue: 0,0:13:20.15,0:13:23.37,Default,,0,0,0,,{\be1}O nie, zaraz dojdę!
+Dialogue: 0,0:13:23.37,0:13:25.68,Default,,0,0,0,,{\be1}No to spuść się.
+Dialogue: 0,0:13:25.68,0:13:29.63,Default,,0,0,0,,{\be1}A co z twoim dniami płodnymi?
+Dialogue: 0,0:13:29.63,0:13:32.00,Default,,0,0,0,,{\be1}Skąd to wiesz?!
+Dialogue: 0,0:13:32.00,0:13:36.50,Default,,0,0,0,,{\be1}Zawsze sprawdzam je w moim notesie!
+Dialogue: 0,0:13:38.04,0:13:42.01,Default,,0,0,0,,{\be1}Co to miało znaczyć?\NPo co przejmujesz się głupotami?
+Dialogue: 0,0:13:43.90,0:13:45.97,Default,,0,0,0,,{\be1}O nie, lepiej wyjmij!
+Dialogue: 0,0:13:46.76,0:13:52.48,Default,,0,0,0,,{\be1}Płodne czy nie, nie wyjmę\Ndopóki jest mi przyjemnie!
+Dialogue: 0,0:14:00.32,0:14:01.49,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:14:03.69,0:14:07.66,Default,,0,0,0,,{\be1}Wlatuje! Spuszczasz się we mnie!
+Dialogue: 0,0:14:17.88,0:14:19.21,Default,,0,0,0,,{\be1}To tam!
+Dialogue: 0,0:14:20.49,0:14:21.89,Default,,0,0,0,,{\be1}Do szturmu!
+Dialogue: 0,0:14:23.32,0:14:24.84,Default,,0,0,0,,{\be1}Będę pierwszy!
+Dialogue: 0,0:16:32.97,0:16:35.57,Default,,0,0,0,,{\be1}A gdzie jest Shigure?
+Dialogue: 0,0:16:35.57,0:16:38.59,Default,,0,0,0,,{\be1}Zamknęła się z mężem w pokoju.
+Dialogue: 0,0:16:38.59,0:16:42.98,Default,,0,0,0,,{\be1}Tak dawno nie uprawiali seksu,\Nże nie wytrzymała.
+Dialogue: 0,0:16:42.98,0:16:46.24,Default,,0,0,0,,{\be1}W takim tempie będziemy mięli\Njeszcze kilkoro wnucząt.
+Dialogue: 0,0:16:46.24,0:16:51.12,Default,,0,0,0,,{\be1}Mleko ciągle wycieka, wypij je.
+Dialogue: 0,0:16:51.12,0:16:52.64,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:16:55.29,0:16:59.46,Default,,0,0,0,,{\be1}Dobrze znowu cię widzieć, kutasku.\NSmacznego!
+Dialogue: 0,0:17:00.25,0:17:05.67,Default,,0,0,0,,{\be1}O tak! Nie ma to jak kutas!
+Dialogue: 0,0:17:08.30,0:17:10.35,Default,,0,0,0,,{\be1}Nie mogłam dłużej wytrzymać.
+Dialogue: 0,0:17:10.35,0:17:18.77,Default,,0,0,0,,{\be1}Dzisiaj spuszczasz się tylko w środku.\NZrobimy nowy rekord, kochanie.
+Dialogue: 0,0:17:19.52,0:17:20.70,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:17:21.30,0:17:24.56,Default,,0,0,0,,{\be1}- Nie!\N- Nie ma nie!

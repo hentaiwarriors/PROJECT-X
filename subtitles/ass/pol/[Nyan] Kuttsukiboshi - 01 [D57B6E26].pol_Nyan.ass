@@ -1,0 +1,231 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.797 - GridRefactory-da547bd
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+YCbCr Matrix: TV.601
+Title: Nyan
+Original Script: kostek00
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+Last Style Storage: [848x480]
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H005B89F1,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,60,&H005B89F1,&H000000FF,&H00FFFFFF,&H005B89F1,0,0,0,0,100,100,0,0,1,3,0,8,20,50,120,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,25,&H00DEE9FF,&H00626262,&H00001E5A,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,10,10,10,1
+Style: ED Kan,@MS Gothic,25,&H00DEE9FF,&H00626262,&H00001E5A,&H00000000,-1,0,0,0,100,100,0,270,1,2.5,0,7,10,10,10,1
+Style: ED Pl,Franklin Gothic Medium,25,&H00DEE9FF,&H00626262,&H00001E5A,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,10,10,40,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 1,0:01:04.54,0:01:09.88,Grupa,,0,0,0,,{\be0.5\fad(191,853)}Nyan
+Dialogue: 0,0:01:03.79,0:01:09.88,Grupa,,0,0,0,,{\blur3\fad(941,853)\bord3\3c&H5B89F1&\1a&H6F&\3a&H6B&\t(774,941,\3a&H00&)}Nyan
+Dialogue: 1,0:01:04.54,0:01:09.88,Anime,,0,0,0,,{\be1\fad(191,853)}Kuttsukiboshi
+Dialogue: 0,0:01:03.79,0:01:09.88,Anime,,0,0,0,,{\blur10\fad(941,853)\bord10\3c&H5B89F1&\1a&H6F&\3a&H6B&\t(774,941,\3a&H00&)}Kuttsukiboshi
+Dialogue: 0,0:12:50.20,0:12:55.83,Znak,,0,0,0,,{\be1\fad(0,1682)}Od Saitou Aaya: Dzisiaj nie będzie eksperymentów, źle się czuję.\NJesteś w szkole? Sorka! Jutro na pewno przyjdę!
+Dialogue: 0,0:18:59.22,0:19:03.03,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Kirameki kaketeta kasoku kuukan wo
+Dialogue: 1,0:19:02.89,0:19:06.52,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Kimi no byoushin ga tsuranuite
+Dialogue: 0,0:19:06.42,0:19:12.68,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Kudakete toketa garasuzaiku
+Dialogue: 1,0:19:13.15,0:19:17.13,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Sabitsuki kaketeru koukashita niwa
+Dialogue: 0,0:19:17.18,0:19:20.59,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Hizumi kishimu kodou to
+Dialogue: 1,0:19:20.48,0:19:26.69,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Itoshii kotoba no tanguramu
+Dialogue: 0,0:19:27.68,0:19:35.08,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Kin-iro no kyoushitsu towa ni koisuru futari no
+Dialogue: 1,0:19:35.20,0:19:42.48,ED Rom,,0,0,0,,{\blur2\fad(200,200)}Karanda yubi onegai hodokanai de
+Dialogue: 0,0:19:43.38,0:19:50.57,ED Rom,,0,0,0,,{\blur2\fad(200,200)\an8\fs30}Konomama de irareru no nara
+Dialogue: 1,0:19:50.48,0:19:56.28,ED Rom,,0,0,0,,{\blur2\fad(200,200)\an8\fs30}Kietemo ii yo
+Dialogue: 0,0:19:57.48,0:20:04.59,ED Rom,,0,0,0,,{\blur2\fad(200,200)\an8\fs30}Ano sora no hoshikuzutachi ga
+Dialogue: 1,0:20:04.48,0:20:11.59,ED Rom,,0,0,0,,{\blur2\fad(200,200)\an8\fs30}Mimamoru kara
+Dialogue: 0,0:18:59.22,0:19:03.03,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}きらめきかけてた加速空間を
+Dialogue: 1,0:19:02.89,0:19:06.52,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}君の秒針が貫いて
+Dialogue: 0,0:19:06.42,0:19:12.68,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}砕けて融けた硝子細工
+Dialogue: 1,0:19:13.15,0:19:17.13,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}錆び付きかけてる高架下には
+Dialogue: 0,0:19:17.18,0:19:20.59,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}歪み軋む鼓動と
+Dialogue: 1,0:19:20.48,0:19:26.69,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}愛しい言葉のタングラム
+Dialogue: 0,0:19:27.68,0:19:35.08,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}金色の教室　永久に恋する二人の
+Dialogue: 1,0:19:35.20,0:19:42.48,ED Kan,,0,0,0,,{\blur2\fad(200,200)\pos(835,15)}絡んだ指　お願いほどかないで
+Dialogue: 0,0:19:43.38,0:19:50.57,ED Kan,,0,0,45,,{\blur2\fad(200,200)\an8\frz0\fnFranklin Gothic Medium}このままでいられるのなら
+Dialogue: 1,0:19:50.48,0:19:56.28,ED Kan,,0,0,45,,{\blur2\fad(200,200)\an8\frz0\fnFranklin Gothic Medium}消えてもいいよ
+Dialogue: 0,0:19:57.48,0:20:04.59,ED Kan,,0,0,45,,{\blur2\fad(200,200)\an8\frz0\fnFranklin Gothic Medium}あの空の　星屑たちが
+Dialogue: 1,0:20:04.48,0:20:11.59,ED Kan,,0,0,45,,{\blur2\fad(200,200)\an8\frz0\fnFranklin Gothic Medium}見守るから
+Dialogue: 0,0:18:59.22,0:19:03.03,ED Pl,,0,0,0,,{\blur2\fad(200,200)}Twoja ręka
+Dialogue: 1,0:19:02.89,0:19:06.52,ED Pl,,0,0,0,,{\blur2\fad(200,200)}przebija się przez przestrzeń
+Dialogue: 0,0:19:06.42,0:19:12.68,ED Pl,,0,0,0,,{\blur2\fad(200,200)}jak przez szkło.
+Dialogue: 1,0:19:13.15,0:19:17.13,ED Pl,,0,0,0,,{\blur2\fad(200,200)}Zniszczonym korytarzem
+Dialogue: 0,0:19:17.18,0:19:20.59,ED Pl,,0,0,0,,{\blur2\fad(200,200)}odbija się dźwięk serca
+Dialogue: 1,0:19:20.48,0:19:26.69,ED Pl,,0,0,0,,{\blur2\fad(200,200)}i wypaczonych słów.
+Dialogue: 0,0:19:27.68,0:19:35.08,ED Pl,,0,0,0,,{\blur2\fad(200,200)}W klasie przy złotym blasku zakochaliśmy się.
+Dialogue: 1,0:19:35.20,0:19:42.48,ED Pl,,0,0,0,,{\blur2\fad(200,200)}Proszę, nie puszczaj mojej ręki.
+Dialogue: 0,0:19:43.38,0:19:50.57,ED Pl,,0,0,15,,{\blur2\fad(200,200)\an2\fs30}Możemy nawet zniknąć
+Dialogue: 1,0:19:50.48,0:19:56.28,ED Pl,,0,0,15,,{\blur2\fad(200,200)\an2\fs30}tylko pozostańmy tak na zawsze.
+Dialogue: 0,0:19:57.48,0:20:04.59,ED Pl,,0,0,15,,{\blur2\fad(200,200)\an2\fs30}Gwiazdy na niebie
+Dialogue: 1,0:20:04.48,0:20:11.59,ED Pl,,0,0,15,,{\blur2\fad(200,200)\an2\fs30}będą nas strzec!
+Dialogue: 0,0:00:12.88,0:00:14.88,Default,,0,0,0,,{\be1}Nie może zejść?
+Dialogue: 0,0:00:17.31,0:00:18.87,Default,,0,0,0,,{\be1}Szkoda mi go.
+Dialogue: 0,0:00:19.99,0:00:22.66,Default,,0,0,0,,{\be1}Możesz na chwilę zamknąć oczy?
+Dialogue: 0,0:00:24.21,0:00:26.70,Default,,0,0,0,,{\be1}Nie patrz dopóki nie powiem.
+Dialogue: 0,0:00:28.31,0:00:29.93,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:00:29.93,0:00:32.08,Default,,0,0,0,,{\be1}Możesz otworzyć.
+Dialogue: 0,0:00:33.36,0:00:35.41,Default,,0,0,0,,{\be1}Super! Jak to zrobiłaś?!
+Dialogue: 0,0:00:35.41,0:00:36.52,Default,,0,0,0,,{\be1}Tajemnica.
+Dialogue: 0,0:00:36.52,0:00:39.85,Default,,0,0,0,,{\be1}Rozumiem. Dzięki!
+Dialogue: 0,0:00:46.55,0:00:48.44,Default,,0,0,0,,{\be1}Cześć, Kawakami.
+Dialogue: 0,0:00:49.95,0:00:51.21,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:00:51.21,0:00:52.54,Default,,0,0,0,,{\be1}Chodźmy.
+Dialogue: 0,0:00:53.68,0:00:56.11,Default,,0,0,0,,{\be1}Spóźnimy się do szkoły.
+Dialogue: 0,0:01:15.51,0:01:20.56,Default (i),,0,0,0,,{\be1}Saitou Aaya przeniosła się do nas na wiosnę.
+Dialogue: 0,0:01:23.12,0:01:29.32,Default (i),,0,0,0,,{\be1}Jej głos jest piękniejszy\Nniż jakikolwiek dźwięk na świecie.
+Dialogue: 0,0:01:41.25,0:01:46.46,Default (i),,0,0,0,,{\be1}Wiatr istnieje, żeby poruszać jej włosami.
+Dialogue: 0,0:01:52.93,0:01:59.99,Default (i),,0,0,0,,{\be1}Sama jej obecność jest ważniejsza niż cały świat.
+Dialogue: 0,0:02:10.61,0:02:13.47,Default,,0,0,0,,{\be1}Kawakami!
+Dialogue: 0,0:02:16.47,0:02:17.80,Default,,0,0,0,,{\be1}Słuchałaś?
+Dialogue: 0,0:02:17.80,0:02:21.23,Default,,0,0,0,,{\be1}Co się stało? Jesteś czerwona.
+Dialogue: 0,0:02:21.23,0:02:23.27,Default,,0,0,0,,{\be1}To nic takiego.
+Dialogue: 0,0:02:23.27,0:02:26.33,Default,,0,0,0,,{\be1}Właśnie te rumieńce to hemoglobina.
+Dialogue: 0,0:02:27.29,0:02:29.05,Default,,0,0,0,,{\be1}Teraz zapamiętacie.
+Dialogue: 0,0:02:29.05,0:02:34.22,Default,,0,0,0,,{\be1}Nie rozbrykajcie się\Nza bardzo w wakacje, rozejść się.
+Dialogue: 0,0:02:34.22,0:02:35.52,Default,,0,0,0,,{\be1}Wstać.
+Dialogue: 0,0:02:36.59,0:02:37.74,Default,,0,0,0,,{\be1}Ukłon.
+Dialogue: 0,0:02:43.40,0:02:45.36,Default,,0,0,0,,{\be1}Zadzwoń, jeśli czegoś nie będziesz wiedzieć.
+Dialogue: 0,0:02:45.36,0:02:46.27,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:02:46.27,0:02:48.38,Default,,0,0,0,,{\be1}Pomogę tyle, ile mogę.
+Dialogue: 0,0:02:48.38,0:02:49.56,Default,,0,0,0,,{\be1}Narka!
+Dialogue: 0,0:03:05.56,0:03:08.62,Default,,0,0,0,,{\be1}Zróbmy to co zawsze.
+Dialogue: 0,0:03:22.71,0:03:24.14,Default,,0,0,0,,{\be1}Już nie możesz?
+Dialogue: 0,0:03:25.41,0:03:27.60,Default,,0,0,0,,{\be1}Nie dam rady.
+Dialogue: 0,0:03:29.45,0:03:32.35,Default,,0,0,0,,{\be1}Poruszył się! To nowy rekord!
+Dialogue: 0,0:03:32.35,0:03:35.44,Default,,0,0,0,,{\be1}Stajesz się coraz silniejsza!
+Dialogue: 0,0:03:35.80,0:03:41.44,Default,,0,0,0,,{\be1}Mam wrażenie, że traktujesz mnie\Njak królika doświadczalnego.
+Dialogue: 0,0:03:41.44,0:03:45.65,Default,,0,0,0,,{\be1}Coś jeszcze zmieniło się po wypadku?
+Dialogue: 0,0:03:46.49,0:03:53.00,Default,,0,0,0,,{\be1}Gdy się obudziłam w szpitalu już tak miałam.
+Dialogue: 0,0:03:53.00,0:03:54.04,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:03:54.04,0:03:57.50,Default,,0,0,0,,{\be1}Szok musiał obudzić w tobie tę moc.
+Dialogue: 0,0:03:57.50,0:03:59.62,Default,,0,0,0,,{\be1}A potrafisz widzieć przyszłość?
+Dialogue: 0,0:03:59.62,0:04:04.59,Default,,0,0,0,,{\be1}Potrafię tylko przesuwać przedmioty.
+Dialogue: 0,0:04:05.95,0:04:08.06,Default,,0,0,0,,{\be1}- Możemy już skończyć?\N- Nie.
+Dialogue: 0,0:04:08.66,0:04:12.52,Default,,0,0,0,,{\be1}Chcę żeby twoja moc była tylko naszą tajemnicą.
+Dialogue: 0,0:04:13.48,0:04:16.86,Default,,0,0,0,,{\be1}Chodź ze mną.
+Dialogue: 0,0:04:35.56,0:04:39.72,Default,,0,0,0,,{\be1}Nie wiadomo czemu,\Nale to drzewo nie spłonęło w nalotach.
+Dialogue: 0,0:04:39.72,0:04:42.86,Default,,0,0,0,,{\be1}Myślę, że uśpiona jest w nim ogromna energia.
+Dialogue: 0,0:04:45.17,0:04:47.22,Default,,0,0,0,,{\be1}Weź jej trochę z drzewa.
+Dialogue: 0,0:04:52.05,0:04:53.56,Default,,0,0,0,,{\be1}Spróbuj.
+Dialogue: 0,0:04:55.78,0:05:00.08,Default (i),,0,0,0,,{\be1}Dopóki to tajemnica, muszę robić co mówi.
+Dialogue: 0,0:05:01.28,0:05:07.09,Default (i),,0,0,0,,{\be1}Ale jest jeszcze jeden sekret, o którym nie wie.
+Dialogue: 0,0:05:08.16,0:05:15.90,Default (i),,0,0,0,,{\be1}Zakochałam się w Aayi od pierwszego wejrzenia.
+Dialogue: 0,0:05:45.83,0:05:47.25,Default,,0,0,0,,{\be1}Saitou?
+Dialogue: 0,0:06:27.61,0:06:31.17,Default,,0,0,0,,{\be1}O rany, co ja robię?
+Dialogue: 0,0:06:58.68,0:07:03.90,Default,,0,0,0,,{\be1}Szkoła w wakacje jest jakaś inna.
+Dialogue: 0,0:07:04.55,0:07:11.32,Default,,0,0,0,,{\be1}Pusty kampus wydaje się być\Nnaszym prywatnym zamkiem.
+Dialogue: 0,0:07:12.28,0:07:15.55,Default,,0,0,0,,{\be1}Nie znalazłam żadnego fajnego,\Nwięc zrobiłam swoje.
+Dialogue: 0,0:07:15.55,0:07:17.33,Default,,0,0,0,,{\be1}Co to? Zagadka z obręczami?
+Dialogue: 0,0:07:18.73,0:07:20.70,Default,,0,0,0,,{\be1}Nie, tych nie da się rozłączyć.
+Dialogue: 0,0:07:20.70,0:07:22.83,Default,,0,0,0,,{\be1}Niezłe, masz talent.
+Dialogue: 0,0:07:22.83,0:07:27.42,Default,,0,0,0,,{\be1}Pomyślałam, że ty dasz radę\Nje rozłączyć swoją mocą.
+Dialogue: 0,0:07:28.01,0:07:29.34,Default,,0,0,0,,{\be1}No nie wiem.
+Dialogue: 0,0:07:29.34,0:07:31.52,Default,,0,0,0,,{\be1}Zaraz, to nadal jest eksperyment.
+Dialogue: 0,0:07:31.52,0:07:34.18,Default,,0,0,0,,{\be1}- To co innego.\N- Dobra.
+Dialogue: 0,0:07:39.14,0:07:42.48,Default,,0,0,0,,{\be1}Jednak nie dam rady.
+Dialogue: 0,0:07:43.52,0:07:45.31,Default,,0,0,0,,{\be1}A może jednak?
+Dialogue: 0,0:07:46.20,0:07:49.13,Default,,0,0,0,,{\be1}Czasem udaje się i nawet nie zauważamy.
+Dialogue: 0,0:07:52.48,0:07:55.57,Default,,0,0,0,,{\be1}Chce żebyś codziennie próbowała.
+Dialogue: 0,0:07:55.57,0:07:58.95,Default,,0,0,0,,{\be1}A i od razu powiedz, jeśli zobaczysz przyszłość.
+Dialogue: 0,0:07:59.81,0:08:02.04,Default,,0,0,0,,{\be1}Widzenie przyszłości jest raczej...
+Dialogue: 0,0:08:03.51,0:08:05.14,Default,,0,0,0,,{\be1}Ładne paznokcie.
+Dialogue: 0,0:08:06.30,0:08:08.07,Default,,0,0,0,,{\be1}Używasz tuszu do rzęs?
+Dialogue: 0,0:08:09.14,0:08:10.72,Default,,0,0,0,,{\be1}Wygląda dziwnie?
+Dialogue: 0,0:08:10.72,0:08:14.56,Default,,0,0,0,,{\be1}Skądże! Tobie we wszystkim ślicznie.
+Dialogue: 0,0:08:14.56,0:08:17.05,Default,,0,0,0,,{\be1}Dzięki, ale komplementy nic nie...
+Dialogue: 0,0:08:18.71,0:08:19.78,Default,,0,0,0,,{\be1}Już wiem.
+Dialogue: 0,0:08:22.27,0:08:24.32,Default,,0,0,0,,{\be1}Mam też zalotkę.
+Dialogue: 0,0:08:25.82,0:08:28.69,Default,,0,0,0,,{\be1}Nałożę je za ciebie.
+Dialogue: 0,0:08:28.69,0:08:29.44,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:09:12.37,0:09:14.58,Default,,0,0,0,,{\be1}Tego nie przewidziałaś?
+Dialogue: 0,0:09:14.58,0:09:16.36,Default,,0,0,0,,{\be1}Już mówiłam, że...
+Dialogue: 0,0:09:16.73,0:09:18.65,Default,,0,0,0,,{\be1}Wiedziałaś, prawda?
+Dialogue: 0,0:10:14.03,0:10:17.26,Default,,0,0,0,,{\be1}Nie masz na sobie majtek?
+Dialogue: 0,0:10:17.26,0:10:20.26,Default,,0,0,0,,{\be1}Gorąco mi i pocę się.
+Dialogue: 0,0:10:29.26,0:10:31.08,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:10:31.08,0:10:32.65,Default,,0,0,0,,{\be1}Kiiko, wskakuj!
+Dialogue: 0,0:10:34.80,0:10:37.67,Default,,0,0,0,,{\be1}Na pewno powinnyśmy?
+Dialogue: 0,0:10:37.67,0:10:40.12,Default,,0,0,0,,{\be1}Przecież w szkole nie mamy basenu.
+Dialogue: 0,0:10:40.12,0:10:42.78,Default,,0,0,0,,{\be1}Ale jeśli ktoś przyjdzie...
+Dialogue: 0,0:10:42.78,0:10:47.88,Default,,0,0,0,,{\be1}Nikt nie przyjdzie,\Nbo to nasza prywatna kąpiel!
+Dialogue: 0,0:10:50.24,0:10:54.00,Default,,0,0,0,,{\be1}Jesteś trochę zboczona, prawda?
+Dialogue: 0,0:10:54.33,0:10:55.96,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:11:08.80,0:11:11.90,Default,,0,0,0,,{\be1}Zmęczyłam się od tych wszystkich zboczeń.
+Dialogue: 0,0:11:11.90,0:11:15.63,Default,,0,0,0,,{\be1}Aaya! Nie mów tak, jeszcze ktoś usłyszy.
+Dialogue: 0,0:11:15.63,0:11:18.94,Default,,0,0,0,,{\be1}Teraz to mam ochotę krzyczeć o tym.
+Dialogue: 0,0:11:21.35,0:11:24.98,Default,,0,0,0,,{\be1}Kupmy lody. Jakie chcesz?
+Dialogue: 0,0:11:28.13,0:11:31.06,Default,,0,0,0,,{\be1}O smaku twojej...
+Dialogue: 0,0:11:32.82,0:11:35.68,Default,,0,0,0,,{\be1}Jesteś zboczona!
+Dialogue: 0,0:11:47.21,0:11:51.54,Default,,0,0,0,,{\be1}Co teraz będzie z nami?
+Dialogue: 0,0:11:55.17,0:11:58.60,Default,,0,0,0,,{\be1}Przepraszam, miałyśmy o tym nie rozmawiać.
+Dialogue: 0,0:11:59.19,0:12:04.16,Default,,0,0,0,,{\be1}Kocham cię tak mocno,\Nże usycham z pragnienia.
+Dialogue: 0,0:12:09.06,0:12:10.35,Default,,0,0,0,,{\be1}Aaya.
+Dialogue: 0,0:12:12.72,0:12:16.14,Default,,0,0,0,,{\be1}Jutro też się kochajmy.
+Dialogue: 0,0:12:18.19,0:12:21.29,Default,,0,0,0,,{\be1}Smakuje twoją nogą.
+Dialogue: 0,0:13:04.62,0:13:05.89,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:13:07.32,0:13:08.45,Default,,0,0,0,,{\be1}Wejdź.
+Dialogue: 0,0:13:15.24,0:13:17.37,Default,,0,0,0,,{\be1}Chcesz kawę?
+Dialogue: 0,0:13:17.37,0:13:20.09,Default,,0,0,0,,{\be1}Nie, chora musi odpoczywać.
+Dialogue: 0,0:13:20.09,0:13:23.69,Default,,0,0,0,,{\be1}Tak właściwie nie jestem chora.
+Dialogue: 0,0:13:24.97,0:13:27.45,Default,,0,0,0,,{\be1}Po prostu mam słabe krążenie.
+Dialogue: 0,0:13:28.21,0:13:29.51,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:13:30.39,0:13:31.46,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:13:32.98,0:13:35.81,Default,,0,0,0,,{\be1}Ale i tak się połóż.
+Dialogue: 0,0:13:35.81,0:13:37.22,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:13:39.49,0:13:42.02,Default,,0,0,0,,{\be1}Masz sporo instrumentów.
+Dialogue: 0,0:13:42.02,0:13:44.23,Default,,0,0,0,,{\be1}To mojego brata.
+Dialogue: 0,0:13:44.23,0:13:47.13,Default,,0,0,0,,{\be1}- Masz brata?\N- Rzadko przychodzi.
+Dialogue: 0,0:13:47.91,0:13:49.51,Default,,0,0,0,,{\be1}Rozłączyłaś je?
+Dialogue: 0,0:13:49.51,0:13:54.76,Default,,0,0,0,,{\be1}Gwiazdy? Nie.\NAle nie ważne, to dla ciebie.
+Dialogue: 0,0:13:55.58,0:14:00.68,Default,,0,0,0,,{\be1}Są niezłe, słucham ich od gimnazjum.
+Dialogue: 0,0:14:00.68,0:14:03.01,Default,,0,0,0,,{\be1}- Czyżbyś je znała?\N- Tak.
+Dialogue: 0,0:14:03.01,0:14:04.63,Default,,0,0,0,,{\be1}To fajnie.
+Dialogue: 0,0:14:04.63,0:14:06.33,Default,,0,0,0,,{\be1}Jestem.
+Dialogue: 0,0:14:06.33,0:14:07.62,Default,,0,0,0,,{\be1}Cześć!
+Dialogue: 0,0:14:07.62,0:14:10.37,Default,,0,0,0,,{\be1}- Ktoś przyszedł?\N- Kawakami, koleżanka z klasy.
+Dialogue: 0,0:14:13.73,0:14:15.29,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:14:16.77,0:14:17.50,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:14:28.02,0:14:29.27,Default,,0,0,0,,{\be1}Poważnie?
+Dialogue: 0,0:14:30.53,0:14:31.65,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:14:37.15,0:14:42.73,Default,,0,0,0,,{\be1}Skoro twój dziadek jest cudzoziemcem,\Nto jak mówi się na połowę mieszańca?
+Dialogue: 0,0:14:42.73,0:14:43.61,Default,,0,0,0,,{\be1}Ćwiartką.
+Dialogue: 0,0:14:45.01,0:14:49.91,Default,,0,0,0,,{\be1}Twój brat wyjeżdża za granicę po wakacjach?
+Dialogue: 0,0:14:49.91,0:14:52.23,Default,,0,0,0,,{\be1}Gdzieś do Australii.
+Dialogue: 0,0:14:52.95,0:14:54.09,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:15:01.19,0:15:03.09,Default,,0,0,0,,{\be1}Ktoś może zobaczyć.
+Dialogue: 0,0:15:03.52,0:15:04.77,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:15:07.43,0:15:13.38,Default,,0,0,0,,{\be1}Jesteśmy sami,\Ndlatego chciałam z nim pojechać.
+Dialogue: 0,0:15:13.38,0:15:15.17,Default,,0,0,0,,{\be1}Rozwiązałam czwarte.
+Dialogue: 0,0:15:15.17,0:15:16.41,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:15:17.32,0:15:19.86,Default,,0,0,0,,{\be1}Chciałaś pojechać?
+Dialogue: 0,0:15:25.33,0:15:27.28,Default,,0,0,0,,{\be1}Ale nie zrobię tego.
+Dialogue: 0,0:15:28.62,0:15:34.77,Default (i),,0,0,0,,{\be1}Cieszę się, że to Aaya\Ndowiedziałaś się o mojej mocy.
+Dialogue: 0,0:15:36.35,0:15:38.16,Default,,0,0,0,,{\be1}To ja.
+Dialogue: 0,0:15:38.16,0:15:41.62,Default,,0,0,0,,{\be1}Zostaję na noc u koleżanki, wrócę jutro.
+Dialogue: 0,0:15:47.61,0:15:50.62,Default,,0,0,0,,{\be1}Nadal nie mogę ich rozłączyć.
+Dialogue: 0,0:15:51.55,0:15:53.85,Default,,0,0,0,,{\be1}Pewnie się nie starasz.
+Dialogue: 0,0:15:56.02,0:15:58.93,Default,,0,0,0,,{\be1}No to spróbuję mocniej.
+Dialogue: 0,0:16:17.56,0:16:20.27,Default,,0,0,0,,{\be1}Do zobaczenia w szkole.
+Dialogue: 0,0:16:20.27,0:16:22.25,Default,,0,0,0,,{\be1}Napiszę później.
+Dialogue: 0,0:17:53.14,0:17:55.75,Default,,0,0,0,,{\be1}Jeszcze nie wróciła?
+Dialogue: 0,0:17:56.59,0:17:57.68,Default,,0,0,0,,{\be1}No nic, muszę wejść.
+Dialogue: 0,0:18:06.23,0:18:08.65,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:18:56.94,0:18:59.23,Default,,0,0,0,,{\be1}Kiiko! Czekaj!
+Dialogue: 0,0:19:25.71,0:19:27.72,Default,,0,0,0,,{\be1}Rozłączyły się...
+Dialogue: 0,0:19:33.97,0:19:35.82,Default,,0,0,0,,{\be1}Rozłączyły...

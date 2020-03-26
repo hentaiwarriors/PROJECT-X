@@ -1,0 +1,412 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,楷体,25,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+Style: staff,微软雅黑,20,&H00F29F00,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:03.66,0:00:05.14,Default,NTP,0,0,0,,进入22世纪之后 
+Dialogue: 0,0:00:05.14,0:00:10.99,Default,NTP,0,0,0,,因人口爆发性的增加\N跟资源的严重匮乏而苦恼的人类
+Dialogue: 0,0:00:11.09,0:00:19.10,Default,NTP,0,0,0,,开始在地下 海洋跟宇宙扩大开发的范围
+Dialogue: 0,0:00:32.32,0:00:34.99,Default,NTP,0,0,0,,支撑这些开发能够成功的背后 
+Dialogue: 0,0:00:35.09,0:00:39.77,Default,NTP,0,0,0,,在取得急速发展 并且确立在计算机上的假想系统后
+Dialogue: 0,0:00:39.87,0:00:42.91,Default,NTP,0,0,0,,使用生物工程活体素材　
+Dialogue: 0,0:00:43.01,0:00:47.27,Default,NTP,0,0,0,,并且由于这些引起了机器人工学革命　
+Dialogue: 0,0:00:47.37,0:00:51.70,Default,NTP,0,0,0,,也就是Silhouettes的诞生
+Dialogue: 0,0:00:47.37,0:00:51.70,staff,NTP,0,0,0,,Silhouettes\N人形机器人
+Dialogue: 0,0:00:51.90,0:00:52.80,Default,NTP,0,0,0,,可是
+Dialogue: 0,0:01:02.03,0:01:03.06,Default,NTP,0,0,0,,停下来
+Dialogue: 0,0:01:04.80,0:01:06.47,Default,NTP,0,0,0,,不在５秒内停下来的话　
+Dialogue: 0,0:01:06.47,0:01:09.49,Default,NTP,0,0,0,,将由警卫１４０第７号进行处罚
+Dialogue: 0,0:01:24.49,0:01:25.36,Default,NTP,0,0,0,,没关系吧
+Dialogue: 0,0:01:26.84,0:01:28.03,Default,NTP,0,0,0,,没关系　
+Dialogue: 0,0:01:29.19,0:01:30.74,Default,NTP,0,0,0,,Silhouettes被破坏了
+Dialogue: 0,0:01:31.20,0:01:34.61,Default,NTP,0,0,0,,犯人配备导弹发射器
+Dialogue: 0,0:01:45.31,0:01:46.27,Default,NTP,0,0,0,,可是
+Dialogue: 0,0:01:46.27,0:01:52.52,Default,NTP,0,0,0,,人类为了实验跟\N进出未知领域必不可缺的Silhouettes 
+Dialogue: 0,0:01:52.52,0:01:59.15,Default,NTP,0,0,0,,经常被用在了 \N杀人 抢劫 性暴力这些犯罪行为上了
+Dialogue: 0,0:02:02.00,0:02:08.64,staff2,NTP,0,0,0,,人形使い\N人形(性)机器人
+Dialogue: 0,0:02:35.60,0:02:37.18,Default,NTP,0,0,0,,有什么事么
+Dialogue: 0,0:02:55.58,0:02:58.95,Default,NTP,0,0,0,,啊 不要
+Dialogue: 0,0:03:17.39,0:03:19.86,Default,NTP,0,0,0,,让我尝尝你滋味如何吧
+Dialogue: 0,0:03:26.12,0:03:28.98,Default,NTP,0,0,0,,乱动的话会让自己重要部位受伤的哦
+Dialogue: 0,0:03:37.76,0:03:38.67,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:03:51.36,0:03:53.31,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:04:02.64,0:04:04.03,Default,NTP,0,0,0,,这是什么感觉?
+Dialogue: 0,0:04:07.12,0:04:10.42,Default,NTP,0,0,0,,我们得调查部门还真是优秀啊
+Dialogue: 0,0:04:14.28,0:04:16.08,Default,NTP,0,0,0,,你还是能派上用场的
+Dialogue: 0,0:04:46.87,0:04:50.86,Default,NTP,0,0,0,,里香 很棒哦 看来碎星拳已经练成了嘛
+Dialogue: 0,0:04:53.46,0:04:56.08,Default,NTP,0,0,0,,这次要是能把这块岩石给弄碎的话 
+Dialogue: 0,0:04:56.60,0:04:59.69,Default,NTP,0,0,0,,可以以十倍的威力传给Silhouettes米米了 
+Dialogue: 0,0:05:00.26,0:05:02.43,Default,NTP,0,0,0,,连电磁波都能催动了呢
+Dialogue: 0,0:05:03.19,0:05:05.56,Default,NTP,0,0,0,,是开发未知领域不可少的技能呢
+Dialogue: 0,0:05:12.19,0:05:15.11,Default,NTP,0,0,0,,好痛好痛 麻了
+Dialogue: 0,0:05:15.67,0:05:19.53,Default,NTP,0,0,0,,哎 还早着呢 里香
+Dialogue: 0,0:05:24.09,0:05:26.95,Default,NTP,0,0,0,,格斗方面技术倒是提升了不少嘛 里香
+Dialogue: 0,0:05:27.53,0:05:29.92,Default,NTP,0,0,0,,虽然那个技能还要花费不少时间
+Dialogue: 0,0:05:29.92,0:05:32.22,Default,NTP,0,0,0,,但是以这个速度的话一定能成功
+Dialogue: 0,0:05:44.36,0:05:45.54,Default,NTP,0,0,0,,这下怎么办呢 里香
+Dialogue: 0,0:05:45.54,0:05:48.35,Default,NTP,0,0,0,,有点大意啦
+Dialogue: 0,0:05:48.62,0:05:49.99,Default,NTP,0,0,0,,就到此为止了么
+Dialogue: 0,0:05:54.38,0:05:58.46,Default,NTP,0,0,0,,这样看起来的话 我还是不得不做你保镖的嘛
+Dialogue: 0,0:05:58.46,0:06:00.30,Default,NTP,0,0,0,,好好好 魔鬼教练
+Dialogue: 0,0:06:00.40,0:06:02.78,Default,NTP,0,0,0,,赶紧挣脱给我看看啊 里香
+Dialogue: 0,0:06:06.64,0:06:12.37,Default,NTP,0,0,0,,再不快点的话 会被做这种事情哦
+Dialogue: 0,0:06:13.87,0:06:15.27,Default,NTP,0,0,0,,不要这样 珊蒂
+Dialogue: 0,0:06:15.69,0:06:18.14,Default,NTP,0,0,0,,哎呀 发育的很好嘛里香
+Dialogue: 0,0:06:19.23,0:06:20.65,Default,NTP,0,0,0,,珊蒂
+Dialogue: 0,0:06:20.65,0:06:22.52,Default,NTP,0,0,0,,赶紧挣脱啊 里香
+Dialogue: 0,0:06:22.72,0:06:23.94,Default,NTP,0,0,0,,可是
+Dialogue: 0,0:06:26.69,0:06:27.90,Default,NTP,0,0,0,,不要 珊蒂
+Dialogue: 0,0:06:28.58,0:06:34.70,Default,NTP,0,0,0,,我要是色狼的话 你说不要\N我就会放过你么
+Dialogue: 0,0:06:48.93,0:06:52.08,Default,NTP,0,0,0,,怎么了里香 有感觉了么
+Dialogue: 0,0:06:52.97,0:06:56.71,Default,NTP,0,0,0,,明明是 珊蒂 啊
+Dialogue: 0,0:07:02.53,0:07:05.65,Default,NTP,0,0,0,,你们太慢了 他们让我来催你们
+Dialogue: 0,0:07:06.51,0:07:09.38,Default,NTP,0,0,0,,啊 现在就去
+Dialogue: 0,0:07:12.09,0:07:13.96,Default,NTP,0,0,0,,什么时候在的
+Dialogue: 0,0:07:13.96,0:07:15.46,Default,NTP,0,0,0,,一直
+Dialogue: 0,0:07:30.56,0:07:31.50,Default,NTP,0,0,0,,早上好
+Dialogue: 0,0:07:31.50,0:07:33.04,Default,NTP,0,0,0,,早上好
+Dialogue: 0,0:07:35.79,0:07:36.69,Default,NTP,0,0,0,,状态如何
+Dialogue: 0,0:07:37.20,0:07:40.13,Default,NTP,0,0,0,,这个实验成功的话 就彻底完成了 
+Dialogue: 0,0:07:40.57,0:07:43.09,Default,NTP,0,0,0,,最新型号Silhouettes米米
+Dialogue: 0,0:07:43.76,0:07:48.81,Default,NTP,0,0,0,,根据以往的以虚拟操作为基础的\N警卫机器人跟福祉机器人不同
+Dialogue: 0,0:07:48.81,0:07:56.15,Default,NTP,0,0,0,,拥有更加贴近人类的思考记忆能力跟试听能力\N 能共有人类的感知力跟皮肤感受力
+Dialogue: 0,0:07:56.15,0:08:01.53,Default,NTP,0,0,0,,迄今为止还没有这样的\NSilhouettes 不愧是里香大小姐
+Dialogue: 0,0:08:01.53,0:08:05.50,Default,NTP,0,0,0,,不单单是里香的功劳\N 还是多亏了优秀的工作人员啊
+Dialogue: 0,0:08:05.50,0:08:09.95,Default,NTP,0,0,0,,我现在将米米从机器中放出来 跟里香联动一下
+Dialogue: 0,0:08:13.59,0:08:15.77,Default,NTP,0,0,0,,脑波跟脉搏都没有异常
+Dialogue: 0,0:08:26.34,0:08:31.40,Default,NTP,0,0,0,,即使如此 作为操控者\N才能真是相当出色的呢 里香
+Dialogue: 0,0:08:31.97,0:08:32.87,Default,NTP,0,0,0,,是这样么
+Dialogue: 0,0:08:33.58,0:08:37.51,Default,NTP,0,0,0,,能够成为Silhouettes 操控者的人
+Dialogue: 0,0:08:37.51,0:08:42.25,Default,NTP,0,0,0,,大多数在18岁前后 这个观点还需再斟酌一下的
+Dialogue: 0,0:08:42.25,0:08:49.28,Default,NTP,0,0,0,,大小姐的话 与其他人相比 脑力 体力\N跟精神方面的契合性上拥有拔群的成绩
+Dialogue: 0,0:08:49.28,0:08:52.76,Default,NTP,0,0,0,,随着年龄的增长变的顽固的话也不行呢
+Dialogue: 0,0:08:52.93,0:08:55.87,Default,NTP,0,0,0,,啊 绝对不存在这种事
+Dialogue: 0,0:09:10.02,0:09:12.45,Default,NTP,0,0,0,,对正俊来说 太有诱惑力了啊 
+Dialogue: 0,0:09:12.45,0:09:14.95,Default,NTP,0,0,0,,动起来的话比人类还要性感点
+Dialogue: 0,0:09:14.95,0:09:17.61,Default,NTP,0,0,0,,比里香本人更像女孩子一点啊
+Dialogue: 0,0:09:25.18,0:09:28.79,Default,NTP,0,0,0,,因为皮肤感知力 所以犹如没穿衣服一样
+Dialogue: 0,0:09:33.04,0:09:37.24,Default,NTP,0,0,0,,正俊 检查一下皮肤感知力 触摸一下米米的身体
+Dialogue: 0,0:09:38.24,0:09:40.95,Default,NTP,0,0,0,,知道了
+Dialogue: 0,0:09:44.01,0:09:45.09,Default,NTP,0,0,0,,这样就行了么
+Dialogue: 0,0:09:45.71,0:09:48.12,Default,NTP,0,0,0,,OK 下半身也检查一下
+Dialogue: 0,0:09:48.83,0:09:54.44,Default,NTP,0,0,0,,哎 下半身 \N我连里香本人都还没有过呢 走运了啊
+Dialogue: 0,0:10:01.59,0:10:02.87,Default,NTP,0,0,0,,没事吧
+Dialogue: 0,0:10:03.22,0:10:06.27,Default,NTP,0,0,0,,好痛 还好 好痛
+Dialogue: 0,0:10:06.83,0:10:12.26,Default,NTP,0,0,0,,大小姐 麻烦你注意一下好吧 \N米米的力量远远的超过了人类
+Dialogue: 0,0:10:12.48,0:10:14.72,Default,NTP,0,0,0,,啊 对不起啦
+Dialogue: 0,0:10:28.32,0:10:29.40,Default,NTP,0,0,0,,久等啦
+Dialogue: 0,0:10:30.60,0:10:33.52,Default,NTP,0,0,0,,听说你用米米把正俊给揍飞了
+Dialogue: 0,0:10:33.52,0:10:34.30,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:10:34.67,0:10:36.94,Default,NTP,0,0,0,,没有受什么大的伤害吧
+Dialogue: 0,0:10:37.53,0:10:40.23,Default,NTP,0,0,0,,但是 我真的就是轻轻的推了他一下而已
+Dialogue: 0,0:10:40.69,0:10:42.92,Default,NTP,0,0,0,,这说明米米很强悍啊 
+Dialogue: 0,0:10:43.11,0:10:45.61,Default,NTP,0,0,0,,打起精神吧 一点都不像里香了啊
+Dialogue: 0,0:10:45.61,0:10:46.36,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:10:46.56,0:10:48.97,Default,NTP,0,0,0,,好的 让我们飞奔回家吧
+Dialogue: 0,0:10:55.33,0:10:57.18,Default,NTP,0,0,0,,喂 是我 
+Dialogue: 0,0:10:57.85,0:11:01.18,Default,NTP,0,0,0,,刚刚离开公司 等她一个人的时候就出手
+Dialogue: 0,0:11:01.90,0:11:03.77,Default,NTP,0,0,0,,话说正俊已经回去了么
+Dialogue: 0,0:11:04.35,0:11:08.17,Default,NTP,0,0,0,,没有 他有没有完成工作要做 还在加班
+Dialogue: 0,0:11:08.17,0:11:11.14,Default,NTP,0,0,0,,嗯 没看出来还是个有毅力的孩子嘛
+Dialogue: 0,0:11:11.57,0:11:15.37,Default,NTP,0,0,0,,哎 你在跟他交往吧 有H过吗
+Dialogue: 0,0:11:16.62,0:11:19.49,Default,NTP,0,0,0,,你说什么呐 不是那样的
+Dialogue: 0,0:11:19.49,0:11:22.80,Default,NTP,0,0,0,,现在这种事不是很正常嘛
+Dialogue: 0,0:11:34.30,0:11:36.52,Default,NTP,0,0,0,,就这样 我明早来接你
+Dialogue: 0,0:11:36.52,0:11:37.57,Default,NTP,0,0,0,,嗯 拜托了
+Dialogue: 0,0:11:38.03,0:11:41.48,Default,NTP,0,0,0,,明天也会好好训练你的呢 里香
+Dialogue: 0,0:11:41.81,0:11:43.61,Default,NTP,0,0,0,,真是受不了你了 珊蒂
+Dialogue: 0,0:12:00.90,0:12:02.62,Default,NTP,0,0,0,,开的什么车啊这是
+Dialogue: 0,0:12:18.20,0:12:20.49,Default,NTP,0,0,0,,哼 解决了
+Dialogue: 0,0:12:21.98,0:12:26.23,Default,NTP,0,0,0,,难道是最近年轻姑娘失踪案的犯人?
+Dialogue: 0,0:12:26.90,0:12:28.62,Default,NTP,0,0,0,,真是华丽的格斗技巧啊
+Dialogue: 0,0:12:29.07,0:12:30.35,Default,NTP,0,0,0,,这家伙
+Dialogue: 0,0:12:53.43,0:12:54.63,Default,NTP,0,0,0,,大小姐
+Dialogue: 0,0:12:55.46,0:12:59.28,Default,NTP,0,0,0,,珊蒂今天早上好像没去接你啊 
+Dialogue: 0,0:12:59.28,0:13:02.10,Default,NTP,0,0,0,,好像不知所踪了
+Dialogue: 0,0:13:02.38,0:13:04.44,Default,NTP,0,0,0,,不知所踪 
+Dialogue: 0,0:13:04.97,0:13:07.38,Default,NTP,0,0,0,,她那辆跟小强一样的车也不在 
+Dialogue: 0,0:13:07.38,0:13:10.90,Default,NTP,0,0,0,,会不会是在什么地方遇上啥事故了
+Dialogue: 0,0:13:11.49,0:13:14.17,Default,NTP,0,0,0,,也没有跟我们联系
+Dialogue: 0,0:13:14.94,0:13:18.61,Default,NTP,0,0,0,,难道是昨天晚上跟我分开之后遇见什么事了么 
+Dialogue: 0,0:13:18.61,0:13:21.87,Default,NTP,0,0,0,,最近年轻女性的诱拐事件也相当多
+Dialogue: 0,0:13:21.87,0:13:23.44,Default,NTP,0,0,0,,啊 那个好像不太可能
+Dialogue: 0,0:13:23.44,0:13:24.30,Default,NTP,0,0,0,,是的呢 
+Dialogue: 0,0:13:24.30,0:13:27.46,Default,NTP,0,0,0,,珊蒂怎么可能轻易的被拐走呢
+Dialogue: 0,0:13:27.68,0:13:31.01,Default,NTP,0,0,0,,男保镖都比不过她的呢
+Dialogue: 0,0:13:31.01,0:13:32.33,Default,NTP,0,0,0,,是的呢
+Dialogue: 0,0:13:32.33,0:13:36.96,Default,NTP,0,0,0,,大小姐也要注意安全 我马上给你安排别的保镖
+Dialogue: 0,0:13:38.50,0:13:40.61,Default,NTP,0,0,0,,我负责接送她
+Dialogue: 0,0:13:40.91,0:13:44.58,Default,NTP,0,0,0,,正俊 有总比没有强
+Dialogue: 0,0:13:44.58,0:13:46.01,Default,NTP,0,0,0,,老爸
+Dialogue: 0,0:13:46.01,0:13:51.29,Default,NTP,0,0,0,,我不会有问题的 我可身负珊蒂教的护身术呢
+Dialogue: 0,0:13:56.86,0:14:00.03,Default,NTP,0,0,0,,正俊是想被里香小姐保护么
+Dialogue: 0,0:14:00.13,0:14:03.77,Default,NTP,0,0,0,,哎 那个 我来保护她
+Dialogue: 0,0:14:07.30,0:14:08.30,Default,NTP,0,0,0,,珊蒂
+Dialogue: 0,0:14:30.91,0:14:32.19,Default,NTP,0,0,0,,醒了么
+Dialogue: 0,0:14:34.02,0:14:35.03,Default,NTP,0,0,0,,是谁
+Dialogue: 0,0:14:36.23,0:14:37.85,Default,NTP,0,0,0,,这边风景独好啊
+Dialogue: 0,0:14:37.97,0:14:40.10,Default,NTP,0,0,0,,小珊蒂摩尔
+Dialogue: 0,0:14:40.60,0:14:41.59,Default,NTP,0,0,0,,放开我
+Dialogue: 0,0:14:41.86,0:14:42.83,Default,NTP,0,0,0,,可以啊 
+Dialogue: 0,0:14:43.08,0:14:48.76,Default,NTP,0,0,0,,只要你愿意做我们的\NSilhouettes操控师 也就是傀儡师的话
+Dialogue: 0,0:14:48.76,0:14:50.84,Default,NTP,0,0,0,,Silhouettes操控师
+Dialogue: 0,0:14:50.84,0:14:54.61,Default,NTP,0,0,0,,你知道的吧 就是你公司在做的那个东西
+Dialogue: 0,0:14:54.93,0:14:56.46,Default,NTP,0,0,0,,你是商业间谍么 
+Dialogue: 0,0:14:57.20,0:14:58.45,Default,NTP,0,0,0,,如果是这样的话就非常可惜了
+Dialogue: 0,0:14:58.45,0:15:00.12,Default,NTP,0,0,0,,我可是什么都不知道的
+Dialogue: 0,0:15:00.12,0:15:02.62,Default,NTP,0,0,0,,不 间谍的话早就潜伏在里面了
+Dialogue: 0,0:15:04.22,0:15:06.55,Default,NTP,0,0,0,,我们非常中意你的格斗技术
+Dialogue: 0,0:15:06.55,0:15:12.54,Default,NTP,0,0,0,,跟电脑演算出的\N作为Silhouettes操控师的优秀才能
+Dialogue: 0,0:15:12.89,0:15:14.12,Default,NTP,0,0,0,,这里到底是哪里 
+Dialogue: 0,0:15:14.42,0:15:15.64,Default,NTP,0,0,0,,你到底是谁
+Dialogue: 0,0:15:15.91,0:15:16.60,Default,NTP,0,0,0,,谁知道呢 
+Dialogue: 0,0:15:16.89,0:15:18.24,Default,NTP,0,0,0,,要跟我们签约么 
+Dialogue: 0,0:15:18.54,0:15:20.75,Default,NTP,0,0,0,,成为我们的小伙伴
+Dialogue: 0,0:15:21.31,0:15:22.52,Default,NTP,0,0,0,,别跟我开玩笑了 
+Dialogue: 0,0:15:23.15,0:15:24.05,Default,NTP,0,0,0,,赶紧放开我
+Dialogue: 0,0:15:24.32,0:15:26.72,Default,NTP,0,0,0,,看来还是需要进行仪式的呢
+Dialogue: 0,0:15:27.26,0:15:29.69,Default,NTP,0,0,0,,仪式 什么意思
+Dialogue: 0,0:15:43.03,0:15:45.58,Default,NTP,0,0,0,,这里是 什么
+Dialogue: 0,0:15:45.58,0:15:50.03,Default,NTP,0,0,0,,向我们宣誓忠诚的仪式啊
+Dialogue: 0,0:15:50.45,0:15:51.29,Default,NTP,0,0,0,,仪式?
+Dialogue: 0,0:16:03.13,0:16:03.98,Default,NTP,0,0,0,,不要过来
+Dialogue: 0,0:16:04.66,0:16:10.05,Default,NTP,0,0,0,,不用害怕 他们都是由优秀的傀儡师操控着的
+Dialogue: 0,0:16:10.62,0:16:13.76,Default,NTP,0,0,0,,啊 你不是那个研究员吗?
+Dialogue: 0,0:16:13.96,0:16:16.83,Default,NTP,0,0,0,,珊蒂 接下来才是开心的时刻哦
+Dialogue: 0,0:16:20.31,0:16:22.90,Default,NTP,0,0,0,,这个音乐也即将变得悦耳动听的
+Dialogue: 0,0:16:24.72,0:16:26.59,Default,NTP,0,0,0,,改变人潜意识的歌呢
+Dialogue: 0,0:16:27.27,0:16:30.23,Default,NTP,0,0,0,,哦 知道的很多嘛
+Dialogue: 0,0:16:30.23,0:16:31.65,Default,NTP,0,0,0,,不 住手
+Dialogue: 0,0:16:31.85,0:16:35.81,Default,NTP,0,0,0,,你肯定也想知道的 自己真正的姿态
+Dialogue: 0,0:16:37.63,0:16:39.08,Default,NTP,0,0,0,,来 放轻松
+Dialogue: 0,0:16:49.33,0:16:50.24,Default,NTP,0,0,0,,珊蒂 
+Dialogue: 0,0:16:50.58,0:16:54.96,Default,NTP,0,0,0,,慢慢敞开身体跟心灵 成为我们的伙伴吧 
+Dialogue: 0,0:16:55.32,0:16:59.10,Default,NTP,0,0,0,,成为伙伴 伙伴 伙伴
+Dialogue: 0,0:17:02.03,0:17:07.36,Default,NTP,0,0,0,,即将带你前往令人目眩的极乐圣地 
+Dialogue: 0,0:17:07.80,0:17:13.85,Default,NTP,0,0,0,,绚丽的世界 绚丽的世界...
+Dialogue: 0,0:17:16.04,0:17:19.34,Default,NTP,0,0,0,,珊蒂 你的身体渴望着男人
+Dialogue: 0,0:17:20.07,0:17:21.22,Default,NTP,0,0,0,,男人的指尖 
+Dialogue: 0,0:17:22.03,0:17:23.28,Default,NTP,0,0,0,,男人的舌尖 
+Dialogue: 0,0:17:24.10,0:17:27.78,Default,NTP,0,0,0,,男人的肉体 男人的肉体
+Dialogue: 0,0:17:32.36,0:17:39.09,Default,NTP,0,0,0,,马上就成为我们的傀儡师 傀儡师...
+Dialogue: 0,0:17:51.94,0:17:55.05,Default,NTP,0,0,0,,不够 不够 不够
+Dialogue: 0,0:17:56.41,0:18:00.50,Default,NTP,0,0,0,,这是一种反馈大脑接受Silhouettes指令的新型手术
+Dialogue: 0,0:18:01.20,0:18:05.36,Default,NTP,0,0,0,,将负责神经细胞兴奋末端记忆的生态回路分离 
+Dialogue: 0,0:18:05.36,0:18:09.46,Default,NTP,0,0,0,,即使Silhouettes遭到损坏 也不会影响反馈结果
+Dialogue: 0,0:18:10.77,0:18:14.61,Default,NTP,0,0,0,,只要使用这个 就能够完成虚拟的米米了 
+Dialogue: 0,0:18:15.09,0:18:15.83,Default,NTP,0,0,0,,怎么了
+Dialogue: 0,0:18:15.83,0:18:19.31,Default,NTP,0,0,0,,就是 其实 不小心弄丢了
+Dialogue: 0,0:18:19.69,0:18:21.71,Default,NTP,0,0,0,,丢了 被谁偷走了么
+Dialogue: 0,0:18:23.12,0:18:26.90,Default,NTP,0,0,0,,不会吧 你不会怀疑珊蒂吧
+Dialogue: 0,0:18:27.29,0:18:30.12,Default,NTP,0,0,0,,珊蒂再不出现的话
+Dialogue: 0,0:18:31.48,0:18:33.32,Default,NTP,0,0,0,,怎么会这样
+Dialogue: 0,0:19:14.32,0:19:20.52,Default,NTP,0,0,0,,就这样 你即将作为我们的傀儡师\N成为地下擂台上的新星吧
+Dialogue: 0,0:19:38.27,0:19:40.89,Default,NTP,0,0,0,,这个时间让你出来陪我 真是不好意思了
+Dialogue: 0,0:19:40.89,0:19:43.93,Default,NTP,0,0,0,,作为昨天事情的赔罪 很痛吧
+Dialogue: 0,0:19:43.94,0:19:45.65,Default,NTP,0,0,0,,额 一点点吧 
+Dialogue: 0,0:19:46.29,0:19:51.03,Default,NTP,0,0,0,,那个 今晚晚上可以一直待到明天早上么
+Dialogue: 0,0:19:51.03,0:19:52.30,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:19:54.14,0:19:56.36,Default,NTP,0,0,0,,好了啦 小里香
+Dialogue: 0,0:19:57.41,0:20:01.32,Default,NTP,0,0,0,,正俊也觉得珊蒂是犯人么
+Dialogue: 0,0:20:04.63,0:20:06.27,Default,NTP,0,0,0,,我也不太清楚啊
+Dialogue: 0,0:20:07.03,0:20:09.44,Default,NTP,0,0,0,,那你认为是外人做的
+Dialogue: 0,0:20:09.83,0:20:12.12,Default,NTP,0,0,0,,不 那实在是有点不可能
+Dialogue: 0,0:20:12.79,0:20:15.46,Default,NTP,0,0,0,,研究室的安全装置可是相当高端的
+Dialogue: 0,0:20:15.86,0:20:17.11,Default,NTP,0,0,0,,那是自己人
+Dialogue: 0,0:20:17.60,0:20:19.04,Default,NTP,0,0,0,,哎 很奇怪呢 
+Dialogue: 0,0:20:19.67,0:20:24.31,Default,NTP,0,0,0,,里香跟珊蒂回去的时候 东西应该还在金库里的啊
+Dialogue: 0,0:20:25.30,0:20:28.23,Default,NTP,0,0,0,,昨晚 最后一个留在研究室的是谁
+Dialogue: 0,0:20:30.09,0:20:31.49,Default,NTP,0,0,0,,到底是谁啊 赶紧告诉我
+Dialogue: 0,0:20:32.00,0:20:34.05,Default,NTP,0,0,0,,现在保安部正在查着呢 
+Dialogue: 0,0:20:34.67,0:20:36.98,Default,NTP,0,0,0,,应该跟这个事件没啥关系吧
+Dialogue: 0,0:20:41.32,0:20:42.58,Default,NTP,0,0,0,,啊 不好 
+Dialogue: 0,0:20:44.62,0:20:46.91,Default,NTP,0,0,0,,不好意思 能帮我捡起来吗?
+Dialogue: 0,0:20:55.40,0:20:57.58,Default,NTP,0,0,0,,呵呵 怎么了
+Dialogue: 0,0:20:57.99,0:20:59.69,Default,NTP,0,0,0,,不是 那个
+Dialogue: 0,0:21:00.05,0:21:02.80,Default,NTP,0,0,0,,哎 我非常在意呢 
+Dialogue: 0,0:21:02.80,0:21:06.64,Default,NTP,0,0,0,,告诉我的话 我就能放心的待到早上了呢
+Dialogue: 0,0:21:08.30,0:21:13.21,Default,NTP,0,0,0,,是吗?这样的话 是我跟杰西卡
+Dialogue: 0,0:21:13.86,0:21:15.74,Default,NTP,0,0,0,,杰西卡 这样说起来的话 
+Dialogue: 0,0:21:15.74,0:21:18.25,Default,NTP,0,0,0,,是那个刚刚调到研究室的人呢
+Dialogue: 0,0:21:18.49,0:21:19.88,Default,NTP,0,0,0,,啊 里香
+Dialogue: 0,0:21:19.88,0:21:22.33,Default,NTP,0,0,0,,不好意思 突然想起来有急事要做
+Dialogue: 0,0:21:23.13,0:21:26.01,Default,NTP,0,0,0,,啊 里香 说好的到早上呢
+Dialogue: 0,0:21:36.71,0:21:39.79,Default,NTP,0,0,0,,不管谁说的都好 绝对不是珊蒂干的 
+Dialogue: 0,0:21:40.14,0:21:42.50,Default,NTP,0,0,0,,好的 先去向杰西卡打听打听
+Dialogue: 0,0:21:43.82,0:21:46.01,Default,NTP,0,0,0,,如果杰西卡是犯人的话
+Dialogue: 0,0:22:30.68,0:22:31.93,Default,NTP,0,0,0,,杰西卡在么
+Dialogue: 0,0:22:32.59,0:22:34.52,Default,NTP,0,0,0,,在哦 里香嘛
+Dialogue: 0,0:22:34.52,0:22:35.14,Default,NTP,0,0,0,,哎
+Dialogue: 0,0:22:35.14,0:22:37.49,Default,NTP,0,0,0,,我就知道你会来这儿的
+Dialogue: 0,0:22:37.49,0:22:38.85,Default,NTP,0,0,0,,为什么
+Dialogue: 0,0:22:38.89,0:22:41.51,Default,NTP,0,0,0,,哎哟 先进来吧
+Dialogue: 0,0:22:41.82,0:22:44.96,Default,NTP,0,0,0,,杰西卡想问问你米米的事
+Dialogue: 0,0:22:46.01,0:22:47.60,Default,NTP,0,0,0,,米米就在这儿呢
+Dialogue: 0,0:22:53.21,0:22:55.70,Default,NTP,0,0,0,,不好 又没控制好力度
+Dialogue: 0,0:22:58.57,0:23:00.00,Default,NTP,0,0,0,,杰西卡在哪儿
+Dialogue: 0,0:23:08.65,0:23:14.24,Default,NTP,0,0,0,,真是的 直接让米米过来的话\N简直就是断定我是犯人了嘛
+Dialogue: 0,0:23:14.82,0:23:17.77,Default,NTP,0,0,0,,不过嘛 \N我们这边也是预想到这样的场景了 
+Dialogue: 0,0:23:17.77,0:23:18.87,Default,NTP,0,0,0,,好好看看吧
+Dialogue: 0,0:23:23.87,0:23:24.63,Default,NTP,0,0,0,,惨了
+Dialogue: 0,0:23:24.63,0:23:25.70,Default,NTP,0,0,0,,不会让你过去的
+Dialogue: 0,0:23:28.41,0:23:29.10,Default,NTP,0,0,0,,给我放开
+Dialogue: 0,0:23:36.74,0:23:38.21,Default,NTP,0,0,0,,别碰我
+Dialogue: 0,0:23:49.30,0:23:50.36,Default,NTP,0,0,0,,米米
+Dialogue: 0,0:24:43.37,0:24:45.37,Default,NTP,0,0,0,,爱兰罗库萨胜 
+Dialogue: 0,0:24:45.73,0:24:49.12,Default,NTP,0,0,0,,这是铁牛选手获得的第10个猎物
+Dialogue: 0,0:24:49.90,0:24:52.17,Default,NTP,0,0,0,,现在给客人分红 
+Dialogue: 0,0:24:52.54,0:24:56.96,Default,NTP,0,0,0,,根据分配情况\N来决定这个猎物是否赏给铁牛选手
+Dialogue: 0,0:24:57.49,0:24:59.07,Default,NTP,0,0,0,,关于接下来的比赛嘛 
+Dialogue: 0,0:24:59.57,0:25:01.95,Default,NTP,0,0,0,,今晚的客人真是非常的幸运
+Dialogue: 0,0:25:01.95,0:25:04.35,Default,NTP,0,0,0,,今晚特别举行强奸大赛 
+Dialogue: 0,0:25:04.80,0:25:08.19,Default,NTP,0,0,0,,今晚的嘉宾是撒鲁社长女儿
+Dialogue: 0,0:25:09.23,0:25:12.60,Default,NTP,0,0,0,,当然 她作为Silhouettes操控师的才能\N也是相当出色的
+Dialogue: 0,0:25:12.80,0:25:18.67,Default,NTP,0,0,0,,接下来她要操控的机器\N是瑞穗公司制造的最新型少女机
+Dialogue: 0,0:25:24.24,0:25:28.49,Default,NTP,0,0,0,,当然 我们公司开发的机器要远远的优质于她
+Dialogue: 0,0:25:28.78,0:25:30.77,Default,NTP,0,0,0,,好了 她差不多该醒了
+Dialogue: 0,0:25:41.33,0:25:42.95,Default,NTP,0,0,0,,这里是...
+Dialogue: 0,0:25:43.49,0:25:44.99,Default,NTP,0,0,0,,啊 米米
+Dialogue: 0,0:25:48.50,0:25:49.24,Default,NTP,0,0,0,,杰西卡
+Dialogue: 0,0:25:49.71,0:25:51.44,Default,NTP,0,0,0,,睡容很美哦 小姐
+Dialogue: 0,0:25:52.03,0:25:55.86,Default,NTP,0,0,0,,啊 不要
+Dialogue: 0,0:25:57.05,0:26:02.36,Default,NTP,0,0,0,,想得救的话 就自己操控自己\N最得意的米米来战斗了 里香小姐
+Dialogue: 0,0:26:02.60,0:26:03.68,Default,NTP,0,0,0,,你是谁
+Dialogue: 0,0:26:17.15,0:26:18.72,Default,NTP,0,0,0,,不要做无意义的事情了
+Dialogue: 0,0:26:30.75,0:26:32.74,Default,NTP,0,0,0,,那个声音 那个孩子到底是谁
+Dialogue: 0,0:26:34.21,0:26:37.22,Default,NTP,0,0,0,,被发现了呢 不愧是米米啊
+Dialogue: 0,0:26:39.17,0:26:41.23,Default,NTP,0,0,0,,那是谁 好像在那儿
+Dialogue: 0,0:26:44.17,0:26:45.45,Default,NTP,0,0,0,,不是说了嘛 
+Dialogue: 0,0:26:45.45,0:26:49.68,Default,NTP,0,0,0,,想得救的话 只能用米米打败这个男人
+Dialogue: 0,0:26:50.94,0:26:56.92,Default,NTP,0,0,0,,还是说 想被这个Silhouettes强奸\N然后用自己的身体感受这个过程呢
+Dialogue: 0,0:27:10.52,0:27:11.70,Default,NTP,0,0,0,,他娘的
+Dialogue: 0,0:27:12.46,0:27:16.99,Default,NTP,0,0,0,,给我住手
+Dialogue: 0,0:27:21.74,0:27:25.30,Default,NTP,0,0,0,,太好了 珊蒂教的护身术起作用了
+Dialogue: 0,0:27:28.55,0:27:30.33,Default,NTP,0,0,0,,讨厌 裸体什么的 啊 
+Dialogue: 0,0:27:31.19,0:27:36.54,Default,NTP,0,0,0,,好痛 放开我 不要这样不要这样
+Dialogue: 0,0:27:36.54,0:27:39.83,Default,NTP,0,0,0,,女人重要的部位啊 看着好痛的呢 
+Dialogue: 0,0:27:40.24,0:27:42.29,Default,NTP,0,0,0,,把东西偷来到底对不对呢 
+Dialogue: 0,0:27:42.34,0:27:46.01,Default,NTP,0,0,0,,不只是虚拟的而已 \N感觉直接传递到身体上 很难受吧
+Dialogue: 0,0:27:53.08,0:27:55.87,Default,NTP,0,0,0,,干嘛 你在摸哪儿啊
+Dialogue: 0,0:27:56.38,0:27:59.92,Default,NTP,0,0,0,,不要 这样是犯规的
+Dialogue: 0,0:28:01.49,0:28:03.55,Default,NTP,0,0,0,,这个游戏是没有犯规什么的 
+Dialogue: 0,0:28:06.11,0:28:08.10,Default,NTP,0,0,0,,好可爱啊 里香大小姐
+Dialogue: 0,0:28:13.04,0:28:15.93,Default,NTP,0,0,0,,好棒 这感觉跟真女人一样
+Dialogue: 0,0:28:17.35,0:28:18.92,Default,NTP,0,0,0,,你在干什么 住手
+Dialogue: 0,0:28:19.67,0:28:22.40,Default,NTP,0,0,0,,身为女人是你的弱点么
+Dialogue: 0,0:28:29.69,0:28:30.98,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:28:32.59,0:28:35.05,Default,NTP,0,0,0,,有感觉也是你的弱点呢
+Dialogue: 0,0:28:35.84,0:28:38.77,Default,NTP,0,0,0,,住手 不要
+Dialogue: 0,0:28:39.62,0:28:40.89,Default,NTP,0,0,0,,要做什么
+Dialogue: 0,0:28:49.93,0:28:53.44,Default,NTP,0,0,0,,好棒 痛苦的样子也那么有女人味
+Dialogue: 0,0:29:17.71,0:29:19.97,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:29:21.60,0:29:22.98,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:29:26.63,0:29:28.75,Default,NTP,0,0,0,,好棒 太棒了 
+Dialogue: 0,0:29:30.09,0:29:31.79,Default,NTP,0,0,0,,这是怎么样一个Silhouettes啊 
+Dialogue: 0,0:29:31.79,0:29:33.86,Default,NTP,0,0,0,,比人类的女人还爽
+Dialogue: 0,0:29:36.65,0:29:39.15,Default,NTP,0,0,0,,接下来轮到后面的洞了
+Dialogue: 0,0:29:52.08,0:29:54.52,Default,NTP,0,0,0,,这种东西就需要这样
+Dialogue: 0,0:30:09.70,0:30:10.29,Default,NTP,0,0,0,,太好了
+Dialogue: 0,0:30:10.29,0:30:11.70,Default,NTP,0,0,0,,真是厉害呢 
+Dialogue: 0,0:30:11.90,0:30:15.49,Default,NTP,0,0,0,,那个男人已经没有任何用处了
+Dialogue: 0,0:30:15.49,0:30:16.74,Default,NTP,0,0,0,,用处
+Dialogue: 0,0:30:17.33,0:30:18.99,Default,NTP,0,0,0,,哎算了 
+Dialogue: 0,0:30:18.99,0:30:23.91,Default,NTP,0,0,0,,其实我们为了米米准备了\N另一个回味无穷的选手呢
+Dialogue: 0,0:30:26.32,0:30:28.33,Default,NTP,0,0,0,,好的 终于要进入我们得最终环节了
+Dialogue: 0,0:30:28.33,0:30:31.84,Default,NTP,0,0,0,,接下来登场的是我们尼克公司的得意之作 
+Dialogue: 0,0:30:31.84,0:30:33.95,Default,NTP,0,0,0,,史上最美最强的Silhouettes
+Dialogue: 0,0:30:33.95,0:30:38.77,Default,NTP,0,0,0,,这是我为了某人特别制作的 
+Dialogue: 0,0:30:38.77,0:30:40.38,Default,NTP,0,0,0,,总算是赶上了 
+Dialogue: 0,0:30:40.38,0:30:42.26,Default,NTP,0,0,0,,能看出是谁么
+Dialogue: 0,0:30:42.49,0:30:43.76,Default,NTP,0,0,0,,珊蒂
+Dialogue: 0,0:30:46.43,0:30:48.26,Default,NTP,0,0,0,,跟珊蒂一模一样吧
+Dialogue: 0,0:30:51.57,0:30:52.91,Default,NTP,0,0,0,,你怎么了珊蒂 
+Dialogue: 0,0:30:52.91,0:30:54.31,Default,NTP,0,0,0,,是我啊 里香啊
+Dialogue: 0,0:30:54.31,0:30:55.07,Default,NTP,0,0,0,,没用的
+Dialogue: 0,0:30:55.07,0:30:57.88,Default,NTP,0,0,0,,她现在已经成为我们的傀儡师了
+Dialogue: 0,0:31:05.84,0:31:08.41,Default,NTP,0,0,0,,住手 珊蒂住手
+Dialogue: 0,0:31:11.59,0:31:14.23,Default,NTP,0,0,0,,你怎么了珊蒂 赶紧清醒过来啊
+Dialogue: 0,0:31:18.71,0:31:21.44,Default,NTP,0,0,0,,这个Silhouettes很像米米 
+Dialogue: 0,0:31:21.44,0:31:23.66,Default,NTP,0,0,0,,技术层已经接近一模一样了 
+Dialogue: 0,0:31:23.94,0:31:25.59,Default,NTP,0,0,0,,也就是说性能也是一样了
+Dialogue: 0,0:31:25.76,0:31:27.85,Default,NTP,0,0,0,,就是传说中的地下擂台
+Dialogue: 0,0:31:28.34,0:31:29.73,Default,NTP,0,0,0,,想要救回珊蒂的话 
+Dialogue: 0,0:31:29.73,0:31:31.68,Default,NTP,0,0,0,,只能打败这个Silhouettes了
+Dialogue: 0,0:31:38.42,0:31:40.81,Default,NTP,0,0,0,,赶紧给我清醒过来 珊蒂
+Dialogue: 0,0:31:48.27,0:31:51.88,Default,NTP,0,0,0,,不行 我不可能战胜珊蒂的
+Dialogue: 0,0:31:59.32,0:32:01.29,Default,NTP,0,0,0,,终于要到高潮部分了呢 
+Dialogue: 0,0:32:02.25,0:32:04.10,Default,NTP,0,0,0,,珊蒂 给你这个
+Dialogue: 0,0:32:07.23,0:32:09.28,Default,NTP,0,0,0,,真好呢 里香大小姐 
+Dialogue: 0,0:32:09.28,0:32:12.89,Default,NTP,0,0,0,,有关系这么好的珊蒂Silhouettes疼爱你呢
+Dialogue: 0,0:32:20.97,0:32:22.35,Default,NTP,0,0,0,,这是什么
+Dialogue: 0,0:32:27.73,0:32:29.10,Default,NTP,0,0,0,,珊蒂 你想做什么
+Dialogue: 0,0:32:29.10,0:32:31.16,Default,NTP,0,0,0,,住手 住手
+Dialogue: 0,0:32:32.39,0:32:34.11,Default,NTP,0,0,0,,不要啊珊蒂
+Dialogue: 0,0:32:36.63,0:32:37.56,Default,NTP,0,0,0,,珊蒂 
+Dialogue: 0,0:32:37.56,0:32:40.96,Default,NTP,0,0,0,,住手 住手 求求你
+Dialogue: 0,0:32:45.74,0:32:47.10,Default,NTP,0,0,0,,干得好 杰西卡
+Dialogue: 0,0:32:47.72,0:32:50.02,Default,NTP,0,0,0,,照这样的话 里香跟米米\N都是我们这边的东西了  
+Dialogue: 0,0:32:50.09,0:32:51.91,Default,NTP,0,0,0,,接下来我们会得到更多的Silhouettes
+Dialogue: 0,0:32:53.01,0:32:55.22,Default,NTP,0,0,0,,好棒 好棒 
+Dialogue: 0,0:32:55.35,0:32:57.78,Default,NTP,0,0,0,,里香 一直就很想要你
+Dialogue: 0,0:33:00.91,0:33:02.49,Default,NTP,0,0,0,,里香 里香 好喜欢你哦
+Dialogue: 0,0:33:08.36,0:33:10.80,Default,NTP,0,0,0,,这样的我靠正经的手段是赢不了珊蒂的
+Dialogue: 0,0:33:10.89,0:33:12.24,Default,NTP,0,0,0,,只有试试这个了
+Dialogue: 0,0:33:21.49,0:33:22.54,Default,NTP,0,0,0,,糟了
+Dialogue: 0,0:33:37.94,0:33:38.56,Default,NTP,0,0,0,,社长
+Dialogue: 0,0:33:38.76,0:33:39.78,Default,NTP,0,0,0,,爸爸
+Dialogue: 0,0:33:44.14,0:33:46.12,Default,NTP,0,0,0,,这是什么 怎么了 
+Dialogue: 0,0:33:48.79,0:33:50.10,Default,NTP,0,0,0,,这是米米的力量?
+Dialogue: 0,0:33:52.13,0:33:53.30,Default,NTP,0,0,0,,珊蒂 
+Dialogue: 0,0:33:55.13,0:33:56.12,Default,NTP,0,0,0,,珊蒂 
+Dialogue: 0,0:33:56.27,0:33:57.82,Default,NTP,0,0,0,,是我 是里香啊 
+Dialogue: 0,0:33:57.82,0:34:00.07,Default,NTP,0,0,0,,振作起来 珊蒂
+Dialogue: 0,0:34:13.86,0:34:17.88,Default,NTP,0,0,0,,米米 不 里香 打得很棒哦
+Dialogue: 0,0:34:19.59,0:34:22.74,Default,NTP,0,0,0,,珊蒂 是原来的珊蒂吗?
+Dialogue: 0,0:34:23.06,0:34:24.85,Default,NTP,0,0,0,,嗯 应该是的
+Dialogue: 0,0:34:27.65,0:34:30.12,Default,NTP,0,0,0,,那个技能终于完成了呢 
+Dialogue: 0,0:34:30.12,0:34:32.49,Default,NTP,0,0,0,,好强的能量 应该就是那个起作用的
+Dialogue: 0,0:34:32.49,0:34:34.69,Default,NTP,0,0,0,,谢谢你里香\N太好了
+Dialogue: 0,0:34:36.73,0:34:39.78,Default,NTP,0,0,0,,那个就是觉醒的雷暴斩击
+Dialogue: 0,0:34:36.73,0:34:39.78,staff,NTP,0,0,0,,thunder break
+Dialogue: 0,0:34:39.78,0:34:40.68,Default,NTP,0,0,0,,就是那个吗
+Dialogue: 0,0:34:40.99,0:34:44.64,Default,NTP,0,0,0,,不行 现在不是放松的时刻呢 
+Dialogue: 0,0:34:44.77,0:34:46.54,Default,NTP,0,0,0,,里香 用米米战斗
+Dialogue: 0,0:34:47.36,0:34:48.30,Default,NTP,0,0,0,,没关系的 
+Dialogue: 0,0:34:48.30,0:34:49.44,Default,NTP,0,0,0,,米米的话肯定不在话下的 
+Dialogue: 0,0:34:49.44,0:34:51.85,Default,NTP,0,0,0,,里香的身体我负责带走
+Dialogue: 0,0:34:51.85,0:34:53.07,Default,NTP,0,0,0,,托付给你了
+Dialogue: 0,0:35:00.70,0:35:02.54,Default,NTP,0,0,0,,米米 就是那样
+Dialogue: 0,0:35:04.68,0:35:06.34,Default,NTP,0,0,0,,你以为你能逃的掉吗?
+Dialogue: 0,0:35:07.35,0:35:08.50,Default,NTP,0,0,0,,他娘的 
+Dialogue: 0,0:35:08.58,0:35:10.26,Default,NTP,0,0,0,,这回可不会让你那么随心所欲了哦
+Dialogue: 0,0:35:11.23,0:35:12.02,Default,NTP,0,0,0,,碍事
+Dialogue: 0,0:35:17.78,0:35:18.85,Default,NTP,0,0,0,,别跟来
+Dialogue: 0,0:35:21.72,0:35:24.19,Default,NTP,0,0,0,,居然把我可爱的Silhouettes给打烂
+Dialogue: 0,0:35:24.19,0:35:26.34,Default,NTP,0,0,0,,绝对不放过你 就是现在了
+Dialogue: 0,0:35:28.25,0:35:29.45,Default,NTP,0,0,0,,给我站住
+Dialogue: 0,0:35:34.09,0:35:35.51,Default,NTP,0,0,0,,里香 怎么了 
+Dialogue: 0,0:35:35.51,0:35:36.92,Default,NTP,0,0,0,,米米出事了么
+Dialogue: 0,0:35:36.92,0:35:38.92,Default,NTP,0,0,0,,什么情况
+Dialogue: 0,0:35:42.44,0:35:43.94,Default,NTP,0,0,0,,铁 铁牛
+Dialogue: 0,0:35:43.94,0:35:45.98,Default,NTP,0,0,0,,大小姐 怎么会这样
+Dialogue: 0,0:36:19.75,0:36:22.18,Default,NTP,0,0,0,,米米呢 里香
+Dialogue: 0,0:36:28.15,0:36:31.98,Default,NTP,0,0,0,,米米呢 里香 难道...
+Dialogue: 0,0:36:34.38,0:36:36.10,Default,NTP,0,0,0,,里香我把这个摘下来了啊
+Dialogue: 0,0:36:42.77,0:36:44.10,Default,NTP,0,0,0,,啊 里香

@@ -1,0 +1,143 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build422  Oct 18 2015  11:36:46
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: ?video
+Video File: Enyoku 1.avi
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 512
+Last Style Storage: [640x480]
+Collisions: Normal
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,50,&H002B32C5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,5,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:23.23,0:01:28.71,Grupa,,0,0,0,,{\be1\1c&H000000&\t(0,1988,\1c&H2B32C5&)}Nyan
+Dialogue: 0,0:01:23.23,0:01:28.71,Anime,,0,0,0,,{\be1\pos(362,131)\1c&H000000&\frz15\t(0,1988,\1c&H2B32C5&)}Enyoku
+Dialogue: 0,0:08:33.60,0:08:36.57,Znak,,0,0,0,,{\be1}Ubikacja nauczycielska
+Dialogue: 0,0:00:06.44,0:00:11.09,Default (i),,0,0,0,,{\be1}Nazywa się Kusumoto Nariya\Ni jest zwykłym uczniem.
+Dialogue: 0,0:00:11.09,0:00:24.53,Default (i),,0,0,0,,{\be1}Ale każdy jego ruch i spojrzenie oraz zapach żelu\Ndo włosów, wywołują we mnie dzikie pożądanie.
+Dialogue: 0,0:00:39.45,0:00:40.99,Default,,0,0,0,,{\be1}Nariya.
+Dialogue: 0,0:00:47.35,0:00:49.82,Default,,0,0,0,,{\be1}Gdyby mnie polizał...
+Dialogue: 0,0:01:12.06,0:01:13.40,Default,,0,0,0,,{\be1}Nariya?
+Dialogue: 0,0:01:16.45,0:01:18.23,Default (i),,0,0,0,,{\be1}Nikomu go nie oddam.
+Dialogue: 0,0:01:20.45,0:01:23.20,Default (i),,0,0,0,,{\be1}Będziesz mój.
+Dialogue: 0,0:01:31.78,0:01:37.68,Default,,0,0,0,,{\be1}Pani Aoshika, o co chodzi?\NJestem trochę za...
+Dialogue: 0,0:01:47.21,0:01:50.63,Default,,0,0,0,,{\be1}Czemu rozebrała się pani?
+Dialogue: 0,0:01:55.26,0:01:58.68,Default,,0,0,0,,{\be1}O nic nie pytaj.
+Dialogue: 0,0:02:00.33,0:02:04.61,Default,,0,0,0,,{\be1}Możemy zrobić wszystko czego zapragniesz.
+Dialogue: 0,0:02:37.73,0:02:44.07,Default,,0,0,0,,{\be1}W zamian chcę ciebie.
+Dialogue: 0,0:02:52.99,0:02:57.96,Default,,0,0,0,,{\be1}Niesamowite, soki ci już wypływają.
+Dialogue: 0,0:03:02.47,0:03:05.73,Default,,0,0,0,,{\be1}Mogę je zdjąć?
+Dialogue: 0,0:03:40.87,0:03:46.68,Default (i),,0,0,0,,{\be1}Obciągam Nariyi z niewyżytą miną.
+Dialogue: 0,0:04:08.18,0:04:15.34,Default,,0,0,0,,{\be1}Moja cipka też chce spróbować.
+Dialogue: 0,0:04:29.52,0:04:32.56,Default,,0,0,0,,{\be1}Nie patrz tak na mnie.
+Dialogue: 0,0:04:58.00,0:05:04.07,Default,,0,0,0,,{\be1}Włóż go już.
+Dialogue: 0,0:05:11.97,0:05:13.83,Default,,0,0,0,,{\be1}Wepchnij do samego końca!
+Dialogue: 0,0:05:33.39,0:05:36.19,Default,,0,0,0,,{\be1}Tak! Jeszcze!
+Dialogue: 0,0:05:42.07,0:05:44.86,Default,,0,0,0,,{\be1}O rany, jak dobrze!
+Dialogue: 0,0:05:54.13,0:05:57.61,Default,,0,0,0,,{\be1}Nie drażnij się ze mną, włóż go!
+Dialogue: 0,0:06:05.62,0:06:06.57,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:06:15.46,0:06:16.94,Default,,0,0,0,,{\be1}Nie przestawaj!
+Dialogue: 0,0:06:33.62,0:06:37.14,Default,,0,0,0,,{\be1}Przyjemnie ci ze mną?
+Dialogue: 0,0:06:37.83,0:06:41.45,Default,,0,0,0,,{\be1}Tak, mocno ściskasz mi kutasa.
+Dialogue: 0,0:07:37.08,0:07:38.61,Default,,0,0,0,,{\be1}Pani Aoshiko!
+Dialogue: 0,0:07:40.65,0:07:41.68,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:07:47.88,0:07:51.09,Default,,0,0,0,,{\be1}Spuść mi się na twarz!
+Dialogue: 0,0:07:59.46,0:08:00.95,Default,,0,0,0,,{\be1}Pyszna!
+Dialogue: 0,0:08:38.43,0:08:42.64,Default,,0,0,0,,{\be1}Wypinasz tyłek w bardzo seksowny sposób.
+Dialogue: 0,0:08:43.27,0:08:48.64,Default,,0,0,0,,{\be1}O nie, chce mocniej! Ty też się ruszaj!
+Dialogue: 0,0:08:49.42,0:08:51.55,Default,,0,0,0,,{\be1}Jak sobie życzysz!
+Dialogue: 0,0:08:57.30,0:09:00.49,Default,,0,0,0,,{\be1}Nie za zboczona jesteś?
+Dialogue: 0,0:09:02.13,0:09:04.46,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:09:04.99,0:09:07.46,Default,,0,0,0,,{\be1}Śmiało, dojdź!
+Dialogue: 0,0:09:30.76,0:09:33.85,Default,,0,0,0,,{\be1}Rozlewasz wszystko dookoła.
+Dialogue: 0,0:09:35.95,0:09:36.73,Default,,0,0,0,,{\be1}Zadowolona?
+Dialogue: 0,0:09:38.52,0:09:41.70,Default,,0,0,0,,{\be1}Tak, bardzo.
+Dialogue: 0,0:09:42.21,0:09:46.09,Default,,0,0,0,,{\be1}Dobra, to ja już idę.
+Dialogue: 0,0:09:55.11,0:09:57.38,Default,,0,0,0,,{\be1}O czym chcesz pogadać?
+Dialogue: 0,0:10:00.47,0:10:06.89,Default,,0,0,0,,{\be1}Chciałam tylko wiedzieć kim jest\Ndziewczyna, z którą byłeś wczoraj.
+Dialogue: 0,0:10:07.51,0:10:10.22,Default,,0,0,0,,{\be1}Czemu pytasz?
+Dialogue: 0,0:10:10.22,0:10:13.55,Default,,0,0,0,,{\be1}Przecież tylko się bzykamy, nie?
+Dialogue: 0,0:10:14.34,0:10:17.87,Default,,0,0,0,,{\be1}Ingerowanie w życie prywatne\Njest wbrew regulaminowi.
+Dialogue: 0,0:10:35.83,0:10:46.44,Default,,0,0,0,,{\be1}Jeśli chcesz, to przyjdź jutro do mnie,\Nwtedy wszystkiego się dowiesz.
+Dialogue: 0,0:10:47.36,0:10:48.13,Default,,0,0,0,,{\be1}To jak?
+Dialogue: 0,0:10:55.29,0:10:56.67,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:11:10.48,0:11:11.73,Default,,0,0,0,,{\be1}Idę.
+Dialogue: 0,0:11:13.45,0:11:14.59,Default,,0,0,0,,{\be1}To ona.
+Dialogue: 0,0:11:15.47,0:11:18.06,Default,,0,0,0,,{\be1}Kto to?
+Dialogue: 0,0:11:18.06,0:11:20.13,Default,,0,0,0,,{\be1}Kim ty jesteś?
+Dialogue: 0,0:11:23.80,0:11:27.00,Default,,0,0,0,,{\be1}Czyli nie jesteście parą?
+Dialogue: 0,0:11:27.00,0:11:31.37,Default,,0,0,0,,{\be1}Dokładnie, spotykamy się dla seksu.
+Dialogue: 0,0:11:32.67,0:11:35.48,Default,,0,0,0,,{\be1}Tak jak z tobą, Yukiha.
+Dialogue: 0,0:11:35.48,0:11:38.97,Default,,0,0,0,,{\be1}Jaki niemiły!\NJa tu poważnie o nas myślę!
+Dialogue: 0,0:11:38.97,0:11:40.58,Default,,0,0,0,,{\be1}To już wiesz jak jest.
+Dialogue: 0,0:11:40.58,0:11:44.06,Default,,0,0,0,,{\be1}Chciałem, żebyście obie przyszły na trójkącik.
+Dialogue: 0,0:11:44.06,0:11:48.69,Default,,0,0,0,,{\be1}Nie będę uczestniczyć w seksie z inną.
+Dialogue: 0,0:11:48.69,0:11:52.70,Default,,0,0,0,,{\be1}Serio?\NW takim razie możesz popatrzeć.
+Dialogue: 0,0:11:58.38,0:11:59.46,Default,,0,0,0,,{\be1}Nie wierzę.
+Dialogue: 0,0:12:07.97,0:12:13.12,Default,,0,0,0,,{\be1}Ćwiczyłam to wczoraj myśląc o tobie.
+Dialogue: 0,0:12:18.48,0:12:24.19,Default (i),,0,0,0,,{\be1}Ssie mu jakby to był lizak.
+Dialogue: 0,0:12:26.47,0:12:30.41,Default (i),,0,0,0,,{\be1}Przecież to ja zawsze to robię.
+Dialogue: 0,0:12:49.01,0:12:52.61,Default,,0,0,0,,{\be1}To boli, ale jest też przyjemnie.
+Dialogue: 0,0:13:04.30,0:13:08.14,Default (i),,0,0,0,,{\be1}Ze mną też tak robi?
+Dialogue: 0,0:13:09.67,0:13:13.11,Default (i),,0,0,0,,{\be1}Wolisz ją ode mnie?
+Dialogue: 0,0:13:23.40,0:13:28.82,Default (i),,0,0,0,,{\be1}Bierzesz nas tak samo?
+Dialogue: 0,0:13:35.45,0:13:38.58,Default (i),,0,0,0,,{\be1}Nie chcę o tym myśleć.
+Dialogue: 0,0:13:57.02,0:14:01.51,Default,,0,0,0,,{\be1}O nie, nie wytrzymam!
+Dialogue: 0,0:14:02.17,0:14:05.30,Default,,0,0,0,,{\be1}Dobra, spuść się!
+Dialogue: 0,0:14:08.18,0:14:12.26,Default (i),,0,0,0,,{\be1}Nie zabieraj mi Nariyi!
+Dialogue: 0,0:15:04.46,0:15:07.19,Default,,0,0,0,,{\be1}To nie sprawiedliwe, że tylko ona może.
+Dialogue: 0,0:15:20.57,0:15:23.26,Default (i),,0,0,0,,{\be1}Z nią od razu dojdę.
+Dialogue: 0,0:15:49.00,0:15:56.37,Default (i),,0,0,0,,{\be1}Należę do Nariyi.\NIstnieję tylko dla niego.
+Dialogue: 0,0:16:02.02,0:16:05.78,Default,,0,0,0,,{\be1}Chcę jeszcze.
+Dialogue: 0,0:16:28.54,0:16:33.13,Default (i),,0,0,0,,{\be1}Zrobię wszystko, żeby cię uszczęśliwić.
+Dialogue: 0,0:16:37.86,0:16:42.97,Default (i),,0,0,0,,{\be1}Tylko nie odtrącaj mnie.
+Dialogue: 0,0:17:11.13,0:17:14.27,Default,,0,0,0,,{\be1}O rany, nie wytrzymam!
+Dialogue: 0,0:17:28.25,0:17:32.84,Default,,0,0,0,,{\be1}Ale gorący kutas!
+Dialogue: 0,0:17:35.21,0:17:41.85,Default,,0,0,0,,{\be1}Nie drażnij się ze mną!\NJeśli będziesz tam dotykać, to posikam się!
+Dialogue: 0,0:17:42.35,0:17:44.90,Default,,0,0,0,,{\be1}Chcę to zobaczyć.
+Dialogue: 0,0:17:47.07,0:17:50.05,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:17:50.45,0:17:54.43,Default,,0,0,0,,{\be1}Od tego się posikasz?
+Dialogue: 0,0:17:56.05,0:18:01.28,Default,,0,0,0,,{\be1}Nie tak mocno, zsikam się!
+Dialogue: 0,0:18:02.41,0:18:06.11,Default,,0,0,0,,{\be1}Przyjemnie, ale naprawdę się zsikam!
+Dialogue: 0,0:18:07.59,0:18:10.38,Default,,0,0,0,,{\be1}Szybciej, chcę to zobaczyć!
+Dialogue: 0,0:18:14.87,0:18:17.41,Default,,0,0,0,,{\be1}O nie, zaraz wyleci!
+Dialogue: 0,0:18:21.38,0:18:25.39,Default,,0,0,0,,{\be1}Ale gorące!
+Dialogue: 0,0:18:41.16,0:18:44.27,Default,,0,0,0,,{\be1}Nariya, co robisz?
+Dialogue: 0,0:18:51.74,0:18:54.52,Default,,0,0,0,,{\be1}Gdzie chcesz włożyć?
+Dialogue: 0,0:18:56.36,0:18:57.72,Default,,0,0,0,,{\be1}W tyłek.
+Dialogue: 0,0:19:00.91,0:19:01.69,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:19:03.71,0:19:05.12,Default,,0,0,0,,{\be1}Tak bardzo chcę.
+Dialogue: 0,0:19:06.66,0:19:07.93,Default,,0,0,0,,{\be1}To włóż.
+Dialogue: 0,0:19:28.87,0:19:35.86,Default,,0,0,0,,{\be1}- Anal jest cudowny!\N- Ale ciasno!
+Dialogue: 0,0:19:37.35,0:19:39.13,Default,,0,0,0,,{\be1}Ciasno!
+Dialogue: 0,0:19:55.22,0:19:58.82,Default,,0,0,0,,{\be1}Nie wierzę, w tyłek?
+Dialogue: 0,0:20:13.27,0:20:15.85,Default,,0,0,0,,{\be1}To naprawdę jest przyjemne?
+Dialogue: 0,0:20:31.28,0:20:32.82,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:20:45.17,0:20:47.83,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:20:49.49,0:20:50.27,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:20:52.18,0:20:55.21,Default,,0,0,0,,{\be1}Robi się większy i gorętszy!
+Dialogue: 0,0:20:55.21,0:21:02.21,Default,,0,0,0,,{\be1}Rozerwiesz mi tyłek!
+Dialogue: 0,0:21:35.67,0:21:38.70,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:21:39.66,0:21:42.13,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:22:11.51,0:22:16.88,Default,,0,0,0,,{\be1}Tak mocno wkładasz, że zaraz dojdę!
+Dialogue: 0,0:22:18.32,0:22:19.62,Default,,0,0,0,,{\be1}W takim razie...
+Dialogue: 0,0:22:24.63,0:22:26.22,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:23:09.01,0:23:11.44,Default,,0,0,0,,{\be1}Już...

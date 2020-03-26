@@ -1,0 +1,307 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Collisions: Normal
+ScaledBorderAndShadow: yes
+Last Style Storage: [640x480]
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00BB5BBF,&H00A45A8D,-1,-1,0,0,100,100,0,0,1,1.1,1,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,60,&H00A561FC,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,40,1
+Style: Tytul,Franklin Gothic Medium,40,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:11.24,0:02:21.20,Grupa,,0,0,0,,{\be1\fad(1518,0)}Nyan
+Dialogue: 1,0:02:15.70,0:02:21.20,Anime,,0,0,0,,{\be1\1c&HFFFFFF&\t(0,1395,\1c&HA561FC&)}Dekakute Ecchi na Ore no Ane
+Dialogue: 0,0:02:15.70,0:02:21.20,Anime,,0,0,0,,{\be1\3c&HFFFFFF&\bord4\t(0,1395,\3c&H23196A&)}Dekakute Ecchi na Ore no Ane
+Dialogue: 0,0:02:15.70,0:02:21.20,Tytul,,0,0,0,,{\fad(1395,0)}Asaka w akcji
+Dialogue: 0,0:00:10.04,0:00:15.95,Default (i),,0,0,0,,{\be1}- W te wakacje...\N- Musisz...\N- Koniecznie przyjechać.
+Dialogue: 0,0:00:17.22,0:00:22.71,Default (i),,0,0,0,,{\be1}Najwidoczniej w te wakacje będę rozrywką sióstr.
+Dialogue: 0,0:00:25.77,0:00:31.47,Default,,0,0,0,,{\be1}- Shun, witaj w domu!\N- Asaka!
+Dialogue: 0,0:00:32.61,0:00:36.32,Default,,0,0,0,,{\be1}Przytulanie cię uspokaja mnie.
+Dialogue: 0,0:00:36.32,0:00:38.84,Default,,0,0,0,,{\be1}Chyba ci już wystarczy, nie?
+Dialogue: 0,0:00:40.20,0:00:45.91,Default,,0,0,0,,{\be1}Witaj w domu, Shunsuke.\NJak tam moje piersi pod długim czasie?
+Dialogue: 0,0:00:45.91,0:00:48.53,Default,,0,0,0,,{\be1}- Przyjemne, co?\N- Tsukino!
+Dialogue: 0,0:00:50.67,0:00:53.26,Default,,0,0,0,,{\be1}Tsukino, teraz ja.
+Dialogue: 0,0:00:54.17,0:00:56.03,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:00:56.55,0:01:00.87,Default,,0,0,0,,{\be1}- Witaj z powrotem.\N- Yuki!
+Dialogue: 0,0:01:00.87,0:01:03.04,Default,,0,0,0,,{\be1}Dawno się nie widzieliśmy.
+Dialogue: 0,0:01:04.10,0:01:06.76,Default,,0,0,0,,{\be1}Dłużej nie wytrzymam.
+Dialogue: 0,0:01:06.76,0:01:09.05,Default,,0,0,0,,{\be1}Nie oszukuj!
+Dialogue: 0,0:01:09.71,0:01:11.45,Default,,0,0,0,,{\be1}Ej no!
+Dialogue: 0,0:01:13.56,0:01:15.39,Default,,0,0,0,,{\be1}Shun.
+Dialogue: 0,0:01:15.39,0:01:17.35,Default,,0,0,0,,{\be1}Shunsuke.
+Dialogue: 0,0:01:17.35,0:01:19.39,Default,,0,0,0,,{\be1}Shun.
+Dialogue: 0,0:01:34.08,0:01:37.67,Default,,0,0,0,,{\be1}Jak dobrze, że już się obudziłeś.
+Dialogue: 0,0:01:37.67,0:01:39.84,Default,,0,0,0,,{\be1}No nareszcie.
+Dialogue: 0,0:01:39.84,0:01:42.43,Default,,0,0,0,,{\be1}Dobrze się czujesz?
+Dialogue: 0,0:01:42.43,0:01:44.25,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:01:44.25,0:01:48.51,Default,,0,0,0,,{\be1}Shun, mam prośbę.
+Dialogue: 0,0:01:49.14,0:01:54.66,Default,,0,0,0,,{\be1}Bo widzisz, potrzebujemy...
+Dialogue: 0,0:01:56.23,0:01:59.02,Default,,0,0,0,,{\be1}Potrzebujemy twojej spermy!
+Dialogue: 0,0:02:27.39,0:02:31.22,Default,,0,0,0,,{\be1}Nie przestrasz się tego co ci powiem.
+Dialogue: 0,0:02:31.22,0:02:36.14,Default,,0,0,0,,{\be1}Wszystkie zachorowałyśmy.
+Dialogue: 0,0:02:39.90,0:02:41.67,Default,,0,0,0,,{\be1}Na co?
+Dialogue: 0,0:02:43.61,0:02:47.95,Default,,0,0,0,,{\be1}Niemożliwe, wszystkie?
+Dialogue: 0,0:02:43.14,0:02:48.61,Default (top),,0,0,0,,{\be1}Powyższym osobom został zdiagnozowany\Nsyndrom niekontrolowanego podniecenia.
+Dialogue: 0,0:02:51.79,0:02:55.78,Default,,0,0,0,,{\be1}Ale czemu to robicie?
+Dialogue: 0,0:02:56.57,0:03:05.25,Default,,0,0,0,,{\be1}Ta choroba podnieca nas niezależnie od nas.
+Dialogue: 0,0:03:06.18,0:03:10.25,Default,,0,0,0,,{\be1}I tylko w ten sposób można jej zaradzić.
+Dialogue: 0,0:03:10.71,0:03:17.64,Default,,0,0,0,,{\be1}Leczenie jej wymaga regularnych dawek spermy.
+Dialogue: 0,0:03:17.64,0:03:20.97,Default (top),,0,0,0,,{\be1}Regularne dawki spermy.
+Dialogue: 0,0:03:19.56,0:03:20.97,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:03:20.97,0:03:27.91,Default,,0,0,0,,{\be1}Jeśli nam nie pomożesz\Nto możemy nawet umrzeć.
+Dialogue: 0,0:03:27.91,0:03:30.90,Default,,0,0,0,,{\be1}Daj nam swoją spermę.
+Dialogue: 0,0:03:31.37,0:03:34.08,Default,,0,0,0,,{\be1}Prosimy.
+Dialogue: 0,0:03:34.08,0:03:39.87,Default,,0,0,0,,{\be1}Chwilą, przecież to nie znaczy,\Nże musicie brać od brata.
+Dialogue: 0,0:03:40.50,0:03:49.19,Default,,0,0,0,,{\be1}Jeśli nam jej nie dasz, to możemy skończyć\Nnawet z jakimiś brudasami z ulicy.
+Dialogue: 0,0:03:49.19,0:03:51.88,Default,,0,0,0,,{\be1}Nie chcę tak skończyć!
+Dialogue: 0,0:03:51.88,0:03:58.31,Default,,0,0,0,,{\be1}Wolę to robić z tobą niż z nieznajomymi.
+Dialogue: 0,0:03:58.31,0:04:01.85,Default,,0,0,0,,{\be1}Wróć, pragnę tylko ciebie!
+Dialogue: 0,0:04:02.27,0:04:08.28,Default,,0,0,0,,{\be1}Ja też nie chcę spermy nieznajomego.
+Dialogue: 0,0:04:08.28,0:04:11.27,Default,,0,0,0,,{\be1}Wezmę tylko twoją spermę.
+Dialogue: 0,0:04:11.27,0:04:13.07,Default,,0,0,0,,{\be1}Czekajcie.
+Dialogue: 0,0:04:13.83,0:04:20.71,Default,,0,0,0,,{\be1}Nieważne co powiesz, teraz jesteśmy\Ntak podniecone, że weźmiemy ją nawet siłą.
+Dialogue: 0,0:04:20.71,0:04:22.29,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:04:22.29,0:04:29.33,Default,,0,0,0,,{\be1}A poza tym nasz widok podnieca cię.
+Dialogue: 0,0:04:29.76,0:04:31.97,Default,,0,0,0,,{\be1}A więc tak wygląda.
+Dialogue: 0,0:04:31.97,0:04:34.75,Default,,0,0,0,,{\be1}To aż taki duży może być?
+Dialogue: 0,0:04:35.56,0:04:38.77,Default,,0,0,0,,{\be1}Ale masz twardego kutasa.
+Dialogue: 0,0:04:38.77,0:04:44.55,Default,,0,0,0,,{\be1}Niesamowity.\NPrzepraszam, ale nie mogę przestać.
+Dialogue: 0,0:04:45.48,0:04:47.77,Default,,0,0,0,,{\be1}Pierwszy raz masz go między cyckami, nie?
+Dialogue: 0,0:04:48.86,0:04:51.07,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:04:51.07,0:04:54.12,Default,,0,0,0,,{\be1}Jest taki gorący i drży.
+Dialogue: 0,0:04:54.12,0:04:57.98,Default,,0,0,0,,{\be1}To dowód, że mu dobrze.
+Dialogue: 0,0:04:58.75,0:05:00.67,Default,,0,0,0,,{\be1}Coś zaczęło wypływać.
+Dialogue: 0,0:05:00.67,0:05:04.12,Default,,0,0,0,,{\be1}Niesamowite, nadal się powiększa.
+Dialogue: 0,0:05:04.73,0:05:07.71,Default,,0,0,0,,{\be1}Co, już dochodzisz?
+Dialogue: 0,0:05:07.71,0:05:10.62,Default,,0,0,0,,{\be1}Co? Czyli wypuści spermę?
+Dialogue: 0,0:05:10.62,0:05:13.68,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:05:21.77,0:05:24.71,Default,,0,0,0,,{\be1}Dużo się spuściłeś.
+Dialogue: 0,0:05:27.38,0:05:29.65,Default,,0,0,0,,{\be1}Co za mocny zapach.
+Dialogue: 0,0:05:32.11,0:05:35.68,Default,,0,0,0,,{\be1}To sperma Shuna.
+Dialogue: 0,0:05:57.84,0:06:00.81,Default,,0,0,0,,{\be1}Co tu się stało?
+Dialogue: 0,0:06:00.81,0:06:05.84,Default,,0,0,0,,{\be1}Musiało mi się przyśnić, bo to niemożliwe.
+Dialogue: 0,0:06:05.84,0:06:08.38,Default,,0,0,0,,{\be1}Cześć, Shun.
+Dialogue: 0,0:06:17.70,0:06:20.57,Default,,0,0,0,,{\be1}To nie był sen.
+Dialogue: 0,0:06:21.66,0:06:25.58,Default,,0,0,0,,{\be1}Dzięki za lek.
+Dialogue: 0,0:06:31.76,0:06:34.56,Default,,0,0,0,,{\be1}Asaka, czy ty się...
+Dialogue: 0,0:06:35.77,0:06:37.85,Default,,0,0,0,,{\be1}Na to wygląda.
+Dialogue: 0,0:06:37.85,0:06:39.84,Default,,0,0,0,,{\be1}Co mam zrobić?
+Dialogue: 0,0:06:40.68,0:06:44.55,Default,,0,0,0,,{\be1}Proszę, pomóż mi!
+Dialogue: 0,0:06:45.19,0:06:47.94,Default,,0,0,0,,{\be1}Możemy się chwilę zabawić, nie?
+Dialogue: 0,0:06:50.52,0:06:53.90,Default,,0,0,0,,{\be1}Robi się gorący.
+Dialogue: 0,0:06:53.90,0:06:57.37,Default,,0,0,0,,{\be1}Poczekaj, nawilżę śliną.
+Dialogue: 0,0:07:00.61,0:07:07.04,Default,,0,0,0,,{\be1}Przepraszam, że tak to zrobiłam,\Nale mógłby cię inaczej zaboleć, nie?
+Dialogue: 0,0:07:07.04,0:07:12.12,Default,,0,0,0,,{\be1}Ale to wygląda nieprzyzwoicie,\Ngdy mam go między piersiami.
+Dialogue: 0,0:07:12.12,0:07:18.13,Default,,0,0,0,,{\be1}A do tego robimy to na dworze, przepraszam.
+Dialogue: 0,0:07:18.13,0:07:23.11,Default,,0,0,0,,{\be1}Twój fiut robi się twardszy.
+Dialogue: 0,0:07:23.11,0:07:26.63,Default,,0,0,0,,{\be1}Niesamowite, do tego jest jeszcze większy.
+Dialogue: 0,0:07:27.44,0:07:31.78,Default,,0,0,0,,{\be1}Jest taki duży, że wyleci dużo spermy, nie?
+Dialogue: 0,0:07:38.49,0:07:41.57,Default,,0,0,0,,{\be1}Twoja sperma wyleciała.
+Dialogue: 0,0:07:43.74,0:07:50.41,Default (i),,0,0,0,,{\be1}Ciężko ją połknąć, bo przykleja się\Ndo języka, a do tego ten zapach.
+Dialogue: 0,0:07:51.06,0:07:56.28,Default,,0,0,0,,{\be1}Daj mi więcej spermy.
+Dialogue: 0,0:08:03.46,0:08:06.30,Default,,0,0,0,,{\be1}Haruka, wstrzymaj się!
+Dialogue: 0,0:08:06.30,0:08:07.92,Default,,0,0,0,,{\be1}Haruka!
+Dialogue: 0,0:08:07.92,0:08:15.72,Default,,0,0,0,,{\be1}Widziałam wczoraj, co robiłeś z Asaką.
+Dialogue: 0,0:08:18.27,0:08:26.40,Default,,0,0,0,,{\be1}Skoro możesz z siostrą,\Nto tym bardziej z przyjaciółką!
+Dialogue: 0,0:08:28.36,0:08:33.12,Default,,0,0,0,,{\be1}Asaka robiła to tak.
+Dialogue: 0,0:08:33.88,0:08:36.29,Default,,0,0,0,,{\be1}Przyjemne to?
+Dialogue: 0,0:08:36.80,0:08:43.00,Default,,0,0,0,,{\be1}Robię to dobrze?\NMogę robić to dalej, nie?
+Dialogue: 0,0:08:44.39,0:08:49.06,Default,,0,0,0,,{\be1}Ale on twardy.
+Dialogue: 0,0:08:49.06,0:08:56.64,Default,,0,0,0,,{\be1}Gdy tak robię, to zaczyna mi się robić gorąco.\NChyba twoje ciepło przechodzi na mnie.
+Dialogue: 0,0:08:56.64,0:09:03.19,Default,,0,0,0,,{\be1}Coś wypływa z czubka,\Ntu też jest ci przyjemnie?
+Dialogue: 0,0:09:03.62,0:09:08.24,Default,,0,0,0,,{\be1}Robię to dobrze?
+Dialogue: 0,0:09:08.25,0:09:11.71,Default,,0,0,0,,{\be1}O tak, jest cudownie.
+Dialogue: 0,0:09:13.63,0:09:18.87,Default,,0,0,0,,{\be1}Cieszę się, że podniecają cię moje piersi.
+Dialogue: 0,0:09:26.81,0:09:30.90,Default,,0,0,0,,{\be1}Dogodzę ci jeszcze mocniej.
+Dialogue: 0,0:09:38.61,0:09:44.11,Default,,0,0,0,,{\be1}Ale dużo spermy.\NWięc to tak wylatuje.
+Dialogue: 0,0:09:44.68,0:09:49.09,Default,,0,0,0,,{\be1}Było ci przyjemnie z moimi piersiami?
+Dialogue: 0,0:09:50.15,0:09:51.07,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:09:54.18,0:09:55.68,Default,,0,0,0,,{\be1}To dobrze.
+Dialogue: 0,0:09:59.58,0:10:03.58,Default,,0,0,0,,{\be1}Przepraszam, nie mogę wytrzymać.
+Dialogue: 0,0:10:04.84,0:10:12.81,Default,,0,0,0,,{\be1}Potrzebuję twojej spermy,\Nale również przyjemnie mi, gdy tak robię.
+Dialogue: 0,0:10:12.81,0:10:16.28,Default,,0,0,0,,{\be1}Twój fiut jest bardzo gorący.
+Dialogue: 0,0:10:17.06,0:10:21.82,Default,,0,0,0,,{\be1}Robi mi się bardzo gorąco i nie przestaje.
+Dialogue: 0,0:10:21.82,0:10:23.94,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:10:23.94,0:10:28.56,Default,,0,0,0,,{\be1}Twój fiuta rusza się między moimi piersiami.
+Dialogue: 0,0:10:29.33,0:10:35.24,Default,,0,0,0,,{\be1}Tak bardzo się cieszę,\Nże robimy to, że aż się podniecam!
+Dialogue: 0,0:10:36.13,0:10:41.91,Default,,0,0,0,,{\be1}Tak mi przyjemnie i gorąco, że chyba oszaleję!
+Dialogue: 0,0:10:41.91,0:10:45.67,Default,,0,0,0,,{\be1}Przepraszam, że masz zboczoną siostrę.
+Dialogue: 0,0:10:51.85,0:10:56.64,Default,,0,0,0,,{\be1}Dużo się spuściłeś, cieszy mnie to.
+Dialogue: 0,0:10:57.60,0:11:00.64,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:11:01.43,0:11:07.15,Default,,0,0,0,,{\be1}Możesz się jeszcze spuścić, prawda?\NA mnie sama sperma już nie wystarczy.
+Dialogue: 0,0:11:07.86,0:11:13.65,Default,,0,0,0,,{\be1}To mój pierwszy raz, więc nie wiem\Njak będzie, ale postaram się.
+Dialogue: 0,0:11:16.00,0:11:20.09,Default,,0,0,0,,{\be1}Wszedłeś we mnie!
+Dialogue: 0,0:11:20.09,0:11:25.50,Default,,0,0,0,,{\be1}Jest taki duży, że zapycha mnie całą!
+Dialogue: 0,0:11:27.48,0:11:34.30,Default,,0,0,0,,{\be1}Przepraszam, nie powinniśmy tego robić,\Nale nie mogę się powstrzymać.
+Dialogue: 0,0:11:36.20,0:11:41.51,Default,,0,0,0,,{\be1}Oddałam Shunowi dziewictwo.
+Dialogue: 0,0:11:42.35,0:11:47.96,Default,,0,0,0,,{\be1}O nie, rusza się w środku!
+Dialogue: 0,0:11:48.81,0:11:52.53,Default,,0,0,0,,{\be1}Boli, ale zaraz jest cudownie!
+Dialogue: 0,0:11:52.53,0:11:58.11,Default,,0,0,0,,{\be1}Chyba zaczynam czuć przyjemność!
+Dialogue: 0,0:11:59.17,0:12:02.71,Default,,0,0,0,,{\be1}To mój pierwszy raz, a przyjemnie mi!
+Dialogue: 0,0:12:02.71,0:12:06.45,Default,,0,0,0,,{\be1}To takie zboczone, że wstyd mi!
+Dialogue: 0,0:12:08.36,0:12:14.65,Default,,0,0,0,,{\be1}Niesamowite, twój fiut wchodzi we mnie!
+Dialogue: 0,0:12:14.65,0:12:18.55,Default,,0,0,0,,{\be1}Nie ma w tym nic zboczonego!
+Dialogue: 0,0:12:19.02,0:12:24.36,Default,,0,0,0,,{\be1}Naprawdę? Więc mogę się o nic nie martwić?
+Dialogue: 0,0:12:24.36,0:12:28.52,Default,,0,0,0,,{\be1}Jesteś urocza, gdy się podniecasz!
+Dialogue: 0,0:12:28.52,0:12:34.86,Default,,0,0,0,,{\be1}No nie, zazwyczaj to my tak mówimy o tobie!
+Dialogue: 0,0:12:35.49,0:12:40.00,Default,,0,0,0,,{\be1}Nawet nie wiem kiedy tak bardzo wyrosłeś.
+Dialogue: 0,0:12:40.00,0:12:42.28,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:12:42.88,0:12:48.33,Default,,0,0,0,,{\be1}Nie możesz spuścić się we mnie,\Nale nie mogę przestać!
+Dialogue: 0,0:12:53.68,0:12:59.83,Default,,0,0,0,,{\be1}Tak dużo się spuściłeś, że mogę zajść w ciążę!
+Dialogue: 0,0:13:00.84,0:13:05.73,Default,,0,0,0,,{\be1}Moja dziewicza krew i twoja\Nsperma mieszają się we mnie!
+Dialogue: 0,0:13:05.73,0:13:10.18,Default,,0,0,0,,{\be1}Na dodatek nadal ci stoi!
+Dialogue: 0,0:13:11.32,0:13:16.99,Default,,0,0,0,,{\be1}Przestaję myśleć racjonalnie!
+Dialogue: 0,0:13:16.99,0:13:23.50,Default,,0,0,0,,{\be1}Tak mi dobrze, że niedługo dojdę!
+Dialogue: 0,0:13:23.50,0:13:30.33,Default,,0,0,0,,{\be1}Słyszałeś? Niedługo dojdę i czuję\Njakby coś miało ze mnie wyjść!
+Dialogue: 0,0:13:30.33,0:13:33.43,Default,,0,0,0,,{\be1}Zaraz znowu dojdę!
+Dialogue: 0,0:13:33.43,0:13:36.05,Default,,0,0,0,,{\be1}Dobra, spuść się gdzie chcesz!
+Dialogue: 0,0:13:36.05,0:13:38.17,Default,,0,0,0,,{\be1}Więc w środku!
+Dialogue: 0,0:13:38.97,0:13:45.14,Default,,0,0,0,,{\be1}Co? Ale mogę zajść w ciążę!
+Dialogue: 0,0:13:46.33,0:13:52.94,Default,,0,0,0,,{\be1}Ale i tak chcę żebyś to zrobił!
+Dialogue: 0,0:13:53.82,0:13:57.19,Default,,0,0,0,,{\be1}Ale mocno! O rany, zaraz dojdę!
+Dialogue: 0,0:14:05.04,0:14:14.39,Default,,0,0,0,,{\be1}Mam w sobie tak dużo spermy,\Nże mogę zajść w ciążę.
+Dialogue: 0,0:14:17.93,0:14:19.58,Default,,0,0,0,,{\be1}Asaka.
+Dialogue: 0,0:14:20.28,0:14:22.22,Default,,0,0,0,,{\be1}Czekaj chwilę!
+Dialogue: 0,0:14:28.11,0:14:31.68,Default,,0,0,0,,{\be1}Witamy! A może nie?
+Dialogue: 0,0:14:32.38,0:14:38.72,Default,,0,0,0,,{\be1}Tak tylko sobie pomyślałam,\Nże czasem mogę nałożyć coś uroczego!
+Dialogue: 0,0:14:39.42,0:14:42.90,Default,,0,0,0,,{\be1}No i jest urocze. To narka.
+Dialogue: 0,0:14:44.28,0:14:46.28,Default,,0,0,0,,{\be1}Co chcesz?
+Dialogue: 0,0:14:46.71,0:14:53.85,Default,,0,0,0,,{\be1}Podnieciłam się, gdy mnie zobaczyłeś.
+Dialogue: 0,0:14:55.70,0:14:57.68,Default,,0,0,0,,{\be1}Ale twardy.
+Dialogue: 0,0:14:57.68,0:14:59.75,Default,,0,0,0,,{\be1}Asaka, czekaj.
+Dialogue: 0,0:14:59.75,0:15:04.14,Default,,0,0,0,,{\be1}Nie, podnieciłam się już.
+Dialogue: 0,0:15:04.14,0:15:08.97,Default,,0,0,0,,{\be1}To twoja wina, więc teraz zrób coś z tym.
+Dialogue: 0,0:15:08.97,0:15:10.43,Default,,0,0,0,,{\be1}No, ale...
+Dialogue: 0,0:15:11.69,0:15:16.20,Default,,0,0,0,,{\be1}Ale gorący i twardy.\NDłużej nie wytrzymam.
+Dialogue: 0,0:15:16.20,0:15:23.99,Default,,0,0,0,,{\be1}Patrzenie na twoją rozmarzoną twarz podnieca mnie.
+Dialogue: 0,0:15:25.12,0:15:28.58,Default,,0,0,0,,{\be1}Polepszyłam się w zadowalaniu piersiami?
+Dialogue: 0,0:15:28.58,0:15:31.88,Default,,0,0,0,,{\be1}Sama powinnaś wiedzieć najlepiej!
+Dialogue: 0,0:15:31.88,0:15:37.00,Default,,0,0,0,,{\be1}Nie będę wiedzieć, jeśli mi nie powiesz.
+Dialogue: 0,0:15:37.48,0:15:41.56,Default,,0,0,0,,{\be1}Jesteś lepsza!
+Dialogue: 0,0:15:41.56,0:15:45.47,Default,,0,0,0,,{\be1}Cieszę się.\NPostaram się jeszcze bardziej.
+Dialogue: 0,0:15:46.44,0:15:51.27,Default,,0,0,0,,{\be1}Co za odgłosy, dochodzisz już?
+Dialogue: 0,0:15:51.27,0:15:56.43,Default,,0,0,0,,{\be1}Śmiało, wypiję całą spermę.
+Dialogue: 0,0:15:57.53,0:15:59.40,Default,,0,0,0,,{\be1}Leci!
+Dialogue: 0,0:16:00.05,0:16:02.15,Default,,0,0,0,,{\be1}Ale jej dużo!
+Dialogue: 0,0:16:02.91,0:16:07.91,Default,,0,0,0,,{\be1}Cieszę się, że tak cię podniecam.
+Dialogue: 0,0:16:08.33,0:16:17.91,Default,,0,0,0,,{\be1}Ale nawet po wypiciu spermy\Nnadal jestem podniecona.
+Dialogue: 0,0:16:18.76,0:16:20.59,Default,,0,0,0,,{\be1}Muszę wypić więcej!
+Dialogue: 0,0:16:20.59,0:16:27.13,Default,,0,0,0,,{\be1}Wypuść mi w buzi dużo więcej spermy!
+Dialogue: 0,0:16:27.13,0:16:32.35,Default,,0,0,0,,{\be1}Twój fiut drży, chce wypuścić spermę!
+Dialogue: 0,0:16:32.35,0:16:38.14,Default,,0,0,0,,{\be1}Wypuść całą spermę!
+Dialogue: 0,0:16:41.82,0:16:46.90,Default,,0,0,0,,{\be1}Twoja sperma jest pyszna.
+Dialogue: 0,0:16:48.83,0:16:55.37,Default,,0,0,0,,{\be1}To za mało, możesz jeszcze się spuścić?
+Dialogue: 0,0:16:56.34,0:17:00.01,Default,,0,0,0,,{\be1}Jeszcze mi mało.
+Dialogue: 0,0:17:00.01,0:17:03.83,Default,,0,0,0,,{\be1}Tym razem wypiję ją tędy.
+Dialogue: 0,0:17:03.83,0:17:09.98,Default,,0,0,0,,{\be1}Nie wytrzymam, chcę cię poczuć mocniej!
+Dialogue: 0,0:17:09.98,0:17:14.31,Default,,0,0,0,,{\be1}Masz dużego i wspaniałego fiuta!
+Dialogue: 0,0:17:14.31,0:17:16.85,Default,,0,0,0,,{\be1}Nie przestajesz drżeć we mnie!
+Dialogue: 0,0:17:17.28,0:17:20.53,Default,,0,0,0,,{\be1}O nie, ale mocno się podnieciłam!
+Dialogue: 0,0:17:20.53,0:17:25.31,Default,,0,0,0,,{\be1}Co za wstyd, że musisz mnie taką oglądać!
+Dialogue: 0,0:17:25.31,0:17:29.58,Default,,0,0,0,,{\be1}Wstyd mi, ale i tak nie mogę przestać!
+Dialogue: 0,0:17:29.58,0:17:34.42,Default,,0,0,0,,{\be1}Jestem teraz taka wrażliwa,\Nże dokładnie czuję kształt twojego fiuta!
+Dialogue: 0,0:17:34.42,0:17:36.33,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:17:36.33,0:17:43.54,Default,,0,0,0,,{\be1}Dobra, spuść się jak najwięcej we mnie!
+Dialogue: 0,0:17:44.58,0:17:53.01,Default,,0,0,0,,{\be1}Dużo spermy wlewa się mnie! Cudownie!
+Dialogue: 0,0:17:53.01,0:18:00.64,Default,,0,0,0,,{\be1}Chcę więcej twojej spermy!\NCała się od niej lepię!
+Dialogue: 0,0:18:02.96,0:18:07.78,Default,,0,0,0,,{\be1}Znowu wypuściłeś we mnie dużo gorącej spermy!
+Dialogue: 0,0:18:07.78,0:18:11.08,Default,,0,0,0,,{\be1}Sperma wlatuje głęboko we mnie!
+Dialogue: 0,0:18:11.08,0:18:13.91,Default,,0,0,0,,{\be1}Proszę, nie przestawaj!
+Dialogue: 0,0:18:14.97,0:18:17.84,Default,,0,0,0,,{\be1}Macica mi nie wytrzyma!
+Dialogue: 0,0:18:17.84,0:18:21.87,Default,,0,0,0,,{\be1}Jak będziesz tak mocno wkładać,\Nto nie powstrzymam się!
+Dialogue: 0,0:18:23.34,0:18:27.46,Default,,0,0,0,,{\be1}Rozerwiesz mnie, ale nie mogę przestać!
+Dialogue: 0,0:18:28.31,0:18:30.15,Default,,0,0,0,,{\be1}Znowu dochodzę!
+Dialogue: 0,0:18:30.15,0:18:32.89,Default,,0,0,0,,{\be1}Spuść się, gdzie chcesz!
+Dialogue: 0,0:18:32.89,0:18:34.80,Default,,0,0,0,,{\be1}Spuszczę się znowu w środku!
+Dialogue: 0,0:18:36.02,0:18:42.31,Default,,0,0,0,,{\be1}Tak dużo się spuszczasz, że\Nna pewno zajdę w ciążę, ale i tak ją chcę!
+Dialogue: 0,0:18:48.11,0:18:53.40,Default,,0,0,0,,{\be1}Więcej spermy się nie zmieści!
+Dialogue: 0,0:18:53.87,0:18:57.79,Default,,0,0,0,,{\be1}Wszystko się wylewa!
+Dialogue: 0,0:18:57.79,0:18:59.90,Default,,0,0,0,,{\be1}Co za strata!
+Dialogue: 0,0:19:09.76,0:19:13.81,Default,,0,0,0,,{\be1}Znowu się podniecam!
+Dialogue: 0,0:19:13.81,0:19:19.06,Default,,0,0,0,,{\be1}Nie powinnam tego robić w pokoju Shuna!
+Dialogue: 0,0:19:19.94,0:19:26.39,Default,,0,0,0,,{\be1}Gdy dotykam tutaj, to bardzo się podniecam!
+Dialogue: 0,0:19:26.39,0:19:29.48,Default,,0,0,0,,{\be1}O rany, jak dobrze!
+Dialogue: 0,0:19:29.48,0:19:35.49,Default,,0,0,0,,{\be1}Nie powinnam zabawiać się na jego łóżku!
+Dialogue: 0,0:19:35.91,0:19:40.29,Default,,0,0,0,,{\be1}Dlaczego tak bardzo się podniecam?
+Dialogue: 0,0:19:40.29,0:19:46.88,Default,,0,0,0,,{\be1}Nawet mocno ściskam sutki,\Nale muszę się pozbyć tego uczucia!
+Dialogue: 0,0:19:46.88,0:19:50.69,Default,,0,0,0,,{\be1}Nie mogę przestać, chcę więcej!
+Dialogue: 0,0:19:52.99,0:20:00.89,Default,,0,0,0,,{\be1}Już nie mogę! Dochodzę!\NZaraz dojdę na łóżku Shuna!
+Dialogue: 0,0:20:08.74,0:20:12.40,Default,,0,0,0,,{\be1}No nie, to nadal za mało.\NCo mam zrobić?
+Dialogue: 0,0:20:12.91,0:20:16.40,Default,,0,0,0,,{\be1}Wystarczy, że ja cię zaspokoję, nie?
+Dialogue: 0,0:20:17.75,0:20:21.59,Default,,0,0,0,,{\be1}Shun?! Jak długo patrzysz?!
+Dialogue: 0,0:20:21.59,0:20:25.15,Default,,0,0,0,,{\be1}Chcę ci pomóc z chorobą.
+Dialogue: 0,0:20:28.63,0:20:30.71,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:20:32.76,0:20:34.53,Default,,0,0,0,,{\be1}Wchodzi!
+Dialogue: 0,0:20:36.10,0:20:39.68,Default,,0,0,0,,{\be1}Włóż go mocno.
+Dialogue: 0,0:20:40.69,0:20:45.68,Default,,0,0,0,,{\be1}Te zabawki nawet się nie umywają do ciebie!
+Dialogue: 0,0:20:46.90,0:20:51.60,Default,,0,0,0,,{\be1}Jeszcze trochę i włożysz do samego końca!
+Dialogue: 0,0:20:52.41,0:20:57.61,Default,,0,0,0,,{\be1}Wszedł! Zacznij mnie pieprzyć!
+Dialogue: 0,0:21:01.33,0:21:02.71,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:21:02.71,0:21:12.05,Default,,0,0,0,,{\be1}Te odgłosy mnie zawstydzają,\Nale i ta mnie mogę się powstrzymać!
+Dialogue: 0,0:21:12.05,0:21:17.47,Default,,0,0,0,,{\be1}Seks jest dużo lepszy niż\Nmasturbacja, a zwłaszcza twój fiut!
+Dialogue: 0,0:21:17.47,0:21:20.09,Default,,0,0,0,,{\be1}Ale mocno ścisnęłaś!
+Dialogue: 0,0:21:20.09,0:21:27.60,Default,,0,0,0,,{\be1}Śmiało, wypuść całą spermę we mnie!
+Dialogue: 0,0:21:28.65,0:21:31.83,Default,,0,0,0,,{\be1}Wlewa się mnie!
+Dialogue: 0,0:21:35.61,0:21:40.57,Default,,0,0,0,,{\be1}Sperma wlatuje w moją macicę!
+Dialogue: 0,0:21:41.75,0:21:45.78,Default,,0,0,0,,{\be1}Twój fiut nadal jest twardy!
+Dialogue: 0,0:21:46.29,0:21:50.17,Default,,0,0,0,,{\be1}Spuściłeś się we mnie,\Nale nie mogę przestać!
+Dialogue: 0,0:21:50.17,0:21:54.25,Default,,0,0,0,,{\be1}Przepraszam, ciało nie chce mnie słuchać!
+Dialogue: 0,0:21:55.10,0:22:01.22,Default,,0,0,0,,{\be1}To za mało, chcę więcej!
+Dialogue: 0,0:22:01.64,0:22:05.48,Default,,0,0,0,,{\be1}Przepraszam, ale podniecenie nie ustaje!
+Dialogue: 0,0:22:05.48,0:22:10.18,Default,,0,0,0,,{\be1}Wkładaj mocniej!
+Dialogue: 0,0:22:10.61,0:22:16.00,Default,,0,0,0,,{\be1}Daj mi więcej spermy!
+Dialogue: 0,0:22:16.00,0:22:21.19,Default,,0,0,0,,{\be1}Tak mi wstyd, ale i tak cię pragnę!
+Dialogue: 0,0:22:21.19,0:22:28.16,Default,,0,0,0,,{\be1}Proszę, pieprz mnie mocniej!
+Dialogue: 0,0:22:29.05,0:22:36.67,Default,,0,0,0,,{\be1}Twój duży fiut pieprzy mnie! Mocniej!
+Dialogue: 0,0:22:36.67,0:22:42.67,Default,,0,0,0,,{\be1}Cudownie! Nie wytrzymam, jeśli dalej\Nbędziesz mnie tak pieprzyć!
+Dialogue: 0,0:22:42.67,0:22:48.40,Default,,0,0,0,,{\be1}Tak mi cudownie, że oszaleję,\Njeśli nie przestaniesz!
+Dialogue: 0,0:22:48.40,0:22:52.51,Default,,0,0,0,,{\be1}Twój fiut mnie rozpycha!
+Dialogue: 0,0:22:53.78,0:23:00.65,Default,,0,0,0,,{\be1}Jestem szczęśliwa!\NZapełnij mnie spermą! Mocniej!
+Dialogue: 0,0:23:01.45,0:23:09.16,Default,,0,0,0,,{\be1}O nie, zaraz dojdę,\Nspuść się gdzie chcesz!
+Dialogue: 0,0:23:09.59,0:23:16.56,Default,,0,0,0,,{\be1}Już nie mogę!\NBędę mieć ogromny orgazm!
+Dialogue: 0,0:23:18.01,0:23:19.22,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:23:19.22,0:23:22.67,Default,,0,0,0,,{\be1}Spuść się! Dojdźmy razem!
+Dialogue: 0,0:23:22.67,0:23:25.26,Default,,0,0,0,,{\be1}Spuszczę się w środku!
+Dialogue: 0,0:23:25.94,0:23:33.64,Default,,0,0,0,,{\be1}Znowu w środku?\NJeszcze trochę i naprawdę zajdę ciążę!
+Dialogue: 0,0:23:39.37,0:23:45.15,Default,,0,0,0,,{\be1}Dużo spermy wlewa się we mnie!
+Dialogue: 0,0:23:45.66,0:23:48.73,Default,,0,0,0,,{\be1}Więcej się nie zmieści!
+Dialogue: 0,0:23:48.73,0:23:52.87,Default,,0,0,0,,{\be1}Na pewno mnie zapłodniłeś!
+Dialogue: 0,0:24:03.26,0:24:06.38,Default,,0,0,0,,{\be1}Obudziłam cię?
+Dialogue: 0,0:24:06.81,0:24:08.61,Default,,0,0,0,,{\be1}Asaka?
+Dialogue: 0,0:24:09.52,0:24:13.39,Default,,0,0,0,,{\be1}Pieprzyliśmy się całą noc,\Na tobie nadal mało?
+Dialogue: 0,0:24:14.37,0:24:18.69,Default,,0,0,0,,{\be1}To nie wystarczy, a ty nagle zasnąłeś.
+Dialogue: 0,0:24:19.32,0:24:28.58,Default,,0,0,0,,{\be1}Ale nawet wtedy ci stał i wypuszczał\Nspermę, więc wypiłam wszystko.
+Dialogue: 0,0:24:28.58,0:24:31.74,Default,,0,0,0,,{\be1}Przepraszam, że jestem taka.
+Dialogue: 0,0:24:33.08,0:24:37.88,Default,,0,0,0,,{\be1}Przepraszam, ale cały czas jestem podniecona.
+Dialogue: 0,0:24:37.88,0:24:43.61,Default,,0,0,0,,{\be1}Dlatego daj mi...
+Dialogue: 0,0:24:47.20,0:24:49.14,Default,,0,0,0,,{\be1}Więcej spermy, dobra?
+Dialogue: 0,0:24:51.19,0:24:56.92,Default,,0,0,0,,{\be1}Cudownie! O nie, moje ciało drży!
+Dialogue: 0,0:24:56.92,0:24:59.77,Default,,0,0,0,,{\be1}Zapychasz mi cała cipkę!
+Dialogue: 0,0:24:59.77,0:25:09.00,Default,,0,0,0,,{\be1}Dochodzisz już?\NWypuść dużo spermy i ulecz mnie!
+Dialogue: 0,0:25:17.67,0:25:21.25,Default,,0,0,0,,{\be1}Przepyszna sperma!
+Dialogue: 0,0:25:22.47,0:25:26.76,Default,,0,0,0,,{\be1}Asaka! Shunsuke nie jest tylko twój!
+Dialogue: 0,0:25:26.76,0:25:28.72,Default,,0,0,0,,{\be1}To nie fair!
+Dialogue: 0,0:25:28.72,0:25:34.06,Default,,0,0,0,,{\be1}- Całą noc słyszałam twoje jęki!\N- Nie wyspałam się.
+Dialogue: 0,0:25:34.06,0:25:38.23,Default,,0,0,0,,{\be1}No, ale podniecenie nie ustaje.
+Dialogue: 0,0:25:38.23,0:25:43.70,Default,,0,0,0,,{\be1}Słysząc jęki sama się podnieciłam!
+Dialogue: 0,0:25:43.70,0:25:46.53,Default,,0,0,0,,{\be1}Ja też.
+Dialogue: 0,0:25:46.53,0:25:50.20,Default,,0,0,0,,{\be1}Kiedy ja nadal jestem podniecona!
+Dialogue: 0,0:25:51.24,0:25:55.98,Default,,0,0,0,,{\be1}- Shunsuke.\N- Shun.
+Dialogue: 0,0:26:01.38,0:26:03.50,Default,,0,0,0,,{\be1}Daj nam spermę.

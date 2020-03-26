@@ -1,0 +1,242 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build470  Jan  9 2016  12:22:32
+Title: Kainote Ass File
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 27
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00000000,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,120,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,90,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H00B23BFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,20,1
+Style: ED Pl,Franklin Gothic Medium,28,&H00B23BFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.44,0:00:09.91,Grupa,,0,0,0,,Nyan
+Dialogue: 0,0:00:00.43,0:00:05.44,Anime,,0,0,0,,{\move(424,80,424,100,0,4992)\t(0,4992,\fs104)}Futabu!!
+Dialogue: 0,0:00:05.44,0:00:06.28,Anime,,0,0,0,,{\move(424,100,424,440)\t(\frx-90)\fs104}Futabu!!
+Dialogue: 0,0:00:05.56,0:00:06.42,Tytul,,0,0,0,,{\move(424,40,424,330)\frx90\t(0,154,\frx60)\t(154,279,\frx40)\t(279,404,\frx25)\t(404,696,\frx5)\t(696,$end,\frx0)}Do gorących źródeł
+Dialogue: 0,0:00:06.42,0:00:09.91,Tytul,,0,0,0,,{\move(424,330,424,324)\t(\fs82)}Do gorących źródeł
+Dialogue: 0,0:18:10.74,0:18:18.81,ED Rom,,0,0,0,,{\be1\fad(200,200)}toaru asa mega sametara watashi ni mo haete ita
+Dialogue: 0,0:18:19.08,0:18:24.88,ED Rom,,0,0,0,,{\be1\fad(200,200)}yume ni made mita sono nari no nari ga
+Dialogue: 0,0:18:25.74,0:18:33.23,ED Rom,,0,0,0,,{\be1\fad(200,200)}anoko tachi mo kitto jibun de mousou shiteru hazu
+Dialogue: 0,0:18:33.56,0:18:39.61,ED Rom,,0,0,0,,{\be1\fad(200,200)}hitoriyogari wo dekiru hi mo tooku nai
+Dialogue: 0,0:18:41.41,0:18:47.43,ED Rom,,0,0,0,,{\be1\fad(200,200)}dakedo yappari kininaru
+Dialogue: 0,0:18:48.83,0:18:52.83,ED Rom,,0,0,0,,{\be1\fad(200,200)}onnanoko no mama mo ii kedo
+Dialogue: 0,0:18:52.85,0:18:57.04,ED Rom,,0,0,0,,{\be1\fad(200,200)}dashi no mesenn de shitai janai
+Dialogue: 0,0:18:58.84,0:19:07.39,ED Rom,,0,0,0,,{\be1\fad(200,200)}futanari nari ni jibun nari ni jibun no nari wo
+Dialogue: 0,0:19:07.56,0:19:14.48,ED Rom,,0,0,0,,{\be1\fad(200,200)}tomadoi kakete futanari ni jibun nari ni
+Dialogue: 1,0:19:14.34,0:19:22.95,ED Rom,,0,0,0,,{\be1\fad(200,200)}futanari nari ni jibun nari ni monmon to
+Dialogue: 0,0:19:23.04,0:19:32.87,ED Rom,,0,0,0,,{\be1\fad(200,200)}watashi no subete ga futanari ni futanari ni nari ni
+Dialogue: 0,0:18:10.74,0:18:18.81,ED Pl,,0,0,0,,{\be1\fad(200,200)}Gdy obudziłam się pewnego ranka\Nzobaczyłam go między nogami.
+Dialogue: 0,0:18:19.08,0:18:24.88,ED Pl,,0,0,0,,{\be1\fad(200,200)}Moje marzenie w końcu się spełniło.
+Dialogue: 0,0:18:25.74,0:18:33.23,ED Pl,,0,0,0,,{\be1\fad(200,200)}Reszta pewnie też o nim marzyła.
+Dialogue: 0,0:18:33.56,0:18:39.61,ED Pl,,0,0,0,,{\be1\fad(200,200)}Nadchodzi dzień,\Nw którym będę dumna z siebie.
+Dialogue: 0,0:18:41.41,0:18:47.43,ED Pl,,0,0,0,,{\be1\fad(200,200)}Ale ciekawi mnie jedno...
+Dialogue: 0,0:18:48.83,0:18:52.83,ED Pl,,0,0,0,,{\be1\fad(200,200)}Czy nie powinnam być tylko dziewczyną?
+Dialogue: 0,0:18:52.85,0:18:57.04,ED Pl,,0,0,0,,{\be1\fad(200,200)}Czy może spróbować\Njak to jest być chłopakiem?
+Dialogue: 0,0:18:58.84,0:19:07.39,ED Pl,,0,0,0,,{\be1\fad(200,200)}Stań się jedną z nas i zacznij być sobą.
+Dialogue: 0,0:19:07.56,0:19:14.48,ED Pl,,0,0,0,,{\be1\fad(200,200)}Możesz czuć się zagubiona tylko bądź sobą.
+Dialogue: 1,0:19:14.34,0:19:22.95,ED Pl,,0,0,0,,{\be1\fad(200,200)}Stań się jedną z nas i bądź sobą,\Nchoć trosk ci nie ubędzie.
+Dialogue: 0,0:19:23.04,0:19:32.87,ED Pl,,0,0,0,,{\be1\fad(200,200)}Całym ciałem stanę się jedną z was.
+Dialogue: 0,0:00:17.23,0:00:20.64,Default,,0,0,0,,{\be1}Ale rześkie powietrze.
+Dialogue: 0,0:00:20.64,0:00:24.21,Default,,0,0,0,,{\be1}Warto było przyjechać.
+Dialogue: 0,0:00:25.25,0:00:29.34,Default,,0,0,0,,{\be1}Jestem podekscytowana!
+Dialogue: 0,0:00:40.81,0:00:45.36,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:00:45.36,0:00:49.43,Default,,0,0,0,,{\be1}Witam w gorących źródłach Manra.
+Dialogue: 0,0:00:49.43,0:00:52.84,Default,,0,0,0,,{\be1}Jestem nowym zarządcą, Chie.
+Dialogue: 0,0:00:52.84,0:01:01.14,Default,,0,0,0,,{\be1}Wasza rezerwacja już czaka, miłego pobytu.
+Dialogue: 0,0:01:01.14,0:01:02.11,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:01:02.11,0:01:04.26,Default,,0,0,0,,{\be1}Chcę się już zabawić!
+Dialogue: 0,0:01:04.26,0:01:06.73,Default,,0,0,0,,{\be1}Co robimy? Idziemy łowić ryby czy pływać łódką?
+Dialogue: 0,0:01:06.73,0:01:09.77,Default,,0,0,0,,{\be1}To nie łódki tylko kajaki.
+Dialogue: 0,0:01:09.77,0:01:13.51,Default,,0,0,0,,{\be1}Dziewczyny, zapomniałyście po co tu jesteśmy?
+Dialogue: 0,0:01:14.04,0:01:18.43,Default,,0,0,0,,{\be1}Mamy napisać o zwyczajach, kulturze i festynie Manry.
+Dialogue: 0,0:01:19.01,0:01:28.64,Default,,0,0,0,,{\be1}Wielu uważa, że to zwykły festyn,\Nale najwyraźniej coś się za nim kryje.
+Dialogue: 0,0:01:28.64,0:01:33.41,Default,,0,0,0,,{\be1}Wiem, mówiłaś już wiele razy.
+Dialogue: 0,0:01:33.41,0:01:35.79,Default,,0,0,0,,{\be1}My też wiemy.
+Dialogue: 0,0:01:35.79,0:01:40.12,Default,,0,0,0,,{\be1}Dobra, badania badaniami, ale najpierw gorące źródła!
+Dialogue: 0,0:01:42.58,0:01:44.65,Default,,0,0,0,,{\be1}Nie mogę się doczekać!
+Dialogue: 0,0:01:44.65,0:01:47.06,Default,,0,0,0,,{\be1}To wszystko dzięki Akane.
+Dialogue: 0,0:01:59.13,0:02:03.52,Default,,0,0,0,,{\be1}Wygląda na to, że jesteśmy dobrze zasłonięte.
+Dialogue: 0,0:02:08.28,0:02:10.32,Default,,0,0,0,,{\be1}Możemy się odprężyć.
+Dialogue: 0,0:02:10.32,0:02:11.94,Default,,0,0,0,,{\be1}Wskakuję pierwsza!
+Dialogue: 0,0:02:11.94,0:02:13.78,Default,,0,0,0,,{\be1}Druga!
+Dialogue: 0,0:02:13.78,0:02:16.99,Default,,0,0,0,,{\be1}Muszę siku!
+Dialogue: 0,0:02:16.99,0:02:20.51,Default,,0,0,0,,{\be1}Tylko dobrze ją wytrzyj!
+Dialogue: 0,0:02:21.30,0:02:25.51,Default,,0,0,0,,{\be1}To miejsce wygląda znajomo.
+Dialogue: 0,0:02:25.51,0:02:27.04,Default,,0,0,0,,{\be1}To?
+Dialogue: 0,0:02:27.54,0:02:31.09,Default,,0,0,0,,{\be1}Może wdziałaś je w jakiejś gazecie?
+Dialogue: 0,0:02:31.09,0:02:33.09,Default,,0,0,0,,{\be1}Możliwe.
+Dialogue: 0,0:02:36.46,0:02:38.82,Default,,0,0,0,,{\be1}Zaraz się zsikam.
+Dialogue: 0,0:02:38.82,0:02:40.27,Default,,0,0,0,,{\be1}O, tradycyjna.
+Dialogue: 0,0:02:47.53,0:02:50.32,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:02:56.07,0:02:59.36,Default,,0,0,0,,{\be1}Idealna temperatura.
+Dialogue: 0,0:02:59.36,0:03:03.84,Default,,0,0,0,,{\be1}No, pozbyłam się całego stresu.
+Dialogue: 0,0:03:06.92,0:03:08.64,Default,,0,0,0,,{\be1}Sumika?
+Dialogue: 0,0:03:09.96,0:03:16.97,Default,,0,0,0,,{\be1}Tak mi dziwnie dobrze, że aż się podnieciłam.
+Dialogue: 0,0:03:22.27,0:03:26.74,Default,,0,0,0,,{\be1}To co, może i my zaczniemy?
+Dialogue: 0,0:03:28.56,0:03:31.71,Default,,0,0,0,,{\be1}Wprawdzie jesteśmy zasłonięte, ale...
+Dialogue: 0,0:03:33.07,0:03:37.25,Default,,0,0,0,,{\be1}Jeśli coś się stanie ja wezmę odpowiedzialność!
+Dialogue: 0,0:03:38.19,0:03:43.16,Default,,0,0,0,,{\be1}W końcu jestem przewodniczącą!
+Dialogue: 0,0:03:45.23,0:03:50.84,Default,,0,0,0,,{\be1}A właśnie, nie zapomniałaś o przegranej grze, nie?
+Dialogue: 0,0:03:51.38,0:03:54.92,Default,,0,0,0,,{\be1}Faktycznie, przegrany miał być ukarany.
+Dialogue: 0,0:03:55.65,0:04:00.39,Default,,0,0,0,,{\be1}Taka kara nie jest odpowiednia do tego miejsca.
+Dialogue: 0,0:04:01.56,0:04:04.60,Default,,0,0,0,,{\be1}Nie ten!
+Dialogue: 0,0:04:04.60,0:04:06.56,Default,,0,0,0,,{\be1}Złapałam nie tego.
+Dialogue: 0,0:04:06.56,0:04:08.56,Default,,0,0,0,,{\be1}Sorki.
+Dialogue: 0,0:04:09.48,0:04:12.82,Default,,0,0,0,,{\be1}Atak z zaskoczenia jest podły!
+Dialogue: 0,0:04:12.82,0:04:18.28,Default,,0,0,0,,{\be1}Kiedy widzę, że się podnieciłaś.
+Dialogue: 0,0:04:19.28,0:04:22.91,Default,,0,0,0,,{\be1}Twój fiut dotyka mnie w cipkę!
+Dialogue: 0,0:04:22.91,0:04:26.37,Default,,0,0,0,,{\be1}Akane jest znacznie lepsza niż kiedyś.
+Dialogue: 0,0:04:26.37,0:04:31.03,Default,,0,0,0,,{\be1}Przyciskasz swoje piersi do mnie!
+Dialogue: 0,0:04:31.03,0:04:33.83,Default,,0,0,0,,{\be1}To jest całkiem przyjemne!
+Dialogue: 0,0:04:35.83,0:04:38.55,Default,,0,0,0,,{\be1}Zaczyna ci stawać!
+Dialogue: 0,0:04:39.30,0:04:43.01,Default,,0,0,0,,{\be1}Muszę się pośpieszyć zanim całkiem stanie.
+Dialogue: 0,0:04:47.49,0:04:52.44,Default,,0,0,0,,{\be1}Akane, zdejmij ją!
+Dialogue: 0,0:05:04.53,0:05:06.39,Default,,0,0,0,,{\be1}To jest...
+Dialogue: 0,0:05:06.39,0:05:07.80,Default,,0,0,0,,{\be1}Jesteś...
+Dialogue: 0,0:05:16.04,0:05:20.01,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:05:20.01,0:05:22.13,Default,,0,0,0,,{\be1}Razem!
+Dialogue: 0,0:05:29.70,0:05:31.56,Default,,0,0,0,,{\be1}Teraz piersiami.
+Dialogue: 0,0:05:33.47,0:05:35.69,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:05:45.78,0:05:48.29,Default,,0,0,0,,{\be1}Wszystko zasyfiłyśmy.
+Dialogue: 0,0:05:48.29,0:05:51.12,Default,,0,0,0,,{\be1}Spoko, przecież zarezerwowałyśmy cały zajazd.
+Dialogue: 0,0:05:51.12,0:05:54.29,Default,,0,0,0,,{\be1}To ja jestem najbardziej pobrudzona.
+Dialogue: 0,0:05:54.29,0:05:59.30,Default,,0,0,0,,{\be1}Wiemy, jako przeprosiny zerżnę ci tyłek.
+Dialogue: 0,0:05:59.30,0:06:01.90,Default,,0,0,0,,{\be1}Zmieszczę?
+Dialogue: 0,0:06:01.90,0:06:06.32,Default,,0,0,0,,{\be1}Raczej tak, trochę się rozluźnił od wody.
+Dialogue: 0,0:06:11.99,0:06:14.77,Default,,0,0,0,,{\be1}Ale gruby!
+Dialogue: 0,0:06:14.77,0:06:17.57,Default,,0,0,0,,{\be1}Anal rozpoczęty!
+Dialogue: 0,0:06:18.77,0:06:22.24,Default,,0,0,0,,{\be1}Ale ty masz ciasny tyłek!
+Dialogue: 0,0:06:22.24,0:06:26.84,Default,,0,0,0,,{\be1}Twoja cipka co chwilę się otwiera.
+Dialogue: 0,0:06:33.21,0:06:38.13,Default,,0,0,0,,{\be1}Skoro tył jest zajęty, wezmę przód.
+Dialogue: 0,0:06:38.13,0:06:40.88,Default,,0,0,0,,{\be1}Od razu przepraszam.
+Dialogue: 0,0:06:40.88,0:06:42.84,Default,,0,0,0,,{\be1}Wkładam!
+Dialogue: 0,0:06:45.30,0:06:49.30,Default,,0,0,0,,{\be1}Z dwoma naraz jesteś bardzo ciasna!
+Dialogue: 0,0:06:49.83,0:06:53.81,Default,,0,0,0,,{\be1}Jeszcze się nie zmieniłam, więc wytrzymaj!
+Dialogue: 0,0:06:53.81,0:06:55.13,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:06:57.77,0:07:02.69,Default,,0,0,0,,{\be1}Z której strony wolisz?
+Dialogue: 0,0:07:02.69,0:07:04.49,Default,,0,0,0,,{\be1}Z obu tak samo!
+Dialogue: 0,0:07:04.49,0:07:09.74,Default,,0,0,0,,{\be1}Obie mocno mnie pieprzycie!
+Dialogue: 0,0:07:09.74,0:07:13.20,Default,,0,0,0,,{\be1}Jesteś za ciasna, zaraz dojdę!
+Dialogue: 0,0:07:13.20,0:07:19.25,Default,,0,0,0,,{\be1}Czuję twojego fiuta!\NNie mogę się przez to powstrzymać!
+Dialogue: 0,0:07:19.25,0:07:21.71,Default,,0,0,0,,{\be1}No to kończę pierwsza!
+Dialogue: 0,0:07:26.47,0:07:29.39,Default,,0,0,0,,{\be1}Ale mocno ścisnęłaś!
+Dialogue: 0,0:07:35.74,0:07:38.40,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:07:38.40,0:07:41.58,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:07:45.64,0:07:47.70,Default,,0,0,0,,{\be1}O nie, znowu?
+Dialogue: 0,0:07:49.73,0:07:53.41,Default,,0,0,0,,{\be1}Znowu dochodzę!
+Dialogue: 0,0:07:58.36,0:08:02.88,Default,,0,0,0,,{\be1}Tylko nie ręką, bo nie wytrzymam!
+Dialogue: 0,0:08:05.63,0:08:11.85,Default,,0,0,0,,{\be1}Nie! Boli! Delikatniej!
+Dialogue: 0,0:08:25.09,0:08:27.07,Default,,0,0,0,,{\be1}Ołtarz?
+Dialogue: 0,0:08:28.06,0:08:29.82,Default,,0,0,0,,{\be1}Tutaj?
+Dialogue: 0,0:08:31.83,0:08:34.51,Default,,0,0,0,,{\be1}Więc o to chodzi.
+Dialogue: 0,0:08:35.79,0:08:37.81,Default,,0,0,0,,{\be1}Teraz rozumiem.
+Dialogue: 0,0:08:42.52,0:08:44.50,Default,,0,0,0,,{\be1}A one gdzie?
+Dialogue: 0,0:08:53.20,0:08:54.97,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:08:54.97,0:08:55.72,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:08:55.72,0:09:00.86,Default,,0,0,0,,{\be1}Nie mogę znaleźć przyjaciółek, wie pani gdzie są?
+Dialogue: 0,0:09:00.86,0:09:08.40,Default,,0,0,0,,{\be1}Niedawno wyszły.\NMówiły, że idę czegoś poszukać.
+Dialogue: 0,0:09:12.66,0:09:15.70,Default,,0,0,0,,{\be1}Pani zarządco, mogę zadać pytanie?
+Dialogue: 0,0:09:15.70,0:09:17.08,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:09:17.08,0:09:22.82,Default,,0,0,0,,{\be1}Czemu cuchnie pani spermą?
+Dialogue: 0,0:09:22.82,0:09:23.88,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:09:24.41,0:09:26.79,Default,,0,0,0,,{\be1}Gdzie są moje przyjaciółki?
+Dialogue: 0,0:09:27.70,0:09:32.05,Default,,0,0,0,,{\be1}Nie wiem o czym mówisz, muszę iść.
+Dialogue: 0,0:09:34.68,0:09:37.47,Default,,0,0,0,,{\be1}Wiedziałam, że coś jest nie tak.
+Dialogue: 0,0:09:37.47,0:09:40.23,Default,,0,0,0,,{\be1}Zarządca ma fiuta.
+Dialogue: 0,0:09:41.69,0:09:43.27,Default,,0,0,0,,{\be1}Chie.
+Dialogue: 0,0:09:45.87,0:09:50.87,Default,,0,0,0,,{\be1}- Od czego zaczniemy?\N- Nie!
+Dialogue: 0,0:09:54.74,0:09:57.08,Default,,0,0,0,,{\be1}Cudowne piersi.
+Dialogue: 0,0:09:58.14,0:10:02.06,Default,,0,0,0,,{\be1}Zrozumiałam coś, gdy pojęłam znaczenie tutejszego festynu.
+Dialogue: 0,0:10:02.71,0:10:09.71,Default,,0,0,0,,{\be1}Tutejszy ołtarz wygląda jak jeden ze zdjęcia.\NNawet nazwę ma podobną.
+Dialogue: 0,0:10:09.71,0:10:12.72,Default,,0,0,0,,{\be1}Prawda kryje się w legendach.
+Dialogue: 0,0:10:14.21,0:10:19.43,Default,,0,0,0,,{\be1}Mam przestać czy chce pani więcej?
+Dialogue: 0,0:10:19.43,0:10:21.96,Default,,0,0,0,,{\be1}Chcę!
+Dialogue: 0,0:10:23.87,0:10:27.78,Default,,0,0,0,,{\be1}Co robicie na festynie?
+Dialogue: 0,0:10:27.78,0:10:30.53,Default,,0,0,0,,{\be1}Spuszczamy się na ołtarz!
+Dialogue: 0,0:10:31.02,0:10:37.12,Default,,0,0,0,,{\be1}Podobno stanie się cud,\Njeśli wystarczająco długo będzie się spuszczać!
+Dialogue: 0,0:10:37.12,0:10:43.21,Default,,0,0,0,,{\be1}Rozumiem, dlatego chciałaś do tego hermafrodytę.
+Dialogue: 0,0:10:43.21,0:10:50.46,Default,,0,0,0,,{\be1}Tutejsza woda ma niezwykle\Nhipnotyzujące właściwości na hermafrodyty!
+Dialogue: 0,0:10:50.46,0:10:53.22,Default,,0,0,0,,{\be1}Więc to dlatego.
+Dialogue: 0,0:10:53.99,0:10:58.43,Default,,0,0,0,,{\be1}Co zrobiła pani z moimi przyjaciółkami?
+Dialogue: 0,0:10:59.84,0:11:06.23,Default,,0,0,0,,{\be1}Przepraszam, powiedziałam, że w magazynie\Njest coś niezwykłego i zaprowadziłam je tam!
+Dialogue: 0,0:11:06.23,0:11:08.44,Default,,0,0,0,,{\be1}Po co?
+Dialogue: 0,0:11:08.44,0:11:13.40,Default,,0,0,0,,{\be1}Przestraszyłam się, gdy zobaczyłam,\Nże wy też jesteście hermafrodytami!
+Dialogue: 0,0:11:13.40,0:11:19.03,Default,,0,0,0,,{\be1}Myślałam, że stracę swoją pozycję,\Njeśli więcej mi podobnych przyjedzie tu!
+Dialogue: 0,0:11:19.03,0:11:21.36,Default,,0,0,0,,{\be1}Nic takiego się nie stanie.
+Dialogue: 0,0:11:21.36,0:11:23.37,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:11:23.37,0:11:25.54,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:11:25.54,0:11:33.87,Default,,0,0,0,,{\be1}Festyn jest ważny, ale nasze fiuty są\Nstworzone do zaspokajania nas nawzajem.
+Dialogue: 0,0:11:33.87,0:11:36.84,Default,,0,0,0,,{\be1}A my nie krzywdzimy jednej z nas.
+Dialogue: 0,0:11:37.99,0:11:40.20,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:11:41.91,0:11:44.91,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:11:50.94,0:11:54.71,Default,,0,0,0,,{\be1}Gdzie go włożyć?
+Dialogue: 0,0:11:54.71,0:11:57.99,Default,,0,0,0,,{\be1}W cipkę.
+Dialogue: 0,0:12:03.01,0:12:08.37,Default,,0,0,0,,{\be1}Ma pani świetną cipkę!
+Dialogue: 0,0:12:08.37,0:12:11.85,Default,,0,0,0,,{\be1}Naprawdę? Cieszę się!
+Dialogue: 0,0:12:11.85,0:12:14.55,Default,,0,0,0,,{\be1}Przyspieszę!
+Dialogue: 0,0:12:24.33,0:12:28.30,Default,,0,0,0,,{\be1}Teraz zwolnię.
+Dialogue: 0,0:12:33.34,0:12:39.07,Default,,0,0,0,,{\be1}Cudownie! Jak dobrze!
+Dialogue: 0,0:12:39.07,0:12:42.52,Default,,0,0,0,,{\be1}Zaraz dojdę! Mocniej!
+Dialogue: 0,0:12:42.52,0:12:45.95,Default,,0,0,0,,{\be1}Nie za szybko?
+Dialogue: 0,0:12:46.46,0:12:49.41,Default,,0,0,0,,{\be1}Spuszczanie się to też moja praca!
+Dialogue: 0,0:12:51.35,0:12:57.53,Default,,0,0,0,,{\be1}Nie na maty! Podstaw chociaż stół!
+Dialogue: 0,0:12:57.53,0:13:01.39,Default,,0,0,0,,{\be1}Teraz tym bardziej chcę tak zrobić.
+Dialogue: 0,0:13:01.39,0:13:04.07,Default,,0,0,0,,{\be1}Ciężko będzie je umyć!
+Dialogue: 0,0:13:12.31,0:13:15.31,Default,,0,0,0,,{\be1}Czas trochę panią zakręcić!
+Dialogue: 0,0:13:22.23,0:13:25.03,Default,,0,0,0,,{\be1}Zarządczyni z fiutem specjalnością zajazdu.
+Dialogue: 0,0:13:25.67,0:13:28.38,Default,,0,0,0,,{\be1}Ma pani niesamowite gabaryty.
+Dialogue: 0,0:13:33.00,0:13:36.57,Default,,0,0,0,,{\be1}Ma pani gorącego fiuta!
+Dialogue: 0,0:13:36.57,0:13:40.55,Default,,0,0,0,,{\be1}Pocieranie się o twoją skórę jest bardzo przyjemne!
+Dialogue: 0,0:13:40.55,0:13:43.51,Default,,0,0,0,,{\be1}Pocałujmy się!
+Dialogue: 0,0:13:55.61,0:14:01.12,Default,,0,0,0,,{\be1}Mocno się podniecam, gdy pocieram fiutem o twoje ciało!
+Dialogue: 0,0:14:01.82,0:14:04.45,Default,,0,0,0,,{\be1}Jesteś chyba do tego stworzona!
+Dialogue: 0,0:14:07.70,0:14:12.77,Default,,0,0,0,,{\be1}Jest pani zboczona tak jak pani język!
+Dialogue: 0,0:14:18.81,0:14:21.93,Default,,0,0,0,,{\be1}Cudowny fiut, ale...
+Dialogue: 0,0:14:25.85,0:14:29.06,Default,,0,0,0,,{\be1}Chcę polizać twoją cipkę.
+Dialogue: 0,0:14:48.97,0:14:52.00,Default,,0,0,0,,{\be1}Nawet tyłeczek masz piękny.
+Dialogue: 0,0:14:52.00,0:14:55.28,Default,,0,0,0,,{\be1}Jakoś dziwnie się zawstydziłam.
+Dialogue: 0,0:14:59.23,0:15:03.82,Default,,0,0,0,,{\be1}Cudownie jest wkładać między twoje piersi!
+Dialogue: 0,0:15:04.88,0:15:09.27,Default,,0,0,0,,{\be1}Tylko hermafrodyty mogą tego doświadczyć!
+Dialogue: 0,0:15:33.26,0:15:39.17,Default,,0,0,0,,{\be1}Pani cipka jest jeszcze ciaśniejsza!
+Dialogue: 0,0:15:41.53,0:15:46.39,Default,,0,0,0,,{\be1}Na starość człowiek trochę zwalnia...
+Dialogue: 0,0:15:48.33,0:15:55.16,Default,,0,0,0,,{\be1}Ale jak tylko się rozkręci to nie da się go powstrzymać!
+Dialogue: 0,0:16:00.37,0:16:04.49,Default,,0,0,0,,{\be1}Pani cipka jest niesamowita!
+Dialogue: 0,0:16:08.32,0:16:11.73,Default,,0,0,0,,{\be1}Jakby chciała mi wessać fiuta!
+Dialogue: 0,0:16:16.44,0:16:19.97,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:16:21.65,0:16:25.96,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:16:28.69,0:16:32.51,Default,,0,0,0,,{\be1}Niesamowite! Ale jej dużo!
+Dialogue: 0,0:16:32.51,0:16:34.13,Default,,0,0,0,,{\be1}Moja też leci!
+Dialogue: 0,0:16:46.86,0:16:50.68,Default,,0,0,0,,{\be1}Czemu jesteśmy tu zamknięte?
+Dialogue: 0,0:16:50.68,0:16:53.74,Default,,0,0,0,,{\be1}Minęła już jakaś godzina.
+Dialogue: 0,0:16:53.74,0:16:56.87,Default,,0,0,0,,{\be1}Jak można tak traktować klienta?
+Dialogue: 0,0:17:00.16,0:17:01.88,Default,,0,0,0,,{\be1}Przejście.
+Dialogue: 0,0:17:04.38,0:17:06.63,Default,,0,0,0,,{\be1}Ai, obudź się!
+Dialogue: 0,0:17:06.63,0:17:08.49,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:17:08.49,0:17:10.84,Default,,0,0,0,,{\be1}Dużo się spuściła.
+Dialogue: 0,0:17:12.30,0:17:14.31,Default,,0,0,0,,{\be1}Sumika!
+Dialogue: 0,0:17:14.31,0:17:17.47,Default,,0,0,0,,{\be1}Już wiem czemu się bałaś.
+Dialogue: 0,0:17:17.47,0:17:18.31,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:17:27.21,0:17:32.13,Default,,0,0,0,,{\be1}W naszej rodziny hermafrodyty rodzą się od pokoleń.
+Dialogue: 0,0:17:32.13,0:17:36.51,Default,,0,0,0,,{\be1}A co pani odziedziczy?
+Dialogue: 0,0:17:36.51,0:17:39.25,Default,,0,0,0,,{\be1}To tajemnica.
+Dialogue: 0,0:17:39.25,0:17:42.61,Default,,0,0,0,,{\be1}Nieładnie pytać o takie rzeczy.
+Dialogue: 0,0:17:43.25,0:17:45.40,Default,,0,0,0,,{\be1}No tak.
+Dialogue: 0,0:17:46.87,0:17:51.26,Default,,0,0,0,,{\be1}No, niektóre tajemnice nie powinny wypływać.
+Dialogue: 0,0:17:52.57,0:17:55.76,Default,,0,0,0,,{\be1}Chwała hermafrodytom, co nie?
+Dialogue: 0,0:17:58.06,0:18:03.68,Default,,0,0,0,,{\be1}- Ja będę ojcem, a Aya matką.\N- Chyba na odwrót!

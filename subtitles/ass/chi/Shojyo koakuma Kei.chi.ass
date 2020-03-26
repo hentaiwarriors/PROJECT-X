@@ -1,0 +1,271 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,25,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,2,2,10,10,10,1
+Style: title,微软雅黑,25,&H00FFFFFF,&HF0000000,&H0000FF00,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,9,30,30,10,134
+Style: up,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00800380,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,20,&H00F29F00,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00FF0000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.85,0:00:10.22,staff2,NTP,0,0,0,,少女小悪魔系 蠢く(うごめく)女たち\N少女小恶魔系 蠢蠢欲动的女人们
+Dialogue: 0,0:00:54.60,0:00:57.43,Default,NTP,0,0,0,,喂 你看看 下面发生什么
+Dialogue: 0,0:01:00.80,0:01:03.43,Default,NTP,0,0,0,,老子的车啊
+Dialogue: 0,0:01:08.63,0:01:14.66,Default,NTP,0,0,0,,怎么搞的 居然在这里停车
+Dialogue: 0,0:01:32.76,0:01:36.20,Default,NTP,0,0,0,,喂 那女的是怎么了!
+Dialogue: 0,0:01:36.20,0:01:38.40,Default,NTP,0,0,0,,还好今天是保时捷
+Dialogue: 0,0:01:38.40,0:01:40.40,Default,NTP,0,0,0,,你说什么?
+Dialogue: 0,0:01:40.40,0:01:43.83,Default,NTP,0,0,0,,她平时都是开陆地巡航者的
+Dialogue: 0,0:01:44.36,0:01:46.56,Default,NTP,0,0,0,,我们还是谈正事吧
+Dialogue: 0,0:01:49.63,0:01:52.63,Default,NTP,0,0,0,,先在支票上盖个章吧
+Dialogue: 0,0:01:54.40,0:01:57.80,Default,NTP,0,0,0,,这天不还亮着吗?
+Dialogue: 0,0:02:06.60,0:02:08.96,Default,NTP,0,0,0,,报酬我已经准备好了
+Dialogue: 0,0:02:09.80,0:02:11.03,Default,NTP,0,0,0,,等、等一下
+Dialogue: 0,0:02:11.03,0:02:14.13,Default,NTP,0,0,0,,该不会是刚才那个墨镜女吧
+Dialogue: 0,0:02:26.96,0:02:30.00,Default,NTP,0,0,0,,相当漂亮的姑娘啊
+Dialogue: 0,0:02:45.96,0:02:47.10,Default,NTP,0,0,0,,不
+Dialogue: 0,0:02:47.10,0:02:49.60,Default,NTP,0,0,0,,今天陪你的不是她
+Dialogue: 0,0:02:55.03,0:03:00.80,Default,NTP,0,0,0,,这回的订单是童颜萝莉嘛
+Dialogue: 0,0:03:03.83,0:03:07.00,Default,NTP,0,0,0,,没事 这个姑娘也行 够好了
+Dialogue: 0,0:03:08.76,0:03:12.16,Default,NTP,0,0,0,,由里 带客人到那个房间吧
+Dialogue: 0,0:03:17.73,0:03:19.50,Default,NTP,0,0,0,,请走
+Dialogue: 0,0:03:22.76,0:03:27.10,Default,NTP,0,0,0,,这小子 什么服务态度啊
+Dialogue: 0,0:04:00.53,0:04:03.56,Default,NTP,0,0,0,,你不负责陪客吗?
+Dialogue: 0,0:04:05.53,0:04:09.83,Default,NTP,0,0,0,,恭一大人只是叫我带你来房间…
+Dialogue: 0,0:04:11.83,0:04:14.83,Default,NTP,0,0,0,,又被那小子坑了
+Dialogue: 0,0:04:16.46,0:04:18.23,Default,NTP,0,0,0,,你只听那小子的话吗
+Dialogue: 0,0:04:18.66,0:04:20.23,Default,NTP,0,0,0,,实在很抱歉
+Dialogue: 0,0:04:20.80,0:04:22.63,Default,NTP,0,0,0,,我要换人!
+Dialogue: 0,0:04:23.83,0:04:25.56,Default,NTP,0,0,0,,那我很难做的呀
+Dialogue: 0,0:04:26.36,0:04:29.00,Default,NTP,0,0,0,,老子才是顾客啊
+Dialogue: 0,0:04:40.13,0:04:41.56,Default,NTP,0,0,0,,请慢慢享受
+Dialogue: 0,0:04:53.96,0:04:56.60,Default,NTP,0,0,0,,你说话真是够死板的
+Dialogue: 0,0:04:56.60,0:05:01.13,Default,NTP,0,0,0,,对不起 我还没习惯
+Dialogue: 0,0:05:01.13,0:05:07.13,Default,NTP,0,0,0,,拒绝也不应该惹怒客人
+Dialogue: 0,0:05:07.90,0:05:10.06,Default,NTP,0,0,0,,因为 我今天才开始带客
+Dialogue: 0,0:05:10.13,0:05:11.66,Default,NTP,0,0,0,,你啊
+Dialogue: 0,0:05:12.93,0:05:15.10,Default,NTP,0,0,0,,可不要拖我们生意的后腿
+Dialogue: 0,0:05:16.23,0:05:17.60,Default,NTP,0,0,0,,对不起
+Dialogue: 0,0:05:37.90,0:05:41.13,Default,NTP,0,0,0,,是要换别的小姐吗?
+Dialogue: 0,0:05:55.03,0:05:57.03,Default,NTP,0,0,0,,这 太美妙了
+Dialogue: 0,0:05:58.06,0:05:59.23,Default,NTP,0,0,0,,真的?
+Dialogue: 0,0:05:59.23,0:06:01.23,Default,NTP,0,0,0,,那大叔 你
+Dialogue: 0,0:06:08.60,0:06:10.46,Default,NTP,0,0,0,,好好反省一下吧
+Dialogue: 0,0:06:11.36,0:06:13.00,Default,NTP,0,0,0,,抱歉 抱歉
+Dialogue: 0,0:06:13.36,0:06:15.06,Default,NTP,0,0,0,,这可不行
+Dialogue: 0,0:06:15.06,0:06:17.26,Default,NTP,0,0,0,,用汪星语道歉吧
+Dialogue: 0,0:06:19.00,0:06:20.76,Default,NTP,0,0,0,,汪星语?
+Dialogue: 0,0:06:21.30,0:06:24.86,Default,NTP,0,0,0,,浅部先生 你是萝莉控吧
+Dialogue: 0,0:06:25.76,0:06:30.16,Default,NTP,0,0,0,,想和小姑娘好好玩的话 就别管什么尊严了
+Dialogue: 0,0:06:31.63,0:06:35.86,Default,NTP,0,0,0,,汪~ 汪~ 汪~
+Dialogue: 0,0:06:39.33,0:06:40.66,Default,NTP,0,0,0,,这是...
+Dialogue: 0,0:06:41.66,0:06:44.70,Default,NTP,0,0,0,,乖 小狗乖 快点道歉啦
+Dialogue: 0,0:06:44.70,0:06:46.03,Default,NTP,0,0,0,,汪~ 汪~ 汪~
+Dialogue: 0,0:06:47.10,0:06:48.46,Default,NTP,0,0,0,,看到了没有?
+Dialogue: 0,0:06:48.46,0:06:52.56,Default,NTP,0,0,0,,汪~ 汪~ 汪~
+Dialogue: 0,0:06:59.70,0:07:01.70,Default,NTP,0,0,0,,小狗不是这样的
+Dialogue: 0,0:07:02.23,0:07:05.30,Default,NTP,0,0,0,,汪~ 汪~ 汪~
+Dialogue: 0,0:07:07.53,0:07:08.96,Default,NTP,0,0,0,,不行 不行
+Dialogue: 0,0:07:08.96,0:07:12.23,Default,NTP,0,0,0,,大叔你是一只很凶斗牛梗
+Dialogue: 0,0:07:12.23,0:07:16.20,Default,NTP,0,0,0,,斗牛梗?说是斗牛梗我也不懂啊
+Dialogue: 0,0:07:16.40,0:07:18.30,Default,NTP,0,0,0,,别那么多废话了
+Dialogue: 0,0:07:25.76,0:07:27.80,Default,NTP,0,0,0,,这房子专门是偷窥用的?
+Dialogue: 0,0:07:28.26,0:07:29.80,Default,NTP,0,0,0,,保安监控啦
+Dialogue: 0,0:07:30.36,0:07:32.96,Default,NTP,0,0,0,,还有 录下来将来说不定能用上
+Dialogue: 0,0:07:41.53,0:07:45.26,Default,NTP,0,0,0,,大叔 这件要脱么
+Dialogue: 0,0:07:45.70,0:07:48.83,Default,NTP,0,0,0,,穿着干吧
+Dialogue: 0,0:07:49.33,0:07:50.83,Default,NTP,0,0,0,,鞋子也不要脱了?
+Dialogue: 0,0:07:55.60,0:07:59.10,Default,NTP,0,0,0,,这鞋子也好像穿着更有情趣
+Dialogue: 0,0:08:00.70,0:08:02.83,Default,NTP,0,0,0,,哇 变态
+Dialogue: 0,0:08:03.56,0:08:06.13,Default,NTP,0,0,0,,再说 再说我是变态吧
+Dialogue: 0,0:08:06.66,0:08:12.00,Default,NTP,0,0,0,,哇 真是大变态 就满足一下你吧 死变态
+Dialogue: 0,0:08:27.56,0:08:30.06,Default,NTP,0,0,0,,这身体真是美不可收
+Dialogue: 0,0:08:31.03,0:08:35.13,Default,NTP,0,0,0,,怎样 符合大叔你的要求吧
+Dialogue: 0,0:08:36.96,0:08:42.13,Default,NTP,0,0,0,,情窦初开的少女般的身形 就是我的菜
+Dialogue: 0,0:08:58.43,0:09:03.63,Default,NTP,0,0,0,,这种未经人事的少女的感觉 我最喜欢
+Dialogue: 0,0:09:04.00,0:09:05.63,Default,NTP,0,0,0,,好羞涩~
+Dialogue: 0,0:09:34.86,0:09:39.86,Default,NTP,0,0,0,,咋样?在这特等席看别人爱爱爽不?
+Dialogue: 0,0:09:41.03,0:09:42.80,Default,NTP,0,0,0,,我也答不上来
+Dialogue: 0,0:09:45.33,0:09:48.36,Default,NTP,0,0,0,,看着学习下吧
+Dialogue: 0,0:10:24.56,0:10:27.40,Default,NTP,0,0,0,,不行 这就要射了?
+Dialogue: 0,0:10:37.53,0:10:40.53,Default,NTP,0,0,0,,你的技术很娴熟嘛
+Dialogue: 0,0:10:44.23,0:10:47.00,Default,NTP,0,0,0,,我不是处女 失望了?
+Dialogue: 0,0:10:49.30,0:10:51.10,Default,NTP,0,0,0,,"不是处女"
+Dialogue: 0,0:10:51.40,0:10:55.46,Default,NTP,0,0,0,,绫香装纯还真是一套一套的
+Dialogue: 0,0:11:28.80,0:11:33.30,Default,NTP,0,0,0,,感觉怎样 痛吗 觉得痛吗?
+Dialogue: 0,0:11:33.30,0:11:36.23,Default,NTP,0,0,0,,把老子的弟弟都吃进去吧
+Dialogue: 0,0:11:36.66,0:11:42.00,Default,NTP,0,0,0,,痛! 绫香那里要搞坏了
+Dialogue: 0,0:11:45.66,0:11:50.20,Default,NTP,0,0,0,,大叔你的弟弟真猛
+Dialogue: 0,0:11:55.83,0:12:00.03,Default,NTP,0,0,0,,厉害 太厉害了
+Dialogue: 0,0:12:04.83,0:12:10.50,Default,NTP,0,0,0,,刚才那个女仆会接客吗?
+Dialogue: 0,0:12:12.86,0:12:15.63,Default,NTP,0,0,0,,回答老子呀
+Dialogue: 0,0:12:16.53,0:12:18.43,Default,NTP,0,0,0,,不 不知道
+Dialogue: 0,0:12:18.63,0:12:20.70,Default,NTP,0,0,0,,怎么会不知道
+Dialogue: 0,0:12:20.93,0:12:24.20,Default,NTP,0,0,0,,今天才第一次见她
+Dialogue: 0,0:12:28.83,0:12:30.26,Default,NTP,0,0,0,,你呀
+Dialogue: 0,0:12:30.26,0:12:33.06,Default,NTP,0,0,0,,马上就有人被人看上了呢
+Dialogue: 0,0:12:33.30,0:12:34.23,Default,NTP,0,0,0,,啊?
+Dialogue: 0,0:12:38.60,0:12:41.33,Default,NTP,0,0,0,,你 到底是什么人
+Dialogue: 0,0:12:45.50,0:12:46.96,Default,NTP,0,0,0,,恭一 他
+Dialogue: 0,0:12:46.96,0:12:50.10,Default,NTP,0,0,0,,不肯把你的真实身份告诉我
+Dialogue: 0,0:12:50.83,0:12:53.03,Default,NTP,0,0,0,,真实身份什么的
+Dialogue: 0,0:12:56.00,0:12:57.70,Default,NTP,0,0,0,,啊 痛
+Dialogue: 0,0:12:59.20,0:13:03.76,Default,NTP,0,0,0,,哦 胸挺有料的
+Dialogue: 0,0:13:04.83,0:13:09.43,Default,NTP,0,0,0,,来吧 告诉我 你到底是什么人
+Dialogue: 0,0:14:35.60,0:14:36.53,Default,NTP,0,0,0,,不要!
+Dialogue: 0,0:14:45.06,0:14:49.50,Default,NTP,0,0,0,,喂 小姐
+Dialogue: 0,0:14:49.50,0:14:51.53,Default,NTP,0,0,0,,跟我们去玩玩呗
+Dialogue: 0,0:14:52.40,0:14:55.03,Default,NTP,0,0,0,,很好玩的哟
+Dialogue: 0,0:15:01.33,0:15:02.90,Default,NTP,0,0,0,,你没事吗
+Dialogue: 0,0:15:07.26,0:15:11.76,Default,NTP,0,0,0,,就是说 等你意识恢复过来就在这里了?
+Dialogue: 0,0:15:12.93,0:15:13.76,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:15:14.63,0:15:16.60,Default,NTP,0,0,0,,这剧本真够烂
+Dialogue: 0,0:15:17.06,0:15:18.20,Default,NTP,0,0,0,,吓?
+Dialogue: 0,0:15:19.96,0:15:21.73,Default,NTP,0,0,0,,吓 什么啊
+Dialogue: 0,0:15:21.73,0:15:23.90,Default,NTP,0,0,0,,你还不懂吗?
+Dialogue: 0,0:15:24.36,0:15:26.00,Default,NTP,0,0,0,,你只是中圈套了
+Dialogue: 0,0:15:26.90,0:15:28.73,Default,NTP,0,0,0,,什么圈套?
+Dialogue: 0,0:15:29.53,0:15:32.03,Default,NTP,0,0,0,,你还真笨 很明显嘛
+Dialogue: 0,0:15:32.40,0:15:34.86,Default,NTP,0,0,0,,是恭一的老点子
+Dialogue: 0,0:15:34.86,0:15:35.73,Default,NTP,0,0,0,,不会吧
+Dialogue: 0,0:15:37.90,0:15:41.33,Default,NTP,0,0,0,,看你这样子 还迷上了恭一了?
+Dialogue: 0,0:15:42.90,0:15:44.50,Default,NTP,0,0,0,,没 没那回事
+Dialogue: 0,0:15:45.10,0:15:48.50,Default,NTP,0,0,0,,快点离开这大屋吧 否则会后悔的
+Dialogue: 0,0:15:54.73,0:15:58.36,Default,NTP,0,0,0,,那 那你又算是谁?
+Dialogue: 0,0:15:59.96,0:16:01.23,Default,NTP,0,0,0,,明摆着吧
+Dialogue: 0,0:16:02.03,0:16:06.43,Default,NTP,0,0,0,,恭一的女朋友哦
+Dialogue: 0,0:16:24.13,0:16:26.66,Default,NTP,0,0,0,,这女的 没反抗
+Dialogue: 0,0:16:27.46,0:16:30.73,Default,NTP,0,0,0,,恭一的眼力真是太屌了
+Dialogue: 0,0:16:47.53,0:16:49.36,Default,NTP,0,0,0,,手 吸进去了?!
+Dialogue: 0,0:17:06.90,0:17:09.36,Default,NTP,0,0,0,,好厉害
+Dialogue: 0,0:17:17.53,0:17:19.83,Default,NTP,0,0,0,,这妹子 还真是不简单
+Dialogue: 0,0:17:31.06,0:17:32.90,Default,NTP,0,0,0,,要我证明给你看吗
+Dialogue: 0,0:17:33.83,0:17:36.16,Default,NTP,0,0,0,,你也去接客
+Dialogue: 0,0:17:36.46,0:17:39.70,Default,NTP,0,0,0,,然后在监控室 恭一会看到的
+Dialogue: 0,0:17:40.50,0:17:45.46,Default,NTP,0,0,0,,要是恭一出面制止的话 就证明恭一也是爱你的
+Dialogue: 0,0:17:52.13,0:17:53.93,Default,NTP,0,0,0,,这客人是第一次来呢
+Dialogue: 0,0:17:54.16,0:17:58.00,Default,NTP,0,0,0,,这是之前提到要买3000万票据的那个客
+Dialogue: 0,0:18:00.66,0:18:03.60,Default,NTP,0,0,0,,你这些假票我全买了
+Dialogue: 0,0:18:05.36,0:18:07.40,Default,NTP,0,0,0,,那价钱方面…
+Dialogue: 0,0:18:07.63,0:18:10.53,Default,NTP,0,0,0,,钱不是问题
+Dialogue: 0,0:18:11.46,0:18:15.13,Default,NTP,0,0,0,,我也从浅部那里听过你的服务了
+Dialogue: 0,0:18:16.83,0:18:18.90,Default,NTP,0,0,0,,那是和票据捆绑附送 不单卖哦
+Dialogue: 0,0:18:19.13,0:18:24.16,Default,NTP,0,0,0,,那就让我领教一下再决定吧
+Dialogue: 0,0:18:30.66,0:18:34.70,Default,NTP,0,0,0,,喂 快点含到嘴里
+Dialogue: 0,0:18:35.36,0:18:42.03,Default,NTP,0,0,0,,喂喂 你这是干嘛 含住呀
+Dialogue: 0,0:18:42.93,0:18:44.13,Default,NTP,0,0,0,,恭一大人
+Dialogue: 0,0:18:44.33,0:18:47.43,Default,NTP,0,0,0,,嘴 张开点
+Dialogue: 0,0:18:49.03,0:18:49.93,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:18:50.63,0:18:51.93,Default,NTP,0,0,0,,张开!
+Dialogue: 0,0:18:53.30,0:18:56.40,Default,NTP,0,0,0,,快来救我 恭一大人
+Dialogue: 0,0:18:57.63,0:19:02.63,Default,NTP,0,0,0,,对了对了 要插深一点哦
+Dialogue: 0,0:19:08.30,0:19:12.66,Default,NTP,0,0,0,,看着也可怜 这鸡巴也太大了
+Dialogue: 0,0:19:13.30,0:19:14.93,Default,NTP,0,0,0,,爽啊
+Dialogue: 0,0:19:17.13,0:19:20.16,Default,NTP,0,0,0,,技术挺了得的吗
+Dialogue: 0,0:19:21.03,0:19:23.46,Default,NTP,0,0,0,,恭一大人 为什么不来救我呢
+Dialogue: 0,0:19:26.23,0:19:30.36,Default,NTP,0,0,0,,都湿成这样了 开始干吧
+Dialogue: 0,0:19:31.46,0:19:34.63,Default,NTP,0,0,0,,我会干得你爽翻天的
+Dialogue: 0,0:19:42.83,0:19:45.93,Default,NTP,0,0,0,,快点张开腿!
+Dialogue: 0,0:19:51.03,0:19:54.00,Default,NTP,0,0,0,,都湿的水漫出来了
+Dialogue: 0,0:19:54.33,0:19:58.30,Default,NTP,0,0,0,,虽然贵一点 也值了
+Dialogue: 0,0:19:59.06,0:20:03.20,Default,NTP,0,0,0,,恭一大人为什么还没来救我
+Dialogue: 0,0:20:10.16,0:20:14.43,Default,NTP,0,0,0,,哇 你这"秘密花园"看得一清二楚
+Dialogue: 0,0:20:15.10,0:20:19.56,Default,NTP,0,0,0,,快来救我 恭一大人
+Dialogue: 0,0:20:24.50,0:20:29.06,Default,NTP,0,0,0,,这女人 好像真的后悔接客了
+Dialogue: 0,0:20:34.66,0:20:37.96,Default,NTP,0,0,0,,又紧又湿的私处
+Dialogue: 0,0:20:40.43,0:20:42.50,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:20:43.63,0:20:44.86,Default,NTP,0,0,0,,不要啊
+Dialogue: 0,0:20:44.86,0:20:47.66,Default,NTP,0,0,0,,看你这表情 不是也好想干么
+Dialogue: 0,0:20:47.66,0:20:50.36,Default,NTP,0,0,0,,看 进到里面了
+Dialogue: 0,0:20:56.03,0:20:57.90,Default,NTP,0,0,0,,啊
+Dialogue: 0,0:20:57.90,0:21:03.03,Default,NTP,0,0,0,,大声点叫吧 喊吧!
+Dialogue: 0,0:21:04.03,0:21:05.06,Default,NTP,0,0,0,,看
+Dialogue: 0,0:21:05.73,0:21:10.70,Default,NTP,0,0,0,,喜欢的男人看着自己被别人侵犯
+Dialogue: 0,0:21:10.70,0:21:12.70,Default,NTP,0,0,0,,由里 那表情够惨的
+Dialogue: 0,0:21:15.13,0:21:18.26,Default,NTP,0,0,0,,她的第一次有什么感想?
+Dialogue: 0,0:21:18.26,0:21:20.00,Default,NTP,0,0,0,,白马王子大人
+Dialogue: 0,0:21:20.46,0:21:24.30,Default,NTP,0,0,0,,那女人既不是性饥渴 也不喜欢做爱
+Dialogue: 0,0:21:26.36,0:21:30.46,Default,NTP,0,0,0,,是这样吗 我看够淫荡的了
+Dialogue: 0,0:21:30.46,0:21:32.66,Default,NTP,0,0,0,,不 真要说的话
+Dialogue: 0,0:21:32.66,0:21:35.56,Default,NTP,0,0,0,,她属于贞操观念很强的女生
+Dialogue: 0,0:21:37.10,0:21:39.06,Default,NTP,0,0,0,,爽啊 爽啊
+Dialogue: 0,0:21:39.06,0:21:40.13,Default,NTP,0,0,0,,就是这样
+Dialogue: 0,0:21:40.13,0:21:42.83,Default,NTP,0,0,0,,哭吧 大声哭吧
+Dialogue: 0,0:21:44.26,0:21:47.23,Default,NTP,0,0,0,,只想献身给那位
+Dialogue: 0,0:21:47.23,0:21:49.50,Default,NTP,0,0,0,,真心相爱的人
+Dialogue: 0,0:21:49.50,0:21:52.40,Default,NTP,0,0,0,,她是追求这种浪漫的女人
+Dialogue: 0,0:21:57.06,0:21:58.90,Default,NTP,0,0,0,,呵呵 现实是残酷的
+Dialogue: 0,0:21:59.23,0:22:00.53,Default,NTP,0,0,0,,哈
+Dialogue: 0,0:22:06.76,0:22:08.23,Default,NTP,0,0,0,,你也看得有感觉了?
+Dialogue: 0,0:22:09.13,0:22:11.63,Default,NTP,0,0,0,,由里的小穴看得你湿了?
+Dialogue: 0,0:22:12.03,0:22:13.80,Default,NTP,0,0,0,,别 别胡说
+Dialogue: 0,0:22:14.13,0:22:15.80,Default,NTP,0,0,0,,我可不是变态
+Dialogue: 0,0:22:16.73,0:22:17.80,Default,NTP,0,0,0,,要射了
+Dialogue: 0,0:22:22.06,0:22:26.00,Default,NTP,0,0,0,,看 这就是你穴里鲜榨出来的精液
+Dialogue: 0,0:22:26.00,0:22:28.00,Default,NTP,0,0,0,,把它喝光
+Dialogue: 0,0:22:32.53,0:22:34.70,Default,NTP,0,0,0,,那位姐姐表现怎样?
+Dialogue: 0,0:22:35.56,0:22:37.06,Default,NTP,0,0,0,,你自己看看吧
+Dialogue: 0,0:22:37.66,0:22:39.66,Default,NTP,0,0,0,,啊 好厉害
+Dialogue: 0,0:22:39.66,0:22:41.66,Default,NTP,0,0,0,,搞的好激烈啊
+Dialogue: 0,0:22:41.93,0:22:44.83,Default,NTP,0,0,0,,比绫香还要淫荡好几倍呢
+Dialogue: 0,0:22:44.83,0:22:46.36,Default,NTP,0,0,0,,绫香也吓到了
+Dialogue: 0,0:22:46.36,0:22:48.30,Default,NTP,0,0,0,,绫香比不上这大姐姐
+Dialogue: 0,0:22:50.30,0:22:55.93,Default,NTP,0,0,0,,我的精液一滴也不要漏掉 全部喝光它
+Dialogue: 0,0:23:01.03,0:23:03.30,Default,NTP,0,0,0,,这女的太爽了
+Dialogue: 0,0:23:03.30,0:23:07.73,Default,NTP,0,0,0,,要再干一次 不对 再来很多次
+Dialogue: 0,0:23:07.73,0:23:12.03,Default,NTP,0,0,0,,看上去那些小混混的演出费值了
+Dialogue: 0,0:23:12.03,0:23:14.96,Default,NTP,0,0,0,,那才100万
+Dialogue: 0,0:23:15.30,0:23:17.83,Default,NTP,0,0,0,,这姐姐是被骗来的?
+Dialogue: 0,0:23:17.83,0:23:19.83,Default,NTP,0,0,0,,不要说得那么难听啊
+Dialogue: 0,0:23:19.83,0:23:22.63,Default,NTP,0,0,0,,我把真相告诉她了
+Dialogue: 0,0:23:22.80,0:23:24.30,Default,NTP,0,0,0,,什么真相?
+Dialogue: 0,0:23:24.43,0:23:26.30,Default,NTP,0,0,0,,告诉了她那是个骗局
+Dialogue: 0,0:23:26.30,0:23:28.30,Default,NTP,0,0,0,,可她还是留下了
+Dialogue: 0,0:23:30.86,0:23:33.53,Default,NTP,0,0,0,,由里是要赌一下我对她的心意
+Dialogue: 0,0:23:33.83,0:23:35.83,Default,NTP,0,0,0,,赌输了的笨女人
+Dialogue: 0,0:23:36.30,0:23:39.50,Default,NTP,0,0,0,,那样的话 我也是笨女人咯?
+Dialogue: 0,0:23:39.50,0:23:42.43,Default,NTP,0,0,0,,对呢 绫香也是差不多
+Dialogue: 0,0:23:42.70,0:23:45.56,Default,NTP,0,0,0,,哇 好过分
+Dialogue: 0,0:23:45.93,0:23:48.66,Default,NTP,0,0,0,,对啊 笨笨的女人
+Dialogue: 0,0:23:51.53,0:23:53.06,Default,NTP,0,0,0,,你这小恶魔
+Dialogue: 0,0:24:01.16,0:24:03.16,Default,NTP,0,0,0,,给绫香点奖励吧
+Dialogue: 0,0:24:03.70,0:24:07.96,Default,NTP,0,0,0,,把这些怪女人一个接一个地拐回来
+Dialogue: 0,0:24:11.73,0:24:13.33,Default,NTP,0,0,0,,真的生气了
+Dialogue: 0,0:24:13.33,0:24:15.76,Default,NTP,0,0,0,,明明一直都很冷静的
+Dialogue: 0,0:24:18.13,0:24:20.90,Default,NTP,0,0,0,,怎样 舒服吗
+Dialogue: 0,0:24:26.43,0:24:30.36,Default,NTP,0,0,0,,绫香 怕黑啊
+Dialogue: 0,0:24:30.56,0:24:33.86,Default,NTP,0,0,0,,乖 乖 我的乖宝贝
+Dialogue: 0,0:24:34.10,0:24:35.76,Default,NTP,0,0,0,,你和她都是
+Dialogue: 0,0:24:35.93,0:24:39.40,Default,NTP,0,0,0,,都是我的可爱的小恶魔
+Dialogue: 0,0:24:44.43,0:24:47.10,Default,NTP,0,0,0,,这女人真是无与伦比
+Dialogue: 0,0:24:48.23,0:24:51.33,Default,NTP,0,0,0,,来吧 来吧 我们一直干下去吧
+Dialogue: 0,0:24:52.53,0:24:55.46,Default,NTP,0,0,0,,让我 让我 一直爽下去吧
+Dialogue: 0,0:24:56.60,0:24:58.06,Default,NTP,0,0,0,,小恶魔
+Dialogue: 0,0:25:14.96,0:25:16.33,Default,NTP,0,0,0,,由里 干得好
+Dialogue: 0,0:25:16.56,0:25:18.33,Default,NTP,0,0,0,,我是来给客人打个招呼的
+Dialogue: 0,0:25:20.60,0:25:22.00,Default,NTP,0,0,0,,这是
+Dialogue: 0,0:25:24.66,0:25:26.23,Default,NTP,0,0,0,,什么情况
+Dialogue: 0,0:25:28.53,0:25:30.53,Default,NTP,0,0,0,,到底发生了什么
+Dialogue: 0,0:25:41.76,0:25:43.43,Default,NTP,0,0,0,,是这样的吗?
+Dialogue: 0,0:25:43.43,0:25:46.36,Default,NTP,0,0,0,,对啊 那孩子是可怕的名器哦
+Dialogue: 0,0:25:46.86,0:25:48.66,Default,NTP,0,0,0,,要不要亲自去试一试?
+Dialogue: 0,0:25:50.56,0:25:55.20,Default,NTP,0,0,0,,也对 直接问一问由里的身体就知道了
+Dialogue: 0,0:25:56.96,0:25:59.83,Default,NTP,0,0,0,,绫香也要一起玩
+Dialogue: 0,0:26:05.76,0:26:08.00,Default,NTP,0,0,0,,这 这是要
+Dialogue: 0,0:26:24.13,0:26:28.16,Default,NTP,0,0,0,,怎样 肯告诉我到底发生了什么了吗
+Dialogue: 0,0:26:36.80,0:26:38.46,Default,NTP,0,0,0,,由里!!
+Dialogue: 0,0:26:40.90,0:26:45.73,Default,NTP,0,0,0,,我的鸡巴 腰也自己动起来了
+Dialogue: 0,0:26:47.20,0:26:51.30,Default,NTP,0,0,0,,恭一大人是我一个人的
+Dialogue: 0,0:26:53.50,0:26:55.90,Default,NTP,0,0,0,,由里
+Dialogue: 0,0:27:12.40,0:27:15.76,Default,NTP,0,0,0,,我的家伙一直保持勃起
+Dialogue: 0,0:27:32.36,0:27:37.13,Default,NTP,0,0,0,,你们 到底是要干什么
+Dialogue: 0,0:27:40.13,0:27:45.23,Default,NTP,0,0,0,,说我们是小恶魔的 不就是恭一大人吗?
+Dialogue: 0,0:27:45.23,0:27:47.23,Default,NTP,0,0,0,,

@@ -1,0 +1,219 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r113
+Active Line: 194
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,14,&H001819B8,&H000000FF,&HFF000000,&H00070C05,-1,-1,0,0,100,100,0,0,1,0.5,0.8,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,28,&H001819B8,&H000000FF,&HFFFFFFFF,&H00070C05,0,0,0,0,100,100,0,0,1,1,1,2,20,20,100,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:10.72,0:01:20.56,Grupa,,0,0,0,,{\be1\fad(893,0)}Nyan
+Dialogue: 0,0:01:13.18,0:01:20.56,Tytul,,0,0,0,,{\be1\fad(1353,0)}Przebłysk jutra
+Dialogue: 0,0:00:09.41,0:00:14.04,Default,,0,0,0,,{\be1}Nie wiedziałem, że klan Światła\Nma tak dobrego rycerza.
+Dialogue: 0,0:00:15.37,0:00:17.83,Default,,0,0,0,,{\be1}Skończmy to!
+Dialogue: 0,0:00:20.29,0:00:21.58,Default,,0,0,0,,{\be1}Ten miecz...
+Dialogue: 0,0:00:27.30,0:00:28.30,Default,,0,0,0,,{\be1}Sharon!
+Dialogue: 0,0:00:47.78,0:00:49.03,Default,,0,0,0,,{\be1}Sharon!
+Dialogue: 0,0:01:23.82,0:01:26.65,Default,,0,0,0,,{\be1}Giń, Wotoshika!
+Dialogue: 0,0:01:27.56,0:01:28.86,Default,,0,0,0,,{\be1}Wynaturzenia!
+Dialogue: 0,0:01:35.80,0:01:38.12,Default,,0,0,0,,{\be1}Czarna mgła!
+Dialogue: 0,0:01:40.37,0:01:42.96,Default,,0,0,0,,{\be1}Wiatr ciemności!
+Dialogue: 0,0:02:09.41,0:02:10.69,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:02:10.69,0:02:12.81,Default,,0,0,0,,{\be1}Ciemność powróciła.
+Dialogue: 0,0:02:16.66,0:02:18.33,Default,,0,0,0,,{\be1}Lordzie Pollux.
+Dialogue: 0,0:02:18.96,0:02:22.61,Default,,0,0,0,,{\be1}Mamo, muszę iść.
+Dialogue: 0,0:02:22.61,0:02:24.25,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:02:24.62,0:02:27.50,Default,,0,0,0,,{\be1}Twój pierścień cię obroni.
+Dialogue: 0,0:02:27.79,0:02:29.42,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:02:47.80,0:02:53.32,Default (i),,0,0,0,,{\be1}Piasek musiał złagodzić upadek.
+Dialogue: 0,0:02:59.95,0:03:01.37,Default (i),,0,0,0,,{\be1}To ona.
+Dialogue: 0,0:03:04.49,0:03:07.50,Default,,0,0,0,,{\be1}Coś mi się przypomina.
+Dialogue: 0,0:03:13.45,0:03:14.46,Default,,0,0,0,,{\be1}To on?
+Dialogue: 0,0:03:34.49,0:03:37.57,Default,,0,0,0,,{\be1}Dokąd on idzie?
+Dialogue: 0,0:03:59.71,0:04:01.08,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:04:19.94,0:04:24.01,Default (i),,0,0,0,,{\be1}Ten widok jest znajomy.
+Dialogue: 0,0:04:45.12,0:04:46.24,Default,,0,0,0,,{\be1}Jestem...
+Dialogue: 0,0:04:50.48,0:04:52.73,Default,,0,0,0,,{\be1}Czego tu szukasz?!
+Dialogue: 0,0:04:52.73,0:04:54.69,Default,,0,0,0,,{\be1}To pokój Astrala!
+Dialogue: 0,0:04:59.17,0:05:01.42,Default,,0,0,0,,{\be1}Astrala?
+Dialogue: 0,0:05:04.29,0:05:05.70,Default,,0,0,0,,{\be1}Zdychaj!
+Dialogue: 0,0:05:09.95,0:05:11.37,Default,,0,0,0,,{\be1}Sharon?
+Dialogue: 0,0:05:21.58,0:05:24.09,Default,,0,0,0,,{\be1}Sharon, to ja.
+Dialogue: 0,0:05:29.00,0:05:30.41,Default,,0,0,0,,{\be1}Astral.
+Dialogue: 0,0:05:33.10,0:05:37.49,Default,,0,0,0,,{\be1}Astral?\NNiemożliwe.
+Dialogue: 0,0:05:39.81,0:05:41.20,Default,,0,0,0,,{\be1}Kłamiesz.
+Dialogue: 0,0:05:43.46,0:05:46.28,Default,,0,0,0,,{\be1}Nie kłamię, to ja.
+Dialogue: 0,0:05:52.53,0:05:55.63,Default,,0,0,0,,{\be1}To naprawdę ty.
+Dialogue: 0,0:06:07.10,0:06:11.10,Default,,0,0,0,,{\be1}To nie jest sen?\NTo naprawdę ty?
+Dialogue: 0,0:06:11.10,0:06:12.13,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:06:18.85,0:06:20.92,Default,,0,0,0,,{\be1}Przeklęty klan Mroku.
+Dialogue: 0,0:06:20.92,0:06:25.35,Default,,0,0,0,,{\be1}Poszukajcie innej drogi!
+Dialogue: 0,0:06:35.70,0:06:38.64,Default,,0,0,0,,{\be1}Stamtąd wyczuwam zło.
+Dialogue: 0,0:06:42.38,0:06:43.72,Default,,0,0,0,,{\be1}Astral!
+Dialogue: 0,0:06:45.35,0:06:49.38,Default,,0,0,0,,{\be1}Ty naprawdę żyjesz!
+Dialogue: 0,0:06:51.58,0:06:53.81,Default,,0,0,0,,{\be1}Cieszę się, że dożyłam tego dnia.
+Dialogue: 0,0:07:01.79,0:07:07.03,Default,,0,0,0,,{\be1}Straciłem wspomnienia\Ni żyłem w krainie Światła.
+Dialogue: 0,0:07:10.86,0:07:12.87,Default,,0,0,0,,{\be1}Wydaje mi się, że to sen!
+Dialogue: 0,0:07:13.20,0:07:19.21,Default,,0,0,0,,{\be1}Codziennie modliłam się,\Nżebym znowu mogła cię zobaczyć!
+Dialogue: 0,0:07:21.10,0:07:23.68,Default,,0,0,0,,{\be1}Sharon, pragnąłem cię zobaczyć.
+Dialogue: 0,0:07:42.59,0:07:44.98,Default,,0,0,0,,{\be1}Włóż go już.
+Dialogue: 0,0:07:45.87,0:07:46.90,Default,,0,0,0,,{\be1}Sharon.
+Dialogue: 0,0:07:51.65,0:07:52.33,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:07:52.33,0:07:56.25,Default,,0,0,0,,{\be1}To nic, mną się nie przejmuj.
+Dialogue: 0,0:07:57.21,0:07:58.48,Default,,0,0,0,,{\be1}Sharon.
+Dialogue: 0,0:08:06.91,0:08:08.01,Default,,0,0,0,,{\be1}Astral.
+Dialogue: 0,0:08:08.32,0:08:12.49,Default,,0,0,0,,{\be1}Niesamowite!\NCzekałam na to 20 lat!
+Dialogue: 0,0:08:12.93,0:08:15.81,Default,,0,0,0,,{\be1}To nie jest sen?
+Dialogue: 0,0:08:27.11,0:08:30.91,Default,,0,0,0,,{\be1}Kiedy stałeś się taki silny?
+Dialogue: 0,0:08:35.96,0:08:38.69,Default,,0,0,0,,{\be1}Sharon, kocham cię.
+Dialogue: 0,0:08:38.69,0:08:40.48,Default,,0,0,0,,{\be1}Astral.
+Dialogue: 0,0:09:25.96,0:09:31.26,Default,,0,0,0,,{\be1}Oszaleję! Bierz mnie mocniej! Astral!
+Dialogue: 0,0:09:43.44,0:09:46.22,Default,,0,0,0,,{\be1}Od kiedy jesteś w tym taki dobry?
+Dialogue: 0,0:09:46.22,0:09:47.32,Default,,0,0,0,,{\be1}Sharon.
+Dialogue: 0,0:09:49.86,0:09:54.36,Default,,0,0,0,,{\be1}Cudownie! Mocniej!
+Dialogue: 0,0:10:00.54,0:10:02.59,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:10:10.81,0:10:12.44,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:10:13.34,0:10:16.68,Default,,0,0,0,,{\be1}Astral, dojdźmy razem!
+Dialogue: 0,0:10:38.81,0:10:43.41,Default,,0,0,0,,{\be1}Dobrze ci tak, Wotoshika!\NKończymy zabawę!
+Dialogue: 0,0:10:43.75,0:10:45.72,Default,,0,0,0,,{\be1}Gotuj się na śmierć.
+Dialogue: 0,0:10:45.72,0:10:54.76,Default,,0,0,0,,{\be1}Zabijemy was oboje i znowu zniszczymy monument,\Ntylko tym razem tak by nie dało się go odbudować.
+Dialogue: 0,0:10:55.34,0:10:57.05,Default,,0,0,0,,{\be1}Czym jesteście?!
+Dialogue: 0,0:10:58.83,0:11:01.59,Default,,0,0,0,,{\be1}Władcami ciemności!
+Dialogue: 0,0:11:07.84,0:11:09.36,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:11:11.44,0:11:13.24,Default,,0,0,0,,{\be1}Urocza parka.
+Dialogue: 0,0:11:13.24,0:11:17.86,Default,,0,0,0,,{\be1}My też jej spróbujmy.
+Dialogue: 0,0:11:31.78,0:11:33.59,Default,,0,0,0,,{\be1}Niech was diabli!
+Dialogue: 0,0:11:38.76,0:11:40.57,Default (i),,0,0,0,,{\be1}To pewnie podziemny zamek.
+Dialogue: 0,0:11:51.82,0:11:53.07,Default (i),,0,0,0,,{\be1}Mieszkaniec ciemności.
+Dialogue: 0,0:11:53.41,0:12:01.90,Default,,0,0,0,,{\be1}Gdy zaginąłeś 20 lat temu,\Nzrozumiałam, że cię kocham.
+Dialogue: 0,0:12:02.49,0:12:07.50,Default,,0,0,0,,{\be1}Ciągle cię szukałam.
+Dialogue: 0,0:12:08.31,0:12:10.96,Default,,0,0,0,,{\be1}Codziennie przychodziłam do twojego pokoju.
+Dialogue: 0,0:12:12.14,0:12:13.14,Default,,0,0,0,,{\be1}Sharon.
+Dialogue: 0,0:12:18.48,0:12:20.35,Default,,0,0,0,,{\be1}Chodźmy do przyjaciół.
+Dialogue: 0,0:12:20.83,0:12:22.35,Default,,0,0,0,,{\be1}Astral.
+Dialogue: 0,0:12:31.94,0:12:33.19,Default,,0,0,0,,{\be1}Kim jesteś?!
+Dialogue: 0,0:12:34.28,0:12:35.23,Default,,0,0,0,,{\be1}Delta!
+Dialogue: 0,0:12:35.23,0:12:38.15,Default,,0,0,0,,{\be1}Tym razem szybko to zakończę!
+Dialogue: 0,0:12:41.28,0:12:42.70,Default,,0,0,0,,{\be1}Astral!
+Dialogue: 0,0:12:46.92,0:12:48.37,Default,,0,0,0,,{\be1}Nie uciekniesz!
+Dialogue: 0,0:12:49.00,0:12:50.54,Default,,0,0,0,,{\be1}Astral!
+Dialogue: 0,0:12:50.94,0:12:55.45,Default (i),,0,0,0,,{\be1}To była Delta, ale dziwnie się zachowywała.
+Dialogue: 0,0:12:56.31,0:12:58.51,Default,,0,0,0,,{\be1}Stój, Pollux!
+Dialogue: 0,0:13:00.38,0:13:02.22,Default,,0,0,0,,{\be1}Nie uciekniesz mi!
+Dialogue: 0,0:13:11.65,0:13:12.82,Default,,0,0,0,,{\be1}Czas umierać!
+Dialogue: 0,0:13:20.41,0:13:21.90,Default,,0,0,0,,{\be1}Lordzie Pollux!
+Dialogue: 0,0:13:23.97,0:13:25.32,Default,,0,0,0,,{\be1}Astral!
+Dialogue: 0,0:13:25.33,0:13:30.25,Default,,0,0,0,,{\be1}Moce ciemności, przepadnijcie!\NMistyczne przejście!
+Dialogue: 0,0:13:33.38,0:13:35.96,Default,,0,0,0,,{\be1}- Astral!\N- Lordzie Pollux!
+Dialogue: 0,0:13:35.96,0:13:37.57,Default,,0,0,0,,{\be1}Astral, nic ci nie jest?!
+Dialogue: 0,0:13:37.57,0:13:39.32,Default,,0,0,0,,{\be1}Lordzie Pollux, wytrzymaj!
+Dialogue: 0,0:13:39.32,0:13:42.51,Default,,0,0,0,,{\be1}- Astral!\N- Pollux!
+Dialogue: 0,0:13:42.51,0:13:44.69,Default,,0,0,0,,{\be1}- Pollux!\N- Astral!
+Dialogue: 0,0:13:50.53,0:13:52.85,Default,,0,0,0,,{\be1}Myuu? Sharon?
+Dialogue: 0,0:13:58.59,0:13:59.81,Default (i),,0,0,0,,{\be1}Mam przesrane!
+Dialogue: 0,0:14:05.80,0:14:08.45,Default,,0,0,0,,{\be1}Co wy tam robicie?
+Dialogue: 0,0:14:09.36,0:14:10.41,Default,,0,0,0,,{\be1}Delta.
+Dialogue: 0,0:14:12.01,0:14:13.98,Default,,0,0,0,,{\be1}Co się ze mną stało?
+Dialogue: 0,0:14:14.46,0:14:16.16,Default,,0,0,0,,{\be1}Już wiem, mamy kłopoty!
+Dialogue: 0,0:14:16.16,0:14:22.47,Default,,0,0,0,,{\be1}Tesshio spotkał się z doradcą krainy Światła\Ni omawiali plan zniszczenia obu klanów!
+Dialogue: 0,0:14:25.04,0:14:31.43,Default,,0,0,0,,{\be1}To pewnie oni są złem,\Nktóre zniszczyło monument słów prawdy.
+Dialogue: 0,0:14:32.11,0:14:35.65,Default,,0,0,0,,{\be1}Delta, zaprowadź nas do nich.
+Dialogue: 0,0:14:37.39,0:14:38.11,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:14:38.95,0:14:43.57,Default,,0,0,0,,{\be1}Znaleźliśmy tunel, którym\Nzapewne możemy dotrzeć do ich krainy.
+Dialogue: 0,0:14:43.57,0:14:48.99,Default,,0,0,0,,{\be1}Co takiego?\NPowiadom wojsko, zniszczymy ich raz na zawsze!
+Dialogue: 0,0:14:53.26,0:14:55.24,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:14:58.76,0:15:01.77,Default,,0,0,0,,{\be1}Jaka ciasna.
+Dialogue: 0,0:15:05.72,0:15:11.42,Default,,0,0,0,,{\be1}Nie pozwolimy byś urodziła mieszańca.
+Dialogue: 0,0:15:13.14,0:15:17.08,Default,,0,0,0,,{\be1}Wyskrobiemy z ciebie całe nasienie.
+Dialogue: 0,0:15:19.15,0:15:21.36,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:15:27.78,0:15:29.24,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:32.16,0:15:34.52,Default,,0,0,0,,{\be1}Nikogo nie ma?
+Dialogue: 0,0:15:38.47,0:15:39.77,Default,,0,0,0,,{\be1}Coś słyszę.
+Dialogue: 0,0:15:47.04,0:15:48.63,Default,,0,0,0,,{\be1}Paniczu Astral!
+Dialogue: 0,0:15:49.14,0:15:50.10,Default,,0,0,0,,{\be1}Nina?
+Dialogue: 0,0:15:50.48,0:15:52.06,Default,,0,0,0,,{\be1}Czy ja śnię?
+Dialogue: 0,0:15:52.06,0:15:55.39,Default,,0,0,0,,{\be1}To nie jest sen, zaraz cię wyciągnę.
+Dialogue: 0,0:15:55.99,0:15:57.91,Default,,0,0,0,,{\be1}Paniczu Astral.
+Dialogue: 0,0:15:58.35,0:16:00.43,Default,,0,0,0,,{\be1}Oni się znają?
+Dialogue: 0,0:16:00.43,0:16:04.60,Default,,0,0,0,,{\be1}Najwyraźniej tak\Ni to chyba bardzo dobrze.
+Dialogue: 0,0:16:39.23,0:16:42.06,Default,,0,0,0,,{\be1}Paniczu Astral, tak bardzo\Nchciałam cię zobaczyć!
+Dialogue: 0,0:16:42.67,0:16:44.02,Default,,0,0,0,,{\be1}Tuli się do niego!
+Dialogue: 0,0:16:45.44,0:16:48.20,Default,,0,0,0,,{\be1}A on ją objął!
+Dialogue: 0,0:16:49.71,0:16:51.95,Default,,0,0,0,,{\be1}Mamo, kto to?
+Dialogue: 0,0:16:51.95,0:16:55.24,Default,,0,0,0,,{\be1}Ariadne, to twój tata.
+Dialogue: 0,0:16:56.10,0:16:56.95,Default,,0,0,0,,{\be1}Tata?
+Dialogue: 0,0:16:58.71,0:17:00.33,Default,,0,0,0,,{\be1}Że co?!
+Dialogue: 0,0:17:00.33,0:17:01.76,Default,,0,0,0,,{\be1}Masz córkę?!
+Dialogue: 0,0:17:02.45,0:17:04.09,Default,,0,0,0,,{\be1}Mityczne...
+Dialogue: 0,0:17:07.34,0:17:08.67,Default,,0,0,0,,{\be1}Uważajcie! Woda leci!
+Dialogue: 0,0:17:18.08,0:17:19.79,Default,,0,0,0,,{\be1}Paniczu Astral!
+Dialogue: 0,0:17:19.79,0:17:21.20,Default,,0,0,0,,{\be1}Mamo!
+Dialogue: 0,0:17:25.05,0:17:27.15,Default,,0,0,0,,{\be1}Nie! Przestańcie!
+Dialogue: 0,0:17:27.49,0:17:33.32,Default,,0,0,0,,{\be1}Od lat sprawialiśmy by klany Światła i Mroku\Nwalczyły ze sobą i wszystko szło dobrze.
+Dialogue: 0,0:17:33.32,0:17:37.83,Default,,0,0,0,,{\be1}Ale przez was musimy przyspieszyć plan.
+Dialogue: 0,0:17:39.12,0:17:42.08,Default,,0,0,0,,{\be1}Zamilczcie! Nie pozwolę na to!
+Dialogue: 0,0:17:43.48,0:17:47.05,Default,,0,0,0,,{\be1}A co ty możesz?
+Dialogue: 0,0:17:47.51,0:17:49.25,Default,,0,0,0,,{\be1}Niech was szlag!
+Dialogue: 0,0:17:56.67,0:17:58.57,Default,,0,0,0,,{\be1}Fragmenty monumentu!
+Dialogue: 0,0:18:01.05,0:18:03.64,Default,,0,0,0,,{\be1}A jednak to wasza sprawka!
+Dialogue: 0,0:18:11.43,0:18:13.20,Default,,0,0,0,,{\be1}Przeklęty potwór!
+Dialogue: 0,0:18:13.20,0:18:19.16,Default,,0,0,0,,{\be1}To oni zniszczyli monument\Nsłów prawdy, władcy ciemności.
+Dialogue: 0,0:18:19.51,0:18:20.66,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:18:25.68,0:18:28.50,Default,,0,0,0,,{\be1}Mamy na tacy królów obu klanów.
+Dialogue: 0,0:18:29.81,0:18:33.38,Default,,0,0,0,,{\be1}Pozbędziemy się obu za jednym zamachem!
+Dialogue: 0,0:18:33.82,0:18:35.39,Default,,0,0,0,,{\be1}A niech was!
+Dialogue: 0,0:18:35.39,0:18:37.34,Default,,0,0,0,,{\be1}Zdychajcie!
+Dialogue: 0,0:18:52.65,0:18:54.36,Default,,0,0,0,,{\be1}To on!
+Dialogue: 0,0:18:54.85,0:18:55.82,Default,,0,0,0,,{\be1}Astral!
+Dialogue: 0,0:18:55.82,0:18:57.24,Default,,0,0,0,,{\be1}Pollux!
+Dialogue: 0,0:19:18.62,0:19:21.22,Default,,0,0,0,,{\be1}Mityczne przejście!
+Dialogue: 0,0:19:27.19,0:19:30.67,Default,,0,0,0,,{\be1}Jak śmiałaś?!
+Dialogue: 0,0:19:30.67,0:19:35.09,Default,,0,0,0,,{\be1}Obrócimy wszystko w proch!
+Dialogue: 0,0:19:38.08,0:19:40.79,Default,,0,0,0,,{\be1}Myuu, potrzebuję twojej mocy.
+Dialogue: 0,0:19:41.64,0:19:43.20,Default,,0,0,0,,{\be1}Wiatr ciemności!
+Dialogue: 0,0:20:28.96,0:20:31.42,Default,,0,0,0,,{\be1}Nareszcie koniec.
+Dialogue: 0,0:20:32.47,0:20:34.77,Default,,0,0,0,,{\be1}Paniczu Astral!
+Dialogue: 0,0:21:06.62,0:21:09.71,Default,,0,0,0,,{\be1}Nie wiedziałem, że pochodzę z krainy Światła.
+Dialogue: 0,0:21:09.71,0:21:14.31,Default,,0,0,0,,{\be1}Gdyby to była prawda,\Nto powinieneś być starszy.
+Dialogue: 0,0:21:14.31,0:21:23.33,Default,,0,0,0,,{\be1}Nie, pierścień, który nosi\Nzatrzymuje dla niego czas.
+Dialogue: 0,0:21:23.72,0:21:34.12,Default,,0,0,0,,{\be1}Uprowadziłem cię z klanu światła,\Nabyś spłodził mieszańca.
+Dialogue: 0,0:21:34.12,0:21:38.66,Default,,0,0,0,,{\be1}Bardzo pragnąłem poznać sekret słów prawdy.
+Dialogue: 0,0:21:40.86,0:21:46.31,Default,,0,0,0,,{\be1}Czy ojcem Astrala był Pollux?
+Dialogue: 0,0:21:46.31,0:21:49.58,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:21:50.28,0:22:01.22,Default,,0,0,0,,{\be1}Wygląda i walczy zupełnie jak Pollux, a gdy dołożyć\Ndo tego jego zniknięcie wszystko układa się w całość.
+Dialogue: 0,0:22:01.22,0:22:10.76,Default,,0,0,0,,{\be1}Gdybyśmy wiedzieli o ciemności,\Noszczędzilibyśmy sobie wielu niepotrzebnych wojen.
+Dialogue: 0,0:22:15.10,0:22:17.07,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:22:17.49,0:22:19.53,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:22:27.85,0:22:29.70,Default,,0,0,0,,{\be1}Niepotrzebne wojny.
+Dialogue: 0,0:22:35.59,0:22:37.52,Default,,0,0,0,,{\be1}Brakuje jednego kawałka.
+Dialogue: 0,0:22:43.40,0:22:45.17,Default,,0,0,0,,{\be1}Mogę go wziąć?
+Dialogue: 0,0:22:45.89,0:22:47.05,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:23:13.98,0:23:15.99,Default,,0,0,0,,{\be1}Spójrzcie na napis!
+Dialogue: 0,0:23:25.11,0:23:26.97,Default,,0,0,0,,{\be1}Co tam jest napisane?
+Dialogue: 0,0:23:26.97,0:23:29.43,Default,,0,0,0,,{\be1}Nie znam tego języka.
+Dialogue: 0,0:23:32.75,0:23:37.48,Default,,0,0,0,,{\be1}"Jestem waszym bogiem,\Nklany Światła i Mroku..."
+Dialogue: 0,0:23:38.15,0:23:43.36,Default,,0,0,0,,{\be1}Rozumiem, to dziecko jest mieszańcem.
+Dialogue: 0,0:23:43.84,0:23:47.34,Default,,0,0,0,,{\be1}"Wysłuchajcie mnie."
+Dialogue: 0,0:23:47.83,0:23:55.12,Default,,0,0,0,,{\be1}Nie czytaj tego!\NJak mogliśmy przegrać z dzieckiem?!
+Dialogue: 0,0:23:56.27,0:24:03.59,Default,,0,0,0,,{\be1}Gdyby tylko Wotoshika nie porwał dziecka Światła\Ni nie próbował odczytać słów prawdy!
+Dialogue: 0,0:24:03.98,0:24:09.05,Default,,0,0,0,,{\be1}Już prawie was zniszczyliśmy!
+Dialogue: 0,0:24:10.74,0:24:13.59,Default,,0,0,0,,{\be1}Znikamy!
+Dialogue: 0,0:24:16.93,0:24:20.64,Default,,0,0,0,,{\be1}Znikamy!
+Dialogue: 0,0:24:24.03,0:24:29.23,Default,,0,0,0,,{\be1}"Stworzyłem wasze klany."
+Dialogue: 0,0:24:29.23,0:24:35.87,Default,,0,0,0,,{\be1}- "Lecz nie jest to wasza ostateczna ewolucja."\N- Dlaczego sufit jest niebieski?
+Dialogue: 0,0:24:38.88,0:24:45.37,Default,,0,0,0,,{\be1}"Pewnego dnia staniecie się kompletni."

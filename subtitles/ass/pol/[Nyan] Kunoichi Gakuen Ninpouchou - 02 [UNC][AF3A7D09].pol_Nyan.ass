@@ -1,0 +1,196 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.0 Build536  Sep 27 2016  18:57:22
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 162
+Last Style Storage: [848x480]
+Video File: Ninja Vol.02 neue.mkv
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H004716FF,&H000000FF,&H00393533,&H00393533,-1,-1,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,50,&H004716FF,&H000000FF,&H00393533,&H00393533,-1,0,0,0,100,100,0,0,1,1,3,2,0,220,35,1
+Style: Tytul,Franklin Gothic Medium,50,&H00A6A6A6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,130,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.69,0:00:09.07,Grupa,,0,0,0,,{\be1\fad(1189,1271)}Nyan
+Dialogue: 0,0:00:02.69,0:00:09.07,Anime,,0,0,0,,{\be1\fad(1189,1271)}Kunoichi Gakuen\NNinpouchou
+Dialogue: 0,0:00:13.53,0:00:18.25,Tytul,,0,0,0,,{\be1\fad(317,482)}Technika Shinjo Reiko
+Dialogue: 0,0:00:22.64,0:00:27.10,Default,,0,0,0,,{\be1}Co to ma być?\NMyślisz, że tak zaskoczysz wielką Shinjo Reiko?
+Dialogue: 0,0:00:28.80,0:00:33.89,Default,,0,0,0,,{\be1}Daj spokój, byle wioskowy szaman tak potrafi.
+Dialogue: 0,0:00:34.89,0:00:37.89,Default,,0,0,0,,{\be1}Zaraz inaczej będziesz mówić.
+Dialogue: 0,0:00:39.06,0:00:41.43,Default,,0,0,0,,{\be1}W ten sposób pobudzam komórki.
+Dialogue: 0,0:00:41.43,0:00:49.42,Default,,0,0,0,,{\be1}Podczas lewitacji adrenalina i hemoglobina\Nłączą się zwiększając poziom cholesterolu.
+Dialogue: 0,0:00:50.57,0:00:52.37,Default,,0,0,0,,{\be1}Za zdrowo to nie brzmi.
+Dialogue: 0,0:00:52.37,0:00:55.26,Default,,0,0,0,,{\be1}Zamilcz! Udało się!
+Dialogue: 0,0:00:56.65,0:00:57.98,Default,,0,0,0,,{\be1}Ośmiornica?!
+Dialogue: 0,0:00:58.91,0:01:00.37,Default,,0,0,0,,{\be1}Poddaj się!
+Dialogue: 0,0:01:00.37,0:01:03.65,Default,,0,0,0,,{\be1}Moje przyssawki są tak silne jak pijawki.
+Dialogue: 0,0:01:03.65,0:01:09.57,Default,,0,0,0,,{\be1}Będziesz musiała odrywać je ze skórką!
+Dialogue: 0,0:01:09.57,0:01:10.74,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:01:12.97,0:01:15.32,Default,,0,0,0,,{\be1}Lepiej zrób coś szybko!
+Dialogue: 0,0:01:15.32,0:01:20.98,Default,,0,0,0,,{\be1}Mój śluz jest silnie żrący,\Nmoże rozpuścić ci ubrania i skórę!
+Dialogue: 0,0:01:20.98,0:01:22.65,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:01:23.70,0:01:27.38,Default,,0,0,0,,{\be1}Cholera, bardzo szybko topi ubrania!
+Dialogue: 0,0:01:28.81,0:01:33.06,Default,,0,0,0,,{\be1}Teraz zabawię się z tobą!
+Dialogue: 0,0:01:34.43,0:01:36.74,Default,,0,0,0,,{\be1}Rozpuszczę ci cipkę!
+Dialogue: 0,0:01:39.98,0:01:44.26,Default,,0,0,0,,{\be1}Mojej technice nawet ty się nie oprzesz!
+Dialogue: 0,0:01:44.90,0:01:48.32,Default,,0,0,0,,{\be1}Za 5 minut nie zostaną po tobie nawet kości!
+Dialogue: 0,0:01:49.04,0:01:50.59,Default (i),,0,0,0,,{\be1}Muszę coś zrobić!
+Dialogue: 0,0:01:50.59,0:01:52.37,Default (i),,0,0,0,,{\be1}Cholera, zlekceważyłam go.
+Dialogue: 0,0:01:52.37,0:01:56.22,Default (i),,0,0,0,,{\be1}Odgryzę ją i się uwolnię!
+Dialogue: 0,0:01:58.04,0:02:05.20,Default,,0,0,0,,{\be1}Nie jesteś taka zła, ale będę się\Nregenerować w nieskończoność!
+Dialogue: 0,0:02:05.20,0:02:09.04,Default,,0,0,0,,{\be1}Jak znowu cię złapię to koniec z tobą!
+Dialogue: 0,0:02:09.04,0:02:10.62,Default,,0,0,0,,{\be1}Nie dam się tak łatwo!
+Dialogue: 0,0:02:10.62,0:02:11.88,Default,,0,0,0,,{\be1}Kretynka!
+Dialogue: 0,0:02:12.45,0:02:14.57,Default,,0,0,0,,{\be1}Złapał mnie tak łatwo!
+Dialogue: 0,0:02:14.57,0:02:16.66,Default,,0,0,0,,{\be1}Już po tobie!
+Dialogue: 0,0:02:16.66,0:02:20.94,Default,,0,0,0,,{\be1}Sądziłem, że ktoś twojego kalibru\Nbędzie większym wyzwaniem!
+Dialogue: 0,0:02:20.94,0:02:25.79,Default,,0,0,0,,{\be1}Zabicie cię wybije mnie na szczyt.\NGotowa by umrzeć?
+Dialogue: 0,0:02:26.57,0:02:29.40,Default,,0,0,0,,{\be1}Cholera, zaraz zginę!
+Dialogue: 0,0:02:33.06,0:02:34.36,Default (i),,0,0,0,,{\be1}To jego fiut.
+Dialogue: 0,0:02:34.36,0:02:38.76,Default (i),,0,0,0,,{\be1}Czaję, tam nie chroni go jego technika.
+Dialogue: 0,0:02:39.27,0:02:41.68,Default,,0,0,0,,{\be1}A masz!\NSztuka ninja: latające szpony!
+Dialogue: 0,0:02:54.67,0:02:59.48,Default,,0,0,0,,{\be1}Sztuka ninja: napalony jeździec!
+Dialogue: 0,0:04:13.30,0:04:16.23,Default,,0,0,0,,{\be1}Ta technika pozwala na\Nunoszenie się dzięki mięśniom kegla.
+Dialogue: 0,0:04:16.23,0:04:19.14,Default,,0,0,0,,{\be1}Nikt tego nie wytrzyma.
+Dialogue: 0,0:04:21.18,0:04:25.14,Default,,0,0,0,,{\be1}Żal mi cię, zmieniłeś ciało, ale fiuta już nie.
+Dialogue: 0,0:04:25.80,0:04:30.77,Default,,0,0,0,,{\be1}Cholera, czemu co chwile\Nwyskakuje jakieś dziwadło?!
+Dialogue: 0,0:04:30.77,0:04:34.09,Default,,0,0,0,,{\be1}Ze mną nie pójdzie ci tak łatwo!
+Dialogue: 0,0:04:34.33,0:04:37.31,Default,,0,0,0,,{\be1}Faktycznie, jesteś paskudniejszy od reszty.
+Dialogue: 0,0:04:37.31,0:04:41.91,Default,,0,0,0,,{\be1}Moja technika jest inna niż reszty.
+Dialogue: 0,0:04:41.91,0:04:46.66,Default,,0,0,0,,{\be1}Niech zgadnę, strzelisz tym czymś\Ni rozerwiesz moje ubrania?
+Dialogue: 0,0:04:46.66,0:04:48.14,Default,,0,0,0,,{\be1}Skąd wiedziałaś?
+Dialogue: 0,0:04:48.14,0:04:50.10,Default,,0,0,0,,{\be1}Domyśliłam się.
+Dialogue: 0,0:04:50.10,0:04:54.36,Default,,0,0,0,,{\be1}W takim razie to ułatwi wszystko!
+Dialogue: 0,0:05:06.12,0:05:07.49,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:05:07.49,0:05:14.96,Default,,0,0,0,,{\be1}Będę coraz bardziej wydłużał igłę,\Ndopóki nie dosięgnie serca!
+Dialogue: 0,0:05:14.96,0:05:17.86,Default,,0,0,0,,{\be1}Nie! To boli!
+Dialogue: 0,0:05:17.86,0:05:22.64,Default,,0,0,0,,{\be1}To nic ci nie da, a im bardziej się\Nszarpiesz tym szybciej zginiesz!
+Dialogue: 0,0:05:23.95,0:05:30.18,Default,,0,0,0,,{\be1}Takiej sytuacji nie mogę przegapić! Ssij!
+Dialogue: 0,0:05:34.15,0:05:37.80,Default,,0,0,0,,{\be1}Wielka ninja ssie mi pałę!
+Dialogue: 0,0:05:41.15,0:05:44.36,Default,,0,0,0,,{\be1}Sztuka ninja: na wróbelka!
+Dialogue: 0,0:06:10.49,0:06:12.15,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:06:32.51,0:06:34.62,Default,,0,0,0,,{\be1}Co z tobą?!
+Dialogue: 0,0:06:40.01,0:06:45.68,Default,,0,0,0,,{\be1}Zaraz zaczniesz tracić przytomność,\Na gdy spuszczę się w tobie to zginiesz!
+Dialogue: 0,0:06:45.68,0:06:49.97,Default,,0,0,0,,{\be1}- Jak dobrze!\N- Jeszcze czego, łysa pało!
+Dialogue: 0,0:06:54.61,0:06:58.10,Default,,0,0,0,,{\be1}Sztuka ninja: ruch ziemi!
+Dialogue: 0,0:07:46.91,0:07:49.69,Default,,0,0,0,,{\be1}No cóż, moje techniki też są wyjątkowe.
+Dialogue: 0,0:07:54.02,0:07:56.06,Default,,0,0,0,,{\be1}Jesteś słaba.
+Dialogue: 0,0:07:56.06,0:08:02.26,Default,,0,0,0,,{\be1}Zastanawiałam się kto jest przywódcą\Nwroga, a to tylko mała dziewczynka.
+Dialogue: 0,0:08:02.26,0:08:03.31,Default,,0,0,0,,{\be1}Pieprz się!
+Dialogue: 0,0:08:03.31,0:08:06.42,Default,,0,0,0,,{\be1}W świecie ninja musisz zabić,\Nzanim zostaniesz zabita.
+Dialogue: 0,0:08:06.42,0:08:09.90,Default,,0,0,0,,{\be1}Tu nie ma znaczenia twoje uroda i pochodzenie.
+Dialogue: 0,0:08:09.90,0:08:10.93,Default,,0,0,0,,{\be1}Zasrany staruch!
+Dialogue: 0,0:08:11.67,0:08:15.06,Default,,0,0,0,,{\be1}Coś powiedziała, dziwko?!
+Dialogue: 0,0:08:15.06,0:08:21.94,Default,,0,0,0,,{\be1}- Przestań, to boli!\N- Myślisz, że ci wszystko wolno, bo jesteś ładna?
+Dialogue: 0,0:08:22.27,0:08:26.94,Default,,0,0,0,,{\be1}Mam ochotę zniszczyć ci tę buźkę!
+Dialogue: 0,0:08:33.43,0:08:36.33,Default,,0,0,0,,{\be1}Gdzie cię teraz kopnąć?
+Dialogue: 0,0:08:42.71,0:08:45.14,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:49.01,0:08:55.02,Default,,0,0,0,,{\be1}Jesteś mokra, sprawia ci to przyjemność?
+Dialogue: 0,0:08:56.47,0:08:58.78,Default,,0,0,0,,{\be1}Przestań, pieprzony dziadzie!
+Dialogue: 0,0:09:00.59,0:09:02.34,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:09:08.64,0:09:10.30,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:09:18.05,0:09:21.72,Default,,0,0,0,,{\be1}Głuchy jesteś, dziadzie?!
+Dialogue: 0,0:09:28.61,0:09:32.12,Default,,0,0,0,,{\be1}Przestań się na mnie kręcić!
+Dialogue: 0,0:09:33.80,0:09:35.57,Default,,0,0,0,,{\be1}Zasrany dziad!
+Dialogue: 0,0:09:38.19,0:09:40.97,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:09:52.19,0:09:56.49,Default,,0,0,0,,{\be1}Nie myśl sobie, że dam się\Ntak w nieskończoność!
+Dialogue: 0,0:09:59.94,0:10:01.54,Default,,0,0,0,,{\be1}Zaraz zobaczysz piekło!
+Dialogue: 0,0:10:02.31,0:10:09.42,Default,,0,0,0,,{\be1}Sztuka ninja: piekielny taniec!
+Dialogue: 0,0:11:07.94,0:11:10.92,Default,,0,0,0,,{\be1}Nawet nie umiesz tego\Ndobrze zrobić, durny dziadzie!
+Dialogue: 0,0:11:10.92,0:11:14.35,Default,,0,0,0,,{\be1}Tak się na kimś tańczy!
+Dialogue: 0,0:11:16.79,0:11:20.07,Default,,0,0,0,,{\be1}Nie widzę żadnych słabości.
+Dialogue: 0,0:11:20.07,0:11:21.69,Default,,0,0,0,,{\be1}Za to ty masz ich pełno.
+Dialogue: 0,0:11:21.69,0:11:23.16,Default,,0,0,0,,{\be1}Wal się.
+Dialogue: 0,0:11:23.16,0:11:28.35,Default,,0,0,0,,{\be1}Jeśli uderzę z prawej, to od razu zginiesz,\Nco nie oznacza, że z lewej jesteś bezpieczniejsza.
+Dialogue: 0,0:11:28.35,0:11:30.70,Default,,0,0,0,,{\be1}Nie uda ci się uniknąć ostrza.
+Dialogue: 0,0:11:32.35,0:11:33.79,Default,,0,0,0,,{\be1}Zamknij się.
+Dialogue: 0,0:11:33.79,0:11:36.10,Default,,0,0,0,,{\be1}Z której strony zacząć?
+Dialogue: 0,0:11:36.68,0:11:41.15,Default (i),,0,0,0,,{\be1}Niestety muszę mu przyznać rację.\NNaprawdę mogę zginąć.
+Dialogue: 0,0:11:41.15,0:11:42.81,Default (i),,0,0,0,,{\be1}Muszę go jakoś zdekoncentrować.
+Dialogue: 0,0:11:43.94,0:11:45.81,Default,,0,0,0,,{\be1}Co ty na to?
+Dialogue: 0,0:11:46.76,0:11:50.36,Default (i),,0,0,0,,{\be1}Co jest?\NNie drgnęła mu nawet powieka.
+Dialogue: 0,0:11:51.12,0:11:52.67,Default,,0,0,0,,{\be1}Jesteś amatorką.
+Dialogue: 0,0:11:52.67,0:11:53.91,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:11:53.91,0:11:57.32,Default,,0,0,0,,{\be1}Nie pociągają mnie ninja.
+Dialogue: 0,0:11:58.98,0:12:00.09,Default (i),,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:12:03.41,0:12:10.29,Default,,0,0,0,,{\be1}Zrozum wreszcie, że się z tobą bawię,\Nmógłbym cię zabić 3 razy tym atakiem.
+Dialogue: 0,0:12:10.29,0:12:15.29,Default,,0,0,0,,{\be1}To twój koniec, jak chcesz zginąć?
+Dialogue: 0,0:12:15.29,0:12:16.95,Default,,0,0,0,,{\be1}Mówił prawdę!
+Dialogue: 0,0:12:16.95,0:12:21.80,Default,,0,0,0,,{\be1}Najwyraźniej walczyłaś tylko ze słabeuszami,\Na teraz przyjmij śmierć z godnością!
+Dialogue: 0,0:12:22.21,0:12:23.81,Default,,0,0,0,,{\be1}Sztuka ninja: latające szpony!
+Dialogue: 0,0:12:26.05,0:12:27.10,Default,,0,0,0,,{\be1}- Co?\N- Słabeusz!
+Dialogue: 0,0:12:33.51,0:12:38.52,Default,,0,0,0,,{\be1}Widać, że słabo walczysz wręcz!
+Dialogue: 0,0:12:38.52,0:12:42.03,Default,,0,0,0,,{\be1}Może jeszcze nigdy nie dotknąłeś kobiety?
+Dialogue: 0,0:12:43.18,0:12:47.05,Default,,0,0,0,,{\be1}Niemożliwe! Zostaw mnie!
+Dialogue: 0,0:12:47.72,0:12:51.76,Default,,0,0,0,,{\be1}Kobiety ładnie pachną, co?
+Dialogue: 0,0:12:51.76,0:12:57.42,Default,,0,0,0,,{\be1}Proszę, przestań! Mamusiu!
+Dialogue: 0,0:12:57.42,0:13:00.00,Default,,0,0,0,,{\be1}Co do diabła?\NTo zwykły maminsynek!
+Dialogue: 0,0:13:00.01,0:13:01.09,Default,,0,0,0,,{\be1}Mamusiu!
+Dialogue: 0,0:13:01.94,0:13:06.56,Default,,0,0,0,,{\be1}Skoro tak bardzo chcesz iść do niej to ci pozwolę!
+Dialogue: 0,0:13:06.56,0:13:09.77,Default,,0,0,0,,{\be1}Sztuka ninja: wielkie zassanie!
+Dialogue: 0,0:13:16.22,0:13:20.89,Default,,0,0,0,,{\be1}Pokażę ci jak potrafię zassać!
+Dialogue: 0,0:13:31.99,0:13:37.63,Default,,0,0,0,,{\be1}Smakuje moja cipka?!
+Dialogue: 0,0:13:41.75,0:13:46.56,Default,,0,0,0,,{\be1}Mamusiu, pomocy!
+Dialogue: 0,0:13:47.35,0:13:49.97,Default,,0,0,0,,{\be1}Kręcimy jeszcze mocniej!
+Dialogue: 0,0:14:05.16,0:14:07.16,Default,,0,0,0,,{\be1}Posmakuj jej więcej!
+Dialogue: 0,0:14:07.16,0:14:17.99,Default,,0,0,0,,{\be1}- Znałem tylko smak mamy! Mamusiu!\N- Przestań biadolić, maminsynku!
+Dialogue: 0,0:14:40.49,0:14:43.11,Default,,0,0,0,,{\be1}Twoja matka pewnie tego nie umiała.
+Dialogue: 0,0:14:48.24,0:14:53.62,Default (i),,0,0,0,,{\be1}Jest niezły. Walczymy od godziny,\Na on nadal dobrze się trzyma.
+Dialogue: 0,0:14:53.62,0:14:55.83,Default (i),,0,0,0,,{\be1}Jeden zły ruch i zginę.
+Dialogue: 0,0:14:56.61,0:15:02.82,Default,,0,0,0,,{\be1}Widać, że jesteś Shinjo Reiko,\Njesteś silniejsza niż inni, ale i tak słaba.
+Dialogue: 0,0:15:02.82,0:15:05.76,Default,,0,0,0,,{\be1}Jak by to zakończyć?
+Dialogue: 0,0:15:05.76,0:15:09.32,Default,,0,0,0,,{\be1}Przestań gadać i chodź!
+Dialogue: 0,0:15:09.32,0:15:11.96,Default,,0,0,0,,{\be1}Już po tobie, nie wytrzymasz nawet 5 minut.
+Dialogue: 0,0:15:11.96,0:15:16.24,Default,,0,0,0,,{\be1}Nie lubię walczyć z kobietami,\Nale nie mogę dać się pokonać.
+Dialogue: 0,0:15:16.24,0:15:19.23,Default,,0,0,0,,{\be1}Coś powiedział?!\NTy szowinistyczny zboku!
+Dialogue: 0,0:15:23.42,0:15:26.24,Default,,0,0,0,,{\be1}Uderzył 3 razy w jednej chwili!
+Dialogue: 0,0:15:27.52,0:15:31.91,Default,,0,0,0,,{\be1}Nie, 4. Spójrz na swoją cipkę.
+Dialogue: 0,0:15:31.91,0:15:33.74,Default,,0,0,0,,{\be1}Wsadziłem ci pasożyta.
+Dialogue: 0,0:15:35.68,0:15:37.05,Default,,0,0,0,,{\be1}Co do diabła?!
+Dialogue: 0,0:15:37.76,0:15:43.24,Default,,0,0,0,,{\be1}Ten pasożyt zje twoje wnętrzności.
+Dialogue: 0,0:15:43.24,0:15:46.06,Default,,0,0,0,,{\be1}Cholera, wlazł!
+Dialogue: 0,0:15:46.06,0:15:49.31,Default,,0,0,0,,{\be1}Gdy już wejdzie twoje ciało zacznie drętwieć.
+Dialogue: 0,0:15:49.31,0:15:51.11,Default,,0,0,0,,{\be1}Czas z tobą skończyć!
+Dialogue: 0,0:15:57.06,0:16:00.09,Default,,0,0,0,,{\be1}Cholera, ledwo mogę się ruszać!
+Dialogue: 0,0:16:00.09,0:16:02.48,Default,,0,0,0,,{\be1}Już po tobie.
+Dialogue: 0,0:16:06.58,0:16:08.30,Default,,0,0,0,,{\be1}Sztuka ninja: walący niedźwiedź!
+Dialogue: 0,0:16:12.24,0:16:15.30,Default,,0,0,0,,{\be1}Słabeuszka bez woli walki.
+Dialogue: 0,0:16:15.30,0:16:19.04,Default,,0,0,0,,{\be1}W świecie ninja porażka oznacza śmierć.
+Dialogue: 0,0:16:20.16,0:16:23.59,Default,,0,0,0,,{\be1}Niedługo pasożyt zje jej wnętrzności.
+Dialogue: 0,0:16:23.59,0:16:28.96,Default,,0,0,0,,{\be1}Niezły tyłek, szkoda że jesteś ninją.
+Dialogue: 0,0:16:28.96,0:16:31.38,Default,,0,0,0,,{\be1}Takie już twoje przeznaczenie.
+Dialogue: 0,0:16:32.33,0:16:40.15,Default,,0,0,0,,{\be1}Naprawdę niezła,\Nmogłem nie wsadzać jej pasożyta.
+Dialogue: 0,0:16:40.15,0:16:42.03,Default,,0,0,0,,{\be1}Zaczynam żałować.
+Dialogue: 0,0:16:42.03,0:16:46.21,Default,,0,0,0,,{\be1}Ale jeśli spróbuje go wyciągnąć sam mogę zginąć.
+Dialogue: 0,0:16:46.21,0:16:49.36,Default,,0,0,0,,{\be1}Muszę się zadowolić patrzeniem.
+Dialogue: 0,0:16:50.43,0:16:52.09,Default,,0,0,0,,{\be1}Cudowna cipka.
+Dialogue: 0,0:16:52.09,0:16:56.55,Default,,0,0,0,,{\be1}Cholera, taką znajduje się raz na milion.
+Dialogue: 0,0:16:57.30,0:17:01.71,Default,,0,0,0,,{\be1}Szkoda, że chociaż raz nie włożyłem.\NNadal się ruszasz.
+Dialogue: 0,0:17:02.42,0:17:04.44,Default,,0,0,0,,{\be1}Zamknij się!
+Dialogue: 0,0:17:04.44,0:17:10.40,Default,,0,0,0,,{\be1}Broń się! Sztuka ninja: miażdżący krab!
+Dialogue: 0,0:17:13.96,0:17:15.89,Default,,0,0,0,,{\be1}Nie mogę oddychać!
+Dialogue: 0,0:17:39.02,0:17:44.22,Default,,0,0,0,,{\be1}- Poczuj moją siłę!\N- Zamknij się!
+Dialogue: 0,0:18:22.23,0:18:23.80,Default,,0,0,0,,{\be1}Nie puszczę!
+Dialogue: 0,0:18:34.27,0:18:37.93,Default,,0,0,0,,{\be1}Jaka mokra!
+Dialogue: 0,0:18:43.04,0:18:46.58,Default,,0,0,0,,{\be1}Poczuj moją moc!
+Dialogue: 0,0:18:47.22,0:18:49.55,Default,,0,0,0,,{\be1}Nie mogę tak skończyć!
+Dialogue: 0,0:19:08.02,0:19:10.45,Default,,0,0,0,,{\be1}Puszczaj!
+Dialogue: 0,0:19:15.58,0:19:18.94,Default,,0,0,0,,{\be1}Oddaję pasożyta!
+Dialogue: 0,0:19:20.14,0:19:21.85,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:19:26.65,0:19:29.33,Default,,0,0,0,,{\be1}Zginął od własnej broni!

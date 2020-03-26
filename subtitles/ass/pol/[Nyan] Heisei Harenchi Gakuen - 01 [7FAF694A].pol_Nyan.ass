@@ -1,0 +1,556 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build416  Oct 11 2015  12:01:21
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 12453
+Last Style Storage: Podstawowy
+Video File: [EROBEAT]_Heisei_Harenchi_Gakuen_-_01_[x264][384E4F4B].mp4
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H0093693B,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,50,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H0010FFF7,&H00626262,&H00007975,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,20,20,20,1
+Style: ED Rom 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,20,1
+Style: ED Kan,Franklin Gothic Medium,25,&H0010FFF7,&H00626262,&H00007975,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,56,1
+Style: ED Kan 2,Franklin Gothic Medium,25,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,56,1
+Style: ED Pl,Franklin Gothic Medium,28,&H0010FFF7,&H00626262,&H00007975,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,20,20,20,1
+Style: ED Pl 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:54.13,0:01:57.63,Grupa,,0,0,0,,{\be1\fad(451,46)}Nyan
+Dialogue: 0,0:01:54.13,0:01:57.63,Anime,,0,0,0,,{\be1\fad(451,46)\1c&H228DC2&\3c&H1452B9&}Heisei {\yshad5\xshad3\1c&H2027A4&\3c&H909DB3&\4c&H984D31&}Harenchi {\shad0\1c&H2095BE&\3c&H182CA1&}Gakuen
+Dialogue: 0,0:44:25.02,0:44:32.37,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kibou no oka ni kagayaku gakuen
+Dialogue: 1,0:44:34.48,0:44:39.12,ED Rom,,0,0,0,,{\blur9\fad(100,100)}miageru shisen no saki de pantsu chirari to sasou
+Dialogue: 0,0:44:39.17,0:44:41.49,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kamatsuka houmurikomi okay
+Dialogue: 1,0:44:41.74,0:44:45.13,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kore ga otoko no honnou
+Dialogue: 0,0:44:46.20,0:44:48.86,ED Rom,,0,0,0,,{\blur9\fad(100,100)}come on koreba nandemo ari da yo
+Dialogue: 1,0:44:48.66,0:44:50.95,ED Rom,,0,0,0,,{\blur9\fad(100,100)}tottemo kimochi no ii koto
+Dialogue: 0,0:44:50.96,0:44:55.63,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kyou mo kikoeru kiyoi sakebi ga arashi o yobu yo
+Dialogue: 1,0:44:55.71,0:45:01.59,ED Rom,,0,0,0,,{\blur9\fad(100,100)}heisei harenchi gakuen
+Dialogue: 0,0:45:08.66,0:45:16.06,ED Rom,,0,0,0,,{\blur9\fad(100,100)}tooku asahi ni haeru manabiya
+Dialogue: 1,0:45:18.21,0:45:22.86,ED Rom,,0,0,0,,{\blur9\fad(100,100)}hosometa shisen no saki de mune no kage ga maneku
+Dialogue: 0,0:45:22.91,0:45:25.24,ED Rom,,0,0,0,,{\blur9\fad(100,100)}come on mokkori okay
+Dialogue: 1,0:45:25.47,0:45:28.96,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kore ga otoko no honnou
+Dialogue: 0,0:45:30.04,0:45:34.80,ED Rom,,0,0,0,,{\blur9\fad(100,100)}monbushou de buka wa dekinai utatteru kimochi no ii koto
+Dialogue: 1,0:45:34.68,0:45:39.26,ED Rom,,0,0,0,,{\blur9\fad(100,100)}omowase buri no amaeta taido arashi o yobu yo
+Dialogue: 0,0:45:39.48,0:45:45.25,ED Rom,,0,0,0,,{\blur9\fad(100,100)}heisei harenchi gakuen
+Dialogue: 1,0:46:11.36,0:46:18.79,ED Rom,,0,0,0,,{\blur9\fad(100,100)}omoeba fukai watashi no kouun
+Dialogue: 0,0:46:20.83,0:46:25.55,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kansha no shisen no saki de josei o oikake semaru
+Dialogue: 1,0:46:25.51,0:46:27.78,ED Rom,,0,0,0,,{\blur9\fad(100,100)}jouken naiyou okay
+Dialogue: 0,0:46:28.10,0:46:31.34,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kore ga otoku no honnou
+Dialogue: 1,0:46:32.60,0:46:35.23,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kyoushi mo seito mo kankei nashi da yo
+Dialogue: 0,0:46:35.03,0:46:37.36,ED Rom,,0,0,0,,{\blur9\fad(100,100)}ichiban kimochi no ii koto
+Dialogue: 1,0:46:37.40,0:46:41.79,ED Rom,,0,0,0,,{\blur9\fad(100,100)}dare mo ga yoromeku etchi na shigusa ga arashi o yobu yo
+Dialogue: 0,0:46:42.04,0:46:44.68,ED Rom,,0,0,0,,{\blur9\fad(100,100)}come on koreba nandemo are da yo
+Dialogue: 1,0:46:44.48,0:46:46.80,ED Rom,,0,0,0,,{\blur9\fad(100,100)}tottemo kimochi no ii koto
+Dialogue: 0,0:46:46.87,0:46:51.27,ED Rom,,0,0,0,,{\blur9\fad(100,100)}kyou mo kikoeru kiyoi sakebi ga arashi o yobu yo
+Dialogue: 1,0:46:51.60,0:46:57.51,ED Rom,,0,0,0,,{\blur9\fad(100,100)}heisei harenchi gakuen
+Dialogue: 0,0:44:25.02,0:44:32.37,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Na szczytach szkoła nadziei lśni.
+Dialogue: 1,0:44:34.48,0:44:39.12,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Gdy patrzę w górę przed oczami majtki mam.
+Dialogue: 0,0:44:39.17,0:44:41.49,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Od razu zanurzyłem drąga w nie i jest okej.
+Dialogue: 1,0:44:41.74,0:44:45.13,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Taki już faceta los!
+Dialogue: 0,0:44:46.20,0:44:48.86,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Chodź, mam wszystko czego ci trzeba!
+Dialogue: 1,0:44:48.66,0:44:50.95,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Będzie ci z nim przyjemnie!
+Dialogue: 0,0:44:50.96,0:44:55.63,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Młodości krzyki wywołają burzę!
+Dialogue: 1,0:44:55.71,0:45:01.59,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Bo to jest szkoła zboczony lasek!
+Dialogue: 0,0:45:08.66,0:45:16.06,ED Pl,,0,0,0,,{\blur9\fad(100,100)}W oddali widzę, czego będziemy uczyć się.
+Dialogue: 1,0:45:18.21,0:45:22.86,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Gdy oczy przymrużę cyca widzę cień.
+Dialogue: 0,0:45:22.91,0:45:25.24,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Mój drąg już czeka i jest okej.
+Dialogue: 1,0:45:25.47,0:45:28.96,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Taki już faceta los!
+Dialogue: 0,0:45:30.04,0:45:34.80,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Fagasy z oświaty nie mogę śpiewać jak ja!
+Dialogue: 1,0:45:34.68,0:45:39.26,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Niewyżyte laski sprowadzą na nas sztorm!
+Dialogue: 0,0:45:39.48,0:45:45.25,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Bo to jest szkoła zboczony lasek!
+Dialogue: 1,0:46:11.36,0:46:18.79,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Farta wielkiego mam.
+Dialogue: 0,0:46:20.83,0:46:25.55,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Zgraja lasek pędzi na mnie.
+Dialogue: 1,0:46:25.51,0:46:27.78,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Drąg już czeka i jest okej.
+Dialogue: 0,0:46:28.10,0:46:31.34,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Taki już faceta los!
+Dialogue: 1,0:46:32.60,0:46:35.23,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Nie ma dla mnie zakazanych związków!
+Dialogue: 0,0:46:35.03,0:46:37.36,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Będzie nam jak w niebie!
+Dialogue: 1,0:46:37.40,0:46:41.79,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Seksowne pojękiwania sprowadzą na nas burzę!
+Dialogue: 0,0:46:42.04,0:46:44.68,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Chodź, mam wszystko czego ci trzeba!
+Dialogue: 1,0:46:44.48,0:46:46.80,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Będzie ci z nim przyjemnie!
+Dialogue: 0,0:46:46.87,0:46:51.27,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Młodości krzyki wywołają burzę!
+Dialogue: 1,0:46:51.60,0:46:57.51,ED Pl,,0,0,0,,{\blur9\fad(100,100)}Bo to jest szkoła zboczony lasek!
+Dialogue: 0,0:00:01.81,0:00:03.14,Default,,0,0,0,,{\be1}No nie!
+Dialogue: 0,0:00:08.93,0:00:11.63,Default,,0,0,0,,{\be1}Ale z ciebie zbok!
+Dialogue: 0,0:00:13.87,0:00:16.63,Default,,0,0,0,,{\be1}Jubei, czekaj!
+Dialogue: 0,0:00:33.80,0:00:37.17,Default,,0,0,0,,{\be1}Dawno się nie widzieliśmy, ludziska!
+Dialogue: 0,0:00:36.97,0:00:43.16,Default,,0,0,0,,{\be1}Dzisiaj porozmawiamy o szkole Harenchi,\Nprzez którą zboczenie rozlazło się na całą Japonię.
+Dialogue: 0,0:00:49.71,0:00:53.67,Default,,0,0,0,,{\be1}Nawet twórca tego anime\Njest zawstydzony jego bezwstydnością.
+Dialogue: 0,0:00:53.47,0:00:58.69,Default,,0,0,0,,{\be1}Do tego Hige Godzilla i Marugoshi\Ndorzucili swoje zboczenia.
+Dialogue: 0,0:00:58.49,0:01:02.55,Default,,0,0,0,,{\be1}Zobaczycie historię o głębokiej i zboczonej miłości.
+Dialogue: 0,0:01:02.35,0:01:08.70,Default,,0,0,0,,{\be1}Co więcej nawet w erze Heisei\Nmożemy oglądać wideo!
+Dialogue: 0,0:01:09.49,0:01:14.69,Default,,0,0,0,,{\be1}Pamiętacie tę ślicznotkę?\NTo Jubei znana też jako Yagyu Mitsuko.
+Dialogue: 0,0:01:15.90,0:01:21.66,Default,,0,0,0,,{\be1}Jest sławna w szkole Harenchi,\Na do tego jest dumną klanu Yagyu.
+Dialogue: 0,0:01:21.92,0:01:26.66,Default,,0,0,0,,{\be1}A tu mamy głównego bohatera, Yamagishi.
+Dialogue: 0,0:01:26.46,0:01:31.12,Default,,0,0,0,,{\be1}A tu jest Ikidomari znany też jako Fukurokoji.
+Dialogue: 0,0:01:30.92,0:01:33.68,Default,,0,0,0,,{\be1}Jest znanym zbokiem, myślącym tylko o jednym.
+Dialogue: 0,0:01:33.48,0:01:37.92,Default,,0,0,0,,{\be1}A teraz czas zobaczyć,\Nco się dzieje w szkole Harenochi.
+Dialogue: 0,0:01:37.72,0:01:40.67,Default,,0,0,0,,{\be1}Co nas dzisiaj tam czeka?
+Dialogue: 0,0:01:41.81,0:01:43.89,Default,,0,0,0,,{\be1}Będzie niezła zabawa.
+Dialogue: 0,0:01:46.65,0:01:51.69,Default,,0,0,0,,{\be1}Zaczynajmy Heisei Harenchi Gakuen!
+Dialogue: 0,0:02:06.50,0:02:10.24,Default,,0,0,0,,{\be1}Ale żal, spóźnimy się pierwszego dnia!
+Dialogue: 0,0:02:17.38,0:02:18.71,Default,,0,0,0,,{\be1}Nareszcie!
+Dialogue: 0,0:02:30.11,0:02:34.48,Default,,0,0,0,,{\be1}Od dziecka marzyłem, żeby się tu znaleźć.
+Dialogue: 0,0:02:34.28,0:02:36.13,Default,,0,0,0,,{\be1}I w końcu jesteś.
+Dialogue: 0,0:02:36.54,0:02:45.91,Default,,0,0,0,,{\be1}Nic da się opisać tego uczucia, gdy w podstawówce Hige\NGodzilla namówił mnie do zostanie nauczycielem.
+Dialogue: 0,0:02:45.71,0:02:50.74,Default,,0,0,0,,{\be1}Minęło 10 lat, to był ciężki okres.
+Dialogue: 0,0:03:05.44,0:03:12.78,Default,,0,0,0,,{\be1}Nie wytrzymasz pierwszej lekcji,\Njeśli tyle trzeba byś miał fontannę.
+Dialogue: 0,0:03:13.16,0:03:18.15,Default,,0,0,0,,{\be1}Musisz być silny, od dzisiaj\Nuczymy w żeńskiej szkole.
+Dialogue: 0,0:03:19.91,0:03:23.91,Default,,0,0,0,,{\be1}Wszędzie jędrne tyłeczki!
+Dialogue: 0,0:03:25.43,0:03:28.41,Default,,0,0,0,,{\be1}To będzie eksplozja pożądania!
+Dialogue: 0,0:03:28.21,0:03:31.43,Default,,0,0,0,,{\be1}- Biegiem!\N- Czekaj!
+Dialogue: 0,0:03:32.38,0:03:35.37,Default,,0,0,0,,{\be1}Zaczekaj na mnie!
+Dialogue: 0,0:03:40.52,0:03:43.34,Default,,0,0,0,,{\be1}Nie zostawaj w tyle!
+Dialogue: 0,0:03:43.61,0:03:46.34,Default,,0,0,0,,{\be1}Nie tak szybko!
+Dialogue: 0,0:03:50.15,0:03:52.11,Default,,0,0,0,,{\be1}Zobacz.
+Dialogue: 0,0:04:00.02,0:04:03.19,Default,,0,0,0,,{\be1}To Jubei, nie?
+Dialogue: 0,0:04:02.99,0:04:04.36,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:04:05.53,0:04:07.82,Default,,0,0,0,,{\be1}Ale ona seksi.
+Dialogue: 0,0:04:07.62,0:04:12.37,Default,,0,0,0,,{\be1}No nie? A teraz jest sławnym sportowcem.
+Dialogue: 0,0:04:20.18,0:04:26.38,Default,,0,0,0,,{\be1}A najlepiej wygląd, gdy podskakują.
+Dialogue: 0,0:04:28.08,0:04:31.43,Default,,0,0,0,,{\be1}Tylko czemu jest tu pomnik Jubei?
+Dialogue: 0,0:04:31.23,0:04:32.39,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:04:32.19,0:04:33.97,Default,,0,0,0,,{\be1}Nieważne.
+Dialogue: 0,0:04:33.77,0:04:37.89,Default,,0,0,0,,{\be1}Dobra, będę mocno się starał,\Nżeby nie zawieść Jubei.
+Dialogue: 0,0:04:38.44,0:04:40.48,Default,,0,0,0,,{\be1}W czym?
+Dialogue: 0,0:04:40.28,0:04:41.94,Default,,0,0,0,,{\be1}Jeszcze się pytasz?
+Dialogue: 0,0:04:41.74,0:04:46.90,Default,,0,0,0,,{\be1}Odkąd zostałem nauczycielem,\Nmuszę przelecieć jak najwięcej uczennic!
+Dialogue: 0,0:04:46.70,0:04:49.28,Default,,0,0,0,,{\be1}Wiedziałem!
+Dialogue: 0,0:04:56.92,0:05:00.92,Default,,0,0,0,,{\be1}Głupki nic się nie zmienili.
+Dialogue: 0,0:05:07.73,0:05:10.93,Default,,0,0,0,,{\be1}Zdobyłyśmy dwóch żwawych mężczyzn.
+Dialogue: 0,0:05:10.73,0:05:14.81,Default,,0,0,0,,{\be1}Już niedługo szkoła będzie sławniejsza.
+Dialogue: 0,0:05:21.53,0:05:26.61,Default,,0,0,0,,{\be1}Co za głupota, po co nam fajne mundurki\Nskoro nie ma tu żadnych facetów.
+Dialogue: 0,0:05:26.41,0:05:28.95,Default,,0,0,0,,{\be1}Nienawidzę żeńskich szkół.
+Dialogue: 0,0:05:31.75,0:05:36.72,Default,,0,0,0,,{\be1}Nie uwierzycie! Od dzisiaj będzie\Nnas uczył młody mężczyzna!
+Dialogue: 0,0:05:36.52,0:05:38.77,Default,,0,0,0,,{\be1}- Co?!\N- Mężczyzna?!
+Dialogue: 0,0:05:40.29,0:05:42.21,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:05:42.01,0:05:44.23,Default,,0,0,0,,{\be1}Muszę założyć lepsza bieliznę.
+Dialogue: 0,0:05:44.03,0:05:45.81,Default,,0,0,0,,{\be1}A ja poprawić makijaż.
+Dialogue: 0,0:06:02.32,0:06:07.48,Default,,0,0,0,,{\be1}Miło was poznać, jestem\Ndyrektorką szkoły Harenochi.
+Dialogue: 0,0:06:07.74,0:06:10.10,Default,,0,0,0,,{\be1}Wygląda pani znajomo.
+Dialogue: 0,0:06:12.25,0:06:14.49,Default,,0,0,0,,{\be1}Wydaje wam się.
+Dialogue: 0,0:06:14.87,0:06:20.00,Default,,0,0,0,,{\be1}Po raz pierwszy będziemy\Nmiały męskich nauczycieli.
+Dialogue: 0,0:06:19.80,0:06:25.04,Default,,0,0,0,,{\be1}Ale jestem zadowolona,\Nwyglądanie całkiem nieźle.
+Dialogue: 0,0:06:29.84,0:06:32.42,Default,,0,0,0,,{\be1}Postaramy się!
+Dialogue: 0,0:06:33.35,0:06:35.41,Default,,0,0,0,,{\be1}Jakie niewiniątka.
+Dialogue: 0,0:06:35.70,0:06:38.43,Default,,0,0,0,,{\be1}Tutaj macie grafik.
+Dialogue: 0,0:06:39.11,0:06:43.27,Default,,0,0,0,,{\be1}Ktoś was zaprowadzi do waszych klas.
+Dialogue: 0,0:06:57.83,0:07:00.27,Default,,0,0,0,,{\be1}Dajcie mi chwilkę.
+Dialogue: 0,0:07:13.64,0:07:16.15,Default,,0,0,0,,{\be1}Nie ma to jak młodość.
+Dialogue: 0,0:07:22.98,0:07:25.85,Default,,0,0,0,,{\be1}Bardzo seksi jak na nauczycielkę.
+Dialogue: 0,0:07:27.41,0:07:29.27,Default,,0,0,0,,{\be1}Nie wytrzymam.
+Dialogue: 0,0:07:33.83,0:07:36.66,Default,,0,0,0,,{\be1}Fukurokoji, twoja klasa jest tutaj.
+Dialogue: 0,0:07:37.46,0:07:39.54,Default,,0,0,0,,{\be1}Przyjemnej zabawy.
+Dialogue: 0,0:07:42.13,0:07:45.42,Default,,0,0,0,,{\be1}Twoja klasa jest tam.
+Dialogue: 0,0:07:49.30,0:07:51.20,Default,,0,0,0,,{\be1}Nauczyciel.
+Dialogue: 0,0:07:54.65,0:07:56.46,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:07:56.26,0:07:59.50,Default,,0,0,0,,{\be1}Może to jednak nie ta sala?
+Dialogue: 0,0:07:59.30,0:08:02.47,Default,,0,0,0,,{\be1}Profesorze, zaczynajmy lekcję.
+Dialogue: 0,0:08:04.58,0:08:08.06,Default,,0,0,0,,{\be1}Szefie, ta szkoła jest jakaś dziwna!
+Dialogue: 0,0:08:07.86,0:08:09.40,Default,,0,0,0,,{\be1}Profesorze.
+Dialogue: 0,0:08:09.20,0:08:12.22,Default,,0,0,0,,{\be1}Wręcz zbyt niesamowita!
+Dialogue: 0,0:08:13.79,0:08:16.95,Default,,0,0,0,,{\be1}Zbyt niesamowita?
+Dialogue: 0,0:08:18.54,0:08:22.95,Default,,0,0,0,,{\be1}To twoja klasa pierwszaków, 1B.
+Dialogue: 0,0:08:23.78,0:08:26.79,Default,,0,0,0,,{\be1}- Daj znać w razie pytań.\N- Dobra.
+Dialogue: 0,0:08:29.63,0:08:30.93,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:08:30.73,0:08:33.93,Default,,0,0,0,,{\be1}Powodzenia.
+Dialogue: 0,0:08:34.45,0:08:36.69,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:08:37.86,0:08:40.94,Default,,0,0,0,,{\be1}Niedobrze, ważne jest pierwsze wrażenie.
+Dialogue: 0,0:08:48.75,0:08:51.95,Default (i),,0,0,0,,{\be1}Co tu niby jest niesamowite?
+Dialogue: 0,0:08:53.37,0:08:55.95,Default (i),,0,0,0,,{\be1}Wszystko jest normalne.
+Dialogue: 0,0:08:56.66,0:08:58.19,Default,,0,0,0,,{\be1}Nazywam się...
+Dialogue: 0,0:09:08.80,0:09:11.02,Default,,0,0,0,,{\be1}Mężczyzna!
+Dialogue: 0,0:09:10.82,0:09:12.30,Default,,0,0,0,,{\be1}Pomacaj mnie!
+Dialogue: 0,0:09:12.10,0:09:15.30,Default,,0,0,0,,{\be1}Czekajcie, może najpierw...
+Dialogue: 0,0:09:15.91,0:09:19.31,Default,,0,0,0,,{\be1}Mocniej, profesorze.
+Dialogue: 0,0:09:22.28,0:09:24.31,Default,,0,0,0,,{\be1}To nie fair!
+Dialogue: 0,0:09:24.11,0:09:28.10,Default,,0,0,0,,{\be1}- Wszystkie go chcemy!\N- Właśnie, on nie jest twój!
+Dialogue: 0,0:09:28.53,0:09:32.09,Default,,0,0,0,,{\be1}Przestańcie! Postawcie mnie!
+Dialogue: 0,0:09:31.89,0:09:34.59,Default,,0,0,0,,{\be1}Natychmiast przestać!
+Dialogue: 0,0:09:47.15,0:09:52.33,Default,,0,0,0,,{\be1}Od dzisiaj jestem waszym wychowawcą,\Nnazywam się Yamagishi Yasohachi.
+Dialogue: 0,0:09:53.47,0:09:56.48,Default,,0,0,0,,{\be1}Miło nam, profesorze!
+Dialogue: 0,0:09:57.75,0:10:02.26,Default (i),,0,0,0,,{\be1}Wydaje mi się czy obecne nastolatki\Nsą zbyt aktywne seksualnie?
+Dialogue: 0,0:10:02.06,0:10:08.36,Default,,0,0,0,,{\be1}Naszą pierwszą lekcją będą badania!
+Dialogue: 0,0:10:09.44,0:10:13.36,Default (i),,0,0,0,,{\be1}Taki fart pierwszego dnia?
+Dialogue: 0,0:10:14.74,0:10:16.91,Default,,0,0,0,,{\be1}Dziewczyny, najpierw...
+Dialogue: 0,0:10:23.54,0:10:28.81,Default,,0,0,0,,{\be1}Hola, nie wstyd wam paradować\Nnago przed dorosłym facetem?
+Dialogue: 0,0:10:28.61,0:10:30.07,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:10:29.87,0:10:31.79,Default,,0,0,0,,{\be1}Nic, a nic.
+Dialogue: 0,0:10:33.01,0:10:37.75,Default,,0,0,0,,{\be1}Co w tym fajnego skoro same do mnie startują?
+Dialogue: 0,0:10:38.00,0:10:42.76,Default,,0,0,0,,{\be1}No bo w naszej szkole,\Nto nauczyciele prowadzą badania.
+Dialogue: 0,0:10:44.12,0:10:45.76,Default,,0,0,0,,{\be1}Do tego własnoręcznie.
+Dialogue: 0,0:10:45.56,0:10:47.20,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:10:48.63,0:10:51.83,Default,,0,0,0,,{\be1}No. O tak.
+Dialogue: 0,0:10:57.18,0:11:00.00,Default,,0,0,0,,{\be1}Wydaje mi się, że to 85 B.
+Dialogue: 0,0:11:00.61,0:11:03.88,Default,,0,0,0,,{\be1}Spróbuj ją utrzymać.
+Dialogue: 0,0:11:04.10,0:11:05.91,Default,,0,0,0,,{\be1}Łatwizna.
+Dialogue: 0,0:11:07.22,0:11:08.87,Default,,0,0,0,,{\be1}Widzicie?
+Dialogue: 0,0:11:08.67,0:11:10.75,Default,,0,0,0,,{\be1}Niesamowite!
+Dialogue: 0,0:11:10.55,0:11:13.89,Default,,0,0,0,,{\be1}Tamami jest w tym niezła!
+Dialogue: 0,0:11:14.67,0:11:17.89,Default,,0,0,0,,{\be1}No bo tak dam dużo przyjemności.
+Dialogue: 0,0:11:18.59,0:11:20.34,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:11:21.43,0:11:24.40,Default,,0,0,0,,{\be1}Proszę, mnie pierwszą zbadaj.
+Dialogue: 0,0:11:26.21,0:11:28.40,Default,,0,0,0,,{\be1}Serio? No dobra.
+Dialogue: 0,0:11:34.21,0:11:35.77,Default,,0,0,0,,{\be1}Farciara.
+Dialogue: 0,0:11:35.57,0:11:38.40,Default,,0,0,0,,{\be1}Szybciej, teraz moja kolej.
+Dialogue: 0,0:11:39.94,0:11:42.65,Default,,0,0,0,,{\be1}Jak dla mnie to 85 C.
+Dialogue: 0,0:11:42.45,0:11:45.51,Default,,0,0,0,,{\be1}No nie, tak szybko?
+Dialogue: 0,0:11:45.31,0:11:50.49,Default,,0,0,0,,{\be1}W takim razie teraz tutaj.
+Dialogue: 0,0:11:54.63,0:11:57.17,Default,,0,0,0,,{\be1}Spokojnie, ustawcie się w kolejkę.
+Dialogue: 0,0:11:56.97,0:12:01.00,Default,,0,0,0,,{\be1}Może być tak?
+Dialogue: 0,0:12:00.80,0:12:03.07,Default,,0,0,0,,{\be1}Jak dobrze.
+Dialogue: 0,0:12:03.65,0:12:06.80,Default,,0,0,0,,{\be1}Może pan głębiej.
+Dialogue: 0,0:12:06.60,0:12:08.08,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:10.31,0:12:12.08,Default,,0,0,0,,{\be1}Dalej.
+Dialogue: 0,0:12:13.07,0:12:15.80,Default,,0,0,0,,{\be1}O tak, tam!
+Dialogue: 0,0:12:17.74,0:12:19.19,Default,,0,0,0,,{\be1}To nie fair!
+Dialogue: 0,0:12:18.99,0:12:20.69,Default,,0,0,0,,{\be1}Ja też chcę!
+Dialogue: 0,0:12:23.16,0:12:26.99,Default,,0,0,0,,{\be1}W takim zbadam was wszystkie naraz!
+Dialogue: 0,0:12:26.79,0:12:29.60,Default,,0,0,0,,{\be1}Profesorze!
+Dialogue: 0,0:12:34.40,0:12:38.65,Default,,0,0,0,,{\be1}Bardzo dobrze, wszystko idzie zgodnie z planem.
+Dialogue: 0,0:12:41.72,0:12:43.35,Default,,0,0,0,,{\be1}Cholipka.
+Dialogue: 0,0:12:48.58,0:12:56.96,Default,,0,0,0,,{\be1}Nowi nauczyciele mają stawić się\Nw gabinecie lekarskim na badania.
+Dialogue: 0,0:12:57.86,0:12:59.36,Default,,0,0,0,,{\be1}My też?
+Dialogue: 0,0:13:00.03,0:13:02.36,Default,,0,0,0,,{\be1}Nas też badają?
+Dialogue: 0,0:13:02.16,0:13:05.19,Default,,0,0,0,,{\be1}Powtarzam.
+Dialogue: 0,0:13:04.99,0:13:10.81,Default,,0,0,0,,{\be1}Nowi nauczyciele mają stawić się\Nw gabinecie lekarskim na badania.
+Dialogue: 0,0:13:23.39,0:13:25.32,Default,,0,0,0,,{\be1}To tutaj.
+Dialogue: 0,0:13:28.89,0:13:34.33,Default,,0,0,0,,{\be1}Yamagishi, Fukurokoji,\Nwitam w gabinecie lekarskim.
+Dialogue: 0,0:13:41.14,0:13:45.34,Default,,0,0,0,,{\be1}Rozbierzcie się, zaczniemy badania.
+Dialogue: 0,0:13:48.45,0:13:52.35,Default,,0,0,0,,{\be1}Podejdźcie, gdy będziecie gotowi.
+Dialogue: 0,0:13:53.31,0:13:55.35,Default,,0,0,0,,{\be1}Zdejmujemy wszystko.
+Dialogue: 0,0:13:55.88,0:13:57.85,Default,,0,0,0,,{\be1}Do rosołu?!
+Dialogue: 0,0:14:10.60,0:14:12.60,Default,,0,0,0,,{\be1}Szybciej.
+Dialogue: 0,0:14:20.03,0:14:23.66,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:14:26.66,0:14:31.39,Default,,0,0,0,,{\be1}Te badania też robi się własnoręcznie?
+Dialogue: 0,0:14:31.66,0:14:34.02,Default,,0,0,0,,{\be1}Nie, ustami.
+Dialogue: 0,0:14:39.59,0:14:42.06,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:14:45.68,0:14:48.70,Default,,0,0,0,,{\be1}Możesz mnie przebadać?
+Dialogue: 0,0:14:49.44,0:14:51.41,Default,,0,0,0,,{\be1}Naprawdę mogę?
+Dialogue: 0,0:14:51.21,0:14:53.84,Default,,0,0,0,,{\be1}Szybciej.
+Dialogue: 0,0:14:53.64,0:14:55.93,Default,,0,0,0,,{\be1}No to smacznego!
+Dialogue: 0,0:15:07.39,0:15:08.90,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:15:18.83,0:15:21.67,Default,,0,0,0,,{\be1}Wiedziałam.
+Dialogue: 0,0:15:23.96,0:15:29.11,Default,,0,0,0,,{\be1}Jakim prawem sama zajmujesz\Njedynych facetów w szkole?
+Dialogue: 0,0:15:30.38,0:15:33.32,Default,,0,0,0,,{\be1}My też chcemy się zabawić.
+Dialogue: 0,0:15:35.02,0:15:37.32,Default,,0,0,0,,{\be1}Nas jest tylko dwóch.
+Dialogue: 0,0:15:37.76,0:15:39.32,Default,,0,0,0,,{\be1}To nic!
+Dialogue: 0,0:16:00.58,0:16:02.61,Default,,0,0,0,,{\be1}Bardzo dobrze.
+Dialogue: 0,0:16:07.49,0:16:13.62,Default,,0,0,0,,{\be1}No nie, coś za długo trwają badania!
+Dialogue: 0,0:16:13.43,0:16:16.80,Default,,0,0,0,,{\be1}Wydaje mi się, że ta zboczona\Npielęgniarka coś zaplanowała.
+Dialogue: 0,0:16:16.60,0:16:21.51,Default,,0,0,0,,{\be1}Pewnie sama chce się\Nzabawiać z jedynymi facetami.
+Dialogue: 0,0:16:21.31,0:16:22.20,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:16:22.00,0:16:26.47,Default,,0,0,0,,{\be1}To zadania dla Króliczków!
+Dialogue: 0,0:16:27.64,0:16:31.77,Default,,0,0,0,,{\be1}Ukradła faceta niewinnym uczennicom!
+Dialogue: 0,0:16:32.94,0:16:36.15,Default,,0,0,0,,{\be1}Pożałuje tego!
+Dialogue: 0,0:17:00.95,0:17:04.84,Default,,0,0,0,,{\be1}Nie pozwolimy naszemu wychowawcy\Npaść ofiarą starych babsztyli!
+Dialogue: 0,0:17:04.64,0:17:08.65,Default,,0,0,0,,{\be1}Cisza! Jesteście za gówniarzowate na to!
+Dialogue: 0,0:17:08.45,0:17:11.72,Default,,0,0,0,,{\be1}No właśnie, to zabawa dla dorosłych.
+Dialogue: 0,0:17:12.45,0:17:14.05,Default,,0,0,0,,{\be1}Nie fair!
+Dialogue: 0,0:17:13.85,0:17:18.09,Default,,0,0,0,,{\be1}Już my wam pokażemy kto jest lepszy!
+Dialogue: 0,0:17:18.66,0:17:21.09,Default,,0,0,0,,{\be1}Czekajcie, porozmawiajmy.
+Dialogue: 0,0:17:26.56,0:17:30.13,Default,,0,0,0,,{\be1}- Przyszłyśmy pana uratować.\N- Zostaw go!
+Dialogue: 0,0:17:29.93,0:17:35.39,Default,,0,0,0,,{\be1}Wyśmienicie, będzie z tego świetne porno.
+Dialogue: 0,0:17:36.02,0:17:40.14,Default,,0,0,0,,{\be1}Cholipka, broda mi odrasta, gdy się ekscytuję.
+Dialogue: 0,0:17:41.37,0:17:42.91,Default,,0,0,0,,{\be1}Stójcie!
+Dialogue: 0,0:17:42.71,0:17:45.66,Default,,0,0,0,,{\be1}Mamy profesora!
+Dialogue: 0,0:17:46.75,0:17:52.56,Default,,0,0,0,,{\be1}Szefie, jak mam sam sobie z nimi poradzić?!
+Dialogue: 0,0:17:52.36,0:17:58.09,Default,,0,0,0,,{\be1}Trzymaj się i powodzenia!
+Dialogue: 0,0:18:00.36,0:18:04.53,Default,,0,0,0,,{\be1}No dobra, badania skończone.
+Dialogue: 0,0:18:04.33,0:18:08.41,Default,,0,0,0,,{\be1}Teraz czas na WF!
+Dialogue: 0,0:18:26.78,0:18:29.42,Default,,0,0,0,,{\be1}Profesorze, co to za chwyt?
+Dialogue: 0,0:18:33.03,0:18:38.93,Default,,0,0,0,,{\be1}Ściskanie, lizanie i wkładanie\Njest bardzo ważne w judo!
+Dialogue: 0,0:18:40.70,0:18:42.88,Default,,0,0,0,,{\be1}Wybornie!
+Dialogue: 0,0:18:45.46,0:18:48.64,Default,,0,0,0,,{\be1}Z czego tak się pan cieszy?
+Dialogue: 0,0:18:50.06,0:18:51.41,Default,,0,0,0,,{\be1}Nieważne.
+Dialogue: 0,0:18:52.97,0:18:57.13,Default,,0,0,0,,{\be1}Zaraz, sumo byłoby nawet lepsze.
+Dialogue: 0,0:18:59.30,0:19:01.57,Default,,0,0,0,,{\be1}Zboczek!
+Dialogue: 0,0:19:03.33,0:19:05.18,Default,,0,0,0,,{\be1}Profesorze!
+Dialogue: 0,0:19:04.98,0:19:07.98,Default,,0,0,0,,{\be1}- Jesteśmy gotowe!\N- Teraz WF!
+Dialogue: 0,0:19:19.20,0:19:21.09,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:19:23.61,0:19:26.05,Default,,0,0,0,,{\be1}Co to ma znaczyć?
+Dialogue: 0,0:19:37.26,0:19:40.06,Default,,0,0,0,,{\be1}Na WF-ie tańczymy.
+Dialogue: 0,0:19:39.86,0:19:45.40,Default,,0,0,0,,{\be1}To ma być lekcja nie impreza!
+Dialogue: 0,0:19:45.20,0:19:49.84,Default,,0,0,0,,{\be1}- Dziewczyny!\N- Nieźle pan tańczy!
+Dialogue: 0,0:19:49.64,0:19:52.08,Default,,0,0,0,,{\be1}- Serio?\N- Tak, jak rapper.
+Dialogue: 0,0:19:52.83,0:19:55.08,Default,,0,0,0,,{\be1}Tak tańczą raperzy?
+Dialogue: 0,0:19:54.88,0:19:58.08,Default,,0,0,0,,{\be1}Jest pan cudowny!
+Dialogue: 0,0:20:12.90,0:20:16.10,Default,,0,0,0,,{\be1}Tylko czy można tak prowadzić lekcję?
+Dialogue: 0,0:20:17.76,0:20:19.71,Default,,0,0,0,,{\be1}Oj, nie można.
+Dialogue: 0,0:20:19.51,0:20:23.61,Default,,0,0,0,,{\be1}Nieładnie tak się bawić samemu.
+Dialogue: 0,0:20:29.02,0:20:32.42,Default,,0,0,0,,{\be1}Wydało się, że jestem Hige Godzilla.
+Dialogue: 0,0:20:34.11,0:20:37.12,Default,,0,0,0,,{\be1}Dobrze się bawicie?!
+Dialogue: 0,0:20:37.78,0:20:41.12,Default,,0,0,0,,{\be1}Czas wybrać królową imprezy!
+Dialogue: 0,0:20:41.64,0:20:43.32,Default,,0,0,0,,{\be1}Królową?
+Dialogue: 0,0:20:43.12,0:20:46.90,Default,,0,0,0,,{\be1}Tak, dziewczyna w najlepszym\Nstroju zostaje królową.
+Dialogue: 0,0:20:47.17,0:20:51.28,Default,,0,0,0,,{\be1}Dzisiejszą królową zostaje...
+Dialogue: 0,0:20:52.75,0:20:57.91,Default,,0,0,0,,{\be1}Proszę o uwagę! Została nią...
+Dialogue: 0,0:21:12.60,0:21:14.92,Default,,0,0,0,,{\be1}Hige Godzilla?! Co ty tu robisz?!
+Dialogue: 0,0:21:18.82,0:21:21.93,Default,,0,0,0,,{\be1}Kopę lat, Yamagishi!
+Dialogue: 0,0:21:21.73,0:21:24.72,Default,,0,0,0,,{\be1}Zna pan tego dziada?
+Dialogue: 0,0:21:24.52,0:21:26.44,Default,,0,0,0,,{\be1}Skądże.
+Dialogue: 0,0:21:26.24,0:21:27.95,Default,,0,0,0,,{\be1}Bydle!
+Dialogue: 0,0:21:27.75,0:21:31.94,Default,,0,0,0,,{\be1}Przecież jestem dyrektorką tej szkoły!
+Dialogue: 0,0:21:32.71,0:21:34.44,Default,,0,0,0,,{\be1}Jaja se robisz?
+Dialogue: 0,0:21:35.42,0:21:39.38,Default,,0,0,0,,{\be1}To ja ściągnąłem tu ciebie i Ikidomariego.
+Dialogue: 0,0:21:49.19,0:21:53.66,Default,,0,0,0,,{\be1}Skoro problem zniknął, to jedziemy z muzyką!
+Dialogue: 0,0:22:05.45,0:22:07.41,Default,,0,0,0,,{\be1}Zbok!
+Dialogue: 0,0:22:07.64,0:22:11.91,Default,,0,0,0,,{\be1}Nie! Zbok!
+Dialogue: 0,0:22:12.61,0:22:14.91,Default,,0,0,0,,{\be1}Odwal się dziadzie!
+Dialogue: 0,0:22:16.29,0:22:21.69,Default,,0,0,0,,{\be1}- Przecież jestem dyrektorką!\N- Won!
+Dialogue: 0,0:22:26.97,0:22:30.70,Default,,0,0,0,,{\be1}Podłe! Jak śmiecie wyrzucać mnie z imprezy?!
+Dialogue: 0,0:22:31.18,0:22:33.70,Default,,0,0,0,,{\be1}Pożałujecie tego!
+Dialogue: 0,0:22:37.37,0:22:41.58,Default,,0,0,0,,{\be1}Zostaniecie ukarane!
+Dialogue: 0,0:22:48.22,0:22:51.59,Default,,0,0,0,,{\be1}- Alarm drużyny porządkowej!\N- Oby nie do nas!
+Dialogue: 0,0:22:52.29,0:22:54.59,Default,,0,0,0,,{\be1}Co takie?
+Dialogue: 0,0:22:56.39,0:22:59.81,Default,,0,0,0,,{\be1}O nie! Drużyna porządkowa!
+Dialogue: 0,0:23:13.10,0:23:21.62,Default,,0,0,0,,{\be1}Sytuacja wyjątkowa,\Nuczniowie złamali regulamin!
+Dialogue: 0,0:23:21.94,0:23:29.27,Default,,0,0,0,,{\be1}Drużyna porządkowa\Nnatychmiast potrzebna w klasie 1B!
+Dialogue: 0,0:23:29.07,0:23:32.89,Default,,0,0,0,,{\be1}Czas kary!
+Dialogue: 0,0:23:54.95,0:23:58.15,Default,,0,0,0,,{\be1}Tutaj!
+Dialogue: 0,0:24:01.40,0:24:03.02,Default,,0,0,0,,{\be1}A ja za co?
+Dialogue: 0,0:24:12.10,0:24:15.64,Default,,0,0,0,,{\be1}Czas na karę!
+Dialogue: 0,0:24:16.33,0:24:19.64,Default,,0,0,0,,{\be1}Wszystkie zostaniecie ukarane!
+Dialogue: 0,0:24:20.03,0:24:22.13,Default,,0,0,0,,{\be1}Boję się!
+Dialogue: 0,0:24:21.93,0:24:23.66,Default,,0,0,0,,{\be1}Kto to?
+Dialogue: 0,0:24:30.01,0:24:34.09,Default,,0,0,0,,{\be1}To drużyna porządkowa!\NKto się na nich natknie ma kłopoty!
+Dialogue: 0,0:24:33.89,0:24:34.67,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:24:38.23,0:24:40.66,Default,,0,0,0,,{\be1}Ty?
+Dialogue: 0,0:24:40.94,0:24:42.79,Default,,0,0,0,,{\be1}Yamagishi?
+Dialogue: 0,0:24:44.47,0:24:47.67,Default,,0,0,0,,{\be1}A jednak!
+Dialogue: 0,0:24:49.17,0:24:51.67,Default,,0,0,0,,{\be1}Poznaję ten głos, czy to nie...
+Dialogue: 0,0:24:54.03,0:24:55.68,Default,,0,0,0,,{\be1}Kopę lat!
+Dialogue: 0,0:24:55.48,0:24:58.58,Default,,0,0,0,,{\be1}Marugoshi!
+Dialogue: 0,0:25:00.00,0:25:02.67,Default,,0,0,0,,{\be1}Od kiedy masz cycki?
+Dialogue: 0,0:25:02.47,0:25:07.22,Default,,0,0,0,,{\be1}Nie gap się na nie, zboczku.
+Dialogue: 0,0:25:07.84,0:25:11.69,Default,,0,0,0,,{\be1}Poddałem się operacji zmiany płci.
+Dialogue: 0,0:25:13.93,0:25:17.47,Default,,0,0,0,,{\be1}Jeszcze do niedawna\Nmężczyźni nie mieli tu wstępu.
+Dialogue: 0,0:25:17.27,0:25:21.70,Default,,0,0,0,,{\be1}Żeby się tu dostać musiałem\Nnawet obciąć sobie fiuta.
+Dialogue: 0,0:25:22.57,0:25:24.72,Default,,0,0,0,,{\be1}Moje kondolencje.
+Dialogue: 0,0:25:25.48,0:25:28.71,Default,,0,0,0,,{\be1}Ale i tak ma się dobrze.
+Dialogue: 0,0:25:29.31,0:25:30.30,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:25:30.10,0:25:36.73,Default,,0,0,0,,{\be1}A wracając do tematu,\Nwszyscy jesteście aresztowani!
+Dialogue: 0,0:25:36.53,0:25:38.55,Default,,0,0,0,,{\be1}Brać je!
+Dialogue: 0,0:25:40.14,0:25:41.72,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:25:41.52,0:25:42.72,Default,,0,0,0,,{\be1}Spieprzaj!
+Dialogue: 0,0:25:45.47,0:25:49.20,Default,,0,0,0,,{\be1}Zaraz dostaniesz coś w dupeczkę.
+Dialogue: 0,0:25:49.00,0:25:51.60,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:25:53.26,0:25:55.98,Default,,0,0,0,,{\be1}Profesorze, pomóż!
+Dialogue: 0,0:25:56.87,0:25:58.07,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:26:01.25,0:26:03.58,Default,,0,0,0,,{\be1}Nie dotykaj moich uczennic!
+Dialogue: 0,0:26:03.38,0:26:10.60,Default,,0,0,0,,{\be1}Spokojnie, karanie uczniów to moja praca.
+Dialogue: 0,0:26:10.40,0:26:13.59,Default,,0,0,0,,{\be1}Ty też podlegasz karze.
+Dialogue: 0,0:26:14.28,0:26:16.59,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:26:23.40,0:26:26.85,Default,,0,0,0,,{\be1}Zamknąć je!
+Dialogue: 0,0:26:33.43,0:26:36.61,Default,,0,0,0,,{\be1}Niegrzeczne uczennice czeka kara!
+Dialogue: 0,0:26:46.31,0:26:50.63,Default,,0,0,0,,{\be1}Cholera, zostawcie moje uczennice!
+Dialogue: 0,0:26:57.87,0:26:58.87,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:26:59.98,0:27:01.87,Default,,0,0,0,,{\be1}Ocknij się!
+Dialogue: 0,0:27:02.87,0:27:04.87,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:27:26.92,0:27:28.73,Default,,0,0,0,,{\be1}Uratowany.
+Dialogue: 0,0:27:28.99,0:27:31.73,Default,,0,0,0,,{\be1}Tylko kto to zrobił?
+Dialogue: 0,0:27:32.10,0:27:36.31,Default,,0,0,0,,{\be1}Ikidomari, musimy ratować dziewczyny.
+Dialogue: 0,0:27:36.11,0:27:37.74,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:27:38.33,0:27:40.74,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:27:52.96,0:27:54.92,Default,,0,0,0,,{\be1}Nie ma dyrektora.
+Dialogue: 0,0:27:56.13,0:28:01.09,Default,,0,0,0,,{\be1}Cholera, ta szkoła skrywa\Njakieś mroczne tajemnice.
+Dialogue: 0,0:28:00.89,0:28:03.93,Default,,0,0,0,,{\be1}Szkoda, że nic nie powiesz.
+Dialogue: 0,0:28:16.47,0:28:17.77,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:28:17.57,0:28:20.73,Default,,0,0,0,,{\be1}Sprawdź mnie dogłębnie, Hitomi.
+Dialogue: 0,0:28:21.28,0:28:23.72,Default,,0,0,0,,{\be1}Przecież to pornole!
+Dialogue: 0,0:28:24.05,0:28:27.81,Default,,0,0,0,,{\be1}Co one robią w szkole?
+Dialogue: 0,0:28:29.12,0:28:33.66,Default,,0,0,0,,{\be1}Ikidomari, patrz, to zatrzymane uczennice.
+Dialogue: 0,0:28:38.86,0:28:41.67,Default,,0,0,0,,{\be1}Gdzie to może być?
+Dialogue: 0,0:28:41.47,0:28:45.67,Default,,0,0,0,,{\be1}Cholera. Pewnie są gdzieś w szkole.
+Dialogue: 0,0:28:46.73,0:28:49.68,Default,,0,0,0,,{\be1}Niegrzeczne dziewczynki zasłużyły na karę.
+Dialogue: 0,0:28:49.48,0:28:55.64,Default,,0,0,0,,{\be1}Nie! To boli! Mamusiu!
+Dialogue: 0,0:28:56.53,0:29:00.73,Default,,0,0,0,,{\be1}Wybornie, wyjdzie kolejne świetne porno.
+Dialogue: 0,0:29:08.54,0:29:16.55,Default,,0,0,0,,{\be1}Świetny pomysł Marugoshi.\NPrzeszedłeś sam siebie.
+Dialogue: 0,0:29:19.09,0:29:21.68,Default,,0,0,0,,{\be1}Płaczcie! Krzyczcie!
+Dialogue: 0,0:29:22.34,0:29:25.08,Default,,0,0,0,,{\be1}Panie Yamagishi, pomocy!
+Dialogue: 0,0:29:24.88,0:29:30.69,Default,,0,0,0,,{\be1}Krzyczcie i płaczcie do woli, ale i tak nikt\Nwam nie pomoże, bo to sekretna komnata!
+Dialogue: 0,0:29:30.49,0:29:40.00,Default,,0,0,0,,{\be1}No właśnie, a Yamagishi jest taki głupi,\Nże nie znajdzie wejścia w kiblu nauczycieli.
+Dialogue: 0,0:29:44.17,0:29:46.85,Default,,0,0,0,,{\be1}- Nieźle.\N- No.
+Dialogue: 0,0:29:46.65,0:29:48.92,Default,,0,0,0,,{\be1}Zaraz, słyszałeś to?
+Dialogue: 0,0:29:48.72,0:29:49.71,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:29:50.21,0:29:54.62,Default,,0,0,0,,{\be1}No oczywiście, nie słuchałeś.
+Dialogue: 0,0:29:54.42,0:29:55.70,Default,,0,0,0,,{\be1}Ta, super.
+Dialogue: 0,0:29:56.04,0:29:59.01,Default,,0,0,0,,{\be1}Chodźmy do kibla!
+Dialogue: 0,0:30:09.93,0:30:13.73,Default,,0,0,0,,{\be1}Szefie, to może być pułapka.
+Dialogue: 0,0:30:14.10,0:30:17.73,Default,,0,0,0,,{\be1}To nic, musimy uratować uczennice.
+Dialogue: 0,0:30:18.36,0:30:21.14,Default,,0,0,0,,{\be1}No i gdzie to wejście?
+Dialogue: 0,0:30:20.94,0:30:23.74,Default,,0,0,0,,{\be1}Musimy wszystko przeszukać.
+Dialogue: 0,0:30:27.35,0:30:29.62,Default,,0,0,0,,{\be1}Zwykły kibel.
+Dialogue: 0,0:30:35.77,0:30:40.76,Default,,0,0,0,,{\be1}Yamagishi, ty zboczku.\NMoże byś najpierw zapukał?
+Dialogue: 0,0:30:41.09,0:30:42.80,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:30:42.60,0:30:46.45,Default,,0,0,0,,{\be1}Jesteście w samą porę,\Ndokończymy to co zaczęliśmy.
+Dialogue: 0,0:30:47.30,0:30:51.47,Default,,0,0,0,,{\be1}- Tutaj nikt nam nie przeszkodzi.\N- Jak fajnie.
+Dialogue: 0,0:30:51.27,0:30:53.77,Default,,0,0,0,,{\be1}Nie mamy teraz czasu.
+Dialogue: 0,0:30:54.27,0:30:56.77,Default,,0,0,0,,{\be1}Sorki!
+Dialogue: 0,0:30:57.50,0:30:59.78,Default,,0,0,0,,{\be1}Zawstydzili się.
+Dialogue: 0,0:30:59.98,0:31:05.31,Default,,0,0,0,,{\be1}- No, otwórzcie.\N- Akurat teraz musi tu być.
+Dialogue: 0,0:31:07.28,0:31:11.32,Default,,0,0,0,,{\be1}Zobacz, czemu są dwie spłuczki?
+Dialogue: 0,0:31:11.12,0:31:12.78,Default,,0,0,0,,{\be1}Czyżby to tu?
+Dialogue: 0,0:31:13.35,0:31:15.74,Default,,0,0,0,,{\be1}Pociągnijmy obie naraz.
+Dialogue: 0,0:31:15.54,0:31:16.74,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:31:16.54,0:31:19.22,Default,,0,0,0,,{\be1}1, 2, 3!
+Dialogue: 0,0:31:24.34,0:31:29.80,Default,,0,0,0,,{\be1}Yamagishi! Nie ma go.
+Dialogue: 0,0:31:43.55,0:31:45.27,Default,,0,0,0,,{\be1}Widzę wyjście!
+Dialogue: 0,0:31:53.54,0:31:54.86,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:31:57.92,0:31:59.87,Default,,0,0,0,,{\be1}Czekaliśmy na was.
+Dialogue: 0,0:32:00.84,0:32:02.87,Default,,0,0,0,,{\be1}Jak mi miło.
+Dialogue: 0,0:32:03.80,0:32:05.94,Default,,0,0,0,,{\be1}Profesorze!
+Dialogue: 0,0:32:06.30,0:32:08.26,Default,,0,0,0,,{\be1}Profesorze!
+Dialogue: 0,0:32:09.39,0:32:11.88,Default,,0,0,0,,{\be1}Proszę!
+Dialogue: 0,0:32:12.18,0:32:14.17,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:32:14.68,0:32:19.89,Default,,0,0,0,,{\be1}Co się tak guzdraliście?\NPrzecież dałem wam podpowiedź.
+Dialogue: 0,0:32:22.02,0:32:23.89,Default,,0,0,0,,{\be1}A jednak to pułapka.
+Dialogue: 0,0:32:24.65,0:32:29.90,Default,,0,0,0,,{\be1}Ściągnąłem was do szkoły,\Nżebyście byli gwiazdami w moich porno.
+Dialogue: 0,0:32:30.16,0:32:31.90,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:32:31.70,0:32:37.90,Default,,0,0,0,,{\be1}To co, czas zabawić się z uczennicami, nie?
+Dialogue: 0,0:32:37.71,0:32:39.87,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:32:39.67,0:32:44.91,Default,,0,0,0,,{\be1}Przyznaję, zaczęliśmy tu pracę,\Nżeby zaliczać uczennice.
+Dialogue: 0,0:32:45.46,0:32:49.92,Default,,0,0,0,,{\be1}Ale nie kręci mnie zmuszanie ich do seksu.
+Dialogue: 0,0:32:50.30,0:32:53.92,Default,,0,0,0,,{\be1}- Tak więc, nie ma mowy!\N- Cały ty!
+Dialogue: 0,0:32:54.36,0:32:55.92,Default,,0,0,0,,{\be1}Zaraz się porządniś.
+Dialogue: 0,0:32:55.72,0:32:59.93,Default,,0,0,0,,{\be1}Nie myśl sobie, że odejdziesz stąd\Npo poznaniu mojego sekretu.
+Dialogue: 0,0:33:00.10,0:33:04.93,Default,,0,0,0,,{\be1}Stracicie pałki tak samo jak my.
+Dialogue: 0,0:33:05.61,0:33:06.93,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:33:11.82,0:33:14.90,Default,,0,0,0,,{\be1}Co to?! Puszczajcie!
+Dialogue: 0,0:33:21.79,0:33:27.95,Default,,0,0,0,,{\be1}Szefie, przez ten nacisk zapominam\Npo co zostałem nauczycielem!
+Dialogue: 0,0:33:28.46,0:33:31.96,Default,,0,0,0,,{\be1}Jeszcze możecie zmienić zdanie.
+Dialogue: 0,0:33:35.73,0:33:37.30,Default,,0,0,0,,{\be1}Nie ma mowy!
+Dialogue: 0,0:33:37.77,0:33:40.97,Default,,0,0,0,,{\be1}No to robimy marmoladę!
+Dialogue: 0,0:33:55.70,0:33:59.59,Default,,0,0,0,,{\be1}- O nie, kto to zrobił?\N- Kto tam jest?!
+Dialogue: 0,0:34:00.20,0:34:08.60,Default,,0,0,0,,{\be1}Ukryliście swój prawdziwy cel pod przykrywką szkoły dla\Nniewinnych dziewcząt, a naprawdę jesteście bydlakami!
+Dialogue: 0,0:34:08.85,0:34:17.59,Default,,0,0,0,,{\be1}Karzecie niewinne dziewczyny, które nie chcą\Nświntuszy, a do tego wszystko nagrywacie!
+Dialogue: 0,0:34:17.39,0:34:19.61,Default,,0,0,0,,{\be1}Jest na górze!
+Dialogue: 0,0:34:20.35,0:34:23.46,Default,,0,0,0,,{\be1}Nie wybaczę wam tego!
+Dialogue: 0,0:34:26.29,0:34:28.31,Default,,0,0,0,,{\be1}Tam jest!
+Dialogue: 0,0:34:28.11,0:34:29.62,Default,,0,0,0,,{\be1}Widzę ją!
+Dialogue: 0,0:34:30.12,0:34:33.19,Default,,0,0,0,,{\be1}Ukarzę was w imieniu niebios!
+Dialogue: 0,0:34:32.99,0:34:34.62,Default,,0,0,0,,{\be1}Coś powiedziała?
+Dialogue: 0,0:34:46.60,0:34:47.67,Default,,0,0,0,,{\be1}To Takegoshi!
+Dialogue: 0,0:34:48.34,0:34:50.66,Default,,0,0,0,,{\be1}Siema, Yamagishi.
+Dialogue: 0,0:34:59.85,0:35:02.68,Default,,0,0,0,,{\be1}Przepraszamy!
+Dialogue: 0,0:35:02.89,0:35:07.69,Default,,0,0,0,,{\be1}Przecież oni uczyli w szkole Harenchi!
+Dialogue: 0,0:35:08.11,0:35:12.68,Default,,0,0,0,,{\be1}Przyjaźń ze szkoły Harenchi zostaje na zawsze.
+Dialogue: 0,0:35:13.03,0:35:17.69,Default,,0,0,0,,{\be1}Tak se tłumaczyć,\Nwy po prostu lubicie to samo!
+Dialogue: 0,0:35:18.70,0:35:19.70,Default,,0,0,0,,{\be1}Masz rację.
+Dialogue: 0,0:35:20.41,0:35:23.97,Default,,0,0,0,,{\be1}Wypuść uczennice!
+Dialogue: 0,0:35:25.21,0:35:28.21,Default,,0,0,0,,{\be1}Niezła jest.
+Dialogue: 0,0:35:28.63,0:35:31.59,Default,,0,0,0,,{\be1}Wygląda znajomo.
+Dialogue: 0,0:35:31.39,0:35:33.40,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:35:34.01,0:35:36.47,Default,,0,0,0,,{\be1}To ona.
+Dialogue: 0,0:35:36.27,0:35:37.22,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:35:41.02,0:35:42.63,Default,,0,0,0,,{\be1}Jubei.
+Dialogue: 0,0:35:44.59,0:35:47.55,Default,,0,0,0,,{\be1}No nie, Yamagishi.
+Dialogue: 0,0:35:47.35,0:35:49.23,Default,,0,0,0,,{\be1}Wiedziałem, że to ty.
+Dialogue: 0,0:35:50.19,0:35:53.24,Default,,0,0,0,,{\be1}Co tu robi Yagyu Mitsuko?!
+Dialogue: 0,0:35:53.04,0:35:57.24,Default,,0,0,0,,{\be1}Przecież miałaś być w erze Heisei.
+Dialogue: 0,0:35:57.04,0:36:01.73,Default,,0,0,0,,{\be1}No przecież uczę tu WF-u.
+Dialogue: 0,0:36:01.53,0:36:04.25,Default,,0,0,0,,{\be1}To stąd ten pomnik.
+Dialogue: 0,0:36:04.05,0:36:09.20,Default,,0,0,0,,{\be1}Pogadacie sobie później,\Nteraz dostaniecie w dupsztale!
+Dialogue: 0,0:36:11.04,0:36:15.02,Default,,0,0,0,,{\be1}Jak tak bardzo lubisz\Nlewatywy, to proszę bardzo.
+Dialogue: 0,0:36:14.84,0:36:16.61,Default,,0,0,0,,{\be1}Do dna!
+Dialogue: 0,0:36:19.43,0:36:22.07,Default,,0,0,0,,{\be1}Ty też!
+Dialogue: 0,0:36:42.08,0:36:45.28,Default,,0,0,0,,{\be1}Niech was diabli!\NUruchomić broń ostateczną!
+Dialogue: 0,0:36:52.97,0:36:54.30,Default,,0,0,0,,{\be1}Pani Yagyu!
+Dialogue: 0,0:36:54.85,0:36:56.30,Default,,0,0,0,,{\be1}Jubei!
+Dialogue: 0,0:36:58.97,0:37:01.71,Default,,0,0,0,,{\be1}To moja ulubiona zabawka.
+Dialogue: 0,0:37:01.51,0:37:05.88,Default,,0,0,0,,{\be1}Lubię ją nazywać "uzależniacz".
+Dialogue: 0,0:37:05.68,0:37:07.31,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:37:07.11,0:37:14.32,Default,,0,0,0,,{\be1}Po sesji z tą maszynką, więcej\Nżaden mężczyzna cię nie zadowoli.
+Dialogue: 0,0:37:14.44,0:37:16.31,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:37:16.61,0:37:19.32,Default,,0,0,0,,{\be1}Wybornie!
+Dialogue: 0,0:37:19.65,0:37:21.96,Default,,0,0,0,,{\be1}Już idę ci pomóc!
+Dialogue: 0,0:37:23.74,0:37:25.86,Default,,0,0,0,,{\be1}Teraz niżej.
+Dialogue: 0,0:37:25.66,0:37:27.96,Default,,0,0,0,,{\be1}A to co?
+Dialogue: 0,0:37:28.46,0:37:29.95,Default,,0,0,0,,{\be1}Nie dotykaj!
+Dialogue: 0,0:37:31.00,0:37:34.97,Default,,0,0,0,,{\be1}Teraz jeszcze bardziej mnie korci.
+Dialogue: 0,0:37:36.22,0:37:38.37,Default,,0,0,0,,{\be1}Lubiłam ten strój!
+Dialogue: 0,0:37:39.41,0:37:41.56,Default,,0,0,0,,{\be1}Niezły widok.
+Dialogue: 0,0:37:41.36,0:37:43.13,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:37:43.97,0:37:46.15,Default,,0,0,0,,{\be1}Jeszcze tylko bielizna.
+Dialogue: 0,0:37:55.42,0:37:58.83,Default,,0,0,0,,{\be1}O nie, to mnie podnieca! Przestań!
+Dialogue: 0,0:38:00.00,0:38:01.83,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:38:06.62,0:38:08.99,Default,,0,0,0,,{\be1}Wybornie!
+Dialogue: 0,0:38:12.02,0:38:17.04,Default,,0,0,0,,{\be1}O nie, jak dobrze!
+Dialogue: 0,0:38:16.84,0:38:21.21,Default,,0,0,0,,{\be1}To chyba znaczy,\Nże nigdy nie było jej tak dobrze!
+Dialogue: 0,0:38:23.24,0:38:25.51,Default,,0,0,0,,{\be1}Co z tobą?!
+Dialogue: 0,0:38:25.31,0:38:30.22,Default,,0,0,0,,{\be1}Jeśli mi nie pomożesz, to więcej nie\Nbędzie mi przyjemnie z mężczyznami!
+Dialogue: 0,0:38:30.85,0:38:33.18,Default,,0,0,0,,{\be1}To byłoby okropne!
+Dialogue: 0,0:38:34.98,0:38:36.79,Default,,0,0,0,,{\be1}Nadal się opieracie?
+Dialogue: 0,0:38:36.59,0:38:43.57,Default,,0,0,0,,{\be1}Czas na broń ostateczną, mojego fiuta!
+Dialogue: 0,0:38:57.75,0:38:59.24,Default,,0,0,0,,{\be1}Co to jest?!
+Dialogue: 0,0:38:59.05,0:39:04.33,Default,,0,0,0,,{\be1}Ulepszyłem i zmechanizowałem mojego fiuta.
+Dialogue: 0,0:39:07.29,0:39:09.26,Default,,0,0,0,,{\be1}Wybornie!
+Dialogue: 0,0:39:09.85,0:39:14.27,Default,,0,0,0,,{\be1}Wjedź tym drągiem w Jubei.
+Dialogue: 0,0:39:15.69,0:39:18.27,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:39:26.08,0:39:30.28,Default,,0,0,0,,{\be1}Tylko nie tam! Rozerwie mnie!
+Dialogue: 0,0:39:31.29,0:39:34.29,Default,,0,0,0,,{\be1}Świetna robota, Marugoshi.
+Dialogue: 0,0:39:34.91,0:39:36.59,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:39:42.59,0:39:47.35,Default,,0,0,0,,{\be1}- To jest dla jednej osoby!\N- Więc zwalaj!
+Dialogue: 0,0:39:53.12,0:39:55.09,Default,,0,0,0,,{\be1}Z drogi!
+Dialogue: 0,0:39:58.19,0:40:00.08,Default,,0,0,0,,{\be1}Spadaj, padalcu!
+Dialogue: 0,0:40:10.78,0:40:12.24,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:40:20.25,0:40:22.19,Default,,0,0,0,,{\be1}Puść się!
+Dialogue: 0,0:40:21.99,0:40:23.79,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:40:28.38,0:40:30.70,Default,,0,0,0,,{\be1}Moja szkoła!
+Dialogue: 0,0:40:31.89,0:40:33.78,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:40:38.96,0:40:40.43,Default,,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:40:40.23,0:40:41.72,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:40:44.19,0:40:46.83,Default,,0,0,0,,{\be1}Puszczaj!
+Dialogue: 0,0:40:51.25,0:40:54.73,Default,,0,0,0,,{\be1}- Natychmiast puść!\N- Ty pierwszy!
+Dialogue: 0,0:40:59.62,0:41:00.97,Default,,0,0,0,,{\be1}Yamagishi!
+Dialogue: 0,0:41:02.74,0:41:04.51,Default,,0,0,0,,{\be1}Nie tutaj, głupki!
+Dialogue: 0,0:41:08.84,0:41:11.52,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:41:11.85,0:41:15.37,Default,,0,0,0,,{\be1}Yamagishi, poświęciłeś się dla mnie.
+Dialogue: 0,0:41:17.75,0:41:23.53,Default,,0,0,0,,{\be1}Już nic mnie nie powstrzyma.\NNawet nie zadrapali sterowni!
+Dialogue: 0,0:41:23.33,0:41:27.53,Default,,0,0,0,,{\be1}Czas włożyć mojego fiuta w Jubei!
+Dialogue: 0,0:41:29.26,0:41:30.54,Default,,0,0,0,,{\be1}Jubei!
+Dialogue: 0,0:41:32.32,0:41:33.54,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:41:46.46,0:41:49.40,Default,,0,0,0,,{\be1}Co do diabła?! Byłem już tak blisko!
+Dialogue: 0,0:41:49.20,0:41:53.93,Default,,0,0,0,,{\be1}Działaj zasrany szmelcu!
+Dialogue: 0,0:42:01.74,0:42:04.97,Default,,0,0,0,,{\be1}Nie mówiłem tego o tobie.
+Dialogue: 0,0:42:10.61,0:42:12.98,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:42:13.36,0:42:15.08,Default,,0,0,0,,{\be1}Litości!
+Dialogue: 0,0:42:15.83,0:42:18.82,Default,,0,0,0,,{\be1}Tak bardzo się bałam!
+Dialogue: 0,0:42:18.62,0:42:20.36,Default,,0,0,0,,{\be1}Jesteście bezpieczne.
+Dialogue: 0,0:42:32.89,0:42:35.59,Default,,0,0,0,,{\be1}Miejcie litość!
+Dialogue: 0,0:42:35.39,0:42:37.02,Default,,0,0,0,,{\be1}Jeszcze nie.
+Dialogue: 0,0:42:37.98,0:42:39.84,Default,,0,0,0,,{\be1}Ładnie przeproś.
+Dialogue: 0,0:42:40.56,0:42:45.09,Default,,0,0,0,,{\be1}Więcej nie będę, przepraszam!
+Dialogue: 0,0:42:47.65,0:42:49.85,Default,,0,0,0,,{\be1}Mam łaskotki!
+Dialogue: 0,0:42:49.65,0:42:53.85,Default,,0,0,0,,{\be1}Przepraszamy, nie karajcie nas!
+Dialogue: 0,0:42:54.70,0:42:57.86,Default,,0,0,0,,{\be1}Takie przeprosiny chyba wystarczą.
+Dialogue: 0,0:42:58.16,0:42:59.50,Default,,0,0,0,,{\be1}Szefie?
+Dialogue: 0,0:43:00.09,0:43:01.86,Default,,0,0,0,,{\be1}Pani Yagyu też nie ma.
+Dialogue: 0,0:43:02.13,0:43:04.63,Default,,0,0,0,,{\be1}Szefie!
+Dialogue: 0,0:43:10.50,0:43:11.94,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:43:16.50,0:43:19.25,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:43:21.64,0:43:25.45,Default,,0,0,0,,{\be1}Daj wstrzyknąć choć raz!
+Dialogue: 0,0:43:26.24,0:43:29.46,Default,,0,0,0,,{\be1}Zbok! Ale to w tobie uwielbiam.
+Dialogue: 0,0:43:30.36,0:43:32.46,Default,,0,0,0,,{\be1}Jubei!
+Dialogue: 0,0:43:32.26,0:43:36.08,Default,,0,0,0,,{\be1}Nie! Zboczek!
+Dialogue: 0,0:43:35.88,0:43:40.47,Default,,0,0,0,,{\be1}Tak było też 10 lat temu, gdy byli uczniami.
+Dialogue: 0,0:43:41.49,0:43:52.75,Default,,0,0,0,,{\be1}Po latach spotkali się w szkole Harenochi i ich dziecięca\Nprzyjaźń przekształciła się romantyczny związek.
+Dialogue: 0,0:43:52.55,0:43:58.39,Default,,0,0,0,,{\be1}Na tym kończymy Heisei Harenchi Gakuen.
+Dialogue: 0,0:43:58.64,0:44:02.11,Default,,0,0,0,,{\be1}Do zobaczenia jeszcze kiedyś.

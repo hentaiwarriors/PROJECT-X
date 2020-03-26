@@ -1,0 +1,254 @@
+﻿[Script Info]
+; ---
+; Editado usando PerrySub v0.7.37.2
+; Do it Perry style!! ~( º3º)~ ~(ºxº )~
+; ---
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Last Style Storage: Default
+Video Aspect Ratio: 0
+Video Zoom: 8
+PerrySubVersion: PerrySub v0.7.37.2
+AutoComplete: Sayo-san|Chikara-san|Kaito-kun|Nao-san|Kai-kun
+Video File: H:\anime\H\[ENS] Gibo no Toiki 01 [crc32][RC1].mp4
+Audio File: ?video
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogos,Auto 1,32,&H0FFFFFFF,&H0000FFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.35,0:00:01.52,Dialogos,,0000,0000,0000,,{\be1}Kai-kun...
+Dialogue: 0,0:00:01.52,0:00:02.92,Dialogos,,0000,0000,0000,,{\be1}Kai-kun...
+Dialogue: 0,0:00:02.92,0:00:05.65,Dialogos,,0000,0000,0000,,{\be1}Hora de levantarse, Kai-kun.
+Dialogue: 0,0:00:08.56,0:00:09.79,Dialogos,,0000,0000,0000,,{\be1}¿Mamá?
+Dialogue: 0,0:00:10.16,0:00:14.33,Dialogos,,0000,0000,0000,,{\be1}Mira que eres dormilón.
+Dialogue: 0,0:00:14.33,0:00:17.79,Dialogos,,0000,0000,0000,,{\be1}No puedes levantarte sin mi ayuda.
+Dialogue: 0,0:00:18.37,0:00:21.94,Dialogos,,0000,0000,0000,,{\be1}Venga, arriba, antes de que se te enfríe el desayuno.
+Dialogue: 0,0:00:21.94,0:00:23.03,Dialogos,,0000,0000,0000,,{\be1}Vale.
+Dialogue: 0,0:00:25.84,0:00:27.27,Dialogos,,0000,0000,0000,,{\be1}Venga.
+Dialogue: 0,0:00:27.91,0:00:33.24,Dialogos,,0000,0000,0000,,{\be1}Mi madre murió de una enfermedad cuando era pequeño.
+Dialogue: 0,0:00:33.61,0:00:38.02,Dialogos,,0000,0000,0000,,{\be1}No seas vago, que aunque no tengas clase hoy, hay que levantarse igualmente.
+Dialogue: 0,0:00:38.02,0:00:39.98,Dialogos,,0000,0000,0000,,{\be1}Lo sé.
+Dialogue: 0,0:00:40.99,0:00:45.59,Dialogos,,0000,0000,0000,,{\be1}Mi padre se casó con esta mujer, Sayo-san. Es mi nueva madre.
+Dialogue: 0,0:00:46.03,0:00:49.23,Dialogos,,0000,0000,0000,,{\be1}Para mí, es mucho más importante que mi madre biológica,
+Dialogue: 0,0:00:49.23,0:00:53.40,Dialogos,,0000,0000,0000,,{\be1}ya que de ella no recuerdo demasiado.
+Dialogue: 0,0:00:56.27,0:00:59.43,Dialogos,,0000,0000,0000,,{\be1}Ayer fui al hospital.
+Dialogue: 0,0:00:59.43,0:01:01.94,Dialogos,,0000,0000,0000,,{\be1}Parece ser que estoy progresando con el tratamiento para la esterilidad...
+Dialogue: 0,0:01:01.94,0:01:05.24,Dialogos,,0000,0000,0000,,{\be1}¿Sigues yendo al hospital?
+Dialogue: 0,0:01:05.24,0:01:09.88,Dialogos,,0000,0000,0000,,{\be1}Sí, quería tener hijos tuyos...
+Dialogue: 0,0:01:09.88,0:01:12.35,Dialogos,,0000,0000,0000,,{\be1}Si tú también lo dijiste...
+Dialogue: 0,0:01:12.35,0:01:14.32,Dialogos,,0000,0000,0000,,{\be1}¿Y cuándo fue eso?
+Dialogue: 0,0:01:14.32,0:01:16.99,Dialogos,,0000,0000,0000,,{\be1}Hace unos años.
+Dialogue: 0,0:01:16.99,0:01:19.99,Dialogos,,0000,0000,0000,,{\be1}Tienes razón, pero...
+Dialogue: 0,0:01:20.57,0:01:23.59,Dialogos,,0000,0000,0000,,{\be1}No necesito desayuno, tengo que ir al trabajo pronto.
+Dialogue: 0,0:01:26.43,0:01:28.50,Dialogos,,0000,0000,0000,,{\be1}Yo sé la verdad.
+Dialogue: 0,0:01:28.50,0:01:32.57,Dialogos,,0000,0000,0000,,{\be1}Mi padre no quiere más hijos.
+Dialogue: 0,0:03:02.30,0:03:03.89,Dialogos,,0000,0000,0000,,{\be1}Qué gustito...
+Dialogue: 0,0:03:07.97,0:03:09.97,Dialogos,,0000,0000,0000,,{\be1}Estás chorreando, Sayo.
+Dialogue: 0,0:03:09.97,0:03:12.44,Dialogos,,0000,0000,0000,,{\be1}Te he magreado un poco, y mira tú qué flujos...
+Dialogue: 0,0:03:12.44,0:03:15.60,Dialogos,,0000,0000,0000,,{\be1}Lo siento, Chikara-san...
+Dialogue: 0,0:03:17.44,0:03:20.44,Dialogos,,0000,0000,0000,,{\be1}Ahí no, Chikara-san.
+Dialogue: 0,0:03:20.95,0:03:22.68,Dialogos,,0000,0000,0000,,{\be1}No, para...
+Dialogue: 0,0:03:22.68,0:03:24.75,Dialogos,,0000,0000,0000,,{\be1}Menuda furcia estás hecha.
+Dialogue: 0,0:03:36.83,0:03:39.57,Dialogos,,0000,0000,0000,,{\be1}Qué bien...
+Dialogue: 0,0:03:40.23,0:03:42.87,Dialogos,,0000,0000,0000,,{\be1}El coño me hace palmas...
+Dialogue: 0,0:03:43.20,0:03:44.51,Dialogos,,0000,0000,0000,,{\be1}¡Sí, sí!
+Dialogue: 0,0:03:44.51,0:03:48.04,Dialogos,,0000,0000,0000,,{\be1}¡Más duro, Chikara-san!
+Dialogue: 0,0:03:49.11,0:03:52.56,Dialogos,,0000,0000,0000,,{\be1}¡Más, más! ¡Chupa más!
+Dialogue: 0,0:03:55.78,0:03:58.75,Dialogos,,0000,0000,0000,,{\be1}¡Más, chupa más!
+Dialogue: 0,0:03:59.45,0:04:00.89,Dialogos,,0000,0000,0000,,{\be1}Menudo gusto...
+Dialogue: 0,0:04:00.89,0:04:02.96,Dialogos,,0000,0000,0000,,{\be1}¡Qué gusto!
+Dialogue: 0,0:04:02.96,0:04:05.05,Dialogos,,0000,0000,0000,,{\be1}¡No, ahí no!
+Dialogue: 0,0:04:07.30,0:04:10.93,Dialogos,,0000,0000,0000,,{\be1}Mira qué vista más apetecible...
+Dialogue: 0,0:04:10.93,0:04:12.76,Dialogos,,0000,0000,0000,,{\be1}¿Qué quieres que te haga?
+Dialogue: 0,0:04:13.50,0:04:17.07,Dialogos,,0000,0000,0000,,{\be1}Quiero que me taladres con tu excelso falo.
+Dialogue: 0,0:04:30.89,0:04:35.21,Dialogos,,0000,0000,0000,,{\be1}Chikara-san, por dentro también.
+Dialogue: 0,0:04:42.10,0:04:44.83,Dialogos,,0000,0000,0000,,{\be1}No, tan duro no.
+Dialogue: 0,0:04:45.30,0:04:47.76,Dialogos,,0000,0000,0000,,{\be1}¡Más, más!
+Dialogue: 0,0:04:48.10,0:04:51.24,Dialogos,,0000,0000,0000,,{\be1}¡Sí, es genial!
+Dialogue: 0,0:04:51.81,0:04:53.40,Dialogos,,0000,0000,0000,,{\be1}¡Chikara-san!
+Dialogue: 0,0:04:55.71,0:04:59.68,Dialogos,,0000,0000,0000,,{\be1}Si sigues, me voy a correr...
+Dialogue: 0,0:04:59.68,0:05:01.35,Dialogos,,0000,0000,0000,,{\be1}¡Chikara-san!
+Dialogue: 0,0:05:05.62,0:05:08.12,Dialogos,,0000,0000,0000,,{\be1}¡Me corro! ¡Me corro!
+Dialogue: 0,0:05:11.23,0:05:13.76,Dialogos,,0000,0000,0000,,{\be1}¡Me corro, Chikara-san!
+Dialogue: 0,0:05:14.90,0:05:17.13,Dialogos,,0000,0000,0000,,{\be1}Chikara-san, ¿por qué?
+Dialogue: 0,0:05:17.13,0:05:18.27,Dialogos,,0000,0000,0000,,{\be1}A callar.
+Dialogue: 0,0:05:18.27,0:05:20.83,Dialogos,,0000,0000,0000,,{\be1}Chupa, furcia.
+Dialogue: 0,0:06:07.13,0:06:09.06,Dialogos,,0000,0000,0000,,{\be1}Chikara-san...
+Dialogue: 0,0:06:09.32,0:06:12.14,Dialogos,,0000,0000,0000,,{\be1}Venga, enséñame el ojamen.
+Dialogue: 0,0:06:14.62,0:06:17.08,Dialogos,,0000,0000,0000,,{\be1}Qué gusto...
+Dialogue: 0,0:06:36.08,0:06:42.81,Dialogos,,0000,0000,0000,,{\be1}Chikara-san, si te mueves así, voy a perder la cabeza.
+Dialogue: 0,0:06:43.99,0:06:48.29,Dialogos,,0000,0000,0000,,{\be1}Si gritas tanto, vas a despertar a Kaito.
+Dialogue: 0,0:06:48.29,0:06:54.19,Dialogos,,0000,0000,0000,,{\be1}Lo siento, pero tu rabo me está percutiendo tan vilmente que ya no sé ni qué pensar.
+Dialogue: 0,0:07:02.87,0:07:06.30,Dialogos,,0000,0000,0000,,{\be1}Está entrando... hasta bien al fondo...
+Dialogue: 0,0:07:09.91,0:07:14.20,Dialogos,,0000,0000,0000,,{\be1}¡Tengo tu polla muy dentro!
+Dialogue: 0,0:07:14.75,0:07:17.38,Dialogos,,0000,0000,0000,,{\be1}Es increíble.
+Dialogue: 0,0:07:32.27,0:07:35.30,Dialogos,,0000,0000,0000,,{\be1}Tu enhiesto miembro está en mis entrañas.
+Dialogue: 0,0:07:50.55,0:07:55.45,Dialogos,,0000,0000,0000,,{\be1}Más duro, rómpeme.
+Dialogue: 0,0:07:56.06,0:07:58.09,Dialogos,,0000,0000,0000,,{\be1}¡Chikara-san!
+Dialogue: 0,0:07:59.19,0:08:01.58,Dialogos,,0000,0000,0000,,{\be1}No puedo más.
+Dialogue: 0,0:08:05.67,0:08:07.27,Dialogos,,0000,0000,0000,,{\be1}Me corro, Sayo.
+Dialogue: 0,0:08:07.27,0:08:08.54,Dialogos,,0000,0000,0000,,{\be1}No...
+Dialogue: 0,0:08:11.01,0:08:15.83,Dialogos,,0000,0000,0000,,{\be1}Chikara-san, yo todavía no...
+Dialogue: 0,0:08:18.79,0:08:19.48,Dialogos,,0000,0000,0000,,{\be1}Me corro.
+Dialogue: 0,0:08:19.48,0:08:21.85,Dialogos,,0000,0000,0000,,{\be1}Chikara-san, lléname de leche.
+Dialogue: 0,0:08:21.85,0:08:23.21,Dialogos,,0000,0000,0000,,{\be1}No.
+Dialogue: 0,0:08:28.09,0:08:31.70,Dialogos,,0000,0000,0000,,{\be1}¿Por qué lo has hecho fuera?
+Dialogue: 0,0:08:33.39,0:08:34.96,Dialogos,,0000,0000,0000,,{\be1}A callar.
+Dialogue: 0,0:08:55.43,0:08:57.39,Dialogos,,0000,0000,0000,,{\be1}¿Mamá?
+Dialogue: 0,0:09:01.36,0:09:02.75,Dialogos,,0000,0000,0000,,{\be1}Éstas son...
+Dialogue: 0,0:09:03.42,0:09:05.72,Dialogos,,0000,0000,0000,,{\be1}las bragas de mamá.
+Dialogue: 0,0:09:35.79,0:09:39.98,Dialogos,,0000,0000,0000,,{\be1}Mamá, siento hacer esto.
+Dialogue: 0,0:09:41.80,0:09:43.66,Dialogos,,0000,0000,0000,,{\be1}¿Kai-kun?
+Dialogue: 0,0:09:52.61,0:09:54.60,Dialogos,,0000,0000,0000,,{\be1}Kai-kun...
+Dialogue: 0,0:10:13.39,0:10:16.48,Dialogos,,0000,0000,0000,,{\be1}¿Qué pasa, Kaito-kun?
+Dialogue: 0,0:10:16.48,0:10:20.02,Dialogos,,0000,0000,0000,,{\be1}¿Ha pasado algo? Estás sin aliento.
+Dialogue: 0,0:10:21.44,0:10:22.76,Dialogos,,0000,0000,0000,,{\be1}Nao-san...
+Dialogue: 0,0:10:25.87,0:10:27.64,Dialogos,,0000,0000,0000,,{\be1}Toma, chocolate caliente.
+Dialogue: 0,0:10:27.64,0:10:30.07,Dialogos,,0000,0000,0000,,{\be1}Muchas gracias.
+Dialogue: 0,0:10:31.93,0:10:36.25,Dialogos,,0000,0000,0000,,{\be1}Eres todo un hombre ya...
+Dialogue: 0,0:10:36.25,0:10:38.25,Dialogos,,0000,0000,0000,,{\be1}Así que te han pillado con las bragas de Sayo-san...
+Dialogue: 0,0:10:40.59,0:10:43.76,Dialogos,,0000,0000,0000,,{\be1}Bueno, yo también...
+Dialogue: 0,0:10:44.09,0:10:46.38,Dialogos,,0000,0000,0000,,{\be1}¿Tú qué?
+Dialogue: 0,0:10:47.43,0:10:48.76,Dialogos,,0000,0000,0000,,{\be1}¡Nao-san!
+Dialogue: 0,0:10:48.76,0:10:50.08,Dialogos,,0000,0000,0000,,{\be1}¿Qué?
+Dialogue: 0,0:10:50.56,0:10:54.77,Dialogos,,0000,0000,0000,,{\be1}Te lo ruego, déjame pasar la noche aquí.
+Dialogue: 0,0:10:54.77,0:10:56.23,Dialogos,,0000,0000,0000,,{\be1}¿Qué?
+Dialogue: 0,0:10:56.93,0:11:00.04,Dialogos,,0000,0000,0000,,{\be1}Mi madre me pilló cascándomela en ese plan.
+Dialogue: 0,0:11:00.04,0:11:03.74,Dialogos,,0000,0000,0000,,{\be1}Estoy tan avergonzado que no puedo ni mirarla a los ojos.
+Dialogue: 0,0:11:03.74,0:11:05.55,Dialogos,,0000,0000,0000,,{\be1}Venga, sólo esta noche.
+Dialogue: 0,0:11:05.55,0:11:09.68,Dialogos,,0000,0000,0000,,{\be1}Si no te importa, claro.
+Dialogue: 0,0:11:10.12,0:11:13.88,Dialogos,,0000,0000,0000,,{\be1}No me importa, vivo sola.
+Dialogue: 0,0:11:14.26,0:11:16.29,Dialogos,,0000,0000,0000,,{\be1}¿En serio?
+Dialogue: 0,0:11:16.29,0:11:17.99,Dialogos,,0000,0000,0000,,{\be1}Muchas gracias.
+Dialogue: 0,0:11:17.99,0:11:21.86,Dialogos,,0000,0000,0000,,{\be1}Pero tendrás que hacerme compañía.
+Dialogue: 0,0:11:21.86,0:11:25.65,Dialogos,,0000,0000,0000,,{\be1}Ya eres todo un hombretón.
+Dialogue: 0,0:11:38.15,0:11:40.05,Dialogos,,0000,0000,0000,,{\be1}Nao-san, ¿y el bar?
+Dialogue: 0,0:11:40.05,0:11:42.78,Dialogos,,0000,0000,0000,,{\be1}No pasa nada, ya he acabado por hoy.
+Dialogue: 0,0:11:42.78,0:11:46.62,Dialogos,,0000,0000,0000,,{\be1}Por cierto, puedes beber, ¿no?
+Dialogue: 0,0:11:46.62,0:11:49.52,Dialogos,,0000,0000,0000,,{\be1}El vino no lo tolero bien...
+Dialogue: 0,0:11:49.52,0:11:53.43,Dialogos,,0000,0000,0000,,{\be1}Venga, no seas así, que has dicho que me ibas a hacer compañía hoy...
+Dialogue: 0,0:11:53.43,0:11:56.96,Dialogos,,0000,0000,0000,,{\be1}Bueno, pues te ayudaré a beber.
+Dialogue: 0,0:12:06.24,0:12:08.64,Dialogos,,0000,0000,0000,,{\be1}¿Y bien? ¿Te ha gustado?
+Dialogue: 0,0:12:08.64,0:12:11.11,Dialogos,,0000,0000,0000,,{\be1}Nao-san, ¿qué haces?
+Dialogue: 0,0:12:11.11,0:12:14.74,Dialogos,,0000,0000,0000,,{\be1}No ibas a beber, así que...
+Dialogue: 0,0:12:15.40,0:12:15.60,Dialogos,,0000,0000,0000,,{\be1}Pero...
+Dialogue: 0,0:12:15.60,0:12:20.27,Dialogos,,0000,0000,0000,,{\be1}Si no bebes, tendré que dártelo boca a boca.
+Dialogue: 0,0:12:20.27,0:12:23.23,Dialogos,,0000,0000,0000,,{\be1}Beberé, tranquila que beberé.
+Dialogue: 0,0:12:42.91,0:12:45.37,Dialogos,,0000,0000,0000,,{\be1}¿N-Nao-san?
+Dialogue: 0,0:12:48.28,0:12:51.78,Dialogos,,0000,0000,0000,,{\be1}Tu rabo está durito ya.
+Dialogue: 0,0:12:53.12,0:12:55.45,Dialogos,,0000,0000,0000,,{\be1}Estoy soñando...
+Dialogue: 0,0:12:56.09,0:12:58.13,Dialogos,,0000,0000,0000,,{\be1}Estás medio dormido todavía.
+Dialogue: 0,0:12:58.13,0:13:04.29,Dialogos,,0000,0000,0000,,{\be1}Pues vale, me quedaré con tu virginidad.
+Dialogue: 0,0:13:11.44,0:13:12.81,Dialogos,,0000,0000,0000,,{\be1}Para, Nao-san.
+Dialogue: 0,0:13:12.81,0:13:17.15,Dialogos,,0000,0000,0000,,{\be1}No, no puedo aguantar más.
+Dialogue: 0,0:13:17.15,0:13:18.64,Dialogos,,0000,0000,0000,,{\be1}Acoplamiento espacial en proceso.
+Dialogue: 0,0:13:19.78,0:13:22.64,Dialogos,,0000,0000,0000,,{\be1}Mira Kaito-kun, tu nave espacial entra en mi hangar.
+Dialogue: 0,0:13:23.52,0:13:25.41,Dialogos,,0000,0000,0000,,{\be1}No, no me hagas esto.
+Dialogue: 0,0:13:27.52,0:13:28.52,Dialogos,,0000,0000,0000,,{\be1}Sí...
+Dialogue: 0,0:13:28.52,0:13:34.06,Dialogos,,0000,0000,0000,,{\be1}Tu nabo es tan duro...
+Dialogue: 0,0:13:48.18,0:13:49.37,Dialogos,,0000,0000,0000,,{\be1}Nao-san...
+Dialogue: 0,0:13:49.89,0:13:51.78,Dialogos,,0000,0000,0000,,{\be1}Eso eso.
+Dialogue: 0,0:13:51.78,0:13:53.95,Dialogos,,0000,0000,0000,,{\be1}Me gusta.
+Dialogue: 0,0:13:54.58,0:13:55.58,Dialogos,,0000,0000,0000,,{\be1}Sí...
+Dialogue: 0,0:13:55.58,0:13:58.42,Dialogos,,0000,0000,0000,,{\be1}Suavemente...
+Dialogue: 0,0:14:15.01,0:14:17.44,Dialogos,,0000,0000,0000,,{\be1}Kaito-kun, no las sobes así.
+Dialogue: 0,0:14:17.44,0:14:21.07,Dialogos,,0000,0000,0000,,{\be1}Tienes que apretarlas, para que cambie la forma.
+Dialogue: 0,0:14:25.31,0:14:28.25,Dialogos,,0000,0000,0000,,{\be1}¿Ves? ¿Ves cómo se me ponen duros?
+Dialogue: 0,0:14:28.25,0:14:30.74,Dialogos,,0000,0000,0000,,{\be1}Sí, lo veo.
+Dialogue: 0,0:14:36.85,0:14:38.16,Dialogos,,0000,0000,0000,,{\be1}Lo haces muy fuerte.
+Dialogue: 0,0:14:38.16,0:14:43.16,Dialogos,,0000,0000,0000,,{\be1}Es una zona muy sensible, tienes que ir con más cuidado.
+Dialogue: 0,0:14:43.66,0:14:46.12,Dialogos,,0000,0000,0000,,{\be1}Nao-san, Nao-san...
+Dialogue: 0,0:14:52.41,0:14:53.84,Dialogos,,0000,0000,0000,,{\be1}¿Te corres ya?
+Dialogue: 0,0:14:53.84,0:14:57.04,Dialogos,,0000,0000,0000,,{\be1}Aguanta un poco más, que yo todavía no...
+Dialogue: 0,0:14:57.04,0:14:59.95,Dialogos,,0000,0000,0000,,{\be1}No puedo, Nao-san.
+Dialogue: 0,0:14:59.95,0:15:02.08,Dialogos,,0000,0000,0000,,{\be1}¡Me corro! ¡Me corro!
+Dialogue: 0,0:15:05.65,0:15:07.75,Dialogos,,0000,0000,0000,,{\be1}¿Te corres, Kaito-kun?
+Dialogue: 0,0:15:08.49,0:15:10.38,Dialogos,,0000,0000,0000,,{\be1}No puedo más...
+Dialogue: 0,0:15:12.89,0:15:15.00,Dialogos,,0000,0000,0000,,{\be1}Vaya chorrito.
+Dialogue: 0,0:15:15.00,0:15:17.83,Dialogos,,0000,0000,0000,,{\be1}Se nota que era tu primera vez.
+Dialogue: 0,0:15:17.83,0:15:19.55,Dialogos,,0000,0000,0000,,{\be1}Aunque parece que todavía puedes con más.
+Dialogue: 0,0:15:19.55,0:15:23.73,Dialogos,,0000,0000,0000,,{\be1}Vas a tener que hacerlo mejor.
+Dialogue: 0,0:15:26.07,0:15:30.17,Dialogos,,0000,0000,0000,,{\be1}Quiero hacerte sentir bien.
+Dialogue: 0,0:15:34.98,0:15:39.49,Dialogos,,0000,0000,0000,,{\be1}Mira, tu rabo está en mi chumino.
+Dialogue: 0,0:15:39.49,0:15:42.72,Dialogos,,0000,0000,0000,,{\be1}Me estás haciendo sentir genial...
+Dialogue: 0,0:15:42.72,0:15:46.79,Dialogos,,0000,0000,0000,,{\be1}Puedo sentir tu tremendo tótem del amor frotándose en mi conejo espacial...
+Dialogue: 0,0:15:47.36,0:15:50.69,Dialogos,,0000,0000,0000,,{\be1}Te mola, ¿a que sí?
+Dialogue: 0,0:15:52.03,0:15:55.13,Dialogos,,0000,0000,0000,,{\be1}Va, dime, Kaito-kun.
+Dialogue: 0,0:15:55.84,0:15:57.50,Dialogos,,0000,0000,0000,,{\be1}Yo...
+Dialogue: 0,0:16:00.41,0:16:05.41,Dialogos,,0000,0000,0000,,{\be1}Te mola, ¿eh? Venga, dilo, Kaito-kun.
+Dialogue: 0,0:16:06.31,0:16:07.64,Dialogos,,0000,0000,0000,,{\be1}Nao-san...
+Dialogue: 0,0:16:21.36,0:16:27.17,Dialogos,,0000,0000,0000,,{\be1}¡No me ordeñes con tanta fuerza!
+Dialogue: 0,0:16:35.94,0:16:38.11,Dialogos,,0000,0000,0000,,{\be1}Qué mono eres, Kaito-kun.
+Dialogue: 0,0:16:38.11,0:16:40.97,Dialogos,,0000,0000,0000,,{\be1}Quiero que me des caña.
+Dialogue: 0,0:16:51.16,0:16:54.86,Dialogos,,0000,0000,0000,,{\be1}Kaito-kun, quiero que me perfores más adentro.
+Dialogue: 0,0:16:54.86,0:16:56.82,Dialogos,,0000,0000,0000,,{\be1}Eso es.
+Dialogue: 0,0:17:00.73,0:17:04.03,Dialogos,,0000,0000,0000,,{\be1}Nao-san, voy a correrme.
+Dialogue: 0,0:17:04.61,0:17:07.03,Dialogos,,0000,0000,0000,,{\be1}¡Más, más!
+Dialogue: 0,0:17:13.48,0:17:16.18,Dialogos,,0000,0000,0000,,{\be1}Va, que yo también me correré esta vez.
+Dialogue: 0,0:17:17.99,0:17:20.56,Dialogos,,0000,0000,0000,,{\be1}Me corro...
+Dialogue: 0,0:17:24.78,0:17:26.96,Dialogos,,0000,0000,0000,,{\be1}Me corro.
+Dialogue: 0,0:17:33.33,0:17:36.19,Dialogos,,0000,0000,0000,,{\be1}Venga, córrete, va, córrete.
+Dialogue: 0,0:17:37.07,0:17:38.80,Dialogos,,0000,0000,0000,,{\be1}¡Yo también voy!
+Dialogue: 0,0:17:45.45,0:17:51.51,Dialogos,,0000,0000,0000,,{\be1}¡Me corroooo!
+Dialogue: 0,0:17:58.88,0:18:00.53,Dialogos,,0000,0000,0000,,{\be1}Nao-san...
+Dialogue: 0,0:18:07.10,0:18:08.70,Dialogos,,0000,0000,0000,,{\be1}Increíble.
+Dialogue: 0,0:18:08.70,0:18:12.46,Dialogos,,0000,0000,0000,,{\be1}Mira el chorritón que ha salido de tu nardo.
+Dialogue: 0,0:18:14.68,0:18:17.03,Dialogos,,0000,0000,0000,,{\be1}Sabe a ti.
+Dialogue: 0,0:18:17.88,0:18:20.55,Dialogos,,0000,0000,0000,,{\be1}No estoy soñando, ¿verdad?
+Dialogue: 0,0:18:20.55,0:18:24.81,Dialogos,,0000,0000,0000,,{\be1}No, no estás soñando, Kaito-kun.
+Dialogue: 0,0:18:51.74,0:18:54.44,Dialogos,,0000,0000,0000,,{\be1}¿Cómo voy a disculparme con mamá?
+Dialogue: 0,0:18:55.52,0:18:57.21,Dialogos,,0000,0000,0000,,{\be1}No seas así.
+Dialogue: 0,0:19:00.19,0:19:01.95,Dialogos,,0000,0000,0000,,{\be1}¿Papá?
+Dialogue: 0,0:19:13.50,0:19:16.13,Dialogos,,0000,0000,0000,,{\be1}Papá...
+Dialogue: 0,0:19:21.21,0:19:22.51,Dialogos,,0000,0000,0000,,{\be1}Estoy en casa.
+Dialogue: 0,0:19:28.95,0:19:32.69,Dialogos,,0000,0000,0000,,{\be1}¿Ha vuelto a meterse contigo la madre de Takumi?
+Dialogue: 0,0:19:32.69,0:19:36.12,Dialogos,,0000,0000,0000,,{\be1}Kai-kun, no seas tan malo con Tamae-san.
+Dialogue: 0,0:19:36.86,0:19:41.73,Dialogos,,0000,0000,0000,,{\be1}Es la presidenta de la asociación de padres, así que siempre mira por encima del hombro a los demás.
+Dialogue: 0,0:19:41.73,0:19:45.97,Dialogos,,0000,0000,0000,,{\be1}Nunca hace nada, y te hace ocuparte de todo a ti.
+Dialogue: 0,0:19:45.97,0:19:50.26,Dialogos,,0000,0000,0000,,{\be1}En fin, sobre lo de esta mañana...
+Dialogue: 0,0:19:50.87,0:19:54.07,Dialogos,,0000,0000,0000,,{\be1}Vayamos dentro y hablémoslo.
+Dialogue: 0,0:19:54.07,0:19:55.50,Dialogos,,0000,0000,0000,,{\be1}Vale.
+Dialogue: 0,0:19:58.95,0:20:01.31,Dialogos,,0000,0000,0000,,{\be1}Entré en tu cuarto sin llamar...
+Dialogue: 0,0:20:01.31,0:20:03.71,Dialogos,,0000,0000,0000,,{\be1}Te debes haber sentido fatal.
+Dialogue: 0,0:20:04.08,0:20:05.39,Dialogos,,0000,0000,0000,,{\be1}Lo siento.
+Dialogue: 0,0:20:05.39,0:20:08.79,Dialogos,,0000,0000,0000,,{\be1}No, es culpa mía.
+Dialogue: 0,0:20:08.79,0:20:11.03,Dialogos,,0000,0000,0000,,{\be1}Te cogí las bragas, y...
+Dialogue: 0,0:20:11.03,0:20:13.69,Dialogos,,0000,0000,0000,,{\be1}No tendrías que sentirte mal.
+Dialogue: 0,0:20:13.69,0:20:17.66,Dialogos,,0000,0000,0000,,{\be1}Estás en una edad en la que esas cosas te suscitan interés.
+Dialogue: 0,0:20:17.66,0:20:20.73,Dialogos,,0000,0000,0000,,{\be1}Tendría que haber ido con más cuidado.
+Dialogue: 0,0:20:21.44,0:20:23.94,Dialogos,,0000,0000,0000,,{\be1}Soy una mala madre...
+Dialogue: 0,0:20:23.94,0:20:25.77,Dialogos,,0000,0000,0000,,{\be1}Mamá...
+Dialogue: 0,0:20:25.77,0:20:28.61,Dialogos,,0000,0000,0000,,{\be1}Bueno, dejemos el tema.
+Dialogue: 0,0:20:28.61,0:20:32.57,Dialogos,,0000,0000,0000,,{\be1}Tienes que tener hambre, te prepararé algo.
+Dialogue: 0,0:20:33.91,0:20:35.65,Dialogos,,0000,0000,0000,,{\be1}Mamá...
+Dialogue: 0,0:20:42.82,0:20:47.03,Dialogos,,0000,0000,0000,,{\be1}Mi padre está montándoselo con otra mujer más joven.
+Dialogue: 0,0:20:47.03,0:20:49.50,Dialogos,,0000,0000,0000,,{\be1}Se aprovecha de mamá, ya que ella no lo sabe.
+Dialogue: 0,0:20:49.50,0:20:52.49,Dialogos,,0000,0000,0000,,{\be1}E intenta pasar por buen padre en casa.
+Dialogue: 0,0:20:53.33,0:20:55.50,Dialogos,,0000,0000,0000,,{\be1}¿Qué le va a pasar a mamá?
+Dialogue: 0,0:20:55.50,0:20:57.47,Dialogos,,0000,0000,0000,,{\be1}¿Quién le va a proteger,
+Dialogue: 0,0:20:57.47,0:20:59.83,Dialogos,,0000,0000,0000,,{\be1}si ni siquiera tiene sus propios hijos?
+Dialogue: 0,0:21:38.31,0:21:40.91,Dialogos,,0000,0000,0000,,{\be1}No, Chikara-san...
+Dialogue: 0,0:21:45.95,0:21:48.98,Dialogos,,0000,0000,0000,,{\be1}Chikara-san, qué gustito...
+Dialogue: 0,0:22:05.11,0:22:07.07,Dialogos,,0000,0000,0000,,{\be1}Qué gustito...
+Dialogue: 0,0:22:17.45,0:22:18.85,Dialogos,,0000,0000,0000,,{\be1}No...
+Dialogue: 0,0:22:18.85,0:22:21.45,Dialogos,,0000,0000,0000,,{\be1}No los metas...
+Dialogue: 0,0:22:31.16,0:22:33.02,Dialogos,,0000,0000,0000,,{\be1}Venga, clávamela, Chikara-san.
+Dialogue: 0,0:22:35.14,0:22:37.23,Dialogos,,0000,0000,0000,,{\be1}Está entrando toda...
+Dialogue: 0,0:22:40.14,0:22:42.47,Dialogos,,0000,0000,0000,,{\be1}Baja el volumen, Sayo.
+Dialogue: 0,0:22:43.84,0:22:45.35,Dialogos,,0000,0000,0000,,{\be1}¿Kai-kun?
+Dialogue: 0,0:22:47.48,0:22:49.94,Dialogos,,0000,0000,0000,,{\be1}No...
+Dialogue: 0,0:22:51.45,0:22:56.29,Dialogos,,0000,0000,0000,,{\be1}Lo siento, mamá, te quiero.
+Dialogue: 0,0:22:56.29,0:22:59.63,Dialogos,,0000,0000,0000,,{\be1}No aguantaba más.
+Dialogue: 0,0:22:59.63,0:23:04.45,Dialogos,,0000,0000,0000,,{\be1}No puedo creer que me quieras tanto...
+Dialogue: 0,0:23:15.64,0:23:17.97,Dialogos,,0000,0000,0000,,{\be1}No tendríamos que hacer esto...
+Dialogue: 0,0:23:19.45,0:23:21.21,Dialogos,,0000,0000,0000,,{\be1}No, no...
+Dialogue: 0,0:23:21.21,0:23:22.92,Dialogos,,0000,0000,0000,,{\be1}Me corro...
+Dialogue: 0,0:23:22.92,0:23:26.05,Dialogos,,0000,0000,0000,,{\be1}Yo también, mamá...
+Dialogue: 0,0:23:26.72,0:23:28.92,Dialogos,,0000,0000,0000,,{\be1}No...

@@ -1,0 +1,270 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r113
+Active Line: 242
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video Position: 0
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,14,&H001819B8,&H000000FF,&HFF000000,&H00070C05,-1,-1,0,0,100,100,0,0,1,0.5,0.8,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,28,&H001819B8,&H000000FF,&HFFFFFFFF,&H00070C05,0,0,0,0,100,100,0,0,1,1,1,2,20,20,60,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:31.09,0:00:38.02,Grupa,,0,0,0,,{\be1\fad(984,0)}Nyan
+Dialogue: 0,0:00:31.09,0:00:38.02,Tytul,,0,0,0,,{\be1\fad(984,0)}W wirze walk
+Dialogue: 0,0:00:00.85,0:00:05.01,Default (i),,0,0,0,,{\be1}Jestem waszym bogiem,\Nklany Światła i Mroku.
+Dialogue: 0,0:00:05.01,0:00:09.11,Default (i),,0,0,0,,{\be1}Stworzyłem wasze klany.
+Dialogue: 0,0:00:09.11,0:00:13.35,Default (i),,0,0,0,,{\be1}Pewnego dnia staniecie się kompletni.
+Dialogue: 0,0:00:13.35,0:00:19.62,Default (i),,0,0,0,,{\be1}A do tego czasu ten monument\Nbędzie was dzielić na klany Światła i Mroku.
+Dialogue: 0,0:00:20.63,0:00:31.09,Default (i),,0,0,0,,{\be1}To historia Persii i Epo, kobiet rycerzy\Nz klanu Światła, przepełniona miłością i odwagą.
+Dialogue: 0,0:00:49.26,0:00:51.56,Default,,0,0,0,,{\be1}Norman, jak się czujesz?
+Dialogue: 0,0:00:53.61,0:00:55.33,Default,,0,0,0,,{\be1}Chyba zwichnąłem ramię.
+Dialogue: 0,0:00:55.87,0:00:58.47,Default,,0,0,0,,{\be1}Ale to nic takiego.
+Dialogue: 0,0:00:58.47,0:01:04.24,Default,,0,0,0,,{\be1}Po wojnę chcę się z tobą ożenić.
+Dialogue: 0,0:01:04.24,0:01:06.40,Default,,0,0,0,,{\be1}Tak się cieszę!
+Dialogue: 0,0:01:19.67,0:01:22.94,Default,,0,0,0,,{\be1}Przeklęty klan Światła, myślą, że gdzie są?
+Dialogue: 0,0:01:24.84,0:01:26.67,Default,,0,0,0,,{\be1}Pójdę po wodę.
+Dialogue: 0,0:01:27.75,0:01:28.64,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:01:33.16,0:01:38.50,Default,,0,0,0,,{\be1}Cholera, przestaję widzieć.
+Dialogue: 0,0:01:43.38,0:01:44.42,Default,,0,0,0,,{\be1}Już nie mogę.
+Dialogue: 0,0:01:49.89,0:01:50.80,Default,,0,0,0,,{\be1}Epo!
+Dialogue: 0,0:01:54.33,0:01:55.93,Default,,0,0,0,,{\be1}Epo!
+Dialogue: 0,0:02:08.86,0:02:10.98,Default,,0,0,0,,{\be1}Nudy.
+Dialogue: 0,0:02:10.98,0:02:13.99,Default,,0,0,0,,{\be1}Mogłoby się coś zacząć dziać.
+Dialogue: 0,0:02:16.09,0:02:18.33,Default,,0,0,0,,{\be1}Coś słyszę.
+Dialogue: 0,0:02:19.42,0:02:20.89,Default,,0,0,0,,{\be1}To stamtąd?
+Dialogue: 0,0:02:21.46,0:02:22.60,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:02:23.35,0:02:24.33,Default,,0,0,0,,{\be1}To stąd.
+Dialogue: 0,0:02:27.55,0:02:31.30,Default,,0,0,0,,{\be1}Nie przesłyszało mi się,\Ntylko skąd tu kobiecy głos?
+Dialogue: 0,0:02:31.97,0:02:34.79,Default,,0,0,0,,{\be1}Nikogo nie widać.
+Dialogue: 0,0:02:38.97,0:02:40.72,Default,,0,0,0,,{\be1}Nie będę wam przeszkadzać?
+Dialogue: 0,0:02:57.63,0:02:59.66,Default,,0,0,0,,{\be1}Gadaj!
+Dialogue: 0,0:03:02.01,0:03:03.62,Default,,0,0,0,,{\be1}Co za ślicznotka.
+Dialogue: 0,0:03:07.57,0:03:09.27,Default,,0,0,0,,{\be1}Pani Sabrino!
+Dialogue: 0,0:03:13.91,0:03:17.22,Default,,0,0,0,,{\be1}Przestańcie! Co znowu?!
+Dialogue: 0,0:03:33.36,0:03:35.53,Default,,0,0,0,,{\be1}Przestańcie! Dlaczego to robicie?!
+Dialogue: 0,0:03:37.30,0:03:39.21,Default,,0,0,0,,{\be1}- Gadaj!\N- Mów co wiesz!
+Dialogue: 0,0:03:39.21,0:03:42.41,Default,,0,0,0,,{\be1}Przecież nawet nie wiem, o co pytacie!
+Dialogue: 0,0:03:43.85,0:03:45.54,Default,,0,0,0,,{\be1}O co pytamy?
+Dialogue: 0,0:03:47.25,0:03:50.46,Default,,0,0,0,,{\be1}Łapy precz!\NTak się nie traktuje więźnia!
+Dialogue: 0,0:03:50.92,0:03:57.93,Default,,0,0,0,,{\be1}Nam też należy się zabawa\Nraz na jakiś czas, jak Stallionowi, nie?
+Dialogue: 0,0:03:58.69,0:04:06.57,Default,,0,0,0,,{\be1}Przez was codziennie musimy walczyć,\Nwięc coś się nam należy!
+Dialogue: 0,0:04:09.24,0:04:12.69,Default,,0,0,0,,{\be1}Sami rozpętaliście tę wojnę!
+Dialogue: 0,0:04:13.14,0:04:16.20,Default,,0,0,0,,{\be1}Mam gdzieś co było kiedyś.
+Dialogue: 0,0:04:19.25,0:04:21.35,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:04:23.02,0:04:26.49,Default,,0,0,0,,{\be1}No to się zabawimy.
+Dialogue: 0,0:04:26.49,0:04:27.50,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:04:28.96,0:04:32.01,Default,,0,0,0,,{\be1}Nie! Przestańcie!
+Dialogue: 0,0:04:32.63,0:04:41.21,Default,,0,0,0,,{\be1}Pani Sabrina jest bardzo twarda,\Npewnie teraz ją torturują.
+Dialogue: 0,0:04:42.33,0:04:43.86,Default,,0,0,0,,{\be1}Pani Sabrino!
+Dialogue: 0,0:04:45.21,0:04:47.44,Default,,0,0,0,,{\be1}Wspaniała dziewczyna.
+Dialogue: 0,0:04:48.84,0:04:50.48,Default,,0,0,0,,{\be1}To stamtąd dochodzi głos.
+Dialogue: 0,0:04:51.82,0:04:54.69,Default,,0,0,0,,{\be1}Nie tam!
+Dialogue: 0,0:04:55.25,0:04:57.82,Default,,0,0,0,,{\be1}Patrz, jest mokra.
+Dialogue: 0,0:05:00.76,0:05:04.11,Default,,0,0,0,,{\be1}Ma większe cycki niż myślałem.
+Dialogue: 0,0:05:08.57,0:05:10.16,Default,,0,0,0,,{\be1}Już nie wytrzymam!
+Dialogue: 0,0:05:12.07,0:05:13.71,Default,,0,0,0,,{\be1}Cycuszki!
+Dialogue: 0,0:05:20.84,0:05:21.71,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:05:21.71,0:05:24.09,Default,,0,0,0,,{\be1}Jakie one wspaniałe!
+Dialogue: 0,0:05:26.96,0:05:28.29,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:05:32.15,0:05:33.02,Default,,0,0,0,,{\be1}Debil!
+Dialogue: 0,0:05:33.46,0:05:35.52,Default,,0,0,0,,{\be1}Co powiedziałaś?!
+Dialogue: 0,0:05:36.83,0:05:38.27,Default,,0,0,0,,{\be1}Udało się!
+Dialogue: 0,0:05:44.51,0:05:45.78,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:06:02.22,0:06:07.23,Default,,0,0,0,,{\be1}Mocniej! Na więcej cię nie stać?
+Dialogue: 0,0:06:07.76,0:06:10.64,Default,,0,0,0,,{\be1}Tak! Mocniej!
+Dialogue: 0,0:06:26.34,0:06:27.03,Default,,0,0,0,,{\be1}Nie ma jej.
+Dialogue: 0,0:06:28.64,0:06:31.50,Default,,0,0,0,,{\be1}Gdzie jesteś, Epo?
+Dialogue: 0,0:06:38.32,0:06:43.73,Default,,0,0,0,,{\be1}Czuję krew.\NPrzecież to rycerz klanu Światła!
+Dialogue: 0,0:06:43.73,0:06:46.03,Default,,0,0,0,,{\be1}Co on tu robi?
+Dialogue: 0,0:06:46.03,0:06:47.43,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:06:50.47,0:06:54.66,Default,,0,0,0,,{\be1}Nie poddam się, odnajdę Epo!
+Dialogue: 0,0:06:56.63,0:06:57.40,Default,,0,0,0,,{\be1}Epo.
+Dialogue: 0,0:06:58.17,0:06:59.23,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:07:07.08,0:07:08.12,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:07:08.52,0:07:11.20,Default,,0,0,0,,{\be1}Jesteś rycerzem klanu Światła, prawda?
+Dialogue: 0,0:07:11.92,0:07:17.82,Default,,0,0,0,,{\be1}A nawet jeśli to co?\NNie mam czasu na zabawę z tobą.
+Dialogue: 0,0:07:21.14,0:07:23.16,Default,,0,0,0,,{\be1}Zabawę?!
+Dialogue: 0,0:07:23.60,0:07:25.92,Default,,0,0,0,,{\be1}Ty zasrańcu!
+Dialogue: 0,0:07:29.67,0:07:33.10,Default,,0,0,0,,{\be1}To kto się teraz będzie bawić?
+Dialogue: 0,0:07:37.07,0:07:42.71,Default,,0,0,0,,{\be1}Nie mam czasu na zabawę z potworem!
+Dialogue: 0,0:07:44.32,0:07:46.86,Default,,0,0,0,,{\be1}Gdzie ci tak śpieszno?
+Dialogue: 0,0:07:57.35,0:07:59.30,Default,,0,0,0,,{\be1}Kobieta!
+Dialogue: 0,0:08:02.94,0:08:04.51,Default,,0,0,0,,{\be1}Norman?
+Dialogue: 0,0:08:13.16,0:08:15.48,Default,,0,0,0,,{\be1}Rycerz z klanu Światła!
+Dialogue: 0,0:08:15.89,0:08:18.56,Default,,0,0,0,,{\be1}No i co z tego?!
+Dialogue: 0,0:08:20.35,0:08:22.02,Default,,0,0,0,,{\be1}A to że zerżnę cię!
+Dialogue: 0,0:08:22.99,0:08:25.36,Default,,0,0,0,,{\be1}Zostaw mnie! Nie!
+Dialogue: 0,0:08:25.69,0:08:27.57,Default,,0,0,0,,{\be1}Zerżnę cię!
+Dialogue: 0,0:08:27.57,0:08:29.86,Default,,0,0,0,,{\be1}Nigdy w życiu nie oddam ci się! Puszczaj!
+Dialogue: 0,0:08:30.27,0:08:31.44,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:08:32.73,0:08:34.33,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:48.25,0:08:53.68,Default,,0,0,0,,{\be1}Wygląda na zaspokojoną, ale to niemożliwe.
+Dialogue: 0,0:08:54.82,0:08:59.18,Default,,0,0,0,,{\be1}Przecież brutalnie ją torturowali.
+Dialogue: 0,0:09:00.33,0:09:07.81,Default,,0,0,0,,{\be1}Złapali ją, bo próbowała mnie uratować.
+Dialogue: 0,0:09:08.97,0:09:11.98,Default,,0,0,0,,{\be1}Nie zbliżaj się!
+Dialogue: 0,0:09:14.37,0:09:17.13,Default,,0,0,0,,{\be1}Jesteś w moim typie!
+Dialogue: 0,0:09:27.12,0:09:32.68,Default,,0,0,0,,{\be1}Duszę się! Zejdź ze mnie!
+Dialogue: 0,0:09:35.23,0:09:38.93,Default,,0,0,0,,{\be1}Nie dorosłaś jeszcze,\Ntakie lubię najbardziej.
+Dialogue: 0,0:09:41.67,0:09:43.55,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:09:44.87,0:09:47.95,Default,,0,0,0,,{\be1}Przestań! Nie!
+Dialogue: 0,0:09:49.21,0:09:52.10,Default,,0,0,0,,{\be1}Smakuje dziewicą!
+Dialogue: 0,0:09:56.38,0:09:58.90,Default,,0,0,0,,{\be1}Tylko nie tam!
+Dialogue: 0,0:09:59.87,0:10:02.86,Default,,0,0,0,,{\be1}Znowu zaczyna.
+Dialogue: 0,0:10:02.86,0:10:09.69,Default,,0,0,0,,{\be1}Jak on może to robić w czasie walki?
+Dialogue: 0,0:10:14.07,0:10:16.89,Default,,0,0,0,,{\be1}Nie ma tu kogoś silniejszego?
+Dialogue: 0,0:10:18.52,0:10:23.63,Default,,0,0,0,,{\be1}- Persia!\N- Pomocy! Nie, przestań!
+Dialogue: 0,0:10:25.08,0:10:26.68,Default,,0,0,0,,{\be1}Persia!
+Dialogue: 0,0:10:28.19,0:10:30.61,Default,,0,0,0,,{\be1}Zostaw ją ty koniu!
+Dialogue: 0,0:10:31.39,0:10:34.53,Default,,0,0,0,,{\be1}Jak mnie nazwałaś? Pożałujesz!
+Dialogue: 0,0:10:34.79,0:10:36.90,Default,,0,0,0,,{\be1}Pani Sabrino!
+Dialogue: 0,0:10:46.07,0:10:49.80,Default,,0,0,0,,{\be1}Za stara jak dla mnie.\NKatra, zajmij się nią.
+Dialogue: 0,0:10:50.97,0:10:52.30,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:10:54.98,0:10:56.26,Default,,0,0,0,,{\be1}Tchórze!
+Dialogue: 0,0:10:56.68,0:10:57.97,Default,,0,0,0,,{\be1}Pani Sabrino!
+Dialogue: 0,0:11:10.59,0:11:13.06,Default,,0,0,0,,{\be1}Persia, nic ci nie jest?
+Dialogue: 0,0:11:13.06,0:11:14.72,Default,,0,0,0,,{\be1}Tak się cieszę!
+Dialogue: 0,0:11:16.53,0:11:17.20,Default,,0,0,0,,{\be1}Persia.
+Dialogue: 0,0:11:18.34,0:11:20.22,Default,,0,0,0,,{\be1}Pani Sabrino!
+Dialogue: 0,0:11:23.40,0:11:26.08,Default,,0,0,0,,{\be1}Zostaw mnie! Przestań!
+Dialogue: 0,0:11:27.75,0:11:30.33,Default,,0,0,0,,{\be1}Opieraj się bardziej,\Nbędzie lepsza zabawa!
+Dialogue: 0,0:11:32.98,0:11:34.30,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:11:36.45,0:11:39.75,Default,,0,0,0,,{\be1}Nikt mnie już nie zechce!
+Dialogue: 0,0:11:39.75,0:11:42.61,Default,,0,0,0,,{\be1}Co powiesz na to?
+Dialogue: 0,0:11:44.46,0:11:48.41,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:11:52.07,0:11:55.29,Default,,0,0,0,,{\be1}Nie! Norman!
+Dialogue: 0,0:12:05.15,0:12:10.45,Default,,0,0,0,,{\be1}Jakim cudem złapały cię te przygłupy?
+Dialogue: 0,0:12:10.45,0:12:11.59,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:12:11.99,0:12:16.09,Default,,0,0,0,,{\be1}Nie przystoi to rycerzowi Światła.
+Dialogue: 0,0:12:16.56,0:12:23.23,Default,,0,0,0,,{\be1}Jeśli twoja kobiecość\Nutrudnia ci walkę, wyzbądź się jej.
+Dialogue: 0,0:12:23.23,0:12:24.60,Default,,0,0,0,,{\be1}Aua!
+Dialogue: 0,0:12:25.63,0:12:30.01,Default,,0,0,0,,{\be1}Tylko tyle trzeba, żebyś jęczała?
+Dialogue: 0,0:12:31.02,0:12:38.36,Default,,0,0,0,,{\be1}To miłość ucznia i nauczyciela\Nczy może coś poważniejszego?
+Dialogue: 0,0:12:38.74,0:12:40.87,Default,,0,0,0,,{\be1}A ty tu czego, podglądaczu?!
+Dialogue: 0,0:12:43.44,0:12:46.83,Default,,0,0,0,,{\be1}Przyszedłem po małą.
+Dialogue: 0,0:12:47.70,0:12:52.16,Default,,0,0,0,,{\be1}Stallion woli młode,\Nnie takie staruchy jak ty.
+Dialogue: 0,0:12:54.96,0:12:57.08,Default,,0,0,0,,{\be1}To bolało!
+Dialogue: 0,0:12:58.67,0:13:00.51,Default,,0,0,0,,{\be1}Bezczelny szkielet!
+Dialogue: 0,0:13:01.42,0:13:04.14,Default,,0,0,0,,{\be1}Nie patrz tak na mnie! Boję się!
+Dialogue: 0,0:13:04.14,0:13:05.24,Default,,0,0,0,,{\be1}Coś jeszcze?!
+Dialogue: 0,0:13:05.24,0:13:06.84,Default,,0,0,0,,{\be1}Połamiesz mi kości!
+Dialogue: 0,0:13:06.84,0:13:08.48,Default,,0,0,0,,{\be1}Persia, uciekamy.
+Dialogue: 0,0:13:09.76,0:13:10.35,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:13:11.59,0:13:13.31,Default,,0,0,0,,{\be1}Niezła.
+Dialogue: 0,0:13:15.98,0:13:20.04,Default,,0,0,0,,{\be1}- Nie!\N- Niedługo sama będziesz o to prosić!
+Dialogue: 0,0:13:21.02,0:13:22.46,Default,,0,0,0,,{\be1}Dziwnie się czuję!
+Dialogue: 0,0:13:33.30,0:13:36.43,Default,,0,0,0,,{\be1}Nigdy tego nie czułam!
+Dialogue: 0,0:13:37.59,0:13:42.10,Default,,0,0,0,,{\be1}Nie wytrzymam!  Jak dobrze!
+Dialogue: 0,0:13:48.09,0:13:49.02,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:13:49.92,0:13:52.73,Default,,0,0,0,,{\be1}Norman, tak mi dobrze!
+Dialogue: 0,0:13:54.49,0:13:55.46,Default,,0,0,0,,{\be1}Norman...
+Dialogue: 0,0:13:56.36,0:13:58.27,Default,,0,0,0,,{\be1}Potwór!
+Dialogue: 0,0:14:08.14,0:14:11.39,Default,,0,0,0,,{\be1}Kogo dzisiaj dosiądę?
+Dialogue: 0,0:14:18.15,0:14:21.67,Default,,0,0,0,,{\be1}Stallion, dobrze cię wiedzieć!
+Dialogue: 0,0:14:22.02,0:14:25.60,Default,,0,0,0,,{\be1}Kretynie, dałeś im uciec?!
+Dialogue: 0,0:14:27.05,0:14:28.90,Default,,0,0,0,,{\be1}- Szybciej!\N- Dobrze!
+Dialogue: 0,0:14:51.55,0:14:53.98,Default,,0,0,0,,{\be1}Teraz muszę się wspinać.
+Dialogue: 0,0:14:54.62,0:14:59.46,Default,,0,0,0,,{\be1}Czy po tym wszystkim\NNorman nadal będzie mnie chciał?
+Dialogue: 0,0:15:05.09,0:15:08.03,Default,,0,0,0,,{\be1}Wszystko zgodnie z planem.
+Dialogue: 0,0:15:08.03,0:15:12.54,Default,,0,0,0,,{\be1}Ludzie to słabe istoty.
+Dialogue: 0,0:15:24.68,0:15:27.37,Default,,0,0,0,,{\be1}Co tu robi rycerz z klanu Światła?
+Dialogue: 0,0:15:28.05,0:15:30.72,Default,,0,0,0,,{\be1}Czyżby nas usłyszała?
+Dialogue: 0,0:15:30.72,0:15:40.26,Default,,0,0,0,,{\be1}Nie wiem, ale za dużo wysiłku włożyliśmy\Nw wywołanie wojny, żeby odpuścić teraz sobie.
+Dialogue: 0,0:15:40.26,0:15:45.34,Default,,0,0,0,,{\be1}Jako doradca klanu Światła nie mogę\Nbyć tu widziany, ty się nią zajmij.
+Dialogue: 0,0:15:49.80,0:15:53.31,Default,,0,0,0,,{\be1}Jak leci, dziewczynko?
+Dialogue: 0,0:15:54.78,0:15:56.79,Default,,0,0,0,,{\be1}Kolejny potwór!
+Dialogue: 0,0:16:00.51,0:16:02.07,Default,,0,0,0,,{\be1}Nie uciekniesz!
+Dialogue: 0,0:16:12.03,0:16:13.16,Default,,0,0,0,,{\be1}Uparty jest.
+Dialogue: 0,0:16:13.16,0:16:14.80,Default,,0,0,0,,{\be1}Stójcie!
+Dialogue: 0,0:16:16.57,0:16:18.58,Default,,0,0,0,,{\be1}Pokazać wam siłę konia?
+Dialogue: 0,0:16:22.20,0:16:23.13,Default,,0,0,0,,{\be1}Tędy!
+Dialogue: 0,0:16:31.66,0:16:34.77,Default,,0,0,0,,{\be1}Najwyraźniej nie tylko\Nwygląda jak koń, ale i nim jest.
+Dialogue: 0,0:16:35.66,0:16:40.52,Default,,0,0,0,,{\be1}Łatwiej zobaczą naszą dwójkę,\Ndlatego zostań tu.
+Dialogue: 0,0:16:41.42,0:16:44.19,Default,,0,0,0,,{\be1}Sprawdzę czy jest bezpiecznie, rozumiesz?
+Dialogue: 0,0:16:47.53,0:16:48.59,Default,,0,0,0,,{\be1}Dobra dziewczynka.
+Dialogue: 0,0:16:58.01,0:17:02.33,Default,,0,0,0,,{\be1}Dwie kobiety i koń?
+Dialogue: 0,0:17:02.94,0:17:04.85,Default,,0,0,0,,{\be1}Widziałyście kogoś takiego?
+Dialogue: 0,0:17:05.35,0:17:06.68,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:17:06.68,0:17:08.22,Default,,0,0,0,,{\be1}Nikogo nie widziałam.
+Dialogue: 0,0:17:14.26,0:17:18.82,Default,,0,0,0,,{\be1}A co powiesz,\Nżeby spróbować naszych wyrobów?
+Dialogue: 0,0:17:22.76,0:17:25.13,Default,,0,0,0,,{\be1}O czym mówisz?
+Dialogue: 0,0:17:26.03,0:17:28.67,Default,,0,0,0,,{\be1}- Oczywiście, że o nas!\N- Oczywiście, że o nas!
+Dialogue: 0,0:17:35.68,0:17:40.17,Default,,0,0,0,,{\be1}Niegrzeczny chłopiec.\NI do czego nas doprowadziłeś?
+Dialogue: 0,0:17:43.18,0:17:44.49,Default,,0,0,0,,{\be1}Jesteś...
+Dialogue: 0,0:17:44.49,0:17:46.00,Default,,0,0,0,,{\be1}Bardzo niegrzeczny.
+Dialogue: 0,0:17:54.36,0:17:56.72,Default,,0,0,0,,{\be1}Dawno nie miałam takiego faceta!
+Dialogue: 0,0:18:03.74,0:18:06.46,Default,,0,0,0,,{\be1}No i gdzie się podziała moja dziewica?
+Dialogue: 0,0:18:14.18,0:18:15.69,Default,,0,0,0,,{\be1}Co za ślicznotka!
+Dialogue: 0,0:18:16.49,0:18:21.45,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:24.60,0:18:27.92,Default,,0,0,0,,{\be1}Kończymy zabawę, czas na...
+Dialogue: 0,0:18:30.21,0:18:34.47,Default,,0,0,0,,{\be1}O cholera, to Stallion!
+Dialogue: 0,0:18:36.70,0:18:38.43,Default,,0,0,0,,{\be1}Cześć maleńka!
+Dialogue: 0,0:18:42.84,0:18:46.73,Default,,0,0,0,,{\be1}Najpierw żaba, potem wąż,\Na teraz koń potwór!
+Dialogue: 0,0:18:48.03,0:18:51.02,Default,,0,0,0,,{\be1}Przegięłaś, a miałem być delikatny.
+Dialogue: 0,0:18:53.59,0:18:55.32,Default,,0,0,0,,{\be1}Mam dosyć!
+Dialogue: 0,0:18:56.41,0:18:58.33,Default,,0,0,0,,{\be1}Co to za kraj?!
+Dialogue: 0,0:19:01.93,0:19:04.33,Default,,0,0,0,,{\be1}Nawet w tych kałużach coś żyje.
+Dialogue: 0,0:19:05.23,0:19:08.16,Default,,0,0,0,,{\be1}Szkoda, że nie macie więcej miejsca.
+Dialogue: 0,0:19:09.16,0:19:09.96,Default,,0,0,0,,{\be1}Już wiem!
+Dialogue: 0,0:19:10.32,0:19:12.11,Default,,0,0,0,,{\be1}Tam widziałam...
+Dialogue: 0,0:19:21.23,0:19:22.10,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:19:24.10,0:19:26.06,Default,,0,0,0,,{\be1}Zostaw mnie potworze!
+Dialogue: 0,0:19:27.60,0:19:31.52,Default,,0,0,0,,{\be1}Jak śmiesz tak do mnie mówić?
+Dialogue: 0,0:19:31.52,0:19:33.97,Default,,0,0,0,,{\be1}- Już ja się wezmę za twoje pastwisko!\N- Nie! Przestań!
+Dialogue: 0,0:19:37.14,0:19:39.61,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:19:40.77,0:19:41.78,Default,,0,0,0,,{\be1}Różowe!
+Dialogue: 0,0:19:50.13,0:19:54.34,Default,,0,0,0,,{\be1}Szarp się mocniej,\Nto jeszcze mocniej mnie podniecisz!
+Dialogue: 0,0:19:55.12,0:19:56.28,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:20:01.40,0:20:02.06,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:20:06.43,0:20:09.00,Default,,0,0,0,,{\be1}- Śliczności!\N- Nie!
+Dialogue: 0,0:20:10.69,0:20:12.54,Default,,0,0,0,,{\be1}Wszyscy robią to samo!
+Dialogue: 0,0:20:14.90,0:20:16.04,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:20:23.98,0:20:25.79,Default,,0,0,0,,{\be1}Dziwnie się czuję!
+Dialogue: 0,0:20:32.09,0:20:36.69,Default,,0,0,0,,{\be1}Nie! Nikt mnie już nie zechce!
+Dialogue: 0,0:20:36.69,0:20:38.72,Default,,0,0,0,,{\be1}Norman, przepraszam!
+Dialogue: 0,0:20:41.53,0:20:44.73,Default,,0,0,0,,{\be1}O nie, przyjemnie mi!
+Dialogue: 0,0:20:44.73,0:20:46.73,Default,,0,0,0,,{\be1}Przestań! Nie!
+Dialogue: 0,0:20:48.69,0:20:53.15,Default,,0,0,0,,{\be1}Tak! Jak dobrze! Mocniej!
+Dialogue: 0,0:20:53.15,0:20:54.81,Default,,0,0,0,,{\be1}O nie, rozerwiesz mnie!
+Dialogue: 0,0:20:55.38,0:20:57.11,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:20:58.21,0:20:59.45,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:20:59.45,0:21:01.06,Default,,0,0,0,,{\be1}Szybciej!
+Dialogue: 0,0:21:01.95,0:21:04.67,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:21:08.96,0:21:10.62,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:21:11.23,0:21:12.52,Default,,0,0,0,,{\be1}Trzymaj się.
+Dialogue: 0,0:21:18.20,0:21:21.55,Default,,0,0,0,,{\be1}Co za ulga, myślałam, że umrzesz.
+Dialogue: 0,0:21:22.60,0:21:23.30,Default,,0,0,0,,{\be1}Czy to...
+Dialogue: 0,0:21:26.41,0:21:28.56,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:21:31.18,0:21:33.15,Default,,0,0,0,,{\be1}To ty.
+Dialogue: 0,0:21:37.32,0:21:40.15,Default,,0,0,0,,{\be1}Dzięki, już mi lepiej.
+Dialogue: 0,0:21:43.26,0:21:44.78,Default,,0,0,0,,{\be1}Już odchodzisz?
+Dialogue: 0,0:21:45.23,0:21:46.04,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:21:46.73,0:21:50.50,Default,,0,0,0,,{\be1}Należymy do różnych klanów.
+Dialogue: 0,0:21:51.10,0:21:55.00,Default,,0,0,0,,{\be1}Nie mów tak,\Nbo sama nie wiem co robić.
+Dialogue: 0,0:21:55.67,0:22:00.47,Default,,0,0,0,,{\be1}Jesteś miła.\NNazywam się Astral, a ty?
+Dialogue: 0,0:22:01.01,0:22:02.90,Default,,0,0,0,,{\be1}Astral.
+Dialogue: 0,0:22:03.44,0:22:05.93,Default,,0,0,0,,{\be1}Persia.
+Dialogue: 0,0:22:06.68,0:22:07.89,Default,,0,0,0,,{\be1}Persia.
+Dialogue: 0,0:22:20.76,0:22:22.56,Default,,0,0,0,,{\be1}Persia, co robisz?
+Dialogue: 0,0:22:28.24,0:22:29.50,Default,,0,0,0,,{\be1}Pani Sabrina.
+Dialogue: 0,0:22:29.94,0:22:31.92,Default,,0,0,0,,{\be1}Pani z drewnianego konia.
+Dialogue: 0,0:22:33.63,0:22:34.92,Default,,0,0,0,,{\be1}Jesteś z klanu Mroku?
+Dialogue: 0,0:22:35.41,0:22:36.75,Default,,0,0,0,,{\be1}On był ranny!
+Dialogue: 0,0:22:37.15,0:22:38.55,Default,,0,0,0,,{\be1}Nie okazuj wrogowi litości!
+Dialogue: 0,0:22:41.63,0:22:43.24,Default,,0,0,0,,{\be1}Odsuń się!
+Dialogue: 0,0:22:46.75,0:22:48.93,Default,,0,0,0,,{\be1}Przeklęty klan Mroku.

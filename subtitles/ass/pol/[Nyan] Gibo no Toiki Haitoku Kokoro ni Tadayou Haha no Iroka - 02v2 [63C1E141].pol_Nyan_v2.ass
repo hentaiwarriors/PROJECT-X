@@ -1,0 +1,264 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.8 r117  Oct 30 2014  17:04:50
+Active Line: 0
+Audio File: VTS_03_1 T02 2_0ch 192Kbps DELAY -167ms.ac3
+Collisions: Normal
+Last Style Storage: [640x480]
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Timer: 100.0000
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video File: VTS_03_1.avs
+Video Position: 45642
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:38.54,0:01:50.51,Grupa,,0,0,0,,{\be1}Nyan
+Dialogue: 0,0:00:23.93,0:00:25.21,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:00:30.49,0:00:35.10,Default,,0,0,0,,{\be1}Nie wkładaj tam.
+Dialogue: 0,0:00:43.61,0:00:45.73,Default,,0,0,0,,{\be1}Włóż go.
+Dialogue: 0,0:00:47.20,0:00:48.74,Default,,0,0,0,,{\be1}Wszedł.
+Dialogue: 0,0:00:51.78,0:00:54.53,Default,,0,0,0,,{\be1}Sayo, zamknij się.
+Dialogue: 0,0:00:55.06,0:00:56.61,Default,,0,0,0,,{\be1}Więc kto...
+Dialogue: 0,0:00:56.61,0:00:57.84,Default,,0,0,0,,{\be1}Kaito?
+Dialogue: 0,0:00:59.85,0:01:01.68,Default,,0,0,0,,{\be1}Proszę, przestań!
+Dialogue: 0,0:01:04.24,0:01:11.13,Default,,0,0,0,,{\be1}Przepraszam, ale kocham cię.\NDłużej się nie powstrzymam.
+Dialogue: 0,0:01:15.10,0:01:19.66,Default,,0,0,0,,{\be1}Nie wiedziałam,\Nże kochasz mnie w ten sposób.
+Dialogue: 0,0:01:27.77,0:01:30.12,Default,,0,0,0,,{\be1}Nie powinniśmy.
+Dialogue: 0,0:01:32.15,0:01:34.38,Default,,0,0,0,,{\be1}O nie, zaraz dojdę!
+Dialogue: 0,0:01:34.38,0:01:36.96,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:01:36.96,0:01:38.54,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:02:08.83,0:02:10.72,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:02:10.72,0:02:12.69,Default,,0,0,0,,{\be1}Tylko nie w środku!
+Dialogue: 0,0:02:13.62,0:02:14.94,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:03:07.68,0:03:11.35,Default,,0,0,0,,{\be1}Dobrałem się do swojej matki.
+Dialogue: 0,0:03:12.76,0:03:16.72,Default,,0,0,0,,{\be1}Kaito, na co czekasz?\NSpóźnisz się do szkoły.
+Dialogue: 0,0:03:16.72,0:03:19.15,Default,,0,0,0,,{\be1}Już wychodzę.
+Dialogue: 0,0:03:19.15,0:03:26.05,Default,,0,0,0,,{\be1}Dzisiaj wyjeżdżam w podróż służbową.\NSłuchaj się matki i nie przyprawiaj jej o ból głowy.
+Dialogue: 0,0:03:30.33,0:03:32.06,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:03:35.64,0:03:37.67,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:03:37.67,0:03:41.77,Default,,0,0,0,,{\be1}Poczekaj jeszcze chwilę,\Nśniadanie będzie zaraz gotowe.
+Dialogue: 0,0:03:42.46,0:03:45.54,Default,,0,0,0,,{\be1}Mamo, odnośnie wczorajszej nocy...
+Dialogue: 0,0:03:47.18,0:03:48.55,Default,,0,0,0,,{\be1}Mamo?!
+Dialogue: 0,0:03:50.56,0:03:53.55,Default,,0,0,0,,{\be1}Kaito, czekaj!
+Dialogue: 0,0:03:54.06,0:03:59.05,Default,,0,0,0,,{\be1}Robiłaś tak, gdy w dzieciństwie\Nkaleczyłem sobie palce.
+Dialogue: 0,0:04:00.04,0:04:01.05,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:04:02.53,0:04:06.39,Default,,0,0,0,,{\be1}Mamo, wczoraj...
+Dialogue: 0,0:04:06.39,0:04:08.81,Default,,0,0,0,,{\be1}Przestań, nie możemy o tym rozmawiać.
+Dialogue: 0,0:04:09.37,0:04:12.31,Default,,0,0,0,,{\be1}Dlaczego?\NJa naprawdę cię kocham.
+Dialogue: 0,0:04:12.31,0:04:16.82,Default,,0,0,0,,{\be1}Przestań!\NNie chcę tego słyszeć!
+Dialogue: 0,0:04:17.51,0:04:18.78,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:04:19.16,0:04:21.35,Default,,0,0,0,,{\be1}Mamo, uspokój się!
+Dialogue: 0,0:04:22.38,0:04:23.29,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:04:23.29,0:04:27.48,Default,,0,0,0,,{\be1}Przepraszam, że krzyczałam, już mi lepiej.
+Dialogue: 0,0:04:29.32,0:04:32.46,Default,,0,0,0,,{\be1}Przestańmy o tym rozmawiać.
+Dialogue: 0,0:04:32.46,0:04:34.92,Default,,0,0,0,,{\be1}Mógłbyś coś dla mnie zrobić?
+Dialogue: 0,0:04:35.63,0:04:36.80,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:04:36.80,0:04:39.67,Default,,0,0,0,,{\be1}Wczoraj wspominałam o dokumentach\Ndla komitetu rodzicielskiego, pamiętasz?
+Dialogue: 0,0:04:40.24,0:04:42.72,Default,,0,0,0,,{\be1}Możesz je zanieść Tamae?
+Dialogue: 0,0:04:43.43,0:04:46.18,Default,,0,0,0,,{\be1}Matce Takumiego?
+Dialogue: 0,0:04:48.61,0:04:50.44,Default,,0,0,0,,{\be1}Zrobisz to dla mnie?
+Dialogue: 0,0:04:51.08,0:04:53.98,Default (i),,0,0,0,,{\be1}Nigdy nie mogłem się z nią dogadać.
+Dialogue: 0,0:04:57.85,0:05:00.56,Default,,0,0,0,,{\be1}Ale masz wielką chatę.
+Dialogue: 0,0:05:00.56,0:05:02.95,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:05:03.36,0:05:08.86,Default (i),,0,0,0,,{\be1}Jak mus to mus, zaniosę jej to.
+Dialogue: 0,0:05:08.86,0:05:14.90,Default (i),,0,0,0,,{\be1}Jestem z Takumim, więc może\Ntym razem nie będzie tak źle.
+Dialogue: 0,0:05:14.90,0:05:17.81,Default,,0,0,0,,{\be1}To ja spadam na dodatkowe lekcje.
+Dialogue: 0,0:05:20.37,0:05:25.93,Default,,0,0,0,,{\be1}Czekaj, nie bądź taki\Ni nie zostawiaj mnie samego.
+Dialogue: 0,0:05:26.40,0:05:31.94,Default,,0,0,0,,{\be1}Nie mogę, bo my wczoraj...
+Dialogue: 0,0:05:32.82,0:05:33.94,Default,,0,0,0,,{\be1}Co wczoraj?
+Dialogue: 0,0:05:35.46,0:05:37.15,Default,,0,0,0,,{\be1}Sorry, Kaito!
+Dialogue: 0,0:05:37.93,0:05:39.11,Default,,0,0,0,,{\be1}Takumi!
+Dialogue: 0,0:05:39.98,0:05:41.20,Default,,0,0,0,,{\be1}O co mu chodziło?
+Dialogue: 0,0:05:48.53,0:05:52.67,Default,,0,0,0,,{\be1}Dziwne, miała być w domu.
+Dialogue: 0,0:05:58.51,0:06:00.59,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:06:09.44,0:06:10.68,Default,,0,0,0,,{\be1}To ona?
+Dialogue: 0,0:06:29.85,0:06:33.09,Default,,0,0,0,,{\be1}Wszedł głęboko.
+Dialogue: 0,0:06:37.38,0:06:41.75,Default,,0,0,0,,{\be1}Dlaczego jestem taka podniecona?
+Dialogue: 0,0:06:49.36,0:06:52.81,Default,,0,0,0,,{\be1}Takumi dotyka moje piersi.
+Dialogue: 0,0:07:01.54,0:07:07.46,Default,,0,0,0,,{\be1}Takumi, dotykaj ich.\NBierz mnie mocniej.
+Dialogue: 0,0:07:15.16,0:07:16.45,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:07:19.36,0:07:21.73,Default,,0,0,0,,{\be1}Takumi, ale masz dużego.
+Dialogue: 0,0:07:23.03,0:07:26.12,Default,,0,0,0,,{\be1}Jest większy niż twojego ojca.
+Dialogue: 0,0:07:26.12,0:07:30.97,Default,,0,0,0,,{\be1}Nie powinniśmy tego robić.
+Dialogue: 0,0:07:30.97,0:07:37.07,Default,,0,0,0,,{\be1}Gdyby twój ojciec częściej mnie pieprzył\Nto nie musielibyśmy tego robić.
+Dialogue: 0,0:07:38.06,0:07:44.35,Default,,0,0,0,,{\be1}Nie chcę tej zabawki,\Nwolę twojego twardego kutasa, Takumi.
+Dialogue: 0,0:08:00.70,0:08:01.54,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:08:05.90,0:08:07.01,Default (i),,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:08:10.55,0:08:12.05,Default,,0,0,0,,{\be1}Takumi?
+Dialogue: 0,0:08:14.48,0:08:17.77,Default,,0,0,0,,{\be1}To ty, Takumi?
+Dialogue: 0,0:08:18.74,0:08:20.27,Default (i),,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:08:20.99,0:08:24.98,Default,,0,0,0,,{\be1}Było powiedzieć, że wróciłeś.
+Dialogue: 0,0:08:24.98,0:08:28.42,Default,,0,0,0,,{\be1}Niegrzeczny chłopczyk, podglądałeś mamę.
+Dialogue: 0,0:08:33.03,0:08:39.05,Default,,0,0,0,,{\be1}Przepraszam za wczoraj,\Nale trzepałeś do porno.
+Dialogue: 0,0:08:39.79,0:08:46.64,Default,,0,0,0,,{\be1}Jeżeli będziesz chciał się spuścić to ci pomogę.
+Dialogue: 0,0:08:48.05,0:08:53.69,Default (i),,0,0,0,,{\be1}Nie ma na sobie okularów\Ni myśli, że jestem Takumim.
+Dialogue: 0,0:08:53.69,0:08:56.02,Default (i),,0,0,0,,{\be1}Jak tak dalej pójdzie...
+Dialogue: 0,0:08:56.58,0:09:02.66,Default (i),,0,0,0,,{\be1}Cholerny Takumi!\NJuż wiem, dlaczego dziwnie się zachowywał.
+Dialogue: 0,0:09:06.23,0:09:10.78,Default,,0,0,0,,{\be1}Ale twardy i większy niż wczoraj.
+Dialogue: 0,0:09:12.81,0:09:14.56,Default (i),,0,0,0,,{\be1}Niezła jest.
+Dialogue: 0,0:09:18.55,0:09:20.50,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:09:21.58,0:09:23.50,Default (i),,0,0,0,,{\be1}Jeszcze się pytasz?
+Dialogue: 0,0:09:26.02,0:09:28.51,Default,,0,0,0,,{\be1}Jestem już mokra.
+Dialogue: 0,0:09:28.51,0:09:33.18,Default,,0,0,0,,{\be1}Możesz mi go od razu włożyć w cipkę.
+Dialogue: 0,0:09:40.37,0:09:43.04,Default,,0,0,0,,{\be1}Twój kutas wszedł we mnie!
+Dialogue: 0,0:09:44.73,0:09:45.90,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:09:48.65,0:09:56.53,Default (i),,0,0,0,,{\be1}- Jest bardzo ciasna! Cudownie!\N{\i0}- Tak!
+Dialogue: 0,0:10:00.50,0:10:05.17,Default,,0,0,0,,{\be1}Dobrze ci idzie.\NWkładasz go bardzo głęboko.
+Dialogue: 0,0:10:05.66,0:10:10.63,Default,,0,0,0,,{\be1}Mocniej! Chcę cię mocniej poczuć!
+Dialogue: 0,0:10:12.23,0:10:17.18,Default,,0,0,0,,{\be1}Jesteś cudowny!\NDosięgasz naprawdę głębokich miejsc!
+Dialogue: 0,0:10:17.18,0:10:22.33,Default (i),,0,0,0,,{\be1}Nie wierzę, że pieprzę matkę kumpla.\NNa dodatek zrobiłem to wczoraj ze swoją matką.
+Dialogue: 0,0:10:22.78,0:10:23.77,Default,,0,0,0,,{\be1}Mamo!
+Dialogue: 0,0:10:24.31,0:10:32.11,Default,,0,0,0,,{\be1}jak będzie tak mocno mnie pieprzyć\Ni ściskać mi piersi to nie wytrzymam!
+Dialogue: 0,0:10:39.19,0:10:41.36,Default,,0,0,0,,{\be1}Teraz od przodu.
+Dialogue: 0,0:10:42.73,0:10:48.27,Default,,0,0,0,,{\be1}Tak! Mocniej!
+Dialogue: 0,0:10:51.41,0:10:53.20,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:10:55.11,0:10:59.60,Default,,0,0,0,,{\be1}To nie fair, że tylko ty mnie widzisz.
+Dialogue: 0,0:11:00.88,0:11:04.85,Default,,0,0,0,,{\be1}Chcę widzieć jak się mną rozkoszujesz.
+Dialogue: 0,0:11:08.77,0:11:12.39,Default,,0,0,0,,{\be1}Co robisz?!\NOdsuń się ode mnie!
+Dialogue: 0,0:11:14.36,0:11:17.47,Default,,0,0,0,,{\be1}No przecież chciałaś mojego kutasa.
+Dialogue: 0,0:11:17.47,0:11:18.95,Default,,0,0,0,,{\be1}Nic takiego nie powiedziałam!
+Dialogue: 0,0:11:21.34,0:11:24.00,Default,,0,0,0,,{\be1}Myślisz, że wywiniesz się z tego?
+Dialogue: 0,0:11:25.41,0:11:28.72,Default,,0,0,0,,{\be1}Nie ssij tak mocno!
+Dialogue: 0,0:11:30.17,0:11:33.46,Default,,0,0,0,,{\be1}Jak dobrze! Przestań!
+Dialogue: 0,0:11:34.28,0:11:36.42,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:11:37.02,0:11:39.22,Default,,0,0,0,,{\be1}Dochodzisz już?
+Dialogue: 0,0:11:39.22,0:11:42.42,Default,,0,0,0,,{\be1}- Nie krępuj się!\N- To nie może być prawda!
+Dialogue: 0,0:11:45.69,0:11:48.97,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:11:52.70,0:11:53.57,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:11:59.88,0:12:03.95,Default,,0,0,0,,{\be1}Spuściłeś się we mnie...
+Dialogue: 0,0:12:18.49,0:12:23.72,Default,,0,0,0,,{\be1}Kaito, kąpiel gotowa, idź pierwszy.
+Dialogue: 0,0:12:24.43,0:12:28.44,Default,,0,0,0,,{\be1}Wykąpię się przed snem, ty idź pierwsza.
+Dialogue: 0,0:12:28.44,0:12:30.69,Default,,0,0,0,,{\be1}Mogę poczekać.
+Dialogue: 0,0:12:31.14,0:12:35.44,Default,,0,0,0,,{\be1}Zawsze kąpiesz się ostatnia,\Ntym razem idź pierwsza.
+Dialogue: 0,0:12:36.14,0:12:37.62,Default,,0,0,0,,{\be1}Kaito.
+Dialogue: 0,0:12:38.35,0:12:40.15,Default,,0,0,0,,{\be1}Próbujesz być miły?
+Dialogue: 0,0:12:41.55,0:12:45.70,Default,,0,0,0,,{\be1}Nie, po prostu tak chcę.
+Dialogue: 0,0:12:46.42,0:12:51.88,Default,,0,0,0,,{\be1}Dobra, skorzystam z propozycji.
+Dialogue: 0,0:12:58.53,0:13:03.19,Default (i),,0,0,0,,{\be1}Ojciec wyjechał i zostaliśmy sami.
+Dialogue: 0,0:13:21.06,0:13:23.65,Default (i),,0,0,0,,{\be1}Zostałam tylko z Kaito.
+Dialogue: 0,0:13:25.13,0:13:27.78,Default (i),,0,0,0,,{\be1}Chikara...
+Dialogue: 0,0:13:29.93,0:13:31.30,Default,,0,0,0,,{\be1}Kaito?
+Dialogue: 0,0:13:37.24,0:13:40.51,Default,,0,0,0,,{\be1}Mamo, wykąpmy się razem.
+Dialogue: 0,0:13:43.81,0:13:45.65,Default,,0,0,0,,{\be1}Pomogę ci.
+Dialogue: 0,0:13:45.65,0:13:46.72,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:13:47.88,0:13:49.84,Default,,0,0,0,,{\be1}Masz duże piersi.
+Dialogue: 0,0:13:53.39,0:13:58.73,Default,,0,0,0,,{\be1}Nawet jeśli ojciec się dowie,\Nto powiem, że zmusiłem cię do tego.
+Dialogue: 0,0:13:58.73,0:14:02.66,Default,,0,0,0,,{\be1}Nie możesz wziąć całej winy na siebie.
+Dialogue: 0,0:14:03.74,0:14:05.67,Default,,0,0,0,,{\be1}Ale chcę.
+Dialogue: 0,0:14:05.67,0:14:08.44,Default,,0,0,0,,{\be1}Zmusiłem cię do tego, więc to moja wina.
+Dialogue: 0,0:14:08.44,0:14:09.84,Default,,0,0,0,,{\be1}Kaito!
+Dialogue: 0,0:14:10.54,0:14:13.40,Default,,0,0,0,,{\be1}Sutki i łechtaczka twardnieją ci.
+Dialogue: 0,0:14:13.40,0:14:17.30,Default,,0,0,0,,{\be1}Nie! Nie tam!
+Dialogue: 0,0:14:17.81,0:14:22.35,Default,,0,0,0,,{\be1}Nie dotykaj mnie tam!
+Dialogue: 0,0:14:22.35,0:14:25.45,Default,,0,0,0,,{\be1}Twoje palce wchodzą we mnie!
+Dialogue: 0,0:14:26.72,0:14:31.86,Default,,0,0,0,,{\be1}Kaito, nie możesz,\Nprzestań ruszać palcami!
+Dialogue: 0,0:14:31.86,0:14:33.44,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:14:34.27,0:14:36.97,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:14:36.97,0:14:39.27,Default,,0,0,0,,{\be1}Nie, robi mi się przyjemnie!
+Dialogue: 0,0:14:40.20,0:14:43.04,Default,,0,0,0,,{\be1}Nie dotykaj mnie tam!
+Dialogue: 0,0:14:52.18,0:14:58.11,Default,,0,0,0,,{\be1}Mamo, chcę już go włożyć, mogę?
+Dialogue: 0,0:15:00.55,0:15:02.52,Default,,0,0,0,,{\be1}To wkładam.
+Dialogue: 0,0:15:04.05,0:15:06.83,Default,,0,0,0,,{\be1}Nie w takiej pozycji.
+Dialogue: 0,0:15:06.83,0:15:10.08,Default,,0,0,0,,{\be1}Nie martw się, będę cię trzymał.
+Dialogue: 0,0:15:10.08,0:15:11.72,Default,,0,0,0,,{\be1}Wchodzi!
+Dialogue: 0,0:15:13.23,0:15:14.70,Default,,0,0,0,,{\be1}Co wchodzi?
+Dialogue: 0,0:15:14.70,0:15:17.20,Default,,0,0,0,,{\be1}Nie powiem tego!
+Dialogue: 0,0:15:17.20,0:15:20.36,Default,,0,0,0,,{\be1}Dlaczego?\NPowiedz to.
+Dialogue: 0,0:15:20.36,0:15:25.24,Default,,0,0,0,,{\be1}Nie drażnij się ze mną.
+Dialogue: 0,0:15:25.59,0:15:27.44,Default,,0,0,0,,{\be1}Powiedz albo...
+Dialogue: 0,0:15:38.36,0:15:42.19,Default,,0,0,0,,{\be1}Ale głęboko wchodzi.
+Dialogue: 0,0:15:46.37,0:15:50.63,Default,,0,0,0,,{\be1}Ta pozycja jest zawstydzająca, ale...
+Dialogue: 0,0:15:51.68,0:15:55.10,Default,,0,0,0,,{\be1}I tak ci przyjemnie, prawda?
+Dialogue: 0,0:15:55.68,0:15:58.53,Default,,0,0,0,,{\be1}Nie mów tego!
+Dialogue: 0,0:15:59.52,0:16:04.38,Default,,0,0,0,,{\be1}Jeśli nie przestaniesz\Nto uzależnię się od ciebie!
+Dialogue: 0,0:16:05.11,0:16:07.19,Default,,0,0,0,,{\be1}To źle?
+Dialogue: 0,0:16:07.19,0:16:12.12,Default,,0,0,0,,{\be1}Uzależnijmy się od siebie nawzajem.
+Dialogue: 0,0:16:12.50,0:16:17.21,Default,,0,0,0,,{\be1}Nie mogę, jesteś moim synem!
+Dialogue: 0,0:16:18.13,0:16:24.82,Default,,0,0,0,,{\be1}Jesteś dla mnie jedyną kobietą,\Nkocham tylko ciebie!
+Dialogue: 0,0:16:26.71,0:16:27.74,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:16:27.74,0:16:31.14,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:16:31.78,0:16:33.45,Default,,0,0,0,,{\be1}Spuszczę się w tobie!
+Dialogue: 0,0:16:34.14,0:16:39.52,Default,,0,0,0,,{\be1}Nie możesz!\NJeszcze zajdę w ciążę, proszę!
+Dialogue: 0,0:16:39.52,0:16:41.12,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:16:46.87,0:16:49.65,Default,,0,0,0,,{\be1}Jak dużo spermy.
+Dialogue: 0,0:16:50.15,0:16:51.32,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:16:53.37,0:16:55.17,Default (i),,0,0,0,,{\be1}Kaito.
+Dialogue: 0,0:17:04.48,0:17:06.11,Default,,0,0,0,,{\be1}Chikara.
+Dialogue: 0,0:17:17.36,0:17:19.28,Default,,0,0,0,,{\be1}Mamo, śpisz?
+Dialogue: 0,0:17:21.14,0:17:28.19,Default,,0,0,0,,{\be1}Kaito? Nie wchodź!\NNigdy więcej nie możemy tego zrobić!
+Dialogue: 0,0:17:28.55,0:17:32.49,Default,,0,0,0,,{\be1}Nie martw się, nie przyszedłem po to.
+Dialogue: 0,0:17:33.27,0:17:35.96,Default,,0,0,0,,{\be1}Chciałem tylko porozmawiać.
+Dialogue: 0,0:17:38.01,0:17:43.05,Default,,0,0,0,,{\be1}Nie kłamałem, naprawdę cię kocham.
+Dialogue: 0,0:17:43.05,0:17:51.38,Default,,0,0,0,,{\be1}Dlaczego ja?\NPrzecież możesz poznać dużo ładniejsze dziewczyny.
+Dialogue: 0,0:17:51.99,0:17:56.23,Default,,0,0,0,,{\be1}Być może, ale pragnę tylko ciebie!
+Dialogue: 0,0:17:57.47,0:18:00.39,Default,,0,0,0,,{\be1}Mamo, ty też masz tylko mnie!
+Dialogue: 0,0:18:00.76,0:18:04.40,Default,,0,0,0,,{\be1}O czym ty mówisz?\NPrzecież jest jeszcze Chikara.
+Dialogue: 0,0:18:04.72,0:18:07.90,Default,,0,0,0,,{\be1}Ojciec może już nie wrócić.
+Dialogue: 0,0:18:08.54,0:18:14.91,Default,,0,0,0,,{\be1}On cię zdradza, widziałem jak\Nwchodził do hotelu z kobietą!
+Dialogue: 0,0:18:16.15,0:18:19.30,Default (i),,0,0,0,,{\be1}Chikara mnie zdradza?
+Dialogue: 0,0:18:26.49,0:18:28.25,Default,,0,0,0,,{\be1}Kaito!
+Dialogue: 0,0:18:34.97,0:18:37.59,Default (i),,0,0,0,,{\be1}Dobrze, że tak to się potoczyło.
+Dialogue: 0,0:18:53.12,0:18:59.83,Default,,0,0,0,,{\be1}Dziękuję, że się o mnie martwisz,\Nale domyślałam się, że tak jest.
+Dialogue: 0,0:18:59.83,0:19:03.40,Default,,0,0,0,,{\be1}Chikara już dawno\Nprzestał okazywać mi uczucia.
+Dialogue: 0,0:19:03.40,0:19:10.34,Default,,0,0,0,,{\be1}Jestem złą matką\Ni tylko w ten sposób mogę ci się odwdzięczyć.
+Dialogue: 0,0:19:10.34,0:19:12.45,Default,,0,0,0,,{\be1}Kaito, kocham cię.
+Dialogue: 0,0:19:25.69,0:19:30.09,Default,,0,0,0,,{\be1}Aż dziwne, że podnieca mnie to.
+Dialogue: 0,0:19:44.17,0:19:45.58,Default,,0,0,0,,{\be1}Mamo!
+Dialogue: 0,0:19:46.41,0:19:49.64,Default,,0,0,0,,{\be1}Kaito, ja tylko...
+Dialogue: 0,0:19:49.64,0:19:54.38,Default,,0,0,0,,{\be1}Cieszę się, że wybrałaś mnie.
+Dialogue: 0,0:19:54.38,0:19:56.84,Default,,0,0,0,,{\be1}Jesteś pewien, że chcesz taką matkę?
+Dialogue: 0,0:19:57.85,0:19:59.34,Default,,0,0,0,,{\be1}Chcę tylko ciebie.
+Dialogue: 0,0:20:00.05,0:20:04.34,Default,,0,0,0,,{\be1}No dobrze.\NZ chęcią uzależnię się od ciebie.
+Dialogue: 0,0:20:22.66,0:20:27.42,Default,,0,0,0,,{\be1}Tak! W tyłku też jest mi przyjemnie!
+Dialogue: 0,0:20:27.42,0:20:34.36,Default,,0,0,0,,{\be1}O nie, nie tak mocno, bo się posikam!
+Dialogue: 0,0:20:36.39,0:20:39.38,Default,,0,0,0,,{\be1}Nie, zaraz pocieknie!
+Dialogue: 0,0:20:46.15,0:20:51.40,Default,,0,0,0,,{\be1}Nie tak mocno, bo naprawdę zaraz się zsikam!
+Dialogue: 0,0:20:54.04,0:20:57.70,Default,,0,0,0,,{\be1}Zsikałam się.
+Dialogue: 0,0:21:00.41,0:21:03.41,Default,,0,0,0,,{\be1}Jesteś bardzo seksowna.
+Dialogue: 0,0:21:05.49,0:21:08.41,Default,,0,0,0,,{\be1}Tak mi wstyd, gdy się patrzysz.
+Dialogue: 0,0:21:09.32,0:21:10.92,Default,,0,0,0,,{\be1}Dłużej nie wytrzymam!
+Dialogue: 0,0:21:11.86,0:21:15.42,Default,,0,0,0,,{\be1}To mój pierwszy raz, więc powoli.
+Dialogue: 0,0:21:15.93,0:21:17.24,Default,,0,0,0,,{\be1}Wiem.
+Dialogue: 0,0:21:17.93,0:21:21.59,Default,,0,0,0,,{\be1}Czuję jak wchodzi!
+Dialogue: 0,0:21:22.89,0:21:25.60,Default,,0,0,0,,{\be1}Ale duży!
+Dialogue: 0,0:21:25.60,0:21:28.18,Default,,0,0,0,,{\be1}Może lepiej nie wkładać go tutaj?
+Dialogue: 0,0:21:29.02,0:21:30.35,Default,,0,0,0,,{\be1}Nic mi nie będzie.
+Dialogue: 0,0:21:31.11,0:21:33.04,Default,,0,0,0,,{\be1}Zacznij się ruszać.
+Dialogue: 0,0:21:34.87,0:21:38.49,Default,,0,0,0,,{\be1}Chcę szybciej poczuć przyjemność analu!
+Dialogue: 0,0:21:39.12,0:21:41.49,Default,,0,0,0,,{\be1}Mamo!
+Dialogue: 0,0:21:42.92,0:21:46.75,Default,,0,0,0,,{\be1}Tak, cudownie!
+Dialogue: 0,0:21:47.73,0:21:51.70,Default,,0,0,0,,{\be1}Chyba zaraz dojdę!
+Dialogue: 0,0:21:51.70,0:21:54.71,Default,,0,0,0,,{\be1}Miej tyle orgazmów, ile zapragniesz!
+Dialogue: 0,0:21:54.71,0:21:59.05,Default,,0,0,0,,{\be1}Zaraz znowu dojdę!
+Dialogue: 0,0:22:00.24,0:22:03.30,Default,,0,0,0,,{\be1}Mamo, dochodzę!
+Dialogue: 0,0:22:03.30,0:22:09.81,Default,,0,0,0,,{\be1}O nie, już dochodzę!
+Dialogue: 0,0:22:13.42,0:22:15.86,Default,,0,0,0,,{\be1}Ale mi gorąco w tyłku.
+Dialogue: 0,0:22:15.86,0:22:18.23,Default,,0,0,0,,{\be1}Sporo się spuściłem.
+Dialogue: 0,0:22:18.83,0:22:26.37,Default,,0,0,0,,{\be1}Kaito, kochaj mnie już zawsze.
+Dialogue: 0,0:22:32.54,0:22:33.84,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:22:36.98,0:22:40.78,Default,,0,0,0,,{\be1}Kaito, nigdy nie pozwól mi odejść.
+Dialogue: 0,0:22:53.69,0:22:54.92,Default (i),,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:23:00.87,0:23:06.61,Default (i),,0,0,0,,{\be1}Od tamtego dnia minęło trochę czasu,\Na my nadal jesteśmy razem.
+Dialogue: 0,0:23:06.61,0:23:08.12,Default,,0,0,0,,{\be1}Wychodzę.
+Dialogue: 0,0:23:09.71,0:23:16.38,Default (i),,0,0,0,,{\be1}Nie wiem czy ojciec nadal zdradza mamę\Ni szczerze mam to gdzieś.
+Dialogue: 0,0:23:19.92,0:23:21.09,Default,,0,0,0,,{\be1}Kaito.
+Dialogue: 0,0:23:21.89,0:23:25.23,Default,,0,0,0,,{\be1}Mamo, to moje dziecko, prawda?
+Dialogue: 0,0:23:25.23,0:23:29.46,Default,,0,0,0,,{\be1}Nie wiem, Chikara też się starał.
+Dialogue: 0,0:23:29.46,0:23:33.75,Default,,0,0,0,,{\be1}Mamo, nie mów o nim przy mnie.
+Dialogue: 0,0:23:37.45,0:23:40.01,Default,,0,0,0,,{\be1}Nie tutaj.
+Dialogue: 0,0:23:42.54,0:23:47.45,Default (i),,0,0,0,,{\be1}Sayo zawsze będzie dla mnie jak matka.
+Dialogue: 0,0:23:47.45,0:23:49.66,Default (i),,0,0,0,,{\be1}Ojciec więcej jej nie dostanie.

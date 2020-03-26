@@ -1,0 +1,320 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.0 Build536  Sep 27 2016  18:57:22
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 63
+Last Style Storage: Default
+Video File: Ninja Vol 1_T01 23.mkv
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,80,&H00FFFFFF,&H000000FF,&HFF000000,&H64F0F0F0,-1,0,0,0,100,100,0,0,1,0.1,3,1,60,20,40,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.65,0:00:11.66,Grupa,,0,0,0,,{\be1\fad(1000,1000)}Nyan
+Dialogue: 0,0:00:19.33,0:00:26.13,Tytul,,0,0,0,,{\be1\fad(1691,0)}Zemsta
+Dialogue: 0,0:00:53.07,0:00:55.40,Default,,0,0,0,,{\be1}Nie zniosę tego!
+Dialogue: 0,0:00:55.40,0:00:57.66,Default,,0,0,0,,{\be1}Coś taka wkurzona?
+Dialogue: 0,0:00:57.94,0:01:03.19,Default,,0,0,0,,{\be1}Jakiś typ przywalił się do mnie w pociągu\Ni powiedział, że ciągle się na niego gapiłam.
+Dialogue: 0,0:01:04.09,0:01:05.42,Default,,0,0,0,,{\be1}Zasrany debil!
+Dialogue: 0,0:01:06.43,0:01:08.24,Default,,0,0,0,,{\be1}A jaki był?
+Dialogue: 0,0:01:08.24,0:01:10.43,Default,,0,0,0,,{\be1}Nieprzyjemny i bez pewności siebie.
+Dialogue: 0,0:01:10.71,0:01:16.73,Default,,0,0,0,,{\be1}Jeśli był przystojny to było nie wybrzydzać,\Njesteśmy już w drugiej klasie.
+Dialogue: 0,0:01:16.73,0:01:19.43,Default,,0,0,0,,{\be1}Nie chcę żadnego playboya.
+Dialogue: 0,0:01:20.40,0:01:22.91,Default,,0,0,0,,{\be1}Co mu odpowiedziałaś?
+Dialogue: 0,0:01:22.91,0:01:25.18,Default,,0,0,0,,{\be1}Nic.
+Dialogue: 0,0:01:25.18,0:01:28.29,Default,,0,0,0,,{\be1}Pewnie wzrokiem go wystraszyłaś.
+Dialogue: 0,0:01:29.45,0:01:32.66,Default,,0,0,0,,{\be1}Dałam mu porządnego kopa!
+Dialogue: 0,0:01:33.29,0:01:35.70,Default,,0,0,0,,{\be1}No nie wierzę.
+Dialogue: 0,0:01:36.04,0:01:42.22,Default,,0,0,0,,{\be1}Miał pecha, że spotkał ciebie,\Ngdybym ja tam była...
+Dialogue: 0,0:01:42.22,0:01:48.91,Default,,0,0,0,,{\be1}Jesteśmy uczniami Iga,\Nnie możemy robić głupstw.
+Dialogue: 0,0:01:52.23,0:01:54.39,Default,,0,0,0,,{\be1}A co powiecie o tamtym?
+Dialogue: 0,0:01:55.36,0:01:57.42,Default,,0,0,0,,{\be1}Siedzą tam razem.
+Dialogue: 0,0:01:57.42,0:01:59.88,Default,,0,0,0,,{\be1}Jest w moim typie.
+Dialogue: 0,0:01:59.88,0:02:01.75,Default,,0,0,0,,{\be1}Tamten z prawej, nie?
+Dialogue: 0,0:02:01.75,0:02:03.74,Default,,0,0,0,,{\be1}Skąd wiedziałaś?
+Dialogue: 0,0:02:03.74,0:02:06.32,Default,,0,0,0,,{\be1}Bo zawsze lecisz na przystojnych.
+Dialogue: 0,0:02:06.32,0:02:08.37,Default,,0,0,0,,{\be1}Masz kiepski gust.
+Dialogue: 0,0:02:21.02,0:02:21.84,Default,,0,0,0,,{\be1}Widziałyście?
+Dialogue: 0,0:02:21.84,0:02:22.77,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:02:23.42,0:02:24.17,Default,,0,0,0,,{\be1}Co myślicie?
+Dialogue: 0,0:02:24.60,0:02:25.67,Default,,0,0,0,,{\be1}A te mundurki?
+Dialogue: 0,0:02:26.02,0:02:27.63,Default,,0,0,0,,{\be1}Nie są stąd.
+Dialogue: 0,0:02:27.63,0:02:33.63,Default,,0,0,0,,{\be1}Czyżby to była telekineza?
+Dialogue: 0,0:02:34.62,0:02:36.68,Default,,0,0,0,,{\be1}Ktoś taki mógłby być...
+Dialogue: 0,0:02:36.68,0:02:38.52,Default,,0,0,0,,{\be1}Z Kouga, prawda?
+Dialogue: 0,0:02:38.52,0:02:41.18,Default,,0,0,0,,{\be1}Mówcie ciszej.
+Dialogue: 0,0:02:41.18,0:02:43.35,Default,,0,0,0,,{\be1}Ale oni są nimi, nie?
+Dialogue: 0,0:02:43.35,0:02:44.74,Default,,0,0,0,,{\be1}Lena, a ty co myślisz?
+Dialogue: 0,0:02:44.74,0:02:45.69,Default,,0,0,0,,{\be1}Raczej tak.
+Dialogue: 0,0:02:46.17,0:02:49.24,Default,,0,0,0,,{\be1}No właśnie, a widziałyście jak na nas spojrzał?
+Dialogue: 0,0:02:49.24,0:02:51.69,Default,,0,0,0,,{\be1}Jeśli to prawda, to ciekawe co kombinują?
+Dialogue: 0,0:02:52.06,0:02:55.57,Default,,0,0,0,,{\be1}Nie wiedzą kim jesteśmy, mamy szansę.
+Dialogue: 0,0:02:55.57,0:02:57.41,Default,,0,0,0,,{\be1}Nie lekceważ ich.
+Dialogue: 0,0:03:38.59,0:03:40.03,Default,,0,0,0,,{\be1}Bolą mnie nogi.
+Dialogue: 0,0:03:40.97,0:03:43.01,Default,,0,0,0,,{\be1}Męczące to, nie?
+Dialogue: 0,0:03:43.01,0:03:44.69,Default,,0,0,0,,{\be1}I trudne.
+Dialogue: 0,0:03:44.69,0:03:46.92,Default,,0,0,0,,{\be1}Masz mokry strój.
+Dialogue: 0,0:03:47.63,0:03:49.21,Default,,0,0,0,,{\be1}Bo gorąco mi.
+Dialogue: 0,0:03:49.21,0:03:53.76,Default,,0,0,0,,{\be1}Wolałabym się uczyć sztuki ognia\Nzamiast męczyć podstawy.
+Dialogue: 0,0:03:55.02,0:03:58.30,Default,,0,0,0,,{\be1}Tego nauczymy się w trzeciej klasie.
+Dialogue: 0,0:03:59.41,0:04:01.66,Default,,0,0,0,,{\be1}Tylko ciężkim treningiem...
+Dialogue: 0,0:04:01.66,0:04:03.01,Default,,0,0,0,,{\be1}Zboczucha!
+Dialogue: 0,0:04:03.93,0:04:07.35,Default,,0,0,0,,{\be1}Nie musisz truć jak nauczycielka.
+Dialogue: 0,0:04:16.06,0:04:17.53,Default,,0,0,0,,{\be1}Ayi nie było.
+Dialogue: 0,0:04:18.14,0:04:21.15,Default,,0,0,0,,{\be1}Ona zawsze odpuszcza podstawowy trening.
+Dialogue: 0,0:04:21.15,0:04:26.04,Default,,0,0,0,,{\be1}Okres to dostaje 5 razy w miesiącu.
+Dialogue: 0,0:04:26.04,0:04:27.70,Default,,0,0,0,,{\be1}Oby nic jej nie było.
+Dialogue: 0,0:04:27.70,0:04:29.35,Default,,0,0,0,,{\be1}Czemu tak mówisz?
+Dialogue: 0,0:04:29.35,0:04:30.66,Default,,0,0,0,,{\be1}Chodzi o tamtych Kouga.
+Dialogue: 0,0:04:30.66,0:04:33.35,Default,,0,0,0,,{\be1}Martwisz się, że pokonali Ayę?
+Dialogue: 0,0:04:34.41,0:04:37.05,Default,,0,0,0,,{\be1}Zgłupiałaś? Nie ma mowy.
+Dialogue: 0,0:04:39.77,0:04:40.76,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:04:40.76,0:04:42.55,Default,,0,0,0,,{\be1}Aya!
+Dialogue: 0,0:05:10.24,0:05:13.76,Default,,0,0,0,,{\be1}To z pewnością robota Kouga.
+Dialogue: 0,0:05:41.76,0:05:44.28,Default,,0,0,0,,{\be1}Jakie mundurki mieli na sobie?
+Dialogue: 0,0:05:44.74,0:05:47.71,Default,,0,0,0,,{\be1}Wyglądały jak te z szkoły K.P.
+Dialogue: 0,0:05:47.71,0:05:50.29,Default,,0,0,0,,{\be1}To placówka Kouga?
+Dialogue: 0,0:05:50.29,0:05:54.79,Default,,0,0,0,,{\be1}Kouga zachowują tajność\Nponad wszystko, ale to całkiem możliwe.
+Dialogue: 0,0:05:55.38,0:05:58.05,Default,,0,0,0,,{\be1}Więc chodźmy tam i zniszczmy ich!
+Dialogue: 0,0:05:58.60,0:06:04.16,Default,,0,0,0,,{\be1}Cała nasza szkoła nie dałaby rady im 10.
+Dialogue: 0,0:06:05.87,0:06:10.68,Default,,0,0,0,,{\be1}To po co codziennie trenujemy?!
+Dialogue: 0,0:06:10.68,0:06:14.66,Default,,0,0,0,,{\be1}Tak to już jest, ale ja czekałam na kogoś.
+Dialogue: 0,0:06:14.66,0:06:16.52,Default,,0,0,0,,{\be1}Na kogo?
+Dialogue: 0,0:06:17.58,0:06:24.82,Default,,0,0,0,,{\be1}Kogoś kto w pojedynkę dałby radę Kouga.
+Dialogue: 0,0:06:24.82,0:06:25.90,Default,,0,0,0,,{\be1}Sam?
+Dialogue: 0,0:06:25.90,0:06:29.87,Default,,0,0,0,,{\be1}Tak, możliwe, że ta osoba\Njeszcze nie wie o swojej sile.
+Dialogue: 0,0:06:31.27,0:06:33.84,Default,,0,0,0,,{\be1}Można być aż tak silnym?
+Dialogue: 0,0:06:33.84,0:06:35.29,Default,,0,0,0,,{\be1}Aya jest silna.
+Dialogue: 0,0:06:35.87,0:06:38.30,Default,,0,0,0,,{\be1}Ale i tak przegrała.
+Dialogue: 0,0:06:38.77,0:06:44.30,Default,,0,0,0,,{\be1}Czy ta osoba ujawni się czy nie,\Nto zdecyduje o losie Iga.
+Dialogue: 0,0:06:44.66,0:06:50.71,Default,,0,0,0,,{\be1}Na razie uważajcie na siebie,\Nna pewno będziecie następnym celem.
+Dialogue: 0,0:06:50.71,0:06:51.52,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:06:58.87,0:07:00.24,Default,,0,0,0,,{\be1}Co robimy?
+Dialogue: 0,0:07:00.24,0:07:03.03,Default,,0,0,0,,{\be1}Niech na razie odpocznie.
+Dialogue: 0,0:07:21.42,0:07:27.28,Default,,0,0,0,,{\be1}Skoro Aya tak skończyła,\Nto ja też przegram.
+Dialogue: 0,0:07:28.14,0:07:32.81,Default,,0,0,0,,{\be1}Możliwe, ale nie martw się tym,\Njesteś silniejsza od Ayi.
+Dialogue: 0,0:07:33.80,0:07:37.18,Default,,0,0,0,,{\be1}Jeśli czegoś nie zrobimy, to zabiją nas.
+Dialogue: 0,0:07:37.18,0:07:40.56,Default,,0,0,0,,{\be1}Nigdy nie będę silna i nic na to nie poradzę.
+Dialogue: 0,0:07:40.97,0:07:44.82,Default,,0,0,0,,{\be1}Jesteś słaba, bo nigdy się nie starasz.
+Dialogue: 0,0:07:44.82,0:07:46.76,Default,,0,0,0,,{\be1}Łatwo ci mówić.
+Dialogue: 0,0:07:46.76,0:07:48.64,Default,,0,0,0,,{\be1}Ja cię wytrenuję.
+Dialogue: 0,0:07:51.36,0:07:52.98,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:07:52.98,0:07:54.04,Default,,0,0,0,,{\be1}Trenuję cię.
+Dialogue: 0,0:07:58.98,0:08:00.20,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:00.20,0:08:02.10,Default,,0,0,0,,{\be1}Powtarzamy dzisiejszą lekcję.
+Dialogue: 0,0:08:02.10,0:08:06.01,Default,,0,0,0,,{\be1}Nie! Gdzie pchasz łapska?!
+Dialogue: 0,0:08:06.01,0:08:09.26,Default,,0,0,0,,{\be1}A jak myślisz co chcę zrobić?
+Dialogue: 0,0:08:09.26,0:08:13.09,Default,,0,0,0,,{\be1}Zboczucha!
+Dialogue: 0,0:08:13.09,0:08:15.02,Default,,0,0,0,,{\be1}Wyluzuj trochę.
+Dialogue: 0,0:08:16.52,0:08:17.86,Default,,0,0,0,,{\be1}Shinobu.
+Dialogue: 0,0:08:19.80,0:08:21.39,Default,,0,0,0,,{\be1}To ze szkoły.
+Dialogue: 0,0:08:21.39,0:08:22.52,Default,,0,0,0,,{\be1}Idziemy!
+Dialogue: 0,0:08:23.62,0:08:25.17,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:08:26.87,0:08:28.68,Default,,0,0,0,,{\be1}To pewnie z gabinetu lekarskiego.
+Dialogue: 0,0:08:29.27,0:08:32.11,Default,,0,0,0,,{\be1}No właśnie, coś mogło się stać Ayi!
+Dialogue: 0,0:08:36.14,0:08:39.75,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:08:45.35,0:08:46.51,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:08:50.80,0:08:52.31,Default,,0,0,0,,{\be1}Zostaw mnie!
+Dialogue: 0,0:08:58.15,0:09:00.56,Default,,0,0,0,,{\be1}Oni krwawią!
+Dialogue: 0,0:09:01.04,0:09:05.30,Default,,0,0,0,,{\be1}O czym ty mówisz?\NPrzecież oni się pieprzą!
+Dialogue: 0,0:09:05.30,0:09:07.89,Default,,0,0,0,,{\be1}Aya, przestań!
+Dialogue: 0,0:09:08.45,0:09:09.27,Default,,0,0,0,,{\be1}Pani dyrektor!
+Dialogue: 0,0:09:09.27,0:09:11.07,Default,,0,0,0,,{\be1}Odsuńcie się.
+Dialogue: 0,0:09:19.67,0:09:22.29,Default,,0,0,0,,{\be1}Nie martwcie się, jest tylko nieprzytomna.
+Dialogue: 0,0:09:23.04,0:09:25.00,Default,,0,0,0,,{\be1}Pieprzona ździra!
+Dialogue: 0,0:09:25.80,0:09:27.82,Default,,0,0,0,,{\be1}Co tu się stało?!
+Dialogue: 0,0:09:28.92,0:09:37.43,Default,,0,0,0,,{\be1}Usłyszałem jakiś hałas i chciałem zobaczyć\Nco się dzieje, a ona się rzuciła na mnie!
+Dialogue: 0,0:09:38.00,0:09:39.93,Default,,0,0,0,,{\be1}Precz stąd, zboczeńcu!
+Dialogue: 0,0:09:41.40,0:09:44.36,Default,,0,0,0,,{\be1}Co się stało Ayi?
+Dialogue: 0,0:09:47.11,0:09:50.39,Default,,0,0,0,,{\be1}Patrzcie, to pasożyt.
+Dialogue: 0,0:09:50.39,0:09:51.98,Default,,0,0,0,,{\be1}Pasożyt?
+Dialogue: 0,0:09:51.98,0:09:54.06,Default,,0,0,0,,{\be1}Żyje w Ayi.
+Dialogue: 0,0:09:54.06,0:09:55.70,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:09:55.70,0:09:59.99,Default,,0,0,0,,{\be1}Rośnie w niej i kontroluje jej żądze.
+Dialogue: 0,0:10:00.60,0:10:01.97,Default,,0,0,0,,{\be1}Niech go pani wyjmie!
+Dialogue: 0,0:10:01.97,0:10:04.67,Default,,0,0,0,,{\be1}Nie mogę, jest za duży.
+Dialogue: 0,0:10:04.67,0:10:06.00,Default,,0,0,0,,{\be1}Co teraz będzie z Ayą?
+Dialogue: 0,0:10:06.28,0:10:10.42,Default,,0,0,0,,{\be1}Jak tylko urośnie jeszcze trochę,\Nzje jej organy wewnętrzne.
+Dialogue: 0,0:10:11.90,0:10:12.85,Default,,0,0,0,,{\be1}Więc...
+Dialogue: 0,0:10:12.85,0:10:17.15,Default,,0,0,0,,{\be1}Za późno zauważyłam pasożyta.
+Dialogue: 0,0:10:18.43,0:10:21.93,Default,,0,0,0,,{\be1}Aya!
+Dialogue: 0,0:10:58.76,0:11:04.10,Default,,0,0,0,,{\be1}Lena, przez ciebie nie mogę spać.
+Dialogue: 0,0:11:04.10,0:11:06.48,Default,,0,0,0,,{\be1}Od kiedy jesteś taka zboczona?
+Dialogue: 0,0:11:10.38,0:11:12.87,Default,,0,0,0,,{\be1}Lena, nie możesz spać?
+Dialogue: 0,0:11:12.87,0:11:16.79,Default,,0,0,0,,{\be1}Może zabawimy się razem?
+Dialogue: 0,0:11:17.41,0:11:20.91,Default,,0,0,0,,{\be1}Rozumiem cię, jesteśmy jeszcze licealistkami.
+Dialogue: 0,0:11:20.91,0:11:28.50,Default,,0,0,0,,{\be1}Przed okresem robię się bardzo\Nnapalona, ale nie mam faceta.
+Dialogue: 0,0:11:29.24,0:11:31.42,Default,,0,0,0,,{\be1}Może się prześpimy ze sobą?
+Dialogue: 0,0:11:34.53,0:11:36.43,Default,,0,0,0,,{\be1}Zaczynam się podniecać.
+Dialogue: 0,0:11:38.80,0:11:39.97,Default,,0,0,0,,{\be1}Lena.
+Dialogue: 0,0:11:44.59,0:11:46.68,Default,,0,0,0,,{\be1}Lena, weź się w garść.
+Dialogue: 0,0:11:47.20,0:11:50.06,Default,,0,0,0,,{\be1}Nie patrz!
+Dialogue: 0,0:11:50.06,0:11:50.69,Default,,0,0,0,,{\be1}Lena!
+Dialogue: 0,0:11:53.69,0:11:57.41,Default,,0,0,0,,{\be1}Weź się w garść! Lena!
+Dialogue: 0,0:11:58.56,0:12:01.88,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:12:05.74,0:12:07.55,Default,,0,0,0,,{\be1}Mocniej! Tak!
+Dialogue: 0,0:12:09.89,0:12:12.60,Default,,0,0,0,,{\be1}Zemdlała.
+Dialogue: 0,0:12:19.67,0:12:22.20,Default,,0,0,0,,{\be1}Musimy walczyć.
+Dialogue: 0,0:12:22.20,0:12:22.68,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:12:23.27,0:12:25.68,Default,,0,0,0,,{\be1}Pamiętasz treningi?
+Dialogue: 0,0:12:26.54,0:12:30.23,Default,,0,0,0,,{\be1}To mapa szkoły K.P.
+Dialogue: 0,0:12:30.23,0:12:33.03,Default,,0,0,0,,{\be1}Możemy wejść od tyłu.
+Dialogue: 0,0:12:33.03,0:12:37.16,Default,,0,0,0,,{\be1}Uważaj na pułapki, a jak dostaniesz się do środka,\Nto znajdź gabinet dyrektora.
+Dialogue: 0,0:12:37.16,0:12:40.02,Default,,0,0,0,,{\be1}Tam powinno być antidotum.
+Dialogue: 0,0:12:40.02,0:12:43.27,Default,,0,0,0,,{\be1}Kouga trzymają mikstury i antidota blisko siebie.
+Dialogue: 0,0:12:44.62,0:12:45.44,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:12:45.44,0:12:49.21,Default,,0,0,0,,{\be1}W grupie szybko nas złapią, pójdziemy oddzielnie.
+Dialogue: 0,0:12:49.82,0:12:53.71,Default,,0,0,0,,{\be1}Jesteś najlepszą uczennicą, dasz sobie radę.
+Dialogue: 0,0:12:54.12,0:12:55.76,Default,,0,0,0,,{\be1}Dobrze, ale...
+Dialogue: 0,0:12:55.76,0:12:56.56,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:12:56.56,0:12:58.22,Default,,0,0,0,,{\be1}Co jeśli nie uda mi się?
+Dialogue: 0,0:12:58.22,0:13:02.22,Default,,0,0,0,,{\be1}Musi ci się udać albo cię zabiją.
+Dialogue: 0,0:13:02.99,0:13:04.04,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:13:15.28,0:13:19.88,Default,,0,0,0,,{\be1}To tutaj.\NWygląda jak zwykła szkoła.
+Dialogue: 0,0:13:32.62,0:13:33.96,Default,,0,0,0,,{\be1}Co to za pułapka?
+Dialogue: 0,0:13:37.86,0:13:41.47,Default,,0,0,0,,{\be1}Zastawiał ją świeżak?
+Dialogue: 0,0:13:48.03,0:13:51.23,Default,,0,0,0,,{\be1}Może to jakieś cieniasy?
+Dialogue: 0,0:13:56.40,0:14:00.45,Default (i),,0,0,0,,{\be1}Lena, zdobędę dla ciebie antidotum.
+Dialogue: 0,0:14:18.89,0:14:21.69,Default,,0,0,0,,{\be1}Szczur przyszedł powęszyć.
+Dialogue: 0,0:14:21.69,0:14:27.19,Default,,0,0,0,,{\be1}Po co się nią przejmować?\NWidać, że jest słaba.
+Dialogue: 0,0:14:27.19,0:14:29.97,Default,,0,0,0,,{\be1}Ma niezłe nogi.
+Dialogue: 0,0:14:29.97,0:14:33.67,Default,,0,0,0,,{\be1}Poprzednia była niezła,\Nale ta to dopiero niezły kąsek.
+Dialogue: 0,0:14:33.67,0:14:35.16,Default,,0,0,0,,{\be1}Chcę ją zerżnąć.
+Dialogue: 0,0:14:36.14,0:14:37.24,Default,,0,0,0,,{\be1}Wytrzymaj.
+Dialogue: 0,0:14:39.07,0:14:44.11,Default,,0,0,0,,{\be1}Dobrze, idź dalej i wpadnij w pułapkę.
+Dialogue: 0,0:14:45.15,0:14:47.62,Default,,0,0,0,,{\be1}Czaję, będzie zabawnie.
+Dialogue: 0,0:14:50.73,0:14:55.63,Default,,0,0,0,,{\be1}Co za prościzna,\Nzaraz dojdę do gabinetu dyrektora.
+Dialogue: 0,0:15:04.37,0:15:06.13,Default,,0,0,0,,{\be1}Powinien być gdzieś tutaj.
+Dialogue: 0,0:15:12.24,0:15:13.64,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:15:24.67,0:15:26.79,Default,,0,0,0,,{\be1}Niezły widok.
+Dialogue: 0,0:15:29.30,0:15:30.41,Default,,0,0,0,,{\be1}To wy!
+Dialogue: 0,0:15:31.96,0:15:33.91,Default,,0,0,0,,{\be1}Widzieliśmy się w restauracji.
+Dialogue: 0,0:15:34.25,0:15:36.92,Default,,0,0,0,,{\be1}Kurwa! To wy skrzywdziliście Ayę!
+Dialogue: 0,0:15:37.27,0:15:42.57,Default,,0,0,0,,{\be1}Nie znam żadnej Ayi.\NPamiętam za to jedną dziwkę.
+Dialogue: 0,0:15:44.49,0:15:46.42,Default,,0,0,0,,{\be1}Co z nią zrobimy?
+Dialogue: 0,0:15:54.54,0:15:57.44,Default,,0,0,0,,{\be1}Kurwa, prawie doszłam!
+Dialogue: 0,0:15:57.75,0:15:59.31,Default,,0,0,0,,{\be1}Prawie?
+Dialogue: 0,0:16:01.07,0:16:03.57,Default,,0,0,0,,{\be1}Zabawna jesteś.
+Dialogue: 0,0:16:04.42,0:16:06.95,Default,,0,0,0,,{\be1}Myślałaś, że się wśliźniesz?
+Dialogue: 0,0:16:07.73,0:16:13.24,Default,,0,0,0,,{\be1}Obserwowaliśmy każdy twój ruch i czekaliśmy.
+Dialogue: 0,0:16:14.80,0:16:18.16,Default,,0,0,0,,{\be1}Dajmy jej pasożyta.
+Dialogue: 0,0:16:18.75,0:16:22.56,Default,,0,0,0,,{\be1}Czekaj, najpierw się zabawimy.
+Dialogue: 0,0:16:26.59,0:16:27.67,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:16:27.67,0:16:32.36,Default,,0,0,0,,{\be1}Nie przestaniemy, patrz na niego.
+Dialogue: 0,0:16:32.36,0:16:36.77,Default,,0,0,0,,{\be1}Już nie mogę się doczekać, widzisz?
+Dialogue: 0,0:16:37.52,0:16:39.73,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:16:39.73,0:16:42.04,Default,,0,0,0,,{\be1}Dawaj!
+Dialogue: 0,0:16:57.74,0:16:58.79,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:17:01.67,0:17:02.79,Default,,0,0,0,,{\be1}Nie przestanę.
+Dialogue: 0,0:17:05.82,0:17:08.09,Default,,0,0,0,,{\be1}Przytrzymaj ją mocniej.
+Dialogue: 0,0:17:22.51,0:17:23.65,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:17:24.10,0:17:27.75,Default,,0,0,0,,{\be1}Kirigakure Saizo, ale wątpię, żebyś mnie znał.
+Dialogue: 0,0:17:27.75,0:17:29.65,Default,,0,0,0,,{\be1}Daj spokój.
+Dialogue: 0,0:17:30.71,0:17:31.74,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:17:33.70,0:17:36.16,Default,,0,0,0,,{\be1}Tylko spójrz na siebie.
+Dialogue: 0,0:17:36.54,0:17:37.66,Default,,0,0,0,,{\be1}Wal się!
+Dialogue: 0,0:17:38.08,0:17:41.16,Default,,0,0,0,,{\be1}Długo masz zamiar wisieć?
+Dialogue: 0,0:17:44.48,0:17:46.24,Default,,0,0,0,,{\be1}Jesteś z Iga, prawda?
+Dialogue: 0,0:17:46.97,0:17:47.80,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:17:47.80,0:17:51.17,Default,,0,0,0,,{\be1}Straszni z was słabeusze.
+Dialogue: 0,0:17:51.17,0:17:53.68,Default,,0,0,0,,{\be1}Zamknij się! A ty kto?
+Dialogue: 0,0:17:55.24,0:17:58.37,Default,,0,0,0,,{\be1}Ja? Jestem Kirigakure Saizo.
+Dialogue: 0,0:17:58.37,0:18:00.97,Default,,0,0,0,,{\be1}Kirigakure Saizo?\NPrzyszedłeś mi pomogłeś?
+Dialogue: 0,0:18:00.97,0:18:03.98,Default,,0,0,0,,{\be1}Tylko ze względu na misję.
+Dialogue: 0,0:18:04.77,0:18:07.48,Default,,0,0,0,,{\be1}Zaczynasz mnie wkurzać!
+Dialogue: 0,0:18:08.17,0:18:10.49,Default,,0,0,0,,{\be1}Nie czas na pogaduchy.
+Dialogue: 0,0:18:11.64,0:18:12.94,Default,,0,0,0,,{\be1}O rany.
+Dialogue: 0,0:18:14.88,0:18:16.99,Default,,0,0,0,,{\be1}Bierz, idą następni.
+Dialogue: 0,0:18:17.87,0:18:19.05,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:18:24.87,0:18:27.00,Default,,0,0,0,,{\be1}Od razu tylu?
+Dialogue: 0,0:18:27.73,0:18:32.01,Default,,0,0,0,,{\be1}Na mój znak rozdzielamy się.\NChoćby nie wiem co nie zatrzymuj się.
+Dialogue: 0,0:18:48.48,0:18:49.66,Default,,0,0,0,,{\be1}Uważaj!
+Dialogue: 0,0:18:53.67,0:18:55.36,Default,,0,0,0,,{\be1}Zdychaj!
+Dialogue: 0,0:19:00.87,0:19:03.32,Default,,0,0,0,,{\be1}Saizo, przestań się obijać!
+Dialogue: 0,0:19:04.60,0:19:05.67,Default,,0,0,0,,{\be1}Co tak długo?
+Dialogue: 0,0:19:06.40,0:19:08.17,Default,,0,0,0,,{\be1}Biegiem do gabinetu dyrektora!
+Dialogue: 0,0:19:10.17,0:19:11.27,Default,,0,0,0,,{\be1}Tędy!
+Dialogue: 0,0:19:11.27,0:19:12.63,Default,,0,0,0,,{\be1}Dlaczego akurat tam?
+Dialogue: 0,0:19:13.07,0:19:14.67,Default,,0,0,0,,{\be1}Bo chce spotkać grubą rybę.
+Dialogue: 0,0:19:14.93,0:19:16.68,Default,,0,0,0,,{\be1}Więc tam jest przywódca Kouga?
+Dialogue: 0,0:19:16.68,0:19:19.18,Default,,0,0,0,,{\be1}Co? My jesteśmy z Kouga.
+Dialogue: 0,0:19:19.53,0:19:22.87,Default,,0,0,0,,{\be1}Tamten olbrzym to\NSarurobi Sasuke, on się nimi zajmie.
+Dialogue: 0,0:19:29.69,0:19:32.07,Default,,0,0,0,,{\be1}Nikogo nie ma.
+Dialogue: 0,0:19:32.07,0:19:35.27,Default,,0,0,0,,{\be1}Gdzieś tu powinno być antidotum na pasożyta.
+Dialogue: 0,0:19:35.27,0:19:36.62,Default,,0,0,0,,{\be1}Antidotum?
+Dialogue: 0,0:19:37.67,0:19:40.91,Default,,0,0,0,,{\be1}Moja przyjaciółka jest pod\Njego wpływem, mam mało czasu.
+Dialogue: 0,0:19:40.91,0:19:42.16,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:19:46.23,0:19:46.92,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:19:46.92,0:19:49.13,Default,,0,0,0,,{\be1}A jak myślisz?!\NCo jest, do diabła?!
+Dialogue: 0,0:19:52.68,0:19:53.67,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:19:53.67,0:19:55.73,Default,,0,0,0,,{\be1}Jakieś dziwne odgłosy!
+Dialogue: 0,0:19:58.13,0:19:59.18,Default,,0,0,0,,{\be1}Odsuń się!
+Dialogue: 0,0:19:59.79,0:20:01.95,Default,,0,0,0,,{\be1}To musi być matka pasożytów!
+Dialogue: 0,0:20:03.60,0:20:06.18,Default,,0,0,0,,{\be1}Patrz, ten płyn żyje.
+Dialogue: 0,0:20:06.18,0:20:08.99,Default,,0,0,0,,{\be1}Kobiety są ofiarami jej potomstwa.
+Dialogue: 0,0:20:09.92,0:20:13.94,Default,,0,0,0,,{\be1}Lepiej się odsuń albo i ty\Nbędziesz potrzebować antidotum.
+Dialogue: 0,0:20:20.73,0:20:21.98,Default,,0,0,0,,{\be1}Uważaj!
+Dialogue: 0,0:20:44.93,0:20:46.05,Default,,0,0,0,,{\be1}Ej.
+Dialogue: 0,0:20:48.10,0:20:49.52,Default,,0,0,0,,{\be1}To nie czas na to.
+Dialogue: 0,0:20:52.07,0:20:53.52,Default,,0,0,0,,{\be1}Później.
+Dialogue: 0,0:21:02.61,0:21:07.37,Default,,0,0,0,,{\be1}Raz kozie śmierć! Sztuka ognia!
+Dialogue: 0,0:21:15.20,0:21:19.13,Default,,0,0,0,,{\be1}Zdychaj!
+Dialogue: 0,0:21:27.34,0:21:28.60,Default,,0,0,0,,{\be1}Udało się!
+Dialogue: 0,0:21:32.88,0:21:37.51,Default,,0,0,0,,{\be1}Dobra robota, Yarsurugi Shinobu.\NCieszę się, że Lena wyzdrowiała.
+Dialogue: 0,0:21:37.51,0:21:38.19,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:21:38.19,0:21:39.86,Default,,0,0,0,,{\be1}Jak go pokonałaś?
+Dialogue: 0,0:21:41.40,0:21:42.87,Default,,0,0,0,,{\be1}Użyłam sztuki ognia.
+Dialogue: 0,0:21:43.18,0:21:45.87,Default,,0,0,0,,{\be1}Namieszaliśmy trochę w Kouga.
+Dialogue: 0,0:21:51.40,0:21:54.17,Default,,0,0,0,,{\be1}Prawie mnie spaliłaś, idiotko!
+Dialogue: 0,0:21:54.17,0:21:57.08,Default,,0,0,0,,{\be1}I tak z nim przegrałeś!
+Dialogue: 0,0:21:57.08,0:21:58.20,Default,,0,0,0,,{\be1}A poza tym...
+Dialogue: 0,0:21:58.20,0:21:59.20,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:21:59.20,0:22:01.38,Default,,0,0,0,,{\be1}Jesteś zboczony.
+Dialogue: 0,0:22:02.11,0:22:03.85,Default,,0,0,0,,{\be1}Ale i tak ci to pasuje, nie?
+Dialogue: 0,0:22:03.85,0:22:04.94,Default,,0,0,0,,{\be1}Niby czemu?
+Dialogue: 0,0:22:06.14,0:22:07.39,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:22:07.80,0:22:12.90,Default,,0,0,0,,{\be1}Spaliłam antidotum!\NCo teraz będzie z Leną?!
+Dialogue: 0,0:22:13.60,0:22:14.86,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:22:15.47,0:22:19.40,Default,,0,0,0,,{\be1}My mamy antidotum.
+Dialogue: 0,0:22:20.13,0:22:23.40,Default,,0,0,0,,{\be1}Kouga specjalizują się w medycynie.
+Dialogue: 0,0:22:23.41,0:22:26.09,Default,,0,0,0,,{\be1}Rozumiem, to wasza specjalność.
+Dialogue: 0,0:22:26.70,0:22:28.45,Default,,0,0,0,,{\be1}To kim byli tamci goście?
+Dialogue: 0,0:22:28.87,0:22:33.83,Default,,0,0,0,,{\be1}Zdrajcy, próbowali wrobić Kouga.
+Dialogue: 0,0:22:34.13,0:22:35.55,Default,,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:22:36.67,0:22:39.61,Default,,0,0,0,,{\be1}Naszą misją jest się dowiedzieć.
+Dialogue: 0,0:22:43.67,0:22:44.34,Default,,0,0,0,,{\be1}Narka.
+Dialogue: 0,0:22:55.81,0:23:00.36,Default,,0,0,0,,{\be1}Nikomu o nas nie wspominaj,\Na zwłaszcza imion.
+Dialogue: 0,0:23:01.13,0:23:02.36,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:23:02.73,0:23:05.95,Default,,0,0,0,,{\be1}Utrudnisz nam misję.
+Dialogue: 0,0:23:09.27,0:23:10.27,Default,,0,0,0,,{\be1}Narka!
+Dialogue: 0,0:23:10.27,0:23:11.64,Default,,0,0,0,,{\be1}Dzięki!
+Dialogue: 0,0:23:16.67,0:23:18.81,Default,,0,0,0,,{\be1}Coś nie tak?
+Dialogue: 0,0:23:19.47,0:23:23.04,Default,,0,0,0,,{\be1}Czy Kouga naprawdę są źli?
+Dialogue: 0,0:23:23.04,0:23:26.48,Default,,0,0,0,,{\be1}Jeszcze się pytasz?\NDoświadczyłaś tego na własnej skórze.
+Dialogue: 0,0:23:28.33,0:23:30.89,Default,,0,0,0,,{\be1}Może to zdrajcy?
+Dialogue: 0,0:23:31.34,0:23:33.23,Default,,0,0,0,,{\be1}Nie daj się oszukać.
+Dialogue: 0,0:23:33.23,0:23:36.89,Default,,0,0,0,,{\be1}Pozabijaliby się nawzajem,\Nżeby zachować swoje sekrety.
+Dialogue: 0,0:23:38.97,0:23:42.48,Default,,0,0,0,,{\be1}Kouga nie są ludźmi, to potwory.
+Dialogue: 0,0:23:53.32,0:23:55.14,Default,,0,0,0,,{\be1}Ten jest mój!
+Dialogue: 0,0:23:55.14,0:23:58.92,Default,,0,0,0,,{\be1}Nie, tamten.
+Dialogue: 0,0:23:59.60,0:24:03.17,Default,,0,0,0,,{\be1}A jeszcze niedawno cały czas skomlałaś.
+Dialogue: 0,0:24:03.17,0:24:04.87,Default,,0,0,0,,{\be1}Coś powiedziała?!
+Dialogue: 0,0:24:05.83,0:24:08.33,Default,,0,0,0,,{\be1}Lena, patrz.
+Dialogue: 0,0:24:08.33,0:24:09.66,Default,,0,0,0,,{\be1}Na co?

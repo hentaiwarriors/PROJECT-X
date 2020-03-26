@@ -1,0 +1,157 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.6.0 r120  Nov 18 2014  15:25:13
+Active Line: 1
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video Position: 0
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00C483CA,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Tytul,Franklin Gothic Medium,32,&H00882E31,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,30,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:40.30,0:01:47.04,Grupa,,0,0,0,,{\fad(884,851)}Nyan
+Dialogue: 0,0:01:40.30,0:01:47.04,Tytul,,0,0,40,,{\fad(884,851)\bord1.5\fs44\1c&HC483CA&\3c&H000000&\an8}Shi{\1c&H4400E4&}mai {\1c&HC483CA&}Tsuma
+Dialogue: 0,0:01:43.21,0:01:47.04,Tytul,,0,0,0,,{\fad(477,809)}Błądzące ciała
+Dialogue: 0,0:00:14.05,0:00:16.56,Default (i),,0,0,0,,{\be1}Nazywam się Fushimi Kenta.
+Dialogue: 0,0:00:16.56,0:00:25.79,Default (i),,0,0,0,,{\be1}Moi rodzice zajmowali się dość niebezpieczną pracą,\Ndlatego już nie żyją, a ja zostałem sam.
+Dialogue: 0,0:00:26.76,0:00:33.30,Default (i),,0,0,0,,{\be1}Postanowiłem sobie, że będę żył bezpieczniej od nich\Ni wtedy zakochałem się w obrazie japońskiego malarza.
+Dialogue: 0,0:00:33.30,0:00:42.72,Default (i),,0,0,0,,{\be1}Chciałem zostać jego uczniem i byłem gotowy\Nna wszystko, a on tak po prostu mnie przyjął.
+Dialogue: 0,0:00:42.72,0:00:45.77,Default (i),,0,0,0,,{\be1}Obecnie jadę do jego domu.
+Dialogue: 0,0:01:07.01,0:01:08.95,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:01:08.95,0:01:13.30,Default,,0,0,0,,{\be1}To moja wina, nie przejmuj się.
+Dialogue: 0,0:01:58.75,0:02:02.06,Default,,0,0,0,,{\be1}To chyba tutaj.
+Dialogue: 0,0:02:11.13,0:02:18.52,Default,,0,0,0,,{\be1}Dzień dobry, jestem Fushimi Kenta,\Nnowy uczeń mistrza.
+Dialogue: 0,0:02:19.43,0:02:20.95,Default,,0,0,0,,{\be1}Kenta?!
+Dialogue: 0,0:02:22.41,0:02:24.48,Default,,0,0,0,,{\be1}Miku?
+Dialogue: 0,0:02:24.48,0:02:26.29,Default,,0,0,0,,{\be1}Kopę lat!
+Dialogue: 0,0:02:26.29,0:02:29.63,Default,,0,0,0,,{\be1}O ile pamiętam\Nto przeniosłeś się w gimnazjum, nie?
+Dialogue: 0,0:02:29.63,0:02:31.67,Default,,0,0,0,,{\be1}Wyrosłeś!
+Dialogue: 0,0:02:33.73,0:02:35.18,Default,,0,0,0,,{\be1}Ty też.
+Dialogue: 0,0:02:35.96,0:02:40.39,Default,,0,0,0,,{\be1}Zaraz, przyjechałeś\Nuczyć się tańca japońskiego?
+Dialogue: 0,0:02:41.68,0:02:42.96,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:02:42.96,0:02:49.64,Default,,0,0,0,,{\be1}Nie możesz, jestem najlepszą\Ni jedyną uczennicą....
+Dialogue: 0,0:02:49.64,0:02:54.98,Default,,0,0,0,,{\be1}Czekaj, to tutaj uczy się tańca,\Na nie malarstwa?
+Dialogue: 0,0:02:56.19,0:02:59.48,Default,,0,0,0,,{\be1}Aha, ty do tego mistrza.
+Dialogue: 0,0:02:59.48,0:03:01.69,Default,,0,0,0,,{\be1}Miku, mamy gościa?
+Dialogue: 0,0:03:03.66,0:03:05.27,Default,,0,0,0,,{\be1}Dobrze, że jesteś.
+Dialogue: 0,0:03:05.27,0:03:09.80,Default,,0,0,0,,{\be1}To Momoko, nasza gosposia,\Nzapytaj ją o resztę, bo ja się śpieszę.
+Dialogue: 0,0:03:16.89,0:03:22.31,Default,,0,0,0,,{\be1}Rozumiem, żona mistrza uczy tańca.
+Dialogue: 0,0:03:22.31,0:03:28.07,Default,,0,0,0,,{\be1}Ja jej nie nazywam mistrzynią,\Nbo znamy się od dziecka i jesteśmy przyjaciółkami.
+Dialogue: 0,0:03:28.07,0:03:33.25,Default,,0,0,0,,{\be1}Gdy zaczęłam pomagać jej w domu,\Nto w końcu stała się moja praca.
+Dialogue: 0,0:03:33.25,0:03:40.33,Default,,0,0,0,,{\be1}Byłam zaskoczona, gdy mistrz oznajmił,\Nże przyjął ucznia, mimo że ciągle podróżuje.
+Dialogue: 0,0:03:40.33,0:03:44.75,Default,,0,0,0,,{\be1}A jeszcze większym zaskoczeniem\Njest twoja znajomość z Miku.
+Dialogue: 0,0:03:45.21,0:03:48.60,Default,,0,0,0,,{\be1}Kiedy wróci mistrz?
+Dialogue: 0,0:03:48.60,0:03:49.84,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:03:53.51,0:03:55.17,Default,,0,0,0,,{\be1}Tu jest twój pokój.
+Dialogue: 0,0:03:57.06,0:03:58.14,Default,,0,0,0,,{\be1}Coś nie tak?
+Dialogue: 0,0:03:59.25,0:04:00.64,Default,,0,0,0,,{\be1}Nie...
+Dialogue: 0,0:04:02.09,0:04:04.75,Default,,0,0,0,,{\be1}Momoko!
+Dialogue: 0,0:04:04.75,0:04:06.10,Default,,0,0,0,,{\be1}Aoi wróciła.
+Dialogue: 0,0:04:06.81,0:04:09.06,Default,,0,0,0,,{\be1}Momoko, gdzie jesteś?
+Dialogue: 0,0:04:17.57,0:04:20.28,Default,,0,0,0,,{\be1}Aua!
+Dialogue: 0,0:04:28.80,0:04:34.38,Default (i),,0,0,0,,{\be1}To sen?\NCo za fart, spałem na jej nogach!
+Dialogue: 0,0:04:34.84,0:04:36.45,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:04:37.41,0:04:38.37,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:04:38.37,0:04:39.77,Default,,0,0,0,,{\be1}To dobrze.
+Dialogue: 0,0:04:39.77,0:04:41.03,Default,,0,0,0,,{\be1}A gdzie jest Momoko?
+Dialogue: 0,0:04:41.03,0:04:48.84,Default,,0,0,0,,{\be1}Chcesz się wykąpać?\NTo była długa podróż, no i do tego przewróciłeś się.
+Dialogue: 0,0:04:48.84,0:04:49.60,Default,,0,0,0,,{\be1}Jasne.
+Dialogue: 0,0:04:53.06,0:04:56.42,Default,,0,0,0,,{\be1}Jak w jakiejś łaźni!
+Dialogue: 0,0:05:55.04,0:05:58.46,Default,,0,0,0,,{\be1}To wy tak dobrze się znacie?
+Dialogue: 0,0:05:58.94,0:06:01.93,Default,,0,0,0,,{\be1}Podnieciła cię?
+Dialogue: 0,0:06:06.39,0:06:09.43,Default,,0,0,0,,{\be1}Tu się nie skacze do wody.
+Dialogue: 0,0:06:09.43,0:06:10.41,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:06:12.04,0:06:15.41,Default (i),,0,0,0,,{\be1}Wiedziała, że Momoko tu jest?
+Dialogue: 0,0:06:17.48,0:06:20.43,Default,,0,0,0,,{\be1}Muszę przyznać, że jest całkiem spory.
+Dialogue: 0,0:06:39.12,0:06:40.21,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:06:45.25,0:06:47.84,Default,,0,0,0,,{\be1}Nie musisz.
+Dialogue: 0,0:06:53.51,0:06:55.11,Default,,0,0,0,,{\be1}Znowu?
+Dialogue: 0,0:06:59.00,0:07:01.68,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:07:01.68,0:07:04.87,Default,,0,0,0,,{\be1}Momoko robiła to delikatniej?
+Dialogue: 0,0:07:04.87,0:07:08.07,Default,,0,0,0,,{\be1}Nie doszliśmy do tego.
+Dialogue: 0,0:07:17.35,0:07:19.50,Default,,0,0,0,,{\be1}A co tam.
+Dialogue: 0,0:07:20.47,0:07:23.16,Default,,0,0,0,,{\be1}Podejdź bliżej.
+Dialogue: 0,0:07:37.52,0:07:41.86,Default,,0,0,0,,{\be1}A wracając do Momoko,\Nzrobiła coś takiego?
+Dialogue: 0,0:07:43.21,0:07:45.64,Default,,0,0,0,,{\be1}Już powiedziałem...
+Dialogue: 0,0:07:56.57,0:07:58.25,Default,,0,0,0,,{\be1}Tylko nie tam!
+Dialogue: 0,0:07:58.85,0:08:02.25,Default,,0,0,0,,{\be1}To co robiliście?
+Dialogue: 0,0:08:04.13,0:08:06.21,Default,,0,0,0,,{\be1}Tylko go zobaczyła!
+Dialogue: 0,0:08:08.13,0:08:11.97,Default,,0,0,0,,{\be1}I nic poza tym?
+Dialogue: 0,0:08:11.97,0:08:12.92,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:08:13.63,0:08:16.14,Default,,0,0,0,,{\be1}Nie dotykałeś jej cipki?
+Dialogue: 0,0:08:16.14,0:08:17.12,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:08:21.08,0:08:22.39,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:08:31.41,0:08:33.38,Default,,0,0,0,,{\be1}Wyliż.
+Dialogue: 0,0:08:34.22,0:08:35.56,Default,,0,0,0,,{\be1}No dawaj.
+Dialogue: 0,0:08:35.56,0:08:36.33,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:08:39.41,0:08:43.33,Default,,0,0,0,,{\be1}Otwórz oczy i ssij też.
+Dialogue: 0,0:08:44.05,0:08:45.27,Default,,0,0,0,,{\be1}Właśnie tak.
+Dialogue: 0,0:08:54.34,0:08:56.93,Default,,0,0,0,,{\be1}Tak, mocniej!
+Dialogue: 0,0:08:59.65,0:09:02.28,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:09:02.28,0:09:05.33,Default,,0,0,0,,{\be1}Trochę wyżej! O tak!
+Dialogue: 0,0:09:05.33,0:09:06.94,Default,,0,0,0,,{\be1}Włóż język.
+Dialogue: 0,0:09:10.30,0:09:11.30,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:09:15.03,0:09:16.37,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:09:26.32,0:09:29.85,Default,,0,0,0,,{\be1}Nadal ci stoi, masz cudownego kutasa.
+Dialogue: 0,0:09:47.84,0:09:49.77,Default,,0,0,0,,{\be1}Podobają się?
+Dialogue: 0,0:10:02.15,0:10:04.67,Default,,0,0,0,,{\be1}Dłużej chyba nie wytrzymam!
+Dialogue: 0,0:10:05.52,0:10:07.84,Default,,0,0,0,,{\be1}Jakoś nie widać.
+Dialogue: 0,0:10:13.65,0:10:15.08,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:10:16.52,0:10:19.75,Default,,0,0,0,,{\be1}To nie powstrzymuj się i dojdź.
+Dialogue: 0,0:10:19.75,0:10:21.90,Default,,0,0,0,,{\be1}Tym razem na twarz.
+Dialogue: 0,0:10:27.89,0:10:29.09,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:10:33.43,0:10:35.18,Default,,0,0,0,,{\be1}Jaka gorąca.
+Dialogue: 0,0:10:44.71,0:10:51.22,Default,,0,0,0,,{\be1}- Nadal stoi.\N- Ty nie chcesz poczuć przyjemności?
+Dialogue: 0,0:10:52.77,0:10:55.28,Default,,0,0,0,,{\be1}Może następnym razem.
+Dialogue: 0,0:11:11.24,0:11:14.85,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:11:20.14,0:11:21.91,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:11:23.27,0:11:25.61,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:11:44.38,0:11:46.80,Default,,0,0,0,,{\be1}Nie powstrzymuj się!
+Dialogue: 0,0:12:01.43,0:12:05.03,Default (i),,0,0,0,,{\be1}Wypływa tak dużo gorącej spermy.
+Dialogue: 0,0:12:45.91,0:12:47.59,Default,,0,0,0,,{\be1}Momoko?
+Dialogue: 0,0:13:42.86,0:13:45.14,Default,,0,0,0,,{\be1}Jeszcze!
+Dialogue: 0,0:13:45.14,0:13:47.35,Default,,0,0,0,,{\be1}Nie mogę przestać!
+Dialogue: 0,0:13:47.35,0:13:49.06,Default,,0,0,0,,{\be1}Ale wielkie cyce!
+Dialogue: 0,0:13:49.06,0:13:52.81,Default,,0,0,0,,{\be1}Ma śliczne, różowe sutki i cipkę!
+Dialogue: 0,0:13:53.16,0:13:54.80,Default,,0,0,0,,{\be1}- Teraz ja!\N- Nie, ja!
+Dialogue: 0,0:13:54.80,0:13:57.66,Default,,0,0,0,,{\be1}Spokojnie, po kolei.
+Dialogue: 0,0:13:59.74,0:14:05.41,Default,,0,0,0,,{\be1}O stary, cudownie obciąga!
+Dialogue: 0,0:14:10.61,0:14:11.96,Default,,0,0,0,,{\be1}Teraz ja!
+Dialogue: 0,0:14:15.83,0:14:18.83,Default,,0,0,0,,{\be1}Na dodatek pozwala spuścić się w środku!
+Dialogue: 0,0:14:23.83,0:14:24.97,Default,,0,0,0,,{\be1}Moja kolej!
+Dialogue: 0,0:14:43.72,0:14:46.19,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:15:10.60,0:15:12.23,Default,,0,0,0,,{\be1}Kenta.
+Dialogue: 0,0:15:13.14,0:15:15.85,Default,,0,0,0,,{\be1}Czemu nie wołałaś o pomoc?
+Dialogue: 0,0:15:17.49,0:15:21.27,Default,,0,0,0,,{\be1}Bo jej nie potrzebowałam,\Nsama tego chciałam.
+Dialogue: 0,0:15:21.27,0:15:24.70,Default,,0,0,0,,{\be1}Powinnaś robić to tylko z ukochanym.
+Dialogue: 0,0:15:25.52,0:15:28.02,Default,,0,0,0,,{\be1}Więc zróbmy to.
+Dialogue: 0,0:15:28.82,0:15:31.20,Default,,0,0,0,,{\be1}Z ukochanym mogę, nie?
+Dialogue: 0,0:15:35.05,0:15:37.92,Default,,0,0,0,,{\be1}Zakochałam się w tobie.
+Dialogue: 0,0:17:17.09,0:17:21.37,Default,,0,0,0,,{\be1}Chciałam to zrobić od razu,\Ngdy cię zobaczyłam.
+Dialogue: 0,0:17:36.94,0:17:41.93,Default,,0,0,0,,{\be1}O rany, to mnie mocno podnieca!
+Dialogue: 0,0:17:41.93,0:17:43.86,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:17:48.52,0:17:51.76,Default,,0,0,0,,{\be1}Ale się podnieciłam! Tak!
+Dialogue: 0,0:17:58.36,0:18:00.18,Default,,0,0,0,,{\be1}Delikatniej, Kenta.
+Dialogue: 0,0:18:16.40,0:18:20.27,Default,,0,0,0,,{\be1}Wstydzę się tak sama,\Ndaj mi twojego kutasa.
+Dialogue: 0,0:18:30.37,0:18:31.80,Default,,0,0,0,,{\be1}Momoko!
+Dialogue: 0,0:19:02.92,0:19:06.32,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:19:08.40,0:19:11.63,Default,,0,0,0,,{\be1}To nic, spuść się.
+Dialogue: 0,0:19:51.51,0:19:53.61,Default,,0,0,0,,{\be1}Twoja kolej.
+Dialogue: 0,0:20:52.75,0:20:58.99,Default,,0,0,0,,{\be1}Nie przestawaj! Mocniej!
+Dialogue: 0,0:21:03.58,0:21:09.45,Default,,0,0,0,,{\be1}Pospiesz się i włóż go!

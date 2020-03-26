@@ -1,0 +1,160 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Onax2 Title 1,ArmWrestler,40,&H00000000,&H000000FF,&H00FFFFFF,&H008F8FF3,0,0,0,0,100,100,0,0,1,1.8,2.5,2,10,10,10,1
+Style: Onax2 Title 2,ArmWrestler,40,&H00000000,&H000000FF,&H00FFFFFF,&H008C572E,0,0,0,0,100,100,0,0,1,1.8,2.5,2,10,10,10,1
+Style: Onax2 Team-DD 1,Babe Bamboo,60,&H00060607,&H000000FF,&H00FFFFFF,&H008F8FF3,0,0,0,0,100,100,0,0,1,1.8,2.5,2,10,10,10,1
+Style: Onax2 Team-DD 2,Babe Bamboo,60,&H00000000,&H000000FF,&H00FFFFFF,&H008C572E,0,0,0,0,100,100,0,0,1,1.8,2.5,2,10,10,10,1
+Style: Onax2 Anri,Jester,40,&H00FFFFFF,&H000000FF,&H00002851,&H00002040,-1,0,0,0,100,100,0,0,1,1.2,1,2,10,10,10,1
+Style: Onax2 Url 1,ArmWrestler,16,&H00000000,&H000000FF,&H00FFFFFF,&H0F8F8FF3,0,0,0,0,100,100,0,0,1,1,1.8,2,10,10,10,1
+Style: Onax2 Url 2,ArmWrestler,16,&H00000000,&H000000FF,&H00FFFFFF,&H008C572E,0,0,0,0,100,100,0,0,1,1,1.8,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:24.09,0:00:28.98,Onax2 Title 1,,0,0,0,,{\fad(500,300)\pos(293,431)}ONA
+Dialogue: 0,0:00:24.09,0:00:28.98,Onax2 Title 2,,0000,0000,0000,,{\fad(500,300)\pos(345,431)}x2
+Dialogue: 0,0:00:24.09,0:00:28.98,Onax2 Url 1,,0000,0000,0000,,{\fad(500,300)\pos(525,465)}http://deutsche
+Dialogue: 0,0:00:24.09,0:00:28.98,Onax2 Url 2,,0,0,0,,{\fad(500,300)\pos(600,465)}-doujins.to
+Dialogue: 0,0:00:24.09,0:00:30.00,Onax2 Team-DD 1,,0,0,0,,{\fad(500,1000)\pos(211,89)}Team-DD
+Dialogue: 0,0:00:24.09,0:00:30.00,Onax2 Team-DD 2,,0,0,0,,{\fad(500,1000)\pos(410,89)}präsentiert
+Dialogue: 0,0:00:28.98,0:00:30.81,Onax2 Anri,,0,0,0,,Ich heiße Anri.
+Dialogue: 0,0:00:32.23,0:00:35.62,Onax2 Anri,,0,0,0,,Heute Nacht hatte ich ein Date mit meinem Senpai.{\Tonight I went on a date with the senior I admired.}
+Dialogue: 0,0:00:35.62,0:00:40.26,Onax2 Anri,,0,0,0,,Es lief alles recht gut, aber...\Ndann ist doch nichts passiert.{\It should be going well..but, there's nothing happening at all.}
+Dialogue: 0,0:00:40.89,0:00:44.53,Onax2 Anri,,0,0,0,,Ich hätte doch gar nichts dagegen,\Nwenn er mich flachlegen würde.{\I don't mind if senior is doing it with me.}
+Dialogue: 0,0:00:45.19,0:00:49.03,Onax2 Anri,,0,0,0,,Habe ich etwa nicht genug Sexappeal?{\Is it possibly because I don't have any appeal?}
+Dialogue: 0,0:00:50.84,0:00:53.97,Onax2 Anri,,0,0,0,,Oder einfach nur zu viel Sake getrunken?{\Did I drink too much sake before...}
+Dialogue: 0,0:00:55.35,0:00:58.31,Onax2 Anri,,0,0,0,,Mein Körper wird ganz heiß...{\My body's getting hot...}
+Dialogue: 0,0:00:58.31,0:01:01.20,Onax2 Anri,,0,0,0,,Meine Gebärmutter pulsiert in mir...{\My womb is beating within...}
+Dialogue: 0,0:01:03.47,0:01:09.63,Onax2 Anri,,0,0,0,,Nein... Wie feucht ich bin...\NIch werde es wieder mal alleine tun müssen.{\No..It's drenched a lot...\NNo, I'm gonna masturbate again...}
+Dialogue: 0,0:01:11.86,0:01:13.93,Onax2 Anri,,0,0,0,,Ich kann nichts dagegen tun.{\But, I can't stop it.}
+Dialogue: 0,0:01:15.21,0:01:19.32,Onax2 Anri,,0,0,0,,Ich tue schrecklich versaute Sachen...{\I'm really doing indecent things...}
+Dialogue: 0,0:01:22.06,0:01:24.79,Onax2 Anri,,0,0,0,,Meine Nippel sind schon hart geworden.{\My nipples are already this hard.}
+Dialogue: 0,0:01:27.89,0:01:30.86,Onax2 Anri,,0,0,0,,Und meine Muschi ist auch schon ganz feucht.{\My pussy is also drenched like this.}
+Dialogue: 0,0:01:31.87,0:01:36.33,Onax2 Anri,,0,0,0,,Senpai würde mich hassen,\Nwenn er mich so sehen könnte.{\I'm gonna be hated by senior if he saw me like this.}
+Dialogue: 0,0:01:36.91,0:01:40.06,Onax2 Anri,,0,0,0,,Aber ich muss es jetzt einfach tun.{\But, I really want to do it.}
+Dialogue: 0,0:01:43.55,0:01:45.27,Onax2 Anri,,0,0,0,,Ich kann nichts dagegen tun...{\It's not stopping at all...}
+Dialogue: 0,0:01:45.56,0:01:47.09,Onax2 Anri,,0000,0000,0000,,Gut... so gut...{\Good..good..please come inside me, senior!}
+Dialogue: 0,0:01:47.56,0:01:50.49,Onax2 Anri,,0,0,0,,Bitte Senpai, besorg's mir!{\Good..good..please come inside me, senior!}
+Dialogue: 0,0:01:50.49,0:01:56.59,Onax2 Anri,,0,0,0,,Gut... es fühlt sich einfach zu gut an...{\Good..good..It really..feels good...}
+Dialogue: 0,0:01:57.26,0:02:03.90,Onax2 Anri,,0,0,0,,Spritz in mich! Ich will,\Ndass du mich hart rannimmst!{\Come in..please come inside me...\NI want you to do it hard with me...}
+Dialogue: 0,0:02:03.90,0:02:07.33,Onax2 Anri,,0,0,0,,Verwüste meinen Körper!!{\Please mess my body up with it!!}
+Dialogue: 0,0:02:10.77,0:02:14.79,Onax2 Anri,,0,0,0,,Ich will... ich will, dass du mich anfasst...{\I want..I want you to tease me a lot...}
+Dialogue: 0,0:02:17.05,0:02:24.15,Onax2 Anri,,0,0,0,,Schieb deinen Schwanz tief rein...\NIch verliere mich schon wieder...{\ It's in..it's inside of my embarrassing thing...\NI can't escape from this again...}
+Dialogue: 0,0:02:28.09,0:02:31.99,Onax2 Anri,,0,0,0,,H-Halt... bitte nicht!!{\ No..not so suddenly, stop it!!}
+Dialogue: 0,0:02:34.46,0:02:38.81,Onax2 Anri,,0,0,0,,Nicht dort... Wenn du mich dort berührst...{\ Not that place..If you're teasing it that hard...}
+Dialogue: 0,0:02:43.26,0:02:45.95,Onax2 Anri,,0,0,0,,Mit den Brüsten?{\ With my breasts?}
+Dialogue: 0,0:02:49.21,0:02:53.00,Onax2 Anri,,0,0,0,,Das habe ich noch niemals gemacht.{\ It's not something I've let anyone see before.}
+Dialogue: 0,0:02:55.99,0:02:58.21,Onax2 Anri,,0,0,0,,Meine Brüste derart zu benutzen...{\ My breasts being like this...}
+Dialogue: 0,0:02:59.32,0:03:02.85,Onax2 Anri,,0,0,0,,Senpais Penis wird so groß und hart.{\ Senior's penis is getting big and hard.}
+Dialogue: 0,0:03:03.60,0:03:06.44,Onax2 Anri,,0,0,0,,Sein heißer Stab reibt gegen mich, es fühlt sich gut an!{\ It feels good when the hot thing is rubbing it.}
+Dialogue: 0,0:03:10.48,0:03:12.79,Onax2 Anri,,0,0,0,,Sein Penis in meinem Mund...{\ The penis is inside of my mouth-}
+Dialogue: 0,0:03:14.33,0:03:18.25,Onax2 Anri,,0,0,0,,So etwas habe ich noch niemals zuvor gemacht.{\ I've never done something like this before...}
+Dialogue: 0,0:03:19.94,0:03:22.99,Onax2 Anri,,0,0,0,,Senpais... wie köstlich!{\ Senior's penis is delicious...}
+Dialogue: 0,0:03:27.54,0:03:31.57,Onax2 Anri,,0,0,0,,Ich kann gar nicht mehr aufhören...{\ I can't stop this sensation...}
+Dialogue: 0,0:03:40.15,0:03:44.10,Onax2 Anri,,0,0,0,,Da kommt etwas Flüssigkeit aus der Spitze raus.{\ There's some fluid coming out from the tip of it.}
+Dialogue: 0,0:03:49.20,0:03:51.69,Onax2 Anri,,0,0,0,,Was für ein kräftiger Schwanz...{\ What a strong penis this is...}
+Dialogue: 0,0:04:00.00,0:04:03.13,Onax2 Anri,,0,0,0,,Fühlt es sich gut an? Meine Mund-Pussy?{\ Is it good with my mouth?}
+Dialogue: 0,0:04:04.66,0:04:08.78,Onax2 Anri,,0,0,0,,Für mich fühlt es sich auch irgendwie gut an...{\ I can sense that I'm feeling good as well.}
+Dialogue: 0,0:04:17.38,0:04:21.50,Onax2 Anri,,0,0,0,,Dein Penis stößt gegen meinen Rachen.{\ Your penis is hitting the back of my mouth.}
+Dialogue: 0,0:04:27.84,0:04:34.17,Onax2 Anri,,0,0,0,,Ich spüre wie er tief in meinen Hals vordringt.{\ The penis is thrusting deep in my own throat.}
+Dialogue: 0,0:04:43.17,0:04:45.96,Onax2 Anri,,0,0,0,,So viel... So viel Schwanz...{\ It's full of it...}
+Dialogue: 0,0:04:54.39,0:05:00.23,Onax2 Anri,,0,0,0,,Dein Penis beginnt zu zucken...\NDu wirst gleich kommen, oder?{\ Your penis is pulsing..you're gonna cum, aren't you?}
+Dialogue: 0,0:05:00.52,0:05:02.12,Onax2 Anri,,0,0,0,,Gleich wird's rauskommen, nicht wahr?{\ It's gonna come out, right?}
+Dialogue: 0,0:05:04.51,0:05:09.49,Onax2 Anri,,0,0,0,,Lass es raus... lass alles raus!\NGib mir all deinen Samen!{\ Let it out..let it out, a lot of it,\Nlet the semen come out~!}
+Dialogue: 0,0:05:12.17,0:05:15.21,Onax2 Anri,,0,0,0,,Das ist ne Menge dickes, klebriges Sperma...{\ It's a lot of dirty, sticky semen...}
+Dialogue: 0,0:05:15.21,0:05:19.86,Onax2 Anri,,0,0,0,,Ich will, dass du mich mit noch viel mehr\Nklebrigen, stinkenden Sperma einsaust!{\ I want you to make me dirty with a lot of your sticky and smelly sperm!}
+Dialogue: 0,0:05:32.81,0:05:40.37,Onax2 Anri,,0,0,0,,Oh, nein... meine Pussy hält's nicht mehr aus...\NSchnell, bitte steck ihn ganz schnell in miiiich!{\ No..my pussy is feeling that already..good..good,\Nquick..quickly put it inside of me~!}
+Dialogue: 0,0:05:41.98,0:05:45.66,Onax2 Anri,,0,0,0,,Bitte verwüste Anris Pussy!{\ Please mess Anri's pussy up with it!}
+Dialogue: 0,0:05:48.75,0:05:52.92,Onax2 Anri,,0,0,0,,Wahnsinn, ich bin klatschnass da unten...{\ Amazing, it's really wet in there.}
+Dialogue: 0,0:05:57.69,0:06:01.41,Onax2 Anri,,0,0,0,,Gut... gut... gut... gut...{\ Good..good..good..good...}
+Dialogue: 0,0:06:03.28,0:06:05.75,Onax2 Anri,,0,0,0,,Nein... nein...{\ No..no...}
+Dialogue: 0,0:06:05.75,0:06:09.38,Onax2 Anri,,0,0,0,,Ich komme... ich komme...{\ Cumming..cumming...}
+Dialogue: 0,0:06:12.20,0:06:14.43,Onax2 Anri,,0,0,0,,Verdammt, ich kommeeee!{\ No, it's cumming~!}
+Dialogue: 0,0:06:19.16,0:06:23.20,Onax2 Anri,,0,0,0,,Nicht näherkommen! ... Nein, nicht!{\ No..don't come..no..stop it~!}
+Dialogue: 0,0:06:25.59,0:06:28.05,Onax2 Anri,,0,0,0,,Nein... dort unten...{\ No..you're licking in there...}
+Dialogue: 0,0:06:31.24,0:06:35.02,Onax2 Anri,,0,0,0,,Ich werde von einer Gruppe\Nfremder Männer vergewaltigt.{\ I'm being raped by a lot of men.}
+Dialogue: 0,0:06:35.61,0:06:38.37,Onax2 Anri,,0,0,0,,Nein, aufhören... das tut weh!{\ No, stop it..it hurts...!}
+Dialogue: 0,0:06:38.73,0:06:41.54,Onax2 Anri,,0,0,0,,Bitte, seid nicht so grob!{\ Please, don't do it that hard!}
+Dialogue: 0,0:06:48.36,0:06:51.20,Onax2 Anri,,0,0,0,,Bitte nicht an meiner Pussy lecken...{\ Don't suck my pussy like that...}
+Dialogue: 0,0:06:54.97,0:06:58.94,Onax2 Anri,,0,0,0,,Nein... gut... gut...{\ No..good..good...}
+Dialogue: 0,0:07:01.75,0:07:05.03,Onax2 Anri,,0,0,0,,Wahnsinn... Der Wahnsinn!{\ Great..It's great!}
+Dialogue: 0,0:07:10.44,0:07:13.95,Onax2 Anri,,0,0,0,,Wenn du so meine Pussy und Klitoris berührst...{\ If you're touching my pussy like that...}
+Dialogue: 0,0:07:14.97,0:07:17.17,Onax2 Anri,,0,0,0,,Gut... gut...{\ Good..good...}
+Dialogue: 0,0:07:28.76,0:07:30.91,Onax2 Anri,,0,0,0,,Gut... gut... so guuut!{\ Good..good..good!}
+Dialogue: 0,0:07:39.94,0:07:44.39,Onax2 Anri,,0,0,0,,Das tut weh! Sei doch nicht so grob!{\ It hurts! Please don't do something that reckless!}
+Dialogue: 0,0:07:45.75,0:07:46.77,Onax2 Anri,,0,0,0,,Nein...{\ No-}
+Dialogue: 0,0:07:50.51,0:07:52.64,Onax2 Anri,,0,0,0,,Das tut weh!{\ It hurts~!}
+Dialogue: 0,0:08:00.07,0:08:02.41,Onax2 Anri,,0,0,0,,Sein Penis ist in meiner Pussy...{\ My pussy with the penis...}
+Dialogue: 0,0:08:02.41,0:08:05.20,Onax2 Anri,,0,0,0,,Ich bin zum Bersten gefüllt...{\ My pussy is filled, all of it...}
+Dialogue: 0,0:08:07.46,0:08:12.33,Onax2 Anri,,0,0,0,,Wahnsinn... so wahnsinnig guuuut...{\ Great..great..good...}
+Dialogue: 0,0:08:16.35,0:08:19.27,Onax2 Anri,,0,0,0,,Gib's mir... gib mir mehr davon!{\ Give me..give me more of it!}
+Dialogue: 0,0:08:19.27,0:08:24.34,Onax2 Anri,,0,0,0,,Ich will, dass du Anris Pussy verwüstest!{\ I want you to mess with Anri's pussy!}
+Dialogue: 0,0:08:36.00,0:08:40.03,Onax2 Anri,,0,0,0,,Mehr... Besorg's mir noch härter!{\ More..I want you to tease it more~!}
+Dialogue: 0,0:08:42.17,0:08:47.88,Onax2 Anri,,0,0,0,,Mehr... Bitte spritz noch\Nviel mehr in Anris Muschi!{\ More..give me more of it in my womb~!}
+Dialogue: 0,0:08:49.64,0:08:54.37,Onax2 Anri,,0,0,0,,Ja, fass mir an die Titten... Bitte auch die Nippel!{\ Please press my breasts and tease my nipples more!}
+Dialogue: 0,0:08:59.21,0:09:05.41,Onax2 Anri,,0,0,0,,Anri ist... versaut. Eine notgeile Schlampe!{\ Anri is..lewd and an indecent woman!}
+Dialogue: 0,0:09:07.33,0:09:11.48,Onax2 Anri,,0,0,0,,Ich komme... ich komme... ich komme...{\ Cumming..cumming..cumming..cumming...}
+Dialogue: 0,0:09:28.49,0:09:31.69,Onax2 Anri,,0,0,0,,So viel Sperma in mir...{\ There is a lot of sperm in my stomach...}
+Dialogue: 0,0:09:45.53,0:09:49.90,Onax2 Anri,,0,0,0,,Verdammt, ich kann gar nicht mehr aufhören!{\ No, there's no stop to it~!}
+Dialogue: 0,0:09:54.54,0:09:57.37,Onax2 Anri,,0,0,0,,Ich muss hier raus, bevor ich\Nnochmal vergewaltigt werde...{\ I have to get away before getting raped-}
+Dialogue: 0,0:09:58.11,0:10:01.20,Onax2 Anri,,0,0,0,,Nein, das ist viel zu groß für mich!{\ No..It's gonna rip apart the inside of it!}
+Dialogue: 0,0:10:02.90,0:10:05.77,Onax2 Anri,,0,0,0,,Habt doch Erbarmen!{\ Stop it~!}
+Dialogue: 0,0:10:07.69,0:10:11.98,Onax2 Anri,,0,0,0,,Gut... es fühlt sich gut an...\NEs stößt gegen meine Gebärmutter...{\ Good..it feels good..it's hitting my womb...}
+Dialogue: 0,0:10:13.07,0:10:15.11,Onax2 Anri,,0,0,0,,So guuuuut!{\ Feels good~!}
+Dialogue: 0,0:10:15.11,0:10:18.27,Onax2 Anri,,0,0,0,,Meine Fotze ist schon wieder klatschnass!{\ My pussy is drenched a lot!}
+Dialogue: 0,0:10:27.98,0:10:31.73,Onax2 Anri,,0,0,0,,Nein... nicht dort... nicht in meinen Arsch!{\ No..not there..not in my ass!}
+Dialogue: 0,0:10:31.73,0:10:36.25,Onax2 Anri,,0,0,0,,Das... das tut weh...{\ It..it hurts in there...}
+Dialogue: 0,0:10:36.25,0:10:41.50,Onax2 Anri,,0,0,0,,Mein Arsch... fühlt sich so gut an!{\ It feels good in my ass~!}
+Dialogue: 0,0:10:43.33,0:10:46.35,Onax2 Anri,,0,0,0,,So gut!!!{\ Good~!!!}
+Dialogue: 0,0:10:58.11,0:11:03.14,Onax2 Anri,,0,0,0,,Wann das so weitergeht,\Nwerde ich noch verrückt!!{\ I'm gonna go crazy..from this good sensation~!!}
+Dialogue: 0,0:11:05.29,0:11:06.90,Onax2 Anri,,0,0,0,,Nein!{\ No~!}
+Dialogue: 0,0:11:07.57,0:11:07.90,Onax2 Anri,,0,0,0,,Nein...{\ No...}
+Dialogue: 0,0:11:08.98,0:11:11.66,Onax2 Anri,,0,0,0,,Da fließt etwas in mich...{\ It's inside of my stomach...}
+Dialogue: 0,0:11:12.93,0:11:15.52,Onax2 Anri,,0,0,0,,So viel passt da doch gar nicht rein!{\ Don't put it inside~!}
+Dialogue: 0,0:11:15.52,0:11:18.03,Onax2 Anri,,0,0,0,,Es tut weh!{\ It painful~!}
+Dialogue: 0,0:11:19.35,0:11:24.49,Onax2 Anri,,0,0,0,,Nein... Es kommt raus... Ich muss pinkeln...\NNicht hinsehen!!{\ No..It's gonna come out..the pee's gonna come out...\NDon't look at it~!!}
+Dialogue: 0,0:11:28.02,0:11:31.92,Onax2 Anri,,0,0,0,,Ich hab's rausgelassen...\NAlles ist aus mir rausgeflossen...{\ It's out..the thing from my stomach is coming out...}
+Dialogue: 0,0:11:32.70,0:11:34.77,Onax2 Anri,,0,0,0,,Was wird er blos als nächstes mit mir machen?{\ What..what's gonna be next?}
+Dialogue: 0,0:11:34.77,0:11:37.53,Onax2 Anri,,0,0,0,,Hä... Senpai?{\ Eh..Senior?}
+Dialogue: 0,0:11:40.64,0:11:46.23,Onax2 Anri,,0,0,0,,Der ist viel zu groß...\NDas wird Anris Pussy sprengen!{\ It's..too big..It's gonna rip apart Anri's pussy...}
+Dialogue: 0,0:11:46.37,0:11:48.09,Onax2 Anri,,0,0,0,,Nein... nein...{\ No..no...}
+Dialogue: 0,0:11:49.69,0:11:52.15,Onax2 Anri,,0,0,0,,Ich werde auseinander brechen!{\ It's gonna rip apart!!}
+Dialogue: 0,0:11:53.79,0:11:56.66,Onax2 Anri,,0,0,0,,Nein!!!{\ No~!!!}
+Dialogue: 0,0:12:14.62,0:12:21.97,Onax2 Anri,,0,0,0,,Nein!!! Wenn du das so brutal machst,...\Nwerde ich bestimmt gleich nochmal kommen!!!{\ No~!! I'm gonna cum again if you're doing it that hard!!}
+Dialogue: 0,0:12:35.95,0:12:38.10,Onax2 Anri,,0,0,0,,Ich kann's schon spüren...{\ Something great is coming~!}
+Dialogue: 0,0:12:38.10,0:12:41.04,Onax2 Anri,,0,0,0,,Nein...{\ No...}
+Dialogue: 0,0:12:53.55,0:12:58.87,Onax2 Anri,,0,0,0,,Ich komme... ich komme... ich komme!!!{\ Cumming..cumming..cumming..cumming~!!!!}
+Dialogue: 0,0:13:13.13,0:13:15.52,Onax2 Anri,,0,0,0,,Es fühlt sich so gut an!{\ It feels good~!}
+Dialogue: 0,0:13:16.40,0:13:19.11,Onax2 Anri,,0,0,0,,Senpai!{\ Senior~!}
+Dialogue: 0,0:13:19.11,0:13:25.48,Onax2 Anri,,0,0,0,,Senpai... bitte sieh dir Anris geile Mushi an!{\ Senior..please look at Anri's lewd pussy~!}
+Dialogue: 0,0:13:25.48,0:13:28.86,Onax2 Anri,,0,0,0,,Bitte besorg's mir noch härter!{\ Please rape me more!}
+Dialogue: 0,0:13:35.78,0:13:39.76,Onax2 Anri,,0,0,0,,Ich komme!!!{\ Cumming~!!!}
+Dialogue: 0,0:13:43.56,0:13:46.08,Onax2 Anri,,0,0,0,,Ich hab's schon wieder getan...{\ I'm doing it again...}
+Dialogue: 0,0:13:46.08,0:13:49.90,Onax2 Anri,,0,0,0,,{\fad(0,1000)}Masturbieren... ist einfach das Beste!!!{\ Masturbation is amazing!!!}
+Dialogue: 0,0:13:49.90,0:13:54.90,Onax2 Dialogue,,0000,0000,0000,,

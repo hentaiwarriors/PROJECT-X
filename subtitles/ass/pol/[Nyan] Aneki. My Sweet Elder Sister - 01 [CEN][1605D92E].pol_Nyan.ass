@@ -1,0 +1,135 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.4.665  Jan 20 2017  18:38:00
+ScriptType: v4.00+
+Last Style Storage: [848x480]
+Active Line: 0
+Title: Kainote Ass File
+Collisions: Normal
+ScaledBorderAndShadow: yes
+PlayResX: 848
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00D594FB,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,115,&H00FFFFFF,&H000000FF,&H00D594FB,&H00000000,0,0,0,0,100,100,0,0,1,6,0,5,20,20,2,1
+Style: Tytul,Franklin Gothic Medium,40,&H00D594FB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,40,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.29,0:00:33.93,Grupa,,0,0,0,,{\be1\fad(1519,897)}Nyan
+Dialogue: 0,0:00:16.29,0:00:33.93,Anime,,0,0,0,,{\pos(424,216)\blur5\fad(1519,897)\t(10278,$end,\fs150)}Aneki...\N{\blur2\fs40\bord3\t(10278,$end,\fs50)}My Sweet Elder Sister
+Dialogue: 0,0:00:21.50,0:00:25.42,Tytul,,0,0,0,,{\fad(564,437)}Saki
+Dialogue: 0,0:02:06.73,0:02:10.19,Default (i),,0,0,0,,{\be1}Saki od dawna podoba mi się.
+Dialogue: 0,0:02:10.19,0:02:13.56,Default (i),,0,0,0,,{\be1}Ale nie mam szans, nawet nie znam jej imienia.
+Dialogue: 0,0:02:13.56,0:02:16.08,Default (i),,0,0,0,,{\be1}Próbowałem zapomnieć, ale...
+Dialogue: 0,0:02:22.87,0:02:24.05,Default (i),,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:02:41.04,0:02:48.07,Default (i),,0,0,0,,{\be1}Gdy zobaczyłem ją spoconą to nie potrafiłem.
+Dialogue: 0,0:03:14.39,0:03:16.47,Default (i),,0,0,0,,{\be1}Zachowuj się naturalnie.
+Dialogue: 0,0:03:23.89,0:03:26.77,Default (i),,0,0,0,,{\be1}Zaraz zauważy.
+Dialogue: 0,0:03:26.77,0:03:28.00,Default,,0,0,0,,{\be1}Ej.
+Dialogue: 0,0:03:30.53,0:03:31.83,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:03:35.07,0:03:37.20,Default,,0,0,0,,{\be1}Ta gra jest fajnie, nie?
+Dialogue: 0,0:03:40.03,0:03:40.95,Default,,0,0,0,,{\be1}A, ta?
+Dialogue: 0,0:03:46.08,0:03:48.77,Default,,0,0,0,,{\be1}Ostatnio dużo w nią gram.
+Dialogue: 0,0:03:51.17,0:03:52.42,Default,,0,0,0,,{\be1}Super!
+Dialogue: 0,0:03:52.42,0:04:02.89,Default (i),,0,0,0,,{\be1}Nie wiedziałem jak do niej zagadać,\Nale okazało się, że lubimy tą samą grę.
+Dialogue: 0,0:04:03.94,0:04:09.91,Default,,0,0,0,,{\be1}Dzięki chwytom, których mnie nauczyłeś\Nw końcu pokonałam bossa.
+Dialogue: 0,0:04:09.91,0:04:10.90,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:04:11.44,0:04:20.41,Default (i),,0,0,0,,{\be1}Byliśmy sobie całkiem obcy,\Na teraz razem spędzamy sporo czasu.
+Dialogue: 0,0:04:20.41,0:04:22.37,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:04:23.51,0:04:24.79,Default,,0,0,0,,{\be1}Udało ci się!
+Dialogue: 0,0:04:26.79,0:04:28.33,Default,,0,0,0,,{\be1}Nieźle.
+Dialogue: 0,0:04:28.33,0:04:31.57,Default (i),,0,0,0,,{\be1}Zacząłem ją naprawdę lubić.
+Dialogue: 0,0:04:42.35,0:04:44.74,Default,,0,0,0,,{\be1}Ale dzisiaj gorąco.
+Dialogue: 0,0:04:44.74,0:04:45.85,Default,,0,0,0,,{\be1}No.
+Dialogue: 0,0:04:49.06,0:04:52.81,Default (i),,0,0,0,,{\be1}Czuję jej dezodorant.
+Dialogue: 0,0:04:58.15,0:05:06.41,Default,,0,0,0,,{\be1}Szkoda, że nie widziałeś jak wyglądałam\Npo siatkówce, byłam cała spocona.
+Dialogue: 0,0:05:06.41,0:05:07.70,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:05:07.70,0:05:08.71,Default,,0,0,0,,{\be1}Gorąco.
+Dialogue: 0,0:05:16.12,0:05:18.88,Default,,0,0,0,,{\be1}Idę do ubikacji.
+Dialogue: 0,0:05:18.88,0:05:19.59,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:05:26.69,0:05:31.72,Default (i),,0,0,0,,{\be1}Ciekawe czy ma tam swój strój z treningu.
+Dialogue: 0,0:05:55.93,0:05:59.03,Default (i),,0,0,0,,{\be1}To jej spodenki.
+Dialogue: 0,0:06:06.60,0:06:09.02,Default (i),,0,0,0,,{\be1}Jej zapach...
+Dialogue: 0,0:06:15.52,0:06:17.02,Default,,0,0,0,,{\be1}Saki...
+Dialogue: 0,0:06:29.33,0:06:33.46,Default,,0,0,0,,{\be1}Nie wiedziałam, że mnie kochasz.
+Dialogue: 0,0:06:34.89,0:06:39.62,Default,,0,0,0,,{\be1}Pewnie śmierdzi potem i siuśkami.
+Dialogue: 0,0:06:43.47,0:06:46.49,Default,,0,0,0,,{\be1}Ssij jeszcze.
+Dialogue: 0,0:06:49.91,0:06:53.61,Default,,0,0,0,,{\be1}Tak! Ssij mocniej!
+Dialogue: 0,0:06:59.48,0:07:03.71,Default,,0,0,0,,{\be1}Wstydzę się, ale tobie pokażę.
+Dialogue: 0,0:07:08.03,0:07:11.76,Default,,0,0,0,,{\be1}Teraz ja cię zadowolę.
+Dialogue: 0,0:07:16.24,0:07:19.33,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:07:21.42,0:07:30.10,Default,,0,0,0,,{\be1}W takim razie zostawię na tobie mój zapach!
+Dialogue: 0,0:07:32.35,0:07:33.52,Default,,0,0,0,,{\be1}Saki!
+Dialogue: 0,0:07:35.16,0:07:38.52,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:07:40.02,0:07:42.57,Default,,0,0,0,,{\be1}Takumi!
+Dialogue: 0,0:07:42.57,0:07:44.11,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:07:44.11,0:07:49.53,Default,,0,0,0,,{\be1}Śmiało, spuść mi się na twarz!
+Dialogue: 0,0:07:55.71,0:07:58.32,Default,,0,0,0,,{\be1}Takumi...
+Dialogue: 0,0:08:08.30,0:08:10.00,Default,,0,0,0,,{\be1}Saki...
+Dialogue: 0,0:08:13.56,0:08:18.23,Default (i),,0,0,0,,{\be1}Następnego dnia Saki\Nnie wspomniała nic o spodenkach.
+Dialogue: 0,0:08:18.23,0:08:26.99,Default (i),,0,0,0,,{\be1}Było mi głupio, że je wziąłem,\Nale nie mogłem się powstrzymać.
+Dialogue: 0,0:08:26.99,0:08:30.20,Default (i),,0,0,0,,{\be1}Przyglądałem się jej całymi dniami.
+Dialogue: 0,0:08:30.20,0:08:40.52,Default (i),,0,0,0,,{\be1}Marzyłem, żeby lizać ją po całym\Nciele i uprawiać z nią seks.
+Dialogue: 0,0:08:48.75,0:08:51.02,Default (i),,0,0,0,,{\be1}Nie będę tak szedł do domu.
+Dialogue: 0,0:08:53.85,0:08:56.28,Default (i),,0,0,0,,{\be1}Skończę szybko.
+Dialogue: 0,0:09:17.87,0:09:18.91,Default (i),,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:09:24.36,0:09:26.13,Default (i),,0,0,0,,{\be1}Saki!
+Dialogue: 0,0:09:26.92,0:09:32.14,Default,,0,0,0,,{\be1}Nie powinnam, ktoś mnie zobaczy!
+Dialogue: 0,0:09:35.84,0:09:38.66,Default (i),,0,0,0,,{\be1}Cipka Saki.
+Dialogue: 0,0:09:43.15,0:09:44.75,Default (i),,0,0,0,,{\be1}Saki.
+Dialogue: 0,0:09:48.12,0:09:50.11,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:09:52.24,0:09:57.12,Default,,0,0,0,,{\be1}Ktoś mnie jeszcze tu zgwałci!
+Dialogue: 0,0:10:07.00,0:10:11.13,Default,,0,0,0,,{\be1}Tak! Gorąco!
+Dialogue: 0,0:10:14.07,0:10:17.11,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:10:25.44,0:10:27.53,Default (i),,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:10:35.87,0:10:37.57,Default,,0,0,0,,{\be1}Takumi?
+Dialogue: 0,0:10:47.09,0:10:48.09,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:10:50.76,0:10:56.55,Default,,0,0,0,,{\be1}Przestań! Takumi!
+Dialogue: 0,0:11:03.81,0:11:05.52,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:11:05.83,0:11:09.99,Default (i),,0,0,0,,{\be1}Skórę ma gładszą niż myślałem.
+Dialogue: 0,0:11:09.99,0:11:13.57,Default (i),,0,0,0,,{\be1}Zapach dezodorantu\Nzmieszał się z zapachem potu.
+Dialogue: 0,0:11:14.79,0:11:16.53,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:11:16.53,0:11:21.54,Default (i),,0,0,0,,{\be1}Straciłem nad sobą kontrolę\Nprzy jej wilgotnych piersiach.
+Dialogue: 0,0:11:21.99,0:11:24.84,Default,,0,0,0,,{\be1}Nie patrz tam!
+Dialogue: 0,0:11:27.23,0:11:30.00,Default (i),,0,0,0,,{\be1}Chcę ją zobaczyć!
+Dialogue: 0,0:11:35.30,0:11:38.76,Default,,0,0,0,,{\be1}Przestań! Jestem tam brudna!
+Dialogue: 0,0:11:44.98,0:11:49.23,Default,,0,0,0,,{\be1}Nie! Takumi, przestań!
+Dialogue: 0,0:11:52.44,0:11:54.28,Default,,0,0,0,,{\be1}Nie możesz!
+Dialogue: 0,0:12:04.12,0:12:11.80,Default,,0,0,0,,{\be1}- Przynajmniej bądź delikatny!\N- Saki!
+Dialogue: 0,0:12:16.70,0:12:21.76,Default,,0,0,0,,{\be1}Nie tak mocno, zranisz mnie!
+Dialogue: 0,0:12:25.86,0:12:29.27,Default,,0,0,0,,{\be1}Saki!
+Dialogue: 0,0:12:31.00,0:12:32.02,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:34.07,0:12:35.02,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:12:36.94,0:12:41.03,Default,,0,0,0,,{\be1}Saki!
+Dialogue: 0,0:13:03.64,0:13:10.94,Default,,0,0,0,,{\be1}Nie powinnam robić tego tutaj,\Nale nie mogłam wytrzymać!
+Dialogue: 0,0:13:10.94,0:13:12.02,Default,,0,0,0,,{\be1}Saki.
+Dialogue: 0,0:13:12.85,0:13:19.47,Default,,0,0,0,,{\be1}Tyle razy próbowałam z tym skończyć,\Nale coś jest ze mną nie tak!
+Dialogue: 0,0:13:19.47,0:13:23.72,Default,,0,0,0,,{\be1}Zakochałem się w tobie jakiś czas temu.
+Dialogue: 0,0:13:25.08,0:13:30.54,Default,,0,0,0,,{\be1}Dlatego nie przeszkadzają mi twoje zboczenia.
+Dialogue: 0,0:13:31.25,0:13:34.85,Default,,0,0,0,,{\be1}Jesteś pewien?
+Dialogue: 0,0:13:34.85,0:13:35.55,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:13:39.23,0:13:40.56,Default,,0,0,0,,{\be1}Kocham...
+Dialogue: 0,0:13:43.22,0:13:47.06,Default,,0,0,0,,{\be1}Ja też cię kocham.
+Dialogue: 0,0:14:11.79,0:14:17.46,Default (i),,0,0,0,,{\be1}Następnego dnia nie wiedziałam,\Njak spojrzeć Takumiemu w oczy.
+Dialogue: 0,0:14:20.05,0:14:21.51,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:14:21.51,0:14:22.84,Default,,0,0,0,,{\be1}Hejo.
+Dialogue: 0,0:14:22.84,0:14:26.24,Default (i),,0,0,0,,{\be1}Zachowywał się tak jak zawsze.
+Dialogue: 0,0:14:28.39,0:14:31.31,Default (i),,0,0,0,,{\be1}Tyle że coś się zmieniło.
+Dialogue: 0,0:14:40.93,0:14:42.92,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:14:52.64,0:14:55.83,Default,,0,0,0,,{\be1}Patrz jak się dotykam.
+Dialogue: 0,0:15:02.17,0:15:03.34,Default,,0,0,0,,{\be1}Saki!
+Dialogue: 0,0:15:06.47,0:15:09.35,Default,,0,0,0,,{\be1}Patrz na mnie!
+Dialogue: 0,0:15:20.03,0:15:27.36,Default (i),,0,0,0,,{\be1}Codziennie masturbowaliśmy się\Npatrząc na siebie jak jakieś zboki.
+Dialogue: 0,0:15:27.36,0:15:33.83,Default (i),,0,0,0,,{\be1}Zawsze, gdy patrzy na mnie\Npodniecam się dużo mocniej.
+Dialogue: 0,0:15:36.04,0:15:39.09,Default,,0,0,0,,{\be1}Takumi, zróbmy to!
+Dialogue: 0,0:15:55.13,0:15:58.69,Default,,0,0,0,,{\be1}Wkładasz go do samego końca!
+Dialogue: 0,0:15:58.69,0:16:00.33,Default,,0,0,0,,{\be1}Saki!
+Dialogue: 0,0:16:02.35,0:16:08.31,Default (i),,0,0,0,,{\be1}Takumi wie jak mi dogodzić.
+Dialogue: 0,0:16:11.03,0:16:15.49,Default (i),,0,0,0,,{\be1}Cały czas jestem prawie przy orgazmie.

@@ -1,0 +1,85 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Stratosphera no Yousei 02
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.70,0:00:07.49,Default,,0,0,0,,난,
+Dialogue: 0,0:00:09.95,0:00:13.08,Default,,0,0,0,,뭔가를 찾고 있다.
+Dialogue: 0,0:00:13.08,0:00:24.92,Default,,0,0,0,,이 얼얼한것 같이 변화의 기분을 주는 뭔가를
+Dialogue: 0,0:00:28.52,0:00:33.40,Default,,0,0,0,,찾고 있다..
+Dialogue: 0,0:01:09.74,0:01:15.72,Default,,0,0,0,,음 뭐지..이 향기는 향기로운 후르츠같아..
+Dialogue: 0,0:03:35.00,0:03:41.63,Default,,0,0,0,,난,뭔가를 찾고 있다.
+Dialogue: 0,0:03:41.63,0:03:44.82,Default,,0,0,0,,무언가를
+Dialogue: 0,0:05:00.76,0:05:12.96,Default,,0,0,0,,===夜<Font Color="#cccccc">&추억록™<Font Color=WHITE>===\N<P>이 자막은 2차 가공 배포 및 상업적 용도로 쓰여져선 안되며\N다른 곳에 퍼가실때 꼭 출처를 밝혀주시기 바랍니다.\N자막은 한 사람의 지적 재산이라고 할 수 있습니다.
+Dialogue: 0,0:05:12.96,0:05:20.26,Default,,0,0,0,,스트라토스페라의 요정2
+Dialogue: 0,0:05:21.03,0:05:23.57,Default,,0,0,0,,===夜<Font Color="#cccccc">&추억록™<Font Color=WHITE>===<font>
+Dialogue: 0,0:05:23.57,0:05:26.04,Default,,0,0,0,,번역：key
+Dialogue: 0,0:05:26.04,0:05:30.66,Default,,0,0,0,,제작：karry
+Dialogue: 0,0:05:34.34,0:05:39.28,Default,,0,0,0,,예,먹을거리...(사시이레:수고하는 사람에게 주는 음식)
+Dialogue: 0,0:05:42.19,0:05:45.89,Default,,0,0,0,,어,미안하군
+Dialogue: 0,0:05:47.96,0:05:51.91,Default,,0,0,0,,우선,일순간분이지만
+Dialogue: 0,0:05:51.91,0:05:56.84,Default,,0,0,0,,어 미안하군.
+Dialogue: 0,0:05:57.99,0:06:07.64,Default,,0,0,0,,열중하는것도 좋지만,가끔은 밖의 공기 좀 마시세요.
+Dialogue: 0,0:06:07.64,0:06:12.36,Default,,0,0,0,,건강을 위해서 말이냐?
+Dialogue: 0,0:06:12.36,0:06:18.34,Default,,0,0,0,,뭐.뭐예요?다 듣고 있었나요?
+Dialogue: 0,0:06:26.40,0:06:30.39,Default,,0,0,0,,확실히.
+Dialogue: 0,0:07:38.16,0:07:40.87,Default,,0,0,0,,저..저기.
+Dialogue: 0,0:07:47.69,0:07:54.12,Default,,0,0,0,,전...여기서..너..무엇을..
+Dialogue: 0,0:08:00.91,0:08:06.06,Default,,0,0,0,,기.기다려..너..
+Dialogue: 0,0:08:44.15,0:08:45.71,Default,,0,0,0,,아.
+Dialogue: 0,0:08:45.71,0:08:54.63,Default,,0,0,0,,그애..이걸 보고 있었나?
+Dialogue: 0,0:11:50.45,0:11:53.40,Default,,0,0,0,,요정..
+Dialogue: 0,0:12:13.12,0:12:17.32,Default,,0,0,0,,적당한 에로사이트인가?
+Dialogue: 0,0:12:18.00,0:12:22.15,Default,,0,0,0,,어?아버지?
+Dialogue: 0,0:12:32.86,0:12:39.07,Default,,0,0,0,,너..너는.
+Dialogue: 0,0:12:43.37,0:12:45.69,Default,,0,0,0,,자,잠깐.
+Dialogue: 0,0:12:50.09,0:12:54.43,Default,,0,0,0,,자,잠깐. 너 기다려
+Dialogue: 0,0:13:04.05,0:13:07.66,Default,,0,0,0,,어째서..내가 있는곳에.
+Dialogue: 0,0:13:07.66,0:13:11.23,Default,,0,0,0,,하지만,아름답다.
+Dialogue: 0,0:13:11.23,0:13:14.39,Default,,0,0,0,,이렇게 귀여운 애를 본적이 없어.
+Dialogue: 0,0:13:14.39,0:13:19.36,Default,,0,0,0,,마치,인간이 아닌것 같다.
+Dialogue: 0,0:13:21.40,0:13:24.29,Default,,0,0,0,,아,.저..
+Dialogue: 0,0:13:38.75,0:13:40.99,Default,,0,0,0,,아,잠깐 기다려.
+Dialogue: 0,0:13:40.99,0:13:49.84,Default,,0,0,0,,미안, 하지만,갑자기..대체..어떻게.
+Dialogue: 0,0:13:49.84,0:13:53.53,Default,,0,0,0,,왜,가만히 있지.
+Dialogue: 0,0:13:53.53,0:13:58.38,Default,,0,0,0,,당신은 저의 목소리가 들리죠.
+Dialogue: 0,0:13:58.38,0:14:01.82,Default,,0,0,0,,이 목소리는 너?
+Dialogue: 0,0:14:06.44,0:14:11.04,Default,,0,0,0,,봐 주세요..
+Dialogue: 0,0:14:25.01,0:14:28.31,Default,,0,0,0,,당신도 보여줘요.
+Dialogue: 0,0:14:28.31,0:14:35.03,Default,,0,0,0,,에?안돼..난.
+Dialogue: 0,0:15:09.02,0:15:12.69,Default,,0,0,0,,그걸.해주세요.
+Dialogue: 0,0:15:17.82,0:15:19.22,Default,,0,0,0,,해주세요..
+Dialogue: 0,0:15:19.22,0:15:20.44,Default,,0,0,0,,부탁이에요..
+Dialogue: 0,0:15:20.44,0:15:24.83,Default,,0,0,0,,해주세요.
+Dialogue: 0,0:17:11.82,0:17:18.83,Default,,0,0,0,,기다려.
+Dialogue: 0,0:17:27.66,0:17:34.05,Default,,0,0,0,,내가 찾고 있던 건 그건,
+Dialogue: 0,0:17:34.05,0:17:40.21,Default,,0,0,0,,색을 좋아하는 하얀피부의 소녀
+Dialogue: 0,0:18:21.34,0:18:24.54,Default,,0,0,0,,거기는 안돼.?
+Dialogue: 0,0:18:40.01,0:18:42.38,Default,,0,0,0,,키스도 안되는거야.?
+Dialogue: 0,0:18:51.92,0:18:57.18,Default,,0,0,0,,난 모르겠어. 널.
+Dialogue: 0,0:18:57.18,0:19:01.29,Default,,0,0,0,,너를 찾으면 찾을수록..무서워.
+Dialogue: 0,0:19:01.29,0:19:02.34,Default,,0,0,0,,그래요?
+Dialogue: 0,0:19:02.34,0:19:05.81,Default,,0,0,0,,하지만,난 너에 대해선..아무것도 몰라.
+Dialogue: 0,0:19:05.81,0:19:07.73,Default,,0,0,0,,이름도.
+Dialogue: 0,0:19:07.73,0:19:09.78,Default,,0,0,0,,후로이에요..
+Dialogue: 0,0:19:18.50,0:19:21.61,Default,,0,0,0,,후로이
+Dialogue: 0,0:19:57.92,0:19:59.68,Default,,0,0,0,,괜찮은거야?
+Dialogue: 0,0:20:28.38,0:20:32.06,Default,,0,0,0,,우리들에겐 없어요.
+Dialogue: 0,0:20:32.06,0:20:35.97,Default,,0,0,0,,후로이..
+Dialogue: 0,0:21:06.48,0:21:10.00,Default,,0,0,0,,기분좋아.
+Dialogue: 0,0:21:14.86,0:21:18.37,Default,,0,0,0,,기분좋아.
+Dialogue: 0,0:22:00.96,0:22:06.24,Default,,0,0,0,,그래..확실히.
+Dialogue: 0,0:22:31.05,0:22:34.12,Default,,0,0,0,,성기가 없어..
+Dialogue: 0,0:22:34.12,0:22:36.72,Default,,0,0,0,,설마.
+Dialogue: 0,0:23:18.59,0:23:23.14,Default,,0,0,0,,하하하,뭐하는거야....난.
+Dialogue: 0,0:23:31.61,0:23:37.50,Default,,0,0,0,,후로이.너에 대해서..좀더..알고..싶어
+Dialogue: 0,0:23:37.50,0:23:44.63,Default,,0,0,0,,난 네가 없다면....
+Dialogue: 0,0:24:40.45,0:26:14.26,Default,,0,0,0,,===夜&추억록™===

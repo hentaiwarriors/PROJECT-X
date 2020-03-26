@@ -1,0 +1,320 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.797 - GridRefactory-da547bd
+PlayResX: 640
+PlayResY: 480
+Title: Nyan
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [640x480]
+YCbCr Matrix: TV.601
+Collisions: Normal
+Active Line: 0
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Original Script: kostek00
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00896E66,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,8,1
+Style: Anime,Franklin Gothic Medium,32,&H00AA8B86,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,105,100,0,0,1,1.5,0,2,45,20,25,1
+Style: Tytul,Franklin Gothic Medium,32,&H00FFFFFF,&H000000FF,&HB4000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,20,50,10,1
+Style: Znak,Franklin Gothic Medium,32,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,20,20,10,1
+Style: OP Rom,Franklin Gothic Medium,28,&H00B3DAFF,&H00626262,&H00001A36,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,20,1
+Style: OP Rom 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00497DB7,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,8,20,20,20,1
+Style: OP Kan,Franklin Gothic Medium,25,&H00B3DAFF,&H00626262,&H00001A36,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,61,1
+Style: OP Kan 2,Franklin Gothic Medium,25,&HFF000000,&H00626262,&H00497DB7,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,8,20,20,61,1
+Style: OP Pl,Franklin Gothic Medium,28,&H00B3DAFF,&H00626262,&H00001A36,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,20,1
+Style: OP Pl 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00497DB7,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:19.68,0:01:23.85,Grupa,,0,0,0,,{\be1}Nyan
+Dialogue: 0,0:01:20.56,0:01:23.85,Anime,,0,0,0,,{\be1\fscx170}-{\fscx105}Choukou Tenshi Escalayer{\fscx170}-
+Dialogue: 0,0:02:55.65,0:03:00.24,Tytul,,0,0,0,,{\blur3\fad(693,561)}Zabójca Dielastów!
+Dialogue: 0,0:01:27.69,0:01:33.52,OP Rom 2,,0,0,0,,{\be3\fad(300,300)}Nanigenai mainichi no shiawase
+Dialogue: 0,0:01:33.83,0:01:40.86,OP Rom 2,,0,0,0,,{\be3\fad(300,300)}Fui ni koware kiesou ni narukara kowai
+Dialogue: 0,0:01:41.72,0:01:47.77,OP Rom 2,,0,0,0,,{\be3\fad(300,300)}Hajimete no tokimeki wa eien
+Dialogue: 0,0:01:47.83,0:01:55.06,OP Rom 2,,0,0,0,,{\be3\fad(300,300)}Negai kanau asu wo yumemi tatte ii yo ne
+Dialogue: 0,0:01:55.06,0:02:02.25,OP Rom 2,,0,0,0,,{\be3\fad(300,0)}Anata no yubisaki ga kokoro ni fureru tabi ni
+Dialogue: 0,0:02:02.25,0:02:05.54,OP Rom 2,,0,0,0,,{\be3}Dokidoki takamaru no
+Dialogue: 0,0:02:05.54,0:02:08.37,OP Rom 2,,0,0,0,,{\be3\fad(0,300)}Escalation!
+Dialogue: 0,0:02:08.87,0:02:14.43,OP Rom 2,,0,0,0,,{\be3\fad(300,0)}Karada kake meguru atsui power
+Dialogue: 0,0:02:14.43,0:02:21.45,OP Rom 2,,0,0,0,,{\be3}Aoi chikyuu wo mamoru tame mune no kodou
+Dialogue: 0,0:02:21.45,0:02:25.94,OP Rom 2,,0,0,0,,{\be3}Aku wo utsu chikara yobisamasu
+Dialogue: 0,0:02:25.94,0:02:28.61,OP Rom 2,,0,0,0,,{\be3}Watashi wo kaete yuku
+Dialogue: 0,0:02:28.61,0:02:35.34,OP Rom 2,,0,0,0,,{\be3}Tsuyoku nareru no nukumori wo mamoru tameni
+Dialogue: 0,0:02:35.34,0:02:41.25,OP Rom 2,,0,0,0,,{\be3\fad(0,300)}Omoi tsurugi ni kome ima
+Dialogue: 0,0:02:41.25,0:02:46.09,OP Rom 2,,0,0,0,,{\be3\fad(300,300)}Fightin' to love you
+Dialogue: 0,0:01:27.69,0:01:33.52,OP Kan 2,,0,0,0,,{\be3\fad(300,300)}何気ない毎日の幸せ
+Dialogue: 0,0:01:33.83,0:01:40.86,OP Kan 2,,0,0,0,,{\be3\fad(300,300)}ふいに壊れ　消えそうになるから怖い
+Dialogue: 0,0:01:41.72,0:01:47.77,OP Kan 2,,0,0,0,,{\be3\fad(300,300)}初めてのときめきは　永遠
+Dialogue: 0,0:01:47.83,0:01:55.06,OP Kan 2,,0,0,0,,{\be3\fad(300,300)}願いかなう明日を夢見たっていいよね
+Dialogue: 0,0:01:55.06,0:02:02.25,OP Kan 2,,0,0,0,,{\be3\fad(300,0)}あなたの指先が　心に触れるたびに
+Dialogue: 0,0:02:02.25,0:02:05.54,OP Kan 2,,0,0,0,,{\be3}ドキドキ高まるの
+Dialogue: 0,0:02:08.87,0:02:14.43,OP Kan 2,,0,0,0,,{\be3\fad(300,0)}カラダ駆け巡る熱いパワー
+Dialogue: 0,0:02:14.43,0:02:21.45,OP Kan 2,,0,0,0,,{\be3}蒼い地球を守るため　胸の鼓動
+Dialogue: 0,0:02:21.45,0:02:25.94,OP Kan 2,,0,0,0,,{\be3}悪を討つ力呼び覚ます
+Dialogue: 0,0:02:25.94,0:02:28.61,OP Kan 2,,0,0,0,,{\be3}私を変えてゆく
+Dialogue: 0,0:02:28.61,0:02:35.34,OP Kan 2,,0,0,0,,{\be3}強くなれるの　ぬくもりを守るために
+Dialogue: 0,0:02:35.34,0:02:41.25,OP Kan 2,,0,0,0,,{\be3\fad(0,300)}想い剣に込め　今
+Dialogue: 0,0:01:27.69,0:01:33.52,OP Pl 2,,0,0,0,,{\be3\fad(300,300)}Małe, codzienne rzeczy sprawiają mi radość.
+Dialogue: 0,0:01:33.83,0:01:40.86,OP Pl 2,,0,0,0,,{\be3\fad(300,300)}Boję się, że mogę je stracić.
+Dialogue: 0,0:01:41.72,0:01:47.77,OP Pl 2,,0,0,0,,{\be3\fad(300,300)}Pierwsza miłość jest wieczna.
+Dialogue: 0,0:01:47.83,0:01:55.06,OP Pl 2,,0,0,0,,{\be3\fad(300,300)}Czy mogę prosić\No spełnienie mojego marzenia?
+Dialogue: 0,0:01:55.06,0:02:05.54,OP Pl 2,,0,0,0,,{\be3\fad(300,0)}Moje serce bije szybciej, gdy go dosięgasz.
+Dialogue: 0,0:02:05.54,0:02:08.37,OP Pl 2,,0,0,0,,{\be3\fad(0,300)}Eskalacja!
+Dialogue: 0,0:02:08.87,0:02:14.43,OP Pl 2,,0,0,0,,{\be3\fad(300,0)}Gotuje się we mnie moc!
+Dialogue: 0,0:02:14.43,0:02:21.45,OP Pl 2,,0,0,0,,{\be3}Moje serce bije szybciej dla Ziemi!
+Dialogue: 0,0:02:21.45,0:02:28.61,OP Pl 2,,0,0,0,,{\be3}Przebudziłam swoją moc, żeby pokonać zło!
+Dialogue: 0,0:02:28.61,0:02:35.34,OP Pl 2,,0,0,0,,{\be3}Będę silniejsza dla mojego ukochanego!
+Dialogue: 0,0:02:35.34,0:02:41.25,OP Pl 2,,0,0,0,,{\be3\fad(0,300)}Będę dzierżyć miecz odwagi!
+Dialogue: 0,0:02:41.25,0:02:46.09,OP Pl 2,,0,0,0,,{\be3\fad(300,300)}Walczę z miłości do ciebie!
+Dialogue: 1,0:01:27.69,0:01:33.52,OP Rom,,0,0,0,,{\be1\fad(300,300)}Nanigenai mainichi no shiawase
+Dialogue: 1,0:01:33.83,0:01:40.86,OP Rom,,0,0,0,,{\be1\fad(300,300)}Fui ni koware kiesou ni narukara kowai
+Dialogue: 1,0:01:41.72,0:01:47.77,OP Rom,,0,0,0,,{\be1\fad(300,300)}Hajimete no tokimeki wa eien
+Dialogue: 1,0:01:47.83,0:01:55.06,OP Rom,,0,0,0,,{\be1\fad(300,300)}Negai kanau asu wo yumemi tatte ii yo ne
+Dialogue: 1,0:01:55.06,0:02:02.25,OP Rom,,0,0,0,,{\be1\fad(300,0)}Anata no yubisaki ga kokoro ni fureru tabi ni
+Dialogue: 1,0:02:02.25,0:02:05.54,OP Rom,,0,0,0,,{\be1}Dokidoki takamaru no
+Dialogue: 1,0:02:05.54,0:02:08.37,OP Rom,,0,0,0,,{\be1\fad(0,300)}Escalation!
+Dialogue: 1,0:02:08.87,0:02:14.43,OP Rom,,0,0,0,,{\be1\fad(300,0)}Karada kake meguru atsui power
+Dialogue: 1,0:02:14.43,0:02:21.45,OP Rom,,0,0,0,,{\be1}Aoi chikyuu wo mamoru tame mune no kodou
+Dialogue: 1,0:02:21.45,0:02:25.94,OP Rom,,0,0,0,,{\be1}Aku wo utsu chikara yobisamasu
+Dialogue: 1,0:02:25.94,0:02:28.61,OP Rom,,0,0,0,,{\be1}Watashi wo kaete yuku
+Dialogue: 1,0:02:28.61,0:02:35.34,OP Rom,,0,0,0,,{\be1}Tsuyoku nareru no nukumori wo mamoru tameni
+Dialogue: 1,0:02:35.34,0:02:41.25,OP Rom,,0,0,0,,{\be1\fad(0,300)}Omoi tsurugi ni kome ima
+Dialogue: 1,0:02:41.25,0:02:46.09,OP Rom,,0,0,0,,{\be1\fad(300,300)}Fightin' to love you
+Dialogue: 1,0:01:27.69,0:01:33.52,OP Kan,,0,0,0,,{\be1\fad(300,300)}何気ない毎日の幸せ
+Dialogue: 1,0:01:33.83,0:01:40.86,OP Kan,,0,0,0,,{\be1\fad(300,300)}ふいに壊れ　消えそうになるから怖い
+Dialogue: 1,0:01:41.72,0:01:47.77,OP Kan,,0,0,0,,{\be1\fad(300,300)}初めてのときめきは　永遠
+Dialogue: 1,0:01:47.83,0:01:55.06,OP Kan,,0,0,0,,{\be1\fad(300,300)}願いかなう明日を夢見たっていいよね
+Dialogue: 1,0:01:55.06,0:02:02.25,OP Kan,,0,0,0,,{\be1\fad(300,0)}あなたの指先が　心に触れるたびに
+Dialogue: 1,0:02:02.25,0:02:05.54,OP Kan,,0,0,0,,{\be1}ドキドキ高まるの
+Dialogue: 1,0:02:08.87,0:02:14.43,OP Kan,,0,0,0,,{\be1\fad(300,0)}カラダ駆け巡る熱いパワー
+Dialogue: 1,0:02:14.43,0:02:21.45,OP Kan,,0,0,0,,{\be1}蒼い地球を守るため　胸の鼓動
+Dialogue: 1,0:02:21.45,0:02:25.94,OP Kan,,0,0,0,,{\be1}悪を討つ力呼び覚ます
+Dialogue: 1,0:02:25.94,0:02:28.61,OP Kan,,0,0,0,,{\be1}私を変えてゆく
+Dialogue: 1,0:02:28.61,0:02:35.34,OP Kan,,0,0,0,,{\be1}強くなれるの　ぬくもりを守るために
+Dialogue: 1,0:02:35.34,0:02:41.25,OP Kan,,0,0,0,,{\be1\fad(0,300)}想い剣に込め　今
+Dialogue: 1,0:01:27.69,0:01:33.52,OP Pl,,0,0,0,,{\be1\fad(300,300)}Małe, codzienne rzeczy sprawiają mi radość.
+Dialogue: 1,0:01:33.83,0:01:40.86,OP Pl,,0,0,0,,{\be1\fad(300,300)}Boję się, że mogę je stracić.
+Dialogue: 1,0:01:41.72,0:01:47.77,OP Pl,,0,0,0,,{\be1\fad(300,300)}Pierwsza miłość jest wieczna.
+Dialogue: 1,0:01:47.83,0:01:55.06,OP Pl,,0,0,0,,{\be1\fad(300,300)}Czy mogę prosić\No spełnienie mojego marzenia?
+Dialogue: 1,0:01:55.06,0:02:05.54,OP Pl,,0,0,0,,{\be1\fad(300,0)}Moje serce bije szybciej, gdy go dosięgasz.
+Dialogue: 1,0:02:05.54,0:02:08.37,OP Pl,,0,0,0,,{\be1\fad(0,300)}Eskalacja!
+Dialogue: 1,0:02:08.87,0:02:14.43,OP Pl,,0,0,0,,{\be1\fad(300,0)}Gotuje się we mnie moc!
+Dialogue: 1,0:02:14.43,0:02:21.45,OP Pl,,0,0,0,,{\be1}Moje serce bije szybciej dla Ziemi!
+Dialogue: 1,0:02:21.45,0:02:28.61,OP Pl,,0,0,0,,{\be1}Przebudziłam swoją moc, żeby pokonać zło!
+Dialogue: 1,0:02:28.61,0:02:35.34,OP Pl,,0,0,0,,{\be1}Będę silniejsza dla mojego ukochanego!
+Dialogue: 1,0:02:35.34,0:02:41.25,OP Pl,,0,0,0,,{\be1\fad(0,300)}Będę dzierżyć miecz odwagi!
+Dialogue: 1,0:02:41.25,0:02:46.09,OP Pl,,0,0,0,,{\be1\fad(300,300)}Walczę z miłości do ciebie!
+Dialogue: 0,0:00:04.00,0:00:05.10,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:00:10.03,0:00:11.90,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:00:15.88,0:00:17.99,Default,,0,0,0,,{\be1}Ktoś nas usłyszy.
+Dialogue: 0,0:00:22.62,0:00:25.88,Default,,0,0,0,,{\be1}I to właśnie jest ekscytujące, nie?
+Dialogue: 0,0:00:31.92,0:00:33.99,Default,,0,0,0,,{\be1}Tak, ale...
+Dialogue: 0,0:00:56.52,0:00:58.62,Default,,0,0,0,,{\be1}Podnieciłaś się?
+Dialogue: 0,0:01:00.33,0:01:02.20,Default,,0,0,0,,{\be1}Uważaj, bo cię usłyszy.
+Dialogue: 0,0:03:06.20,0:03:07.69,Default,,0,0,0,,{\be1}I jak?
+Dialogue: 0,0:03:07.69,0:03:10.25,Default,,0,0,0,,{\be1}Niezbyt imponująco.
+Dialogue: 0,0:03:10.25,0:03:12.49,Default,,0,0,0,,{\be1}To też nie?
+Dialogue: 0,0:03:12.49,0:03:15.76,Default,,0,0,0,,{\be1}Co ją może podniecić?
+Dialogue: 0,0:03:15.76,0:03:24.26,Default,,0,0,0,,{\be1}Na razie ma energię na jedną przemianę\Ni pozostanie w niej przez 5 minut.
+Dialogue: 0,0:03:26.11,0:03:28.21,Default,,0,0,0,,{\be1}To wystarczy?
+Dialogue: 0,0:03:28.21,0:03:30.60,Default,,0,0,0,,{\be1}Wątpię.
+Dialogue: 0,0:03:59.71,0:04:01.97,Default,,0,0,0,,{\be1}Nie jest dobrze!
+Dialogue: 0,0:04:01.97,0:04:03.22,Default,,0,0,0,,{\be1}No to mamy problem.
+Dialogue: 0,0:04:05.60,0:04:07.46,Default,,0,0,0,,{\be1}Idzie na nas!
+Dialogue: 0,0:04:08.10,0:04:09.97,Default,,0,0,0,,{\be1}Przepraszam, że tak długo.
+Dialogue: 0,0:04:10.42,0:04:13.64,Default,,0,0,0,,{\be1}Sayuka, wystarczy ci energii\Nna jedną przemianę.
+Dialogue: 0,0:04:14.69,0:04:15.75,Default,,0,0,0,,{\be1}Sayuka.
+Dialogue: 0,0:04:16.86,0:04:18.46,Default,,0,0,0,,{\be1}Muszę iść.
+Dialogue: 0,0:04:18.46,0:04:19.88,Default,,0,0,0,,{\be1}Kyo, uciekaj stąd.
+Dialogue: 0,0:04:21.24,0:04:22.65,Default,,0,0,0,,{\be1}Dobra, przemień się!
+Dialogue: 0,0:04:25.70,0:04:26.91,Default,,0,0,0,,{\be1}Przepływ energii!
+Dialogue: 0,0:04:28.00,0:04:30.91,Default,,0,0,0,,{\be1}Przemiana!
+Dialogue: 0,0:04:42.11,0:04:46.00,Default,,0,0,0,,{\be1}Będę bronić Ziemi i...
+Dialogue: 0,0:04:47.01,0:04:50.27,Default,,0,0,0,,{\be1}Byle wiatr mnie nie pokona!
+Dialogue: 0,0:05:17.50,0:05:19.19,Default,,0,0,0,,{\be1}Pokonałam go?
+Dialogue: 0,0:05:34.52,0:05:35.48,Default,,0,0,0,,{\be1}Sayuka!
+Dialogue: 0,0:05:44.94,0:05:48.04,Default,,0,0,0,,{\be1}Co to?\NMój kostium się rozpuszcza!
+Dialogue: 0,0:05:57.92,0:06:01.36,Default,,0,0,0,,{\be1}No co?\NNie widzisz, że ma kłopoty?
+Dialogue: 0,0:06:01.36,0:06:03.00,Default,,0,0,0,,{\be1}Sytuacja jest krytyczna.
+Dialogue: 0,0:06:03.00,0:06:07.38,Default,,0,0,0,,{\be1}Ta ciecz obniżyła funkcje\Nkombinezonu o 40%.
+Dialogue: 0,0:06:07.84,0:06:09.74,Default,,0,0,0,,{\be1}Tyle to sam widzę!
+Dialogue: 0,0:06:09.74,0:06:12.14,Default,,0,0,0,,{\be1}Nie można czegoś zrobić?
+Dialogue: 0,0:06:12.81,0:06:15.99,Default,,0,0,0,,{\be1}Nie zostało jej prawie nic energii.
+Dialogue: 0,0:06:17.94,0:06:22.98,Default (i),,0,0,0,,{\be1}To jest takie lepkie i paskudne,\Na mimo to podnieca mnie.
+Dialogue: 0,0:06:35.36,0:06:39.25,Default (i),,0,0,0,,{\be1}Przestań, sperma Kyo wycieka!
+Dialogue: 0,0:06:41.87,0:06:43.51,Default (i),,0,0,0,,{\be1}Kyo, nie patrz!
+Dialogue: 0,0:06:44.20,0:06:46.71,Default (i),,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:06:52.68,0:06:55.01,Default,,0,0,0,,{\be1}Rośnie poziom energii.
+Dialogue: 0,0:06:55.01,0:06:56.77,Default,,0,0,0,,{\be1}Poważnie?
+Dialogue: 0,0:06:57.93,0:06:58.73,Default (i),,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:07:12.67,0:07:14.58,Default,,0,0,0,,{\be1}W pełni naładowana.
+Dialogue: 0,0:07:14.58,0:07:17.69,Default,,0,0,0,,{\be1}Cholera, ze mną się nie udało!
+Dialogue: 0,0:07:17.69,0:07:21.90,Default,,0,0,0,,{\be1}Trzeba przeanalizować co się stało\Ni odtworzyć to później.
+Dialogue: 0,0:07:21.90,0:07:23.96,Default,,0,0,0,,{\be1}Ale na razie wydaj jej rozkaz.
+Dialogue: 0,0:07:24.98,0:07:26.61,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:07:26.61,0:07:29.49,Default,,0,0,0,,{\be1}Sayuka, słyszysz mnie? Ocknij się!
+Dialogue: 0,0:07:30.97,0:07:33.05,Default,,0,0,0,,{\be1}Kyo?
+Dialogue: 0,0:07:33.05,0:07:36.13,Default,,0,0,0,,{\be1}Masz wystarczająco dużo energii, wykończ go!
+Dialogue: 0,0:07:37.62,0:07:39.27,Default,,0,0,0,,{\be1}Kyo.
+Dialogue: 0,0:07:44.86,0:07:47.94,Default,,0,0,0,,{\be1}Niszczący węzeł.
+Dialogue: 0,0:07:54.97,0:07:58.86,Default,,0,0,0,,{\be1}Dawno nie wywołała takiej eksplozji.
+Dialogue: 0,0:08:02.21,0:08:06.59,Default,,0,0,0,,{\be1}Sporo nas to kosztowało,\Nale mamy już wszystkie dane.
+Dialogue: 0,0:08:06.59,0:08:09.63,Default,,0,0,0,,{\be1}Ten dzieciak jest najważniejszy.
+Dialogue: 0,0:08:10.72,0:08:13.72,Default,,0,0,0,,{\be1}Wystarczy, że go zatrzymam, tak?
+Dialogue: 0,0:08:15.26,0:08:22.69,Default,,0,0,0,,{\be1}Tak, dopóki dynamo nie zadziała,\Nnasz Escalayer będzie niepokonany.
+Dialogue: 0,0:08:22.69,0:08:24.65,Default,,0,0,0,,{\be1}Liczę na ciebie.
+Dialogue: 0,0:08:26.31,0:08:30.36,Default,,0,0,0,,{\be1}Przecież sama to zrobisz,\Nwięc czemu się wahasz?
+Dialogue: 0,0:08:35.18,0:08:39.01,Default,,0,0,0,,{\be1}Rozgniewałem cię, dowódco?
+Dialogue: 0,0:08:40.58,0:08:42.21,Default,,0,0,0,,{\be1}Powodzenia.
+Dialogue: 0,0:09:01.04,0:09:08.27,Default,,0,0,0,,{\be1}Znajoma Sayuki powiedziała,\Nże nie nadaję się na jej chłopaka.
+Dialogue: 0,0:09:09.88,0:09:11.44,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:09:11.44,0:09:15.21,Default,,0,0,0,,{\be1}Powiedziała, że nie potrafię\Njej podekscytować.
+Dialogue: 0,0:09:18.86,0:09:22.83,Default,,0,0,0,,{\be1}Uspokój się i napij się herbaty.
+Dialogue: 0,0:09:30.04,0:09:32.35,Default,,0,0,0,,{\be1}Papla co jej ślina przyniesie na język.
+Dialogue: 0,0:09:33.97,0:09:36.80,Default,,0,0,0,,{\be1}Że niby nie mam żadnej techniki?!
+Dialogue: 0,0:09:41.68,0:09:45.73,Default,,0,0,0,,{\be1}Nie ruszaj się, muszę ją zetrzeć.
+Dialogue: 0,0:09:46.73,0:09:50.94,Default,,0,0,0,,{\be1}Nie stresuj się tak mocno.
+Dialogue: 0,0:09:52.22,0:09:54.44,Default,,0,0,0,,{\be1}Jesteś po prostu przemęczony.
+Dialogue: 0,0:09:56.63,0:09:58.60,Default,,0,0,0,,{\be1}Zaraz poczujesz się lepiej.
+Dialogue: 0,0:10:03.87,0:10:05.26,Default,,0,0,0,,{\be1}Kyouhei.
+Dialogue: 0,0:10:11.46,0:10:12.80,Default,,0,0,0,,{\be1}Z tobą nie ma problemu.
+Dialogue: 0,0:10:16.80,0:10:18.35,Default,,0,0,0,,{\be1}Pani Ryouko!
+Dialogue: 0,0:10:20.30,0:10:24.56,Default,,0,0,0,,{\be1}Kyouhei, odpowiedz, pojawił się Dielast.
+Dialogue: 0,0:10:25.69,0:10:27.27,Default,,0,0,0,,{\be1}Nie odpowiada?
+Dialogue: 0,0:10:27.27,0:10:31.02,Default,,0,0,0,,{\be1}Chyba wyłączył komunikator.
+Dialogue: 0,0:10:32.65,0:10:34.44,Default,,0,0,0,,{\be1}To przeze mnie.
+Dialogue: 0,0:10:35.23,0:10:38.40,Default,,0,0,0,,{\be1}Nie możemy.
+Dialogue: 0,0:10:40.42,0:10:42.33,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:10:47.96,0:10:49.27,Default,,0,0,0,,{\be1}Pani Ryouko.
+Dialogue: 0,0:10:50.35,0:10:52.56,Default,,0,0,0,,{\be1}Nie przepraszaj.
+Dialogue: 0,0:10:54.05,0:10:58.14,Default,,0,0,0,,{\be1}Nawet nie wiesz, ile na to czekałam.
+Dialogue: 0,0:10:59.84,0:11:02.41,Default,,0,0,0,,{\be1}Nie zmuszaj mnie, żebym to powiedziała.
+Dialogue: 0,0:11:04.46,0:11:09.48,Default,,0,0,0,,{\be1}Kyouhei, byłeś już z prawdziwą kobietą?
+Dialogue: 0,0:11:12.31,0:11:13.44,Default,,0,0,0,,{\be1}Podniecasz się?
+Dialogue: 0,0:11:14.23,0:11:19.37,Default,,0,0,0,,{\be1}To nie twoja wina,\Npo prostu ten zbok jest do niczego.
+Dialogue: 0,0:11:19.95,0:11:23.75,Default,,0,0,0,,{\be1}Ale upokorzyłam go.
+Dialogue: 0,0:11:23.75,0:11:28.66,Default,,0,0,0,,{\be1}Spróbuję zdalnie włączyć komunikator.
+Dialogue: 0,0:11:28.66,0:11:29.74,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:11:31.82,0:11:36.32,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:11:42.94,0:11:44.45,Default,,0,0,0,,{\be1}Zamknij oczy.
+Dialogue: 0,0:11:45.51,0:11:47.18,Default,,0,0,0,,{\be1}Poczuj mnie.
+Dialogue: 0,0:11:48.35,0:11:50.81,Default,,0,0,0,,{\be1}Nadal nie działa.
+Dialogue: 0,0:11:50.81,0:11:53.31,Default,,0,0,0,,{\be1}Chodźmy bez niego!
+Dialogue: 0,0:11:54.69,0:11:58.28,Default,,0,0,0,,{\be1}Wystarczy ci energii\Ndo transformacji, ale...
+Dialogue: 0,0:11:59.03,0:12:01.46,Default,,0,0,0,,{\be1}Nie martw się, jakoś się uda.
+Dialogue: 0,0:12:02.43,0:12:06.78,Default,,0,0,0,,{\be1}Przepływ energii! Przemiana!
+Dialogue: 0,0:12:09.79,0:12:13.06,Default,,0,0,0,,{\be1}Wiedziałeś, że u mężczyzn\Nteż są wrażliwe?
+Dialogue: 0,0:12:17.60,0:12:20.46,Default,,0,0,0,,{\be1}Połóż ręce za głową.
+Dialogue: 0,0:12:20.46,0:12:23.74,Default,,0,0,0,,{\be1}A jeśli czegoś spróbujesz, ukarzę cię.
+Dialogue: 0,0:12:24.76,0:12:25.64,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:12:32.23,0:12:33.68,Default,,0,0,0,,{\be1}Dobry chłopiec.
+Dialogue: 0,0:12:47.07,0:12:50.20,Default,,0,0,0,,{\be1}Co pani robi?
+Dialogue: 0,0:12:56.63,0:13:01.13,Default,,0,0,0,,{\be1}Czasem trzeba robić\Nrzeczy niespodziewane.
+Dialogue: 0,0:13:02.42,0:13:04.09,Default,,0,0,0,,{\be1}Przyjemnie, prawda?
+Dialogue: 0,0:13:09.51,0:13:11.81,Default,,0,0,0,,{\be1}Tak mocno ci stanął.
+Dialogue: 0,0:13:16.81,0:13:20.13,Default,,0,0,0,,{\be1}Skąd ich tu tyle?
+Dialogue: 0,0:13:21.53,0:13:25.20,Default,,0,0,0,,{\be1}Escalayerze, to twój koniec!
+Dialogue: 0,0:13:26.51,0:13:29.03,Default,,0,0,0,,{\be1}Wykrywam duże stężenie energii.
+Dialogue: 0,0:13:29.51,0:13:30.91,Default,,0,0,0,,{\be1}Uważaj...
+Dialogue: 0,0:13:37.71,0:13:38.96,Default,,0,0,0,,{\be1}Madoka!
+Dialogue: 0,0:14:11.92,0:14:14.08,Default,,0,0,0,,{\be1}Pani Ryouko, już nie mogę!
+Dialogue: 0,0:14:14.08,0:14:15.67,Default,,0,0,0,,{\be1}Jeszcze nie.
+Dialogue: 0,0:14:16.25,0:14:18.90,Default,,0,0,0,,{\be1}Musisz wytrzymać.
+Dialogue: 0,0:14:37.56,0:14:39.69,Default,,0,0,0,,{\be1}Dam ci raz dojść.
+Dialogue: 0,0:15:03.79,0:15:04.88,Default,,0,0,0,,{\be1}Madoka?
+Dialogue: 0,0:15:08.94,0:15:10.22,Default,,0,0,0,,{\be1}Madoka!
+Dialogue: 0,0:15:16.72,0:15:19.48,Default,,0,0,0,,{\be1}Madoka! Wszystko w porządku?
+Dialogue: 0,0:15:20.85,0:15:26.40,Default,,0,0,0,,{\be1}Potrzebuję dwóch godzin na naprawy.
+Dialogue: 0,0:15:26.40,0:15:27.63,Default,,0,0,0,,{\be1}Madoka!
+Dialogue: 0,0:15:27.63,0:15:29.24,Default,,0,0,0,,{\be1}To wszystko?
+Dialogue: 0,0:15:31.10,0:15:34.77,Default,,0,0,0,,{\be1}Że też użyli twoich\Nkomórek do zrobienia mnie.
+Dialogue: 0,0:15:34.77,0:15:37.47,Default,,0,0,0,,{\be1}Komórek? Jesteś klonem?
+Dialogue: 0,0:15:41.25,0:15:43.59,Default,,0,0,0,,{\be1}Mam tą samą moc?
+Dialogue: 0,0:15:45.21,0:15:51.04,Default,,0,0,0,,{\be1}Nie, jestem od ciebie dużo lepsza.
+Dialogue: 0,0:15:52.09,0:15:53.08,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:15:55.89,0:15:57.48,Default,,0,0,0,,{\be1}Brakuje mi tego.
+Dialogue: 0,0:16:00.36,0:16:02.18,Default,,0,0,0,,{\be1}Dynamo.
+Dialogue: 0,0:16:03.94,0:16:06.46,Default,,0,0,0,,{\be1}Potrzebuję tylko tego.
+Dialogue: 0,0:16:10.70,0:16:12.84,Default,,0,0,0,,{\be1}Otwórz oczy.
+Dialogue: 0,0:16:14.44,0:16:15.91,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:16:15.91,0:16:18.27,Default,,0,0,0,,{\be1}Nie przepraszaj.
+Dialogue: 0,0:16:22.33,0:16:24.08,Default,,0,0,0,,{\be1}Smaczna.
+Dialogue: 0,0:16:29.55,0:16:34.68,Default,,0,0,0,,{\be1}Czujesz jak bije mi serce?
+Dialogue: 0,0:16:37.26,0:16:41.06,Default,,0,0,0,,{\be1}Kobieta może czuć\Nprzyjemność bez penetracji.
+Dialogue: 0,0:16:44.87,0:16:48.25,Default,,0,0,0,,{\be1}Nie śpiesz się, wyczyszczę go.
+Dialogue: 0,0:16:56.03,0:16:57.57,Default,,0,0,0,,{\be1}Bariera wyobraźni!
+Dialogue: 0,0:17:05.29,0:17:07.21,Default,,0,0,0,,{\be1}Wybacz mi.
+Dialogue: 0,0:17:12.55,0:17:13.93,Default,,0,0,0,,{\be1}Kyo!
+Dialogue: 0,0:17:47.00,0:17:49.58,Default,,0,0,0,,{\be1}Ma pani piękną cipkę.
+Dialogue: 0,0:17:50.67,0:17:53.70,Default,,0,0,0,,{\be1}Włóż palce.
+Dialogue: 0,0:17:54.87,0:17:56.11,Default,,0,0,0,,{\be1}Jeszcze nie.
+Dialogue: 0,0:17:56.11,0:17:58.84,Default,,0,0,0,,{\be1}Będzie przyjemniej, jak zaczekamy.
+Dialogue: 0,0:18:00.35,0:18:01.55,Default,,0,0,0,,{\be1}Jesteś podły.
+Dialogue: 0,0:18:01.55,0:18:05.31,Default,,0,0,0,,{\be1}Proszę, włóż palce!
+Dialogue: 0,0:18:09.19,0:18:11.31,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:18:13.19,0:18:15.62,Default,,0,0,0,,{\be1}Chcę go!
+Dialogue: 0,0:18:17.03,0:18:19.26,Default,,0,0,0,,{\be1}Chcę go!
+Dialogue: 0,0:18:48.73,0:18:50.32,Default,,0,0,0,,{\be1}Już rozumiesz?
+Dialogue: 0,0:18:54.57,0:18:55.53,Default,,0,0,0,,{\be1}Lubię twoje spojrzenie.
+Dialogue: 0,0:18:55.94,0:19:02.44,Default,,0,0,0,,{\be1}Pokonanie kogoś takie daje dużo frajdy.
+Dialogue: 0,0:19:05.95,0:19:07.00,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:19:07.00,0:19:12.25,Default,,0,0,0,,{\be1}Otworzysz się przede mną.
+Dialogue: 0,0:19:14.19,0:19:16.84,Default,,0,0,0,,{\be1}Kyouhei!
+Dialogue: 0,0:19:21.51,0:19:23.30,Default,,0,0,0,,{\be1}Pani Ryouko!
+Dialogue: 0,0:19:23.30,0:19:26.81,Default,,0,0,0,,{\be1}Wytrzymaj!
+Dialogue: 0,0:19:29.16,0:19:30.99,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:19:30.99,0:19:32.81,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:19:33.20,0:19:34.43,Default,,0,0,0,,{\be1}Pani Ryouko.
+Dialogue: 0,0:19:36.68,0:19:39.19,Default,,0,0,0,,{\be1}Powiedz, że mnie kochasz!
+Dialogue: 0,0:19:59.67,0:20:04.57,Default,,0,0,0,,{\be1}Jeśli ładnie poprosisz,\Nbędę dla ciebie miła.
+Dialogue: 0,0:20:06.47,0:20:09.60,Default,,0,0,0,,{\be1}Nigdy!
+Dialogue: 0,0:20:11.64,0:20:13.56,Default,,0,0,0,,{\be1}To się okaże.
+Dialogue: 0,0:20:43.19,0:20:45.97,Default,,0,0,0,,{\be1}Tak! Dobrze!
+Dialogue: 0,0:20:47.79,0:20:50.96,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:20:52.02,0:20:54.88,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:21:05.03,0:21:08.34,Default,,0,0,0,,{\be1}Nabrałaś ochotę?
+Dialogue: 0,0:21:09.14,0:21:10.66,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:11.20,0:21:14.66,Default,,0,0,0,,{\be1}Uparciucha, ale...
+Dialogue: 0,0:21:21.37,0:21:23.81,Default,,0,0,0,,{\be1}Nie! Jeszcze!
+Dialogue: 0,0:21:25.59,0:21:26.61,Default,,0,0,0,,{\be1}To nie tak!
+Dialogue: 0,0:21:28.18,0:21:29.75,Default,,0,0,0,,{\be1}Chcesz?
+Dialogue: 0,0:21:29.75,0:21:30.94,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:32.26,0:21:35.32,Default,,0,0,0,,{\be1}Dam ci nagrodę.
+Dialogue: 0,0:21:49.95,0:21:51.92,Default,,0,0,0,,{\be1}Wchodzi cały!
+Dialogue: 0,0:21:58.62,0:21:59.88,Default,,0,0,0,,{\be1}Daj go.
+Dialogue: 0,0:22:02.09,0:22:03.71,Default,,0,0,0,,{\be1}Chcesz go?
+Dialogue: 0,0:22:05.56,0:22:07.76,Default,,0,0,0,,{\be1}W takim razie ładnie poproś.
+Dialogue: 0,0:22:08.76,0:22:11.61,Default,,0,0,0,,{\be1}Włóż mi go.
+Dialogue: 0,0:22:12.30,0:22:15.64,Default,,0,0,0,,{\be1}Powiedz „wielką pałę”.
+Dialogue: 0,0:22:17.24,0:22:22.32,Default,,0,0,0,,{\be1}Włóż mi swoją wielką pałę.
+Dialogue: 0,0:22:22.86,0:22:25.35,Default,,0,0,0,,{\be1}„Zerżnij mnie”.
+Dialogue: 0,0:22:27.12,0:22:33.05,Default,,0,0,0,,{\be1}Zerżnij mnie swoją wielką pałą!
+Dialogue: 0,0:22:34.82,0:22:37.29,Default,,0,0,0,,{\be1}Nie zniosę tego!
+Dialogue: 0,0:22:37.29,0:22:39.32,Default,,0,0,0,,{\be1}Zboczucha.
+Dialogue: 0,0:22:39.87,0:22:41.25,Default,,0,0,0,,{\be1}Rozłóż nogi.
+Dialogue: 0,0:22:58.88,0:23:01.52,Default,,0,0,0,,{\be1}Ma pani śliczny tyłek.
+Dialogue: 0,0:23:02.45,0:23:05.57,Default,,0,0,0,,{\be1}Brała tu już pani do środka?
+Dialogue: 0,0:23:06.53,0:23:07.99,Default,,0,0,0,,{\be1}Tam nie!
+Dialogue: 0,0:23:21.33,0:23:22.92,Default,,0,0,0,,{\be1}Aż tak ci dobrze?
+Dialogue: 0,0:23:36.18,0:23:39.10,Default,,0,0,0,,{\be1}Tylko nie tam!
+Dialogue: 0,0:23:39.10,0:23:41.35,Default,,0,0,0,,{\be1}Czemu tak mi dobrze?
+Dialogue: 0,0:23:42.79,0:23:44.09,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:50.53,0:23:52.82,Default,,0,0,0,,{\be1}Ból też może być przyjemny.
+Dialogue: 0,0:23:53.82,0:23:56.08,Default,,0,0,0,,{\be1}Dam ci chociaż tyle zanim z tobą skończę.
+Dialogue: 0,0:24:09.59,0:24:10.81,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:24:13.97,0:24:15.04,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:24:16.10,0:24:19.09,Default,,0,0,0,,{\be1}Co za cipka!
+Dialogue: 0,0:24:19.72,0:24:22.59,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:24:43.78,0:24:49.84,Default,,0,0,0,,{\be1}Śmierć w przyjemności to jedyna\Nlitość na jaką możesz liczyć, Escalayerze!
+Dialogue: 0,0:25:19.74,0:25:22.33,Default,,0,0,0,,{\be1}Nareszcie będę kompletna.

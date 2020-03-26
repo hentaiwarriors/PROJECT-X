@@ -1,0 +1,384 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: style1,Comic Sans MS,32,&H00FFFFFF,&H00000000,&H00FF0000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:52.21,0:00:55.67,style1,,0000,0000,0000,,Noooooo!
+Dialogue: 0,0:01:27.65,0:01:35.35,style1,,0000,0000,0000,,She isn't it either... oh well... hehehe.
+Dialogue: 0,0:01:49.44,0:01:50.67,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:01:58.68,0:02:00.48,style1,,0000,0000,0000,,No, something has to change!
+Dialogue: 0,0:02:02.02,0:02:05.35,style1,,0000,0000,0000,,I have to change this situation during this summer!
+Dialogue: 0,0:02:05.35,0:02:08.05,style1,,0000,0000,0000,,I'll tell her!
+Dialogue: 0,0:02:09.59,0:02:11.22,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:02:11.86,0:02:14.56,style1,,0000,0000,0000,,Once Rika comes, I'll tell her this!
+Dialogue: 0,0:02:14.73,0:02:17.77,style1,,0000,0000,0000,,Rika! We've been friends for a long time!
+Dialogue: 0,0:02:17.77,0:02:20.80,style1,,0000,0000,0000,,We've been friends ever since we've met!
+Dialogue: 0,0:02:20.80,0:02:22.77,style1,,0000,0000,0000,,Lets stop this relationship!
+Dialogue: 0,0:02:22.77,0:02:24.53,style1,,0000,0000,0000,,And be my...!
+Dialogue: 0,0:02:25.14,0:02:28.38,style1,,0000,0000,0000,,Why the serious face, Naoto?
+Dialogue: 0,0:02:28.38,0:02:30.11,style1,,0000,0000,0000,,Um, Rika...!
+Dialogue: 0,0:02:49.56,0:02:51.23,style1,,0000,0000,0000,,Hey, Rika!
+Dialogue: 0,0:02:51.23,0:02:53.29,style1,,0000,0000,0000,,Y, yes!
+Dialogue: 0,0:02:55.30,0:02:57.83,style1,,0000,0000,0000,,PL, please go out with me!
+Dialogue: 0,0:03:05.01,0:03:10.02,style1,,0000,0000,0000,,But, Naoto... I'm here with you right now.
+Dialogue: 0,0:03:10.02,0:03:16.06,style1,,0000,0000,0000,,That's not what I mean, Rika... I'm trying to say,\Nplease be my...
+Dialogue: 0,0:03:16.06,0:03:18.79,style1,,0000,0000,0000,,I've finally found you! You must be Rika Manabe!
+Dialogue: 0,0:03:18.79,0:03:20.09,style1,,0000,0000,0000,,Yes, I am!
+Dialogue: 0,0:03:21.20,0:03:23.72,style1,,0000,0000,0000,,W, who is this kid?
+Dialogue: 0,0:03:24.07,0:03:26.47,style1,,0000,0000,0000,,Little Boy, it's not safe climbing trees.
+Dialogue: 0,0:03:27.27,0:03:28.77,style1,,0000,0000,0000,,I'm not a kid or a little boy!
+Dialogue: 0,0:03:28.77,0:03:33.73,style1,,0000,0000,0000,,I am a private from Hell's army, the great Asumo!
+Dialogue: 0,0:03:36.78,0:03:38.11,style1,,0000,0000,0000,,Um, what were we talking about?
+Dialogue: 0,0:03:38.61,0:03:42.08,style1,,0000,0000,0000,,That's right, I was proposing my love to you!
+Dialogue: 0,0:03:42.08,0:03:42.85,style1,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:42.85,0:03:43.75,style1,,0000,0000,0000,,Uh...
+Dialogue: 0,0:03:43.75,0:03:44.78,style1,,0000,0000,0000,,H, hey...
+Dialogue: 0,0:03:45.42,0:03:47.35,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:03:49.22,0:03:53.13,style1,,0000,0000,0000,,Rika, please be my girlfriend!
+Dialogue: 0,0:03:58.30,0:04:00.67,style1,,0000,0000,0000,,R, Rika, what's wrong? Did you not like it?
+Dialogue: 0,0:04:01.17,0:04:01.94,style1,,0000,0000,0000,,That's not it...
+Dialogue: 0,0:04:01.94,0:04:02.67,style1,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:04:03.31,0:04:04.60,style1,,0000,0000,0000,,I'm happy...
+Dialogue: 0,0:04:05.11,0:04:06.87,style1,,0000,0000,0000,,So... does that mean you will be my girlfriend?
+Dialogue: 0,0:04:07.54,0:04:13.85,style1,,0000,0000,0000,,Yes, I will! Please let me. I hope I'll be your best\Ngirlfriend ever!
+Dialogue: 0,0:04:14.35,0:04:15.51,style1,,0000,0000,0000,,Hurray!
+Dialogue: 0,0:04:16.15,0:04:18.55,style1,,0000,0000,0000,,You fools...
+Dialogue: 0,0:04:19.19,0:04:20.65,style1,,0000,0000,0000,,Rika, it's so great!
+Dialogue: 0,0:04:22.22,0:04:26.29,style1,,0000,0000,0000,,Lets go home and talk about something fun.
+Dialogue: 0,0:04:26.29,0:04:28.09,style1,,0000,0000,0000,,Yes, and lets also have sex!
+Dialogue: 0,0:04:28.73,0:04:30.16,style1,,0000,0000,0000,,Not until we're married!
+Dialogue: 0,0:04:30.57,0:04:32.20,style1,,0000,0000,0000,,Hehe, sorry.
+Dialogue: 0,0:04:32.20,0:04:38.54,style1,,0000,0000,0000,,You mortals... how dare you ignore the great demon...
+Dialogue: 0,0:04:38.94,0:04:39.91,style1,,0000,0000,0000,,DIE!
+Dialogue: 0,0:04:44.31,0:04:45.07,style1,,0000,0000,0000,,Naoto!
+Dialogue: 0,0:04:47.35,0:04:48.18,style1,,0000,0000,0000,,Naoto!
+Dialogue: 0,0:04:56.86,0:04:59.19,style1,,0000,0000,0000,,Let go... of Rika!
+Dialogue: 0,0:04:59.36,0:05:02.69,style1,,0000,0000,0000,,Rika Manabe! I will corrupt your soul!
+Dialogue: 0,0:05:14.51,0:05:15.70,style1,,0000,0000,0000,,Ri... Rika!
+Dialogue: 0,0:05:16.91,0:05:18.15,style1,,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:05:18.15,0:05:18.74,style1,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:18.81,0:05:22.27,style1,,0000,0000,0000,,I command you to let go of them now!
+Dialogue: 0,0:05:22.55,0:05:23.28,style1,,0000,0000,0000,,Who are you!?
+Dialogue: 0,0:05:23.28,0:05:26.69,style1,,0000,0000,0000,,I'm the angel apprentice, Loveriel!
+Dialogue: 0,0:05:26.92,0:05:29.36,style1,,0000,0000,0000,,You damn peon, go to hell!
+Dialogue: 0,0:05:31.56,0:05:32.72,style1,,0000,0000,0000,,Rika!
+Dialogue: 0,0:05:32.99,0:05:33.82,style1,,0000,0000,0000,,Argh!
+Dialogue: 0,0:05:37.43,0:05:39.76,style1,,0000,0000,0000,,Devil Storm!
+Dialogue: 0,0:05:40.67,0:05:44.04,style1,,0000,0000,0000,,Angelic Wind Storm!
+Dialogue: 0,0:05:46.14,0:05:49.27,style1,,0000,0000,0000,,Wha, what is it!
+Dialogue: 0,0:05:59.35,0:06:02.02,style1,,0000,0000,0000,,I will remember you... you Angel!
+Dialogue: 0,0:06:04.93,0:06:08.45,style1,,0000,0000,0000,,Wait... you Dem... on...
+Dialogue: 0,0:06:11.57,0:06:12.53,style1,,0000,0000,0000,,H, Hey!
+Dialogue: 0,0:06:19.34,0:06:20.78,style1,,0000,0000,0000,,Hey, Rika.
+Dialogue: 0,0:06:20.78,0:06:21.64,style1,,0000,0000,0000,,Y, yes?
+Dialogue: 0,0:06:23.11,0:06:26.05,style1,,0000,0000,0000,,Didn't they say they were demons and angels?
+Dialogue: 0,0:06:26.05,0:06:27.31,style1,,0000,0000,0000,,Yes, they did.
+Dialogue: 0,0:06:27.48,0:06:29.07,style1,,0000,0000,0000,,What should we do with her?
+Dialogue: 0,0:06:29.38,0:06:31.08,style1,,0000,0000,0000,,Lets take her to the hospital.
+Dialogue: 0,0:06:32.02,0:06:33.25,style1,,0000,0000,0000,,N, no...
+Dialogue: 0,0:06:33.25,0:06:34.92,style1,,0000,0000,0000,,What you mean no...
+Dialogue: 0,0:06:36.02,0:06:41.83,style1,,0000,0000,0000,,I, I can't be lying down. I have to hurry up and get\Nthat demon kid!
+Dialogue: 0,0:06:43.16,0:06:45.43,style1,,0000,0000,0000,,What, an angel!!
+Dialogue: 0,0:06:45.67,0:06:47.10,style1,,0000,0000,0000,,Although, I'm still under training.
+Dialogue: 0,0:06:47.50,0:06:54.87,style1,,0000,0000,0000,,I was sent to this realm because we've heard that the\Ndemons are up to something.
+Dialogue: 0,0:06:55.28,0:07:02.15,style1,,0000,0000,0000,,I was following the scent of the demons and found\Nyou two being attacked so I came to the rescue.
+Dialogue: 0,0:07:03.55,0:07:04.42,style1,,0000,0000,0000,,What are their plans?
+Dialogue: 0,0:07:04.89,0:07:08.08,style1,,0000,0000,0000,,That little demon was trying to do something on Rika.
+Dialogue: 0,0:07:08.46,0:07:13.19,style1,,0000,0000,0000,,I see, so the demons were after you.
+Dialogue: 0,0:07:14.06,0:07:15.93,style1,,0000,0000,0000,,I...
+Dialogue: 0,0:07:17.60,0:07:22.74,style1,,0000,0000,0000,,Do not worry! Now that I'm here, I will protect you.
+Dialogue: 0,0:07:22.74,0:07:28.54,style1,,0000,0000,0000,,...however... I'm weakened and I won't be able to stay\Nhere much longer.
+Dialogue: 0,0:07:28.54,0:07:29.94,style1,,0000,0000,0000,,Don't say that.
+Dialogue: 0,0:07:29.94,0:07:31.43,style1,,0000,0000,0000,,Then what should we do?
+Dialogue: 0,0:07:31.75,0:07:35.15,style1,,0000,0000,0000,,Don't worry, that's what this book is for.
+Dialogue: 0,0:07:35.15,0:07:37.42,style1,,0000,0000,0000,,Lets see here... when an angel can't engage in battle,\Nhave someone lend you a helping hand.
+Dialogue: 0,0:07:37.42,0:07:41.88,style1,,0000,0000,0000,,In return, they can transform into the holy battle angel.
+Dialogue: 0,0:07:42.39,0:07:43.95,style1,,0000,0000,0000,,The holy battle angel?
+Dialogue: 0,0:07:44.23,0:07:49.69,style1,,0000,0000,0000,,Transform? A super hero? Alright, let me do it!
+Dialogue: 0,0:07:50.33,0:07:53.30,style1,,0000,0000,0000,,I am sorry, but a man can't do this job.
+Dialogue: 0,0:07:53.54,0:07:54.64,style1,,0000,0000,0000,,Why is that?
+Dialogue: 0,0:07:54.64,0:07:57.10,style1,,0000,0000,0000,,Because angels are all girls.
+Dialogue: 0,0:07:57.27,0:07:58.47,style1,,0000,0000,0000,,I see...
+Dialogue: 0,0:07:58.87,0:08:03.71,style1,,0000,0000,0000,,You need this halo to transform into an angel, but...
+Dialogue: 0,0:08:04.18,0:08:05.11,style1,,0000,0000,0000,,Yes!
+Dialogue: 0,0:08:05.35,0:08:07.92,style1,,0000,0000,0000,,Rika, you're going to transform?
+Dialogue: 0,0:08:07.92,0:08:12.85,style1,,0000,0000,0000,,Yes! I'm the one they are after, so might as well fight\Nfor myself!
+Dialogue: 0,0:08:13.09,0:08:14.85,style1,,0000,0000,0000,,Rika, you're right!
+Dialogue: 0,0:08:16.93,0:08:20.45,style1,,0000,0000,0000,,But, seems like there's more to it than the halo.
+Dialogue: 0,0:08:21.23,0:08:23.53,style1,,0000,0000,0000,,Just hurry up and transform Rika.
+Dialogue: 0,0:08:23.83,0:08:27.73,style1,,0000,0000,0000,,Um, in order to transform, you need some Amore.
+Dialogue: 0,0:08:28.14,0:08:30.07,style1,,0000,0000,0000,,Amore?
+Dialogue: 0,0:08:30.84,0:08:37.51,style1,,0000,0000,0000,,Amore is the point of love. Hmm... I see... well, lets\Nstart saving Amore.
+Dialogue: 0,0:08:38.08,0:08:39.91,style1,,0000,0000,0000,,How do you save up for Amore?
+Dialogue: 0,0:08:40.65,0:08:42.48,style1,,0000,0000,0000,,Lets see...
+Dialogue: 0,0:08:42.68,0:08:45.59,style1,,0000,0000,0000,,I found it, it's right here.
+Dialogue: 0,0:08:45.95,0:08:47.22,style1,,0000,0000,0000,,What do you have to do?
+Dialogue: 0,0:08:47.22,0:08:51.09,style1,,0000,0000,0000,,Make love with opposite sex you care for... is what is\Nsays.
+Dialogue: 0,0:08:51.96,0:08:53.09,style1,,0000,0000,0000,,Make love?
+Dialogue: 0,0:08:55.13,0:08:56.93,style1,,0000,0000,0000,,Make love...
+Dialogue: 0,0:08:57.83,0:08:59.80,style1,,0000,0000,0000,,Whaaaaaaaa!!
+Dialogue: 0,0:09:00.34,0:09:02.60,style1,,0000,0000,0000,,What's there to be surprised about?
+Dialogue: 0,0:09:02.60,0:09:11.60,style1,,0000,0000,0000,,Well, lets get going. You have to make love to store\NAmore, otherwise, you can't transform.
+Dialogue: 0,0:09:12.11,0:09:13.77,style1,,0000,0000,0000,,Get going, come on.
+Dialogue: 0,0:09:19.25,0:09:20.24,style1,,0000,0000,0000,,Loveriel!
+Dialogue: 0,0:09:20.86,0:09:22.85,style1,,0000,0000,0000,,Oh, I don't have much time...
+Dialogue: 0,0:09:23.22,0:09:25.02,style1,,0000,0000,0000,,Are you sure...
+Dialogue: 0,0:09:29.36,0:09:30.23,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:09:32.10,0:09:33.23,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:09:33.23,0:09:34.87,style1,,0000,0000,0000,,Y, yes...
+Dialogue: 0,0:09:34.87,0:09:37.74,style1,,0000,0000,0000,,Who would've though I would...
+Dialogue: 0,0:09:39.31,0:09:40.50,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:09:42.24,0:09:43.40,style1,,0000,0000,0000,,OK!
+Dialogue: 0,0:09:44.75,0:09:46.08,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:09:46.88,0:09:48.32,style1,,0000,0000,0000,,But...
+Dialogue: 0,0:09:48.32,0:09:49.51,style1,,0000,0000,0000,,But?
+Dialogue: 0,0:09:49.68,0:09:51.28,style1,,0000,0000,0000,,I'm... afraid...
+Dialogue: 0,0:09:55.89,0:09:58.32,style1,,0000,0000,0000,,It's ok... I'll make sure you feel safe.
+Dialogue: 0,0:10:05.17,0:10:13.01,style1,,0000,0000,0000,,Leaving an angel out here... you're guys are going to\Nbe punished... it's so hot...
+Dialogue: 0,0:10:22.72,0:10:25.85,style1,,0000,0000,0000,,Naoto, be gentle with me...
+Dialogue: 0,0:10:34.30,0:10:39.26,style1,,0000,0000,0000,,Naoto... why... why...
+Dialogue: 0,0:10:40.23,0:10:41.43,style1,,0000,0000,0000,,Hey, you
+Dialogue: 0,0:10:41.64,0:10:45.23,style1,,0000,0000,0000,,I, I, I like him so much.
+Dialogue: 0,0:10:45.74,0:10:48.23,style1,,0000,0000,0000,,You were the girl that was crying at the park, weren't\Nyou?
+Dialogue: 0,0:10:48.44,0:10:52.71,style1,,0000,0000,0000,,So this is the pain of being rejected...
+Dialogue: 0,0:10:52.81,0:10:54.22,style1,,0000,0000,0000,,Rejected?
+Dialogue: 0,0:10:54.22,0:10:58.68,style1,,0000,0000,0000,,Naoto... I like you so much... why do you have to be\Nwith Rika...
+Dialogue: 0,0:10:59.62,0:11:04.06,style1,,0000,0000,0000,,You are jealous of the two, aren't you?
+Dialogue: 0,0:11:04.43,0:11:06.69,style1,,0000,0000,0000,,Is it impossible for this love to be true...?
+Dialogue: 0,0:11:06.69,0:11:12.79,style1,,0000,0000,0000,,Don't you hate Rika, the girl who took your guy away\Nfrom you? Don't you want to hurt her?
+Dialogue: 0,0:11:13.47,0:11:18.61,style1,,0000,0000,0000,,Hate... Yes I do hate...
+Dialogue: 0,0:11:18.61,0:11:21.20,style1,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:11:22.11,0:11:27.55,style1,,0000,0000,0000,,I am the great Asumo, a soldier from the Hell's army!
+Dialogue: 0,0:11:27.98,0:11:29.31,style1,,0000,0000,0000,,Um...
+Dialogue: 0,0:11:29.75,0:11:33.59,style1,,0000,0000,0000,,To make a long story short, I'm going to take\Nadvantage of you.
+Dialogue: 0,0:11:33.72,0:11:34.95,style1,,0000,0000,0000,,What?
+Dialogue: 0,0:11:35.12,0:11:40.86,style1,,0000,0000,0000,,Use your dark emotions to bring chaos to this world!
+Dialogue: 0,0:11:40.86,0:11:42.03,style1,,0000,0000,0000,,Whaaaaa!?
+Dialogue: 0,0:11:42.03,0:11:43.90,style1,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:11:43.90,0:11:44.96,style1,,0000,0000,0000,,And... poke!
+Dialogue: 0,0:11:50.91,0:11:54.04,style1,,0000,0000,0000,,W, what is this feeling?
+Dialogue: 0,0:11:54.04,0:11:56.13,style1,,0000,0000,0000,,The demonic transformation!
+Dialogue: 0,0:12:09.29,0:12:12.28,style1,,0000,0000,0000,,Looks like the transformation was a success.
+Dialogue: 0,0:12:13.43,0:12:20.80,style1,,0000,0000,0000,,Today you will call yourself... lets see... Misty May!\NYou will do really bad things from now on!
+Dialogue: 0,0:12:21.47,0:12:25.53,style1,,0000,0000,0000,,Go, Misty May! Go destroy the town for fun!
+Dialogue: 0,0:12:26.34,0:12:28.71,style1,,0000,0000,0000,,Did you just tell me to destroy?
+Dialogue: 0,0:12:28.71,0:12:29.68,style1,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:29.98,0:12:32.81,style1,,0000,0000,0000,,Who in hell do you think you're talking to?
+Dialogue: 0,0:12:32.98,0:12:35.18,style1,,0000,0000,0000,,Who else, I'm talking to you, Misty May!
+Dialogue: 0,0:12:37.32,0:12:42.66,style1,,0000,0000,0000,,Be careful how you talk to me. I'm angry enough that\NI have a private as my slave!
+Dialogue: 0,0:12:42.66,0:12:44.89,style1,,0000,0000,0000,,Don't you dare talk back to me!
+Dialogue: 0,0:12:44.89,0:12:46.48,style1,,0000,0000,0000,,sl, slave!?
+Dialogue: 0,0:12:47.26,0:12:49.33,style1,,0000,0000,0000,,I can't hear you ?
+Dialogue: 0,0:12:49.33,0:12:51.10,style1,,0000,0000,0000,,Y, Yes!
+Dialogue: 0,0:12:51.10,0:12:54.07,style1,,0000,0000,0000,,I guess I'll go destroy for some fun.
+Dialogue: 0,0:12:54.07,0:12:56.87,style1,,0000,0000,0000,,I, I said tha...
+Dialogue: 0,0:13:06.98,0:13:08.88,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:13:08.88,0:13:10.75,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:13:18.13,0:13:19.89,style1,,0000,0000,0000,,My neck... no...
+Dialogue: 0,0:13:25.57,0:13:27.09,style1,,0000,0000,0000,,Does it feel good?
+Dialogue: 0,0:13:27.37,0:13:32.24,style1,,0000,0000,0000,,I don't know, I'm so nervous.
+Dialogue: 0,0:13:37.21,0:13:40.08,style1,,0000,0000,0000,,Don't touch it, please...
+Dialogue: 0,0:13:40.08,0:13:41.98,style1,,0000,0000,0000,,I can't do anything without touching.
+Dialogue: 0,0:13:50.89,0:13:52.42,style1,,0000,0000,0000,,No, please!
+Dialogue: 0,0:13:52.69,0:13:55.00,style1,,0000,0000,0000,,It's ok, I'll be gentle.
+Dialogue: 0,0:13:55.00,0:13:55.93,style1,,0000,0000,0000,,That's not it!
+Dialogue: 0,0:13:55.93,0:13:57.27,style1,,0000,0000,0000,,It's alright...
+Dialogue: 0,0:13:57.27,0:13:58.93,style1,,0000,0000,0000,,No...
+Dialogue: 0,0:13:58.93,0:13:59.30,style1,,0000,0000,0000,,Oh...!
+Dialogue: 0,0:13:59.30,0:14:02.17,style1,,0000,0000,0000,,Rika, you're...
+Dialogue: 0,0:14:02.90,0:14:07.40,style1,,0000,0000,0000,,I was to embarrassed to let you find out...
+Dialogue: 0,0:14:11.91,0:14:14.88,style1,,0000,0000,0000,,Rika, I'm touching your little spot.
+Dialogue: 0,0:14:15.98,0:14:20.79,style1,,0000,0000,0000,,It's so embarrassing... I want to bury myself in a hole\N...
+Dialogue: 0,0:14:20.79,0:14:23.42,style1,,0000,0000,0000,,I'm grown up, but I still have no pubic hair.
+Dialogue: 0,0:14:24.66,0:14:27.53,style1,,0000,0000,0000,,Don't' worry about it, I'm so happy.
+Dialogue: 0,0:14:27.53,0:14:31.09,style1,,0000,0000,0000,,I know something about you that no one else knows.
+Dialogue: 0,0:14:31.27,0:14:32.56,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:14:34.27,0:14:37.47,style1,,0000,0000,0000,,Please... stop...
+Dialogue: 0,0:14:38.21,0:14:40.37,style1,,0000,0000,0000,,Rika, this is your...
+Dialogue: 0,0:14:40.37,0:14:41.94,style1,,0000,0000,0000,,So cute...
+Dialogue: 0,0:14:41.94,0:14:45.00,style1,,0000,0000,0000,,It's embarrassing... don't look...
+Dialogue: 0,0:14:50.35,0:14:55.31,style1,,0000,0000,0000,,The last time you saw my thing was when we took a\Nbath together as little kids.
+Dialogue: 0,0:14:55.39,0:14:57.29,style1,,0000,0000,0000,,Well, it's all grown up now.
+Dialogue: 0,0:14:57.66,0:15:00.59,style1,,0000,0000,0000,,I'm... afraid...
+Dialogue: 0,0:15:01.16,0:15:03.39,style1,,0000,0000,0000,,Relax...
+Dialogue: 0,0:15:10.64,0:15:11.94,style1,,0000,0000,0000,,So tight...
+Dialogue: 0,0:15:12.44,0:15:14.38,style1,,0000,0000,0000,,It hurts, it hurts...
+Dialogue: 0,0:15:14.38,0:15:15.81,style1,,0000,0000,0000,,Relax your muscles...
+Dialogue: 0,0:15:15.81,0:15:16.97,style1,,0000,0000,0000,,I am...
+Dialogue: 0,0:15:20.38,0:15:21.54,style1,,0000,0000,0000,,I can't penetrate her...
+Dialogue: 0,0:15:23.02,0:15:24.32,style1,,0000,0000,0000,,It hurts, right?
+Dialogue: 0,0:15:24.32,0:15:26.45,style1,,0000,0000,0000,,Yes, it does...
+Dialogue: 0,0:15:27.92,0:15:31.53,style1,,0000,0000,0000,,This is her first time... I should concentrate on the\Nforeplay...
+Dialogue: 0,0:15:31.53,0:15:35.13,style1,,0000,0000,0000,,My nipples, they are... oh!
+Dialogue: 0,0:15:35.13,0:15:37.39,style1,,0000,0000,0000,,I'm so embarrassed I just want to die...
+Dialogue: 0,0:15:37.67,0:15:39.06,style1,,0000,0000,0000,,Nipples getting hard.
+Dialogue: 0,0:15:50.04,0:15:53.71,style1,,0000,0000,0000,,Hmm, it feels great.
+Dialogue: 0,0:15:59.75,0:16:01.42,style1,,0000,0000,0000,,I'm about to cum.
+Dialogue: 0,0:16:01.42,0:16:04.43,style1,,0000,0000,0000,,But, I want to cum at the same time with Rika, since\Nthis is her first time.
+Dialogue: 0,0:16:04.43,0:16:06.33,style1,,0000,0000,0000,,I want to orgasm with Rika.
+Dialogue: 0,0:16:09.73,0:16:11.17,style1,,0000,0000,0000,,Naoto!
+Dialogue: 0,0:16:11.17,0:16:13.70,style1,,0000,0000,0000,,Do, don't lick... ah!
+Dialogue: 0,0:16:13.70,0:16:15.93,style1,,0000,0000,0000,,Ri, Rika... your... oh!
+Dialogue: 0,0:16:32.19,0:16:34.05,style1,,0000,0000,0000,,It should be fine now.
+Dialogue: 0,0:16:34.46,0:16:36.95,style1,,0000,0000,0000,,You're going to stick it in? Stick it in?
+Dialogue: 0,0:16:37.36,0:16:39.52,style1,,0000,0000,0000,,Yes, I am.
+Dialogue: 0,0:16:39.69,0:16:42.16,style1,,0000,0000,0000,,Ouch, It hurts! It hurts!
+Dialogue: 0,0:16:42.16,0:16:43.36,style1,,0000,0000,0000,,...It hurts...
+Dialogue: 0,0:16:43.66,0:16:45.72,style1,,0000,0000,0000,,I'm going to move, relax alright?
+Dialogue: 0,0:17:00.58,0:17:01.78,style1,,0000,0000,0000,,Ri, Rika!
+Dialogue: 0,0:17:02.68,0:17:04.12,style1,,0000,0000,0000,,Nao... Naoto!
+Dialogue: 0,0:17:04.29,0:17:06.22,style1,,0000,0000,0000,,I'm going... to cum!
+Dialogue: 0,0:17:07.62,0:17:10.65,style1,,0000,0000,0000,,Rika... I'm going to cum!
+Dialogue: 0,0:17:11.19,0:17:14.63,style1,,0000,0000,0000,,No, no, not the inside!
+Dialogue: 0,0:17:30.85,0:17:32.14,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:17:36.65,0:17:39.22,style1,,0000,0000,0000,,I was so afraid...
+Dialogue: 0,0:17:39.22,0:17:42.16,style1,,0000,0000,0000,,Rika, you did well... Attagirl.
+Dialogue: 0,0:17:43.19,0:17:45.49,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:17:47.76,0:17:49.92,style1,,0000,0000,0000,,Did you guys finish making love?
+Dialogue: 0,0:17:51.83,0:17:55.36,style1,,0000,0000,0000,,Is making love something to be embarrassed about?
+Dialogue: 0,0:17:55.77,0:18:00.30,style1,,0000,0000,0000,,Drop it! We have Amore stored now right!? What to\Ndo next?
+Dialogue: 0,0:18:00.71,0:18:03.40,style1,,0000,0000,0000,,Yes, you have nothing to worry about.
+Dialogue: 0,0:18:03.58,0:18:10.95,style1,,0000,0000,0000,,While you guys were making love, I was studying how\Nto the Angelic Ceremony!
+Dialogue: 0,0:18:11.22,0:18:12.65,style1,,0000,0000,0000,,Angelic Ceremony?
+Dialogue: 0,0:18:12.82,0:18:13.91,style1,,0000,0000,0000,,What is that?
+Dialogue: 0,0:18:15.42,0:18:17.72,style1,,0000,0000,0000,,Please, no more!
+Dialogue: 0,0:18:18.26,0:18:19.95,style1,,0000,0000,0000,,What just happened?
+Dialogue: 0,0:18:20.49,0:18:21.93,style1,,0000,0000,0000,,Beats me...?
+Dialogue: 0,0:18:28.40,0:18:31.47,style1,,0000,0000,0000,,That's what you get for walking around in the park\Nholding hands!
+Dialogue: 0,0:18:31.47,0:18:33.03,style1,,0000,0000,0000,,Man, what a bitch...
+Dialogue: 0,0:18:51.23,0:18:54.33,style1,,0000,0000,0000,,Alright, here are the steps for the Angelic Ceremony,\Nlisten up.
+Dialogue: 0,0:18:54.33,0:18:56.76,style1,,0000,0000,0000,,Lets first start with Angel Cutter.
+Dialogue: 0,0:18:57.40,0:18:59.77,style1,,0000,0000,0000,,In order to learn this attack, you must...
+Dialogue: 0,0:18:59.77,0:19:02.70,style1,,0000,0000,0000,,either have sex with her breast or anal sex, so it says.
+Dialogue: 0,0:19:03.97,0:19:05.77,style1,,0000,0000,0000,,Anal sex!?
+Dialogue: 0,0:19:05.94,0:19:07.27,style1,,0000,0000,0000,,Really?
+Dialogue: 0,0:19:07.41,0:19:08.97,style1,,0000,0000,0000,,And, why these two possibilities?
+Dialogue: 0,0:19:09.28,0:19:13.18,style1,,0000,0000,0000,,Looks like it's different depending on the current\Nstatus.
+Dialogue: 0,0:19:13.98,0:19:17.05,style1,,0000,0000,0000,,The two ways are better known as the Hell Form and\NHeaven Form.
+Dialogue: 0,0:19:17.05,0:19:18.92,style1,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:19:18.92,0:19:24.73,style1,,0000,0000,0000,,I'm not quite sure, but the anal is the Hell Form and\Nthe breast is Heaven Form.
+Dialogue: 0,0:19:24.73,0:19:29.40,style1,,0000,0000,0000,,The way they learned are different, but the results are the\Nsame.
+Dialogue: 0,0:19:29.40,0:19:33.47,style1,,0000,0000,0000,,It means, you can pick the way you want.
+Dialogue: 0,0:19:33.47,0:19:34.66,style1,,0000,0000,0000,,I see!
+Dialogue: 0,0:19:35.70,0:19:38.50,style1,,0000,0000,0000,,Next is, Angel Shadows.
+Dialogue: 0,0:19:41.88,0:19:44.78,style1,,0000,0000,0000,,The Hell Form is exposure fetish and the Heaven\NForm is feet fetish.
+Dialogue: 0,0:19:45.18,0:19:47.11,style1,,0000,0000,0000,,That's... great!
+Dialogue: 0,0:19:47.41,0:19:49.18,style1,,0000,0000,0000,,The next one sounds powerful.
+Dialogue: 0,0:19:49.18,0:19:51.55,style1,,0000,0000,0000,,It's called Angel Mermaid Stance.
+Dialogue: 0,0:19:51.55,0:19:53.32,style1,,0000,0000,0000,,That sounds awesome.
+Dialogue: 0,0:19:53.32,0:19:57.15,style1,,0000,0000,0000,,Hell Form is outdoors and Heaven Form is costume\Nplay.
+Dialogue: 0,0:19:57.46,0:20:00.19,style1,,0000,0000,0000,,I see, I'll do my best!
+Dialogue: 0,0:20:00.19,0:20:04.10,style1,,0000,0000,0000,,This sounds deadly, Angel Dynamite.
+Dialogue: 0,0:20:04.10,0:20:05.70,style1,,0000,0000,0000,,Sounds strong.
+Dialogue: 0,0:20:05.70,0:20:08.67,style1,,0000,0000,0000,,Heaven Form is bathroom play, Hell Form is\Nmasturbation.
+Dialogue: 0,0:20:09.47,0:20:12.34,style1,,0000,0000,0000,,Wow, I'm so happy! What's next?
+Dialogue: 0,0:20:12.34,0:20:15.24,style1,,0000,0000,0000,,Next is... Angel Overdrive.
+Dialogue: 0,0:20:15.24,0:20:16.64,style1,,0000,0000,0000,,Wow, sounds deadly!
+Dialogue: 0,0:20:16.64,0:20:21.98,style1,,0000,0000,0000,,To learn that... Heaven Form is 3way and Hell Form is\NS&M.
+Dialogue: 0,0:20:22.68,0:20:29.05,style1,,0000,0000,0000,,3way? But with who? Rika, lets do our best for this,\Nok?
+Dialogue: 0,0:20:29.69,0:20:30.99,style1,,0000,0000,0000,,Rika?
+Dialogue: 0,0:20:33.19,0:20:36.13,style1,,0000,0000,0000,,I can't do all that...
+Dialogue: 0,0:20:36.13,0:20:37.63,style1,,0000,0000,0000,,Please, no more!
+Dialogue: 0,0:20:37.63,0:20:38.26,style1,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:57.79,0:21:01.02,style1,,0000,0000,0000,,You guys are... so cruel...
+Dialogue: 0,0:21:02.19,0:21:05.89,style1,,0000,0000,0000,,Hmm, look who decides to drop by.
+Dialogue: 0,0:21:07.33,0:21:09.06,style1,,0000,0000,0000,,Don't get in my way!
+Dialogue: 0,0:21:09.06,0:21:15.02,style1,,0000,0000,0000,,Rika Manabe, I will not forgive you! Prepare for your\Ndeath!
+Dialogue: 0,0:21:15.44,0:21:18.17,style1,,0000,0000,0000,,What! But how do you know my name?
+Dialogue: 0,0:21:24.35,0:21:27.25,style1,,0000,0000,0000,,I will crush you!
+Dialogue: 0,0:21:31.62,0:21:33.21,style1,,0000,0000,0000,,Rika!!
+Dialogue: 0,0:21:34.15,0:21:35.28,style1,,0000,0000,0000,,Naoto!
+Dialogue: 0,0:21:36.12,0:21:37.69,style1,,0000,0000,0000,,Rika, transform!
+Dialogue: 0,0:21:37.69,0:21:38.96,style1,,0000,0000,0000,,Naoto!
+Dialogue: 0,0:21:38.96,0:21:39.89,style1,,0000,0000,0000,,Alright!
+Dialogue: 0,0:21:47.10,0:21:52.06,style1,,0000,0000,0000,,Angel Amoooore!
+Dialogue: 0,0:21:52.34,0:21:59.85,style1,,0000,0000,0000,,Let me explain! Rika Manabe transforms into a the\Nholy battle angel with the power of the Amore Power.
+Dialogue: 0,0:21:59.85,0:22:06.05,style1,,0000,0000,0000,,By the way, she saves up for this power by having\Nsex. Sex is the secret to her powers!
+Dialogue: 0,0:22:08.72,0:22:10.92,style1,,0000,0000,0000,,Devil Angel Jiburiru, at your service!
+Dialogue: 0,0:22:10.92,0:22:11.89,style1,,0000,0000,0000,,What!?
+Dialogue: 0,0:22:13.39,0:22:21.30,style1,,0000,0000,0000,,I can forgive a little mischief, but I can not forgive you\Nwhen you get innocent civilians involved!
+Dialogue: 0,0:22:21.30,0:22:23.60,style1,,0000,0000,0000,,This act must stop now!
+Dialogue: 0,0:22:24.97,0:22:31.11,style1,,0000,0000,0000,,I, Loveriel, can not fight right now, so I'm letting\NJiburiru taking care of you guys!
+Dialogue: 0,0:22:31.11,0:22:35.35,style1,,0000,0000,0000,,You stupid angel, don't copy what I do!
+Dialogue: 0,0:22:35.35,0:22:37.99,style1,,0000,0000,0000,,Let go of the innocent people, now!
+Dialogue: 0,0:22:37.99,0:22:39.11,style1,,0000,0000,0000,,In your dreams!
+Dialogue: 0,0:22:43.86,0:22:47.32,style1,,0000,0000,0000,,Rika is... fighting...
+Dialogue: 0,0:22:47.66,0:22:51.17,style1,,0000,0000,0000,,The halo is helping her fight.
+Dialogue: 0,0:22:51.17,0:22:53.60,style1,,0000,0000,0000,,But it is Rika who is using it to its potential!
+Dialogue: 0,0:22:53.80,0:22:57.40,style1,,0000,0000,0000,,Really? Wow, you are amazing, Jiburiru!
+Dialogue: 0,0:23:02.14,0:23:03.84,style1,,0000,0000,0000,,She's already in danger!
+Dialogue: 0,0:23:06.51,0:23:08.38,style1,,0000,0000,0000,,You are so weak!
+Dialogue: 0,0:23:37.41,0:23:41.31,style1,,0000,0000,0000,,Ri, Rika... That's it! Use the Angel Cutter!
+Dialogue: 0,0:23:41.65,0:23:44.38,style1,,0000,0000,0000,,I don't know how to use it...
+Dialogue: 0,0:23:45.89,0:23:49.56,style1,,0000,0000,0000,,Naoto, did you have sex with her breast or anal?
+Dialogue: 0,0:23:49.56,0:23:51.59,style1,,0000,0000,0000,,I did have sex with the breast...
+Dialogue: 0,0:23:51.59,0:23:53.58,style1,,0000,0000,0000,,The breast!?
+Dialogue: 0,0:23:54.96,0:23:58.90,style1,,0000,0000,0000,,Strange... she'll learn the attack naturally if done\Nproperly...
+Dialogue: 0,0:23:58.90,0:24:02.23,style1,,0000,0000,0000,,Well, I did have my thing between her boobs...
+Dialogue: 0,0:24:03.87,0:24:06.14,style1,,0000,0000,0000,,Did you cum with that?
+Dialogue: 0,0:24:06.14,0:24:07.91,style1,,0000,0000,0000,,Well, not with her breast...
+Dialogue: 0,0:24:07.91,0:24:08.98,style1,,0000,0000,0000,,Why!
+Dialogue: 0,0:24:08.98,0:24:12.71,style1,,0000,0000,0000,,Well, it was her first time and I wanted something\Nnormal!
+Dialogue: 0,0:24:12.71,0:24:13.61,style1,,0000,0000,0000,,Anal sex?
+Dialogue: 0,0:24:13.61,0:24:16.45,style1,,0000,0000,0000,,Sex means sex! Where else would I stick it in, stupid!
+Dialogue: 0,0:24:16.45,0:24:17.85,style1,,0000,0000,0000,,You called me stupid!
+Dialogue: 0,0:24:18.39,0:24:20.52,style1,,0000,0000,0000,,Well, did you cum?
+Dialogue: 0,0:24:20.52,0:24:22.76,style1,,0000,0000,0000,,I did!
+Dialogue: 0,0:24:22.76,0:24:24.09,style1,,0000,0000,0000,,How?
+Dialogue: 0,0:24:24.09,0:24:29.62,style1,,0000,0000,0000,,I ejaculated towards her...
+Dialogue: 0,0:24:30.26,0:24:32.76,style1,,0000,0000,0000,,Ejaculation!?
+Dialogue: 0,0:24:38.07,0:24:41.47,style1,,0000,0000,0000,,Hey, don't touch her butt! I am going to be the first\None to have some of that!
+Dialogue: 0,0:24:45.08,0:24:47.24,style1,,0000,0000,0000,,What the hell!
+Dialogue: 0,0:25:00.66,0:25:02.49,style1,,0000,0000,0000,,Hey, Rika...
+Dialogue: 0,0:25:03.73,0:25:05.25,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:25:05.80,0:25:07.50,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:25:07.50,0:25:09.54,style1,,0000,0000,0000,,She came to her senses!
+Dialogue: 0,0:25:09.54,0:25:11.10,style1,,0000,0000,0000,,Oh, I...!
+Dialogue: 0,0:25:11.10,0:25:13.67,style1,,0000,0000,0000,,Where are the enemies? What about the people?
+Dialogue: 0,0:25:13.67,0:25:20.81,style1,,0000,0000,0000,,The enemies ran away, but the people are safe; they\Nwon't remember a thing about this, thanks to me.
+Dialogue: 0,0:25:21.55,0:25:25.12,style1,,0000,0000,0000,,Naoto... I'm glad...
+Dialogue: 0,0:25:25.12,0:25:27.14,style1,,0000,0000,0000,,Rika...
+Dialogue: 0,0:25:34.03,0:25:38.62,style1,,0000,0000,0000,,Where is this? This is... let go...
+Dialogue: 0,0:25:40.53,0:25:46.50,style1,,0000,0000,0000,,You screwed up, so now you're being punished... plus,\Nyou treated me bad.
+Dialogue: 0,0:25:47.04,0:25:52.00,style1,,0000,0000,0000,,I'm, I'm sorry. Please stop... stop... please...
+Dialogue: 0,0:25:56.65,0:25:58.52,style1,,0000,0000,0000,,I do not like foreplay.
+Dialogue: 0,0:25:58.52,0:25:59.05,style1,,0000,0000,0000,,Huh?
+Dialogue: 0,0:25:59.05,0:26:00.38,style1,,0000,0000,0000,,Thrust it!
+Dialogue: 0,0:26:03.66,0:26:05.75,style1,,0000,0000,0000,,It hurts... it hurts...
+Dialogue: 0,0:26:05.93,0:26:10.39,style1,,0000,0000,0000,,This is your first time... how pathetic... I can't even pity\Nyou.
+Dialogue: 0,0:26:12.50,0:26:12.57,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:26:12.57,0:26:17.64,style1,,0000,0000,0000,,Naoto...
+Dialogue: 0,0:26:17.64,0:26:19.67,style1,,0000,0000,0000,,Gentle... ok...
+Dialogue: 0,0:26:19.67,0:26:21.83,style1,,0000,0000,0000,,You seem like you are ready for it...
+Dialogue: 0,0:26:29.18,0:26:30.65,style1,,0000,0000,0000,,Rika!
+Dialogue: 0,0:26:30.65,0:26:32.38,style1,,0000,0000,0000,,It hurts...
+Dialogue: 0,0:26:33.72,0:26:36.62,style1,,0000,0000,0000,,I'm ok, so... so...
+Dialogue: 0,0:27:05.62,0:27:08.95,style1,,0000,0000,0000,,I'm goingto... cum inside!
+Dialogue: 0,0:27:13.53,0:27:14.65,style1,,0000,0000,0000,,Rika!

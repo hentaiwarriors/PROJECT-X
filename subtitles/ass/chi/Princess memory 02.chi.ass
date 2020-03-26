@@ -1,0 +1,222 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Untitled
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.05,0:00:10.35,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:00:16.26,0:00:17.49,Default,,0,0,0,,This is...\N
+Dialogue: 0,0:00:17.86,0:00:19.52,Default,,0,0,0,,What a beautiful flower.\N
+Dialogue: 0,0:00:19.70,0:00:21.53,Default,,0,0,0,,Felina, you can talk?\N
+Dialogue: 0,0:00:26.90,0:00:30.13,Default,,0,0,0,,Save me, please. Save me.\N
+Dialogue: 0,0:00:43.19,0:00:46.68,Default,,0,0,0,,Princess Memory: Second Half\N
+Dialogue: 0,0:01:04.27,0:01:05.33,Default,,0,0,0,,Collin!\N
+Dialogue: 0,0:01:09.18,0:01:10.14,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:01:12.78,0:01:15.41,Default,,0,0,0,,Felina, you've got your soul back?\N
+Dialogue: 0,0:01:16.75,0:01:18.12,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:01:25.19,0:01:26.63,Default,,0,0,0,,Sly Felina!\N
+Dialogue: 0,0:01:36.37,0:01:39.00,Default,,0,0,0,,Stop it! Please stop it!\N
+Dialogue: 0,0:01:46.48,0:01:47.81,Default,,0,0,0,,A dream?\N
+Dialogue: 0,0:01:55.56,0:01:58.53,Default,,0,0,0,,Felina, what am I supposed to do? Tell me.\N
+Dialogue: 0,0:02:03.77,0:02:04.75,Default,,0,0,0,,This is...\N
+Dialogue: 0,0:02:06.64,0:02:08.80,Default,,0,0,0,,What am I supposed to do with it?\N
+Dialogue: 0,0:02:10.64,0:02:13.70,Default,,0,0,0,,Save me. Save me, please.\N
+Dialogue: 0,0:02:33.56,0:02:34.82,Default,,0,0,0,,Lily.\N
+Dialogue: 0,0:02:37.83,0:02:39.49,Default,,0,0,0,,So, you're going back?\N
+Dialogue: 0,0:02:43.74,0:02:45.50,Default,,0,0,0,,I can't stop at this point.\N
+Dialogue: 0,0:02:45.94,0:02:48.34,Default,,0,0,0,,For the sake of Sallian and Lily.\N
+Dialogue: 0,0:02:51.95,0:02:54.25,Default,,0,0,0,,It's a charm for your safety.\N
+Dialogue: 0,0:02:54.68,0:02:58.18,Default,,0,0,0,,Pony, I'll look after Felina,\Nso don't worry about her.\N
+Dialogue: 0,0:03:00.96,0:03:02.22,Default,,0,0,0,,Yes, thank you.\N
+Dialogue: 0,0:03:10.63,0:03:11.62,Default,,0,0,0,,Collin...\N
+Dialogue: 0,0:03:27.55,0:03:29.28,Default,,0,0,0,,All right! Fight me!\N
+Dialogue: 0,0:03:32.85,0:03:33.51,Default,,0,0,0,,What?\N
+Dialogue: 0,0:03:33.86,0:03:35.45,Default,,0,0,0,,It's just a Nuvolian.\N
+Dialogue: 0,0:03:35.76,0:03:38.23,Default,,0,0,0,,You've got a lot of gusto, don't you?\N
+Dialogue: 0,0:03:38.36,0:03:40.49,Default,,0,0,0,,There's something I've got to complete.\N
+Dialogue: 0,0:03:46.54,0:03:47.52,Default,,0,0,0,,What's that?\N
+Dialogue: 0,0:03:50.17,0:03:51.54,Default,,0,0,0,,It's what Felina gave me.\N
+Dialogue: 0,0:03:53.21,0:03:54.68,Default,,0,0,0,,Is that so?\N
+Dialogue: 0,0:04:02.78,0:04:05.48,Default,,0,0,0,,There's a secret in that amulet.\N
+Dialogue: 0,0:04:05.95,0:04:08.35,Default,,0,0,0,,Madonna Felina.\N
+Dialogue: 0,0:04:08.42,0:04:11.95,Default,,0,0,0,,Felina can be restored\Nto her original self.\N
+Dialogue: 0,0:04:12.13,0:04:17.16,Default,,0,0,0,,Only when all the characters of Felina\Nare sealed inside the amulet.\N
+Dialogue: 0,0:04:19.07,0:04:21.54,Default,,0,0,0,,What a troublemaker you are.\N
+Dialogue: 0,0:04:22.54,0:04:23.53,Default,,0,0,0,,Sly Felina!\N
+Dialogue: 0,0:04:24.04,0:04:26.94,Default,,0,0,0,,Didn't you have enough already?\N
+Dialogue: 0,0:04:27.04,0:04:29.53,Default,,0,0,0,,Besides, can you die for Felina?\N
+Dialogue: 0,0:04:29.68,0:04:30.91,Default,,0,0,0,,Of course I can.\N
+Dialogue: 0,0:04:41.02,0:04:44.58,Default,,0,0,0,,Without this amulet,\NFelina's soul cannot be captured.\N
+Dialogue: 0,0:04:44.66,0:04:45.65,Default,,0,0,0,,Understand?\N
+Dialogue: 0,0:04:45.89,0:04:48.33,Default,,0,0,0,,- Stop that!\N- Take that!\N
+Dialogue: 0,0:04:55.17,0:04:56.54,Default,,0,0,0,,Just give up.\N
+Dialogue: 0,0:04:57.01,0:04:59.87,Default,,0,0,0,,You won't be able to save Felina.\N
+Dialogue: 0,0:05:00.04,0:05:00.94,Default,,0,0,0,,I will!\N
+Dialogue: 0,0:05:09.55,0:05:12.58,Default,,0,0,0,,Collin, I can make it faster.\N
+Dialogue: 0,0:05:21.66,0:05:24.50,Default,,0,0,0,,Have a good time in hell, won't you?\N
+Dialogue: 0,0:05:51.73,0:05:53.28,Default,,0,0,0,,I can't believe this.\N
+Dialogue: 0,0:06:00.74,0:06:02.36,Default,,0,0,0,,What? Don't!\N
+Dialogue: 0,0:06:02.90,0:06:04.17,Default,,0,0,0,,You are...\N
+Dialogue: 0,0:06:04.51,0:06:05.80,Default,,0,0,0,,Sallian!\N
+Dialogue: 0,0:06:06.01,0:06:08.31,Default,,0,0,0,,Collin? Is it you, Collin?\N
+Dialogue: 0,0:06:15.38,0:06:16.37,Default,,0,0,0,,Collin.\N
+Dialogue: 0,0:06:16.95,0:06:19.04,Default,,0,0,0,,I was so scared down there.\N
+Dialogue: 0,0:06:19.25,0:06:21.75,Default,,0,0,0,,The thought of dying alone\Nhere drove me mad.\N
+Dialogue: 0,0:06:32.07,0:06:33.50,Default,,0,0,0,,It's not safe here.\N
+Dialogue: 0,0:06:33.60,0:06:36.26,Default,,0,0,0,,Monsters pop up all the time.\N
+Dialogue: 0,0:06:41.64,0:06:42.97,Default,,0,0,0,,It's incredible.\N
+Dialogue: 0,0:06:43.85,0:06:46.68,Default,,0,0,0,,Don't know why, but it's warm in here.\N
+Dialogue: 0,0:06:48.88,0:06:50.21,Default,,0,0,0,,It's beautiful.\N
+Dialogue: 0,0:06:50.52,0:06:52.92,Default,,0,0,0,,You're embarrassing me. Don't look.\N
+Dialogue: 0,0:06:53.29,0:06:55.48,Default,,0,0,0,,It's not what I meant.\N
+Dialogue: 0,0:06:56.42,0:06:58.76,Default,,0,0,0,,Pony, is she all right?\N
+Dialogue: 0,0:06:59.19,0:07:01.32,Default,,0,0,0,,Yeah, she's doing fine.\N
+Dialogue: 0,0:07:02.06,0:07:04.22,Default,,0,0,0,,Good. So long as she's okay.\N
+Dialogue: 0,0:07:04.73,0:07:05.72,Default,,0,0,0,,Don't say that!\N
+Dialogue: 0,0:07:06.00,0:07:07.80,Default,,0,0,0,,Sallian, you'll go back with me.\N
+Dialogue: 0,0:07:08.00,0:07:10.53,Default,,0,0,0,,How are we going to get out\Nfrom the bottom of the world...\N
+Dialogue: 0,0:07:10.64,0:07:12.07,Default,,0,0,0,,and find our way back?\N
+Dialogue: 0,0:07:15.21,0:07:18.11,Default,,0,0,0,,It's okay. I don't mind dying here.\N
+Dialogue: 0,0:07:18.25,0:07:21.27,Default,,0,0,0,,I'm not alone anymore.\NBecause, Collin, you're with me.\N
+Dialogue: 0,0:07:30.69,0:07:32.16,Default,,0,0,0,,Please sleep with me.\N
+Dialogue: 0,0:07:33.63,0:07:36.86,Default,,0,0,0,,Collin, I've been in love\Nwith you for a long time.\N
+Dialogue: 0,0:07:37.07,0:07:38.36,Default,,0,0,0,,Sallian, we shouldn't.\N
+Dialogue: 0,0:07:38.43,0:07:41.23,Default,,0,0,0,,It's okay. It's just for this moment.\N
+Dialogue: 0,0:07:54.45,0:07:56.64,Default,,0,0,0,,Don't look at me so closely.\N
+Dialogue: 0,0:07:57.32,0:07:58.91,Default,,0,0,0,,You're are so beautiful.\N
+Dialogue: 0,0:09:06.99,0:09:07.89,Default,,0,0,0,,Ready?\N
+Dialogue: 0,0:10:12.22,0:10:15.71,Default,,0,0,0,,Just like in here,\Nit snows all day long...\N
+Dialogue: 0,0:10:15.86,0:10:17.62,Default,,0,0,0,,quietly, outside this cave.\N
+Dialogue: 0,0:10:17.73,0:10:20.52,Default,,0,0,0,,What a lonely place.\N
+Dialogue: 0,0:10:22.13,0:10:23.46,Default,,0,0,0,,Snow never stops.\N
+Dialogue: 0,0:10:23.90,0:10:26.03,Default,,0,0,0,,It's as if someone's crying.\N
+Dialogue: 0,0:10:40.58,0:10:42.11,Default,,0,0,0,,I must go.\N
+Dialogue: 0,0:10:56.50,0:10:57.76,Default,,0,0,0,,What was that?\N
+Dialogue: 0,0:10:59.73,0:11:01.22,Default,,0,0,0,,Collin, let's play!\N
+Dialogue: 0,0:11:05.01,0:11:07.87,Default,,0,0,0,,Come down here and fight me!\N
+Dialogue: 0,0:11:08.01,0:11:10.24,Default,,0,0,0,,How many Felinas are there?\N
+Dialogue: 0,0:11:11.25,0:11:13.54,Default,,0,0,0,,Sallian, just go ahead without me.\N
+Dialogue: 0,0:11:14.35,0:11:16.08,Default,,0,0,0,,- Go on!\N- Collin!\N
+Dialogue: 0,0:11:22.66,0:11:24.52,Default,,0,0,0,,Sallian, just go ahead!\N
+Dialogue: 0,0:11:24.79,0:11:27.06,Default,,0,0,0,,You've got no time to look away.\N
+Dialogue: 0,0:11:27.16,0:11:28.29,Default,,0,0,0,,Go, quickly!\N
+Dialogue: 0,0:11:41.61,0:11:43.94,Default,,0,0,0,,Please get inside the amulet quietly.\N
+Dialogue: 0,0:11:45.65,0:11:47.38,Default,,0,0,0,,All right. I've lost.\N
+Dialogue: 0,0:11:47.52,0:11:49.51,Default,,0,0,0,,But you'd better not think it's over.\N
+Dialogue: 0,0:12:02.16,0:12:03.72,Default,,0,0,0,,Catch me if you can!\N
+Dialogue: 0,0:12:03.87,0:12:04.89,Default,,0,0,0,,Wait!\N
+Dialogue: 0,0:12:09.17,0:12:10.47,Default,,0,0,0,,Hey! Wait up!\N
+Dialogue: 0,0:12:12.07,0:12:14.41,Default,,0,0,0,,Hurry! Catch me.\N
+Dialogue: 0,0:12:17.48,0:12:19.04,Default,,0,0,0,,Now I've finally caught you!\N
+Dialogue: 0,0:12:44.07,0:12:45.90,Default,,0,0,0,,I am Slut Felina.\N
+Dialogue: 0,0:12:46.67,0:12:49.73,Default,,0,0,0,,Now, let's have fun.\N
+Dialogue: 0,0:12:49.98,0:12:52.47,Default,,0,0,0,,- No, we can't.\N- Why not?\N
+Dialogue: 0,0:12:52.55,0:12:55.74,Default,,0,0,0,,I beg you.\NPlease get inside the amulet.\N
+Dialogue: 0,0:12:55.92,0:12:57.68,Default,,0,0,0,,Why don't you forget that?\N
+Dialogue: 0,0:12:57.82,0:13:01.31,Default,,0,0,0,,Besides, it'll feel really good. Here.\N
+Dialogue: 0,0:13:04.09,0:13:05.72,Default,,0,0,0,,I'm begging you.\N
+Dialogue: 0,0:13:10.80,0:13:13.43,Default,,0,0,0,,I see. You do really love her.\N
+Dialogue: 0,0:13:26.68,0:13:29.91,Default,,0,0,0,,I want to go. I want to go home.\N
+Dialogue: 0,0:13:30.25,0:13:33.19,Default,,0,0,0,,Collin, will you take me with you too?\N
+Dialogue: 0,0:13:34.32,0:13:35.95,Default,,0,0,0,,Of course.\N
+Dialogue: 0,0:13:37.63,0:13:39.65,Default,,0,0,0,,Thank you very much, Collin.\N
+Dialogue: 0,0:13:57.21,0:14:00.54,Default,,0,0,0,,I'm almost there. But, I can't!\N
+Dialogue: 0,0:14:06.52,0:14:10.75,Default,,0,0,0,,Pull! Pull with all your might!\N
+Dialogue: 0,0:14:11.06,0:14:12.05,Default,,0,0,0,,Pull!\N
+Dialogue: 0,0:14:14.53,0:14:16.76,Default,,0,0,0,,You, girl, from the village.\N
+Dialogue: 0,0:14:16.83,0:14:18.26,Default,,0,0,0,,Where's Collin?\N
+Dialogue: 0,0:14:19.37,0:14:22.34,Default,,0,0,0,,He's collecting the soul of Felina right now.\N
+Dialogue: 0,0:14:22.54,0:14:24.10,Default,,0,0,0,,Is that right?\N
+Dialogue: 0,0:14:24.61,0:14:26.13,Default,,0,0,0,,All right, then.\N
+Dialogue: 0,0:14:26.21,0:14:29.04,Default,,0,0,0,,Collin will be able to do that now, I'm sure.\N
+Dialogue: 0,0:14:30.51,0:14:31.88,Default,,0,0,0,,You've done well.\N
+Dialogue: 0,0:14:32.05,0:14:35.07,Default,,0,0,0,,The last one remaining is Sly Felina.\N
+Dialogue: 0,0:14:35.18,0:14:37.95,Default,,0,0,0,,You know her. I count on you.\N
+Dialogue: 0,0:14:53.83,0:14:55.56,Default,,0,0,0,,Madonna Felina.\N
+Dialogue: 0,0:14:59.17,0:15:01.61,Default,,0,0,0,,I'm not so easy like them.\N
+Dialogue: 0,0:15:24.90,0:15:26.09,Default,,0,0,0,,Felina!\N
+Dialogue: 0,0:15:27.30,0:15:29.10,Default,,0,0,0,,Don't call me Felina.\N
+Dialogue: 0,0:15:29.20,0:15:31.90,Default,,0,0,0,,Yes, I will, for you are Felina.\N
+Dialogue: 0,0:15:32.07,0:15:34.87,Default,,0,0,0,,I don't trust you. I trust no one.\N
+Dialogue: 0,0:15:35.21,0:15:38.70,Default,,0,0,0,,This is the world that exists\Nin the center of your heart, isn't it?\N
+Dialogue: 0,0:15:38.85,0:15:41.18,Default,,0,0,0,,A cold, frozen world.\N
+Dialogue: 0,0:15:41.42,0:15:43.41,Default,,0,0,0,,Shut up and speak no more.\N
+Dialogue: 0,0:15:43.55,0:15:46.85,Default,,0,0,0,,This world has turned Felina\Ninto what she is today.\N
+Dialogue: 0,0:15:46.99,0:15:50.05,Default,,0,0,0,,I told you to shut up. If you don't...\N
+Dialogue: 0,0:15:54.30,0:15:57.66,Default,,0,0,0,,If I die, Felina will be gone forever.\N
+Dialogue: 0,0:15:57.77,0:15:59.76,Default,,0,0,0,,Can't you get that through\Nyour thick skull?\N
+Dialogue: 0,0:16:13.35,0:16:16.32,Default,,0,0,0,,Look, Felina's suffering, as you can tell.\N
+Dialogue: 0,0:16:16.52,0:16:19.18,Default,,0,0,0,,Can you feel her pain? Can you?\N
+Dialogue: 0,0:16:20.35,0:16:23.19,Default,,0,0,0,,Stop it, Felina! Don't do that!\N
+Dialogue: 0,0:16:26.19,0:16:29.69,Default,,0,0,0,,Felina's in pain. Now, try saving her.\N
+Dialogue: 0,0:16:31.00,0:16:35.20,Default,,0,0,0,,That's right. You can't save her.\NNo one can.\N
+Dialogue: 0,0:16:35.37,0:16:37.70,Default,,0,0,0,,Do you understand what I mean?\N
+Dialogue: 0,0:16:50.99,0:16:55.79,Default,,0,0,0,,Felina, stop it. Please don't\Nhurt yourself any more.\N
+Dialogue: 0,0:17:03.66,0:17:07.40,Default,,0,0,0,,The ice is melting. It can't be!\N
+Dialogue: 0,0:17:07.54,0:17:11.94,Default,,0,0,0,,Felina, trust me. I've come here...\N
+Dialogue: 0,0:17:12.34,0:17:14.43,Default,,0,0,0,,to save you.\N
+Dialogue: 0,0:17:15.58,0:17:16.57,Default,,0,0,0,,Collin.\N
+Dialogue: 0,0:17:23.72,0:17:25.95,Default,,0,0,0,,I've lost.\N
+Dialogue: 0,0:17:37.77,0:17:39.36,Default,,0,0,0,,It's all over.\N
+Dialogue: 0,0:17:41.20,0:17:44.19,Default,,0,0,0,,It looks like you've collected them all.\N
+Dialogue: 0,0:17:44.34,0:17:45.33,Default,,0,0,0,,Collin!\N
+Dialogue: 0,0:17:53.48,0:17:55.31,Default,,0,0,0,,I'm glad, Collin.\N
+Dialogue: 0,0:17:56.35,0:17:58.25,Default,,0,0,0,,Thanks a lot for your help, Sallian.\N
+Dialogue: 0,0:18:08.56,0:18:10.12,Default,,0,0,0,,There's a cliff over there.\N
+Dialogue: 0,0:18:10.23,0:18:13.72,Default,,0,0,0,,If you jump off of it,\Nyou can get back to your world.\N
+Dialogue: 0,0:18:14.00,0:18:17.87,Default,,0,0,0,,This world and yours exist,\Ndirectly opposite each other.\N
+Dialogue: 0,0:18:22.74,0:18:24.44,Default,,0,0,0,,Thanks everyone!\N
+Dialogue: 0,0:19:02.52,0:19:05.95,Default,,0,0,0,,Sallian! Collin! I'm so glad!\N
+Dialogue: 0,0:19:06.05,0:19:07.95,Default,,0,0,0,,Like I expected, you're back unscathed.\N
+Dialogue: 0,0:19:08.02,0:19:10.72,Default,,0,0,0,,I was so sure you'd be back,\NI prepared dinner for you.\N
+Dialogue: 0,0:19:10.89,0:19:15.39,Default,,0,0,0,,I'm so glad. Really glad.\NIt's all thanks to you, Collin.\N
+Dialogue: 0,0:19:15.56,0:19:18.79,Default,,0,0,0,,Collin, thank you so much.\NReally, I mean it.\N
+Dialogue: 0,0:19:24.24,0:19:27.07,Default,,0,0,0,,Felina, I'm on my way back to you.\N
+Dialogue: 0,0:19:36.05,0:19:38.45,Default,,0,0,0,,Felina, I've finally returned home.\N
+Dialogue: 0,0:20:19.93,0:20:21.99,Default,,0,0,0,,Dear, Collin.\N
+Dialogue: 0,0:20:22.60,0:20:24.36,Default,,0,0,0,,Thank you, dear Collin.\N
+Dialogue: 0,0:20:24.57,0:20:26.59,Default,,0,0,0,,You've risked your life to save me...\N
+Dialogue: 0,0:20:26.67,0:20:30.47,Default,,0,0,0,,the Savage Felina, the Slut Felina\Nand even the Sly Felina.\N
+Dialogue: 0,0:20:30.60,0:20:34.23,Default,,0,0,0,,How will I ever thank you?\NHow will I pay you back?\N
+Dialogue: 0,0:20:35.01,0:20:36.00,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:20:36.84,0:20:40.71,Default,,0,0,0,,My heart ached for so long,\NI could never trust anyone.\N
+Dialogue: 0,0:20:40.78,0:20:42.31,Default,,0,0,0,,Then you came.\N
+Dialogue: 0,0:20:42.48,0:20:47.18,Default,,0,0,0,,I know. I noticed how\NSly Felina's eyes looked so sad.\N
+Dialogue: 0,0:20:47.89,0:20:49.82,Default,,0,0,0,,My soul loves you.\N
+Dialogue: 0,0:20:49.96,0:20:52.76,Default,,0,0,0,,They all love you, Collin. And I...\N
+Dialogue: 0,0:20:53.09,0:20:54.79,Default,,0,0,0,,Iove you too, you know?\N
+Dialogue: 0,0:20:55.03,0:20:56.50,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:20:57.60,0:21:01.09,Default,,0,0,0,,I was very scared. I couldn't trust anyone.\N
+Dialogue: 0,0:21:02.74,0:21:04.07,Default,,0,0,0,,How about now?\N
+Dialogue: 0,0:21:04.47,0:21:07.96,Default,,0,0,0,,I'm not scared anymore,\Nbecause I'm with you, Collin.\N
+Dialogue: 0,0:21:19.95,0:21:22.98,Default,,0,0,0,,Collin, I love you. I want to be with you.\N
+Dialogue: 0,0:21:23.09,0:21:24.75,Default,,0,0,0,,We'll be together forever.\N
+Dialogue: 0,0:21:34.60,0:21:36.09,Default,,0,0,0,,I can't.\N
+Dialogue: 0,0:21:43.74,0:21:45.80,Default,,0,0,0,,I just can't. No!\N
+Dialogue: 0,0:21:54.69,0:21:56.32,Default,,0,0,0,,Not there.\N
+Dialogue: 0,0:22:01.26,0:22:03.23,Default,,0,0,0,,I'm embarrassed.\N
+Dialogue: 0,0:22:07.03,0:22:09.53,Default,,0,0,0,,Felina, you're so beautiful.\N
+Dialogue: 0,0:22:09.67,0:22:12.54,Default,,0,0,0,,Don't look at me so closely.\N
+Dialogue: 0,0:22:12.74,0:22:13.97,Default,,0,0,0,,May I?\N
+Dialogue: 0,0:22:28.12,0:22:29.65,Default,,0,0,0,,Does it hurt?\N
+Dialogue: 0,0:22:30.39,0:22:35.29,Default,,0,0,0,,No. I can feel you\Nwith my whole body. I'm happy.\N
+Dialogue: 0,0:22:36.63,0:22:37.93,Default,,0,0,0,,Felina...\N
+Dialogue: 0,0:22:51.88,0:22:52.64,Default,,0,0,0,,Don't!\N
+Dialogue: 0,0:22:57.32,0:22:59.58,Default,,0,0,0,,Collin, it's great!\N
+Dialogue: 0,0:23:16.50,0:23:19.47,Default,,0,0,0,,Collin, thank you.\N
+Dialogue: 0,0:23:33.09,0:23:35.61,Default,,0,0,0,,I want to be with you forever, Collin.\N
+Dialogue: 0,0:23:39.06,0:23:40.55,Default,,0,0,0,,But the world you entered...\N
+Dialogue: 0,0:23:40.66,0:23:43.79,Default,,0,0,0,,the world beyond the bottom\Nof this world, is my world.\N
+Dialogue: 0,0:23:44.03,0:23:47.26,Default,,0,0,0,,If I don't return, that snow will not stop.\N
+Dialogue: 0,0:23:47.43,0:23:50.03,Default,,0,0,0,,Although I will never be able\Nto see you again...\N
+Dialogue: 0,0:23:50.24,0:23:52.47,Default,,0,0,0,,I won't forget the warmth you've given me.\N
+Dialogue: 0,0:23:52.61,0:23:56.10,Default,,0,0,0,,I will remember you forever.\NThank you.\N
+Dialogue: 0,0:24:01.95,0:24:03.58,Default,,0,0,0,,Felina.\N
+Dialogue: 0,0:24:13.13,0:24:17.96,Default,,0,0,0,,Felina, the petals of the white flowers\Nare like the snow I saw in your world.\N

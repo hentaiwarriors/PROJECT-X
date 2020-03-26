@@ -1,0 +1,271 @@
+﻿[Script Info]
+; Written by VisualSubSync 0.9.22.1129
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayResX: 704
+PlayResY: 400
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+Last Style Storage: Moonlight_Edit
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Collisions: Normal
+ScaledBorderAndShadow: yes
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Stars,Georgia,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TITLE,Coaster,50,&H004269C5,&H000000FF,&H00F6F6F9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Team,Eurostile,32,&H00FFFFFF,&H000000FF,&H00B257EC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Notes_Police,Arial Black,26,&H00F0F0F0,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.15,0:00:10.25,Stars,,0000,0000,0000,,Bonjour. C'est Saitô.
+Dialogue: 0,0:00:10.60,0:00:12.38,Stars,,0000,0000,0000,,{\i1}Le nouveau semestre commence demain.{\i0}
+Dialogue: 0,0:00:12.64,0:00:15.14,Stars,,0000,0000,0000,,{\i1}Lorsque j'ai appris\Nla mort de mon frère,{\i0}
+Dialogue: 0,0:00:15.26,0:00:16.97,Stars,,0000,0000,0000,,{\i1}j'ai décidé de profiter{\i0}
+Dialogue: 0,0:00:17.09,0:00:20.64,Stars,,0000,0000,0000,,{\i1}de la fin des vacances\Npour me racheter.{\i0}
+Dialogue: 0,0:00:21.00,0:00:23.33,Stars,,0000,0000,0000,,{\i1}Il faut que je répare\Nle mal que je lui ai fait.{\i0}
+Dialogue: 0,0:00:23.84,0:00:26.22,Stars,,0000,0000,0000,,{\i1}Si seulement ce cauchemar{\i0}
+Dialogue: 0,0:00:26.25,0:00:29.03,Stars,,0000,0000,0000,,{\i1}pouvait être ma seule punition...{\i0}
+Dialogue: 0,0:00:30.06,0:00:34.39,Stars,,0000,0000,0000,,{\i1}Ce n'était que mon fantasme\Nidiot et égoïste.{\i0}
+Dialogue: 0,0:00:35.03,0:00:46.79,TITLE,,0000,0000,0000,,{\pos(350,320)}Kuttsukiboshi
+Dialogue: 0,0:00:35.03,0:00:46.79,Stars,,0000,0000,0000,,{\pos(475,32)}présente
+Dialogue: 0,0:00:35.03,0:00:46.79,Team,,0000,0000,0000,,{\pos(286,32)}[Touch_Productions]
+Dialogue: 0,0:00:45.18,0:00:48.48,Stars,,0000,0000,0000,,{\i1}L'ouragan 11,\Npuissant et à grande échelle,{\i0}
+Dialogue: 0,0:00:48.53,0:00:51.38,Stars,,0000,0000,0000,,{\i1}semble s'approcher\Ndes rives du Kantô.{\i0}
+Dialogue: 0,0:00:51.58,0:00:54.52,Stars,,0000,0000,0000,,{\i1}Il y aura une tempête pour la dernière\Nsemaine des vacances d'été.{\i0}
+Dialogue: 0,0:00:57.25,0:00:59.26,Stars,,0000,0000,0000,,{\i1}Elle n'est pas venue...{\i0}
+Dialogue: 0,0:01:08.04,0:01:09.52,Stars,,0000,0000,0000,,Elle l'a apporté...
+Dialogue: 0,0:01:29.24,0:01:31.01,Stars,,0000,0000,0000,,Qu'est-ce que c'est ?
+Dialogue: 0,0:01:39.94,0:01:42.64,Notes_Police,,0000,0000,0000,,[Où est ton téléphone :\Nremise du cours de sport]
+Dialogue: 0,0:01:48.88,0:01:50.01,Stars,,0000,0000,0000,,Mon téléphone...
+Dialogue: 0,0:01:51.25,0:01:52.73,Stars,,0000,0000,0000,,... dans la remise ?
+Dialogue: 0,0:01:57.30,0:01:59.46,Stars,,0000,0000,0000,,Où est-il ?
+Dialogue: 0,0:02:43.29,0:02:45.42,Stars,,0000,0000,0000,,Hein ? Que s'est-il passé ?...
+Dialogue: 0,0:02:45.46,0:02:48.07,Stars,,0000,0000,0000,,Non !... Ne...
+Dialogue: 0,0:02:53.38,0:02:55.46,Stars,,0000,0000,0000,,Quoi ? Qu'est-ce que... ?
+Dialogue: 0,0:03:05.63,0:03:07.30,Stars,,0000,0000,0000,,Pourquoi ?... Tu...
+Dialogue: 0,0:03:07.76,0:03:10.10,Stars,,0000,0000,0000,,Qu'est-ce que tu veux ?
+Dialogue: 0,0:03:10.90,0:03:11.97,Stars,,0000,0000,0000,,Arrête...
+Dialogue: 0,0:03:12.52,0:03:14.63,Stars,,0000,0000,0000,,Je t'ai dit d'arrêter !!
+Dialogue: 0,0:04:18.86,0:04:19.79,Stars,,0000,0000,0000,,De l'eau...
+Dialogue: 0,0:04:35.81,0:04:37.60,Stars,,0000,0000,0000,,Tu ne manges pas ?
+Dialogue: 0,0:04:48.64,0:04:49.65,Stars,,0000,0000,0000,,J'en ai.
+Dialogue: 0,0:05:24.61,0:05:25.85,Stars,,0000,0000,0000,,Euh...
+Dialogue: 0,0:05:26.16,0:05:29.60,Stars,,0000,0000,0000,,Je crois que mes mains\Nsont engourdies...
+Dialogue: 0,0:05:37.15,0:05:39.35,Stars,,0000,0000,0000,,{\i1}C'est fait !{\i0}
+Dialogue: 0,0:05:39.45,0:05:42.61,Stars,,0000,0000,0000,,{\i1}Ça devrait marcher,\Nmême si j'ai modifié leur forme.{\i0}
+Dialogue: 0,0:05:42.72,0:05:44.42,Stars,,0000,0000,0000,,{\i1}Ça a l'air mieux.{\i0}
+Dialogue: 0,0:05:45.39,0:05:48.96,Stars,,0000,0000,0000,,{\i1}Ça devrait donner envie à Kiichan\Nde l'avoir tous les jours avec elle.{\i0}
+Dialogue: 0,0:05:49.56,0:05:51.91,Stars,,0000,0000,0000,,{\i1}Peut-être que...{\i0}
+Dialogue: 0,0:05:51.99,0:05:53.77,Stars,,0000,0000,0000,,{\i1}Est-ce que c'est bizarre ?{\i0}
+Dialogue: 0,0:05:55.23,0:05:59.51,Stars,,0000,0000,0000,,{\i1}En tout cas, je ne lui dirai pas\Noù je l'ai eu.{\i0}
+Dialogue: 0,0:06:28.73,0:06:29.99,Stars,,0000,0000,0000,,C'était...
+Dialogue: 0,0:06:40.73,0:06:43.62,Stars,,0000,0000,0000,,Oui, je suis allée chez une amie.
+Dialogue: 0,0:06:44.22,0:06:45.04,Stars,,0000,0000,0000,,Oui...
+Dialogue: 0,0:06:46.51,0:06:48.96,Stars,,0000,0000,0000,,Elle m'a invitée à venir réviser\Navec elle.
+Dialogue: 0,0:06:50.24,0:06:51.04,Stars,,0000,0000,0000,,Bon...
+Dialogue: 0,0:06:52.86,0:06:53.97,Stars,,0000,0000,0000,,J'ai compris...
+Dialogue: 0,0:06:57.54,0:06:59.08,Stars,,0000,0000,0000,,Mes parents sont furieux.
+Dialogue: 0,0:07:00.70,0:07:02.33,Stars,,0000,0000,0000,,Ça fait plusieurs jours...
+Dialogue: 0,0:07:04.80,0:07:06.33,Stars,,0000,0000,0000,,Tu peux l'ouvrir pour moi ?
+Dialogue: 0,0:07:08.54,0:07:09.67,Stars,,0000,0000,0000,,Ah oui...
+Dialogue: 0,0:07:27.95,0:07:29.33,Stars,,0000,0000,0000,,Qu'y a-t-il ?
+Dialogue: 0,0:07:29.88,0:07:31.26,Stars,,0000,0000,0000,,J'ai oublié...
+Dialogue: 0,0:07:31.85,0:07:33.48,Stars,,0000,0000,0000,,... la combinaison...
+Dialogue: 0,0:07:36.30,0:07:37.19,Stars,,0000,0000,0000,,Dis-moi...
+Dialogue: 0,0:07:37.74,0:07:40.11,Stars,,0000,0000,0000,,Je voulais te demander...
+Dialogue: 0,0:07:40.59,0:07:43.21,Stars,,0000,0000,0000,,Qu'est-ce que tu faisais avec ton frère\Nà ce moment-là ?
+Dialogue: 0,0:07:44.72,0:07:46.42,Stars,,0000,0000,0000,,Tu ne m'as encore rien dit.
+Dialogue: 0,0:07:47.47,0:07:49.06,Stars,,0000,0000,0000,,Quoi ? Pas grand-chose.
+Dialogue: 0,0:07:50.10,0:07:52.31,Stars,,0000,0000,0000,,Est-ce que maintenant,\Ntu me détestes ?
+Dialogue: 0,0:07:52.43,0:07:55.43,Stars,,0000,0000,0000,,- Juste à cause de ça ?\N- "Juste à cause de ça" ?!
+Dialogue: 0,0:07:59.40,0:08:00.42,Stars,,0000,0000,0000,,Dis...
+Dialogue: 0,0:08:13.41,0:08:14.96,Stars,,0000,0000,0000,,Il fait chaud...
+Dialogue: 0,0:08:15.78,0:08:17.67,Stars,,0000,0000,0000,,J'avais vu que la porte
+Dialogue: 0,0:08:17.79,0:08:20.27,Stars,,0000,0000,0000,,de la remise n'était pas fermée.
+Dialogue: 0,0:08:20.58,0:08:22.84,Stars,,0000,0000,0000,,Inutile de la fermer\Naprès s'en être servi.
+Dialogue: 0,0:08:23.17,0:08:23.95,Stars,,0000,0000,0000,,Au fait,
+Dialogue: 0,0:08:24.32,0:08:26.19,Stars,,0000,0000,0000,,ne te méprends pas.
+Dialogue: 0,0:08:26.71,0:08:30.54,Stars,,0000,0000,0000,,Je n'étais avec toi que parce que\Ntu as découvert mes pouvoirs.
+Dialogue: 0,0:08:31.21,0:08:33.21,Stars,,0000,0000,0000,,Mais j'en ai assez.
+Dialogue: 0,0:08:35.55,0:08:36.41,Stars,,0000,0000,0000,,Salut.
+Dialogue: 0,0:08:44.82,0:08:46.60,Stars,,0000,0000,0000,,{\i1}Qu'est-ce que je voulais faire{\i0}
+Dialogue: 0,0:08:46.91,0:08:49.45,Stars,,0000,0000,0000,,{\i1}toute cette semaine ?{\i0}
+Dialogue: 0,0:08:49.55,0:08:52.63,Stars,,0000,0000,0000,,{\i1}Je ne suis qu'un cobaye\Nbon pour les expériences.{\i0}
+Dialogue: 0,0:08:53.07,0:08:54.02,Stars,,0000,0000,0000,,Cependant...
+Dialogue: 0,0:08:55.11,0:08:58.03,Stars,,0000,0000,0000,,{\i1}Si j'en avais envie,\Nje pourrais toujours m'enfuir.{\i0}
+Dialogue: 0,0:08:58.69,0:09:02.82,Stars,,0000,0000,0000,,{\i1}Bon... en tout cas, maintenant...{\i0}
+Dialogue: 0,0:09:03.41,0:09:06.50,Stars,,0000,0000,0000,,{\i1}Je suis vraiment en colère...{\i0}
+Dialogue: 0,0:09:16.47,0:09:18.51,Notes_Police,,0000,0000,0000,,[Centre Hospitalier de la Ville]
+Dialogue: 0,0:09:34.49,0:09:35.60,Stars,,0000,0000,0000,,Comme tu es bronzée !
+Dialogue: 0,0:09:35.73,0:09:38.32,Stars,,0000,0000,0000,,- Je suis allée quatre fois à la plage !\N- C'est trop !
+Dialogue: 0,0:09:38.58,0:09:39.69,Stars,,0000,0000,0000,,Zut, le prof !
+Dialogue: 0,0:09:41.22,0:09:42.41,Stars,,0000,0000,0000,,Bien, asseyez-vous !
+Dialogue: 0,0:09:42.67,0:09:44.36,Stars,,0000,0000,0000,,On commence l'étude !
+Dialogue: 0,0:09:45.60,0:09:46.75,Stars,,0000,0000,0000,,Hé, Kawakami !
+Dialogue: 0,0:09:47.55,0:09:50.40,Stars,,0000,0000,0000,,Je t'ai marquée absente comme tu n'étais\Npas à la cérémonie d'ouverture.
+Dialogue: 0,0:09:50.52,0:09:54.09,Stars,,0000,0000,0000,,Mais je vais te marquer\Nen retard maintenant. Alors entre.
+Dialogue: 0,0:09:55.81,0:09:57.36,Stars,,0000,0000,0000,,C'est à cause de Saitô ?
+Dialogue: 0,0:09:57.41,0:09:59.13,Stars,,0000,0000,0000,,C'est le premier jour du semestre,
+Dialogue: 0,0:09:59.39,0:10:01.85,Stars,,0000,0000,0000,,Kawkami est en retard\Net Saitô est absente.
+Dialogue: 0,0:10:02.27,0:10:04.40,Stars,,0000,0000,0000,,Alors, commençons l'étude !
+Dialogue: 0,0:10:06.13,0:10:08.24,Stars,,0000,0000,0000,,{\i1}Aaya n'est pas venue à l'école.{\i0}
+Dialogue: 0,0:10:10.24,0:10:12.58,Stars,,0000,0000,0000,,{\i1}Je voulais lui demander\Nce qu'elle ressentait,{\i0}
+Dialogue: 0,0:10:12.63,0:10:15.27,Stars,,0000,0000,0000,,{\i1}mais j'ai été incapable de l'appeler\Nou de lui envoyer un SMS.{\i0}
+Dialogue: 0,0:10:16.02,0:10:19.35,Stars,,0000,0000,0000,,{\i1}Peut-être que c'est parce que j'ai peur\Nqu'elle ne réponde pas.{\i0}
+Dialogue: 0,0:10:19.47,0:10:20.99,Stars,,0000,0000,0000,,{\i1}Je veux tout oublier,{\i0}
+Dialogue: 0,0:10:21.26,0:10:25.37,Stars,,0000,0000,0000,,{\i1}et croire qu'Aaya Saitô\Nn'a jamais existé depuis le début.{\i0}
+Dialogue: 0,0:10:25.66,0:10:28.93,Stars,,0000,0000,0000,,{\i1}Mais... je ne peux pas penser\Nde la sorte.{\i0}
+Dialogue: 0,0:10:29.38,0:10:31.60,Stars,,0000,0000,0000,,{\i1}Je ne pense qu'à elle.{\i0}
+Dialogue: 0,0:10:33.32,0:10:36.02,Stars,,0000,0000,0000,,Je vais ramasser\Nles devoirs de cet été.
+Dialogue: 0,0:10:36.21,0:10:38.75,Stars,,0000,0000,0000,,Apportez-les par ordre alphabétique.
+Dialogue: 0,0:10:39.01,0:10:42.59,Stars,,0000,0000,0000,,{\i1}Les devoirs ?\NJe les avais complètement oubliés...{\i0}
+Dialogue: 0,0:10:44.09,0:10:45.24,Stars,,0000,0000,0000,,{\i1}Oh non...{\i0}
+Dialogue: 0,0:10:58.09,0:10:59.16,Stars,,0000,0000,0000,,Merci à vous.
+Dialogue: 0,0:10:59.81,0:11:01.65,Stars,,0000,0000,0000,,Sois prudente en rentrant.
+Dialogue: 0,0:12:02.44,0:12:05.17,Stars,,0000,0000,0000,,Faisons-le pour la dernière fois...
+Dialogue: 0,0:12:07.48,0:12:09.09,Stars,,0000,0000,0000,,Une minute ! Mon sac !
+Dialogue: 0,0:12:27.58,0:12:31.68,Stars,,0000,0000,0000,,- Attends, tu ne portes rien...\N- Pas la peine d'être gênée.
+Dialogue: 0,0:12:33.25,0:12:34.59,Stars,,0000,0000,0000,,Allez, vas-y.
+Dialogue: 0,0:12:42.64,0:12:43.57,Stars,,0000,0000,0000,,Oui...
+Dialogue: 0,0:12:55.18,0:12:58.87,Stars,,0000,0000,0000,,Hé... Pourquoi tu n'as pas\Nnon plus de culotte ?
+Dialogue: 0,0:13:01.41,0:13:04.19,Stars,,0000,0000,0000,,Je n'en avais pas envie...
+Dialogue: 0,0:13:07.00,0:13:08.34,Stars,,0000,0000,0000,,Ton doigt...
+Dialogue: 0,0:13:10.49,0:13:12.46,Stars,,0000,0000,0000,,Est-ce que c'est mal ?
+Dialogue: 0,0:13:13.89,0:13:15.09,Stars,,0000,0000,0000,,À mon tour...
+Dialogue: 0,0:13:16.21,0:13:17.41,Stars,,0000,0000,0000,,Qu'est-ce que...
+Dialogue: 0,0:13:17.67,0:13:19.08,Stars,,0000,0000,0000,,Ça ne se fait pas !
+Dialogue: 0,0:13:20.14,0:13:22.53,Stars,,0000,0000,0000,,Ça ne se fait pas !
+Dialogue: 0,0:13:26.79,0:13:28.32,Stars,,0000,0000,0000,,Arrête ça.
+Dialogue: 0,0:13:28.49,0:13:32.76,Stars,,0000,0000,0000,,Tu y vas plus fort que moi.
+Dialogue: 0,0:13:58.95,0:14:00.75,Stars,,0000,0000,0000,,On aurait pu y aller
+Dialogue: 0,0:14:01.02,0:14:04.10,Stars,,0000,0000,0000,,quand il y avait plus d'eau\Ndans la baignoire.
+Dialogue: 0,0:14:04.21,0:14:05.79,Stars,,0000,0000,0000,,Ce sera pour la prochaine fois.
+Dialogue: 0,0:14:06.05,0:14:09.80,Stars,,0000,0000,0000,,Ce n'est plus la peine.\NJe veux dire que c'est déjà...
+Dialogue: 0,0:14:12.07,0:14:14.94,Stars,,0000,0000,0000,,De toute façon, en ce moment,\Nje ne l'ai pas sur moi.
+Dialogue: 0,0:14:15.13,0:14:18.92,Stars,,0000,0000,0000,,- Je ne sais même pas où il est.\N- Ça n'a plus d'importance.
+Dialogue: 0,0:14:19.77,0:14:21.23,Stars,,0000,0000,0000,,C'est juste que...
+Dialogue: 0,0:14:24.85,0:14:26.98,Stars,,0000,0000,0000,,Demain, je quitte le Japon.
+Dialogue: 0,0:14:27.24,0:14:29.51,Stars,,0000,0000,0000,,Autrement dit, cette expérience\Nest terminée.
+Dialogue: 0,0:14:29.63,0:14:31.14,Stars,,0000,0000,0000,,Je garderai ton secret.
+Dialogue: 0,0:14:31.29,0:14:32.07,Stars,,0000,0000,0000,,Alors...
+Dialogue: 0,0:14:33.11,0:14:36.57,Stars,,0000,0000,0000,,Faisons l'amour ce soir.\NAutant que possible...
+Dialogue: 0,0:14:39.42,0:14:41.20,Stars,,0000,0000,0000,,Allons-y...
+Dialogue: 0,0:14:53.28,0:14:54.83,Stars,,0000,0000,0000,,{\i1}C'est...{\i0}
+Dialogue: 0,0:14:56.43,0:14:58.86,Stars,,0000,0000,0000,,Vous êtes la sœur du patient ?
+Dialogue: 0,0:14:59.44,0:15:00.66,Stars,,0000,0000,0000,,{\i1}Un hôpital ?{\i0}
+Dialogue: 0,0:15:00.78,0:15:02.88,Stars,,0000,0000,0000,,Nous avons regardé les résultats,
+Dialogue: 0,0:15:02.96,0:15:05.56,Stars,,0000,0000,0000,,et malheureusement,\Nil n'y a eu aucune amélioration.
+Dialogue: 0,0:15:06.01,0:15:09.86,Stars,,0000,0000,0000,,C'est en partie à cause de l'absence\Nde symptômes que le diagnostic a tardé.
+Dialogue: 0,0:15:10.28,0:15:12.59,Stars,,0000,0000,0000,,Et comme c'est tout près\Nde l'épine dorsale,
+Dialogue: 0,0:15:12.73,0:15:14.70,Stars,,0000,0000,0000,,il sera très difficile\Nde retirer la tumeur.
+Dialogue: 0,0:15:14.96,0:15:16.29,Stars,,0000,0000,0000,,Mademoiselle Saitô...
+Dialogue: 0,0:15:17.11,0:15:17.91,Stars,,0000,0000,0000,,Oui.
+Dialogue: 0,0:15:18.33,0:15:20.17,Stars,,0000,0000,0000,,Je suis vraiment navré de le dire,
+Dialogue: 0,0:15:20.25,0:15:22.94,Stars,,0000,0000,0000,,mais il y a très peu de chances\Nque cela marche.
+Dialogue: 0,0:15:23.06,0:15:25.39,Stars,,0000,0000,0000,,Préparez-vous au pire.
+Dialogue: 0,0:15:26.00,0:15:28.13,Stars,,0000,0000,0000,,Toutefois, nous ferons\Nde notre mieux.
+Dialogue: 0,0:15:28.25,0:15:31.63,Stars,,0000,0000,0000,,Apparemment, l'opération\Npeut être réalisée ce mois-ci...
+Dialogue: 0,0:15:31.89,0:15:35.53,Stars,,0000,0000,0000,,... et ensuite, le docteur a dit\Nque tu iras certainement mieux !
+Dialogue: 0,0:15:37.15,0:15:40.72,Stars,,0000,0000,0000,,Non, je ne m'en sortirai pas.\NJe suis au courant !
+Dialogue: 0,0:15:42.50,0:15:43.52,Stars,,0000,0000,0000,,N'abandonne pas !
+Dialogue: 0,0:15:44.32,0:15:46.31,Stars,,0000,0000,0000,,Aie confiance en toi !
+Dialogue: 0,0:15:46.46,0:15:51.04,Stars,,0000,0000,0000,,Je ne peux rien faire, mais je prierai\Npour que ça marche...
+Dialogue: 0,0:15:51.54,0:15:54.28,Notes_Police,,0000,0000,0000,,[Opération en cours]
+Dialogue: 0,0:15:51.89,0:15:54.07,Stars,,0000,0000,0000,,Prier ne changera rien à tout ça.
+Dialogue: 0,0:15:54.67,0:15:55.57,Stars,,0000,0000,0000,,Mais...
+Dialogue: 0,0:15:55.91,0:15:58.21,Stars,,0000,0000,0000,,Au moins...\Navant que ce soit fini pour moi...
+Dialogue: 0,0:15:59.29,0:16:01.24,Stars,,0000,0000,0000,,Je veux qu'on fasse l'amour\Navant que je meure.
+Dialogue: 0,0:16:02.89,0:16:04.67,Stars,,0000,0000,0000,,J'ai toujours eu ça en tête.
+Dialogue: 0,0:16:04.72,0:16:07.79,Stars,,0000,0000,0000,,Pour moi, tu n'es plus\Njuste ma petite sœur.
+Dialogue: 0,0:16:08.17,0:16:10.77,Stars,,0000,0000,0000,,Que... qu'est-ce que tu as dit ?
+Dialogue: 0,0:16:10.89,0:16:12.46,Stars,,0000,0000,0000,,Je... Non !!
+Dialogue: 0,0:16:16.27,0:16:18.88,Stars,,0000,0000,0000,,Pardon... je ne sais pas\Nce qui m'arrive...
+Dialogue: 0,0:16:19.54,0:16:22.66,Stars,,0000,0000,0000,,Ce n'est rien...\Nje n'étais pas sérieux...
+Dialogue: 0,0:16:22.78,0:16:24.42,Stars,,0000,0000,0000,,Je vais passer sur le billard.
+Dialogue: 0,0:16:24.73,0:16:27.23,Stars,,0000,0000,0000,,Même si je n'aurai\Nrien fait de ma vie...
+Dialogue: 0,0:16:28.22,0:16:32.34,Stars,,0000,0000,0000,,C'est pour ça que tu n'es jamais\Nsorti avec personne, grand frère...
+Dialogue: 0,0:16:36.96,0:16:38.22,Stars,,0000,0000,0000,,C'est d'accord.
+Dialogue: 0,0:16:40.26,0:16:43.12,Stars,,0000,0000,0000,,Tu peux faire ce que tu veux,\Ngrand frère.
+Dialogue: 0,0:16:44.77,0:16:48.23,Stars,,0000,0000,0000,,Je veux faire tout ce que je peux\Npour t'aider.
+Dialogue: 0,0:17:33.64,0:17:36.29,Notes_Police,,0000,0000,0000,,[Ce serait sympa si tu pouvais fermer\Navant de partir.]
+Dialogue: 0,0:17:42.24,0:17:43.18,Stars,,0000,0000,0000,,Je sais.
+Dialogue: 0,0:17:45.77,0:17:48.49,Stars,,0000,0000,0000,,Je peux fermer pour toi.
+Dialogue: 0,0:17:58.75,0:18:02.24,Stars,,0000,0000,0000,,Pas la peine de me dire ça...
+Dialogue: 0,0:18:04.55,0:18:05.43,Stars,,0000,0000,0000,,Mais...
+Dialogue: 0,0:18:08.77,0:18:10.55,Stars,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:18:18.55,0:18:20.02,Stars,,0000,0000,0000,,Pourquoi... ?
+Dialogue: 0,0:18:37.32,0:18:38.46,Stars,,0000,0000,0000,,Pourquoi... ?
+Dialogue: 0,0:18:38.95,0:18:40.12,Stars,,0000,0000,0000,,Pourquoi... ?
+Dialogue: 0,0:18:40.79,0:18:42.30,Stars,,0000,0000,0000,,Pourquoi ?!
+Dialogue: 0,0:19:02.77,0:19:04.57,Stars,,0000,0000,0000,,Pourquoi as-tu disparu ?
+Dialogue: 0,0:19:06.56,0:19:08.59,Stars,,0000,0000,0000,,Pourquoi tu ne m'as rien expliqué ?
+Dialogue: 0,0:19:10.25,0:19:12.36,Stars,,0000,0000,0000,,Ton frère est mort, n'est-ce pas ?
+Dialogue: 0,0:19:16.53,0:19:18.11,Stars,,0000,0000,0000,,Et par-dessus le marché...
+Dialogue: 0,0:19:20.86,0:19:23.90,Stars,,0000,0000,0000,,... il a manipulé\Nsa propre petite sœur
+Dialogue: 0,0:19:24.17,0:19:25.42,Stars,,0000,0000,0000,,de la sorte...
+Dialogue: 0,0:19:26.93,0:19:29.78,Stars,,0000,0000,0000,,Kiichan, tu as vu mes souvenirs ?
+Dialogue: 0,0:19:31.06,0:19:33.99,Stars,,0000,0000,0000,,C'était d'un égoïsme !
+Dialogue: 0,0:19:34.64,0:19:36.11,Stars,,0000,0000,0000,,Qu'est-ce que ça veut dire ?
+Dialogue: 0,0:19:36.33,0:19:38.84,Stars,,0000,0000,0000,,Je te demande pardon\Nde ne t'avoir rien dit...
+Dialogue: 0,0:19:38.96,0:19:41.00,Stars,,0000,0000,0000,,Mais quelle qu'en soit la raison...
+Dialogue: 0,0:19:41.63,0:19:44.26,Stars,,0000,0000,0000,,Ça ne changera rien au fait\Nque je t'ai trahie.
+Dialogue: 0,0:19:44.75,0:19:48.58,Stars,,0000,0000,0000,,- Je suis impardonnable...\N- Tout à fait. C'est impardonnable.
+Dialogue: 0,0:19:49.97,0:19:53.07,Stars,,0000,0000,0000,,Si tu disparais encore une fois\Nsans me le dire...
+Dialogue: 0,0:19:54.52,0:19:56.15,Stars,,0000,0000,0000,,... je te tuerai.
+Dialogue: 0,0:19:58.12,0:19:59.36,Stars,,0000,0000,0000,,Sans te dire...
+Dialogue: 0,0:20:14.79,0:20:16.42,Stars,,0000,0000,0000,,Je le ferai.
+Dialogue: 0,0:20:17.55,0:20:19.99,Stars,,0000,0000,0000,,Nous ferons plus de choses ensemble.
+Dialogue: 0,0:20:20.07,0:20:23.17,Stars,,0000,0000,0000,,Nous nous remplirons de souvenirs.\NEt alors...
+Dialogue: 0,0:20:23.63,0:20:25.65,Stars,,0000,0000,0000,,Tu seras à moi, Aaya.
+Dialogue: 0,0:20:26.69,0:20:27.93,Stars,,0000,0000,0000,,Même si je dois
+Dialogue: 0,0:20:28.35,0:20:30.30,Stars,,0000,0000,0000,,t'y obliger avec mes pouvoirs.
+Dialogue: 0,0:20:30.99,0:20:34.43,Stars,,0000,0000,0000,,Car peu importe\Nl'ardeur de tes caresses,
+Dialogue: 0,0:20:35.18,0:20:38.74,Stars,,0000,0000,0000,,elles m'excitent,\Ncar je t'aime tellement.
+Dialogue: 0,0:20:39.55,0:20:41.70,Stars,,0000,0000,0000,,Peut-être que je ne suis\Nqu'une vicieuse...
+Dialogue: 0,0:20:44.51,0:20:45.56,Stars,,0000,0000,0000,,Et toi, Aaya ?
+Dialogue: 0,0:20:46.38,0:20:48.43,Stars,,0000,0000,0000,,Quoi qu'il arrive,
+Dialogue: 0,0:20:48.89,0:20:50.95,Stars,,0000,0000,0000,,je t'aimerai toujours\Néperdument, Aaya.
+Dialogue: 0,0:20:51.28,0:20:52.51,Stars,,0000,0000,0000,,Je t'aime !
+Dialogue: 0,0:20:56.88,0:21:00.33,Stars,,0000,0000,0000,,C'est tellement confus...\NMais... je suis heureuse...
+Dialogue: 0,0:21:01.49,0:21:04.04,Stars,,0000,0000,0000,,Moi aussi, je t'aime !
+Dialogue: 0,0:21:04.97,0:21:05.91,Stars,,0000,0000,0000,,Aaya...
+Dialogue: 0,0:21:10.75,0:21:13.69,Stars,,0000,0000,0000,,J'ai oublié de fermer la porte...
+Dialogue: 0,0:21:15.03,0:21:16.66,Stars,,0000,0000,0000,,Bon, allons-y !
+Dialogue: 0,0:21:31.17,0:21:32.34,Stars,,0000,0000,0000,,Aaya !
+Dialogue: 0,0:21:33.00,0:21:35.17,Stars,,0000,0000,0000,,Qu'est-ce...\Nqu'est-ce qu'on doit faire ?
+Dialogue: 0,0:21:35.74,0:21:36.83,Stars,,0000,0000,0000,,La mer !
+Dialogue: 0,0:21:50.75,0:21:54.08,Stars,,0000,0000,0000,,Je veux voir la belle mer !
+Dialogue: 0,0:22:12.11,0:22:15.44,Stars,,0000,0000,0000,,Je crois que je l'ai\Nbel et bien perdu.
+Dialogue: 0,0:22:15.99,0:22:18.24,Stars,,0000,0000,0000,,Ça n'est pas bien grave.\NIl a fait son travail.
+Dialogue: 0,0:22:18.73,0:22:20.49,Stars,,0000,0000,0000,,Où l'as-tu eu ?
+Dialogue: 0,0:22:20.87,0:22:23.13,Stars,,0000,0000,0000,,Je l'ai acheté sur Internet.
+Dialogue: 0,0:22:23.58,0:22:26.84,Stars,,0000,0000,0000,,- Je vois... tu l'as eu sur le Net.\N- Mais...
+Dialogue: 0,0:22:27.46,0:22:29.94,Stars,,0000,0000,0000,,Je suis heureuse d'avoir tenté\Nd'y croire,
+Dialogue: 0,0:22:30.30,0:22:32.47,Stars,,0000,0000,0000,,car j'ai pu te rencontrer.
+Dialogue: 0,0:22:32.99,0:22:35.85,Stars,,0000,0000,0000,,Et beaucoup de choses incroyables\Nse sont passées ! Regarde !
+Dialogue: 0,0:22:36.17,0:22:37.77,Stars,,0000,0000,0000,,Comme c'est beau...
+Dialogue: 0,0:22:38.79,0:22:42.42,Stars,,0000,0000,0000,,Oui... mais où sommes-nous donc ?
+Dialogue: 0,0:22:43.49,0:22:46.23,Stars,,0000,0000,0000,,Peut-être sur une planète lointaine.
+Dialogue: 0,0:22:46.32,0:22:47.90,Stars,,0000,0000,0000,,Ça m'est bien égal.
+Dialogue: 0,0:22:48.16,0:22:50.43,Stars,,0000,0000,0000,,Tant que tu es avec moi, Kiichan...
+Dialogue: 0,0:22:51.37,0:22:52.73,Stars,,0000,0000,0000,,Dis, Aaya...
+Dialogue: 0,0:22:53.89,0:22:55.50,Stars,,0000,0000,0000,,J'ai pu voir le futur.
+Dialogue: 0,0:22:56.92,0:22:59.98,Stars,,0000,0000,0000,,Nous serons ensemble pour toujours...
+Dialogue: 0,0:23:01.21,0:23:05.62,Stars,,0000,0000,0000,,{\i1}Si nous le pouvions,{\i0}
+Dialogue: 0,0:23:06.74,0:23:11.13,Stars,,0000,0000,0000,,{\i1}je voudrais que toi et moi{\i0}
+Dialogue: 0,0:23:11.60,0:23:14.55,Stars,,0000,0000,0000,,{\i1}partagions un baiser{\i0}
+Dialogue: 0,0:23:14.58,0:23:17.84,Stars,,0000,0000,0000,,{\i1}qui détruirait toutes les théories{\i0}
+Dialogue: 0,0:23:18.05,0:23:20.63,Stars,,0000,0000,0000,,{\i1}Si je le pouvais,{\i0}
+Dialogue: 0,0:23:23.73,0:23:28.22,Stars,,0000,0000,0000,,{\i1}je ferais s'envoler cette passion{\i0}
+Dialogue: 0,0:23:28.62,0:23:31.36,Stars,,0000,0000,0000,,{\i1}comme s'il y avait des vagues{\i0}
+Dialogue: 0,0:23:31.45,0:23:34.11,Stars,,0000,0000,0000,,{\i1}Je veux croire{\i0}
+Dialogue: 0,0:23:34.39,0:23:39.18,Stars,,0000,0000,0000,,{\i1}en ces sentiments\Nqui viennent de naître{\i0}
+Dialogue: 0,0:23:39.18,0:23:41.18,Stars,,0000,0000,0000,,

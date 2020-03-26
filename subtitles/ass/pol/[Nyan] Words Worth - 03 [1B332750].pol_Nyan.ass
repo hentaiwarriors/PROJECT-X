@@ -1,0 +1,211 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r113
+Active Line: 186
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,14,&H001819B8,&H000000FF,&HFF000000,&H00070C05,-1,-1,0,0,100,100,0,0,1,0.5,0.8,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,28,&H001819B8,&H000000FF,&HFFFFFFFF,&H00070C05,0,0,0,0,100,100,0,0,1,1,1,2,20,20,100,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:11.05,0:01:21.10,Grupa,,0,0,0,,{\be1\fad(897,0)}Nyan
+Dialogue: 0,0:01:13.47,0:01:21.10,Tytul,,0,0,0,,{\be1\fad(1355,0)}Legenda powróciła
+Dialogue: 0,0:00:14.21,0:00:18.28,Default,,0,0,0,,{\be1}Mityczne przejście!
+Dialogue: 0,0:00:47.44,0:00:48.61,Default (i),,0,0,0,,{\be1}Gdzie jestem?
+Dialogue: 0,0:00:56.32,0:00:59.33,Default (i),,0,0,0,,{\be1}Kim jestem?
+Dialogue: 0,0:01:24.51,0:01:29.90,Default (i),,0,0,0,,{\be1}Po raz kolejny przejście między klanami\Nzostało zamknięte i minęło 20 lat.
+Dialogue: 0,0:01:48.37,0:01:51.88,Default,,0,0,0,,{\be1}- On wygląda jak lord Pollux!\N- Masz rację!
+Dialogue: 0,0:01:52.14,0:01:53.24,Default,,0,0,0,,{\be1}Pollux?
+Dialogue: 0,0:01:53.24,0:01:55.30,Default,,0,0,0,,{\be1}Szybko, chodź!
+Dialogue: 0,0:02:01.15,0:02:04.69,Default,,0,0,0,,{\be1}Lord Pollux uśmiechnął się!
+Dialogue: 0,0:02:05.26,0:02:08.01,Default,,0,0,0,,{\be1}Faktycznie!
+Dialogue: 0,0:02:43.72,0:02:48.53,Default (i),,0,0,0,,{\be1}Nie pamiętam kim jestem.
+Dialogue: 0,0:03:14.02,0:03:15.54,Default,,0,0,0,,{\be1}Przepiękna.
+Dialogue: 0,0:03:57.70,0:04:01.85,Default (i),,0,0,0,,{\be1}Nie wiedziałem,\Nże tak dobrze władam mieczem.
+Dialogue: 0,0:04:03.03,0:04:04.77,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:04:06.00,0:04:07.22,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:04:14.63,0:04:15.78,Default,,0,0,0,,{\be1}Jesteś ranna?
+Dialogue: 0,0:04:15.78,0:04:20.66,Default,,0,0,0,,{\be1}Nie, ale nie zbliżaj się.
+Dialogue: 0,0:04:32.83,0:04:34.90,Default,,0,0,0,,{\be1}Nawet mu nie podziękowałam.
+Dialogue: 0,0:04:42.15,0:04:46.32,Default,,0,0,0,,{\be1}To nie miejsce dla włóczęgów!
+Dialogue: 0,0:04:50.65,0:04:52.57,Default,,0,0,0,,{\be1}Zjeżdżaj stąd!
+Dialogue: 0,0:04:55.18,0:04:57.03,Default,,0,0,0,,{\be1}Za co to było?!
+Dialogue: 0,0:04:57.72,0:04:59.39,Default,,0,0,0,,{\be1}Chcesz się bić?
+Dialogue: 0,0:05:08.63,0:05:12.46,Default,,0,0,0,,{\be1}Nie, chcę tylko...
+Dialogue: 0,0:05:16.74,0:05:19.80,Default,,0,0,0,,{\be1}Bez trudu powalił niedźwiedzia?
+Dialogue: 0,0:05:19.80,0:05:23.89,Default,,0,0,0,,{\be1}Zrobił to tak szybko,\Njakby był szybki jak błyskawica.
+Dialogue: 0,0:05:25.44,0:05:28.85,Default,,0,0,0,,{\be1}Myuu, myślę, że nie powinnaś\Nchodzić na spacery do lasu.
+Dialogue: 0,0:05:29.45,0:05:33.02,Default,,0,0,0,,{\be1}Mówisz jak matka.
+Dialogue: 0,0:05:34.46,0:05:35.69,Default,,0,0,0,,{\be1}Jak Maria?
+Dialogue: 0,0:05:35.69,0:05:44.01,Default,,0,0,0,,{\be1}Tak. Dziadku, pamiętaj, że muszę zdobyć wiedzę\No świecie albo będę mieć ciężko w przyszłości.
+Dialogue: 0,0:05:44.97,0:05:47.93,Default,,0,0,0,,{\be1}No to mnie masz.
+Dialogue: 0,0:05:56.30,0:05:57.87,Default,,0,0,0,,{\be1}Przestańcie! Co robicie?!
+Dialogue: 0,0:06:00.66,0:06:02.80,Default,,0,0,0,,{\be1}Żałosny typ.
+Dialogue: 0,0:06:09.20,0:06:11.36,Default,,0,0,0,,{\be1}Dziadku, to on!
+Dialogue: 0,0:06:11.36,0:06:12.44,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:06:20.00,0:06:21.78,Default,,0,0,0,,{\be1}To on?
+Dialogue: 0,0:06:27.45,0:06:29.20,Default,,0,0,0,,{\be1}Straże!
+Dialogue: 0,0:06:31.22,0:06:34.37,Default,,0,0,0,,{\be1}Panie, o co chodzi?
+Dialogue: 0,0:06:34.37,0:06:39.38,Default,,0,0,0,,{\be1}Natychmiast zabić tego mężczyznę!
+Dialogue: 0,0:06:39.66,0:06:40.93,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:06:40.93,0:06:43.32,Default,,0,0,0,,{\be1}Król wydał rozkaz!
+Dialogue: 0,0:06:43.32,0:06:44.80,Default,,0,0,0,,{\be1}Zabić go!
+Dialogue: 0,0:06:45.13,0:06:46.51,Default,,0,0,0,,{\be1}Dziadku!
+Dialogue: 0,0:06:50.84,0:06:55.23,Default,,0,0,0,,{\be1}Dziadku, co to ma znaczyć?!\NPrzecież uratował mi życie!
+Dialogue: 0,0:06:55.94,0:06:58.14,Default,,0,0,0,,{\be1}Patrz na to.
+Dialogue: 0,0:07:28.91,0:07:32.09,Default,,0,0,0,,{\be1}Rozumiem, straciłeś pamięć.
+Dialogue: 0,0:07:33.10,0:07:44.79,Default,,0,0,0,,{\be1}Twoja twarz, budowa ciała i ruchy wskazują,\Nże jesteś najlepszym rycerzem klanu Światła, Polluxem.
+Dialogue: 0,0:07:44.79,0:07:46.11,Default,,0,0,0,,{\be1}Pollux?
+Dialogue: 0,0:07:46.46,0:07:56.31,Default,,0,0,0,,{\be1}Dopóki nie odzyskasz wspomnień może zostaniesz\Nw moim zamku jako Pollux, rycerz klanu Światła?
+Dialogue: 0,0:07:56.78,0:08:02.55,Default,,0,0,0,,{\be1}Uratowałeś życie mojej wnuczce Myuu.
+Dialogue: 0,0:08:19.48,0:08:22.35,Default,,0,0,0,,{\be1}Mamo, zobacz jakie śliczne.
+Dialogue: 0,0:08:22.35,0:08:24.15,Default,,0,0,0,,{\be1}Masz rację.
+Dialogue: 0,0:08:31.79,0:08:33.56,Default,,0,0,0,,{\be1}Ten mężczyzna...
+Dialogue: 0,0:08:34.27,0:08:35.94,Default,,0,0,0,,{\be1}Lord Pollux!
+Dialogue: 0,0:08:55.38,0:08:56.78,Default,,0,0,0,,{\be1}Muszę się pospieszyć.
+Dialogue: 0,0:09:02.90,0:09:05.21,Default,,0,0,0,,{\be1}Jak ja tego nie lubię.
+Dialogue: 0,0:09:42.52,0:09:46.75,Default,,0,0,0,,{\be1}To z pewnością fragment\Nmonumentu słów prawdy.
+Dialogue: 0,0:09:50.58,0:09:52.45,Default,,0,0,0,,{\be1}Świetnie się spisaliście.
+Dialogue: 0,0:09:52.92,0:09:59.04,Default,,0,0,0,,{\be1}Panie, czy klan Światła znowu zacznie ataki?
+Dialogue: 0,0:09:59.42,0:10:02.18,Default,,0,0,0,,{\be1}Z pewnością tak się stanie.
+Dialogue: 0,0:10:02.59,0:10:06.55,Default,,0,0,0,,{\be1}Spróbują odebrać nam fragmenty monumentu.
+Dialogue: 0,0:10:06.55,0:10:15.09,Default,,0,0,0,,{\be1}Minęło 20 lat odkąd przejście między klanami\Nzostało zamknięte, a oni nic z tym nie zrobili.
+Dialogue: 0,0:10:15.09,0:10:23.02,Default,,0,0,0,,{\be1}Nadal musimy być czujni.\NJuż prawie zebraliśmy wszystkie kawałki monumentu.
+Dialogue: 0,0:10:24.05,0:10:25.54,Default,,0,0,0,,{\be1}Co się stało, Tesshio?
+Dialogue: 0,0:10:26.05,0:10:27.42,Default,,0,0,0,,{\be1}Nic.
+Dialogue: 0,0:10:28.22,0:10:30.86,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:10:32.19,0:10:35.99,Default,,0,0,0,,{\be1}Nareszcie nasze marzenie się spełni!
+Dialogue: 0,0:10:35.99,0:10:39.96,Default,,0,0,0,,{\be1}Gdyby panicz Astral żył,\Nz pewnością byłby uradowany!
+Dialogue: 0,0:10:39.96,0:10:41.32,Default,,0,0,0,,{\be1}Astral nie...
+Dialogue: 0,0:10:42.60,0:10:48.40,Default,,0,0,0,,{\be1}Chciałam powiedzieć, że\Nnie wiadomo czy panicz Astral nie żyje.
+Dialogue: 0,0:10:49.61,0:10:51.98,Default,,0,0,0,,{\be1}Rozumiem cię, Sharon.
+Dialogue: 0,0:10:53.85,0:10:55.91,Default,,0,0,0,,{\be1}Słuchajcie mnie!
+Dialogue: 0,0:10:56.63,0:11:03.12,Default,,0,0,0,,{\be1}Musicie być gotowi na atak\Nw każdej chwili, zrozumiano?
+Dialogue: 0,0:11:19.70,0:11:24.14,Default,,0,0,0,,{\be1}Nudy!\NMogłoby się coś zacząć dziać.
+Dialogue: 0,0:11:28.83,0:11:35.16,Default,,0,0,0,,{\be1}Muszę się pospieszyć\Nalbo z powrotem złożą monument!
+Dialogue: 0,0:11:40.05,0:11:44.02,Default,,0,0,0,,{\be1}A temu gdzie się tak spieszy?
+Dialogue: 0,0:11:47.96,0:11:50.19,Default,,0,0,0,,{\be1}To Menza?
+Dialogue: 0,0:11:51.36,0:11:54.03,Default,,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:11:54.87,0:11:57.30,Default,,0,0,0,,{\be1}Oby nikt tego nie widział.
+Dialogue: 0,0:11:59.62,0:12:03.77,Default,,0,0,0,,{\be1}Robi się ciekawie.\NZobaczę co robi.
+Dialogue: 0,0:12:06.68,0:12:09.35,Default,,0,0,0,,{\be1}Menza, po co przybyłeś?
+Dialogue: 0,0:12:12.02,0:12:15.56,Default,,0,0,0,,{\be1}To tak się wita partnera?
+Dialogue: 0,0:12:15.56,0:12:19.75,Default,,0,0,0,,{\be1}Nawet nie wiesz ile musiałem\Nwycierpieć, żeby tu dotrzeć.
+Dialogue: 0,0:12:23.13,0:12:25.63,Default,,0,0,0,,{\be1}Przez ciebie mnie się robi niedobrze.
+Dialogue: 0,0:12:26.04,0:12:31.52,Default,,0,0,0,,{\be1}Przynajmniej zaoszczędziłeś mi fatygi,\Nwięc nie będę narzekać.
+Dialogue: 0,0:12:31.52,0:12:34.40,Default,,0,0,0,,{\be1}Masz do mnie jakąś sprawę?
+Dialogue: 0,0:12:34.40,0:12:37.85,Default,,0,0,0,,{\be1}A myślisz, że po co innego bym tu przychodził?!
+Dialogue: 0,0:12:37.85,0:12:39.58,Default,,0,0,0,,{\be1}W sumie masz rację.
+Dialogue: 0,0:12:39.58,0:12:44.38,Default,,0,0,0,,{\be1}Nikt się nie domyśli, że coś nas łączy.
+Dialogue: 0,0:12:47.19,0:12:49.49,Default,,0,0,0,,{\be1}Doradcy klanów Światła i Mroku.
+Dialogue: 0,0:12:53.20,0:12:55.58,Default,,0,0,0,,{\be1}Doradca klanu Światła?
+Dialogue: 0,0:13:11.90,0:13:13.35,Default,,0,0,0,,{\be1}To ty.
+Dialogue: 0,0:13:14.42,0:13:17.32,Default,,0,0,0,,{\be1}Dziękuję za ratunek.
+Dialogue: 0,0:13:18.51,0:13:19.57,Default,,0,0,0,,{\be1}Ależ proszę.
+Dialogue: 0,0:13:20.32,0:13:27.18,Default,,0,0,0,,{\be1}Dziadek powiedział, że idziesz do\Nkopalni złota znaleźć przejście do klanu Mroku...
+Dialogue: 0,0:13:27.18,0:13:30.93,Default,,0,0,0,,{\be1}I dowiedzieć się czegoś\No fragmentach monumentu.
+Dialogue: 0,0:13:31.97,0:13:34.51,Default,,0,0,0,,{\be1}Znalazłam to w lesie.
+Dialogue: 0,0:13:35.86,0:13:38.16,Default,,0,0,0,,{\be1}To fragment monumentu.
+Dialogue: 0,0:13:39.80,0:13:40.80,Default,,0,0,0,,{\be1}Na pewno?
+Dialogue: 0,0:13:41.65,0:13:46.28,Default,,0,0,0,,{\be1}Zobacz, mam podobny kawałek.
+Dialogue: 0,0:13:46.28,0:13:47.27,Default,,0,0,0,,{\be1}Faktycznie.
+Dialogue: 0,0:13:47.80,0:13:50.15,Default,,0,0,0,,{\be1}Gdzie go znalazłeś?
+Dialogue: 0,0:13:50.15,0:13:55.54,Default,,0,0,0,,{\be1}Nie wiem, cały czas go miałem.\NPewnie sprzed utraty wspomnień.
+Dialogue: 0,0:13:58.31,0:13:59.63,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:14:03.97,0:14:06.10,Default,,0,0,0,,{\be1}- Fragmenty złączyły się!\NZłączyły się!
+Dialogue: 0,0:14:10.24,0:14:11.20,Default,,0,0,0,,{\be1}Ty parszywcu!
+Dialogue: 0,0:14:28.79,0:14:29.97,Default,,0,0,0,,{\be1}Dziwadło!
+Dialogue: 0,0:14:57.96,0:14:58.88,Default,,0,0,0,,{\be1}Uważaj!
+Dialogue: 0,0:15:13.29,0:15:14.70,Default,,0,0,0,,{\be1}Już po nim.
+Dialogue: 0,0:15:16.14,0:15:17.23,Default,,0,0,0,,{\be1}Boję się.
+Dialogue: 0,0:15:17.23,0:15:21.33,Default,,0,0,0,,{\be1}Możliwe, że istnieje przerażająca moc,\No której nic nie wiemy.
+Dialogue: 0,0:15:22.38,0:15:26.20,Default,,0,0,0,,{\be1}Pomóż mi się uspokoić.
+Dialogue: 0,0:15:29.02,0:15:29.94,Default,,0,0,0,,{\be1}Myuu.
+Dialogue: 0,0:15:31.45,0:15:32.79,Default,,0,0,0,,{\be1}Boję się.
+Dialogue: 0,0:15:34.11,0:15:37.57,Default,,0,0,0,,{\be1}Spraw bym zapomniała o tym.
+Dialogue: 0,0:15:38.90,0:15:39.85,Default,,0,0,0,,{\be1}Myuu.
+Dialogue: 0,0:16:12.12,0:16:14.50,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:16:15.15,0:16:21.83,Default,,0,0,0,,{\be1}Wysłałem mojego klona, żeby odnalazł\Nfragmenty, ale ktoś go zniszczył.
+Dialogue: 0,0:16:21.84,0:16:25.55,Default,,0,0,0,,{\be1}Kto mógłby to zrobić?!
+Dialogue: 0,0:16:25.55,0:16:30.64,Default,,0,0,0,,{\be1}To pewnie on.\NPowód mojego przybycia.
+Dialogue: 0,0:16:30.64,0:16:33.85,Default,,0,0,0,,{\be1}Legendarny rycerz?!
+Dialogue: 0,0:16:33.85,0:16:36.31,Default,,0,0,0,,{\be1}Najpewniej.
+Dialogue: 0,0:16:36.69,0:16:39.33,Default,,0,0,0,,{\be1}Musimy się go szybko pozbyć.
+Dialogue: 0,0:16:46.13,0:16:50.03,Default,,0,0,0,,{\be1}Lordzie Pollux, wstydzę się!
+Dialogue: 0,0:16:53.15,0:16:55.43,Default,,0,0,0,,{\be1}Myuu, jesteś przepiękna.
+Dialogue: 0,0:16:57.00,0:16:59.95,Default,,0,0,0,,{\be1}Nie patrz tam!
+Dialogue: 0,0:17:01.31,0:17:04.36,Default,,0,0,0,,{\be1}Gorąco mi i dziwnie się czuję!
+Dialogue: 0,0:17:29.91,0:17:32.55,Default,,0,0,0,,{\be1}Lodzie Pollux, chcę cię.
+Dialogue: 0,0:17:33.41,0:17:36.99,Default,,0,0,0,,{\be1}Jesteś pewna, że chcesz\Nwłóczęgę bez przeszłości?
+Dialogue: 0,0:17:38.82,0:17:40.54,Default,,0,0,0,,{\be1}Lodzie Pollux.
+Dialogue: 0,0:17:41.65,0:17:42.54,Default,,0,0,0,,{\be1}Wkładam.
+Dialogue: 0,0:18:42.96,0:18:44.40,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:18:49.37,0:18:50.78,Default,,0,0,0,,{\be1}Lordzie Pollux!
+Dialogue: 0,0:18:58.96,0:19:00.66,Default,,0,0,0,,{\be1}W środku coś jest.
+Dialogue: 0,0:19:03.87,0:19:08.25,Default,,0,0,0,,{\be1}To kryształowy klucz,\Nmoja matka chciała żebyś go wziął.
+Dialogue: 0,0:19:08.94,0:19:11.33,Default,,0,0,0,,{\be1}Na pewno przyda się do czegoś.
+Dialogue: 0,0:19:12.24,0:19:14.57,Default,,0,0,0,,{\be1}Dzięki. Muszę iść.
+Dialogue: 0,0:19:15.55,0:19:16.18,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:19:17.18,0:19:18.26,Default,,0,0,0,,{\be1}Do zobaczenia.
+Dialogue: 0,0:19:18.92,0:19:20.47,Default,,0,0,0,,{\be1}Uważaj na siebie.
+Dialogue: 0,0:19:21.62,0:19:22.79,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:19:32.60,0:19:35.49,Default,,0,0,0,,{\be1}Wróć kiedyś!
+Dialogue: 0,0:19:43.76,0:19:49.23,Default,,0,0,0,,{\be1}Jakoś musimy zabić Polluxa.
+Dialogue: 0,0:19:49.23,0:19:54.84,Default,,0,0,0,,{\be1}Jak również odnaleźć\Nodbudowywany monument...
+Dialogue: 0,0:19:54.84,0:19:57.56,Default,,0,0,0,,{\be1}I zniszczyć go raz jeszcze...
+Dialogue: 0,0:19:57.56,0:20:00.33,Default,,0,0,0,,{\be1}Albo nie przeżyjemy.
+Dialogue: 0,0:20:01.79,0:20:06.90,Default,,0,0,0,,{\be1}Chcą znowu zniszczyć monument?\NCo oni kombinują?
+Dialogue: 0,0:20:07.61,0:20:10.63,Default,,0,0,0,,{\be1}Lepiej zwinę się stąd póki mogę.
+Dialogue: 0,0:20:14.74,0:20:16.32,Default,,0,0,0,,{\be1}Kto tam jest?!
+Dialogue: 0,0:20:16.32,0:20:17.78,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:20:17.78,0:20:19.24,Default,,0,0,0,,{\be1}Menza!
+Dialogue: 0,0:20:42.50,0:20:43.80,Default,,0,0,0,,{\be1}Udało się!
+Dialogue: 0,0:20:48.33,0:20:53.57,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:02.85,0:21:07.78,Default,,0,0,0,,{\be1}Tu musi być przejście\Nłączące klany Światła i Mroku.
+Dialogue: 0,0:21:11.38,0:21:13.42,Default,,0,0,0,,{\be1}Co jest z kluczem?
+Dialogue: 0,0:21:21.27,0:21:22.60,Default,,0,0,0,,{\be1}To tam.
+Dialogue: 0,0:21:23.62,0:21:24.51,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:28.72,0:21:30.66,Default,,0,0,0,,{\be1}Ładny widok.
+Dialogue: 0,0:21:30.66,0:21:33.98,Default,,0,0,0,,{\be1}Wypuście mnie!\NCo ze mną zrobicie, potwory?!
+Dialogue: 0,0:21:35.95,0:21:40.09,Default,,0,0,0,,{\be1}I kto to mówi?
+Dialogue: 0,0:21:40.09,0:21:43.91,Default,,0,0,0,,{\be1}Zaraz zobaczysz co zrobimy!
+Dialogue: 0,0:22:15.82,0:22:22.01,Default,,0,0,0,,{\be1}Będziesz jęczeć z rozkoszy\Ni zostaniesz naszą niewolnicą!
+Dialogue: 0,0:22:23.60,0:22:25.94,Default,,0,0,0,,{\be1}Nigdy w życiu!
+Dialogue: 0,0:22:36.38,0:22:37.79,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:36.08,0:23:38.31,Default,,0,0,0,,{\be1}Mamo, znowu szykuje się wojna?
+Dialogue: 0,0:23:39.81,0:23:42.27,Default,,0,0,0,,{\be1}Dlaczego tak sądzisz, Ariadne?
+Dialogue: 0,0:23:42.28,0:23:47.24,Default,,0,0,0,,{\be1}Rano widziałam dużo rycerzy w zamku.
+Dialogue: 0,0:23:47.24,0:23:48.50,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:23:50.33,0:23:52.20,Default,,0,0,0,,{\be1}Kolejna wojna.
+Dialogue: 0,0:23:56.71,0:23:58.47,Default (i),,0,0,0,,{\be1}Paniczu Astral.
+Dialogue: 0,0:23:59.30,0:24:01.89,Default,,0,0,0,,{\be1}Mamo, tamta pani wygląda na chorą.
+Dialogue: 0,0:24:08.12,0:24:11.41,Default,,0,0,0,,{\be1}- Nic ci nie jest?\N- Co pani jest?
+Dialogue: 0,0:24:13.72,0:24:16.71,Default,,0,0,0,,{\be1}Niczego nie pamiętam.
+Dialogue: 0,0:24:20.33,0:24:22.58,Default,,0,0,0,,{\be1}Nie mogę sobie niczego przypomnieć.
+Dialogue: 0,0:24:22.96,0:24:24.15,Default,,0,0,0,,{\be1}Niech pani uważa!
+Dialogue: 0,0:24:32.22,0:24:35.20,Default,,0,0,0,,{\be1}Mieszaniec Światła i Mroku?
+Dialogue: 0,0:24:40.77,0:24:43.53,Default,,0,0,0,,{\be1}Odleciała.
+Dialogue: 0,0:24:44.21,0:24:49.84,Default,,0,0,0,,{\be1}Coś tam mamrotała pod nosem,\Nale dobrze, że nic jej nie jest.
+Dialogue: 0,0:24:54.58,0:24:57.60,Default,,0,0,0,,{\be1}Ona?
+Dialogue: 0,0:25:00.18,0:25:07.92,Default,,0,0,0,,{\be1}A więc to jest przejście\Nmiędzy klanami zamknięte 20 lat temu.
+Dialogue: 0,0:25:36.16,0:25:37.35,Default,,0,0,0,,{\be1}Tędy.
+Dialogue: 0,0:25:51.44,0:25:54.99,Default,,0,0,0,,{\be1}Zablokowane przejście,\Nto musi być to.
+Dialogue: 0,0:25:56.73,0:25:58.21,Default,,0,0,0,,{\be1}Co jest z kluczem?
+Dialogue: 0,0:25:59.29,0:26:00.49,Default (i),,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:26:17.73,0:26:21.84,Default (i),,0,0,0,,{\be1}Kto to?\NJest podobna do Myuu.
+Dialogue: 0,0:26:22.77,0:26:24.84,Default (i),,0,0,0,,{\be1}Co ja robiłem?
+Dialogue: 0,0:26:26.89,0:26:27.91,Default,,0,0,0,,{\be1}Kto tam?!

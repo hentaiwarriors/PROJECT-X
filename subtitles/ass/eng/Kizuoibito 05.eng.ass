@@ -1,0 +1,363 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Kizuoibito 05
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.18,0:00:21.42,Default,,0,0,0,,Guy!
+Dialogue: 0,0:00:57.12,0:00:57.93,Default,,0,0,0,,Finished!
+Dialogue: 0,0:00:58.95,0:01:01.12,Default,,0,0,0,,Next goal is coming,\Nleave it in your hand.
+Dialogue: 0,0:01:01.82,0:01:02.79,Default,,0,0,0,,I know!
+Dialogue: 0,0:01:33.80,0:01:36.94,Default,,0,0,0,,What are the milk bottle's overlay\Nand mud,
+Dialogue: 0,0:01:37.24,0:01:39.22,Default,,0,0,0,,add medal's needle for'?
+Dialogue: 0,0:01:39.59,0:01:40.86,Default,,0,0,0,,You try to look back,
+Dialogue: 0,0:02:00.76,0:02:03.00,Default,,0,0,0,,How many dangers have we spend?
+Dialogue: 0,0:02:03.49,0:02:05.02,Default,,0,0,0,,We are as a team of special attract,
+Dialogue: 0,0:02:05.40,0:02:07.54,Default,,0,0,0,,which is the loyal machine to country.
+Dialogue: 0,0:02:08.45,0:02:10.55,Default,,0,0,0,,But, it is not the country now.
+Dialogue: 0,0:02:11.03,0:02:13.80,Default,,0,0,0,,We are living for our own glory.
+Dialogue: 0,0:02:15.27,0:02:16.61,Default,,0,0,0,,The guy has come back.
+Dialogue: 0,0:02:16.94,0:02:17.92,Default,,0,0,0,,Having been to New York!
+Dialogue: 0,0:02:18.86,0:02:22.20,Default,,0,0,0,,Using a team of troop,\Nbut not to say it is the ghost of white-hair.
+Dialogue: 0,0:02:22.47,0:02:25.18,Default,,0,0,0,,There is no way to kill Mi.
+Dialogue: 0,0:02:27.08,0:02:29.11,Default,,0,0,0,,Go! Indian!
+Dialogue: 0,0:02:29.63,0:02:32.16,Default,,0,0,0,,This is my glory! Captain Mr.Bai.
+Dialogue: 0,0:02:38.67,0:02:44.31,Default,,0,0,0,,The last attracting
+Dialogue: 0,0:02:52.63,0:02:54.23,Default,,0,0,0,,Following to Cimuguijie.
+Dialogue: 0,0:02:55.48,0:02:58.29,Default,,0,0,0,,I convince you,\Nyou never could win the Mi for one time.
+Dialogue: 0,0:03:00.28,0:03:01.79,Default,,0,0,0,,Estimating me again!
+Dialogue: 0,0:03:06.19,0:03:08.73,Default,,0,0,0,,How about?Madam.
+Dialogue: 0,0:03:09.18,0:03:10.13,Default,,0,0,0,,Nice!
+Dialogue: 0,0:03:10.51,0:03:12.79,Default,,0,0,0,,You are creditably Luomaniganli in 78.
+Dialogue: 0,0:03:15.67,0:03:17.02,Default,,0,0,0,,One more again!
+Dialogue: 0,0:03:17.87,0:03:20.44,Default,,0,0,0,,You are too immoderateness, Mi.
+Dialogue: 0,0:03:20.84,0:03:21.91,Default,,0,0,0,,It is Madam?
+Dialogue: 0,0:03:22.36,0:03:24.03,Default,,0,0,0,,I am Mrs. Cimuguijie now!
+Dialogue: 0,0:03:24.90,0:03:26.88,Default,,0,0,0,,I am not killer Mi!
+Dialogue: 0,0:03:27.68,0:03:29.45,Default,,0,0,0,,I see ,Madam!
+Dialogue: 0,0:03:29.79,0:03:32.10,Default,,0,0,0,,Boss really have chosen\Nthis woman as wife.
+Dialogue: 0,0:03:32.27,0:03:32.97,Default,,0,0,0,,Ligu!
+Dialogue: 0,0:03:33.37,0:03:34.79,Default,,0,0,0,,Yes Madam!
+Dialogue: 0,0:03:35.32,0:03:37.76,Default,,0,0,0,,Your dressing up don't look like you!
+Dialogue: 0,0:03:38.56,0:03:41.76,Default,,0,0,0,,I think I must not be found!
+Dialogue: 0,0:03:42.28,0:03:45.98,Default,,0,0,0,,I believe enemy can't think we are here.
+Dialogue: 0,0:03:46.72,0:03:47.96,Default,,0,0,0,,No, we will be found.
+Dialogue: 0,0:03:49.49,0:03:52.06,Default,,0,0,0,,GPX is not a easy question.
+Dialogue: 0,0:03:53.64,0:03:54.98,Default,,0,0,0,,You...
+Dialogue: 0,0:03:55.56,0:04:00.54,Default,,0,0,0,,Later, you will be opponent of USA.
+Dialogue: 0,0:04:01.34,0:04:03.94,Default,,0,0,0,,The guy must run after here.
+Dialogue: 0,0:04:04.24,0:04:05.81,Default,,0,0,0,,Then Boss!
+Dialogue: 0,0:04:06.18,0:04:07.32,Default,,0,0,0,,At that time it is the chance!
+Dialogue: 0,0:04:07.87,0:04:09.64,Default,,0,0,0,,We will see who would win at last.
+Dialogue: 0,0:04:10.00,0:04:11.28,Default,,0,0,0,,The last end!
+Dialogue: 0,0:04:23.56,0:04:25.04,Default,,0,0,0,,Stop!
+Dialogue: 0,0:04:25.74,0:04:26.88,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:04:27.35,0:04:29.80,Default,,0,0,0,,This car hasn't registered!
+Dialogue: 0,0:04:32.89,0:04:34.39,Default,,0,0,0,,Minister Shiji!
+Dialogue: 0,0:04:47.89,0:04:48.83,Default,,0,0,0,,Boss, something is wrong.
+Dialogue: 0,0:04:49.73,0:04:51.26,Default,,0,0,0,,What? Zuozu, Liqi.
+Dialogue: 0,0:04:51.75,0:04:53.36,Default,,0,0,0,,All of them are policeman on the street.
+Dialogue: 0,0:04:53.76,0:04:55.83,Default,,0,0,0,,What?
+Dialogue: 0,0:04:56.20,0:04:57.41,Default,,0,0,0,,Too many.
+Dialogue: 0,0:04:57.69,0:04:58.93,Default,,0,0,0,,It has set the surrounding net.
+Dialogue: 0,0:05:02.73,0:05:05.51,Default,,0,0,0,,Strange!\NAll of them are old-age policeman!
+Dialogue: 0,0:05:06.44,0:05:08.29,Default,,0,0,0,,What? It is classical troop
+Dialogue: 0,0:05:08.65,0:05:10.86,Default,,0,0,0,,Follow right now.
+Dialogue: 0,0:05:39.70,0:05:41.44,Default,,0,0,0,,Everybody is very exciting.
+Dialogue: 0,0:05:42.69,0:05:44.19,Default,,0,0,0,,You didn't find clue jet?
+Dialogue: 0,0:05:44.63,0:05:46.61,Default,,0,0,0,,Don't worry, captain!
+Dialogue: 0,0:05:47.15,0:05:49.22,Default,,0,0,0,,Take it easy same as before.
+Dialogue: 0,0:05:49.48,0:05:50.85,Default,,0,0,0,,Enjoying at same time.
+Dialogue: 0,0:06:01.22,0:06:02.06,Default,,0,0,0,,Copter?
+Dialogue: 0,0:06:02.49,0:06:04.16,Default,,0,0,0,,Not only one!
+Dialogue: 0,0:06:31.74,0:06:32.69,Default,,0,0,0,,Fools!
+Dialogue: 0,0:06:33.65,0:06:35.13,Default,,0,0,0,,Why do they wave hands?
+Dialogue: 0,0:06:35.77,0:06:37.47,Default,,0,0,0,,It will be put out of existenced!
+Dialogue: 0,0:06:38.72,0:06:40.79,Default,,0,0,0,,It was thought\Nit is copter of reinforcement.
+Dialogue: 0,0:06:41.12,0:06:44.50,Default,,0,0,0,,It is our own state,\Nnobody dare atrract it.
+Dialogue: 0,0:06:45.13,0:06:46.81,Default,,0,0,0,,Except me!
+Dialogue: 0,0:06:59.37,0:07:01.08,Default,,0,0,0,,Stop, Zu, don't attract the copter.
+Dialogue: 0,0:07:19.07,0:07:21.57,Default,,0,0,0,,Why? What is happened?
+Dialogue: 0,0:07:21.91,0:07:23.39,Default,,0,0,0,,Because you attracted the copter.
+Dialogue: 0,0:07:23.80,0:07:24.93,Default,,0,0,0,,White-hair gost!
+Dialogue: 0,0:07:25.37,0:07:27.79,Default,,0,0,0,,He used the troop copter\Nsame with us on porpose.
+Dialogue: 0,0:07:28.27,0:07:29.64,Default,,0,0,0,,You want to try, Zu.
+Dialogue: 0,0:07:30.29,0:07:32.04,Default,,0,0,0,,Isolated in the forest.
+Dialogue: 0,0:07:32.45,0:07:33.95,Default,,0,0,0,,When we have surrounded by Vietcong,
+Dialogue: 0,0:07:34.32,0:07:36.52,Default,,0,0,0,,what kind of feeling\Ndo we have to wait the copter.
+Dialogue: 0,0:07:36.88,0:07:38.38,Default,,0,0,0,,Only copter is the backbone of life.
+Dialogue: 0,0:07:38.74,0:07:39.65,Default,,0,0,0,,It is the living chance!
+Dialogue: 0,0:07:40.00,0:07:40.95,Default,,0,0,0,,It is also everything that guide wife,
+Dialogue: 0,0:07:41.29,0:07:42.29,Default,,0,0,0,,lover and family.
+Dialogue: 0,0:07:43.35,0:07:44.95,Default,,0,0,0,,How should I do? Captain?
+Dialogue: 0,0:07:45.36,0:07:46.36,Default,,0,0,0,,Life belt
+Dialogue: 0,0:07:46.76,0:07:48.87,Default,,0,0,0,,Appearing the Vietnam battlefield.
+Dialogue: 0,0:07:58.94,0:08:01.01,Default,,0,0,0,,Long time no fight.
+Dialogue: 0,0:08:01.58,0:08:02.68,Default,,0,0,0,,Yes.
+Dialogue: 0,0:08:03.10,0:08:06.38,Default,,0,0,0,,What are you finding without porpose.
+Dialogue: 0,0:08:06.88,0:08:08.52,Default,,0,0,0,,OK, come on.
+Dialogue: 0,0:08:31.15,0:08:39.15,Default,,0,0,0,,Kill him, kill him, kill him!
+Dialogue: 0,0:08:50.72,0:08:53.09,Default,,0,0,0,,I am Captain Mr.Bai, every director,
+Dialogue: 0,0:08:55.04,0:08:56.54,Default,,0,0,0,,all things have finished!
+Dialogue: 0,0:08:56.96,0:08:57.93,Default,,0,0,0,,Dismiss!
+Dialogue: 0,0:08:58.36,0:08:59.53,Default,,0,0,0,,You can go home!
+Dialogue: 0,0:09:00.64,0:09:01.71,Default,,0,0,0,,GO HOME!
+Dialogue: 0,0:09:17.98,0:09:17.99,Default,,0,0,0,,
+Dialogue: 0,0:09:18.00,0:09:20.48,Default,,0,0,0,,We can be in use that\Nthey have been to utmost.
+Dialogue: 0,0:09:21.11,0:09:24.78,Default,,0,0,0,,In classical troop,\Nit remained you and me.
+Dialogue: 0,0:09:38.48,0:09:40.15,Default,,0,0,0,,We can pretend to\Nget on copter for running off.
+Dialogue: 0,0:09:40.50,0:09:41.94,Default,,0,0,0,,In fact, they are waiting for us.
+Dialogue: 0,0:09:42.27,0:09:43.41,Default,,0,0,0,,Wonderful fighting!
+Dialogue: 0,0:09:44.08,0:09:46.12,Default,,0,0,0,,Are you the director\Nin the classical troop?
+Dialogue: 0,0:09:46.55,0:09:48.42,Default,,0,0,0,,Right, Mr.Bai.
+Dialogue: 0,0:09:48.96,0:09:50.20,Default,,0,0,0,,Vice director!
+Dialogue: 0,0:09:50.58,0:09:51.32,Default,,0,0,0,,Speak out!
+Dialogue: 0,0:09:51.70,0:09:54.08,Default,,0,0,0,,Order you, the name who killed me!
+Dialogue: 0,0:09:54.65,0:09:57.22,Default,,0,0,0,,Who is the GPX's headman.
+Dialogue: 0,0:09:59.24,0:10:01.24,Default,,0,0,0,,I won't say even if I have last breath.
+Dialogue: 0,0:10:01.61,0:10:03.09,Default,,0,0,0,,If you want to know, kill me.
+Dialogue: 0,0:10:22.30,0:10:24.78,Default,,0,0,0,,Ready go!
+Dialogue: 0,0:10:40.27,0:10:43.08,Default,,0,0,0,,You are creditably\Nprofessional teams vanguard!
+Dialogue: 0,0:10:43.30,0:10:44.40,Default,,0,0,0,,Ownsome attract!
+Dialogue: 0,0:10:45.36,0:10:46.86,Default,,0,0,0,,The opponent is me this time.
+Dialogue: 0,0:11:03.50,0:11:04.31,Default,,0,0,0,,Cimuguijie! Boss!
+Dialogue: 0,0:11:27.11,0:11:28.38,Default,,0,0,0,,Cimuguijie! Boss!
+Dialogue: 0,0:11:54.85,0:11:56.76,Default,,0,0,0,,You are awake, guy!
+Dialogue: 0,0:11:57.21,0:11:59.99,Default,,0,0,0,,We have said you will speak out GPX.
+Dialogue: 0,0:12:01.65,0:12:05.76,Default,,0,0,0,,Do you want to know GPX, help us cure.
+Dialogue: 0,0:12:06.07,0:12:07.14,Default,,0,0,0,,Same as in Vietnam.
+Dialogue: 0,0:12:07.51,0:12:09.42,Default,,0,0,0,,Help us cure, even give a woman to us.
+Dialogue: 0,0:12:09.91,0:12:11.22,Default,,0,0,0,,Then we will speak out.
+Dialogue: 0,0:12:11.93,0:12:13.07,Default,,0,0,0,,Death.
+Dialogue: 0,0:12:13.46,0:12:14.41,Default,,0,0,0,,This is not Vietnam.
+Dialogue: 0,0:12:14.85,0:12:16.19,Default,,0,0,0,,What's this place?
+Dialogue: 0,0:12:17.73,0:12:18.68,Default,,0,0,0,,Follow mw.
+Dialogue: 0,0:12:29.54,0:12:30.61,Default,,0,0,0,,This way.
+Dialogue: 0,0:12:45.91,0:12:47.25,Default,,0,0,0,,Give you a surprise, right?\NYou two
+Dialogue: 0,0:12:47.76,0:12:50.00,Default,,0,0,0,,My ship,White-haired gost!
+Dialogue: 0,0:12:51.14,0:12:54.45,Default,,0,0,0,,Take the Kongmu back to transfrom\Nwhich used in the Second War.
+Dialogue: 0,0:12:54.82,0:12:57.43,Default,,0,0,0,,In the name of moving ship,\Nyou can receive the licence of sailing.
+Dialogue: 0,0:12:58.14,0:12:59.68,Default,,0,0,0,,There are all the medicine facility
+Dialogue: 0,0:13:00.02,0:13:03.20,Default,,0,0,0,,and 40 professional doctors\Nand more than 70 nurses
+Dialogue: 0,0:13:04.28,0:13:05.52,Default,,0,0,0,,including the copter\Nwhich send the patient into hospital.
+Dialogue: 0,0:13:05.99,0:13:07.09,Default,,0,0,0,,You have saw.
+Dialogue: 0,0:13:33.46,0:13:36.67,Default,,0,0,0,,White-hair gost\Nhasn't eat the food for a week.
+Dialogue: 0,0:13:37.65,0:13:39.36,Default,,0,0,0,,But Zu,\Nthat guy is on the contrary with him.
+Dialogue: 0,0:13:39.72,0:13:40.63,Default,,0,0,0,,Eat much food.
+Dialogue: 0,0:13:41.12,0:13:42.73,Default,,0,0,0,,Doing exescise in house.
+Dialogue: 0,0:13:44.26,0:13:45.71,Default,,0,0,0,,How are you going to do?
+Dialogue: 0,0:13:46.20,0:13:49.62,Default,,0,0,0,,What time are you going to see until?\NBoss?
+Dialogue: 0,0:13:50.45,0:13:53.59,Default,,0,0,0,,Speaking out by beat is faster than it.
+Dialogue: 0,0:13:54.01,0:13:55.62,Default,,0,0,0,,That guy is waiting for chance.
+Dialogue: 0,0:13:56.13,0:13:57.04,Default,,0,0,0,,Chance?
+Dialogue: 0,0:13:57.82,0:14:00.36,Default,,0,0,0,,To us, they know.
+Dialogue: 0,0:14:00.74,0:14:02.19,Default,,0,0,0,,They are the only clue.
+Dialogue: 0,0:14:02.67,0:14:05.01,Default,,0,0,0,,Delay as soon as possible,\Nyou will be worry if you are waiting for us.
+Dialogue: 0,0:14:05.26,0:14:07.93,Default,,0,0,0,,Waiting for attracting chance\Nin this method.
+Dialogue: 0,0:14:08.79,0:14:10.74,Default,,0,0,0,,So wait! Waiting for that chance.
+Dialogue: 0,0:14:30.21,0:14:32.09,Default,,0,0,0,,Too bad! Asking for doctor!
+Dialogue: 0,0:14:32.48,0:14:33.62,Default,,0,0,0,,Something is wrong with White-hair gost.
+Dialogue: 0,0:14:40.94,0:14:43.08,Default,,0,0,0,,It has been put into\Npropriety nutrition.
+Dialogue: 0,0:14:43.42,0:14:43.99,Default,,0,0,0,,It doesn't matter.
+Dialogue: 0,0:14:44.31,0:14:45.45,Default,,0,0,0,,There is no danger about life.
+Dialogue: 0,0:14:45.94,0:14:47.25,Default,,0,0,0,,It is nothing with you.
+Dialogue: 0,0:14:47.73,0:14:49.80,Default,,0,0,0,,I am in outside,\Ncall me if you have something.
+Dialogue: 0,0:15:01.70,0:15:02.51,Default,,0,0,0,,What?
+Dialogue: 0,0:15:03.51,0:15:06.72,Default,,0,0,0,,The thorned wrist is very painful,\Nasking for nurse.
+Dialogue: 0,0:15:07.04,0:15:08.15,Default,,0,0,0,,OK,wait {\i1}I.{\i0}
+Dialogue: 0,0:15:16.91,0:15:18.69,Default,,0,0,0,,What?This liquidum?
+Dialogue: 0,0:15:22.88,0:15:30.17,Default,,0,0,0,,Darned.
+Dialogue: 0,0:15:32.81,0:15:34.48,Default,,0,0,0,,This guy!
+Dialogue: 0,0:15:34.87,0:15:37.44,Default,,0,0,0,,Nutrition succus bottle has been changed\Ninto soap succus by me.
+Dialogue: 0,0:15:38.11,0:15:41.71,Default,,0,0,0,,If it is injected into body,\Nit will distroy the blood.
+Dialogue: 0,0:15:42.17,0:15:44.78,Default,,0,0,0,,This woman is going to die soon!\NHelp me!
+Dialogue: 0,0:15:46.67,0:15:49.05,Default,,0,0,0,,Asking White-hair gost.
+Dialogue: 0,0:15:53.62,0:15:56.80,Default,,0,0,0,,Get ready the food for us especially\Nand listen to us.
+Dialogue: 0,0:15:57.84,0:15:59.91,Default,,0,0,0,,Is this your cavalier?
+Dialogue: 0,0:16:00.21,0:16:01.99,Default,,0,0,0,,White-hair gost.
+Dialogue: 0,0:16:02.40,0:16:03.47,Default,,0,0,0,,Speak out!
+Dialogue: 0,0:16:04.11,0:16:06.42,Default,,0,0,0,,So, you have known this,
+Dialogue: 0,0:16:06.69,0:16:09.73,Default,,0,0,0,,if you want to change the condition,
+Dialogue: 0,0:16:10.54,0:16:12.38,Default,,0,0,0,,ifs very easy.
+Dialogue: 0,0:16:13.07,0:16:14.55,Default,,0,0,0,,You and one more leave here,
+Dialogue: 0,0:16:14.94,0:16:16.31,Default,,0,0,0,,others go.
+Dialogue: 0,0:16:17.24,0:16:19.01,Default,,0,0,0,,Two to two, same condition.
+Dialogue: 0,0:16:19.44,0:16:21.18,Default,,0,0,0,,The decisive battle will be started\Nin this Kongmu.
+Dialogue: 0,0:16:21.66,0:16:22.76,Default,,0,0,0,,Limiting the weapon!
+Dialogue: 0,0:16:23.19,0:16:27.16,Default,,0,0,0,,Installing the explosive first,\NKongmu must be sunk in four hour.
+Dialogue: 0,0:16:27.63,0:16:29.54,Default,,0,0,0,,In case that I was defeated,
+Dialogue: 0,0:16:29.98,0:16:32.69,Default,,0,0,0,,about GPX, all what we have know.
+Dialogue: 0,0:16:33.14,0:16:35.34,Default,,0,0,0,,Recorded in the recorder in advance.
+Dialogue: 0,0:16:35.65,0:16:37.96,Default,,0,0,0,,How about, only one place for survive.
+Dialogue: 0,0:16:38.43,0:16:39.88,Default,,0,0,0,,Death battle.
+Dialogue: 0,0:16:40.25,0:16:42.16,Default,,0,0,0,,At last, we will receive succuss.
+Dialogue: 0,0:16:42.57,0:16:43.61,Default,,0,0,0,,But who will win?
+Dialogue: 0,0:16:43.97,0:16:44.88,Default,,0,0,0,,Do you want to bet?
+Dialogue: 0,0:16:45.48,0:16:46.29,Default,,0,0,0,,OK
+Dialogue: 0,0:16:48.12,0:16:50.86,Default,,0,0,0,,Then, choose your parter.
+Dialogue: 0,0:16:51.21,0:16:52.59,Default,,0,0,0,,Have you deceided?
+Dialogue: 0,0:16:52.92,0:16:53.76,Default,,0,0,0,,It's me.
+Dialogue: 0,0:16:54.32,0:16:55.20,Default,,0,0,0,,Mi!
+Dialogue: 0,0:16:57.40,0:16:59.14,Default,,0,0,0,,Go at full pelt together!
+Dialogue: 0,0:16:59.88,0:17:01.26,Default,,0,0,0,,Excepe me, Mrs. Cimuguijie.
+Dialogue: 0,0:17:01.59,0:17:02.63,Default,,0,0,0,,Nobody!
+Dialogue: 0,0:17:03.97,0:17:05.28,Default,,0,0,0,,Do you hear it?
+Dialogue: 0,0:17:05.70,0:17:07.58,Default,,0,0,0,,Fighting with a little girl,
+Dialogue: 0,0:17:08.01,0:17:10.76,Default,,0,0,0,,we have been ignored into this step.
+Dialogue: 0,0:17:13.94,0:17:15.07,Default,,0,0,0,,Are you kidding?
+Dialogue: 0,0:17:15.40,0:17:16.43,Default,,0,0,0,,The guys are the expert of attracting.
+Dialogue: 0,0:17:16.81,0:17:18.59,Default,,0,0,0,,Only Boss and Mi have no chance to win.
+Dialogue: 0,0:17:19.01,0:17:20.01,Default,,0,0,0,,Boss has agreed?
+Dialogue: 0,0:17:20.73,0:17:22.15,Default,,0,0,0,,You said I have no qualification?
+Dialogue: 0,0:17:22.65,0:17:24.06,Default,,0,0,0,,I am a professional killer too.
+Dialogue: 0,0:17:24.41,0:17:25.29,Default,,0,0,0,,But.
+Dialogue: 0,0:17:26.00,0:17:27.53,Default,,0,0,0,,Mi, don't speak anything.
+Dialogue: 0,0:17:27.98,0:17:29.83,Default,,0,0,0,,Change with one of us.
+Dialogue: 0,0:17:30.34,0:17:33.12,Default,,0,0,0,,Everybody don't want to see Mi to die.
+Dialogue: 0,0:17:36.18,0:17:37.18,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:17:37.58,0:17:39.12,Default,,0,0,0,,Most thanks are your favor.
+Dialogue: 0,0:17:40.40,0:17:41.90,Default,,0,0,0,,If this battle was defeated this time,
+Dialogue: 0,0:17:42.30,0:17:43.83,Default,,0,0,0,,the revenge has no end.
+Dialogue: 0,0:17:44.17,0:17:46.52,Default,,0,0,0,,Cimuguijie will lose in the former lover.
+Dialogue: 0,0:17:47.85,0:17:49.72,Default,,0,0,0,,I must win!
+Dialogue: 0,0:18:18.09,0:18:20.33,Default,,0,0,0,,I will live with Mi.
+Dialogue: 0,0:18:36.44,0:18:38.28,Default,,0,0,0,,Good luck,Boss!
+Dialogue: 0,0:18:44.79,0:18:47.99,Default,,0,0,0,,There are only four persons on ship.
+Dialogue: 0,0:18:48.54,0:18:50.31,Default,,0,0,0,,About GPX, the recorder.
+Dialogue: 0,0:18:50.96,0:18:52.96,Default,,0,0,0,,On the antennae on the bridge.
+Dialogue: 0,0:18:53.40,0:18:54.44,Default,,0,0,0,,If we lost.
+Dialogue: 0,0:18:54.80,0:18:57.40,Default,,0,0,0,,Listening all things about GPX\Nfrom there.
+Dialogue: 0,0:18:58.34,0:18:59.28,Default,,0,0,0,,I see.
+Dialogue: 0,0:19:07.53,0:19:10.01,Default,,0,0,0,,Apart soon under gound.
+Dialogue: 0,0:19:10.34,0:19:12.45,Default,,0,0,0,,At end, we will start the battle.
+Dialogue: 0,0:19:14.54,0:19:16.92,Default,,0,0,0,,This is the closedown world inside.
+Dialogue: 0,0:19:17.27,0:19:18.37,Default,,0,0,0,,That is to say,
+Dialogue: 0,0:19:18.84,0:19:19.97,Default,,0,0,0,,In the country, there are two,
+Dialogue: 0,0:19:20.41,0:19:22.65,Default,,0,0,0,,organization without aid\Nand no way to run away.
+Dialogue: 0,0:19:25.40,0:19:27.47,Default,,0,0,0,,Last battle, last attracting!
+Dialogue: 0,0:19:27.86,0:19:29.03,Default,,0,0,0,,Start out!
+Dialogue: 0,0:19:36.49,0:19:39.52,Default,,0,0,0,,Be quick!
+Dialogue: 0,0:19:40.08,0:19:41.39,Default,,0,0,0,,It can't fight, be quick!
+Dialogue: 0,0:19:41.71,0:19:43.85,Default,,0,0,0,,No, the war has started out!
+Dialogue: 0,0:19:46.05,0:19:47.97,Default,,0,0,0,,This is what White-hair gost said\Nin the copter.
+Dialogue: 0,0:19:48.67,0:19:50.61,Default,,0,0,0,,That is the sign for starting war.
+Dialogue: 0,0:19:51.05,0:19:52.26,Default,,0,0,0,,This is the Vietnam method.
+Dialogue: 0,0:19:52.99,0:19:55.09,Default,,0,0,0,,There is no justice and supervision\Non the war.
+Dialogue: 0,0:19:55.57,0:19:57.11,Default,,0,0,0,,Since it has been apart,
+Dialogue: 0,0:19:57.58,0:20:00.09,Default,,0,0,0,,Defeating enemy is everything.
+Dialogue: 0,0:20:01.30,0:20:02.54,Default,,0,0,0,,I know.
+Dialogue: 0,0:20:20.09,0:20:21.19,Default,,0,0,0,,You have way.
+Dialogue: 0,0:20:21.71,0:20:22.95,Default,,0,0,0,,This is vietcong's forte active.
+Dialogue: 0,0:20:43.73,0:20:44.71,Default,,0,0,0,,Cimuguijie! Boss!
+Dialogue: 0,0:21:07.44,0:21:08.92,Default,,0,0,0,,Are you OK?
+Dialogue: 0,0:21:09.78,0:21:10.66,Default,,0,0,0,,Of course!
+Dialogue: 0,0:21:12.66,0:21:14.26,Default,,0,0,0,,Dangerl Cimuguijiel
+Dialogue: 0,0:21:22.21,0:21:25.49,Default,,0,0,0,,It is really marvelous,black-hair gost.
+Dialogue: 0,0:21:26.31,0:21:29.23,Default,,0,0,0,,I am really happy fighting with you!
+Dialogue: 0,0:21:37.94,0:21:39.48,Default,,0,0,0,,Cimuguijie, kill Bail
+Dialogue: 0,0:21:39.95,0:21:41.40,Default,,0,0,0,,I Will find Zu!
+Dialogue: 0,0:21:42.00,0:21:44.34,Default,,0,0,0,,I will distroy the time\Nwhich they cooperated.
+Dialogue: 0,0:21:44.72,0:21:46.86,Default,,0,0,0,,One to one!
+Dialogue: 0,0:21:48.69,0:21:49.53,Default,,0,0,0,,Mi!
+Dialogue: 0,0:21:51.71,0:21:53.81,Default,,0,0,0,,See you on the deck,Cimuguijie!
+Dialogue: 0,0:21:55.60,0:21:57.01,Default,,0,0,0,,Only we two,
+Dialogue: 0,0:22:25.17,0:22:26.55,Default,,0,0,0,,pack away him in one breath.
+Dialogue: 0,0:22:26.96,0:22:28.06,Default,,0,0,0,,And..
+Dialogue: 0,0:22:39.46,0:22:41.77,Default,,0,0,0,,It is so sudden!
+Dialogue: 0,0:22:45.69,0:22:47.40,Default,,0,0,0,,It is very interesting, little girl.
+Dialogue: 0,0:22:48.06,0:22:51.10,Default,,0,0,0,,Originally,\NI want to enjoy you then kill you,
+Dialogue: 0,0:22:52.10,0:22:53.34,Default,,0,0,0,,but there is no time,
+Dialogue: 0,0:22:53.98,0:22:55.73,Default,,0,0,0,,I will kill you in one breath.
+Dialogue: 0,0:23:00.12,0:23:02.03,Default,,0,0,0,,Are you feel happy?Bey!
+Dialogue: 0,0:23:04.04,0:23:05.32,Default,,0,0,0,,Darned!
+Dialogue: 0,0:23:11.28,0:23:12.76,Default,,0,0,0,,Ship begin to sink!
+Dialogue: 0,0:23:13.49,0:23:15.36,Default,,0,0,0,,Boss! Mi!!
+Dialogue: 0,0:23:50.75,0:23:52.23,Default,,0,0,0,,I will kill you.
+Dialogue: 0,0:24:02.87,0:24:04.78,Default,,0,0,0,,Come on, white-hair ghost!
+Dialogue: 0,0:24:09.12,0:24:11.36,Default,,0,0,0,,There is only one hour until ship sink.
+Dialogue: 0,0:24:11.87,0:24:13.58,Default,,0,0,0,,Only you and me,
+Dialogue: 0,0:24:14.08,0:24:16.25,Default,,0,0,0,,can get on here.
+Dialogue: 0,0:24:18.09,0:24:21.12,Default,,0,0,0,,Janpanese swordman heard\Na man named sword
+Dialogue: 0,0:24:21.42,0:24:23.96,Default,,0,0,0,,will say Bye each other before fighting.
+Dialogue: 0,0:24:24.36,0:24:25.96,Default,,0,0,0,,Speak out the last words first!
+Dialogue: 0,0:24:26.35,0:24:27.26,Default,,0,0,0,,If it is here now,
+Dialogue: 0,0:24:27.65,0:24:28.89,Default,,0,0,0,,I will wait for Mi.
+Dialogue: 0,0:24:30.93,0:24:32.07,Default,,0,0,0,,Ten minites again.
+Dialogue: 0,0:24:32.56,0:24:34.30,Default,,0,0,0,,Give me time to wait for Mi.
+Dialogue: 0,0:24:35.11,0:24:35.99,Default,,0,0,0,,OK
+Dialogue: 0,0:24:44.20,0:24:46.31,Default,,0,0,0,,I won't let Mi die.
+Dialogue: 0,0:24:46.71,0:24:47.99,Default,,0,0,0,,I will kill you in my own hand.
+Dialogue: 0,0:24:50.31,0:24:52.88,Default,,0,0,0,,This is my last glory.
+Dialogue: 0,0:25:48.17,0:25:49.24,Default,,0,0,0,,Why do you help me?
+Dialogue: 0,0:25:49.78,0:25:50.69,Default,,0,0,0,,Because of accident.
+Dialogue: 0,0:25:52.21,0:25:54.12,Default,,0,0,0,,Because of accident? Right!
+Dialogue: 0,0:25:54.75,0:25:57.09,Default,,0,0,0,,Do we have the decision battle?
+Dialogue: 0,0:25:59.55,0:26:00.90,Default,,0,0,0,,You are marvellous!
+Dialogue: 0,0:26:09.51,0:26:10.58,Default,,0,0,0,,Go ahead!
+Dialogue: 0,0:26:11.03,0:26:12.63,Default,,0,0,0,,Using it to get on the deck.
+Dialogue: 0,0:26:14.52,0:26:17.16,Default,,0,0,0,,Continuous battle in my life.
+Dialogue: 0,0:26:17.59,0:26:19.29,Default,,0,0,0,,I have never fight with woman.
+Dialogue: 0,0:26:17.60,0:26:19.77,Default,,0,0,0,,I have never fight with woman.
+Dialogue: 0,0:26:19.80,0:26:22.54,Default,,0,0,0,,But at last, maybe I will fight with\Nyou kind of woman.
+Dialogue: 0,0:26:22.81,0:26:23.69,Default,,0,0,0,,This is my hope!
+Dialogue: 0,0:26:24.04,0:26:24.88,Default,,0,0,0,,Go ahead!
+Dialogue: 0,0:26:25.81,0:26:26.88,Default,,0,0,0,,Be quick!
+Dialogue: 0,0:26:41.51,0:26:43.05,Default,,0,0,0,,Zu!
+Dialogue: 0,0:26:48.12,0:26:49.26,Default,,0,0,0,,Ten minites has passed.
+Dialogue: 0,0:26:49.73,0:26:50.60,Default,,0,0,0,,This is all!
+Dialogue: 0,0:26:54.10,0:26:55.81,Default,,0,0,0,,Mi, Cimuguijie!
+Dialogue: 0,0:27:00.34,0:27:01.08,Default,,0,0,0,,Zu!
+Dialogue: 0,0:27:01.51,0:27:03.39,Default,,0,0,0,,She has been drown for me!
+Dialogue: 0,0:27:06.20,0:27:07.04,Default,,0,0,0,,Come on!
+Dialogue: 0,0:27:29.64,0:27:30.64,Default,,0,0,0,,Ready Set!
+Dialogue: 0,0:27:31.08,0:27:32.52,Default,,0,0,0,,Go!
+Dialogue: 0,0:27:51.70,0:27:52.87,Default,,0,0,0,,Run off on propose?
+Dialogue: 0,0:27:53.40,0:27:56.04,Default,,0,0,0,,This kind of dead place,\Nit is not easy to find it!
+Dialogue: 0,0:27:56.39,0:27:58.31,Default,,0,0,0,,Zu must find this kind of
+Dialogue: 0,0:27:58.70,0:28:00.04,Default,,0,0,0,,dead place!
+Dialogue: 0,0:28:02.20,0:28:03.98,Default,,0,0,0,,He can die in White-hair ghost hand.
+Dialogue: 0,0:28:04.52,0:28:05.86,Default,,0,0,0,,Good!
+Dialogue: 0,0:28:52.95,0:28:54.93,Default,,0,0,0,,A sentence named despair.
+Dialogue: 0,0:28:55.35,0:28:59.09,Default,,0,0,0,,Sorry, I must send this sentence to you.
+Dialogue: 0,0:28:59.81,0:29:01.31,Default,,0,0,0,,White-hair ghost!
+Dialogue: 0,0:29:01.84,0:29:04.94,Default,,0,0,0,,Your renvenge,\Nwhen you heard this recorder, you
+Dialogue: 0,0:29:05.42,0:29:07.90,Default,,0,0,0,,will understand this sentence meaning.
+Dialogue: 0,0:29:08.49,0:29:12.17,Default,,0,0,0,,GPX is one of chance in CIA.
+Dialogue: 0,0:29:14.67,0:29:17.02,Default,,0,0,0,,GPX's real name,
+Dialogue: 0,0:29:17.32,0:29:20.53,Default,,0,0,0,,is not movie make.
+Dialogue: 0,0:29:20.88,0:29:22.38,Default,,0,0,0,,The former name is
+Dialogue: 0,0:29:22.81,0:29:24.69,Default,,0,0,0,,GREAT\NPERSON X
+Dialogue: 0,0:29:25.07,0:29:26.74,Default,,0,0,0,,Something in the world.
+Dialogue: 0,0:29:27.19,0:29:29.86,Default,,0,0,0,,Reseach thuggism methods machine.
+Dialogue: 0,0:29:30.50,0:29:34.24,Default,,0,0,0,,So ifs headman of CIA.
+Dialogue: 0,0:29:34.58,0:29:36.33,Default,,0,0,0,,The headman of making movie.
+Dialogue: 0,0:29:36.73,0:29:38.26,Default,,0,0,0,,Is the something in finance industry.
+Dialogue: 0,0:29:38.80,0:29:41.37,Default,,0,0,0,,That is the auditorship\Nfor collecting the information.
+Dialogue: 0,0:29:41.93,0:29:43.27,Default,,0,0,0,,And it is not exist.
+Dialogue: 0,0:29:43.67,0:29:44.98,Default,,0,0,0,,Before you go back to USA,
+Dialogue: 0,0:29:45.47,0:29:47.71,Default,,0,0,0,,CIA superior has been\Ndismissed at that time.
+Dialogue: 0,0:29:48.04,0:29:50.49,Default,,0,0,0,,It is another man now.
+Dialogue: 0,0:29:50.85,0:29:53.35,Default,,0,0,0,,Your renvenge opponent is not exist.
+Dialogue: 0,0:29:53.77,0:29:55.51,Default,,0,0,0,,Even if it has, that is the CIA too.
+Dialogue: 0,0:29:55.96,0:29:58.07,Default,,0,0,0,,Even if it is State Union.
+Dialogue: 0,0:29:59.25,0:30:02.46,Default,,0,0,0,,Dispair will bring new life sometimes.
+Dialogue: 0,0:30:02.94,0:30:04.25,Default,,0,0,0,,White-hair gost!
+Dialogue: 0,0:30:04.71,0:30:06.13,Default,,0,0,0,,You are marvellous man!
+Dialogue: 0,0:30:06.57,0:30:08.58,Default,,0,0,0,,It must be open the future.
+Dialogue: 0,0:30:09.03,0:30:10.44,Default,,0,0,0,,You defeated us!
+Dialogue: 0,0:30:10.83,0:30:13.00,Default,,0,0,0,,After it, it has become into revenge!
+Dialogue: 0,0:30:30.84,0:30:33.82,Default,,0,0,0,,How about later? Cimuguijie?
+Dialogue: 0,0:30:48.62,0:30:52.46,Default,,0,0,0,,If the scar is still on my body,
+Dialogue: 0,0:30:52.87,0:30:54.58,Default,,0,0,0,,my revenge won't finish.
+Dialogue: 0,0:31:29.31,0:31:30.18,Default,,0,0,0,,About this thing,
+Dialogue: 0,0:31:30.66,0:31:34.54,Default,,0,0,0,,I leave it in your hand, CIA superior.
+Dialogue: 0,0:31:35.21,0:31:37.66,Default,,0,0,0,,Tell me the end after finishing!
+Dialogue: 0,0:31:38.08,0:31:40.43,Default,,0,0,0,,I see, President

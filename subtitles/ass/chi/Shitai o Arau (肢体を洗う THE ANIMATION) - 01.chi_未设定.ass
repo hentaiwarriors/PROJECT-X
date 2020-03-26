@@ -1,0 +1,351 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 未设定
+Original Script: 未设定
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,32,&H00FFFFFF,&HF0000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,7,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.58,0:00:29.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}迟到五分钟
+Dialogue: 0,0:00:35.32,0:00:39.59,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这份工作不能马虎
+Dialogue: 0,0:00:39.99,0:00:42.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}一定要准时
+Dialogue: 0,0:00:45.33,0:00:49.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这是契约书 确认后再签名
+Dialogue: 0,0:00:49.47,0:00:51.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我想不需要我多说明
+Dialogue: 0,0:00:52.14,0:00:55.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这次的工作适用自愿条款
+Dialogue: 0,0:00:55.61,0:00:59.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}害怕吗？ 想放弃的话就趁现在
+Dialogue: 0,0:01:01.35,0:01:05.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不 为了当医生 我会努力去习惯的
+Dialogue: 0,0:01:05.62,0:01:09.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}接下来你在医院看到的 所做的 学习的
+Dialogue: 0,0:01:09.76,0:01:16.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}都不能对友人 亲戚 家人公开
+Dialogue: 0,0:01:17.10,0:01:18.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}知道吗
+Dialogue: 0,0:01:19.23,0:01:21.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}知道吗 八阪圣治先生
+Dialogue: 0,0:01:22.03,0:01:23.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:01:24.17,0:01:27.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那么换完衣服后请到外面
+Dialogue: 0,0:01:27.51,0:01:30.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}剩下的菊木会指导你
+Dialogue: 0,0:01:31.24,0:01:32.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}知道了
+Dialogue: 0,0:01:34.45,0:01:36.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}已经无法回头了
+Dialogue: 0,0:01:36.98,0:01:41.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}今天起 我只是个装有人的灵魂的器具
+Dialogue: 0,0:03:34.83,0:03:36.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这么慢
+Dialogue: 0,0:03:36.97,0:03:38.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怕了吗
+Dialogue: 0,0:03:39.10,0:03:41.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不...对不起 来迟了
+Dialogue: 0,0:03:43.91,0:03:46.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你一定挨护士御堂友纪骂了吧
+Dialogue: 0,0:03:47.11,0:03:50.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}她那个人细心到啰嗦的程度
+Dialogue: 0,0:03:54.72,0:03:56.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}打开洗涤灯
+Dialogue: 0,0:03:57.12,0:03:58.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:04:00.73,0:04:03.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你很幸运哦
+Dialogue: 0,0:04:03.93,0:04:07.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}今天来的是年轻女性 而且是美女哦
+Dialogue: 0,0:04:09.40,0:04:13.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}美女的裸体很少见的 高兴吧？
+Dialogue: 0,0:04:13.00,0:04:13.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不行哦 我绝不饶你
+Dialogue: 0,0:04:13.14,0:04:14.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}哪有...
+Dialogue: 0,0:04:17.01,0:04:19.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}什么 不高兴吗
+Dialogue: 0,0:04:19.14,0:04:22.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你不会是没看过女人裸体吧
+Dialogue: 0,0:04:23.95,0:04:28.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这么大年纪了还没有经验 你也太伤脑筋了吧
+Dialogue: 0,0:04:28.75,0:04:29.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起
+Dialogue: 0,0:04:33.43,0:04:37.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}池底浮起的东西 散发着异样的存在感
+Dialogue: 0,0:04:37.96,0:04:39.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那是有人的形状的尸体
+Dialogue: 0,0:04:40.50,0:04:44.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}眼睛紧闭 再也不会露出笑容
+Dialogue: 0,0:04:44.90,0:04:50.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}她已经远离到他方将肉体贡献给这世间
+Dialogue: 0,0:04:50.91,0:04:53.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为了对她尊贵的意志表达敬意
+Dialogue: 0,0:04:53.31,0:04:56.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我们将细心清洗她的身体
+Dialogue: 0,0:04:56.65,0:04:57.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你去抬脚
+Dialogue: 0,0:04:58.78,0:05:00.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}咦什么 快点
+Dialogue: 0,0:05:00.52,0:05:01.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:05:01.59,0:05:01.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还可以射呢
+Dialogue: 0,0:05:09.06,0:05:12.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎么了 这点程度有什么好怕的
+Dialogue: 0,0:05:13.06,0:05:18.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}副院长怎么会选上你这种胆小鬼
+Dialogue: 0,0:05:19.20,0:05:21.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}真搞不懂
+Dialogue: 0,0:05:24.01,0:05:28.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}找这种人做那份工作没问题吗？副院长？
+Dialogue: 0,0:05:28.95,0:05:32.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}没关系 这个部门一直缺人嘛
+Dialogue: 0,0:05:33.35,0:05:36.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是吗 既然副院长这么说
+Dialogue: 0,0:05:37.22,0:05:38.69,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我是无所谓
+Dialogue: 0,0:05:38.96,0:05:43.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}就这么说定 菊木你可以离开了
+Dialogue: 0,0:05:43.09,0:05:45.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}知道了 那么
+Dialogue: 0,0:05:49.90,0:05:52.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}八阪先生 到这边来
+Dialogue: 0,0:05:52.30,0:05:53.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:05:55.11,0:05:56.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不对哦
+Dialogue: 0,0:05:59.11,0:06:00.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我是说这边
+Dialogue: 0,0:06:06.72,0:06:08.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你讨厌这份工作吗
+Dialogue: 0,0:06:09.25,0:06:11.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不 不是的
+Dialogue: 0,0:06:11.52,0:06:16.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你想当医生 这会是个很好的经验
+Dialogue: 0,0:06:16.73,0:06:17.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:06:18.86,0:06:22.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不行哦 怎么露出被害者的表情呢
+Dialogue: 0,0:06:24.20,0:06:26.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你应该更积极的
+Dialogue: 0,0:06:26.87,0:06:27.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:06:28.61,0:06:30.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我并不是抛弃你
+Dialogue: 0,0:06:31.41,0:06:32.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这是好机会
+Dialogue: 0,0:06:33.14,0:06:35.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}也是赚取医大学费的好工作
+Dialogue: 0,0:06:36.21,0:06:37.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我知道
+Dialogue: 0,0:06:37.95,0:06:39.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}真的吗
+Dialogue: 0,0:06:39.68,0:06:41.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}副院长
+Dialogue: 0,0:06:41.55,0:06:43.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}叫我千草吧
+Dialogue: 0,0:06:45.29,0:06:48.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这里只有你跟我哦
+Dialogue: 0,0:06:48.49,0:06:49.69,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那个..
+Dialogue: 0,0:06:49.96,0:06:55.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}因为你鼓起勇气接受了 我决定给你奖励
+Dialogue: 0,0:06:57.17,0:06:58.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}做.做什么
+Dialogue: 0,0:06:59.44,0:07:04.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你都这么硬了 还怕什么呢
+Dialogue: 0,0:07:22.66,0:07:24.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那是什么
+Dialogue: 0,0:07:24.26,0:07:26.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}让你不怕女人的药
+Dialogue: 0,0:07:29.47,0:07:32.54,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}现在就让你试试是不是真的
+Dialogue: 0,0:07:35.21,0:07:36.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}哇 好大啊
+Dialogue: 0,0:07:36.94,0:07:42.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}太可惜了 有这么棒的东西却从来没碰过女人
+Dialogue: 0,0:07:43.35,0:07:45.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}请你住手
+Dialogue: 0,0:07:45.62,0:07:47.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}别讲话像女人
+Dialogue: 0,0:07:47.89,0:07:51.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你的这里已经像男人了
+Dialogue: 0,0:07:53.36,0:07:55.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那么激烈搓揉会...
+Dialogue: 0,0:07:58.70,0:08:01.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}已经想射了吗 好啊 你就射吧
+Dialogue: 0,0:08:05.24,0:08:08.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}如何 被女人打手枪的感觉怎样
+Dialogue: 0,0:08:09.11,0:08:11.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是不是很想作爱啊
+Dialogue: 0,0:08:12.71,0:08:15.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}请你住手再下去我会...
+Dialogue: 0,0:08:16.31,0:08:19.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不行哦 我绝不饶你
+Dialogue: 0,0:08:19.38,0:08:22.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我也兴奋起来了
+Dialogue: 0,0:08:22.59,0:08:26.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}因为 快看到你射精的样子了
+Dialogue: 0,0:08:26.86,0:08:29.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为什么做这种事
+Dialogue: 0,0:08:30.06,0:08:32.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}因为你是童贞啊
+Dialogue: 0,0:08:32.60,0:08:35.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}男人是一辈子都忘不了他的第一个女人
+Dialogue: 0,0:08:36.07,0:08:40.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}所以我要把我彻底的印在你的回忆中
+Dialogue: 0,0:08:43.01,0:08:44.74,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你想象一下
+Dialogue: 0,0:08:45.01,0:08:47.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我裸体打开脚的样子
+Dialogue: 0,0:08:47.95,0:08:50.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你看到我的那里了吧
+Dialogue: 0,0:09:00.09,0:09:02.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我的那里漂亮吧
+Dialogue: 0,0:09:02.89,0:09:06.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}想插进来了是吧 这么大的阳具
+Dialogue: 0,0:09:09.70,0:09:13.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}说啊 说你想插进来
+Dialogue: 0,0:09:14.11,0:09:18.64,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}想要放进来是吧
+Dialogue: 0,0:09:18.78,0:09:21.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}想在体内射精是吧
+Dialogue: 0,0:09:21.85,0:09:24.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}可以啊 来吧
+Dialogue: 0,0:09:24.78,0:09:27.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}尽量在我里面射出来吧
+Dialogue: 0,0:09:37.20,0:09:40.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}射出来了 好浓的液体
+Dialogue: 0,0:09:43.87,0:09:46.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你再多射一些啊
+Dialogue: 0,0:09:51.61,0:09:52.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还有还有呢
+Dialogue: 0,0:09:53.08,0:09:54.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还可以射呢
+Dialogue: 0,0:09:58.42,0:10:00.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}射出来了 这么多
+Dialogue: 0,0:10:01.09,0:10:03.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你积累了很久哦
+Dialogue: 0,0:10:05.36,0:10:07.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我受不了了
+Dialogue: 0,0:10:07.49,0:10:11.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是啊 再射吧 再射吧
+Dialogue: 0,0:10:11.36,0:10:12.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}很舒服吧
+Dialogue: 0,0:10:15.10,0:10:16.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎样怎样
+Dialogue: 0,0:10:17.77,0:10:20.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}住手 住手 我受不了
+Dialogue: 0,0:10:21.51,0:10:23.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}再做下去
+Dialogue: 0,0:10:23.64,0:10:25.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我真的...真的会...
+Dialogue: 0,0:10:29.11,0:10:31.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还行 还能再射
+Dialogue: 0,0:10:31.65,0:10:34.59,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}尽量射吧 不要客气
+Dialogue: 0,0:10:34.72,0:10:36.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你瞧
+Dialogue: 0,0:10:53.27,0:10:57.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎样 第一次看到女性裸体的感想如何
+Dialogue: 0,0:10:58.61,0:11:00.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}什么 讨厌女人吗
+Dialogue: 0,0:11:04.08,0:11:07.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不过这是工作 你看好了
+Dialogue: 0,0:11:10.76,0:11:12.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那个...
+Dialogue: 0,0:11:13.02,0:11:13.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}什么
+Dialogue: 0,0:11:14.23,0:11:16.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这么用力没问题吗
+Dialogue: 0,0:11:18.76,0:11:20.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那个...
+Dialogue: 0,0:11:20.10,0:11:21.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}她会不会痛
+Dialogue: 0,0:11:21.83,0:11:24.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你是说真的吗 你没疯吧
+Dialogue: 0,0:11:26.64,0:11:29.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这个人已经死了
+Dialogue: 0,0:11:34.65,0:11:35.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}死了
+Dialogue: 0,0:11:36.11,0:11:37.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}已经死了
+Dialogue: 0,0:11:37.58,0:11:38.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不是人
+Dialogue: 0,0:11:38.92,0:11:40.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不再被当人对待
+Dialogue: 0,0:11:40.79,0:11:42.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}她已经死掉了
+Dialogue: 0,0:11:46.66,0:11:47.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你洗洗看
+Dialogue: 0,0:11:49.46,0:11:52.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}明天起你得一个人做
+Dialogue: 0,0:11:52.80,0:11:54.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}最好早点习惯
+Dialogue: 0,0:11:54.93,0:11:56.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}请问要洗哪里
+Dialogue: 0,0:11:57.07,0:11:58.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这个嘛...
+Dialogue: 0,0:11:58.14,0:12:02.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}先从肩膀到双手 然后是胸部与腹部
+Dialogue: 0,0:12:02.41,0:12:03.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:12:07.75,0:12:11.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}再用力 这样子污垢是洗不掉的
+Dialogue: 0,0:12:11.62,0:12:12.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:12:27.23,0:12:31.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这就是我第一次接触到的女性的...
+Dialogue: 0,0:12:37.91,0:12:41.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好 上半身这样行了
+Dialogue: 0,0:12:42.45,0:12:45.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}接下来是女性性器
+Dialogue: 0,0:12:46.05,0:12:47.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}事到如今还吃什么惊
+Dialogue: 0,0:12:47.92,0:12:48.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你在开什么玩笑 等一下
+Dialogue: 0,0:12:48.05,0:12:48.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}事到如今还吃什么惊
+Dialogue: 0,0:12:48.72,0:12:50.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那里当然要洗了
+Dialogue: 0,0:12:52.32,0:12:55.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}打开脚 细心的洗
+Dialogue: 0,0:12:55.66,0:12:59.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那里可是最藏污纳垢的部位
+Dialogue: 0,0:13:04.74,0:13:07.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起 对不起
+Dialogue: 0,0:13:08.87,0:13:11.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我..第一次...
+Dialogue: 0,0:13:16.35,0:13:19.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不看仔细是不能洗的
+Dialogue: 0,0:13:25.56,0:13:27.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}眼睛别移开
+Dialogue: 0,0:13:28.23,0:13:29.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是
+Dialogue: 0,0:13:30.76,0:13:32.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起
+Dialogue: 0,0:13:32.63,0:13:35.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}让你被我看到这么丢人的样子
+Dialogue: 0,0:13:34.77,0:13:35.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}让你被我看到这么丢人的样子
+Dialogue: 0,0:13:36.23,0:13:40.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起 对不起 我要洗了
+Dialogue: 0,0:13:51.85,0:13:55.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我不想看 却看到了
+Dialogue: 0,0:14:06.53,0:14:08.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}作业结束了
+Dialogue: 0,0:14:08.53,0:14:11.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}请签名
+Dialogue: 0,0:14:13.07,0:14:17.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}听说作业途中你吐了
+Dialogue: 0,0:14:17.61,0:14:18.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起
+Dialogue: 0,0:14:19.08,0:14:20.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你考不考虑放弃？
+Dialogue: 0,0:14:21.08,0:14:25.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我知道有些失礼\N我觉得你真的不适合当医生
+Dialogue: 0,0:14:34.43,0:14:36.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎么了
+Dialogue: 0,0:14:36.03,0:14:38.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你很无精打采的耶 打工先生
+Dialogue: 0,0:14:38.56,0:14:39.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}美和子
+Dialogue: 0,0:14:40.03,0:14:42.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我听说了 你调部门了
+Dialogue: 0,0:14:43.23,0:14:45.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你真的很没精神
+Dialogue: 0,0:14:45.50,0:14:46.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}脸色差极了
+Dialogue: 0,0:14:47.10,0:14:49.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你有没有吃营养一点的东西??
+Dialogue: 0,0:14:54.31,0:14:55.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好 知道了
+Dialogue: 0,0:14:55.65,0:15:00.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}今天美和子姐姐就特别分便当给你
+Dialogue: 0,0:15:00.18,0:15:02.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}来这边
+Dialogue: 0,0:15:02.59,0:15:03.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}来啦来啦
+Dialogue: 0,0:15:12.33,0:15:15.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}希望有你喜欢的菜
+Dialogue: 0,0:15:15.93,0:15:17.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}打开看看
+Dialogue: 0,0:15:18.74,0:15:21.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不行吗 看起来不好吃吗
+Dialogue: 0,0:15:22.21,0:15:24.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不 没那回事
+Dialogue: 0,0:15:24.61,0:15:27.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是吗 那你就全部吃吧
+Dialogue: 0,0:15:27.55,0:15:29.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你的份呢？
+Dialogue: 0,0:15:29.41,0:15:31.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我还有这个
+Dialogue: 0,0:15:32.35,0:15:34.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}没关系 别在意
+Dialogue: 0,0:15:34.35,0:15:38.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我正在减肥中 不能吃太多东西
+Dialogue: 0,0:15:38.89,0:15:39.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是这样吗 那我不客气了
+Dialogue: 0,0:15:39.56,0:15:41.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是这样吗 那我不客气了
+Dialogue: 0,0:15:41.96,0:15:43.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}多吃点多吃点
+Dialogue: 0,0:15:45.30,0:15:46.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎么样
+Dialogue: 0,0:15:46.90,0:15:47.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}很好吃
+Dialogue: 0,0:15:47.97,0:15:50.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}真的吗 太好了
+Dialogue: 0,0:15:50.64,0:15:53.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}明天我再做给你吃
+Dialogue: 0,0:15:53.30,0:15:54.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}可以吗
+Dialogue: 0,0:15:54.24,0:15:57.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}没关系没关系 我在减肥中嘛
+Dialogue: 0,0:15:58.24,0:15:59.98,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}?‘孟蟾烔飧雒挥泄叵?
+Dialogue: 0,0:16:19.20,0:16:20.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为什么
+Dialogue: 0,0:16:21.87,0:16:23.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为什么？这..
+Dialogue: 0,0:16:23.20,0:16:26.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我猜 是不是你有别的喜欢的女人
+Dialogue: 0,0:16:28.14,0:16:31.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你有了是吧 是谁？告诉我她的名字
+Dialogue: 0,0:16:32.28,0:16:34.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不 不是的 这...
+Dialogue: 0,0:16:38.28,0:16:41.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}瞒我是没有用的 你的谎言太容易坼穿了
+Dialogue: 0,0:16:41.49,0:16:43.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}瞒我是没有用的 你的谎言太容易坼穿了
+Dialogue: 0,0:16:43.75,0:16:45.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}难得我想给你初体验呢
+Dialogue: 0,0:16:45.89,0:16:47.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}难得我想给你初体验呢
+Dialogue: 0,0:16:47.89,0:16:49.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}看来今天就先保留了
+Dialogue: 0,0:16:49.89,0:16:56.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你对别的女人发情的精子 我要把它全部吸出来
+Dialogue: 0,0:16:59.50,0:17:02.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我是不知你喜欢上哪个女人
+Dialogue: 0,0:17:02.97,0:17:05.91,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我是不会把你的童贞交给任何人的
+Dialogue: 0,0:17:14.19,0:17:16.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不行了 我...
+Dialogue: 0,0:17:17.66,0:17:19.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我...
+Dialogue: 0,0:17:19.52,0:17:20.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}美和子
+Dialogue: 0,0:17:21.79,0:17:24.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}等一下 美和子 等一下
+Dialogue: 0,0:17:31.67,0:17:34.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}人是为了死而活
+Dialogue: 0,0:17:34.34,0:17:35.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为了活而死
+Dialogue: 0,0:17:36.34,0:17:41.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我在今天 丧失了尊贵的灵魂
+Dialogue: 0,0:17:41.28,0:17:44.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起 我是没用的男人
+Dialogue: 0,0:17:45.28,0:17:50.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}美和子 我是肮脏的人
+Dialogue: 0,0:17:51.16,0:17:54.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不是你想的那种人
+Dialogue: 0,0:18:25.06,0:18:30.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你看 出来了 这么多下流的液体
+Dialogue: 0,0:19:01.76,0:19:06.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这么可爱 我不会让别的女人抢走的
+Dialogue: 0,0:19:16.04,0:19:18.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}住手 不要啊
+Dialogue: 0,0:19:38.20,0:19:40.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}没关系的 射出来
+Dialogue: 0,0:19:40.33,0:19:43.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}都射在我的脸上吧
+Dialogue: 0,0:19:55.28,0:19:56.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}佐伯
+Dialogue: 0,0:19:56.61,0:19:57.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你在做什么
+Dialogue: 0,0:19:58.48,0:19:59.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}工作时间到了
+Dialogue: 0,0:20:00.22,0:20:03.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}友纪前辈一直在找你
+Dialogue: 0,0:20:03.82,0:20:06.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对不起 我马上去
+Dialogue: 0,0:20:09.69,0:20:11.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}有味道哦
+Dialogue: 0,0:20:11.83,0:20:14.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}做爱后的味道
+Dialogue: 0,0:20:19.04,0:20:22.91,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不行啦 为什么我要说出令人讨厌的话
+Dialogue: 0,0:20:39.06,0:20:41.59,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}喂 护理站
+Dialogue: 0,0:20:41.86,0:20:42.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}菊木先生
+Dialogue: 0,0:20:46.00,0:20:48.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是 知道了 马上就去找
+Dialogue: 0,0:20:50.40,0:20:52.54,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎么了吗 友纪前辈
+Dialogue: 0,0:20:52.80,0:20:55.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}八阪先生逃走了
+Dialogue: 0,0:21:14.29,0:21:18.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你怎么了 大家都担心得四处找你
+Dialogue: 0,0:21:18.96,0:21:22.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我不对劲了 我不对劲了
+Dialogue: 0,0:21:23.50,0:21:24.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不对劲？
+Dialogue: 0,0:21:24.44,0:21:27.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我的身体变得好怪
+Dialogue: 0,0:21:30.04,0:21:32.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这是什么意思
+Dialogue: 0,0:21:34.45,0:21:36.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你说什么不对劲？
+Dialogue: 0,0:21:37.38,0:21:40.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我不正常了 我受不了了
+Dialogue: 0,0:21:42.05,0:21:45.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我是问你...怎么了？
+Dialogue: 0,0:21:54.87,0:21:59.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好吃 这样打工生应该会很高兴吧
+Dialogue: 0,0:22:07.68,0:22:12.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}没事的 我会随时帮忙你
+Dialogue: 0,0:22:12.35,0:22:14.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你可以尽量射的
+Dialogue: 0,0:22:28.63,0:22:29.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}美和子
+Dialogue: 0,0:22:31.17,0:22:34.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我...一刻刻的崩溃了
+Dialogue: 0,0:22:34.77,0:22:36.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}请原谅我
+Dialogue: 0,0:22:41.05,0:22:42.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}再见
+Dialogue: 0,0:22:43.18,0:22:46.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}请你多保重
+Dialogue: 0,0:22:51.72,0:22:52.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}死了
+Dialogue: 0,0:22:53.19,0:22:55.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为什么美和子会死掉
+Dialogue: 0,0:22:55.19,0:22:57.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}为什么
+Dialogue: 0,0:23:06.80,0:23:08.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好好吃
+Dialogue: 0,0:23:08.14,0:23:11.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}住手 住手
+Dialogue: 0,0:23:12.14,0:23:13.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}住手！
+Dialogue: 0,0:23:17.08,0:23:18.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}住手 住手
+Dialogue: 0,0:23:19.08,0:23:21.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我叫你住手啊
+Dialogue: 0,0:23:54.45,0:23:58.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我说过 我不会吧你交给别的女人
+Dialogue: 0,0:24:00.06,0:24:02.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你是我的实验动物
+Dialogue: 0,0:24:04.46,0:24:08.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你短暂的生命要为我而闪耀
+Dialogue: 0,0:24:08.87,0:24:10.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}知道了吗
+Dialogue: 0,0:24:10.73,0:24:11.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}生命...
+Dialogue: 0,0:24:12.20,0:24:13.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}死...
+Dialogue: 0,0:24:13.80,0:24:14.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}尸体...
+Dialogue: 0,0:24:23.81,0:24:25.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}死掉了
+Dialogue: 0,0:24:29.42,0:24:30.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}死掉了
+Dialogue: 0,0:24:32.36,0:24:34.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我已经死掉了
+Dialogue: 0,0:24:51.58,0:24:53.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}很好 再多射吧
+Dialogue: 0,0:24:54.78,0:24:56.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}大家都死掉了
+Dialogue: 0,0:24:57.45,0:24:58.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不洗不行
+Dialogue: 0,0:24:59.05,0:25:01.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我必须洗尸体
+Dialogue: 0,0:25:08.39,0:25:11.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你这个尸体在做什么
+Dialogue: 0,0:25:11.46,0:25:13.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好痛 干什么啊 圣治
+Dialogue: 0,0:25:14.26,0:25:16.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}吵死了 尸体不准讲话
+Dialogue: 0,0:25:20.94,0:25:23.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}等等你突然...
+Dialogue: 0,0:25:23.74,0:25:26.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你在开什么玩笑 等一下
+Dialogue: 0,0:25:27.88,0:25:30.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不要助手
+Dialogue: 0,0:25:31.22,0:25:33.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}尸体会反抗吗
+Dialogue: 0,0:25:33.35,0:25:35.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我说我要洗你的
+Dialogue: 0,0:25:36.42,0:25:42.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我帮你洗干净 你让我留出白色清洁液啊
+Dialogue: 0,0:25:42.69,0:25:45.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你不是想要这个吗
+Dialogue: 0,0:25:45.50,0:25:46.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}怎么样
+Dialogue: 0,0:25:46.96,0:25:51.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}是 我想要 我要
+Dialogue: 0,0:25:52.84,0:25:54.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}圣次 拜托
+Dialogue: 0,0:25:54.57,0:25:56.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}再欺负我吧
+Dialogue: 0,0:25:56.57,0:25:59.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我喜欢被这样整 拜托
+Dialogue: 0,0:25:59.64,0:26:02.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}那就用乳房夹住
+Dialogue: 0,0:26:05.12,0:26:05.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这样吗
+Dialogue: 0,0:26:06.05,0:26:07.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}也要用舌头
+Dialogue: 0,0:26:20.46,0:26:23.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}主人 怎么样呢？
+Dialogue: 0,0:26:23.40,0:26:25.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还不够
+Dialogue: 0,0:26:27.94,0:26:30.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还不够 我还可以哦
+Dialogue: 0,0:26:30.87,0:26:31.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}干什么
+Dialogue: 0,0:26:33.14,0:26:36.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我帮你把这里洗干净
+Dialogue: 0,0:26:36.88,0:26:39.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}你太粗鲁了
+Dialogue: 0,0:26:41.42,0:26:45.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}成功了 没想到药效这么棒
+Dialogue: 0,0:26:49.56,0:26:55.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}等着吧 现在就给你很多白色清洗液
+Dialogue: 0,0:26:56.10,0:26:57.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好厉害
+Dialogue: 0,0:27:10.78,0:27:13.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好痛 好痛啊
+Dialogue: 0,0:27:13.98,0:27:17.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}尸体还会喊痛吗
+Dialogue: 0,0:27:18.26,0:27:22.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好痛 好痛 请你停下来 求求你啊
+Dialogue: 0,0:27:23.19,0:27:24.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}求求你啊
+Dialogue: 0,0:27:40.41,0:27:42.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:27:44.01,0:27:46.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}住手 请你住手
+Dialogue: 0,0:27:46.95,0:27:48.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}好痛的
+Dialogue: 0,0:27:51.22,0:27:54.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}不要啦 你还想射吗
+Dialogue: 0,0:28:00.03,0:28:01.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}还早着呢
+Dialogue: 0,0:28:01.63,0:28:04.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我还没有满足
+Dialogue: 0,0:28:54.22,0:28:55.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这个感觉棒
+Dialogue: 0,0:28:55.82,0:28:58.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}对 就是这个表情
+Dialogue: 0,0:29:00.62,0:29:03.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}这个才对 这是死亡的恐怖表情
+Dialogue: 0,0:29:03.69,0:29:05.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}我就是想看这个
+Dialogue: 0,0:29:09.70,0:29:13.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs26\2c&H00FFFF&\3c&H800080&\be1}死亡的恐怖呀 你知道吗
+Dialogue: 0,0:00:09.70,0:00:09.70,Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:09.70,0:00:09.70,Default,NTP,0000,0000,0000,,
+

@@ -1,0 +1,269 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.3.619  Dec  5 2016  15:25:20
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [848x480]
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00F1DE90,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,35,&H00F1DE90,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,20,20,10,1
+Style: Tytul,Franklin Gothic Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,140,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:33.22,0:02:35.88,Grupa,,0,0,0,,{\fad(392,0)}Nyan
+Dialogue: 0,0:02:33.22,0:02:35.88,Anime,,0,0,0,,{\fad(392,0)}Romance wa Tsurugi no Kagayaki {\1c&H0920FF&}II
+Dialogue: 0,0:02:36.22,0:02:41.89,Tytul,,0,0,0,,{\be1\fad(812,0)\pos(522,38)\fs27}Odcinek 5
+Dialogue: 0,0:02:36.22,0:02:41.89,Tytul,,0,0,0,,{\be1\fad(1688,0)}Dla Elise!?
+Dialogue: 0,0:00:05.63,0:00:08.03,Default,,0,0,0,,{\be1}Jeśli czujesz to samo...
+Dialogue: 0,0:00:08.90,0:00:09.53,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:00:09.96,0:00:16.54,Default,,0,0,0,,{\be1}Czy mógłbym złożyć na twoich słodkich ustach...
+Dialogue: 0,0:00:17.34,0:00:17.92,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:00:18.29,0:00:20.13,Default,,0,0,0,,{\be1}Podejdź.
+Dialogue: 0,0:00:21.91,0:00:30.45,Default,,0,0,0,,{\be1}Jest taki miękki, słodki\Ni rozpuszcza się w ustach.
+Dialogue: 0,0:00:31.84,0:00:33.24,Default,,0,0,0,,{\be1}Rozpuszcza?
+Dialogue: 0,0:00:34.23,0:00:36.06,Default,,0,0,0,,{\be1}Pianka?!
+Dialogue: 0,0:00:36.06,0:00:40.61,Default,,0,0,0,,{\be1}Tak, uwielbiam je.
+Dialogue: 0,0:00:40.61,0:00:42.06,Default,,0,0,0,,{\be1}Pyszne, prawda?
+Dialogue: 0,0:00:42.06,0:00:44.57,Default,,0,0,0,,{\be1}Chcesz jeszcze jedną?
+Dialogue: 0,0:00:49.46,0:00:50.57,Default,,0,0,0,,{\be1}Aniele?
+Dialogue: 0,0:00:51.98,0:00:55.47,Default,,0,0,0,,{\be1}Pewnie musiał odejść.
+Dialogue: 0,0:00:55.47,0:01:00.00,Default,,0,0,0,,{\be1}Nie odszedłem!
+Dialogue: 0,0:01:08.42,0:01:12.46,Default,,0,0,0,,{\be1}Gdyby księżyc tak nie dawał\Nmógłbym pójść goły do domu.
+Dialogue: 0,0:01:12.46,0:01:16.93,Default,,0,0,0,,{\be1}Jak ktoś mnie zobaczy,\Nto pomyśli, że jestem zbokiem.
+Dialogue: 0,0:01:17.54,0:01:20.47,Default,,0,0,0,,{\be1}Jestem prawie pewien, że to Spica.
+Dialogue: 0,0:01:21.44,0:01:24.98,Default,,0,0,0,,{\be1}Mam farta! Spica!
+Dialogue: 0,0:01:30.98,0:01:34.28,Default,,0,0,0,,{\be1}Wygląda jak Spica, ale to nie ona.
+Dialogue: 0,0:01:42.92,0:01:43.75,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:01:48.10,0:01:49.21,Default,,0,0,0,,{\be1}Piękna.
+Dialogue: 0,0:01:58.46,0:02:01.43,Default,,0,0,0,,{\be1}Nie zdobyłem klejnotu.
+Dialogue: 0,0:02:01.43,0:02:04.73,Default,,0,0,0,,{\be1}Jesteś zbyt zachłanny, wiesz?
+Dialogue: 0,0:02:05.64,0:02:07.18,Default,,0,0,0,,{\be1}Utrapienie...
+Dialogue: 0,0:02:12.18,0:02:17.41,Default,,0,0,0,,{\be1}- Ej, czekaj!\N- Co ja robię?
+Dialogue: 0,0:02:18.01,0:02:19.27,Default,,0,0,0,,{\be1}Keeth?
+Dialogue: 0,0:02:23.86,0:02:25.96,Default,,0,0,0,,{\be1}Zbok!
+Dialogue: 0,0:02:47.78,0:02:50.53,Default,,0,0,0,,{\be1}Źle to zrozumiałaś.
+Dialogue: 0,0:02:50.53,0:02:53.91,Default,,0,0,0,,{\be1}Barman, powiedz jej coś.
+Dialogue: 0,0:02:56.36,0:02:57.76,Default,,0,0,0,,{\be1}Kretyn!
+Dialogue: 0,0:02:57.76,0:03:00.03,Default,,0,0,0,,{\be1}Spica!
+Dialogue: 0,0:03:01.06,0:03:03.79,Default,,0,0,0,,{\be1}Ile razy mam ci powtarzać?!
+Dialogue: 0,0:03:04.94,0:03:06.67,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:03:08.39,0:03:15.92,Default,,0,0,0,,{\be1}Całkowicie cię rozumiem,\Nco mu strzeliło do łba?
+Dialogue: 0,0:03:16.40,0:03:18.54,Default,,0,0,0,,{\be1}A skąd mam wiedzieć?
+Dialogue: 0,0:03:18.54,0:03:26.59,Default,,0,0,0,,{\be1}Wprawdzie jesteś śliczna, ale nie spodziewałbym się,\Nże wybierzecie się na taką randkę.
+Dialogue: 0,0:03:26.59,0:03:29.12,Default,,0,0,0,,{\be1}Niby z kim byłam na randce?!
+Dialogue: 0,0:03:29.12,0:03:36.20,Default,,0,0,0,,{\be1}Mężczyzna i kobieta sami przy blasku księżyca.
+Dialogue: 0,0:03:36.60,0:03:43.16,Default,,0,0,0,,{\be1}On taki przystojny i niewinny.
+Dialogue: 0,0:03:44.89,0:03:48.58,Default,,0,0,0,,{\be1}A ta wiedźma bawi się jego sercem.
+Dialogue: 0,0:03:51.15,0:03:53.63,Default,,0,0,0,,{\be1}Co za guz.
+Dialogue: 0,0:03:58.77,0:04:01.24,Default,,0,0,0,,{\be1}Nienawidzę pedałów.
+Dialogue: 0,0:04:03.70,0:04:09.40,Default,,0,0,0,,{\be1}Powiedz, że widziałeś koło Spici inną kobietę!
+Dialogue: 0,0:04:09.40,0:04:09.94,Default,,0,0,0,,{\be1}Nie wiem...
+Dialogue: 0,0:04:12.30,0:04:15.07,Default,,0,0,0,,{\be1}Mam zwidy?
+Dialogue: 0,0:04:15.07,0:04:19.07,Default,,0,0,0,,{\be1}Jestem prawie pewien, że widziałem ślicznotkę.
+Dialogue: 0,0:04:20.59,0:04:21.85,Default,,0,0,0,,{\be1}Jesteś podła!
+Dialogue: 0,0:04:23.31,0:04:26.40,Default,,0,0,0,,{\be1}Nie byłam z nim na randce!
+Dialogue: 0,0:04:26.40,0:04:30.07,Default,,0,0,0,,{\be1}Ale nie musiałaś aż tak.
+Dialogue: 0,0:04:30.07,0:04:32.59,Default,,0,0,0,,{\be1}Kiedy to zrobiłam?
+Dialogue: 0,0:04:33.20,0:04:38.34,Default,,0,0,0,,{\be1}Skoro to nie była randka, to co tam robiliście?
+Dialogue: 0,0:04:39.35,0:04:43.35,Default,,0,0,0,,{\be1}Nie pamiętam.
+Dialogue: 0,0:04:44.51,0:04:49.35,Default,,0,0,0,,{\be1}A to ci zagadka.
+Dialogue: 0,0:04:50.59,0:04:54.08,Default,,0,0,0,,{\be1}Co tam robił Keeth?
+Dialogue: 0,0:04:56.13,0:05:01.15,Default,,0,0,0,,{\be1}Co ty wyprawiasz?!
+Dialogue: 0,0:05:23.85,0:05:25.53,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:05:52.32,0:05:58.09,Default,,0,0,0,,{\be1}Czyżby anioł tego zapomniał?
+Dialogue: 0,0:05:58.78,0:06:01.01,Default,,0,0,0,,{\be1}Dziadku!
+Dialogue: 0,0:06:14.97,0:06:17.34,Default,,0,0,0,,{\be1}Dokąd ona jedzie?
+Dialogue: 0,0:06:17.34,0:06:23.03,Default,,0,0,0,,{\be1}Nie wiem, ale nagle pojawiła się mgła.
+Dialogue: 0,0:06:33.73,0:06:36.75,Default,,0,0,0,,{\be1}Centrum odnowy biologicznej?
+Dialogue: 0,0:06:37.20,0:06:39.41,Default,,0,0,0,,{\be1}To znany salon masażu.
+Dialogue: 0,0:06:39.41,0:06:43.87,Default,,0,0,0,,{\be1}Spica świetnie wygląda,\Nale cały czas narzeka na swoje uda.
+Dialogue: 0,0:06:43.87,0:06:48.30,Default,,0,0,0,,{\be1}Nigdy nie zrozumiem kobiet.
+Dialogue: 0,0:06:49.68,0:06:52.67,Default,,0,0,0,,{\be1}Ciężko z nimi żyć, a jeszcze ciężej bez nich.
+Dialogue: 0,0:06:52.67,0:06:57.23,Default,,0,0,0,,{\be1}Barman mówił, że wczoraj\Nszybko się zmyła po pracy.
+Dialogue: 0,0:06:58.17,0:07:02.51,Default,,0,0,0,,{\be1}To znaczy, że tu tkwi jej sekret.
+Dialogue: 0,0:07:02.51,0:07:04.07,Default,,0,0,0,,{\be1}Czyli co?
+Dialogue: 0,0:07:07.45,0:07:12.56,Default,,0,0,0,,{\be1}Tylko ja potrafię dostrzec prawdziwe piękno.
+Dialogue: 0,0:07:14.52,0:07:18.29,Default,,0,0,0,,{\be1}I dlatego muszę się dowiedzieć po co tu chodzi.
+Dialogue: 0,0:07:19.52,0:07:24.30,Default,,0,0,0,,{\be1}Już zaczął te swoje fantazje.
+Dialogue: 0,0:07:31.54,0:07:33.81,Default,,0,0,0,,{\be1}Wyglądasz coraz lepiej.
+Dialogue: 0,0:07:34.58,0:07:39.18,Default,,0,0,0,,{\be1}To dzięki tobie, ale to i tak za mało.
+Dialogue: 0,0:07:40.26,0:07:42.32,Default,,0,0,0,,{\be1}Keeth.
+Dialogue: 0,0:07:50.28,0:07:53.87,Default,,0,0,0,,{\be1}Mnie też mogłaby wymasować.
+Dialogue: 0,0:07:54.56,0:07:57.71,Default,,0,0,0,,{\be1}Dla kogo tak się starasz?
+Dialogue: 0,0:07:59.67,0:08:00.86,Default,,0,0,0,,{\be1}Tajemnica.
+Dialogue: 0,0:08:11.27,0:08:12.49,Default,,0,0,0,,{\be1}Keeth!
+Dialogue: 0,0:08:15.26,0:08:16.94,Default,,0,0,0,,{\be1}Nie tam!
+Dialogue: 0,0:08:20.77,0:08:24.07,Default,,0,0,0,,{\be1}To może wolisz to?
+Dialogue: 0,0:08:28.57,0:08:29.53,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:36.49,0:08:39.03,Default,,0,0,0,,{\be1}Zrobiłaś się mokra.
+Dialogue: 0,0:08:39.03,0:08:43.45,Default,,0,0,0,,{\be1}Chcesz więcej?
+Dialogue: 0,0:08:43.45,0:08:46.17,Default,,0,0,0,,{\be1}Nie, wstydzę się!
+Dialogue: 0,0:08:46.17,0:08:50.39,Default,,0,0,0,,{\be1}Nie przestawaj! Jeszcze!
+Dialogue: 0,0:08:50.39,0:08:52.82,Default,,0,0,0,,{\be1}Zazwyczaj sama to robisz?
+Dialogue: 0,0:08:53.63,0:08:57.59,Default,,0,0,0,,{\be1}Co za wstyd! Jak dobrze!
+Dialogue: 0,0:08:59.79,0:09:01.90,Default,,0,0,0,,{\be1}Tak, mocniej!
+Dialogue: 0,0:09:01.90,0:09:04.91,Default,,0,0,0,,{\be1}Keeth, coś jest nie tak.
+Dialogue: 0,0:09:04.91,0:09:08.40,Default,,0,0,0,,{\be1}Spica taka nie jest.
+Dialogue: 0,0:09:09.62,0:09:12.87,Default,,0,0,0,,{\be1}Nie wiedziałem, że Spica tak się podnieca.
+Dialogue: 0,0:09:12.87,0:09:16.83,Default,,0,0,0,,{\be1}Nie to miałem na myśli.\NJakoś mi słabo.
+Dialogue: 0,0:09:19.29,0:09:22.86,Default,,0,0,0,,{\be1}O kim myślisz, gdy się dotykasz?
+Dialogue: 0,0:09:22.86,0:09:26.55,Default,,0,0,0,,{\be1}Keeth! To lepsze niż dotykanie!
+Dialogue: 0,0:09:30.88,0:09:35.29,Default,,0,0,0,,{\be1}Nie! Jak dobrze!
+Dialogue: 0,0:09:44.06,0:09:46.07,Default,,0,0,0,,{\be1}Oszaleję!
+Dialogue: 0,0:09:54.78,0:09:59.21,Default,,0,0,0,,{\be1}Nie! Nie wytrzymam!
+Dialogue: 0,0:10:01.69,0:10:03.21,Default,,0,0,0,,{\be1}Nigdy nie było mi tak dobrze!
+Dialogue: 0,0:10:18.90,0:10:20.65,Default,,0,0,0,,{\be1}Co ty odwalasz?!
+Dialogue: 0,0:10:21.62,0:10:25.39,Default,,0,0,0,,{\be1}To najlepsza metoda na trującą mgłę.
+Dialogue: 0,0:10:25.39,0:10:28.71,Default,,0,0,0,,{\be1}A, to ty.\NJaka trująca mgła?
+Dialogue: 0,0:10:28.71,0:10:30.88,Default,,0,0,0,,{\be1}Mało brakowało.
+Dialogue: 0,0:10:30.88,0:10:35.52,Default,,0,0,0,,{\be1}Tak to się kończy, gdy nie myślicie.
+Dialogue: 0,0:10:35.52,0:10:36.53,Default,,0,0,0,,{\be1}A gdzie Keeth?
+Dialogue: 0,0:10:36.53,0:10:38.17,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:10:38.17,0:10:47.16,Default,,0,0,0,,{\be1}Poszedłem za wami i znalazłem cię\Nnieprzytomnego na tamtym dziedzińcu.
+Dialogue: 0,0:10:47.83,0:10:52.01,Default,,0,0,0,,{\be1}Ale nikogo innego nie widziałem.
+Dialogue: 0,0:10:52.56,0:10:54.16,Default,,0,0,0,,{\be1}Nawet Spici?
+Dialogue: 0,0:10:55.33,0:10:58.89,Default,,0,0,0,,{\be1}To ona była z wami?
+Dialogue: 0,0:10:58.89,0:11:03.10,Default,,0,0,0,,{\be1}Nikogo i niczego tam nie było, żadnego skarbu.
+Dialogue: 0,0:11:03.10,0:11:06.02,Default,,0,0,0,,{\be1}Nie po to tam poszliśmy.
+Dialogue: 0,0:11:06.98,0:11:09.81,Default,,0,0,0,,{\be1}Nie szliście za skarbem?!
+Dialogue: 0,0:11:10.45,0:11:14.61,Default,,0,0,0,,{\be1}To po co poszliście do tych ruin?
+Dialogue: 0,0:11:15.51,0:11:17.13,Default,,0,0,0,,{\be1}Jakich ruin?
+Dialogue: 0,0:11:26.77,0:11:29.59,Default,,0,0,0,,{\be1}Co tu się dzieje?
+Dialogue: 0,0:11:57.36,0:12:03.41,Default,,0,0,0,,{\be1}Tak! Cudownie! Mocniej! Spuść się!
+Dialogue: 0,0:12:17.83,0:12:22.10,Default,,0,0,0,,{\be1}Chcesz powiedzieć, że Keeth i Spica\Nzostali uwięzieni w innym wymiarze?
+Dialogue: 0,0:12:23.35,0:12:28.14,Default,,0,0,0,,{\be1}Tak, nie ma po nich śladu.\NTo jedyne wytłumaczenie.
+Dialogue: 0,0:12:31.16,0:12:33.21,Default,,0,0,0,,{\be1}Jakoś nie wierzę.
+Dialogue: 0,0:12:35.48,0:12:38.64,Default,,0,0,0,,{\be1}Wierz sobie w co chcesz.
+Dialogue: 0,0:12:38.64,0:12:49.41,Default,,0,0,0,,{\be1}Słyszałem, że dawno temu trująca mgła\Nwyleciała spod ziemi i zniszczyła tę wioskę.
+Dialogue: 0,0:12:50.55,0:13:03.01,Default,,0,0,0,,{\be1}Od tamtej pory podróżnicy,\Nktórzy tu wejdą giną w męczarniach.
+Dialogue: 0,0:13:05.50,0:13:09.02,Default,,0,0,0,,{\be1}Podobno przed śmiercią mówią...
+Dialogue: 0,0:13:09.02,0:13:13.23,Default,,0,0,0,,{\be1}Tak mi dobrze jakbym śnił.
+Dialogue: 0,0:13:13.23,0:13:15.64,Default,,0,0,0,,{\be1}Cieszy mnie to.
+Dialogue: 0,0:13:24.42,0:13:26.37,Default,,0,0,0,,{\be1}To ty!
+Dialogue: 0,0:13:29.29,0:13:33.00,Default,,0,0,0,,{\be1}Każdy kto tu wejdzie zazna przyjemności.
+Dialogue: 0,0:13:33.00,0:13:41.09,Default,,0,0,0,,{\be1}Ale niezależnie ilu spotkam\Nnigdy nie jestem zaspokojona.
+Dialogue: 0,0:13:41.09,0:13:42.15,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:13:42.78,0:13:48.81,Default,,0,0,0,,{\be1}Pożyczyłam jej ciało, bo chciałam poczuć\Nprzyjemność i ból, którego nie zaznałam.
+Dialogue: 0,0:13:49.10,0:13:51.27,Default,,0,0,0,,{\be1}Pożyczyłaś?
+Dialogue: 0,0:13:51.27,0:13:59.37,Default,,0,0,0,,{\be1}Jej ciałem próbowałam poczuć\Nprzyjemność z tobą, ale to nic nie dało.
+Dialogue: 0,0:13:59.37,0:14:01.65,Default,,0,0,0,,{\be1}Czemu to robisz?
+Dialogue: 0,0:14:01.65,0:14:08.61,Default,,0,0,0,,{\be1}Urodziłam się w szlacheckiej rodzinie\Nprzez co niczego mi nie wolno było.
+Dialogue: 0,0:14:08.61,0:14:15.50,Default,,0,0,0,,{\be1}Zanim zaznałam wolności zostałam wydana\Nza mężczyznę, który okazał się pedałem.
+Dialogue: 0,0:14:15.50,0:14:21.98,Default,,0,0,0,,{\be1}Zamykał mnie w pokoju, a sam\Nzabawiał się z mężczyznami każdej nocy.
+Dialogue: 0,0:14:21.98,0:14:23.68,Default,,0,0,0,,{\be1}To okropne.
+Dialogue: 0,0:14:24.98,0:14:27.14,Default,,0,0,0,,{\be1}Na dodatek był chorobliwie zazdrosny.
+Dialogue: 0,0:14:27.14,0:14:30.16,Default,,0,0,0,,{\be1}Okładał mnie batem, jeśli chociaż\Nsłowem odezwałam się do mężczyzny.
+Dialogue: 0,0:14:30.16,0:14:37.07,Default,,0,0,0,,{\be1}Aż w końcu wrzucił mnie do piwnicy,\Nskuł w łańcuchy i utopił.
+Dialogue: 0,0:14:42.55,0:14:45.32,Default,,0,0,0,,{\be1}Czemu płaczesz?
+Dialogue: 0,0:14:45.88,0:14:49.33,Default,,0,0,0,,{\be1}Bo żal mi cię.\NChodź do mnie.
+Dialogue: 0,0:14:50.00,0:14:56.24,Default,,0,0,0,,{\be1}Wszyscy mężczyźni, którzy mnie poznali\Nze strachu błagali o wybaczenie.
+Dialogue: 0,0:14:56.24,0:15:00.84,Default,,0,0,0,,{\be1}Aż w końcu oszaleli i umarli.
+Dialogue: 0,0:15:02.54,0:15:04.42,Default,,0,0,0,,{\be1}Podaj mi rękę.
+Dialogue: 0,0:15:04.42,0:15:05.85,Default,,0,0,0,,{\be1}Nie mogę.
+Dialogue: 0,0:15:05.85,0:15:10.67,Default,,0,0,0,,{\be1}Możesz, wystarczy, że się postaramy.
+Dialogue: 0,0:15:18.30,0:15:19.44,Default,,0,0,0,,{\be1}To na nic.
+Dialogue: 0,0:15:20.60,0:15:21.94,Default,,0,0,0,,{\be1}Nie poddawaj się.
+Dialogue: 0,0:15:32.91,0:15:37.32,Default,,0,0,0,,{\be1}Niemożliwe, czuję ciepło.
+Dialogue: 0,0:15:38.71,0:15:40.59,Default,,0,0,0,,{\be1}Jesteś piękna.
+Dialogue: 0,0:15:51.62,0:15:52.43,Default,,0,0,0,,{\be1}Czuję cię!
+Dialogue: 0,0:15:55.51,0:15:57.07,Default,,0,0,0,,{\be1}Bądź delikatny.
+Dialogue: 0,0:16:00.15,0:16:01.53,Default,,0,0,0,,{\be1}Dotykasz mnie!
+Dialogue: 0,0:16:03.94,0:16:05.99,Default,,0,0,0,,{\be1}O rany, czuję cię!
+Dialogue: 0,0:16:09.57,0:16:11.12,Default,,0,0,0,,{\be1}Niech nie boli.
+Dialogue: 0,0:16:16.71,0:16:18.80,Default,,0,0,0,,{\be1}Nie przestawaj.
+Dialogue: 0,0:16:24.54,0:16:26.80,Default,,0,0,0,,{\be1}Szybciej!
+Dialogue: 0,0:16:32.25,0:16:33.51,Default,,0,0,0,,{\be1}Ja czuję!
+Dialogue: 0,0:16:46.46,0:16:50.86,Default,,0,0,0,,{\be1}Pierwszy raz to czuję!
+Dialogue: 0,0:17:03.17,0:17:07.40,Default,,0,0,0,,{\be1}Panienko, jak daleko chcesz jechać?
+Dialogue: 0,0:17:07.40,0:17:10.68,Default,,0,0,0,,{\be1}Nie wiem, ale jeszcze trochę.
+Dialogue: 0,0:17:10.68,0:17:12.19,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:17:13.82,0:17:16.68,Default,,0,0,0,,{\be1}Ten sztylet chce wrócić do właściciela.
+Dialogue: 0,0:17:24.97,0:17:28.86,Default,,0,0,0,,{\be1}Dziadku, jedź w stronę tamtego klifu.
+Dialogue: 0,0:17:28.86,0:17:31.11,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:17:43.91,0:17:45.53,Default,,0,0,0,,{\be1}Nie jesteś już duchem.
+Dialogue: 0,0:17:46.56,0:17:50.17,Default,,0,0,0,,{\be1}W końcu mogę odejść, dziękuję.
+Dialogue: 0,0:17:53.55,0:17:55.56,Default,,0,0,0,,{\be1}Co masz na myśli?
+Dialogue: 0,0:17:57.33,0:18:03.60,Default,,0,0,0,,{\be1}Musiałam odzyskać ciało, żeby złamać klątwę.
+Dialogue: 0,0:18:03.60,0:18:07.32,Default,,0,0,0,,{\be1}Inaczej nawiedzałbym\Nto miejsce w nieskończoność.
+Dialogue: 0,0:18:07.87,0:18:10.82,Default,,0,0,0,,{\be1}Ale teraz mogę odejść.
+Dialogue: 0,0:18:12.54,0:18:13.99,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:18:13.99,0:18:17.64,Default,,0,0,0,,{\be1}Przed odejściem powiesz jak się nazywasz?
+Dialogue: 0,0:18:18.77,0:18:20.03,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:18:20.89,0:18:23.67,Default,,0,0,0,,{\be1}Keeth Lyan, a ty?
+Dialogue: 0,0:18:24.29,0:18:28.38,Default,,0,0,0,,{\be1}Elise, nazwiska nie pamiętam.
+Dialogue: 0,0:18:29.11,0:18:31.38,Default,,0,0,0,,{\be1}Ładne imię.
+Dialogue: 0,0:18:45.93,0:18:50.53,Default,,0,0,0,,{\be1}Jak śmiesz po wszystkim co dla ciebie zrobiłam.
+Dialogue: 0,0:18:50.53,0:18:54.13,Default,,0,0,0,,{\be1}Ona nie jest tylko masażystką?
+Dialogue: 0,0:18:54.13,0:18:57.91,Default,,0,0,0,,{\be1}To demon, który wyrwał moją duszę z zaświatów.
+Dialogue: 0,0:18:57.91,0:18:59.24,Default,,0,0,0,,{\be1}Demon?
+Dialogue: 0,0:18:59.24,0:19:04.50,Default,,0,0,0,,{\be1}Przecież cały ten czas mnie wykorzystywałaś!
+Dialogue: 0,0:19:04.91,0:19:09.87,Default,,0,0,0,,{\be1}Tak ci źle, że zjadłam wszystkie ofiary?
+Dialogue: 0,0:19:09.87,0:19:10.71,Default,,0,0,0,,{\be1}Zjadła?!
+Dialogue: 0,0:19:25.54,0:19:33.76,Default,,0,0,0,,{\be1}I tak byli tylko przystawkami,\Ntwoje odrodzone ciało będzie daniem głównym!
+Dialogue: 0,0:19:35.36,0:19:40.59,Default,,0,0,0,,{\be1}Zjedzenie cię da mi wieczne życie!
+Dialogue: 0,0:19:40.59,0:19:42.59,Default,,0,0,0,,{\be1}To dlatego mnie sprowadziłaś.
+Dialogue: 0,0:19:46.10,0:19:52.76,Default,,0,0,0,,{\be1}Twoje nogi usmażę,\Nz mózgu i oczu zrobię deser...
+Dialogue: 0,0:19:52.76,0:19:55.55,Default,,0,0,0,,{\be1}Możesz pomarzyć!
+Dialogue: 0,0:20:01.76,0:20:02.77,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:20:06.69,0:20:11.10,Default,,0,0,0,,{\be1}Nie przeszkadzaj!\NPóźniej cię zjem!
+Dialogue: 0,0:20:11.10,0:20:15.65,Default,,0,0,0,,{\be1}Ale najpierw kogoś zarżnę.
+Dialogue: 0,0:20:16.33,0:20:17.65,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:20:20.09,0:20:24.10,Default,,0,0,0,,{\be1}Co to za wstrząsy?
+Dialogue: 0,0:20:24.10,0:20:27.00,Default,,0,0,0,,{\be1}Patrz, mgła się rozrzedza.
+Dialogue: 0,0:20:28.76,0:20:32.46,Default,,0,0,0,,{\be1}To dobrze, nie lubię masek.
+Dialogue: 0,0:20:40.65,0:20:44.39,Default,,0,0,0,,{\be1}Cholera, to ona!
+Dialogue: 0,0:20:45.56,0:20:48.37,Default,,0,0,0,,{\be1}Co za ruina.
+Dialogue: 0,0:20:49.68,0:20:51.43,Default,,0,0,0,,{\be1}Tam ktoś jest.
+Dialogue: 0,0:20:51.43,0:20:53.77,Default,,0,0,0,,{\be1}To tutaj.
+Dialogue: 0,0:20:54.70,0:20:56.93,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:21:01.28,0:21:04.28,Default,,0,0,0,,{\be1}Może tutaj?
+Dialogue: 0,0:21:05.67,0:21:09.00,Default,,0,0,0,,{\be1}Tak, to tutaj.
+Dialogue: 0,0:21:10.08,0:21:14.00,Default,,0,0,0,,{\be1}Czy to nie Ostrze Mroku Keetha?
+Dialogue: 0,0:21:14.00,0:21:15.00,Default,,0,0,0,,{\be1}Panienko?
+Dialogue: 0,0:21:25.01,0:21:26.27,Default,,0,0,0,,{\be1}Panienko.
+Dialogue: 0,0:21:44.68,0:21:48.29,Default,,0,0,0,,{\be1}Koniec zabawy, zdychaj!
+Dialogue: 0,0:21:52.17,0:21:53.50,Default,,0,0,0,,{\be1}Panienko!
+Dialogue: 0,0:22:03.68,0:22:05.01,Default,,0,0,0,,{\be1}Ostrze Mroku?!
+Dialogue: 0,0:22:11.64,0:22:13.89,Default,,0,0,0,,{\be1}Żryj to!
+Dialogue: 0,0:22:38.91,0:22:40.91,Default,,0,0,0,,{\be1}Co za moc.
+Dialogue: 0,0:22:40.91,0:22:43.18,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:22:45.66,0:22:49.18,Default,,0,0,0,,{\be1}Co ja zrobiłam?
+Dialogue: 0,0:22:52.87,0:22:54.58,Default,,0,0,0,,{\be1}Żegnaj, Keeth.
+Dialogue: 0,0:22:54.58,0:22:56.52,Default,,0,0,0,,{\be1}Żegnaj, Elise.
+Dialogue: 0,0:23:04.78,0:23:11.58,Default,,0,0,0,,{\be1}A właśnie, wiedziałeś, że ona cię kocha?
+Dialogue: 0,0:23:13.34,0:23:14.54,Default,,0,0,0,,{\be1}Spica?
+Dialogue: 0,0:23:20.80,0:23:23.66,Default,,0,0,0,,{\be1}Dziękuję, Keethcie Lyan.
+Dialogue: 0,0:23:28.21,0:23:30.95,Default,,0,0,0,,{\be1}Spica.
+Dialogue: 0,0:23:42.21,0:23:46.20,Default,,0,0,0,,{\be1}Więc Spica mnie kocha.
+Dialogue: 0,0:23:48.56,0:23:50.20,Default,,0,0,0,,{\be1}Keeth...
+Dialogue: 0,0:24:13.81,0:24:15.25,Default,,0,0,0,,{\be1}Keeth?
+Dialogue: 0,0:24:31.15,0:24:34.95,Default,,0,0,0,,{\be1}Czekałam na to!\NKeeth, kocham cię!
+Dialogue: 0,0:24:35.81,0:24:36.96,Default,,0,0,0,,{\be1}Spica...
+Dialogue: 0,0:24:44.78,0:24:46.47,Default,,0,0,0,,{\be1}Bądź delikatny.
+Dialogue: 0,0:24:48.74,0:24:51.15,Default,,0,0,0,,{\be1}Nie chcę, żeby bolało!
+Dialogue: 0,0:24:52.43,0:24:57.82,Default,,0,0,0,,{\be1}Nie martw się, jesteś taka mokra, że aż słychać.
+Dialogue: 0,0:24:57.82,0:25:02.12,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:25:12.61,0:25:14.55,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:25:19.21,0:25:22.99,Default,,0,0,0,,{\be1}To boli!\NNie drażnij się!
+Dialogue: 0,0:25:22.99,0:25:24.66,Default,,0,0,0,,{\be1}Nie przestawaj.
+Dialogue: 0,0:25:27.51,0:25:31.37,Default,,0,0,0,,{\be1}Jaki duży!\NRozerwiesz mnie!
+Dialogue: 0,0:25:45.67,0:25:47.79,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:25:59.95,0:26:01.17,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:26:02.56,0:26:04.59,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:26:11.93,0:26:17.09,Default,,0,0,0,,{\be1}Gdzie się podziewają Keeth i Spica?
+Dialogue: 0,0:26:17.09,0:26:20.23,Default,,0,0,0,,{\be1}Kiedyś się pokażą.
+Dialogue: 0,0:26:20.58,0:26:22.27,Default,,0,0,0,,{\be1}Panienko, jedźmy.
+Dialogue: 0,0:26:36.50,0:26:41.59,Default,,0,0,0,,{\be1}Przecież to mój anioł.

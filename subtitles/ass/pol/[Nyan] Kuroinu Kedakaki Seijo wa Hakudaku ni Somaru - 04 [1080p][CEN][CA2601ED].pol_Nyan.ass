@@ -1,0 +1,251 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.743
+Title: Nyan
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Original Script: kostek00
+YCbCr Matrix: TV.601
+Last Style Storage: [1920x1080]
+Video Zoom Percent: 0.375000
+Video Position: 475
+Collisions: Normal
+Active Line: 0
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (i),Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (top),Franklin Gothic Medium,58.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,8,20,20,23,1
+Style: Grupa,Franklin Gothic Medium,36.5,&H00FFFFFF,&H000000FF,&H78FEE5FF,&H00000000,-1,-1,0,0,100,100,0,0,1,2.4,0,7,27,10,23,1
+Style: Anime,Franklin Gothic Medium,120,&H00FFFFFF,&H000000FF,&H78FEE5FF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,20,1
+Style: Tytul,Franklin Gothic Medium,69,&H00EEBBEA,&H000000FF,&H78FEE5FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,35,20,52,1
+Style: Znak,Franklin Gothic Medium,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:34.05,0:00:38.47,Grupa,,0,0,0,,{\blur10}Nyan
+Dialogue: 0,0:00:34.05,0:00:38.47,Anime,,0,0,0,,{\blur10\fad(147,0)}Kuroinu
+Dialogue: 0,0:00:34.05,0:00:38.47,Anime,,0,0,0,,{\pos(979,767)\blur10\fad(147,0)\fs57\1c&HD3ACD6&\3a&HDC&}Kedakaki Seijo wa Hakudaku ni Somaru
+Dialogue: 0,0:00:34.05,0:00:38.47,Tytul,,0,0,0,,{\blur10}Claudia i Celestine: ojciec i córka, upadek bogini
+Dialogue: 0,0:00:01.60,0:00:07.82,Default,,0,0,0,,{\be1}Muszę odpokutować za rozpoczęcie tej wojny.
+Dialogue: 0,0:00:09.21,0:00:14.23,Default,,0,0,0,,{\be1}Zwracam się do wszystkich,\Nktórzy we mnie wierzyli.
+Dialogue: 0,0:00:15.78,0:00:21.70,Default,,0,0,0,,{\be1}Jeżeli ma to wam ulżyć choć odrobinę, to...
+Dialogue: 0,0:00:24.94,0:00:30.24,Default,,0,0,0,,{\be1}Weźcie mnie.
+Dialogue: 0,0:00:39.54,0:00:45.77,Default (i),,0,0,0,,{\be1}Vault, przywódca najemników zwanych\NCzarne Bestie utworzył królestwo niewolników.
+Dialogue: 0,0:00:46.87,0:00:54.98,Default (i),,0,0,0,,{\be1}Wszystkie kobiety w królestwie\Nmają służyć jako niewolnice seksualne.
+Dialogue: 0,0:00:59.40,0:01:02.22,Default,,0,0,0,,{\be1}Tutaj wszystko się skończy.
+Dialogue: 0,0:01:02.22,0:01:07.46,Default,,0,0,0,,{\be1}Wystarczy, że pokonam rycerza Claudię,\Na bogini będzie bezbronna.
+Dialogue: 0,0:01:10.04,0:01:13.51,Default,,0,0,0,,{\be1}Dlaczego to robisz?
+Dialogue: 0,0:01:17.06,0:01:18.72,Default,,0,0,0,,{\be1}Dlaczego ty?
+Dialogue: 0,0:01:40.13,0:01:42.14,Default,,0,0,0,,{\be1}Dlaczego nas zdradziłeś?
+Dialogue: 0,0:01:43.72,0:01:45.33,Default,,0,0,0,,{\be1}Generale Grahf.
+Dialogue: 0,0:01:46.88,0:01:50.24,Default,,0,0,0,,{\be1}Ojcze!
+Dialogue: 0,0:01:53.30,0:01:57.50,Default,,0,0,0,,{\be1}Claudia, urodzisz mi dziecko.
+Dialogue: 0,0:02:02.68,0:02:05.30,Default,,0,0,0,,{\be1}Co powiedziałeś?
+Dialogue: 0,0:02:05.30,0:02:08.91,Default,,0,0,0,,{\be1}To rozkaz, urodzisz mi dziecko.
+Dialogue: 0,0:02:08.91,0:02:10.06,Default,,0,0,0,,{\be1}Nie zgadzam się!
+Dialogue: 0,0:02:10.48,0:02:13.42,Default,,0,0,0,,{\be1}Czy ty w ogóle rozumiesz co mówisz?
+Dialogue: 0,0:02:13.42,0:02:16.65,Default,,0,0,0,,{\be1}Prędzej się zabiję!
+Dialogue: 0,0:02:16.65,0:02:19.76,Default,,0,0,0,,{\be1}Jestem żoną Klausa!
+Dialogue: 0,0:02:19.76,0:02:24.49,Default,,0,0,0,,{\be1}Nie potrzebuję bezdzietnego syna.
+Dialogue: 0,0:02:24.94,0:02:27.41,Default,,0,0,0,,{\be1}Pojmałeś własnego syna?
+Dialogue: 0,0:02:27.41,0:02:36.21,Default,,0,0,0,,{\be1}Naszym obowiązkiem\Njest podtrzymanie linii rodu.
+Dialogue: 0,0:02:37.56,0:02:41.47,Default,,0,0,0,,{\be1}Nie wierzę, nie rób tego!
+Dialogue: 0,0:02:43.39,0:02:45.97,Default,,0,0,0,,{\be1}Zrobię to! Urodzisz mi dziecko!
+Dialogue: 0,0:02:45.97,0:02:48.25,Default,,0,0,0,,{\be1}Jesteś teraz moja!
+Dialogue: 0,0:02:56.08,0:02:57.36,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:02:58.46,0:03:01.36,Default,,0,0,0,,{\be1}Należysz do mnie!
+Dialogue: 0,0:03:07.75,0:03:09.58,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:03:12.14,0:03:14.84,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:03:16.03,0:03:23.14,Default,,0,0,0,,{\be1}Patrz, włożyłem całego kutasa!
+Dialogue: 0,0:03:30.08,0:03:38.07,Default (i),,0,0,0,,{\be1}Wychowywał mnie jak nauczyciel i przybrany ojciec,\Nsurowo ale z miłością abym wyrosła na rycerza.
+Dialogue: 0,0:03:39.39,0:03:44.07,Default (i),,0,0,0,,{\be1}Co doprowadziło go do szaleństwa?
+Dialogue: 0,0:03:44.07,0:03:45.91,Default,,0,0,0,,{\be1}Patrz.
+Dialogue: 0,0:03:46.87,0:03:49.74,Default,,0,0,0,,{\be1}Nie obchodzi cię los męża?
+Dialogue: 0,0:03:49.74,0:03:51.36,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:03:51.36,0:03:55.84,Default,,0,0,0,,{\be1}Patrz albo spuszczę się w tobie!
+Dialogue: 0,0:04:01.29,0:04:05.95,Default (i),,0,0,0,,{\be1}Kutas ojca jest we mnie.
+Dialogue: 0,0:04:09.29,0:04:11.22,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:04:12.16,0:04:18.30,Default,,0,0,0,,{\be1}Zobaczysz jak spuszczę się w tobie!
+Dialogue: 0,0:04:19.65,0:04:23.32,Default,,0,0,0,,{\be1}Mówiłeś, że się nie spuścisz, jeśli spojrzę!
+Dialogue: 0,0:04:23.32,0:04:29.65,Default,,0,0,0,,{\be1}Zaraz skończę i spróbuję dosięgnąć samego łona!
+Dialogue: 0,0:04:29.65,0:04:30.83,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:04:31.24,0:04:33.81,Default,,0,0,0,,{\be1}Błagam, wyjmij!
+Dialogue: 0,0:04:33.81,0:04:35.68,Default,,0,0,0,,{\be1}Nie spuszczaj się we mnie!
+Dialogue: 0,0:04:36.83,0:04:42.80,Default,,0,0,0,,{\be1}Zapłodnię cię i urodzisz mi dziecko!
+Dialogue: 0,0:04:43.30,0:04:48.35,Default,,0,0,0,,{\be1}Nie! Ojcze, nie rób tego!
+Dialogue: 0,0:04:48.35,0:04:56.66,Default (i),,0,0,0,,{\be1}Nie chcę nasienia nikogo poza Klausa!
+Dialogue: 0,0:04:59.34,0:05:01.70,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:05:11.41,0:05:16.71,Default (i),,0,0,0,,{\be1}Nasienie ojca wlatuje we mnie!
+Dialogue: 0,0:05:18.09,0:05:19.75,Default,,0,0,0,,{\be1}Jak mogłeś?
+Dialogue: 0,0:05:20.11,0:05:25.52,Default (i),,0,0,0,,{\be1}Ktoś inny niż mój mąż spuścił się we mnie.
+Dialogue: 0,0:05:25.52,0:05:28.49,Default (i),,0,0,0,,{\be1}Na dodatek jego własny ojciec.
+Dialogue: 0,0:05:32.32,0:05:35.77,Default (i),,0,0,0,,{\be1}Kochanie, wybacz mi.
+Dialogue: 0,0:05:41.98,0:05:45.49,Default,,0,0,0,,{\be1}Chyba nie myślisz, że to koniec?
+Dialogue: 0,0:05:46.04,0:05:49.13,Default,,0,0,0,,{\be1}Czujesz mojego kutasa?
+Dialogue: 0,0:05:49.13,0:05:50.99,Default,,0,0,0,,{\be1}Rozpłaczesz się teraz?
+Dialogue: 0,0:05:52.43,0:05:54.22,Default,,0,0,0,,{\be1}Odpowiedz!
+Dialogue: 0,0:05:54.22,0:05:56.28,Default,,0,0,0,,{\be1}Skoro masz zamiar milczeć...
+Dialogue: 0,0:05:57.79,0:05:59.38,Default,,0,0,0,,{\be1}Jest twardy.
+Dialogue: 0,0:06:00.52,0:06:02.07,Default,,0,0,0,,{\be1}Twój...
+Dialogue: 0,0:06:03.82,0:06:06.63,Default,,0,0,0,,{\be1}Twój kutas nadal stoi!
+Dialogue: 0,0:06:07.74,0:06:12.64,Default,,0,0,0,,{\be1}Tak cię zadowolę,\Nże nie będziesz chciała mego syna!
+Dialogue: 0,0:06:23.16,0:06:25.94,Default (i),,0,0,0,,{\be1}Muszę wytrzymać.
+Dialogue: 0,0:06:35.47,0:06:37.24,Default (i),,0,0,0,,{\be1}Co ja wyprawiam?
+Dialogue: 0,0:06:37.24,0:06:40.04,Default (i),,0,0,0,,{\be1}Podniecam się?
+Dialogue: 0,0:06:43.26,0:06:48.27,Default (i),,0,0,0,,{\be1}Wkłada go tak głęboko we mnie.
+Dialogue: 0,0:06:53.29,0:06:54.39,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:06:54.75,0:06:56.43,Default,,0,0,0,,{\be1}Wiedziałem.
+Dialogue: 0,0:06:56.43,0:07:02.15,Default,,0,0,0,,{\be1}Choć jesteś mężatką to i tak sprawia ci to przyjemność.
+Dialogue: 0,0:07:02.15,0:07:06.94,Default,,0,0,0,,{\be1}Pokażę ci prawdziwą przyjemność jaką możesz zaznać!
+Dialogue: 0,0:07:09.95,0:07:15.21,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:07:19.20,0:07:22.57,Default (i),,0,0,0,,{\be1}Nie chcę czuć przyjemności od niego!
+Dialogue: 0,0:07:25.48,0:07:28.15,Default (i),,0,0,0,,{\be1}Co się ze mną dzieje?
+Dialogue: 0,0:07:29.17,0:07:34.63,Default,,0,0,0,,{\be1}Zaraz znowu spuszczę się w środku!
+Dialogue: 0,0:07:34.63,0:07:36.68,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:07:37.30,0:07:41.98,Default (i),,0,0,0,,{\be1}Nie może się więcej spuścić!\NJuż i tak jestem zapełniona!
+Dialogue: 0,0:07:55.56,0:08:02.38,Default,,0,0,0,,{\be1}Oto jak skończył rycerz, który miał chronić boginię.
+Dialogue: 0,0:08:04.06,0:08:08.30,Default,,0,0,0,,{\be1}Przez ciebie widownia się podnieciła.
+Dialogue: 0,0:08:15.00,0:08:16.26,Default,,0,0,0,,{\be1}Kochanie?
+Dialogue: 0,0:08:18.12,0:08:19.27,Default,,0,0,0,,{\be1}Ja...
+Dialogue: 0,0:08:24.12,0:08:25.24,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:25.24,0:08:30.32,Default,,0,0,0,,{\be1}Mój syn popatrzy sobie jak cię zapładniam.
+Dialogue: 0,0:08:30.83,0:08:33.07,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:38.54,0:08:45.54,Default,,0,0,0,,{\be1}Czuję czubkiem kutasa jak twoje łono mnie wita!
+Dialogue: 0,0:08:50.22,0:08:54.20,Default (i),,0,0,0,,{\be1}Kochanie, nie patrz.
+Dialogue: 0,0:08:55.15,0:08:59.43,Default,,0,0,0,,{\be1}Jesteś tylko moja!
+Dialogue: 0,0:08:59.43,0:09:02.97,Default,,0,0,0,,{\be1}Nigdy nie będę twoja!
+Dialogue: 0,0:09:02.97,0:09:05.93,Default,,0,0,0,,{\be1}Możesz mu to przyrzec?
+Dialogue: 0,0:09:06.52,0:09:08.04,Default (i),,0,0,0,,{\be1}Ma rację.
+Dialogue: 0,0:09:08.04,0:09:16.53,Default (i),,0,0,0,,{\be1}Czy w takiej sytuacji uwierzy mi?
+Dialogue: 0,0:09:31.24,0:09:34.15,Default (i),,0,0,0,,{\be1}Coś się dzieje.
+Dialogue: 0,0:09:36.84,0:09:41.71,Default (i),,0,0,0,,{\be1}Nie wierzę, zaraz będę mieć orgazm.
+Dialogue: 0,0:09:42.97,0:09:44.79,Default (i),,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:09:44.79,0:09:48.98,Default (i),,0,0,0,,{\be1}Nie chcę dojść, gdy on patrzy!
+Dialogue: 0,0:09:48.98,0:09:56.45,Default,,0,0,0,,{\be1}Patrz jak twoja żona zachodzi\Nw ciążę dla naszego rodu!
+Dialogue: 0,0:09:56.93,0:10:02.95,Default (i),,0,0,0,,{\be1}Nie patrz na mój orgazm,\Ngdy będzie mnie zapładniał!
+Dialogue: 0,0:10:02.95,0:10:09.58,Default,,0,0,0,,{\be1}Nie! Ojcze, wyjmij go!
+Dialogue: 0,0:10:09.58,0:10:13.34,Default (i),,0,0,0,,{\be1}Nie chcę jego dziecka!
+Dialogue: 0,0:10:13.34,0:10:19.02,Default,,0,0,0,,{\be1}Nie wypuszczaj we mnie swojego nasienia!
+Dialogue: 0,0:10:20.26,0:10:25.85,Default (i),,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:10:26.52,0:10:32.86,Default (i),,0,0,0,,{\be1}Znowu dochodzę!
+Dialogue: 0,0:11:10.35,0:11:11.98,Default,,0,0,0,,{\be1}To koniec.
+Dialogue: 0,0:11:11.98,0:11:15.57,Default,,0,0,0,,{\be1}Od teraz będziesz służyć mężczyznom.
+Dialogue: 0,0:11:15.57,0:11:18.93,Default,,0,0,0,,{\be1}Nieważne co się ze mną stanie, ale...
+Dialogue: 0,0:11:19.56,0:11:24.33,Default,,0,0,0,,{\be1}Nadal będziesz zajmować pozycję bogini.
+Dialogue: 0,0:11:24.69,0:11:33.33,Default,,0,0,0,,{\be1}Bogini służąca mężczyznom\Nbędzie znacznie cenniejsza.
+Dialogue: 0,0:11:33.33,0:11:42.34,Default,,0,0,0,,{\be1}Wszyscy mężczyźni będą błagać,\Nżeby móc cię dotknąć.
+Dialogue: 0,0:11:43.70,0:11:49.73,Default,,0,0,0,,{\be1}Idealnie nadasz się na najlepszą niewolnicę.
+Dialogue: 0,0:11:50.89,0:11:56.36,Default,,0,0,0,,{\be1}Podobno możemy mieć je na własność,\Njeśli będziemy mieć wystarczająco kasy.
+Dialogue: 0,0:11:56.36,0:11:58.05,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:11:58.86,0:12:02.82,Default,,0,0,0,,{\be1}Nowe królestwo może nie być takie złe.
+Dialogue: 0,0:12:09.90,0:12:16.46,Default,,0,0,0,,{\be1}Masz dotrzymać obietnicy\Ni wypuścić królową, jeśli wytrzymam!
+Dialogue: 0,0:12:16.46,0:12:19.23,Default,,0,0,0,,{\be1}Oczywiście, zastanowię się.
+Dialogue: 0,0:12:19.23,0:12:24.97,Default,,0,0,0,,{\be1}Tylko jak długo zdołasz to wytrzymać?
+Dialogue: 0,0:12:24.97,0:12:29.68,Default,,0,0,0,,{\be1}Ale dla niewolnicy masochistki to pewnie za mało.
+Dialogue: 0,0:12:29.68,0:12:34.85,Default (i),,0,0,0,,{\be1}Nie jestem już niewolnicą!
+Dialogue: 0,0:12:37.50,0:12:42.19,Default (i),,0,0,0,,{\be1}Muszę to wytrzymać dla królowej.
+Dialogue: 0,0:12:44.47,0:12:50.05,Default (i),,0,0,0,,{\be1}To moja paskudna przeszłość.
+Dialogue: 0,0:12:51.20,0:12:55.41,Default (i),,0,0,0,,{\be1}Dlaczego teraz sobie o niej przypominam?
+Dialogue: 0,0:13:15.47,0:13:19.57,Default,,0,0,0,,{\be1}To twój ulubiony zapach.
+Dialogue: 0,0:13:20.49,0:13:22.00,Default (i),,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:13:22.00,0:13:29.07,Default (i),,0,0,0,,{\be1}Śmierdzi, ale i tak chcę go mocniej poczuć.
+Dialogue: 0,0:13:33.99,0:13:38.83,Default,,0,0,0,,{\be1}Coś kiepsko ci poszło, dziwko.
+Dialogue: 0,0:13:40.80,0:13:43.84,Default,,0,0,0,,{\be1}Jestem dziwką.
+Dialogue: 0,0:13:50.78,0:13:51.83,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:14:00.24,0:14:01.82,Default (i),,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:14:02.35,0:14:06.36,Default (i),,0,0,0,,{\be1}Jestem rycerzem królowej!
+Dialogue: 0,0:14:06.90,0:14:12.33,Default (i),,0,0,0,,{\be1}Nie jestem niczyją niewolnicą!
+Dialogue: 0,0:14:22.67,0:14:26.69,Default (i),,0,0,0,,{\be1}Moje ciało przejmuje pożądanie.
+Dialogue: 0,0:14:26.69,0:14:31.60,Default (i),,0,0,0,,{\be1}Jestem niewyżytą dziwką!
+Dialogue: 0,0:14:58.19,0:15:00.41,Default,,0,0,0,,{\be1}Spodobało ci się.
+Dialogue: 0,0:15:00.41,0:15:05.74,Default,,0,0,0,,{\be1}Im więcej bólu czujesz,\Ntym jest ci przyjemniej.
+Dialogue: 0,0:15:05.74,0:15:08.22,Default,,0,0,0,,{\be1}Ktoś cię dobrze wytrenował.
+Dialogue: 0,0:15:33.56,0:15:37.64,Default,,0,0,0,,{\be1}Jestem rozpalona.
+Dialogue: 0,0:15:37.64,0:15:44.52,Default,,0,0,0,,{\be1}Normalnie człowiek nie dotknąłby mojej cipki,\Nale dzisiaj mam dobry humor.
+Dialogue: 0,0:15:44.52,0:15:51.01,Default,,0,0,0,,{\be1}Pieprzcie mnie aż rozwalicie mi cipkę.
+Dialogue: 0,0:15:52.88,0:15:55.01,Default,,0,0,0,,{\be1}Niezła sztuka.
+Dialogue: 0,0:15:56.00,0:16:00.48,Default,,0,0,0,,{\be1}Daliśmy za ciebie sporo kasy,\Nnie będziesz decydować kiedy cię weźmiemy!
+Dialogue: 0,0:16:08.24,0:16:10.37,Default,,0,0,0,,{\be1}Ledwo włożyłem, a już doszła!
+Dialogue: 0,0:16:11.94,0:16:16.45,Default,,0,0,0,,{\be1}Chcesz jeszcze jednego, nie?
+Dialogue: 0,0:16:22.61,0:16:28.00,Default,,0,0,0,,{\be1}Doszła jak tylko zaczęła obciągać,\Nco za puszczalska królowa.
+Dialogue: 0,0:16:28.00,0:16:30.14,Default,,0,0,0,,{\be1}Królowa suka!
+Dialogue: 0,0:16:30.14,0:16:32.51,Default,,0,0,0,,{\be1}Dam ci tyle orgazmów ile mogę!
+Dialogue: 0,0:16:46.55,0:16:47.83,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:16:55.85,0:16:58.16,Default,,0,0,0,,{\be1}Dojdę od sutków!
+Dialogue: 0,0:16:59.53,0:17:01.05,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:17:03.72,0:17:06.37,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:17:16.26,0:17:22.44,Default,,0,0,0,,{\be1}Spuszczę się w środku, kurewska królowo!
+Dialogue: 0,0:17:43.69,0:17:48.36,Default,,0,0,0,,{\be1}Mroczna Królowa stała się\Nzwykła, puszczalską mroczną elfką!
+Dialogue: 0,0:17:48.36,0:17:51.02,Default,,0,0,0,,{\be1}Kutasa!
+Dialogue: 0,0:17:56.20,0:18:01.17,Default,,0,0,0,,{\be1}Drodzy mieszkańcy, od dzisiaj\Nzamek jest okupowany przez Czarne Bestie.
+Dialogue: 0,0:18:01.17,0:18:03.10,Default,,0,0,0,,{\be1}Przegraliśmy.
+Dialogue: 0,0:18:05.45,0:18:10.11,Default,,0,0,0,,{\be1}Wybaczcie mi moją bezsilność.
+Dialogue: 0,0:18:10.11,0:18:15.11,Default,,0,0,0,,{\be1}Nad naszym krajem zawisły ciemne chmury.
+Dialogue: 0,0:18:15.11,0:18:21.91,Default,,0,0,0,,{\be1}Muszę odpokutować za rozpoczęcie tej wojny.
+Dialogue: 0,0:18:29.46,0:18:36.47,Default,,0,0,0,,{\be1}Proszę was byście wytrwali to co nas czeka.
+Dialogue: 0,0:18:43.92,0:18:47.43,Default,,0,0,0,,{\be1}Pora pokazać co ich czeka.
+Dialogue: 0,0:18:48.36,0:18:53.44,Default,,0,0,0,,{\be1}Tu zaczyna się wspaniała przyszłość Czarnych Bestii.
+Dialogue: 0,0:18:54.94,0:18:58.65,Default,,0,0,0,,{\be1}A rozpocznie ją stracona czystość bogini!
+Dialogue: 0,0:19:04.75,0:19:11.17,Default,,0,0,0,,{\be1}Jakie to uczucie stać się\Nkobietą na oczach poddanych?
+Dialogue: 0,0:19:13.40,0:19:16.67,Default,,0,0,0,,{\be1}Nie martw się, wkrótce będzie ci przyjemnie.
+Dialogue: 0,0:19:17.17,0:19:20.80,Default,,0,0,0,,{\be1}Masz coś jeszcze do powiedzenia mieszkańcom, nie?
+Dialogue: 0,0:19:21.58,0:19:25.93,Default,,0,0,0,,{\be1}Moje chłopaki niecierpliwią się!
+Dialogue: 0,0:19:32.10,0:19:40.30,Default,,0,0,0,,{\be1}Patrzcie jak skończyła przegrana bogini!
+Dialogue: 0,0:19:45.90,0:19:54.00,Default,,0,0,0,,{\be1}Od dzisiaj kobiety muszą zadowalać mężczyzn!
+Dialogue: 0,0:19:55.92,0:19:58.17,Default,,0,0,0,,{\be1}Nie będzie żadnych wyjątków.
+Dialogue: 0,0:19:58.17,0:20:02.13,Default,,0,0,0,,{\be1}Ja również będę to robić.
+Dialogue: 0,0:20:48.56,0:20:55.30,Default,,0,0,0,,{\be1}Wszyscy mieszkańcy powinni poczuć twoją pokutę.
+Dialogue: 0,0:21:02.15,0:21:07.39,Default,,0,0,0,,{\be1}Zwracam się do wszystkich,\Nktórzy we mnie wierzyli.
+Dialogue: 0,0:21:07.39,0:21:14.70,Default,,0,0,0,,{\be1}Jeżeli ma to wam ulżyć\Nchoć odrobinę, to weźcie mnie.
+Dialogue: 0,0:21:27.41,0:21:29.13,Default,,0,0,0,,{\be1}Bogini!
+Dialogue: 0,0:21:32.99,0:21:36.33,Default,,0,0,0,,{\be1}Naprawdę go włożyłem!
+Dialogue: 0,0:21:36.33,0:21:38.94,Default,,0,0,0,,{\be1}Nigdy nie myślałem, że będę cię pieprzyć!
+Dialogue: 0,0:21:45.38,0:21:48.41,Default,,0,0,0,,{\be1}Bogini, złap go.
+Dialogue: 0,0:21:49.71,0:21:52.83,Default,,0,0,0,,{\be1}Samym trzymaniem nic nie zrobisz.
+Dialogue: 0,0:21:52.83,0:21:55.87,Default,,0,0,0,,{\be1}Zacznij go trzepać, tylko z życiem!
+Dialogue: 0,0:21:57.00,0:22:00.18,Default,,0,0,0,,{\be1}Czy tak jest dobrze?
+Dialogue: 0,0:22:01.92,0:22:05.45,Default,,0,0,0,,{\be1}Bogini wali mi konia!
+Dialogue: 0,0:22:05.45,0:22:07.60,Default,,0,0,0,,{\be1}To chyba sen!
+Dialogue: 0,0:22:13.58,0:22:15.89,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:22:25.02,0:22:27.30,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:22:40.88,0:22:46.07,Default,,0,0,0,,{\be1}Bogini, chcę włożyć między twoje cycki!
+Dialogue: 0,0:22:48.89,0:22:50.18,Default,,0,0,0,,{\be1}W ten sposób?
+Dialogue: 0,0:22:51.45,0:22:54.27,Default,,0,0,0,,{\be1}Jakie one cudowne!
+Dialogue: 0,0:23:02.07,0:23:07.19,Default,,0,0,0,,{\be1}Celestine, powiedz co masz między cyckami.
+Dialogue: 0,0:23:08.30,0:23:11.16,Default,,0,0,0,,{\be1}To męskie...
+Dialogue: 0,0:23:12.18,0:23:14.16,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:23:16.64,0:23:19.70,Default,,0,0,0,,{\be1}To penis!
+Dialogue: 0,0:23:19.70,0:23:22.99,Default,,0,0,0,,{\be1}Gorący, duży penis!
+Dialogue: 0,0:23:31.55,0:23:34.89,Default,,0,0,0,,{\be1}Wciąga mnie! Jak dobrze!
+Dialogue: 0,0:23:39.78,0:23:41.17,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:23:50.04,0:23:53.99,Default,,0,0,0,,{\be1}Jesteś szczęśliwa,\Nże możesz służyć tylu mężczyznom?
+Dialogue: 0,0:23:55.87,0:23:56.84,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:23:59.26,0:24:07.78,Default,,0,0,0,,{\be1}W tym kraju to wasz obowiązek\Ni prawdziwe pragnienie.
+Dialogue: 0,0:24:14.76,0:24:17.91,Default,,0,0,0,,{\be1}Nie piersi!
+Dialogue: 0,0:24:19.27,0:24:24.16,Default,,0,0,0,,{\be1}Czuję je!\NWasze penisy są przyjemne!
+Dialogue: 0,0:24:27.52,0:24:31.53,Default,,0,0,0,,{\be1}Wylatuje mi mleko!
+Dialogue: 0,0:26:14.14,0:26:17.99,Default (i),,0,0,0,,{\be1}Penisy... Duże penisy...
+Dialogue: 0,0:26:19.20,0:26:22.51,Default,,0,0,0,,{\be1}Masz takie cudowne włosy!
+Dialogue: 0,0:26:24.25,0:26:26.56,Default,,0,0,0,,{\be1}Uwielbiam duże cycki!
+Dialogue: 0,0:26:26.56,0:26:29.58,Default,,0,0,0,,{\be1}Twoja wielka dupa chce więcej uwagi!
+Dialogue: 0,0:26:50.12,0:26:53.08,Default (i),,0,0,0,,{\be1}Penisy...
+Dialogue: 0,0:26:55.00,0:27:02.05,Default (i),,0,0,0,,{\be1}Są takie duże, twarde i wchodzą tak głęboko!
+Dialogue: 0,0:27:03.66,0:27:07.26,Default (i),,0,0,0,,{\be1}Uwielbiam wszystkie penisy.
+Dialogue: 0,0:27:07.26,0:27:14.71,Default (i),,0,0,0,,{\be1}Penisy!
+Dialogue: 0,0:27:16.61,0:27:20.29,Default (i),,0,0,0,,{\be1}Penisy!
+Dialogue: 0,0:27:22.40,0:27:24.28,Default (i),,0,0,0,,{\be1}Penisy!
+Dialogue: 0,0:27:27.45,0:27:29.62,Default (i),,0,0,0,,{\be1}Penisy!
+Dialogue: 0,0:27:50.93,0:27:56.73,Default (i),,0,0,0,,{\be1}Dobry początek dla tego kraju.
+Dialogue: 0,0:28:01.27,0:28:09.09,Default (i),,0,0,0,,{\be1}Ale moja walka nie skończy się,\Ndopóki będzie co ukraść.
+Dialogue: 0,0:28:10.08,0:28:23.51,Default,,0,0,0,,{\be1}Ja, Celestine Lucullus, reinkarnacja bogini Laurentii,\Nogłaszam włączenie do kraju niewolników.

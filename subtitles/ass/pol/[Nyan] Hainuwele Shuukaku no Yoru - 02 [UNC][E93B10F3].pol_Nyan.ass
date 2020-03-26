@@ -1,0 +1,268 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.754
+Title: Nyan
+Original Script: kostek00
+ScriptType: 4.00+
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Last Style Storage: Default
+Active Line: 0
+Collisions: Normal
+ScaledBorderAndShadow: yes
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H001323BE,&H000000FF,&H00E0E0E8,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,7,10,10,8,1
+Style: Anime,Franklin Gothic Medium,42,&H001323BE,&H000000FF,&H00E0E0E8,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,40,&H00F4E4FF,&H000000FF,&HFF300F62,&H00300F62,0,0,0,0,100,100,0,0,1,0.1,1.5,2,30,20,70,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:00.91,0:01:09.85,Grupa,,0,0,0,,{\blur2\fad(1953,1915)}Nyan
+Dialogue: 0,0:01:00.91,0:01:09.85,Anime,,0,0,0,,{\blur3\fad(1953,1915)}Hainuwele Shuukaku no Yoru
+Dialogue: 0,0:01:03.88,0:01:09.85,Tytul,,0,0,0,,{\be1\fad(1986,1915)}Urna popiołów
+Dialogue: 0,0:00:07.71,0:00:11.11,Default,,0,0,0,,{\be1}Honoka, wytrzymaj!
+Dialogue: 0,0:00:13.10,0:00:18.16,Default,,0,0,0,,{\be1}Masato, nie krzycz na pacjentkę.
+Dialogue: 0,0:00:21.19,0:00:24.49,Default,,0,0,0,,{\be1}Jesteś lekarzem, zrób coś!
+Dialogue: 0,0:00:26.07,0:00:27.48,Default,,0,0,0,,{\be1}Masato.
+Dialogue: 0,0:00:33.63,0:00:34.75,Default,,0,0,0,,{\be1}Chodźmy do domu.
+Dialogue: 0,0:00:35.08,0:00:36.75,Default,,0,0,0,,{\be1}Honoka.
+Dialogue: 0,0:00:37.35,0:00:39.92,Default,,0,0,0,,{\be1}Musisz odpoczywać.
+Dialogue: 0,0:00:39.92,0:00:41.30,Default,,0,0,0,,{\be1}Nic mi nie jest.
+Dialogue: 0,0:00:42.49,0:00:43.26,Default,,0,0,0,,{\be1}Honoka!
+Dialogue: 0,0:00:44.22,0:00:49.26,Default,,0,0,0,,{\be1}Skoro chce iść do domu, to zabierz ją tam.
+Dialogue: 0,0:00:50.46,0:00:53.27,Default,,0,0,0,,{\be1}My nie mamy domu.
+Dialogue: 0,0:00:55.30,0:00:56.83,Default,,0,0,0,,{\be1}Masato.
+Dialogue: 0,0:01:11.82,0:01:17.79,Default,,0,0,0,,{\be1}Nie jestem smutny i nie chce mi się płakać.
+Dialogue: 0,0:01:18.24,0:01:23.30,Default,,0,0,0,,{\be1}Po prostu nie chcę, żeby mi o tym przypominano.
+Dialogue: 0,0:01:23.74,0:01:29.22,Default,,0,0,0,,{\be1}Chciałbym móc spokojnie zasnąć.
+Dialogue: 0,0:01:30.55,0:01:34.46,Default,,0,0,0,,{\be1}Jestem żałosny,\Nnie potrafiłem ochronić siostry.
+Dialogue: 0,0:01:34.46,0:01:40.91,Default,,0,0,0,,{\be1}Wtedy rosły tu jeszcze dmuchawce.
+Dialogue: 0,0:01:40.91,0:01:42.82,Default,,0,0,0,,{\be1}A gdy zawiało...
+Dialogue: 0,0:01:44.76,0:01:46.32,Default,,0,0,0,,{\be1}Emi.
+Dialogue: 0,0:01:46.32,0:01:48.75,Default,,0,0,0,,{\be1}Masato.
+Dialogue: 0,0:01:48.75,0:01:52.02,Default,,0,0,0,,{\be1}Wszędzie robiło się biało.
+Dialogue: 0,0:01:52.02,0:01:56.33,Default,,0,0,0,,{\be1}Cały czas tylko Honoka, a co ze mną?
+Dialogue: 0,0:01:56.33,0:02:00.56,Default,,0,0,0,,{\be1}A pośród kwiatów stała ona.
+Dialogue: 0,0:02:01.33,0:02:04.55,Default,,0,0,0,,{\be1}Ale teraz to tylko sen.
+Dialogue: 0,0:02:04.55,0:02:06.03,Default,,0,0,0,,{\be1}Tylko sen.
+Dialogue: 0,0:02:10.44,0:02:18.05,Default,,0,0,0,,{\be1}Co powiesz na nią? Ile dasz?
+Dialogue: 0,0:02:22.46,0:02:27.43,Default,,0,0,0,,{\be1}Niestety, ale jest już po.
+Dialogue: 0,0:02:27.86,0:02:29.32,Default,,0,0,0,,{\be1}Szkoda.
+Dialogue: 0,0:02:31.74,0:02:35.30,Default,,0,0,0,,{\be1}Myślałam, że nadal jest dziewicą.
+Dialogue: 0,0:02:38.53,0:02:44.64,Default,,0,0,0,,{\be1}Z sikaniem i używanymi majtkami\Ncoś jeszcze da się zrobić.
+Dialogue: 0,0:02:45.21,0:02:50.29,Default,,0,0,0,,{\be1}Okularnice są teraz na topie, więc pornol...
+Dialogue: 0,0:02:51.57,0:02:53.69,Default,,0,0,0,,{\be1}Nie chcę.
+Dialogue: 0,0:02:54.30,0:02:56.51,Default,,0,0,0,,{\be1}Ryouko, jesteś śliczna.
+Dialogue: 0,0:02:56.51,0:02:58.75,Default,,0,0,0,,{\be1}Na pewno dobrze się sprzedasz.
+Dialogue: 0,0:02:58.75,0:03:01.75,Default,,0,0,0,,{\be1}Podpisz tutaj.
+Dialogue: 0,0:03:02.81,0:03:03.67,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:03:03.67,0:03:04.96,Default,,0,0,0,,{\be1}Nie rób tego.
+Dialogue: 0,0:03:05.39,0:03:08.47,Default,,0,0,0,,{\be1}Masz tego nie robić.
+Dialogue: 0,0:03:08.77,0:03:10.47,Default,,0,0,0,,{\be1}Honoka.
+Dialogue: 0,0:03:12.15,0:03:15.86,Default,,0,0,0,,{\be1}Przestań się wpieprzać.
+Dialogue: 0,0:03:15.86,0:03:17.65,Default,,0,0,0,,{\be1}Honoka.
+Dialogue: 0,0:03:29.39,0:03:30.88,Default,,0,0,0,,{\be1}Co powiesz na moje?
+Dialogue: 0,0:03:31.95,0:03:36.83,Default,,0,0,0,,{\be1}Masato mi zabronił brać twoje.
+Dialogue: 0,0:03:36.83,0:03:41.16,Default,,0,0,0,,{\be1}Tylko nie zawalaj potem na mnie,\Ngdy Masato się dowie.
+Dialogue: 0,0:03:41.16,0:03:43.10,Default,,0,0,0,,{\be1}Nie rób tego.
+Dialogue: 0,0:03:43.71,0:03:45.91,Default,,0,0,0,,{\be1}Zamknij się.
+Dialogue: 0,0:03:48.69,0:03:50.11,Default,,0,0,0,,{\be1}Honoka!
+Dialogue: 0,0:03:51.41,0:03:53.68,Default,,0,0,0,,{\be1}Honoka, trzymaj się!
+Dialogue: 0,0:03:53.68,0:03:55.11,Default,,0,0,0,,{\be1}Honoka!
+Dialogue: 0,0:03:58.81,0:04:02.62,Default,,0,0,0,,{\be1}Honoka zaskoczyła mnie.
+Dialogue: 0,0:04:03.44,0:04:07.13,Default,,0,0,0,,{\be1}Tak nie dobierzemy się do Masato.
+Dialogue: 0,0:04:07.52,0:04:10.63,Default,,0,0,0,,{\be1}Nie mów o nim, gdy się pieprzymy.
+Dialogue: 0,0:04:12.27,0:04:15.77,Default,,0,0,0,,{\be1}No bo ty nic nie potrafisz zrobić.
+Dialogue: 0,0:04:16.36,0:04:18.74,Default,,0,0,0,,{\be1}I nie szczyp mnie po cyckach.
+Dialogue: 0,0:04:20.33,0:04:22.64,Default,,0,0,0,,{\be1}Już się tak nie złość.
+Dialogue: 0,0:04:23.12,0:04:25.74,Default,,0,0,0,,{\be1}Zaraz ci dogodzę.
+Dialogue: 0,0:04:58.74,0:05:03.92,Default,,0,0,0,,{\be1}Tak w ogóle to Masato\Nzaczął się dziwnie zachowywać.
+Dialogue: 0,0:05:06.00,0:05:08.92,Default,,0,0,0,,{\be1}Nieważne, nie przestawaj.
+Dialogue: 0,0:05:09.74,0:05:12.18,Default,,0,0,0,,{\be1}Ale ty jesteś niecierpliwa.
+Dialogue: 0,0:05:13.88,0:05:18.99,Default,,0,0,0,,{\be1}Ale jesteś niewyżyta,\Nnawet tyłek masz mokry.
+Dialogue: 0,0:05:18.99,0:05:20.14,Default,,0,0,0,,{\be1}Wchodzi!
+Dialogue: 0,0:05:34.96,0:05:37.91,Default,,0,0,0,,{\be1}Ciasna jak zawsze!
+Dialogue: 0,0:05:39.59,0:05:44.96,Default,,0,0,0,,{\be1}Przytul mnie, boję się.
+Dialogue: 0,0:05:46.20,0:05:47.38,Default,,0,0,0,,{\be1}Masato?
+Dialogue: 0,0:05:49.41,0:05:51.46,Default,,0,0,0,,{\be1}Tego miasta.
+Dialogue: 0,0:05:52.49,0:05:53.79,Default,,0,0,0,,{\be1}Risa.
+Dialogue: 0,0:05:56.67,0:05:57.97,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:05:58.84,0:06:00.47,Default,,0,0,0,,{\be1}Nie masz za co.
+Dialogue: 0,0:06:15.97,0:06:18.32,Default,,0,0,0,,{\be1}Shinji!
+Dialogue: 0,0:06:22.77,0:06:23.74,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:06:30.33,0:06:33.79,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:06:36.83,0:06:43.52,Default,,0,0,0,,{\be1}Już nie mogę! Zaraz dojdę!
+Dialogue: 0,0:06:59.61,0:07:01.60,Default,,0,0,0,,{\be1}Masato.
+Dialogue: 0,0:07:02.32,0:07:06.11,Default,,0,0,0,,{\be1}Ostatnio nic nie robisz.
+Dialogue: 0,0:07:06.84,0:07:08.39,Default,,0,0,0,,{\be1}Nie mam ochoty.
+Dialogue: 0,0:07:08.39,0:07:10.94,Default,,0,0,0,,{\be1}To nie idziesz na dzisiejszą robotę?
+Dialogue: 0,0:07:12.05,0:07:15.01,Default,,0,0,0,,{\be1}Możemy mieć przejebane.
+Dialogue: 0,0:07:18.29,0:07:22.40,Default,,0,0,0,,{\be1}Niektóre grupy zaczęły się rozrastać.
+Dialogue: 0,0:07:22.40,0:07:25.32,Default,,0,0,0,,{\be1}Bez ciebie będę się bała.
+Dialogue: 0,0:07:25.84,0:07:31.17,Default,,0,0,0,,{\be1}Musimy coś zrobić\Nalbo zaczną się u nas panoszyć.
+Dialogue: 0,0:07:32.11,0:07:39.15,Default,,0,0,0,,{\be1}Proszę, chodź z nami.
+Dialogue: 0,0:07:42.32,0:07:43.86,Default,,0,0,0,,{\be1}Nie idę.
+Dialogue: 0,0:07:44.81,0:07:48.78,Default,,0,0,0,,{\be1}Do diabła z tobą,\Nnie można na ciebie liczyć!
+Dialogue: 0,0:07:53.10,0:07:54.69,Default,,0,0,0,,{\be1}Ryouko.
+Dialogue: 0,0:08:01.87,0:08:06.02,Default,,0,0,0,,{\be1}Nie mów o tym Masato.
+Dialogue: 0,0:08:07.30,0:08:12.10,Default,,0,0,0,,{\be1}Gdyby nie ty, to nie wiem co by zrobiły.
+Dialogue: 0,0:08:14.96,0:08:19.51,Default,,0,0,0,,{\be1}Ale więcej tego nie rób.
+Dialogue: 0,0:08:21.03,0:08:23.24,Default,,0,0,0,,{\be1}Martwiłaś się?
+Dialogue: 0,0:08:30.13,0:08:36.33,Default,,0,0,0,,{\be1}Chciałam zabrać\NMasato na drugą stronę mostu.
+Dialogue: 0,0:08:40.30,0:08:44.84,Default,,0,0,0,,{\be1}- Ma pan dotrzymać obietnicę!\N- Zazdrościłam ci.
+Dialogue: 0,0:08:48.72,0:08:52.89,Default,,0,0,0,,{\be1}Przebywanie z nim było dla ciebie naturalne.
+Dialogue: 0,0:09:00.47,0:09:08.03,Default,,0,0,0,,{\be1}Nie sądziłam,\Nże więź między wami jest taka silna.
+Dialogue: 0,0:09:08.85,0:09:15.09,Default,,0,0,0,,{\be1}Koniec końców, nie znałam go naprawdę.
+Dialogue: 0,0:09:15.09,0:09:18.04,Default,,0,0,0,,{\be1}Dlaczego płaczesz?
+Dialogue: 0,0:09:18.75,0:09:22.78,Default,,0,0,0,,{\be1}My umarliśmy dawno temu.
+Dialogue: 0,0:09:33.03,0:09:36.30,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:09:44.15,0:09:47.32,Default,,0,0,0,,{\be1}Shinji!
+Dialogue: 0,0:09:50.02,0:09:51.54,Default,,0,0,0,,{\be1}Skurwysyny!
+Dialogue: 0,0:09:52.54,0:09:55.74,Default,,0,0,0,,{\be1}Kurwa! Kutasy!
+Dialogue: 0,0:09:59.50,0:10:00.46,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:10:03.66,0:10:05.65,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:10:08.68,0:10:12.74,Default,,0,0,0,,{\be1}Bez Masato jesteście niczym!
+Dialogue: 0,0:10:20.40,0:10:23.54,Default,,0,0,0,,{\be1}Dzięki za zajęcie się Wakabą.
+Dialogue: 0,0:10:27.43,0:10:28.82,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:10:34.51,0:10:37.08,Default,,0,0,0,,{\be1}Masz obciągać!
+Dialogue: 0,0:10:40.89,0:10:44.65,Default,,0,0,0,,{\be1}Spierdalaj od Risy!
+Dialogue: 0,0:10:44.65,0:10:46.96,Default,,0,0,0,,{\be1}Kochaś się odezwał!
+Dialogue: 0,0:10:49.10,0:10:51.59,Default,,0,0,0,,{\be1}Gdzie się gapisz?!
+Dialogue: 0,0:11:25.56,0:11:27.81,Default,,0,0,0,,{\be1}Umiesz obciągać.
+Dialogue: 0,0:11:34.73,0:11:38.24,Default,,0,0,0,,{\be1}Nie dostaniesz mnie, złamasie!
+Dialogue: 0,0:11:38.68,0:11:41.25,Default,,0,0,0,,{\be1}Ty kurwo!
+Dialogue: 0,0:11:42.35,0:11:43.55,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:11:47.43,0:11:50.94,Default,,0,0,0,,{\be1}Nie rób tego! Proszę!
+Dialogue: 0,0:11:50.94,0:11:54.26,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:11:56.68,0:11:58.26,Default,,0,0,0,,{\be1}Ale ścisnęła!
+Dialogue: 0,0:11:59.81,0:12:01.75,Default,,0,0,0,,{\be1}A to dobre!
+Dialogue: 0,0:12:05.46,0:12:06.52,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:12.66,0:12:18.75,Default,,0,0,0,,{\be1}Co z tobą?\NZnudziło ci się powtarzanie bredni?
+Dialogue: 0,0:12:19.75,0:12:21.10,Default,,0,0,0,,{\be1}Masato.
+Dialogue: 0,0:12:22.35,0:12:25.75,Default,,0,0,0,,{\be1}Zabij mnie w końcu.
+Dialogue: 0,0:12:33.80,0:12:35.80,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:12:36.36,0:12:38.98,Default,,0,0,0,,{\be1}Zabawimy się.
+Dialogue: 0,0:12:40.90,0:12:43.03,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:13:02.69,0:13:04.33,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:13:04.33,0:13:05.83,Default,,0,0,0,,{\be1}Zamknij mordę!
+Dialogue: 0,0:13:09.99,0:13:13.19,Default,,0,0,0,,{\be1}Trzeba nauczyć dziwkę pokory.
+Dialogue: 0,0:13:14.52,0:13:15.81,Default,,0,0,0,,{\be1}Spieprzaj, skurwielu!
+Dialogue: 0,0:14:01.46,0:14:03.91,Default,,0,0,0,,{\be1}Długo ich nie ma.
+Dialogue: 0,0:14:03.91,0:14:06.86,Default,,0,0,0,,{\be1}Nie muszą wracać.
+Dialogue: 0,0:14:09.26,0:14:14.14,Default,,0,0,0,,{\be1}I tak nikt nie opuści tego miasta.
+Dialogue: 0,0:14:15.43,0:14:16.94,Default,,0,0,0,,{\be1}Co masz na myśli?
+Dialogue: 0,0:14:30.62,0:14:32.99,Default,,0,0,0,,{\be1}To wszystko twoja wina!
+Dialogue: 0,0:14:33.72,0:14:36.49,Default,,0,0,0,,{\be1}Dlaczego nie poszedłeś z nami?!
+Dialogue: 0,0:14:37.10,0:14:39.49,Default,,0,0,0,,{\be1}Honoka, powiedz mu coś!
+Dialogue: 0,0:14:46.27,0:14:49.00,Default,,0,0,0,,{\be1}Opuszczam miasto z Honoką.
+Dialogue: 0,0:14:50.87,0:14:52.00,Default,,0,0,0,,{\be1}Masato.
+Dialogue: 0,0:14:52.71,0:14:54.54,Default,,0,0,0,,{\be1}Jaja sobie robisz?!
+Dialogue: 0,0:14:54.54,0:14:57.18,Default,,0,0,0,,{\be1}Chcesz nas zostawić?!
+Dialogue: 0,0:14:57.18,0:14:58.77,Default,,0,0,0,,{\be1}Tak postanowiłem.
+Dialogue: 0,0:14:58.77,0:15:04.32,Default,,0,0,0,,{\be1}Masato nie da się przekonać.
+Dialogue: 0,0:15:07.78,0:15:12.91,Default,,0,0,0,,{\be1}Risa nie żyje!\NAki, Shima i Izumi też!
+Dialogue: 0,0:15:12.91,0:15:16.43,Default,,0,0,0,,{\be1}- Honoka, co się dzieje?!\N- Honoka!
+Dialogue: 0,0:15:20.48,0:15:22.07,Default,,0,0,0,,{\be1}Czekałem na ciebie.
+Dialogue: 0,0:15:23.48,0:15:26.88,Default,,0,0,0,,{\be1}Z nim nikt ci nie będzie straszny.
+Dialogue: 0,0:15:26.88,0:15:28.27,Default,,0,0,0,,{\be1}Oby.
+Dialogue: 0,0:15:29.80,0:15:32.66,Default,,0,0,0,,{\be1}Ciekawe co z Honoką.
+Dialogue: 0,0:15:32.66,0:15:34.01,Default,,0,0,0,,{\be1}Martwisz się?
+Dialogue: 0,0:15:34.56,0:15:41.02,Default,,0,0,0,,{\be1}A jakby inaczej,\Nbez niej stąd nie odejdziesz.
+Dialogue: 0,0:15:41.44,0:15:42.90,Default,,0,0,0,,{\be1}To nie...
+Dialogue: 0,0:15:45.01,0:15:52.53,Default,,0,0,0,,{\be1}Nie za późno na to, Ryouko?
+Dialogue: 0,0:15:53.68,0:15:56.54,Default,,0,0,0,,{\be1}Emi, puść mnie!
+Dialogue: 0,0:15:57.11,0:16:00.99,Default,,0,0,0,,{\be1}Daj spokój, zabawimy się.
+Dialogue: 0,0:16:00.99,0:16:02.04,Default,,0,0,0,,{\be1}Honoka.
+Dialogue: 0,0:16:11.66,0:16:14.55,Default,,0,0,0,,{\be1}- Nie ma.\N- Chodźmy.
+Dialogue: 0,0:16:19.95,0:16:21.37,Default,,0,0,0,,{\be1}Ryouko.
+Dialogue: 0,0:16:22.35,0:16:23.56,Default,,0,0,0,,{\be1}Uważaj.
+Dialogue: 0,0:16:24.97,0:16:26.13,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:16:39.44,0:16:40.84,Default,,0,0,0,,{\be1}Ryouko!
+Dialogue: 0,0:16:44.24,0:16:45.08,Default,,0,0,0,,{\be1}Emi?
+Dialogue: 0,0:16:45.70,0:16:49.26,Default,,0,0,0,,{\be1}Co tak długo?
+Dialogue: 0,0:16:50.53,0:16:52.23,Default,,0,0,0,,{\be1}Co jej zrobiliście?
+Dialogue: 0,0:16:52.23,0:16:57.22,Default,,0,0,0,,{\be1}Była taka samotna,\Nże postanowiliśmy dotrzymać jej towarzystwa.
+Dialogue: 0,0:17:07.13,0:17:12.47,Default,,0,0,0,,{\be1}Dlaczego?! Jeszcze nic nie zrobiłam!
+Dialogue: 0,0:17:13.40,0:17:17.98,Default,,0,0,0,,{\be1}Ryouko, dlaczego odeszłaś beze mnie?!
+Dialogue: 0,0:17:19.24,0:17:22.84,Default,,0,0,0,,{\be1}Nie płacz, dołączysz do niej.
+Dialogue: 0,0:17:22.84,0:17:24.36,Default,,0,0,0,,{\be1}No właśnie.
+Dialogue: 0,0:17:24.72,0:17:26.86,Default,,0,0,0,,{\be1}Zabieraj od niej łapy!
+Dialogue: 0,0:17:30.00,0:17:31.46,Default,,0,0,0,,{\be1}Masato!
+Dialogue: 0,0:17:31.46,0:17:33.72,Default,,0,0,0,,{\be1}A ty dokąd?
+Dialogue: 0,0:17:33.72,0:17:35.87,Default,,0,0,0,,{\be1}Skurwysyny!
+Dialogue: 0,0:17:38.40,0:17:43.74,Default,,0,0,0,,{\be1}Już nie jesteś taki mocny.\NAle jeszcze cię nie zabiję.
+Dialogue: 0,0:17:44.43,0:17:48.75,Default,,0,0,0,,{\be1}Najpierw będziesz cierpieć tak jak Risa.
+Dialogue: 0,0:18:04.15,0:18:06.00,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:09.35,0:18:13.28,Default,,0,0,0,,{\be1}Masz patrzeć.
+Dialogue: 0,0:18:18.54,0:18:22.33,Default,,0,0,0,,{\be1}Skóra nie pieprzącej się\Ndziewczyny jest taka przyjemna.
+Dialogue: 0,0:18:22.33,0:18:25.58,Default,,0,0,0,,{\be1}Jej małe cycki jarają mnie.
+Dialogue: 0,0:18:27.11,0:18:31.13,Default,,0,0,0,,{\be1}- Sprawdźmy jaką ma psiorę.\N- Nie!
+Dialogue: 0,0:18:32.74,0:18:35.53,Default,,0,0,0,,{\be1}Łatwo się podnieca.
+Dialogue: 0,0:18:37.00,0:18:40.53,Default,,0,0,0,,{\be1}Sutki już jej sterczą.
+Dialogue: 0,0:18:41.45,0:18:44.18,Default,,0,0,0,,{\be1}Jest już mokra.
+Dialogue: 0,0:18:45.57,0:18:48.44,Default,,0,0,0,,{\be1}Dziewictwa raczej nie straciła.
+Dialogue: 0,0:18:48.44,0:18:53.55,Default,,0,0,0,,{\be1}No co ty, przecież Masato ciągle jej pilnował.
+Dialogue: 0,0:18:55.66,0:18:58.45,Default,,0,0,0,,{\be1}- Zaraz się przekonamy.\N- Nie!
+Dialogue: 0,0:18:58.98,0:19:03.27,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:19:03.27,0:19:05.96,Default,,0,0,0,,{\be1}No proszę, jaka ładna.
+Dialogue: 0,0:19:06.83,0:19:09.16,Default,,0,0,0,,{\be1}Widać różnice między wami.
+Dialogue: 0,0:19:09.16,0:19:10.70,Default,,0,0,0,,{\be1}Spierdalaj!
+Dialogue: 0,0:19:11.08,0:19:13.53,Default,,0,0,0,,{\be1}Masato, pomóż!
+Dialogue: 0,0:19:14.12,0:19:15.71,Default,,0,0,0,,{\be1}Honoka!
+Dialogue: 0,0:19:15.71,0:19:18.70,Default,,0,0,0,,{\be1}O nie, masz leżeć spokojnie.
+Dialogue: 0,0:19:44.60,0:19:48.07,Default,,0,0,0,,{\be1}Nie, oszaleję!
+Dialogue: 0,0:19:50.45,0:19:53.71,Default,,0,0,0,,{\be1}Masato!
+Dialogue: 0,0:19:55.17,0:19:56.17,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:20:08.92,0:20:13.02,Default,,0,0,0,,{\be1}A to niespodzianka, jednak coś czuje.
+Dialogue: 0,0:20:15.11,0:20:18.13,Default,,0,0,0,,{\be1}Czas się zabawić.
+Dialogue: 0,0:20:18.13,0:20:19.73,Default,,0,0,0,,{\be1}Słyszałeś?
+Dialogue: 0,0:20:20.31,0:20:24.74,Default,,0,0,0,,{\be1}Twoja kochana siostrzyczka stanie się kobietą!
+Dialogue: 0,0:20:25.02,0:20:26.61,Default,,0,0,0,,{\be1}Patrz na to.
+Dialogue: 0,0:20:29.74,0:20:33.07,Default,,0,0,0,,{\be1}Co? Nie jest dziewicą!
+Dialogue: 0,0:20:33.07,0:20:35.06,Default,,0,0,0,,{\be1}Rozczarowała mnie.
+Dialogue: 0,0:20:38.18,0:20:40.08,Default,,0,0,0,,{\be1}Nie jest?
+Dialogue: 0,0:20:40.08,0:20:42.75,Default,,0,0,0,,{\be1}To czemu tak jej pilnował?
+Dialogue: 0,0:20:46.87,0:20:49.02,Default,,0,0,0,,{\be1}Ale jest bardzo ciasna.
+Dialogue: 0,0:21:04.00,0:21:06.28,Default,,0,0,0,,{\be1}Ja też chcę się z nią zabawić.
+Dialogue: 0,0:21:07.47,0:21:08.54,Default,,0,0,0,,{\be1}Co za zbok.
+Dialogue: 0,0:21:33.15,0:21:35.81,Default,,0,0,0,,{\be1}Pieprzcie ją ile się da!
+Dialogue: 0,0:22:00.58,0:22:02.98,Default,,0,0,0,,{\be1}Nie tak szybko!
+Dialogue: 0,0:22:03.99,0:22:07.13,Default,,0,0,0,,{\be1}Jeszcze nie skończyliśmy!
+Dialogue: 0,0:22:10.49,0:22:13.81,Default,,0,0,0,,{\be1}To za mało, prawda, Risa?
+Dialogue: 0,0:22:17.36,0:22:20.13,Default,,0,0,0,,{\be1}Może ją też podnieci ból.
+Dialogue: 0,0:22:42.94,0:22:44.84,Default,,0,0,0,,{\be1}Ale ścisnęła.
+Dialogue: 0,0:22:44.84,0:22:46.57,Default,,0,0,0,,{\be1}Mnie też.
+Dialogue: 0,0:22:51.43,0:22:52.58,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:22:53.18,0:22:54.96,Default,,0,0,0,,{\be1}Co z nią?
+Dialogue: 0,0:22:54.96,0:22:59.05,Default,,0,0,0,,{\be1}Jesteście żałośni, nagle zdygaliście?
+Dialogue: 0,0:22:59.05,0:23:03.39,Default,,0,0,0,,{\be1}No ale to nie jest normalne.
+Dialogue: 0,0:23:03.39,0:23:05.29,Default,,0,0,0,,{\be1}Może się przekręcić!
+Dialogue: 0,0:23:06.70,0:23:10.06,Default,,0,0,0,,{\be1}I dobrze, zaoszczędzi na kłopotu.
+Dialogue: 0,0:23:12.21,0:23:13.97,Default,,0,0,0,,{\be1}A myślałem, że będzie więcej zabawy.
+Dialogue: 0,0:23:15.83,0:23:22.48,Default,,0,0,0,,{\be1}Zrzucimy ich z mostu.\NCieszysz się Ryouko?
+Dialogue: 0,0:23:23.25,0:23:28.49,Default,,0,0,0,,{\be1}Żegnaj, Masato.\NByło fajnie.
+Dialogue: 0,0:23:31.80,0:23:33.02,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:23:35.82,0:23:37.39,Default,,0,0,0,,{\be1}Masato!
+Dialogue: 0,0:23:37.39,0:23:38.43,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:23:44.89,0:23:47.43,Default,,0,0,0,,{\be1}Nie zbliżaj się!
+Dialogue: 0,0:24:03.84,0:24:05.41,Default,,0,0,0,,{\be1}Pieprzony potwór!
+Dialogue: 0,0:24:07.81,0:24:09.32,Default,,0,0,0,,{\be1}Ty...
+Dialogue: 0,0:24:34.98,0:24:38.86,Default,,0,0,0,,{\be1}Honoka, pora wracać do domu.
+Dialogue: 0,0:24:42.66,0:24:48.64,Default (i),,0,0,0,,{\be1}Nie jestem smutny i nie chce mi się płakać.
+Dialogue: 0,0:24:50.51,0:24:55.87,Default (i),,0,0,0,,{\be1}Po prostu nie chcę, żeby mi o tym przypominano.
+Dialogue: 0,0:24:56.32,0:24:59.97,Default (i),,0,0,0,,{\be1}Chciałbym móc spokojnie zasnąć.
+Dialogue: 0,0:24:59.97,0:25:07.39,Default (i),,0,0,0,,{\be1}Wtedy rosły tu jeszcze dmuchawce.
+Dialogue: 0,0:25:07.86,0:25:13.02,Default (i),,0,0,0,,{\be1}A gdy zawiało wszędzie robiło się biało.
+Dialogue: 0,0:25:14.89,0:25:18.88,Default (i),,0,0,0,,{\be1}A pośród kwiatów stała ona.
+Dialogue: 0,0:25:18.88,0:25:21.90,Default (i),,0,0,0,,{\be1}Ale teraz to tylko sen.

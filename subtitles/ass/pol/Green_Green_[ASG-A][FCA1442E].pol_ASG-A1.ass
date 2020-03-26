@@ -1,0 +1,469 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 512
+PlayResY: 384
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Yuusuke,Teen,22,&H00DD8000,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Bacchi-gu,Teen,22,&H00945E49,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,101,0,0,1,2,0.5,2,20,20,20,238
+Style: Ichibanboshi,Teen,22,&H004B38FA,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Tenjin,Teen,22,&H00625CA3,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Wszyscy trzej,Teen,22,&H00A91D35,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.5,0.5,2,20,20,20,238
+Style: Midori,Teen,22,&H00458754,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Futaba,Teen,22,&H00C04E93,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Iino-sensei,Teen,22,&H001486D1,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Wakaba,Teen,22,&H00478B4E,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Sanae,Teen,22,&H00A620EE,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Haruna,Teen,22,&H00628D9B,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Default,Arial,25,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,30,0
+Style: Souchou,Trix,30,&H000600FF,&H00000000,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Ktos z tylu,Erie,22,&H00A2A2A2,&H00000000,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Itsuki,Teen,22,&H000F92D0,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+Style: Kuyasu,Teen,22,&H00B59677,&H00000000,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0.5,2,20,20,20,238
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.37,0:01:35.71,Ktos z tylu,,0000,0000,0000,,Hej, hej, oni przyjażdżają jutro, nie?
+Dialogue: 0,0:01:35.73,0:01:39.39,Ktos z tylu,,0000,0000,0000,,Ach, masz na myśli tych studentów z Kanenone Gakuen?
+Dialogue: 0,0:01:39.41,0:01:41.21,Ktos z tylu,,0000,0000,0000,,Jestem ciekawa jakiego typu facetami są...
+Dialogue: 0,0:01:41.21,0:01:42.88,Ktos z tylu,,0000,0000,0000,,Jeśli są fajni...
+Dialogue: 0,0:01:42.88,0:01:45.80,Ktos z tylu,,0000,0000,0000,,Wydaje mi się, że od momentu gdy zamieszkali w górach, zaczęli przybierać małpie kształty i zachowania...
+Dialogue: 0,0:01:45.80,0:01:47.32,Ktos z tylu,,0000,0000,0000,,Ona ma rację...
+Dialogue: 0,0:01:51.87,0:01:54.94,Yuusuke,,0000,0000,0000,,Co się dzieje... Dokąd wszyscy poszli?
+Dialogue: 0,0:01:56.03,0:01:56.56,Yuusuke,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:02.89,0:02:04.05,Yuusuke,,0000,0000,0000,,Źle się czujesz?
+Dialogue: 0,0:02:04.76,0:02:08.35,Sanae,,0000,0000,0000,,Nie... wszystko w porządku... Jestem tylko lekko... zaskoczona.
+Dialogue: 0,0:02:08.35,0:02:09.69,Sanae,,0000,0000,0000,,Jeśli tylko będę mogła wziąć moje lekarstwo...
+Dialogue: 0,0:02:09.69,0:02:10.59,Yuusuke,,0000,0000,0000,,Zaskoczona?
+Dialogue: 0,0:02:15.38,0:02:17.06,Yuusuke,,0000,0000,0000,,Ach, to tylko dom duchów.
+Dialogue: 0,0:02:17.25,0:02:18.34,Midori,,0000,0000,0000,,Sanae-chan!
+Dialogue: 0,0:02:19.20,0:02:21.29,Midori,,0000,0000,0000,,Zaraz rozleję... zaraz rozleję!
+Dialogue: 0,0:02:25.73,0:02:27.14,Midori,,0000,0000,0000,,Ach, przepraszam!
+Dialogue: 0,0:02:27.25,0:02:29.09,Midori,,0000,0000,0000,,Sanae-chan, poczekaj jeszcze chwilkę, dobrze?
+Dialogue: 0,0:02:29.09,0:02:29.74,Yuusuke,,0000,0000,0000,,Czekaj!
+Dialogue: 0,0:02:31.99,0:02:35.79,Yuusuke,,0000,0000,0000,,Szybciej będzie gdy wezmę ją na ramiona i zaniosę do łazienki.
+Dialogue: 0,0:02:36.73,0:02:38.31,Yuusuke,,0000,0000,0000,,Więc, gdzie ona się znajduje?
+Dialogue: 0,0:02:38.31,0:02:39.94,Midori,,0000,0000,0000,,A-ach, chodź za mną.
+Dialogue: 0,0:02:45.49,0:02:48.78,Ichibanboshi,,0000,0000,0000,,Widzę, że kruki żyją też w takich miastach jak to.
+Dialogue: 0,0:02:48.87,0:02:54.73,Bacchi-gu,,0000,0000,0000,,Kruki mają tendencje do kolekcjonowania błyszczących rzeczy. Bądź pewny, że mu się dobrze przyjrzałeś!
+Dialogue: 0,0:02:53.19,0:02:55.21,Ichibanboshi,,0000,0000,0000,,Co, co robisz?
+Dialogue: 0,0:02:55.21,0:02:56.88,Bacchi-gu,,0000,0000,0000,,Kim jestem?
+Dialogue: 0,0:03:00.88,0:03:03.27,Futaba,,0000,0000,0000,,Więc Haruno-san lubiła takie rzeczy...
+Dialogue: 0,0:03:03.29,0:03:05.26,Haruna,,0000,0000,0000,,Nie mów tak, Futaba-chan.
+Dialogue: 0,0:03:05.32,0:03:08.08,Haruna,,0000,0000,0000,,Nie ma takiej możliwości, żeby to była prawda, nie? Jakie to rozczarowujące.
+Dialogue: 0,0:03:08.20,0:03:09.49,Futaba,,0000,0000,0000,,Myślę, że masz rację.
+Dialogue: 0,0:03:12.49,0:03:13.38,Futaba,,0000,0000,0000,,Wakaba?
+Dialogue: 0,0:03:13.49,0:03:15.33,Wakaba,,0000,0000,0000,,Ach, tak, Onee-sama...
+Dialogue: 0,0:03:18.88,0:03:21.01,Haruna,,0000,0000,0000,,Tak jak mówiłam, na każdym roku zawsze się taki znajdzie.
+Dialogue: 0,0:03:21.03,0:03:26.63,Haruna,,0000,0000,0000,,Jeden z tych drani, którzy próbują wykorzystać ciemności, by przytulić jedną z naszych uczennic...
+Dialogue: 0,0:03:31.41,0:03:33.60,Bacchi-gu,,0000,0000,0000,,Zjem cię!
+Dialogue: 0,0:03:33.60,0:03:35.65,Haruna,,0000,0000,0000,,Nic to nie da. Wcale się ciebie nie boję.
+Dialogue: 0,0:03:36.75,0:03:39.07,Haruna,,0000,0000,0000,,Tak właściwie to nie ma czegoś takiego jak prawdziwy duch!
+Dialogue: 0,0:03:43.28,0:03:47.37,Haruna,,0000,0000,0000,,Świnia! Czego ty dotykasz?!
+Dialogue: 0,0:03:56.97,0:03:58.03,Midori,,0000,0000,0000,,Umm...
+Dialogue: 0,0:03:59.01,0:04:00.43,Midori,,0000,0000,0000,,Bardzo ci dziękuję.
+Dialogue: 0,0:04:00.66,0:04:01.83,Yuusuke,,0000,0000,0000,,Och, to nic...
+Dialogue: 0,0:04:02.28,0:04:04.78,Iino-sensei,,0000,0000,0000,,Dziękuję bardzo, musiało ci być ciężko.
+Dialogue: 0,0:04:05.04,0:04:08.50,Iino-sensei,,0000,0000,0000,,Jesteś spragniony, nie? Po tym jak się spociłeś...
+Dialogue: 0,0:04:08.50,0:04:10.75,Yuusuke,,0000,0000,0000,,Ech? Nie, to tylko...
+Dialogue: 0,0:04:16.08,0:04:18.41,Midori,,0000,0000,0000,,Och, um... jestem Chitose Midori.
+Dialogue: 0,0:04:19.30,0:04:21.30,Yuusuke,,0000,0000,0000,,A ja Takasaki Yuusuke.
+Dialogue: 0,0:04:21.79,0:04:23.21,Iino-sensei,,0000,0000,0000,,Zostawię to tutaj.
+Dialogue: 0,0:04:25.17,0:04:27.24,Futaba,,0000,0000,0000,,Czekaj! Natychmiast się zatrzymaj!
+Dialogue: 0,0:04:27.39,0:04:29.87,Bacchi-gu,,0000,0000,0000,,Wybacz mi!!!
+Dialogue: 0,0:04:29.40,0:04:31.70,Yuusuke,,0000,0000,0000,,Ech? Bacchi-gu i Ichibanboshi?
+Dialogue: 0,0:04:33.02,0:04:34.63,Yuusuke,,0000,0000,0000,,Cóż, muszę iść...
+Dialogue: 0,0:04:34.95,0:04:35.84,Midori,,0000,0000,0000,,Um...
+Dialogue: 0,0:04:35.92,0:04:38.01,Futaba,,0000,0000,0000,,Powiedziałam czekaj!
+Dialogue: 0,0:04:38.53,0:04:40.11,Futaba,,0000,0000,0000,,Stój!
+Dialogue: 0,0:04:42.10,0:04:43.58,Futaba,,0000,0000,0000,,Zatrzymaj się tam, ty draniu!
+Dialogue: 0,0:04:43.58,0:04:44.79,Haruna,,0000,0000,0000,,Każę ci się zatrzymać!
+Dialogue: 0,0:04:50.48,0:04:52.05,Bacchi-gu,,0000,0000,0000,,Souchou! Itsuki!
+Dialogue: 0,0:04:52.05,0:04:53.84,Ichibanboshi,,0000,0000,0000,,Tenjin! Dokugasu!
+Dialogue: 0,0:04:53.86,0:04:55.91,Bacchi-gu,,0000,0000,0000,,P-pomóżcie nam!!
+Dialogue: 0,0:04:56.18,0:04:57.68,Futaba,,0000,0000,0000,,Łapcie ich!
+Dialogue: 0,0:04:57.70,0:04:58.83,Haruna,,0000,0000,0000,,Oni są zboczeńcami!
+Dialogue: 0,0:04:59.69,0:05:01.88,Haruna,,0000,0000,0000,,On dotknął moich piersi!
+Dialogue: 0,0:05:01.88,0:05:03.86,Souchou,,0000,0000,0000,,Coś ty powiedziała?
+Dialogue: 0,0:05:05.47,0:05:08.43,Souchou,,0000,0000,0000,,UCZUCIE!
+Dialogue: 0,0:05:13.88,0:05:16.18,Yuusuke,,0000,0000,0000,,Bacchi-gu... Ichibanboshi...
+Dialogue: 0,0:05:19.31,0:05:22.99,Ktos z tylu,,0000,0000,0000,,I dlatego, w następnym tygodniu,
+Dialogue: 0,0:05:23.12,0:05:29.07,Ktos z tylu,,0000,0000,0000,,będziemy się uczyć razem z uczniami z męskiej szkoły Kanenone Gakuen.
+Dialogue: 0,0:05:29.30,0:05:35.17,Ktos z tylu,,0000,0000,0000,,Będzie to dla nas również test, co byłoby, gdybyśmy stali się szkołą koedukacyjną.
+Dialogue: 0,0:05:35.59,0:05:43.67,Ktos z tylu,,0000,0000,0000,,Oczekujemy od wszystkich, by reprezentowali szkołę Hanaoka z pełnym dostojeństwem i elegancją.
+Dialogue: 0,0:05:44.65,0:05:48.02,Bacchi-gu,,0000,0000,0000,,Huh! Która chwila spędzona tutaj była przepełniona "dostojeństwem i elegancją"?
+Dialogue: 0,0:05:49.15,0:05:50.61,Bacchi-gu,,0000,0000,0000,,Co, co jest?
+Dialogue: 0,0:05:52.29,0:05:55.58,Futaba,,0000,0000,0000,,Nie zostało wam jeszcze przebaczone.
+Dialogue: 0,0:05:55.71,0:06:00.29,Futaba,,0000,0000,0000,,Siedzimy cicho tylko dlatego, że nasza przełożona ukarała was za to!
+Dialogue: 0,0:06:00.78,0:06:04.66,Haruna,,0000,0000,0000,,Jeśli jeszcze raz spróbujecie swoich sprośnych żartów, doniosę nauczycielowi
+Dialogue: 0,0:06:04.87,0:06:07.17,Haruna,,0000,0000,0000,,i zostaniecie wykopani natychmiast!
+Dialogue: 0,0:06:18.52,0:06:21.22,Itsuki,,0000,0000,0000,,Ach, łóżko, co?
+Dialogue: 0,0:06:21.22,0:06:23.09,Itsuki,,0000,0000,0000,,U nas w Kanenone spaliśmy na podłodze.
+Dialogue: 0,0:06:23.09,0:06:25.40,Itsuki,,0000,0000,0000,,W porównaniu do tamtego miejsca to można nazwać niebem.
+Dialogue: 0,0:06:25.93,0:06:28.07,Yuusuke,,0000,0000,0000,,Koc też jest suchy.
+Dialogue: 0,0:06:28.71,0:06:30.66,Yuusuke,,0000,0000,0000,,Nie mam pojęcia, kiedy ostatni raz spałem w takim łóżku jak to!
+Dialogue: 0,0:06:30.69,0:06:32.72,Yuusuke,,0000,0000,0000,,Ach, jestem taki szczęśliwy!
+Dialogue: 0,0:06:36.22,0:06:40.15,Yuusuke,,0000,0000,0000,,Tenjin... czy to nie bagaż Bacchi-gu i Ichibanboshi`iego?
+Dialogue: 0,0:06:40.15,0:06:44.10,Tenjin,,0000,0000,0000,,Ci dwaj zostawili swoje torby i gdzieś na chwilę wyskoczyli.
+Dialogue: 0,0:06:44.59,0:06:45.84,Itsuki,,0000,0000,0000,,Wyskoczyli?
+Dialogue: 0,0:06:46.03,0:06:48.73,Tenjin,,0000,0000,0000,,Powiedzieli, że idą zrobić rozeznanie, czy coś takiego.
+Dialogue: 0,0:06:48.84,0:06:49.88,Itsuki,,0000,0000,0000,,Rozeznanie?
+Dialogue: 0,0:06:49.88,0:06:51.78,Yuusuke,,0000,0000,0000,,Myślę, że wiem o co chodzi.
+Dialogue: 0,0:06:51.78,0:06:54.32,Midori,,0000,0000,0000,,Czy Takasaki Yuusuke-kun jest tutaj?
+Dialogue: 0,0:06:58.73,0:07:02.03,Bacchi-gu,,0000,0000,0000,,Tyłek! Tyłek! Tyłek! Tyłek! Tyłek! Tyłek!
+Dialogue: 0,0:07:20.07,0:07:22.03,Haruna,,0000,0000,0000,,Ci faceci są najgorsi!
+Dialogue: 0,0:07:24.29,0:07:26.50,Sanae,,0000,0000,0000,,Dziękuję za wczoraj.
+Dialogue: 0,0:07:26.57,0:07:29.28,Yuusuke,,0000,0000,0000,,Och, nie ma za co dziękować...
+Dialogue: 0,0:07:33.88,0:07:35.49,Tenjin,,0000,0000,0000,,Ona jest w moim typie...
+Dialogue: 0,0:07:35.96,0:07:41.44,Midori,,0000,0000,0000,,Dlatego pomyślałyśmy, że w zamian możemy oprowadzić cię po szkole.
+Dialogue: 0,0:07:41.51,0:07:42.68,Yuusuke,,0000,0000,0000,,Dziękuję.
+Dialogue: 0,0:07:42.92,0:07:47.18,Yuusuke,,0000,0000,0000,,Wygląda na to, że możemy zapomnieć o wczorajszym incydencie...
+Dialogue: 0,0:07:47.18,0:07:48.99,Midori,,0000,0000,0000,,Więc chodźmy.
+Dialogue: 0,0:07:51.18,0:07:55.48,Tenjin,,0000,0000,0000,,Yuusuke! Nie mów mi, że pozostawiasz mnie za sobą!
+Dialogue: 0,0:07:55.60,0:08:00.42,Tenjin,,0000,0000,0000,,Nigdy więcej ci nie powiem, kiedy takie same reklamy pojawią się na różnych kanałach w tym samym momencie!
+Dialogue: 0,0:08:01.07,0:08:03.67,Tenjin,,0000,0000,0000,,No dalej, mój najlepszy przyjacielu na ziemi!
+Dialogue: 0,0:08:02.11,0:08:03.65,Yuusuke,,0000,0000,0000,,Jejku, aleś ty głośny...
+Dialogue: 0,0:08:03.90,0:08:05.40,Yuusuke,,0000,0000,0000,,Nie macie nic przeciwko temu, by się do nas przyłączył?
+Dialogue: 0,0:08:05.40,0:08:06.43,Midori,,0000,0000,0000,,Nie ma sprawy!
+Dialogue: 0,0:08:06.62,0:08:07.74,Yuusuke,,0000,0000,0000,,A ty Itsuki?
+Dialogue: 0,0:08:07.74,0:08:09.07,Itsuki,,0000,0000,0000,,Możecie iść.
+Dialogue: 0,0:08:09.62,0:08:11.39,Midori,,0000,0000,0000,,Więc, chodźmy.
+Dialogue: 0,0:08:11.39,0:08:12.94,Yuusuke,,0000,0000,0000,,Hej, Tenjin, chodźmy.
+Dialogue: 0,0:08:14.55,0:08:16.93,Tenjin,,0000,0000,0000,,Hej, czekaj!
+Dialogue: 0,0:08:23.02,0:08:25.61,Ichibanboshi,,0000,0000,0000,,W powietrzu mogę wyczuć młodość...
+Dialogue: 0,0:08:25.84,0:08:28.87,Bacchi-gu,,0000,0000,0000,,Na scenie jest tak dużo dziewczyn!
+Dialogue: 0,0:08:40.44,0:08:41.91,Yuusuke,,0000,0000,0000,,Souchou...
+Dialogue: 0,0:08:41.91,0:08:44.57,Midori,,0000,0000,0000,,Yuusuke-kun, nie masz żadnych specjalnych talentów?
+Dialogue: 0,0:08:44.63,0:08:45.21,Yuusuke,,0000,0000,0000,,Ech?
+Dialogue: 0,0:08:45.77,0:08:46.37,Yuusuke,,0000,0000,0000,,Ja?
+Dialogue: 0,0:08:48.54,0:08:50.00,Midori,,0000,0000,0000,,Może judo lub...
+Dialogue: 0,0:08:50.13,0:08:53.35,Tenjin,,0000,0000,0000,,Och, do judo mamy specjalną klasę w naszej szkole.
+Dialogue: 0,0:08:53.42,0:08:55.30,Midori,,0000,0000,0000,,Dobrze, więc chodźmy!
+Dialogue: 0,0:08:59.52,0:09:03.36,Yuusuke,,0000,0000,0000,,{\i1}Co, do cholery, ona sobie myśli?
+Dialogue: 0,0:09:03.86,0:09:06.82,Sanae,,0000,0000,0000,,Chitose-senpai, czy na pewno wszystko będzie dobrze?
+Dialogue: 0,0:09:06.82,0:09:07.64,Midori,,0000,0000,0000,,Coż...
+Dialogue: 0,0:09:07.64,0:09:14.46,Tenjin,,0000,0000,0000,,Yuusuke! Daj jej lekcję strachu przed mężczyznami!
+Dialogue: 0,0:09:24.07,0:09:26.46,Midori,,0000,0000,0000,,Nawet kibicowałyśmy ci...
+Dialogue: 0,0:09:26.46,0:09:28.15,Midori,,0000,0000,0000,,Nie możesz zakładać, że przegrasz!
+Dialogue: 0,0:09:28.15,0:09:32.75,Midori,,0000,0000,0000,,Jeśli wygrasz, wszyscy będą mieli lepsze zdanie o tobie, jak Hotta-senpai...
+Dialogue: 0,0:09:33.17,0:09:35.09,Midori,,0000,0000,0000,,Och, rozumiem...
+Dialogue: 0,0:09:36.13,0:09:39.21,Midori,,0000,0000,0000,,Rozproszyły cię piersi twojej przeciwniczki i zostałeś bez szans?
+Dialogue: 0,0:09:39.41,0:09:41.10,Yuusuke,,0000,0000,0000,,T-To nie tak...
+Dialogue: 0,0:09:42.48,0:09:43.76,Midori,,0000,0000,0000,,Zboczeniec.
+Dialogue: 0,0:09:48.88,0:09:50.72,Tenjin,,0000,0000,0000,,Sanae-chan!
+Dialogue: 0,0:09:51.10,0:09:55.38,Yuusuke,,0000,0000,0000,,Mówisz o tej dziewczynie, która jest wzrostu normalnego studenta, ale wygląda na ucznia szkoły podstawowej?
+Dialogue: 0,0:09:59.79,0:10:02.90,Ichibanboshi,,0000,0000,0000,,Ty rzeczywiście jesteś prostolinijny, wiedziałeś o tym?
+Dialogue: 0,0:10:03.71,0:10:04.98,Tenjin,,0000,0000,0000,,Powiem wprost!
+Dialogue: 0,0:10:05.22,0:10:07.88,Tenjin,,0000,0000,0000,,W momencie gdy zawiesisz oko na mojej dziewczynie - zabiję cię.
+Dialogue: 0,0:10:08.68,0:10:10.77,Tenjin,,0000,0000,0000,,Kiedy będziemy mieli materiał na pierwszą stronę gazety...
+Dialogue: 0,0:10:11.05,0:10:14.06,Tenjin,,0000,0000,0000,,Z podnieceniem będę oczekiwał każdego poranka!
+Dialogue: 0,0:10:14.56,0:10:16.42,Yuusuke,,0000,0000,0000,,To trochę niebezpieczne, no wiesz...
+Dialogue: 0,0:10:21.08,0:10:23.56,Bacchi-gu,,0000,0000,0000,,To jest zapach dziewcząt...
+Dialogue: 0,0:10:23.98,0:10:25.56,Souchou,,0000,0000,0000,,Itsuki sie przeziębił czy co?
+Dialogue: 0,0:10:25.60,0:10:26.06,Yuusuke,,0000,0000,0000,,Cóż...
+Dialogue: 0,0:10:25.77,0:10:30.16,Tenjin,,0000,0000,0000,,Tak właściwie to jeszcze nigdy nie braliśmy kąpieli razem z Itsukim.
+Dialogue: 0,0:10:42.62,0:10:47.46,Bacchi-gu,,0000,0000,0000,,Jeszcze kilka minut temu, w tym miejscu były dziewczęta!
+Dialogue: 0,0:10:51.54,0:10:54.82,Bacchi-gu,,0000,0000,0000,,Całkiem smaczna.
+Dialogue: 0,0:10:56.94,0:10:58.89,Tenjin,,0000,0000,0000,,Co ty robisz?
+Dialogue: 0,0:11:06.94,0:11:09.08,Ktos z tylu,,0000,0000,0000,,Czy w szkole, do której chodzisz, masz dziewczynę?
+Dialogue: 0,0:11:09.11,0:11:11.21,Ktos z tylu,,0000,0000,0000,,Jakiego typu dziewczyny lubisz, Kobayashi-kun?
+Dialogue: 0,0:11:11.21,0:11:12.60,Itsuki,,0000,0000,0000,,Dziewczyny, które nie mówią za dużo.
+Dialogue: 0,0:11:15.33,0:11:18.82,Bacchi-gu,,0000,0000,0000,,To prawda, że Itsuki jest całkiem przystojny...
+Dialogue: 0,0:11:19.85,0:11:21.78,Bacchi-gu,,0000,0000,0000,,Souchou ma swoje karate...
+Dialogue: 0,0:11:22.44,0:11:24.88,Bacchi-gu,,0000,0000,0000,,Tenjin pewnie będzie z tą laską z pierwszego roku...
+Dialogue: 0,0:11:25.14,0:11:27.89,Ktos z tylu,,0000,0000,0000,,Widzę, że jesteś całkiem obeznany w tych sprawach, Kuyasu-kun!
+Dialogue: 0,0:11:27.90,0:11:30.17,Ktos z tylu,,0000,0000,0000,,Więc, co wiesz o Białej Magii?
+Dialogue: 0,0:11:30.17,0:11:31.33,Kuyasu,,0000,0000,0000,,Tak...
+Dialogue: 0,0:11:31.35,0:11:33.15,Bacchi-gu,,0000,0000,0000,,Nawet Dokugasu ma...
+Dialogue: 0,0:11:34.26,0:11:38.04,Bacchi-gu,,0000,0000,0000,,Ale co z nami? Taki stan rzeczy nie może się utrzymywać!
+Dialogue: 0,0:11:38.04,0:11:41.53,Yuusuke,,0000,0000,0000,,Ale wiesz... Ty tylko zbierasz to co posiałeś.
+Dialogue: 0,0:11:41.77,0:11:45.17,Bacchi-gu,,0000,0000,0000,,Chcesz mi powiedzieć, że to mój błąd? Czy nie jesteśmy przyjaciółmi?!
+Dialogue: 0,0:11:45.17,0:11:48.10,Bacchi-gu,,0000,0000,0000,,Co się stało z naszą przyjaźnią? Co? Co?!
+Dialogue: 0,0:11:48.81,0:11:53.57,Ichibanboshi,,0000,0000,0000,,Nie złość się tak o to... Yuusuke i tak ma rację.
+Dialogue: 0,0:11:55.90,0:11:59.95,Yuusuke,,0000,0000,0000,,Bacchi-gu, przeprosiłeś tę dziewczynę, Haruno?
+Dialogue: 0,0:12:01.40,0:12:03.33,Futaba,,0000,0000,0000,,Powiedziałam byś przestała...
+Dialogue: 0,0:12:05.64,0:12:07.31,Bacchi-gu,,0000,0000,0000,,D-dobra.
+Dialogue: 0,0:12:08.43,0:12:09.89,Bacchi-gu,,0000,0000,0000,,Moje dziewczęce towarzyszki!
+Dialogue: 0,0:12:11.67,0:12:13.77,Bacchi-gu,,0000,0000,0000,,Wymażmy z pamięci to, co stało się wcześniej...
+Dialogue: 0,0:12:15.12,0:12:18.84,Bacchi-gu,,0000,0000,0000,,Więc, bądźmy przyjaźni... Czy jesteście teraz szczęśliwe?
+Dialogue: 0,0:12:19.18,0:12:21.06,Futaba,,0000,0000,0000,,Zaraz ciebie wymażę!
+Dialogue: 0,0:12:21.06,0:12:23.39,Haruna,,0000,0000,0000,,Musisz jeszcze raz przemyśleć to co niewątpliwie zrobiłeś!
+Dialogue: 0,0:12:23.39,0:12:24.17,Bacchi-gu,,0000,0000,0000,,Przemyśleć to?
+Dialogue: 0,0:12:24.17,0:12:24.70,Ktos z tylu,,0000,0000,0000,,Idiota!
+Dialogue: 0,0:12:24.71,0:12:25.37,Ktos z tylu,,0000,0000,0000,,Niedorozwinięty!
+Dialogue: 0,0:12:25.37,0:12:26.33,Ktos z tylu,,0000,0000,0000,,Giń!
+Dialogue: 0,0:12:26.61,0:12:27.53,Ktos z tylu,,0000,0000,0000,,Ty stary zboczeńcu!
+Dialogue: 0,0:12:27.53,0:12:28.80,Ktos z tylu,,0000,0000,0000,,Bezużyteczny drań!
+Dialogue: 0,0:12:30.67,0:12:32.32,Midori,,0000,0000,0000,,Yuusuke-kun!
+Dialogue: 0,0:12:32.46,0:12:33.93,Yuusuke,,0000,0000,0000,,Chi... Chitose.
+Dialogue: 0,0:12:34.20,0:12:37.32,Midori,,0000,0000,0000,,Dzień dobry Ijuin-kun... Ichobanboshi-kun.
+Dialogue: 0,0:12:40.16,0:12:41.50,Haruna,,0000,0000,0000,,Co ona chciała powiedzieć przez "Ijuin"?
+Dialogue: 0,0:12:41.52,0:12:42.91,Ktos z tylu,,0000,0000,0000,,Był tam taki facet?
+Dialogue: 0,0:12:42.92,0:12:43.89,Ktos z tylu,,0000,0000,0000,,Nie było...
+Dialogue: 0,0:12:43.90,0:12:46.81,Bacchi-gu,,0000,0000,0000,,Ona mówi o mnie! Czemu zapomniałyście?!
+Dialogue: 0,0:12:46.86,0:12:50.75,Futaba,,0000,0000,0000,,Głupek! Zboczeniec taki jak ty nie zasługuje na takie imię!
+Dialogue: 0,0:12:50.83,0:12:52.09,Bacchi-gu,,0000,0000,0000,,Chcesz się o tym przekonać?
+Dialogue: 0,0:12:52.09,0:12:53.46,Futaba,,0000,0000,0000,,Coś ty powiedział?
+Dialogue: 0,0:12:55.64,0:13:00.02,Midori,,0000,0000,0000,,Ej, ej, Futaba-chan, Ijuin-kun, chodźmy razem, dobrze?
+Dialogue: 0,0:13:00.04,0:13:04.06,Futaba,,0000,0000,0000,,Midori-chan, nie ma szans byśmy szły razem, z takimi facetami!
+Dialogue: 0,0:13:04.06,0:13:05.64,Midori,,0000,0000,0000,,Co chcesz powiedzieć przez "takimi facetami"...?
+Dialogue: 0,0:13:06.96,0:13:09.89,Midori,,0000,0000,0000,,Dla mnie wydają się być całkiem mili.
+Dialogue: 0,0:13:10.03,0:13:13.50,Midori,,0000,0000,0000,,Co jest "całkiem miłe" w facetach, którzy robią takie zboczone rzeczy?!
+Dialogue: 0,0:13:14.13,0:13:16.84,Ichibanboshi,,0000,0000,0000,,Futaba-chan. wracając do tamtego zdarzenia, to po prostu...
+Dialogue: 0,0:13:17.01,0:13:19.70,Ichibanboshi,,0000,0000,0000,,...trochę za bardzo sobie zażartowaliśmy...
+Dialogue: 0,0:13:20.03,0:13:23.56,Ichibanboshi,,0000,0000,0000,,I jest nam naprawdę... przykro z tego powodu, i...
+Dialogue: 0,0:13:23.56,0:13:25.43,Futaba,,0000,0000,0000,,Zboczeniec! Nie podchodź...
+Dialogue: 0,0:13:27.87,0:13:29.84,Futaba,,0000,0000,0000,,...do mnie!
+Dialogue: 0,0:13:30.73,0:13:31.92,Midori,,0000,0000,0000,,Futaba-chan!
+Dialogue: 0,0:13:38.44,0:13:40.09,Yuusuke,,0000,0000,0000,,Wszystko w porządku?
+Dialogue: 0,0:13:41.46,0:13:43.45,Ichibanboshi,,0000,0000,0000,,O-on... stanął!
+Dialogue: 0,0:13:44.30,0:13:45.34,Bacchi-gu,,0000,0000,0000,,On jest dorosły.
+Dialogue: 0,0:13:53.66,0:13:55.36,Bacchi-gu,,0000,0000,0000,,Nie ma tutaj Souchou?
+Dialogue: 0,0:13:55.36,0:13:57.86,Yuusuke,,0000,0000,0000,,Hej... co chcecie zrobić...
+Dialogue: 0,0:13:59.92,0:14:02.90,Bacchi-gu,,0000,0000,0000,,Co myślisz o Chitose Midori?
+Dialogue: 0,0:14:03.01,0:14:04.46,Yuusuke,,0000,0000,0000,,Co przez to rozumiesz?
+Dialogue: 0,0:14:04.55,0:14:05.29,Yuusuke,,0000,0000,0000,,Cóż...
+Dialogue: 0,0:14:05.49,0:14:06.07,Yuusuke,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:07.01,0:14:12.04,Bacchi-gu,,0000,0000,0000,,Ta dziewczyna przyszła z innej klasy, tylko po to by z nami porozmawiać, tak?
+Dialogue: 0,0:14:12.14,0:14:13.03,Yuusuke,,0000,0000,0000,,T-tak.
+Dialogue: 0,0:14:15.16,0:14:18.32,Bacchi-gu,,0000,0000,0000,,Jeśli wytłumaczę ci to stąd, to nawet ty to zrozumiesz, nie?
+Dialogue: 0,0:14:18.32,0:14:19.45,Bacchi-gu,,0000,0000,0000,,Ona ma chętkę...
+Dialogue: 0,0:14:19.46,0:14:21.60,Yuusuke,,0000,0000,0000,,Ah! Naprawdę tak uważasz?
+Dialogue: 0,0:14:22.66,0:14:23.50,Bacchi-gu,,0000,0000,0000,,Na mnie.
+Dialogue: 0,0:14:24.54,0:14:25.02,Yuusuke,,0000,0000,0000,,Co?
+Dialogue: 0,0:14:25.61,0:14:30.01,Bacchi-gu,,0000,0000,0000,,Mężczyzna nie może stać i patrzeć, kiedy jest ciągle kuszony!
+Dialogue: 0,0:14:32.05,0:14:32.55,Yuusuke,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:33.12,0:14:35.19,Ichibanboshi,,0000,0000,0000,,Chociaż sprawy tego rodzaju nie są tak naprawdę moim hobby...
+Dialogue: 0,0:14:35.19,0:14:36.31,Yuusuke,,0000,0000,0000,,Ichibanboshi?
+Dialogue: 0,0:14:36.40,0:14:38.46,Ichibanboshi,,0000,0000,0000,,Tak czy siak został nam tylko jeden dzień.
+Dialogue: 0,0:14:38.67,0:14:45.73,Ichibanboshi,,0000,0000,0000,,Sprawię by ta zawzięta dziewczyna uległa mi i mówiła do mnie "Ichibanboshi-sama"!
+Dialogue: 0,0:14:47.06,0:14:50.24,Yuusuke,,0000,0000,0000,,H-hej! Dalej nie rozumiem o czym mówicie...
+Dialogue: 0,0:14:47.47,0:14:50.26,Bacchi-gu,,0000,0000,0000,,Idę stać się mężczyzną!
+Dialogue: 0,0:14:50.26,0:14:51.19,Itsuki,,0000,0000,0000,,Wniosek...
+Dialogue: 0,0:14:51.19,0:14:51.58,Yuusuke,,0000,0000,0000,,Ech?
+Dialogue: 0,0:14:52.21,0:14:53.23,Itsuki,,0000,0000,0000,,Idą na nocne łowy.
+Dialogue: 0,0:14:53.76,0:14:54.91,Yuusuke,,0000,0000,0000,,Nocne łowy?
+Dialogue: 0,0:14:55.18,0:14:57.09,Yuusuke,,0000,0000,0000,,Chitose... Chitose ma kłopoty!
+Dialogue: 0,0:14:57.17,0:14:59.59,Itsuki,,0000,0000,0000,,Zostaw ich. Nie ma się o co martwić.
+Dialogue: 0,0:14:59.65,0:15:00.68,Yuusuke,,0000,0000,0000,,A-ale...!
+Dialogue: 0,0:15:00.99,0:15:04.80,Itsuki,,0000,0000,0000,,Nie ma szans, żeby wokół dormitorium dziewcząt nie było żadnej ochrony, nie?
+Dialogue: 0,0:15:04.95,0:15:05.95,Yuusuke,,0000,0000,0000,,Ochrony?
+Dialogue: 0,0:15:08.23,0:15:09.09,Ktos z tylu,,0000,0000,0000,,To zboczeniec!
+Dialogue: 0,0:15:09.09,0:15:13.49,Bacchi-gu,,0000,0000,0000,,Cześć mamo, jak się czujesz? Jesteśmy teraz w mieście.
+Dialogue: 0,0:15:13.49,0:15:18.81,Bacchi-gu,,0000,0000,0000,,Miasto to naprawdę straszne miejsce. Zauważyli nas dzięki Ichibanboshiemu.
+Dialogue: 0,0:15:18.81,0:15:19.67,Ichibanboshi,,0000,0000,0000,,To wszystko twoja wina.
+Dialogue: 0,0:15:19.67,0:15:20.74,Bacchi-gu,,0000,0000,0000,,Nie, to twoja wina.
+Dialogue: 0,0:15:20.74,0:15:21.99,Ichibanboshi,,0000,0000,0000,,Nie, nie, to twoja wina.
+Dialogue: 0,0:15:22.01,0:15:22.81,Bacchi-gu,,0000,0000,0000,,To na pewno twoja wina.
+Dialogue: 0,0:15:24.40,0:15:27.25,Bacchi-gu,,0000,0000,0000,,C-c-coś ty powiedział?!
+Dialogue: 0,0:15:27.55,0:15:29.80,Ichibanboshi,,0000,0000,0000,,Powiedziałem, że zostaliśmy wrobieni!
+Dialogue: 0,0:15:29.80,0:15:32.75,Bacchi-gu,,0000,0000,0000,,Hej, hej, Yuusuke, byliśmy w swoich pokojach, nie?
+Dialogue: 0,0:15:32.75,0:15:33.75,Yuusuke,,0000,0000,0000,,T-tak...
+Dialogue: 0,0:15:33.75,0:15:34.92,Futaba,,0000,0000,0000,,On kłamie!
+Dialogue: 0,0:15:38.04,0:15:41.26,Ichibanboshi,,0000,0000,0000,,Sądzisz, że jesteśmy zamieszani we wczorajszy incydent,
+Dialogue: 0,0:15:41.66,0:15:44.98,Ichibanboshi,,0000,0000,0000,,ale nie masz żadnych dowodów... czyż nie, Futaba-chan?
+Dialogue: 0,0:15:45.46,0:15:47.81,Futaba,,0000,0000,0000,,Więc skąd macie te zadrapania?
+Dialogue: 0,0:15:47.91,0:15:52.76,Ichibanboshi,,0000,0000,0000,,O-one są... przez to, że byliśmy ścigani przez dzikie psy...
+Dialogue: 0,0:15:54.00,0:15:55.41,Futaba,,0000,0000,0000,,Nie zgrywajcie niewiniątek!
+Dialogue: 0,0:15:55.41,0:15:58.88,Ichibanboshi,,0000,0000,0000,,P-prawda, Yuusuke? Były naprawdę duże, nie?
+Dialogue: 0,0:15:58.90,0:15:59.83,Yuusuke,,0000,0000,0000,,T-tak...
+Dialogue: 0,0:15:59.84,0:16:01.77,Ktos z tylu,,0000,0000,0000,,Pospieszcie się i przyznajcie.
+Dialogue: 0,0:16:01.77,0:16:03.06,Ktos z tylu,,0000,0000,0000,,Jesteście pełni kłamstw!
+Dialogue: 0,0:16:03.06,0:16:03.82,Ktos z tylu,,0000,0000,0000,,Nie wierzę wam.
+Dialogue: 0,0:16:03.83,0:16:04.69,Ktos z tylu,,0000,0000,0000,,Jesteście najgorsi!
+Dialogue: 0,0:16:04.69,0:16:06.70,Iino-sensei,,0000,0000,0000,,Dobra, dobra, wystarczy.
+Dialogue: 0,0:16:07.04,0:16:11.38,Iino-sensei,,0000,0000,0000,,Z tego co do tej pory słyszałam, nie ma żadnych dowodów, że ci chłopcy są w to zamieszani.
+Dialogue: 0,0:16:11.48,0:16:12.28,Haruna,,0000,0000,0000,,Ale...
+Dialogue: 0,0:16:12.28,0:16:16.84,Bacchi-gu,,0000,0000,0000,,Ach, zostaliśmy wrobieni... Czuję się urażony.
+Dialogue: 0,0:16:18.06,0:16:20.28,Ichibanboshi,,0000,0000,0000,,Krew wypływa z moich ran, mamo.
+Dialogue: 0,0:16:20.45,0:16:22.48,Ichibanboshi,,0000,0000,0000,,Przez całe moje życie nie powiedziałem choćby jednego małego kłamstewka...
+Dialogue: 0,0:16:22.81,0:16:25.21,Ichibanboshi,,0000,0000,0000,,Mamo, która część mnie jest zła?
+Dialogue: 0,0:16:25.38,0:16:28.05,Ichibanboshi,,0000,0000,0000,,Mamo, czy jestem złym chłopcem?
+Dialogue: 0,0:16:28.17,0:16:30.15,Ichibanboshi,,0000,0000,0000,,Powiedz mi mamo...!
+Dialogue: 0,0:16:30.15,0:16:34.29,Ktos z tylu,,0000,0000,0000,,Cóż za katastrofa! Mówi się, że skradziono bieliznę Chitose Midori-san!
+Dialogue: 0,0:16:34.29,0:16:36.85,Bacchi-gu,,0000,0000,0000,,C-czekaj, my nigdy nie zrobilibyśmy takiej rzeczy!
+Dialogue: 0,0:16:37.28,0:16:41.72,Ichibanboshi,,0000,0000,0000,,T-tak... nie mieliśmy czasu, by robić takie rzeczy...
+Dialogue: 0,0:16:41.74,0:16:43.45,Futaba,,0000,0000,0000,,Więc to byliście wy!
+Dialogue: 0,0:16:43.45,0:16:44.52,Haruna,,0000,0000,0000,,A więc, postanowione!
+Dialogue: 0,0:16:44.61,0:16:47.30,Haruna,,0000,0000,0000,,Będziecie musieli po prostu w tej chwili stąd wyjechać!
+Dialogue: 0,0:16:47.74,0:16:48.73,Ktos z tylu,,0000,0000,0000,,Wynoście się!
+Dialogue: 0,0:16:48.80,0:16:49.79,Ktos z tylu,,0000,0000,0000,,Wracajcie z powrotem na wieś!
+Dialogue: 0,0:16:49.79,0:16:52.92,Iino-sensei,,0000,0000,0000,,Jejku, dajcie spokój... Czekajcie chłopcy.
+Dialogue: 0,0:16:52.92,0:16:55.49,Bacchi-gu,,0000,0000,0000,,Jeśli nadal tak o nas mówicie, obawiam się, że nie mamy innego wyboru.
+Dialogue: 0,0:16:56.26,0:16:57.61,Haruna,,0000,0000,0000,,Więc jednak macie zamiar się wynieść?
+Dialogue: 0,0:16:57.61,0:17:01.78,Bacchi-gu,,0000,0000,0000,,Nie możemy tak po prostu wyjechać gdy zostaliśmy posądzeni o kradzież bielizny!
+Dialogue: 0,0:17:01.83,0:17:07.56,Bacchi-gu,,0000,0000,0000,,Będziemy musieli złapać przestępcę i udowodnić naszą niewinność!
+Dialogue: 0,0:17:07.72,0:17:08.86,Ichibanboshi,,0000,0000,0000,,Tak, on ma rację!
+Dialogue: 0,0:17:08.86,0:17:10.73,Yuusuke,,0000,0000,0000,,Złapać go? Ale jak?
+Dialogue: 0,0:17:11.26,0:17:12.55,Bacchi-gu,,0000,0000,0000,,Prawda, Yuusuke?
+Dialogue: 0,0:17:12.55,0:17:14.39,Yuusuke,,0000,0000,0000,,Co? To ja także muszę to robić?
+Dialogue: 0,0:17:20.58,0:17:23.79,Itsuki,,0000,0000,0000,,Jezu... Czemu my też musimy to robić...
+Dialogue: 0,0:17:24.10,0:17:26.67,Itsuki,,0000,0000,0000,,Hej, dobrze trzymasz wartę?
+Dialogue: 0,0:17:27.63,0:17:28.96,Kuyasu,,0000,0000,0000,,Tak jest.
+Dialogue: 0,0:17:31.79,0:17:35.30,Kuyasu,,0000,0000,0000,,To jest mój specjalny talent...
+Dialogue: 0,0:17:39.04,0:17:42.54,Bacchi-gu,,0000,0000,0000,,Ale miasto jest w nocy gorące!
+Dialogue: 0,0:17:44.21,0:17:48.58,Ichibanboshi,,0000,0000,0000,,Naprawdę... Powinienem teraz spać sobie w miłym, klimatyzowanym pokoju...
+Dialogue: 0,0:17:48.70,0:17:50.50,Yuusuke,,0000,0000,0000,,A myślisz, że czyj to był błąd?!
+Dialogue: 0,0:17:50.50,0:17:53.06,Bacchi-gu,,0000,0000,0000,,To dlatego trzymamy wartę, nie?
+Dialogue: 0,0:17:53.06,0:17:54.84,Ichibanboshi,,0000,0000,0000,,Tak, tak, powinieneś być nam wdzięczny.
+Dialogue: 0,0:17:54.98,0:17:56.63,Yuusuke,,0000,0000,0000,,Wrobiliście nas w to!
+Dialogue: 0,0:17:57.06,0:18:00.16,Bacchi-gu,,0000,0000,0000,,Ale jest tak gorąco, że nie mogę przestać się pocić.
+Dialogue: 0,0:18:00.32,0:18:02.16,Bacchi-gu,,0000,0000,0000,,Yuusuke, chusteczka...
+Dialogue: 0,0:18:02.30,0:18:03.42,Yuusuke,,0000,0000,0000,,Nie mam.
+Dialogue: 0,0:18:03.54,0:18:04.73,Bacchi-gu,,0000,0000,0000,,A ty, Ichobanboshi?
+Dialogue: 0,0:18:04.80,0:18:06.81,Ichibanboshi,,0000,0000,0000,,Ach, chusteczka...
+Dialogue: 0,0:18:07.36,0:18:08.74,Bacchi-gu,,0000,0000,0000,,A, tutaj jest jedna.
+Dialogue: 0,0:18:10.42,0:18:10.96,Ichibanboshi,,0000,0000,0000,,Proszę.
+Dialogue: 0,0:18:11.45,0:18:12.30,Bacchi-gu,,0000,0000,0000,,Dziękuję...
+Dialogue: 0,0:18:12.30,0:18:15.52,Ichibanboshi,,0000,0000,0000,,Ale, czy naprawdę zamierzasz złapać przestępcę?
+Dialogue: 0,0:18:15.55,0:18:17.12,Ichibanboshi,,0000,0000,0000,,Jutro wracamy do domu, przecież wiesz.
+Dialogue: 0,0:18:17.39,0:18:19.21,Bacchi-gu,,0000,0000,0000,,Nie ma znaczenia, czy go nie złapiemy, czy nie.
+Dialogue: 0,0:18:20.04,0:18:22.28,Bacchi-gu,,0000,0000,0000,,Prawdziwy sprawca zostanie złapany wcześniej czy później, a wtedy...
+Dialogue: 0,0:18:22.74,0:18:25.63,Bacchi-gu,,0000,0000,0000,,"Oh, wyrządziłyśmy wielką krzywdę Ijuin`owi."
+Dialogue: 0,0:18:26.36,0:18:30.12,Bacchi-gu,,0000,0000,0000,,"To prawda, napiszmy do niego list!" Coś takiego się stanie.
+Dialogue: 0,0:18:30.34,0:18:32.47,Ichibanboshi,,0000,0000,0000,,Ooh! Cóż za wspaniały plan!
+Dialogue: 0,0:18:32.47,0:18:35.94,Bacchi-gu,,0000,0000,0000,,A po wszystkim, bandyta, który wykonał taką zbrodnię będzie stęskniony...
+Dialogue: 0,0:18:36.01,0:18:38.56,Bacchi-gu,,0000,0000,0000,,Nie będzie mógł powstrzymać swoich własnych żądz...
+Dialogue: 0,0:18:38.96,0:18:41.22,Bacchi-gu,,0000,0000,0000,,To może być to...!
+Dialogue: 0,0:18:41.88,0:18:44.72,Yuusuke,,0000,0000,0000,,Nie opowiadaj rzeczy, z których głupi by się uśmiał!
+Dialogue: 0,0:18:46.08,0:18:47.64,Bacchi-gu,,0000,0000,0000,,W tamtym miejscu jest pułapka.
+Dialogue: 0,0:18:47.91,0:18:49.03,Yuusuke,,0000,0000,0000,,Mogłeś mi wcześniej powiedzieć!
+Dialogue: 0,0:18:49.03,0:18:53.47,Bacchi-gu,,0000,0000,0000,,Dodatkowo dla zapełnienia dziury, poświęciliśmy mnóstwo małych gwoździków.
+Dialogue: 0,0:18:53.68,0:18:55.00,Yuusuke,,0000,0000,0000,,Czy wy chcecie kogoś zabić?!
+Dialogue: 0,0:19:03.50,0:19:05.34,Midori,,0000,0000,0000,,Proszę, jedz.
+Dialogue: 0,0:19:08.14,0:19:11.21,Midori,,0000,0000,0000,,Przepraszam... To wszystko z powodu moich majteczek...
+Dialogue: 0,0:19:11.28,0:19:14.50,Yuusuke,,0000,0000,0000,,N-nie, chcę po prostu oczyścić swoje dobre imię, to wszystko.
+Dialogue: 0,0:19:15.51,0:19:16.89,Midori,,0000,0000,0000,,Yuusuke-kun...
+Dialogue: 0,0:19:18.84,0:19:21.67,Midori,,0000,0000,0000,,Po prostu się przyznaj. Zatrzymam to w tajemnicy.
+Dialogue: 0,0:19:22.12,0:19:27.02,Midori,,0000,0000,0000,,Nocny łowca w moim pokoju... to byłeś ty, tak?
+Dialogue: 0,0:19:27.14,0:19:27.71,Yuusuke,,0000,0000,0000,,Ech?
+Dialogue: 0,0:19:27.80,0:19:31.34,Midori,,0000,0000,0000,,To również ty zabrałeś moje majteczki, tak?
+Dialogue: 0,0:19:31.39,0:19:34.11,Yuusuke,,0000,0000,0000,,M-mylisz się! To nie byłem ja!
+Dialogue: 0,0:19:35.66,0:19:38.75,Midori,,0000,0000,0000,,Cóż... Jeśli tak to wygląda...
+Dialogue: 0,0:19:38.88,0:19:40.10,Midori,,0000,0000,0000,,Jestem zawiedziona.
+Dialogue: 0,0:19:43.81,0:19:47.07,Yuusuke,,0000,0000,0000,,Czemu starasz się być dla nas miła?
+Dialogue: 0,0:19:47.17,0:19:50.35,Midori,,0000,0000,0000,,Tak właściwie to nie jestem dla was miła...
+Dialogue: 0,0:19:50.70,0:19:51.63,Yuusuke,,0000,0000,0000,,Naprawdę?
+Dialogue: 0,0:19:52.41,0:19:54.80,Midori,,0000,0000,0000,,Jejku, wy chyba naprawdę jesteście tępi, nie?
+Dialogue: 0,0:19:55.01,0:19:55.66,Yuusuke,,0000,0000,0000,,Ech?
+Dialogue: 0,0:19:55.93,0:19:59.70,Midori,,0000,0000,0000,,Ważniejsze jest... pytanie numer jeden, czy mogę je zadać?
+Dialogue: 0,0:19:59.70,0:20:00.55,Yuusuke,,0000,0000,0000,,T-tak.
+Dialogue: 0,0:20:00.73,0:20:03.20,Midori,,0000,0000,0000,,Czemu mnie kryłeś?
+Dialogue: 0,0:20:03.48,0:20:04.73,Yuusuke,,0000,0000,0000,,Kryłem? Kiedy?
+Dialogue: 0,0:20:04.73,0:20:08.33,Midori,,0000,0000,0000,,Kiedy spotkaliśmy się po raz pierwszy, w pokoju pielęgniarki...
+Dialogue: 0,0:20:08.70,0:20:13.16,Midori,,0000,0000,0000,,Wylałam na twoją koszulkę wodę, ale nie powiedziałeś o tym nauczycielce...
+Dialogue: 0,0:20:13.58,0:20:14.74,Yuusuke,,0000,0000,0000,,A, to?
+Dialogue: 0,0:20:16.97,0:20:17.71,Midori,,0000,0000,0000,,Tak!
+Dialogue: 0,0:20:17.76,0:20:19.84,Yuusuke,,0000,0000,0000,,Cóż, nie miałem jakiegoś szczególnego powodu...
+Dialogue: 0,0:20:19.84,0:20:21.20,Midori,,0000,0000,0000,,Więc nie masz żadnego?
+Dialogue: 0,0:20:21.26,0:20:23.23,Yuusuke,,0000,0000,0000,,Hm, jeśli powiem, że zrobiłem to, ponieważ...
+Dialogue: 0,0:20:23.28,0:20:24.43,Midori,,0000,0000,0000,,Zrobiłeś, ponieważ...?
+Dialogue: 0,0:20:27.25,0:20:28.13,Yuusuke,,0000,0000,0000,,Zastanawiam się co to mogłoby być.
+Dialogue: 0,0:20:30.07,0:20:32.93,Yuusuke,,0000,0000,0000,,Pytanie numer dwa. Czemu się mnie o to pytasz?
+Dialogue: 0,0:20:32.93,0:20:34.96,Midori,,0000,0000,0000,,Ech? Cóż, to...
+Dialogue: 0,0:20:36.08,0:20:39.22,Midori,,0000,0000,0000,,Co mogę powiedzieć... bez szczególnego powodu...
+Dialogue: 0,0:20:39.22,0:20:39.76,Yuusuke,,0000,0000,0000,,Rozumiem.
+Dialogue: 0,0:20:42.03,0:20:43.99,Yuusuke,,0000,0000,0000,,Te onigiri są pyszne!
+Dialogue: 0,0:20:44.29,0:20:45.75,Yuusuke,,0000,0000,0000,,Hmm? Co się stało?
+Dialogue: 0,0:20:46.19,0:20:47.90,Midori,,0000,0000,0000,,Nie, to nic ważnego.
+Dialogue: 0,0:20:50.65,0:20:53.44,Midori,,0000,0000,0000,,Nigdy wcześniej nie widziałam tak wielu gwiazd.
+Dialogue: 0,0:20:53.44,0:20:53.93,Yuusuke,,0000,0000,0000,,Co?
+Dialogue: 0,0:20:54.30,0:20:58.19,Midori,,0000,0000,0000,,Cóż, tak właściwie to nigdy nie miałam okazji widzieć nieba pokrytego tyloma gwiazdami.
+Dialogue: 0,0:20:58.20,0:21:00.32,Yuusuke,,0000,0000,0000,,We wszechświecie jest o wiele więcej gwiazd niż te, które widzisz teraz.
+Dialogue: 0,0:21:00.56,0:21:01.23,Midori,,0000,0000,0000,,Co?
+Dialogue: 0,0:21:02.72,0:21:03.91,Midori,,0000,0000,0000,,Więcej?
+Dialogue: 0,0:21:04.00,0:21:06.78,Yuusuke,,0000,0000,0000,,Tak. Moja szkoła leży na terenach wiejskich.
+Dialogue: 0,0:21:07.23,0:21:11.92,Yuusuke,,0000,0000,0000,,Powietrze jest czyste, więc te same gwiazdy świecą jaśniej, a na niebie jest ich o wiele więcej...
+Dialogue: 0,0:21:12.12,0:21:18.44,Yuusuke,,0000,0000,0000,,I nawet w bezksiężycową noc, możesz zobaczyć zarys gór, oświetlone przez światło gwiazd.
+Dialogue: 0,0:21:21.62,0:21:25.50,Midori,,0000,0000,0000,,Też chciałabym zobaczyć takie rozgwieżdżone niebo.
+Dialogue: 0,0:21:25.69,0:21:26.89,Midori,,0000,0000,0000,,Yuusuke-kun...
+Dialogue: 0,0:21:27.30,0:21:27.84,Yuusuke,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:21:28.08,0:21:32.98,Midori,,0000,0000,0000,,Pytanie numer trzy... Czy następnym razem mogę przyjechać do twojego domu?
+Dialogue: 0,0:21:33.89,0:21:36.67,Yuusuke,,0000,0000,0000,,Oczywiście... zawsze będziesz mile widziana.
+Dialogue: 0,0:21:38.06,0:21:39.99,Midori,,0000,0000,0000,,Więc, przyrzeknijmy sobie.
+Dialogue: 0,0:21:57.31,0:21:58.40,Yuusuke,,0000,0000,0000,,To był sen?
+Dialogue: 0,0:21:59.37,0:22:01.29,Yuusuke,,0000,0000,0000,,Przepraszam, musiałem się zdrzemnąć.
+Dialogue: 0,0:22:02.00,0:22:04.19,Midori,,0000,0000,0000,,Nie, wszystko w porządku.
+Dialogue: 0,0:22:07.86,0:22:09.53,Midori,,0000,0000,0000,,Więc, powodzenia.
+Dialogue: 0,0:22:10.05,0:22:11.12,Yuusuke,,0000,0000,0000,,Ach, tak.
+Dialogue: 0,0:22:14.10,0:22:15.83,Yuusuke,,0000,0000,0000,,Co ty wyprawiasz?!
+Dialogue: 0,0:22:17.79,0:22:21.19,Bacchi-gu,,0000,0000,0000,,Zrobiłeś to, nie? Najwyraźniej to zrobiłeś, nie?
+Dialogue: 0,0:22:21.20,0:22:22.96,Yuusuke,,0000,0000,0000,,O-o czym ty mówisz?
+Dialogue: 0,0:22:24.34,0:22:25.53,Bacchi-gu,,0000,0000,0000,,Oglądanie gwiazd!
+Dialogue: 0,0:22:25.56,0:22:26.95,Bacchi-gu,,0000,0000,0000,,I powtarzamy!
+Dialogue: 0,0:22:26.95,0:22:28.08,Wszyscy trzej,,0000,0000,0000,,Oglądanie gwiazd!
+Dialogue: 0,0:22:28.96,0:22:30.01,Bacchi-gu,,0000,0000,0000,,Rozluźnij się!
+Dialogue: 0,0:22:30.19,0:22:31.28,Wszyscy trzej,,0000,0000,0000,,Rozluźnij się!
+Dialogue: 0,0:22:31.30,0:22:34.18,Wszyscy trzej,,0000,0000,0000,,I finałowo, seks!
+Dialogue: 0,0:22:35.81,0:22:37.94,Bacchi-gu,,0000,0000,0000,,Zrobiłeś to, mam rację?!
+Dialogue: 0,0:22:38.21,0:22:41.29,Bacchi-gu,,0000,0000,0000,,Tak jak myślałem!
+Dialogue: 0,0:22:41.51,0:22:42.94,Bacchi-gu,,0000,0000,0000,,Zrobiłeś to?
+Dialogue: 0,0:22:42.94,0:22:45.07,Itsuki,,0000,0000,0000,,Hej, co wy robicie?
+Dialogue: 0,0:22:45.07,0:22:49.37,Bacchi-gu,,0000,0000,0000,,Ten facet opuścił swoją wartę, żeby zrobić "to" z dziewczyną!
+Dialogue: 0,0:22:49.37,0:22:50.88,Souchou,,0000,0000,0000,,Zrobić "to" z dziewczyną?
+Dialogue: 0,0:22:50.88,0:22:54.36,Yuusuke,,0000,0000,0000,,C-co ty pleciesz? O-on się myli! Mówię wam, on jest w błędzie!
+Dialogue: 0,0:22:54.36,0:22:57.08,Yuusuke,,0000,0000,0000,,Ach n-nie, może jednak...
+Dialogue: 0,0:22:57.70,0:23:00.19,Yuusuke,,0000,0000,0000,,Ach, ale nie robiłem "tego" z dziewczyną...
+Dialogue: 0,0:23:01.21,0:23:07.67,Souchou,,0000,0000,0000,,UCZUCIE!
+Dialogue: 0,0:23:10.41,0:23:11.55,Yuusuke,,0000,0000,0000,,To bolało...
+Dialogue: 0,0:23:11.55,0:23:12.38,Itsuki,,0000,0000,0000,,Wszystko w porządku?
+Dialogue: 0,0:23:12.39,0:23:15.00,Tenjin,,0000,0000,0000,,Yuusuke, wszystko dobrze?
+Dialogue: 0,0:23:31.82,0:23:33.84,Bacchi-gu,,0000,0000,0000,,To jest prawdziwy złodziej!
+Dialogue: 0,0:23:36.26,0:23:40.62,Tenjin,,0000,0000,0000,,To przez to, że młode dorosły i opuściły gniazdo.
+Dialogue: 0,0:23:41.16,0:23:45.38,Tenjin,,0000,0000,0000,,Dlatego zaczęły zbierać różne rzeczy by zrobić swoje gniazda.
+Dialogue: 0,0:23:45.60,0:23:48.63,Sanae,,0000,0000,0000,,Jesteś taki mądry, Tenjin-senpai.
+Dialogue: 0,0:23:48.63,0:23:50.05,Tenjin,,0000,0000,0000,,Nie, to nic...
+Dialogue: 0,0:23:53.63,0:23:54.72,Yuusuke,,0000,0000,0000,,Mogę przez chwilę z tobą porozmawiać?
+Dialogue: 0,0:23:55.18,0:23:55.66,Midori,,0000,0000,0000,,Huh?
+Dialogue: 0,0:23:56.43,0:24:01.65,Tenjin,,0000,0000,0000,,Tak właściwie, to wziąłem to z historyjki, która była na odwrocie etykiety od chip`sów.
+Dialogue: 0,0:24:01.81,0:24:06.37,Bacchi-gu,,0000,0000,0000,,Jezu, i pomyśleć, że posądzałyście ludzi o kradzież bielizny...
+Dialogue: 0,0:24:06.37,0:24:07.94,Yuusuke,,0000,0000,0000,,U-um...
+Dialogue: 0,0:24:08.52,0:24:10.32,Haruna,,0000,0000,0000,,Ach! To jest...!
+Dialogue: 0,0:24:12.15,0:24:15.39,Haruna,,0000,0000,0000,,To są majteczki, które zgubiłam ostatniej nocy!
+Dialogue: 0,0:24:16.55,0:24:17.68,Bacchi-gu,,0000,0000,0000,,T-to są...
+Dialogue: 0,0:24:19.16,0:24:20.98,Futaba,,0000,0000,0000,,Więc to byliście wy!
+Dialogue: 0,0:24:20.98,0:24:22.03,Haruna,,0000,0000,0000,,Czekaj.
+Dialogue: 0,0:24:22.92,0:24:27.44,Haruna,,0000,0000,0000,,Wygląda na to. że on naprawdę tak bardzo mnie lubi.
+Dialogue: 0,0:24:29.61,0:24:32.24,Haruna,,0000,0000,0000,,Nie mogłam wybaczyć ci tego, że dotykałeś moich piersi w domu duchów...
+Dialogue: 0,0:24:33.68,0:24:39.12,Haruna,,0000,0000,0000,,...ani tego, że przyszedłeś oglądać moje majteczki, podczas gry w tenisa...
+Dialogue: 0,0:24:39.83,0:24:42.05,Haruna,,0000,0000,0000,,Ale teraz... to wszystko, Ijuin-kun...
+Dialogue: 0,0:24:42.17,0:24:43.94,Haruna,,0000,0000,0000,,Nie, kochanie...
+Dialogue: 0,0:24:43.94,0:24:48.55,Haruna,,0000,0000,0000,,Teraz poszłam po rozum do głowy... Poprzez to wszystko wyrażałeś swoje uczucia do mnie!
+Dialogue: 0,0:24:48.62,0:24:50.15,Haruna,,0000,0000,0000,,Kochanie...
+Dialogue: 0,0:24:55.30,0:24:56.51,Midori,,0000,0000,0000,,Więc, co chciałeś mi powiedzieć?
+Dialogue: 0,0:24:56.51,0:25:00.47,Yuusuke,,0000,0000,0000,,Ach, chciałem cię zapytać, czy gdy następnym razem przyjedziecie do nas, zechciałabyś razem ze mną oglądać gwiazdy?
+Dialogue: 0,0:25:01.64,0:25:02.93,Midori,,0000,0000,0000,,Yuusuke-kun...
+Dialogue: 0,0:25:02.93,0:25:06.44,Yuusuke,,0000,0000,0000,,Chi-Chitose! Co ty robisz...
+Dialogue: 0,0:25:05.73,0:25:07.94,Bacchi-gu,,0000,0000,0000,,Pospiesz się i ochroń mnie!
+Dialogue: 0,0:25:08.03,0:25:14.15,Haruna,,0000,0000,0000,,Kochanie, dotknij mych piersi... Czemu jesteś taki wstydliwy?
+Dialogue: 0,0:25:14.40,0:25:16.41,Bacchi-gu,,0000,0000,0000,,P-pomocy!
+Dialogue: 0,0:25:16.41,0:25:18.35,Haruna,,0000,0000,0000,,Kochanie, jesteś taki...
+Dialogue: 0,0:25:18.35,0:25:19.06,Haruna,,0000,0000,0000,,Mam cię!
+Dialogue: 0,0:25:19.06,0:25:19.94,Bacchi-gu,,0000,0000,0000,,Ach! Przestań!
+Dialogue: 0,0:25:19.94,0:25:22.87,Bacchi-gu,,0000,0000,0000,,Nie dotykaj mnie! Nie liż mnie! Nie gryź mnie!
+Dialogue: 0,0:25:23.72,0:25:25.24,Haruna,,0000,0000,0000,,Kochanie...!
+Dialogue: 0,0:25:24.30,0:25:25.31,Bacchi-gu,,0000,0000,0000,,Przestań...!
+Dialogue: 0,0:25:28.91,0:25:30.08,Bacchi-gu,,0000,0000,0000,,Czemu ja?
+Dialogue: 0,0:00:00.00,0:00:00.00,Yuusuke,,0000,0000,0000,,

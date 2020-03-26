@@ -1,0 +1,138 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build414  Oct  4 2015  21:10:24
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Last Style Storage: Podstawowy
+Audio File: VTS_01_1 T02 2_0ch 192Kbps DELAY -159ms.ac3
+Video File: VTS_01_1.avs
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 32012
+Active Line: 0
+Title: Kainote Ass File
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00A46219,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.2,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,55,&H00A46219,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,100,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:48.09,0:01:54.05,Grupa,,0,0,0,,{\bord4\yshad3\1c&H000000&\3c&H000000&\4c&H000000&\t(-24,1144,\3c&H2206B3&\4c&H90480B&)\t(4940,5972,\3c&H000000&\4c&H000000&)}Nyan
+Dialogue: 0,0:01:48.09,0:01:54.05,Grupa,,0,0,0,,{\1c&H000000&\3c&H000000&\4c&H000000&\t(-24,1144,\1c&HA46219&\3c&HFFFFFF&\t(4940,5972,\1c&H000000&\3c&H000000&)}Nyan
+Dialogue: 0,0:01:48.09,0:01:54.05,Anime,,0,0,0,,{\bord5\yshad5\1c&H000000&\3c&H000000&\4c&H000000&\t(-24,1144,\3c&H2206B3&\4c&H90480B&)\t(4940,5972,\3c&H000000&\4c&H000000&)}Seisen Gakuin
+Dialogue: 0,0:01:48.09,0:01:54.05,Anime,,0,0,0,,{\1c&H000000&\3c&H000000&\4c&H000000&\t(-24,1144,\1c&HA46219&\3c&HFFFFFF&\t(4940,5972,\1c&H000000&\3c&H000000&)}Seisen Gakuin
+Dialogue: 0,0:00:07.15,0:00:11.72,Default,,0,0,0,,{\be1}Nie wolno ci marnować świętej wody.
+Dialogue: 0,0:00:11.72,0:00:17.21,Default,,0,0,0,,{\be1}Podążaj z prądem, a odczucia same przyjdą.
+Dialogue: 0,0:01:05.54,0:01:07.07,Default,,0,0,0,,{\be1}Pan Sakimori.
+Dialogue: 0,0:01:11.60,0:01:15.35,Default,,0,0,0,,{\be1}Dopiero pan zaczyna,\Na już wygląda na zmęczonego.
+Dialogue: 0,0:01:16.04,0:01:17.92,Default,,0,0,0,,{\be1}Skądże.
+Dialogue: 0,0:01:19.04,0:01:21.56,Default,,0,0,0,,{\be1}Idzie pan teraz na zajęcia klubowe?
+Dialogue: 0,0:01:22.01,0:01:24.52,Default,,0,0,0,,{\be1}Proszę ciężko pracować.
+Dialogue: 0,0:01:25.05,0:01:32.59,Default,,0,0,0,,{\be1}Prawdę powiedziawszy, to zajmowanie się\Ndwoma klubami jest ciężkie.
+Dialogue: 0,0:01:33.79,0:01:36.12,Default,,0,0,0,,{\be1}Oczywiście nie mówię, że nie chcę.
+Dialogue: 0,0:01:36.12,0:01:38.26,Default,,0,0,0,,{\be1}Co to ma znaczyć?
+Dialogue: 0,0:01:38.26,0:01:42.58,Default,,0,0,0,,{\be1}Właśnie przez takie nastawienie\Nuczennice nie słuchają pana.
+Dialogue: 0,0:01:57.06,0:02:01.74,Default,,0,0,0,,{\be1}Nie wolno ci marnować świętej wody.
+Dialogue: 0,0:02:02.72,0:02:08.83,Default,,0,0,0,,{\be1}Podążaj z prądem, a odczucia same przyjdą.
+Dialogue: 0,0:03:18.47,0:03:19.85,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:03:20.20,0:03:21.16,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:03:22.27,0:03:23.78,Default,,0,0,0,,{\be1}Panie Sakimori.
+Dialogue: 0,0:03:25.14,0:03:30.02,Default,,0,0,0,,{\be1}Proszę nikomu o tym nie mówić.
+Dialogue: 0,0:03:32.78,0:03:33.99,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:03:35.68,0:03:37.95,Default,,0,0,0,,{\be1}Niech pan wejdzie.
+Dialogue: 0,0:03:44.99,0:03:49.02,Default (i),,0,0,0,,{\be1}Ciekawe jak z nim pójdzie.
+Dialogue: 0,0:03:53.83,0:03:56.59,Default,,0,0,0,,{\be1}Ej, co robisz?
+Dialogue: 0,0:03:56.59,0:04:01.47,Default,,0,0,0,,{\be1}Nawet nie pamięta pan mojego imienia?
+Dialogue: 0,0:04:02.20,0:04:03.67,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:04:09.11,0:04:14.29,Default,,0,0,0,,{\be1}Mam na imię Saya i uczy mnie pan.
+Dialogue: 0,0:04:17.39,0:04:19.70,Default,,0,0,0,,{\be1}Saya? Yuuki Saya?
+Dialogue: 0,0:04:21.08,0:04:23.23,Default,,0,0,0,,{\be1}Przypomniało się panu.
+Dialogue: 0,0:04:42.60,0:04:43.39,Default,,0,0,0,,{\be1}Czekaj.
+Dialogue: 0,0:04:48.49,0:04:49.69,Default,,0,0,0,,{\be1}Panie Sakimori.
+Dialogue: 0,0:04:51.52,0:04:54.47,Default,,0,0,0,,{\be1}Już panu stanął.
+Dialogue: 0,0:05:30.16,0:05:34.73,Default,,0,0,0,,{\be1}Proszę, już nie wytrzymam.
+Dialogue: 0,0:05:35.60,0:05:37.12,Default,,0,0,0,,{\be1}O co prosisz?
+Dialogue: 0,0:05:38.21,0:05:39.69,Default,,0,0,0,,{\be1}Yuuki?
+Dialogue: 0,0:05:44.74,0:05:46.16,Default,,0,0,0,,{\be1}Panie Sakimori.
+Dialogue: 0,0:06:17.67,0:06:22.03,Default,,0,0,0,,{\be1}Panie Sakimori, zaraz dojdę!
+Dialogue: 0,0:06:25.02,0:06:28.05,Default,,0,0,0,,{\be1}Dłużej nie wytrzymam!
+Dialogue: 0,0:06:37.03,0:06:39.96,Default,,0,0,0,,{\be1}Panie Sakimori, dojdźmy razem!
+Dialogue: 0,0:06:49.31,0:06:51.22,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:07:19.83,0:07:26.26,Default,,0,0,0,,{\be1}- Jestem szczęśliwa.\N- To był mój pierwszy raz.
+Dialogue: 0,0:07:29.45,0:07:31.23,Default,,0,0,0,,{\be1}Byłaś dziewicą?
+Dialogue: 0,0:07:46.40,0:07:49.16,Default,,0,0,0,,{\be1}Włożę go.
+Dialogue: 0,0:08:05.48,0:08:06.51,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:08:21.73,0:08:24.32,Default (i),,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:08:36.17,0:08:37.92,Default,,0,0,0,,{\be1}Panie Sakimori!
+Dialogue: 0,0:08:41.38,0:08:43.19,Default,,0,0,0,,{\be1}To nie tak!
+Dialogue: 0,0:08:43.19,0:08:47.52,Default,,0,0,0,,{\be1}Co pan, u licha, wyprawia?!
+Dialogue: 0,0:08:47.52,0:08:51.18,Default,,0,0,0,,{\be1}Nie mogę przestać! Przepraszam!
+Dialogue: 0,0:08:51.18,0:08:57.77,Default,,0,0,0,,{\be1}Sikanie na budynek szkoły jest hańbą!
+Dialogue: 0,0:08:57.77,0:09:00.56,Default,,0,0,0,,{\be1}Na dodatek jest pan bez spodni!
+Dialogue: 0,0:09:03.21,0:09:04.69,Default,,0,0,0,,{\be1}Pani Shiori?
+Dialogue: 0,0:09:05.41,0:09:09.40,Default,,0,0,0,,{\be1}Ty jesteś wybrańcem?
+Dialogue: 0,0:09:14.52,0:09:18.35,Default,,0,0,0,,{\be1}Co z panią?!
+Dialogue: 0,0:09:21.89,0:09:28.02,Default,,0,0,0,,{\be1}Panie, poświęć mnie świętą wodą.
+Dialogue: 0,0:09:42.05,0:09:45.69,Default,,0,0,0,,{\be1}Przepyszne, panie.
+Dialogue: 0,0:09:46.43,0:09:50.61,Default,,0,0,0,,{\be1}Więc to ty jesteś wybrańcem, panie.
+Dialogue: 0,0:09:53.22,0:09:54.91,Default,,0,0,0,,{\be1}Muszę jeszcze!
+Dialogue: 0,0:10:03.63,0:10:07.67,Default,,0,0,0,,{\be1}Patrz jaka jestem mokra.
+Dialogue: 0,0:10:07.67,0:10:10.17,Default,,0,0,0,,{\be1}Co się pani stało?
+Dialogue: 0,0:10:10.97,0:10:14.38,Default,,0,0,0,,{\be1}Panie, po prostu bądź sobą.
+Dialogue: 0,0:10:14.38,0:10:15.91,Default,,0,0,0,,{\be1}Co masz na myśli?
+Dialogue: 0,0:10:15.91,0:10:20.44,Default,,0,0,0,,{\be1}Wybacz mi moje wcześniejsze zachowanie.
+Dialogue: 0,0:10:21.99,0:10:23.92,Default (i),,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:10:23.92,0:10:27.86,Default (i),,0,0,0,,{\be1}Może na razie powinienem udawać?
+Dialogue: 0,0:10:27.86,0:10:28.57,Default (i),,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:10:30.69,0:10:31.76,Default,,0,0,0,,{\be1}Wstań.
+Dialogue: 0,0:11:06.74,0:11:08.77,Default,,0,0,0,,{\be1}Pani Shiori!
+Dialogue: 0,0:11:09.67,0:11:13.19,Default,,0,0,0,,{\be1}Mów mi po prostu Shiori, panie!
+Dialogue: 0,0:11:53.74,0:11:55.88,Default (i),,0,0,0,,{\be1}Co za powalony dzień.
+Dialogue: 0,0:11:56.61,0:11:58.06,Default,,0,0,0,,{\be1}Co tak późno?
+Dialogue: 0,0:12:02.62,0:12:05.29,Default,,0,0,0,,{\be1}Gdzie pan był?
+Dialogue: 0,0:12:06.02,0:12:09.29,Default,,0,0,0,,{\be1}Wszędzie pana szukałam!
+Dialogue: 0,0:12:12.90,0:12:15.47,Default,,0,0,0,,{\be1}Miał mi pan pomóc w treningu.
+Dialogue: 0,0:12:17.14,0:12:19.51,Default,,0,0,0,,{\be1}No tak, masz rację.
+Dialogue: 0,0:12:22.34,0:12:24.56,Default (i),,0,0,0,,{\be1}Co jest?\NZnowu chce mi się sikać.
+Dialogue: 0,0:12:25.84,0:12:30.36,Default,,0,0,0,,{\be1}Faktycznie, zacznijmy trening.
+Dialogue: 0,0:12:45.73,0:12:47.55,Default,,0,0,0,,{\be1}Jaki miałam czas?
+Dialogue: 0,0:12:52.64,0:12:55.96,Default,,0,0,0,,{\be1}Nie! Co pan robi?!
+Dialogue: 0,0:13:04.58,0:13:05.85,Default,,0,0,0,,{\be1}Panie Sakimori?
+Dialogue: 0,0:13:09.42,0:13:16.00,Default,,0,0,0,,{\be1}Dopiero zaczynamy trening.
+Dialogue: 0,0:13:47.72,0:13:49.76,Default,,0,0,0,,{\be1}Niech pan przestanie!
+Dialogue: 0,0:13:50.63,0:13:51.64,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:13:52.30,0:13:55.61,Default,,0,0,0,,{\be1}Święta woda nie działa za dobrze.
+Dialogue: 0,0:13:56.33,0:13:57.61,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:13:58.03,0:14:00.50,Default,,0,0,0,,{\be1}Co w pana wstąpiło?!
+Dialogue: 0,0:14:02.27,0:14:04.77,Default,,0,0,0,,{\be1}Dobra, puszę cię.
+Dialogue: 0,0:14:08.08,0:14:12.79,Default,,0,0,0,,{\be1}Dam ci więcej świętej wody,\Nczuj się zaszczycona.
+Dialogue: 0,0:14:15.19,0:14:17.80,Default,,0,0,0,,{\be1}Proszę, nie!
+Dialogue: 0,0:14:21.36,0:14:26.22,Default,,0,0,0,,{\be1}Wiesz co zaraz zrobię?\NI myślisz, że tutaj?
+Dialogue: 0,0:14:26.66,0:14:30.46,Default,,0,0,0,,{\be1}To się mylisz, bo tutaj!
+Dialogue: 0,0:14:40.41,0:14:43.51,Default,,0,0,0,,{\be1}Dam ci dużo świętej wody.
+Dialogue: 0,0:14:48.10,0:14:49.29,Default,,0,0,0,,{\be1}Gorąco!
+Dialogue: 0,0:14:50.09,0:14:55.53,Default,,0,0,0,,{\be1}Panie Sakimori, byłam niegrzeczna.
+Dialogue: 0,0:14:55.53,0:15:00.05,Default,,0,0,0,,{\be1}Przepraszam, chcę pana.
+Dialogue: 0,0:15:02.57,0:15:04.24,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:15:06.84,0:15:09.64,Default,,0,0,0,,{\be1}Grzeczna dziewczynka.
+Dialogue: 0,0:15:09.64,0:15:14.30,Default,,0,0,0,,{\be1}Dobra, rozbierz się, tylko musisz\Npoczuć przy tym upokorzenie.
+Dialogue: 0,0:15:15.11,0:15:17.15,Default,,0,0,0,,{\be1}Błagaj mnie stamtąd.
+Dialogue: 0,0:15:24.49,0:15:30.64,Default,,0,0,0,,{\be1}Niech pan włoży kutasa\Nw moją śmierdzącą cipkę!
+Dialogue: 0,0:15:34.90,0:15:39.52,Default,,0,0,0,,{\be1}To było dobre, zasługujesz na nagrodę.
+Dialogue: 0,0:15:56.15,0:16:01.24,Default,,0,0,0,,{\be1}Panie Sakimori, zaraz dojdę!
+Dialogue: 0,0:16:03.69,0:16:05.66,Default,,0,0,0,,{\be1}Mam się spuścić w tobie?
+Dialogue: 0,0:16:06.23,0:16:09.61,Default,,0,0,0,,{\be1}W takim razie ładnie poproś!
+Dialogue: 0,0:16:11.10,0:16:16.96,Default,,0,0,0,,{\be1}Proszę, niech pan się we mnie spuści!
+Dialogue: 0,0:16:21.01,0:16:24.00,Default,,0,0,0,,{\be1}Nie myślałem,\Nże dziewica może być tak zboczona.
+Dialogue: 0,0:16:30.99,0:16:33.37,Default,,0,0,0,,{\be1}No to leci!

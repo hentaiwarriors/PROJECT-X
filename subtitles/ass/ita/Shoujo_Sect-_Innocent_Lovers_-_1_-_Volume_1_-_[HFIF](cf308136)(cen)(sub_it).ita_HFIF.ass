@@ -1,0 +1,330 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: Shoujo Sect ~Innocent Lovers~ 1st Period
+Original Script: Killer Maid
+Resivione italiana: HFIF
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,27,&H00FFFFFF,&H00FFFFFF,&H00A27C57,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Signs,Arial,12,&HAFFFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+Style: Signs - Text,Florence,45,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,82,115,0,0,1,0,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:07.13,0:00:09.16,Default,,0000,0000,0000,,{\i1}Il mio primo eterno amore{\i0}
+Dialogue: 0,0:00:10.05,0:00:15.40,Default,,0000,0000,0000,,{\i1}Se ti dimenticavo sarei vissuta felicemente, ma sembra che la mia memoria abbia deciso di tornare in questo parchetto da sola.{\i0}
+Dialogue: 0,0:00:17.57,0:00:21.86,Default,,0000,0000,0000,,{\i1}La tua mancanza è stata una ferita dolorosa per tutto questo tempo.{\i0}
+Dialogue: 0,0:00:23.13,0:00:27.33,Default,,0000,0000,0000,,{\i1}Desidero unicamente liberarmi da questo dolore.{\i0}
+Dialogue: 0,0:00:30.58,0:00:31.56,Default,,0000,0000,0000,,Ciao!
+Dialogue: 0,0:00:40.68,0:00:41.83,Default,,0000,0000,0000,,Sembrano squisiti.
+Dialogue: 0,0:00:43.04,0:00:43.77,Default,,0000,0000,0000,,Ne vuoi uno?
+Dialogue: 0,0:00:44.09,0:00:44.64,Default,,0000,0000,0000,,Si!
+Dialogue: 0,0:00:52.07,0:00:53.35,Default,,0000,0000,0000,,Delizioso!
+Dialogue: 0,0:00:54.02,0:00:56.31,Default,,0000,0000,0000,,Sento un buon profumo.
+Dialogue: 0,0:00:56.73,0:00:58.44,Default,,0000,0000,0000,,Mi sono messa un profumo di mia mamma.
+Dialogue: 0,0:00:58.80,0:01:00.30,Default,,0000,0000,0000,,Veramente buono.
+Dialogue: 0,0:01:00.59,0:01:03.87,Default,,0000,0000,0000,,Nota iniziale al bergamotto e persistenza al cioccolato.
+Dialogue: 0,0:01:04.30,0:01:05.62,Default,,0000,0000,0000,,Cosa vuol dire?
+Dialogue: 0,0:01:06.18,0:01:07.96,Default,,0000,0000,0000,,Veramente non l'ho capito nemmeno io.
+Dialogue: 0,0:01:13.33,0:01:15.11,Default,,0000,0000,0000,,Sei pronta?
+Dialogue: 0,0:01:15.51,0:01:17.14,Default,,0000,0000,0000,,Non ancora!
+Dialogue: 0,0:01:24.66,0:01:26.82,Default,,0000,0000,0000,,Sei pronta?
+Dialogue: 0,0:01:27.40,0:01:29.32,Default,,0000,0000,0000,,Sono pronta!
+Dialogue: 0,0:01:51.95,0:01:53.70,Default,,0000,0000,0000,,Scusami. Ti ho svegliata?
+Dialogue: 0,0:02:03.01,0:02:05.18,Default,,0000,0000,0000,,Buon giorno, Lady Shinobu.
+Dialogue: 0,0:02:05.72,0:02:07.18,Default,,0000,0000,0000,,Buon giorno, Kirin.
+Dialogue: 0,0:02:10.49,0:02:20.50,Default,,0000,0000,0340,,{\fad(900,100){\fs40}{\shad1.1\bord1.1}{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}Shoujo Sect
+Dialogue: 0,0:02:15.36,0:02:20.50,Default,,0000,0000,0060,,{\fad(900,100)}{\fs25}{\3c&H000000&}Primo Atto
+Dialogue: 0,0:02:20.50,0:02:22.97,Signs,,0000,0000,0000,,{\fad(0,0)}{\pos(320,75)}{\p1}{\bord0.5\shad0}m 0 0 l 165 0 165 50 0 50{\p0}
+Dialogue: 0,0:02:20.50,0:02:22.97,Signs - Text,,0000,0000,0000,,{\pos(320,70)\fs30}Casa Suzume
+Dialogue: 0,0:02:31.25,0:02:35.07,Default,,0000,0000,0000,,Tu lo sai che ieri...
+Dialogue: 0,0:02:41.70,0:02:45.08,Default,,0000,0000,0000,,Lady Shinobu, cosa desideri per colazione questa mattina?
+Dialogue: 0,0:02:45.44,0:02:46.35,Default,,0000,0000,0000,,Non voglio nulla.
+Dialogue: 0,0:02:46.57,0:02:48.09,Default,,0000,0000,0000,,Di questo passo diventerai anemica.
+Dialogue: 0,0:02:48.63,0:02:50.47,Default,,0000,0000,0000,,Prenderò del latte più tardi allora.
+Dialogue: 0,0:02:51.23,0:02:53.30,Default,,0000,0000,0000,,Questo mi fa sentire meglio.
+Dialogue: 0,0:02:53.68,0:02:54.71,Default,,0000,0000,0000,,Va bene allora.
+Dialogue: 0,0:02:56.04,0:02:56.90,Default,,0000,0000,0000,,La cravatta è...
+Dialogue: 0,0:02:58.85,0:03:01.24,Default,,0000,0000,0000,,Hai fatto quel sogno ancora, non e' vero?
+Dialogue: 0,0:03:02.01,0:03:03.08,Default,,0000,0000,0000,,Credo di si.
+Dialogue: 0,0:03:03.38,0:03:05.18,Default,,0000,0000,0000,,Questi sogni sono troppo ricorrenti.
+Dialogue: 0,0:03:05.72,0:03:06.41,Default,,0000,0000,0000,,Che scocciatura.
+Dialogue: 0,0:03:07.41,0:03:09.38,Default,,0000,0000,0000,,E' solo un mio sogno. Cosa importa?
+Dialogue: 0,0:03:18.83,0:03:20.00,Default,,0000,0000,0000,,Faremo tardi.
+Dialogue: 0,0:03:20.57,0:03:22.35,Default,,0000,0000,0000,,Abbiamo ancora tempo.
+Dialogue: 0,0:03:47.70,0:03:48.60,Default,,0000,0000,0000,,Signorina Handa...
+Dialogue: 0,0:04:02.97,0:04:05.44,Default,,0000,0000,0045,,{\bord1.6\shad1.6}{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}{\fs48}Aula Disegno
+Dialogue: 0,0:04:13.26,0:04:14.34,Default,,0000,0000,0000,,C'e'  qualcuno qui?
+Dialogue: 0,0:04:21.20,0:04:22.22,Default,,0000,0000,0000,,C- Chi c'e' qui?!
+Dialogue: 0,0:04:41.03,0:04:42.54,Default,,0000,0000,0000,,Hey! C'e' qualcuno?!
+Dialogue: 0,0:04:42.54,0:04:44.11,Default,,0000,0000,0000,,Aprite! Aiuto!
+Dialogue: 0,0:04:51.36,0:04:53.52,Default,,0000,0000,0000,,Non dire a nessuno quello che e' appena successo.
+Dialogue: 0,0:04:54.45,0:04:55.02,Default,,0000,0000,0000,,Certamente.
+Dialogue: 0,0:04:59.00,0:04:59.83,Default,,0000,0000,0000,,Potrebbe arrivare qualcuno!
+Dialogue: 0,0:05:01.70,0:05:02.82,Default,,0000,0000,0000,,Va tutto bene.
+Dialogue: 0,0:05:10.33,0:05:11.87,Default,,0000,0000,0000,,Signorina Ookami.
+Dialogue: 0,0:05:31.56,0:05:33.05,Default,,0000,0000,0000,,Aiuto!!
+Dialogue: 0,0:05:33.99,0:05:36.89,Default,,0000,0000,0000,,Qualcuno apra la porta!
+Dialogue: 0,0:05:38.08,0:05:39.62,Default,,0000,0000,0000,,Aprite!
+Dialogue: 0,0:05:40.38,0:05:41.39,Default,,0000,0000,0000,,Hey! Aiuto!
+Dialogue: 0,0:05:58.14,0:05:59.77,Default,,0000,0000,0000,,Non c'e' nessuno qui.
+Dialogue: 0,0:06:00.15,0:06:03.03,Default,,0000,0000,0000,,Ma io ho sentito delle voci! Voci femminili!
+Dialogue: 0,0:06:03.64,0:06:04.23,Default,,0000,0000,0000,,Come erano?
+Dialogue: 0,0:06:05.39,0:06:06.53,Default,,0000,0000,0000,,Tipo "Ah!" e cose...
+Dialogue: 0,0:06:08.42,0:06:09.27,Default,,0000,0000,0000,,"AH!"
+Dialogue: 0,0:06:10.00,0:06:10.52,Default,,0000,0000,0000,,...e cose...
+Dialogue: 0,0:06:11.19,0:06:12.55,Default,,0000,0000,0000,,Tipo dei sospiri?
+Dialogue: 0,0:06:13.93,0:06:15.21,Default,,0000,0000,0000,,Io penso...
+Dialogue: 0,0:06:17.61,0:06:19.77,Default,,0000,0000,0000,,Voci femminili nell'aula di disegno...
+Dialogue: 0,0:06:20.16,0:06:21.08,Default,,0000,0000,0000,,Che non sia quello?
+Dialogue: 0,0:06:21.50,0:06:22.32,Default,,0000,0000,0000,,Questo è male!
+Dialogue: 0,0:06:22.74,0:06:24.69,Default,,0000,0000,0000,,Non ci sono fantasmi la mattina presto!
+Dialogue: 0,0:06:24.89,0:06:26.95,Default,,0000,0000,0000,,Potrebbe essere un pupazzo e non un fantasma.
+Dialogue: 0,0:06:27.54,0:06:28.82,Default,,0000,0000,0000,,Hey voi cosa sta succedendo?
+Dialogue: 0,0:06:29.45,0:06:30.69,Default,,0000,0000,0000,,professoressa Hayato.
+Dialogue: 0,0:06:31.71,0:06:33.22,Default,,0000,0000,0000,,La campanella è già suonata.
+Dialogue: 0,0:06:33.79,0:06:35.96,Default,,0000,0000,0000,,Dovreste essere tutte nelle vostre classi.
+Dialogue: 0,0:06:36.20,0:06:38.80,Default,,0000,0000,0000,,Professoressa, la leggenda del pupazzo e' vera?
+Dialogue: 0,0:06:40.85,0:06:41.96,Default,,0000,0000,0000,,Smettetela!
+Dialogue: 0,0:06:42.18,0:06:43.19,Default,,0000,0000,0000,,Ascoltatemi tutte!
+Dialogue: 0,0:06:43.58,0:06:46.12,Default,,0000,0000,0000,,Un pupazzo non essere stato a sbarrare la porta.
+Dialogue: 0,0:06:46.73,0:06:48.03,Default,,0000,0000,0000,,E' stato qualcun'altro a fare questo.
+Dialogue: 0,0:06:48.77,0:06:50.27,Default,,0000,0000,0000,,Qualcuno? Chi?
+Dialogue: 0,0:06:50.47,0:06:56.33,Default,,0000,0000,0000,,Quindi qualcuno si diverte a perdere tempo. Una ragazza cui piace fare  "Ah!"
+Dialogue: 0,0:06:56.83,0:06:58.31,Default,,0000,0000,0000,,Proprio quel tipo di persona
+Dialogue: 0,0:06:59.27,0:07:00.11,Default,,0000,0000,0000,,Per esempio...
+Dialogue: 0,0:07:01.74,0:07:03.63,Default,,0000,0000,0000,,Stai pensando alla signorina Handa?
+Dialogue: 0,0:07:04.54,0:07:06.40,Default,,0000,0000,0000,,In quel caso, e' li' sopra...
+Dialogue: 0,0:07:15.89,0:07:17.05,Default,,0000,0000,0000,,Mi stanno guardando tutte.
+Dialogue: 0,0:07:17.70,0:07:19.30,Default,,0000,0000,0000,,A questo punto eccole servite!
+Dialogue: 0,0:07:22.30,0:07:23.31,Default,,0000,0000,0000,,Signorina Handa!
+Dialogue: 0,0:07:27.02,0:07:28.69,Default,,0000,0000,0000,,Sembra che gli e' piaciuto!
+Dialogue: 0,0:07:29.24,0:07:30.84,Default,,0000,0000,0000,,Mi domando cosa sia successo.
+Dialogue: 0,0:07:31.20,0:07:32.36,Default,,0000,0000,0000,,E' la leggenda del pupazzo.
+Dialogue: 0,0:07:34.45,0:07:35.73,Default,,0000,0000,0000,,Signorina Komai.
+Dialogue: 0,0:07:36.43,0:07:38.62,Default,,0000,0000,0000,,Signorina Handa, mi concede un momento?
+Dialogue: 0,0:07:39.04,0:07:41.12,Default,,0000,0000,0000,,Mi piacerebbe parlare con lei.
+Dialogue: 0,0:07:42.23,0:07:44.50,Default,,0000,0000,0000,,Va bene allora ti lascio sola Lady Shinobu.
+Dialogue: 0,0:07:48.99,0:07:52.39,Default,,0000,0000,0000,,La leggenda del pupazzo e' come quella delle Sette Meraviglie, vero?
+Dialogue: 0,0:07:53.46,0:07:57.19,Default,,0000,0000,0000,,Per quanto ne so questa potrebbe essere vera
+Dialogue: 0,0:07:57.85,0:08:03.89,Default,,0000,0000,0000,,Molto tempo in quell'aula di disegno ci sono state realmente due ragazze che si amavano.
+Dialogue: 0,0:08:04.89,0:08:08.28,Default,,0000,0000,0000,,Forza ragazze! le lezioni stanno per iniziare. Ritornate nella vostre classi!
+Dialogue: 0,0:08:08.51,0:08:09.76,Default,,0000,0000,0000,,Va bene!
+Dialogue: 0,0:08:13.69,0:08:16.59,Default,,0000,0000,0000,,E' successo tutto dopo le lezioni in un giorno piovoso.
+Dialogue: 0,0:08:17.99,0:08:20.97,Default,,0000,0000,0000,,Una delle due non parlava mai.
+Dialogue: 0,0:08:21.36,0:08:24.19,Default,,0000,0000,0000,,Nessuno ha mai sentito la sua voce.
+Dialogue: 0,0:08:25.04,0:08:30.46,Default,,0000,0000,0000,,Nonostante questo, mentre stava facendo l'amore, lei emise dei suoni
+Dialogue: 0,0:08:31.33,0:08:33.64,Default,,0000,0000,0000,,La sua compagna sara' stata contenta, no?
+Dialogue: 0,0:08:34.87,0:08:38.01,Default,,0000,0000,0000,,ma appena il loro appassionato abbraccio termino', inizio' a scomparire.
+Dialogue: 0,0:08:38.89,0:08:41.67,Default,,0000,0000,0000,,Questo perche' lei era un pupazzo.
+Dialogue: 0,0:08:42.86,0:08:45.99,Default,,0000,0000,0000,,Il suo destino e' quello di scomparire se qualcuno avesse sentito la sua voce.
+Dialogue: 0,0:08:46.81,0:08:50.08,Default,,0000,0000,0000,,Nonostante questo scomparve sorridendo.
+Dialogue: 0,0:08:50.98,0:08:54.22,Default,,0000,0000,0000,,"E' triste ma finalmente sono riuscita a pronunciare il tuo nome"
+Dialogue: 0,0:08:56.13,0:08:58.28,Default,,0000,0000,0000,,Disse come ultima cosa alla sua amata...
+Dialogue: 0,0:09:00.22,0:09:02.07,Default,,0000,0000,0000,,Questa e' la nascita della leggenda del pupazzo.
+Dialogue: 0,0:09:04.09,0:09:07.14,Default,,0000,0000,0000,,Non devi chiamare il nome della tua amata nell'aula di disegno.
+Dialogue: 0,0:09:07.94,0:09:11.06,Default,,0000,0000,0000,,...dopo le lezioni in un giorno di pioggia...
+Dialogue: 0,0:09:11.64,0:09:13.95,Default,,0000,0000,0000,,La persona che lo fa scomparira', esatto?
+Dialogue: 0,0:09:15.25,0:09:16.75,Default,,0000,0000,0000,,Se i loro sentimenti sono reciproci.
+Dialogue: 0,0:09:17.64,0:09:21.02,Default,,0000,0000,0000,,Scomparire e'... come morire, giusto?
+Dialogue: 0,0:09:21.90,0:09:22.75,Default,,0000,0000,0000,,Immagino...
+Dialogue: 0,0:09:23.84,0:09:26.20,Default,,0000,0000,0000,,Cosa ne pensi?
+Dialogue: 0,0:09:27.14,0:09:29.38,Default,,0000,0000,0000,,I penso... che forse...
+Dialogue: 0,0:09:29.78,0:09:30.42,Default,,0000,0000,0000,,Forse?
+Dialogue: 0,0:09:32.88,0:09:36.01,Default,,0000,0000,0000,,Signora Komai, di cosa voleva discutere?
+Dialogue: 0,0:09:38.71,0:09:43.18,Default,,0020,0000,0050,,{\fs36\an8}{\3c&H000000&\bord1\shad1}Test
+Dialogue: 0,0:09:48.48,0:09:50.45,Default,,0195,0000,0350,,{\frz-20}{\fs38}{\b1}{\bord1.3\shad1.3}{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}{\an1}Ho bisogno\Ndi parlare\Ncon te.
+Dialogue: 0,0:09:48.48,0:09:50.45,Default,,0040,0000,0045,,{\frz-20}{\fs38}{\b1}{\bord1.3\shad1.3}{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}{\an1}Chizuru
+Dialogue: 0,0:09:55.50,0:09:59.00,Default,,0000,0000,0000,,Quella persona non ha pensato seriamente?!
+Dialogue: 0,0:10:00.61,0:10:01.98,Default,,0000,0000,0000,,a me...
+Dialogue: 0,0:10:02.36,0:10:03.68,Default,,0000,0000,0000,,Ma di chi stai parlando?
+Dialogue: 0,0:10:03.81,0:10:04.58,Default,,0000,0000,0000,,Segreto!
+Dialogue: 0,0:10:05.35,0:10:06.84,Default,,0000,0000,0000,,Non saro' io, vero?
+Dialogue: 0,0:10:07.29,0:10:08.49,Default,,0000,0000,0000,,No! No!
+Dialogue: 0,0:10:09.06,0:10:13.34,Default,,0000,0000,0000,,Ogni volta che provo a dichiararmi, lui cambia discorso.
+Dialogue: 0,0:10:13.99,0:10:15.92,Default,,0000,0000,0000,,Non e' che lui non sia interessato?
+Dialogue: 0,0:10:16.01,0:10:17.62,Default,,0000,0000,0000,,Certo che no!
+Dialogue: 0,0:10:17.93,0:10:22.31,Default,,0000,0000,0000,,E' solo... come posso dire... sembra non si accorga del mio interesse.
+Dialogue: 0,0:10:17.78,0:10:24.55,Default,,0490,0000,0190,,{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}{\bord1\shad1}Tenere\Npulito!!
+Dialogue: 0,0:10:25.47,0:10:28.25,Default,,0000,0000,0000,,Ho provato in mille modi!
+Dialogue: 0,0:10:28.60,0:10:33.43,Default,,0000,0000,0000,,Dirgli "TI AMO" guardandolo negli occhi, regalandogli una rosa per il suo compleanno.
+Dialogue: 0,0:10:34.02,0:10:36.42,Default,,0000,0000,0000,,Lui probabilmente non mi odia.
+Dialogue: 0,0:10:39.37,0:10:44.19,Default,,0000,0000,0000,,Ho bisogno di sentire il suo amore. Anche di sentirmi dire "Io ti aspettero' cara".
+Dialogue: 0,0:10:38.93,0:10:41.40,Default,,0450,0000,0200,,{\bord1.3\shad1.3}{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}{\fs45}Dormitorio Sakuragi
+Dialogue: 0,0:10:44.70,0:10:46.93,Default,,0000,0000,0000,,Ma con piu' affetto!
+Dialogue: 0,0:10:48.36,0:10:50.63,Default,,0000,0000,0000,,Allora! Cosa pensi che debba fare?
+Dialogue: 0,0:10:51.40,0:10:54.41,Default,,0000,0000,0000,,Ascolta adesso, prima prova a guardare la mia fronte.
+Dialogue: 0,0:10:54.90,0:10:56.43,Default,,0000,0000,0000,,Mi sembra corrucciata.
+Dialogue: 0,0:10:56.92,0:10:58.31,Default,,0000,0000,0000,,Perche' pensi che lo sia?
+Dialogue: 0,0:10:59.22,0:11:01.53,Default,,0000,0000,0000,,Perche' sono entrata nel tuo dormitorio senza chiedere?
+Dialogue: 0,0:11:01.88,0:11:03.75,Default,,0000,0000,0000,,Quello e' il livello 3.
+Dialogue: 0,0:11:03.93,0:11:05.05,Default,,0000,0000,0000,,Questo e' il livello 5!
+Dialogue: 0,0:11:05.87,0:11:08.05,Default,,0000,0000,0000,,Ho capito! Perche' il bagno e' piccolo!
+Dialogue: 0,0:11:09.83,0:11:11.12,Default,,0000,0000,0000,,Finalmente l'hai capito!
+Dialogue: 0,0:11:12.87,0:11:14.10,Default,,0000,0000,0000,,Ti darò dei compiti per casa!
+Dialogue: 0,0:11:14.93,0:11:19.10,Default,,0000,0000,0000,,Dopo aver completato il tuo terzo appuntamento, ritorna da me e descrivimi i tuoi progressi.
+Dialogue: 0,0:11:19.77,0:11:22.06,Default,,0000,0000,0000,,Se possibile porta pure una foto del volto del soggetto mentre dorme.
+Dialogue: 0,0:11:22.59,0:11:23.63,Default,,0000,0000,0000,,La consultazione e' terminata!
+Dialogue: 0,0:11:24.25,0:11:26.54,Default,,0000,0000,0000,,Per sapere, vuoi che paghi la consultazione?
+Dialogue: 0,0:11:26.96,0:11:27.85,Default,,0000,0000,0000,,Sarebbe il caso.
+Dialogue: 0,0:11:28.39,0:11:29.46,Default,,0000,0000,0000,,Lo supponevo!
+Dialogue: 0,0:11:30.28,0:11:33.59,Default,,0000,0000,0000,,Ma, non dovrai darmi nulla finche' non avrai raggiunto l'obiettivo.
+Dialogue: 0,0:11:34.39,0:11:36.08,Default,,0000,0000,0000,,Attacca frontalmente!
+Dialogue: 0,0:12:02.00,0:12:02.86,Default,,0000,0000,0000,,Chizuru.
+Dialogue: 0,0:12:07.95,0:12:09.72,Default,,0000,0000,0000,,Adesso sono seria.
+Dialogue: 0,0:12:10.93,0:12:12.31,Default,,0000,0000,0000,,Cosa ti e' successo cosi' all'improvviso?
+Dialogue: 0,0:12:12.74,0:12:16.03,Default,,0000,0000,0000,,Non giocare con me! Se mi odi, devi solamente dirlo!
+Dialogue: 0,0:12:16.42,0:12:19.43,Default,,0000,0000,0000,,Che sciocchezze. Come posso odiare la mia piccola sorellina.
+Dialogue: 0,0:12:19.79,0:12:21.30,Default,,0000,0000,0000,,Lascia perdere e rimettiti i vestiti.
+Dialogue: 0,0:12:25.25,0:12:28.02,Default,,0000,0000,0000,,Onee-chan...\N mi fa male qui.
+Dialogue: 0,0:12:28.68,0:12:29.66,Default,,0000,0000,0000,,Io ti amo.
+Dialogue: 0,0:12:45.49,0:12:50.07,Default,,0000,0250,0080,,{\fs31}{\3c&H000000&}Komai Shigure\NKomai Chizuru
+Dialogue: 0,0:13:06.54,0:13:07.83,Default,,0000,0000,0000,,Scusami. Ti ho fatto male?
+Dialogue: 0,0:13:08.21,0:13:11.04,Default,,0000,0000,0000,,No. Spingile pure dentro.
+Dialogue: 0,0:13:12.48,0:13:13.38,Default,,0000,0000,0000,,Cosi'?
+Dialogue: 0,0:13:17.72,0:13:19.52,Default,,0000,0000,0000,,Va tutto bene. Toccami pure.
+Dialogue: 0,0:13:27.82,0:13:30.65,Default,,0000,0000,0000,,Stai bene? E' incredibilmente stretta.
+Dialogue: 0,0:13:31.35,0:13:32.68,Default,,0000,0000,0000,,Sto bene.
+Dialogue: 0,0:13:32.92,0:13:34.08,Default,,0000,0000,0000,,Vuoi che continuo?.
+Dialogue: 0,0:13:35.31,0:13:38.87,Default,,0000,0000,0000,,Non preoccuparti per me. Fai pure quello che vuoi.
+Dialogue: 0,0:13:40.00,0:13:41.09,Default,,0000,0000,0000,,Onee-chan...
+Dialogue: 0,0:14:02.95,0:14:03.93,Default,,0000,0000,0000,,Onee-chan!
+Dialogue: 0,0:14:10.48,0:14:11.64,Default,,0000,0000,0000,,Chizuru...
+Dialogue: 0,0:14:12.48,0:14:13.89,Default,,0000,0000,0000,,Onee-chan...
+Dialogue: 0,0:14:29.67,0:14:31.63,Default,,0000,0000,0040,,{\fs47}{\3c&H000000&}Studiate da soli
+Dialogue: 0,0:14:42.02,0:14:42.97,Default,,0000,0000,0000,,Signorina Naitou.
+Dialogue: 0,0:14:44.81,0:14:46.15,Default,,0000,0000,0000,,State facendo il giro di controllo?
+Dialogue: 0,0:14:46.79,0:14:48.53,Default,,0000,0000,0000,,Le andrebbe di ammazzare un pò di tempo assieme, se non le dispiace?
+Dialogue: 0,0:14:49.87,0:14:52.77,Default,,0000,0000,0000,,Penso che abbia bisogno di rilassarsi dopo tutto quello che e' successo ieri.
+Dialogue: 0,0:14:53.27,0:14:56.81,Default,,0000,0000,0000,,Sto bene non si preoccupi. Io non credo in mostri o pupazzi.
+Dialogue: 0,0:14:57.64,0:14:59.60,Default,,0000,0000,0000,,Questo è il compito di un membro del comitato di disciplina.
+Dialogue: 0,0:15:00.11,0:15:01.61,Default,,0000,0000,0000,,Questa è la Naitou che mi piace.
+Dialogue: 0,0:15:02.14,0:15:05.10,Default,,0000,0000,0000,,Comunque, il giro di controllo e' praticamente terminato.
+Dialogue: 0,0:15:44.55,0:15:47.01,Default,,0000,0000,0000,,Sto chiudendo. Per favore uscite voi due.
+Dialogue: 0,0:15:47.96,0:15:48.66,Default,,0000,0000,0000,,Va bene.
+Dialogue: 0,0:15:49.00,0:15:51.03,Default,,0000,0000,0000,,Signorina Handa! Signorina Handa!
+Dialogue: 0,0:15:54.39,0:15:58.38,Default,,0000,0000,0000,,Ma insomma! La prego di non fare continuamente sonnellini in giro!
+Dialogue: 0,0:15:59.42,0:16:00.50,Default,,0000,0000,0000,,Va bene.
+Dialogue: 0,0:16:02.47,0:16:03.60,Default,,0000,0000,0000,,Scusami.
+Dialogue: 0,0:16:11.17,0:16:12.23,Default,,0000,0000,0000,,Come e' stato?
+Dialogue: 0,0:16:14.34,0:16:16.50,Default,,0000,0000,0000,,Ti sono piaciute le mie labbra?
+Dialogue: 0,0:16:19.62,0:16:20.67,Default,,0000,0000,0000,,Perdonami!
+Dialogue: 0,0:16:21.18,0:16:22.76,Default,,0000,0000,0000,,Non ti ho mica detto di scusarti.
+Dialogue: 0,0:16:23.29,0:16:25.84,Default,,0000,0000,0000,,Faro' tutto quello che vuoi! Ti prego perdonami!
+Dialogue: 0,0:16:26.21,0:16:29.00,Default,,0000,0000,0000,,Non ho capito piu' nulla quando ho visto il tuo viso.
+Dialogue: 0,0:16:29.65,0:16:30.47,Default,,0000,0000,0000,,Alzati.
+Dialogue: 0,0:16:34.87,0:16:38.04,Default,,0000,0000,0000,,Non sapersi controllare e baciare spontaneamente qualcuno e' imperdonabile.
+Dialogue: 0,0:16:40.63,0:16:42.85,Default,,0000,0000,0000,,Le birbantelle come te dovrebbero essere punite.
+Dialogue: 0,0:16:46.33,0:16:47.00,Default,,0000,0000,0000,,Da questa parte.
+Dialogue: 0,0:16:51.04,0:16:54.01,Default,,0000,0000,0120,,{\bord1.6\shad1.6}{\1c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}{\fs48}Club della poesia
+Dialogue: 0,0:16:52.15,0:16:53.73,Default,,0000,0000,0000,,Questo è il mio regno.
+Dialogue: 0,0:16:54.51,0:16:58.06,Default,,0000,0000,0000,,Una ragazza che si e' diplomata ha dato a Kirin la chiave.
+Dialogue: 0,0:16:58.88,0:17:01.29,Default,,0000,0000,0000,,Quindi siamo libere di fare qualsiasi cosa.
+Dialogue: 0,0:17:16.58,0:17:17.59,Default,,0000,0000,0000,,Ne vuoi un po' anche te?
+Dialogue: 0,0:17:18.30,0:17:20.20,Default,,0000,0000,0000,,No. Io...
+Dialogue: 0,0:17:20.55,0:17:22.99,Default,,0000,0000,0000,,Hai detto che avresti fatto qualsiasi cosa, giusto?
+Dialogue: 0,0:17:32.32,0:17:33.33,Default,,0000,0000,0000,,Io voglio bere.
+Dialogue: 0,0:17:47.64,0:17:48.60,Default,,0000,0000,0000,,Aia!
+Dialogue: 0,0:17:49.57,0:17:51.19,Default,,0000,0000,0000,,Kirin, tienila ferma.
+Dialogue: 0,0:17:51.54,0:17:52.52,Default,,0000,0000,0000,,Scusami.
+Dialogue: 0,0:17:54.01,0:17:56.23,Default,,0000,0000,0000,,Kirin e' la mia schiava.
+Dialogue: 0,0:17:56.92,0:17:59.59,Default,,0000,0000,0000,,Lei ubbidisce a tutti i miei ordini.
+Dialogue: 0,0:18:13.67,0:18:15.56,Default,,0000,0000,0000,,Chiamami Lady Shinobu.
+Dialogue: 0,0:18:18.32,0:18:19.68,Default,,0000,0000,0000,,Lady Shinobu.
+Dialogue: 0,0:18:20.49,0:18:22.63,Default,,0000,0000,0000,,Ed io come devo chiamarti?
+Dialogue: 0,0:18:24.23,0:18:25.11,Default,,0000,0000,0000,,Maya.
+Dialogue: 0,0:18:26.34,0:18:28.54,Default,,0000,0000,0000,,Maya... Ti senti un po' disorientata?
+Dialogue: 0,0:18:29.55,0:18:30.52,Default,,0000,0000,0000,,Ti aiutero' a rilassarti.
+Dialogue: 0,0:18:31.01,0:18:33.10,Default,,0000,0000,0000,,C-Che cosa e' quello?
+Dialogue: 0,0:18:35.67,0:18:37.01,Default,,0000,0000,0000,,Fermati per favore!
+Dialogue: 0,0:18:37.52,0:18:38.40,Default,,0000,0000,0000,,N- No!
+Dialogue: 0,0:18:39.71,0:18:41.12,Default,,0000,0000,0000,,Adesso si comincia.
+Dialogue: 0,0:18:45.32,0:18:47.53,Default,,0000,0000,0000,,Vuoi diventare una mia schiava anche te, no?
+Dialogue: 0,0:18:48.88,0:18:51.61,Default,,0000,0000,0000,,Se e' cosi', segui quello che ti dice il tuo cuore.
+Dialogue: 0,0:19:14.25,0:19:16.16,Default,,0000,0000,0000,,Ottima notizia.. allora tutto e' andato bene.
+Dialogue: 0,0:19:16.57,0:19:17.17,Default,,0000,0000,0000,,E si...
+Dialogue: 0,0:19:17.88,0:19:20.05,Default,,0000,0000,0000,,Allora, la foto del viso del tuo amato mentre dorme?
+Dialogue: 0,0:19:21.72,0:19:23.55,Default,,0000,0000,0000,,Non è che il tuo amante sia una ragazza?
+Dialogue: 0,0:19:24.99,0:19:27.20,Default,,0000,0000,0000,,Non e' davvero una grande idea.
+Dialogue: 0,0:19:27.94,0:19:29.37,Default,,0000,0000,0000,,L'importante e' che vi amiate l'un l'altra.
+Dialogue: 0,0:20:14.31,0:20:16.10,Default,,0000,0000,0000,,Signorina Handa, ancora?
+Dialogue: 0,0:20:16.46,0:20:18.63,Default,,0000,0000,0000,,Ma insomma! Si alzi per favore!
+Dialogue: 0,0:20:21.80,0:20:26.22,Default,,0000,0000,0000,,Per curiosita', eravate voi quella con la signorina Komai sul terrazzo l'altro giorno?
+Dialogue: 0,0:20:27.01,0:20:28.25,Default,,0000,0000,0000,,Eravamo noi.
+Dialogue: 0,0:20:28.61,0:20:31.36,Default,,0000,0000,0000,,Di cosa avete parlato? Qualcosa che c'entrava con Chizuru?
+Dialogue: 0,0:20:33.91,0:20:37.11,Default,,0000,0000,0000,,Non e' che avete detto qualcosa di sconcio alla signorina Komai?
+Dialogue: 0,0:20:38.06,0:20:41.91,Default,,0000,0000,0000,,Qualsiasi cosa la gente pensi, quelle due l'hanno fatto assieme.
+Dialogue: 0,0:20:42.47,0:20:44.93,Default,,0000,0000,0000,,Quindi e' stata opera tua!
+Dialogue: 0,0:20:45.41,0:20:47.83,Default,,0000,0000,0000,,Lo sai che loro due sono sorelle!
+Dialogue: 0,0:20:48.26,0:20:52.68,Default,,0000,0000,0000,,Questo perche'... questo perche' Komai e' venuta a parlare con me...
+Dialogue: 0,0:20:53.51,0:20:56.15,Default,,0000,0000,0000,,di come far scomparire il suo sentimento di amore...
+Dialogue: 0,0:20:57.16,0:20:59.81,Default,,0000,0000,0000,,E tu cosa gli hai risposto?
+Dialogue: 0,0:21:00.90,0:21:04.96,Default,,0000,0000,0000,,Piuttosto che sopprimere il proprio amore, è meno doloroso uccidersi da soli.
+Dialogue: 0,0:21:06.32,0:21:07.56,Default,,0000,0000,0000,,Io non lo credo...
+Dialogue: 0,0:21:15.28,0:21:16.68,Default,,0000,0000,0000,,Adesso è meglio tornare a casa.
+Dialogue: 0,0:21:17.17,0:21:18.72,Default,,0000,0000,0000,,Non ho con me l'ombrella.
+Dialogue: 0,0:21:19.61,0:21:21.66,Default,,0000,0000,0000,,E' un buon profumo, vero?
+Dialogue: 0,0:21:22.28,0:21:23.74,Default,,0000,0000,0000,,E' solo un profumo.
+Dialogue: 0,0:21:24.33,0:21:25.54,Default,,0000,0000,0000,,Lascia un dolce alone.
+Dialogue: 0,0:21:26.21,0:21:29.00,Default,,0000,0000,0000,,Nota iniziale al bergamotto e persistenza al cioccolato.
+Dialogue: 0,0:21:30.04,0:21:31.28,Default,,0000,0000,0000,,Cosa vuol dire?
+Dialogue: 0,0:21:32.21,0:21:33.83,Default,,0000,0000,0000,,Smettila qui!
+Dialogue: 0,0:21:34.15,0:21:36.81,Default,,0000,0000,0000,,Se no ti chiudo dentro! Su sbrigati adesso!
+Dialogue: 0,0:21:37.89,0:21:38.81,Default,,0000,0000,0000,,Momoko...
+Dialogue: 0,0:21:46.07,0:21:47.84,Default,,0000,0000,0000,,Eeee! Mi hai spaventata!
+Dialogue: 0,0:21:48.23,0:21:50.07,Default,,0000,0000,0000,,Cosa.. la leggenda del pupazzo?
+Dialogue: 0,0:21:51.55,0:21:54.23,Default,,0000,0000,0000,,Volevo provare se funzionava.
+Dialogue: 0,0:21:58.27,0:21:59.70,Default,,0000,0000,0000,,Bene, allora.. arrivederci.
+Dialogue: 0,0:22:01.36,0:22:03.93,Default,,0000,0000,0000,,Se noi ci... amavamo reciprocamente...
+Dialogue: 0,0:22:06.33,0:22:07.08,Default,,0000,0000,0000,,Arrivederci.
+Dialogue: 0,0:22:23.50,0:22:26.06,Default,,0000,0000,0000,,Lady Shinobu, ti prego lasciami mettermi sotto anch'io!
+Dialogue: 0,0:22:26.58,0:22:28.27,Default,,0000,0000,0000,,Ci inzupperemo tutte e tre.
+Dialogue: 0,0:22:30.31,0:22:33.98,Default,,0000,0000,0060,,{\fad(0,1000)}{\fs50}{\3c&H000000&}Avrei voluto scomparire.
+Dialogue: 0,0:22:38.28,0:22:40.41,Default,,0000,0000,0000,,Momoko! Stiamo andando a casa!
+Dialogue: 0,0:22:40.68,0:22:41.55,Default,,0000,0000,0000,,Va bene!
+Dialogue: 0,0:22:42.60,0:22:43.20,Default,,0000,0000,0000,,Aspetta!
+Dialogue: 0,0:22:44.74,0:22:47.09,Default,,0000,0000,0000,,Scusami. E' arrivata la mamma.
+Dialogue: 0,0:22:47.39,0:22:48.37,Default,,0000,0000,0000,,Arrivederci.
+Dialogue: 0,0:22:48.71,0:22:49.65,Default,,0000,0000,0000,,Arrivederci!
+Dialogue: 0,0:22:54.64,0:22:55.53,Default,,0000,0000,0000,,Ci vediamo la prossima volta!
+Dialogue: 0,0:22:58.19,0:23:00.20,Default,,0000,0000,0000,,{\i1}La prossima volta non ne' mai arrivata.{\i0}
+Dialogue: 0,0:23:00.97,0:23:02.25,Default,,0000,0000,0000,,{\i1}Non l'ho piu' rivista.{\i0}
+Dialogue: 0,0:23:03.32,0:23:05.26,Default,,0000,0000,0000,,{\i1}Il mio primo eterno amore.{\i0}
+Dialogue: 0,0:23:06.23,0:23:11.48,Default,,0000,0000,0000,,{\i1}Se ti dimenticavo sarei vissuta felicemente, ma sembra che la mia memoria abbia deciso di tornare in questo parchetto da sola.{\i0}
+Dialogue: 0,0:23:12.83,0:23:17.22,Default,,0000,0000,0000,,{\i1}La tua mancanza è stata una ferita dolorosa per tutto questo tempo.{\i0}
+Dialogue: 0,0:23:18.26,0:23:22.42,Default,,0000,0000,0000,,{\i1}Desidero unicamente liberarmi da questo dolore.{\i0}
+Dialogue: 0,0:23:24.01,0:23:27.34,Default,,0000,0000,0000,,{\i1}Ma lei non si ricorda quello che e' successo allora.{\i0}
+Dialogue: 0,0:23:28.72,0:23:32.95,Default,,0000,0000,0000,,{\i1}Ed io... che non riesco a dimenticare... non posso dirle nulla.{\i0}
+Dialogue: 0,0:23:38.59,0:23:40.29,Default,,0000,0000,0000,,{\i1}Come in un gioco a nascondino senza fine.{\i0}
+Dialogue: 0,0:23:41.42,0:23:43.11,Default,,0000,0000,0000,,{\i1}Voglio essere scoperta presto.{\i0}
+Dialogue: 0,0:23:44.50,0:23:45.80,Default,,0000,0000,0000,,{\i1}Perche' io...{\i0}
+Dialogue: 0,0:23:47.12,0:23:49.41,Default,,0000,0000,0000,,{\i1}...sono proprio davanti ai tuoi occhi.{\i0}
+Dialogue: 0,0:23:45.92,0:23:51.55,Signs,,0000,0000,0000,,{\fad(1000,2500)}{\pos(320,75)}{\p1}{\bord0.5\shad0}m 0 0 l 165 0 165 50 0 50{\p0}
+Dialogue: 0,0:23:45.92,0:23:51.55,Signs - Text,,0000,0000,0000,,{\fad(1000,2500)\pos(320,70)\fs30}Naito Momoko
+Dialogue: 0,0:23:57.47,0:24:01.70,Default,,0000,0000,0140,,{\fad(500,500)}{\fs24}{\3c&H000000&}Presentato da H.F.I.F.\N
+Dialogue: 0,0:24:02.44,0:24:06.64,Default,,0000,0000,0150,,{\fad(500,500)}{\fs24}{\3c&H000000&}Traduzione italiano:\NFirvulag
+Dialogue: 0,0:24:07.38,0:24:11.55,Default,,0000,0000,0150,,{\fad(500,500)}{\fs24}{\3c&H000000&}Adattamento italiano:\NFirvulag
+Dialogue: 0,0:24:12.31,0:24:16.45,Default,,0000,0000,0100,,{\fad(500,500)}{\fs24}{\3c&H000000&}Script orginale:\NKiller Maid\N SHiN-gx
+Dialogue: 0,0:24:17.25,0:24:21.42,Default,,0000,0000,0100,,{\fad(500,500)}{\fs24}{\3c&H000000&}\NFansub gratuito senza fini di lucro\Ndistribuito liberamente
+Dialogue: 0,0:24:22.19,0:24:26.36,Default,,0000,0000,0100,,{\fad(500,500)}{\fs24}{\3c&H000000&}\NSe l'hai pagato ti hanno truffato

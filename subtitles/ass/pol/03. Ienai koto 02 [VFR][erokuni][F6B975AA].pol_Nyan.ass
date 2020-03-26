@@ -1,0 +1,152 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.3.632  Dec 17 2016  19:28:29
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.1,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H0053DFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,60,&H0053DFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Pl,Franklin Gothic Medium,28,&H00EEE0E1,&H00626262,&H007A3A5D,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:56.97,0:01:03.98,Grupa,,0,0,0,,{\be1\1c&H000000&\t(0,487,\1c&HB769FF&)\t(6527,$end,\1c&H000000&)}N{\1c&H000000&\t(0,487,\1c&H53DFFF&)\t(6527,$end,\1c&H000000&)}yan
+Dialogue: 0,0:00:56.97,0:01:03.98,Anime,,0,0,0,,{\pos(72,255)\be1\1c&H000000&\t(0,487,\1c&HB769FF&)\t(6527,$end,\1c&H000000&)}I{\t(0,487,\1c&H53DFFF&)\t(6527,$end,\1c&H000000&)}enai Koto
+Dialogue: 0,0:12:57.79,0:13:02.50,Znak,,0,0,0,,{\be1\fad(988,0)}Pokój nauczycielski
+Dialogue: 0,0:00:15.45,0:00:18.52,Default,,0,0,0,,{\be1}Czemu nie pijesz?
+Dialogue: 0,0:00:19.52,0:00:21.75,Default,,0,0,0,,{\be1}Już mi wystarczy.
+Dialogue: 0,0:00:21.75,0:00:26.71,Default,,0,0,0,,{\be1}Nie wstydź się!
+Dialogue: 0,0:00:26.71,0:00:32.39,Default,,0,0,0,,{\be1}Jesteśmy na wycieczce, możemy się rozerwać!
+Dialogue: 0,0:00:35.43,0:00:41.67,Default,,0,0,0,,{\be1}Całkiem nieźle, umiesz pić.
+Dialogue: 0,0:00:42.59,0:00:43.49,Default,,0,0,0,,{\be1}Hayakawa?
+Dialogue: 0,0:00:45.48,0:00:49.68,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:00:50.86,0:00:54.53,Default,,0,0,0,,{\be1}Halo? Hayakawa.
+Dialogue: 0,0:00:54.53,0:00:56.59,Default,,0,0,0,,{\be1}Dobrze się czujesz?
+Dialogue: 0,0:01:32.23,0:01:34.25,Default,,0,0,0,,{\be1}Wicedyrektorze?!
+Dialogue: 0,0:01:35.07,0:01:38.31,Default,,0,0,0,,{\be1}Nieładnie.
+Dialogue: 0,0:01:38.31,0:01:39.69,Default,,0,0,0,,{\be1}Co robicie?!
+Dialogue: 0,0:01:42.46,0:01:43.12,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:01:46.88,0:01:50.19,Default,,0,0,0,,{\be1}Miałaś je w sobie przez ten cały czas?
+Dialogue: 0,0:01:52.42,0:01:54.04,Default,,0,0,0,,{\be1}Spróbujmy.
+Dialogue: 0,0:01:57.99,0:02:04.09,Default,,0,0,0,,{\be1}Musiałaś mieć je w sobie cały\Ndzień skoro jesteś taka mokra.
+Dialogue: 0,0:02:04.73,0:02:09.63,Default,,0,0,0,,{\be1}Na dodatek to Hara go włożył.
+Dialogue: 0,0:02:12.30,0:02:14.61,Default,,0,0,0,,{\be1}Skąd wiesz?
+Dialogue: 0,0:02:14.61,0:02:18.32,Default,,0,0,0,,{\be1}Sorki, ale za dużo wypiłem i wymsknęło mi się.
+Dialogue: 0,0:02:19.70,0:02:23.13,Default,,0,0,0,,{\be1}Wszyscy wiedzieli i nie powiedzieli mi.
+Dialogue: 0,0:02:24.79,0:02:27.83,Default,,0,0,0,,{\be1}Wiesz czemu to się dzieje?
+Dialogue: 0,0:02:27.83,0:02:31.83,Default,,0,0,0,,{\be1}Bo jesteś zbyt pobłażliwa dla wszystkich.
+Dialogue: 0,0:02:33.88,0:02:41.81,Default,,0,0,0,,{\be1}Musisz być ciszej, albo wszystkich obudzisz.
+Dialogue: 0,0:02:43.48,0:02:48.19,Default,,0,0,0,,{\be1}Ale jesteś mokra.
+Dialogue: 0,0:02:48.19,0:02:50.79,Default,,0,0,0,,{\be1}Wszedł cały!
+Dialogue: 0,0:02:52.61,0:02:59.20,Default,,0,0,0,,{\be1}Czujesz jak staje mi coraz mocniej?
+Dialogue: 0,0:02:59.20,0:03:04.22,Default,,0,0,0,,{\be1}Od dawna mam na ciebie oko.
+Dialogue: 0,0:03:06.15,0:03:09.18,Default (i),,0,0,0,,{\be1}Najpierw Hara, a teraz wicedyrektor?
+Dialogue: 0,0:03:10.13,0:03:13.54,Default (i),,0,0,0,,{\be1}Jeśli ktoś mnie teraz zobaczy...
+Dialogue: 0,0:03:24.14,0:03:27.73,Default,,0,0,0,,{\be1}Młode kobiety są cudowne!
+Dialogue: 0,0:03:27.73,0:03:32.22,Default,,0,0,0,,{\be1}Nie tylko lubisz bawić się dodatkami,\Nale masz też wspaniałe ciało!
+Dialogue: 0,0:03:33.98,0:03:37.87,Default,,0,0,0,,{\be1}Jesteś taka jędrna i ciasna!
+Dialogue: 0,0:03:41.57,0:03:43.40,Default (i),,0,0,0,,{\be1}Skończ szybciej!
+Dialogue: 0,0:03:48.41,0:03:52.09,Default,,0,0,0,,{\be1}Za bardzo hałasujesz.
+Dialogue: 0,0:03:52.09,0:03:55.43,Default,,0,0,0,,{\be1}Na razie możesz mi possać.
+Dialogue: 0,0:03:59.97,0:04:03.21,Default,,0,0,0,,{\be1}Wkładaj głębiej.
+Dialogue: 0,0:04:08.23,0:04:11.44,Default,,0,0,0,,{\be1}Z każdym włożeniem robisz się ciaśniejsza!
+Dialogue: 0,0:04:11.44,0:04:16.14,Default,,0,0,0,,{\be1}Chyba bardziej wolisz mojego niż zabawki!
+Dialogue: 0,0:04:22.11,0:04:23.52,Default,,0,0,0,,{\be1}Hayakawa!
+Dialogue: 0,0:04:28.29,0:04:29.99,Default,,0,0,0,,{\be1}Hayakawa!
+Dialogue: 0,0:04:41.22,0:04:45.20,Default,,0,0,0,,{\be1}Dobrze się spisałaś nie krzycząc.
+Dialogue: 0,0:04:46.93,0:04:54.77,Default,,0,0,0,,{\be1}Tak dawno nie byłem z tak cudowną kobietą,\Nże się nie powstrzymałem i spuściłem w środku.
+Dialogue: 0,0:04:57.32,0:05:00.56,Default (i),,0,0,0,,{\be1}Czuję jak wpływa głębiej!
+Dialogue: 0,0:05:09.41,0:05:12.75,Default (i),,0,0,0,,{\be1}Cała się lepię.
+Dialogue: 0,0:05:15.00,0:05:17.61,Default (i),,0,0,0,,{\be1}Muszę się szybko umyć.
+Dialogue: 0,0:05:18.67,0:05:20.87,Default (i),,0,0,0,,{\be1}Mam jeszcze w sobie spermę wicedyrektora.
+Dialogue: 0,0:05:21.84,0:05:24.01,Default,,0,0,0,,{\be1}Hayakawa.
+Dialogue: 0,0:05:24.79,0:05:26.22,Default,,0,0,0,,{\be1}Hara?
+Dialogue: 0,0:05:26.22,0:05:29.51,Default,,0,0,0,,{\be1}Kąpiesz się o tej porze?
+Dialogue: 0,0:05:30.14,0:05:35.10,Default,,0,0,0,,{\be1}Pewnie jesteś zmęczona, zrelaksujmy się razem.
+Dialogue: 0,0:05:45.07,0:05:48.28,Default,,0,0,0,,{\be1}Dobra w tym jesteś.
+Dialogue: 0,0:05:48.28,0:05:52.34,Default,,0,0,0,,{\be1}Ktoś cię tego nauczył?
+Dialogue: 0,0:05:54.00,0:05:57.96,Default,,0,0,0,,{\be1}Ledwo się spuściłem, a nadal mi stoi.
+Dialogue: 0,0:05:58.83,0:06:00.52,Default (i),,0,0,0,,{\be1}Ktoś nas zobaczy!
+Dialogue: 0,0:06:04.30,0:06:07.42,Default,,0,0,0,,{\be1}Zabawimy się trochę sami.
+Dialogue: 0,0:06:10.63,0:06:15.39,Default,,0,0,0,,{\be1}Nie musisz się powstrzymywać.
+Dialogue: 0,0:06:19.69,0:06:21.30,Default,,0,0,0,,{\be1}Jesteś zmęczona, prawda?
+Dialogue: 0,0:06:33.33,0:06:38.95,Default,,0,0,0,,{\be1}Chciałaś się umyć, prawda? Pomogę ci.
+Dialogue: 0,0:06:55.18,0:06:56.27,Default,,0,0,0,,{\be1}Wicedyrektor...
+Dialogue: 0,0:06:59.05,0:07:02.78,Default,,0,0,0,,{\be1}Sporo się spuścił.
+Dialogue: 0,0:07:02.78,0:07:05.52,Default,,0,0,0,,{\be1}Trzeba będzie daleko włożyć, żeby wymyć.
+Dialogue: 0,0:07:18.89,0:07:29.04,Default,,0,0,0,,{\be1}Proszę, jeśli ktoś się o tym dowie będę musiała odejść.
+Dialogue: 0,0:07:31.72,0:07:34.06,Default,,0,0,0,,{\be1}Masz rację.
+Dialogue: 0,0:07:34.06,0:07:36.98,Default,,0,0,0,,{\be1}Byłoby nieciekawie, gdyby się to rozeszło.
+Dialogue: 0,0:07:36.98,0:07:42.95,Default,,0,0,0,,{\be1}Wystarczy, że nikt się nie dowie, nie?
+Dialogue: 0,0:07:50.45,0:07:55.77,Default,,0,0,0,,{\be1}Jestem puszczalską suką, zrobię wszystko.
+Dialogue: 0,0:07:58.23,0:08:07.87,Default,,0,0,0,,{\be1}Proszę, zerżnij moją niewyżytą cipę.
+Dialogue: 0,0:08:11.85,0:08:16.11,Default,,0,0,0,,{\be1}Jaka mokra i raczej nie przez mydło, nie?
+Dialogue: 0,0:08:17.56,0:08:18.69,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:08:28.95,0:08:32.99,Default,,0,0,0,,{\be1}Czy mi się wydaje czy jesteś ciaśniejsza niż wcześniej.
+Dialogue: 0,0:08:32.99,0:08:38.25,Default,,0,0,0,,{\be1}Gdyby ktoś teraz wszedł zobaczyłby wszystko.
+Dialogue: 0,0:08:40.15,0:08:44.74,Default,,0,0,0,,{\be1}Tu jesteś taka rozepchana, że od razu wszedł palec.
+Dialogue: 0,0:08:49.68,0:08:54.51,Default,,0,0,0,,{\be1}I jak, przyjemnie?
+Dialogue: 0,0:09:03.40,0:09:05.21,Default,,0,0,0,,{\be1}Nie jest!
+Dialogue: 0,0:09:05.94,0:09:12.52,Default,,0,0,0,,{\be1}Mów prawdę, czy może chcesz,\Nżeby się wszyscy dowiedzieli?
+Dialogue: 0,0:09:15.68,0:09:19.40,Default,,0,0,0,,{\be1}Przyjemnie!
+Dialogue: 0,0:09:26.46,0:09:32.22,Default,,0,0,0,,{\be1}Zsikałaś się.\NNie masz w sobie za grosz wstydu.
+Dialogue: 0,0:09:45.28,0:09:48.44,Default,,0,0,0,,{\be1}Jeszcze ci mało.
+Dialogue: 0,0:09:48.44,0:09:50.69,Default,,0,0,0,,{\be1}Co chcesz zrobić?
+Dialogue: 0,0:09:50.69,0:09:53.27,Default (i),,0,0,0,,{\be1}Nie mów!
+Dialogue: 0,0:09:55.57,0:10:00.41,Default,,0,0,0,,{\be1}Chcę jeszcze.
+Dialogue: 0,0:10:00.41,0:10:01.98,Default (i),,0,0,0,,{\be1}Miałam nie mówić!
+Dialogue: 0,0:10:03.62,0:10:07.34,Default,,0,0,0,,{\be1}Zerżnij mnie jeszcze raz!
+Dialogue: 0,0:10:17.55,0:10:21.38,Default,,0,0,0,,{\be1}Faktycznie jesteś puszczalska.
+Dialogue: 0,0:10:25.25,0:10:31.18,Default (i),,0,0,0,,{\be1}Mina, wybacz.\NAle nie mogę się powstrzymać!
+Dialogue: 0,0:10:34.78,0:10:41.82,Default,,0,0,0,,{\be1}Miałaś orgazm, gdy wicedyrektor\Nspuścił się w środku, nie?
+Dialogue: 0,0:10:43.31,0:10:46.54,Default,,0,0,0,,{\be1}Tak, przepraszam!
+Dialogue: 0,0:10:46.54,0:10:48.27,Default,,0,0,0,,{\be1}I ty jesteś nauczycielką?
+Dialogue: 0,0:10:50.84,0:10:55.66,Default,,0,0,0,,{\be1}Podniecałam się coraz mocniej, gdy mnie brał!
+Dialogue: 0,0:10:57.39,0:11:01.40,Default,,0,0,0,,{\be1}Już sam dotyk wystarczył!
+Dialogue: 0,0:11:02.89,0:11:05.24,Default,,0,0,0,,{\be1}Zboczucha z ciebie.
+Dialogue: 0,0:11:05.84,0:11:07.25,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:11:11.19,0:11:16.29,Default,,0,0,0,,{\be1}Jeśli zaraz nie przestaniesz, to dojdę!
+Dialogue: 0,0:11:25.37,0:11:28.25,Default,,0,0,0,,{\be1}Znowu dochodzisz?
+Dialogue: 0,0:11:28.25,0:11:32.49,Default,,0,0,0,,{\be1}Jesteś nauczycielką, a robisz taką zboczoną minę.
+Dialogue: 0,0:11:33.09,0:11:36.51,Default,,0,0,0,,{\be1}Słuchasz mnie?
+Dialogue: 0,0:11:38.09,0:11:42.26,Default,,0,0,0,,{\be1}Zerżnę cię, ile będziesz chciała!
+Dialogue: 0,0:11:42.26,0:11:44.53,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:12:07.75,0:12:14.78,Default,,0,0,0,,{\be1}Spuść się we mnie!
+Dialogue: 0,0:12:38.74,0:12:43.03,Default,,0,0,0,,{\be1}I znowu jesteś brudna.
+Dialogue: 0,0:12:43.03,0:12:47.32,Default,,0,0,0,,{\be1}Umyj się zanim ktoś przyjdzie.
+Dialogue: 0,0:13:01.55,0:13:02.50,Default,,0,0,0,,{\be1}Uwaga.
+Dialogue: 0,0:13:03.65,0:13:06.92,Default,,0,0,0,,{\be1}Mam zdjęcia z wycieczki.
+Dialogue: 0,0:13:09.42,0:13:12.52,Default,,0,0,0,,{\be1}Dostała pani swoje zdjęcia?
+Dialogue: 0,0:13:12.52,0:13:14.48,Default,,0,0,0,,{\be1}Tym się nie przejmuj.
+Dialogue: 0,0:13:14.48,0:13:19.78,Default,,0,0,0,,{\be1}Niedawno jej dałem, prawda?
+Dialogue: 0,0:13:23.64,0:13:24.42,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:13:26.74,0:13:30.82,Default,,0,0,0,,{\be1}Pojedźmy znowu do gorących źródeł.
+Dialogue: 0,0:13:38.71,0:13:49.52,ED Pl,,0,0,0,,{\blur3\fad(200,0)}Nigdy nie zapomnę tamtego widoku.
+Dialogue: 0,0:13:49.52,0:13:54.49,ED Pl,,0,0,0,,{\blur3\fad(0,200)}Byliśmy tam razem...
+Dialogue: 0,0:13:54.77,0:14:00.15,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Tyle mi wystarczyło.
+Dialogue: 0,0:14:00.41,0:14:03.36,ED Pl,,0,0,0,,{\blur3\fad(200,0)}Nigdy mnie nie opuszczaj.
+Dialogue: 0,0:14:03.36,0:14:07.67,ED Pl,,0,0,0,,{\blur3\fad(0,200)}Zawsze o czymś marzyłam...
+Dialogue: 0,0:14:08.13,0:14:13.83,ED Pl,,0,0,0,,{\blur3\fad(200,0)}Bardzo tego pragnęłam...
+Dialogue: 0,0:14:13.83,0:14:18.68,ED Pl,,0,0,0,,{\blur3\fad(0,200)}Jakie będą twoje ostatnie słowa?
+Dialogue: 0,0:14:18.76,0:14:20.37,ED Pl,,0,0,0,,{\blur3\fad(200,0)}Żegnaj?
+Dialogue: 0,0:14:20.37,0:14:23.00,ED Pl,,0,0,0,,{\blur3}Więcej się nie zobaczymy?
+Dialogue: 0,0:14:23.00,0:14:26.68,ED Pl,,0,0,0,,{\blur3}Nie chcę nigdy tego usłyszeć.
+Dialogue: 0,0:14:26.68,0:14:29.39,ED Pl,,0,0,0,,{\blur3}Powiedz czy czujesz miłość?
+Dialogue: 0,0:14:29.39,0:14:31.96,ED Pl,,0,0,0,,{\blur3}Zauważ moje łzy.
+Dialogue: 0,0:14:31.96,0:14:37.36,ED Pl,,0,0,0,,{\blur3}Wiem, że patrzyłeś na mnie jak na skarb.
+Dialogue: 0,0:14:37.36,0:14:40.02,ED Pl,,0,0,0,,{\blur3}Powiedz czy czujesz miłość?
+Dialogue: 0,0:14:40.02,0:14:42.69,ED Pl,,0,0,0,,{\blur3}Daj mi skrzydła.
+Dialogue: 0,0:14:42.69,0:14:45.06,ED Pl,,0,0,0,,{\blur3}Wołam cię, płaczę za tobą...
+Dialogue: 0,0:14:45.06,0:14:48.04,ED Pl,,0,0,0,,{\blur3}Czy to naprawdę ty?
+Dialogue: 0,0:14:48.04,0:14:59.03,ED Pl,,0,0,0,,{\blur3}Gdy pory roku przemijają, ja przemijam z nimi.
+Dialogue: 0,0:14:59.03,0:15:08.42,ED Pl,,0,0,0,,{\blur3\fad(0,1014)}Ale i tak nie przestanę cię kochać.

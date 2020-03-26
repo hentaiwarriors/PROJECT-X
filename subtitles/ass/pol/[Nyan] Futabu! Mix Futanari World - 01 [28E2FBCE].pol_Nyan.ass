@@ -1,0 +1,401 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build470  Jan  9 2016  12:22:32
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 848
+PlayResY: 480
+Video File: Futabu! Mix Futanari World - 01.mp4
+Video AR Mode: 4
+Video AR Value: 1.777083
+Video Zoom Percent: 0.500000
+Video Position: 286
+Collisions: Normal
+Last Style Storage: Podstawowy
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H0000ABF5,&H000000FF,&H00000000,&H000B5BD2,-1,-1,0,0,100,100,0,0,1,0,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,40,&H00FFFFFF,&H000000FF,&H00008BF5,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,120,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,26,&H00B23BFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: ED Pl,Franklin Gothic Medium,26,&H00B23BFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.57,0:00:11.53,Grupa,,0,0,0,,{\fad(978,0)\yshad1.5\t(4982,$end,\1c&H000000&\4c&H000000&)}Nyan
+Dialogue: 1,0:00:08.15,0:00:11.53,Anime,,0,0,0,,{\fry90\frz8\move(768,360,424,360,108,650)\t(0,650,\fry0\frz0)\t(2402,$end,\1c&H000000&\3c&H000000&)}Świat obojnaków
+Dialogue: 0,0:00:08.15,0:00:11.53,Anime,,0,0,0,,{\bord5\3c&HFFFFFF&\fry90\frz8\move(768,360,424,360,108,650)\t(0,650,\fry0\frz0)\t(2402,$end,\1c&H000000&\3c&H000000&)}Świat obojnaków
+Dialogue: 0,0:01:19.64,0:01:24.60,Tytul,,0,0,25,,{\be1\fs70\bord4\shad3\1c&H000000&\3c&H040404&\4c&H000000&\t(0,982,\3c&HFFFFFF&\4c&HBDBDBD&)\t(3985,$end,\3c&H040404&\4c&H000000&)}Futabu! Badania!
+Dialogue: 1,0:10:16.97,0:10:21.93,Tytul,,0,0,40,,{\fs96\fad(1022,976)\bord2\1c&H545254&\3c&HFFFFFF&}M{\1c&H898889&}i{\1c&HC3C1C2&}ł{\1c&H545254&}o{\1c&H898889&}ś{\1c&HC3C1C2&}ć {\1c&H545254&}i {\1c&H898889&}n{\1c&HC3C1C2&}a{\1c&H545254&}p{\1c&H898889&}l{\1c&HC3C1C2&}e{\1c&H545254&}t{\1c&H898889&}e{\1c&HC3C1C2&}k
+Dialogue: 0,0:10:16.97,0:10:21.93,Tytul,,0,0,40,,{\fs96\fad(1022,976)\bord6\1c&H545254&\3c&H000000&}M{\1c&H898889&}i{\1c&HC3C1C2&}ł{\1c&H545254&}o{\1c&H898889&}ś{\1c&HC3C1C2&}ć {\1c&H545254&}i {\1c&H898889&}n{\1c&HC3C1C2&}a{\1c&H545254&}p{\1c&H898889&}l{\1c&HC3C1C2&}e{\1c&H545254&}t{\1c&H898889&}e{\1c&HC3C1C2&}k
+Dialogue: 1,0:15:30.37,0:15:35.33,Tytul,,0,0,110,,{\fs60\bord2\i1\1c&H000000&\3c&H050505&\t(0,977,\1c&H696769&\3c&HFFFFFF&)\t(3980,$end,\1c&H000000&\3c&H050505&)}Poranek pewnej dziewczyny
+Dialogue: 0,0:15:30.37,0:15:35.33,Tytul,,0,0,110,,{\fs60\bord6\i1\1c&H000000&\3c&H000000&}Poranek pewnej dziewczyny
+Dialogue: 0,0:21:03.49,0:21:08.45,Tytul,,0,0,30,,{\fs65\fad(982,975)\bord3.5}R{\1c&HC9C8C9&}o{\1c&HEDECED&}z{\1c&HFFFFFF&}w{\1c&HC9C8C9&}i{\1c&HEDECED&}ą{\1c&HFFFFFF&}z{\1c&HC9C8C9&}a{\1c&HEDECED&}n{\1c&HFFFFFF&}i{\1c&HC9C8C9&}e{\1c&HEDECED&}! {\1c&HFFFFFF&}D{\1c&HC9C8C9&}o{\1c&HEDECED&}k{\1c&HFFFFFF&}t{\1c&HC9C8C9&}o{\1c&HEDECED&}r {\1c&HFFFFFF&}Y{\1c&HC9C8C9&}u{\1c&HEDECED&}u{\1c&HFFFFFF&}k{\1c&HC9C8C9&}o
+Dialogue: 0,0:26:20.39,0:26:28.46,ED Rom,,0,0,0,,{\be1\fad(200,200)}toaru asa mega sametara watashi ni mo haete ita
+Dialogue: 0,0:26:28.73,0:26:34.53,ED Rom,,0,0,0,,{\be1\fad(200,200)}yume ni made mita sono nari no nari ga
+Dialogue: 0,0:26:35.39,0:26:42.88,ED Rom,,0,0,0,,{\be1\fad(200,200)}anoko tachi mo kitto jibun de mousou shiteru hazu
+Dialogue: 0,0:26:43.21,0:26:49.26,ED Rom,,0,0,0,,{\be1\fad(200,200)}hitoriyogari wo dekiru hi mo tooku nai
+Dialogue: 0,0:26:51.06,0:26:57.08,ED Rom,,0,0,0,,{\be1\fad(200,200)}dakedo yappari kininaru
+Dialogue: 0,0:26:58.48,0:27:02.48,ED Rom,,0,0,0,,{\be1\fad(200,200)}onnanoko no mama mo ii kedo
+Dialogue: 0,0:27:02.50,0:27:06.69,ED Rom,,0,0,0,,{\be1\fad(200,200)}dashi no mesenn de shitai janai
+Dialogue: 0,0:27:08.49,0:27:17.04,ED Rom,,0,0,0,,{\be1\fad(200,200)}futanari nari ni jibun nari ni jibun no nari wo
+Dialogue: 0,0:27:17.21,0:27:24.13,ED Rom,,0,0,0,,{\be1\fad(200,200)}tomadoi kakete futanari ni jibun nari ni
+Dialogue: 1,0:27:23.99,0:27:32.60,ED Rom,,0,0,0,,{\be1\fad(200,200)}futanari nari ni jibun nari ni monmon to
+Dialogue: 0,0:27:32.69,0:27:42.52,ED Rom,,0,0,0,,{\be1\fad(200,200)}watashi no subete ga futanari ni futanari ni nari ni
+Dialogue: 0,0:26:20.39,0:26:28.46,ED Pl,,0,0,0,,{\be1\fad(200,200)}Gdy obudziłam się pewnego ranka\Nzobaczyłam go między nogami.
+Dialogue: 0,0:26:28.73,0:26:34.53,ED Pl,,0,0,0,,{\be1\fad(200,200)}Moje marzenie w końcu się spełniło.
+Dialogue: 0,0:26:35.39,0:26:42.88,ED Pl,,0,0,0,,{\be1\fad(200,200)}Reszta pewnie też o nim marzyła.
+Dialogue: 0,0:26:43.21,0:26:49.26,ED Pl,,0,0,0,,{\be1\fad(200,200)}Nadchodzi dzień,\Nw którym będę dumna z siebie.
+Dialogue: 0,0:26:51.06,0:26:57.08,ED Pl,,0,0,0,,{\be1\fad(200,200)}Ale ciekawi mnie jedno...
+Dialogue: 0,0:26:58.48,0:27:02.48,ED Pl,,0,0,0,,{\be1\fad(200,200)}Czy nie powinnam być tylko dziewczyną?
+Dialogue: 0,0:27:02.50,0:27:06.69,ED Pl,,0,0,0,,{\be1\fad(200,200)}Czy może spróbować\Njak to jest być chłopakiem?
+Dialogue: 0,0:27:08.49,0:27:17.04,ED Pl,,0,0,0,,{\be1\fad(200,200)}Stań się jedną z nas i zacznij być sobą.
+Dialogue: 0,0:27:17.21,0:27:24.13,ED Pl,,0,0,0,,{\be1\fad(200,200)}Możesz czuć się zagubiona tylko bądź sobą.
+Dialogue: 1,0:27:23.99,0:27:32.60,ED Pl,,0,0,0,,{\be1\fad(200,200)}Stań się jedną z nas i bądź sobą,\Nchoć trosk ci nie ubędzie.
+Dialogue: 0,0:27:32.69,0:27:42.52,ED Pl,,0,0,0,,{\be1\fad(200,200)}Całym ciałem stanę się jedną z was.
+Dialogue: 0,0:00:15.28,0:00:22.29,Default,,0,0,0,,{\be1}Zaczynamy trzecie badania na wybór\Nnowej przewodniczącej klubu.
+Dialogue: 0,0:00:22.29,0:00:26.51,Default,,0,0,0,,{\be1}Niektórzy chyba mają problem z wytrzymaniem.
+Dialogue: 0,0:00:26.51,0:00:32.04,Default,,0,0,0,,{\be1}No bo nie mogłyśmy się spuścić przez cały dzień.
+Dialogue: 0,0:00:32.04,0:00:35.18,Default,,0,0,0,,{\be1}A z erekcją nie wolno przychodzić do szkoły.
+Dialogue: 0,0:00:35.18,0:00:43.07,Default,,0,0,0,,{\be1}Akane, pamiętasz kryteria jakimi\Nmasz się kierować przy badaniach?
+Dialogue: 0,0:00:43.07,0:00:52.02,Default,,0,0,0,,{\be1}Najpierw zmierzyć długość od podstawy,\Npotem grubość, a na koniec wysokość kapelusza.
+Dialogue: 0,0:00:52.02,0:00:56.79,Default,,0,0,0,,{\be1}Łącznie zmierzyć mam 3 rzeczy\Nwe fiucie i ilość wypuszczanej spermy.
+Dialogue: 0,0:00:56.79,0:00:58.58,Default,,0,0,0,,{\be1}Bardzo dobrze.
+Dialogue: 0,0:00:59.03,0:01:04.38,Default,,0,0,0,,{\be1}Jako że Ai jest w niekorzystnej sytuacji będziemy\Nteż mierzyć ilość wypuszczanej spermy na minutę.
+Dialogue: 0,0:01:04.38,0:01:08.59,Default,,0,0,0,,{\be1}O tak! Już ja wam pokażę!
+Dialogue: 0,0:01:10.63,0:01:18.36,Default,,0,0,0,,{\be1}Pamiętajcie, że od badań zależy która\Nzostanie następną przewodniczącą i zastępcą.
+Dialogue: 0,0:01:26.49,0:01:31.00,Default,,0,0,0,,{\be1}Akane, mierz jak najdokładniej.
+Dialogue: 0,0:01:31.00,0:01:32.51,Default,,0,0,0,,{\be1}Jasna sprawa!
+Dialogue: 0,0:01:32.51,0:01:35.12,Default,,0,0,0,,{\be1}Kto idzie na pierwszy ogień?
+Dialogue: 0,0:01:35.12,0:01:38.79,Default,,0,0,0,,{\be1}Ja chcę!
+Dialogue: 0,0:01:38.79,0:01:41.83,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:01:41.83,0:01:47.84,Default,,0,0,0,,{\be1}Zobaczmy, 11 cm.
+Dialogue: 0,0:01:47.84,0:01:49.84,Default,,0,0,0,,{\be1}Wysokość kapelusza 4 mm.
+Dialogue: 0,0:01:49.84,0:01:53.02,Default,,0,0,0,,{\be1}Zaczynam was doganiać!
+Dialogue: 0,0:01:53.02,0:01:57.29,Default,,0,0,0,,{\be1}Rozumiem, Ai jeszcze rośnie.
+Dialogue: 0,0:01:57.29,0:01:58.66,Default,,0,0,0,,{\be1}Jaka jest grubość?
+Dialogue: 0,0:01:58.66,0:02:01.90,Default,,0,0,0,,{\be1}4 cm.
+Dialogue: 0,0:02:01.90,0:02:03.41,Default,,0,0,0,,{\be1}Zmniejszył się?
+Dialogue: 0,0:02:03.41,0:02:04.91,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:02:04.91,0:02:07.40,Default,,0,0,0,,{\be1}Teraz jest dobrze zmierzony.
+Dialogue: 0,0:02:08.29,0:02:15.37,Default,,0,0,0,,{\be1}Ostatnio nie mieliśmy odpowiednich przyrządów,\Nwięc mogło dojść do pomyłki.
+Dialogue: 0,0:02:15.37,0:02:17.64,Default,,0,0,0,,{\be1}Teraz ja.
+Dialogue: 0,0:02:17.64,0:02:22.33,Default,,0,0,0,,{\be1}Stanął bez żadnej stymulacji, radzę uważać.
+Dialogue: 0,0:02:22.33,0:02:23.68,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:02:24.69,0:02:28.34,Default,,0,0,0,,{\be1}Twój to dopiero jest niezły.
+Dialogue: 0,0:02:29.93,0:02:34.01,Default (i),,0,0,0,,{\be1}Przez jego kształt ciężko go zmierzyć.
+Dialogue: 0,0:02:34.01,0:02:37.35,Default,,0,0,0,,{\be1}Długość 20 cm.
+Dialogue: 0,0:02:37.35,0:02:42.70,Default,,0,0,0,,{\be1}Grubość również się nie zmieniła, 10 cm.
+Dialogue: 0,0:02:42.70,0:02:44.79,Default,,0,0,0,,{\be1}Na pewno?
+Dialogue: 0,0:02:44.79,0:02:46.26,Default,,0,0,0,,{\be1}Chwila!
+Dialogue: 0,0:02:47.10,0:02:49.32,Default,,0,0,0,,{\be1}Kapelusz ma wysokość 12 mm!
+Dialogue: 0,0:02:49.32,0:02:53.77,Default,,0,0,0,,{\be1}W sumie to od jakiegoś czasu ciężej go wyjąć.
+Dialogue: 0,0:02:55.59,0:03:00.54,Default,,0,0,0,,{\be1}Jeśli można to teraz ja chcę,\Nbo już długo się powstrzymuję.
+Dialogue: 0,0:03:00.54,0:03:02.29,Default,,0,0,0,,{\be1}Już idę!
+Dialogue: 0,0:03:03.78,0:03:09.81,Default,,0,0,0,,{\be1}Akane, delikatniej, bo dojdę!
+Dialogue: 0,0:03:09.81,0:03:11.46,Default,,0,0,0,,{\be1}O, sorki!
+Dialogue: 0,0:03:12.17,0:03:18.67,Default (i),,0,0,0,,{\be1}Zazwyczaj jest miękki, a dzisiaj\Ntak mocno stanął, że jest prosty.
+Dialogue: 0,0:03:18.67,0:03:20.47,Default (i),,0,0,0,,{\be1}Niesamowity.
+Dialogue: 0,0:03:21.14,0:03:26.55,Default,,0,0,0,,{\be1}40 cm długości, 6 cm grubości i 4 mm wysokość kapelusza.
+Dialogue: 0,0:03:26.55,0:03:28.49,Default,,0,0,0,,{\be1}Wszystko pozostaje bez zmian.
+Dialogue: 0,0:03:28.49,0:03:31.48,Default,,0,0,0,,{\be1}O rany, najwyraźniej już nie rosnę.
+Dialogue: 0,0:03:32.80,0:03:36.41,Default,,0,0,0,,{\be1}Co tak długo?!
+Dialogue: 0,0:03:36.41,0:03:40.16,Default,,0,0,0,,{\be1}Przepraszam, już zaczynam!
+Dialogue: 0,0:03:40.16,0:03:43.16,Default,,0,0,0,,{\be1}Szybciej, chcę się w końcu spuścić.
+Dialogue: 0,0:03:43.16,0:03:45.56,Default,,0,0,0,,{\be1}Dobra, dobra.
+Dialogue: 0,0:03:45.56,0:03:48.87,Default,,0,0,0,,{\be1}Ciebie najbardziej chciałam zmierzyć.
+Dialogue: 0,0:03:48.87,0:03:54.04,Default,,0,0,0,,{\be1}Ostatnio coraz ciężej mi go włożyć.
+Dialogue: 0,0:03:54.04,0:03:55.94,Default,,0,0,0,,{\be1}Co to miało znaczyć?
+Dialogue: 0,0:03:58.99,0:04:00.26,Default,,0,0,0,,{\be1}Co za...
+Dialogue: 0,0:04:02.06,0:04:06.94,Default,,0,0,0,,{\be1}43 cm! Tak szybko urósł o 2 cm!
+Dialogue: 0,0:04:06.94,0:04:15.40,Default,,0,0,0,,{\be1}Jak tak dalej będziesz rosła,\Nto nie będzie wiadomo, które to twoje ciało.
+Dialogue: 0,0:04:16.67,0:04:18.90,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:04:19.82,0:04:25.83,Default,,0,0,0,,{\be1}Żartowałam! Pora na długo\Nwyczekiwane badanie objętość wytrysku!
+Dialogue: 0,0:04:27.06,0:04:29.66,Default,,0,0,0,,{\be1}Która jest dla mnie?
+Dialogue: 0,0:04:29.66,0:04:32.23,Default,,0,0,0,,{\be1}Tych małych na pewno nie pomylę.
+Dialogue: 0,0:04:32.23,0:04:34.05,Default,,0,0,0,,{\be1}Do mnie pijesz?!
+Dialogue: 0,0:04:34.05,0:04:35.84,Default,,0,0,0,,{\be1}Zaczynam się stresować.
+Dialogue: 0,0:04:35.84,0:04:38.17,Default,,0,0,0,,{\be1}Spokojnie.
+Dialogue: 0,0:04:38.17,0:04:40.22,Default,,0,0,0,,{\be1}Nienawidzę gumek!
+Dialogue: 0,0:04:40.22,0:04:45.68,Default,,0,0,0,,{\be1}Tym razem nie będzie żadnych limitów.
+Dialogue: 0,0:04:45.68,0:04:50.54,Default,,0,0,0,,{\be1}Każda może się spuszczać w Akane\Ndopóki nie będzie zadowolona.
+Dialogue: 0,0:04:50.54,0:04:53.73,Default,,0,0,0,,{\be1}Wszystkie możecie ze mnie skorzystać.
+Dialogue: 0,0:04:53.73,0:04:58.05,Default,,0,0,0,,{\be1}Tym przyrządem zmierzymy objętość.
+Dialogue: 0,0:04:58.05,0:05:01.02,Default,,0,0,0,,{\be1}O kolejności zdecydowała wielkość fiuta.
+Dialogue: 0,0:05:01.02,0:05:05.00,Default,,0,0,0,,{\be1}Najpierw Ai, potem ja i Aya.
+Dialogue: 0,0:05:05.00,0:05:07.75,Default,,0,0,0,,{\be1}Przecież nie masz mniejszego!
+Dialogue: 0,0:05:07.75,0:05:11.74,Default,,0,0,0,,{\be1}Ale nie wytrzymam tak długo.
+Dialogue: 0,0:05:11.74,0:05:13.98,Default,,0,0,0,,{\be1}Mao będzie ostatnia.
+Dialogue: 0,0:05:19.72,0:05:22.77,Default,,0,0,0,,{\be1}O rany, zaraz dojdę!
+Dialogue: 0,0:05:22.77,0:05:27.38,Default,,0,0,0,,{\be1}Cała Akane, nawet z gumką jest cudowna!
+Dialogue: 0,0:05:27.38,0:05:31.52,Default,,0,0,0,,{\be1}Spuść się ile tylko możesz!
+Dialogue: 0,0:05:34.53,0:05:37.02,Default,,0,0,0,,{\be1}Wciąga mnie!
+Dialogue: 0,0:05:37.02,0:05:41.78,Default,,0,0,0,,{\be1}U Ai objętość wytrysku zmierzymy\Nw ilości na minutę, bo u niej nie ma końca.
+Dialogue: 0,0:05:41.78,0:05:46.66,Default,,0,0,0,,{\be1}Wlatuje! Czuję jak prezerwatywa się rozszerza!
+Dialogue: 0,0:05:47.19,0:05:50.69,Default,,0,0,0,,{\be1}Pełna moc!
+Dialogue: 0,0:05:50.69,0:05:53.04,Default,,0,0,0,,{\be1}Jest jej więcej niż zwykle!
+Dialogue: 0,0:05:55.96,0:05:58.28,Default,,0,0,0,,{\be1}Zero umiaru.
+Dialogue: 0,0:05:58.28,0:05:59.65,Default,,0,0,0,,{\be1}Chyba trzeba jej przerwać.
+Dialogue: 0,0:05:59.65,0:06:01.34,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:06:01.34,0:06:04.82,Default,,0,0,0,,{\be1}Zbastuj trochę!
+Dialogue: 0,0:06:04.82,0:06:08.84,Default,,0,0,0,,{\be1}Już? Jeszcze się spuszczałam!
+Dialogue: 0,0:06:08.84,0:06:11.91,Default,,0,0,0,,{\be1}Prezerwatywa została w środku.
+Dialogue: 0,0:06:11.91,0:06:14.77,Default,,0,0,0,,{\be1}To nic, daj mi chwilę.
+Dialogue: 0,0:06:16.45,0:06:18.23,Default,,0,0,0,,{\be1}Sumika?!
+Dialogue: 0,0:06:20.53,0:06:22.57,Default,,0,0,0,,{\be1}Rozpycha mnie!
+Dialogue: 0,0:06:24.64,0:06:31.66,Default,,0,0,0,,{\be1}1003 ml. Jak zawsze dużo.
+Dialogue: 0,0:06:32.49,0:06:36.17,Default,,0,0,0,,{\be1}Akane, teraz ja.
+Dialogue: 0,0:06:36.17,0:06:37.25,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:06:37.83,0:06:44.13,Default,,0,0,0,,{\be1}Prawie tydzień czekałam na tę chwilę!
+Dialogue: 0,0:06:44.85,0:06:50.62,Default,,0,0,0,,{\be1}A od trzech dni mam zwidy!
+Dialogue: 0,0:06:51.95,0:06:53.36,Default,,0,0,0,,{\be1}Mao?!
+Dialogue: 0,0:06:54.48,0:06:58.84,Default,,0,0,0,,{\be1}Mam tego dość! Nie wytrzymam!
+Dialogue: 0,0:07:03.26,0:07:06.34,Default,,0,0,0,,{\be1}Jesteś niesamowita!
+Dialogue: 0,0:07:06.34,0:07:08.43,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:07:09.94,0:07:12.12,Default,,0,0,0,,{\be1}Nada się do zmierzenia?
+Dialogue: 0,0:07:12.74,0:07:15.83,Default,,0,0,0,,{\be1}Jeszcze się spuszczam, ale co tam.
+Dialogue: 0,0:07:16.97,0:07:21.84,Default,,0,0,0,,{\be1}1200 ml? Nieważne.
+Dialogue: 0,0:07:21.84,0:07:25.80,Default,,0,0,0,,{\be1}Jedziemy dalej, Akane.
+Dialogue: 0,0:07:25.80,0:07:28.55,Default,,0,0,0,,{\be1}Ale przecież nie zdjęłaś prezerwatywy!
+Dialogue: 0,0:07:30.25,0:07:32.85,Default,,0,0,0,,{\be1}Tak też jest nieźle!
+Dialogue: 0,0:07:32.85,0:07:37.31,Default,,0,0,0,,{\be1}Postaram się nie spuścić tak szybko!
+Dialogue: 0,0:07:37.31,0:07:41.48,Default,,0,0,0,,{\be1}Przy okazji zmierzymy objętość twojej macicy!
+Dialogue: 0,0:07:43.68,0:07:45.49,Default,,0,0,0,,{\be1}Czarno to widzę.
+Dialogue: 0,0:07:45.49,0:07:52.56,Default,,0,0,0,,{\be1}Do jasnej cholery, jak śmiałaś zniszczyć badania?
+Dialogue: 0,0:07:52.56,0:07:54.74,Default,,0,0,0,,{\be1}Niegrzeczny dzieciak.
+Dialogue: 0,0:07:55.50,0:07:58.21,Default,,0,0,0,,{\be1}Muszę cię ukarać.
+Dialogue: 0,0:08:00.45,0:08:03.09,Default,,0,0,0,,{\be1}Nie tak nagle!
+Dialogue: 0,0:08:03.09,0:08:07.01,Default,,0,0,0,,{\be1}Nareszcie ktoś pomógł.\NMao znowu ma swoje odchyły i...
+Dialogue: 0,0:08:07.01,0:08:11.22,Default,,0,0,0,,{\be1}Cipka Mao!
+Dialogue: 0,0:08:13.58,0:08:16.18,Default,,0,0,0,,{\be1}Teraz i Sumice odwaliło!
+Dialogue: 0,0:08:17.58,0:08:21.59,Default,,0,0,0,,{\be1}Nie mogę przestać!
+Dialogue: 0,0:08:22.33,0:08:27.18,Default,,0,0,0,,{\be1}Czekajcie! Coś mi w brzuchu strzeliło!
+Dialogue: 0,0:08:35.12,0:08:37.25,Default,,0,0,0,,{\be1}Co ja narobiłam?
+Dialogue: 0,0:08:42.47,0:08:49.12,Default,,0,0,0,,{\be1}No cóż, najlepiej będzie jeśli odwołamy dzisiejsze badania.
+Dialogue: 0,0:08:49.12,0:08:50.68,Default,,0,0,0,,{\be1}Brak sprzeciwu.
+Dialogue: 0,0:08:51.20,0:08:54.25,Default,,0,0,0,,{\be1}Mao, na razie nadal będziesz przewodniczącą.
+Dialogue: 0,0:08:54.25,0:08:56.45,Default,,0,0,0,,{\be1}Chyba cię nie słyszy.
+Dialogue: 0,0:08:56.45,0:08:57.89,Default,,0,0,0,,{\be1}Najwidoczniej.
+Dialogue: 0,0:08:57.89,0:09:01.06,Default,,0,0,0,,{\be1}Mam 4 mm!
+Dialogue: 0,0:09:20.05,0:09:23.21,Default,,0,0,0,,{\be1}Mao!
+Dialogue: 0,0:09:31.93,0:09:33.93,Default,,0,0,0,,{\be1}Już późno.
+Dialogue: 0,0:09:36.27,0:09:38.83,Default,,0,0,0,,{\be1}Muszę się nim szybko zająć.
+Dialogue: 0,0:09:40.55,0:09:44.90,Default,,0,0,0,,{\be1}Już tak mocno stanął!
+Dialogue: 0,0:09:59.16,0:10:00.64,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:10:06.34,0:10:08.09,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:10:13.60,0:10:16.68,Default,,0,0,0,,{\be1}Lepiej pójdę do kibla.
+Dialogue: 0,0:10:24.38,0:10:26.98,Default,,0,0,0,,{\be1}Jakoś zdążyłam!
+Dialogue: 0,0:10:26.98,0:10:31.33,Default,,0,0,0,,{\be1}O, Haruka. Myślałyśmy, że nie idziesz\Ndzisiaj do szkoły, więc nie czekałyśmy.
+Dialogue: 0,0:10:31.33,0:10:32.80,Default,,0,0,0,,{\be1}Podłe!
+Dialogue: 0,0:10:32.80,0:10:34.73,Default,,0,0,0,,{\be1}Przecież ciągle tak masz.
+Dialogue: 0,0:10:34.73,0:10:36.44,Default,,0,0,0,,{\be1}Chodźmy do klasy.
+Dialogue: 0,0:10:37.58,0:10:41.12,Default,,0,0,0,,{\be1}Haruka, na co czekasz? Chodź.
+Dialogue: 0,0:10:41.12,0:10:45.00,Default,,0,0,0,,{\be1}Już łapię, chodzi o Sanjou.
+Dialogue: 0,0:10:45.52,0:10:50.90,Default,,0,0,0,,{\be1}Daj sobie z nią spokój, za wysokie progi.
+Dialogue: 0,0:10:50.90,0:10:53.69,Default,,0,0,0,,{\be1}Daj mi spokój.
+Dialogue: 0,0:11:00.89,0:11:06.52,Default (i),,0,0,0,,{\be1}Czemu znowu mi stoi?\NPrzecież rano tak dużo się spuściłam!
+Dialogue: 0,0:11:06.52,0:11:10.12,Default (i),,0,0,0,,{\be1}Gdyby Sanjou mnie teraz zobaczyła...
+Dialogue: 0,0:11:14.80,0:11:16.86,Default,,0,0,0,,{\be1}Sanjou?!
+Dialogue: 0,0:11:16.86,0:11:20.41,Default,,0,0,0,,{\be1}Przepraszam, nie sądziłam, że ktoś tu będzie.
+Dialogue: 0,0:11:21.57,0:11:25.87,Default,,0,0,0,,{\be1}Przepraszam, nie chciałam podglądać.
+Dialogue: 0,0:11:25.87,0:11:29.65,Default (i),,0,0,0,,{\be1}Widziała mnie! Co za wstyd!
+Dialogue: 0,0:11:29.65,0:11:38.20,Default,,0,0,0,,{\be1}Widzę, że nie chodzisz do specjalnego pokoju.\NNajwidoczniej masz swoje powody.
+Dialogue: 0,0:11:38.20,0:11:40.28,Default,,0,0,0,,{\be1}Ty też przychodzisz tu po to?
+Dialogue: 0,0:11:40.28,0:11:46.52,Default,,0,0,0,,{\be1}Tak. To nie w porządku, że widziałam\Ntwojego, dlatego pokażę ci mojego.
+Dialogue: 0,0:11:48.06,0:11:49.77,Default,,0,0,0,,{\be1}Kutas Sanjou!
+Dialogue: 0,0:11:50.36,0:11:56.77,Default,,0,0,0,,{\be1}Mój fiut jest duży i wygląda jak koński,\Ndlatego nie chodzę do tamtego pokoju.
+Dialogue: 0,0:11:56.77,0:11:59.07,Default,,0,0,0,,{\be1}Paskudny, prawda?
+Dialogue: 0,0:11:59.07,0:12:00.74,Default,,0,0,0,,{\be1}Absolutnie nie!
+Dialogue: 0,0:12:01.49,0:12:07.47,Default,,0,0,0,,{\be1}Ja mam tyle skóry na kutasie, że używam jej do trzepania!
+Dialogue: 0,0:12:07.47,0:12:11.29,Default,,0,0,0,,{\be1}Zanim zauważyłam zaczęłam tu przychodzić!
+Dialogue: 0,0:12:12.14,0:12:17.79,Default,,0,0,0,,{\be1}Jeśli ci to nie przeszkadza,\Nto może strzepiemy sobie razem?
+Dialogue: 0,0:12:21.53,0:12:25.34,Default,,0,0,0,,{\be1}Wiesz, jakoś mi ulżyło.
+Dialogue: 0,0:12:25.34,0:12:27.14,Default,,0,0,0,,{\be1}Mnie też.
+Dialogue: 0,0:12:27.14,0:12:31.06,Default,,0,0,0,,{\be1}Może strzepiemy sobie nawzajem?
+Dialogue: 0,0:12:32.32,0:12:35.34,Default,,0,0,0,,{\be1}Masz.
+Dialogue: 0,0:12:36.20,0:12:42.84,Default,,0,0,0,,{\be1}Jaki gorący! Na dodatek\Ncała skóra zeszła, po prostu śliczny!
+Dialogue: 0,0:12:42.84,0:12:47.76,Default,,0,0,0,,{\be1}U mnie daleko schodzi skóra przez co\Njestem wrażliwa, dlatego bądź delikatna, dobra?
+Dialogue: 0,0:12:47.76,0:12:48.54,Default,,0,0,0,,{\be1}Jasne!
+Dialogue: 0,0:12:48.54,0:12:53.10,Default,,0,0,0,,{\be1}Z moim nie musisz być delikatna!
+Dialogue: 0,0:12:53.10,0:12:56.05,Default,,0,0,0,,{\be1}Twój fiut jest gruby i śliczny.
+Dialogue: 0,0:12:57.41,0:13:01.35,Default,,0,0,0,,{\be1}Sanjou, spotykasz się z kimś?
+Dialogue: 0,0:13:01.35,0:13:08.02,Default,,0,0,0,,{\be1}Nie, wiele dziewczyn chciałoby\Nbyć ze mną, ale mój fiut je odstrasza.
+Dialogue: 0,0:13:08.87,0:13:14.98,Default,,0,0,0,,{\be1}Sanjou, jeśli to nie problem,\Nto możesz dać mi swoje dziewictwo?
+Dialogue: 0,0:13:17.20,0:13:20.66,Default,,0,0,0,,{\be1}Ale nic ci nie będzie?
+Dialogue: 0,0:13:20.66,0:13:21.82,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:13:23.41,0:13:25.20,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:13:25.20,0:13:28.31,Default,,0,0,0,,{\be1}Tak, a co z tobą?
+Dialogue: 0,0:13:28.31,0:13:31.21,Default,,0,0,0,,{\be1}Powoli wkładam coraz głębiej.
+Dialogue: 0,0:13:32.82,0:13:35.98,Default,,0,0,0,,{\be1}Tak mi dobrze, że nogi mam jak z waty!
+Dialogue: 0,0:13:38.43,0:13:42.93,Default,,0,0,0,,{\be1}Ale głęboko włożyłaś!
+Dialogue: 0,0:13:49.05,0:13:50.87,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:13:52.27,0:13:55.76,Default,,0,0,0,,{\be1}Chcę zobaczyć twojego fiuta.
+Dialogue: 0,0:13:59.34,0:14:01.40,Default,,0,0,0,,{\be1}Uroczy!
+Dialogue: 0,0:14:05.29,0:14:07.62,Default,,0,0,0,,{\be1}Zaraz znowu dojdę!
+Dialogue: 0,0:14:08.33,0:14:13.41,Default,,0,0,0,,{\be1}Ja też! Dojdźmy razem!
+Dialogue: 0,0:14:14.11,0:14:17.48,Default,,0,0,0,,{\be1}Tak dużo się spuszczam!
+Dialogue: 0,0:14:17.48,0:14:19.92,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:14:22.43,0:14:24.05,Default,,0,0,0,,{\be1}Cześć!
+Dialogue: 0,0:14:25.80,0:14:28.64,Default,,0,0,0,,{\be1}Nawet się nim nie zajęła.
+Dialogue: 0,0:14:29.94,0:14:33.32,Default,,0,0,0,,{\be1}To dlatego że od teraz będę\Nchodziła z Sanjou do specjalnego pokoju.
+Dialogue: 0,0:14:33.32,0:14:34.91,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:14:34.91,0:14:36.62,Default,,0,0,0,,{\be1}Sanjou?!
+Dialogue: 0,0:14:37.61,0:14:39.80,Default,,0,0,0,,{\be1}Jesteś tego pewna?
+Dialogue: 0,0:14:39.80,0:14:42.44,Default,,0,0,0,,{\be1}Ale ona przychodzi do szkoły ze stojącym!
+Dialogue: 0,0:14:51.27,0:14:53.90,Default,,0,0,0,,{\be1}Jesteś cudowna!
+Dialogue: 0,0:14:55.08,0:14:58.76,Default,,0,0,0,,{\be1}Sanjou, kocham cię!
+Dialogue: 0,0:15:00.14,0:15:02.70,Default,,0,0,0,,{\be1}Sanjou!
+Dialogue: 0,0:15:18.36,0:15:21.05,Default,,0,0,0,,{\be1}Dzień dobry, panienko.
+Dialogue: 0,0:15:21.05,0:15:23.03,Default,,0,0,0,,{\be1}Przyszłyśmy zająć się tobą.
+Dialogue: 0,0:15:25.16,0:15:26.52,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:15:37.11,0:15:39.73,Default,,0,0,0,,{\be1}Dobrze się spało panience?
+Dialogue: 0,0:15:39.73,0:15:40.59,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:15:41.30,0:15:42.74,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:15:44.27,0:15:48.98,Default,,0,0,0,,{\be1}Wyczyścimy cię też na dole,\Nbo wygląda na zabrudzonego.
+Dialogue: 0,0:15:56.52,0:16:00.67,Default,,0,0,0,,{\be1}Saki, delikatniej!
+Dialogue: 0,0:16:00.67,0:16:01.77,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:16:17.38,0:16:18.58,Default,,0,0,0,,{\be1}Gotowe.
+Dialogue: 0,0:16:18.58,0:16:20.38,Default,,0,0,0,,{\be1}Shino, podaj czyste ubrania.
+Dialogue: 0,0:16:20.38,0:16:21.89,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:16:21.89,0:16:28.84,Default,,0,0,0,,{\be1}Maya, Saki, możecie odejść.\NShino zrobi resztę.
+Dialogue: 0,0:16:28.84,0:16:31.69,Default,,0,0,0,,{\be1}Dobrze, jak sobie życzysz.
+Dialogue: 0,0:16:36.85,0:16:38.64,Default,,0,0,0,,{\be1}Zostawiamy was same.
+Dialogue: 0,0:16:41.63,0:16:43.49,Default,,0,0,0,,{\be1}W końcu wyszły.
+Dialogue: 0,0:16:43.49,0:16:47.32,Default,,0,0,0,,{\be1}Nie lubię ich, są za sztywne.
+Dialogue: 0,0:16:47.32,0:16:49.20,Default,,0,0,0,,{\be1}Twoje ubrania...
+Dialogue: 0,0:16:49.20,0:16:50.94,Default,,0,0,0,,{\be1}Shino!
+Dialogue: 0,0:16:52.27,0:16:56.59,Default,,0,0,0,,{\be1}Panienko, lepiej się pospiesz, nie zostało ci wiele czasu.
+Dialogue: 0,0:16:56.59,0:16:59.71,Default,,0,0,0,,{\be1}Tym się nie martw, jestem już gotowa.
+Dialogue: 0,0:16:59.71,0:17:04.13,Default,,0,0,0,,{\be1}Wiesz czemu jesteśmy same?
+Dialogue: 0,0:17:04.13,0:17:05.21,Default,,0,0,0,,{\be1}Teraz?
+Dialogue: 0,0:17:05.21,0:17:07.62,Default,,0,0,0,,{\be1}Tak, użyj ust.
+Dialogue: 0,0:17:07.62,0:17:09.69,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:17:15.47,0:17:18.77,Default,,0,0,0,,{\be1}Nie tak.
+Dialogue: 0,0:17:18.77,0:17:20.14,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:17:25.98,0:17:30.49,Default,,0,0,0,,{\be1}Właśnie tak! Uwielbiam jak liżesz mi skórę!
+Dialogue: 0,0:17:34.51,0:17:38.50,Default,,0,0,0,,{\be1}Jesteś cudowna!
+Dialogue: 0,0:17:40.92,0:17:45.38,Default,,0,0,0,,{\be1}O tak! Zaraz dojdę!
+Dialogue: 0,0:17:45.87,0:17:47.14,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:18:00.53,0:18:02.44,Default,,0,0,0,,{\be1}Czy podobało się panience?
+Dialogue: 0,0:18:02.44,0:18:08.32,Default,,0,0,0,,{\be1}Tak, twoje obciąganie jest chyba lepsze niż pieprzenie cię.
+Dialogue: 0,0:18:08.32,0:18:10.66,Default,,0,0,0,,{\be1}Patrz, wiesz co to?
+Dialogue: 0,0:18:11.57,0:18:16.72,Default,,0,0,0,,{\be1}Byłaś dzisiaj taka dobra, że chyba zasłużyłaś na nagrodę.
+Dialogue: 0,0:18:17.87,0:18:18.87,Default,,0,0,0,,{\be1}Chcesz?
+Dialogue: 0,0:18:18.87,0:18:20.08,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:18:20.08,0:18:24.04,Default,,0,0,0,,{\be1}Jesteś słodka, a teraz pokaż.
+Dialogue: 0,0:18:25.22,0:18:28.33,Default,,0,0,0,,{\be1}Nie wygląda dobrze.\NJak się czujesz po tygodniu?
+Dialogue: 0,0:18:28.33,0:18:30.50,Default,,0,0,0,,{\be1}Chyba wybuchnę.
+Dialogue: 0,0:18:30.50,0:18:33.47,Default,,0,0,0,,{\be1}Dobra, zdejmę je.
+Dialogue: 0,0:18:37.71,0:18:39.42,Default,,0,0,0,,{\be1}Nieźle!
+Dialogue: 0,0:18:39.42,0:18:41.02,Default,,0,0,0,,{\be1}Panienko!
+Dialogue: 0,0:18:41.02,0:18:45.70,Default,,0,0,0,,{\be1}Jesteś tylko pokojówką, a chcesz włożyć swojej pani?
+Dialogue: 0,0:18:45.70,0:18:49.57,Default,,0,0,0,,{\be1}Chcesz się spuścić po tygodniu?
+Dialogue: 0,0:18:49.57,0:18:52.53,Default,,0,0,0,,{\be1}Pozwalam ci.
+Dialogue: 0,0:18:54.73,0:18:57.38,Default,,0,0,0,,{\be1}Ale się podnieciłaś.
+Dialogue: 0,0:18:59.19,0:19:05.29,Default,,0,0,0,,{\be1}Patrz co zrobiłaś z moim brzuchem.
+Dialogue: 0,0:19:06.58,0:19:08.68,Default,,0,0,0,,{\be1}Panienko!
+Dialogue: 0,0:19:08.68,0:19:11.71,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:19:16.31,0:19:18.51,Default,,0,0,0,,{\be1}Ale duży!
+Dialogue: 0,0:19:18.51,0:19:22.52,Default,,0,0,0,,{\be1}Panienko, cudownie!
+Dialogue: 0,0:19:23.78,0:19:25.48,Default,,0,0,0,,{\be1}Aż tak?
+Dialogue: 0,0:19:26.42,0:19:30.79,Default,,0,0,0,,{\be1}No to pozwalam ci wkładać mocniej i głębiej!
+Dialogue: 0,0:19:32.00,0:19:33.47,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:19:34.40,0:19:37.50,Default,,0,0,0,,{\be1}Nie mogę się już powstrzymać!
+Dialogue: 0,0:19:37.50,0:19:40.45,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:19:41.72,0:19:47.57,Default,,0,0,0,,{\be1}- Panienko!\N- Wylatuje tygodniowa sperma!
+Dialogue: 0,0:19:49.97,0:19:54.60,Default (i),,0,0,0,,{\be1}Shino, może zerżniemy Mayę i Saki?
+Dialogue: 0,0:19:55.82,0:19:59.47,Default (i),,0,0,0,,{\be1}Ja biorę Mayę, ty Saki.
+Dialogue: 0,0:20:03.47,0:20:06.44,Default,,0,0,0,,{\be1}Już nie mogę się doczekać.
+Dialogue: 0,0:20:07.23,0:20:08.60,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:20:11.88,0:20:13.74,Default,,0,0,0,,{\be1}Bezpiecznej podróży.
+Dialogue: 0,0:20:24.54,0:20:25.90,Default,,0,0,0,,{\be1}Shino!
+Dialogue: 0,0:20:26.95,0:20:28.54,Default,,0,0,0,,{\be1}Panienko!
+Dialogue: 0,0:20:33.25,0:20:36.13,Default,,0,0,0,,{\be1}O tak, Shino!
+Dialogue: 0,0:20:39.68,0:20:43.95,Default (i),,0,0,0,,{\be1}Coroczne badania są dla mnie problemem.
+Dialogue: 0,0:20:43.95,0:20:47.63,Default,,0,0,0,,{\be1}Zawsze po badaniach wpadam w depresję.
+Dialogue: 0,0:20:47.63,0:20:49.10,Default,,0,0,0,,{\be1}Wiem coś o tym.
+Dialogue: 0,0:20:49.10,0:20:56.53,Default,,0,0,0,,{\be1}Jak ja nie lubię dorastanie, bo wyniki zawsze źle wychodzą.
+Dialogue: 0,0:20:57.28,0:20:59.82,Default,,0,0,0,,{\be1}Hikari, ja idę tam.
+Dialogue: 0,0:20:59.82,0:21:02.28,Default,,0,0,0,,{\be1}Dobra, do zobaczenia.
+Dialogue: 0,0:21:10.01,0:21:13.42,Default (i),,0,0,0,,{\be1}Dzięki pewnej osobie miałam łatwiej.
+Dialogue: 0,0:21:13.42,0:21:14.49,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:21:14.49,0:21:16.21,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:21:16.21,0:21:20.33,Default (i),,0,0,0,,{\be1}A jest nią pani Yuuko.
+Dialogue: 0,0:21:20.33,0:21:23.24,Default,,0,0,0,,{\be1}Czekałam na ciebie, Kudou Nana.
+Dialogue: 0,0:21:23.24,0:21:24.93,Default,,0,0,0,,{\be1}Jak się czujesz?
+Dialogue: 0,0:21:24.93,0:21:28.58,Default,,0,0,0,,{\be1}Rozbierz się i zacznijmy od razu badania.
+Dialogue: 0,0:21:28.58,0:21:30.15,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:21:30.15,0:21:34.63,Default (i),,0,0,0,,{\be1}Jestem pewna, że pani Yuuko\Nmoże coś zrobić z moim problemem.
+Dialogue: 0,0:21:34.63,0:21:38.47,Default,,0,0,0,,{\be1}Już nie mogę się doczekać, żeby sprawdzić ile urosłaś.
+Dialogue: 0,0:21:38.47,0:21:43.57,Default,,0,0,0,,{\be1}Warto było natrudzić się, żeby zdobyć pozwolenie\Nna indywidualne badania dla ciebie.
+Dialogue: 0,0:21:44.08,0:21:50.58,Default,,0,0,0,,{\be1}Musi być ci ciężko, ale nic na to\Nnie poradzimy, bo masz wyjątkowe ciało.
+Dialogue: 0,0:21:50.58,0:21:57.74,Default,,0,0,0,,{\be1}Tak jak pani mówiła używałam taśmy, ale i tak powoli staje.
+Dialogue: 0,0:21:58.54,0:22:03.66,Default,,0,0,0,,{\be1}Najwidoczniej tobie nie pomoże.
+Dialogue: 0,0:22:03.66,0:22:06.76,Default,,0,0,0,,{\be1}Chyba będziesz musiała nosić luźniejsze ubrania.
+Dialogue: 0,0:22:06.76,0:22:11.68,Default,,0,0,0,,{\be1}Biorę się od razu za mierzenie, więc zdejmę ją.
+Dialogue: 0,0:22:11.68,0:22:12.73,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:22:14.73,0:22:20.00,Default,,0,0,0,,{\be1}Niech pani nie obrywa tak szybko, bo moja skóra...
+Dialogue: 0,0:22:24.66,0:22:31.02,Default,,0,0,0,,{\be1}Przepraszam, ciągle jesteś nadwrażliwa.
+Dialogue: 0,0:22:31.02,0:22:33.04,Default,,0,0,0,,{\be1}Od razu ci stanął.
+Dialogue: 0,0:22:33.82,0:22:37.80,Default,,0,0,0,,{\be1}Na początek zmierzę długość.
+Dialogue: 0,0:22:38.84,0:22:41.39,Default,,0,0,0,,{\be1}Znowu ci urósł.
+Dialogue: 0,0:22:41.39,0:22:45.78,Default,,0,0,0,,{\be1}Od razu widać, że jest duży, ale dopiero\Npo zmierzeniu naprawdę zaskakuje.
+Dialogue: 0,0:22:45.78,0:22:47.76,Default,,0,0,0,,{\be1}28 cm?!
+Dialogue: 0,0:22:47.76,0:22:49.26,Default,,0,0,0,,{\be1}No nie!
+Dialogue: 0,0:22:49.26,0:22:53.10,Default,,0,0,0,,{\be1}Grubość 8 cm, obwód 25 cm.
+Dialogue: 0,0:22:53.10,0:22:55.57,Default,,0,0,0,,{\be1}Pewnie ciężko ci się trzepać, co?
+Dialogue: 0,0:22:55.57,0:22:57.65,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:22:58.44,0:23:01.30,Default,,0,0,0,,{\be1}Wiesz na co teraz czas?
+Dialogue: 0,0:23:01.30,0:23:02.68,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:23:06.63,0:23:08.62,Default,,0,0,0,,{\be1}Nie powstrzymuj się.
+Dialogue: 0,0:23:08.62,0:23:11.30,Default,,0,0,0,,{\be1}Spuść się ile chcesz.
+Dialogue: 0,0:23:15.63,0:23:20.42,Default,,0,0,0,,{\be1}Dochodzę! Chyba wybuchnę!
+Dialogue: 0,0:23:21.28,0:23:23.63,Default,,0,0,0,,{\be1}Nana, zwolnij!
+Dialogue: 0,0:23:25.64,0:23:28.51,Default,,0,0,0,,{\be1}Tego raczej nie zmierzę.
+Dialogue: 0,0:23:29.29,0:23:33.55,Default (i),,0,0,0,,{\be1}Skoro za jednym razem tyle leci, to musi być jej ciężko.
+Dialogue: 0,0:23:33.55,0:23:35.31,Default (i),,0,0,0,,{\be1}Jaka gęsta.
+Dialogue: 0,0:23:35.86,0:23:39.43,Default,,0,0,0,,{\be1}Samo trzepanko ci nie wystarczy, nie?
+Dialogue: 0,0:23:39.43,0:23:42.44,Default,,0,0,0,,{\be1}Mam dla ciebie prezent.
+Dialogue: 0,0:23:43.24,0:23:47.32,Default,,0,0,0,,{\be1}Tak naprawdę to jest jeszcze jedna dziewczyna, którą badam.
+Dialogue: 0,0:23:47.32,0:23:49.74,Default,,0,0,0,,{\be1}Będziesz zaskoczona.
+Dialogue: 0,0:23:52.31,0:23:54.47,Default,,0,0,0,,{\be1}W końcu moja kolej!
+Dialogue: 0,0:23:54.47,0:23:55.66,Default,,0,0,0,,{\be1}Hikari?!
+Dialogue: 0,0:23:57.88,0:24:05.65,Default,,0,0,0,,{\be1}Nie musisz go chować, powiedziałam Hikari o twoim sekrecie.
+Dialogue: 0,0:24:05.65,0:24:06.76,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:24:07.33,0:24:09.83,Default,,0,0,0,,{\be1}Prawdziwy kutas Nany!
+Dialogue: 0,0:24:09.83,0:24:11.70,Default,,0,0,0,,{\be1}Poznajesz go?
+Dialogue: 0,0:24:11.70,0:24:15.28,Default,,0,0,0,,{\be1}To dildo, które odlałam z twojego kutasa.
+Dialogue: 0,0:24:15.28,0:24:18.99,Default (i),,0,0,0,,{\be1}Hikari rozkłada nogi w zboczony sposób.
+Dialogue: 0,0:24:18.99,0:24:21.73,Default (i),,0,0,0,,{\be1}Czyżby mnie chciała?
+Dialogue: 0,0:24:21.73,0:24:26.64,Default,,0,0,0,,{\be1}Hikari nie wystarczy zwykły fiut,\Ndlatego jest bardzo zadowolona z tego dildo.
+Dialogue: 0,0:24:26.64,0:24:29.28,Default,,0,0,0,,{\be1}Hikari pragnie cię.
+Dialogue: 0,0:24:29.28,0:24:33.33,Default,,0,0,0,,{\be1}Hikari, naprawdę mogę włożyć?
+Dialogue: 0,0:24:33.33,0:24:37.91,Default,,0,0,0,,{\be1}Tak! Włóż mi go!
+Dialogue: 0,0:24:38.71,0:24:41.01,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:24:42.67,0:24:48.59,Default,,0,0,0,,{\be1}Cudownie! W końcu prawdziwy kutas Nany!
+Dialogue: 0,0:24:48.59,0:24:52.60,Default,,0,0,0,,{\be1}Wścibska pani doktor zostawi was samych.
+Dialogue: 0,0:24:54.51,0:24:58.93,Default,,0,0,0,,{\be1}Twój kutas wchodzi tak głęboko!
+Dialogue: 0,0:25:00.87,0:25:05.37,Default,,0,0,0,,{\be1}Uwielbiam go!
+Dialogue: 0,0:25:08.91,0:25:11.57,Default,,0,0,0,,{\be1}Jestem cała zapchana!
+Dialogue: 0,0:25:12.17,0:25:16.33,Default,,0,0,0,,{\be1}Hikari! Cudownie!
+Dialogue: 0,0:25:17.50,0:25:19.06,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:25:20.45,0:25:24.25,Default,,0,0,0,,{\be1}Zapełniasz mnie spermą!
+Dialogue: 0,0:25:25.96,0:25:30.26,Default,,0,0,0,,{\be1}Pierwszy raz tak dużo się spuszczam!
+Dialogue: 0,0:25:32.71,0:25:36.19,Default,,0,0,0,,{\be1}Możemy jeszcze kiedyś to powtórzyć?
+Dialogue: 0,0:25:36.19,0:25:39.38,Default,,0,0,0,,{\be1}Jasne, kiedy tylko chcesz.
+Dialogue: 0,0:25:40.23,0:25:43.26,Default (i),,0,0,0,,{\be1}Pani doktor, dziękuję.
+Dialogue: 0,0:25:47.06,0:25:50.68,Default,,0,0,0,,{\be1}Zapomniałam o zwykłych badaniach.
+Dialogue: 0,0:25:50.68,0:25:53.80,Default,,0,0,0,,{\be1}A zresztą, przepiszę stare.
+Dialogue: 0,0:26:03.08,0:26:04.60,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:26:05.78,0:26:07.55,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:26:09.56,0:26:12.11,Default,,0,0,0,,{\be1}Ale on duży!
+Dialogue: 0,0:26:12.11,0:26:15.67,Default,,0,0,0,,{\be1}Chcę dojść!

@@ -1,0 +1,225 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r113
+Active Line: 0
+Collisions: Normal
+Last Style Storage: Default [640-720x480]
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,14,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:36.80,0:02:44.43,Grupa,,0,0,0,,{\be1\fad(2568,850)}Nyan
+Dialogue: 0,0:17:37.70,0:17:40.75,Znak,,0,0,0,,{\be1}Od mamci, brak tematu.
+Dialogue: 0,0:20:16.74,0:20:24.79,Znak,,0,0,0,,{\be1}Środki nasenne
+Dialogue: 0,0:20:34.25,0:20:39.26,Znak,,0,0,0,,{\be1}Sudou Shinji, lat 18.
+Dialogue: 0,0:01:09.49,0:01:10.68,Default,,0,0,0,,{\be1}Mamo...
+Dialogue: 0,0:01:17.90,0:01:19.74,Default,,0,0,0,,{\be1}No niech ci będzie.
+Dialogue: 0,0:01:23.90,0:01:26.44,Default,,0,0,0,,{\be1}Smakuje?
+Dialogue: 0,0:01:40.72,0:01:43.46,Default,,0,0,0,,{\be1}Tak, gryź mocniej!
+Dialogue: 0,0:01:47.62,0:01:50.06,Default,,0,0,0,,{\be1}Właśnie tak!
+Dialogue: 0,0:02:22.42,0:02:26.54,Default,,0,0,0,,{\be1}Dobranoc, moje maleństwo.
+Dialogue: 0,0:02:49.42,0:02:52.69,Default,,0,0,0,,{\be1}Mówiłem, żebyś już nie dzwoniła.
+Dialogue: 0,0:02:52.69,0:02:56.27,Default,,0,0,0,,{\be1}Dobrze się odżywiasz?\NWysłałam ci trochę jedzenia.
+Dialogue: 0,0:02:56.27,0:02:59.55,Default,,0,0,0,,{\be1}Kij z jedzeniem, kupiłaś mi tamtą grę?
+Dialogue: 0,0:02:59.55,0:03:03.08,Default,,0,0,0,,{\be1}Oczywiście, czekałam w kolejce całą noc.
+Dialogue: 0,0:03:03.63,0:03:06.83,Default,,0,0,0,,{\be1}To fajnie, nie dzwoń tylko pisz, dobra?
+Dialogue: 0,0:03:06.83,0:03:09.93,Default,,0,0,0,,{\be1}Kiedy nigdy nie odpowiadasz na nie.
+Dialogue: 0,0:03:17.25,0:03:19.66,Default,,0,0,0,,{\be1}Smakuje, Touji?
+Dialogue: 0,0:03:21.40,0:03:24.20,Default,,0,0,0,,{\be1}Uwielbiam twoje mleko, mamo.
+Dialogue: 0,0:03:25.30,0:03:28.44,Default,,0,0,0,,{\be1}Cieszy mnie to.
+Dialogue: 0,0:03:46.55,0:03:49.84,Default,,0,0,0,,{\be1}Marika, przyzwyczaiłaś się już do nowe szkoły?
+Dialogue: 0,0:03:50.32,0:03:53.84,Default,,0,0,0,,{\be1}Raczej tak.\NIdzie mi całkiem dobrze.
+Dialogue: 0,0:03:54.19,0:03:55.46,Default,,0,0,0,,{\be1}To dobrze.
+Dialogue: 0,0:03:56.16,0:04:01.56,Default,,0,0,0,,{\be1}A właśnie, do twojej szkoły\Nchodzi chłopak, którego byłam mamką.
+Dialogue: 0,0:04:02.17,0:04:02.90,Default,,0,0,0,,{\be1}Mamką?
+Dialogue: 0,0:04:02.90,0:04:07.56,Default,,0,0,0,,{\be1}Tak, karmiłam go piersią.
+Dialogue: 0,0:04:10.34,0:04:16.75,Default,,0,0,0,,{\be1}Nazywa się Ide Touji,\Njest starszy od ciebie o 2 lata.
+Dialogue: 0,0:04:16.75,0:04:17.57,Default,,0,0,0,,{\be1}To dziwne?
+Dialogue: 0,0:04:18.72,0:04:21.07,Default,,0,0,0,,{\be1}No niby nie.
+Dialogue: 0,0:04:21.72,0:04:24.37,Default,,0,0,0,,{\be1}Mówiłam ci o twoim starszym bracie?
+Dialogue: 0,0:04:25.09,0:04:30.04,Default,,0,0,0,,{\be1}Przez to że twój brat zmarł niedługo po porodzie\Ngromadziło mi się dużo mleka, a to mocno bolało.
+Dialogue: 0,0:04:30.04,0:04:32.92,Default,,0,0,0,,{\be1}Dlatego karmiłam dziecko,\Nktórego matka nie miała mleka.
+Dialogue: 0,0:04:33.83,0:04:40.64,Default,,0,0,0,,{\be1}Wiedziałam, że byłaś mamką,\Ntyle że to trochę staroświeckie.
+Dialogue: 0,0:04:40.97,0:04:42.44,Default,,0,0,0,,{\be1}No wiesz co?
+Dialogue: 0,0:04:42.44,0:04:47.68,Default,,0,0,0,,{\be1}Zapamiętaj, że nieodciąganie\Nmleka z piersi bywa bolesne.
+Dialogue: 0,0:04:47.68,0:04:52.29,Default,,0,0,0,,{\be1}To znaczy, że Ide Touji i ja\Njesteśmy jak rodzeństwo?
+Dialogue: 0,0:04:52.90,0:04:55.63,Default,,0,0,0,,{\be1}Można i tak na to patrzeć.
+Dialogue: 0,0:05:09.80,0:05:10.67,Default,,0,0,0,,{\be1}Chcesz czegoś?
+Dialogue: 0,0:05:11.23,0:05:13.17,Default,,0,0,0,,{\be1}Jest może Ide?
+Dialogue: 0,0:05:13.91,0:05:16.28,Default,,0,0,0,,{\be1}Ide, ktoś do ciebie.
+Dialogue: 0,0:05:23.38,0:05:30.09,Default (i),,0,0,0,,{\be1}Jakoś się złożyło, że poszłam\Ndo domu z moim bratem od cyca.
+Dialogue: 0,0:05:30.72,0:05:36.24,Default (i),,0,0,0,,{\be1}Nie szukałam chłopaka,\Nbo niedawno zerwałam z jednym.
+Dialogue: 0,0:05:36.24,0:05:42.06,Default (i),,0,0,0,,{\be1}Potrzebowałam miłego brata, który mnie\Nwysłucha, a przynajmniej tak to wyglądało.
+Dialogue: 0,0:05:43.42,0:05:51.09,Default (i),,0,0,0,,{\be1}Oczywiście nie był w moim typie, na dodatek nigdy\Nnie miał dziewczyny przez co był trochę niezdarny.
+Dialogue: 0,0:05:51.09,0:05:57.10,Default (i),,0,0,0,,{\be1}Przypominał głupawego bohatera kreskówki,\Nale w pewnym sensie był też słodki.
+Dialogue: 0,0:06:11.27,0:06:16.48,Default,,0,0,0,,{\be1}W tym Toujim jest coś dziwnego, choć trochę\Nzazdroszczę mu samodzielnego mieszkania.
+Dialogue: 0,0:06:17.20,0:06:19.99,Default,,0,0,0,,{\be1}Tylko czemu mieszka sam?
+Dialogue: 0,0:06:20.54,0:06:21.63,Default,,0,0,0,,{\be1}Nie wiem.
+Dialogue: 0,0:06:47.85,0:06:50.89,Default,,0,0,0,,{\be1}Może pójdę do niego zobaczyć jak mieszka?
+Dialogue: 0,0:06:50.89,0:06:54.73,Default,,0,0,0,,{\be1}Nie wolno ci chodzi do domów chłopców!
+Dialogue: 0,0:06:55.34,0:06:59.23,Default,,0,0,0,,{\be1}Nic mi nie będzie.\NAkurat o niego nie musisz się martwić.
+Dialogue: 0,0:07:00.49,0:07:04.39,Default,,0,0,0,,{\be1}To może zaprosisz go\Nktóregoś dnia na kolację?
+Dialogue: 0,0:07:05.55,0:07:08.53,Default,,0,0,0,,{\be1}Masz rację, przynajmniej\Nnie będziesz się martwić.
+Dialogue: 0,0:07:26.87,0:07:32.06,Default,,0,0,0,,{\be1}A właśnie moja mama karmiła cię\Nkiedyś swoim mlekiem, prawda?
+Dialogue: 0,0:07:32.06,0:07:36.25,Default,,0,0,0,,{\be1}Może to brak bliskości z matką sprawił,\Nże wolisz duże piersi?
+Dialogue: 0,0:07:36.25,0:07:39.06,Default,,0,0,0,,{\be1}A może wszyscy facecie tak mają?
+Dialogue: 0,0:07:39.59,0:07:41.44,Default,,0,0,0,,{\be1}- Co?\N- Zamknij się.
+Dialogue: 0,0:08:12.29,0:08:13.60,Default,,0,0,0,,{\be1}Aua!
+Dialogue: 0,0:08:14.67,0:08:16.87,Default,,0,0,0,,{\be1}Nie wytrzymam tego.
+Dialogue: 0,0:08:18.93,0:08:22.40,Default,,0,0,0,,{\be1}Dlaczego umarłeś?
+Dialogue: 0,0:09:06.91,0:09:10.89,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:09:17.38,0:09:18.31,Default,,0,0,0,,{\be1}Jesteśmy.
+Dialogue: 0,0:09:21.69,0:09:23.92,Default,,0,0,0,,{\be1}Zostaniesz na noc?
+Dialogue: 0,0:09:25.06,0:09:26.92,Default,,0,0,0,,{\be1}Będę czekać u siebie w pokoju.
+Dialogue: 0,0:09:29.27,0:09:31.40,Default,,0,0,0,,{\be1}Mamo, przyszedł Touji!
+Dialogue: 0,0:09:34.14,0:09:37.43,Default,,0,0,0,,{\be1}Cześć, dawno się nie widzieliśmy.
+Dialogue: 0,0:09:38.98,0:09:40.44,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:09:41.48,0:09:43.29,Default,,0,0,0,,{\be1}Faktycznie dawno.
+Dialogue: 0,0:09:45.44,0:09:48.34,Default,,0,0,0,,{\be1}Byłam wtedy jeszcze młoda.
+Dialogue: 0,0:09:48.34,0:09:50.24,Default,,0,0,0,,{\be1}Nadal pani jest.
+Dialogue: 0,0:09:50.24,0:09:54.72,Default,,0,0,0,,{\be1}Nie musisz jej pochlebiać, przecież jest prawie jak matka dla ciebie.
+Dialogue: 0,0:09:54.72,0:09:56.52,Default,,0,0,0,,{\be1}Można tak powiedzieć.
+Dialogue: 0,0:09:59.50,0:10:04.50,Default (i),,0,0,0,,{\be1}Tego wieczoru Touji\Nnie był tak ponury jak zwykle.
+Dialogue: 0,0:10:04.50,0:10:08.34,Default (i),,0,0,0,,{\be1}Aż tak się ucieszył,\Ngdy spotkał moją matkę?
+Dialogue: 0,0:10:08.34,0:10:14.97,Default (i),,0,0,0,,{\be1}Był jak inna osoba.
+Dialogue: 0,0:10:23.39,0:10:24.37,Default,,0,0,0,,{\be1}Marika?
+Dialogue: 0,0:10:24.98,0:10:26.02,Default,,0,0,0,,{\be1}Mama?
+Dialogue: 0,0:10:40.32,0:10:43.14,Default,,0,0,0,,{\be1}Touji, dobranoc.
+Dialogue: 0,0:10:43.14,0:10:45.54,Default,,0,0,0,,{\be1}Dziękuję, dobranoc.
+Dialogue: 0,0:10:45.54,0:10:47.00,Default,,0,0,0,,{\be1}Dobranoc.
+Dialogue: 0,0:11:03.56,0:11:05.90,Default,,0,0,0,,{\be1}Touji, otwórz!
+Dialogue: 0,0:11:08.60,0:11:09.57,Default,,0,0,0,,{\be1}Kretyn!
+Dialogue: 0,0:11:45.85,0:11:49.88,Default,,0,0,0,,{\be1}Gdzie się podziewałeś, moje maleństwo?
+Dialogue: 0,0:11:52.18,0:11:57.86,Default,,0,0,0,,{\be1}Nie ssałeś i patrz jak napuchły.
+Dialogue: 0,0:11:58.12,0:11:59.85,Default,,0,0,0,,{\be1}Chodź do mnie.
+Dialogue: 0,0:12:01.72,0:12:04.69,Default,,0,0,0,,{\be1}Mamo, tęskniłem!
+Dialogue: 0,0:12:09.56,0:12:11.82,Default,,0,0,0,,{\be1}Ja też.
+Dialogue: 0,0:12:15.64,0:12:16.74,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:12:18.69,0:12:22.39,Default,,0,0,0,,{\be1}Mogę zacząć jęczeć,\Na nie możemy obudzić Mariki.
+Dialogue: 0,0:12:29.42,0:12:31.64,Default,,0,0,0,,{\be1}Nie tak mocno.
+Dialogue: 0,0:12:38.59,0:12:40.27,Default,,0,0,0,,{\be1}Touji.
+Dialogue: 0,0:12:42.80,0:12:43.91,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:12:44.90,0:12:46.30,Default,,0,0,0,,{\be1}Chodź.
+Dialogue: 0,0:12:57.61,0:12:59.18,Default,,0,0,0,,{\be1}Niedługo dojdę!
+Dialogue: 0,0:13:11.29,0:13:12.61,Default,,0,0,0,,{\be1}Jeszcze!
+Dialogue: 0,0:13:30.59,0:13:32.65,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:13:34.11,0:13:35.21,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:13:41.78,0:13:43.22,Default,,0,0,0,,{\be1}Doszłaś, mamo?
+Dialogue: 0,0:13:43.56,0:13:46.22,Default,,0,0,0,,{\be1}Bardzo się zmieniłem przez ten czas.
+Dialogue: 0,0:13:47.00,0:13:49.23,Default,,0,0,0,,{\be1}Zobacz, jestem już mężczyzną.
+Dialogue: 0,0:13:52.27,0:13:56.23,Default,,0,0,0,,{\be1}Jaki gorący, na dodatek twardy i duży.
+Dialogue: 0,0:13:56.64,0:14:01.81,Default,,0,0,0,,{\be1}Od tamtego czasu marzyłem o tym dniu.
+Dialogue: 0,0:14:02.51,0:14:04.68,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:14:04.68,0:14:07.74,Default,,0,0,0,,{\be1}W takim razie jesteś tylko mój.
+Dialogue: 0,0:14:08.21,0:14:13.53,Default,,0,0,0,,{\be1}Nawet jeśli wydoroślałeś na ciele,\Nto chciałabym żebyś dalej był tym słodkim chłopcem.
+Dialogue: 0,0:15:01.70,0:15:02.77,Default,,0,0,0,,{\be1}Mamo!
+Dialogue: 0,0:15:03.65,0:15:09.30,Default,,0,0,0,,{\be1}Zaraz dojdziesz?\NWytrzymaj, musisz spuścić się we mnie.
+Dialogue: 0,0:15:32.33,0:15:35.33,Default,,0,0,0,,{\be1}Dotykaj moich piersi!
+Dialogue: 0,0:15:45.61,0:15:52.46,Default,,0,0,0,,{\be1}Ściskaj je najmocniej jak potrafisz!\NWbij w nie swoje palce!
+Dialogue: 0,0:15:55.25,0:15:57.60,Default,,0,0,0,,{\be1}Tak, mocniej!
+Dialogue: 0,0:15:58.68,0:16:01.36,Default,,0,0,0,,{\be1}Mamo, już nie mogę!
+Dialogue: 0,0:16:01.36,0:16:04.36,Default,,0,0,0,,{\be1}Więc spuść się!
+Dialogue: 0,0:16:07.81,0:16:09.37,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:16:10.27,0:16:16.08,Default,,0,0,0,,{\be1}Twój penis robi się we mnie\Nwiększy i twardszy!
+Dialogue: 0,0:16:27.82,0:16:29.09,Default,,0,0,0,,{\be1}Touji.
+Dialogue: 0,0:17:02.12,0:17:07.17,Default,,0,0,0,,{\be1}Tak się zastanawiałam\Nczy mogłabym czasem wpadać do ciebie?
+Dialogue: 0,0:17:08.06,0:17:09.43,Default,,0,0,0,,{\be1}Mam tam niezły burdel.
+Dialogue: 0,0:17:09.80,0:17:12.16,Default,,0,0,0,,{\be1}To uprzątnę tam trochę.
+Dialogue: 0,0:17:12.16,0:17:16.00,Default,,0,0,0,,{\be1}Nie wyglądam na taką,\Nale lubię sprzątać.
+Dialogue: 0,0:17:16.00,0:17:18.43,Default,,0,0,0,,{\be1}Chciałabym zobaczyć twoje mieszkanie.
+Dialogue: 0,0:17:18.77,0:17:22.44,Default,,0,0,0,,{\be1}Nie potrzebnie,\Nnie ma tam nic ciekawego.
+Dialogue: 0,0:17:22.68,0:17:24.07,Default,,0,0,0,,{\be1}Co to miało znaczyć?
+Dialogue: 0,0:17:24.07,0:17:29.70,Default,,0,0,0,,{\be1}Twoja śliczna siostra\Npróbuje stworzyć nam szansę.
+Dialogue: 0,0:17:34.49,0:17:35.74,Default,,0,0,0,,{\be1}SMS?
+Dialogue: 0,0:17:36.26,0:17:37.70,Default,,0,0,0,,{\be1}Od kogo?
+Dialogue: 0,0:17:39.71,0:17:44.75,Default,,0,0,0,,{\be1}Tęsknię, a moje piersi bolę.\NChodź do mnie possać je.
+Dialogue: 0,0:17:44.75,0:17:45.80,Default,,0,0,0,,{\be1}Od kogo?
+Dialogue: 0,0:17:45.80,0:17:48.71,Default,,0,0,0,,{\be1}Od matki.
+Dialogue: 0,0:17:48.71,0:17:49.64,Default,,0,0,0,,{\be1}Na pewno?
+Dialogue: 0,0:17:49.64,0:17:51.43,Default,,0,0,0,,{\be1}Co z tobą?
+Dialogue: 0,0:17:53.61,0:17:58.81,Default,,0,0,0,,{\be1}Kupiłam ci grę w Akihabarze\Ni wysłałam ekspresem.
+Dialogue: 0,0:17:58.81,0:18:03.23,Default,,0,0,0,,{\be1}Zadzwoń do nas czasem,\Ntwój ojciec też się martwi o ciebie.
+Dialogue: 0,0:18:04.07,0:18:06.62,Default,,0,0,0,,{\be1}Nie dzwonisz do rodziców?
+Dialogue: 0,0:18:08.72,0:18:11.24,Default,,0,0,0,,{\be1}Przepraszam, więcej tego nie zrobię.
+Dialogue: 0,0:18:15.26,0:18:16.24,Default,,0,0,0,,{\be1}Idziemy do mnie?
+Dialogue: 0,0:18:18.56,0:18:23.20,Default,,0,0,0,,{\be1}Toż to same apartamenty!\NNic dziwnego, że stać was było na mamkę.
+Dialogue: 0,0:18:24.14,0:18:26.00,Default,,0,0,0,,{\be1}Sprzątasz ty tu czasem?
+Dialogue: 0,0:18:27.07,0:18:28.14,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:18:28.14,0:18:29.31,Default,,0,0,0,,{\be1}Od kiedy?
+Dialogue: 0,0:18:29.31,0:18:31.48,Default,,0,0,0,,{\be1}Odkąd się wprowadziłem, to jakieś 3 lata.
+Dialogue: 0,0:18:31.48,0:18:32.84,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:18:34.05,0:18:35.28,Default,,0,0,0,,{\be1}Mama?
+Dialogue: 0,0:18:35.28,0:18:36.32,Default,,0,0,0,,{\be1}Gdzie jesteś?
+Dialogue: 0,0:18:36.32,0:18:38.66,Default,,0,0,0,,{\be1}Jestem u Toujiego, nie martw się.
+Dialogue: 0,0:18:38.66,0:18:41.52,Default,,0,0,0,,{\be1}Dobrze, że przyszłam,\Ntrzeba tu posprzątać.
+Dialogue: 0,0:18:41.92,0:18:44.12,Default,,0,0,0,,{\be1}Walają się tu nawet 3 letnie śmieci.
+Dialogue: 0,0:18:44.12,0:18:50.03,Default,,0,0,0,,{\be1}To może przyjdźcie do nas na kolację?\NPosprzątać możecie w wolne dni.
+Dialogue: 0,0:18:50.60,0:18:52.48,Default,,0,0,0,,{\be1}Mama zaprasza cię na kolację.
+Dialogue: 0,0:18:53.43,0:18:56.70,Default,,0,0,0,,{\be1}Niedługo przyjdziemy\Ni tak nie ma gdzie usiąść.
+Dialogue: 0,0:18:56.70,0:18:57.50,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:19:26.23,0:19:27.70,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:19:27.70,0:19:28.79,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:19:40.31,0:19:42.95,Default,,0,0,0,,{\be1}Masz większe piersi niż myślałem.
+Dialogue: 0,0:19:43.28,0:19:46.32,Default,,0,0,0,,{\be1}Co to miało znaczyć?
+Dialogue: 0,0:19:46.32,0:19:50.39,Default,,0,0,0,,{\be1}Już późno, musimy iść,\Nbo mam będzie zła.
+Dialogue: 0,0:19:50.39,0:19:52.46,Default,,0,0,0,,{\be1}Dokończymy w nocy.
+Dialogue: 0,0:19:58.33,0:20:01.47,Default,,0,0,0,,{\be1}Poczekajcie jeszcze chwilę,\Nzaraz skończę.
+Dialogue: 0,0:20:02.27,0:20:03.47,Default,,0,0,0,,{\be1}- Dobra.\N- Dobrze.
+Dialogue: 0,0:20:13.78,0:20:16.74,Default,,0,0,0,,{\be1}Gotowe, wcinajcie.
+Dialogue: 0,0:20:17.67,0:20:19.82,Default,,0,0,0,,{\be1}- Smacznego!\N- Smacznego.
+Dialogue: 0,0:20:19.82,0:20:21.12,Default,,0,0,0,,{\be1}Można włączyć telewizor?
+Dialogue: 0,0:20:21.12,0:20:21.75,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:20:21.75,0:20:23.78,Default,,0,0,0,,{\be1}Przepyszne!
+Dialogue: 0,0:20:23.78,0:20:25.78,Default,,0,0,0,,{\be1}Faktycznie!
+Dialogue: 0,0:20:29.16,0:20:30.75,Default,,0,0,0,,{\be1}Touji, co się stało?
+Dialogue: 0,0:20:30.75,0:20:33.73,Default,,0,0,0,,{\be1}Ciekawe co z nim.
+Dialogue: 0,0:20:34.67,0:20:36.50,Default,,0,0,0,,{\be1}Trochę się boję.
+Dialogue: 0,0:20:36.50,0:20:38.53,Default,,0,0,0,,{\be1}Macie na siebie uważać.
+Dialogue: 0,0:20:41.27,0:20:44.27,Default,,0,0,0,,{\be1}A właśnie, może zamieszkasz z nami?
+Dialogue: 0,0:20:44.91,0:20:45.51,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:20:45.51,0:20:49.72,Default,,0,0,0,,{\be1}Tak byłoby najlepiej,\Njesteś prawie jak brak Mariki.
+Dialogue: 0,0:20:49.72,0:20:52.77,Default,,0,0,0,,{\be1}Tylko zapytaj najpierw rodziców o zgodę.
+Dialogue: 0,0:20:54.12,0:20:57.28,Default,,0,0,0,,{\be1}Poza tym trochę potrwa sprzątaniu u ciebie.
+Dialogue: 0,0:20:58.22,0:20:59.81,Default,,0,0,0,,{\be1}Na pewno?
+Dialogue: 0,0:21:00.76,0:21:02.76,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:21:02.76,0:21:07.09,Default,,0,0,0,,{\be1}Ostatnio zrobiło się tu niebezpiecznie,\Nwięc przynajmniej nie martwiłabym się aż tyle.
+Dialogue: 0,0:21:07.68,0:21:12.56,Default,,0,0,0,,{\be1}Ty i tak zawsze się będziesz martwić.\NChoć przynajmniej jedno zmartwienie mniej.
+Dialogue: 0,0:21:56.12,0:21:59.47,Default,,0,0,0,,{\be1}Obciąganie ci zaczęło mnie podniecać.
+Dialogue: 0,0:22:00.15,0:22:05.90,Default,,0,0,0,,{\be1}Jestem jeszcze dziewicą,\Nale z chęcią oddam ci je.
+Dialogue: 0,0:22:16.50,0:22:17.98,Default,,0,0,0,,{\be1}Bądź delikatny.
+Dialogue: 0,0:22:44.45,0:22:49.10,Default,,0,0,0,,{\be1}To jest naprawdę przyjemne!
+Dialogue: 0,0:22:49.10,0:22:51.75,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:23:38.48,0:23:40.45,Default,,0,0,0,,{\be1}Byłeś bardzo niegrzeczny!
+Dialogue: 0,0:23:40.45,0:23:42.85,Default,,0,0,0,,{\be1}Jak mogłeś uprawiać seks z inną?!
+Dialogue: 0,0:23:43.42,0:23:47.01,Default,,0,0,0,,{\be1}Zrób to jeszcze raz, to pożałujesz!
+Dialogue: 0,0:23:47.01,0:23:48.43,Default,,0,0,0,,{\be1}Dobrze, mamo.
+Dialogue: 0,0:23:48.43,0:23:50.26,Default,,0,0,0,,{\be1}Wiedziałam, że będziesz grzeczny.
+Dialogue: 0,0:23:50.26,0:23:51.41,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:23:59.87,0:24:03.34,Default,,0,0,0,,{\be1}Poliż swoją mamusię.
+Dialogue: 0,0:24:09.38,0:24:11.35,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:24:13.05,0:24:15.35,Default,,0,0,0,,{\be1}Mamo, mogę?
+Dialogue: 0,0:24:17.29,0:24:18.35,Default,,0,0,0,,{\be1}Chodź.
+Dialogue: 0,0:24:34.21,0:24:35.49,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:24:44.48,0:24:45.81,Default,,0,0,0,,{\be1}Touji!
+Dialogue: 0,0:24:58.63,0:25:00.74,Default,,0,0,0,,{\be1}Właśnie tak!
+Dialogue: 0,0:25:02.87,0:25:04.23,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:25:09.44,0:25:10.79,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:25:27.83,0:25:29.16,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:25:33.97,0:25:38.27,Default,,0,0,0,,{\be1}Długo tak nie wytrzymam!
+Dialogue: 0,0:25:38.27,0:25:44.68,Default,,0,0,0,,{\be1}To nic, spuść się w mamusi!
+Dialogue: 0,0:25:48.28,0:25:53.28,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:26:04.21,0:26:10.39,Default,,0,0,0,,{\be1}Jesteś moim maleństwem.\NKocham cię najmocniej na świecie.

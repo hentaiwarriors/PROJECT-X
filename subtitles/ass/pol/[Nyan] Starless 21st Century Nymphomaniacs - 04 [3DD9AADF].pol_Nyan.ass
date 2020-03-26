@@ -1,0 +1,198 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build497  Apr  3 2016  18:41:06
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 7
+Video Position: 27805
+Original Script: 
+Original Translation: 
+Original Timing: 
+Collisions: Normal
+Last Style Storage: [848x480]
+Scroll Position: 0
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&HFF000000,&H78000000,-1,-1,0,0,100,100,0,0,1,0.1,2,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,50,&H00FFFFFF,&H000000FF,&HFF000000,&H64000000,0,0,0,0,100,100,0,0,1,0.1,3,2,20,20,30,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:27.05,0:00:31.97,Grupa,,0,0,0,,{\be1\1c&H000000&\t(0,2438,\1c&HFFFFFF&)}Nyan
+Dialogue: 0,0:00:27.05,0:00:31.97,Tytul,,0,0,0,,{\be1\1c&H000000&\t(0,2438,\1c&HFFFFFF&)}Przyjęcie pożądania
+Dialogue: 0,0:00:09.94,0:00:11.87,Default,,0,0,0,,{\be1}Dobrze się spisaliście.
+Dialogue: 0,0:00:11.87,0:00:15.57,Default,,0,0,0,,{\be1}Dzisiaj odbędzie się ważne przyjęcie biznesowe.
+Dialogue: 0,0:00:15.57,0:00:17.56,Default,,0,0,0,,{\be1}Liczę na was.
+Dialogue: 0,0:00:18.31,0:00:21.63,Default,,0,0,0,,{\be1}Po przyjęciu wszystko się skończy.
+Dialogue: 0,0:00:21.63,0:00:23.68,Default,,0,0,0,,{\be1}Wytrzymaj jeszcze trochę.
+Dialogue: 0,0:00:57.08,0:00:58.91,Default,,0,0,0,,{\be1}Witamy.
+Dialogue: 0,0:00:59.97,0:01:01.94,Default,,0,0,0,,{\be1}Przecież to Sachie.
+Dialogue: 0,0:01:01.94,0:01:04.49,Default,,0,0,0,,{\be1}Liczymy na ciebie również w tym roku.
+Dialogue: 0,0:01:05.12,0:01:07.42,Default,,0,0,0,,{\be1}Z przyjemnością.
+Dialogue: 0,0:01:07.78,0:01:10.24,Default,,0,0,0,,{\be1}Marie, jesteśmy.
+Dialogue: 0,0:01:10.24,0:01:14.25,Default,,0,0,0,,{\be1}Witajcie, Yukari, Francesca.
+Dialogue: 0,0:01:16.12,0:01:19.02,Default,,0,0,0,,{\be1}Jest na przyjęciu, nie?
+Dialogue: 0,0:01:19.34,0:01:22.99,Default,,0,0,0,,{\be1}Tak, ale jest na razie zajęty obsługą.
+Dialogue: 0,0:01:24.59,0:01:32.53,Default,,0,0,0,,{\be1}Spokojnie, zaspokoi każdą kobietę\Nniezależnie jak bardzo będzie zmęczony.
+Dialogue: 0,0:01:32.90,0:01:36.23,Default,,0,0,0,,{\be1}Przygotuję wam pokój, więc wytrzymajcie.
+Dialogue: 0,0:01:40.67,0:01:47.67,Default,,0,0,0,,{\be1}Dziękuję wszystkim zebranym za przybycie\Nna przyjęcie zorganizowane przez rodzinę Mamiya.
+Dialogue: 0,0:01:47.67,0:01:51.55,Default,,0,0,0,,{\be1}W tym roku są nowi służący, jak również nowe przedmioty.
+Dialogue: 0,0:01:51.55,0:01:55.05,Default,,0,0,0,,{\be1}Przygotowałam wszystko dla zaspokojenia waszych oczekiwań.
+Dialogue: 0,0:01:55.52,0:02:00.64,Default,,0,0,0,,{\be1}Jak zawsze będzie również aukcja.
+Dialogue: 0,0:02:06.34,0:02:09.27,Default,,0,0,0,,{\be1}Jeszcze niedawno była dziewicą.
+Dialogue: 0,0:02:09.27,0:02:16.07,Default,,0,0,0,,{\be1}Jest jeszcze młoda i niedoświadczona,\Nale to jeden z jej uroków.
+Dialogue: 0,0:02:16.07,0:02:20.10,Default,,0,0,0,,{\be1}Pani, co mam robić?
+Dialogue: 0,0:02:20.10,0:02:23.00,Default,,0,0,0,,{\be1}Wystarczy, że będziesz leżeć.
+Dialogue: 0,0:02:24.10,0:02:28.00,Default,,0,0,0,,{\be1}Możecie kupić czas z nią za specjalną cenę.
+Dialogue: 0,0:02:28.34,0:02:33.01,Default,,0,0,0,,{\be1}Każdy kto jest zainteresowany musi od razu wyłożyć pieniądze.
+Dialogue: 0,0:02:33.01,0:02:36.70,Default,,0,0,0,,{\be1}Anal jest za darmo.
+Dialogue: 0,0:02:36.70,0:02:42.62,Default,,0,0,0,,{\be1}Nie martw się, szybko przywykniesz.
+Dialogue: 0,0:02:44.23,0:02:46.69,Default,,0,0,0,,{\be1}Coś do picia?
+Dialogue: 0,0:02:46.69,0:02:50.11,Default,,0,0,0,,{\be1}To specjalne wino z silnym środkiem pobudzającym.
+Dialogue: 0,0:02:52.75,0:02:58.99,Default,,0,0,0,,{\be1}Czuć, że to wyrób Mamiya, od razu zaczął działać.
+Dialogue: 0,0:02:59.63,0:03:05.16,Default,,0,0,0,,{\be1}Sachie, mogę znowu wypić twoje siuśki?
+Dialogue: 0,0:03:06.07,0:03:07.63,Default,,0,0,0,,{\be1}Znowu?
+Dialogue: 0,0:03:13.58,0:03:16.38,Default,,0,0,0,,{\be1}Nie patrzcie tak.
+Dialogue: 0,0:03:17.60,0:03:20.32,Default,,0,0,0,,{\be1}Cipka Sachie.
+Dialogue: 0,0:03:20.32,0:03:23.06,Default,,0,0,0,,{\be1}Jest taka piękna.
+Dialogue: 0,0:03:29.84,0:03:33.90,Default,,0,0,0,,{\be1}Proszę, wyciąg z Sachie.
+Dialogue: 0,0:03:35.57,0:03:39.07,Default,,0,0,0,,{\be1}Cudowny smak i zapach.
+Dialogue: 0,0:03:39.07,0:03:43.16,Default,,0,0,0,,{\be1}Sachie, możesz się mną zająć?
+Dialogue: 0,0:03:44.05,0:03:48.02,Default,,0,0,0,,{\be1}Oczywiście, jak mogłabym odmówić?
+Dialogue: 0,0:03:49.96,0:03:52.46,Default,,0,0,0,,{\be1}Specjalne wino już działa.
+Dialogue: 0,0:03:52.92,0:03:55.72,Default,,0,0,0,,{\be1}Jest taki twardy.
+Dialogue: 0,0:03:55.72,0:03:59.13,Default,,0,0,0,,{\be1}Z takim sprzętem jeszcze ma pan sporo czasu.
+Dialogue: 0,0:04:02.60,0:04:05.18,Default,,0,0,0,,{\be1}Sachie, ja też.
+Dialogue: 0,0:04:05.18,0:04:07.38,Default,,0,0,0,,{\be1}Z przyjemnością.
+Dialogue: 0,0:04:08.59,0:04:10.03,Default,,0,0,0,,{\be1}I jak?
+Dialogue: 0,0:04:10.03,0:04:14.60,Default,,0,0,0,,{\be1}Cudowne dłonie, mam wrażenie, że zaraz dojdę.
+Dialogue: 0,0:04:14.60,0:04:18.19,Default,,0,0,0,,{\be1}Sachie, ja jeszcze nie skończyłem.
+Dialogue: 0,0:04:18.19,0:04:21.17,Default,,0,0,0,,{\be1}No to zacznę mocniej.
+Dialogue: 0,0:04:23.93,0:04:25.65,Default,,0,0,0,,{\be1}To jest to!
+Dialogue: 0,0:04:25.65,0:04:28.62,Default,,0,0,0,,{\be1}Mnie też obciągnij.
+Dialogue: 0,0:04:38.84,0:04:41.39,Default,,0,0,0,,{\be1}To nowy wyrób Mamiya.
+Dialogue: 0,0:04:43.40,0:04:47.15,Default,,0,0,0,,{\be1}Jest tak silny, że od razu zaczyna działać.
+Dialogue: 0,0:04:47.15,0:04:50.85,Default,,0,0,0,,{\be1}Pobudzi nawet największego impotenta.
+Dialogue: 0,0:04:52.87,0:04:56.28,Default,,0,0,0,,{\be1}Niesamowite, ale stanęły!
+Dialogue: 0,0:04:56.28,0:04:59.03,Default,,0,0,0,,{\be1}Ale mam coś jeszcze lepszego.
+Dialogue: 0,0:04:59.03,0:05:05.02,Default,,0,0,0,,{\be1}Zażyjcie tę tabletkę razem z poprzednią,\Na rozkosz będzie nieziemska.
+Dialogue: 0,0:05:05.74,0:05:08.61,Default,,0,0,0,,{\be1}Ty jej nie bierzesz?
+Dialogue: 0,0:05:08.61,0:05:11.02,Default,,0,0,0,,{\be1}No oczywiście, że wezmę.
+Dialogue: 0,0:05:11.02,0:05:15.75,Default,,0,0,0,,{\be1}Może mi pan ją włożyć?
+Dialogue: 0,0:05:19.45,0:05:23.18,Default,,0,0,0,,{\be1}Niech się pan pospieszy.
+Dialogue: 0,0:05:30.59,0:05:35.15,Default,,0,0,0,,{\be1}A teraz się zabawmy.
+Dialogue: 0,0:05:41.39,0:05:45.91,Default,,0,0,0,,{\be1}Niesamowite! Jest pan cudowny!
+Dialogue: 0,0:05:45.91,0:05:50.87,Default,,0,0,0,,{\be1}Marisa, ale mi dobrze!
+Dialogue: 0,0:05:52.37,0:05:56.80,Default,,0,0,0,,{\be1}Wam nie wolno ich oceniać.
+Dialogue: 0,0:05:56.80,0:06:02.61,Default,,0,0,0,,{\be1}To moje zdania, a teraz niech pan kontynuuje.
+Dialogue: 0,0:06:06.34,0:06:11.89,Default,,0,0,0,,{\be1}Ale mi cudownie!
+Dialogue: 0,0:06:11.89,0:06:16.35,Default,,0,0,0,,{\be1}Masz taką ciasną cipkę!
+Dialogue: 0,0:06:17.53,0:06:22.07,Default,,0,0,0,,{\be1}Cholera, dłużej nie wytrzymam!
+Dialogue: 0,0:06:28.29,0:06:31.50,Default,,0,0,0,,{\be1}Tak mi dobrze!
+Dialogue: 0,0:06:36.22,0:06:41.10,Default,,0,0,0,,{\be1}Będę cię głęboko pieprzyć!
+Dialogue: 0,0:06:44.35,0:06:47.59,Default,,0,0,0,,{\be1}Cudownie, Marisa!
+Dialogue: 0,0:06:49.30,0:06:52.06,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:06:53.00,0:06:55.98,Default,,0,0,0,,{\be1}Spuśćcie się na mnie!
+Dialogue: 0,0:07:07.27,0:07:13.70,Default,,0,0,0,,{\be1}Sanae, zaraz dojdę, jeśli dalej\Nbędziesz dotykać moich sutków!
+Dialogue: 0,0:07:13.70,0:07:19.59,Default,,0,0,0,,{\be1}No ale masz taki cudowne ciało, że aż ci zazdroszczę.
+Dialogue: 0,0:07:21.97,0:07:25.46,Default,,0,0,0,,{\be1}Wiem, że chciałabyś już zacząć.
+Dialogue: 0,0:07:25.46,0:07:29.80,Default,,0,0,0,,{\be1}Kaoru, nie mów tak! Zawstydzasz mnie!
+Dialogue: 0,0:07:29.80,0:07:34.72,Default,,0,0,0,,{\be1}Już ja się nim dobrze zajmę, więc nie ruszaj się.
+Dialogue: 0,0:07:35.46,0:07:40.69,Default,,0,0,0,,{\be1}Nie dość, że masz wspaniałego kutasa to jeszcze cipkę.
+Dialogue: 0,0:07:40.69,0:07:43.52,Default,,0,0,0,,{\be1}Urodzona zboczucha.
+Dialogue: 0,0:07:43.52,0:07:48.50,Default,,0,0,0,,{\be1}Otrzymasz przyjemność niezależnie od użytej części.
+Dialogue: 0,0:07:53.33,0:07:56.61,Default,,0,0,0,,{\be1}O nie, oszaleję!
+Dialogue: 0,0:07:57.23,0:08:02.45,Default,,0,0,0,,{\be1}Tak tylko mówisz, bo naprawdę to chcesz tego.
+Dialogue: 0,0:08:12.58,0:08:14.85,Default,,0,0,0,,{\be1}Dłużej nie wytrzymam!
+Dialogue: 0,0:08:15.98,0:08:20.44,Default,,0,0,0,,{\be1}Marika, zabawię się twoją cipkę, dobra?
+Dialogue: 0,0:08:21.35,0:08:23.27,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:08:23.27,0:08:27.53,Default,,0,0,0,,{\be1}Ja też się podnieciłam i już nie wytrzymam.
+Dialogue: 0,0:08:39.73,0:08:42.20,Default,,0,0,0,,{\be1}Nie tak mocno!
+Dialogue: 0,0:08:42.20,0:08:46.25,Default,,0,0,0,,{\be1}Przecież tak lubisz najbardziej.
+Dialogue: 0,0:08:46.25,0:08:48.64,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:08:50.89,0:08:55.92,Default,,0,0,0,,{\be1}Marika, nie bądź taka, ja też chcę się zabawić.
+Dialogue: 0,0:09:02.40,0:09:05.36,Default,,0,0,0,,{\be1}Niesamowite, ale ty jesteś ciasna!
+Dialogue: 0,0:09:07.69,0:09:11.97,Default,,0,0,0,,{\be1}Jesteście cudowne! Jak dobrze!
+Dialogue: 0,0:09:13.33,0:09:19.16,Default,,0,0,0,,{\be1}Masz kutasa jak prawdziwy mężczyzna.
+Dialogue: 0,0:09:19.55,0:09:22.40,Default,,0,0,0,,{\be1}Przestań! Wstydzę się!
+Dialogue: 0,0:09:22.40,0:09:24.85,Default,,0,0,0,,{\be1}Moje soki wypływają!
+Dialogue: 0,0:09:24.85,0:09:32.46,Default,,0,0,0,,{\be1}Marika, mogę się spuścić w tobie, nie?
+Dialogue: 0,0:09:36.26,0:09:39.52,Default,,0,0,0,,{\be1}Tak, spuść się we mnie!
+Dialogue: 0,0:09:43.40,0:09:46.26,Default,,0,0,0,,{\be1}Spuść mi się w buzi!
+Dialogue: 0,0:09:49.00,0:09:51.44,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:09:59.12,0:10:02.90,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:10:08.32,0:10:10.32,Default,,0,0,0,,{\be1}Ale jej dużo!
+Dialogue: 0,0:10:38.21,0:10:39.86,Default (i),,0,0,0,,{\be1}Mitarai, wytrzymaj.
+Dialogue: 0,0:10:40.55,0:10:45.49,Default (i),,0,0,0,,{\be1}Po dzisiejszym dniu będziemy wolni.
+Dialogue: 0,0:10:45.49,0:10:48.23,Default,,0,0,0,,{\be1}Sawatari, czas na ciebie.
+Dialogue: 0,0:10:48.23,0:10:51.49,Default,,0,0,0,,{\be1}Masz gości w pokoju na drugim piętrze.
+Dialogue: 0,0:10:51.49,0:10:52.64,Default,,0,0,0,,{\be1}Powodzenia.
+Dialogue: 0,0:10:53.36,0:10:55.65,Default,,0,0,0,,{\be1}Już jesteś?
+Dialogue: 0,0:10:58.46,0:11:02.07,Default,,0,0,0,,{\be1}Więc to ciebie tak chwaliła Marie.
+Dialogue: 0,0:11:02.07,0:11:04.60,Default,,0,0,0,,{\be1}Wygląda zwyczajnie.
+Dialogue: 0,0:11:04.60,0:11:09.85,Default,,0,0,0,,{\be1}Marie mówiła, że dzięki tobie poczuła się młodsza.
+Dialogue: 0,0:11:09.85,0:11:14.78,Default,,0,0,0,,{\be1}Mamy dość jej przechwałek,\Ndzisiaj pokażesz co potrafisz.
+Dialogue: 0,0:11:14.78,0:11:16.62,Default,,0,0,0,,{\be1}A teraz dawaj.
+Dialogue: 0,0:11:16.62,0:11:19.51,Default,,0,0,0,,{\be1}Nie mogę tak na zawołanie.
+Dialogue: 0,0:11:20.59,0:11:23.62,Default,,0,0,0,,{\be1}Nie stanie ci przy nas?
+Dialogue: 0,0:11:23.62,0:11:26.05,Default,,0,0,0,,{\be1}To nie było miłe.
+Dialogue: 0,0:11:28.28,0:11:29.51,Default,,0,0,0,,{\be1}Patrz.
+Dialogue: 0,0:11:30.76,0:11:34.63,Default,,0,0,0,,{\be1}Trzep się, gdy będziesz na mnie patrzeć.
+Dialogue: 0,0:11:35.02,0:11:38.74,Default,,0,0,0,,{\be1}No właśnie, na mnie też.
+Dialogue: 0,0:11:40.43,0:11:41.87,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:12:08.99,0:12:12.48,Default,,0,0,0,,{\be1}Niesamowite, ale mu stanął!
+Dialogue: 0,0:12:38.44,0:12:40.63,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:12:42.91,0:12:44.11,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:12:50.46,0:12:55.79,Default,,0,0,0,,{\be1}Jego sperma jest taka dobra!
+Dialogue: 0,0:12:55.79,0:12:57.84,Default,,0,0,0,,{\be1}Wspaniała!
+Dialogue: 0,0:13:05.57,0:13:09.32,Default,,0,0,0,,{\be1}Rozpływa się w ustach!
+Dialogue: 0,0:13:09.32,0:13:11.28,Default,,0,0,0,,{\be1}Faktycznie wspaniała!
+Dialogue: 0,0:13:11.28,0:13:13.50,Default,,0,0,0,,{\be1}Zazdroszczę Marie!
+Dialogue: 0,0:13:49.03,0:13:53.73,Default,,0,0,0,,{\be1}Panie, najpierw załóż kondoma.
+Dialogue: 0,0:13:55.82,0:14:00.99,Default,,0,0,0,,{\be1}Nie, bo zajdę w ciążę!
+Dialogue: 0,0:14:04.40,0:14:05.81,Default,,0,0,0,,{\be1}W tyłek?
+Dialogue: 0,0:14:08.53,0:14:12.56,Default,,0,0,0,,{\be1}Proszę delikatniej!
+Dialogue: 0,0:14:13.60,0:14:19.13,Default,,0,0,0,,{\be1}Anal jest cudowny!
+Dialogue: 0,0:14:23.59,0:14:26.81,Default,,0,0,0,,{\be1}Co? Znowu pan doszedł?
+Dialogue: 0,0:14:26.81,0:14:32.23,Default,,0,0,0,,{\be1}Jaki bezczelny, jeszcze mnie nie zaspokoiłeś.
+Dialogue: 0,0:14:32.23,0:14:39.15,Default,,0,0,0,,{\be1}Jeżeli dojdziecie zanim mnie\Nzaspokoicie, odgryzę wam kutasy.
+Dialogue: 0,0:15:11.77,0:15:16.47,Default,,0,0,0,,{\be1}Panie i panowie, czas na aukcję.
+Dialogue: 0,0:15:16.47,0:15:19.70,Default,,0,0,0,,{\be1}Zaczniemy od najcenniejszego towaru.
+Dialogue: 0,0:15:19.70,0:15:21.23,Default,,0,0,0,,{\be1}Spójrzcie!
+Dialogue: 0,0:15:25.10,0:15:30.20,Default,,0,0,0,,{\be1}Rodzina bez perspektywy na przyszłość z olbrzymim długiem.
+Dialogue: 0,0:15:30.20,0:15:35.27,Default,,0,0,0,,{\be1}Zarówno matka jak i syn są dostępni do kupienia.
+Dialogue: 0,0:15:35.93,0:15:39.24,Default,,0,0,0,,{\be1}Przepraszam, jestem do niczego.
+Dialogue: 0,0:15:39.24,0:15:42.51,Default,,0,0,0,,{\be1}Nie przejmuj się, to nie twoja wina.
+Dialogue: 0,0:15:42.51,0:15:49.00,Default,,0,0,0,,{\be1}W ramach sprawdzenia dóbr zobaczycie kazirodczy seks!
+Dialogue: 0,0:15:52.35,0:15:58.23,Default,,0,0,0,,{\be1}Kobieta na skraju przydatności do spożycia\Ni młody przystojniak z olbrzymim kutasem.
+Dialogue: 0,0:15:58.81,0:16:07.20,Default,,0,0,0,,{\be1}Podawaliśmy im trochę za duże dawki leków,\Nale nadal są w idealnym stanie.
+Dialogue: 0,0:16:12.22,0:16:13.76,Default,,0,0,0,,{\be1}Mamo.
+Dialogue: 0,0:16:15.89,0:16:17.12,Default,,0,0,0,,{\be1}Makoto.
+Dialogue: 0,0:16:21.16,0:16:27.17,Default,,0,0,0,,{\be1}Makoto, w końcu nadszedł dzień, na który czekałeś.
+Dialogue: 0,0:16:27.86,0:16:29.10,Default,,0,0,0,,{\be1}Chcę go włożyć.
+Dialogue: 0,0:16:30.93,0:16:33.35,Default,,0,0,0,,{\be1}Chcę go włożyć w ciebie!
+Dialogue: 0,0:16:38.56,0:16:42.77,Default,,0,0,0,,{\be1}Dobrze, włóż mi go.
+Dialogue: 0,0:16:46.08,0:16:49.18,Default,,0,0,0,,{\be1}Jaka gorąca!
+Dialogue: 0,0:16:49.18,0:16:52.70,Default,,0,0,0,,{\be1}Nie myślałem, że jesteś taka cudowna!
+Dialogue: 0,0:16:52.70,0:16:56.97,Default,,0,0,0,,{\be1}I jak to jest być pieprzoną przez własnego syna?
+Dialogue: 0,0:16:59.53,0:17:05.26,Default,,0,0,0,,{\be1}Nie wiedziałam, że ma takiego wspaniałego kutasa!
+Dialogue: 0,0:17:05.26,0:17:09.61,Default,,0,0,0,,{\be1}Makoto, mocniej!
+Dialogue: 0,0:17:11.96,0:17:17.97,Default,,0,0,0,,{\be1}Kochani, na pożegnanie zróbcie im prysznic ze spermy!
+Dialogue: 0,0:17:19.57,0:17:22.85,Default,,0,0,0,,{\be1}Spuścić cię na chwilę z oka i od razu uciekasz.
+Dialogue: 0,0:17:22.85,0:17:26.15,Default,,0,0,0,,{\be1}Musisz nas jeszcze trochę zabawić.
+Dialogue: 0,0:18:09.30,0:18:15.09,Default (i),,0,0,0,,{\be1}Moja pani, myślę, że taka praca pasuje do mnie.
+Dialogue: 0,0:18:26.36,0:18:28.13,Default,,0,0,0,,{\be1}Witamy.
+Dialogue: 0,0:18:28.64,0:18:30.32,Default,,0,0,0,,{\be1}Czekaliśmy na ciebie.
+Dialogue: 0,0:18:30.98,0:18:35.63,Default,,0,0,0,,{\be1}Proszę za nami, zaprowadzimy cię do pokoju przesłuchań.

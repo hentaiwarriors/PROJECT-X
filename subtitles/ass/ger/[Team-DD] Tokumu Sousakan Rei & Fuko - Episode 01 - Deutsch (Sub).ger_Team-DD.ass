@@ -1,0 +1,355 @@
+﻿[Script Info]
+PlayResX: 960
+PlayResY: 720
+Last Style Storage: Default
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: RnF_Voice,Mongolian Baiti,34,&H00FFFFFF,&H000000FF,&H00542C1C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+Style: RnF_Text,Mongolian Baiti,31,&H00FFFFFF,&H000000FF,&H00040307,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,48,10,18,1
+Style: RnF_Box1,Mongolian Baiti,34,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,1,48,10,18,1
+Style: RnF_Box2,Mongolian Baiti,34,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,48,10,18,1
+Style: RnF_End1,Mongolian Baiti,31,&H00FFFFFF,&H000000FF,&H3292552B,&H00000000,0,0,0,0,98,100,0,0,1,2,0,2,5,5,14,1
+Style: RnF_End2,Mongolian Baiti,31,&H00FFFFFF,&H000000FF,&H3292552B,&H00000000,0,0,0,0,98,100,0,0,1,2,0,8,5,5,10,1
+Style: RnF_Logo,Mongolian Baiti,18,&H00FFFFFF,&H000000FF,&H5ABD8C09,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.38,0:00:37.98,RnF_Box1,,0,0,0,,{\pos(0,720)\p1\fad(900,0)}m 0 0 l 960 0 960 720 0 720{\p0}
+Dialogue: 0,0:00:05.52,0:00:29.92,RnF_Text,,0,0,0,,{\move(140,1275,140,0)}Zwei gewaltige Erdbeben erschütterten die Kanto Region.\N\NAufgrund des verheerenden Schadens,\N\Nmusste die Hauptstadt letztendlich verlegt werden.\N{\1c&H000000&}.\N.\N.{\1c&HFFFFFF&}\NIn den Überresten der Metropole Tokyo herrscht nun\N\Ndas organisierte Verbrechen und verbreitet eine "Milch"\N\Ngenannte Droge mit aphrodisierender Wirkung.\N{\1c&H000000&}.\N.\N.{\1c&HFFFFFF&}\NIn diesem Chaos konnte sich eine zwölfköpfige Organisation,\N\Ngenannt die "Zwölf Engel", durch den Verkauf\N\Nvon Milch behaupten.
+Dialogue: 0,0:00:30.01,0:00:37.98,RnF_Text,,0,0,0,,{\fad(600,600)\fs58\pos(385,391)}2054 AD
+Dialogue: 0,0:00:33.05,0:00:37.98,RnF_Text,,0,0,0,,{\fad(600,600)\fs58\pos(305,488)}Shinjuku, Tokyo
+Dialogue: 0,0:00:44.46,0:00:48.33,RnF_Voice,,0,0,0,,Nein! Aufhören!
+Dialogue: 0,0:01:26.16,0:01:28.31,RnF_Voice,,0,0,0,,Bitte, lasst mich in Ruhe.
+Dialogue: 0,0:01:29.00,0:01:30.46,RnF_Voice,,0,0,0,,Nicht...
+Dialogue: 0,0:01:45.14,0:01:50.06,RnF_Voice,,0,0,0,,Ist das nicht Hakufu? Eine der Zwölf Engel?
+Dialogue: 0,0:01:50.11,0:01:51.61,RnF_Voice,,0,0,0,,Und jetzt soll sie zu einer Kuh werden?
+Dialogue: 0,0:01:52.07,0:01:53.82,RnF_Voice,,0,0,0,,Aber warum?
+Dialogue: 0,0:01:53.86,0:01:55.61,RnF_Voice,,0,0,0,,Befehl von Koryuu-sama.
+Dialogue: 0,0:01:56.15,0:01:57.57,RnF_Voice,,0,0,0,,Was hat das zu bedeuten?
+Dialogue: 0,0:01:57.61,0:01:59.70,RnF_Voice,,0,0,0,,Was wohl passiert ist?
+Dialogue: 0,0:02:02.58,0:02:03.87,RnF_Voice,,0,0,0,,Egal, lasst uns beginnen!
+Dialogue: 0,0:02:10.58,0:02:13.25,RnF_Voice,,0,0,0,,Nein! Alles nur das nicht!
+Dialogue: 0,0:02:13.29,0:02:14.34,RnF_Voice,,0,0,0,,Bitte!
+Dialogue: 0,0:02:14.71,0:02:15.55,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:02:15.59,0:02:17.76,RnF_Voice,,0,0,0,,Alles, aber macht mich nicht zur Kuh!
+Dialogue: 0,0:02:57.96,0:02:59.55,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:03:13.06,0:03:14.06,RnF_Voice,,0,0,0,,Nicht...
+Dialogue: 0,0:03:14.11,0:03:16.77,RnF_Voice,,0,0,0,,Nicht... Nicht so brutal...
+Dialogue: 0,0:03:25.24,0:03:28.04,RnF_Voice,,0,0,0,,W-Warum macht ihr das?
+Dialogue: 0,0:03:47.31,0:03:50.35,RnF_Voice,,0,0,0,,Nein! Bitte hört auf!
+Dialogue: 0,0:03:51.64,0:03:52.94,RnF_Voice,,0,0,0,,Ich flehe euch an!
+Dialogue: 0,0:04:26.93,0:04:30.06,RnF_Voice,,0,0,0,,Bringt die Kuh in den Stall. Macht schon!
+Dialogue: 0,0:04:32.02,0:04:39.48,RnF_Voice,,0,0,0,,Man sagt, dass der Verzehr von Tentakel-Sperma dem ganzen Körper unfassbare Ekstase beschert.
+Dialogue: 0,0:04:41.16,0:04:52.50,RnF_Logo,,0,0,0,,{\move(1050,318,759,318,300,520)\fad(350,1600)}http://deutsche-doujins.to
+Dialogue: 0,0:05:14.06,0:05:22.17,RnF_Voice,,0,0,0,,Aus den Nippeln der von Tentakel-Sperma infizierten Frauen wird Brustmilch extrahiert.
+Dialogue: 0,0:05:22.23,0:05:28.11,RnF_Voice,,0,0,0,,Sie beginnen augenblicklich zu laktieren,\Nwenn das Sperma ihre Eier befruchtet.
+Dialogue: 0,0:05:29.53,0:05:34.87,RnF_Voice,,0,0,0,,Die Eier reagieren auf die ausgeschütteten Endorphine ihrer Trägerinnen und mutieren.
+Dialogue: 0,0:05:34.91,0:05:39.97,RnF_Voice,,0,0,0,,Sie nisten sich ein und bereiten ihren Trägerinnen nie enden wollende Orgasmen.
+Dialogue: 0,0:05:39.96,0:05:44.55,RnF_Voice,,0,0,0,,Da ihre Körper dieses Vergnügen nicht lange aushalten können,
+Dialogue: 0,0:05:44.59,0:05:48.72,RnF_Voice,,0,0,0,,wird der Prozess des Eierlegens eingeleitet.
+Dialogue: 0,0:05:48.76,0:05:50.05,RnF_Voice,,0,0,0,,"Kühe"
+Dialogue: 0,0:05:50.09,0:05:52.56,RnF_Voice,,0,0,0,,So werden diese Eier legenden Frauen genannt.
+Dialogue: 0,0:05:53.56,0:05:58.27,RnF_Voice,,0,0,0,,Und gerade eben, ist Hakufu Teil der Herde geworden.
+Dialogue: 0,0:06:17.62,0:06:19.29,RnF_Voice,,0,0,0,,Warum dürfen wir nicht anfangen?
+Dialogue: 0,0:06:20.00,0:06:21.63,RnF_Voice,,0,0,0,,Es ist unter dieser Kuppel.
+Dialogue: 0,0:06:21.67,0:06:24.46,RnF_Voice,,0,0,0,,Ich {\i1}weiß{\i0} einfach, dass dort die Milchfabrik ist!
+Dialogue: 0,0:06:25.51,0:06:27.01,RnF_Voice,,0,0,0,,Scheiße, keine Verbindung mehr.
+Dialogue: 0,0:06:27.05,0:06:28.01,RnF_Voice,,0,0,0,,Was hat der Chef gesagt?
+Dialogue: 0,0:06:28.93,0:06:32.10,RnF_Voice,,0,0,0,,Dass bei ihm gerade Berichte von bewaffneten Überfällen eingegangen sind.
+Dialogue: 0,0:06:33.35,0:06:36.56,RnF_Voice,,0,0,0,,Und deshalb kann er uns nicht erlauben eigenmächtig zu handeln.
+Dialogue: 0,0:06:37.10,0:06:39.06,RnF_Voice,,0,0,0,,Die trauen uns ja nicht sonderlich viel zu...
+Dialogue: 0,0:06:39.10,0:06:41.27,RnF_Voice,,0,0,0,,Immerhin sind wir Spezialagenten!
+Dialogue: 0,0:06:41.73,0:06:46.03,RnF_Voice,,0,0,0,,Stimmt. Besonders die Jungs vom Drogendezernat.
+Dialogue: 0,0:06:46.61,0:06:50.03,RnF_Voice,,0,0,0,,Das liegt daran, weil du immer so waghalsige Aktionen startest, Rei-san.
+Dialogue: 0,0:06:51.07,0:06:55.03,RnF_Voice,,0,0,0,,Ist deren eigene Schuld, wenn sie mich in ein Team mit unserem Wunderkind stecken!
+Dialogue: 0,0:06:55.08,0:06:57.54,RnF_Voice,,0,0,0,,Nenn mich nicht Kind.
+Dialogue: 0,0:06:57.58,0:07:00.62,RnF_Voice,,0,0,0,,Ich arbeite nun schon seit einem Jahr mit dir zusammen.
+Dialogue: 0,0:07:01.62,0:07:05.04,RnF_Voice,,0,0,0,,Für jemanden, der sich noch nicht einmal küssen lässt, passt der Ausdruck "Kind" ziemlich gut.
+Dialogue: 0,0:07:05.59,0:07:07.30,RnF_Voice,,0,0,0,,Dein Freund hat mir alles erzählt.
+Dialogue: 0,0:07:07.34,0:07:10.05,RnF_Voice,,0,0,0,,Willst du wirklich bis zu deiner Hochzeit unbefleckt bleiben?
+Dialogue: 0,0:07:10.09,0:07:13.30,RnF_Voice,,0,0,0,,Was? Hat Yamase-kun dir das auch erzählt?
+Dialogue: 0,0:07:13.64,0:07:16.64,RnF_Voice,,0,0,0,,So in etwa... Lass uns umkehren.
+Dialogue: 0,0:07:16.68,0:07:19.31,RnF_Voice,,0,0,0,,Völlig blind können wir jedenfalls nicht das Gebäude stürmen.
+Dialogue: 0,0:07:20.69,0:07:21.81,RnF_Voice,,0,0,0,,Wir sind nicht vollkommen blind...
+Dialogue: 0,0:07:24.11,0:07:27.73,RnF_Voice,,0,0,0,,Ich habe das Gebäude gescannt und ein paar Eingänge gefunden.
+Dialogue: 0,0:07:27.78,0:07:29.86,RnF_Voice,,0,0,0,,Wollen wir sie überprüfen, wenn wir schon mal hier sind?
+Dialogue: 0,0:07:36.08,0:07:39.75,RnF_Voice,,0,0,0,,Man hielt mich schon von klein auf immer für ein Wunderkind.
+Dialogue: 0,0:07:39.79,0:07:42.58,RnF_Voice,,0,0,0,,Mit zehn Jahren kam ich zum MIT.
+Dialogue: 0,0:07:43.04,0:07:47.34,RnF_Voice,,0,0,0,,Aber ich hatte weder Freunde noch\NVerwandte dort und war sehr einsam.
+Dialogue: 0,0:07:48.30,0:07:52.84,RnF_Voice,,0,0,0,,Deshalb bin ich so froh dir als Partnerin zugeteilt worden zu sein.
+Dialogue: 0,0:07:53.55,0:07:54.47,RnF_Voice,,0,0,0,,Danke.
+Dialogue: 0,0:07:54.51,0:07:57.97,RnF_Voice,,0,0,0,,Also... Wenn's okay ist, dürfte ich dich was fragen?
+Dialogue: 0,0:07:59.18,0:08:04.06,RnF_Voice,,0,0,0,,Stimmt es, dass deine kleine Schwester von den Zwölf Engeln entführt wurde?
+Dialogue: 0,0:08:05.73,0:08:09.23,RnF_Voice,,0,0,0,,Ja, meine Schwester Anna wurde bei einer Drogenrazzia verschleppt.
+Dialogue: 0,0:08:10.03,0:08:12.61,RnF_Voice,,0,0,0,,Der Job ist eben gefährlich.\NDa kann man nichts machen.
+Dialogue: 0,0:08:14.36,0:08:15.11,RnF_Voice,,0,0,0,,Moment mal!
+Dialogue: 0,0:08:17.20,0:08:18.12,RnF_Voice,,0,0,0,,Hilfe...
+Dialogue: 0,0:08:22.87,0:08:23.62,RnF_Voice,,0,0,0,,Was ist passiert?
+Dialogue: 0,0:08:24.46,0:08:27.13,RnF_Voice,,0,0,0,,Bitte helft mir...\Nmeine Schwester ist noch da unten...
+Dialogue: 0,0:08:27.75,0:08:30.13,RnF_Voice,,0,0,0,,Übergebt mir das Mädchen.
+Dialogue: 0,0:08:33.76,0:08:35.18,RnF_Voice,,0,0,0,,Du bist Shien!
+Dialogue: 0,0:08:35.22,0:08:38.60,RnF_Voice,,0,0,0,,Die rechte Hand von Koryuu, der Anführerin der Zwölf Engel, nicht wahr?
+Dialogue: 0,0:08:38.64,0:08:40.22,RnF_Voice,,0,0,0,,Admiral Shien!
+Dialogue: 0,0:08:42.52,0:08:44.81,RnF_Voice,,0,0,0,,Mann aus Stahl, wie die Gerüchte sagen...
+Dialogue: 0,0:08:57.99,0:08:58.62,RnF_Voice,,0,0,0,,Fuko!?
+Dialogue: 0,0:09:11.05,0:09:12.51,RnF_Voice,,0,0,0,,Endlich aufgewacht?
+Dialogue: 0,0:09:14.09,0:09:15.55,RnF_Voice,,0,0,0,,Das Mädchen von eben...
+Dialogue: 0,0:09:16.30,0:09:17.64,RnF_Voice,,0,0,0,,Mein Name ist Koryuu.
+Dialogue: 0,0:09:18.80,0:09:23.72,RnF_Voice,,0,0,0,,Rei-Oneesama, Fuko-Oneechan... Wie fühlt es sich an gefangen genommen zu werden?
+Dialogue: 0,0:09:23.77,0:09:25.14,RnF_Voice,,0,0,0,,Ihr könnt euch nicht bewegen, oder?
+Dialogue: 0,0:09:28.60,0:09:30.40,RnF_Voice,,0,0,0,,Du bist also Koryuu.
+Dialogue: 0,0:09:30.44,0:09:31.48,RnF_Voice,,0,0,0,,Ich bring dich um, Schlampe!
+Dialogue: 0,0:09:32.02,0:09:33.73,RnF_Voice,,0,0,0,,Ich fürche, das kann ich nicht zulassen.
+Dialogue: 0,0:09:33.78,0:09:36.57,RnF_Voice,,0,0,0,,Ist immerhin eure eigene Schuld in unsere Falle zu tappen.
+Dialogue: 0,0:09:36.90,0:09:39.91,RnF_Voice,,0,0,0,,War doch auch zu einfach hier einzubrechen, oder?
+Dialogue: 0,0:09:40.49,0:09:45.33,RnF_Voice,,0,0,0,,Eine Falle? Dann waren die Geheiminformationen über eine Milchfabrik hier...
+Dialogue: 0,0:09:45.37,0:09:46.87,RnF_Voice,,0,0,0,,...fingiert. Was sonst!
+Dialogue: 0,0:09:46.91,0:09:50.42,RnF_Voice,,0,0,0,,Die zurzeit stattfindende Straßenschlacht, geht auch auf unser Konto.
+Dialogue: 0,0:09:51.17,0:09:52.30,RnF_Voice,,0,0,0,,Was habt ihr vor?
+Dialogue: 0,0:09:52.88,0:09:54.38,RnF_Voice,,0,0,0,,Was wir vorhaben?
+Dialogue: 0,0:09:54.42,0:09:56.01,RnF_Voice,,0,0,0,,Störenfriede wie euch beseitigen!
+Dialogue: 0,0:09:57.13,0:10:01.20,RnF_Voice,,0,0,0,,Diese Schnüfflerin, die wir vor zwei Jahren geschnappt haben...
+Dialogue: 0,0:10:01.20,0:10:02.45,RnF_Voice,,0,0,0,,Anna, nicht wahr?
+Dialogue: 0,0:10:03.06,0:10:05.56,RnF_Voice,,0,0,0,,Sie ist deine kleine Schwester, oder?
+Dialogue: 0,0:10:06.39,0:10:10.27,RnF_Voice,,0,0,0,,Wie passend, dass nun auch ihre Schwester ihr Schicksal teilt und in eine Kuh verhandelt wird.
+Dialogue: 0,0:10:11.52,0:10:13.07,RnF_Voice,,0,0,0,,Scheinst alles im Griff zu haben...
+Dialogue: 0,0:10:13.11,0:10:14.78,RnF_Voice,,0,0,0,,Aber so läuft das nicht!
+Dialogue: 0,0:10:15.65,0:10:17.11,RnF_Voice,,0,0,0,,Ich weiß worauf du anspielst.
+Dialogue: 0,0:10:17.15,0:10:23.12,RnF_Voice,,0,0,0,,Man hat euch GC-3 injiziert. Der Impfstoff, der euch immun gegen das Tentakelsperma machen soll.
+Dialogue: 0,0:10:23.16,0:10:26.16,RnF_Voice,,0,0,0,,Allerdings bedarf es lediglich ein paar kleiner Orgasmen...
+Dialogue: 0,0:10:32.21,0:10:36.38,RnF_Voice,,0,0,0,,...und die Schutzwirkung eures schwachen Impfstoffs verfliegt.
+Dialogue: 0,0:10:45.14,0:10:51.60,RnF_Voice,,0,0,0,,Mit anderen Worten, trotz eurem so mühsam hergestellten GC-3, könnt ihr schwanger werden.
+Dialogue: 0,0:10:51.65,0:10:52.90,RnF_Voice,,0,0,0,,D-Du wirst doch nicht...
+Dialogue: 0,0:10:55.84,0:10:57.76,RnF_Voice,,0,0,0,,Und wie ich das werde!
+Dialogue: 0,0:10:57.78,0:11:00.82,RnF_Voice,,0,0,0,,Ich werde dir gestatten etwas "Spaß" zu haben, Rei-Oneesama.
+Dialogue: 0,0:11:09.19,0:11:10.10,RnF_Voice,,0,0,0,,Finger weg!
+Dialogue: 0,0:11:14.04,0:11:18.17,RnF_Voice,,0,0,0,,Unsere Schwänze wurden genetisch vergrößert.
+Dialogue: 0,0:11:18.84,0:11:20.80,RnF_Voice,,0,0,0,,Das wird dir bestimmt gefallen.
+Dialogue: 0,0:11:20.84,0:11:25.97,RnF_Voice,,0,0,0,,Wenn ihr glaubt eure Monsterschwänze, könnten mich befriedigen, habt ihr euch geschnitten!
+Dialogue: 0,0:11:26.01,0:11:28.68,RnF_Voice,,0,0,0,,Spiel ruhig die Starke, solange du noch kannst!
+Dialogue: 0,0:11:29.23,0:11:31.44,RnF_Voice,,0,0,0,,Nimm deine dreckigen Hände von mir!
+Dialogue: 0,0:11:31.48,0:11:37.00,RnF_Voice,,0,0,0,,Rei-Oneesama, du brauchst dich nicht zu zieren. Genieß es einfach, ja?
+Dialogue: 0,0:11:38.28,0:11:41.53,RnF_Voice,,0,0,0,,Vergiss nicht... Du bist nur ein Tier für uns!
+Dialogue: 0,0:11:50.54,0:11:51.66,RnF_Voice,,0,0,0,,Das tut weh!
+Dialogue: 0,0:11:52.16,0:11:55.50,RnF_Voice,,0,0,0,,Du schiebst ihn einfach ohne Gleitmittel in mich?!
+Dialogue: 0,0:11:55.54,0:11:58.05,RnF_Voice,,0,0,0,,Ihr Schwachköpfe wisst noch nicht einmal, {\i1}wie{\i0} man eine Frau befriedigt!
+Dialogue: 0,0:11:59.44,0:12:00.95,RnF_Voice,,0,0,0,,Aufhören!
+Dialogue: 0,0:12:02.72,0:12:04.39,RnF_Voice,,0,0,0,,Gefällt mir, wie du schreist!
+Dialogue: 0,0:12:04.43,0:12:05.68,RnF_Voice,,0,0,0,,Das wird ein Spaß!
+Dialogue: 0,0:12:07.66,0:12:08.79,RnF_Voice,,0,0,0,,{\i1}So dick...{\i0}
+Dialogue: 0,0:12:08.81,0:12:10.68,RnF_Voice,,0,0,0,,{\i1}Ich spüre es in meiner Gebärmutter...{\i0}
+Dialogue: 0,0:12:11.39,0:12:14.40,RnF_Voice,,0,0,0,,{\i1}Aber das kann ich ertragen.{\i0}
+Dialogue: 0,0:12:14.98,0:12:17.69,RnF_Voice,,0,0,0,,{\i1}Ich darf nur nicht kommen... unter keinen Unständen!{\i0}
+Dialogue: 0,0:12:19.61,0:12:21.67,RnF_Voice,,0,0,0,,Sie wird bereits feucht...
+Dialogue: 0,0:12:22.99,0:12:24.32,RnF_Voice,,0,0,0,,Das ist phantastisch!
+Dialogue: 0,0:12:24.53,0:12:26.78,RnF_Voice,,0,0,0,,Ihre Muschi will mich regelrecht auswringen!
+Dialogue: 0,0:12:28.78,0:12:30.62,RnF_Voice,,0,0,0,,Verarsch mich nicht!
+Dialogue: 0,0:12:30.66,0:12:34.04,RnF_Voice,,0,0,0,,Es fühlt sich nicht gut an, überhaupt nicht!
+Dialogue: 0,0:12:34.37,0:12:37.69,RnF_Voice,,0,0,0,,Wem könnte so etwas... schon gefallen!?
+Dialogue: 0,0:12:38.29,0:12:42.01,RnF_Voice,,0,0,0,,Seltsame Worte... die zwischen dem wilden Gestöhne kaum zu verstehen sind!
+Dialogue: 0,0:12:42.05,0:12:43.40,RnF_Voice,,0,0,0,,Was sagt du, Fräulein Spezialagentin?
+Dialogue: 0,0:12:44.34,0:12:46.84,RnF_Voice,,0,0,0,,Gefällt dir wohl, hmm?
+Dialogue: 0,0:12:48.18,0:12:52.83,RnF_Voice,,0,0,0,,Wenn ihr eure stinkenden Schwänze... in mich stoßt...
+Dialogue: 0,0:12:52.89,0:12:54.48,RnF_Voice,,0,0,0,,...erregt mich das überhaupt nicht!
+Dialogue: 0,0:12:56.48,0:12:58.06,RnF_Voice,,0,0,0,,Ganz schön vorlaut...
+Dialogue: 0,0:12:58.11,0:12:59.61,RnF_Voice,,0,0,0,,Bringt sie zum Schweigen!
+Dialogue: 0,0:13:01.36,0:13:04.32,RnF_Voice,,0,0,0,,Ich will diesen stinkenden, dreckigen Schwanz nicht in meinem Mund!
+Dialogue: 0,0:13:12.12,0:13:13.70,RnF_Voice,,0,0,0,,Genau wie ihre kleine Schwester...
+Dialogue: 0,0:13:14.46,0:13:16.12,RnF_Voice,,0,0,0,,Also dann, als nächstes...
+Dialogue: 0,0:13:20.67,0:13:22.34,RnF_Voice,,0,0,0,,Wie grausam...
+Dialogue: 0,0:13:28.68,0:13:31.43,RnF_Voice,,0,0,0,,Mach dir um sie keine Sorgen.
+Dialogue: 0,0:13:31.47,0:13:34.35,RnF_Voice,,0,0,0,,Sie wird schon bald vor Freude jauchzen.
+Dialogue: 0,0:13:35.14,0:13:37.56,RnF_Voice,,0,0,0,,Bitte hört auf so grausame Dinge zu tun.
+Dialogue: 0,0:13:37.60,0:13:39.36,RnF_Voice,,0,0,0,,Wie könnt ihr anderen Frauen nur so etwas antun?
+Dialogue: 0,0:13:42.23,0:13:44.07,RnF_Voice,,0,0,0,,Macht das nicht! Bitte!
+Dialogue: 0,0:13:53.56,0:13:55.18,RnF_Voice,,0,0,0,,N-Nein!
+Dialogue: 0,0:13:57.92,0:13:59.88,RnF_Voice,,0,0,0,,Bitte, schaut weg!
+Dialogue: 0,0:14:00.86,0:14:01.98,RnF_Voice,,0,0,0,,Aufhören!
+Dialogue: 0,0:14:02.00,0:14:05.63,RnF_Voice,,0,0,0,,Ach herrje, Fuko-Oneechan... Du bist ja triefend nass!
+Dialogue: 0,0:14:06.34,0:14:10.64,RnF_Voice,,0,0,0,,Muss dich ja ganz schön erregt haben zu sehen, wie Rei-Oneesama von denen durchgefickt wird.
+Dialogue: 0,0:14:11.39,0:14:14.22,RnF_Voice,,0,0,0,,Nein! Das stimmt nicht!
+Dialogue: 0,0:14:14.27,0:14:17.64,RnF_Voice,,0,0,0,,Hm? Ist Fuko-Oneechan etwa noch Jungfrau?
+Dialogue: 0,0:14:18.52,0:14:20.19,RnF_Voice,,0,0,0,,So ein versautes Mädchen.
+Dialogue: 0,0:14:20.23,0:14:25.65,RnF_Voice,,0,0,0,,Obwohl du noch Jungfrau bist, erregt es dich zu sehen wie deine Partnerin vergewaltigt wird.
+Dialogue: 0,0:14:26.32,0:14:29.24,RnF_Voice,,0,0,0,,Das... Das stimmt nicht.
+Dialogue: 0,0:14:29.66,0:14:30.66,RnF_Voice,,0,0,0,,Lecker...
+Dialogue: 0,0:14:31.32,0:14:33.91,RnF_Voice,,0,0,0,,Was machst du?! Lass das!!
+Dialogue: 0,0:14:36.58,0:14:40.62,RnF_Voice,,0,0,0,,Fuko-Oneechan, du bist vielleicht sensibel...
+Dialogue: 0,0:14:40.94,0:14:42.23,RnF_Voice,,0,0,0,,Aufhören...
+Dialogue: 0,0:14:45.67,0:14:48.32,RnF_Voice,,0,0,0,,{\i1}Nein... Was ist das nur?{\i0}
+Dialogue: 0,0:14:48.32,0:14:50.20,RnF_Voice,,0,0,0,,{\i1}Mein ganzer Körper kribbelt...{\i0}
+Dialogue: 0,0:14:50.84,0:14:52.95,RnF_Voice,,0,0,0,,{\i1}Fühlt es sich so an?{\i0}
+Dialogue: 0,0:14:53.01,0:14:54.89,RnF_Voice,,0,0,0,,{\i1}Nein! Ich darf nichts empfinden!{\i0}
+Dialogue: 0,0:14:55.97,0:14:58.14,RnF_Voice,,0,0,0,,{\i1}Der Impfstoff wird nachlassen!{\i0}
+Dialogue: 0,0:14:58.18,0:14:59.94,RnF_Voice,,0,0,0,,{\i1}Ich muss widerstehen!{\i0}
+Dialogue: 0,0:15:01.77,0:15:04.40,RnF_Voice,,0,0,0,,{\i1}Rei-san macht viel Schlimmeres durch und widersteht!{\i0}
+Dialogue: 0,0:15:05.44,0:15:06.69,RnF_Voice,,0,0,0,,{\i1}Ich werde noch feuchter!{\i0}
+Dialogue: 0,0:15:07.40,0:15:09.99,RnF_Voice,,0,0,0,,Fuko-Oneechan, das fühlt sich doch gut an, oder?
+Dialogue: 0,0:15:10.03,0:15:11.70,RnF_Voice,,0,0,0,,Es erregt dich, oder?
+Dialogue: 0,0:15:12.36,0:15:14.62,RnF_Voice,,0,0,0,,Es erregt mich... nicht...
+Dialogue: 0,0:15:14.66,0:15:16.70,RnF_Voice,,0,0,0,,Es fühlt sich überhaupt nicht gut an.
+Dialogue: 0,0:15:17.75,0:15:19.79,RnF_Voice,,0,0,0,,Tja... Und wie steht's hiermit?
+Dialogue: 0,0:15:21.75,0:15:25.17,RnF_Voice,,0,0,0,,Nicht! Nein! Nein! Nein! Bitte nicht!
+Dialogue: 0,0:15:27.00,0:15:28.01,RnF_Voice,,0,0,0,,Sag es einfach.
+Dialogue: 0,0:15:28.05,0:15:30.72,RnF_Voice,,0,0,0,,Sag einfach, dass es sich gut anfühlt. Mach schon!
+Dialogue: 0,0:15:34.97,0:15:36.31,RnF_Voice,,0,0,0,,Es fühlt sich gut an.
+Dialogue: 0,0:15:36.60,0:15:38.22,RnF_Voice,,0,0,0,,Es fühlt sich verdammt gut an!
+Dialogue: 0,0:15:40.06,0:15:41.23,RnF_Voice,,0,0,0,,Willst du kommen?
+Dialogue: 0,0:15:42.52,0:15:44.69,RnF_Voice,,0,0,0,,Ich will kommen. Bitte lass mich kommen!
+Dialogue: 0,0:15:44.98,0:15:47.23,RnF_Voice,,0,0,0,,Ich bitte dich, lass mich kommen!
+Dialogue: 0,0:15:48.73,0:15:52.53,RnF_Voice,,0,0,0,,Ich komme!!
+Dialogue: 0,0:15:57.12,0:16:00.12,RnF_Voice,,0,0,0,,Du bist wunderschön, Fuko-Oneechan.
+Dialogue: 0,0:16:02.41,0:16:03.58,RnF_Voice,,0,0,0,,Hey, ihr!
+Dialogue: 0,0:16:04.71,0:16:06.84,RnF_Voice,,0,0,0,,Was?! Was passiert hier?
+Dialogue: 0,0:16:07.21,0:16:10.76,RnF_Voice,,0,0,0,,Als nächstes spielt ihr eine Weile mit Fuko-Oneechan.
+Dialogue: 0,0:16:11.26,0:16:13.84,RnF_Voice,,0,0,0,,Allerdings... dürft ihr sie nicht entjungfern!
+Dialogue: 0,0:16:13.88,0:16:14.51,RnF_Voice,,0,0,0,,Verstanden?
+Dialogue: 0,0:16:15.03,0:16:16.24,RnF_Voice,,0,0,0,,Bitte nicht...
+Dialogue: 0,0:16:16.26,0:16:17.22,RnF_Voice,,0,0,0,,Bitte!
+Dialogue: 0,0:16:17.64,0:16:20.20,RnF_Voice,,0,0,0,,Kein Grund zur Sorge.
+Dialogue: 0,0:16:20.22,0:16:22.98,RnF_Voice,,0,0,0,,Du darfst deine Jungfräulichkeit behalten.
+Dialogue: 0,0:16:33.90,0:16:35.30,RnF_Voice,,0,0,0,,Was ist das denn für Sperma!?
+Dialogue: 0,0:16:35.32,0:16:37.16,RnF_Voice,,0,0,0,,Es stinkt, man kann's kaum aushalten!
+Dialogue: 0,0:16:37.20,0:16:39.64,RnF_Voice,,0,0,0,,Sträubt sie sich noch immer?
+Dialogue: 0,0:16:39.66,0:16:43.00,RnF_Voice,,0,0,0,,Wie nicht anders zu erwarten von einer Elite-Spezialagentin!
+Dialogue: 0,0:16:43.79,0:16:45.40,RnF_Voice,,0,0,0,,Hey! Was habt ihr vor?
+Dialogue: 0,0:16:45.42,0:16:46.50,RnF_Voice,,0,0,0,,Nicht dort!
+Dialogue: 0,0:16:46.96,0:16:48.84,RnF_Voice,,0,0,0,,Oh? Dein erstes mal anal?
+Dialogue: 0,0:16:48.86,0:16:49.69,RnF_Voice,,0,0,0,,Lasst das!
+Dialogue: 0,0:16:49.71,0:16:50.50,RnF_Voice,,0,0,0,,Nicht dort!
+Dialogue: 0,0:16:52.55,0:16:53.63,RnF_Voice,,0,0,0,,Gefällt's dir?
+Dialogue: 0,0:16:57.34,0:16:59.47,RnF_Voice,,0,0,0,,Das tut weh! Aufhören!
+Dialogue: 0,0:16:59.51,0:17:02.89,RnF_Voice,,0,0,0,,Woah! Verdammt eng! Einfach unbeschreiblich...
+Dialogue: 0,0:17:06.19,0:17:08.52,RnF_Voice,,0,0,0,,Das tut weh! Nicht bewegen!
+Dialogue: 0,0:17:08.56,0:17:10.02,RnF_Voice,,0,0,0,,Ich breche auseinander!
+Dialogue: 0,0:17:11.61,0:17:12.92,RnF_Voice,,0,0,0,,Wir hören aber nicht auf!
+Dialogue: 0,0:17:14.65,0:17:16.53,RnF_Voice,,0,0,0,,Wir machen weiter bis du kommst!
+Dialogue: 0,0:17:19.45,0:17:23.00,RnF_Voice,,0,0,0,,{\i1}In meinem Innersten reiben sich zwei Schwänze.{\i0}
+Dialogue: 0,0:17:23.83,0:17:28.36,RnF_Voice,,0,0,0,,{\i1}Ich wurde in meinem Leben noch nie so gedemütigt. Aber ich muss widerstehen!{\i0}
+Dialogue: 0,0:17:28.42,0:17:32.07,RnF_Voice,,0,0,0,,{\i1}Wenn ich ihnen erliege, schwängern sie mich mit Tentakel-Eiern!{\i0}
+Dialogue: 0,0:17:33.21,0:17:34.51,RnF_Voice,,0,0,0,,Ich komme gleich!
+Dialogue: 0,0:17:35.13,0:17:36.13,RnF_Voice,,0,0,0,,Ich auch...
+Dialogue: 0,0:17:37.51,0:17:40.05,RnF_Voice,,0,0,0,,Nein! Nicht in mir!
+Dialogue: 0,0:17:40.10,0:17:42.56,RnF_Voice,,0,0,0,,Aufhören! Bewegt euch nicht so sehr!
+Dialogue: 0,0:17:42.60,0:17:44.56,RnF_Voice,,0,0,0,,Bitte! Ich breche auseinander!
+Dialogue: 0,0:17:49.90,0:17:52.65,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:18:00.41,0:18:01.35,RnF_Voice,,0,0,0,,Überstanden.
+Dialogue: 0,0:18:01.37,0:18:03.66,RnF_Voice,,0,0,0,,Ja, die erste Gruppe jedenfalls...
+Dialogue: 0,0:18:03.70,0:18:05.75,RnF_Voice,,0,0,0,,Jetzt sind wir an der Reihe.
+Dialogue: 0,0:18:06.12,0:18:07.54,RnF_Voice,,0,0,0,,Wir mussten verdammt lange warten...
+Dialogue: 0,0:18:07.58,0:18:10.17,RnF_Voice,,0,0,0,,Also besorg's uns gründlich!
+Dialogue: 0,0:18:10.92,0:18:12.13,RnF_Voice,,0,0,0,,{\i1}Ich muss widerstehen!{\i0}
+Dialogue: 0,0:18:12.17,0:18:13.13,RnF_Voice,,0,0,0,,{\i1}Ich muss!{\i0}
+Dialogue: 0,0:18:36.07,0:18:37.69,RnF_Voice,,0,0,0,,Ich komme!
+Dialogue: 0,0:18:38.82,0:18:41.78,RnF_Voice,,0,0,0,,Fuko-Oneechan, du bist ja schon wieder gekommen...
+Dialogue: 0,0:18:41.82,0:18:43.33,RnF_Voice,,0,0,0,,Das wievielte mal war das wohl?
+Dialogue: 0,0:18:43.83,0:18:46.87,RnF_Voice,,0,0,0,,Du bist mir vielleicht eine kleine Hure mit Unschuldsmiene.
+Dialogue: 0,0:18:46.91,0:18:47.58,RnF_Voice,,0,0,0,,{\i1}Nein...{\i0}
+Dialogue: 0,0:18:47.62,0:18:48.66,RnF_Voice,,0,0,0,,{\i1}Was passiert mit mir?{\i0}
+Dialogue: 0,0:18:48.71,0:18:50.42,RnF_Voice,,0,0,0,,{\i1}Sie haben mich unzählige male vergewaltigt.{\i0}
+Dialogue: 0,0:18:50.46,0:18:52.54,RnF_Voice,,0,0,0,,{\i1}Und ich bin unzählige male gekommen...{\i0}
+Dialogue: 0,0:18:52.58,0:18:54.04,RnF_Voice,,0,0,0,,{\i1}Und es erregt mich jedesmal erneut?{\i0}
+Dialogue: 0,0:18:55.05,0:18:57.59,RnF_Voice,,0,0,0,,{\i1}Bin ich wirklich eine Hure?{\i0}
+Dialogue: 0,0:19:03.10,0:19:05.06,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:19:05.10,0:19:07.72,RnF_Voice,,0,0,0,,Hey, ihr! Dachte ich hätte mich klar ausgedrückt!
+Dialogue: 0,0:19:07.77,0:19:09.14,RnF_Voice,,0,0,0,,Dringt nicht in sie ein!
+Dialogue: 0,0:19:10.10,0:19:14.52,RnF_Voice,,0,0,0,,Wenn Fuko-Oneechan allerdings selbst darum bittet...
+Dialogue: 0,0:19:15.77,0:19:17.73,RnF_Voice,,0,0,0,,...dann gestatte ich die Penetration.
+Dialogue: 0,0:19:19.07,0:19:21.99,RnF_Voice,,0,0,0,,Das... will ich aber nicht...
+Dialogue: 0,0:19:22.28,0:19:23.22,RnF_Voice,,0,0,0,,Wirklich?
+Dialogue: 0,0:19:24.37,0:19:26.24,RnF_Voice,,0,0,0,,Nein! Bitte nicht!
+Dialogue: 0,0:19:26.29,0:19:27.08,RnF_Voice,,0,0,0,,Nicht das!
+Dialogue: 0,0:19:29.66,0:19:30.96,RnF_Voice,,0,0,0,,Du willst ihn, oder?
+Dialogue: 0,0:19:31.37,0:19:33.75,RnF_Voice,,0,0,0,,In Wahrheit willst du diesen Schwanz in dir, oder?
+Dialogue: 0,0:19:35.17,0:19:37.96,RnF_Voice,,0,0,0,,Hört auf... Hört doch auf...
+Dialogue: 0,0:19:39.13,0:19:40.67,RnF_Voice,,0,0,0,,Nun?
+Dialogue: 0,0:19:40.72,0:19:43.09,RnF_Voice,,0,0,0,,Schau nur, sieht der nicht lecker aus?
+Dialogue: 0,0:19:43.14,0:19:46.81,RnF_Voice,,0,0,0,,Sag schon. Sag, wie gerne du diesen Schwanz hättest.
+Dialogue: 0,0:19:47.18,0:19:51.52,RnF_Voice,,0,0,0,,Sag:"Schiebt mir diesen dreckigen Schwanz in meine dreckige Muschi!"
+Dialogue: 0,0:19:52.81,0:19:53.85,RnF_Voice,,0,0,0,,{\i1}Nein...{\i0}
+Dialogue: 0,0:19:53.90,0:19:55.36,RnF_Voice,,0,0,0,,{\i1}Ich kann nicht mehr...{\i0}
+Dialogue: 0,0:19:55.40,0:19:56.86,RnF_Voice,,0,0,0,,Komm schon, sag es.
+Dialogue: 0,0:19:56.90,0:19:58.03,RnF_Voice,,0,0,0,,Sei ehrlich.
+Dialogue: 0,0:20:00.69,0:20:02.53,RnF_Voice,,0,0,0,,{\fs24}Einen Schwanz, bitte...
+Dialogue: 0,0:20:03.32,0:20:05.24,RnF_Voice,,0,0,0,,Sprich lauter!
+Dialogue: 0,0:20:06.28,0:20:07.78,RnF_Voice,,0,0,0,,Gebt mir einen Schwanz!
+Dialogue: 0,0:20:07.83,0:20:12.79,RnF_Voice,,0,0,0,,Schiebt einen dreckigen Schwanz in meine triefende Fotze und stoßt heftig zu!
+Dialogue: 0,0:20:13.54,0:20:15.63,RnF_Voice,,0,0,0,,Stoßt zu und lasst mich kommen!
+Dialogue: 0,0:20:15.67,0:20:17.00,RnF_Voice,,0,0,0,,Ich flehe euch an!
+Dialogue: 0,0:20:22.34,0:20:25.34,RnF_Voice,,0,0,0,,Koryuu-sama, die Vorbereitungen sind abgeschlossen.
+Dialogue: 0,0:20:25.39,0:20:26.43,RnF_Voice,,0,0,0,,Verstehe...
+Dialogue: 0,0:20:26.47,0:20:31.18,RnF_Voice,,0,0,0,,Um die Wahrheit zu sagen... Ich habe etwas ganz spezielles für dich vorbereitet, Fuko-Oneechan.
+Dialogue: 0,0:20:31.22,0:20:33.17,RnF_Voice,,0,0,0,,Ich frag mich, ob es dir gefallen wird...
+Dialogue: 0,0:20:37.06,0:20:42.13,RnF_Voice,,0,0,0,,Der perfekte Partner für deine Entjungferung.
+Dialogue: 0,0:20:43.07,0:20:46.57,RnF_Voice,,0,0,0,,{\i1}Rei-san... Ich bin so oft gekommen.{\i0}
+Dialogue: 0,0:20:47.12,0:20:51.83,RnF_Voice,,0,0,0,,{\i1}Die Wirkung des Impfstoffs hat bestimmt drastisch nachgelassen.{\i0}
+Dialogue: 0,0:20:51.87,0:20:54.16,RnF_Voice,,0,0,0,,{\i1}Während du so willensstark dagegen ankämpfst...{\i0}
+Dialogue: 0,0:20:54.46,0:20:55.75,RnF_Voice,,0,0,0,,{\i1}Es tut mir so leid.{\i0}
+Dialogue: 0,0:21:03.01,0:21:04.22,RnF_Voice,,0,0,0,,{\i1}Das ist schlecht.{\i0}
+Dialogue: 0,0:21:04.26,0:21:06.76,RnF_Voice,,0,0,0,,{\i1}Es beginnt sich richtig gut anzufühlen.{\i0}
+Dialogue: 0,0:21:06.80,0:21:09.60,RnF_Voice,,0,0,0,,{\i1}Ich muss mich auf etwas anderes konzentrieren!{\i0}
+Dialogue: 0,0:21:17.27,0:21:20.44,RnF_Voice,,0,0,0,,Wir spritzen pausenlos in dich und du bist noch immer nicht gekommen!?
+Dialogue: 0,0:21:20.48,0:21:22.69,RnF_Voice,,0,0,0,,Wie oft sind wir schon in dir gekommen?
+Dialogue: 0,0:21:25.03,0:21:27.07,RnF_Voice,,0,0,0,,{\i1}Wie oft?{\i0}
+Dialogue: 0,0:21:27.11,0:21:30.28,RnF_Voice,,0,0,0,,{\i1}Scheiß egal! Eure dreckigen Schwänze können es mir nicht besorgen!{\i0}
+Dialogue: 0,0:21:34.54,0:21:35.41,RnF_Voice,,0,0,0,,Ich komme!
+Dialogue: 0,0:21:38.63,0:21:40.59,RnF_Voice,,0,0,0,,Ist es jetzt... vorbei?
+Dialogue: 0,0:21:45.47,0:21:46.34,RnF_Voice,,0,0,0,,Schaut euch das an.
+Dialogue: 0,0:21:46.38,0:21:49.26,RnF_Voice,,0,0,0,,Ihr Bäuchleich ist geschwollen mit unserem Sperma.
+Dialogue: 0,0:21:49.30,0:21:51.22,RnF_Voice,,0,0,0,,Das tut weh. Hör auf!
+Dialogue: 0,0:21:51.26,0:21:52.51,RnF_Voice,,0,0,0,,Woah! Wahnsinn!
+Dialogue: 0,0:21:52.56,0:21:54.14,RnF_Voice,,0,0,0,,Das macht Spaß!
+Dialogue: 0,0:21:55.18,0:21:56.77,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:21:58.85,0:22:01.44,RnF_Voice,,0,0,0,,Hey, wir haben aufgehört dich durchzuficken.
+Dialogue: 0,0:22:01.48,0:22:02.57,RnF_Voice,,0,0,0,,Hast du vielleicht ein Problem damit?
+Dialogue: 0,0:22:05.17,0:22:07.38,RnF_Voice,,0,0,0,,{\i1}Warum fühlt sich das so gut an?{\i0}
+Dialogue: 0,0:22:07.38,0:22:08.91,RnF_Voice,,0,0,0,,{\i1}Warum erregt es mich so?{\i0}
+Dialogue: 0,0:22:09.74,0:22:12.49,RnF_Voice,,0,0,0,,{\i1}Was passiert nur mit meinem Körper?{\i0}
+Dialogue: 0,0:22:12.53,0:22:13.74,RnF_Voice,,0,0,0,,{\i1}Nein! Nein! Nein!{\i0}
+Dialogue: 0,0:22:13.79,0:22:15.10,RnF_Voice,,0,0,0,,{\i1}Ich darf nichts spüren!{\i0}
+Dialogue: 0,0:22:15.10,0:22:16.31,RnF_Voice,,0,0,0,,Diese Schlampe...
+Dialogue: 0,0:22:16.33,0:22:17.41,RnF_Voice,,0,0,0,,...bepisst sich vor uns.
+Dialogue: 0,0:22:18.04,0:22:20.50,RnF_Voice,,0,0,0,,Nein! Nicht hinsehen!
+Dialogue: 0,0:22:21.42,0:22:23.50,RnF_Voice,,0,0,0,,Was für ein ungezogenes Haustier.
+Dialogue: 0,0:22:23.55,0:22:24.84,RnF_Voice,,0,0,0,,Das gehört bestraft!
+Dialogue: 0,0:22:25.46,0:22:26.63,RnF_Voice,,0,0,0,,Bitte nicht!
+Dialogue: 0,0:22:28.43,0:22:30.30,RnF_Voice,,0,0,0,,Das erregt sie auch noch!
+Dialogue: 0,0:22:31.39,0:22:33.72,RnF_Voice,,0,0,0,,Ich bin nicht erregt! Bin ich nicht!
+Dialogue: 0,0:22:34.85,0:22:39.06,RnF_Voice,,0,0,0,,{\i1}Und wie es mich erregt! Meine Muschi könnte nicht erregter sein.{\i0}
+Dialogue: 0,0:22:39.10,0:22:40.23,RnF_Voice,,0,0,0,,{\i1}Reiß dich zusammen, Rei.{\i0}
+Dialogue: 0,0:22:40.27,0:22:42.21,RnF_Voice,,0,0,0,,{\i1}Du darfst nicht kommen!{\i0}
+Dialogue: 0,0:22:42.23,0:22:45.23,RnF_Voice,,0,0,0,,Das hat meinen Schwanz wieder auf Touren gebracht.
+Dialogue: 0,0:22:45.28,0:22:46.69,RnF_Voice,,0,0,0,,Ja, meinen auch...
+Dialogue: 0,0:22:46.74,0:22:48.97,RnF_Voice,,0,0,0,,Hey, Schlampe! Auf alle viere mit dir!
+Dialogue: 0,0:22:55.54,0:22:58.33,RnF_Voice,,0,0,0,,Diesmal werden wir's dir garantiert besorgen!
+Dialogue: 0,0:23:03.13,0:23:04.59,RnF_Voice,,0,0,0,,{\i1}Ich kann nicht mehr...{\i0}
+Dialogue: 0,0:23:04.63,0:23:06.59,RnF_Voice,,0,0,0,,{\i1}Ich spüre wie es in mir pulsiert.{\i0}
+Dialogue: 0,0:23:09.51,0:23:12.30,RnF_Voice,,0,0,0,,{\i1}Fuko... geht's dir gut?{\i0}
+Dialogue: 0,0:23:12.93,0:23:16.58,RnF_Voice,,0,0,0,,{\i1\fad(0,840)}Ich glaube, ich schaffe es nicht...{\i0}
+Dialogue: 0,0:23:24.68,0:24:53.14,RnF_Box2,,0,0,0,,{\pos(0,720)\p1}m 0 0 l 960 0 960 58 0 58{\p0}
+Dialogue: 0,0:23:24.68,0:24:53.14,RnF_Box2,,0,0,0,,{\pos(0,84)\p1}m 0 0 l 960 0 960 84 0 84{\p0}
+Dialogue: 0,0:23:25.12,0:23:32.47,RnF_End1,,0,0,0,,Einst hatte ich Träume. Doch nach einigen Fehlschlägen, gab ich sie auf.
+Dialogue: 0,0:23:32.47,0:23:39.70,RnF_End1,,0,0,0,,All meine damaligen Gefühle waren unreif.
+Dialogue: 0,0:23:39.70,0:23:47.20,RnF_End1,,0,0,0,,Die Zeit verstrich und je mehr ich weinte, umso mehr verstand ich.
+Dialogue: 0,0:23:47.20,0:23:54.14,RnF_End1,,0,0,0,,Ich lernte mich selbst und die Dinge, die ich liebte, zu beschützen.
+Dialogue: 0,0:23:54.14,0:24:01.59,RnF_End1,,0,0,0,,Ich ignoriere das Leid anderer, damit ich wachsen kann.
+Dialogue: 0,0:24:01.59,0:24:08.93,RnF_End1,,0,0,0,,In dieser Welt kannst du nur etwas auf Kosten anderer erreichen.
+Dialogue: 0,0:24:08.93,0:24:16.23,RnF_End1,,0,0,0,,Blickst du nach oben, siehst du wie sich das weite Universum über dir erstreckt.
+Dialogue: 0,0:24:16.23,0:24:23.64,RnF_End1,,0,0,0,,Aber die Regenwolken, die deinen Tränen entspringen, versperren dir die Sicht.
+Dialogue: 0,0:24:23.64,0:24:31.11,RnF_End1,,0,0,0,,Doch wenn du weinst und dich mir öffnest,
+Dialogue: 0,0:24:31.11,0:24:38.99,RnF_End1,,0,0,0,,werde ich zu einem Wind, der deine Sorgen fortweht.
+Dialogue: 0,0:24:38.99,0:24:43.59,RnF_End1,,0,0,0,,Für dich werde ich zum Sturm.
+Dialogue: 0,0:23:25.12,0:23:32.47,RnF_End2,,0,0,0,,ano koro no akogare tsumazuite wa akirameru dake\Nあの頃の憧れ躓いては諦めるだけ
+Dialogue: 0,0:23:32.47,0:23:39.70,RnF_End2,,0,0,0,,osana suigita kanjou jibun nante nakute\N幼な過ぎた感情自分なんてなくて
+Dialogue: 0,0:23:39.70,0:23:47.20,RnF_End2,,0,0,0,,sou shite toki nagarete naite wa wakatta bun dake\Nそうして時流れて泣いてはわかった分だけ
+Dialogue: 0,0:23:47.20,0:23:54.14,RnF_End2,,0,0,0,,mamoru koto mo oboeta daiji na mono mo dekite\N守ることも覚えた大事なものもできて
+Dialogue: 0,0:23:54.14,0:24:01.59,RnF_End2,,0,0,0,,kitto dareka no itami o mushi shite nari tatteru\Nきっと誰かの痛みを無視して成り立ってる
+Dialogue: 0,0:24:01.59,0:24:08.93,RnF_End2,,0,0,0,,kuraberu koto de shika kagayaku sube o shiranai sekai de\N比べることでしか輝くすべを知らない世界で
+Dialogue: 0,0:24:08.93,0:24:16.23,RnF_End2,,0,0,0,,miagereba hora hiroi uchuu ga me no mae ni hirogaru no ni\N見上げればほら広い宇宙が目の前に広がるのに
+Dialogue: 0,0:24:16.23,0:24:23.64,RnF_End2,,0,0,0,,kimi no namida ga tsukuru amagumo sono saki o tozashite shimau\N君の涙が作る雨雲その先を閉ざしてしまう
+Dialogue: 0,0:24:23.64,0:24:31.11,RnF_End2,,0,0,0,,kimi ga naite sono kage ga kiesou ni naru toki ni wa\N君が泣いてその影が消えそうになる時には
+Dialogue: 0,0:24:31.11,0:24:38.99,RnF_End2,,0,0,0,,boku wa sou kaze ni natte kimi no kokoro o utsushi dasu yo\N僕はそう風になって君の心を映し出すよ
+Dialogue: 0,0:24:38.99,0:24:43.59,RnF_End2,,0,0,0,,arashi o okoshite\N嵐を起こして

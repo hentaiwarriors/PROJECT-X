@@ -1,0 +1,283 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.795 - GridRefactory-5f8b1aa
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+YCbCr Matrix: TV.601
+Title: Nyan
+Collisions: Normal
+ScaledBorderAndShadow: yes
+Original Script: kostek00
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+Last Style Storage: [1280x720]
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.9,0,2,20,20,30,1
+Style: Default (i),Franklin Gothic Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.9,0,2,20,20,30,1
+Style: Default (top),Franklin Gothic Medium,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H003B0F8B,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,18,10,15,1
+Style: Anime,Franklin Gothic Medium,68,&H00FFFFFF,&H000000FF,&H003B0F8B,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,8,20,20,30,1
+Style: Tytul,Franklin Gothic Medium,54,&H00FFFFFF,&H000000FF,&H003B0F8B,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,2,20,20,30,1
+Style: Znak,Franklin Gothic Medium,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,10,1
+Style: OP Rom,Franklin Gothic Medium,46,&H00000000,&H00626262,&H00FB8C7B,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,10,10,15,1
+Style: OP Pl,Franklin Gothic Medium,46,&H00000000,&H00626262,&H00FB8C7B,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,2,20,20,30,1
+Style: ED Rom,Franklin Gothic Medium,46,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,10,10,15,1
+Style: ED Pl,Franklin Gothic Medium,46,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,2,20,20,30,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:03:03.00,0:03:08.40,Grupa,,0,0,0,,{\be1\fad(350,0)}Nyan
+Dialogue: 0,0:03:03.23,0:03:08.40,Anime,,0,0,0,,{\be1\fad(187,0)}Koutetsu no Majo Annerose
+Dialogue: 0,0:03:03.23,0:03:08.40,Tytul,,0,0,0,,{\be1\fad(187,0)}Sługa wiedźmy: Niewolnik
+Dialogue: 0,0:00:42.25,0:00:46.16,Default,,0,0,0,,{\be1}A co ty tu robisz, maleńka?
+Dialogue: 0,0:00:46.84,0:00:49.19,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:00:56.60,0:00:58.17,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:01:00.51,0:01:04.48,Default,,0,0,0,,{\be1}- Nie gwałćcie mnie!\N- Rikurou, ona przyszła do ciebie?! Zrób coś z nią!
+Dialogue: 0,0:01:04.48,0:01:06.22,Default,,0,0,0,,{\be1}Przecież wiem!
+Dialogue: 0,0:01:09.73,0:01:13.87,Default,,0,0,0,,{\be1}Uspokój się! Nazywasz się się Otonashi Miki?
+Dialogue: 0,0:01:19.33,0:01:23.01,Default,,0,0,0,,{\be1}Zaginął mój brat, chciałabym go odnaleźć.
+Dialogue: 0,0:01:24.15,0:01:29.91,Default,,0,0,0,,{\be1}Sama nie jestem w stanie go odnaleźć.
+Dialogue: 0,0:01:29.91,0:01:34.51,Default,,0,0,0,,{\be1}Ale sławna detektyw Annerose może się udać.
+Dialogue: 0,0:01:35.01,0:01:37.08,Default,,0,0,0,,{\be1}Tak powiedziała opalona kobieta.
+Dialogue: 0,0:01:37.52,0:01:38.78,Default,,0,0,0,,{\be1}Kto?
+Dialogue: 0,0:01:40.12,0:01:41.60,Default,,0,0,0,,{\be1}Mówisz o Aishu.
+Dialogue: 0,0:01:42.28,0:01:47.05,Default,,0,0,0,,{\be1}Dziwi mnie, że postanowiłaś\Nprzyjechać do tego miasta.
+Dialogue: 0,0:01:48.59,0:01:51.83,Default (i),,0,0,0,,{\be1}Amidahara, największe porzucone japońskie miasto.
+Dialogue: 0,0:01:52.59,0:01:55.95,Default (i),,0,0,0,,{\be1}Znane też jako miasto mroku.
+Dialogue: 0,0:01:55.95,0:01:59.33,Default (i),,0,0,0,,{\be1}Ludzie i demony mieszkające w jednym miejscu.
+Dialogue: 0,0:01:59.33,0:02:05.28,Default (i),,0,0,0,,{\be1}Morderstwa są tu na porządku dziennym.
+Dialogue: 0,0:02:08.29,0:02:13.58,Default,,0,0,0,,{\be1}Tachibana Rikurou, słuchasz?
+Dialogue: 0,0:02:14.56,0:02:16.50,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:02:19.14,0:02:21.14,Default,,0,0,0,,{\be1}Coś nie tak z moimi piersiami?
+Dialogue: 0,0:02:21.14,0:02:25.55,Default,,0,0,0,,{\be1}Nie, po prostu dawno\Nnie widziałem ludzkiej dziewczyny.
+Dialogue: 0,0:02:25.55,0:02:27.29,Default,,0,0,0,,{\be1}Ucieszyłem się.
+Dialogue: 0,0:02:28.40,0:02:33.00,Default,,0,0,0,,{\be1}Możesz mi zaufać, odnajdę twojego brata.
+Dialogue: 0,0:02:34.40,0:02:35.23,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:02:37.80,0:02:40.81,Default,,0,0,0,,{\be1}I co się rumienisz, głupi człowieku?!
+Dialogue: 0,0:02:42.29,0:02:43.81,Default,,0,0,0,,{\be1}Co ty odpierdalasz?!
+Dialogue: 0,0:02:44.80,0:02:47.28,Default,,0,0,0,,{\be1}Skończyłam zakupy, wracamy.
+Dialogue: 0,0:02:48.08,0:02:51.19,Default,,0,0,0,,{\be1}Zapytam Annerose w twoim imieniu.
+Dialogue: 0,0:02:51.19,0:02:52.62,Default,,0,0,0,,{\be1}Spotkajmy się tu jutro.
+Dialogue: 0,0:02:52.62,0:02:55.40,Default,,0,0,0,,{\be1}Rusz się, głupi człowieku!
+Dialogue: 0,0:03:09.65,0:03:13.19,Default,,0,0,0,,{\be1}Co z tobą?\NZa kogo się masz?
+Dialogue: 0,0:03:13.19,0:03:15.77,Default,,0,0,0,,{\be1}Za twoją panią, masz z tym problem?
+Dialogue: 0,0:03:15.77,0:03:20.29,Default,,0,0,0,,{\be1}Jesteś tylko pokojówką Annerose!\NNie rozkazuj mi!
+Dialogue: 0,0:03:20.29,0:03:25.81,Default,,0,0,0,,{\be1}Nie pyskuj, mówisz do demona.
+Dialogue: 0,0:03:26.35,0:03:31.22,Default,,0,0,0,,{\be1}Taka ładna na zewnątrz,\Npaskudna w środku.
+Dialogue: 0,0:03:32.07,0:03:34.03,Default,,0,0,0,,{\be1}Małe ostrzeżenie.
+Dialogue: 0,0:03:34.87,0:03:35.79,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:03:36.14,0:03:40.08,Default,,0,0,0,,{\be1}Zauważyłam, że dogadujesz się z Annerose.
+Dialogue: 0,0:03:40.08,0:03:42.50,Default,,0,0,0,,{\be1}Zapamiętaj sobie jedno, ona należy do mnie.
+Dialogue: 0,0:03:42.50,0:03:48.31,Default,,0,0,0,,{\be1}Stajesz się coraz większym problemem,\Nbędę musiała się ciebie pozbyć.
+Dialogue: 0,0:03:50.13,0:03:51.91,Default,,0,0,0,,{\be1}Michiko?
+Dialogue: 0,0:03:51.91,0:03:58.65,Default,,0,0,0,,{\be1}Powiem, że zjadł cię jakiś demon, głupi człowieku.
+Dialogue: 0,0:04:00.33,0:04:02.09,Default,,0,0,0,,{\be1}To nie jest śmieszne!
+Dialogue: 0,0:04:02.09,0:04:06.73,Default,,0,0,0,,{\be1}Bo nie żartowałam.\NGiń, głupi człowieku!
+Dialogue: 0,0:04:14.32,0:04:18.84,Default,,0,0,0,,{\be1}Pieseczki, chodźcie na papu.
+Dialogue: 0,0:04:37.43,0:04:41.41,Default,,0,0,0,,{\be1}Dzięki za ratunek! Jestem ci...
+Dialogue: 0,0:04:44.47,0:04:45.60,Default,,0,0,0,,{\be1}Podobasz mi się.
+Dialogue: 0,0:04:57.59,0:04:59.95,Default,,0,0,0,,{\be1}Od teraz jesteś mój.
+Dialogue: 0,0:05:00.80,0:05:03.75,Default,,0,0,0,,{\be1}Będziesz moim nieśmiertelnym sługą.
+Dialogue: 0,0:05:10.46,0:05:12.22,Default,,0,0,0,,{\be1}Obudziłeś się.
+Dialogue: 0,0:05:12.22,0:05:14.66,Default,,0,0,0,,{\be1}On już od dawna nie śpi.
+Dialogue: 0,0:05:15.65,0:05:19.67,Default,,0,0,0,,{\be1}Aishu? Co? Kiedy?
+Dialogue: 0,0:05:20.13,0:05:22.40,Default,,0,0,0,,{\be1}Pytasz od kiedy ci stoi?
+Dialogue: 0,0:05:22.95,0:05:24.46,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:05:27.48,0:05:34.22,Default,,0,0,0,,{\be1}Niezły, stoi ci odkąd się zregenerowałeś.
+Dialogue: 0,0:05:34.22,0:05:36.82,Default,,0,0,0,,{\be1}Anne wie którego fiuta wybrać.
+Dialogue: 0,0:05:37.86,0:05:42.82,Default,,0,0,0,,{\be1}A właśnie, to ty rozmawiałaś z Miki?
+Dialogue: 0,0:05:45.00,0:05:47.00,Default,,0,0,0,,{\be1}Masz na myśli dziewczynę z uzetką?
+Dialogue: 0,0:05:47.00,0:05:48.79,Default,,0,0,0,,{\be1}Dobrze, że ją spotkałeś.
+Dialogue: 0,0:05:50.38,0:05:53.09,Default,,0,0,0,,{\be1}Czemu to robisz?
+Dialogue: 0,0:05:53.09,0:05:56.76,Default,,0,0,0,,{\be1}Zaciekawiłeś mnie.
+Dialogue: 0,0:05:57.34,0:06:04.78,Default,,0,0,0,,{\be1}Czemu Annerose wybrała\Ntakiego nic nie znaczącego słodziaka?
+Dialogue: 0,0:06:05.41,0:06:07.91,Default,,0,0,0,,{\be1}Zdradź mi swoją tajemnicę.
+Dialogue: 0,0:06:08.56,0:06:10.41,Default,,0,0,0,,{\be1}Nie ma żadnej tajemnicy.
+Dialogue: 0,0:06:12.78,0:06:15.42,Default,,0,0,0,,{\be1}Nie mów o tym swojej pani.
+Dialogue: 0,0:06:21.08,0:06:23.66,Default,,0,0,0,,{\be1}Ale ci cieknie.
+Dialogue: 0,0:06:24.63,0:06:25.66,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:06:25.66,0:06:30.09,Default,,0,0,0,,{\be1}Lubię lizać facetom, którzy mi się podobają.
+Dialogue: 0,0:06:30.80,0:06:31.96,Default,,0,0,0,,{\be1}Aishu!
+Dialogue: 0,0:06:31.96,0:06:37.96,Default,,0,0,0,,{\be1}Tak mocno śmierdzi i jest gęsta, uwielbiam ją.
+Dialogue: 0,0:06:40.18,0:06:45.68,Default,,0,0,0,,{\be1}Podoba mi się twoje spojrzenie,\Nzajrzę ci w przyszłość.
+Dialogue: 0,0:06:47.15,0:06:48.43,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:06:59.53,0:07:02.03,Default,,0,0,0,,{\be1}To twoje pierwsze obciąganie?
+Dialogue: 0,0:07:03.24,0:07:05.06,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:07:07.47,0:07:16.93,Default,,0,0,0,,{\be1}Dobra, możesz mi go mocno wkładać do buzi.
+Dialogue: 0,0:07:16.93,0:07:18.18,Default,,0,0,0,,{\be1}Całego?
+Dialogue: 0,0:07:18.18,0:07:22.94,Default,,0,0,0,,{\be1}Do samego końca, zerżnij mi gardło!
+Dialogue: 0,0:07:25.93,0:07:29.06,Default,,0,0,0,,{\be1}Wkładaj do gardła!
+Dialogue: 0,0:07:29.06,0:07:31.13,Default,,0,0,0,,{\be1}- Aishu!\N- Dawaj!
+Dialogue: 0,0:07:36.38,0:07:42.14,Default,,0,0,0,,{\be1}Mocniej! Zerżnij mi gardło!
+Dialogue: 0,0:07:42.14,0:07:43.58,Default,,0,0,0,,{\be1}Aishu!
+Dialogue: 0,0:07:43.58,0:07:46.66,Default,,0,0,0,,{\be1}Kiedyś Anne też ci to zrobi!
+Dialogue: 0,0:07:46.66,0:07:52.08,Default,,0,0,0,,{\be1}Zawrzecie kontrakt\Ni będziesz mógł pieprzyć jej buźkę!
+Dialogue: 0,0:07:52.08,0:07:54.01,Default,,0,0,0,,{\be1}Annerose?
+Dialogue: 0,0:07:59.25,0:08:00.38,Default,,0,0,0,,{\be1}Niesamowite!
+Dialogue: 0,0:08:08.28,0:08:12.42,Default,,0,0,0,,{\be1}Jest taka pyszna.
+Dialogue: 0,0:08:20.70,0:08:22.16,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:08:22.16,0:08:25.70,Default,,0,0,0,,{\be1}To twój wewnętrzny świat.
+Dialogue: 0,0:08:25.70,0:08:30.71,Default,,0,0,0,,{\be1}Ledwie otarłam się o twoją moc i jest niesamowita.
+Dialogue: 0,0:08:30.71,0:08:33.83,Default,,0,0,0,,{\be1}Wypełniała twoją spermę.
+Dialogue: 0,0:08:33.83,0:08:36.99,Default,,0,0,0,,{\be1}To moja moc?
+Dialogue: 0,0:08:37.67,0:08:41.93,Default,,0,0,0,,{\be1}Twoja dusza została skradziona\Nprzez wiedźmę czyniąc cię nieumarłym.
+Dialogue: 0,0:08:41.93,0:08:46.04,Default,,0,0,0,,{\be1}Ale nie każdy może tak skończyć.
+Dialogue: 0,0:08:46.04,0:08:51.02,Default,,0,0,0,,{\be1}Twoja moc sprawiła, że mogłeś się taki stać.
+Dialogue: 0,0:08:51.02,0:08:51.71,Default,,0,0,0,,{\be1}Moja?
+Dialogue: 0,0:08:57.48,0:09:03.49,Default,,0,0,0,,{\be1}Nawet jeśli jesteś nieśmiertelny,\NMichiko zdecydowanie przesadziła.
+Dialogue: 0,0:09:04.40,0:09:08.68,Default,,0,0,0,,{\be1}Pomogę ci z nią.
+Dialogue: 0,0:09:11.00,0:09:12.96,Default,,0,0,0,,{\be1}Użyj tego.
+Dialogue: 0,0:09:12.96,0:09:14.30,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:09:14.30,0:09:18.03,Default,,0,0,0,,{\be1}Zagraj na nim, gdy zaśnie.
+Dialogue: 0,0:09:24.08,0:09:26.71,Default,,0,0,0,,{\be1}Wróciłem.
+Dialogue: 0,0:09:27.35,0:09:28.21,Default,,0,0,0,,{\be1}Rikurou.
+Dialogue: 0,0:09:30.02,0:09:33.08,Default,,0,0,0,,{\be1}Gdzie się podziewał mój niewolnik?
+Dialogue: 0,0:09:33.64,0:09:34.98,Default,,0,0,0,,{\be1}Annerose.
+Dialogue: 0,0:09:40.87,0:09:45.78,Default,,0,0,0,,{\be1}Przez twoją opieszałość sama musiałam gotować.
+Dialogue: 0,0:09:45.78,0:09:48.16,Default,,0,0,0,,{\be1}Michiko poćwiartowała mnie.
+Dialogue: 0,0:09:48.16,0:09:48.83,Default,,0,0,0,,{\be1}Znowu?
+Dialogue: 0,0:09:50.02,0:09:53.04,Default,,0,0,0,,{\be1}Ale i tak coś szybko wróciłeś.
+Dialogue: 0,0:09:53.43,0:09:55.77,Default,,0,0,0,,{\be1}Aishu mi pomogła.
+Dialogue: 0,0:09:56.93,0:09:57.54,Default,,0,0,0,,{\be1}Aishu?
+Dialogue: 0,0:09:59.21,0:10:02.87,Default,,0,0,0,,{\be1}Nie mogłam się z nią dogadać już od dziecka.
+Dialogue: 0,0:10:02.87,0:10:09.04,Default,,0,0,0,,{\be1}Nie dość, że lubi się wtrącać w cudze sprawy,\Nto jeszcze jest sadystyczną suką.
+Dialogue: 0,0:10:09.60,0:10:11.56,Default,,0,0,0,,{\be1}Radzę ci się z nią nie zadawać.
+Dialogue: 0,0:10:12.79,0:10:14.25,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:10:16.36,0:10:18.01,Default,,0,0,0,,{\be1}Idę spać.
+Dialogue: 0,0:10:18.01,0:10:22.82,Default,,0,0,0,,{\be1}Przez ciebie wypiłam z dużo.
+Dialogue: 0,0:10:22.82,0:10:24.98,Default,,0,0,0,,{\be1}Ja też idę spać.
+Dialogue: 0,0:10:24.98,0:10:29.81,Default,,0,0,0,,{\be1}Głupi człowiek może sam posprzątać.\NPożałujesz, jeśli się nie przyłożysz.
+Dialogue: 0,0:10:29.81,0:10:30.41,Default,,0,0,0,,{\be1}Zamknij mordę!
+Dialogue: 0,0:10:42.34,0:10:48.26,Default,,0,0,0,,{\be1}Nieważne co powie Annerose,\Nmuszę się zemścić na Michiko!
+Dialogue: 0,0:10:58.38,0:11:00.27,Default,,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:11:00.27,0:11:03.74,Default,,0,0,0,,{\be1}Co się dzieje?!\NNie mogę się ruszyć!
+Dialogue: 0,0:11:06.73,0:11:09.86,Default,,0,0,0,,{\be1}To jest moc Aishu?
+Dialogue: 0,0:11:09.86,0:11:13.15,Default,,0,0,0,,{\be1}Ty mi to zrobiłeś, prawda?
+Dialogue: 0,0:11:14.87,0:11:17.42,Default,,0,0,0,,{\be1}Ładnie wyglądasz.
+Dialogue: 0,0:11:17.42,0:11:20.42,Default,,0,0,0,,{\be1}Zamknij pysk i rozwiąż mnie!
+Dialogue: 0,0:11:20.42,0:11:22.20,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:11:22.20,0:11:27.43,Default,,0,0,0,,{\be1}Już zapomniałaś co mi zrobiłaś?
+Dialogue: 0,0:11:27.80,0:11:29.55,Default,,0,0,0,,{\be1}Niby co?
+Dialogue: 0,0:11:29.55,0:11:34.69,Default,,0,0,0,,{\be1}Tylko obcięłam ci głowę przy pierwszym\Nspotkaniu i dorzuciłam coś do jedzenie.
+Dialogue: 0,0:11:36.10,0:11:37.44,Default,,0,0,0,,{\be1}Było coś jeszcze?
+Dialogue: 0,0:11:37.44,0:11:40.60,Default,,0,0,0,,{\be1}Dzisiaj mnie poćwiartowałaś.
+Dialogue: 0,0:11:40.60,0:11:45.61,Default,,0,0,0,,{\be1}A tak, nawet rozrzuciłam\Npsie żarcie, żebyś miał towarzystwo.
+Dialogue: 0,0:11:45.61,0:11:48.05,Default,,0,0,0,,{\be1}Jesteś jak karaluch, ciężko cię zabić.
+Dialogue: 0,0:11:48.53,0:11:53.39,Default,,0,0,0,,{\be1}Rozumiem, że nie żałujesz swoich czynów.
+Dialogue: 0,0:11:54.21,0:11:55.83,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:11:55.83,0:11:58.70,Default,,0,0,0,,{\be1}Nie ruszaj się, bo mogę zrobić ci krzywdę.
+Dialogue: 0,0:12:00.42,0:12:01.92,Default,,0,0,0,,{\be1}Zimne!
+Dialogue: 0,0:12:03.42,0:12:04.88,Default,,0,0,0,,{\be1}Ej!
+Dialogue: 0,0:12:08.88,0:12:11.74,Default,,0,0,0,,{\be1}Czemu rozcinasz mi ubrania?!
+Dialogue: 0,0:12:12.55,0:12:14.41,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:12:16.84,0:12:17.75,Default,,0,0,0,,{\be1}Gotowe.
+Dialogue: 0,0:12:18.78,0:12:20.81,Default,,0,0,0,,{\be1}Niby co jest gotowe?!
+Dialogue: 0,0:12:20.81,0:12:22.75,Default,,0,0,0,,{\be1}Nie gap się, głupi człowieku!
+Dialogue: 0,0:12:23.23,0:12:27.49,Default,,0,0,0,,{\be1}Już nie jesteś taka twarda.
+Dialogue: 0,0:12:30.88,0:12:33.50,Default,,0,0,0,,{\be1}Nie dotykaj tam!
+Dialogue: 0,0:12:34.50,0:12:37.80,Default,,0,0,0,,{\be1}Aż tak to czujesz?
+Dialogue: 0,0:12:37.80,0:12:42.71,Default,,0,0,0,,{\be1}Dotykasz się, ty zboczony demonie?!
+Dialogue: 0,0:12:42.71,0:12:44.35,Default,,0,0,0,,{\be1}Nie...
+Dialogue: 0,0:12:48.25,0:12:51.62,Default,,0,0,0,,{\be1}Mów prawdę albo zrobię to!
+Dialogue: 0,0:12:53.77,0:12:56.59,Default,,0,0,0,,{\be1}Nie dotykam się!
+Dialogue: 0,0:12:57.18,0:13:02.56,Default,,0,0,0,,{\be1}Nie przyznasz się? A teraz?
+Dialogue: 0,0:13:06.71,0:13:08.21,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:13:10.94,0:13:14.40,Default,,0,0,0,,{\be1}Jesteś bardzo mokra!
+Dialogue: 0,0:13:16.59,0:13:22.16,Default,,0,0,0,,{\be1}Przestań! Dojdę!
+Dialogue: 0,0:13:22.16,0:13:24.92,Default,,0,0,0,,{\be1}Dojdę przez głupiego człowieka!
+Dialogue: 0,0:13:25.25,0:13:28.94,Default,,0,0,0,,{\be1}Dojdź, gdy dotykam twoją łechtaczkę!
+Dialogue: 0,0:13:28.94,0:13:32.92,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:13:46.23,0:13:52.24,Default,,0,0,0,,{\be1}- Coś zaczęło ci wylatywać.\N- Nie patrz!
+Dialogue: 0,0:13:52.24,0:13:56.32,Default,,0,0,0,,{\be1}Nie mogę przestać! Nie patrz!
+Dialogue: 0,0:13:56.32,0:13:59.53,Default,,0,0,0,,{\be1}Ale jesteś mokra.
+Dialogue: 0,0:13:59.53,0:14:02.29,Default,,0,0,0,,{\be1}Teraz wyglądasz ślicznie.
+Dialogue: 0,0:14:04.04,0:14:08.79,Default,,0,0,0,,{\be1}Nie wybaczę ci tego.
+Dialogue: 0,0:14:08.79,0:14:11.20,Default,,0,0,0,,{\be1}Spójrz tutaj.
+Dialogue: 0,0:14:11.87,0:14:16.24,Default,,0,0,0,,{\be1}O nie, chcesz mnie przelecieć?
+Dialogue: 0,0:14:16.90,0:14:19.37,Default,,0,0,0,,{\be1}O tak i to porządnie.
+Dialogue: 0,0:14:20.90,0:14:22.42,Default,,0,0,0,,{\be1}To twoja kara.
+Dialogue: 0,0:14:30.41,0:14:32.30,Default,,0,0,0,,{\be1}Wkładam.
+Dialogue: 0,0:14:39.37,0:14:43.54,Default,,0,0,0,,{\be1}Zapycham ci całą cipkę.
+Dialogue: 0,0:14:44.83,0:14:47.06,Default,,0,0,0,,{\be1}Jesteś dziewicą?
+Dialogue: 0,0:14:48.37,0:14:50.34,Default,,0,0,0,,{\be1}Pożałujesz!
+Dialogue: 0,0:14:50.84,0:14:57.10,Default,,0,0,0,,{\be1}Dobra, na znak odpowiedzialności\Nporządnie cię zerżnę!
+Dialogue: 0,0:15:04.31,0:15:06.20,Default,,0,0,0,,{\be1}Ssij moje palce!
+Dialogue: 0,0:15:07.25,0:15:10.97,Default,,0,0,0,,{\be1}Masz takie seksowne jęki!
+Dialogue: 0,0:15:10.97,0:15:13.70,Default,,0,0,0,,{\be1}Musi ci podobać mój kutas!
+Dialogue: 0,0:15:17.09,0:15:20.82,Default,,0,0,0,,{\be1}Boli, ale jest też przyjemnie!
+Dialogue: 0,0:15:23.16,0:15:27.54,Default,,0,0,0,,{\be1}Ten jeden raz się zgadzamy!
+Dialogue: 0,0:15:27.54,0:15:29.74,Default,,0,0,0,,{\be1}Jesteś moja!
+Dialogue: 0,0:15:29.74,0:15:34.02,Default,,0,0,0,,{\be1}Przestań wkładać! Rozerwiesz mnie!
+Dialogue: 0,0:15:34.02,0:15:39.25,Default,,0,0,0,,{\be1}Jak nie przestaniesz naprawdę stanę się twoja!
+Dialogue: 0,0:15:39.59,0:15:43.25,Default,,0,0,0,,{\be1}Dochodzę! Spuszczę się w środku!
+Dialogue: 0,0:15:43.25,0:15:48.23,Default,,0,0,0,,{\be1}Nie chcę być kobietą głupiego człowieka!\NNie spuszczaj się!
+Dialogue: 0,0:15:52.44,0:15:54.38,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:15:54.38,0:16:00.99,Default,,0,0,0,,{\be1}Spuszczasz się tak głęboko!
+Dialogue: 0,0:16:05.30,0:16:06.91,Default,,0,0,0,,{\be1}Było zajebiście.
+Dialogue: 0,0:16:07.21,0:16:09.08,Default,,0,0,0,,{\be1}Dobrze się czujesz?
+Dialogue: 0,0:16:10.26,0:16:11.92,Default,,0,0,0,,{\be1}Zaszlachtuję cię.
+Dialogue: 0,0:16:13.25,0:16:15.99,Default,,0,0,0,,{\be1}To chyba znaczy, że jeszcze nie jesteś moja.
+Dialogue: 0,0:16:16.77,0:16:19.06,Default,,0,0,0,,{\be1}Na dzisiaj rozejm, dobra?
+Dialogue: 0,0:16:20.36,0:16:23.00,Default,,0,0,0,,{\be1}Mogę cię jeszcze ukarać?
+Dialogue: 0,0:16:23.66,0:16:26.43,Default,,0,0,0,,{\be1}A rób co chcesz.
+Dialogue: 0,0:16:30.89,0:16:35.26,Default,,0,0,0,,{\be1}Jeszcze trochę i będziesz dziwką doskonałą.
+Dialogue: 0,0:16:38.67,0:16:39.44,Default,,0,0,0,,{\be1}Już ranek?!
+Dialogue: 0,0:16:40.15,0:16:42.61,Default,,0,0,0,,{\be1}Musze obudzić Annerose!
+Dialogue: 0,0:16:50.75,0:16:54.92,Default (i),,0,0,0,,{\be1}Gdy śpi wygląda tak bezbronnie.
+Dialogue: 0,0:16:56.31,0:17:02.13,Default (i),,0,0,0,,{\be1}Trudno uwierzyć, że to Stalowa Wiedźma,\Nktórej boi się cała Amidahara.
+Dialogue: 0,0:17:04.34,0:17:09.05,Default (i),,0,0,0,,{\be1}Tak długo się powstrzymywałem,\Nale już nie mogę!
+Dialogue: 0,0:17:11.84,0:17:15.01,Default (i),,0,0,0,,{\be1}Ale jeśli się obudzi...
+Dialogue: 0,0:17:24.88,0:17:29.83,Default (i),,0,0,0,,{\be1}Nie, będzie dobrze, zawsze doskwiera jej\Nniskie ciśnienie krwi z rana.
+Dialogue: 0,0:17:31.16,0:17:35.66,Default (i),,0,0,0,,{\be1}Odwagi! Jesteś facetem czy nie?
+Dialogue: 0,0:17:37.42,0:17:39.17,Default (i),,0,0,0,,{\be1}Cudowne!
+Dialogue: 0,0:17:40.83,0:17:42.64,Default,,0,0,0,,{\be1}Jakie miękkie!
+Dialogue: 0,0:17:43.33,0:17:48.85,Default,,0,0,0,,{\be1}Codziennie prowokuje mnie nimi!
+Dialogue: 0,0:17:56.37,0:18:00.89,Default,,0,0,0,,{\be1}Podnieca się? Cieszę się, że żyję!
+Dialogue: 0,0:18:05.35,0:18:09.90,Default,,0,0,0,,{\be1}Marzyłem o tych cyckach.
+Dialogue: 0,0:18:24.33,0:18:28.19,Default,,0,0,0,,{\be1}Nie wytrzymam! Zrobię to!
+Dialogue: 0,0:18:40.84,0:18:48.17,Default,,0,0,0,,{\be1}Czyżby udawała, że śpi i chce mnie?
+Dialogue: 0,0:18:52.60,0:18:56.48,Default,,0,0,0,,{\be1}Tak mocno sterczą jej sutki!
+Dialogue: 0,0:18:57.96,0:19:01.45,Default,,0,0,0,,{\be1}Podnieca ją mój kutas!
+Dialogue: 0,0:19:03.39,0:19:09.37,Default,,0,0,0,,{\be1}Jej cycki są taki miękkie i gorące!
+Dialogue: 0,0:19:18.08,0:19:20.59,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:19:29.95,0:19:34.76,Default,,0,0,0,,{\be1}Niesamowite, ospermiłem Annerose!
+Dialogue: 0,0:19:43.80,0:19:48.75,Default,,0,0,0,,{\be1}Masz, wypij resztę.
+Dialogue: 0,0:20:01.15,0:20:03.95,Default,,0,0,0,,{\be1}Rozumiem, chcesz więcej.
+Dialogue: 0,0:20:07.04,0:20:08.04,Default,,0,0,0,,{\be1}Tutaj?
+Dialogue: 0,0:20:09.95,0:20:12.39,Default,,0,0,0,,{\be1}Chcesz tutaj?
+Dialogue: 0,0:20:18.25,0:20:20.76,Default,,0,0,0,,{\be1}Zrobię to.
+Dialogue: 0,0:20:27.18,0:20:30.97,Default,,0,0,0,,{\be1}Dam ci orgazm palcem!
+Dialogue: 0,0:20:33.41,0:20:37.19,Default,,0,0,0,,{\be1}Annerose, dojdź!
+Dialogue: 0,0:20:49.63,0:20:56.03,Default,,0,0,0,,{\be1}Tak myślałem, palec to za mało,\Nżeby cię zadowolić.
+Dialogue: 0,0:21:05.92,0:21:08.61,Default,,0,0,0,,{\be1}Annerose, wkładam.
+Dialogue: 0,0:21:16.59,0:21:21.96,Default,,0,0,0,,{\be1}Wkładam w Annerose!
+Dialogue: 0,0:21:27.11,0:21:31.58,Default,,0,0,0,,{\be1}Będę wkładać do samego końca!
+Dialogue: 0,0:21:44.87,0:21:46.66,Default,,0,0,0,,{\be1}Co jest?! Rikurou?!
+Dialogue: 0,0:21:48.05,0:21:52.17,Default,,0,0,0,,{\be1}To tylko sen! Śpij dalej!
+Dialogue: 0,0:21:52.17,0:21:53.56,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:21:58.84,0:22:01.45,Default,,0,0,0,,{\be1}Niemożliwe, jesteś dziewicą?!
+Dialogue: 0,0:22:02.20,0:22:06.50,Default,,0,0,0,,{\be1}Zajebiście, jestem twoim pierwszym facetem!
+Dialogue: 0,0:22:10.28,0:22:16.01,Default,,0,0,0,,{\be1}- Postaram się zadowolić cię!\N- Rikurou, co robisz?!
+Dialogue: 0,0:22:25.45,0:22:28.07,Default,,0,0,0,,{\be1}Annerose!
+Dialogue: 0,0:22:30.98,0:22:38.94,Default,,0,0,0,,{\be1}Nie wytrzymam!\NSpuszczę się w środku!
+Dialogue: 0,0:22:40.76,0:22:44.13,Default,,0,0,0,,{\be1}Chcesz, prawda?
+Dialogue: 0,0:22:47.56,0:22:51.11,Default,,0,0,0,,{\be1}Annerose!
+Dialogue: 0,0:23:07.40,0:23:08.71,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:23:12.84,0:23:15.41,Default,,0,0,0,,{\be1}Cholera, za dużo się spuściłem!
+Dialogue: 0,0:23:16.69,0:23:17.76,Default,,0,0,0,,{\be1}Chusteczki!
+Dialogue: 0,0:23:18.59,0:23:21.41,Default,,0,0,0,,{\be1}Jesteś ciężki.
+Dialogue: 0,0:23:23.83,0:23:25.67,Default,,0,0,0,,{\be1}Ja tylko...
+Dialogue: 0,0:23:27.52,0:23:33.11,Default,,0,0,0,,{\be1}Czy ty wiesz co zrobiłeś?
+Dialogue: 0,0:23:35.07,0:23:38.37,Default,,0,0,0,,{\be1}Jak śmiałeś zaatakować swoją panią?!
+Dialogue: 0,0:23:38.37,0:23:40.57,Default,,0,0,0,,{\be1}Przygotuj się na karę!
+Dialogue: 0,0:23:49.79,0:23:52.54,Default,,0,0,0,,{\be1}Pewnie wiedziałeś, że tak to się skończy.
+Dialogue: 0,0:23:53.68,0:23:55.68,Default,,0,0,0,,{\be1}Annerose...
+Dialogue: 0,0:24:01.14,0:24:04.62,Default,,0,0,0,,{\be1}Znalazłam cię, Annerose.

@@ -1,0 +1,251 @@
+﻿[Script Info]
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+Title:ゼロの者 COLLECTION 1 ～月が欠ける～
+Original Script:
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,26,&H00FFFFFF,&HF0000000,&H00000000,&HC0000000,-1,0,0,0,100,100,0,0.00,1,2,1,2,30,30,10,134
+Style: STAFF,方正准圆_GBK,22,&H00FFFFFF,&HF0000000,&H50000000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.25,0:00:10.16,Default,NTP,0,0,0,,又遲到了 糟了
+Dialogue: 0,0:00:19.46,0:00:21.37,Default,NTP,0,0,0,,所以呢
+Dialogue: 0,0:00:21.47,0:00:27.27,Default,NTP,0,0,0,,可分類為職務發明 業務發明 自由發明
+Dialogue: 0,0:00:27.37,0:00:33.08,Default,NTP,0,0,0,,這些是收付保證金 權利歸於公司的
+Dialogue: 0,0:00:33.78,0:00:36.38,Default,NTP,0,0,0,,好無聊的課
+Dialogue: 0,0:00:40.59,0:00:43.89,Default,NTP,0,0,0,,我發現妳常常看我哦
+Dialogue: 0,0:00:45.09,0:00:47.99,Default,NTP,0,0,0,,我才沒有
+Dialogue: 0,0:00:59.91,0:01:02.80,Default,NTP,0,0,0,,眞是好無聊的課
+Dialogue: 0,0:01:03.81,0:01:05.11,Default,NTP,0,0,0,,對吧
+Dialogue: 0,0:01:07.11,0:01:09.41,Default,NTP,0,0,0,,無聊死了這傢伙
+Dialogue: 0,0:01:09.61,0:01:13.22,Default,NTP,0,0,0,,你教課就不會有趣點嗎
+Dialogue: 0,0:01:15.42,0:01:16.52,Default,NTP,0,0,0,,舒服嗎
+Dialogue: 0,0:01:22.93,0:01:24.63,Default,NTP,0,0,0,,妳覺得舒服吧
+Dialogue: 0,0:01:25.23,0:01:28.43,Default,NTP,0,0,0,,可以的 很好 發出聲音吧
+Dialogue: 0,0:01:32.04,0:01:33.84,Default,NTP,0,0,0,,已經濕透了呢
+Dialogue: 0,0:01:34.14,0:01:35.44,Default,NTP,0,0,0,,別忍了
+Dialogue: 0,0:01:35.84,0:01:37.64,Default,NTP,0,0,0,,想喊就喊出來
+Dialogue: 0,0:01:58.46,0:02:02.07,Default,NTP,0,0,0,,搞什麼 這麼快就不行了
+Dialogue: 0,0:02:02.47,0:02:06.17,Default,NTP,0,0,0,,你也想搞嗎 不需要客氣的
+Dialogue: 0,0:02:08.07,0:02:09.88,Default,NTP,0,0,0,,沒膽的傢伙
+Dialogue: 0,0:02:09.97,0:02:12.48,Default,NTP,0,0,0,,我給你們特別服務好了
+Dialogue: 0,0:02:13.08,0:02:15.78,Default,NTP,0,0,0,,不要 不要 不要看
+Dialogue: 0,0:02:16.08,0:02:18.28,Default,NTP,0,0,0,,怎樣 看得很清楚吧
+Dialogue: 0,0:02:18.58,0:02:20.29,Default,NTP,0,0,0,,你們仔細看好了
+Dialogue: 0,0:02:22.00,0:02:24.09,Default,NTP,0,0,0,,不 拜託 不要看
+Dialogue: 0,0:02:24.19,0:02:26.99,Default,NTP,0,0,0,,拜託別人不要看卻濕成這個樣子
+Dialogue: 0,0:02:27.09,0:02:28.69,Default,NTP,0,0,0,,妳太沒說服力了
+Dialogue: 0,0:02:29.39,0:02:30.30,Default,NTP,0,0,0,,對吧
+Dialogue: 0,0:02:32.00,0:02:35.20,Default,NTP,0,0,0,,搞什麼 這樣就轉過頭
+Dialogue: 0,0:02:35.30,0:02:37.60,Default,NTP,0,0,0,,你們該露出高與的表情
+Dialogue: 0,0:02:38.90,0:02:42.51,Default,NTP,0,0,0,,各位請注意看這裡
+Dialogue: 0,0:02:46.31,0:02:49.81,Default,NTP,0,0,0,,眞是難得我給大家服務
+Dialogue: 0,0:02:50.12,0:02:52.02,Default,NTP,0,0,0,,居然完全沒有反應
+Dialogue: 0,0:02:52.22,0:02:55.12,Default,NTP,0,0,0,,好吧 我自己享受就好了
+Dialogue: 0,0:03:14.64,0:03:16.54,Default,NTP,0,0,0,,一點也不爽
+Dialogue: 0,0:03:16.94,0:03:19.04,Default,NTP,0,0,0,,這女人怎麼這麼服從
+Dialogue: 0,0:03:19.44,0:03:22.15,Default,NTP,0,0,0,,想了就火大
+Dialogue: 0,0:03:23.05,0:03:25.45,Default,NTP,0,0,0,,喂 你們看啊
+Dialogue: 0,0:03:27.85,0:03:29.25,Default,NTP,0,0,0,,搞什麼
+Dialogue: 0,0:03:29.96,0:03:32.66,Default,NTP,0,0,0,,所有人都不搭理
+Dialogue: 0,0:03:46.57,0:03:48.47,Default,NTP,0,0,0,,原來是夢
+Dialogue: 0,0:03:48.97,0:03:50.28,Default,NTP,0,0,0,,可惡
+Dialogue: 0,0:03:51.58,0:03:53.48,Default,NTP,0,0,0,,傻瓜才會打瞌睡
+Dialogue: 0,0:03:53.78,0:03:56.28,Default,NTP,0,0,0,,你有什麼問題嗎
+Dialogue: 0,0:03:56.88,0:04:01.09,Default,NTP,0,0,0,,可惡 原來我是在做白日夢
+Dialogue: 0,0:07:26.19,0:07:28.79,Default,NTP,0,0,0,,晚安
+Dialogue: 0,0:07:29.59,0:07:31.40,Default,NTP,0,0,0,,如何？
+Dialogue: 0,0:07:41.61,0:07:44.11,Default,NTP,0,0,0,,你幹嘛呀 從剛剛開始鬼鬼祟祟
+Dialogue: 0,0:07:44.21,0:07:47.11,Default,NTP,0,0,0,,我只是看看而已 不行嗎
+Dialogue: 0,0:07:47.81,0:07:50.11,Default,NTP,0,0,0,,對不起 車站工作人員
+Dialogue: 0,0:07:50.42,0:07:52.12,Default,NTP,0,0,0,,等等 你幹什麼
+Dialogue: 0,0:07:52.52,0:07:55.12,Default,NTP,0,0,0,,喂 住手 來人呀
+Dialogue: 0,0:07:55.22,0:07:56.82,Default,NTP,0,0,0,,你在做什麼
+Dialogue: 0,0:08:02.13,0:08:03.33,Default,NTP,0,0,0,,無聊透頂
+Dialogue: 0,0:08:10.84,0:08:12.04,Default,NTP,0,0,0,,無聊死了
+Dialogue: 0,0:08:12.34,0:08:13.94,Default,NTP,0,0,0,,盡是些無聊的事情
+Dialogue: 0,0:08:14.24,0:08:16.04,Default,NTP,0,0,0,,以後該怎麼辨
+Dialogue: 0,0:08:16.64,0:08:17.94,Default,NTP,0,0,0,,受不了
+Dialogue: 0,0:08:18.14,0:08:19.54,Default,NTP,0,0,0,,無聊極了
+Dialogue: 0,0:08:34.46,0:08:36.86,Default,NTP,0,0,0,,是良家婦女？
+Dialogue: 0,0:08:37.56,0:08:40.47,Default,NTP,0,0,0,,有意思 找她玩玩
+Dialogue: 0,0:08:43.87,0:08:46.77,Default,NTP,0,0,0,,我眞想看她哭叫的樣子
+Dialogue: 0,0:09:03.29,0:09:05.19,Default,NTP,0,0,0,,這是我的精液哦
+Dialogue: 0,0:09:05.19,0:09:06.59,Default,NTP,0,0,0,,是不是很噁心
+Dialogue: 0,0:09:06.59,0:09:08.29,Default,NTP,0,0,0,,妳哭叫啊
+Dialogue: 0,0:09:15.90,0:09:19.80,Default,NTP,0,0,0,,幹什麼 妳知道妳在舔什麼嗎
+Dialogue: 0,0:09:24.31,0:09:27.11,Default,NTP,0,0,0,,那冰冷的表情是什麼
+Dialogue: 0,0:09:28.41,0:09:29.61,Default,NTP,0,0,0,,她在笑…
+Dialogue: 0,0:09:30.31,0:09:31.42,Default,NTP,0,0,0,,那個女人…
+Dialogue: 0,0:09:52.94,0:09:54.64,Default,NTP,0,0,0,,在邀請我呢
+Dialogue: 0,0:09:55.14,0:09:58.74,Default,NTP,0,0,0,,跟這種怪女人打一砲也不錯
+Dialogue: 0,0:10:11.90,0:10:13.36,Default,NTP,0,0,0,,那個女人
+Dialogue: 0,0:10:15.26,0:10:17.06,Default,NTP,0,0,0,,越來越有趣了
+Dialogue: 0,0:10:17.46,0:10:20.26,Default,NTP,0,0,0,,今天我正覺得無聊呢
+Dialogue: 0,0:10:29.17,0:10:30.88,Default,NTP,0,0,0,,這聲音是什麼？
+Dialogue: 0,0:10:34.38,0:10:38.28,Default,NTP,0,0,0,,再哀叫呀 母豬 叫啊
+Dialogue: 0,0:11:31.24,0:11:33.94,Default,NTP,0,0,0,,他們在幹什麼
+Dialogue: 0,0:11:33.94,0:11:35.94,Default,NTP,0,0,0,,難道剛才的女人…
+Dialogue: 0,0:11:36.14,0:11:38.34,Default,NTP,0,0,0,,也想被強暴
+Dialogue: 0,0:11:38.54,0:11:43.55,Default,NTP,0,0,0,,太好了 你對我感興趣
+Dialogue: 0,0:11:44.25,0:11:46.55,Default,NTP,0,0,0,,剛好你又是我喜歡的類型
+Dialogue: 0,0:11:46.75,0:11:48.45,Default,NTP,0,0,0,,你及格了
+Dialogue: 0,0:12:02.07,0:12:05.07,Default,NTP,0,0,0,,我本來還擔心你不跟上來
+Dialogue: 0,0:12:05.17,0:12:06.27,Default,NTP,0,0,0,,什麼啊
+Dialogue: 0,0:12:06.57,0:12:08.37,Default,NTP,0,0,0,,喂 那是怎麼回事
+Dialogue: 0,0:12:22.39,0:12:23.59,Default,NTP,0,0,0,,那個嗎
+Dialogue: 0,0:12:24.59,0:12:25.79,Default,NTP,0,0,0,,別太在意
+Dialogue: 0,0:12:26.19,0:12:27.39,Default,NTP,0,0,0,,倒是…
+Dialogue: 0,0:12:27.39,0:12:28.59,Default,NTP,0,0,0,,等一下
+Dialogue: 0,0:12:29.79,0:12:32.40,Default,NTP,0,0,0,,妳的說明太短了吧 怎麼不解釋清楚
+Dialogue: 0,0:12:32.40,0:12:34.30,Default,NTP,0,0,0,,別在意那種細節好嗎
+Dialogue: 0,0:12:34.50,0:12:37.50,Default,NTP,0,0,0,,囉唆的男人會令人掃興的
+Dialogue: 0,0:12:37.50,0:12:38.90,Default,NTP,0,0,0,,什麼？
+Dialogue: 0,0:12:41.41,0:12:44.31,Default,NTP,0,0,0,,倒是 請用這個打我好嗎
+Dialogue: 0,0:12:44.41,0:12:46.41,Default,NTP,0,0,0,,打妳？ 為什麼？
+Dialogue: 0,0:12:46.81,0:12:48.61,Default,NTP,0,0,0,,你擅自跟蹤我
+Dialogue: 0,0:12:48.61,0:12:52.12,Default,NTP,0,0,0,,應該猜到會發生不正常的事
+Dialogue: 0,0:12:52.42,0:12:54.32,Default,NTP,0,0,0,,還是說 這要求對你太勉強？
+Dialogue: 0,0:12:54.52,0:12:56.12,Default,NTP,0,0,0,,妳說勉強？
+Dialogue: 0,0:12:56.62,0:13:00.22,Default,NTP,0,0,0,,應該是很勉強吧 你這個膽小的小變態
+Dialogue: 0,0:13:00.83,0:13:02.73,Default,NTP,0,0,0,,妳少自大了
+Dialogue: 0,0:13:04.33,0:13:06.33,Default,NTP,0,0,0,,妳不也是變態
+Dialogue: 0,0:13:08.53,0:13:10.03,Default,NTP,0,0,0,,這個痛楚…
+Dialogue: 0,0:13:10.84,0:13:14.44,Default,NTP,0,0,0,,幹什麼 是妳要求的
+Dialogue: 0,0:13:16.04,0:13:17.54,Default,NTP,0,0,0,,被我等到了
+Dialogue: 0,0:13:18.24,0:13:20.04,Default,NTP,0,0,0,,我等的就是你
+Dialogue: 0,0:13:20.65,0:13:26.25,Default,NTP,0,0,0,,妳到底想做什麼 妳在想什麼呀
+Dialogue: 0,0:13:27.55,0:13:30.76,Default,NTP,0,0,0,,我一直在等待 等待您
+Dialogue: 0,0:13:31.06,0:13:32.96,Default,NTP,0,0,0,,我的主人啊
+Dialogue: 0,0:13:36.36,0:13:39.06,Default,NTP,0,0,0,,我是個壞女孩
+Dialogue: 0,0:13:40.06,0:13:44.17,Default,NTP,0,0,0,,搞什麼 這是剛才那女人嗎
+Dialogue: 0,0:13:44.97,0:13:46.87,Default,NTP,0,0,0,,求求你 拜託
+Dialogue: 0,0:13:47.37,0:13:52.08,Default,NTP,0,0,0,,請欺負我到我崩潰 主人
+Dialogue: 0,0:13:56.78,0:13:59.28,Default,NTP,0,0,0,,她的身體怎麼搞的
+Dialogue: 0,0:14:17.40,0:14:19.10,Default,NTP,0,0,0,,雖然搞不清楚
+Dialogue: 0,0:14:19.20,0:14:22.11,Default,NTP,0,0,0,,既然妳喊我主人 聽起來還挺爽的
+Dialogue: 0,0:14:22.31,0:14:23.51,Default,NTP,0,0,0,,拜託你
+Dialogue: 0,0:14:24.01,0:14:25.91,Default,NTP,0,0,0,,這個遊戲不錯
+Dialogue: 0,0:14:26.11,0:14:28.81,Default,NTP,0,0,0,,別囉唆了 讓我看清楚
+Dialogue: 0,0:14:28.91,0:14:30.51,Default,NTP,0,0,0,,是 主人
+Dialogue: 0,0:14:33.62,0:14:35.12,Default,NTP,0,0,0,,請不要看我
+Dialogue: 0,0:14:35.32,0:14:37.02,Default,NTP,0,0,0,,好髒 亂七八糟了
+Dialogue: 0,0:14:39.12,0:14:40.93,Default,NTP,0,0,0,,竟然濕成這棟
+Dialogue: 0,0:14:41.13,0:14:42.53,Default,NTP,0,0,0,,妳看看 喂
+Dialogue: 0,0:14:43.33,0:14:46.53,Default,NTP,0,0,0,,沒有主人 我就不行
+Dialogue: 0,0:14:49.53,0:14:51.84,Default,NTP,0,0,0,,妳這髒東西是什麼
+Dialogue: 0,0:14:51.84,0:14:53.64,Default,NTP,0,0,0,,變色發臭了
+Dialogue: 0,0:14:55.64,0:14:59.34,Default,NTP,0,0,0,,請再說更下流的話
+Dialogue: 0,0:15:00.04,0:15:03.05,Default,NTP,0,0,0,,有趣 這個女人有意思
+Dialogue: 0,0:15:03.45,0:15:04.95,Default,NTP,0,0,0,,不管她是什麼人
+Dialogue: 0,0:15:05.15,0:15:06.35,Default,NTP,0,0,0,,她是我的了
+Dialogue: 0,0:15:06.35,0:15:07.95,Default,NTP,0,0,0,,是我的寵物！
+Dialogue: 0,0:15:10.25,0:15:14.06,Default,NTP,0,0,0,,還要 再欺負我 主人
+Dialogue: 0,0:15:14.36,0:15:17.86,Default,NTP,0,0,0,,我最愛這樣 愛死了
+Dialogue: 0,0:15:30.27,0:15:33.28,Default,NTP,0,0,0,,髒死了 眞是髒
+Dialogue: 0,0:15:33.88,0:15:37.58,Default,NTP,0,0,0,,再欺負我 踩我
+Dialogue: 0,0:15:37.68,0:15:40.18,Default,NTP,0,0,0,,求求你盡量的懲罰我
+Dialogue: 0,0:15:45.59,0:15:47.49,Default,NTP,0,0,0,,居然自慰起來了
+Dialogue: 0,0:16:03.51,0:16:05.61,Default,NTP,0,0,0,,插那麼深
+Dialogue: 0,0:16:06.11,0:16:07.91,Default,NTP,0,0,0,,手腕都快插進來了
+Dialogue: 0,0:16:08.01,0:16:10.92,Default,NTP,0,0,0,,意思是希望我把手腕插入嗎
+Dialogue: 0,0:16:11.12,0:16:13.12,Default,NTP,0,0,0,,這淫亂的女人
+Dialogue: 0,0:16:15.22,0:16:16.42,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:16:19.32,0:16:20.83,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:16:41.05,0:16:43.85,Default,NTP,0,0,0,,還要 再插更深
+Dialogue: 0,0:16:43.95,0:16:47.05,Default,NTP,0,0,0,,還要 還要 還要…
+Dialogue: 0,0:16:52.86,0:16:55.26,Default,NTP,0,0,0,,差不多該讓妳看我的肉棒了
+Dialogue: 0,0:16:57.66,0:17:00.06,Default,NTP,0,0,0,,好 含住它
+Dialogue: 0,0:17:02.17,0:17:03.27,Default,NTP,0,0,0,,好臭
+Dialogue: 0,0:17:03.27,0:17:05.97,Default,NTP,0,0,0,,喊臭？ 少自大了
+Dialogue: 0,0:17:06.27,0:17:09.17,Default,NTP,0,0,0,,用妳的嘴巴把它吃乾淨
+Dialogue: 0,0:17:09.97,0:17:12.88,Default,NTP,0,0,0,,它可是要插妳的武器哦
+Dialogue: 0,0:17:36.50,0:17:39.10,Default,NTP,0,0,0,,怎樣 我的肉棒滋味如何
+Dialogue: 0,0:17:39.40,0:17:41.41,Default,NTP,0,0,0,,要吃乾淨哦
+Dialogue: 0,0:17:48.51,0:17:50.81,Default,NTP,0,0,0,,什麼 她的口交技巧…
+Dialogue: 0,0:17:51.12,0:17:54.02,Default,NTP,0,0,0,,厲害 頭一次這麼爽
+Dialogue: 0,0:18:08.03,0:18:10.53,Default,NTP,0,0,0,,帥呆了！
+Dialogue: 0,0:18:15.24,0:18:17.74,Default,NTP,0,0,0,,主人 是不是很舒服
+Dialogue: 0,0:18:18.84,0:18:21.15,Default,NTP,0,0,0,,您可以更舒服的
+Dialogue: 0,0:18:22.85,0:18:25.85,Default,NTP,0,0,0,,少囉唆 別看不起人
+Dialogue: 0,0:18:39.06,0:18:41.47,Default,NTP,0,0,0,,主人 請欺負我
+Dialogue: 0,0:18:41.57,0:18:44.27,Default,NTP,0,0,0,,再欺負我 欺負我
+Dialogue: 0,0:18:44.57,0:18:47.27,Default,NTP,0,0,0,,不准妳命令主人
+Dialogue: 0,0:18:47.97,0:18:52.18,Default,NTP,0,0,0,,我現在要插入了
+Dialogue: 0,0:18:52.68,0:18:54.78,Default,NTP,0,0,0,,用妳的身體讓我高潮
+Dialogue: 0,0:18:54.88,0:18:56.08,Default,NTP,0,0,0,,知道嗎
+Dialogue: 0,0:18:57.58,0:19:00.18,Default,NTP,0,0,0,,拜託你 主人
+Dialogue: 0,0:19:00.99,0:19:04.19,Default,NTP,0,0,0,,腳再打開
+Dialogue: 0,0:19:05.79,0:19:10.59,Default,NTP,0,0,0,,現在就把我的肉棒插入妳的髒地方了
+Dialogue: 0,0:19:13.80,0:19:16.30,Default,NTP,0,0,0,,怎樣 我的肉棒如何
+Dialogue: 0,0:19:16.80,0:19:19.20,Default,NTP,0,0,0,,好爽 棒極了
+Dialogue: 0,0:19:19.90,0:19:21.91,Default,NTP,0,0,0,,主人好棒啊
+Dialogue: 0,0:19:27.81,0:19:29.51,Default,NTP,0,0,0,,主人的那根
+Dialogue: 0,0:19:29.61,0:19:33.82,Default,NTP,0,0,0,,插得我重要的部分快要壞了
+Dialogue: 0,0:19:36.32,0:19:40.22,Default,NTP,0,0,0,,好厲害 好厲害
+Dialogue: 0,0:20:00.14,0:20:04.05,Default,NTP,0,0,0,,是嗎 我要把妳操壞 把妳插爛
+Dialogue: 0,0:20:42.09,0:20:44.49,Default,NTP,0,0,0,,想要我饒了妳嗎
+Dialogue: 0,0:20:44.59,0:20:47.29,Default,NTP,0,0,0,,妳已經崩潰了嗎
+Dialogue: 0,0:20:47.99,0:20:51.20,Default,NTP,0,0,0,,沒有 不可以結束
+Dialogue: 0,0:20:51.50,0:20:53.20,Default,NTP,0,0,0,,妳眞的崩潰了嗎
+Dialogue: 0,0:20:54.70,0:20:59.00,Default,NTP,0,0,0,,還沒有 我還沒有崩潰
+Dialogue: 0,0:21:00.00,0:21:03.81,Default,NTP,0,0,0,,必須對我做更多才行
+Dialogue: 0,0:21:04.51,0:21:08.71,Default,NTP,0,0,0,,妳這個寵物太自大了
+Dialogue: 0,0:21:10.21,0:21:14.02,Default,NTP,0,0,0,,我就操爛妳 徹底的操
+Dialogue: 0,0:22:16.28,0:22:18.08,Default,NTP,0,0,0,,已經完了嗎
+Dialogue: 0,0:22:18.78,0:22:21.69,Default,NTP,0,0,0,,還是說妳想要更多
+Dialogue: 0,0:22:21.79,0:22:23.59,Default,NTP,0,0,0,,請再欺負我
+Dialogue: 0,0:22:23.69,0:22:25.79,Default,NTP,0,0,0,,再欺負我 欺負我
+Dialogue: 0,0:22:26.49,0:22:27.79,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:22:28.79,0:22:30.49,Default,NTP,0,0,0,,我還要…
+Dialogue: 0,0:22:36.30,0:22:39.10,Default,NTP,0,0,0,,等等 別那樣子動
+Dialogue: 0,0:22:54.12,0:22:56.92,Default,NTP,0,0,0,,主人 請再激烈一點
+Dialogue: 0,0:22:57.02,0:22:59.32,Default,NTP,0,0,0,,把我插爛
+Dialogue: 0,0:23:01.23,0:23:03.63,Default,NTP,0,0,0,,她不一樣
+Dialogue: 0,0:23:04.13,0:23:05.33,Default,NTP,0,0,0,,不對了
+Dialogue: 0,0:23:06.03,0:23:07.83,Default,NTP,0,0,0,,她不是寵物了
+Dialogue: 0,0:23:09.23,0:23:11.94,Default,NTP,0,0,0,,還要 還要
+Dialogue: 0,0:23:12.84,0:23:14.34,Default,NTP,0,0,0,,難道被得到的
+Dialogue: 0,0:23:14.54,0:23:16.84,Default,NTP,0,0,0,,不是她 是我？
+Dialogue: 0,0:23:21.55,0:23:23.85,Default,NTP,0,0,0,,怎麼了 主人
+Dialogue: 0,0:23:24.95,0:23:27.05,Default,NTP,0,0,0,,你們到底是什麼人
+Dialogue: 0,0:23:28.05,0:23:31.56,Default,NTP,0,0,0,,不行 別想太多啦
+Dialogue: 0,0:23:31.76,0:23:32.96,Default,NTP,0,0,0,,不准過來
+Dialogue: 0,0:23:37.86,0:23:41.57,Default,NTP,0,0,0,,主人必須當主人才可以
+Dialogue: 0,0:23:43.67,0:23:46.07,Default,NTP,0,0,0,,妳對我注射了什麼
+Dialogue: 0,0:23:50.37,0:23:52.78,Default,NTP,0,0,0,,到底在我身上注射了什麼
+Dialogue: 0,0:23:54.68,0:23:58.58,Default,NTP,0,0,0,,那個藥會讓主人拋棄理性
+Dialogue: 0,0:23:58.78,0:24:01.69,Default,NTP,0,0,0,,成為眞正的主人
+Dialogue: 0,0:24:02.49,0:24:04.59,Default,NTP,0,0,0,,我不是什麼主人
+Dialogue: 0,0:24:04.79,0:24:08.09,Default,NTP,0,0,0,,不 您會成為優秀的主人
+Dialogue: 0,0:24:08.69,0:24:13.90,Default,NTP,0,0,0,,來 主人 請讓我的身體充滿快樂
+Dialogue: 0,0:24:14.60,0:24:17.00,Default,NTP,0,0,0,,這是主人的命運哦
+Dialogue: 0,0:24:25.51,0:24:26.51,Default,NTP,0,0,0,,住手
+Dialogue: 0,0:24:28.51,0:24:31.11,Default,NTP,0,0,0,,拜託妳…
+Dialogue: 0,0:24:31.32,0:24:33.32,Default,NTP,0,0,0,,住手啊…
+Dialogue: 0,0:24:59.04,0:25:04.75,Default,NTP,0,0,0,,我的主人 您快要快成為眞正的主人了
+Dialogue: 0,0:25:09.05,0:25:10.75,Default,NTP,0,0,0,,還要 還要
+Dialogue: 0,0:25:10.75,0:25:14.76,Default,NTP,0,0,0,,再更大更硬吧 我的主人
+Dialogue: 0,0:25:16.26,0:25:19.16,Default,NTP,0,0,0,,我被快感給拖下去
+Dialogue: 0,0:25:19.66,0:25:21.67,Default,NTP,0,0,0,,這要持續多久
+Dialogue: 0,0:25:23.27,0:25:24.37,Default,NTP,0,0,0,,把我插爛
+Dialogue: 0,0:25:24.47,0:25:27.47,Default,NTP,0,0,0,,讓我的身體都是快感
+Dialogue: 0,0:25:27.77,0:25:31.07,Default,NTP,0,0,0,,再激烈的插
+Dialogue: 0,0:25:31.88,0:25:34.58,Default,NTP,0,0,0,,這才是眞正的主人
+Dialogue: 0,0:25:34.88,0:25:37.68,Default,NTP,0,0,0,,我的身體在消失
+Dialogue: 0,0:25:39.28,0:25:42.79,Default,NTP,0,0,0,,我會成為單純的性道具嗎
+Dialogue: 0,0:25:47.09,0:25:48.29,Default,NTP,0,0,0,,好厲害
+Dialogue: 0,0:25:48.99,0:25:50.49,Default,NTP,0,0,0,,讓我燃燒起來
+Dialogue: 0,0:25:50.49,0:25:53.80,Default,NTP,0,0,0,,把我插到崩潰
+Dialogue: 0,0:25:56.00,0:25:58.90,Default,NTP,0,0,0,,我被吸進黑暗中了
+Dialogue: 0,0:26:03.81,0:26:07.01,Default,NTP,0,0,0,,還要 還要 主人
+Dialogue: 0,0:26:08.51,0:26:13.22,Default,NTP,0,0,0,,還要再用力的插
+Dialogue: 0,0:26:14.72,0:26:21.02,Default,NTP,0,0,0,,我是主人 主人 主人…
+Dialogue: 0,0:26:23.53,0:26:25.73,Default,NTP,0,0,0,,我的主人！

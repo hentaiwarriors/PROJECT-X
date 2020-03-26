@@ -1,0 +1,390 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,30,&H22E900E9,&HF0000000,&H00FFFFFF,&H009C6DF1,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:04.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}巴尔塔王国的第一公主\N依利亚斯特拉王女
+Dialogue: 0,0:00:05.30,0:00:09.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为她的端正秀丽\N甚至被称为是王国的至宝
+Dialogue: 0,0:00:09.94,0:00:12.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是你已经不可能逃离这里了
+Dialogue: 0,0:00:13.28,0:00:15.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}立场已经相反了
+Dialogue: 0,0:00:44.14,0:00:46.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}依利亚斯特拉公主\N感觉怎么样？
+Dialogue: 0,0:00:47.04,0:00:49.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不看来我叫你依莉娜比较好
+Dialogue: 0,0:00:50.35,0:00:53.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔\N你竟然蛮横的将我带来
+Dialogue: 0,0:00:53.52,0:00:55.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}还把我囚禁在这样的地方
+Dialogue: 0,0:00:55.78,0:00:57.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}难道你不知道\N什么叫绅士风范吗
+Dialogue: 0,0:00:58.49,0:00:59.59,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这些话说得可真重
+Dialogue: 0,0:00:59.96,0:01:04.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你想要逞强是没关系\N但是你知道你现在的情况吗
+Dialogue: 0,0:01:04.86,0:01:09.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这里只有我一个人\N不管怎么样 都不会有人救你的
+Dialogue: 0,0:01:13.60,0:01:15.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别靠过来\N如果你再靠过来的话...
+Dialogue: 0,0:01:16.67,0:01:18.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}干什么？不要碰我
+Dialogue: 0,0:01:20.41,0:01:23.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}对本公主做这种事\N你知道会有什么后果吗
+Dialogue: 0,0:01:24.35,0:01:27.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要搞错了\N现在的你不是一国的公主
+Dialogue: 0,0:01:28.95,0:01:30.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}只是一只母狗
+Dialogue: 0,0:01:32.05,0:01:33.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要
+Dialogue: 0,0:01:34.12,0:01:35.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}快点住手  可恶
+Dialogue: 0,0:01:36.99,0:01:38.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别这样  不要看
+Dialogue: 0,0:01:39.86,0:01:41.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你的胸部还真大  真淫荡
+Dialogue: 0,0:01:42.43,0:01:44.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是为了取悦男人的东西
+Dialogue: 0,0:01:47.40,0:01:51.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你对我这么做\N你以为我会轻易放过你吗
+Dialogue: 0,0:01:52.17,0:01:55.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我早就有心理准备了\N让我好好享受一下吧
+Dialogue: 0,0:01:56.58,0:01:59.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}谁允许你这么做了  快点放开我
+Dialogue: 0,0:02:00.98,0:02:03.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你能说这些大话\N也就只有现在了
+Dialogue: 0,0:02:05.09,0:02:07.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}住手  野兽\N住手
+Dialogue: 0,0:02:11.36,0:02:12.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么了？有感觉了吗
+Dialogue: 0,0:02:13.90,0:02:15.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}谁会有感觉
+Dialogue: 0,0:02:16.40,0:02:17.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你是指什么？
+Dialogue: 0,0:02:24.91,0:02:27.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}看来公主的这里很敏感
+Dialogue: 0,0:02:28.18,0:02:29.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你太下流了
+Dialogue: 0,0:02:32.68,0:02:34.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那里...那里不行
+Dialogue: 0,0:02:37.52,0:02:39.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那里是...
+Dialogue: 0,0:02:39.69,0:02:41.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那是我的...
+Dialogue: 0,0:02:42.99,0:02:46.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你要做什么？\N做什么？还用说吗
+Dialogue: 0,0:02:46.73,0:02:48.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不行  那里是...
+Dialogue: 0,0:02:50.57,0:02:52.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别这样
+Dialogue: 0,0:02:53.03,0:02:55.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}想不到这么湿了\N真是伤脑筋的公主
+Dialogue: 0,0:02:57.17,0:03:00.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不知羞耻的家伙\N你竟然看了我最重要的地方
+Dialogue: 0,0:03:01.74,0:03:04.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你因为羞耻而感到兴奋了吗
+Dialogue: 0,0:03:04.78,0:03:06.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}实在太淫荡了
+Dialogue: 0,0:03:07.15,0:03:09.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你乱说  没有这回事
+Dialogue: 0,0:03:09.55,0:03:13.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}嘴色要怎么说随便你\N但是这里好像都准备好了
+Dialogue: 0,0:03:16.32,0:03:19.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}依莉娜公主\N你知道接下来要做什么吧？
+Dialogue: 0,0:03:20.56,0:03:21.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别这样
+Dialogue: 0,0:03:24.17,0:03:25.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不可以
+Dialogue: 0,0:03:26.00,0:03:29.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}看清楚了\N现在这个要进入你的体内了
+Dialogue: 0,0:03:30.21,0:03:32.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  快点住手
+Dialogue: 0,0:03:32.74,0:03:35.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么我就可以原谅你先前的无礼
+Dialogue: 0,0:03:35.54,0:03:36.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}所以...
+Dialogue: 0,0:03:37.05,0:03:38.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我不需要你的原谅
+Dialogue: 0,0:03:39.38,0:03:40.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别这样
+Dialogue: 0,0:03:41.48,0:03:43.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这样摩擦感觉如何？
+Dialogue: 0,0:03:45.45,0:03:47.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么了？差不多想要了吧？
+Dialogue: 0,0:03:48.89,0:03:51.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别这样\N我拜托你   快点住手
+Dialogue: 0,0:03:52.66,0:03:56.16,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为什么要这么做呢？\N你没有必要知道
+Dialogue: 0,0:04:00.24,0:04:01.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要
+Dialogue: 0,0:04:02.94,0:04:04.54,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}的确很紧
+Dialogue: 0,0:04:05.01,0:04:07.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}拔出来...好痛
+Dialogue: 0,0:04:11.88,0:04:13.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不愧是第一次
+Dialogue: 0,0:04:14.55,0:04:17.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}太过分了  竟然把我的贞操...
+Dialogue: 0,0:04:19.32,0:04:21.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要动...
+Dialogue: 0,0:04:22.52,0:04:25.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你狭窄的那里  吃着我的东西
+Dialogue: 0,0:04:26.19,0:04:27.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}变成追求肉欲的公主
+Dialogue: 0,0:04:28.73,0:04:32.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}被称为绝世美女雍容华贵的伊利娜公主
+Dialogue: 0,0:04:32.93,0:04:34.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为什么会被我这样怨恨着呢？
+Dialogue: 0,0:04:35.60,0:04:39.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我必须说明一下\N他为什么会遭到屈辱
+Dialogue: 0,0:04:41.38,0:04:45.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我是小国家亚士特里亚的王子
+Dialogue: 0,0:04:45.85,0:04:51.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}曾经是弃婴的说\N一直到那一天被王妃给养大
+Dialogue: 0,0:04:51.75,0:04:53.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哥哥
+Dialogue: 0,0:04:56.32,0:05:00.16,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你怎么了？\N为什么叫你都没有反应呢？
+Dialogue: 0,0:05:00.93,0:05:05.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}母亲大人  我没事\N我只是在发呆
+Dialogue: 0,0:05:06.50,0:05:08.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}身体不舒服吗
+Dialogue: 0,0:05:08.80,0:05:11.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳  放心吧  我没事\N谢谢你担心我
+Dialogue: 0,0:05:12.51,0:05:14.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哥哥  这样好痒啊
+Dialogue: 0,0:05:15.04,0:05:18.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳  明天开始我跟妈妈\N就要到很远的地方去了
+Dialogue: 0,0:05:19.41,0:05:20.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你不会寂寞吧
+Dialogue: 0,0:05:23.49,0:05:24.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳
+Dialogue: 0,0:05:25.42,0:05:28.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}放心吧  我不会寂寞的
+Dialogue: 0,0:05:28.09,0:05:31.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我一定会回来的\N所以你一定要乖乖等我回来
+Dialogue: 0,0:05:32.39,0:05:35.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好的  我答应你  哥哥
+Dialogue: 0,0:05:37.23,0:05:39.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不可以哭  克纳
+Dialogue: 0,0:05:40.17,0:05:43.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你这样妈妈怎么能放心呢
+Dialogue: 0,0:05:46.31,0:05:49.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}当时正在不断扩充领土的\N巴尔塔王国
+Dialogue: 0,0:05:50.08,0:05:52.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}开如把目标放在与它相邻的\N小国家
+Dialogue: 0,0:05:53.21,0:05:55.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}也就是我的国家
+Dialogue: 0,0:05:56.85,0:06:00.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我们被迫进行了领土谈判
+Dialogue: 0,0:06:00.66,0:06:04.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在对方强力的武力胁迫之下\N签订了不平等条约
+Dialogue: 0,0:06:06.03,0:06:10.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}虽然说是谈判\N事实上是单方面的条件胁迫
+Dialogue: 0,0:06:11.40,0:06:13.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是为了生存下去
+Dialogue: 0,0:06:14.10,0:06:16.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我们这个小国家\N只好接受所有的条件
+Dialogue: 0,0:06:18.51,0:06:22.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}结果让我国丧失了大量的经济土地
+Dialogue: 0,0:06:23.41,0:06:25.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}而且武力也受到大幅度的限制
+Dialogue: 0,0:06:25.81,0:06:28.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}完全失去反抗的力量
+Dialogue: 0,0:06:29.58,0:06:31.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}而且还有一项附加条件
+Dialogue: 0,0:06:33.32,0:06:36.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就是我们国家的皇后\N以及第一王子迪斯多尔
+Dialogue: 0,0:06:38.39,0:06:42.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}必须当作人质\N也就是要我们住在巴尔塔王国
+Dialogue: 0,0:06:50.74,0:06:54.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我去摘些花当作礼物送给你们
+Dialogue: 0,0:06:54.84,0:06:56.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳  谢谢你
+Dialogue: 0,0:06:57.18,0:06:59.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}到那边去我会保母亲的
+Dialogue: 0,0:06:59.91,0:07:01.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  你...
+Dialogue: 0,0:07:01.98,0:07:04.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为母亲大人\N保护身为弃婴的我
+Dialogue: 0,0:07:05.39,0:07:08.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这次轮到我来保护母亲了
+Dialogue: 0,0:07:08.79,0:07:12.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就算我们没有血缘关系\N你还是我的儿子
+Dialogue: 0,0:07:13.29,0:07:14.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的
+Dialogue: 0,0:07:14.90,0:07:20.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}千万不要忘了克纳\N因为她比任何人都关心你
+Dialogue: 0,0:07:20.94,0:07:24.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}母亲大人  那当然  我答应你
+Dialogue: 0,0:07:24.97,0:07:26.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  别忘了你答应过我
+Dialogue: 0,0:07:27.38,0:07:30.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我们到了巴尔塔王国不久之后
+Dialogue: 0,0:07:31.88,0:07:33.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你说我母亲过世了？
+Dialogue: 0,0:07:34.25,0:07:36.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没错\N这怎么可能
+Dialogue: 0,0:07:37.05,0:07:41.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你的母亲的事情我真的很遗憾\N我会举行盛大的葬礼
+Dialogue: 0,0:07:42.62,0:07:44.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为什么？为什么会这样
+Dialogue: 0,0:07:45.19,0:07:47.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}他生病了\N胡说  这不可能
+Dialogue: 0,0:07:47.93,0:07:50.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我母亲到昨天还是那么健康的
+Dialogue: 0,0:07:50.87,0:07:53.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}事情就像我说的一样\N我无话可说
+Dialogue: 0,0:07:54.60,0:07:56.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你到底对我母亲做了什么？
+Dialogue: 0,0:07:57.27,0:07:59.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  你太失礼了
+Dialogue: 0,0:07:59.81,0:08:02.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你在干什么？\N赶快把王子带下去
+Dialogue: 0,0:08:02.98,0:08:04.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}放开我  滚开
+Dialogue: 0,0:08:05.05,0:08:09.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  我现在罚你关禁闭\N好好的让自己冷静一下
+Dialogue: 0,0:08:12.85,0:08:16.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那天之后\N我就舍弃眼泪开练剑
+Dialogue: 0,0:08:16.59,0:08:19.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为我怨恨自己的无力\N我下定决心要变强
+Dialogue: 0,0:08:20.66,0:08:24.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了不让自己再度遭受\N无法保护心爱之人的痛苦
+Dialogue: 0,0:08:25.07,0:08:27.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了变强\N我要变得比任何人更强
+Dialogue: 0,0:08:31.74,0:08:33.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}依利亚斯特拉公主
+Dialogue: 0,0:08:34.14,0:08:36.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}叫我依利娜就可以了\N不是说过很多次了吗
+Dialogue: 0,0:08:37.28,0:08:40.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}非常抱歉  依利娜公主\N请原谅我
+Dialogue: 0,0:08:41.45,0:08:45.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不用道歉  只要明白就好了
+Dialogue: 0,0:08:45.02,0:08:47.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么依莉娜公主  找我有事吗
+Dialogue: 0,0:08:48.79,0:08:53.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我只是在散步\N根本不是来找你的
+Dialogue: 0,0:08:53.39,0:08:57.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}公主\N原来是你们  不要吓我
+Dialogue: 0,0:08:58.00,0:09:00.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}依莉娜公主  对不起\N请原谅我们的失礼
+Dialogue: 0,0:09:01.67,0:09:05.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是公主\N请不要随意的跟这样的人说话
+Dialogue: 0,0:09:08.31,0:09:11.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}雪希尔  我要跟谁说话\N是我的自由吧
+Dialogue: 0,0:09:11.81,0:09:13.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是...
+Dialogue: 0,0:09:14.85,0:09:18.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  请原谅这些人的无礼\N我不会放在心上
+Dialogue: 0,0:09:19.15,0:09:22.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别说了啦  公主  国王叫你
+Dialogue: 0,0:09:23.09,0:09:26.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你说我父亲？\N是的  他要你马上去找他
+Dialogue: 0,0:09:27.36,0:09:29.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我知道了
+Dialogue: 0,0:09:30.47,0:09:33.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}公主请快点\N说得也是
+Dialogue: 0,0:09:34.80,0:09:38.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}依莉娜对我的态度\N总是让我觉得反复无常
+Dialogue: 0,0:09:38.91,0:09:41.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是不是因为骑士团团长\N雪希尔在旁边监视呢？
+Dialogue: 0,0:09:42.14,0:09:45.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}另外一个随身保镳
+Dialogue: 0,0:09:45.85,0:09:48.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}据说是整个王国里\N魔力最强的人
+Dialogue: 0,0:09:48.98,0:09:51.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}如果跟他为敌\N将会非常可怕吧
+Dialogue: 0,0:09:52.49,0:09:55.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在这之后\N我每天依然勤奋的练剑
+Dialogue: 0,0:09:56.79,0:10:01.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}有时候我会想起一个人\N留在王国里的克纳
+Dialogue: 0,0:10:02.46,0:10:05.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}然后有一天冲击的消息传来了
+Dialogue: 0,0:10:07.54,0:10:08.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不是伊莎贝皇后吗
+Dialogue: 0,0:10:09.57,0:10:11.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你总是这么勤奢的做练习
+Dialogue: 0,0:10:12.41,0:10:15.74,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}让您看到难堪的一面了\N我还不成气候
+Dialogue: 0,0:10:16.54,0:10:18.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}也许我说欲些话是多余的
+Dialogue: 0,0:10:18.78,0:10:21.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是觉得还是告诉你一声\N比较好
+Dialogue: 0,0:10:21.95,0:10:23.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}所以才来找你的
+Dialogue: 0,0:10:23.99,0:10:25.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么事情呢
+Dialogue: 0,0:10:25.85,0:10:27.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我想国王很快就会告诉你了
+Dialogue: 0,0:10:28.52,0:10:31.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是我觉得\N还是应该来告诉你一声
+Dialogue: 0,0:10:32.29,0:10:34.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是跟我有关的事情吗？\N妈妈
+Dialogue: 0,0:10:35.36,0:10:38.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这里不是王妃应该来的地方\N请赶快回去吧
+Dialogue: 0,0:10:40.23,0:10:44.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  我父王找你\N你就去宝座那里见他吧
+Dialogue: 0,0:10:44.67,0:10:45.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的
+Dialogue: 0,0:10:46.51,0:10:49.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为什么依莉娜\N会这样对王妃呢？
+Dialogue: 0,0:10:50.08,0:10:53.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}虽说她们没有血缘关系\N但是也太冷淡了吧
+Dialogue: 0,0:10:54.78,0:10:56.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}国王  迪斯多尔来报到了
+Dialogue: 0,0:11:00.12,0:11:03.16,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}前几天有一件让人惊讶的消息
+Dialogue: 0,0:11:03.16,0:11:06.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就是封印的力量越来越弱了\N封印？
+Dialogue: 0,0:11:07.40,0:11:12.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为觉得必须马上再作封印\N所以进行了圣女的选拔
+Dialogue: 0,0:11:13.43,0:11:18.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}所以这次的圣女\N就选定是你们王国的人了
+Dialogue: 0,0:11:18.81,0:11:21.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}难道是...\N你的反应真快
+Dialogue: 0,0:11:21.44,0:11:25.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就选中的圣女\N就是你们国家的克纳公主
+Dialogue: 0,0:11:25.61,0:11:29.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}也就是你没有血缘关系的妹妹\N克纳？克纳被选为圣女了？
+Dialogue: 0,0:11:29.78,0:11:34.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你们王国已经接受了\N最近就要举行仪式了
+Dialogue: 0,0:11:35.42,0:11:37.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么会有这种事情
+Dialogue: 0,0:11:37.56,0:11:40.16,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是相当光荣的事情\N应该要高兴才对
+Dialogue: 0,0:11:41.00,0:11:43.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我要说的就是这些  退下吧
+Dialogue: 0,0:11:43.83,0:11:45.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在很遥远的过去
+Dialogue: 0,0:11:45.47,0:11:49.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这么世界\N有一个被称为魔王的邪恶人物
+Dialogue: 0,0:11:49.77,0:11:54.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}他具有与神匹敌的力量\N以强大的魔力操纵妖怪军团
+Dialogue: 0,0:11:55.44,0:11:58.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}曾经威胁整个世界上的和平
+Dialogue: 0,0:11:59.25,0:12:00.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是在距今1千年之前
+Dialogue: 0,0:12:01.02,0:12:02.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}却因为一位厉害的剑士\N而毁灭了
+Dialogue: 0,0:12:03.95,0:12:06.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}魔王受了伤  被封印了起来
+Dialogue: 0,0:12:07.02,0:12:09.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}然而他的力量依然强大\N为了继续封锁他
+Dialogue: 0,0:12:10.29,0:12:12.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}必须付出庞大的代价
+Dialogue: 0,0:12:12.59,0:12:14.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}也就是祭品
+Dialogue: 0,0:12:15.23,0:12:18.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}如果这个世界上\N因为斗争而仇恨之心增加的话
+Dialogue: 0,0:12:19.07,0:12:20.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}封印的力量就会减弱
+Dialogue: 0,0:12:21.87,0:12:25.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}如此一来为了加强\N渐渐丧失的封印的力量
+Dialogue: 0,0:12:25.81,0:12:29.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就必须在封印的祭坛上\N献上祭品
+Dialogue: 0,0:12:30.78,0:12:32.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}异有祭品资格的就是
+Dialogue: 0,0:12:32.85,0:12:37.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}代代拥有神圣力量的\N纯洁的少女的宿命
+Dialogue: 0,0:12:38.49,0:12:41.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}被选四祭品的人\N将会接受特别的仪式
+Dialogue: 0,0:12:41.99,0:12:47.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在再次完成封印之前大约一年\N都必须生活在封印之塔里面
+Dialogue: 0,0:12:49.06,0:12:53.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}所以再次封印的力量\N就是祭品的生命力来换取的
+Dialogue: 0,0:12:54.24,0:12:59.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}等到再次封印结束\N那就等同于祭品的生命已经结束
+Dialogue: 0,0:13:00.14,0:13:02.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了保护世界忍受罪恶的威胁
+Dialogue: 0,0:13:02.48,0:13:04.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}所以世上的人们
+Dialogue: 0,0:13:04.85,0:13:07.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}都会对着愿意献上生命的\N祭品们表示感谢
+Dialogue: 0,0:13:07.95,0:13:09.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}所以叫他们为圣女
+Dialogue: 0,0:13:10.05,0:13:12.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}接受仪式\N进入塔里的祭品
+Dialogue: 0,0:13:12.82,0:13:18.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在设下的结界里除非仪式完成\N否则不可能离开
+Dialogue: 0,0:13:19.09,0:13:24.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳被选为这样的圣女\N难道我又不能拯救所再之人了吗
+Dialogue: 0,0:13:25.00,0:13:27.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是因为我的无力吗  可恶
+Dialogue: 0,0:13:27.40,0:13:30.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}偏偏克纳竟然被选圣女\N别开玩笑了
+Dialogue: 0,0:13:31.81,0:13:36.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我到底是为什么拼命练剑\N难道这一切都是没用的吗
+Dialogue: 0,0:13:44.15,0:13:46.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就在那边
+Dialogue: 0,0:13:46.62,0:13:48.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}魔法吗？
+Dialogue: 0,0:13:48.42,0:13:51.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是在魔王的时代出现前\N就被称为魔女的家伙  难道...
+Dialogue: 0,0:13:52.79,0:13:54.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}太精彩了
+Dialogue: 0,0:14:02.40,0:14:04.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔王子\N你的身手的确跟传闻中的一样
+Dialogue: 0,0:14:05.27,0:14:07.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}能够跟你交手我真是光荣
+Dialogue: 0,0:14:07.38,0:14:08.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你这家伙是什么东西？
+Dialogue: 0,0:14:09.24,0:14:13.98,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}等一下  我不想要跟你作战\N什么？
+Dialogue: 0,0:14:13.98,0:14:18.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我是你的同伴\N我是为了帮助你才来找你的
+Dialogue: 0,0:14:19.42,0:14:22.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么叫作同伴？
+Dialogue: 0,0:14:23.06,0:14:26.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不好意思\N我刚才是在测试你的实力
+Dialogue: 0,0:14:26.89,0:14:29.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}测试我？竟然随便乱来
+Dialogue: 0,0:14:31.17,0:14:32.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}动不了了...
+Dialogue: 0,0:14:33.00,0:14:34.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我说过了  我不想跟你交手
+Dialogue: 0,0:14:35.34,0:14:38.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我只是想要跟你\N两个人私下谈谈
+Dialogue: 0,0:14:38.81,0:14:42.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别开玩笑了\N我没有话跟你这种小魔物说
+Dialogue: 0,0:14:43.71,0:14:47.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}即使我要跟你谈的是\N你最爱的妹妹克纳也一样吗
+Dialogue: 0,0:14:48.28,0:14:51.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你这个家伙现在说什么？
+Dialogue: 0,0:14:51.62,0:14:54.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}难道你不想救克纳公主吗
+Dialogue: 0,0:14:54.96,0:14:56.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我知道了
+Dialogue: 0,0:14:57.56,0:14:58.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你就说说看吧
+Dialogue: 0,0:14:59.19,0:15:01.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}看来你终于想听我说了
+Dialogue: 0,0:15:02.90,0:15:06.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你也知道  一旦接受了仪式\N成为圣女的话
+Dialogue: 0,0:15:06.47,0:15:08.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就不可能再离开封印之塔了
+Dialogue: 0,0:15:09.34,0:15:14.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就算你想要硬把她出来\N也会被强力的封印束缚
+Dialogue: 0,0:15:14.44,0:15:18.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}只是加速她生命的流失
+Dialogue: 0,0:15:18.11,0:15:22.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没错  只要能突破的话\N我就会把克纳给带走
+Dialogue: 0,0:15:22.65,0:15:26.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是我知道\N如何破除这种封印的方法
+Dialogue: 0,0:15:27.02,0:15:29.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这也是让克纳公主\N挣脱死已命运的方法
+Dialogue: 0,0:15:31.13,0:15:34.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我可以告诉你该怎么做
+Dialogue: 0,0:15:34.43,0:15:37.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就是如何拯救封印公主的力量\N以及知识
+Dialogue: 0,0:15:37.73,0:15:40.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}拯救封印公主的力量以及知识\N你说的是真的吧
+Dialogue: 0,0:15:41.54,0:15:45.91,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}当然  不过我也有条件\N条件？
+Dialogue: 0,0:15:47.14,0:15:48.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的
+Dialogue: 0,0:15:48.44,0:15:52.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就是要你夺走巴尔塔王国公主\N也要夺得王国秘宝
+Dialogue: 0,0:15:52.21,0:15:54.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}秘宝？
+Dialogue: 0,0:15:54.35,0:15:56.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}说什么傻话\N这种事情是不可能的
+Dialogue: 0,0:15:57.49,0:16:00.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不管你再怎么找
+Dialogue: 0,0:16:00.79,0:16:03.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这个世界上都不会有人\N敢接受这种条件的
+Dialogue: 0,0:16:09.00,0:16:10.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不是不可能
+Dialogue: 0,0:16:10.90,0:16:12.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}只要有我给你的力量\N跟智慧的话
+Dialogue: 0,0:16:13.23,0:16:17.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}而且你应该有\N毁灭巴尔塔王国的理由
+Dialogue: 0,0:16:17.41,0:16:19.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你说什么？你到底在说什么？
+Dialogue: 0,0:16:20.64,0:16:24.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我让你看看吧\N你的母亲死亡的真相
+Dialogue: 0,0:16:41.70,0:16:44.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}可恶的国王
+Dialogue: 0,0:16:47.33,0:16:49.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你下定决心了吗？
+Dialogue: 0,0:16:49.60,0:16:52.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}国王所做的一切\N都是为了占有你的母亲
+Dialogue: 0,0:16:53.57,0:16:57.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好吧  我就接受你的诱惑\N请你给我力量
+Dialogue: 0,0:16:57.61,0:17:01.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这也表示你把你的未来\N托付给我了吗
+Dialogue: 0,0:17:02.52,0:17:06.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我愿意  只要能够救我妹妹\N能替我妈妈报仇
+Dialogue: 0,0:17:06.42,0:17:08.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我愿意把生命献给恶魔
+Dialogue: 0,0:17:10.16,0:17:11.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我知道了
+Dialogue: 0,0:17:15.50,0:17:17.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你是怎么了？
+Dialogue: 0,0:17:17.57,0:17:21.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没有\N因为看起来跟外表差太多了
+Dialogue: 0,0:17:21.80,0:17:25.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我的声音还有我的外型\N都不是虚假的
+Dialogue: 0,0:17:28.11,0:17:31.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}说得也是  那么魔女\N我该怎么叫你呢？
+Dialogue: 0,0:17:31.81,0:17:36.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我还没自我介绍  我叫艾利娜\N今后请多指教
+Dialogue: 0,0:17:37.35,0:17:38.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你有什么打算？
+Dialogue: 0,0:17:39.52,0:17:42.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是为了订定契约\N所需要的仪式
+Dialogue: 0,0:17:42.62,0:17:43.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就是这样吗？
+Dialogue: 0,0:17:44.19,0:17:47.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的  所以迪斯多尔\N你就不用客气了
+Dialogue: 0,0:17:49.13,0:17:50.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好
+Dialogue: 0,0:17:51.77,0:17:55.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  请你过来吧
+Dialogue: 0,0:17:57.20,0:18:00.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好棒\N简直不像是这世界上会有的
+Dialogue: 0,0:18:00.74,0:18:02.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不愧是魔女
+Dialogue: 0,0:18:12.02,0:18:13.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}请你不要玩弄我了
+Dialogue: 0,0:18:20.16,0:18:23.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好紧啊  你真的是第一次吗
+Dialogue: 0,0:18:23.60,0:18:25.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你不是进行淫荡仪式的魔女吗
+Dialogue: 0,0:18:27.50,0:18:31.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你是我第一个执行仪式的人
+Dialogue: 0,0:18:38.01,0:18:39.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}太有感觉了
+Dialogue: 0,0:18:44.72,0:18:47.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}碰到深处了  迪斯多尔大人
+Dialogue: 0,0:18:48.69,0:18:52.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不要啊  太激烈了  要坏掉了
+Dialogue: 0,0:18:56.63,0:18:58.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔大人
+Dialogue: 0,0:19:00.90,0:19:02.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好舒服
+Dialogue: 0,0:19:04.41,0:19:09.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好吧  我要污秽你的全身\N用你喜欢的方式
+Dialogue: 0,0:19:16.65,0:19:21.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}已经弄脏了\N这些都是迪斯多尔的精液
+Dialogue: 0,0:19:25.83,0:19:28.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是...\N接受我给你的力量吧
+Dialogue: 0,0:19:28.76,0:19:30.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳
+Dialogue: 0,0:19:31.50,0:19:33.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这就是新的力量吗
+Dialogue: 0,0:19:41.28,0:19:43.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}现在就算只有我一个人\N要消灭这整座森林
+Dialogue: 0,0:19:44.18,0:19:45.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}也是很容易的
+Dialogue: 0,0:19:45.35,0:19:47.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}太棒了
+Dialogue: 0,0:19:47.01,0:19:50.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}只要有这样的力量\N巴尔塔王国跟本不是我的对手
+Dialogue: 0,0:19:51.59,0:19:55.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这样我们的契约就订好了\N已经无法恢复原状了
+Dialogue: 0,0:19:56.32,0:19:59.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我知道  这也都是为了克纳
+Dialogue: 0,0:20:00.36,0:20:03.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那么我的主人\N开始执行第一步计划吧
+Dialogue: 0,0:20:04.16,0:20:06.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那一天开始  一切都变了
+Dialogue: 0,0:20:10.27,0:20:11.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么了？到底发生什么事？
+Dialogue: 0,0:20:12.27,0:20:16.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔谋反了\N你说谋反？他疯了吗？
+Dialogue: 0,0:20:16.98,0:20:21.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}守备队全部阵已了\N王子已直接向着宫殿前进了
+Dialogue: 0,0:20:21.92,0:20:23.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是怎么回事？
+Dialogue: 0,0:20:24.08,0:20:25.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}因为雪希尔团长不在
+Dialogue: 0,0:20:26.05,0:20:27.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}对方有多少人呢？\N只有一个人
+Dialogue: 0,0:20:27.76,0:20:28.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}什么？
+Dialogue: 0,0:20:30.29,0:20:32.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}如果不想死就给我让开
+Dialogue: 0,0:20:33.49,0:20:35.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}没关系  杀了他\N愚蠢之徒
+Dialogue: 0,0:20:38.03,0:20:42.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔？\N公主  你还好吧  恕我失礼了
+Dialogue: 0,0:20:44.34,0:20:48.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这让我意外  引起这么大的骚动\N你还没逃走留在这里
+Dialogue: 0,0:20:49.18,0:20:51.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔  为什么？\N为什么要这么做
+Dialogue: 0,0:20:52.05,0:20:53.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我没有必要回答你
+Dialogue: 0,0:21:01.66,0:21:04.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这就是力量的代价吗
+Dialogue: 0,0:21:04.89,0:21:07.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}主人\N艾莉娜  怎么了？
+Dialogue: 0,0:21:07.59,0:21:11.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}是的  士兵跟魔法师\N慢慢聚集了  请快点
+Dialogue: 0,0:21:12.07,0:21:13.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我知道了  把马牵到森林里去
+Dialogue: 0,0:21:19.01,0:21:22.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}艾利娜  依利娜就拜托你了\N你们先到亚士特里亚
+Dialogue: 0,0:21:22.74,0:21:25.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}主人呢？\N不用说也知道吧
+Dialogue: 0,0:21:33.92,0:21:36.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}请问是哪一位？\N我是迪斯多尔
+Dialogue: 0,0:21:39.76,0:21:40.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}迪斯多尔王子
+Dialogue: 0,0:21:41.26,0:21:44.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}现在来迎接亚士特里亚的\N克纳公主了
+Dialogue: 0,0:21:44.26,0:21:45.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哥哥  你来了
+Dialogue: 0,0:21:46.33,0:21:48.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}克纳 我回来了\N让你等了这么久
+Dialogue: 0,0:21:49.34,0:21:52.74,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我一直很想见你\N我也是
+Dialogue: 0,0:21:53.71,0:21:56.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是我被选为圣女了
+Dialogue: 0,0:21:56.81,0:21:59.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了大家\N我必须贯彻我重要的使命
+Dialogue: 0,0:22:00.05,0:22:03.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}接下来我不能跟你在一起了
+Dialogue: 0,0:22:03.45,0:22:05.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别管这件事情了\N克纳 你听我说
+Dialogue: 0,0:22:05.82,0:22:07.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我一定会救你出去的
+Dialogue: 0,0:22:08.26,0:22:11.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}但是万一魔王复活\N会危害世界的
+Dialogue: 0,0:22:12.29,0:22:14.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}别说了  你听我说\N现在没时间详细说明了
+Dialogue: 0,0:22:15.33,0:22:17.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了救你要做的事情\N可是很多的
+Dialogue: 0,0:22:18.33,0:22:19.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哥哥
+Dialogue: 0,0:22:20.07,0:22:23.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}知道了吧  所以你要坚强\N然后等待着
+Dialogue: 0,0:22:24.07,0:22:26.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我一定会遵守约定  保护你的
+Dialogue: 0,0:22:27.54,0:22:28.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哥哥...
+Dialogue: 0,0:22:29.24,0:22:30.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}明白了吧  等着我吧
+Dialogue: 0,0:22:33.08,0:22:34.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}哥哥...
+Dialogue: 0,0:22:34.78,0:22:37.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为了救出克纳公主\N我的主人必须做两件事
+Dialogue: 0,0:22:39.22,0:22:43.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}一个就是得到巴尔塔王国代代相传的秘宝
+Dialogue: 0,0:22:44.36,0:22:47.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}另外一个就是让拥有\N秘宝之钥的依利娜堕落
+Dialogue: 0,0:22:48.13,0:22:50.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}然后让也体内的封印减弱
+Dialogue: 0,0:22:50.66,0:22:55.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我知道了\N我一定会让依利娜堕落
+Dialogue: 0,0:23:05.18,0:23:06.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}怎么了？有感觉了吗
+Dialogue: 0,0:23:07.28,0:23:08.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}谁会有感觉
+Dialogue: 0,0:23:08.88,0:23:12.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}那就太遗憾了  那就再插深一点
+Dialogue: 0,0:23:13.22,0:23:14.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}你想干什么？
+Dialogue: 0,0:23:19.16,0:23:20.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}不可以
+Dialogue: 0,0:23:29.44,0:23:32.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}看来你有感觉了  依利娜公主
+Dialogue: 0,0:23:35.41,0:23:37.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}少啰唆  没有这回事
+Dialogue: 0,0:23:38.21,0:23:41.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}想不到身为一国公主\N竟然还这么下流的叫着
+Dialogue: 0,0:23:43.48,0:23:44.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}好大啊
+Dialogue: 0,0:23:44.99,0:23:46.59,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这样怎么样？
+Dialogue: 0,0:23:53.89,0:23:56.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}夹紧了  这么舒服吗
+Dialogue: 0,0:23:57.73,0:24:00.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}为什么  我是在被人侵犯的
+Dialogue: 0,0:24:12.71,0:24:14.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}就好好享受憎恨男人的快感吧
+Dialogue: 0,0:24:31.83,0:24:34.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}被你不喜欢的男人\N夺走你的贞操
+Dialogue: 0,0:24:34.57,0:24:37.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}而且射在体内的感觉如何？
+Dialogue: 0,0:24:37.91,0:24:42.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我的贞操竟然是在这种形势下...
+Dialogue: 0,0:24:44.98,0:24:48.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}虽然说是受到了羞辱\N但是依利娜还是没有堕落
+Dialogue: 0,0:24:49.82,0:24:53.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}在她的心以及身体\N都已经丧失了高傲
+Dialogue: 0,0:24:53.79,0:24:56.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}像狗一样\N像禽兽一样追求性欲之前
+Dialogue: 0,0:24:56.86,0:24:58.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}我必须不断侵犯他
+Dialogue: 0,0:24:59.33,0:25:02.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}这是为了救出克纳\N我将要与巴尔塔王国为敌
+Dialogue: 0,0:25:03.30,0:25:05.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}掀起世界性的战乱
+Dialogue: 0,0:25:06.23,0:25:09.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}事情将会变成这样\N不  即使这样也在所不惜
+Dialogue: 0,0:25:09.54,0:25:13.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}即使会被人称乎为魔王\N我也不在乎
+Dialogue: 0,0:25:16.04,0:25:19.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs28\1c&HFFFFFF&\2c&H00FFFF&\3c&H800080&\4c&H000000&\be1}待续
+

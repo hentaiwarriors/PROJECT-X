@@ -1,0 +1,462 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H0000FFF7,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,40,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,40,&H00FFFFFF,&H000000FF,&H00B47424,&H00000000,0,0,0,0,100,100,0,0,1,10,0,8,20,20,130,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.73,0:00:06.28,Grupa,,0,0,0,,{\fad(1691,441)}Nyan
+Dialogue: 0,0:42:57.43,0:43:07.77,Znak,,0,0,0,,{\blur12\fad(1313,1812)}Tina ma jeszcze 1000 lat odsiadki.
+Dialogue: 0,0:00:01.07,0:00:04.89,Default,,0,0,0,,{\be1}Rok 3113 kalendarza kosmicznego.
+Dialogue: 0,0:00:04.89,0:00:12.53,Default,,0,0,0,,{\be1}Ludzkość opuściła swój układ słoneczny\Nw poszukiwaniu planet zdatnych do życia.
+Dialogue: 0,0:00:12.53,0:00:21.64,Default,,0,0,0,,{\be1}Minęło 3000 lat odkąd Ziemia została\Nzanieczyszczona toksycznymi odpadami.
+Dialogue: 0,0:00:21.64,0:00:28.51,Default,,0,0,0,,{\be1}Wtedy też ludzkość desperacko zaczęła\Nszukać planet zdolnych do zamieszkania.
+Dialogue: 0,0:00:28.51,0:00:36.54,Default,,0,0,0,,{\be1}Szybko znaleziono kilka odpowiednich planet i ludzkość masowo zaczęła opuszczać planetę.
+Dialogue: 0,0:00:36.54,0:00:46.71,Default,,0,0,0,,{\be1}Wielki exodus ludzkość dał początek\Nnowemu rządowi, Zjednoczonej Ludzkości, ZL.
+Dialogue: 0,0:00:49.24,0:00:58.16,Default,,0,0,0,,{\be1}Od tamtej pory aż po dziś armia ZL przeczesuje kosmos\Nw poszukiwaniu zasobów i planet do zasiedlenia.
+Dialogue: 0,0:00:58.16,0:01:01.73,Default,,0,0,0,,{\be1}A niezbadane planety są niebezpieczne.
+Dialogue: 0,0:01:01.73,0:01:08.59,Default,,0,0,0,,{\be1}ZL z braku lepszego wyjścia musi\Npolegać na prywatnych odkrywcach.
+Dialogue: 0,0:01:09.96,0:01:23.74,Default,,0,0,0,,{\be1}Odkrywcy nie bacząc na własne bezpieczeństwo\Nprzeszukują niezbadane planety.
+Dialogue: 0,0:01:23.74,0:01:31.98,Default,,0,0,0,,{\be1}Jednakże dzisiejsi odkrywcy to zbieranina byłych\Nłowców skarbów i włóczęgów bez przeszłości.
+Dialogue: 0,0:01:41.06,0:01:43.82,Default,,0,0,0,,{\be1}Tu Mugal z Departamentu Rozwoju.
+Dialogue: 0,0:01:43.82,0:01:49.13,Default,,0,0,0,,{\be1}Vanessa Gronne,\Ndyrektor więzienia dla kobiet M-99.
+Dialogue: 0,0:01:49.13,0:01:52.46,Default,,0,0,0,,{\be1}Kiedy Tina Owen trafiła do was?
+Dialogue: 0,0:01:52.46,0:01:56.63,Default,,0,0,0,,{\be1}6 miesięcy i 13 dni temu czasu ziemskiego.
+Dialogue: 0,0:01:56.63,0:02:00.21,Default,,0,0,0,,{\be1}Przekaż jej, że niedługo będę.
+Dialogue: 0,0:02:00.21,0:02:03.36,Default,,0,0,0,,{\be1}Ale ten więzień dostał wyrok 2000 lat odsiadki.
+Dialogue: 0,0:02:03.36,0:02:05.85,Default,,0,0,0,,{\be1}Przecież wiem.
+Dialogue: 0,0:02:06.52,0:02:11.49,Default,,0,0,0,,{\be1}Co za niespodzianka,\Nsiedzi zaraz pod moim nosem.
+Dialogue: 0,0:02:31.16,0:02:33.58,Default,,0,0,0,,{\be1}Kopę lat, Tina.
+Dialogue: 0,0:02:34.93,0:02:36.73,Default,,0,0,0,,{\be1}Nie zapraszałam cię.
+Dialogue: 0,0:02:36.73,0:02:41.81,Default,,0,0,0,,{\be1}Nie bądź taka oschła,\Nprzyszedłem cię wypuścić.
+Dialogue: 0,0:02:41.81,0:02:47.69,Default,,0,0,0,,{\be1}Wprawdzie ja zleciłem ci tamtą misję,\Nale nie musiałaś niszczyć planety.
+Dialogue: 0,0:02:47.69,0:02:50.97,Default,,0,0,0,,{\be1}Od razu dodam, że to był najniższy wyrok\Njaki udało mi się dla ciebie ugrać.
+Dialogue: 0,0:02:50.97,0:02:53.90,Default,,0,0,0,,{\be1}Nie chcę twoich wymówek\Ni ode mnie też ich nie dostaniesz.
+Dialogue: 0,0:02:53.90,0:02:56.27,Default,,0,0,0,,{\be1}Czuję się za ciebie odpowiedzialny.
+Dialogue: 0,0:02:58.02,0:03:00.05,Default,,0,0,0,,{\be1}Dobrze wiem czego chcesz.
+Dialogue: 0,0:03:00.05,0:03:06.42,Default,,0,0,0,,{\be1}Chcesz się wybić na takich jak ja,\Nktórzy nie mają życia, tylko siedzą po szyję w gównie.
+Dialogue: 0,0:03:06.42,0:03:08.16,Default,,0,0,0,,{\be1}Bystra jak zawsze.
+Dialogue: 0,0:03:08.16,0:03:12.42,Default,,0,0,0,,{\be1}Mamy planetę, na którą nawet\Nnajodważniejsi boją się polecieć.
+Dialogue: 0,0:03:12.42,0:03:14.73,Default,,0,0,0,,{\be1}Potrzebuję twojej pomocy.
+Dialogue: 0,0:03:14.73,0:03:16.63,Default,,0,0,0,,{\be1}A co ze mną?
+Dialogue: 0,0:03:16.63,0:03:23.06,Default,,0,0,0,,{\be1}Znajdź teren zdatny do zamieszkania,\Na postaram się o zmniejszenie wyroku.
+Dialogue: 0,0:03:24.48,0:03:28.90,Default,,0,0,0,,{\be1}To jak będzie?\NMam wszystko czego trzeba.
+Dialogue: 0,0:03:28.90,0:03:31.67,Default,,0,0,0,,{\be1}No i dostaniesz wszystko czego sobie zażyczysz.
+Dialogue: 0,0:03:31.67,0:03:33.36,Default,,0,0,0,,{\be1}- Chcę prysznicu.\N- Co?
+Dialogue: 0,0:03:35.38,0:03:40.16,Default,,0,0,0,,{\be1}Nie powietrzem, tylko takiego z wodą jak na Ziemi.
+Dialogue: 0,0:03:40.16,0:03:43.75,Default,,0,0,0,,{\be1}Dobra, ale w kosmosie to spory luksus.
+Dialogue: 0,0:03:43.75,0:03:48.42,Default,,0,0,0,,{\be1}Tutaj tego nie dostaniesz,\Nale na moim statku już tak.
+Dialogue: 0,0:03:49.16,0:03:50.86,Default,,0,0,0,,{\be1}Tylko nie podglądaj.
+Dialogue: 0,0:03:50.86,0:03:55.10,Default,,0,0,0,,{\be1}Wiem, na razie nie chcę ci wchodzić w drogę.
+Dialogue: 0,0:04:44.56,0:04:47.44,Default,,0,0,0,,{\be1}Wyglądasz wspaniale.
+Dialogue: 0,0:04:47.44,0:04:52.52,Default,,0,0,0,,{\be1}Bardziej się boję, że przyciągniesz\Nnieodpowiednich facetów niż kłopoty.
+Dialogue: 0,0:04:52.52,0:04:55.40,Default,,0,0,0,,{\be1}Co zrobisz, jeśli zaraz ucieknę?
+Dialogue: 0,0:04:55.40,0:04:57.64,Default,,0,0,0,,{\be1}Wiem, że tego nie zrobisz.
+Dialogue: 0,0:04:57.64,0:05:01.47,Default,,0,0,0,,{\be1}Z tak dużym wyrokiem\Nnigdzie nie byłabyś bezpieczna.
+Dialogue: 0,0:05:01.47,0:05:07.88,Default,,0,0,0,,{\be1}Przejrzałam dane o Omedze-13,\Nszansa na przeżycie jest poniżej 2%.
+Dialogue: 0,0:05:07.88,0:05:12.75,Default,,0,0,0,,{\be1}Wierzę, że tyle ci wystarczy.
+Dialogue: 0,0:05:12.75,0:05:14.58,Default,,0,0,0,,{\be1}Nie przeceniasz mnie?
+Dialogue: 0,0:05:17.20,0:05:18.82,Default,,0,0,0,,{\be1}Powodzenia.
+Dialogue: 0,0:05:46.79,0:05:50.78,Default,,0,0,0,,{\be1}Stacja kosmiczna M-75, poziom D.
+Dialogue: 0,0:05:50.78,0:05:57.30,Default,,0,0,0,,{\be1}Przez duży ruch stacja jest najniebezpieczniejsza\Nw galaktyce i posiada największy czarny rynek.
+Dialogue: 0,0:06:21.63,0:06:23.76,Default,,0,0,0,,{\be1}Ej, laleczko, szukasz czegoś?
+Dialogue: 0,0:06:23.76,0:06:27.20,Default,,0,0,0,,{\be1}Mam tu dla ciebie zajebistego kutasa.
+Dialogue: 0,0:06:38.35,0:06:40.13,Default,,0,0,0,,{\be1}Chodź się z nami zabawić.
+Dialogue: 0,0:06:41.48,0:06:44.22,Default,,0,0,0,,{\be1}Masz niezłe ciało.
+Dialogue: 0,0:06:48.01,0:06:50.06,Default,,0,0,0,,{\be1}Podejdźcie, a wydłubię wam oczy!
+Dialogue: 0,0:06:54.61,0:06:55.60,Default,,0,0,0,,{\be1}Ty dziwko!
+Dialogue: 0,0:06:57.56,0:06:59.59,Default,,0,0,0,,{\be1}Zajebię cię!
+Dialogue: 0,0:07:08.28,0:07:10.16,Default,,0,0,0,,{\be1}Mam cię!
+Dialogue: 0,0:07:15.12,0:07:17.25,Default,,0,0,0,,{\be1}Co tu robi taka ślicznotka?
+Dialogue: 0,0:07:17.82,0:07:20.10,Default,,0,0,0,,{\be1}Nie twój interes!
+Dialogue: 0,0:07:20.10,0:07:23.00,Default,,0,0,0,,{\be1}Przynajmniej masz charakterek.
+Dialogue: 0,0:07:23.00,0:07:24.46,Default,,0,0,0,,{\be1}Gdzie jest czarny rynek?
+Dialogue: 0,0:07:25.49,0:07:28.89,Default,,0,0,0,,{\be1}Wybierasz się tam na zakupy?
+Dialogue: 0,0:07:29.38,0:07:32.64,Default,,0,0,0,,{\be1}Nie to nie, sama znajdę.
+Dialogue: 0,0:07:32.64,0:07:34.11,Default,,0,0,0,,{\be1}Czego szukasz?
+Dialogue: 0,0:07:34.11,0:07:38.56,Default,,0,0,0,,{\be1}Statek nadający się na poszukiwania skarbów.
+Dialogue: 0,0:07:39.73,0:07:42.23,Default,,0,0,0,,{\be1}Z jak największą ilością udogodnień.
+Dialogue: 0,0:07:43.29,0:07:44.82,Default,,0,0,0,,{\be1}Zaprowadzę cię.
+Dialogue: 0,0:07:51.82,0:07:54.80,Default,,0,0,0,,{\be1}Tylko 3.6 boli?!
+Dialogue: 0,0:07:54.80,0:07:59.17,Default,,0,0,0,,{\be1}To był ulubiony statek odkrywcy kapitana Ho!
+Dialogue: 0,0:07:59.62,0:08:04.09,Default,,0,0,0,,{\be1}Takiego cacuszka nigdzie nie znajdziecie!
+Dialogue: 0,0:08:07.20,0:08:08.93,Default,,0,0,0,,{\be1}4 miliony boli!
+Dialogue: 0,0:08:08.93,0:08:14.85,Default,,0,0,0,,{\be1}Wspaniałe oko, Garuda!\NPlanujesz kolejną wyprawę?
+Dialogue: 0,0:08:16.29,0:08:19.82,Default,,0,0,0,,{\be1}Szukam planety, na którą ucieknę od kobiety.
+Dialogue: 0,0:08:21.23,0:08:24.97,Default,,0,0,0,,{\be1}Pies na baby Garuda w końcu ma kłopoty.
+Dialogue: 0,0:08:24.97,0:08:30.30,Default,,0,0,0,,{\be1}Tym statkiem dotrzesz nawet\Ndo samego piekła, Omegę-13.
+Dialogue: 0,0:08:30.98,0:08:32.96,Default,,0,0,0,,{\be1}4.5 miliona boli!
+Dialogue: 0,0:08:32.96,0:08:34.12,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:08:38.08,0:08:42.88,Default,,0,0,0,,{\be1}4.5 miliona!\NOdważna jesteś, panienko!
+Dialogue: 0,0:08:42.88,0:08:45.71,Default,,0,0,0,,{\be1}4.5 miliona! Kto da więcej?
+Dialogue: 0,0:08:45.71,0:08:47.13,Default,,0,0,0,,{\be1}5 milionów!
+Dialogue: 0,0:08:47.52,0:08:48.80,Default,,0,0,0,,{\be1}5.5 miliona!
+Dialogue: 0,0:08:49.59,0:08:52.22,Default,,0,0,0,,{\be1}Kurwa! 5.6 miliona!
+Dialogue: 0,0:08:52.55,0:08:53.64,Default,,0,0,0,,{\be1}6 milionów!
+Dialogue: 0,0:08:53.64,0:08:55.05,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:08:58.95,0:08:59.89,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:08:59.89,0:09:02.63,Default,,0,0,0,,{\be1}Sprzedany za 6 milionów!
+Dialogue: 0,0:09:02.63,0:09:06.82,Default,,0,0,0,,{\be1}Pająk kapitana Ho trafia do ślicznej panienki!
+Dialogue: 0,0:09:07.24,0:09:09.88,Default,,0,0,0,,{\be1}Masz tyle kasy?
+Dialogue: 0,0:09:09.88,0:09:12.24,Default,,0,0,0,,{\be1}Sprawdź w banku portowym.
+Dialogue: 0,0:09:12.24,0:09:18.68,Default,,0,0,0,,{\be1}Jestem Tina Owen i właśnie\Notrzymałam 6 milionów za statek ZL.
+Dialogue: 0,0:09:20.16,0:09:23.58,Default,,0,0,0,,{\be1}Dobra, w takim razie chodź podpisać umowę!
+Dialogue: 0,0:09:23.58,0:09:29.47,Default,,0,0,0,,{\be1}Masz farta, rzadko trafia się\Ntak tani statek kapitana Ho.
+Dialogue: 0,0:09:29.47,0:09:34.94,Default,,0,0,0,,{\be1}A do tego przebiłaś samego Garuda!
+Dialogue: 0,0:09:34.94,0:09:37.26,Default,,0,0,0,,{\be1}Masz też niezłe cycki!
+Dialogue: 0,0:09:40.16,0:09:42.27,Default,,0,0,0,,{\be1}Tina Owen.
+Dialogue: 0,0:09:56.06,0:09:57.58,Default,,0,0,0,,{\be1}Masz pecha.
+Dialogue: 0,0:09:58.58,0:10:00.30,Default,,0,0,0,,{\be1}Nie jestem złodziejem!
+Dialogue: 0,0:10:00.30,0:10:03.79,Default,,0,0,0,,{\be1}To nie próbowałeś mnie okraść?
+Dialogue: 0,0:10:03.79,0:10:05.96,Default,,0,0,0,,{\be1}Chciałem ci tylko pomóc ją nieść.
+Dialogue: 0,0:10:06.73,0:10:12.18,Default,,0,0,0,,{\be1}Nie masz gdzie się zatrzymać, prawda?\NZaprowadzę cię w odpowiednie miejsce.
+Dialogue: 0,0:10:12.18,0:10:15.64,Default,,0,0,0,,{\be1}Jestem użyteczniejszy niż myślisz.
+Dialogue: 0,0:10:16.65,0:10:17.80,Default,,0,0,0,,{\be1}Co z twoją rodziną?
+Dialogue: 0,0:10:18.91,0:10:22.67,Default,,0,0,0,,{\be1}Jestem sierotą.
+Dialogue: 0,0:10:22.67,0:10:28.60,Default,,0,0,0,,{\be1}Tylko nie waż się nade mną litować!\NŚwietnie sam sobie radzę!
+Dialogue: 0,0:10:28.60,0:10:31.32,Default,,0,0,0,,{\be1}Dobra, chodź.
+Dialogue: 0,0:10:31.32,0:10:31.99,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:10:32.64,0:10:34.45,Default,,0,0,0,,{\be1}Zgłodniałam.
+Dialogue: 0,0:10:34.87,0:10:36.74,Default,,0,0,0,,{\be1}Znam dobre miejsce.
+Dialogue: 0,0:10:38.11,0:10:39.66,Default,,0,0,0,,{\be1}- Jak się nazywasz?\N- Frill.
+Dialogue: 0,0:10:40.05,0:10:46.38,Default,,0,0,0,,{\be1}No to, Frill, nie musisz udawać przede\Nmną chłopaka, jesteś dziewczyną, nie?
+Dialogue: 0,0:10:46.38,0:10:47.37,Default,,0,0,0,,{\be1}Zauważyłaś?
+Dialogue: 0,0:10:47.37,0:10:48.46,Default,,0,0,0,,{\be1}Jestem...
+Dialogue: 0,0:10:48.46,0:10:50.64,Default,,0,0,0,,{\be1}Tina Owen!
+Dialogue: 0,0:10:50.64,0:10:51.63,Default,,0,0,0,,{\be1}Widziałaś?
+Dialogue: 0,0:10:51.63,0:10:56.65,Default,,0,0,0,,{\be1}Tak, byłaś super, a do tego jesteś piękna.
+Dialogue: 0,0:11:10.75,0:11:13.57,Default,,0,0,0,,{\be1}- Czyżbym miał rywala?\N- Garuda!
+Dialogue: 0,0:11:14.01,0:11:16.49,Default,,0,0,0,,{\be1}Takie kobiety to rzadkość.
+Dialogue: 0,0:11:16.84,0:11:20.91,Default,,0,0,0,,{\be1}Nie zbliżaj się do niej.\NZa wysokie progi dla ciebie.
+Dialogue: 0,0:11:21.37,0:11:23.41,Default,,0,0,0,,{\be1}Chciałem się tylko przywitać.
+Dialogue: 0,0:11:23.41,0:11:26.08,Default,,0,0,0,,{\be1}Kim jesteś dla niej?
+Dialogue: 0,0:11:43.03,0:11:48.19,Default,,0,0,0,,{\be1}Przepraszam, to jedyne otwarte miejsce,\Nale jedzenie mają najlepsze!
+Dialogue: 0,0:11:48.80,0:11:51.89,Default,,0,0,0,,{\be1}Dzięki tobie mam pokój z drzwiami.
+Dialogue: 0,0:11:51.89,0:11:57.07,Default,,0,0,0,,{\be1}Zaskoczyłaś mnie, naprawdę\Nwiększość hoteli nie ma tu drzwi?
+Dialogue: 0,0:11:57.07,0:12:05.24,Default,,0,0,0,,{\be1}Tak, gdy kiedyś statki z zaopatrzeniem nie dolatywały\Ntu, ludzie musieli palić wszystkim co mieli pod ręką.
+Dialogue: 0,0:12:05.24,0:12:09.35,Default,,0,0,0,,{\be1}Chcesz zatrzymać się tu ze mną?
+Dialogue: 0,0:12:09.35,0:12:10.69,Default,,0,0,0,,{\be1}Mogę?
+Dialogue: 0,0:12:10.69,0:12:13.21,Default,,0,0,0,,{\be1}Masz gdzie pójść?
+Dialogue: 0,0:12:13.97,0:12:19.09,Default,,0,0,0,,{\be1}Zanim mój statek będzie gotowy,\Npotrzebuję paru rzeczy.
+Dialogue: 0,0:12:20.03,0:12:22.55,Default,,0,0,0,,{\be1}Zrobię wszystko co zechcesz!
+Dialogue: 0,0:12:22.55,0:12:25.06,Default,,0,0,0,,{\be1}Ale potem mnie zostawisz, prawda?
+Dialogue: 0,0:12:25.66,0:12:28.73,Default,,0,0,0,,{\be1}Nie mogę cię wziąć tam gdzie lecę.
+Dialogue: 0,0:12:29.91,0:12:34.95,Default,,0,0,0,,{\be1}Wiem, za bardzo się różnimy.
+Dialogue: 0,0:12:34.95,0:12:36.55,Default,,0,0,0,,{\be1}Nie o to chodzi.
+Dialogue: 0,0:12:36.55,0:12:43.43,Default,,0,0,0,,{\be1}Tam gdzie lecę jest bardzo niebezpiecznie.
+Dialogue: 0,0:12:43.43,0:12:44.66,Default,,0,0,0,,{\be1}Tina.
+Dialogue: 0,0:12:44.66,0:12:50.30,Default,,0,0,0,,{\be1}Jak skończysz jeść,\Npowęsz trochę o Omedze-13.
+Dialogue: 0,0:12:50.30,0:12:51.54,Default,,0,0,0,,{\be1}Ale tam...
+Dialogue: 0,0:12:51.97,0:12:53.04,Default,,0,0,0,,{\be1}To moja misja.
+Dialogue: 0,0:12:53.54,0:12:54.96,Default,,0,0,0,,{\be1}Jesteś odkrywcą?
+Dialogue: 0,0:12:54.96,0:12:59.63,Default,,0,0,0,,{\be1}Tak. Wrócę tu, jeśli przeżyję.
+Dialogue: 0,0:13:01.02,0:13:02.05,Default,,0,0,0,,{\be1}Poczekasz?
+Dialogue: 0,0:13:02.05,0:13:04.80,Default,,0,0,0,,{\be1}Potrzebujesz pomocy?
+Dialogue: 0,0:13:04.80,0:13:06.45,Default,,0,0,0,,{\be1}Jestem Akira Sato.
+Dialogue: 0,0:13:06.45,0:13:07.66,Default,,0,0,0,,{\be1}Śledziłeś mnie?
+Dialogue: 0,0:13:07.66,0:13:10.73,Default,,0,0,0,,{\be1}Nie mam złych intencji.
+Dialogue: 0,0:13:10.73,0:13:18.57,Default,,0,0,0,,{\be1}Mówiąc szczerze, to ukradli mi tu statek,\Na w hotelu bez drzwi wszystkie pieniądze.
+Dialogue: 0,0:13:18.57,0:13:19.74,Default,,0,0,0,,{\be1}Głupek!
+Dialogue: 0,0:13:20.18,0:13:24.04,Default,,0,0,0,,{\be1}Zginę marnie w jakimś kanale,\Njeśli szybko czegoś nie zrobię.
+Dialogue: 0,0:13:24.04,0:13:29.42,Default,,0,0,0,,{\be1}2 razy pracowałem w załodze odkrywców,\Nchoć w obydwu przypadkach misja się nie powiodła.
+Dialogue: 0,0:13:29.42,0:13:32.92,Default,,0,0,0,,{\be1}Czekałem aż znajdzie się robota dla odkrywców.
+Dialogue: 0,0:13:33.45,0:13:35.74,Default,,0,0,0,,{\be1}Wiesz coś o Omedze-13?
+Dialogue: 0,0:13:35.74,0:13:38.26,Default,,0,0,0,,{\be1}Na pewno więc niż dzieciak.
+Dialogue: 0,0:13:38.98,0:13:41.52,Default,,0,0,0,,{\be1}Ja przynajmniej umiem nasłuchiwać.
+Dialogue: 0,0:13:42.48,0:13:44.84,Default,,0,0,0,,{\be1}Zdecyduję po rozmowie.
+Dialogue: 0,0:13:45.63,0:13:50.73,Default,,0,0,0,,{\be1}Frill, możesz kupić te medykamenty\Ni każdą informację jaką znajdziesz?
+Dialogue: 0,0:13:50.73,0:13:52.36,Default,,0,0,0,,{\be1}Oczywiście!
+Dialogue: 0,0:14:02.24,0:14:05.39,Default,,0,0,0,,{\be1}Lepiej nie próbuj uciekać.
+Dialogue: 0,0:14:05.39,0:14:08.12,Default,,0,0,0,,{\be1}Będzie ci nieziemsko.
+Dialogue: 0,0:14:08.12,0:14:11.54,Default,,0,0,0,,{\be1}Nie róbcie tego, służymy bogu.
+Dialogue: 0,0:14:12.52,0:14:15.46,Default,,0,0,0,,{\be1}Bóg będzie zadowolony jeśli mi się oddasz.
+Dialogue: 0,0:14:15.46,0:14:17.63,Default,,0,0,0,,{\be1}Lepiej się nie szarp!
+Dialogue: 0,0:14:18.10,0:14:19.80,Default,,0,0,0,,{\be1}Panienko!
+Dialogue: 0,0:14:20.31,0:14:21.71,Default,,0,0,0,,{\be1}To żadne zakonnice.
+Dialogue: 0,0:14:22.12,0:14:25.51,Default,,0,0,0,,{\be1}Nie! Pomocy!
+Dialogue: 0,0:14:28.06,0:14:31.56,Default,,0,0,0,,{\be1}- Niezłą ma dupę!\N- Puszczaj!
+Dialogue: 0,0:14:33.92,0:14:36.56,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:14:38.49,0:14:40.32,Default,,0,0,0,,{\be1}Cecil!
+Dialogue: 0,0:14:46.56,0:14:49.20,Default,,0,0,0,,{\be1}Tego nigdy nie zapomnisz.
+Dialogue: 0,0:14:55.17,0:14:56.78,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:14:59.12,0:15:02.76,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:15:05.51,0:15:06.68,Default,,0,0,0,,{\be1}Skurwysyny!
+Dialogue: 0,0:15:08.60,0:15:10.01,Default,,0,0,0,,{\be1}Ktoś ty?!
+Dialogue: 0,0:15:22.55,0:15:23.65,Default,,0,0,0,,{\be1}Garuda?
+Dialogue: 0,0:15:24.12,0:15:26.07,Default,,0,0,0,,{\be1}Joanna!
+Dialogue: 0,0:15:40.26,0:15:41.38,Default,,0,0,0,,{\be1}Śmiecie!
+Dialogue: 0,0:15:41.84,0:15:43.99,Default,,0,0,0,,{\be1}Garuda, tęskniłam!
+Dialogue: 0,0:15:43.99,0:15:49.52,Default,,0,0,0,,{\be1}Idiotko, coś ty sobie myślała\Nprzylatując tu przebrana za zakonnicę?!
+Dialogue: 0,0:15:49.52,0:15:53.14,Default,,0,0,0,,{\be1}Więcej nie pozwolę ci uciec.
+Dialogue: 0,0:15:53.14,0:15:57.06,Default,,0,0,0,,{\be1}Jutro wyjeżdżasz.\NMam robotę, łapiesz?!
+Dialogue: 0,0:15:57.06,0:15:59.29,Default,,0,0,0,,{\be1}Jestem wam dłużny.
+Dialogue: 0,0:15:59.29,0:16:00.73,Default,,0,0,0,,{\be1}Niepotrzebnie.
+Dialogue: 0,0:16:02.72,0:16:06.17,Default,,0,0,0,,{\be1}Szczęście cię opuściło.
+Dialogue: 0,0:16:06.17,0:16:07.41,Default,,0,0,0,,{\be1}Pierdol się!
+Dialogue: 0,0:16:11.37,0:16:17.37,Default,,0,0,0,,{\be1}Do tej pory 7 grup odkrywców poleciało\Nna Omegę-13 i żadna nie wróciła.
+Dialogue: 0,0:16:17.37,0:16:21.50,Default,,0,0,0,,{\be1}Było ich 9.\NDwie nieoficjalne jako łowcy skarbów.
+Dialogue: 0,0:16:21.50,0:16:25.27,Default,,0,0,0,,{\be1}Chyba nie jesteś taka zła.
+Dialogue: 0,0:16:25.27,0:16:26.57,Default,,0,0,0,,{\be1}Mówiłam.
+Dialogue: 0,0:16:26.57,0:16:30.87,Default,,0,0,0,,{\be1}To dlatego nie ma danych o Omedze-13.
+Dialogue: 0,0:16:30.87,0:16:36.79,Default,,0,0,0,,{\be1}Skoro latają tam nawet łowcy skarbów,\Nto muszą tam być cenne surowce.
+Dialogue: 0,0:16:36.79,0:16:44.69,Default,,0,0,0,,{\be1}To prawda, ale według danych z satelity 87%\Npowierzchni planty leży w gorącym klimacie.
+Dialogue: 0,0:16:45.09,0:16:48.11,Default,,0,0,0,,{\be1}Więc musi być pustynna.
+Dialogue: 0,0:16:48.11,0:16:53.53,Default,,0,0,0,,{\be1}Na dodatek poza tlenem,\Nsą też substancje szkodliwe.
+Dialogue: 0,0:16:53.53,0:16:56.85,Default,,0,0,0,,{\be1}Powinnaś zrezygnować póki możesz.
+Dialogue: 0,0:16:56.85,0:17:00.46,Default,,0,0,0,,{\be1}To wtedy ty będziesz bez pracy.\NTego chcesz?
+Dialogue: 0,0:17:00.89,0:17:04.38,Default,,0,0,0,,{\be1}Jakoś nie mam ochoty oglądać twoich zwłok.
+Dialogue: 0,0:17:04.81,0:17:08.37,Default,,0,0,0,,{\be1}Akira to tchórz, ja z tobą polecę.
+Dialogue: 0,0:17:08.37,0:17:09.42,Default,,0,0,0,,{\be1}Ty gówniaro!
+Dialogue: 0,0:17:10.75,0:17:15.69,Default,,0,0,0,,{\be1}Mogę lecieć?\NNie ma gdzie się podziać.
+Dialogue: 0,0:17:16.14,0:17:18.34,Default,,0,0,0,,{\be1}Nie boisz się śmierci?
+Dialogue: 0,0:17:18.34,0:17:20.77,Default,,0,0,0,,{\be1}Nie ma nic gorszego od samotności.
+Dialogue: 0,0:17:21.76,0:17:24.31,Default,,0,0,0,,{\be1}No dobra, możesz lecieć.
+Dialogue: 0,0:17:24.31,0:17:25.44,Default,,0,0,0,,{\be1}Tina!
+Dialogue: 0,0:17:25.44,0:17:29.81,Default,,0,0,0,,{\be1}Ja też lecę, nie chcę cię zostawić samą.
+Dialogue: 0,0:17:29.81,0:17:35.07,Default,,0,0,0,,{\be1}Powiedz, czy od początku nie chciałeś tam lecieć?
+Dialogue: 0,0:17:36.49,0:17:37.96,Default,,0,0,0,,{\be1}Co kombinujesz?
+Dialogue: 0,0:17:38.90,0:17:42.04,Default,,0,0,0,,{\be1}Jest taki sam jak Garuda,\Nchce się tylko wzbogacić.
+Dialogue: 0,0:17:42.04,0:17:44.46,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:17:44.46,0:17:48.42,Default,,0,0,0,,{\be1}Ścigam mordercę moich rodziców i siostry.
+Dialogue: 0,0:17:50.37,0:17:53.72,Default,,0,0,0,,{\be1}Wiem, że był na tej stacji.
+Dialogue: 0,0:17:53.72,0:17:56.57,Default,,0,0,0,,{\be1}Nazywa się Ortega,\Nto były odkrywca, a teraz pirat.
+Dialogue: 0,0:17:56.57,0:17:58.35,Default,,0,0,0,,{\be1}Myślisz, że poleciał na Omegę-13?
+Dialogue: 0,0:17:58.72,0:18:05.27,Default,,0,0,0,,{\be1}O ile jeszcze żyje.\NJeśli trafi na coś cennego na pewno tu przyleci.
+Dialogue: 0,0:18:05.79,0:18:09.35,Default,,0,0,0,,{\be1}Lepiej prześpij się z tym i nie zmuszaj się.
+Dialogue: 0,0:18:09.35,0:18:13.11,Default,,0,0,0,,{\be1}Dlaczego zdecydowałaś się na Omegę-13?
+Dialogue: 0,0:18:13.11,0:18:17.74,Default,,0,0,0,,{\be1}Jestem pewien, że mogłaś\Nwybrać bezpieczniejszą planetę.
+Dialogue: 0,0:18:19.16,0:18:21.66,Default,,0,0,0,,{\be1}Muszę w zamian za złagodzenie wyroku 2000 lat.
+Dialogue: 0,0:18:22.14,0:18:25.06,Default,,0,0,0,,{\be1}Nie chcę o tym mówić.
+Dialogue: 0,0:18:25.06,0:18:29.55,Default,,0,0,0,,{\be1}Dobra, to lecę z wami.\NNie zostawię was same.
+Dialogue: 0,0:18:31.04,0:18:33.26,Default,,0,0,0,,{\be1}Dobranoc.
+Dialogue: 0,0:18:34.17,0:18:36.96,Default,,0,0,0,,{\be1}Leci na ciebie.
+Dialogue: 0,0:18:36.96,0:18:41.94,Default,,0,0,0,,{\be1}Widać po tym jak na ciebie patrzy.
+Dialogue: 0,0:18:42.73,0:18:44.99,Default,,0,0,0,,{\be1}Nie za dorosła jesteś?
+Dialogue: 0,0:18:49.59,0:18:54.06,Default,,0,0,0,,{\be1}Garuda, cudownie!
+Dialogue: 0,0:19:01.53,0:19:04.83,Default,,0,0,0,,{\be1}Więcej cię nie zostawię!
+Dialogue: 0,0:19:05.30,0:19:07.75,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:19:07.75,0:19:11.21,Default,,0,0,0,,{\be1}Jestem śmiercią, rozumiesz?
+Dialogue: 0,0:19:11.21,0:19:20.01,Default,,0,0,0,,{\be1}Wszędzie pójdę za tobą!\NBądźmy razem! Garuda!
+Dialogue: 0,0:19:27.40,0:19:30.64,Default,,0,0,0,,{\be1}Tina, ładna planeta.
+Dialogue: 0,0:19:30.64,0:19:34.00,Default,,0,0,0,,{\be1}Wiesz o czym myślę?
+Dialogue: 0,0:19:34.75,0:19:37.98,Default,,0,0,0,,{\be1}Urodziłam się z pewnymi mocami.
+Dialogue: 0,0:19:37.98,0:19:42.12,Default,,0,0,0,,{\be1}Mogę rozmawiać choćby z ziemią,\Nrybami czy roślinami.
+Dialogue: 0,0:19:42.12,0:19:42.87,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:19:44.14,0:19:46.58,Default,,0,0,0,,{\be1}Mogę też zajrzeć w twoje serce.
+Dialogue: 0,0:19:47.29,0:19:49.29,Default,,0,0,0,,{\be1}Tam się urodziłaś?
+Dialogue: 0,0:19:49.29,0:19:53.06,Default,,0,0,0,,{\be1}Nie wiem, mam wielką dziurę w wspomnieniach.
+Dialogue: 0,0:19:53.06,0:19:56.88,Default,,0,0,0,,{\be1}To ta legendarna planeta Noe?
+Dialogue: 0,0:19:56.88,0:20:01.97,Default,,0,0,0,,{\be1}Nie wiem.\NNoe to tylko niepotwierdzona legenda.
+Dialogue: 0,0:20:14.65,0:20:17.99,Default,,0,0,0,,{\be1}Widzisz mnie w twoim wieku?
+Dialogue: 0,0:20:18.99,0:20:21.20,Default,,0,0,0,,{\be1}Prawie nic nie pamiętam z tamtego okresu.
+Dialogue: 0,0:20:21.20,0:20:26.41,Default,,0,0,0,,{\be1}Wszystko zaczyna się dopiero w wieku 14 lat,\Ngdy uczyłam się na odkrywcę.
+Dialogue: 0,0:20:26.95,0:20:31.28,Default,,0,0,0,,{\be1}- A co z twoją rodziną?\N- Nie znam. Jestem jak ty.
+Dialogue: 0,0:20:31.28,0:20:32.88,Default,,0,0,0,,{\be1}- Chcesz ich poznać?\N- Tak.
+Dialogue: 0,0:20:33.36,0:20:39.80,Default,,0,0,0,,{\be1}Ale jeśli to Noe, to pewnie wyobraziłam to sobie.
+Dialogue: 0,0:20:39.80,0:20:41.62,Default,,0,0,0,,{\be1}Spróbuj sobie przypomnieć.
+Dialogue: 0,0:20:42.67,0:20:45.12,Default,,0,0,0,,{\be1}Kiedyś poznasz prawdę.
+Dialogue: 0,0:20:45.12,0:20:47.01,Default,,0,0,0,,{\be1}No nie wiem.
+Dialogue: 0,0:20:52.72,0:20:54.16,Default,,0,0,0,,{\be1}Nieźle wyglądasz.
+Dialogue: 0,0:20:54.16,0:20:56.36,Default,,0,0,0,,{\be1}Jak chcesz się oświadczyć to lepiej teraz.
+Dialogue: 0,0:20:56.36,0:20:58.44,Default,,0,0,0,,{\be1}Jesteś dla mnie za młoda.
+Dialogue: 0,0:20:58.44,0:20:59.66,Default,,0,0,0,,{\be1}Wszystko gotowe?
+Dialogue: 0,0:20:59.66,0:21:01.87,Default,,0,0,0,,{\be1}Tak jest, kapitanie.
+Dialogue: 0,0:21:04.04,0:21:06.43,Default,,0,0,0,,{\be1}Pora ruszać w drogę.
+Dialogue: 0,0:21:06.43,0:21:09.26,Default,,0,0,0,,{\be1}Ty też lecisz na Omegę-13?
+Dialogue: 0,0:21:09.26,0:21:12.23,Default,,0,0,0,,{\be1}Zobaczymy.\NW razie problemów zadzwońcie.
+Dialogue: 0,0:21:12.23,0:21:16.00,Default,,0,0,0,,{\be1}Nie lubię wisieć przysług.
+Dialogue: 0,0:21:16.99,0:21:21.72,Default,,0,0,0,,{\be1}Garuda musiał zdobyć informacje,\Nktórych my nie mamy.
+Dialogue: 0,0:21:21.72,0:21:24.59,Default,,0,0,0,,{\be1}Lepiej mu nie ufać.
+Dialogue: 0,0:21:24.59,0:21:25.78,Default,,0,0,0,,{\be1}Akira?
+Dialogue: 0,0:21:25.78,0:21:29.60,Default,,0,0,0,,{\be1}Jest jednym z tych, co zrobię\Nwszystko, by osiągnąć swój cel.
+Dialogue: 0,0:21:30.42,0:21:31.56,Default,,0,0,0,,{\be1}Ruszajmy.
+Dialogue: 0,0:21:45.78,0:21:47.12,Default,,0,0,0,,{\be1}Kopalnia złota!
+Dialogue: 0,0:21:52.55,0:21:55.13,Default,,0,0,0,,{\be1}Wy zostaniecie tutaj.
+Dialogue: 0,0:22:24.59,0:22:26.62,Default,,0,0,0,,{\be1}Jest tu ktoś?
+Dialogue: 0,0:22:40.30,0:22:43.72,Default,,0,0,0,,{\be1}Garuda! Pomocy!
+Dialogue: 0,0:22:47.10,0:22:48.20,Default,,0,0,0,,{\be1}Panienko!
+Dialogue: 0,0:22:48.20,0:22:50.80,Default,,0,0,0,,{\be1}Eva, co robimy?
+Dialogue: 0,0:22:50.80,0:22:53.81,Default,,0,0,0,,{\be1}Garuda kazał tu zostać.
+Dialogue: 0,0:22:56.19,0:22:58.51,Default,,0,0,0,,{\be1}Uciekajmy do Garudy!
+Dialogue: 0,0:23:01.82,0:23:04.70,Default,,0,0,0,,{\be1}Zginiemy, jeśli tu zostaniemy!
+Dialogue: 0,0:23:04.70,0:23:06.36,Default,,0,0,0,,{\be1}Pospieszcie się!
+Dialogue: 0,0:23:30.93,0:23:33.89,Default,,0,0,0,,{\be1}Niesamowite, wszędzie złoto!
+Dialogue: 0,0:23:33.89,0:23:36.27,Default,,0,0,0,,{\be1}- Co to?\N- To statek Garudy.
+Dialogue: 0,0:23:36.62,0:23:40.19,Default,,0,0,0,,{\be1}Zostali zaatakowani przez\Ncoś z porzuconego statku.
+Dialogue: 0,0:23:40.19,0:23:45.32,Default,,0,0,0,,{\be1}Tu Tina z Pająka, Garuda, opowiedz!
+Dialogue: 0,0:23:48.62,0:23:52.03,Default,,0,0,0,,{\be1}Wszyscy musieli wejść do statku.
+Dialogue: 0,0:23:58.68,0:24:00.08,Default,,0,0,0,,{\be1}Idę z tobą!
+Dialogue: 0,0:24:00.08,0:24:01.65,Default,,0,0,0,,{\be1}Zostaniesz tutaj.
+Dialogue: 0,0:24:01.65,0:24:06.22,Default,,0,0,0,,{\be1}Odlecisz, jeśli to coś zaatakuje odlecisz,\Nbo możemy już nigdy nie wrócić.
+Dialogue: 0,0:24:07.94,0:24:09.45,Default,,0,0,0,,{\be1}Umiesz pilotować statek?
+Dialogue: 0,0:24:09.45,0:24:11.95,Default,,0,0,0,,{\be1}Tak. Tina.
+Dialogue: 0,0:24:11.95,0:24:13.92,Default,,0,0,0,,{\be1}Nie martw się.
+Dialogue: 0,0:24:13.92,0:24:15.89,Default,,0,0,0,,{\be1}Wracaj jak najszybciej!
+Dialogue: 0,0:24:37.28,0:24:39.75,Default,,0,0,0,,{\be1}Nie ma ich, pewnie są na drugim statku.
+Dialogue: 0,0:24:59.94,0:25:00.98,Default,,0,0,0,,{\be1}Tina!
+Dialogue: 0,0:25:16.75,0:25:19.16,Default,,0,0,0,,{\be1}Dyktafon.
+Dialogue: 0,0:25:24.79,0:25:26.42,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:25:29.73,0:25:31.51,Default,,0,0,0,,{\be1}Panienko, uciekaj!
+Dialogue: 0,0:25:31.51,0:25:33.77,Default,,0,0,0,,{\be1}Cecil! Eva!
+Dialogue: 0,0:25:33.77,0:25:35.43,Default,,0,0,0,,{\be1}Biegnij do Garudy!
+Dialogue: 0,0:25:52.28,0:25:54.12,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:59.62,0:26:00.86,Default,,0,0,0,,{\be1}Eva!
+Dialogue: 0,0:26:25.55,0:26:27.06,Default,,0,0,0,,{\be1}Okropny widok.
+Dialogue: 0,0:26:42.54,0:26:43.54,Default,,0,0,0,,{\be1}Garuda!
+Dialogue: 0,0:26:43.54,0:26:45.03,Default,,0,0,0,,{\be1}Joanna!
+Dialogue: 0,0:26:45.03,0:26:46.92,Default,,0,0,0,,{\be1}Eva i Cecil...
+Dialogue: 0,0:26:50.88,0:26:52.76,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:26:53.81,0:26:55.72,Default,,0,0,0,,{\be1}Nikt nie przeżył.
+Dialogue: 0,0:26:56.23,0:27:01.10,Default,,0,0,0,,{\be1}Znalazłem dyktafon,\Ndowiemy się co się tu stało.
+Dialogue: 0,0:27:01.10,0:27:02.56,Default,,0,0,0,,{\be1}Wynośmy się.
+Dialogue: 0,0:27:02.56,0:27:03.93,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:27:06.81,0:27:08.86,Default,,0,0,0,,{\be1}Tina!
+Dialogue: 0,0:27:15.23,0:27:16.92,Default,,0,0,0,,{\be1}Tina!
+Dialogue: 0,0:27:17.78,0:27:18.62,Default,,0,0,0,,{\be1}Frill!
+Dialogue: 0,0:27:19.04,0:27:20.58,Default,,0,0,0,,{\be1}Pośpiesz się!
+Dialogue: 0,0:27:20.58,0:27:22.67,Default,,0,0,0,,{\be1}Garuda, właź pierwszy!
+Dialogue: 0,0:28:02.79,0:28:05.38,Default,,0,0,0,,{\be1}Dzięki, a teraz czekajcie.
+Dialogue: 0,0:28:29.98,0:28:31.66,Default,,0,0,0,,{\be1}Tina?
+Dialogue: 0,0:28:31.66,0:28:37.60,Default,,0,0,0,,{\be1}Z Joanną jest wszystko\Nw porządku, spisałaś się.
+Dialogue: 0,0:28:39.66,0:28:42.21,Default,,0,0,0,,{\be1}Zaraz wejdziemy w atmosferę.
+Dialogue: 0,0:28:42.21,0:28:45.66,Default,,0,0,0,,{\be1}Strefa lądowania leży w łagodnym klimacie.
+Dialogue: 0,0:28:45.66,0:28:48.14,Default,,0,0,0,,{\be1}Garuda, włącz dyktafon.
+Dialogue: 0,0:28:50.09,0:28:53.40,Default,,0,0,0,,{\be1}Niesamowite, żyła złota!
+Dialogue: 0,0:28:53.40,0:28:57.31,Default,,0,0,0,,{\be1}Co się dzieje?! Gdzie woda i żywność?!
+Dialogue: 0,0:28:57.31,0:29:01.51,Default,,0,0,0,,{\be1}Chcesz zgarnąć dla siebie całe bogactwo?!
+Dialogue: 0,0:29:01.51,0:29:05.04,Default,,0,0,0,,{\be1}Zdechnij wreszcie, Ortega.
+Dialogue: 0,0:29:05.04,0:29:05.89,Default,,0,0,0,,{\be1}Ty skurwielu!
+Dialogue: 0,0:29:06.24,0:29:07.27,Default,,0,0,0,,{\be1}Ortega?!
+Dialogue: 0,0:29:08.81,0:29:10.13,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:29:11.64,0:29:12.86,Default,,0,0,0,,{\be1}Co się dzieje?!
+Dialogue: 0,0:29:15.20,0:29:16.48,Default,,0,0,0,,{\be1}Akira.
+Dialogue: 0,0:29:17.32,0:29:19.54,Default,,0,0,0,,{\be1}Zemsta może poczekać.
+Dialogue: 0,0:29:19.54,0:29:24.67,Default,,0,0,0,,{\be1}Odlatujemy, gdy tylko znajdziesz strefę zdatną\Ndo zamieszkania, kiedyś sam tu wrócę.
+Dialogue: 0,0:29:25.68,0:29:27.24,Default,,0,0,0,,{\be1}Więc oto biega.
+Dialogue: 0,0:29:27.24,0:29:31.40,Default,,0,0,0,,{\be1}Pewnie przyleciałeś tu po to, co Ortega.
+Dialogue: 0,0:29:31.40,0:29:36.33,Default,,0,0,0,,{\be1}Nie waż się szukać go,\Ndopóki Tina nie skończy misji!
+Dialogue: 0,0:29:36.33,0:29:39.10,Default,,0,0,0,,{\be1}Najpierw to musimy bezpiecznie wylądować.
+Dialogue: 0,0:29:39.10,0:29:41.28,Default,,0,0,0,,{\be1}Zobaczymy co będzie potem.
+Dialogue: 0,0:29:41.28,0:29:42.43,Default,,0,0,0,,{\be1}Skurwielu!
+Dialogue: 0,0:29:42.43,0:29:46.80,Default,,0,0,0,,{\be1}Akira! Po wylądowaniu Garuda\Nmoże działać na własną rękę.
+Dialogue: 0,0:29:46.80,0:29:48.45,Default,,0,0,0,,{\be1}Nie unoś się.
+Dialogue: 0,0:29:48.45,0:29:51.03,Default,,0,0,0,,{\be1}Kobitka ma więcej rozumu niż ty.
+Dialogue: 0,0:29:51.03,0:29:55.31,Default,,0,0,0,,{\be1}Nie dygaj, nie chcę mieć u niej kolejnego długu.
+Dialogue: 0,0:29:56.38,0:29:58.40,Default,,0,0,0,,{\be1}Wlatujemy w atmosferę planety.
+Dialogue: 0,0:29:58.40,0:30:01.28,Default,,0,0,0,,{\be1}- Frill, przygotujmy się.\N- Dobra!
+Dialogue: 0,0:30:06.24,0:30:08.96,Default,,0,0,0,,{\be1}Koleś, nieźle cię wzięło na nią.
+Dialogue: 0,0:30:47.95,0:30:51.10,Default,,0,0,0,,{\be1}Temperatura 45.5ºC, wilgotność 20%.
+Dialogue: 0,0:30:51.10,0:30:54.59,Default,,0,0,0,,{\be1}Brak szkodliwych bakterii i zanieczyszczeń.
+Dialogue: 0,0:30:54.59,0:30:57.50,Default,,0,0,0,,{\be1}Spadliśmy daleko od strefy lądowania.
+Dialogue: 0,0:30:58.06,0:31:00.46,Default,,0,0,0,,{\be1}Dobrze, że w ogóle żyjemy.
+Dialogue: 0,0:31:00.46,0:31:06.77,Default,,0,0,0,,{\be1}Z powietrzem na planecie\Npowinniśmy przeżyć, ale lepiej uważać.
+Dialogue: 0,0:31:08.37,0:31:13.02,Default,,0,0,0,,{\be1}Dzięki, najpierw naprawię swój statek.
+Dialogue: 0,0:31:13.02,0:31:15.07,Default,,0,0,0,,{\be1}Kiedyś ci się odwdzięczę.
+Dialogue: 0,0:31:15.07,0:31:19.69,Default,,0,0,0,,{\be1}Bardzo nie lubisz być dłużny.\NNajważniejsze, żebyś nie przeszkadzał.
+Dialogue: 0,0:31:19.69,0:31:21.99,Default,,0,0,0,,{\be1}Źle mnie oceniasz.
+Dialogue: 0,0:31:22.97,0:31:26.08,Default,,0,0,0,,{\be1}Tina, nie wiem co powiedzieć.
+Dialogue: 0,0:31:26.08,0:31:29.10,Default,,0,0,0,,{\be1}Nie uratowałam twoich przyjaciółek.
+Dialogue: 0,0:31:31.34,0:31:32.62,Default,,0,0,0,,{\be1}Uważaj na siebie.
+Dialogue: 0,0:31:32.62,0:31:33.79,Default,,0,0,0,,{\be1}Ty też.
+Dialogue: 0,0:31:38.77,0:31:41.50,Default,,0,0,0,,{\be1}Tina, tutaj jest jak w saunie!
+Dialogue: 0,0:31:58.23,0:32:02.74,Default,,0,0,0,,{\be1}Akira, jak tylko wykonamy zadanie\Npoczekamy aż do wieczora.
+Dialogue: 0,0:32:02.74,0:32:04.15,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:32:12.86,0:32:16.01,Default,,0,0,0,,{\be1}Będzie zimno, gdy zmrok zapadnie.
+Dialogue: 0,0:32:16.01,0:32:22.18,Default,,0,0,0,,{\be1}Pospiesz się i pobierz próbki roślin,\Nminerałów i małych zwierząt.
+Dialogue: 0,0:32:22.18,0:32:23.30,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:32:23.30,0:32:30.17,Default,,0,0,0,,{\be1}Pod żadnym pozorem nie oddalaj się za daleko.\NW tym upale mocno się zmęczymy.
+Dialogue: 0,0:32:30.17,0:32:31.21,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:32:32.57,0:32:44.15,Default,,0,0,0,,{\be1}Tina, zastanawia mnie, dlaczego\Nnie wrócił stąd żaden odkrywca.
+Dialogue: 0,0:32:44.69,0:32:47.24,Default,,0,0,0,,{\be1}Ja też o ty myślałam.
+Dialogue: 0,0:32:47.24,0:32:54.08,Default,,0,0,0,,{\be1}Musimy uważać, może tu być coś okropnego.\NPamiętaj, żeby cały czas się pilnować.
+Dialogue: 0,0:32:54.08,0:32:56.31,Default,,0,0,0,,{\be1}Dobra, ty też uważaj.
+Dialogue: 0,0:33:05.30,0:33:07.92,Default (i),,0,0,0,,{\be1}Nie ma ani jednej rośliny.
+Dialogue: 0,0:33:09.26,0:33:12.84,Default (i),,0,0,0,,{\be1}Skąd w takim razie tlen na tej planecie?
+Dialogue: 0,0:33:19.19,0:33:20.56,Default,,0,0,0,,{\be1}Frill!
+Dialogue: 0,0:33:22.07,0:33:24.89,Default,,0,0,0,,{\be1}Co się stało?! Frill!
+Dialogue: 0,0:33:24.89,0:33:31.94,Default,,0,0,0,,{\be1}Nie mówiłam o tym, ale jestem\Nmieszańcem człowieka i shamoana.
+Dialogue: 0,0:33:31.94,0:33:37.12,Default,,0,0,0,,{\be1}Gdy wyczuję coś nienormalnego\Nwychodzi na wierzch moja druga natura.
+Dialogue: 0,0:33:37.12,0:33:44.54,Default,,0,0,0,,{\be1}Właśnie wyczułam ogromne ilości\Npotężnych i agresywnych roślin.
+Dialogue: 0,0:33:55.93,0:33:57.93,Default,,0,0,0,,{\be1}Akira!
+Dialogue: 0,0:34:04.65,0:34:10.34,Default,,0,0,0,,{\be1}Garuda, wracajmy.\NTemperatura zaczęła spadać.
+Dialogue: 0,0:34:10.34,0:34:14.99,Default,,0,0,0,,{\be1}Nie tak szybko, przyleciałem tu po skarby.
+Dialogue: 0,0:34:15.63,0:34:19.45,Default,,0,0,0,,{\be1}Słyszysz to?! To musi być żyła złota!
+Dialogue: 0,0:34:19.45,0:34:23.33,Default,,0,0,0,,{\be1}Inaczej Ortega nie przyleciałby tutaj!
+Dialogue: 0,0:34:27.67,0:34:30.13,Default,,0,0,0,,{\be1}Garuda, przestań.
+Dialogue: 0,0:34:37.10,0:34:41.47,Default,,0,0,0,,{\be1}Zaczekaj tutaj.\NSprawdzę co jest w środku.
+Dialogue: 0,0:34:43.28,0:34:46.60,Default,,0,0,0,,{\be1}W razie czego uciekaj sama, jasne?
+Dialogue: 0,0:35:01.57,0:35:03.83,Default,,0,0,0,,{\be1}To ten Ortega?
+Dialogue: 0,0:35:15.07,0:35:16.41,Default,,0,0,0,,{\be1}Garuda!
+Dialogue: 0,0:35:16.41,0:35:18.52,Default,,0,0,0,,{\be1}Cholera, spieprzamy!
+Dialogue: 0,0:35:25.19,0:35:26.56,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:35:39.62,0:35:41.22,Default,,0,0,0,,{\be1}Szybko, na statek!
+Dialogue: 0,0:35:41.22,0:35:42.73,Default,,0,0,0,,{\be1}Frill, pośpiesz się!
+Dialogue: 0,0:35:48.42,0:35:49.83,Default,,0,0,0,,{\be1}Akira!
+Dialogue: 0,0:36:15.35,0:36:16.74,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:36:48.71,0:36:49.84,Default,,0,0,0,,{\be1}Frill!
+Dialogue: 0,0:36:57.95,0:37:00.83,Default,,0,0,0,,{\be1}Frill, ocknij się!
+Dialogue: 0,0:37:00.83,0:37:02.19,Default,,0,0,0,,{\be1}Ti... Tina?
+Dialogue: 0,0:37:02.19,0:37:04.03,Default,,0,0,0,,{\be1}Słuchaj uważnie!
+Dialogue: 0,0:37:04.03,0:37:10.92,Default,,0,0,0,,{\be1}Zatrzymam to coś tutaj, a ty pobiegniesz do maszynowni\Ni uruchomisz procedurę awaryjnego startu.
+Dialogue: 0,0:37:10.92,0:37:15.26,Default,,0,0,0,,{\be1}W ten sposób wyrwiemy się stąd.
+Dialogue: 0,0:37:15.26,0:37:16.37,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:37:53.71,0:37:55.79,Default,,0,0,0,,{\be1}Akira, żyjesz jeszcze?!
+Dialogue: 0,0:37:57.93,0:37:59.42,Default,,0,0,0,,{\be1}Akira!
+Dialogue: 0,0:37:59.42,0:38:00.88,Default,,0,0,0,,{\be1}Jesteś cała?
+Dialogue: 0,0:38:05.68,0:38:07.94,Default,,0,0,0,,{\be1}Cholera, Garuda!
+Dialogue: 0,0:38:15.40,0:38:17.43,Default,,0,0,0,,{\be1}Joanna!
+Dialogue: 0,0:38:20.57,0:38:22.49,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:38:30.54,0:38:33.00,Default,,0,0,0,,{\be1}Tina, zajmij się Joanną!
+Dialogue: 0,0:38:33.00,0:38:35.09,Default,,0,0,0,,{\be1}Spłacę dług!
+Dialogue: 0,0:38:35.88,0:38:37.34,Default,,0,0,0,,{\be1}Garuda!
+Dialogue: 0,0:38:45.05,0:38:47.01,Default,,0,0,0,,{\be1}Joanna!
+Dialogue: 0,0:38:50.56,0:38:52.18,Default,,0,0,0,,{\be1}Joanna!
+Dialogue: 0,0:38:55.10,0:38:57.52,Default,,0,0,0,,{\be1}Szybciej!
+Dialogue: 0,0:38:57.98,0:39:00.40,Default,,0,0,0,,{\be1}Zostaw mnie i uciekaj!
+Dialogue: 0,0:39:01.86,0:39:04.24,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:39:17.54,0:39:19.96,Default,,0,0,0,,{\be1}Akira, zamknij właz!
+Dialogue: 0,0:39:52.86,0:39:54.21,Default,,0,0,0,,{\be1}Udało się.
+Dialogue: 0,0:39:54.21,0:39:56.29,Default,,0,0,0,,{\be1}Paskudna planeta.
+Dialogue: 0,0:40:02.04,0:40:05.43,Default,,0,0,0,,{\be1}Tina, coś jest nie tak z Joanną!
+Dialogue: 0,0:40:06.92,0:40:08.47,Default,,0,0,0,,{\be1}Przejmij stery.
+Dialogue: 0,0:40:08.47,0:40:13.14,Default,,0,0,0,,{\be1}Po drodze załóż coś na siebie,\Nbo mogę się nie powstrzymać.
+Dialogue: 0,0:40:21.61,0:40:23.32,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:40:24.63,0:40:26.63,Default,,0,0,0,,{\be1}Frill, biegnij do Akiry!
+Dialogue: 0,0:40:26.63,0:40:27.70,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:40:27.70,0:40:29.61,Default,,0,0,0,,{\be1}Natychmiast!
+Dialogue: 0,0:40:31.17,0:40:32.45,Default (i),,0,0,0,,{\be1}Oby to nie to.
+Dialogue: 0,0:40:42.13,0:40:48.05,Default,,0,0,0,,{\be1}Jam jest najpotężniejszy w kosmosie!
+Dialogue: 0,0:40:50.18,0:40:54.18,Default,,0,0,0,,{\be1}Kosmos stanie się moją domeną!
+Dialogue: 0,0:40:58.48,0:41:02.40,Default,,0,0,0,,{\be1}Pożrę wszystkie przyjemności w kosmosie!
+Dialogue: 0,0:41:02.40,0:41:03.74,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:41:05.53,0:41:06.53,Default,,0,0,0,,{\be1}Tina!
+Dialogue: 0,0:41:08.95,0:41:10.86,Default,,0,0,0,,{\be1}Ortega?!
+Dialogue: 0,0:41:18.12,0:41:22.80,Default,,0,0,0,,{\be1}Ty pierwsza będziesz moim pożywieniem!
+Dialogue: 0,0:41:47.32,0:41:49.20,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:41:53.65,0:41:55.58,Default,,0,0,0,,{\be1}Nie patrz, głąbie!
+Dialogue: 0,0:41:59.85,0:42:05.04,Default,,0,0,0,,{\be1}Tina, przesłałem twój raport o Omedze-13.
+Dialogue: 0,0:42:05.04,0:42:08.68,Default,,0,0,0,,{\be1}Twój wyrok zostanie skrócony do 1000 lat,\Ngdy kwatera główna go potwierdzi.
+Dialogue: 0,0:42:08.68,0:42:12.75,Default,,0,0,0,,{\be1}Co?! Przecież znalazła wam planetę\Npraktycznie zrobioną ze złota!
+Dialogue: 0,0:42:12.75,0:42:13.80,Default,,0,0,0,,{\be1}Zgredy!
+Dialogue: 0,0:42:14.62,0:42:17.76,Default,,0,0,0,,{\be1}Ten dzieciak to członek twojej załogi?
+Dialogue: 0,0:42:17.76,0:42:21.31,Default,,0,0,0,,{\be1}Tak, najlepsza partnerka jaką mogłam mieć.
+Dialogue: 0,0:42:21.31,0:42:24.19,Default,,0,0,0,,{\be1}Hola, nie zapominajcie o mnie.
+Dialogue: 0,0:42:26.11,0:42:29.78,Default,,0,0,0,,{\be1}Jaką mam następną robotę?
+Dialogue: 0,0:42:29.78,0:42:33.62,Default,,0,0,0,,{\be1}Na razie to omawiamy, odpocznij sobie.
+Dialogue: 0,0:42:33.62,0:42:35.16,Default,,0,0,0,,{\be1}Potrzebujesz czegoś?
+Dialogue: 0,0:42:35.16,0:42:40.11,Default,,0,0,0,,{\be1}Gorącego prysznicu z wodą i długiego snu.
+Dialogue: 0,0:42:40.11,0:42:41.62,Default,,0,0,0,,{\be1}Zrobi się.
+Dialogue: 0,0:42:42.03,0:42:43.50,Default,,0,0,0,,{\be1}Nie podglądaj!

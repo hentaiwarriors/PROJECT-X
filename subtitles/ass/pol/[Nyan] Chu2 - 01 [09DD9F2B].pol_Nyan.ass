@@ -1,0 +1,119 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [640x480]
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00D443FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,60,&H00D443FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,3.5,8,20,20,140,1
+Style: Tytul,Franklin Gothic Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H14000000,-1,0,0,0,100,100,0,0,1,1.5,3,2,20,20,40,1
+Style: Tytul_2,Franklin Gothic Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H14000000,-1,0,0,0,100,100,0,0,3,1.5,0,2,20,20,40,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.15,0:00:05.28,Grupa,,0,0,0,,{\be1\fad(517,484)}Nyan
+Dialogue: 0,0:00:00.15,0:00:05.28,Anime,,0,0,0,,{\be1\1c&H020009&\t(0,517,\1c&HD443FF&)\t(4646,5105,\1c&H0D001A&)}Chu2
+Dialogue: 0,0:00:06.11,0:00:11.28,Tytul,,0,0,0,,{\be1\1c&H040008&\t(21,522,\1c&HD443FF&)\t(4651,5151,\1c&H0D001A&)}Pokręcona trójka
+Dialogue: 0,0:00:18.92,0:00:30.26,Tytul,,0,0,160,,{\blur10\fad(474,605)\bord15}Romans
+Dialogue: 0,0:11:13.32,0:11:21.99,Tytul,,0,0,160,,{\blur10\fad(520,601)\bord15}Kosmiczne pożądanie
+Dialogue: 0,0:14:46.03,0:14:51.58,Tytul,,0,0,50,,{\blur10\fad(522,607)\bord15}Dodatkowa nauka
+Dialogue: 0,0:01:39.12,0:01:42.54,Default,,0,0,0,,{\be1}Było dobrze, jedziemy?
+Dialogue: 0,0:02:19.71,0:02:23.96,Default,,0,0,0,,{\be1}O nie, zaraz dojdę!
+Dialogue: 0,0:03:29.92,0:03:31.00,Default,,0,0,0,,{\be1}Papo.
+Dialogue: 0,0:03:37.07,0:03:38.11,Default,,0,0,0,,{\be1}Chcę...
+Dialogue: 0,0:03:41.73,0:03:42.84,Default,,0,0,0,,{\be1}Moją nagrodę.
+Dialogue: 0,0:08:30.75,0:08:32.72,Default,,0,0,0,,{\be1}Papo, nie!
+Dialogue: 0,0:08:33.92,0:08:35.40,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:08:38.29,0:08:43.07,Default,,0,0,0,,{\be1}Przestań już!
+Dialogue: 0,0:08:44.09,0:08:46.53,Default,,0,0,0,,{\be1}Papo!
+Dialogue: 0,0:09:27.27,0:09:28.97,Default,,0,0,0,,{\be1}Mama?
+Dialogue: 0,0:09:28.97,0:09:31.24,Default,,0,0,0,,{\be1}Tak. Piękna, prawda?
+Dialogue: 0,0:09:31.24,0:09:34.21,Default,,0,0,0,,{\be1}Zawsze będzie dla mnie ważna.
+Dialogue: 0,0:09:56.39,0:10:00.02,Default,,0,0,0,,{\be1}Jeśli zrobisz to żonie, to pewnie zostawi cię.
+Dialogue: 0,0:10:00.02,0:10:03.28,Default,,0,0,0,,{\be1}A może robisz jej gorsze rzeczy?
+Dialogue: 0,0:10:03.28,0:10:05.25,Default,,0,0,0,,{\be1}Mówisz o pejczach i świeczkach?
+Dialogue: 0,0:10:05.68,0:10:08.11,Default,,0,0,0,,{\be1}Brzmi nieźle, chcesz ich użyć?
+Dialogue: 0,0:10:08.11,0:10:09.26,Default,,0,0,0,,{\be1}Co ty...
+Dialogue: 0,0:10:25.45,0:10:27.52,Default,,0,0,0,,{\be1}Twoja matka dobrze się czuje?
+Dialogue: 0,0:10:28.28,0:10:29.47,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:10:32.00,0:10:34.65,Default,,0,0,0,,{\be1}Dbaj o swoją żoną.
+Dialogue: 0,0:11:16.28,0:11:18.49,Default,,0,0,0,,{\be1}Jestem facetem!
+Dialogue: 0,0:11:28.63,0:11:30.12,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:11:30.12,0:11:32.47,Default,,0,0,0,,{\be1}Hikaru, nie mamy czasu!
+Dialogue: 0,0:11:32.47,0:11:34.13,Default,,0,0,0,,{\be1}Przecież wiem!
+Dialogue: 0,0:11:35.26,0:11:38.63,Default,,0,0,0,,{\be1}Najpierw muszę się zająć tym olbrzymem.
+Dialogue: 0,0:11:40.91,0:11:47.85,Default,,0,0,0,,{\be1}Hikaru, przestań się obijać i pomóż mi!
+Dialogue: 0,0:11:47.85,0:11:49.81,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:11:51.65,0:11:53.79,Default,,0,0,0,,{\be1}Zamknij się i daj mi chwilę!
+Dialogue: 0,0:11:53.79,0:11:55.65,Default,,0,0,0,,{\be1}Hikaru, teraz!
+Dialogue: 0,0:12:08.30,0:12:09.99,Default,,0,0,0,,{\be1}Hikaru!
+Dialogue: 0,0:12:23.55,0:12:26.47,Default,,0,0,0,,{\be1}Hikaru, trzymasz się jakoś?!
+Dialogue: 0,0:12:26.47,0:12:28.62,Default,,0,0,0,,{\be1}Hikaru!
+Dialogue: 0,0:12:36.97,0:12:39.40,Default,,0,0,0,,{\be1}Mówiłem, że cię ochronię!
+Dialogue: 0,0:12:41.16,0:12:43.30,Default,,0,0,0,,{\be1}Lepiej mnie nie lekceważ.
+Dialogue: 0,0:12:43.30,0:12:45.71,Default,,0,0,0,,{\be1}Nie bądź głupi, zginiesz!
+Dialogue: 0,0:12:45.71,0:12:47.01,Default,,0,0,0,,{\be1}Jeszcze nie!
+Dialogue: 0,0:12:48.86,0:12:50.83,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:54.55,0:12:56.73,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:13:10.26,0:13:12.29,Default,,0,0,0,,{\be1}Szybko, wydostań mnie stąd!
+Dialogue: 0,0:13:12.29,0:13:17.04,Default,,0,0,0,,{\be1}Powinnaś lepiej się pilnować.
+Dialogue: 0,0:13:17.04,0:13:18.85,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:13:20.74,0:13:24.12,Default,,0,0,0,,{\be1}- Witaj z powrotem, Panira.\N- Dobrze cię widzieć, siostro.
+Dialogue: 0,0:13:24.12,0:13:26.70,Default,,0,0,0,,{\be1}- Możesz mnie wyciągnąć?\N- Oczywiście!
+Dialogue: 0,0:13:26.70,0:13:28.60,Default,,0,0,0,,{\be1}Nie rób tego.
+Dialogue: 0,0:13:28.60,0:13:32.62,Default,,0,0,0,,{\be1}- Przez tą idiotkę miałem kłopoty, zostaw ją tak.\N- Co?
+Dialogue: 0,0:13:32.62,0:13:34.63,Default,,0,0,0,,{\be1}Już wiem, ukarzemy ją.
+Dialogue: 0,0:13:35.35,0:13:38.59,Default,,0,0,0,,{\be1}Nawet nie myśl o żadnych głupstwach.
+Dialogue: 0,0:13:38.59,0:13:42.05,Default,,0,0,0,,{\be1}To i tak nic w porównaniu\Ndo tego co zwykle robisz.
+Dialogue: 0,0:13:42.05,0:13:44.93,Default,,0,0,0,,{\be1}- Nie możesz tego zrobić.\N- Panira?
+Dialogue: 0,0:13:44.93,0:13:46.26,Default,,0,0,0,,{\be1}Zrób to!
+Dialogue: 0,0:13:46.94,0:13:48.27,Default,,0,0,0,,{\be1}Panira, czekaj.
+Dialogue: 0,0:13:48.27,0:13:51.18,Default,,0,0,0,,{\be1}Przepraszam, Pamera.
+Dialogue: 0,0:14:24.47,0:14:25.97,Default,,0,0,0,,{\be1}Chciałbym wrócić na Ziemię.
+Dialogue: 0,0:14:25.97,0:14:29.10,Default,,0,0,0,,{\be1}Wybacz nam, że tak cię narażamy.
+Dialogue: 0,0:14:29.10,0:14:32.38,Default,,0,0,0,,{\be1}Przynajmniej nie jest nudno jak na Ziemi.
+Dialogue: 0,0:14:32.38,0:14:34.08,Default,,0,0,0,,{\be1}O czym rozmawiacie?
+Dialogue: 0,0:14:34.08,0:14:37.95,Default,,0,0,0,,{\be1}Którego dnia użyję własnego\Nciała, żeby cię zerżnąć.
+Dialogue: 0,0:14:37.95,0:14:40.49,Default,,0,0,0,,{\be1}Wydaje mi się, że on cie lubi.
+Dialogue: 0,0:14:40.49,0:14:44.68,Default,,0,0,0,,{\be1}Dzięki, tym razem to ja ukarzę jego.
+Dialogue: 0,0:15:21.15,0:15:23.86,Default,,0,0,0,,{\be1}Jeszcze go nie ma.
+Dialogue: 0,0:15:23.86,0:15:27.27,Default,,0,0,0,,{\be1}Naprawdę? Mogę zaczekać?
+Dialogue: 0,0:15:28.73,0:15:31.05,Default,,0,0,0,,{\be1}Jesteś jego korepetytorką?
+Dialogue: 0,0:15:34.75,0:15:38.61,Default,,0,0,0,,{\be1}Słyszałam, że dzięki tobie poprawił oceny.
+Dialogue: 0,0:15:38.61,0:15:40.71,Default,,0,0,0,,{\be1}Pewnie dostanie się do lepszej szkoły niż ja.
+Dialogue: 0,0:15:41.11,0:15:47.68,Default,,0,0,0,,{\be1}Mogłabyś go aż tak nie cisnąć,\Nbo nie ma dla mnie czasu.
+Dialogue: 0,0:15:47.68,0:15:50.64,Default,,0,0,0,,{\be1}Mogę o coś zapytać?
+Dialogue: 0,0:15:56.99,0:15:58.02,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:15:59.01,0:16:04.07,Default,,0,0,0,,{\be1}Jest uroczy, ale sama dobrze o tym\Nwiesz, znacie się bardzo długo.
+Dialogue: 0,0:16:04.07,0:16:07.61,Default,,0,0,0,,{\be1}Czyli naprawdę się spotykacie?
+Dialogue: 0,0:16:10.34,0:16:11.07,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:16:12.01,0:16:15.75,Default,,0,0,0,,{\be1}I robimy dużo przyjemnych rzeczy.
+Dialogue: 0,0:16:19.18,0:16:23.29,Default,,0,0,0,,{\be1}Nie tylko jest uroczy, ale i dobry w łóżku.
+Dialogue: 0,0:16:25.79,0:16:26.76,Default,,0,0,0,,{\be1}Niesamowity.
+Dialogue: 0,0:16:27.29,0:16:29.68,Default,,0,0,0,,{\be1}Wiem o nim rzeczy, których ty nie wiesz.
+Dialogue: 0,0:16:53.65,0:16:55.07,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:16:57.62,0:17:02.00,Default,,0,0,0,,{\be1}Tylko on to może robić?\NAle ja też cię lubię.
+Dialogue: 0,0:17:09.88,0:17:13.35,Default,,0,0,0,,{\be1}- Nie!\N- Jesteś masochistką?
+Dialogue: 0,0:17:15.01,0:17:17.30,Default,,0,0,0,,{\be1}- Nie!\N- Na pewno?
+Dialogue: 0,0:18:32.76,0:18:35.68,Default,,0,0,0,,{\be1}Teraz już wiesz co robimy.
+Dialogue: 0,0:19:57.04,0:20:00.05,Default,,0,0,0,,{\be1}Co teraz zrobisz?
+Dialogue: 0,0:20:00.64,0:20:03.06,Default,,0,0,0,,{\be1}Chcesz się do nas przyłączyć?
+Dialogue: 0,0:22:13.44,0:22:17.03,Default,,0,0,0,,{\be1}To do zobaczenia.
+Dialogue: 0,0:22:17.03,0:22:18.40,Default,,0,0,0,,{\be1}Narka.
+Dialogue: 0,0:22:18.40,0:22:21.61,Default,,0,0,0,,{\be1}Będzie wytresowana na twoją\Nzabawkę, gdy znowu przyjdziesz.
+Dialogue: 0,0:22:21.61,0:22:24.71,Default,,0,0,0,,{\be1}Więc potraktuj to jako pracę domową ode mnie.
+Dialogue: 0,0:22:24.71,0:22:26.78,Default,,0,0,0,,{\be1}Już nie mogę się doczekać.
+Dialogue: 0,0:22:26.78,0:22:28.90,Default,,0,0,0,,{\be1}Już wychodzisz?
+Dialogue: 0,0:22:28.90,0:22:32.57,Default,,0,0,0,,{\be1}Tak, nie chcę im przeszkadzać w nauce.

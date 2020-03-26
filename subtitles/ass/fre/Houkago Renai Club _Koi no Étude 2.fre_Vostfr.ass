@@ -1,0 +1,431 @@
+﻿[Script Info]
+; Written by VisualSubSync 1.0.1.1188
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 544
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,32,&H00FFFFFF,&H000000FF,&H00352CAA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: J-subs,Renaiss-Italic,48,&H009D9DA3,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,0
+Style: Notes,Arial Black,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Episode,Arial,30,&H00A82A2C,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: TITRE2,Arial Narrow,40,&H008839B0,&H000000FF,&H008839B0,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: TITRE1,Georgia,50,&H000F83C5,&H000000FF,&H000F83C5,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:19.39,0:00:20.57,Default,,0,0,0,,{\i1}Ren'ichi...{\i0}
+Dialogue: 0,0:00:20.93,0:00:23.31,Default,,0,0,0,,{\i1}Ne dis pas à Nanase{\i0}
+Dialogue: 0,0:00:23.43,0:00:26.22,Default,,0,0,0,,{\i1}que nous sommes allés\Nensemble à la piscine.{\i0}
+Dialogue: 0,0:00:26.56,0:00:27.59,Default,,0,0,0,,{\i1}S'il te plaît.{\i0}
+Dialogue: 0,0:00:27.93,0:00:29.18,Default,,0,0,0,,Sanae...
+Dialogue: 0,0:00:29.70,0:00:30.84,Default,,0,0,0,,Amagi ?
+Dialogue: 0,0:00:33.45,0:00:34.34,Default,,0,0,0,,Amagi !
+Dialogue: 0,0:00:37.41,0:00:38.87,Default,,0,0,0,,Désolé, qu'est-ce qu'il y a ?
+Dialogue: 0,0:00:39.70,0:00:42.58,Default,,0,0,0,,Sanae est amoureuse de toi.
+Dialogue: 0,0:00:50.22,0:00:53.75,Default,,0,0,0,,Mais elle est un peu timide et n'a\Npas beaucoup confiance en elle,
+Dialogue: 0,0:00:54.03,0:00:56.77,Default,,0,0,0,,alors si tu ne lui dis\Npas ce que tu ressens...
+Dialogue: 0,0:01:01.23,0:01:02.45,Default,,0,0,0,,Sanae...
+Dialogue: 0,0:01:13.24,0:01:21.66,TITRE1,,0,0,0,,{\pos(360,308)}Houkago Ren' Ai Club
+Dialogue: 0,0:01:13.24,0:01:21.66,TITRE2,,0,0,0,,{\pos(210,447)}Koi no Etude
+Dialogue: 0,0:01:13.24,0:01:21.66,J-subs,,0,0,0,,{\pos(260,55)}[Johnny-subs]
+Dialogue: 0,0:01:13.24,0:01:21.66,Default,,0,0,0,,{\pos(440,45)}présente
+Dialogue: 0,0:01:16.66,0:01:21.66,Episode,,0,0,0,,{\pos(395,510)}Épisode 2 : {\i1}... car l'amour n'a pas de logique{\i0}
+Dialogue: 0,0:01:22.58,0:01:26.20,Default,,0,0,0,,Rinko, ta mère\Nn'a pas l'air de rigoler.
+Dialogue: 0,0:01:28.71,0:01:33.42,Default,,0,0,0,,"Rinko, comment s'est\Npassé ton rendez-vous ?"
+Dialogue: 0,0:01:33.54,0:01:37.88,Default,,0,0,0,,"Ton professeur vient de m'appeler.\NTu as séché les cours !"
+Dialogue: 0,0:01:38.91,0:01:40.76,Default,,0,0,0,,Tu permets un instant ?
+Dialogue: 0,0:01:41.02,0:01:43.43,Default,,0,0,0,,J'allais arriver\Nau meilleur moment...
+Dialogue: 0,0:01:45.78,0:01:48.82,Default,,0,0,0,,Rinko, tu n'es pas obligée\Nde rester avec cet idiot.
+Dialogue: 0,0:01:54.13,0:01:55.23,Default,,0,0,0,,Misawa ?
+Dialogue: 0,0:02:00.70,0:02:02.05,Default,,0,0,0,,Misawa...
+Dialogue: 0,0:02:03.44,0:02:06.04,Default,,0,0,0,,Quand est-ce que\Nje me suis assoupie ? Pardon...
+Dialogue: 0,0:02:06.29,0:02:08.54,Default,,0,0,0,,Je peux rentrer bientôt ?
+Dialogue: 0,0:02:11.21,0:02:13.19,Default,,0,0,0,,Senpai...
+Dialogue: 0,0:02:14.22,0:02:17.49,Default,,0,0,0,,On est plutôt bien\Ncomme ça, tu ne trouves pas ?
+Dialogue: 0,0:02:18.32,0:02:21.72,Default,,0,0,0,,On est face à face\Net on se parle tous les jours.
+Dialogue: 0,0:02:21.84,0:02:24.62,Default,,0,0,0,,- Tu trouves ça bien ?\N- Évidemment !
+Dialogue: 0,0:02:25.93,0:02:28.92,Default,,0,0,0,,Je suis vraiment contente\Nd'avoir rejoint le club !
+Dialogue: 0,0:02:29.16,0:02:31.52,Default,,0,0,0,,- Tu as l'air vraiment heureuse.\N- Oui !
+Dialogue: 0,0:02:31.64,0:02:33.51,Default,,0,0,0,,Il m'est arrivé plein\Nde bonnes choses !
+Dialogue: 0,0:02:33.63,0:02:35.48,Default,,0,0,0,,Je suis devenue\Ncopine avec Kanami
+Dialogue: 0,0:02:35.86,0:02:37.96,Default,,0,0,0,,et je dois rencontrer Shiina.
+Dialogue: 0,0:02:38.45,0:02:41.36,Default,,0,0,0,,- Kanami ? Celle qui est bien habillée ?\N- Oui !
+Dialogue: 0,0:02:41.88,0:02:45.07,Default,,0,0,0,,On est dans la même classe, mais\Non n'a jamais parlé ensemble.
+Dialogue: 0,0:02:45.19,0:02:47.74,Default,,0,0,0,,J'avais peur d'elle.
+Dialogue: 0,0:02:48.00,0:02:48.87,Default,,0,0,0,,Peur ?
+Dialogue: 0,0:02:49.11,0:02:52.15,Default,,0,0,0,,Elle est intimidante,\Nc'est difficile de lui parler.
+Dialogue: 0,0:02:52.40,0:02:54.87,Default,,0,0,0,,Mais elle est très différente de toi.
+Dialogue: 0,0:02:55.27,0:02:56.37,Default,,0,0,0,,C'est vrai.
+Dialogue: 0,0:02:56.85,0:02:59.91,Default,,0,0,0,,J'ai toujours pensé qu'il y avait\Nquelque chose de différent chez elle.
+Dialogue: 0,0:03:00.97,0:03:04.10,Default,,0,0,0,,Son allure, sa façon\Nde s'habiller, sa manière de penser.
+Dialogue: 0,0:03:06.52,0:03:09.22,Default,,0,0,0,,Mais son apparence extérieure et\Nsa tenue sont les mêmes que la tienne.
+Dialogue: 0,0:03:09.48,0:03:10.29,Default,,0,0,0,,Hein ?
+Dialogue: 0,0:03:10.82,0:03:15.38,Default,,0,0,0,,Mais quand j'ai enfin pu lui parler,\Non a passé un bon moment ensemble !
+Dialogue: 0,0:03:16.27,0:03:19.27,Notes,,0,0,0,,[Rue commerçante]
+Dialogue: 0,0:03:19.73,0:03:23.90,Default,,0,0,0,,Je me suis dit qu'aujourd'hui, on irait\Nvoir un endroit que Kanami adore.
+Dialogue: 0,0:03:24.50,0:03:27.24,Default,,0,0,0,,Que Kanami adore ?\NCe n'est donc pas un restaurant.
+Dialogue: 0,0:03:27.64,0:03:30.99,Default,,0,0,0,,Senpai, tu ne devrais pas\Nte fier aux apparences.
+Dialogue: 0,0:03:32.01,0:03:35.26,Default,,0,0,0,,Tu as sûrement raison.\NAlors, de quoi s'agit-il ?
+Dialogue: 0,0:03:35.38,0:03:37.99,Default,,0,0,0,,"Oh, mon Dieu,\Nj'ai laissé le gratin brûler !"
+Dialogue: 0,0:03:38.11,0:03:39.50,Default,,0,0,0,,C'est ça ?
+Dialogue: 0,0:03:41.02,0:03:44.26,Default,,0,0,0,,Tu... tu essayais de m'imiter ?
+Dialogue: 0,0:03:44.77,0:03:46.98,Default,,0,0,0,,Non, pas du tout...
+Dialogue: 0,0:03:47.38,0:03:48.84,Default,,0,0,0,,Et si...
+Dialogue: 0,0:03:49.28,0:03:53.44,Default,,0,0,0,,Tu m'espionnais quand j'ai\Nraté le dîner, hier soir ?
+Dialogue: 0,0:03:53.56,0:03:56.24,Default,,0,0,0,,Non, je me disais\Nque ça serait amusant
+Dialogue: 0,0:03:56.36,0:03:58.73,Default,,0,0,0,,si Kanami disait\Nquelque chose de ce genre.
+Dialogue: 0,0:03:59.82,0:04:02.02,Default,,0,0,0,,C'était donc ton imagination !
+Dialogue: 0,0:04:02.50,0:04:07.28,Default,,0,0,0,,Évidemment. Tu ne penses quand\Nmême pas que je t'épie chez toi ?
+Dialogue: 0,0:04:07.95,0:04:09.69,Default,,0,0,0,,Non, mais...
+Dialogue: 0,0:04:12.53,0:04:13.37,Default,,0,0,0,,Senpai !
+Dialogue: 0,0:04:19.42,0:04:22.41,Notes,,0,0,0,,[Rue commerçante]
+Dialogue: 0,0:04:27.56,0:04:28.38,Default,,0,0,0,,Sanae...
+Dialogue: 0,0:04:32.46,0:04:33.81,Default,,0,0,0,,Ren'ichi...
+Dialogue: 0,0:04:34.32,0:04:35.54,Default,,0,0,0,,Je te cherchais.
+Dialogue: 0,0:04:45.80,0:04:48.11,Default,,0,0,0,,- Ça sent bon...\N- Tu trouves ?
+Dialogue: 0,0:04:48.40,0:04:50.23,Default,,0,0,0,,On reconnaît un bon thé à son arôme.
+Dialogue: 0,0:04:50.35,0:04:52.70,Default,,0,0,0,,Sanae, tu as l'air\Nde bien t'y connaître.
+Dialogue: 0,0:04:52.98,0:04:56.54,Default,,0,0,0,,Chez moi, nous buvons\Nbeaucoup de thés de toutes sortes.
+Dialogue: 0,0:04:57.76,0:04:58.77,Default,,0,0,0,,Dis-moi...
+Dialogue: 0,0:05:00.32,0:05:02.18,Default,,0,0,0,,Tu m'évites, n'est-ce pas ?
+Dialogue: 0,0:05:06.72,0:05:09.17,Default,,0,0,0,,Nous sommes allés\Nà la piscine dimanche.
+Dialogue: 0,0:05:09.71,0:05:12.44,Default,,0,0,0,,Ne le cache pas à Nanase.
+Dialogue: 0,0:05:14.98,0:05:16.16,Default,,0,0,0,,Tu as raison.
+Dialogue: 0,0:05:17.92,0:05:20.54,Default,,0,0,0,,Je pensais lui dire, mais...
+Dialogue: 0,0:05:24.12,0:05:26.40,Default,,0,0,0,,Alors, est-ce que je dois lui dire ?
+Dialogue: 0,0:05:27.03,0:05:28.97,Default,,0,0,0,,Attends, Ren'ichi.
+Dialogue: 0,0:05:29.09,0:05:31.88,Default,,0,0,0,,C'est moi qui lui dirai.
+Dialogue: 0,0:05:33.05,0:05:34.55,Default,,0,0,0,,Bon, d'accord...
+Dialogue: 0,0:05:36.22,0:05:39.12,Default,,0,0,0,,Oui, tu as raison...
+Dialogue: 0,0:05:44.23,0:05:47.92,Default,,0,0,0,,{\i1}Tout va bien,\Nj'ai juste un peu peur{\i0}
+Dialogue: 0,0:05:49.05,0:05:51.79,Default,,0,0,0,,{\i1}Alors serre-moi fort{\i0}
+Dialogue: 0,0:05:51.91,0:05:53.07,Default,,0,0,0,,{\i1}Et si...{\i0}
+Dialogue: 0,0:05:53.36,0:05:56.65,Default,,0,0,0,,{\i1}Nous pouvons envisager\Nl'amour pour notre avenir,{\i0}
+Dialogue: 0,0:05:56.88,0:06:00.04,Default,,0,0,0,,{\i1}Alors sourions plus{\i0}
+Dialogue: 0,0:06:00.16,0:06:03.69,Default,,0,0,0,,- Au revoir, senpai !\N- Tu t'en vas déjà ?
+Dialogue: 0,0:06:04.17,0:06:08.05,Default,,0,0,0,,Oui, je me suis dit que j'allais\Nrentrer avec Shiina aujourd'hui.
+Dialogue: 0,0:06:08.45,0:06:09.44,Default,,0,0,0,,Avec Shiina ?
+Dialogue: 0,0:06:09.85,0:06:14.45,Default,,0,0,0,,Oui. C'est une amie\Nde longue date de Sanae.
+Dialogue: 0,0:06:15.94,0:06:19.21,Default,,0,0,0,,Je suis un peu jalouse...
+Dialogue: 0,0:06:19.57,0:06:22.54,Default,,0,0,0,,J'avais des amis\Nquand j'étais petite,
+Dialogue: 0,0:06:22.66,0:06:25.16,Default,,0,0,0,,mais maintenant, je ne les vois plus.
+Dialogue: 0,0:06:26.20,0:06:30.38,Default,,0,0,0,,Je peux te comprendre.\NLes amitiés durables sont rares.
+Dialogue: 0,0:06:30.62,0:06:35.19,Default,,0,0,0,,C'est pour ça que\Nj'envie Shiina et Sanae.
+Dialogue: 0,0:06:35.61,0:06:37.00,Default,,0,0,0,,Alors...
+Dialogue: 0,0:06:37.48,0:06:40.97,Default,,0,0,0,,Je vais rentrer avec elle\Net lui parler longtemps !
+Dialogue: 0,0:06:43.61,0:06:44.98,Default,,0,0,0,,Parler de quoi ?
+Dialogue: 0,0:06:45.48,0:06:47.07,Default,,0,0,0,,Ah, ça...
+Dialogue: 0,0:06:47.51,0:06:50.41,Default,,0,0,0,,C'est un... secret !
+Dialogue: 0,0:06:52.65,0:06:54.85,Default,,0,0,0,,C'est entre filles.
+Dialogue: 0,0:06:55.51,0:06:57.99,Default,,0,0,0,,C'est moi, ou c'est\Nquelque chose de cochon ?
+Dialogue: 0,0:07:00.47,0:07:03.82,Default,,0,0,0,,Quoi ?! Alors là, pas du tout !
+Dialogue: 0,0:07:03.94,0:07:07.52,Default,,0,0,0,,C'est toi qui penses à ça,\Nc'est donc toi qui es un cochon !
+Dialogue: 0,0:07:09.33,0:07:10.50,Default,,0,0,0,,Eh bien...
+Dialogue: 0,0:07:11.57,0:07:14.24,Default,,0,0,0,,Je le savais, tu es une brute !
+Dialogue: 0,0:07:15.09,0:07:18.30,Default,,0,0,0,,Je ne suis pas une brute !\NPas du tout !
+Dialogue: 0,0:07:18.99,0:07:20.48,Default,,0,0,0,,Je plaisantais !
+Dialogue: 0,0:07:21.40,0:07:23.64,Default,,0,0,0,,Bon, à demain, senpai !
+Dialogue: 0,0:07:31.88,0:07:33.40,Default,,0,0,0,,Qu'est-ce que ça veut dire ?
+Dialogue: 0,0:07:33.66,0:07:37.33,Default,,0,0,0,,Kotarô n'est pas assez expérimenté,
+Dialogue: 0,0:07:37.45,0:07:40.56,Default,,0,0,0,,je me suis dit qu'il aurait\Nbesoin d'un peu de pratique...
+Dialogue: 0,0:07:40.79,0:07:44.50,Default,,0,0,0,,Je n'ai jamais dit ça.\NTu t'emballes trop vite, Takeaki.
+Dialogue: 0,0:07:45.87,0:07:48.20,Default,,0,0,0,,Tu n'as pas non plus besoin\Nde dire des trucs pareils !
+Dialogue: 0,0:07:48.54,0:07:50.47,Default,,0,0,0,,Tu vas te taper\Nla honte devant Misawa !
+Dialogue: 0,0:07:50.72,0:07:54.17,Default,,0,0,0,,Justement ! Il n'y a plus\Nde souci sur ce plan-là...
+Dialogue: 0,0:07:54.43,0:07:55.67,Default,,0,0,0,,Saligaud !
+Dialogue: 0,0:07:56.38,0:07:59.82,Default,,0,0,0,,Ça me dérange que tu l'entraînes\Ndans un endroit aussi douteux.
+Dialogue: 0,0:08:00.31,0:08:02.43,Default,,0,0,0,,Vous êtes encore au lycée !
+Dialogue: 0,0:08:03.93,0:08:05.01,Default,,0,0,0,,Et comment !
+Dialogue: 0,0:08:05.48,0:08:09.19,Default,,0,0,0,,Pas besoin d'être aussi grossier.\NTouche-lui-en un mot, Ren'ichi.
+Dialogue: 0,0:08:09.45,0:08:14.19,Default,,0,0,0,,Takeaki, Mizuho dit qu'elle a\Nhorreur de ça. Laisse tomber.
+Dialogue: 0,0:08:14.45,0:08:16.26,Default,,0,0,0,,Dis donc, toi !
+Dialogue: 0,0:08:16.38,0:08:18.23,Default,,0,0,0,,Tu me fais passer pour un voyou !
+Dialogue: 0,0:08:18.50,0:08:20.20,Default,,0,0,0,,Je n'en sais rien.
+Dialogue: 0,0:08:20.77,0:08:24.02,Default,,0,0,0,,S'il n'y avait pas eu Mizuho, tu en\Naurais profité pour venir avec nous !
+Dialogue: 0,0:08:24.14,0:08:25.26,Default,,0,0,0,,Je me trompe ?
+Dialogue: 0,0:08:25.63,0:08:27.92,Default,,0,0,0,,- Vu ce que tu as fait...\N- Mais ce n'est pas...
+Dialogue: 0,0:08:28.17,0:08:30.41,Default,,0,0,0,,Tu crois vraiment que\Nj'en aurais profité pour...
+Dialogue: 0,0:08:30.53,0:08:32.30,Default,,0,0,0,,Ça suffit !
+Dialogue: 0,0:08:32.42,0:08:34.71,Default,,0,0,0,,Sortez-vous cette idée de la tête !
+Dialogue: 0,0:08:35.96,0:08:39.50,Default,,0,0,0,,Dis ce que tu veux,\Nmais c'est notre choix.
+Dialogue: 0,0:08:39.62,0:08:42.48,Default,,0,0,0,,Et nous avons nos raisons.
+Dialogue: 0,0:08:42.60,0:08:44.72,Default,,0,0,0,,Laissons tomber pour aujourd'hui.
+Dialogue: 0,0:08:46.20,0:08:48.50,Default,,0,0,0,,Ça ne me plaît pas\Nvraiment, mais tant pis.
+Dialogue: 0,0:08:48.85,0:08:50.49,Default,,0,0,0,,Pas de souci, je n'irai pas.
+Dialogue: 0,0:08:50.88,0:08:52.76,Default,,0,0,0,,J'ai bien compris.
+Dialogue: 0,0:08:57.29,0:08:59.54,Default,,0,0,0,,Mais si je pouvais,
+Dialogue: 0,0:08:59.66,0:09:04.49,Default,,0,0,0,,j'aimerais être encore plus\Namie avec toi, senpai.
+Dialogue: 0,0:09:06.08,0:09:09.16,Default,,0,0,0,,Peut-être que je ne pense qu'à moi...
+Dialogue: 0,0:09:10.74,0:09:14.46,Default,,0,0,0,,Au fait, Nanase,\NSanae t'a dit quelque chose ?
+Dialogue: 0,0:09:14.84,0:09:19.29,Default,,0,0,0,,Sanae ? Elle ne m'a rien dit.
+Dialogue: 0,0:09:19.77,0:09:22.01,Default,,0,0,0,,C'est une sorte de secret ?
+Dialogue: 0,0:09:22.40,0:09:23.91,Default,,0,0,0,,Pas vraiment...
+Dialogue: 0,0:09:25.11,0:09:28.14,Default,,0,0,0,,Nanase, Sanae et toi,\Nvous parlez de quoi, d'habitude ?
+Dialogue: 0,0:09:28.65,0:09:32.60,Default,,0,0,0,,Voyons voir...\Nd'habitude, on parle de cuisine.
+Dialogue: 0,0:09:33.02,0:09:36.19,Default,,0,0,0,,Elle s'y connaît beaucoup.
+Dialogue: 0,0:09:36.43,0:09:37.52,Default,,0,0,0,,Je vois.
+Dialogue: 0,0:09:37.91,0:09:41.80,Default,,0,0,0,,Oui. Je n'y connais pas\Ngrand-chose, au tennis.
+Dialogue: 0,0:09:42.36,0:09:45.70,Default,,0,0,0,,Et on parle beaucoup de nos soucis.
+Dialogue: 0,0:09:46.03,0:09:48.96,Default,,0,0,0,,Vos soucis ? Tu veux dire,\Nles cours et les études ?
+Dialogue: 0,0:09:49.24,0:09:50.68,Default,,0,0,0,,Ou alors...
+Dialogue: 0,0:09:51.54,0:09:54.05,Default,,0,0,0,,Oui, on en parle,
+Dialogue: 0,0:09:54.28,0:09:57.48,Default,,0,0,0,,mais ces temps-ci, on parle\Nde toi et de moi.
+Dialogue: 0,0:09:58.08,0:10:01.17,Default,,0,0,0,,Mais en ce moment,\Nelle est plutôt bizarre...
+Dialogue: 0,0:10:01.58,0:10:03.52,Default,,0,0,0,,Sanae est bizarre ?
+Dialogue: 0,0:10:03.94,0:10:05.23,Default,,0,0,0,,Oui.
+Dialogue: 0,0:10:05.35,0:10:09.18,Default,,0,0,0,,Peut-être que les histoires\Nd'amour ne l'intéressent pas.
+Dialogue: 0,0:10:09.64,0:10:13.93,Default,,0,0,0,,Chaque fois que j'aborde le sujet,\Nelle a l'air d'avoir la tête ailleurs.
+Dialogue: 0,0:10:14.45,0:10:15.52,Default,,0,0,0,,Ah bon...
+Dialogue: 0,0:10:15.84,0:10:20.27,Default,,0,0,0,,Ou alors, ce qui ne l'intéresse pas,
+Dialogue: 0,0:10:20.39,0:10:23.55,Default,,0,0,0,,ce n'est pas les histoires\Nd'amour, mais toi.
+Dialogue: 0,0:10:24.00,0:10:27.01,Default,,0,0,0,,- C'est ce que je crois.\N- Elle ne s'intéresse pas à moi ?
+Dialogue: 0,0:10:27.62,0:10:28.45,Default,,0,0,0,,Senpai...
+Dialogue: 0,0:10:30.30,0:10:34.56,Default,,0,0,0,,Est-ce que tu lui as dit quelque\Nchose qui ne lui a pas plu ?
+Dialogue: 0,0:10:34.81,0:10:38.46,Default,,0,0,0,,- Hein ?\N- Tu pensais à quelque chose ?
+Dialogue: 0,0:10:38.96,0:10:42.44,Default,,0,0,0,,Non... je ne pensais\Nà rien en particulier...
+Dialogue: 0,0:10:42.56,0:10:44.54,Default,,0,0,0,,C'est quand même bizarre...
+Dialogue: 0,0:10:44.66,0:10:45.93,Default,,0,0,0,,Et si...
+Dialogue: 0,0:10:47.31,0:10:50.01,Default,,0,0,0,,Et si Sanae était amoureuse de toi ?
+Dialogue: 0,0:10:52.51,0:10:54.24,Default,,0,0,0,,Non, c'est pas possible...
+Dialogue: 0,0:10:54.36,0:10:57.85,Default,,0,0,0,,Elle savait que\Nj'étais amoureuse de toi
+Dialogue: 0,0:10:57.97,0:10:59.98,Default,,0,0,0,,avant de rejoindre le club !
+Dialogue: 0,0:11:04.12,0:11:07.22,Default,,0,0,0,,Je ne lui ai encore rien dit.
+Dialogue: 0,0:11:08.53,0:11:11.49,Default,,0,0,0,,Mais je pense que tu ne\Ndevrais pas tarder à le faire.
+Dialogue: 0,0:11:11.61,0:11:16.14,Default,,0,0,0,,Je sais bien, je lui ai donc\Npromis d'aller la voir demain.
+Dialogue: 0,0:11:16.26,0:11:18.93,Default,,0,0,0,,C'est le bon moment\Npour un rendez-vous ?
+Dialogue: 0,0:11:21.64,0:11:24.68,Default,,0,0,0,,J'irai parler à Nanase demain matin.
+Dialogue: 0,0:11:42.20,0:11:44.84,Default,,0,0,0,,J'ai l'air aussi déprimée que ça ?
+Dialogue: 0,0:11:44.96,0:11:47.28,Default,,0,0,0,,Oui, on dirait que\Nquelque chose te tracasse
+Dialogue: 0,0:11:47.54,0:11:49.60,Default,,0,0,0,,ou que tu vas fondre en larmes.
+Dialogue: 0,0:11:53.31,0:11:55.52,Default,,0,0,0,,Je lui ai parlé de la piscine
+Dialogue: 0,0:11:55.86,0:11:58.92,Default,,0,0,0,,et j'ai voulu lui raconter la suite.
+Dialogue: 0,0:11:59.40,0:12:01.89,Default,,0,0,0,,Que je voulais sortir avec toi.
+Dialogue: 0,0:12:04.38,0:12:07.69,Default,,0,0,0,,Mais... avant que j'en aie eu\Nl'occasion, elle m'a dit quelque chose.
+Dialogue: 0,0:12:07.96,0:12:09.98,Default,,0,0,0,,- Quoi donc ?\N- Elle m'a dit...
+Dialogue: 0,0:12:10.85,0:12:14.83,Default,,0,0,0,,"Qu'est-ce que tu comptes\Nfaire en sortant avec Ren'ichi ?"
+Dialogue: 0,0:12:15.23,0:12:18.22,Default,,0,0,0,,"Tu n'en as pas\Nvraiment envie, c'est ça ?"
+Dialogue: 0,0:12:18.64,0:12:19.58,Default,,0,0,0,,Voilà...
+Dialogue: 0,0:12:21.70,0:12:22.82,Default,,0,0,0,,Je vois...
+Dialogue: 0,0:12:23.73,0:12:25.54,Default,,0,0,0,,Tu n'as donc pas pu lui dire.
+Dialogue: 0,0:12:26.30,0:12:27.10,Default,,0,0,0,,Non...
+Dialogue: 0,0:12:27.64,0:12:31.48,Default,,0,0,0,,Au final, les choses\Nsont restées au point mort.
+Dialogue: 0,0:12:42.90,0:12:44.42,Default,,0,0,0,,Ren'ichi...
+Dialogue: 0,0:12:45.45,0:12:48.54,Default,,0,0,0,,Nanase compte beaucoup pour moi.
+Dialogue: 0,0:12:48.94,0:12:51.09,Default,,0,0,0,,Elle compte tout autant que toi.
+Dialogue: 0,0:12:52.66,0:12:55.89,Default,,0,0,0,,Sanae, tu t'inquiètes\Ntoujours pour elle ?
+Dialogue: 0,0:12:56.75,0:12:59.11,Default,,0,0,0,,Et je voulais la soutenir
+Dialogue: 0,0:12:59.23,0:13:02.03,Default,,0,0,0,,dans son histoire avec toi.
+Dialogue: 0,0:13:02.52,0:13:03.92,Default,,0,0,0,,Même maintenant ?
+Dialogue: 0,0:13:04.41,0:13:06.37,Default,,0,0,0,,- Oui, mais...\N- Mais ?
+Dialogue: 0,0:13:12.23,0:13:15.52,Default,,0,0,0,,Ren'ichi, tu ne veux pas\Nsortir avec Nanase ?
+Dialogue: 0,0:13:23.69,0:13:26.34,Default,,0,0,0,,C'est avec toi\Nque je veux être, Sanae.
+Dialogue: 0,0:13:29.21,0:13:30.69,Default,,0,0,0,,Je suis sérieux.
+Dialogue: 0,0:13:34.40,0:13:35.27,Default,,0,0,0,,Sanae !
+Dialogue: 0,0:13:37.07,0:13:39.85,Default,,0,0,0,,Allons dans un endroit\Noù nous pourrons être seuls.
+Dialogue: 0,0:13:53.50,0:13:55.37,Default,,0,0,0,,Je t'aime, Sanae.
+Dialogue: 0,0:13:56.71,0:13:59.42,Default,,0,0,0,,Moi aussi, je t'aime. Je t'aime !
+Dialogue: 0,0:14:25.59,0:14:27.17,Default,,0,0,0,,Misawa...
+Dialogue: 0,0:14:28.16,0:14:31.21,Default,,0,0,0,,Tiens ? Je me suis\Nassoupie quand ? Pardon...
+Dialogue: 0,0:14:31.33,0:14:33.47,Default,,0,0,0,,On peut rentrer à la maison ?
+Dialogue: 0,0:14:35.92,0:14:37.37,Default,,0,0,0,,Vous permettez ?
+Dialogue: 0,0:14:39.02,0:14:40.88,Default,,0,0,0,,Je vous ai dérangés ?
+Dialogue: 0,0:14:42.22,0:14:43.91,Default,,0,0,0,,Merci, Misawa.
+Dialogue: 0,0:14:44.21,0:14:47.00,Default,,0,0,0,,Ça se passe bien avec Kotarô ?
+Dialogue: 0,0:14:49.04,0:14:50.00,Default,,0,0,0,,Plutôt, oui.
+Dialogue: 0,0:14:54.64,0:14:58.33,Default,,0,0,0,,C'est assez gênant\Nde te regarder en face...
+Dialogue: 0,0:15:00.43,0:15:03.85,Default,,0,0,0,,Mais hier, nous nous sommes\Nregardés de plus près, non ?
+Dialogue: 0,0:15:05.73,0:15:07.16,Default,,0,0,0,,M... mais...
+Dialogue: 0,0:15:07.93,0:15:12.15,Default,,0,0,0,,Il n'y a pas à en avoir honte.\NC'est parce que nous nous aimons.
+Dialogue: 0,0:15:13.58,0:15:15.36,Default,,0,0,0,,Je sais...
+Dialogue: 0,0:15:15.87,0:15:19.03,Default,,0,0,0,,Je pensais le savoir, mais... Mais...
+Dialogue: 0,0:15:22.94,0:15:25.21,Default,,0,0,0,,{\i1}Tu aimes marcher à côté de moi ?{\i0}
+Dialogue: 0,0:15:25.46,0:15:30.10,Default,,0,0,0,,{\i1}Oui. Tant qu'on est avec quelqu'un\Nqu'on aime, tout est agréable.{\i0}
+Dialogue: 0,0:15:31.58,0:15:33.38,Default,,0,0,0,,{\i1}Toi aussi, tu prends du bon temps ?{\i0}
+Dialogue: 0,0:15:33.50,0:15:37.16,Default,,0,0,0,,{\i1}Oui. J'aime être avec toi, Ren'ichi.{\i0}
+Dialogue: 0,0:15:46.17,0:15:48.81,Default,,0,0,0,,J'en étais sûre...\Nj'avais confiance en moi...
+Dialogue: 0,0:15:49.45,0:15:51.06,Default,,0,0,0,,Qu'est-ce qui t'arrive ?
+Dialogue: 0,0:15:51.68,0:15:54.39,Default,,0,0,0,,Mon premier amour sera réciproque !
+Dialogue: 0,0:15:57.11,0:15:59.69,Default,,0,0,0,,Tu dois être déjà au courant...
+Dialogue: 0,0:16:00.58,0:16:04.08,Default,,0,0,0,,Mais maintenant, je suis avec Sanae.
+Dialogue: 0,0:16:07.44,0:16:10.31,Default,,0,0,0,,Pourtant, depuis\Nnotre première rencontre,
+Dialogue: 0,0:16:10.43,0:16:13.36,Default,,0,0,0,,je pensais que nous étions\Ndestinés l'un à l'autre...
+Dialogue: 0,0:16:15.18,0:16:16.21,Default,,0,0,0,,Destinés ?
+Dialogue: 0,0:16:16.33,0:16:19.95,Default,,0,0,0,,Oui... le destin nous a réunis...
+Dialogue: 0,0:16:20.07,0:16:23.12,Default,,0,0,0,,Quand je t'ai rencontré, c'est comme\Nsi j'avais été frappée par la foudre !
+Dialogue: 0,0:16:25.48,0:16:30.00,Default,,0,0,0,,Tu as déjà entendu parler\Ndes premières amours à sens unique ?
+Dialogue: 0,0:16:31.39,0:16:34.85,Default,,0,0,0,,- Oui, en effet...\N- Qu'est-ce que tu en penses ?
+Dialogue: 0,0:16:36.34,0:16:39.32,Default,,0,0,0,,- Je n'en ai aucune idée...\N- Je n'y crois pas !
+Dialogue: 0,0:16:39.76,0:16:41.75,Default,,0,0,0,,Et si c'était le destin ?
+Dialogue: 0,0:16:43.88,0:16:47.61,Default,,0,0,0,,Si c'est le destin qui nous sépare,\Nje ne veux pas y croire !
+Dialogue: 0,0:16:49.38,0:16:50.88,Default,,0,0,0,,Je vois...
+Dialogue: 0,0:16:51.65,0:16:55.77,Default,,0,0,0,,Je refuse de renoncer à toi !
+Dialogue: 0,0:17:00.01,0:17:03.64,Default,,0,0,0,,Je disais ça pour ton bien, Ren'ichi.
+Dialogue: 0,0:17:04.13,0:17:06.22,Default,,0,0,0,,Tu étais sérieuse ?
+Dialogue: 0,0:17:09.87,0:17:14.02,Default,,0,0,0,,Je ne comprends pas très bien,\Nmais essaie de te mettre à ma place.
+Dialogue: 0,0:17:14.76,0:17:16.47,Default,,0,0,0,,À ta place ?
+Dialogue: 0,0:17:17.87,0:17:19.65,Default,,0,0,0,,Ça fait un peu trop pour moi.
+Dialogue: 0,0:17:20.31,0:17:24.16,Default,,0,0,0,,Alors... tu veux dire que\Ntu comprends ce que je ressens ?
+Dialogue: 0,0:17:26.49,0:17:31.48,Default,,0,0,0,,Tu comprends ce que je ressentirais\Nsi tu étais avec une autre fille ?
+Dialogue: 0,0:17:32.27,0:17:33.80,Default,,0,0,0,,C'est parce que tu m'aimes ?
+Dialogue: 0,0:17:34.63,0:17:35.98,Default,,0,0,0,,Comment ?
+Dialogue: 0,0:17:37.84,0:17:40.67,Default,,0,0,0,,Sanae, tu voulais me tester ?
+Dialogue: 0,0:17:41.58,0:17:44.37,Default,,0,0,0,,C'est pour ça que tu m'as dit \Nquelque chose qui m'éloignerait de toi.
+Dialogue: 0,0:17:47.50,0:17:48.57,Default,,0,0,0,,C'est ça ?
+Dialogue: 0,0:17:51.60,0:17:54.79,Default,,0,0,0,,Excuse-moi de t'avoir\Nfait passer par là...
+Dialogue: 0,0:17:55.68,0:17:57.02,Default,,0,0,0,,Je ne t'en veux pas.
+Dialogue: 0,0:17:58.54,0:17:59.76,Default,,0,0,0,,C'est vrai ?
+Dialogue: 0,0:18:01.67,0:18:04.60,Default,,0,0,0,,Je n'aime pas être mis à l'épreuve,
+Dialogue: 0,0:18:04.72,0:18:08.17,Default,,0,0,0,,mais je comprends pourquoi\Ntu t'es sentie obligée de faire ça.
+Dialogue: 0,0:18:17.47,0:18:20.55,Default,,0,0,0,,Combien de temps s'est écoulé\Ndepuis que nous sommes là ?
+Dialogue: 0,0:18:21.46,0:18:22.68,Default,,0,0,0,,Je n'en sais rien.
+Dialogue: 0,0:18:23.59,0:18:25.33,Default,,0,0,0,,De quoi parlions-nous ?
+Dialogue: 0,0:18:26.28,0:18:28.37,Default,,0,0,0,,Ça non plus, je ne sais pas.
+Dialogue: 0,0:18:28.61,0:18:30.40,Default,,0,0,0,,Tu ne sais donc rien ?
+Dialogue: 0,0:18:31.73,0:18:33.74,Default,,0,0,0,,Toi non plus, Ren'ichi.
+Dialogue: 0,0:18:34.20,0:18:36.05,Default,,0,0,0,,Oui. Je me demande pourquoi...
+Dialogue: 0,0:18:37.14,0:18:40.06,Default,,0,0,0,,Ça n'avait sûrement\Naucune importance...
+Dialogue: 0,0:18:41.11,0:18:42.11,Default,,0,0,0,,Sanae...
+Dialogue: 0,0:18:42.40,0:18:43.16,Default,,0,0,0,,Oui ?
+Dialogue: 0,0:18:43.40,0:18:45.71,Default,,0,0,0,,Tu viens avec moi dans ma chambre ?
+Dialogue: 0,0:18:48.28,0:18:50.51,Default,,0,0,0,,- Ta chambre ?\N- Oui.
+Dialogue: 0,0:18:52.13,0:18:54.46,Default,,0,0,0,,Je veux faire l'amour avec toi.
+Dialogue: 0,0:18:58.63,0:19:00.71,Default,,0,0,0,,- Tu es d'accord ?\N- Oui...
+Dialogue: 0,0:19:11.65,0:19:13.06,Default,,0,0,0,,Ren'ichi ?
+Dialogue: 0,0:19:13.96,0:19:17.23,Default,,0,0,0,,- J'avais peur...\N- Parce que c'est ta première fois ?
+Dialogue: 0,0:19:17.69,0:19:19.23,Default,,0,0,0,,Non, ce n'est pas ça.
+Dialogue: 0,0:19:20.30,0:19:21.99,Default,,0,0,0,,Tu sais, Ren'ichi...
+Dialogue: 0,0:19:23.53,0:19:28.29,Default,,0,0,0,,Je suis très heureuse\Ndepuis que tu m'as embrassée.
+Dialogue: 0,0:19:28.64,0:19:31.06,Default,,0,0,0,,Et je me demande\Nsi c'est bien normal.
+Dialogue: 0,0:19:32.05,0:19:35.69,Default,,0,0,0,,Alors... alors j'ai eu peur\Nque ce bonheur
+Dialogue: 0,0:19:35.81,0:19:37.96,Default,,0,0,0,,finisse par disparaître.
+Dialogue: 0,0:19:38.51,0:19:40.29,Default,,0,0,0,,Que tout ça n'était qu'un rêve.
+Dialogue: 0,0:19:40.99,0:19:42.75,Default,,0,0,0,,C'est pour ça que tu avais peur ?
+Dialogue: 0,0:19:47.06,0:19:48.32,Default,,0,0,0,,Tu as encore peur ?
+Dialogue: 0,0:19:49.92,0:19:52.15,Default,,0,0,0,,Non, maintenant, ça va.
+Dialogue: 0,0:19:52.86,0:19:54.81,Default,,0,0,0,,Je suis juste un peu nerveuse.
+Dialogue: 0,0:19:55.58,0:19:56.39,Default,,0,0,0,,Sanae...
+Dialogue: 0,0:20:01.89,0:20:04.40,Default,,0,0,0,,Ce n'est donc pas un rêve ?
+Dialogue: 0,0:20:05.15,0:20:08.41,Default,,0,0,0,,Si c'était un rêve,\Nnous n'en serions pas là.
+Dialogue: 0,0:20:26.81,0:20:28.01,Default,,0,0,0,,C'est si doux...
+Dialogue: 0,0:20:28.32,0:20:30.10,Default,,0,0,0,,Comme je m'y attendais...
+Dialogue: 0,0:20:33.77,0:20:36.86,Default,,0,0,0,,Je suis si heureuse\Nd'être comme ça avec toi...
+Dialogue: 0,0:20:39.95,0:20:41.60,Default,,0,0,0,,Tu avais imaginé ça avant ?
+Dialogue: 0,0:20:43.48,0:20:46.01,Default,,0,0,0,,De nombreuses fois...
+Dialogue: 0,0:20:46.61,0:20:48.67,Default,,0,0,0,,Comment te sens-tu en ce moment ?
+Dialogue: 0,0:20:49.89,0:20:52.47,Default,,0,0,0,,Je suis heureuse... très heureuse...
+Dialogue: 0,0:20:52.84,0:20:54.82,Default,,0,0,0,,Je vois... tant mieux...
+Dialogue: 0,0:21:08.35,0:21:09.46,Default,,0,0,0,,Non !
+Dialogue: 0,0:21:13.15,0:21:15.05,Default,,0,0,0,,Inutile, je ne m'arrêterai pas.
+Dialogue: 0,0:21:22.84,0:21:25.18,Default,,0,0,0,,Tu es très jolie ici...
+Dialogue: 0,0:21:32.47,0:21:34.85,Default,,0,0,0,,C'est humide et scintillant...
+Dialogue: 0,0:21:41.99,0:21:44.33,Default,,0,0,0,,Ren'ichi ! Ren'ichi...
+Dialogue: 0,0:21:47.89,0:21:48.84,Default,,0,0,0,,Sanae...
+Dialogue: 0,0:21:51.23,0:21:52.72,Default,,0,0,0,,Ren'ichi...
+Dialogue: 0,0:21:54.58,0:21:55.73,Default,,0,0,0,,Viens...
+Dialogue: 0,0:22:13.22,0:22:14.85,Default,,0,0,0,,Sanae, ça te fait mal ?
+Dialogue: 0,0:22:15.65,0:22:17.30,Default,,0,0,0,,Ça va...
+Dialogue: 0,0:22:18.11,0:22:21.38,Default,,0,0,0,,Ça n'est pas grave,\Ntu es en moi...
+Dialogue: 0,0:22:21.70,0:22:24.51,Default,,0,0,0,,- Je suis si heureuse...\N- Je vais bouger un peu.
+Dialogue: 0,0:22:58.15,0:23:01.71,Default,,0,0,0,,Sanae... je me sens\Nsi bien... et toi ?
+Dialogue: 0,0:23:07.65,0:23:08.77,Default,,0,0,0,,Moi aussi...
+Dialogue: 0,0:23:09.81,0:23:13.09,Default,,0,0,0,,Je crois... que\Nça va beaucoup mieux...
+Dialogue: 0,0:23:21.66,0:23:24.35,Default,,0,0,0,,Je crois que je vais jouir... Sanae !
+Dialogue: 0,0:23:25.09,0:23:27.18,Default,,0,0,0,,C'est bon... allons-y...
+Dialogue: 0,0:23:27.66,0:23:29.47,Default,,0,0,0,,Ensemble...
+Dialogue: 0,0:23:56.77,0:24:00.01,Default,,0,0,0,,Cette fois, c'est à mon tour\Nde te donner du plaisir.
+Dialogue: 0,0:24:01.40,0:24:03.39,Default,,0,0,0,,Me donner du plaisir ? Sanae...
+Dialogue: 0,0:24:04.29,0:24:06.02,Default,,0,0,0,,Tu n'as pas besoin d'en faire autant.
+Dialogue: 0,0:24:06.61,0:24:10.33,Default,,0,0,0,,Je ne me force pas. J'en ai envie.
+Dialogue: 0,0:24:12.88,0:24:14.28,Default,,0,0,0,,A... arrête...
+Dialogue: 0,0:24:19.54,0:24:20.74,Default,,0,0,0,,Tu aimes ça ?
+Dialogue: 0,0:24:22.86,0:24:25.13,Default,,0,0,0,,Sanae... il n'y a pas si longtemps...
+Dialogue: 0,0:24:25.46,0:24:27.95,Default,,0,0,0,,C'est parce que je t'aime.
+Dialogue: 0,0:24:28.97,0:24:30.38,Default,,0,0,0,,Parce que je t'aime !
+Dialogue: 0,0:24:33.23,0:24:35.71,Default,,0,0,0,,Ren'ichi,\Nne bouge pas, s'il te plaît.
+Dialogue: 0,0:24:42.06,0:24:44.45,Default,,0,0,0,,Laisse-moi faire...
+Dialogue: 0,0:25:00.54,0:25:01.82,Default,,0,0,0,,Ren'ichi !
+Dialogue: 0,0:25:02.89,0:25:05.32,Default,,0,0,0,,Je crois... que je vais jouir...
+Dialogue: 0,0:25:06.90,0:25:10.29,Default,,0,0,0,,Ren'ichi, tu deviens\Nencore plus chaud en moi...
+Dialogue: 0,0:25:10.55,0:25:13.02,Default,,0,0,0,,- Je le sens...\N- Je peux jouir ?
+Dialogue: 0,0:25:14.48,0:25:16.63,Default,,0,0,0,,Non... pas encore !
+Dialogue: 0,0:25:17.10,0:25:19.34,Default,,0,0,0,,Je veux encore\Nplus te sentir en moi !
+Dialogue: 0,0:25:19.72,0:25:20.71,Default,,0,0,0,,Sanae !
+Dialogue: 0,0:25:21.00,0:25:23.22,Default,,0,0,0,,Mais si tu bouges encore plus...
+Dialogue: 0,0:25:26.29,0:25:28.83,Default,,0,0,0,,Oui... c'est si bon...
+Dialogue: 0,0:25:30.86,0:25:33.29,Default,,0,0,0,,Sanae, ne fais pas ça ! Dépêche-toi !
+Dialogue: 0,0:25:41.58,0:25:42.70,Default,,0,0,0,,Attends, je vais...
+Dialogue: 0,0:25:45.79,0:25:49.84,Default,,0,0,0,,Je me sens si bien... je voudrais\Nrester comme ça pour toujours...
+Dialogue: 0,0:25:49.96,0:25:51.29,Default,,0,0,0,,Alors...
+Dialogue: 0,0:25:51.68,0:25:54.92,Default,,0,0,0,,J'ai compris. J'attendrai\Nque tu me donnes le signal...
+Dialogue: 0,0:25:55.35,0:25:56.70,Default,,0,0,0,,Ren'ichi !
+Dialogue: 0,0:25:58.54,0:26:00.05,Default,,0,0,0,,Je t'aime ! Je t'aime !
+Dialogue: 0,0:26:02.76,0:26:03.94,Default,,0,0,0,,Je t'aime !
+Dialogue: 0,0:26:24.91,0:26:28.02,Default,,0,0,0,,On dirait que beaucoup\Nde temps s'est écoulé.
+Dialogue: 0,0:26:28.60,0:26:29.47,Default,,0,0,0,,Oui...
+Dialogue: 0,0:26:30.22,0:26:32.20,Default,,0,0,0,,Il nous est arrivé\Nbeaucoup de choses.
+Dialogue: 0,0:26:33.16,0:26:36.13,Default,,0,0,0,,Jusque-là, ce n'était\Nqu'un apprentissage.
+Dialogue: 0,0:26:37.52,0:26:39.57,Default,,0,0,0,,Un apprentissage,\Nune chanson d'exercice.
+Dialogue: 0,0:26:40.06,0:26:43.45,Default,,0,0,0,,Ce que nous avons fait jusque-là,\Nc'était un apprentissage de l'amour.
+Dialogue: 0,0:26:45.66,0:26:47.36,Default,,0,0,0,,Un apprentissage de l'amour ?
+Dialogue: 0,0:26:48.13,0:26:51.90,Default,,0,0,0,,Oui, mais notre entraînement\Nprend fin aujourd'hui.
+Dialogue: 0,0:27:07.84,0:27:08.89,Default,,0,0,0,,Senpai !
+Dialogue: 0,0:27:10.89,0:27:13.35,Default,,0,0,0,,Tu as l'air dynamique, aujourd'hui.
+Dialogue: 0,0:27:13.80,0:27:17.16,Default,,0,0,0,,Oui ! Je suis triste\Nque le club ferme,
+Dialogue: 0,0:27:17.28,0:27:19.54,Default,,0,0,0,,mais je me suis dit\Nque j'allais faire la fête à fond !
+Dialogue: 0,0:27:19.80,0:27:22.59,Default,,0,0,0,,- Ah bon...\N- Je pars devant toi, d'accord ?
+Dialogue: 0,0:27:22.84,0:27:25.61,Default,,0,0,0,,Je vais rejoindre Kanami à la gare !
+Dialogue: 0,0:27:29.85,0:27:32.59,Notes,,0,0,0,,[Club de l'Amour]
+Dialogue: 0,0:27:37.63,0:27:39.27,Default,,0,0,0,,Hé, les amis !
+Dialogue: 0,0:27:44.50,0:27:45.72,Default,,0,0,0,,Hourra !
+Dialogue: 0,0:27:45.98,0:27:48.04,Default,,0,0,0,,Félicitations !
+Dialogue: 0,0:27:52.36,0:27:54.76,Default,,0,0,0,,{\i1}Bon ! C'est à nous !{\i0}
+Dialogue: 0,0:27:55.51,0:27:59.13,Default,,0,0,0,,{\i1}On s'est beaucoup exercées !\NÉcoutez-nous !{\i0}
+Dialogue: 0,0:28:07.40,0:28:11.97,Default,,0,0,0,,{\i1}Tout va bien, j'ai juste un peu peur{\i0}
+Dialogue: 0,0:28:12.51,0:28:15.41,Default,,0,0,0,,{\i1}Alors serre-moi fort{\i0}
+Dialogue: 0,0:28:15.53,0:28:20.13,Default,,0,0,0,,{\i1}Et si nous pouvons envisager\Nl'amour pour notre avenir,{\i0}
+Dialogue: 0,0:28:20.25,0:28:22.47,Default,,0,0,0,,{\i1}Alors sourions encore plus{\i0}
+Dialogue: 0,0:28:22.59,0:28:25.38,Default,,0,0,0,,Je veux tellement te remercier...
+Dialogue: 0,0:28:25.70,0:28:29.67,Default,,0,0,0,,You are my angel
+Dialogue: 0,0:28:31.96,0:28:35.25,Default,,0,0,0,,{\i1}À cet instant, j'ai pensé\Ntrouver un remède{\i0}
+Dialogue: 0,0:28:36.13,0:28:39.34,Default,,0,0,0,,{\i1}Mon cœur était si inquiet\Nqu'il battait fort{\i0}
+Dialogue: 0,0:28:40.59,0:28:43.72,Default,,0,0,0,,{\i1}Il semble qu'il existe un monde{\i0}
+Dialogue: 0,0:28:43.84,0:28:48.43,Default,,0,0,0,,{\i1}Qu'on ne peut pas\Ndécrire dans les cahiers{\i0}
+Dialogue: 0,0:28:48.89,0:28:52.72,Default,,0,0,0,,{\i1}Je ne veux pas grandir,{\i0}
+Dialogue: 0,0:28:53.48,0:28:56.13,Default,,0,0,0,,{\i1}Mais je ne suis plus une enfant{\i0}
+Dialogue: 0,0:28:57.52,0:29:00.90,Default,,0,0,0,,{\i1}Les filles qui ont\Ndes rêves dans les cœurs{\i0}
+Dialogue: 0,0:29:01.02,0:29:05.11,Default,,0,0,0,,{\i1}Sont des anges dangereux{\i0}
+Dialogue: 0,0:29:05.37,0:29:09.39,Default,,0,0,0,,{\i1}Ne fais pas ça.\NMontre-moi ce que tu ressens{\i0}
+Dialogue: 0,0:29:10.46,0:29:13.25,Default,,0,0,0,,{\i1}Mais sois doux avec moi{\i0}
+Dialogue: 0,0:29:13.37,0:29:14.62,Default,,0,0,0,,{\i1}Et si...{\i0}
+Dialogue: 0,0:29:14.88,0:29:17.97,Default,,0,0,0,,{\i1}Si ton amour est sérieux,{\i0}
+Dialogue: 0,0:29:18.09,0:29:22.68,Default,,0,0,0,,{\i1}Déshabillons-nous encore plus{\i0}
+Dialogue: 0,0:29:23.64,0:29:27.47,Default,,0,0,0,,You are my angel
+Dialogue: 0,0:29:32.07,0:29:33.96,Default,,0,0,0,,{\i1}Je veux chérir{\i0}
+Dialogue: 0,0:29:34.04,0:29:37.38,Default,,0,0,0,,{\i1}Ces sentiments purs{\i0}
+Dialogue: 0,0:29:40.70,0:29:42.79,Default,,0,0,0,,{\i1}Montre-moi tes rêves{\i0}
+Dialogue: 0,0:29:42.91,0:29:45.74,Default,,0,0,0,,{\i1}À travers tes beaux yeux{\i0}
+Dialogue: 0,0:30:03.94,0:30:07.73,Default,,0,0,0,,{\i1}Ne fais pas ça.\NMontre-moi ce que tu ressens{\i0}
+Dialogue: 0,0:30:08.16,0:30:10.95,Default,,0,0,0,,{\i1}Mais sois doux avec moi{\i0}
+Dialogue: 0,0:30:11.07,0:30:12.32,Default,,0,0,0,,{\i1}Et si...{\i0}
+Dialogue: 0,0:30:12.58,0:30:15.67,Default,,0,0,0,,{\i1}Si ton amour est sérieux,{\i0}
+Dialogue: 0,0:30:16.00,0:30:19.00,Default,,0,0,0,,{\i1}Déshabillons-nous encore plus{\i0}
+Dialogue: 0,0:30:19.02,0:30:22.88,Default,,0,0,0,,{\i1}Tout va bien, j'ai juste un peu peur{\i0}
+Dialogue: 0,0:30:23.19,0:30:26.16,Default,,0,0,0,,{\i1}Alors serre-moi fort{\i0}
+Dialogue: 0,0:30:26.30,0:30:30.90,Default,,0,0,0,,{\i1}Et si nous pouvons envisager\Nl'amour pour notre avenir,{\i0}
+Dialogue: 0,0:30:31.02,0:30:34.85,Default,,0,0,0,,{\i1}Sourions encore plus.{\i0}
+Dialogue: 0,0:30:36.42,0:30:38.97,Default,,0,0,0,,You are my angel
+
+[Aegisub Project Garbage]
+Scroll Position: 355
+Active Line: 361
+Video Position: 39623
+

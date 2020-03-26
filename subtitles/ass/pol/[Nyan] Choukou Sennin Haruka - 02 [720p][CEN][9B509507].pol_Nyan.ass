@@ -1,0 +1,306 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.699
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Last Style Storage: [848x480]
+Collisions: Normal
+Audio File: ?video
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.9,0,2,20,20,30,1
+Style: Default (i),Franklin Gothic Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.9,0,2,20,20,30,1
+Style: Default (top),Franklin Gothic Medium,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,0,8,20,20,15,1
+Style: Grupa,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,18,10,15,1
+Style: Anime,Franklin Gothic Demi Cond,40.5,&H00FFFFFF,&H000000FF,&H00CAA9EA,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,6,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,48,&H00FFFFFF,&H000000FF,&H8C000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:19.79,0:02:25.71,Grupa,,0,0,0,,{\be1\fad(300,0)}Nyan
+Dialogue: 0,0:02:20.12,0:02:25.71,Anime,,0,0,0,,{\blur3\move(530,196,590,196,0,103)\fscx200\alpha&H99&\t(0,103,1,\fscx100\alpha&H00&)\t(2314,2314,1,\1c&HF9FCFC&\3c&HF9FCFC&)\t(2356,2814,1,\1c&HFFFFFF&\3c&HCAA9EA&)}- Choukou Sennin Haruka -
+Dialogue: 0,0:00:01.98,0:00:07.44,Tytul,,0,0,0,,{\blur5\fad(981,1476)\pos(995,550)}Smoczy wojownik
+Dialogue: 0,0:00:01.94,0:00:06.01,Default (i),,0,0,3,,{\be1}Kilkaset lat temu rozegrała się\Nbitwa między światłem i mrokiem.
+Dialogue: 0,0:00:06.01,0:00:09.71,Default (i),,0,0,3,,{\be1}Światłem było Souha Jougenshuu,\Na mrokiem Noroitou.
+Dialogue: 0,0:00:09.71,0:00:13.40,Default (i),,0,0,0,,{\be1}Każdy wierząc w swoją słuszność kontynuował walkę.
+Dialogue: 0,0:00:13.40,0:00:22.63,Default (i),,0,0,0,,{\be1}Aby osłabić Jougenshuu, Noroitou odprawiło\Nrytuał zmieniający czas.
+Dialogue: 0,0:00:23.28,0:00:29.59,Default (i),,0,0,0,,{\be1}Jednakże Jougenshuu przeniosło swoje moce\Naż do tego czasu oczekując przybycia Noroitou.
+Dialogue: 0,0:00:29.59,0:00:33.68,Default (i),,0,0,0,,{\be1}Razem z mocami przybył\Nmiecz Jougenshuu, Haruka.
+Dialogue: 0,0:00:34.02,0:00:37.48,Default (i),,0,0,0,,{\be1}Lecz została pokonana i wpadła w ręce wroga.
+Dialogue: 0,0:00:37.48,0:00:42.19,Default (i),,0,0,0,,{\be1}Aby ją ocalić Narika postanowiła zostać mieczem.
+Dialogue: 0,0:00:42.65,0:00:46.44,Default,,0,0,0,,{\be1}Sztuka Jougen, Moc Smoka!
+Dialogue: 0,0:00:49.86,0:00:52.41,Default,,0,0,0,,{\be1}Niebiański Feniks, przemiana!
+Dialogue: 0,0:01:46.32,0:01:48.58,Default,,0,0,0,,{\be1}Wyglądasz paskudnie, Jougenshuu.
+Dialogue: 0,0:01:48.58,0:01:51.26,Default,,0,0,0,,{\be1}Pewnie podniecasz się, gdy spuszczają się na ciebie.
+Dialogue: 0,0:01:52.71,0:01:54.57,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:01:56.53,0:01:58.63,Default,,0,0,0,,{\be1}Podniecasz się.
+Dialogue: 0,0:01:59.19,0:02:03.44,Default,,0,0,0,,{\be1}Reszta Jougenshuu pewnie jest taka sama jak ty.
+Dialogue: 0,0:02:04.22,0:02:05.52,Default,,0,0,0,,{\be1}Wystarczy!
+Dialogue: 0,0:02:05.52,0:02:08.69,Default,,0,0,0,,{\be1}Tutaj staniecie przed swoim końcem!
+Dialogue: 0,0:02:08.69,0:02:09.54,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:02:09.54,0:02:14.49,Default,,0,0,0,,{\be1}Będę księżycem, którego\Nblask oczyści was z grzechu!
+Dialogue: 0,0:02:14.94,0:02:19.41,Default,,0,0,0,,{\be1}Miecz Souha Jougenshuu, Narika!
+Dialogue: 0,0:02:25.71,0:02:29.71,Default,,0,0,0,,{\be1}Pieprzone Jougenshuu, jak śmiecie\Nprzechodzić przez naszą barierę?!
+Dialogue: 0,0:02:30.82,0:02:32.41,Default,,0,0,0,,{\be1}Narika!
+Dialogue: 0,0:02:33.30,0:02:37.10,Default,,0,0,0,,{\be1}To wy jak śmiecie robić to Haruce!
+Dialogue: 0,0:02:37.45,0:02:42.23,Default,,0,0,0,,{\be1}W imię blasku księżyca, dokopię wam!
+Dialogue: 0,0:02:43.13,0:02:45.60,Default,,0,0,0,,{\be1}To tylko gówniara.
+Dialogue: 0,0:02:45.60,0:02:49.11,Default,,0,0,0,,{\be1}Co?! Odszczekaj to!
+Dialogue: 0,0:02:49.11,0:02:53.60,Default,,0,0,0,,{\be1}Właśnie co stałam się dorosła!
+Dialogue: 0,0:02:53.60,0:02:55.64,Default,,0,0,0,,{\be1}Choć trochę bolało...
+Dialogue: 0,0:02:55.64,0:02:57.42,Default,,0,0,0,,{\be1}Narika, co robisz?
+Dialogue: 0,0:02:57.42,0:02:58.28,Default,,0,0,0,,{\be1}Takamaru.
+Dialogue: 0,0:02:58.59,0:03:02.31,Default,,0,0,0,,{\be1}Nie ma potrzeby rozmawiać z wrogiem.
+Dialogue: 0,0:03:02.31,0:03:05.95,Default,,0,0,0,,{\be1}Przepraszam, to mój pierwszy raz\Ni nie wiedziałam co robić.
+Dialogue: 0,0:03:05.95,0:03:09.73,Default,,0,0,0,,{\be1}Przestań paplać jęzorem i ratuj Harukę!
+Dialogue: 0,0:03:09.73,0:03:10.63,Default,,0,0,0,,{\be1}No tak!
+Dialogue: 0,0:03:11.03,0:03:13.34,Default,,0,0,0,,{\be1}Nadchodzę!
+Dialogue: 0,0:03:23.69,0:03:24.75,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:03:30.23,0:03:32.88,Default,,0,0,0,,{\be1}Takamaru, postaraj się.
+Dialogue: 0,0:03:32.88,0:03:35.20,Default,,0,0,0,,{\be1}Dobra, będę pilnował otoczenia.
+Dialogue: 0,0:03:38.63,0:03:40.37,Default,,0,0,0,,{\be1}Nieźle jak na gówniarę.
+Dialogue: 0,0:03:40.37,0:03:41.96,Default,,0,0,0,,{\be1}Nie nazywaj mnie tak!
+Dialogue: 0,0:03:41.96,0:03:44.30,Default,,0,0,0,,{\be1}To co powiesz na małą ździrę?
+Dialogue: 0,0:03:44.30,0:03:46.24,Default,,0,0,0,,{\be1}Jeszcze gorzej!
+Dialogue: 0,0:03:46.24,0:03:51.17,Default,,0,0,0,,{\be1}Narika, nie daj się sprowokować!\NRatowanie Haruki jest najważniejsze!
+Dialogue: 0,0:03:51.17,0:03:55.09,Default,,0,0,0,,{\be1}Wiem, nie musisz krzyczeć.
+Dialogue: 0,0:04:06.33,0:04:07.98,Default,,0,0,0,,{\be1}Haruka, uratuję cię!
+Dialogue: 0,0:04:09.50,0:04:11.69,Default,,0,0,0,,{\be1}Z drogi!
+Dialogue: 0,0:04:14.45,0:04:15.88,Default,,0,0,0,,{\be1}To teraz to!
+Dialogue: 0,0:04:16.74,0:04:18.28,Default,,0,0,0,,{\be1}Fala ognia!
+Dialogue: 0,0:04:25.44,0:04:27.62,Default,,0,0,0,,{\be1}Mam cię! Teraz!
+Dialogue: 0,0:04:29.76,0:04:30.92,Default,,0,0,0,,{\be1}Haruka?
+Dialogue: 0,0:04:30.92,0:04:32.21,Default,,0,0,0,,{\be1}Gdzie jesteś?
+Dialogue: 0,0:04:33.08,0:04:35.67,Default,,0,0,0,,{\be1}Nie ma sygnału Nariki!\NStraciliśmy obie!
+Dialogue: 0,0:04:35.67,0:04:37.55,Default,,0,0,0,,{\be1}Cholera, znowu ta bariera.
+Dialogue: 0,0:04:40.26,0:04:44.76,Default,,0,0,0,,{\be1}Haruka! Gdzie jesteś?
+Dialogue: 0,0:04:45.87,0:04:47.87,Default,,0,0,0,,{\be1}Tutaj.
+Dialogue: 0,0:04:47.87,0:04:48.89,Default,,0,0,0,,{\be1}Haruka.
+Dialogue: 0,0:04:51.71,0:04:53.49,Default,,0,0,0,,{\be1}Co z tobą?
+Dialogue: 0,0:04:57.50,0:04:59.90,Default,,0,0,0,,{\be1}Nadal masz małe piersi.
+Dialogue: 0,0:04:59.90,0:05:04.71,Default,,0,0,0,,{\be1}Niech Takamaru trochę je pomasuje.
+Dialogue: 0,0:05:04.71,0:05:07.21,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:05:07.83,0:05:10.58,Default,,0,0,0,,{\be1}Nie! Czekaj!
+Dialogue: 0,0:05:11.07,0:05:15.87,Default,,0,0,0,,{\be1}Niedawno miałaś tu fiuta Takamaru.
+Dialogue: 0,0:05:15.87,0:05:21.25,Default,,0,0,0,,{\be1}Co czułaś, gdy po raz pierwszy wszedł w ciebie fiut?
+Dialogue: 0,0:05:21.90,0:05:23.43,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:05:23.43,0:05:28.89,Default,,0,0,0,,{\be1}Nie możemy!\NNie kręcą mnie dziewczyny!
+Dialogue: 0,0:05:29.62,0:05:32.10,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:05:32.10,0:05:34.97,Default,,0,0,0,,{\be1}To ciekawe, bo jesteś mokra.
+Dialogue: 0,0:05:34.97,0:05:38.00,Default,,0,0,0,,{\be1}Może sprawdzimy?
+Dialogue: 0,0:05:38.00,0:05:41.24,Default,,0,0,0,,{\be1}Nie pozwolę dziewczynie mnie dotykać!
+Dialogue: 0,0:05:43.15,0:05:46.45,Default,,0,0,0,,{\be1}Przestań! Co ty odwalasz?!
+Dialogue: 0,0:05:48.70,0:05:50.35,Default,,0,0,0,,{\be1}Nie dotykaj mnie!
+Dialogue: 0,0:05:52.11,0:05:56.28,Default,,0,0,0,,{\be1}Jesteś mokra.
+Dialogue: 0,0:05:56.28,0:05:57.65,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:05:57.65,0:06:00.06,Default,,0,0,0,,{\be1}Co z tobą?
+Dialogue: 0,0:06:00.06,0:06:01.38,Default,,0,0,0,,{\be1}Puść mnie!
+Dialogue: 0,0:06:03.21,0:06:09.77,Default,,0,0,0,,{\be1}Nie, pokaże ci czym jest odnowienie.
+Dialogue: 0,0:06:09.77,0:06:12.77,Default,,0,0,0,,{\be1}Nie musisz, Takamaru to zrobi.
+Dialogue: 0,0:06:12.77,0:06:18.19,Default,,0,0,0,,{\be1}Tym bardziej muszę cię nauczyć kobiecych sztuczek.
+Dialogue: 0,0:06:18.19,0:06:20.56,Default,,0,0,0,,{\be1}Nie trzeba!
+Dialogue: 0,0:06:23.38,0:06:24.15,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:06:49.41,0:06:52.74,Default,,0,0,0,,{\be1}Dziwnie się zachowujesz! Co z tobą?
+Dialogue: 0,0:06:59.10,0:07:00.58,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:07:01.94,0:07:06.36,Default,,0,0,0,,{\be1}Nie wygrasz ze mną.
+Dialogue: 0,0:07:16.72,0:07:19.21,Default,,0,0,0,,{\be1}Poliżę je.
+Dialogue: 0,0:07:26.45,0:07:27.53,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:07:27.53,0:07:30.06,Default,,0,0,0,,{\be1}Nie liż mnie!
+Dialogue: 0,0:07:30.06,0:07:31.45,Default,,0,0,0,,{\be1}Stój!
+Dialogue: 0,0:07:33.72,0:07:36.32,Default,,0,0,0,,{\be1}Nie! Tylko Takamaru może!
+Dialogue: 0,0:07:44.84,0:07:48.66,Default,,0,0,0,,{\be1}Proszę, nie tam!\NNie ściągaj mi majtek!
+Dialogue: 0,0:07:49.77,0:07:55.14,Default,,0,0,0,,{\be1}Za bardzo się wstydzisz,\Nżeby dać się tam polizać?
+Dialogue: 0,0:07:55.14,0:07:56.35,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:07:56.35,0:07:59.08,Default,,0,0,0,,{\be1}Chcesz mnie tam lizać?
+Dialogue: 0,0:07:59.42,0:08:00.36,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:08:00.36,0:08:06.88,Default,,0,0,0,,{\be1}Żeby Takamaru mógł włożyć,\Nmuszę nawilżyć ci cipkę.
+Dialogue: 0,0:08:07.73,0:08:10.85,Default,,0,0,0,,{\be1}Niby dlaczego ty miałabyś to robić?!
+Dialogue: 0,0:08:10.85,0:08:13.58,Default,,0,0,0,,{\be1}Czekaj! Nie rób tego!
+Dialogue: 0,0:08:13.58,0:08:17.33,Default,,0,0,0,,{\be1}Nie wiem co mi się stanie,\Njeśli poliżesz mnie tam!
+Dialogue: 0,0:08:17.33,0:08:19.59,Default,,0,0,0,,{\be1}I dobrze.
+Dialogue: 0,0:08:21.37,0:08:24.23,Default,,0,0,0,,{\be1}Nie ściągaj mi majtek!
+Dialogue: 0,0:08:28.62,0:08:33.37,Default,,0,0,0,,{\be1}Masz taką małą i śliczną cipkę.
+Dialogue: 0,0:08:34.10,0:08:38.47,Default,,0,0,0,,{\be1}Nie patrz, wstydzę się!
+Dialogue: 0,0:08:38.47,0:08:41.65,Default,,0,0,0,,{\be1}Nie, chcę ją dokładniej obejrzeć.
+Dialogue: 0,0:08:42.57,0:08:44.17,Default,,0,0,0,,{\be1}Śliczna.
+Dialogue: 0,0:08:44.65,0:08:48.76,Default,,0,0,0,,{\be1}Drży tak mocno i wydaje zboczone dźwięki.
+Dialogue: 0,0:08:49.16,0:08:51.63,Default,,0,0,0,,{\be1}Nieprawda!
+Dialogue: 0,0:08:52.55,0:08:54.49,Default,,0,0,0,,{\be1}Nie płacz.
+Dialogue: 0,0:08:55.55,0:08:59.00,Default,,0,0,0,,{\be1}Dam ci dużo przyjemności.
+Dialogue: 0,0:09:03.78,0:09:05.79,Default,,0,0,0,,{\be1}Śliczna łechtaczka.
+Dialogue: 0,0:09:10.83,0:09:12.50,Default,,0,0,0,,{\be1}Nie ssij!
+Dialogue: 0,0:09:12.50,0:09:16.16,Default,,0,0,0,,{\be1}Proszę, przestań!
+Dialogue: 0,0:09:22.59,0:09:25.24,Default,,0,0,0,,{\be1}Robisz się bardzo mokra.
+Dialogue: 0,0:09:25.24,0:09:28.64,Default,,0,0,0,,{\be1}Staje mi na sam widok.
+Dialogue: 0,0:09:45.80,0:09:49.03,Default,,0,0,0,,{\be1}Niemożliwe, czemu go masz?
+Dialogue: 0,0:09:53.92,0:09:56.43,Default,,0,0,0,,{\be1}To dzięki mojej technice.
+Dialogue: 0,0:09:57.54,0:09:59.45,Default,,0,0,0,,{\be1}Ciekawy pokaz.
+Dialogue: 0,0:10:01.04,0:10:03.30,Default,,0,0,0,,{\be1}Nie, czekaj!
+Dialogue: 0,0:10:03.30,0:10:05.88,Default,,0,0,0,,{\be1}Taki wielki nie wejdzie!
+Dialogue: 0,0:10:05.88,0:10:07.67,Default,,0,0,0,,{\be1}Sprawdzimy.
+Dialogue: 0,0:10:08.02,0:10:11.80,Default,,0,0,0,,{\be1}Ja też chcę trochę przyjemności.
+Dialogue: 0,0:10:11.80,0:10:15.93,Default,,0,0,0,,{\be1}Doprowadź mnie do orgazmu.
+Dialogue: 0,0:10:15.93,0:10:18.64,Default,,0,0,0,,{\be1}Nie chcę! Rozerwiesz mnie!
+Dialogue: 0,0:10:18.64,0:10:24.08,Default,,0,0,0,,{\be1}Zaboli tylko na początku, potem przywykniesz.
+Dialogue: 0,0:10:24.08,0:10:26.86,Default,,0,0,0,,{\be1}Nie chcę! Czekaj!
+Dialogue: 0,0:10:33.10,0:10:35.40,Default,,0,0,0,,{\be1}To boli! Przestań!
+Dialogue: 0,0:10:35.40,0:10:37.62,Default,,0,0,0,,{\be1}Wytrzymaj trochę.
+Dialogue: 0,0:10:37.62,0:10:40.58,Default,,0,0,0,,{\be1}Patrz, włożyłam całego.
+Dialogue: 0,0:10:41.97,0:10:44.64,Default,,0,0,0,,{\be1}Zacznę się ruszać.
+Dialogue: 0,0:10:44.64,0:10:46.54,Default,,0,0,0,,{\be1}Nie, czekaj!
+Dialogue: 0,0:10:46.54,0:10:48.84,Default,,0,0,0,,{\be1}Proszę, daj mi chociaż przywyknąć!
+Dialogue: 0,0:10:50.23,0:10:53.28,Default,,0,0,0,,{\be1}A pozwolisz mi się zabawić?
+Dialogue: 0,0:10:55.87,0:10:59.26,Default,,0,0,0,,{\be1}Dobrze, będę wkładać powoli.
+Dialogue: 0,0:11:01.90,0:11:03.09,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:11:05.93,0:11:09.35,Default,,0,0,0,,{\be1}Wytrzymaj jeszcze trochę.
+Dialogue: 0,0:11:14.17,0:11:15.78,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:11:17.22,0:11:19.76,Default,,0,0,0,,{\be1}Jesteś taka ciasna!
+Dialogue: 0,0:11:24.52,0:11:27.08,Default,,0,0,0,,{\be1}Wchodzi we mnie!
+Dialogue: 0,0:11:32.38,0:11:36.84,Default,,0,0,0,,{\be1}Czekaj, to tyłek! Tam się nie zmieści!
+Dialogue: 0,0:11:36.84,0:11:39.66,Default,,0,0,0,,{\be1}Tutaj też dam ci go poczuć.
+Dialogue: 0,0:11:39.66,0:11:42.97,Default,,0,0,0,,{\be1}Nie ma mowy! Nie wejdzie!
+Dialogue: 0,0:11:45.31,0:11:48.37,Default,,0,0,0,,{\be1}To boli! Nie wkładaj tam!
+Dialogue: 0,0:11:48.37,0:11:50.47,Default,,0,0,0,,{\be1}Rozluźnij się.
+Dialogue: 0,0:11:50.47,0:11:55.78,Default,,0,0,0,,{\be1}Jeśli to wytrzymasz, Takamaru cię pokocha.
+Dialogue: 0,0:12:02.26,0:12:06.98,Default,,0,0,0,,{\be1}Za bardzo boli! Nie wkładaj!
+Dialogue: 0,0:12:06.98,0:12:10.50,Default,,0,0,0,,{\be1}Nie martw się, pokażę ci, że wejdzie!
+Dialogue: 0,0:12:11.96,0:12:14.09,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:15.25,0:12:19.99,Default,,0,0,0,,{\be1}Narika, włożyłam go.
+Dialogue: 0,0:12:26.57,0:12:29.92,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:12:30.92,0:12:32.31,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:13:03.54,0:13:05.02,Default,,0,0,0,,{\be1}Jak dobrze.
+Dialogue: 0,0:13:06.61,0:13:08.61,Default,,0,0,0,,{\be1}Wchodzi tak głęboko!
+Dialogue: 0,0:13:10.26,0:13:14.84,Default,,0,0,0,,{\be1}Haruka, zaraz dojdę!
+Dialogue: 0,0:13:17.51,0:13:19.40,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:13:19.97,0:13:21.45,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:13:28.16,0:13:31.54,Default,,0,0,0,,{\be1}Przestań, już nie mogę.
+Dialogue: 0,0:13:35.76,0:13:38.12,Default,,0,0,0,,{\be1}Tak, cudownie!
+Dialogue: 0,0:13:38.75,0:13:42.97,Default,,0,0,0,,{\be1}Niedługo dojdę!
+Dialogue: 0,0:13:44.70,0:13:46.88,Default,,0,0,0,,{\be1}Ja też znowu dojdę!
+Dialogue: 0,0:13:48.12,0:13:49.72,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:13:49.72,0:13:56.35,Default,,0,0,0,,{\be1}Ja też! Spuszczę się w tobie!
+Dialogue: 0,0:14:00.98,0:14:01.86,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:14:01.86,0:14:08.24,Default,,0,0,0,,{\be1}Zajdź ze mną w ciążę\Ni urodź przeklęte dziecko.
+Dialogue: 0,0:14:09.78,0:14:13.09,Default,,0,0,0,,{\be1}Nie! Przestań! Nie w środku!
+Dialogue: 0,0:14:13.09,0:14:15.63,Default,,0,0,0,,{\be1}Już nie mogę! Dochodzę!
+Dialogue: 0,0:14:19.30,0:14:21.92,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:14:21.92,0:14:25.01,Default,,0,0,0,,{\be1}Takamaru, ratuj!
+Dialogue: 0,0:14:25.34,0:14:26.01,Default,,0,0,0,,{\be1}Haruka!
+Dialogue: 0,0:14:35.18,0:14:36.43,Default,,0,0,0,,{\be1}Haruka.
+Dialogue: 0,0:14:37.98,0:14:39.56,Default,,0,0,0,,{\be1}Takamaru.
+Dialogue: 0,0:14:39.56,0:14:42.11,Default,,0,0,0,,{\be1}Ocknij się.
+Dialogue: 0,0:14:48.89,0:14:50.45,Default,,0,0,0,,{\be1}Bariera znikła!
+Dialogue: 0,0:14:54.20,0:14:55.08,Default,,0,0,0,,{\be1}Nie ma ich!
+Dialogue: 0,0:14:55.08,0:14:58.04,Default,,0,0,0,,{\be1}Cholera, uciekły!
+Dialogue: 0,0:15:01.84,0:15:04.22,Default,,0,0,0,,{\be1}Dobrze, że nic ci nie jest.
+Dialogue: 0,0:15:04.51,0:15:06.19,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:15:06.19,0:15:10.44,Default,,0,0,0,,{\be1}Dałam się omamić\Nich technice i naraziłam Narikę.
+Dialogue: 0,0:15:10.44,0:15:14.23,Default,,0,0,0,,{\be1}Nie, po prostu przeciwnik jest uciążliwy.
+Dialogue: 0,0:15:14.23,0:15:22.45,Default,,0,0,0,,{\be1}Ale muszę przyznać, zaskoczyło mnie,\Nże udało ci się przełamać ich barierę.
+Dialogue: 0,0:15:22.45,0:15:26.61,Default,,0,0,0,,{\be1}Tak szczerze to sam nie wiem jak to się stało.
+Dialogue: 0,0:15:26.61,0:15:29.53,Default,,0,0,0,,{\be1}Po prostu zapragnąłem je uratować.
+Dialogue: 0,0:15:29.53,0:15:34.25,Default,,0,0,0,,{\be1}Dzięki tobie inny zespół\NJougenshuu zdołał je uratować.
+Dialogue: 0,0:15:35.11,0:15:40.58,Default,,0,0,0,,{\be1}Najwyraźniej smoczy użytkownicy\Nmają jakieś ukryte moce.
+Dialogue: 0,0:15:42.07,0:15:45.30,Default,,0,0,0,,{\be1}Prędzej czy później poznamy je.
+Dialogue: 0,0:15:45.80,0:15:50.52,Default,,0,0,0,,{\be1}Mamy mało czasu, dlatego odpocznijcie.
+Dialogue: 0,0:15:50.52,0:15:54.45,Default,,0,0,0,,{\be1}Uzupełnijcie siły w czasie odpoczynku.
+Dialogue: 0,0:15:54.45,0:15:57.84,Default,,0,0,0,,{\be1}Ikusabe, zrozumiałeś?
+Dialogue: 0,0:16:03.15,0:16:07.22,Default,,0,0,0,,{\be1}Tego nigdy bym się nie spodziewał.
+Dialogue: 0,0:16:07.77,0:16:09.62,Default,,0,0,0,,{\be1}Naprawdę chcecie zrobić to razem?
+Dialogue: 0,0:16:09.62,0:16:12.92,Default,,0,0,0,,{\be1}Tak, nie mamy czasu.
+Dialogue: 0,0:16:12.92,0:16:16.82,Default,,0,0,0,,{\be1}Poza tym pojedynczo nie dasz rady, prawda?
+Dialogue: 0,0:16:16.82,0:16:19.75,Default,,0,0,0,,{\be1}Nie, z dwiema myślę, że...
+Dialogue: 0,0:16:19.75,0:16:22.80,Default,,0,0,0,,{\be1}Takamaru, nie przemęczaj się.
+Dialogue: 0,0:16:22.80,0:16:27.39,Default,,0,0,0,,{\be1}Dzisiaj my się wszystkim zajmiemy.
+Dialogue: 0,0:16:27.39,0:16:28.01,Default,,0,0,0,,{\be1}Zajmiecie?
+Dialogue: 0,0:16:28.60,0:16:32.28,Default,,0,0,0,,{\be1}Po prostu się połóż!
+Dialogue: 0,0:16:32.28,0:16:36.82,Default,,0,0,0,,{\be1}Ale czy w takim razie dojdzie do odnowienia?
+Dialogue: 0,0:16:36.82,0:16:38.18,Default,,0,0,0,,{\be1}Tym się nie martw.
+Dialogue: 0,0:16:38.64,0:16:44.28,Default,,0,0,0,,{\be1}Wystarczy, że otrzymamy twoją spermę,\Na ona już się zmieni w moc.
+Dialogue: 0,0:16:44.90,0:16:47.61,Default,,0,0,0,,{\be1}Skąd wiesz, że tak to działa?
+Dialogue: 0,0:16:48.09,0:16:52.07,Default,,0,0,0,,{\be1}Bo jesteśmy ze sobą połączeni.
+Dialogue: 0,0:16:52.74,0:16:53.86,Default,,0,0,0,,{\be1}Połączeni...
+Dialogue: 0,0:16:53.86,0:16:58.92,Default,,0,0,0,,{\be1}Koniec z gadaniem, rozbieraj się!
+Dialogue: 0,0:16:59.34,0:17:01.33,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:17:01.33,0:17:05.10,Default,,0,0,0,,{\be1}Wkurzasz mnie!\NMy cię rozbierzemy!
+Dialogue: 0,0:17:05.84,0:17:06.84,Default,,0,0,0,,{\be1}Czekajcie!
+Dialogue: 0,0:17:09.45,0:17:11.76,Default,,0,0,0,,{\be1}Co z wami?
+Dialogue: 0,0:17:12.09,0:17:13.60,Default,,0,0,0,,{\be1}To podziękowanie za ratunek.
+Dialogue: 0,0:17:13.96,0:17:17.07,Default,,0,0,0,,{\be1}Dziękuję, że zrobiłeś to dla nas.
+Dialogue: 0,0:17:19.96,0:17:22.19,Default,,0,0,0,,{\be1}Ależ proszę.
+Dialogue: 0,0:18:35.57,0:18:37.26,Default,,0,0,0,,{\be1}Narika, nie rób tego!
+Dialogue: 0,0:18:41.98,0:18:44.40,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:18:45.00,0:18:48.79,Default,,0,0,0,,{\be1}Już nie mogę! Dochodzę!
+Dialogue: 0,0:18:48.79,0:18:50.45,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:18:50.45,0:18:53.82,Default,,0,0,0,,{\be1}Dojdźmy razem!
+Dialogue: 0,0:18:53.82,0:18:54.76,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:19:21.60,0:19:24.44,Default,,0,0,0,,{\be1}Jeszcze nie złamaliśmy kobiety.
+Dialogue: 0,0:19:25.46,0:19:28.41,Default,,0,0,0,,{\be1}Mam tego dość, idę tam.
+Dialogue: 0,0:19:28.41,0:19:29.81,Default,,0,0,0,,{\be1}Orochimaru, nie...
+Dialogue: 0,0:19:29.81,0:19:32.37,Default,,0,0,0,,{\be1}Oszczędź sobie.
+Dialogue: 0,0:19:32.37,0:19:37.24,Default,,0,0,0,,{\be1}Własnoręcznie rozwalę barierę Jougenshuu.
+Dialogue: 0,0:19:37.74,0:19:40.30,Default,,0,0,0,,{\be1}W takim razie idź.
+Dialogue: 0,0:19:40.30,0:19:45.36,Default,,0,0,0,,{\be1}Najedź Jougenshuu swoim zamkiem i zniszcz.
+Dialogue: 0,0:19:46.04,0:19:47.21,Default,,0,0,0,,{\be1}No pewnie!
+Dialogue: 0,0:19:49.70,0:19:50.92,Default,,0,0,0,,{\be1}Co to?!
+Dialogue: 0,0:19:51.44,0:19:53.07,Default,,0,0,0,,{\be1}To zamek Noroitou?
+Dialogue: 0,0:19:59.36,0:20:01.61,Default,,0,0,0,,{\be1}To Noroitou?
+Dialogue: 0,0:20:01.61,0:20:02.72,Default,,0,0,0,,{\be1}Zobacz.
+Dialogue: 0,0:20:03.15,0:20:05.16,Default,,0,0,0,,{\be1}Tym razem to ktoś silniejszy.
+Dialogue: 0,0:20:06.69,0:20:08.18,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:20:08.18,0:20:09.65,Default,,0,0,0,,{\be1}Co to?
+Dialogue: 0,0:20:10.02,0:20:13.88,Default,,0,0,0,,{\be1}Seiryuu, zamek Orochimaru.
+Dialogue: 0,0:20:16.17,0:20:18.24,Default,,0,0,0,,{\be1}Sztuka Jougen, Moc Smoka!
+Dialogue: 0,0:20:24.91,0:20:27.40,Default,,0,0,0,,{\be1}Niebiański Feniks, przemiana!
+Dialogue: 0,0:20:44.18,0:20:46.92,Default,,0,0,0,,{\be1}Niebiański Feniks, przemiana!
+Dialogue: 0,0:21:23.31,0:21:26.81,Default,,0,0,0,,{\be1}Haruka i Narika dostały się do zamku.
+Dialogue: 0,0:21:27.29,0:21:29.77,Default,,0,0,0,,{\be1}Liczymy na was.
+Dialogue: 0,0:21:33.42,0:21:35.86,Default,,0,0,0,,{\be1}Co jest? Nie ma nikogo.
+Dialogue: 0,0:21:35.86,0:21:37.36,Default,,0,0,0,,{\be1}To może być pułapka.
+Dialogue: 0,0:21:37.36,0:21:39.33,Default,,0,0,0,,{\be1}Chodźmy.
+Dialogue: 0,0:21:39.33,0:21:40.96,Default,,0,0,0,,{\be1}Jestem gotowa.
+Dialogue: 0,0:21:53.96,0:21:55.10,Default,,0,0,0,,{\be1}Orochimaru!
+Dialogue: 0,0:21:55.10,0:21:57.50,Default,,0,0,0,,{\be1}Znalazłyśmy cię! Gotuj się!
+Dialogue: 0,0:21:58.59,0:22:00.92,Default,,0,0,0,,{\be1}Wpadłyście. Teraz!
+Dialogue: 0,0:22:02.35,0:22:04.05,Default,,0,0,0,,{\be1}Tym razem nie uciekniecie.
+Dialogue: 0,0:22:04.05,0:22:06.72,Default,,0,0,0,,{\be1}Mamy coś do dokończenia.
+Dialogue: 0,0:22:11.34,0:22:13.08,Default,,0,0,0,,{\be1}To znowu ta sama bariera!
+Dialogue: 0,0:22:13.65,0:22:15.69,Default,,0,0,0,,{\be1}A jednak.
+Dialogue: 0,0:22:19.48,0:22:20.95,Default (i),,0,0,0,,{\be1}Liczmy na ciebie.
+Dialogue: 0,0:22:24.13,0:22:26.62,Default,,0,0,0,,{\be1}Poczuj sprawiedliwość.
+Dialogue: 0,0:22:35.82,0:22:39.48,Default,,0,0,0,,{\be1}Dlaczego znowu w tyłek?
+Dialogue: 0,0:22:55.13,0:22:56.85,Default,,0,0,0,,{\be1}Tylko tyle?
+Dialogue: 0,0:22:59.76,0:23:00.69,Default,,0,0,0,,{\be1}Co to?!
+Dialogue: 0,0:23:11.91,0:23:12.96,Default,,0,0,0,,{\be1}Takamaru.
+Dialogue: 0,0:23:16.47,0:23:18.50,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:23:20.68,0:23:21.30,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:23:29.20,0:23:32.60,Default,,0,0,0,,{\be1}Takamaru, przybyłeś do mnie.
+Dialogue: 0,0:23:38.27,0:23:39.57,Default,,0,0,0,,{\be1}Moja moc...
+Dialogue: 0,0:23:52.68,0:23:54.83,Default,,0,0,0,,{\be1}Moc S Haruki i Nariki odnowiona!
+Dialogue: 0,0:23:55.27,0:23:57.18,Default,,0,0,0,,{\be1}Wroga bariera przełamana!
+Dialogue: 0,0:23:57.18,0:23:58.63,Default,,0,0,0,,{\be1}Udało się.
+Dialogue: 0,0:24:03.00,0:24:07.47,Default,,0,0,0,,{\be1}Kurwa, co to było?\NNie wiedziałem o tym!
+Dialogue: 0,0:24:11.31,0:24:14.93,Default,,0,0,0,,{\be1}Orochimaru, nie uciekniesz nam!
+Dialogue: 0,0:24:15.43,0:24:17.64,Default,,0,0,0,,{\be1}No właśnie! Poddaj się!
+Dialogue: 0,0:24:18.88,0:24:19.56,Default,,0,0,0,,{\be1}Nie ma mowy!
+Dialogue: 0,0:24:22.52,0:24:23.48,Default,,0,0,0,,{\be1}Nadchodzę!
+Dialogue: 0,0:24:23.48,0:24:25.11,Default,,0,0,0,,{\be1}- My też!\N- Dobra!
+Dialogue: 0,0:24:53.21,0:24:54.71,Default,,0,0,0,,{\be1}Pokonałyśmy go.
+Dialogue: 0,0:24:54.71,0:24:57.35,Default,,0,0,0,,{\be1}To nie koniec.
+Dialogue: 0,0:25:00.13,0:25:01.42,Default,,0,0,0,,{\be1}Chodźmy.
+Dialogue: 0,0:25:02.09,0:25:06.20,Default,,0,0,0,,{\be1}Zamek bez władcy sam zniknie.
+Dialogue: 0,0:25:09.92,0:25:11.32,Default,,0,0,0,,{\be1}Dziewczyny!
+Dialogue: 0,0:25:11.32,0:25:13.23,Default,,0,0,0,,{\be1}Nic wam nie jest!
+Dialogue: 0,0:25:13.23,0:25:16.04,Default,,0,0,0,,{\be1}Wróciłyśmy, Takamaru.
+Dialogue: 0,0:25:16.04,0:25:17.75,Default,,0,0,0,,{\be1}Wróciłam.
+Dialogue: 0,0:25:19.24,0:25:21.50,Default,,0,0,0,,{\be1}Witajcie w domu.

@@ -1,0 +1,295 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r113
+Active Line: 32
+Collisions: Normal
+Last Style Storage: Podstawowy
+PlayResX: 720
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video File: [140613][COSMOS] PeroPero Teacher - 02.mp4
+Video Position: 25612
+Video Zoom: 6
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Default 2,Franklin Gothic Medium,30,&H00000000,&H000000FF,&H00C7C7C7,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default 2-c,Franklin Gothic Medium,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,5,20,20,20,1
+Style: Grupa,Franklin Gothic Medium,16,&H00B9B7FF,&H000000FF,&H0014385C,&H0014385C,-1,-1,0,0,100,100,0,0,1,1.1,1.1,7,13,10,10,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,20,1
+Style: ED Rom 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,8,20,20,20,1
+Style: ED Kan,Franklin Gothic Medium,25,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,57,1
+Style: ED Kan 2,Franklin Gothic Medium,25,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,8,20,20,57,1
+Style: ED Pl,Franklin Gothic Medium,28,&H00000000,&H00626262,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,20,1
+Style: ED Pl 2,Franklin Gothic Medium,28,&HFF000000,&H00626262,&H00D23B03,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:06.90,0:00:10.13,Default,,0,0,0,,{\be1}Milky, zajmij się moim synem, dobrze?
+Dialogue: 0,0:00:10.49,0:00:11.45,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:00:11.45,0:00:16.58,Default,,0,0,0,,{\be1}Znam go lepiej niż ktokolwiek inny.
+Dialogue: 0,0:00:16.58,0:00:19.66,Default,,0,0,0,,{\be1}Dzięki, Milky.\NDo zobaczenia.
+Dialogue: 0,0:00:19.66,0:00:21.27,Default,,0,0,0,,{\be1}Do widzenia!
+Dialogue: 0,0:00:50.03,0:00:53.72,Default,,0,0,0,,{\be1}Wstawaj, już południe!
+Dialogue: 0,0:00:54.49,0:00:57.97,Default,,0,0,0,,{\be1}No wstawaj, bo śniadanie ci wystygnie!
+Dialogue: 0,0:01:08.67,0:01:11.25,Default,,0,0,0,,{\be1}Wstawaj wreszcie!
+Dialogue: 0,0:01:12.76,0:01:16.14,Default,,0,0,0,,{\be1}Robi się z niego pasożyt społeczny.
+Dialogue: 0,0:01:16.14,0:01:24.52,Default,,0,0,0,,{\be1}Ale to jest w nim najlepsze\Ni tylko ja potrafię go zrozumieć...
+Dialogue: 0,0:01:24.52,0:01:27.92,Default,,0,0,0,,{\be1}A przynajmniej tak myślałam!
+Dialogue: 0,0:01:25.77,0:01:32.08,Grupa,,0,0,0,,{\be1\fad(1450,0)}N{\1c&H8FE5FF&}y{\1c&HFFC3A7&}a{\1c&HB9B5FF&}n
+Dialogue: 0,0:01:37.20,0:01:39.85,Default,,0,0,0,,{\be1}Lubisz duże, nie?
+Dialogue: 0,0:01:40.41,0:01:44.92,Default,,0,0,0,,{\be1}Możesz je miętosić, ile tylko zechcesz.
+Dialogue: 0,0:01:45.33,0:01:50.23,Default,,0,0,0,,{\be1}Taki nieudacznik pobudza mój instynkt macierzyński.
+Dialogue: 0,0:01:50.80,0:01:56.53,Default (i),,0,0,0,,{\be1}Jeśli czegoś nie zrobię,\Nto ta cycata złodziejka zabierze mi go!
+Dialogue: 0,0:01:57.26,0:02:00.02,Default (i),,0,0,0,,{\be1}Nigdy do tego nie dopuszczę.
+Dialogue: 0,0:02:00.02,0:02:02.44,Default,,0,0,0,,{\be1}Wchodzę!
+Dialogue: 0,0:02:15.32,0:02:18.11,Default,,0,0,0,,{\be1}Jak zawsze burdel.
+Dialogue: 0,0:02:24.83,0:02:25.86,Default 2-c,,0,0,0,,{\fad(20,25)\pos(150,215)}Milky!
+Dialogue: 0,0:02:26.33,0:02:28.37,Default 2,,0,0,0,,{\be1\fad(25,35)\pos(336,433)}Nie właź bez pukania!
+Dialogue: 0,0:02:29.17,0:02:30.63,Default,,0,0,0,,{\be1}Pukałam!
+Dialogue: 0,0:02:30.63,0:02:38.34,Default,,0,0,0,,{\be1}Twoja mama poprosiła mnie bym się tobą zajęła,\Na ja nie lubię siedzieć bezczynnie.
+Dialogue: 0,0:02:38.34,0:02:41.38,Default 2,,0,0,0,,{\be1\fad(30,35)\pos(403,433)}Fajnie, a teraz spadaj.
+Dialogue: 0,0:02:41.61,0:02:42.38,Default 2,,0,0,0,,{\be1\fad(0,30)\pos(60,339)}Oł!
+Dialogue: 0,0:02:45.85,0:02:50.15,Default,,0,0,0,,{\be1}Czyżbyś był teraz tym zajęty?
+Dialogue: 0,0:02:50.15,0:02:55.15,Default 2,,0,0,0,,{\be1\pos(327,468)}Co za głupoty pleciesz?!
+Dialogue: 0,0:02:55.74,0:03:00.53,Default,,0,0,0,,{\be1}Powiedz, uprawiasz seks z tamtą kobietą?
+Dialogue: 0,0:03:00.53,0:03:02.60,Default 2,,0,0,0,,{\be1\fad(25,25)\pos(377,431)}Nie twój interes!
+Dialogue: 0,0:03:02.60,0:03:08.37,Default,,0,0,0,,{\be1}No bo gdybyście się umawiali,\Nto nie byłbyś sam.
+Dialogue: 0,0:03:08.37,0:03:10.95,Default 2,,0,0,0,,{\be1\fad(25,30)}Już ci kiedyś mówiłem, że to nie tak.
+Dialogue: 0,0:03:14.38,0:03:15.41,Default 2-c,,0,0,0,,{\fad(20,30)\pos(188,324)}Aaa!
+Dialogue: 0,0:03:15.64,0:03:17.14,Default 2-c,,0,0,0,,{\pos(517,245)}Przestań!
+Dialogue: 0,0:03:23.06,0:03:26.02,Default,,0,0,0,,{\be1}Chyba jednak byłeś zajęty.
+Dialogue: 0,0:03:26.02,0:03:28.03,Default 2,,0,0,0,,{\be1\pos(365,459)}No cóż...
+Dialogue: 0,0:03:30.37,0:03:32.24,Default (i),,0,0,0,,{\be1}To moja szansa!
+Dialogue: 0,0:03:32.24,0:03:39.00,Default (i),,0,0,0,,{\be1}Mogę wykorzystać sytuację, żeby go zdobyć!
+Dialogue: 0,0:03:40.24,0:03:48.71,Default,,0,0,0,,{\be1}Jeśli tak bardzo chcesz zobaczyć nagą dziewczynę,\Nto mogę się dla ciebie rozebrać.
+Dialogue: 0,0:03:48.71,0:03:50.87,Default 2,,0,0,0,,{\be1\pos(368,445)}Co ty wygadujesz?!
+Dialogue: 0,0:03:51.75,0:03:55.45,Default,,0,0,0,,{\be1}Mam za małe piersi dla ciebie?
+Dialogue: 0,0:03:55.45,0:03:58.35,Default 2,,0,0,0,,{\be1\fad(50,0)\pos(370,471)}Rozmiar to nie wszystko.
+Dialogue: 0,0:04:01.64,0:04:04.33,Default,,0,0,0,,{\be1}To może sprawdzimy?
+Dialogue: 0,0:04:11.20,0:04:14.04,Default,,0,0,0,,{\be1}Więc stąd wiesz co i jak w seksie?
+Dialogue: 0,0:04:14.04,0:04:16.90,Default,,0,0,0,,{\be1}Dobra, pokażę ci wszystko w praktyce!
+Dialogue: 0,0:04:16.90,0:04:18.40,Default 2,,0,0,0,,{\be1\pos(300,445)}Ty tak na serio?
+Dialogue: 0,0:04:19.20,0:04:23.41,Default,,0,0,0,,{\be1}Nie chcesz spróbować seksu z dziewczyną?
+Dialogue: 0,0:04:23.41,0:04:25.91,Default 2,,0,0,0,,{\be1\pos(373,451)}No chcę, ale...
+Dialogue: 0,0:04:26.74,0:04:28.50,Default,,0,0,0,,{\be1}To w końcu co?
+Dialogue: 0,0:04:28.50,0:04:31.26,Default,,0,0,0,,{\be1}Zdecyduje się!
+Dialogue: 0,0:04:34.10,0:04:36.89,Default,,0,0,0,,{\be1}Przynajmniej on wie czego chce.
+Dialogue: 0,0:04:38.81,0:04:42.30,Default,,0,0,0,,{\be1}Patrz dziewczęce majteczki.
+Dialogue: 0,0:04:42.30,0:04:45.73,Default 2,,0,0,0,,{\be1\fad(25,0)\pos(363,467)}Są urocze.
+Dialogue: 0,0:04:46.01,0:04:49.27,Default,,0,0,0,,{\be1}Urocze jak u dziecka?
+Dialogue: 0,0:04:49.27,0:04:53.71,Default 2,,0,0,0,,{\be1\fad(0,20)\pos(361,457)}Nie, skądże! Urocze, bo pasują ci.
+Dialogue: 0,0:04:55.92,0:05:00.15,Default,,0,0,0,,{\be1}Naprawdę?\NTo dobrze, bo to moje ulubione!
+Dialogue: 0,0:05:00.15,0:05:02.73,Default 2,,0,0,0,,{\be1\fad(25,40)\pos(361,457)}Mogę rzucić na nie okiem z bliska?
+Dialogue: 0,0:05:06.54,0:05:08.12,Default,,0,0,0,,{\be1}No dobra...
+Dialogue: 0,0:05:08.12,0:05:11.22,Default,,0,0,0,,{\be1}Tobie wyjątkowo pozwolę.
+Dialogue: 0,0:05:16.36,0:05:18.63,Default 2,,0,0,0,,{\be1\fad(55,0)\pos(362,457)}Ładnie pachną.
+Dialogue: 0,0:05:19.96,0:05:24.04,Default,,0,0,0,,{\be1}Naprawdę?\NJa tam nic nie czuję.
+Dialogue: 0,0:05:24.04,0:05:26.14,Default,,0,0,0,,{\be1}Twój oddech łaskocze.
+Dialogue: 0,0:05:26.14,0:05:28.90,Default 2,,0,0,0,,{\be1\fad(0,18)\pos(365,457)}Mogę je dotknąć?
+Dialogue: 0,0:05:31.10,0:05:33.52,Default,,0,0,0,,{\be1}No cóż...
+Dialogue: 0,0:05:33.52,0:05:35.92,Default 2,,0,0,0,,{\be1\fad(20,24)}Nie mogę?
+Dialogue: 0,0:05:37.23,0:05:42.22,Default,,0,0,0,,{\be1}O nie, jeśli teraz mu odmówię,\Nto mogę go stracić.
+Dialogue: 0,0:05:43.53,0:05:46.99,Default,,0,0,0,,{\be1}No możesz, ale tylko przez chwilkę.
+Dialogue: 0,0:05:46.99,0:05:49.27,Default 2,,0,0,0,,{\be1\fad(0,26)}Serio?
+Dialogue: 0,0:05:51.13,0:05:55.77,Default 2,,0,0,0,,{\be1\fad(0,17)\pos(365,479)}Właśnie powiedziałaś, coś co\Nkażdy facet chciałby usłyszeć.
+Dialogue: 0,0:05:56.63,0:05:59.51,Default,,0,0,0,,{\be1}Wydaje ci się.
+Dialogue: 0,0:05:59.91,0:06:07.75,Default,,0,0,0,,{\be1}W tej książce jest napisane,\Nżebyś zaczął odkrywać niezbadane zakątki.
+Dialogue: 0,0:06:11.39,0:06:13.24,Default,,0,0,0,,{\be1}To trochę łaskocze.
+Dialogue: 0,0:06:19.11,0:06:24.07,Default (i),,0,0,0,,{\be1}Dlaczego jest mi przyjemnie?\NTo dlatego, że to właśnie on?
+Dialogue: 0,0:06:25.24,0:06:30.79,Default,,0,0,0,,{\be1}Jakoś mi dziwnie.
+Dialogue: 0,0:06:31.41,0:06:38.61,Default,,0,0,0,,{\be1}Tu jest napisane, że musisz dać\Nkobiecie orgazm przynajmniej raz.
+Dialogue: 0,0:06:42.67,0:06:46.47,Default,,0,0,0,,{\be1}Nie gap się tak bardzo.
+Dialogue: 0,0:06:46.47,0:06:48.12,Default,,0,0,0,,{\be1}Wygląda dziwnie?
+Dialogue: 0,0:06:48.12,0:06:51.03,Default 2,,0,0,0,,{\be1\fad(54,0)}Wprawdzie nigdy nie widziałem żadnej, ale...
+Dialogue: 0,0:06:51.53,0:06:53.30,Default 2,,0,0,0,,{\be1\fad(0,54)\pos(365,460)}Twoje jest śliczna!
+Dialogue: 0,0:06:54.89,0:06:56.87,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:06:59.19,0:07:02.65,Default,,0,0,0,,{\be1}Nie rób tak, bo moje biodra\Nsame zaczynają się ruszać!
+Dialogue: 0,0:07:13.91,0:07:17.58,Default 2,,0,0,0,,{\be1}Rozłóż nogi, bo nic nie widzę.
+Dialogue: 0,0:07:25.91,0:07:27.44,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:07:27.44,0:07:29.37,Default,,0,0,0,,{\be1}Co za wstyd.
+Dialogue: 0,0:07:30.72,0:07:35.13,Default (i),,0,0,0,,{\be1}Samo jego spojrzenie wprawia mnie w nastrój.
+Dialogue: 0,0:07:38.23,0:07:43.84,Default,,0,0,0,,{\be1}Powinieneś dotykać mnie również w środku.
+Dialogue: 0,0:07:45.36,0:07:48.65,Default,,0,0,0,,{\be1}Tak tu jest napisane!
+Dialogue: 0,0:07:48.65,0:07:53.69,Default 2,,0,0,0,,{\be1\fad(26,32)\pos(360,472)}Aż tak bardzo chcesz dojść?
+Dialogue: 0,0:07:54.62,0:08:00.07,Default,,0,0,0,,{\be1}To nie tak, po prostu w książce\Njest tak napisane!
+Dialogue: 0,0:08:02.29,0:08:03.10,Default,,0,0,0,,{\be1}Co teraz?
+Dialogue: 0,0:08:04.88,0:08:07.54,Default,,0,0,0,,{\be1}Ta pozycja zawstydza mnie!
+Dialogue: 0,0:08:07.54,0:08:10.91,Default 2,,0,0,0,,{\be1\fad(47,22)\pos(321,425)}Teraz dokładnie widzę twoją cipkę.
+Dialogue: 0,0:08:11.55,0:08:14.00,Default,,0,0,0,,{\be1}Nie patrz!
+Dialogue: 0,0:08:15.42,0:08:21.07,Default,,0,0,0,,{\be1}Nie liż mnie tam, przecież tamtędy sikam!
+Dialogue: 0,0:08:26.65,0:08:28.93,Default 2,,0,0,0,,{\be1\fad(0,26)\pos(360,49)}Chcę zobaczyć więcej.
+Dialogue: 0,0:08:32.45,0:08:35.31,Default,,0,0,0,,{\be1}Nie rozszerzaj jej!
+Dialogue: 0,0:08:51.72,0:08:53.19,Default,,0,0,0,,{\be1}Teraz na czworaka?
+Dialogue: 0,0:08:55.14,0:09:00.42,Default 2,,0,0,0,,{\be1\fad(0,30)}Masz śliczny tyłeczek.
+Dialogue: 0,0:08:58.93,0:09:00.91,Default,,0,0,0,,{\be1}Co za wstyd!
+Dialogue: 0,0:09:38.97,0:09:41.56,Default,,0,0,0,,{\be1}Nie dotykaj ich tak, bo...
+Dialogue: 0,0:09:43.60,0:09:48.28,Default,,0,0,0,,{\be1}Proszę, nie tak mocno.
+Dialogue: 0,0:09:59.37,0:10:02.25,Default,,0,0,0,,{\be1}Nie tam, bo za dobrze mi!
+Dialogue: 0,0:10:07.38,0:10:09.70,Default,,0,0,0,,{\be1}Jak dobrze mi w sutki!
+Dialogue: 0,0:10:22.89,0:10:25.84,Default,,0,0,0,,{\be1}Robię się bardzo wrażliwa.
+Dialogue: 0,0:10:32.20,0:10:33.17,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:10:35.74,0:10:40.05,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:10:48.17,0:10:50.70,Default 2,,0,0,0,,{\be1\fad(20,35)\pos(375,455)}Co teraz robimy?
+Dialogue: 0,0:10:52.07,0:10:57.53,Default,,0,0,0,,{\be1}Przecież dopiero co doszłam.
+Dialogue: 0,0:10:57.53,0:11:00.21,Default 2,,0,0,0,,{\be1\fad(68,45)\pos(363,455)}Miałaś mi wszystko pokazać w praktyce.
+Dialogue: 0,0:11:02.34,0:11:05.02,Default,,0,0,0,,{\be1}Wredota.
+Dialogue: 0,0:11:05.02,0:11:11.68,Default,,0,0,0,,{\be1}Tu jest napisane, że twoja partnerka\Npowinna ci teraz obciągnąć.
+Dialogue: 0,0:11:11.68,0:11:12.82,Default 2,,0,0,0,,{\be1\fad(36,0)\pos(364,452)}Aha.
+Dialogue: 0,0:11:13.05,0:11:14.72,Default 2,,0,0,0,,{\be1\fad(55,35)\pos(361,452)}Dobra, to masz.
+Dialogue: 0,0:11:17.45,0:11:19.91,Default,,0,0,0,,{\be1}Niech ci będzie.
+Dialogue: 0,0:11:19.91,0:11:23.30,Default,,0,0,0,,{\be1}Teraz ja dam ci orgazm.
+Dialogue: 0,0:11:27.21,0:11:29.84,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:11:29.84,0:11:32.00,Default 2,,0,0,0,,{\be1\fad(75,0)\pos(360,455)}Tak, nie przestawaj.
+Dialogue: 0,0:11:33.67,0:11:36.72,Default,,0,0,0,,{\be1}Tu też jest ci przyjemnie?
+Dialogue: 0,0:11:36.72,0:11:40.52,Default 2,,0,0,0,,{\be1\fad(76,0)\pos(365,457)}Włóż go do buzi.
+Dialogue: 0,0:11:51.80,0:11:53.33,Default,,0,0,0,,{\be1}O tak?
+Dialogue: 0,0:11:55.03,0:11:58.71,Default,,0,0,0,,{\be1}Twój penis drży.
+Dialogue: 0,0:12:05.12,0:12:08.68,Default,,0,0,0,,{\be1}Czuję jak bardzo jesteś podniecony.
+Dialogue: 0,0:12:12.54,0:12:15.05,Default,,0,0,0,,{\be1}Zapychasz mi całą buzię.
+Dialogue: 0,0:12:21.80,0:12:25.12,Default,,0,0,0,,{\be1}Dochodzisz już?
+Dialogue: 0,0:12:36.69,0:12:39.74,Default,,0,0,0,,{\be1}Dziwnie smakuje.
+Dialogue: 0,0:12:42.37,0:12:47.25,Default,,0,0,0,,{\be1}Ale i tak uwielbiam twój zapach i spermę.
+Dialogue: 0,0:12:48.04,0:12:50.32,Default 2,,0,0,0,,{\be1\fad(0,40)}To jeszcze nie koniec, nie?
+Dialogue: 0,0:12:53.48,0:12:55.65,Default 2,,0,0,0,,{\be1\fad(59,20)}Co teraz mamy zrobić?
+Dialogue: 0,0:12:57.54,0:13:04.58,Default,,0,0,0,,{\be1}Mamy wybrać co chcemy, strój kąpielowy, mundurek, strój gimnastyczny, itd.
+Dialogue: 0,0:13:04.58,0:13:07.00,Default,,0,0,0,,{\be1}Co to znaczy?
+Dialogue: 0,0:13:07.00,0:13:08.67,Default 2,,0,0,0,,{\be1\fad(52,35)}Dokładnie to co jest napisane.
+Dialogue: 0,0:13:08.89,0:13:11.77,Default 2,,0,0,0,,{\be1}Musisz się przebrać.
+Dialogue: 0,0:13:13.64,0:13:18.64,Default,,0,0,0,,{\be1}Tyle że nie mam ze sobą żadnego z tych.
+Dialogue: 0,0:13:18.64,0:13:19.91,Default 2-c,,0,0,0,,{\fad(66,0)\pos(333,451)}Żaden problem!
+Dialogue: 0,0:13:24.99,0:13:27.24,Default 2,,0,0,0,,{\be1\fad(21,0)}Do wyboru, do koloru.
+Dialogue: 0,0:13:27.91,0:13:32.58,Default,,0,0,0,,{\be1}Tak w ogóle to czemu je masz?
+Dialogue: 0,0:13:36.21,0:13:37.92,Default (i),,0,0,0,,{\be1}Idealna okazja.
+Dialogue: 0,0:13:37.92,0:13:44.11,Default (i),,0,0,0,,{\be1}Skoro nie uprawiał z nią seksu, to wystarczy,\Nże będę wyrozumiała dla jego upodobań.
+Dialogue: 0,0:13:44.93,0:13:49.44,Default,,0,0,0,,{\be1}To co mam założyć?
+Dialogue: 0,0:13:59.36,0:14:03.60,Default,,0,0,0,,{\be1}Twoja pokojówka ma cię teraz obsłużyć, tak?
+Dialogue: 0,0:14:03.60,0:14:08.04,Default,,0,0,0,,{\be1}Ty to masz lubieżny wzrok.
+Dialogue: 0,0:14:08.04,0:14:10.27,Default,,0,0,0,,{\be1}Chcesz już włożyć?
+Dialogue: 0,0:14:11.66,0:14:17.63,Default,,0,0,0,,{\be1}Czuję jak twój gorący penis drży i robi się większy.
+Dialogue: 0,0:14:17.63,0:14:20.21,Default,,0,0,0,,{\be1}Chce we mnie wejść.
+Dialogue: 0,0:14:20.21,0:14:22.82,Default,,0,0,0,,{\be1}Taki duży zmieści się?
+Dialogue: 0,0:14:23.88,0:14:27.18,Default,,0,0,0,,{\be1}Jestem taka mokra, że raczej powinien.
+Dialogue: 0,0:14:33.39,0:14:37.11,Default,,0,0,0,,{\be1}Twój penis zapchał mnie!
+Dialogue: 0,0:14:42.95,0:14:47.64,Default,,0,0,0,,{\be1}A teraz rusza się we mnie!
+Dialogue: 0,0:14:49.72,0:14:53.74,Default,,0,0,0,,{\be1}Zaczęłam głośno jęczeć!
+Dialogue: 0,0:15:01.26,0:15:03.58,Default,,0,0,0,,{\be1}Jesteś cudowny!
+Dialogue: 0,0:15:11.27,0:15:13.30,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:15:18.81,0:15:23.28,Default,,0,0,0,,{\be1}Dlaczego służenie jest takie przyjemne?
+Dialogue: 0,0:15:24.60,0:15:27.14,Default 2,,0,0,0,,{\be1\fad(35,30)\pos(362,451)}Cudownie.
+Dialogue: 0,0:15:27.61,0:15:30.75,Default 2,,0,0,0,,{\be1\fad(22,0)\pos(377,452)}Mocno go ściskasz.
+Dialogue: 0,0:15:40.54,0:15:43.28,Default,,0,0,0,,{\be1}Obsłużę cię odpowiednio.
+Dialogue: 0,0:15:44.16,0:15:48.19,Default 2,,0,0,0,,{\be1\fad(49,22)\pos(391,464)}Pokojóweczko, jesteś śliczna.
+Dialogue: 0,0:15:48.93,0:15:56.33,Default,,0,0,0,,{\be1}Nie mów tak, bo będę chciała dłużej ci usługiwać.
+Dialogue: 0,0:16:07.15,0:16:11.69,Default,,0,0,0,,{\be1}W tej pozycji możesz patrzeć jak wchodzi.
+Dialogue: 0,0:16:12.79,0:16:17.62,Default,,0,0,0,,{\be1}Widzisz jak wchodzi we mnie?
+Dialogue: 0,0:16:23.47,0:16:28.63,Default,,0,0,0,,{\be1}Twój penis tak mocno wchodzi!
+Dialogue: 0,0:16:31.89,0:16:35.56,Default,,0,0,0,,{\be1}O tak!\NCudownie!
+Dialogue: 0,0:17:08.20,0:17:14.35,Default,,0,0,0,,{\be1}Tak dużo się we mnie spuściłeś.
+Dialogue: 0,0:17:18.31,0:17:24.62,Default,,0,0,0,,{\be1}Jeśli będziesz się tyle spuszczać,\Nto mogę zajść w ciążę zanim skończysz studia.
+Dialogue: 0,0:17:24.62,0:17:28.52,Default,,0,0,0,,{\be1}Mam nadzieję,\Nże zajmiesz się mną wtedy.
+Dialogue: 0,0:17:35.15,0:17:38.60,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H03DCF8&}Donna fasshon?
+Dialogue: 0,0:17:38.54,0:17:42.18,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H03DCF8&\t(1519,1627,\3c&HD23B03&)}Donna shichueishon?
+Dialogue: 0,0:17:42.22,0:17:49.10,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\t(1108,1108,\3c&HF3A4FC&)\t(1108,1342,\3c&H2A13B4&)\t(2800,2800,\3c&HF3A4FC&)\t(3010,3010,\3c&H8E97DF&)\t(3377,3419,\3c&H605555&)\t(3639,3639,\3c&H8E98DF&)\t(3878,3920,\3c&HFFE4A4&)\t(4145,4145,\3c&H935465&)\t(4378,4378,\3c&HF9EAB7&)\t(4640,4640,\3c&H4B477C&)\t(4879,4921,\3c&H8ACDF9&)\t(5675,5675,\3c&H413077&)}Donna koto wo sureba yorokonde kureru no.
+Dialogue: 0,0:17:49.29,0:17:55.00,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H9BD4F6&}Teach me, let me know you.
+Dialogue: 0,0:17:56.31,0:18:02.18,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H9BD4F6&\t(4711,4711,\3c&HD23B03&)}Teach me, let me know you.
+Dialogue: 0,0:18:02.29,0:18:09.56,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H0003BD&}Dochira ni shiyou ka na asa gohan wa pan ga ii?
+Dialogue: 0,0:18:09.42,0:18:17.94,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H0003BD&}Okitate no kimi no hazukashi souna shigusa mo ii.
+Dialogue: 0,0:18:17.73,0:18:27.40,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H0003BD&}Mendouna koto wa zenbu konosai nuki ni shite tada aishiaou.
+Dialogue: 0,0:18:27.92,0:18:31.89,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H0003BD&\t(3618,3618,\3c&H9BD4F6&)}Watashi dake wo mite yo.
+Dialogue: 0,0:18:31.65,0:18:37.33,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H9BD4F6&}Teach me, let me know you.
+Dialogue: 0,0:18:38.67,0:18:44.48,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H0003BD&}Teach me, let me know you.
+Dialogue: 0,0:18:45.77,0:18:51.39,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H0003BD&}Teach me, let me know you.
+Dialogue: 0,0:18:52.77,0:18:58.59,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H0003BD&}Teach me, let me know you.
+Dialogue: 0,0:18:59.89,0:19:05.57,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H9BD4F6&}Teach me, let me know you.
+Dialogue: 0,0:19:06.91,0:19:12.78,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H9BD4F6&}Teach me, let me know you.
+Dialogue: 0,0:19:13.95,0:19:17.42,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H9BD4F6&}Donna fasshon?
+Dialogue: 0,0:19:17.51,0:19:20.96,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(380,20,340,20)\3c&H9BD4F6&}Donna shichueishon?
+Dialogue: 0,0:19:21.04,0:19:29.53,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)\move(340,20,380,20)\3c&H9BD4F6&}Donna koto wo sureba yorokonde kureru no.
+Dialogue: 0,0:19:31.91,0:19:33.06,ED Rom 2,,0,0,0,,{\blur3\fad(200,200)}Teach me.
+Dialogue: 0,0:17:35.15,0:17:38.60,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Donna fasshon?
+Dialogue: 0,0:17:38.54,0:17:42.18,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Donna shichueishon?
+Dialogue: 0,0:17:42.22,0:17:49.10,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Donna koto wo sureba yorokonde kureru no.
+Dialogue: 0,0:17:49.29,0:17:55.00,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Teach me, let me know you.
+Dialogue: 0,0:17:56.31,0:18:02.18,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Teach me, let me know you.
+Dialogue: 0,0:18:02.29,0:18:09.56,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Dochira ni shiyou ka na asa gohan wa pan ga ii?
+Dialogue: 0,0:18:09.42,0:18:17.94,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Okitate no kimi no hazukashi souna shigusa mo ii.
+Dialogue: 0,0:18:17.73,0:18:27.40,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Mendouna koto wa zenbu konosai nuki ni shite tada aishiaou.
+Dialogue: 0,0:18:27.92,0:18:31.89,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Watashi dake wo mite yo.
+Dialogue: 0,0:18:31.65,0:18:37.33,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Teach me, let me know you.
+Dialogue: 0,0:18:38.67,0:18:44.48,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Teach me, let me know you.
+Dialogue: 0,0:18:45.77,0:18:51.39,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Teach me, let me know you.
+Dialogue: 0,0:18:52.77,0:18:58.59,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Teach me, let me know you.
+Dialogue: 0,0:18:59.89,0:19:05.57,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Teach me, let me know you.
+Dialogue: 0,0:19:06.91,0:19:12.78,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Teach me, let me know you.
+Dialogue: 0,0:19:13.95,0:19:17.42,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Donna fasshon?
+Dialogue: 0,0:19:17.51,0:19:20.96,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(380,20,340,20)}Donna shichueishon?
+Dialogue: 0,0:19:21.04,0:19:29.53,ED Rom,,0,0,0,,{\blur1\fad(200,200)\move(340,20,380,20)}Donna koto wo sureba yorokonde kureru no.
+Dialogue: 0,0:19:31.91,0:19:33.06,ED Rom,,0,0,0,,{\blur1\fad(200,200)\pos(360,20)}Teach me.
+Dialogue: 0,0:17:35.15,0:17:38.60,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(340,57,380,57)\3c&H03DCF8&}どんなファッション？
+Dialogue: 0,0:17:38.54,0:17:42.18,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(380,57,340,57)\3c&H03DCF8&\t(1529,1637,\3c&HD23B03&)}どんなシチュエイション？
+Dialogue: 0,0:17:42.22,0:17:49.10,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(340,57,380,57)\t(1108,1108,\3c&HF3A4FC&)\t(1108,1342,\3c&H2A13B4&)\t(2800,2800,\3c&HF3A4FC&)\t(3010,3010,\3c&H8E97DF&)\t(3377,3419,\3c&H605555&)\t(3639,3639,\3c&H8E98DF&)\t(3878,3920,\3c&HFFE4A4&)\t(4145,4145,\3c&H935465&)\t(4378,4378,\3c&HF9EAB7&)\t(4640,4640,\3c&H4B477C&)\t(4879,4921,\3c&H8ACDF9&)\t(5675,5675,\3c&H413077&)}どんなことをすれば喜んでくれるの。
+Dialogue: 0,0:18:02.29,0:18:09.56,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(380,57,340,57)\3c&H0003BD&}どちらにしようかな 朝ごはんはパンがいい？
+Dialogue: 0,0:18:09.42,0:18:17.94,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(340,57,380,57)\3c&H0003BD&}起きたてのキミの 恥ずかしそうなしぐさもいい。
+Dialogue: 0,0:18:17.73,0:18:27.40,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(380,57,340,57)\3c&H0003BD&}面倒なことは全部この際抜きにして ただ愛し合おう。
+Dialogue: 0,0:18:27.92,0:18:31.89,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(340,57,380,57)\3c&H0003BD&\t(3618,3618,\3c&H9BD4F6&)}私だけを見てよ。
+Dialogue: 0,0:19:13.95,0:19:17.42,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(380,57,340,57)\3c&H9BD4F6&}どんなファッション？
+Dialogue: 0,0:19:17.51,0:19:20.96,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(340,57,380,57)\3c&H9BD4F6&}どんなシチュエイション？
+Dialogue: 0,0:19:21.04,0:19:29.53,ED Kan 2,,0,0,0,,{\blur3\fad(200,200)\move(380,57,340,57)\3c&H9BD4F6&}どんなことをすれば喜んでくれるの。
+Dialogue: 0,0:17:35.15,0:17:38.60,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(340,57,380,57)}どんなファッション？
+Dialogue: 0,0:17:38.54,0:17:42.18,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(380,57,340,57)}どんなシチュエイション？
+Dialogue: 0,0:17:42.22,0:17:49.10,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(340,57,380,57)}どんなことをすれば喜んでくれるの。
+Dialogue: 0,0:18:02.29,0:18:09.56,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(380,57,340,57)}どちらにしようかな 朝ごはんはパンがいい？
+Dialogue: 0,0:18:09.42,0:18:17.94,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(340,57,380,57)}起きたてのキミの 恥ずかしそうなしぐさもいい。
+Dialogue: 0,0:18:17.73,0:18:27.40,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(380,57,340,57)}面倒なことは全部この際抜きにして ただ愛し合おう。
+Dialogue: 0,0:18:27.92,0:18:31.89,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(340,57,380,57)}私だけを見てよ。
+Dialogue: 0,0:19:13.95,0:19:17.42,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(380,57,340,57)}どんなファッション？
+Dialogue: 0,0:19:17.51,0:19:20.96,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(340,57,380,57)}どんなシチュエイション？
+Dialogue: 0,0:19:21.04,0:19:29.53,ED Kan,,0,0,0,,{\blur1\fad(200,200)\move(380,57,340,57)}どんなことをすれば喜んでくれるの。
+Dialogue: 0,0:17:35.15,0:17:38.60,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H03DCF8&}W co lubisz się ubierać?
+Dialogue: 0,0:17:38.54,0:17:42.18,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H03DCF8&\t(1529,1637,\3c&HD23B03&)}Co lubisz robić?
+Dialogue: 0,0:17:42.22,0:17:49.10,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\t(1108,1108,\3c&HF3A4FC&)\t(1108,1342,\3c&H2A13B4&)\t(2800,2800,\3c&HF3A4FC&)\t(3010,3010,\3c&H8E97DF&)\t(3377,3419,\3c&H605555&)\t(3639,3639,\3c&H8E98DF&)\t(3878,3920,\3c&HFFE4A4&)\t(4145,4145,\3c&H935465&)\t(4378,4378,\3c&HF9EAB7&)\t(4640,4640,\3c&H4B477C&)\t(4879,4921,\3c&H8ACDF9&)\t(5675,5675,\3c&H413077&)}Mam nadzieję, że jesteś ze mną szczęśliwy.
+Dialogue: 0,0:17:49.29,0:17:55.00,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H9BD4F6&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:17:56.31,0:18:02.18,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H9BD4F6&\t(4711,4711,\3c&HD23B03&)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:02.29,0:18:09.56,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H0003BD&}Wolisz zjeść ryż czy kanapki?
+Dialogue: 0,0:18:09.42,0:18:17.94,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H0003BD&}Lubię twój sposób poruszania,\Njest taki pociągający.
+Dialogue: 0,0:18:17.73,0:18:27.40,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H0003BD&}Rzuć w cholerę wszystkie kłopoty\Ni chodź się kochać.
+Dialogue: 0,0:18:27.92,0:18:31.89,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H0003BD&\t(3618,3618,\3c&H9BD4F6&)}Patrz na mnie i tylko na mnie.
+Dialogue: 0,0:18:31.65,0:18:37.33,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H9BD4F6&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:38.67,0:18:44.48,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H0003BD&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:45.77,0:18:51.39,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H0003BD&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:52.77,0:18:58.59,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H0003BD&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:59.89,0:19:05.57,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H9BD4F6&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:19:06.91,0:19:12.78,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H9BD4F6&}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:19:13.95,0:19:17.42,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H9BD4F6&}W co lubisz się ubierać?
+Dialogue: 0,0:19:17.51,0:19:20.96,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,450,360,470)\3c&H9BD4F6&}Co lubisz robić?
+Dialogue: 0,0:19:21.04,0:19:29.53,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\move(360,470,360,450)\3c&H9BD4F6&}Mam nadzieję, że jesteś ze mną szczęśliwy.
+Dialogue: 0,0:19:31.91,0:19:33.06,ED Pl 2,,0,0,0,,{\blur3\fad(200,200)\pos(360,460)}Ucz mnie.
+Dialogue: 0,0:17:35.15,0:17:38.60,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}W co lubisz się ubierać?
+Dialogue: 0,0:17:38.54,0:17:42.18,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Co lubisz robić?
+Dialogue: 0,0:17:42.22,0:17:49.10,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Mam nadzieję, że jesteś ze mną szczęśliwy.
+Dialogue: 0,0:17:49.29,0:17:55.00,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:17:56.31,0:18:02.18,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:02.29,0:18:09.56,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Wolisz zjeść ryż czy kanapki?
+Dialogue: 0,0:18:09.42,0:18:17.94,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Lubię twój sposób poruszania,\Njest taki pociągający.
+Dialogue: 0,0:18:17.73,0:18:27.40,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Rzuć w cholerę wszystkie kłopoty\Ni chodź się kochać.
+Dialogue: 0,0:18:27.92,0:18:31.89,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Patrz na mnie i tylko na mnie.
+Dialogue: 0,0:18:31.65,0:18:37.33,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:38.67,0:18:44.48,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:45.77,0:18:51.39,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:52.77,0:18:58.59,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:18:59.89,0:19:05.57,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:19:06.91,0:19:12.78,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Ucz mnie, chcę cię lepiej poznać.
+Dialogue: 0,0:19:13.95,0:19:17.42,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}W co lubisz się ubierać?
+Dialogue: 0,0:19:17.51,0:19:20.96,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,450,360,470)}Co lubisz robić?
+Dialogue: 0,0:19:21.04,0:19:29.53,ED Pl,,0,0,0,,{\blur1\fad(200,200)\move(360,470,360,450)}Mam nadzieję, że jesteś ze mną szczęśliwy.
+Dialogue: 0,0:19:31.91,0:19:33.06,ED Pl,,0,0,0,,{\blur1\fad(200,200)}Ucz mnie.

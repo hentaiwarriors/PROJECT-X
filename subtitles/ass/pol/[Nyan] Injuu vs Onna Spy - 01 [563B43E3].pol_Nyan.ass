@@ -1,0 +1,275 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build397  Sep 13 2015  18:34:34
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [700x400]
+Collisions: Normal
+Active Line: 0
+Kai->Automation Scripts: E:\Programy\Kainote\Prosty efekt nauki kara w bakukarze v7.7.5.lua|E:\Programy\Kainote\Karaoke do Bakukary - Kopia.lua|
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H007F7F7F,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,55,&H007F7F7F,&H000000FF,&H000D0D6E,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,30,&H00F0F9FD,&H000000FF,&H00264C8B,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,20,20,10,1
+Style: Kopia Znak,Franklin Gothic Medium,30,&H00F0F9FD,&H000000FF,&H002B446B,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:05:27.06,0:05:38.06,Grupa,,0,0,0,,{\fad(943,0)\t(4979,7977,\1c&H0D0D6E&)}Nyan
+Dialogue: 0,0:05:27.06,0:05:38.05,Anime,,0,0,0,,{\fad(943,0)\move(320,90,320,130,0,4745)\fs76\t(0,4745,\fs55)\t(4979,7977,\1c&H0D0D6E&}Injuu vs Onna Spy
+Dialogue: 0,0:08:01.36,0:08:12.70,Znak,,0,0,0,,{\blur5\pos(300,80)}{\alpha&HFF&\t(1,1,\alpha&H00&)}K{\alpha&HFF&\t(70,70,\alpha&H00&)}r{\alpha&HFF&\t(150,150,\alpha&H00&)}y{\alpha&HFF&\t(230,230,\alpha&H00&)}p{\alpha&HFF&\t(310,310,\alpha&H00&)}t{\alpha&HFF&\t(390,390,\alpha&H00&)}o{\alpha&HFF&\t(470,470,\alpha&H00&)}n{\alpha&HFF&\t(550,550,\alpha&H00&)}i{\alpha&HFF&\t(630,630,\alpha&H00&)}m{\alpha&HFF&\t(710,710,\alpha&H00&)}: {\alpha&HFF&\t(790,790,\alpha&H00&)}A{\alpha&HFF&\t(870,870,\alpha&H00&)}n{\alpha&HFF&\t(950,950,\alpha&H00&)}n{\alpha&HFF&\t(1030,1030,\alpha&H00&)}e\N\N\N{\fs28\alpha&HFF&\t(1110,1110,\alpha&H00&)}A{\alpha&HFF&\t(1190,1190,\alpha&H00&)}g{\alpha&HFF&\t(1270,1270,\alpha&H00&)}e{\alpha&HFF&\t(1350,1350,\alpha&H00&)}n{\alpha&HFF&\t(1430,1430,\alpha&H00&)}t{\alpha&HFF&\t(1510,1510,\alpha&H00&)}k{\alpha&HFF&\t(1590,1590,\alpha&H00&)}a {\alpha&HFF&\t(1670,1670,\alpha&H00&)}d{\alpha&HFF&\t(1750,1750,\alpha&H00&)}o {\alpha&HFF&\t(1830,1830,\alpha&H00&)}z{\alpha&HFF&\t(1910,1910,\alpha&H00&)}a{\alpha&HFF&\t(1990,1990,\alpha&H00&)}d{\alpha&HFF&\t(2070,2070,\alpha&H00&)}a{\alpha&HFF&\t(2150,2150,\alpha&H00&)}ń {\alpha&HFF&\t(2230,2230,\alpha&H00&)}s{\alpha&HFF&\t(2310,2310,\alpha&H00&)}p{\alpha&HFF&\t(2390,2390,\alpha&H00&)}e{\alpha&HFF&\t(2470,2470,\alpha&H00&)}c{\alpha&HFF&\t(2550,2550,\alpha&H00&)}j{\alpha&HFF&\t(2630,2630,\alpha&H00&)}a{\alpha&HFF&\t(2710,2710,\alpha&H00&)}l{\alpha&HFF&\t(2790,2790,\alpha&H00&)}n{\alpha&HFF&\t(2870,2870,\alpha&H00&)}y{\alpha&HFF&\t(2950,2950,\alpha&H00&)}c{\alpha&HFF&\t(3030,3030,\alpha&H00&)}h\N{\alpha&HFF&\t(3110,3110,\alpha&H00&)}D{\alpha&HFF&\t(3190,3190,\alpha&H00&)}o{\alpha&HFF&\t(3270,3270,\alpha&H00&)}w{\alpha&HFF&\t(3350,3350,\alpha&H00&)}ó{\alpha&HFF&\t(3430,3430,\alpha&H00&)}d{\alpha&HFF&\t(3510,3510,\alpha&H00&)}c{\alpha&HFF&\t(3590,3590,\alpha&H00&)}a {\alpha&HFF&\t(3670,3670,\alpha&H00&)}S{\alpha&HFF&\t(3750,3750,\alpha&H00&)}e{\alpha&HFF&\t(3830,3830,\alpha&H00&)}k{\alpha&HFF&\t(3910,3910,\alpha&H00&)}c{\alpha&HFF&\t(3990,3990,\alpha&H00&)}j{\alpha&HFF&\t(4070,4070,\alpha&H00&)}i {\alpha&HFF&\t(4150,4150,\alpha&H00&)}Q\N\N\N{\alpha&HFF&\t(4230,4230,\alpha&H00&)}I{\alpha&HFF&\t(4310,4310,\alpha&H00&)}m{\alpha&HFF&\t(4390,4390,\alpha&H00&)}i{\alpha&HFF&\t(4470,4470,\alpha&H00&)}ę{\alpha&HFF&\t(4550,4550,\alpha&H00&)}, {\alpha&HFF&\t(4630,4630,\alpha&H00&)}w{\alpha&HFF&\t(4710,4710,\alpha&H00&)}i{\alpha&HFF&\t(4790,4790,\alpha&H00&)}e{\alpha&HFF&\t(4870,4870,\alpha&H00&)}k {\alpha&HFF&\t(4950,4950,\alpha&H00&)}i {\alpha&HFF&\t(5030,5030,\alpha&H00&)}m{\alpha&HFF&\t(5110,5110,\alpha&H00&)}i{\alpha&HFF&\t(5190,5190,\alpha&H00&)}e{\alpha&HFF&\t(5270,5270,\alpha&H00&)}j{\alpha&HFF&\t(5350,5350,\alpha&H00&)}s{\alpha&HFF&\t(5430,5430,\alpha&H00&)}c{\alpha&HFF&\t(5510,5510,\alpha&H00&)}e {\alpha&HFF&\t(5590,5590,\alpha&H00&)}u{\alpha&HFF&\t(5670,5670,\alpha&H00&)}r{\alpha&HFF&\t(5750,5750,\alpha&H00&)}o{\alpha&HFF&\t(5830,5830,\alpha&H00&)}d{\alpha&HFF&\t(5910,5910,\alpha&H00&)}z{\alpha&HFF&\t(5990,5990,\alpha&H00&)}e{\alpha&HFF&\t(6070,6070,\alpha&H00&)}n{\alpha&HFF&\t(6150,6150,\alpha&H00&)}i{\alpha&HFF&\t(6230,6230,\alpha&H00&)}a\N{\alpha&HFF&\t(6310,6310,\alpha&H00&)}n{\alpha&HFF&\t(6390,6390,\alpha&H00&)}i{\alpha&HFF&\t(6470,6470,\alpha&H00&)}e{\alpha&HFF&\t(6550,6550,\alpha&H00&)}z{\alpha&HFF&\t(6630,6630,\alpha&H00&)}n{\alpha&HFF&\t(6710,6710,\alpha&H00&)}a{\alpha&HFF&\t(6790,6790,\alpha&H00&)}n{\alpha&HFF&\t(6870,6870,\alpha&H00&)}e\N\N\N{\alpha&HFF&\t(6950,6950,\alpha&H00&)}M{\alpha&HFF&\t(7030,7030,\alpha&H00&)}i{\alpha&HFF&\t(7110,7110,\alpha&H00&)}s{\alpha&HFF&\t(7190,7190,\alpha&H00&)}t{\alpha&HFF&\t(7270,7270,\alpha&H00&)}r{\alpha&HFF&\t(7350,7350,\alpha&H00&)}z{\alpha&HFF&\t(7430,7430,\alpha&H00&)}y{\alpha&HFF&\t(7510,7510,\alpha&H00&)}n{\alpha&HFF&\t(7590,7590,\alpha&H00&)}i {\alpha&HFF&\t(7670,7670,\alpha&H00&)}s{\alpha&HFF&\t(7750,7750,\alpha&H00&)}z{\alpha&HFF&\t(7830,7830,\alpha&H00&)}t{\alpha&HFF&\t(7910,7910,\alpha&H00&)}u{\alpha&HFF&\t(7990,7990,\alpha&H00&)}k {\alpha&HFF&\t(8070,8070,\alpha&H00&)}w{\alpha&HFF&\t(8150,8150,\alpha&H00&)}a{\alpha&HFF&\t(8230,8230,\alpha&H00&)}l{\alpha&HFF&\t(8310,8310,\alpha&H00&)}k {\alpha&HFF&\t(8390,8390,\alpha&H00&)}i {\alpha&HFF&\t(8470,8470,\alpha&H00&)}s{\alpha&HFF&\t(8550,8550,\alpha&H00&)}t{\alpha&HFF&\t(8630,8630,\alpha&H00&)}r{\alpha&HFF&\t(8710,8710,\alpha&H00&)}z{\alpha&HFF&\t(8790,8790,\alpha&H00&)}e{\alpha&HFF&\t(8870,8870,\alpha&H00&)}l{\alpha&HFF&\t(8950,8950,\alpha&H00&)}e{\alpha&HFF&\t(9030,9030,\alpha&H00&)}c\N{\alpha&HFF&\t(9110,9110,\alpha&H00&)}w{\alpha&HFF&\t(9190,9190,\alpha&H00&)}y{\alpha&HFF&\t(9270,9270,\alpha&H00&)}b{\alpha&HFF&\t(9350,9350,\alpha&H00&)}o{\alpha&HFF&\t(9430,9430,\alpha&H00&)}r{\alpha&HFF&\t(9510,9510,\alpha&H00&)}o{\alpha&HFF&\t(9590,9590,\alpha&H00&)}w{\alpha&HFF&\t(9670,9670,\alpha&H00&)}y
+Dialogue: 0,0:09:44.71,0:09:55.56,Znak,,0,0,0,,{\blur5\pos(15,80)}{\alpha&HFF&\t(1,1,\alpha&H00&)}K{\alpha&HFF&\t(80,80,\alpha&H00&)}r{\alpha&HFF&\t(170,170,\alpha&H00&)}y{\alpha&HFF&\t(260,260,\alpha&H00&)}p{\alpha&HFF&\t(350,350,\alpha&H00&)}t{\alpha&HFF&\t(440,440,\alpha&H00&)}o{\alpha&HFF&\t(530,530,\alpha&H00&)}n{\alpha&HFF&\t(620,620,\alpha&H00&)}i{\alpha&HFF&\t(700,700,\alpha&H00&)}m{\alpha&HFF&\t(790,790,\alpha&H00&)}: {\alpha&HFF&\t(880,880,\alpha&H00&)}L{\alpha&HFF&\t(970,970,\alpha&H00&)}a{\alpha&HFF&\t(1060,1060,\alpha&H00&)}y{\alpha&HFF&\t(1150,1150,\alpha&H00&)}l{\alpha&HFF&\t(1230,1230,\alpha&H00&)}a\N\N\N{\fs28\alpha&HFF&\t(1320,1320,\alpha&H00&)}A{\alpha&HFF&\t(1410,1410,\alpha&H00&)}g{\alpha&HFF&\t(1500,1500,\alpha&H00&)}e{\alpha&HFF&\t(1590,1590,\alpha&H00&)}n{\alpha&HFF&\t(1680,1680,\alpha&H00&)}t{\alpha&HFF&\t(1760,1760,\alpha&H00&)}k{\alpha&HFF&\t(1850,1850,\alpha&H00&)}a {\alpha&HFF&\t(1940,1940,\alpha&H00&)}d{\alpha&HFF&\t(2030,2030,\alpha&H00&)}o {\alpha&HFF&\t(2120,2120,\alpha&H00&)}z{\alpha&HFF&\t(2210,2210,\alpha&H00&)}a{\alpha&HFF&\t(2290,2290,\alpha&H00&)}d{\alpha&HFF&\t(2380,2380,\alpha&H00&)}a{\alpha&HFF&\t(2470,2470,\alpha&H00&)}ń {\alpha&HFF&\t(2560,2560,\alpha&H00&)}s{\alpha&HFF&\t(2650,2650,\alpha&H00&)}p{\alpha&HFF&\t(2740,2740,\alpha&H00&)}e{\alpha&HFF&\t(2820,2820,\alpha&H00&)}c{\alpha&HFF&\t(2910,2910,\alpha&H00&)}j{\alpha&HFF&\t(3000,3000,\alpha&H00&)}a{\alpha&HFF&\t(3090,3090,\alpha&H00&)}l{\alpha&HFF&\t(3180,3180,\alpha&H00&)}n{\alpha&HFF&\t(3270,3270,\alpha&H00&)}y{\alpha&HFF&\t(3350,3350,\alpha&H00&)}c{\alpha&HFF&\t(3440,3440,\alpha&H00&)}h\N{\alpha&HFF&\t(3530,3530,\alpha&H00&)}C{\alpha&HFF&\t(3620,3620,\alpha&H00&)}z{\alpha&HFF&\t(3710,3710,\alpha&H00&)}ł{\alpha&HFF&\t(3800,3800,\alpha&H00&)}o{\alpha&HFF&\t(3880,3880,\alpha&H00&)}n{\alpha&HFF&\t(3970,3970,\alpha&H00&)}e{\alpha&HFF&\t(4060,4060,\alpha&H00&)}k {\alpha&HFF&\t(4150,4150,\alpha&H00&)}S{\alpha&HFF&\t(4240,4240,\alpha&H00&)}e{\alpha&HFF&\t(4330,4330,\alpha&H00&)}k{\alpha&HFF&\t(4410,4410,\alpha&H00&)}c{\alpha&HFF&\t(4500,4500,\alpha&H00&)}j{\alpha&HFF&\t(4590,4590,\alpha&H00&)}i {\alpha&HFF&\t(4680,4680,\alpha&H00&)}Q\N\N\N{\alpha&HFF&\t(4770,4770,\alpha&H00&)}I{\alpha&HFF&\t(4860,4860,\alpha&H00&)}m{\alpha&HFF&\t(4940,4940,\alpha&H00&)}i{\alpha&HFF&\t(5030,5030,\alpha&H00&)}ę, {\alpha&HFF&\t(5120,5120,\alpha&H00&)}w{\alpha&HFF&\t(5210,5210,\alpha&H00&)}i{\alpha&HFF&\t(5300,5300,\alpha&H00&)}e{\alpha&HFF&\t(5390,5390,\alpha&H00&)}k {\alpha&HFF&\t(5480,5480,\alpha&H00&)}i {\alpha&HFF&\t(5560,5560,\alpha&H00&)}m{\alpha&HFF&\t(5650,5650,\alpha&H00&)}i{\alpha&HFF&\t(5740,5740,\alpha&H00&)}e{\alpha&HFF&\t(5830,5830,\alpha&H00&)}j{\alpha&HFF&\t(5920,5920,\alpha&H00&)}s{\alpha&HFF&\t(6010,6010,\alpha&H00&)}c{\alpha&HFF&\t(6090,6090,\alpha&H00&)}e {\alpha&HFF&\t(6180,6180,\alpha&H00&)}u{\alpha&HFF&\t(6270,6270,\alpha&H00&)}r{\alpha&HFF&\t(6360,6360,\alpha&H00&)}o{\alpha&HFF&\t(6450,6450,\alpha&H00&)}d{\alpha&HFF&\t(6540,6540,\alpha&H00&)}z{\alpha&HFF&\t(6630,6630,\alpha&H00&)}e{\alpha&HFF&\t(6720,6720,\alpha&H00&)}n{\alpha&HFF&\t(6810,6810,\alpha&H00&)}i{\alpha&HFF&\t(6900,6900,\alpha&H00&)}a\N{\alpha&HFF&\t(6990,6990,\alpha&H00&)}n{\alpha&HFF&\t(7080,7080,\alpha&H00&)}i{\alpha&HFF&\t(7170,7170,\alpha&H00&)}e{\alpha&HFF&\t(7260,7260,\alpha&H00&)}z{\alpha&HFF&\t(7350,7350,\alpha&H00&)}n{\alpha&HFF&\t(7440,7440,\alpha&H00&)}a{\alpha&HFF&\t(7530,7530,\alpha&H00&)}n{\alpha&HFF&\t(7620,7620,\alpha&H00&)}e\N\N\N{\alpha&HFF&\t(7710,7710,\alpha&H00&)}E{\alpha&HFF&\t(7800,7800,\alpha&H00&)}k{\alpha&HFF&\t(7890,7890,\alpha&H00&)}s{\alpha&HFF&\t(7980,7980,\alpha&H00&)}p{\alpha&HFF&\t(8070,8070,\alpha&H00&)}e{\alpha&HFF&\t(8160,8160,\alpha&H00&)}r{\alpha&HFF&\t(8250,8250,\alpha&H00&)}t {\alpha&HFF&\t(8340,8340,\alpha&H00&)}k{\alpha&HFF&\t(8430,8430,\alpha&H00&)}o{\alpha&HFF&\t(8520,8520,\alpha&H00&)}m{\alpha&HFF&\t(8610,8610,\alpha&H00&)}p{\alpha&HFF&\t(8700,8700,\alpha&H00&)}u{\alpha&HFF&\t(8790,8790,\alpha&H00&)}t{\alpha&HFF&\t(8880,8880,\alpha&H00&)}e{\alpha&HFF&\t(8970,8970,\alpha&H00&)}r{\alpha&HFF&\t(9060,9060,\alpha&H00&)}o{\alpha&HFF&\t(9150,9150,\alpha&H00&)}w{\alpha&HFF&\t(9240,9240,\alpha&H00&)}y
+Dialogue: 0,0:11:37.94,0:11:48.53,Znak,,0,0,0,,{\blur5\pos(300,80)}{\alpha&HFF&\t(1,1,\alpha&H00&)}K{\alpha&HFF&\t(70,70,\alpha&H00&)}r{\alpha&HFF&\t(150,150,\alpha&H00&)}y{\alpha&HFF&\t(230,230,\alpha&H00&)}p{\alpha&HFF&\t(310,310,\alpha&H00&)}t{\alpha&HFF&\t(390,390,\alpha&H00&)}o{\alpha&HFF&\t(470,470,\alpha&H00&)}n{\alpha&HFF&\t(550,550,\alpha&H00&)}i{\alpha&HFF&\t(630,630,\alpha&H00&)}m{\alpha&HFF&\t(700,700,\alpha&H00&)}: {\alpha&HFF&\t(780,780,\alpha&H00&)}S{\alpha&HFF&\t(860,860,\alpha&H00&)}h{\alpha&HFF&\t(940,940,\alpha&H00&)}i{\alpha&HFF&\t(1020,1020,\alpha&H00&)}o{\alpha&HFF&\t(1100,1100,\alpha&H00&)}n\N\N\N{\fs28\alpha&HFF&\t(1180,1180,\alpha&H00&)}A{\alpha&HFF&\t(1250,1250,\alpha&H00&)}g{\alpha&HFF&\t(1330,1330,\alpha&H00&)}e{\alpha&HFF&\t(1410,1410,\alpha&H00&)}n{\alpha&HFF&\t(1490,1490,\alpha&H00&)}t{\alpha&HFF&\t(1570,1570,\alpha&H00&)}k{\alpha&HFF&\t(1650,1650,\alpha&H00&)}a {\alpha&HFF&\t(1730,1730,\alpha&H00&)}d{\alpha&HFF&\t(1800,1800,\alpha&H00&)}o {\alpha&HFF&\t(1870,1870,\alpha&H00&)}z{\alpha&HFF&\t(1950,1950,\alpha&H00&)}a{\alpha&HFF&\t(2030,2030,\alpha&H00&)}d{\alpha&HFF&\t(2110,2110,\alpha&H00&)}a{\alpha&HFF&\t(2190,2190,\alpha&H00&)}ń {\alpha&HFF&\t(2260,2260,\alpha&H00&)}s{\alpha&HFF&\t(2340,2340,\alpha&H00&)}p{\alpha&HFF&\t(2420,2420,\alpha&H00&)}e{\alpha&HFF&\t(2500,2500,\alpha&H00&)}c{\alpha&HFF&\t(2580,2580,\alpha&H00&)}j{\alpha&HFF&\t(2650,2650,\alpha&H00&)}a{\alpha&HFF&\t(2730,2730,\alpha&H00&)}l{\alpha&HFF&\t(2810,2810,\alpha&H00&)}n{\alpha&HFF&\t(2890,2890,\alpha&H00&)}y{\alpha&HFF&\t(2970,2970,\alpha&H00&)}c{\alpha&HFF&\t(3050,3050,\alpha&H00&)}h\N{\alpha&HFF&\t(3130,3130,\alpha&H00&)}C{\alpha&HFF&\t(3210,3210,\alpha&H00&)}z{\alpha&HFF&\t(3280,3280,\alpha&H00&)}ł{\alpha&HFF&\t(3360,3360,\alpha&H00&)}o{\alpha&HFF&\t(3440,3440,\alpha&H00&)}n{\alpha&HFF&\t(3520,3520,\alpha&H00&)}e{\alpha&HFF&\t(3600,3600,\alpha&H00&)}k {\alpha&HFF&\t(3670,3670,\alpha&H00&)}S{\alpha&HFF&\t(3750,3750,\alpha&H00&)}e{\alpha&HFF&\t(3820,3820,\alpha&H00&)}k{\alpha&HFF&\t(3900,3900,\alpha&H00&)}c{\alpha&HFF&\t(3980,3980,\alpha&H00&)}j{\alpha&HFF&\t(4060,4060,\alpha&H00&)}i {\alpha&HFF&\t(4140,4140,\alpha&H00&)}Q\N\N\N{\alpha&HFF&\t(4220,4220,\alpha&H00&)}I{\alpha&HFF&\t(4290,4290,\alpha&H00&)}m{\alpha&HFF&\t(4370,4370,\alpha&H00&)}i{\alpha&HFF&\t(4450,4450,\alpha&H00&)}ę{\alpha&HFF&\t(4530,4530,\alpha&H00&)}, {\alpha&HFF&\t(4610,4610,\alpha&H00&)}w{\alpha&HFF&\t(4690,4690,\alpha&H00&)}i{\alpha&HFF&\t(4760,4760,\alpha&H00&)}e{\alpha&HFF&\t(4840,4840,\alpha&H00&)}k {\alpha&HFF&\t(4920,4920,\alpha&H00&)}i {\alpha&HFF&\t(5000,5000,\alpha&H00&)}m{\alpha&HFF&\t(5080,5080,\alpha&H00&)}i{\alpha&HFF&\t(5160,5160,\alpha&H00&)}e{\alpha&HFF&\t(5240,5240,\alpha&H00&)}j{\alpha&HFF&\t(5310,5310,\alpha&H00&)}s{\alpha&HFF&\t(5390,5390,\alpha&H00&)}c{\alpha&HFF&\t(5470,5470,\alpha&H00&)}e {\alpha&HFF&\t(5550,5550,\alpha&H00&)}u{\alpha&HFF&\t(5630,5630,\alpha&H00&)}r{\alpha&HFF&\t(5700,5700,\alpha&H00&)}o{\alpha&HFF&\t(5780,5780,\alpha&H00&)}d{\alpha&HFF&\t(5850,5850,\alpha&H00&)}z{\alpha&HFF&\t(5930,5930,\alpha&H00&)}e{\alpha&HFF&\t(6010,6010,\alpha&H00&)}n{\alpha&HFF&\t(6090,6090,\alpha&H00&)}i{\alpha&HFF&\t(6170,6170,\alpha&H00&)}a\N{\alpha&HFF&\t(6250,6250,\alpha&H00&)}n{\alpha&HFF&\t(6330,6330,\alpha&H00&)}i{\alpha&HFF&\t(6400,6400,\alpha&H00&)}e{\alpha&HFF&\t(6470,6470,\alpha&H00&)}z{\alpha&HFF&\t(6550,6550,\alpha&H00&)}n{\alpha&HFF&\t(6620,6620,\alpha&H00&)}a{\alpha&HFF&\t(6700,6700,\alpha&H00&)}n{\alpha&HFF&\t(6780,6780,\alpha&H00&)}e\N\N\N{\alpha&HFF&\t(6860,6860,\alpha&H00&)}E{\alpha&HFF&\t(6940,6940,\alpha&H00&)}k{\alpha&HFF&\t(7020,7020,\alpha&H00&)}s{\alpha&HFF&\t(7100,7100,\alpha&H00&)}p{\alpha&HFF&\t(7180,7180,\alpha&H00&)}e{\alpha&HFF&\t(7260,7260,\alpha&H00&)}r{\alpha&HFF&\t(7340,7340,\alpha&H00&)}t {\alpha&HFF&\t(7420,7420,\alpha&H00&)}o{\alpha&HFF&\t(7500,7500,\alpha&H00&)}d {\alpha&HFF&\t(7580,7580,\alpha&H00&)}m{\alpha&HFF&\t(7660,7660,\alpha&H00&)}a{\alpha&HFF&\t(7740,7740,\alpha&H00&)}t{\alpha&HFF&\t(7820,7820,\alpha&H00&)}e{\alpha&HFF&\t(7900,7900,\alpha&H00&)}r{\alpha&HFF&\t(7980,7980,\alpha&H00&)}i{\alpha&HFF&\t(8060,8060,\alpha&H00&)}a{\alpha&HFF&\t(8140,8140,\alpha&H00&)}ł{\alpha&HFF&\t(8220,8220,\alpha&H00&)}ó{\alpha&HFF&\t(8300,8300,\alpha&H00&)}w\N{\alpha&HFF&\t(8380,8380,\alpha&H00&)}w{\alpha&HFF&\t(8450,8450,\alpha&H00&)}y{\alpha&HFF&\t(8530,8530,\alpha&H00&)}b{\alpha&HFF&\t(8610,8610,\alpha&H00&)}u{\alpha&HFF&\t(8690,8690,\alpha&H00&)}c{\alpha&HFF&\t(8770,8770,\alpha&H00&)}h{\alpha&HFF&\t(8850,8850,\alpha&H00&)}o{\alpha&HFF&\t(8920,8920,\alpha&H00&)}w{\alpha&HFF&\t(9000,9000,\alpha&H00&)}y{\alpha&HFF&\t(9080,9080,\alpha&H00&)}c{\alpha&HFF&\t(9160,9160,\alpha&H00&)}h
+Dialogue: 0,0:41:23.97,0:41:46.36,Znak,,0,0,0,,{\move(110,480,110,-330)\blur3\an7}Misja nr 164-5-19-2339092\N\NPoziom 4: cel zniszczony.\N\NBrak potwierdzenia śmierci agentek:\N\N{\alpha&HFF&}.                                               {\alpha&H00&}Anne\N{\alpha&HFF&}.                                               {\alpha&H00&}Shion\N{\alpha&HFF&}.                                               {\alpha&H00&}Layla\N\NAkta zostaną całkowicie utajnione.
+Dialogue: 0,0:00:33.53,0:00:35.37,Default,,0,0,0,,{\be1}Kim jesteście?!
+Dialogue: 0,0:00:37.42,0:00:40.73,Default,,0,0,0,,{\be1}Chcę zobaczyć twój eksperyment.
+Dialogue: 0,0:00:52.94,0:00:53.91,Default,,0,0,0,,{\be1}To on?
+Dialogue: 0,0:01:04.18,0:01:05.58,Default,,0,0,0,,{\be1}Nie...
+Dialogue: 0,0:01:08.49,0:01:10.02,Default,,0,0,0,,{\be1}Kobieta.
+Dialogue: 0,0:01:10.96,0:01:14.94,Default,,0,0,0,,{\be1}Co wy wyprawiacie?! On ją...
+Dialogue: 0,0:01:18.27,0:01:19.43,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:01:30.41,0:01:34.12,Default,,0,0,0,,{\be1}To bioborg, którego stworzyliście\Ndzięki inżynierii genetycznej.
+Dialogue: 0,0:01:34.88,0:01:38.33,Default,,0,0,0,,{\be1}Najsilniejszy żołnierz na świecie.
+Dialogue: 0,0:01:45.69,0:01:49.11,Default,,0,0,0,,{\be1}Niesamowita siła.
+Dialogue: 0,0:01:56.30,0:01:57.84,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:02:02.80,0:02:04.59,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:02:06.88,0:02:10.29,Default,,0,0,0,,{\be1}Niestety myśli tylko o pieprzeniu.
+Dialogue: 0,0:02:39.58,0:02:42.00,Default,,0,0,0,,{\be1}O nie, on zaraz...
+Dialogue: 0,0:03:09.37,0:03:11.83,Default,,0,0,0,,{\be1}Przestańcie! Nie można wam kontynuować!
+Dialogue: 0,0:03:41.88,0:03:43.58,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:04:08.43,0:04:10.03,Default,,0,0,0,,{\be1}Niesamowite.
+Dialogue: 0,0:04:29.18,0:04:30.99,Default,,0,0,0,,{\be1}Seks-bestia.
+Dialogue: 0,0:04:30.99,0:04:36.40,Default,,0,0,0,,{\be1}Stworzyłem ohydnego potwora.
+Dialogue: 0,0:04:55.84,0:04:58.96,Default,,0,0,0,,{\be1}Swoim tworem sprzeciwiłem się boskim prawom!
+Dialogue: 0,0:05:10.93,0:05:13.22,Default,,0,0,0,,{\be1}Człowiek nie może stać się bogiem.
+Dialogue: 0,0:05:15.36,0:05:17.61,Default,,0,0,0,,{\be1}Ale diabłem już tak.
+Dialogue: 0,0:05:50.66,0:05:53.89,Default,,0,0,0,,{\be1}O tak, cudownie.
+Dialogue: 0,0:06:06.68,0:06:10.08,Default,,0,0,0,,{\be1}Nie wytrzymam, weź mnie.
+Dialogue: 0,0:06:26.80,0:06:30.60,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:06:36.24,0:06:40.40,Default,,0,0,0,,{\be1}O tak! Spuść się we mnie!
+Dialogue: 0,0:07:10.92,0:07:12.01,Default,,0,0,0,,{\be1}Anne?
+Dialogue: 0,0:07:12.01,0:07:13.38,Default,,0,0,0,,{\be1}Szefie.
+Dialogue: 0,0:07:13.38,0:07:16.27,Default,,0,0,0,,{\be1}Najwyraźniej już skończyłaś.
+Dialogue: 0,0:07:16.27,0:07:21.12,Default,,0,0,0,,{\be1}Tak, fałszerz Lee wyeliminowany.
+Dialogue: 0,0:07:21.12,0:07:24.83,Default,,0,0,0,,{\be1}Zniszczyłam też wszystkie podróbki.
+Dialogue: 0,0:07:24.83,0:07:28.00,Default,,0,0,0,,{\be1}Skarb państwa więcej nie ucierpi.
+Dialogue: 0,0:07:28.00,0:07:29.50,Default,,0,0,0,,{\be1}Dobra robota.
+Dialogue: 0,0:07:29.50,0:07:34.22,Default,,0,0,0,,{\be1}Chciałbym dać ci wolne,\Nżebyś nacieszyła się Hong Kongiem, ale...
+Dialogue: 0,0:07:34.22,0:07:37.54,Default,,0,0,0,,{\be1}Nagłe wezwanie?
+Dialogue: 0,0:07:37.54,0:07:41.14,Default,,0,0,0,,{\be1}Ogłoszono alarm czwartego stopnia.
+Dialogue: 0,0:07:41.14,0:07:42.64,Default,,0,0,0,,{\be1}Czwartego?!
+Dialogue: 0,0:07:42.64,0:07:45.61,Default,,0,0,0,,{\be1}Zadzwonię również do Layli i Shion.
+Dialogue: 0,0:07:45.61,0:07:49.05,Default,,0,0,0,,{\be1}Będziemy potrzebować całej Sekcji Q.
+Dialogue: 0,0:07:49.05,0:07:51.75,Default,,0,0,0,,{\be1}Przyjęłam, natychmiast wracam.
+Dialogue: 0,0:08:40.35,0:08:44.88,Default,,0,0,0,,{\be1}Słodka i bardzo seksowna.
+Dialogue: 0,0:09:03.40,0:09:08.97,Default,,0,0,0,,{\be1}Niesamowite, czuję go prawie w brzuchu!
+Dialogue: 0,0:09:13.15,0:09:15.58,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:09:20.51,0:09:22.84,Default,,0,0,0,,{\be1}Przyjęłam, szefie.
+Dialogue: 0,0:09:22.84,0:09:25.69,Default,,0,0,0,,{\be1}Wybacz, ale nie mogę się tobą zająć.
+Dialogue: 0,0:09:28.38,0:09:33.36,Default,,0,0,0,,{\be1}CIA przyjedzie po ciebie,\Nradzę ci wszystko wyśpiewać.
+Dialogue: 0,0:09:33.36,0:09:42.82,Default,,0,0,0,,{\be1}Dla hackera włamującego się\Ndo Pentagonu nie będą tak mili jak ja.
+Dialogue: 0,0:10:21.14,0:10:23.74,Default,,0,0,0,,{\be1}Jesteś cudowna jak dzieło sztuki.
+Dialogue: 0,0:10:37.62,0:10:39.46,Default,,0,0,0,,{\be1}Nie przestawaj.
+Dialogue: 0,0:10:42.22,0:10:43.46,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:10:43.46,0:10:44.57,Default,,0,0,0,,{\be1}Shion.
+Dialogue: 0,0:10:50.63,0:10:52.09,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:11:01.75,0:11:04.25,Default,,0,0,0,,{\be1}Ej, co jest?!
+Dialogue: 0,0:11:06.75,0:11:13.09,Default,,0,0,0,,{\be1}Szkoda, że nie doszedłeś przed\Naresztowaniem, ale muszę iść.
+Dialogue: 0,0:11:14.89,0:11:24.26,Default,,0,0,0,,{\be1}Twoje podróbki faktycznie są dziełem sztuki,\Nale nie powinieneś szkodzić państwu.
+Dialogue: 0,0:12:00.54,0:12:01.87,Default,,0,0,0,,{\be1}Wszystkie już są.
+Dialogue: 0,0:12:02.80,0:12:07.65,Default,,0,0,0,,{\be1}Dobrze was znów widzieć.
+Dialogue: 0,0:12:07.65,0:12:08.83,Default,,0,0,0,,{\be1}A to ci niespodzianka.
+Dialogue: 0,0:12:09.84,0:12:10.71,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:12:10.71,0:12:15.62,Default,,0,0,0,,{\be1}No bo nie myślałyśmy,\Nże będziesz się martwić, nie?
+Dialogue: 0,0:12:15.62,0:12:22.67,Default,,0,0,0,,{\be1}Zawsze powtarzasz, że nie obejdzie cię\Nnasza śmierć, bo jesteśmy twoje.
+Dialogue: 0,0:12:24.49,0:12:29.09,Default,,0,0,0,,{\be1}Nigdy nie zapominam swoich manier.
+Dialogue: 0,0:12:29.09,0:12:32.01,Default,,0,0,0,,{\be1}Nie musisz się martwić.
+Dialogue: 0,0:12:33.03,0:12:37.04,Default,,0,0,0,,{\be1}Jaką mamy misję?
+Dialogue: 0,0:12:38.54,0:12:43.24,Default,,0,0,0,,{\be1}Tego się spodziewałem.
+Dialogue: 0,0:12:43.24,0:12:45.21,Default,,0,0,0,,{\be1}Zaczynajmy.
+Dialogue: 0,0:12:47.95,0:12:54.64,Default,,0,0,0,,{\be1}Departament Obrony wynajął prywatne\Nprzedsiębiorstwo do stworzenia cyborga.
+Dialogue: 0,0:12:54.64,0:12:58.26,Default,,0,0,0,,{\be1}Niestety ktoś go im wykradł.
+Dialogue: 0,0:13:02.70,0:13:06.64,Default,,0,0,0,,{\be1}Muszą być profesjonalistami.
+Dialogue: 0,0:13:07.47,0:13:14.68,Default,,0,0,0,,{\be1}Kryptonim cyborga to Smok,\Nale w laboratorium nazywali go seks-bestią.
+Dialogue: 0,0:13:15.51,0:13:16.60,Default,,0,0,0,,{\be1}Seks-bestia?
+Dialogue: 0,0:13:17.08,0:13:22.52,Default,,0,0,0,,{\be1}Nieudana manipulacja genami sprawiła,\Nże ma niekontrolowany pociąg seksualny.
+Dialogue: 0,0:13:23.05,0:13:25.44,Default,,0,0,0,,{\be1}To potwór gwałcący kobiety.
+Dialogue: 0,0:13:31.83,0:13:36.87,Default,,0,0,0,,{\be1}Rząd nakazał nam pozbyć się projektu Bioborg.
+Dialogue: 0,0:13:36.87,0:13:38.06,Default,,0,0,0,,{\be1}Rozumiecie?
+Dialogue: 0,0:13:38.66,0:13:52.29,Default,,0,0,0,,{\be1}Jeśli ktoś się dowie, że stworzono cyborga do celów\Nmilitarnych, a przez pomyłkę stworzono seks-bestię...
+Dialogue: 0,0:13:53.04,0:13:55.96,Default,,0,0,0,,{\be1}Na rząd spadnie grad z całego świata.
+Dialogue: 0,0:13:56.48,0:13:59.38,Default,,0,0,0,,{\be1}I utraci zaufanie.
+Dialogue: 0,0:14:00.05,0:14:01.80,Default,,0,0,0,,{\be1}Oto zadanie Sekcji Q.
+Dialogue: 0,0:14:02.66,0:14:08.22,Default,,0,0,0,,{\be1}Odnajdźcie tę grupę i wyeliminujcie\Nją razem z seks-bestią.
+Dialogue: 0,0:14:10.23,0:14:11.64,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:14:29.74,0:14:31.86,Default,,0,0,0,,{\be1}Przestań! Nie!
+Dialogue: 0,0:15:16.93,0:15:22.37,Default,,0,0,0,,{\be1}Seks-bestia jest nienasyconym gwałcicielem,\Nraczej się nie powstrzyma.
+Dialogue: 0,0:15:22.77,0:15:24.50,Default,,0,0,0,,{\be1}Dokładnie.
+Dialogue: 0,0:15:24.50,0:15:28.79,Default,,0,0,0,,{\be1}Layla, zlokalizuj wszystkie zgłoszenia\Ngwałtów w ciągu ostatnich dwóch dni.
+Dialogue: 0,0:15:29.44,0:15:30.62,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:15:40.56,0:15:43.55,Default,,0,0,0,,{\be1}Nie da rady, za dużo danych.
+Dialogue: 0,0:15:43.55,0:15:45.97,Default,,0,0,0,,{\be1}- Jesteś do dupy.\N- Coś powiedziała?
+Dialogue: 0,0:15:50.32,0:15:52.24,Default,,0,0,0,,{\be1}Nie czas na kłótnie!
+Dialogue: 0,0:16:00.44,0:16:03.50,Default,,0,0,0,,{\be1}Pójdźmy z tym do specjalistów.
+Dialogue: 0,0:16:38.95,0:16:40.75,Default,,0,0,0,,{\be1}Przestań, nie tutaj!
+Dialogue: 0,0:16:44.97,0:16:46.49,Default,,0,0,0,,{\be1}Dobry chłopczyk.
+Dialogue: 0,0:16:46.49,0:16:51.66,Default,,0,0,0,,{\be1}Bądź posłuszny, to dostaniesz dużo kobiet.
+Dialogue: 0,0:16:51.66,0:16:55.15,Default,,0,0,0,,{\be1}Kobieta!
+Dialogue: 0,0:17:05.51,0:17:10.22,Default,,0,0,0,,{\be1}Cudownie! Jesteś wspaniały!
+Dialogue: 0,0:17:29.33,0:17:34.06,Default,,0,0,0,,{\be1}Mamy do was pytanie.
+Dialogue: 0,0:17:53.02,0:17:56.42,Default,,0,0,0,,{\be1}Teraz pytanie.
+Dialogue: 0,0:17:56.42,0:18:02.43,Default,,0,0,0,,{\be1}Później, teraz jestem napalony,\Nbo ktoś nam wczoraj zajebał laskę.
+Dialogue: 0,0:18:32.86,0:18:37.07,Default,,0,0,0,,{\be1}Wiemy, że zarabiacie kasę na gwałceniu kobiet.
+Dialogue: 0,0:18:37.40,0:18:40.54,Default,,0,0,0,,{\be1}Co miało znaczyć, że ktoś was zajebał laskę?!
+Dialogue: 0,0:18:40.54,0:18:42.99,Default,,0,0,0,,{\be1}Mówcie dla własnego dobra.
+Dialogue: 0,0:18:44.40,0:18:47.64,Default,,0,0,0,,{\be1}Jesteście psami?!
+Dialogue: 0,0:18:47.64,0:18:52.20,Default,,0,0,0,,{\be1}Na wasze nieszczęście nie, oni byliby milsi.
+Dialogue: 0,0:18:53.78,0:18:56.77,Default,,0,0,0,,{\be1}Gadaj albo skręcę ci kark.
+Dialogue: 0,0:19:01.76,0:19:07.76,Default,,0,0,0,,{\be1}To było wczoraj w Yokohamie.
+Dialogue: 0,0:19:07.76,0:19:10.23,Default,,0,0,0,,{\be1}Jak zawsze znaleźliśmy kobietę.
+Dialogue: 0,0:19:10.23,0:19:14.70,Default,,0,0,0,,{\be1}Gwałciliśmy ją i nagrywaliśmy to,\Na potem chcieliśmy ją szantażować.
+Dialogue: 0,0:19:14.70,0:19:18.68,Default,,0,0,0,,{\be1}Nie, przestańcie!
+Dialogue: 0,0:19:23.51,0:19:27.46,Default,,0,0,0,,{\be1}Udałoby się, gdyby nie jakiś potwór!
+Dialogue: 0,0:19:27.78,0:19:29.28,Default,,0,0,0,,{\be1}Potwór?
+Dialogue: 0,0:19:29.28,0:19:30.84,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:19:35.42,0:19:37.83,Default,,0,0,0,,{\be1}I jak, przyjemnie?
+Dialogue: 0,0:19:37.83,0:19:43.70,Default,,0,0,0,,{\be1}Radzę ci być posłuszną,\Njeśli nie chcesz, żeby nagranie wypłynęło!
+Dialogue: 0,0:19:43.70,0:19:45.70,Default,,0,0,0,,{\be1}Zostawcie mnie!
+Dialogue: 0,0:19:45.70,0:19:49.91,Default,,0,0,0,,{\be1}Nie, teraz jesteś naszą dziwką!
+Dialogue: 0,0:19:59.95,0:20:01.79,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:20:20.05,0:20:22.97,Default,,0,0,0,,{\be1}Co jest, kurwa?! Ona jest nasza!
+Dialogue: 0,0:20:31.23,0:20:35.21,Default,,0,0,0,,{\be1}Nie ignoruj nas!
+Dialogue: 0,0:20:42.42,0:20:44.38,Default,,0,0,0,,{\be1}Potwór!
+Dialogue: 0,0:20:45.03,0:20:46.98,Default,,0,0,0,,{\be1}Kurwa, widzieli!
+Dialogue: 0,0:20:58.79,0:21:03.91,Default,,0,0,0,,{\be1}Pierwszy raz widzieliśmy coś\Ntakiego, musieliśmy uciekać!
+Dialogue: 0,0:21:25.53,0:21:27.47,Default,,0,0,0,,{\be1}Nie! Przestańcie!
+Dialogue: 0,0:21:44.26,0:21:48.46,Default,,0,0,0,,{\be1}Nie wierzę, jak mogli gwałcić jedną za drugą?
+Dialogue: 0,0:21:48.46,0:21:50.86,Default,,0,0,0,,{\be1}Nieustające pożądanie.
+Dialogue: 0,0:21:50.86,0:21:55.68,Default,,0,0,0,,{\be1}Możliwe, że seks-bestia była kiedyś człowiekiem.
+Dialogue: 0,0:21:59.24,0:22:01.26,Default,,0,0,0,,{\be1}To ostatnia.
+Dialogue: 0,0:22:13.38,0:22:14.44,Default,,0,0,0,,{\be1}Jest!
+Dialogue: 0,0:22:15.18,0:22:16.89,Default,,0,0,0,,{\be1}Zostawcie mnie!
+Dialogue: 0,0:22:16.89,0:22:20.77,Default,,0,0,0,,{\be1}Nie, teraz jesteś naszą dziwką!
+Dialogue: 0,0:22:24.74,0:22:27.05,Default,,0,0,0,,{\be1}Nie ignoruj nas!
+Dialogue: 0,0:22:28.23,0:22:29.09,Default,,0,0,0,,{\be1}Zatrzymaj.
+Dialogue: 0,0:22:32.07,0:22:34.43,Default,,0,0,0,,{\be1}To na pewno on.
+Dialogue: 0,0:22:34.43,0:22:37.87,Default,,0,0,0,,{\be1}Najwidoczniej seks-bestia ewoluuje.
+Dialogue: 0,0:22:40.61,0:22:42.74,Default,,0,0,0,,{\be1}Potwór!
+Dialogue: 0,0:22:46.11,0:22:47.19,Default,,0,0,0,,{\be1}Wróć!
+Dialogue: 0,0:22:47.61,0:22:49.11,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:22:54.29,0:22:54.96,Default,,0,0,0,,{\be1}Zatrzymaj.
+Dialogue: 0,0:22:58.56,0:23:00.49,Default,,0,0,0,,{\be1}Vanessa Hammer.
+Dialogue: 0,0:23:01.23,0:23:07.72,Default,,0,0,0,,{\be1}Specjalizuje się w kradzieży\Ni sprzedaży informacji.
+Dialogue: 0,0:23:08.14,0:23:10.87,Default,,0,0,0,,{\be1}Apolityczna terrorystka.
+Dialogue: 0,0:23:11.54,0:23:18.06,Default,,0,0,0,,{\be1}Teraz jestem pewna, to jej robota.
+Dialogue: 0,0:23:25.32,0:23:29.19,Default,,0,0,0,,{\be1}Znasz ich może?
+Dialogue: 0,0:23:29.19,0:23:30.39,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:23:30.39,0:23:32.74,Default,,0,0,0,,{\be1}No to masz pecha.
+Dialogue: 0,0:23:36.33,0:23:40.35,Default,,0,0,0,,{\be1}A chciałam cię nagrodzić, gdybyś wiedział.
+Dialogue: 0,0:24:06.79,0:24:08.85,Default,,0,0,0,,{\be1}- Nie!\N- Zamknij ryj!
+Dialogue: 0,0:24:15.54,0:24:16.66,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:24:24.71,0:24:27.98,Default,,0,0,0,,{\be1}Nam też się czasem należy.
+Dialogue: 0,0:24:27.98,0:24:31.94,Default,,0,0,0,,{\be1}Mam dość gapienia się,\Njak ten potwór wszystkie pieprzy.
+Dialogue: 0,0:24:33.39,0:24:34.55,Default (i),,0,0,0,,{\be1}Czyżby?
+Dialogue: 0,0:24:38.59,0:24:40.60,Default,,0,0,0,,{\be1}Ale ona jest mokra.
+Dialogue: 0,0:25:00.41,0:25:01.19,Default,,0,0,0,,{\be1}Czysto.
+Dialogue: 0,0:25:27.78,0:25:31.25,Default,,0,0,0,,{\be1}Seks-bestia i Vanessa!
+Dialogue: 0,0:25:36.82,0:25:40.09,Default,,0,0,0,,{\be1}Znalazłam ich, są na statku\Ntransportowym w porcie Yokohama!
+Dialogue: 0,0:25:40.52,0:25:42.88,Default,,0,0,0,,{\be1}Co tu robisz?
+Dialogue: 0,0:25:44.01,0:25:48.93,Default,,0,0,0,,{\be1}Nieładnie, liczymy sobie prywatność.
+Dialogue: 0,0:25:48.93,0:25:50.78,Default,,0,0,0,,{\be1}Pieprz się!
+Dialogue: 0,0:25:55.28,0:25:58.66,Default,,0,0,0,,{\be1}Kurwa! To nie jest zwykła dziwka!
+Dialogue: 0,0:26:00.04,0:26:01.62,Default,,0,0,0,,{\be1}- Tutaj!\N- Tędy!
+Dialogue: 0,0:26:12.95,0:26:14.42,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:26:24.87,0:26:26.37,Default,,0,0,0,,{\be1}Kobieta.
+Dialogue: 0,0:26:27.10,0:26:28.95,Default,,0,0,0,,{\be1}Seks-bestia.
+Dialogue: 0,0:26:38.94,0:26:41.18,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:26:41.18,0:26:42.58,Default,,0,0,0,,{\be1}Smoku, przestań.
+Dialogue: 0,0:26:43.86,0:26:47.28,Default,,0,0,0,,{\be1}Później się z nią zabawisz.
+Dialogue: 0,0:26:47.79,0:26:49.71,Default,,0,0,0,,{\be1}Layla, co się stało?!
+Dialogue: 0,0:26:50.26,0:26:52.63,Default,,0,0,0,,{\be1}Layla!
+Dialogue: 0,0:26:58.72,0:26:59.47,Default,,0,0,0,,{\be1}Znalazłaś?
+Dialogue: 0,0:27:01.47,0:27:05.64,Default,,0,0,0,,{\be1}Pewnie złapali ją ludzie Vanessy.
+Dialogue: 0,0:27:05.64,0:27:09.39,Default,,0,0,0,,{\be1}Szkoda, że nie jest tak\Nmądra jak jej komputery.
+Dialogue: 0,0:27:11.11,0:27:13.19,Default,,0,0,0,,{\be1}Który to może być statek?
+Dialogue: 0,0:27:29.13,0:27:31.12,Default,,0,0,0,,{\be1}To Layli.
+Dialogue: 0,0:27:55.82,0:27:57.57,Default,,0,0,0,,{\be1}Ślicznotka.
+Dialogue: 0,0:28:00.49,0:28:01.83,Default,,0,0,0,,{\be1}Vanessa!
+Dialogue: 0,0:28:01.83,0:28:05.70,Default,,0,0,0,,{\be1}Musisz być japońską agentką skoro mnie znasz.
+Dialogue: 0,0:28:08.12,0:28:15.86,Default,,0,0,0,,{\be1}Wiedziałam, że niedługo ktoś przyjdzie,\Nale nie spodziewałam się takiej ślicznotki.
+Dialogue: 0,0:28:29.62,0:28:31.12,Default,,0,0,0,,{\be1}Cudowna.
+Dialogue: 0,0:28:32.13,0:28:34.61,Default,,0,0,0,,{\be1}Dobra, jest twoja.
+Dialogue: 0,0:28:36.14,0:28:38.49,Default,,0,0,0,,{\be1}Nie zbliżaj się!
+Dialogue: 0,0:28:40.64,0:28:41.95,Default,,0,0,0,,{\be1}Kobieta.
+Dialogue: 0,0:28:43.44,0:28:44.87,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:28:59.74,0:29:01.21,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:29:05.76,0:29:09.43,Default,,0,0,0,,{\be1}Podniecasz się jak na kogoś kto nie chcesz.
+Dialogue: 0,0:29:56.54,0:29:59.98,Default,,0,0,0,,{\be1}Radzę odpowiedzieć albo skończysz jak on.
+Dialogue: 0,0:30:01.11,0:30:04.21,Default,,0,0,0,,{\be1}Czy to statek Vanessy?
+Dialogue: 0,0:30:06.05,0:30:08.45,Default,,0,0,0,,{\be1}Nie powiesz?
+Dialogue: 0,0:30:12.43,0:30:13.93,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:30:17.83,0:30:19.28,Default,,0,0,0,,{\be1}Teraz mamy pewność.
+Dialogue: 0,0:30:40.75,0:30:43.32,Default,,0,0,0,,{\be1}Jak dobrze.
+Dialogue: 0,0:30:43.32,0:30:48.42,Default,,0,0,0,,{\be1}Bądź mi posłuszny, a dostaniesz każdą kobietę.
+Dialogue: 0,0:30:53.57,0:30:54.60,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:30:59.11,0:31:00.14,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:31:00.97,0:31:02.56,Default,,0,0,0,,{\be1}- Kim jesteście?!\N- Shion!
+Dialogue: 0,0:31:15.59,0:31:17.97,Default,,0,0,0,,{\be1}To chyba twoje przyjaciółki.
+Dialogue: 0,0:31:18.66,0:31:21.93,Default,,0,0,0,,{\be1}Anne. Shion.
+Dialogue: 0,0:31:42.38,0:31:43.81,Default,,0,0,0,,{\be1}Layla!
+Dialogue: 0,0:31:43.81,0:31:46.19,Default,,0,0,0,,{\be1}Nie podchodźcie!
+Dialogue: 0,0:31:58.22,0:31:59.60,Default,,0,0,0,,{\be1}Vanessa!
+Dialogue: 0,0:32:00.80,0:32:05.02,Default,,0,0,0,,{\be1}Trafiły nam się wrażliwe agentki.
+Dialogue: 0,0:32:09.48,0:32:14.87,Default,,0,0,0,,{\be1}Mówię wam, on jest niesamowity.
+Dialogue: 0,0:32:21.19,0:32:26.01,Default,,0,0,0,,{\be1}Czas opuścić Japonię.
+Dialogue: 0,0:32:26.01,0:32:32.16,Default,,0,0,0,,{\be1}Vanessa, naprawdę tego nie widzisz?!\NSeks-bestia jest zbyt niebezpieczna!
+Dialogue: 0,0:32:32.60,0:32:34.50,Default,,0,0,0,,{\be1}Mam to gdzieś!
+Dialogue: 0,0:32:34.50,0:32:38.54,Default,,0,0,0,,{\be1}Dla mnie to tylko towar!
+Dialogue: 0,0:32:38.54,0:32:42.46,Default,,0,0,0,,{\be1}Seks-bestia myśli tylko o pieprzeniu i niszczeniu!
+Dialogue: 0,0:32:46.68,0:32:51.23,Default,,0,0,0,,{\be1}Jeśli oszaleje, to nawet ty\Nnie będziesz bezpieczna!
+Dialogue: 0,0:32:54.65,0:33:00.03,Default,,0,0,0,,{\be1}Mów sobie co chcesz!\NOn jest moim niewolnikiem!
+Dialogue: 0,0:33:02.07,0:33:04.49,Default,,0,0,0,,{\be1}Zginiecie tu!
+Dialogue: 0,0:33:05.90,0:33:09.91,Default,,0,0,0,,{\be1}Ale najpierw moja urocza\Nseks-bestia was zgwałci.
+Dialogue: 0,0:33:37.05,0:33:40.70,Default,,0,0,0,,{\be1}Wreszcie oszalał i nikogo już nie posłucha!
+Dialogue: 0,0:33:41.27,0:33:45.35,Default,,0,0,0,,{\be1}Dlaczego?! Bądź mi posłuszny to dam ci...
+Dialogue: 0,0:33:53.81,0:33:56.73,Default,,0,0,0,,{\be1}- Layla!\N- Już za późno!
+Dialogue: 0,0:34:06.36,0:34:10.05,Default,,0,0,0,,{\be1}Layla, dlaczego musiałaś umrzeć?
+Dialogue: 0,0:34:19.14,0:34:20.33,Default,,0,0,0,,{\be1}Idziemy.
+Dialogue: 0,0:34:23.51,0:34:26.90,Default,,0,0,0,,{\be1}Nie możemy zmarnować poświęcenia Layli.
+Dialogue: 0,0:34:27.31,0:34:28.63,Default,,0,0,0,,{\be1}Anne...
+Dialogue: 0,0:34:29.22,0:34:30.22,Default,,0,0,0,,{\be1}Chodź.
+Dialogue: 0,0:34:42.96,0:34:47.57,Default,,0,0,0,,{\be1}Niedługo seks-bestia opanuje cały statek.
+Dialogue: 0,0:34:47.57,0:34:49.53,Default,,0,0,0,,{\be1}Musimy go zatopić.
+Dialogue: 0,0:34:52.27,0:34:55.67,Default,,0,0,0,,{\be1}Nie możemy go zatopić przy Tokio.
+Dialogue: 0,0:34:55.67,0:34:56.81,Default,,0,0,0,,{\be1}Nie martw się.
+Dialogue: 0,0:34:57.31,0:35:04.23,Default,,0,0,0,,{\be1}Bomby eksplodują, gdy\Nstatek wypłynie na ocean.
+Dialogue: 0,0:35:29.84,0:35:31.17,Default,,0,0,0,,{\be1}Gotowe.
+Dialogue: 0,0:35:31.81,0:35:34.88,Default,,0,0,0,,{\be1}Muszą zamontować jeszcze\Ntylko jedną na zbiorniku paliwa.
+Dialogue: 0,0:35:34.88,0:35:36.17,Default,,0,0,0,,{\be1}Dobra, chodźmy.
+Dialogue: 0,0:35:42.48,0:35:43.32,Default,,0,0,0,,{\be1}Anne!
+Dialogue: 0,0:35:50.39,0:35:51.82,Default,,0,0,0,,{\be1}Shion!
+Dialogue: 0,0:35:54.30,0:35:55.04,Default,,0,0,0,,{\be1}Shion!
+Dialogue: 0,0:35:55.04,0:35:58.34,Default,,0,0,0,,{\be1}Uciekaj! Musisz zniszczyć potwora!
+Dialogue: 0,0:35:58.34,0:35:59.58,Default,,0,0,0,,{\be1}Shion...
+Dialogue: 0,0:35:59.58,0:36:02.55,Default,,0,0,0,,{\be1}Szybciej, nie ma czasu!
+Dialogue: 0,0:36:44.55,0:36:48.09,Default (i),,0,0,0,,{\be1}Layla, zawsze byłaś mi droga.
+Dialogue: 0,0:37:08.37,0:37:10.46,Default,,0,0,0,,{\be1}Ostatni magazynek.
+Dialogue: 0,0:37:49.52,0:37:50.82,Default,,0,0,0,,{\be1}Potwór!
+Dialogue: 0,0:38:51.88,0:38:55.85,Default,,0,0,0,,{\be1}Nie dam rady! Shion! Layla!
+Dialogue: 0,0:39:09.87,0:39:12.24,Default,,0,0,0,,{\be1}Nie umrę tu!
+Dialogue: 0,0:39:39.93,0:39:44.26,Default (i),,0,0,0,,{\be1}Przeklęty potwór.\NZostał mi ostatni nabój.
+Dialogue: 0,0:39:48.97,0:39:52.47,Default (i),,0,0,0,,{\be1}Pistoletem go nie zabiję.
+Dialogue: 0,0:39:52.47,0:39:55.60,Default (i),,0,0,0,,{\be1}Muszę coś wymyślić!
+Dialogue: 0,0:40:07.55,0:40:12.74,Default (i),,0,0,0,,{\be1}Nie mogę przegrać dla Layli i Shion!
+Dialogue: 0,0:40:27.71,0:40:31.77,Default,,0,0,0,,{\be1}Shion, dokończę misję.
+Dialogue: 0,0:40:36.18,0:40:39.61,Default,,0,0,0,,{\be1}Layla, idę do was!

@@ -1,0 +1,260 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.8 r117  Oct 30 2014  17:04:50
+Active Line: 1
+Audio File: 01 T80 2_0ch 448Kbps DELAY 0ms.ac3
+Collisions: Normal
+Last Style Storage: [720x480]
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Synch Point: 0
+Timer: 100.0000
+Title: Kainote Ass File
+Video Aspect Ratio: 0
+Video File: 01crf15.mkv
+Video Position: 30128
+Video Zoom: 8
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H005532C9,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Tytul,Franklin Gothic Medium,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,20,20,50,1
+Style: Znak,Franklin Gothic Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,130,1
+Style: Nowy Styl 2,Garamond,30,&H00FFFFFF,&H000000FF,&H005532C9,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:03:05.66,0:03:10.25,Grupa,,0,0,0,,{\be1\fad(484,310)}Nyan
+Dialogue: 0,0:03:05.66,0:03:10.25,Tytul,,0,0,0,,{\be1\fad(484,310)}Wspólny poranek.
+Dialogue: 0,0:17:31.15,0:17:34.66,Znak,,0,0,0,,Wczoraj rano...
+Dialogue: 0,0:01:02.92,0:01:05.37,Default,,0,0,0,,{\be1}Silvia, obudziłaś się już?
+Dialogue: 0,0:01:05.37,0:01:08.21,Default,,0,0,0,,{\be1}Zrozumiałam, co do mnie czujesz, Arima.
+Dialogue: 0,0:01:09.37,0:01:13.58,Default,,0,0,0,,{\be1}Skłamałabym mówiąc, że się nie cieszę.
+Dialogue: 0,0:01:13.58,0:01:18.23,Default,,0,0,0,,{\be1}Nie odwróciłeś się ode mnie\Nnawet po tym, co powiedziałam.
+Dialogue: 0,0:01:18.23,0:01:20.85,Default,,0,0,0,,{\be1}Tak naprawdę to serce waliło mi jak szalone.
+Dialogue: 0,0:01:24.84,0:01:29.61,Default,,0,0,0,,{\be1}Pierwszy raz poczułam się jak kobieta.
+Dialogue: 0,0:01:29.99,0:01:36.12,Default,,0,0,0,,{\be1}Jestem jeszcze oszołomiona\Ntym wszystkim, potrzebuję trochę czasu.
+Dialogue: 0,0:01:36.12,0:01:41.67,Default,,0,0,0,,{\be1}Żebym mogła być sobą,\Nmuszę iść ścieżką, którą...
+Dialogue: 0,0:01:49.55,0:01:52.00,Default,,0,0,0,,{\be1}Pożyczam koszulę.
+Dialogue: 0,0:01:52.00,0:01:55.80,Default,,0,0,0,,{\be1}Chcę jeszcze trochę pobyć z tobą.
+Dialogue: 0,0:01:56.30,0:01:58.26,Default,,0,0,0,,{\be1}Silvia.
+Dialogue: 0,0:01:58.26,0:02:00.56,Default,,0,0,0,,{\be1}Nie chcę tego przyznać, ale muszę.
+Dialogue: 0,0:02:01.79,0:02:05.56,Default,,0,0,0,,{\be1}Wczoraj, gdy mnie wziąłeś\Nbyłam tylko kobietą.
+Dialogue: 0,0:02:26.85,0:02:28.34,Default,,0,0,0,,{\be1}Arima?!
+Dialogue: 0,0:02:33.08,0:02:34.50,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:02:34.50,0:02:36.91,Default,,0,0,0,,{\be1}Pokazuję ci co czuję.
+Dialogue: 0,0:02:36.91,0:02:42.72,Default,,0,0,0,,{\be1}To nie fair!\NPrzed chwilą mówiłam, że potrzebuję czasu!
+Dialogue: 0,0:02:42.73,0:02:45.69,Default,,0,0,0,,{\be1}- Tylko tyle mogę teraz zrobić.\N- Nie!
+Dialogue: 0,0:02:46.28,0:02:48.41,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:03:13.70,0:03:15.67,Default,,0,0,0,,{\be1}Przestań w końcu.
+Dialogue: 0,0:03:16.19,0:03:21.10,Default,,0,0,0,,{\be1}Ciągle dotykasz wrażliwe miejsce!
+Dialogue: 0,0:03:21.10,0:03:24.14,Default,,0,0,0,,{\be1}Jeśli nie przestaniesz...
+Dialogue: 0,0:03:25.85,0:03:33.90,Default,,0,0,0,,{\be1}Dlaczego kobiece ciało musi takie być?
+Dialogue: 0,0:03:34.29,0:03:38.58,Default,,0,0,0,,{\be1}Tak mocno je wkładasz!
+Dialogue: 0,0:03:40.16,0:03:45.12,Default,,0,0,0,,{\be1}Nie mogę skupić myśli!
+Dialogue: 0,0:03:52.74,0:03:56.70,Default,,0,0,0,,{\be1}O nie, to za wiele!
+Dialogue: 0,0:04:01.00,0:04:04.22,Default,,0,0,0,,{\be1}Teppei, czekaj!
+Dialogue: 0,0:04:15.25,0:04:17.35,Default,,0,0,0,,{\be1}Nie powstrzymuj się.
+Dialogue: 0,0:04:39.05,0:04:40.05,Default,,0,0,0,,{\be1}Marchez!
+Dialogue: 0,0:04:50.70,0:04:53.36,Default,,0,0,0,,{\be1}Jesteś tego pewien, paniczu?
+Dialogue: 0,0:04:53.66,0:04:55.75,Default,,0,0,0,,{\be1}Nie pójdziesz do niej?
+Dialogue: 0,0:04:59.17,0:05:02.35,Default,,0,0,0,,{\be1}Nasza gąsieniczka zmieniła się\Nw pięknego motyla.
+Dialogue: 0,0:05:02.35,0:05:05.61,Default,,0,0,0,,{\be1}To normalne,\Nże na razie jest zagubiona.
+Dialogue: 0,0:05:05.61,0:05:07.83,Default,,0,0,0,,{\be1}"Ja latam".
+Dialogue: 0,0:05:08.78,0:05:12.96,Default,,0,0,0,,{\be1}"Świat wygląda inaczej, jest jaśniejszy".
+Dialogue: 0,0:05:13.46,0:05:16.11,Default,,0,0,0,,{\be1}"Wewnątrz nadal jestem gąsienicą".
+Dialogue: 0,0:05:16.11,0:05:20.34,Default,,0,0,0,,{\be1}Tak często to powtarzasz,\Nże już zapamiętałam.
+Dialogue: 0,0:05:23.60,0:05:28.77,Default,,0,0,0,,{\be1}Nie jestem jeszcze gotowy,\Nżeby wejść do jej świata.
+Dialogue: 0,0:05:29.17,0:05:32.37,Default,,0,0,0,,{\be1}Mylisz się, to ja tak myślę o sobie.
+Dialogue: 0,0:05:32.37,0:05:38.37,Default,,0,0,0,,{\be1}Służenie ci daje mi dużo satysfakcji.
+Dialogue: 0,0:05:46.15,0:05:47.61,Default,,0,0,0,,{\be1}Paniczu Teppei.
+Dialogue: 0,0:05:52.07,0:05:54.84,Default,,0,0,0,,{\be1}Może wstydzi się przed ludźmi?
+Dialogue: 0,0:05:54.84,0:05:59.60,Default,,0,0,0,,{\be1}Kobiety Van Hossenów muszą\Nwykazywać się wstrzemięźliwością.
+Dialogue: 0,0:05:59.60,0:06:01.63,Default,,0,0,0,,{\be1}Fajnie wiedzieć.
+Dialogue: 0,0:06:02.55,0:06:08.64,Default,,0,0,0,,{\be1}Może byłem zbyt natarczywy\Ndla tradycjonalistki?
+Dialogue: 0,0:06:13.42,0:06:17.94,Default,,0,0,0,,{\be1}Zamiast wdzięczności\Nmuszę prosić o wybaczenie.
+Dialogue: 0,0:06:23.65,0:06:26.70,Default,,0,0,0,,{\be1}Panienko, już jesteśmy.
+Dialogue: 0,0:06:27.34,0:06:30.30,Default,,0,0,0,,{\be1}Twój samochód czeka na ciebie.
+Dialogue: 0,0:06:30.30,0:06:34.96,Default,,0,0,0,,{\be1}Panicz Teppei szukał cię,\Nwidzieliście się?
+Dialogue: 0,0:06:35.42,0:06:39.42,Default,,0,0,0,,{\be1}Przekaż mu, że nie będę na niego czekać.
+Dialogue: 0,0:06:39.42,0:06:41.92,Default,,0,0,0,,{\be1}Wracam sama.
+Dialogue: 0,0:06:41.92,0:06:44.10,Default,,0,0,0,,{\be1}Jak sobie życzysz.
+Dialogue: 0,0:06:45.87,0:06:48.23,Default,,0,0,0,,{\be1}Byliście wcześniej w dojo, prawda?
+Dialogue: 0,0:06:48.23,0:06:49.31,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:06:49.71,0:06:53.76,Default,,0,0,0,,{\be1}Trochę ciekawi mnie o czym...
+Dialogue: 0,0:06:54.75,0:06:56.77,Default,,0,0,0,,{\be1}Nieważne.
+Dialogue: 0,0:06:56.77,0:07:03.28,Default,,0,0,0,,{\be1}Moim obowiązkiem jest być blisko\Npanicza i wypełniać jego rozkazy.
+Dialogue: 0,0:07:03.85,0:07:09.33,Default,,0,0,0,,{\be1}Nie ma dla mnie nic przyjemniejszego\Nniż wykonywanie rozkazów panicza.
+Dialogue: 0,0:07:19.76,0:07:22.47,Default,,0,0,0,,{\be1}Yuu, przebrałaś się już?
+Dialogue: 0,0:07:29.22,0:07:31.50,Default,,0,0,0,,{\be1}Silvia!
+Dialogue: 0,0:07:31.50,0:07:33.60,Default,,0,0,0,,{\be1}To Arima!
+Dialogue: 0,0:07:33.93,0:07:36.10,Default,,0,0,0,,{\be1}Ten Arima?
+Dialogue: 0,0:07:41.15,0:07:45.89,Default,,0,0,0,,{\be1}Czuję na tobie zapach twojej pokojówki.
+Dialogue: 0,0:07:47.10,0:07:48.37,Default,,0,0,0,,{\be1}Bezwstydnik.
+Dialogue: 0,0:07:48.94,0:07:58.29,Default,,0,0,0,,{\be1}Rozmowa ze służbą jest ważna,\Nale ty zbytnio się z nią spoufalasz.
+Dialogue: 0,0:07:58.98,0:08:02.50,Default,,0,0,0,,{\be1}Nie wstyd ci?
+Dialogue: 0,0:08:12.63,0:08:17.07,Default,,0,0,0,,{\be1}Mimo że jesteśmy tylko służącymi,\Nty paniczu, traktujesz nas jak równym sobie.
+Dialogue: 0,0:08:17.07,0:08:22.07,Default,,0,0,0,,{\be1}Twoja dobroć jest naturalna i szczera,\Ni to jest twoją największą zaletą.
+Dialogue: 0,0:08:23.15,0:08:29.11,Default,,0,0,0,,{\be1}Ale mam nadzieję, że pozwolisz mi\Nwykonywać moje obowiązki.
+Dialogue: 0,0:08:32.93,0:08:38.10,Default (i),,0,0,0,,{\be1}Nikt nie może lekceważyć\Nprzyszłej głowy rodziny Arima.
+Dialogue: 0,0:08:38.10,0:08:43.65,Default (i),,0,0,0,,{\be1}Jako twoja służąca chcę\Nmóc ulżyć ci w twoich troskach.
+Dialogue: 0,0:08:43.65,0:08:50.20,Default (i),,0,0,0,,{\be1}Mam nadzieję, że się nie zmienisz,\Nnawet gdy wyzbędziesz się nieśmiałości.
+Dialogue: 0,0:08:50.20,0:08:57.14,Default (i),,0,0,0,,{\be1}Byłoby cudownie, gdybyś\Nzrozumiał jak ważny jesteś.
+Dialogue: 0,0:09:17.30,0:09:18.90,Default,,0,0,0,,{\be1}Ohyda.
+Dialogue: 0,0:09:18.90,0:09:22.36,Default,,0,0,0,,{\be1}To jest nie do wybaczenia.
+Dialogue: 0,0:09:22.36,0:09:25.04,Default,,0,0,0,,{\be1}Ja także nie mogę tego wybaczyć.
+Dialogue: 0,0:09:25.70,0:09:27.88,Default,,0,0,0,,{\be1}Po prostu nie mogę.
+Dialogue: 0,0:09:27.88,0:09:32.65,Default,,0,0,0,,{\be1}Brudne pospólstwo spoufala się z arystokratą.
+Dialogue: 0,0:09:59.88,0:10:03.15,Default,,0,0,0,,{\be1}Tak to robiła?
+Dialogue: 0,0:10:12.77,0:10:18.72,Default,,0,0,0,,{\be1}Nie mogę sobie wybaczyć, że chciałam\Nzwiązać się z tobą już po pierwszym razie.
+Dialogue: 0,0:10:18.72,0:10:27.94,Default,,0,0,0,,{\be1}A najbardziej mnie wkurza,\Nże dałam ci się opętać i bawić się mną.
+Dialogue: 0,0:10:30.03,0:10:35.49,Default,,0,0,0,,{\be1}Silvia, nie tutaj!\NKtoś nas może zobaczyć!
+Dialogue: 0,0:10:35.90,0:10:40.60,Default,,0,0,0,,{\be1}Czemu mamy się przejmować,\Ngdy pokojówka chce ci służyć?
+Dialogue: 0,0:10:42.60,0:10:46.73,Default,,0,0,0,,{\be1}Jest jakoś inaczej,\Ngdy mam go między piersiami.
+Dialogue: 0,0:10:46.73,0:10:48.09,Default,,0,0,0,,{\be1}Gorący.
+Dialogue: 0,0:10:49.43,0:10:52.42,Default,,0,0,0,,{\be1}Wiem co nieco o seksie.
+Dialogue: 0,0:10:52.42,0:10:58.15,Default,,0,0,0,,{\be1}Gdy byłam mała, ojciec powiedział,\Nże powinnam wiedzieć jak zadowolić mężczyznę.
+Dialogue: 0,0:10:58.15,0:11:01.93,Default,,0,0,0,,{\be1}Takie rzeczy robi się zazwyczaj w nocy.
+Dialogue: 0,0:11:01.93,0:11:04.95,Default,,0,0,0,,{\be1}I jak? Robię coś nie tak?
+Dialogue: 0,0:11:06.14,0:11:07.57,Default,,0,0,0,,{\be1}Nie...
+Dialogue: 0,0:11:07.57,0:11:10.11,Default,,0,0,0,,{\be1}Jeśli to lubisz, to w porządku.
+Dialogue: 0,0:11:12.39,0:11:15.13,Default,,0,0,0,,{\be1}Role się odwróciły.
+Dialogue: 0,0:11:28.95,0:11:30.66,Default,,0,0,0,,{\be1}Jestem ładna?
+Dialogue: 0,0:11:30.66,0:11:41.42,Default,,0,0,0,,{\be1}Zazwyczaj nie lubię, gdy ludzie to mówią.
+Dialogue: 0,0:11:41.42,0:11:45.94,Default,,0,0,0,,{\be1}Ale gdy tak na mnie patrzysz...
+Dialogue: 0,0:11:51.45,0:11:54.66,Default,,0,0,0,,{\be1}To jakoś nie mogę się powstrzymać.
+Dialogue: 0,0:11:59.02,0:12:02.58,Default,,0,0,0,,{\be1}Jak ci się to podobało?
+Dialogue: 0,0:12:03.01,0:12:11.36,Default,,0,0,0,,{\be1}Nie wiem jak jeszcze mogę cię zadowolić.
+Dialogue: 0,0:12:16.92,0:12:18.70,Default,,0,0,0,,{\be1}Powiedz...
+Dialogue: 0,0:12:20.93,0:12:23.53,Default,,0,0,0,,{\be1}Czy teraz jest ci przyjemnie?
+Dialogue: 0,0:12:29.48,0:12:33.58,Default,,0,0,0,,{\be1}Co się dzieje?\NZrobił się większy i gorętszy!
+Dialogue: 0,0:12:37.92,0:12:41.80,Default,,0,0,0,,{\be1}Przepraszam, nie mogłem już wytrzymać.
+Dialogue: 0,0:12:44.66,0:12:47.54,Default,,0,0,0,,{\be1}To substancja tworząca nowe życie.
+Dialogue: 0,0:12:48.59,0:12:50.97,Default,,0,0,0,,{\be1}Nie wiedziałam,\Nże jest taka gorąca.
+Dialogue: 0,0:12:52.29,0:12:54.54,Default,,0,0,0,,{\be1}Jak ciepło.
+Dialogue: 0,0:12:57.38,0:12:59.84,Default,,0,0,0,,{\be1}Arima?!
+Dialogue: 0,0:13:00.44,0:13:03.37,Default,,0,0,0,,{\be1}Co robisz?! Przestań!
+Dialogue: 0,0:13:06.25,0:13:07.39,Default,,0,0,0,,{\be1}Co jest?!
+Dialogue: 0,0:13:07.84,0:13:11.50,Default,,0,0,0,,{\be1}Przecież raz miał wystarczyć mężczyźnie!
+Dialogue: 0,0:13:13.31,0:13:14.94,Default,,0,0,0,,{\be1}A co z kobietą?
+Dialogue: 0,0:13:14.94,0:13:19.55,Default,,0,0,0,,{\be1}Nie możesz!\NZrobiliśmy to wczoraj!
+Dialogue: 0,0:13:19.55,0:13:22.12,Default,,0,0,0,,{\be1}Muszę odwdzięczyć się za twoją miłość.
+Dialogue: 0,0:13:22.12,0:13:25.41,Default,,0,0,0,,{\be1}Ale role znowu się...
+Dialogue: 0,0:13:30.39,0:13:34.42,Default,,0,0,0,,{\be1}Natychmiast przestań, Arima!
+Dialogue: 0,0:13:35.50,0:13:39.38,Default,,0,0,0,,{\be1}Wczoraj mówiłaś mi po imieniu.
+Dialogue: 0,0:13:39.84,0:13:42.20,Default,,0,0,0,,{\be1}Nie możesz!
+Dialogue: 0,0:13:49.36,0:13:52.82,Default,,0,0,0,,{\be1}Wczoraj powiedziałam już to!
+Dialogue: 0,0:13:54.68,0:13:58.28,Default,,0,0,0,,{\be1}Tak zachowują się zakochani!
+Dialogue: 0,0:14:04.87,0:14:06.62,Default,,0,0,0,,{\be1}Zakochani...
+Dialogue: 0,0:14:16.18,0:14:17.46,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:14:17.46,0:14:23.63,Default,,0,0,0,,{\be1}Nie tak głęboko,\Nbo się nie powstrzymam!
+Dialogue: 0,0:14:27.10,0:14:33.46,Default,,0,0,0,,{\be1}Nie mogę odwzajemnić twoich uczuć!
+Dialogue: 0,0:14:35.10,0:14:39.38,Default,,0,0,0,,{\be1}Dlatego nie spuszczaj się we mnie!
+Dialogue: 0,0:14:40.55,0:14:46.83,Default,,0,0,0,,{\be1}Powiedziałam, że nie chcę,\Nwięc czemu jest taki gorący i duży?!
+Dialogue: 0,0:14:47.66,0:14:51.45,Default,,0,0,0,,{\be1}Zaraz, duży? O nie!
+Dialogue: 0,0:14:51.45,0:14:57.60,Default,,0,0,0,,{\be1}Wczoraj spuściłeś się we mnie dużo razy,\Ndlatego dzisiaj nie możesz!
+Dialogue: 0,0:14:57.60,0:15:01.03,Default,,0,0,0,,{\be1}Słyszysz?! Nie możesz!
+Dialogue: 0,0:15:05.50,0:15:09.95,Default,,0,0,0,,{\be1}Zaczął ci drżeć!\NMusisz przestać!
+Dialogue: 0,0:15:09.95,0:15:15.03,Default,,0,0,0,,{\be1}O nie, jest jeszcze większy!\NPospiesz się!
+Dialogue: 0,0:15:24.53,0:15:27.53,Default,,0,0,0,,{\be1}Co to ma znaczyć?
+Dialogue: 0,0:15:28.21,0:15:33.04,Default,,0,0,0,,{\be1}Nie słuchasz mnie\Ni spuszczasz się we mnie.
+Dialogue: 0,0:15:34.39,0:15:39.53,Default,,0,0,0,,{\be1}Jeszcze nie wyjąłeś?!\NZnowu?! Nie!
+Dialogue: 0,0:17:06.80,0:17:09.49,Default (i),,0,0,0,,{\be1}To dopiero drugi dzień.
+Dialogue: 0,0:17:09.49,0:17:15.89,Default (i),,0,0,0,,{\be1}Złączyliśmy się zaledwie kilka razy,\Nwięc czemu nie mogę się oprzeć?
+Dialogue: 0,0:17:17.42,0:17:19.93,Default (i),,0,0,0,,{\be1}Czy to mogło być...
+Dialogue: 0,0:17:25.75,0:17:29.03,Default (i),,0,0,0,,{\be1}Zaplanowane przez mojego ojca?
+Dialogue: 0,0:17:33.65,0:17:34.66,Default,,0,0,0,,{\be1}Paniczu.
+Dialogue: 0,0:17:35.26,0:17:39.66,Default,,0,0,0,,{\be1}Już czas wstawać.\NPrzepraszam, że przeszkadzam.
+Dialogue: 0,0:17:43.57,0:17:45.10,Default,,0,0,0,,{\be1}Która godzina?
+Dialogue: 0,0:17:45.10,0:17:46.80,Default,,0,0,0,,{\be1}7:05.
+Dialogue: 0,0:17:49.14,0:17:52.88,Default,,0,0,0,,{\be1}Wiem, że jest panicz zmęczony,\Nale proszę wstawać.
+Dialogue: 0,0:17:54.76,0:17:58.80,Default,,0,0,0,,{\be1}Nie mogę ci rozkazać,\Ndlatego proszę byś wstał.
+Dialogue: 0,0:18:01.86,0:18:05.77,Default,,0,0,0,,{\be1}Szlachcic nie pozwoliłby czekać damie.
+Dialogue: 0,0:18:08.21,0:18:11.14,Default,,0,0,0,,{\be1}Przeprasza, że kłopoczemy cię z rana.
+Dialogue: 0,0:18:11.14,0:18:13.36,Default,,0,0,0,,{\be1}Cześć, Teppei!
+Dialogue: 0,0:18:16.40,0:18:20.49,Default,,0,0,0,,{\be1}Taty nie będzie przez kilka dni, bo pracuje.
+Dialogue: 0,0:18:20.49,0:18:24.54,Default,,0,0,0,,{\be1}Zostaniemy tu przez ten czas.
+Dialogue: 0,0:18:24.54,0:18:25.97,Default,,0,0,0,,{\be1}Kto tak powiedział?
+Dialogue: 0,0:18:25.97,0:18:30.55,Default,,0,0,0,,{\be1}A czy to ważne?\NI tak już jesteśmy.
+Dialogue: 0,0:18:30.55,0:18:35.55,Default,,0,0,0,,{\be1}Zawsze musi być nieuprzejma.
+Dialogue: 0,0:18:35.93,0:18:41.06,Default,,0,0,0,,{\be1}Dowiedziałam się o tym wczoraj wieczorem,\Ndlatego nie jest mi łatwo!
+Dialogue: 0,0:18:42.08,0:18:45.36,Default,,0,0,0,,{\be1}Nie mów jakbyś tego nie chciała.
+Dialogue: 0,0:18:45.36,0:18:49.65,Default,,0,0,0,,{\be1}Silvia nie potrafi być szczera.
+Dialogue: 0,0:18:50.72,0:19:00.49,Default,,0,0,0,,{\be1}Może i jesteśmy zależni od rodziców\Ni powinniśmy ich słuchać...
+Dialogue: 0,0:19:01.86,0:19:07.67,Default,,0,0,0,,{\be1}Ale to i tak nie daje im prawa\Nukładania nam życia, prawda?
+Dialogue: 0,0:19:10.34,0:19:15.09,Default,,0,0,0,,{\be1}Aż tak bardzo nie chcesz być ze mną?
+Dialogue: 0,0:19:15.46,0:19:17.35,Default,,0,0,0,,{\be1}To trochę boli.
+Dialogue: 0,0:19:17.35,0:19:21.00,Default,,0,0,0,,{\be1}Chodzi o twoją postawę!\NTak nie zachowuje się szlachcic!
+Dialogue: 0,0:19:21.00,0:19:23.95,Default,,0,0,0,,{\be1}Gdybyś od razu się nie zgodził...
+Dialogue: 0,0:19:23.95,0:19:26.97,Default,,0,0,0,,{\be1}Kocham cię.
+Dialogue: 0,0:19:43.93,0:19:47.04,Default,,0,0,0,,{\be1}Może w końcu przyznasz,\Nże pomyliłeś się?
+Dialogue: 0,0:19:51.62,0:19:56.68,Default,,0,0,0,,{\be1}Powiedziałeś to pod\Nwpływem chwili, prawda?
+Dialogue: 0,0:19:59.43,0:20:05.79,Default,,0,0,0,,{\be1}Urodziłam się w rodzinie\Nszlachetnych rycerzy z prawem do tronu.
+Dialogue: 0,0:20:05.79,0:20:08.95,Default,,0,0,0,,{\be1}Mam powinności wobec kraju.
+Dialogue: 0,0:20:08.95,0:20:13.52,Default,,0,0,0,,{\be1}Nie mogę pozwolić by ktoś mnie ograniczał.
+Dialogue: 0,0:20:19.05,0:20:22.95,Default,,0,0,0,,{\be1}Jak śmiesz?!\NNie wstyd ci?!
+Dialogue: 0,0:20:22.95,0:20:27.12,Default,,0,0,0,,{\be1}Najważniejsze jest,\Nżebyś zrozumiała co czuję.
+Dialogue: 0,0:20:28.65,0:20:34.84,Default,,0,0,0,,{\be1}No to masz problem,\Nbo twoje słowa nic nie zmienią.
+Dialogue: 0,0:20:34.83,0:20:36.46,Default,,0,0,0,,{\be1}W takim razie...
+Dialogue: 0,0:20:37.67,0:20:39.18,Default,,0,0,0,,{\be1}Arima!
+Dialogue: 0,0:20:47.60,0:20:51.06,Default,,0,0,0,,{\be1}Szlachta istnieje by prowadzić plebs!
+Dialogue: 0,0:20:52.01,0:20:56.06,Default,,0,0,0,,{\be1}To co robisz pozbawi\Nnas oboje wolności!
+Dialogue: 0,0:20:56.95,0:20:58.25,Default,,0,0,0,,{\be1}Głupcze!
+Dialogue: 0,0:21:00.01,0:21:09.08,Default,,0,0,0,,{\be1}Aż tak bardzo mnie pragniesz,\Nże dajesz się ponieść zwierzęcym instynktom?!
+Dialogue: 0,0:21:09.91,0:21:12.54,Default,,0,0,0,,{\be1}Nie nazwałbym tak tego.
+Dialogue: 0,0:21:12.99,0:21:14.51,Default,,0,0,0,,{\be1}Smutno mi bez ciebie.
+Dialogue: 0,0:21:17.32,0:21:18.29,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:21.91,0:21:26.67,Default,,0,0,0,,{\be1}Chcesz żebym cię znienawidziła?!
+Dialogue: 0,0:21:26.67,0:21:31.56,Default,,0,0,0,,{\be1}Dopóki będziesz ze mną, mam to gdzieś.
+Dialogue: 0,0:21:32.88,0:21:37.84,Default,,0,0,0,,{\be1}Więc teraz nie będziesz\Nzważał na moje uczucia?!
+Dialogue: 0,0:21:41.07,0:21:46.91,Default,,0,0,0,,{\be1}To co zaraz zrobimy\Njest obrzydliwe i wstrętne.
+Dialogue: 0,0:21:50.94,0:21:55.42,Default,,0,0,0,,{\be1}Jeśli weźmiemy pod uwagę\Nnasze pozycje, to tym bardziej nie możemy.
+Dialogue: 0,0:21:55.98,0:22:02.25,Default,,0,0,0,,{\be1}Jeśli czujesz się zhańbiona,\Nto może znowu chcesz być dziewczynką?
+Dialogue: 0,0:22:05.42,0:22:12.14,Default,,0,0,0,,{\be1}Nie jestem już dzieckiem,\Na za chwilę zmienisz mnie w kobietę.
+Dialogue: 0,0:22:12.98,0:22:17.40,Default,,0,0,0,,{\be1}Poza tym i tak nie masz\Nzamiaru przestać, prawda?
+Dialogue: 0,0:22:19.52,0:22:22.54,Default,,0,0,0,,{\be1}Po wszystkim mogę stać się\Nwymagającą jędzą.
+Dialogue: 0,0:22:22.54,0:22:27.91,Default,,0,0,0,,{\be1}Nigdy nie zapomnę jak odebrałeś mi dziewictwo\Ni sprawię, że będziesz płacił za to do końca życia.
+Dialogue: 0,0:22:28.50,0:22:31.36,Default,,0,0,0,,{\be1}Będę trzymała cię na smyczy.
+Dialogue: 0,0:22:33.41,0:22:35.23,Default,,0,0,0,,{\be1}Wchodzi!
+Dialogue: 0,0:22:39.32,0:22:44.05,Default,,0,0,0,,{\be1}Połączyliśmy się.
+Dialogue: 0,0:22:44.05,0:22:52.43,Default,,0,0,0,,{\be1}Wchodzi i rozrywa moje dziewictwo!
+Dialogue: 0,0:23:11.48,0:23:19.69,Default,,0,0,0,,{\be1}Gorąco mi!\NDlaczego jestem taka rozpalona?
+Dialogue: 0,0:23:21.90,0:23:24.88,Default,,0,0,0,,{\be1}Przez ciebie gorąco mi\Ni drętwieje mi ciało!
+Dialogue: 0,0:23:28.18,0:23:29.86,Default,,0,0,0,,{\be1}Wchodzi!
+Dialogue: 0,0:23:33.26,0:23:40.44,Default,,0,0,0,,{\be1}Twój penis wchodzi we mnie!
+Dialogue: 0,0:23:41.44,0:23:47.53,Default,,0,0,0,,{\be1}Jesteś okropny,\Nbo przez ciebie muszę czuć ból!
+Dialogue: 0,0:23:51.76,0:23:55.77,Default,,0,0,0,,{\be1}Nie wytrzymam naszego połączenia!
+Dialogue: 0,0:23:57.60,0:23:59.88,Default,,0,0,0,,{\be1}Zabrałeś mi wszystko!
+Dialogue: 0,0:24:00.84,0:24:06.05,Default,,0,0,0,,{\be1}Jest taka rozpalona,\Nże nawet głowa mnie piecze!
+Dialogue: 0,0:24:08.49,0:24:12.09,Default,,0,0,0,,{\be1}O nie, nie chcę słyszeć tych odgłosów!
+Dialogue: 0,0:24:13.21,0:24:18.82,Default,,0,0,0,,{\be1}Co się dzieje?\NZaczynam się bać!
+Dialogue: 0,0:24:18.82,0:24:21.40,Default,,0,0,0,,{\be1}Co ty ze mną robisz?
+Dialogue: 0,0:24:23.96,0:24:28.61,Default,,0,0,0,,{\be1}Nie ściskaj go tak mocno, bo zaraz dojdę!
+Dialogue: 0,0:24:29.56,0:24:32.90,Default,,0,0,0,,{\be1}Głupku, nie mów takich rzeczy!
+Dialogue: 0,0:24:32.90,0:24:40.62,Default,,0,0,0,,{\be1}Nie jestem taka jak ty\Ni nie poddałam się pożądaniu!
+Dialogue: 0,0:24:40.62,0:24:47.13,Default,,0,0,0,,{\be1}Jeszcze! Chcę być z tobą już zawsze!
+Dialogue: 0,0:24:47.13,0:24:48.58,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:24:54.64,0:25:00.04,Default,,0,0,0,,{\be1}Ale mocno go wkładasz!
+Dialogue: 0,0:25:00.04,0:25:03.44,Default,,0,0,0,,{\be1}Niedługo będę czuła tylko twoje ciepło!
+Dialogue: 0,0:25:13.42,0:25:18.99,Default,,0,0,0,,{\be1}Tak mi gorąco, że chyba zemdleję!
+Dialogue: 0,0:25:21.32,0:25:22.61,Default,,0,0,0,,{\be1}Tracę...
+Dialogue: 0,0:25:25.33,0:25:26.75,Default,,0,0,0,,{\be1}Zmysły!
+Dialogue: 0,0:25:31.72,0:25:38.55,Default,,0,0,0,,{\be1}Głęboko we mnie robi mi się gorąco!
+Dialogue: 0,0:25:38.55,0:25:43.50,Default,,0,0,0,,{\be1}Nie, ja taka nie jestem!
+Dialogue: 0,0:25:58.96,0:26:01.99,Default,,0,0,0,,{\be1}Jestem rozpalona!
+Dialogue: 0,0:26:03.10,0:26:05.46,Default,,0,0,0,,{\be1}Twoje nasienie wlewa się we mnie!
+Dialogue: 0,0:26:06.30,0:26:13.61,Default,,0,0,0,,{\be1}Gorąco! Twoje ciepła mnie wypala!
+Dialogue: 0,0:26:18.09,0:26:20.62,Default,,0,0,0,,{\be1}Nadal ci stoi?!
+Dialogue: 0,0:26:22.06,0:26:26.64,Default,,0,0,0,,{\be1}Tak dużo wypuściłeś, jeszcze ci mało?
+Dialogue: 0,0:26:27.63,0:26:29.53,Default,,0,0,0,,{\be1}Czym ty jesteś?
+Dialogue: 0,0:26:58.30,0:27:04.27,Default,,0,0,0,,{\be1}Mogę nie być w stanie\Nogarnąć tylu doznań.
+Dialogue: 0,0:27:04.68,0:27:07.40,Default,,0,0,0,,{\be1}Nie podobało ci się?
+Dialogue: 0,0:27:11.48,0:27:13.19,Default,,0,0,0,,{\be1}Niezupełnie.
+Dialogue: 0,0:27:14.23,0:27:16.75,Default,,0,0,0,,{\be1}Powiedziałam, że mogę ich nie ogarnąć.
+Dialogue: 0,0:27:19.31,0:27:20.43,Default,,0,0,0,,{\be1}Głupek.

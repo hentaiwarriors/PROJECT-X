@@ -1,0 +1,362 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,25,&H00FFFFFF,&HF0000000,&H009E9934,&HF0000000,-1,0,0,0,100,100,0,0.00,1,1,0,2,30,30,10,134
+Style: up,微软雅黑,18,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————5分——————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,—————10分——————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————15分——————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————20分—————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,————25分————
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:02.99,0:00:07.01,staff2,NTP,0,0,0,,露娜蒂克之夜 第二夜
+Dialogue: 0,0:00:27.22,0:00:29.22,Default,NTP,0,0,0,,欢迎回家
+Dialogue: 0,0:00:29.22,0:00:30.26,Default,NTP,0,0,0,,一起玩吧
+Dialogue: 0,0:00:39.89,0:00:43.26,Default,NTP,0,0,0,,欢迎回家
+Dialogue: 0,0:00:46.82,0:00:50.11,Default,NTP,0,0,0,,主人 库阿鲁和卡露拉回来了
+Dialogue: 0,0:00:51.04,0:00:51.92,Default,NTP,0,0,0,,我们回来了
+Dialogue: 0,0:00:52.19,0:00:53.09,Default,NTP,0,0,0,,嗨?
+Dialogue: 0,0:00:53.88,0:00:57.23,Default,NTP,0,0,0,,今天巡逻到北美一带了
+Dialogue: 0,0:00:57.45,0:00:59.55,Default,NTP,0,0,0,,然后 生还者呢
+Dialogue: 0,0:01:00.04,0:01:01.14,Default,NTP,0,0,0,,哦
+Dialogue: 0,0:01:05.63,0:01:07.73,Default,NTP,0,0,0,,库阿鲁只会做这种事
+Dialogue: 0,0:01:08.51,0:01:11.29,Default,NTP,0,0,0,,我们也差不多吧
+Dialogue: 0,0:01:45.95,0:01:48.51,Default,NTP,0,0,0,,好爽 好爽
+Dialogue: 0,0:01:52.30,0:01:54.76,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:02:18.05,0:02:18.77,Default,NTP,0,0,0,,嗯?
+Dialogue: 0,0:02:23.60,0:02:26.02,Default,NTP,0,0,0,,孩子生的有点太多了
+Dialogue: 0,0:02:26.43,0:02:31.27,Default,NTP,0,0,0,,虽说是为了人类新世纪计划\N一下子有三万个小孩儿 实在是
+Dialogue: 0,0:02:31.27,0:02:35.21,Default,NTP,0,0,0,,主人是轻松了 光是播种而已
+Dialogue: 0,0:02:35.23,0:02:37.30,Default,NTP,0,0,0,,你们不也是什么都没做嘛
+Dialogue: 0,0:02:37.35,0:02:39.06,Default,NTP,0,0,0,,只是把孩子生下来
+Dialogue: 0,0:02:39.17,0:02:40.52,Default,NTP,0,0,0,,放任主义呢
+Dialogue: 0,0:02:40.69,0:02:43.03,Default,NTP,0,0,0,,不骄纵是最好的
+Dialogue: 0,0:02:44.29,0:02:45.64,Default,NTP,0,0,0,,怎 怎么回事
+Dialogue: 0,0:02:47.22,0:02:48.92,Default,NTP,0,0,0,,啊...
+Dialogue: 0,0:02:56.81,0:02:58.44,Default,NTP,0,0,0,,涅普丘 这是?
+Dialogue: 0,0:02:58.61,0:03:01.17,Default,NTP,0,0,0,,这个 那个 就是说
+Dialogue: 0,0:03:01.30,0:03:02.38,Default,NTP,0,0,0,,涅普丘?
+Dialogue: 0,0:03:02.97,0:03:05.15,Default,NTP,0,0,0,,你做了什么
+Dialogue: 0,0:03:05.74,0:03:09.28,Default,NTP,0,0,0,,一点点 说明 之后再做
+Dialogue: 0,0:03:09.41,0:03:12.20,Default,NTP,0,0,0,,总之 不变回原来的样子的话 呐
+Dialogue: 0,0:03:12.35,0:03:14.58,Default,NTP,0,0,0,,大家一起来爱抚这根茎
+Dialogue: 0,0:03:14.58,0:03:15.27,Default,NTP,0,0,0,,OK
+Dialogue: 0,0:03:40.76,0:03:42.60,Default,NTP,0,0,0,,大家 继续做哟
+Dialogue: 0,0:03:56.69,0:03:58.25,Default,NTP,0,0,0,,
+Dialogue: 0,0:03:59.56,0:04:01.41,Default,NTP,0,0,0,,好疼...
+Dialogue: 0,0:04:02.62,0:04:05.86,Default,NTP,0,0,0,,刚才的到底是什么
+Dialogue: 0,0:04:06.40,0:04:09.41,Default,NTP,0,0,0,,为了让亚特兰蒂斯人\N真正的力量苏醒的仪式哦
+Dialogue: 0,0:04:10.40,0:04:11.31,Default,NTP,0,0,0,,什么
+Dialogue: 0,0:04:11.69,0:04:16.56,Default,NTP,0,0,0,,主人 我们必须把你带去浮游大陆
+Dialogue: 0,0:04:17.02,0:04:19.65,Default,NTP,0,0,0,,为了让主人真正力量觉醒
+Dialogue: 0,0:04:20.25,0:04:24.99,Default,NTP,0,0,0,,主人的真正力量觉醒时 拯救世界也不在话下
+Dialogue: 0,0:04:25.23,0:04:28.55,Default,NTP,0,0,0,,没错 为了这个目的 要去浮游大陆拉普塔
+Dialogue: 0,0:04:29.31,0:04:32.87,Default,NTP,0,0,0,,拥有四个金蛋蛋 获得超人的灵魂
+Dialogue: 0,0:04:33.38,0:04:35.19,Default,NTP,0,0,0,,那是真的吗
+Dialogue: 0,0:04:35.19,0:04:38.47,Default,NTP,0,0,0,,是 主人 我们去吧 拉普塔
+Dialogue: 0,0:04:38.64,0:04:41.70,Default,NTP,0,0,0,,然后 把奇幻的银骷髅头弄到手
+Dialogue: 0,0:05:03.04,0:05:09.21,Default,NTP,0,0,0,,但是 奇幻的阴茎 除非你们能比我先得手
+Dialogue: 0,0:05:57.99,0:05:59.86,Default,NTP,0,0,0,,这里是怎么回事
+Dialogue: 0,0:06:02.75,0:06:07.78,Default,NTP,0,0,0,,根据传说 住在这里的都是特兰蒂斯人的幸存者
+Dialogue: 0,0:06:18.09,0:06:21.11,Default,NTP,0,0,0,,话说回来 全是女孩子啊
+Dialogue: 0,0:06:22.55,0:06:23.49,Default,NTP,0,0,0,,
+Dialogue: 0,0:06:24.78,0:06:26.15,Default,NTP,0,0,0,,那是什么
+Dialogue: 0,0:06:26.44,0:06:30.76,Default,NTP,0,0,0,,那些叫做扭噜扭噜 是以前的特兰蒂斯人的男性
+Dialogue: 0,0:06:31.64,0:06:34.42,Default,NTP,0,0,0,,他们的存在意义只有SEX哟
+Dialogue: 0,0:06:37.82,0:06:40.28,Default,NTP,0,0,0,,涅普丘 说明一下 昨天的事情
+Dialogue: 0,0:06:42.33,0:06:45.77,Default,NTP,0,0,0,,其实 最近主人不是没精神吗
+Dialogue: 0,0:06:45.79,0:06:49.58,Default,NTP,0,0,0,,所以 用拉普塔的秘药悄悄的调和一下
+Dialogue: 0,0:06:50.16,0:06:52.73,Default,NTP,0,0,0,,拉普塔的秘药是 那个扭噜扭噜?
+Dialogue: 0,0:06:52.73,0:06:57.77,Default,NTP,0,0,0,,哎 把那个精力调度给主人 用了一些
+Dialogue: 0,0:06:58.04,0:07:00.06,Default,NTP,0,0,0,,所以变成那个样子了?
+Dialogue: 0,0:07:00.20,0:07:00.99,Default,NTP,0,0,0,,对
+Dialogue: 0,0:07:01.12,0:07:03.34,Default,NTP,0,0,0,,对了 那奇幻的银骷髅头?
+Dialogue: 0,0:07:03.34,0:07:04.68,Default,NTP,0,0,0,,那个超秘药?
+Dialogue: 0,0:07:04.68,0:07:07.04,Default,NTP,0,0,0,,对 只要得到原配方
+Dialogue: 0,0:07:07.04,0:07:09.30,Default,NTP,0,0,0,,又能变回以前龙精虎猛
+Dialogue: 0,0:07:09.45,0:07:12.71,Default,NTP,0,0,0,,Bingo!艾丝特露那边已经联系过了
+Dialogue: 0,0:07:12.74,0:07:14.22,Default,NTP,0,0,0,,啊!
+Dialogue: 0,0:07:14.61,0:07:17.21,Default,NTP,0,0,0,,怎么了 主人
+Dialogue: 0,0:07:17.42,0:07:18.85,Default,NTP,0,0,0,,难道说
+Dialogue: 0,0:07:19.33,0:07:23.78,Default,NTP,0,0,0,,变成真正的亚特兰蒂斯人后 我也会变成那样
+Dialogue: 0,0:07:24.38,0:07:27.05,Default,NTP,0,0,0,,我想没有问题的 大概
+Dialogue: 0,0:07:27.15,0:07:28.24,Default,NTP,0,0,0,,大概?
+Dialogue: 0,0:07:29.09,0:07:33.38,Default,NTP,0,0,0,,比起那种事情 拯救地球不是更重要吗
+Dialogue: 0,0:07:33.73,0:07:34.79,Default,NTP,0,0,0,,对 对
+Dialogue: 0,0:07:35.16,0:07:37.27,Default,NTP,0,0,0,,对什么呀 你们
+Dialogue: 0,0:07:37.49,0:07:42.01,Default,NTP,0,0,0,,来 走吧 主人不要考虑太多
+Dialogue: 0,0:07:42.07,0:07:45.25,Default,NTP,0,0,0,,啊 住手 喂
+Dialogue: 0,0:07:59.86,0:08:03.64,Default,NTP,0,0,0,,艾丝特露大人驾到
+Dialogue: 0,0:08:32.65,0:08:34.69,Default,NTP,0,0,0,,主人 有灰尘
+Dialogue: 0,0:08:42.85,0:08:47.72,Default,NTP,0,0,0,,我是浮游大陆的领导者艾丝特露\N很荣幸见到你
+Dialogue: 0,0:08:48.10,0:08:54.37,Default,NTP,0,0,0,,上次见到亚特兰蒂斯救世主克里希那\N是在一万两千年前
+Dialogue: 0,0:08:54.55,0:08:57.94,Default,NTP,0,0,0,,克里希那 那是我在亚特兰蒂斯时候的名字?
+Dialogue: 0,0:08:58.31,0:09:00.63,Default,NTP,0,0,0,,咳 失礼了
+Dialogue: 0,0:09:00.85,0:09:04.73,Default,NTP,0,0,0,,来到这里是为了使传说中的力量苏醒是吗
+Dialogue: 0,0:09:06.37,0:09:07.87,Default,NTP,0,0,0,,啊 是
+Dialogue: 0,0:09:08.18,0:09:10.28,Default,NTP,0,0,0,,克里希那 不 神崎大人
+Dialogue: 0,0:09:10.67,0:09:16.11,Default,NTP,0,0,0,,为了那个 必须要有爱之圣经 奇幻的银骷髅头
+Dialogue: 0,0:09:16.86,0:09:22.23,Default,NTP,0,0,0,,瞄准爱之圣经 源源不断有人到访浮游大陆
+Dialogue: 0,0:09:23.29,0:09:29.90,Default,NTP,0,0,0,,但是 能通过我们残酷试炼的人一个也没有
+Dialogue: 0,0:09:31.33,0:09:35.63,Default,NTP,0,0,0,,然后 逃走 最后可悲的死去
+Dialogue: 0,0:09:36.39,0:09:39.37,Default,NTP,0,0,0,,难道说给主人也要那个试炼?
+Dialogue: 0,0:09:39.47,0:09:41.47,Default,NTP,0,0,0,,当然 必须接受
+Dialogue: 0,0:09:41.56,0:09:43.28,Default,NTP,0,0,0,,哎?
+Dialogue: 0,0:09:47.45,0:09:50.39,Default,NTP,0,0,0,,这 就是那个传说中的...
+Dialogue: 0,0:09:51.32,0:09:53.39,Default,NTP,0,0,0,,拉普塔真的存在啊
+Dialogue: 0,0:09:53.52,0:09:54.43,Default,NTP,0,0,0,,
+Dialogue: 0,0:10:03.04,0:10:04.94,Default,NTP,0,0,0,,那么 开始试炼
+Dialogue: 0,0:10:05.36,0:10:06.20,Default,NTP,0,0,0,,是
+Dialogue: 0,0:10:38.59,0:10:40.57,Default,NTP,0,0,0,,哇 好大
+Dialogue: 0,0:10:46.11,0:10:48.97,Default,NTP,0,0,0,,首先和那个女人合体
+Dialogue: 0,0:10:49.89,0:10:51.17,Default,NTP,0,0,0,,不要出声
+Dialogue: 0,0:10:51.94,0:10:54.14,Default,NTP,0,0,0,,到底会发生什么
+Dialogue: 0,0:10:54.83,0:10:56.45,Default,NTP,0,0,0,,来 开始吧
+Dialogue: 0,0:10:56.79,0:10:57.63,Default,NTP,0,0,0,,是
+Dialogue: 0,0:11:02.82,0:11:07.81,Default,NTP,0,0,0,,哎 脑袋也能进去吧 嘛
+Dialogue: 0,0:11:15.48,0:11:19.10,Default,NTP,0,0,0,,等等 这是什么情况
+Dialogue: 0,0:11:21.44,0:11:25.27,Default,NTP,0,0,0,,测试 手脚不沾地 测试持久力
+Dialogue: 0,0:11:25.62,0:11:26.73,Default,NTP,0,0,0,,哎?
+Dialogue: 0,0:11:27.12,0:11:30.40,Default,NTP,0,0,0,,然后她会通过前面的台桥
+Dialogue: 0,0:11:30.64,0:11:31.72,Default,NTP,0,0,0,,哎?
+Dialogue: 0,0:11:31.98,0:11:32.97,Default,NTP,0,0,0,,
+Dialogue: 0,0:11:37.10,0:11:41.27,Default,NTP,0,0,0,,一点点筋力下降的话 马上就会掉下去吧
+Dialogue: 0,0:11:46.69,0:11:49.96,Default,NTP,0,0,0,,像过去很多男人一样 变成鲨鱼的食饵
+Dialogue: 0,0:11:49.96,0:11:50.94,Default,NTP,0,0,0,,啊哎?
+Dialogue: 0,0:11:51.02,0:11:51.79,Default,NTP,0,0,0,,开始
+Dialogue: 0,0:11:51.79,0:11:53.08,Default,NTP,0,0,0,,主人!
+Dialogue: 0,0:11:53.16,0:11:54.97,Default,NTP,0,0,0,,怎么那样 太乱来了
+Dialogue: 0,0:11:55.97,0:11:56.76,Default,NTP,0,0,0,,啊呀
+Dialogue: 0,0:11:56.76,0:11:57.65,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:11:58.68,0:12:00.92,Default,NTP,0,0,0,,等一下啊
+Dialogue: 0,0:12:01.60,0:12:06.03,Default,NTP,0,0,0,,主人 为了拯救世界 加油
+Dialogue: 0,0:12:06.26,0:12:09.20,Default,NTP,0,0,0,,呀 世界什么的 我死了的话 
+Dialogue: 0,0:12:09.45,0:12:13.64,Default,NTP,0,0,0,,想象插入我们那里面 让它继续勃起
+Dialogue: 0,0:12:15.64,0:12:17.93,Default,NTP,0,0,0,,这种死法 不要啊
+Dialogue: 0,0:12:27.10,0:12:29.32,Default,NTP,0,0,0,,啊!可恶
+Dialogue: 0,0:12:32.68,0:12:35.88,Default,NTP,0,0,0,,主人 还差一点儿 再加把劲
+Dialogue: 0,0:12:42.11,0:12:44.48,Default,NTP,0,0,0,,啊 得救了
+Dialogue: 0,0:12:44.72,0:12:46.09,Default,NTP,0,0,0,,成功了
+Dialogue: 0,0:12:46.38,0:12:48.59,Default,NTP,0,0,0,,太精彩了 神崎大人
+Dialogue: 0,0:12:52.71,0:12:56.52,Default,NTP,0,0,0,,到...到底是为了什么的试炼啊
+Dialogue: 0,0:13:00.83,0:13:05.68,Default,NTP,0,0,0,,欢迎 听说是神崎大人的友人
+Dialogue: 0,0:13:09.07,0:13:15.79,Default,NTP,0,0,0,,没错 我是神崎的朋友 而且非常亲密
+Dialogue: 0,0:13:23.87,0:13:27.84,Default,NTP,0,0,0,,我叫睦月 找神崎有事才专程到这里
+Dialogue: 0,0:13:28.12,0:13:30.96,Default,NTP,0,0,0,,是这样吗 但是神崎大人现在...
+Dialogue: 0,0:13:31.03,0:13:34.37,Default,NTP,0,0,0,,我明白 不会打扰试炼的
+Dialogue: 0,0:13:34.42,0:13:35.67,Default,NTP,0,0,0,,您早就知道了吗
+Dialogue: 0,0:13:35.84,0:13:41.03,Default,NTP,0,0,0,,他的事情什么都知道 试炼结束之前我就等着吧
+Dialogue: 0,0:13:41.29,0:13:45.17,Default,NTP,0,0,0,,这样吗 但是光是等着岂不是太无趣了
+Dialogue: 0,0:13:45.45,0:13:47.18,Default,NTP,0,0,0,,一起参加如何?
+Dialogue: 0,0:13:48.22,0:13:50.02,Default,NTP,0,0,0,,不 我就算了
+Dialogue: 0,0:13:50.23,0:13:52.75,Default,NTP,0,0,0,,不要那么说 很开心的哦
+Dialogue: 0,0:13:53.66,0:13:54.60,Default,NTP,0,0,0,,开心?
+Dialogue: 0,0:13:55.13,0:13:59.06,Default,NTP,0,0,0,,总之我去也没意义 就在这里等着
+Dialogue: 0,0:13:59.06,0:14:01.25,Default,NTP,0,0,0,,既然如此 真是太遗憾了
+Dialogue: 0,0:14:01.33,0:14:04.24,Default,NTP,0,0,0,,那么 结束的时候会通知您 
+Dialogue: 0,0:14:09.96,0:14:11.50,Default,NTP,0,0,0,,总觉得有点儿奇怪
+Dialogue: 0,0:14:16.18,0:14:17.88,Default,NTP,0,0,0,,这...这个是?
+Dialogue: 0,0:14:17.88,0:14:19.31,Default,NTP,0,0,0,,控制力的测试
+Dialogue: 0,0:14:19.51,0:14:25.34,Default,NTP,0,0,0,,在那边的烛台 绳子断掉之前必须射精
+Dialogue: 0,0:14:26.27,0:14:28.29,Default,NTP,0,0,0,,绳子一分钟就会烧断掉
+Dialogue: 0,0:14:28.30,0:14:30.39,Default,NTP,0,0,0,,哎?一分钟?
+Dialogue: 0,0:14:30.91,0:14:36.90,Default,NTP,0,0,0,,男人为了繁衍子孙 不管在怎样危机的情况下都要快速完成做爱
+Dialogue: 0,0:14:37.44,0:14:40.76,Default,NTP,0,0,0,,就算那么说 这说是测试 却赌上性命啊
+Dialogue: 0,0:14:41.10,0:14:43.11,Default,NTP,0,0,0,,测试就是要拼命
+Dialogue: 0,0:14:43.41,0:14:47.24,Default,NTP,0,0,0,,你们几个 帮助神崎大人放松
+Dialogue: 0,0:14:47.52,0:14:48.79,Default,NTP,0,0,0,,好
+Dialogue: 0,0:14:52.40,0:14:53.40,Default,NTP,0,0,0,,那么 上火
+Dialogue: 0,0:14:56.59,0:14:59.61,Default,NTP,0,0,0,,啊 这种状态下怎么能去啊
+Dialogue: 0,0:15:09.90,0:15:11.06,Default,NTP,0,0,0,,挺起来了
+Dialogue: 0,0:15:32.96,0:15:33.99,Default,NTP,0,0,0,,要去了
+Dialogue: 0,0:15:41.04,0:15:44.49,Default,NTP,0,0,0,,神崎大人 太精彩了 不愧是亚特兰蒂斯的救世主
+Dialogue: 0,0:15:49.00,0:15:50.61,Default,NTP,0,0,0,,主人
+Dialogue: 0,0:15:50.61,0:15:52.83,Default,NTP,0,0,0,,还以为要死了
+Dialogue: 0,0:16:00.50,0:16:03.56,Default,NTP,0,0,0,,今天的主人实在是太厉害了
+Dialogue: 0,0:16:03.80,0:16:04.95,Default,NTP,0,0,0,,真的哦
+Dialogue: 0,0:16:05.02,0:16:07.93,Default,NTP,0,0,0,,但是不觉得有点儿奇怪吗
+Dialogue: 0,0:16:08.40,0:16:10.04,Default,NTP,0,0,0,,什...什么啊
+Dialogue: 0,0:16:10.22,0:16:15.67,Default,NTP,0,0,0,,说是为了觉醒亚特兰蒂斯人力量 但是不都是在SEX吗
+Dialogue: 0,0:16:15.67,0:16:17.02,Default,NTP,0,0,0,,只是看上去是那样
+Dialogue: 0,0:16:17.02,0:16:17.88,Default,NTP,0,0,0,,没错
+Dialogue: 0,0:16:17.88,0:16:21.67,Default,NTP,0,0,0,,我们为了主人做的事情有错过吗
+Dialogue: 0,0:16:21.67,0:16:23.47,Default,NTP,0,0,0,,你觉得会没有吗
+Dialogue: 0,0:16:23.99,0:16:28.09,Default,NTP,0,0,0,,但是 主人 自从到了这边后变得这么精神
+Dialogue: 0,0:16:28.44,0:16:31.14,Default,NTP,0,0,0,,不知为何到这里后身体状态很好
+Dialogue: 0,0:16:32.11,0:16:34.14,Default,NTP,0,0,0,,看这边 主人
+Dialogue: 0,0:16:35.12,0:16:37.72,Default,NTP,0,0,0,,真敢做啊 看招
+Dialogue: 0,0:16:37.72,0:16:39.11,Default,NTP,0,0,0,,啊 狡猾
+Dialogue: 0,0:16:39.40,0:16:40.07,Default,NTP,0,0,0,,我也要
+Dialogue: 0,0:16:55.30,0:16:59.52,Default,NTP,0,0,0,,艾丝特露大人 今天把特大扭噜扭噜拿来了
+Dialogue: 0,0:16:59.93,0:17:03.43,Default,NTP,0,0,0,,不是那个 我想要真男人的肉棒
+Dialogue: 0,0:17:03.86,0:17:05.76,Default,NTP,0,0,0,,终于明天就要见结果了
+Dialogue: 0,0:17:05.78,0:17:07.58,Default,NTP,0,0,0,,再忍今天一晚吧
+Dialogue: 0,0:17:10.31,0:17:15.48,Default,NTP,0,0,0,,神崎大人的肉棒插进我黏糊糊的小穴里
+Dialogue: 0,0:17:17.13,0:17:18.94,Default,NTP,0,0,0,,想快点儿要
+Dialogue: 0,0:17:24.22,0:17:27.92,Default,NTP,0,0,0,,神崎君 发生了很多 这次就是最后一次了
+Dialogue: 0,0:17:28.21,0:17:31.77,Default,NTP,0,0,0,,结束长久以来折磨我的噩梦
+Dialogue: 0,0:17:31.77,0:17:34.19,Default,NTP,0,0,0,,然后 打开通往神明的大门
+Dialogue: 0,0:17:34.24,0:17:35.79,Default,NTP,0,0,0,,那个 主人?
+Dialogue: 0,0:17:35.91,0:17:37.02,Default,NTP,0,0,0,,怎么了
+Dialogue: 0,0:17:37.57,0:17:39.58,Default,NTP,0,0,0,,为什么是海豚
+Dialogue: 0,0:17:39.70,0:17:41.29,Default,NTP,0,0,0,,我很高兴啊
+Dialogue: 0,0:17:41.43,0:17:43.39,Default,NTP,0,0,0,,但是我很害羞
+Dialogue: 0,0:17:54.48,0:17:56.33,Default,NTP,0,0,0,,终于是最后的试炼
+Dialogue: 0,0:17:56.71,0:18:01.18,Default,NTP,0,0,0,,神崎大人的话 肯定能够势如破竹通过的吧
+Dialogue: 0,0:18:01.29,0:18:03.70,Default,NTP,0,0,0,,这次试炼结束后 就按照约定
+Dialogue: 0,0:18:03.83,0:18:05.22,Default,NTP,0,0,0,,奇幻的银骷髅头
+Dialogue: 0,0:18:05.24,0:18:06.51,Default,NTP,0,0,0,,是 献给您
+Dialogue: 0,0:18:06.77,0:18:08.16,Default,NTP,0,0,0,,哦哦哦 
+Dialogue: 0,0:18:08.16,0:18:09.69,Default,NTP,0,0,0,,加油 主人
+Dialogue: 0,0:18:10.00,0:18:12.43,Default,NTP,0,0,0,,仆人们请在自己的房间里等候
+Dialogue: 0,0:18:12.46,0:18:14.28,Default,NTP,0,0,0,,哎?为什么
+Dialogue: 0,0:18:14.41,0:18:16.31,Default,NTP,0,0,0,,这是拉普塔的法则
+Dialogue: 0,0:18:22.44,0:18:23.83,Default,NTP,0,0,0,,就是这里
+Dialogue: 0,0:18:29.94,0:18:34.27,Default,NTP,0,0,0,,可以吗 神崎大人 这是非常残酷的试炼
+Dialogue: 0,0:18:34.47,0:18:37.31,Default,NTP,0,0,0,,如果失败了 就会变成那样
+Dialogue: 0,0:18:37.40,0:18:38.04,Default,NTP,0,0,0,,嗯?
+Dialogue: 0,0:18:40.70,0:18:44.05,Default,NTP,0,0,0,,这些是撑到这里 再最后失败的男人们
+Dialogue: 0,0:18:44.93,0:18:47.49,Default,NTP,0,0,0,,奇幻的银骷髅头到底是什么
+Dialogue: 0,0:18:47.73,0:18:50.57,Default,NTP,0,0,0,,难道不是只为了使我觉醒的东西吗
+Dialogue: 0,0:18:50.76,0:18:52.88,Default,NTP,0,0,0,,那个 不能回答您
+Dialogue: 0,0:19:00.04,0:19:01.03,Default,NTP,0,0,0,,神崎大人
+Dialogue: 0,0:19:04.32,0:19:05.87,Default,NTP,0,0,0,,女王 艾丝特露
+Dialogue: 0,0:19:05.92,0:19:08.78,Default,NTP,0,0,0,,神崎大人 开始最后的试炼
+Dialogue: 0,0:19:09.04,0:19:13.09,Default,NTP,0,0,0,,请给我 一万年份量作为女人的快乐
+Dialogue: 0,0:19:13.43,0:19:18.67,Default,NTP,0,0,0,,作为男人的爱 能展现多少 那就是最后的测试
+Dialogue: 0,0:19:30.15,0:19:32.01,Default,NTP,0,0,0,,来吧 神崎大人
+Dialogue: 0,0:19:33.35,0:19:34.68,Default,NTP,0,0,0,,是 那么
+Dialogue: 0,0:19:43.00,0:19:43.77,Default,NTP,0,0,0,,好棒
+Dialogue: 0,0:19:48.19,0:19:49.16,Default,NTP,0,0,0,,再来
+Dialogue: 0,0:19:49.56,0:19:50.19,Default,NTP,0,0,0,,上咯
+Dialogue: 0,0:20:05.15,0:20:06.95,Default,NTP,0,0,0,,啊 爽
+Dialogue: 0,0:20:18.22,0:20:20.45,Default,NTP,0,0,0,,这就是和男人的SEX
+Dialogue: 0,0:20:21.45,0:20:22.34,Default,NTP,0,0,0,,好爽
+Dialogue: 0,0:20:22.52,0:20:23.64,Default,NTP,0,0,0,,现在才开始哦
+Dialogue: 0,0:20:26.86,0:20:27.63,Default,NTP,0,0,0,,看着 
+Dialogue: 0,0:20:29.24,0:20:30.90,Default,NTP,0,0,0,,深处 深处
+Dialogue: 0,0:20:50.06,0:20:52.16,Default,NTP,0,0,0,,一千年的快乐
+Dialogue: 0,0:20:53.97,0:20:56.49,Default,NTP,0,0,0,,主人在接受什么试炼呢 
+Dialogue: 0,0:20:56.49,0:20:58.01,Default,NTP,0,0,0,,时间好长啊
+Dialogue: 0,0:20:58.17,0:21:01.27,Default,NTP,0,0,0,,虽然那样说 在这里能做的事
+Dialogue: 0,0:21:01.74,0:21:05.36,Default,NTP,0,0,0,,可恶的艾丝特露 拿到银骷髅后 把拉普塔打下来
+Dialogue: 0,0:21:08.27,0:21:09.15,Default,NTP,0,0,0,,好舒服 
+Dialogue: 0,0:21:15.30,0:21:18.32,Default,NTP,0,0,0,,就这样 再持续一万年也可以
+Dialogue: 0,0:21:27.79,0:21:28.34,Default,NTP,0,0,0,,好爽
+Dialogue: 0,0:21:29.05,0:21:30.39,Default,NTP,0,0,0,,要坏掉了
+Dialogue: 0,0:21:39.20,0:21:44.32,Default,NTP,0,0,0,,要去了 一万年份的快乐
+Dialogue: 0,0:21:48.63,0:21:49.91,Default,NTP,0,0,0,,恭喜通关
+Dialogue: 0,0:21:55.88,0:21:56.95,Default,NTP,0,0,0,,最后的试炼 
+Dialogue: 0,0:21:56.95,0:21:58.00,Default,NTP,0,0,0,,实在太精彩了 
+Dialogue: 0,0:21:58.00,0:22:00.38,Default,NTP,0,0,0,,按照约定 把这个献给您
+Dialogue: 0,0:22:01.02,0:22:02.23,Default,NTP,0,0,0,,非常感谢
+Dialogue: 0,0:22:02.40,0:22:04.61,Default,NTP,0,0,0,,主人 恭喜你
+Dialogue: 0,0:22:04.67,0:22:06.54,Default,NTP,0,0,0,,谢谢 谢谢
+Dialogue: 0,0:22:10.12,0:22:17.60,Default,NTP,0,0,0,,我曾两度把人类毁灭了 但是我想如果能用这个对人类做出一些补偿的话
+Dialogue: 0,0:22:17.89,0:22:18.73,Default,NTP,0,0,0,,太开心了
+Dialogue: 0,0:22:21.12,0:22:26.02,Default,NTP,0,0,0,,是呀 主人 那么快点回巴比伦塔
+Dialogue: 0,0:22:26.12,0:22:28.21,Default,NTP,0,0,0,,嗯 然后用银骷髅吧
+Dialogue: 0,0:22:28.21,0:22:30.02,Default,NTP,0,0,0,,嗯 用吧 用吧
+Dialogue: 0,0:22:30.63,0:22:32.09,Default,NTP,0,0,0,,说的也是 就这样办
+Dialogue: 0,0:22:34.26,0:22:35.89,Default,NTP,0,0,0,,没错 神崎君 
+Dialogue: 0,0:22:35.89,0:22:40.64,Default,NTP,0,0,0,,你应该要赶快苏醒亚特兰蒂斯人的真正力量
+Dialogue: 0,0:22:40.67,0:22:43.73,Default,NTP,0,0,0,,但是不能回去巴比伦塔
+Dialogue: 0,0:22:43.80,0:22:44.57,Default,NTP,0,0,0,,睦月
+Dialogue: 0,0:22:44.89,0:22:49.39,Default,NTP,0,0,0,,睦月 你还活着吗 但是那个装束
+Dialogue: 0,0:22:49.43,0:22:51.40,Default,NTP,0,0,0,,这是兴趣 很开心的哦
+Dialogue: 0,0:22:51.46,0:22:52.19,Default,NTP,0,0,0,,对吧
+Dialogue: 0,0:22:52.19,0:22:53.21,Default,NTP,0,0,0,,完全不开心
+Dialogue: 0,0:22:53.94,0:22:55.79,Default,NTP,0,0,0,,总之 睦月
+Dialogue: 0,0:22:56.17,0:22:57.93,Default,NTP,0,0,0,,为什么你在这里
+Dialogue: 0,0:22:57.94,0:22:59.09,Default,NTP,0,0,0,,艾丝特露 怎么回事
+Dialogue: 0,0:22:59.48,0:23:04.09,Default,NTP,0,0,0,,神崎大人是一万年不遇的克里希那 不想让他离开
+Dialogue: 0,0:23:04.09,0:23:10.26,Default,NTP,0,0,0,,而且真正的亚特兰蒂斯人力量觉醒的话 不是巴比伦塔对我来说更好
+Dialogue: 0,0:23:10.37,0:23:13.01,Default,NTP,0,0,0,,我们的目的完美达成了一致
+Dialogue: 0,0:23:13.23,0:23:16.89,Default,NTP,0,0,0,,什么嘛 艾丝特露 想要男人的话 这个睦月不就行了吗
+Dialogue: 0,0:23:17.17,0:23:18.70,Default,NTP,0,0,0,,他的话有点...
+Dialogue: 0,0:23:20.21,0:23:22.35,Default,NTP,0,0,0,,是的 因为我不是人类
+Dialogue: 0,0:23:22.84,0:23:25.42,Default,NTP,0,0,0,,你啊 自己说出来不会很逊吗
+Dialogue: 0,0:23:25.84,0:23:34.36,Default,NTP,0,0,0,,总之神崎君 在你之前引发的大崩坏 我的魔力失去了大半
+Dialogue: 0,0:23:41.75,0:23:43.43,Default,NTP,0,0,0,,现在这就是极限
+Dialogue: 0,0:23:43.88,0:23:45.45,Default,NTP,0,0,0,,睦月!
+Dialogue: 0,0:23:49.99,0:23:52.53,Default,NTP,0,0,0,,It is showtime!
+Dialogue: 0,0:23:57.57,0:24:01.19,Default,NTP,0,0,0,,神崎君 骷髅头我就收下了 能打败我的仆人的话再见吧
+Dialogue: 0,0:24:01.19,0:24:03.25,Default,NTP,0,0,0,,等等 睦月 啊
+Dialogue: 0,0:24:07.11,0:24:09.81,Default,NTP,0,0,0,,啊 好不容易才到手的秘药
+Dialogue: 0,0:24:09.87,0:24:10.89,Default,NTP,0,0,0,,你说什么
+Dialogue: 0,0:24:11.28,0:24:13.43,Default,NTP,0,0,0,,啊 在干什么呢 大家
+Dialogue: 0,0:24:14.03,0:24:15.57,Default,NTP,0,0,0,,卡露拉 追上V号
+Dialogue: 0,0:24:15.73,0:24:17.45,Default,NTP,0,0,0,,库阿鲁 对付士兵
+Dialogue: 0,0:24:20.91,0:24:21.79,Default,NTP,0,0,0,,涅普丘!
+Dialogue: 0,0:24:25.81,0:24:27.05,Default,NTP,0,0,0,,不会让你那么做!
+Dialogue: 0,0:24:27.18,0:24:27.98,Default,NTP,0,0,0,,朱皮特
+Dialogue: 0,0:24:37.14,0:24:39.37,Default,NTP,0,0,0,,喂 涅普丘 回答我
+Dialogue: 0,0:24:39.44,0:24:42.31,Default,NTP,0,0,0,,主人 现在不是那种时候
+Dialogue: 0,0:24:42.45,0:24:43.21,Default,NTP,0,0,0,,机器人
+Dialogue: 0,0:24:58.04,0:24:59.79,Default,NTP,0,0,0,,库阿鲁 之后拜托你
+Dialogue: 0,0:24:59.79,0:25:01.39,Default,NTP,0,0,0,,喂 涅普丘 别跑
+Dialogue: 0,0:25:09.23,0:25:12.12,Default,NTP,0,0,0,,可恶 我就觉得很奇怪
+Dialogue: 0,0:25:17.66,0:25:18.62,Default,NTP,0,0,0,,你很厉害啊
+Dialogue: 0,0:25:18.73,0:25:20.95,Default,NTP,0,0,0,,叫我功夫的V号
+Dialogue: 0,0:25:24.43,0:25:27.19,Default,NTP,0,0,0,,又学别人 抄袭可是会被讨厌的哦
+Dialogue: 0,0:25:27.38,0:25:28.86,Default,NTP,0,0,0,,在这里随你怎么说
+Dialogue: 0,0:25:29.47,0:25:30.17,Default,NTP,0,0,0,,库阿鲁
+Dialogue: 0,0:25:33.75,0:25:35.47,Default,NTP,0,0,0,,
+Dialogue: 0,0:25:37.20,0:25:38.76,Default,NTP,0,0,0,,
+Dialogue: 0,0:25:46.55,0:25:48.34,Default,NTP,0,0,0,,你竟敢!
+Dialogue: 0,0:26:37.96,0:26:39.06,Default,NTP,0,0,0,,卡露拉
+Dialogue: 0,0:26:44.26,0:26:45.21,Default,NTP,0,0,0,,这样的话 
+Dialogue: 0,0:26:46.09,0:26:47.32,Default,NTP,0,0,0,,回来 V号
+Dialogue: 0,0:26:50.65,0:26:54.20,Default,NTP,0,0,0,,神崎君 银骷髅我收下了 再见
+Dialogue: 0,0:27:06.58,0:27:09.50,Default,NTP,0,0,0,,算了 总之大家都没事
+Dialogue: 0,0:27:09.56,0:27:11.36,Default,NTP,0,0,0,,不知如何谢罪才好
+Dialogue: 0,0:27:11.40,0:27:12.46,Default,NTP,0,0,0,,艾丝特露 可以了
+Dialogue: 0,0:27:12.46,0:27:16.78,Default,NTP,0,0,0,,再过个四五年 我们的孩子也会在地球上生活
+Dialogue: 0,0:27:17.26,0:27:20.73,Default,NTP,0,0,0,,喂喂 给孩子们推荐这种?
+Dialogue: 0,0:27:20.78,0:27:23.24,Default,NTP,0,0,0,,这也是帮助人 帮助人 呐?
+Dialogue: 0,0:27:24.90,0:27:29.41,Default,NTP,0,0,0,,克里希那在拉普塔的语言里是客人?
+Dialogue: 0,0:27:30.22,0:27:36.49,Default,NTP,0,0,0,,结果我只是在玩亚特兰蒂斯人的妄想游戏吗
+Dialogue: 0,0:27:36.72,0:27:38.48,Default,NTP,0,0,0,,给我反省一下
+Dialogue: 0,0:27:38.59,0:27:40.68,Default,NTP,0,0,0,,是 对不起
+Dialogue: 0,0:27:45.31,0:27:48.63,Default,NTP,0,0,0,,但是睦月也真是拿了个不得了的东西回去
+Dialogue: 0,0:27:53.00,0:27:54.26,Default,NTP,0,0,0,,变大了
+Dialogue: 0,0:27:54.36,0:27:56.22,Default,NTP,0,0,0,,哎 怎么了 主人
+Dialogue: 0,0:27:56.22,0:27:59.58,Default,NTP,0,0,0,,啊 喷了银骷髅
+Dialogue: 0,0:28:00.41,0:28:01.62,Default,NTP,0,0,0,,啊 我也要 
+Dialogue: 0,0:28:01.78,0:28:02.85,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:28:02.85,0:28:04.19,Default,NTP,0,0,0,,主人你好坏
+Dialogue: 0,0:28:04.19,0:28:06.71,Default,NTP,0,0,0,,还没轮到我呢

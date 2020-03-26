@@ -1,0 +1,355 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.4 Build503  May  1 2016  23:19:52
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
+Original Translation: 
+Audio File: euphora - 06.mp4
+Video File: euphora - 06.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 217
+Active Line: 0
+Video Position: 27047
+Last Style Storage: Default
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,30,0
+Style: Default (i),Franklin Gothic Medium,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,0,2,20,20,30,0
+Style: Default (top),Franklin Gothic Medium,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,15,0
+Style: Default 2,Franklin Gothic Medium,20,&H00FFFFFF,&H000000FF,&H00383838,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,30,0
+Style: Grupa,Franklin Gothic Medium,16,&HFFFFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,20,20,20,1
+Style: Tytul,Franklin Gothic Medium,20,&H000F3DA5,&H000000FF,&H00000000,&H1E000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,40,1
+Style: Znak,Franklin Gothic Medium,30,&H00000FFF,&H000000FF,&HFF000000,&HC8000000,-1,0,0,0,100,100,0,0,1,0.1,2,5,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:49.28,0:03:00.29,Grupa,,0,0,0,,{\be1\fad(1824,0)}Nyan
+Dialogue: 0,0:02:51.65,0:03:00.29,Tytul,,0,0,125,,{\be1\fad(1723,0)\t(7662,$end,\1c&H000000&)}Nasz raj jest zwykłym rytuałem.
+Dialogue: 0,0:02:51.65,0:03:00.29,Tytul,,0,0,18,,{\be1\fad(1723,0)\t(7662,$end,\1c&H000000&)}Matką zbawcy jest Byakuya Rinne?!
+Dialogue: 0,0:00:02.91,0:00:03.99,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:00:05.07,0:00:06.82,Default,,0,0,0,,{\be1}Tak mi dobrze!
+Dialogue: 0,0:00:09.97,0:00:12.04,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:00:12.04,0:00:13.33,Default,,0,0,0,,{\be1}Boję się!
+Dialogue: 0,0:00:14.21,0:00:15.50,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:00:19.28,0:00:22.51,Default,,0,0,0,,{\be1}Keisuke!
+Dialogue: 0,0:00:24.19,0:00:25.93,Default,,0,0,0,,{\be1}Co ci się stało?
+Dialogue: 0,0:00:25.93,0:00:28.51,Default,,0,0,0,,{\be1}Ktoś może wrócić!
+Dialogue: 0,0:00:29.85,0:00:36.02,Default,,0,0,0,,{\be1}Cieszę się, że w końcu się obudziłeś!
+Dialogue: 0,0:00:39.08,0:00:40.76,Default,,0,0,0,,{\be1}Nie piersi!
+Dialogue: 0,0:00:48.41,0:00:50.07,Default,,0,0,0,,{\be1}Keisuke, to boli!
+Dialogue: 0,0:00:51.24,0:00:53.79,Default,,0,0,0,,{\be1}Nie rób tak!
+Dialogue: 0,0:00:56.13,0:01:02.04,Default,,0,0,0,,{\be1}Cipka nie przestaje mi drżeć,\Nbo aż tak się cieszę, że go włożyłeś!
+Dialogue: 0,0:01:04.38,0:01:08.24,Default,,0,0,0,,{\be1}Tak mi przyjemnie w piersi!
+Dialogue: 0,0:01:09.56,0:01:13.48,Default,,0,0,0,,{\be1}Wpychasz palce w moje sutki\Ntak samo jak fiuta w cipkę!
+Dialogue: 0,0:01:15.35,0:01:19.90,Default,,0,0,0,,{\be1}Wiem, że zaraz dojdziesz,\Nbo fiut robi ci się coraz większy!
+Dialogue: 0,0:01:28.91,0:01:30.08,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:01:31.83,0:01:32.49,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:01:36.28,0:01:37.54,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:01:40.11,0:01:41.54,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:01:43.63,0:01:47.23,Default,,0,0,0,,{\be1}Cudownie! Czuję w sobie spermę!
+Dialogue: 0,0:01:48.50,0:01:51.26,Default,,0,0,0,,{\be1}Tak dużo się spuściłeś!
+Dialogue: 0,0:01:54.60,0:01:57.32,Default,,0,0,0,,{\be1}Dzięki niej zostanę zbawczynią.
+Dialogue: 0,0:01:57.89,0:01:58.77,Default,,0,0,0,,{\be1}Keisuke.
+Dialogue: 0,0:01:59.98,0:02:03.12,Default,,0,0,0,,{\be1}Keisuke, kocham cię!
+Dialogue: 0,0:02:16.87,0:02:18.58,Default,,0,0,0,,{\be1}Obudziłeś się.
+Dialogue: 0,0:02:18.58,0:02:19.79,Default,,0,0,0,,{\be1}Rinne?
+Dialogue: 0,0:02:20.42,0:02:23.79,Default,,0,0,0,,{\be1}Gdzie się podziewałaś? I gdzie jest Nemu?
+Dialogue: 0,0:02:24.26,0:02:26.88,Default,,0,0,0,,{\be1}Wyszłam poszukać Manaki, bo...
+Dialogue: 0,0:02:28.77,0:02:32.60,Default,,0,0,0,,{\be1}Wyszła po pomoc i już nie wróciła.
+Dialogue: 0,0:02:32.60,0:02:33.43,Default,,0,0,0,,{\be1}A Kanae?
+Dialogue: 0,0:02:34.10,0:02:37.20,Default,,0,0,0,,{\be1}Gdy wróciłam już jej nie było.
+Dialogue: 0,0:02:37.81,0:02:40.72,Default,,0,0,0,,{\be1}Szła za mną i...
+Dialogue: 0,0:02:41.75,0:02:42.70,Default,,0,0,0,,{\be1}Boli jeszcze?
+Dialogue: 0,0:02:43.15,0:02:45.26,Default,,0,0,0,,{\be1}To wspomnienia bolą.
+Dialogue: 0,0:03:04.30,0:03:08.30,Default,,0,0,0,,{\be1}Pomocy! Przestań!
+Dialogue: 0,0:03:08.66,0:03:12.31,Default,,0,0,0,,{\be1}Błagam, wyjmij go!
+Dialogue: 0,0:03:12.78,0:03:16.31,Default,,0,0,0,,{\be1}Więcej spermy się nie zmieści!
+Dialogue: 0,0:03:20.38,0:03:21.84,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:03:21.84,0:03:23.43,Default,,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:03:23.43,0:03:27.32,Default,,0,0,0,,{\be1}Mamo, tato, pomóżcie!
+Dialogue: 0,0:03:29.13,0:03:30.57,Default,,0,0,0,,{\be1}Cudowne miny.
+Dialogue: 0,0:03:31.49,0:03:36.59,Default,,0,0,0,,{\be1}Zabiorę wam wszystko i zniszczę.
+Dialogue: 0,0:03:37.16,0:03:39.05,Default,,0,0,0,,{\be1}Nemu? Niemożliwe.
+Dialogue: 0,0:03:40.09,0:03:42.60,Default,,0,0,0,,{\be1}Tak, wszystko ja wymyśliłam.
+Dialogue: 0,0:03:43.57,0:03:48.93,Default,,0,0,0,,{\be1}Zarówno grę pod ziemią, jak i to piekło.
+Dialogue: 0,0:03:50.80,0:03:51.99,Default,,0,0,0,,{\be1}Nie wierzę...
+Dialogue: 0,0:03:51.99,0:03:55.72,Default,,0,0,0,,{\be1}I co teraz myślisz po poznaniu prawdy?
+Dialogue: 0,0:03:55.72,0:03:57.96,Default,,0,0,0,,{\be1}Nienawidzisz mnie?
+Dialogue: 0,0:03:57.96,0:04:01.36,Default,,0,0,0,,{\be1}Nie pieprz!\NTo nie była gra, tam umierali ludzie!
+Dialogue: 0,0:04:01.64,0:04:06.73,Default,,0,0,0,,{\be1}A ty ją wykorzystałeś by\Nzbliżyć się do jej uczestników, czyż nie?
+Dialogue: 0,0:04:07.44,0:04:09.36,Default,,0,0,0,,{\be1}I za to cię lubię.
+Dialogue: 0,0:04:10.67,0:04:14.31,Default,,0,0,0,,{\be1}Nigdzie nie znajdziesz normalnego życia.
+Dialogue: 0,0:04:15.37,0:04:23.38,Default,,0,0,0,,{\be1}Ale nie martw się, tu znajdziesz\Nnowy świat, którego tak bardzo pragnąłeś.
+Dialogue: 0,0:04:24.12,0:04:26.89,Default,,0,0,0,,{\be1}Świat, w którym możesz spełniać swoje żądze.
+Dialogue: 0,0:04:27.84,0:04:31.39,Default,,0,0,0,,{\be1}Stworzyłam go specjalnie dla ciebie.
+Dialogue: 0,0:04:31.81,0:04:34.33,Default,,0,0,0,,{\be1}Skąd pewność, że ci się poddam?!
+Dialogue: 0,0:04:34.33,0:04:36.92,Default,,0,0,0,,{\be1}Jesteś jeszcze bardziej uroczy, gdy się denerwujesz.
+Dialogue: 0,0:04:38.76,0:04:42.20,Default,,0,0,0,,{\be1}Na twoje nieszczęście nie możesz mi odmówić.
+Dialogue: 0,0:04:42.20,0:04:43.64,Default,,0,0,0,,{\be1}Keisuke, uciekaj!
+Dialogue: 0,0:04:44.16,0:04:44.90,Default,,0,0,0,,{\be1}Kanae?!
+Dialogue: 0,0:04:44.90,0:04:45.88,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:04:46.66,0:04:47.66,Default,,0,0,0,,{\be1}Czekaj.
+Dialogue: 0,0:04:47.66,0:04:48.65,Default,,0,0,0,,{\be1}Rinne?
+Dialogue: 0,0:04:49.31,0:04:51.98,Default,,0,0,0,,{\be1}Myślisz, że dacie radę aż tylu?
+Dialogue: 0,0:04:53.31,0:04:55.59,Default,,0,0,0,,{\be1}Hokari jest taka ważna dla ciebie?
+Dialogue: 0,0:04:55.59,0:04:58.01,Default,,0,0,0,,{\be1}Jeśli chcesz ją uratować, to...
+Dialogue: 0,0:04:58.01,0:04:59.16,Default,,0,0,0,,{\be1}Już wiem.
+Dialogue: 0,0:05:00.09,0:05:04.94,Default,,0,0,0,,{\be1}Masz zgwałcić Byakuyę tu i teraz.
+Dialogue: 0,0:05:06.68,0:05:12.98,Default,,0,0,0,,{\be1}Tutaj ja rządzę i chcę zobaczyć jak ktoś cierpi.
+Dialogue: 0,0:05:12.98,0:05:15.15,Default,,0,0,0,,{\be1}Zawsze to Hokari może zostać zgwałcona.
+Dialogue: 0,0:05:15.15,0:05:15.93,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:05:16.57,0:05:17.57,Default,,0,0,0,,{\be1}Nie mogę tak...
+Dialogue: 0,0:05:17.57,0:05:18.93,Default,,0,0,0,,{\be1}Nie przejmuj się.
+Dialogue: 0,0:05:19.31,0:05:21.28,Default,,0,0,0,,{\be1}Wystarczy, że mnie zgwałcisz.
+Dialogue: 0,0:05:21.99,0:05:24.44,Default,,0,0,0,,{\be1}Ja się tym nie przejmę.
+Dialogue: 0,0:05:34.10,0:05:39.31,Default,,0,0,0,,{\be1}Co ma znaczyć ten żałosny fiutek?\NTak nigdy jej nie zgwałcisz.
+Dialogue: 0,0:05:41.88,0:05:42.84,Default,,0,0,0,,{\be1}Rinne?
+Dialogue: 0,0:05:42.84,0:05:46.27,Default,,0,0,0,,{\be1}Nie martw się, coś wymyliśmy.
+Dialogue: 0,0:06:29.81,0:06:31.06,Default,,0,0,0,,{\be1}Rinne.
+Dialogue: 0,0:06:38.65,0:06:41.01,Default,,0,0,0,,{\be1}Jesteś gotowy.
+Dialogue: 0,0:07:01.88,0:07:06.41,Default,,0,0,0,,{\be1}Dla ciebie zgwałci nawet przyjaciółkę.
+Dialogue: 0,0:07:06.41,0:07:09.17,Default,,0,0,0,,{\be1}Typowe dla niego.
+Dialogue: 0,0:07:10.68,0:07:12.65,Default,,0,0,0,,{\be1}Wydaję nieprzyzwoite odgłosy.
+Dialogue: 0,0:07:15.56,0:07:20.42,Default,,0,0,0,,{\be1}Twój fiuta wchodzi głęboko!
+Dialogue: 0,0:07:21.22,0:07:23.08,Default,,0,0,0,,{\be1}Trochę to boli!
+Dialogue: 0,0:07:25.12,0:07:26.20,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:07:27.19,0:07:30.72,Default,,0,0,0,,{\be1}To nic, spuść się w środku!
+Dialogue: 0,0:07:30.72,0:07:31.58,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:07:33.78,0:07:37.43,Default,,0,0,0,,{\be1}Nie przejmuj się, teraz myśl o Hokari.
+Dialogue: 0,0:07:38.99,0:07:43.20,Default,,0,0,0,,{\be1}Spuść się we mnie!
+Dialogue: 0,0:07:43.71,0:07:46.96,Default,,0,0,0,,{\be1}Zapełnij mnie spermą!
+Dialogue: 0,0:07:47.41,0:07:52.04,Default,,0,0,0,,{\be1}Zapłodnij mnie!
+Dialogue: 0,0:08:03.89,0:08:05.53,Default,,0,0,0,,{\be1}To było wspaniałe!
+Dialogue: 0,0:08:05.53,0:08:09.98,Default,,0,0,0,,{\be1}Jesteś zwykłym bydlakiem, który by tylko pieprzył.
+Dialogue: 0,0:08:11.03,0:08:14.93,Default,,0,0,0,,{\be1}Zapełniłeś mnie spermą!
+Dialogue: 0,0:08:19.92,0:08:21.93,Default,,0,0,0,,{\be1}Teraz puść ją.
+Dialogue: 0,0:08:21.94,0:08:25.10,Default,,0,0,0,,{\be1}No dobra, będę dla niej łaskawa.
+Dialogue: 0,0:08:26.50,0:08:31.23,Default,,0,0,0,,{\be1}Dzisiaj spuszczą się w niej tylko raz.
+Dialogue: 0,0:08:32.38,0:08:33.49,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:08:33.49,0:08:35.03,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:08:41.38,0:08:42.81,Default,,0,0,0,,{\be1}Kim oni są?!
+Dialogue: 0,0:08:42.81,0:08:44.51,Default,,0,0,0,,{\be1}Brać ich!
+Dialogue: 0,0:08:45.75,0:08:49.14,Default,,0,0,0,,{\be1}Ból Ziemi jest naszym bólem.
+Dialogue: 0,0:08:49.14,0:08:52.32,Default,,0,0,0,,{\be1}Ból Ziemi jest naszą przeszłością.
+Dialogue: 0,0:08:52.32,0:08:58.78,Default,,0,0,0,,{\be1}Ból Ziemi jest naszą rodziną.
+Dialogue: 0,0:09:02.04,0:09:03.22,Default,,0,0,0,,{\be1}Keisuke!
+Dialogue: 0,0:09:03.22,0:09:04.89,Default,,0,0,0,,{\be1}Tak się cieszę.
+Dialogue: 0,0:09:06.31,0:09:10.29,Default,,0,0,0,,{\be1}Długo czekałam na ten dzień.
+Dialogue: 0,0:09:10.29,0:09:12.68,Default,,0,0,0,,{\be1}Szkoła...
+Dialogue: 0,0:09:13.72,0:09:17.47,Default,,0,0,0,,{\be1}Nie, cały świat zazna wolności.
+Dialogue: 0,0:09:20.93,0:09:23.73,Default,,0,0,0,,{\be1}Długo czekaliśmy na ten dzień.
+Dialogue: 0,0:09:23.73,0:09:26.68,Default,,0,0,0,,{\be1}Nadszedł dzień odkupienia.
+Dialogue: 0,0:09:26.68,0:09:29.86,Default,,0,0,0,,{\be1}Rządy tyranii skończyły się.
+Dialogue: 0,0:09:29.86,0:09:33.19,Default,,0,0,0,,{\be1}Jesteśmy wolni.
+Dialogue: 0,0:09:33.19,0:09:36.43,Default,,0,0,0,,{\be1}Jednakże to nie koniec.
+Dialogue: 0,0:09:36.43,0:09:39.19,Default,,0,0,0,,{\be1}Musimy dążyć do wyższych celów.
+Dialogue: 0,0:09:39.71,0:09:42.58,Default,,0,0,0,,{\be1}Już niczego nie musimy się obawiać.
+Dialogue: 0,0:09:42.58,0:09:44.67,Default,,0,0,0,,{\be1}Chodźmy!
+Dialogue: 0,0:09:44.67,0:09:50.38,Default,,0,0,0,,{\be1}Ból Ziemi jest naszym pożywieniem!
+Dialogue: 0,0:09:50.38,0:09:55.43,Default,,0,0,0,,{\be1}Z czeluści piekieł do raju!
+Dialogue: 0,0:09:55.43,0:09:58.96,Default (i),,0,0,0,,{\be1}Kim oni są? To jakaś sekta.
+Dialogue: 0,0:10:02.67,0:10:09.22,Default,,0,0,0,,{\be1}Manaka Nemu, twoja tyrania to znak diabła.
+Dialogue: 0,0:10:09.94,0:10:12.77,Default,,0,0,0,,{\be1}Wyciągniemy go z ciebie.
+Dialogue: 0,0:10:45.94,0:10:48.94,Default,,0,0,0,,{\be1}Przestaniecie! Wy ją po prostu gwałcicie!
+Dialogue: 0,0:10:48.94,0:10:51.69,Default,,0,0,0,,{\be1}Nie, my ją oczyszczamy.
+Dialogue: 0,0:10:52.39,0:10:55.44,Default,,0,0,0,,{\be1}Tak mówi nam nasza wiara i moja matka.
+Dialogue: 0,0:10:56.22,0:11:04.39,Default,,0,0,0,,{\be1}Gdy przyzna się do grzechów\Ni otrzyma karę, zostanie oczyszczona.
+Dialogue: 0,0:11:05.11,0:11:07.01,Default,,0,0,0,,{\be1}Wygnamy z niej diabła.
+Dialogue: 0,0:11:14.72,0:11:17.72,Default,,0,0,0,,{\be1}To boli! Utopicie mnie spermą!
+Dialogue: 0,0:11:17.72,0:11:19.38,Default,,0,0,0,,{\be1}Nie przestawajcie.
+Dialogue: 0,0:11:19.89,0:11:22.24,Default,,0,0,0,,{\be1}Oczyszczanie potrwa 3 dni.
+Dialogue: 0,0:11:27.36,0:11:29.44,Default,,0,0,0,,{\be1}Nadszedł czas.
+Dialogue: 0,0:11:29.44,0:11:33.52,Default,,0,0,0,,{\be1}Niech otworzą się pierwsze drzwi.
+Dialogue: 0,0:11:41.87,0:11:44.41,Default,,0,0,0,,{\be1}A teraz drugie.
+Dialogue: 0,0:11:45.98,0:11:49.14,Default,,0,0,0,,{\be1}To moja matka, Kyousa.
+Dialogue: 0,0:11:49.94,0:11:53.67,Default,,0,0,0,,{\be1}Pozostawiła mi swoje dziedzictwo,\Nabym mogła poprowadzić mój lud do raju.
+Dialogue: 0,0:11:54.34,0:11:58.42,Default,,0,0,0,,{\be1}Takatou Keisuke, moja matka sprowadziła cię tu.
+Dialogue: 0,0:11:58.69,0:12:00.43,Default,,0,0,0,,{\be1}Zostaniesz ojcem zbawcy.
+Dialogue: 0,0:12:01.60,0:12:05.17,Default,,0,0,0,,{\be1}Gdy zobaczyłam twoje znamię, od razu zrozumiałam.
+Dialogue: 0,0:12:05.56,0:12:08.93,Default,,0,0,0,,{\be1}To znak od boga.
+Dialogue: 0,0:12:09.64,0:12:12.40,Default,,0,0,0,,{\be1}Nie wiem o czym mówisz.
+Dialogue: 0,0:12:12.40,0:12:13.94,Default,,0,0,0,,{\be1}Nie musisz pamiętać.
+Dialogue: 0,0:12:16.07,0:12:18.00,Default,,0,0,0,,{\be1}Jesteś potrzebny...
+Dialogue: 0,0:12:19.61,0:12:21.07,Default,,0,0,0,,{\be1}Mnie.
+Dialogue: 0,0:12:26.72,0:12:31.70,Default,,0,0,0,,{\be1}Pomogę ci wypełnić twoje przeznaczenie,\Njesteś zwiastunem nowego świata.
+Dialogue: 0,0:12:36.67,0:12:42.21,Default,,0,0,0,,{\be1}Zacznijmy świętą ceremonię.
+Dialogue: 0,0:12:42.21,0:12:45.21,Default,,0,0,0,,{\be1}Nie! Keisuke!
+Dialogue: 0,0:12:48.40,0:12:49.22,Default,,0,0,0,,{\be1}Nie rób tego!
+Dialogue: 0,0:12:50.23,0:12:51.71,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:58.84,0:13:00.20,Default,,0,0,0,,{\be1}Ja już...
+Dialogue: 0,0:13:00.20,0:13:02.23,Default,,0,0,0,,{\be1}Przypomniałeś sobie?
+Dialogue: 0,0:13:02.54,0:13:07.73,Default,,0,0,0,,{\be1}Dawno temu zrobiłeś to też z moją matką.
+Dialogue: 0,0:13:07.73,0:13:17.63,Default,,0,0,0,,{\be1}Moja matka zgwałciła cię\Ni urodziła twoje dziecko, mnie.
+Dialogue: 0,0:13:17.63,0:13:18.71,Default,,0,0,0,,{\be1}Niemożliwe.
+Dialogue: 0,0:13:18.71,0:13:27.11,Default,,0,0,0,,{\be1}Ale nie mogłam zostać zbawcą,\Nbo nie jestem mężczyzną.
+Dialogue: 0,0:13:29.26,0:13:34.26,Default,,0,0,0,,{\be1}Gdybym tylko była mężczyzną,\Nnikt więcej by nie umarł.
+Dialogue: 0,0:13:35.02,0:13:36.76,Default,,0,0,0,,{\be1}Wszyscy bylibyśmy w raju.
+Dialogue: 0,0:13:37.44,0:13:40.77,Default,,0,0,0,,{\be1}Jestem bezużyteczną porażką!
+Dialogue: 0,0:13:41.13,0:13:44.24,Default,,0,0,0,,{\be1}Mylisz się, zbawca nie istnieje!
+Dialogue: 0,0:13:44.24,0:13:46.74,Default,,0,0,0,,{\be1}Powtarzasz błędy matki!
+Dialogue: 0,0:13:46.74,0:13:49.37,Default,,0,0,0,,{\be1}Powtarzam jej błędy?
+Dialogue: 0,0:13:49.37,0:13:50.78,Default,,0,0,0,,{\be1}To jest chore.
+Dialogue: 0,0:13:51.43,0:13:55.54,Default,,0,0,0,,{\be1}Chodź ze mną, razem znajdziemy raj.
+Dialogue: 0,0:14:02.59,0:14:04.81,Default,,0,0,0,,{\be1}Nie jestem jak ona!
+Dialogue: 0,0:14:04.81,0:14:08.30,Default,,0,0,0,,{\be1}Ja na pewno urodzę zbawcę!
+Dialogue: 0,0:14:08.68,0:14:09.84,Default,,0,0,0,,{\be1}Rinne.
+Dialogue: 0,0:14:09.84,0:14:13.14,Default,,0,0,0,,{\be1}Zapłodnij mnie.
+Dialogue: 0,0:14:13.14,0:14:16.30,Default,,0,0,0,,{\be1}Daj mi to czego nie miała matka.
+Dialogue: 0,0:14:17.05,0:14:19.81,Default,,0,0,0,,{\be1}Daj mi twoje dziecko.
+Dialogue: 0,0:14:20.48,0:14:25.82,Default,,0,0,0,,{\be1}Zostanę matką zbawcy!
+Dialogue: 0,0:14:27.37,0:14:30.98,Default,,0,0,0,,{\be1}Masz cudownego fiuta!
+Dialogue: 0,0:14:34.95,0:14:39.42,Default,,0,0,0,,{\be1}Moja cipka jest dla ciebie przyjemna?
+Dialogue: 0,0:14:40.96,0:14:45.09,Default,,0,0,0,,{\be1}Ale ty masz dużego i twardego fiuta!
+Dialogue: 0,0:14:45.09,0:14:46.33,Default,,0,0,0,,{\be1}Jest cudowny!
+Dialogue: 0,0:14:47.17,0:14:51.56,Default,,0,0,0,,{\be1}Mocniej! Pieprz mnie mocniej!
+Dialogue: 0,0:14:51.56,0:14:55.47,Default,,0,0,0,,{\be1}Rżnij mnie ile tylko możesz!
+Dialogue: 0,0:14:58.85,0:15:00.36,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:15:00.36,0:15:07.35,Default,,0,0,0,,{\be1}Dawaj, spuść się we mnie!
+Dialogue: 0,0:15:08.78,0:15:11.81,Default,,0,0,0,,{\be1}Wypuść we mnie spermę!
+Dialogue: 0,0:15:12.70,0:15:16.84,Default,,0,0,0,,{\be1}Zapłodnij mnie!
+Dialogue: 0,0:15:23.59,0:15:32.37,Default,,0,0,0,,{\be1}Czuję jak twoja sperma leci do macicy!
+Dialogue: 0,0:15:33.01,0:15:36.45,Default,,0,0,0,,{\be1}Nasz zbawca!
+Dialogue: 0,0:15:41.40,0:15:44.33,Default,,0,0,0,,{\be1}Chyba jej nie przekonam.
+Dialogue: 0,0:15:46.03,0:15:48.74,Default,,0,0,0,,{\be1}Powinnaś stąd uciec.
+Dialogue: 0,0:15:48.74,0:15:50.70,Default,,0,0,0,,{\be1}Ale ty...
+Dialogue: 0,0:15:50.70,0:15:53.58,Default,,0,0,0,,{\be1}Znajdę cię, gdy to się skończy. Obiecuję.
+Dialogue: 0,0:15:55.78,0:15:57.95,Default,,0,0,0,,{\be1}Manaka odeszła.
+Dialogue: 0,0:15:57.95,0:16:02.79,Default,,0,0,0,,{\be1}Myślałem, że zależy ci na oczyszczenie Nemu.
+Dialogue: 0,0:16:02.79,0:16:06.46,Default,,0,0,0,,{\be1}Ona się nie liczy, ty jesteś najważniejszy.
+Dialogue: 0,0:16:06.46,0:16:10.47,Default,,0,0,0,,{\be1}Musisz zostać ojcem zbawcy.
+Dialogue: 0,0:16:10.47,0:16:16.42,Default,,0,0,0,,{\be1}A poza tym możemy więc więcej zbawicieli.
+Dialogue: 0,0:16:23.27,0:16:27.25,Default,,0,0,0,,{\be1}Daj mi urodzić zbawcę!
+Dialogue: 0,0:16:28.40,0:16:30.94,Default,,0,0,0,,{\be1}Otwórzcie oczy, to jakieś szaleństwo!
+Dialogue: 0,0:16:31.66,0:16:36.22,Default,,0,0,0,,{\be1}Zbawca i raj nie istnieją!
+Dialogue: 0,0:16:38.44,0:16:42.73,Default,,0,0,0,,{\be1}Cudownie! Tak głęboko wchodzi!
+Dialogue: 0,0:16:52.04,0:16:55.68,Default,,0,0,0,,{\be1}Czuję w sobie esencję zbawcy!
+Dialogue: 0,0:16:55.68,0:17:00.33,Default,,0,0,0,,{\be1}Gratuluję, teraz i ty będziesz matką zbawcy.
+Dialogue: 0,0:17:04.61,0:17:08.53,Default,,0,0,0,,{\be1}Ja też chcę esencję zbawcy!
+Dialogue: 0,0:17:15.99,0:17:20.53,Default,,0,0,0,,{\be1}Dzieci zaprowadzą nas do raju.
+Dialogue: 0,0:17:22.16,0:17:25.61,Default,,0,0,0,,{\be1}Chcę urodzić zbawcę!
+Dialogue: 0,0:17:30.38,0:17:32.68,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:17:47.98,0:17:50.97,Default,,0,0,0,,{\be1}O tak! Cudownie!
+Dialogue: 0,0:17:51.57,0:17:54.89,Default,,0,0,0,,{\be1}Twój fiut dotyka macicy!
+Dialogue: 0,0:17:55.46,0:17:58.13,Default,,0,0,0,,{\be1}Rozpychasz mi cipkę!
+Dialogue: 0,0:18:00.15,0:18:00.69,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:18:00.69,0:18:04.82,Default,,0,0,0,,{\be1}Spuść się!
+Dialogue: 0,0:18:06.12,0:18:08.79,Default,,0,0,0,,{\be1}Chcę urodzić twoje dziecko!
+Dialogue: 0,0:18:09.58,0:18:11.66,Default,,0,0,0,,{\be1}Dochodzisz?!
+Dialogue: 0,0:18:28.90,0:18:30.54,Default,,0,0,0,,{\be1}Co za strata.
+Dialogue: 0,0:18:32.48,0:18:34.20,Default,,0,0,0,,{\be1}Dziękuję!
+Dialogue: 0,0:18:34.20,0:18:35.86,Default,,0,0,0,,{\be1}Jestem wdzięczna!
+Dialogue: 0,0:18:35.86,0:18:37.48,Default,,0,0,0,,{\be1}Urodzę twoje dziecko!
+Dialogue: 0,0:18:40.27,0:18:42.99,Default,,0,0,0,,{\be1}Czcigodna Byakuya!
+Dialogue: 0,0:18:42.99,0:18:46.24,Default,,0,0,0,,{\be1}Przeproście szczerze.
+Dialogue: 0,0:18:47.42,0:18:50.50,Default,,0,0,0,,{\be1}Jesteśmy śmieciami!
+Dialogue: 0,0:18:50.50,0:18:53.25,Default,,0,0,0,,{\be1}Wybacz nam nasze grzechy, czcigodna Byakuya!
+Dialogue: 0,0:18:53.25,0:18:57.84,Default,,0,0,0,,{\be1}Przed wejściem na świętą ziemię\Nmusicie odpokutować za grzechy.
+Dialogue: 0,0:18:57.84,0:19:02.26,Default,,0,0,0,,{\be1}Ból oczyści was z grzechów!
+Dialogue: 0,0:19:03.73,0:19:05.37,Default,,0,0,0,,{\be1}Dziękuję!
+Dialogue: 0,0:19:05.37,0:19:08.76,Default (i),,0,0,0,,{\be1}Oszaleli. A może...
+Dialogue: 0,0:19:10.44,0:19:13.29,Default (i),,0,0,0,,{\be1}To ja oszalałem?
+Dialogue: 0,0:19:14.11,0:19:17.99,Default (i),,0,0,0,,{\be1}Podobno Kanae udało się uciec.
+Dialogue: 0,0:19:24.83,0:19:28.33,Default (i),,0,0,0,,{\be1}Chcę uratować Rinne.
+Dialogue: 0,0:19:28.33,0:19:33.67,Default (i),,0,0,0,,{\be1}Chcę dać jej normalne życie\Nz dala od tej popieprzonej sekty.
+Dialogue: 0,0:19:35.67,0:19:39.57,Default (i),,0,0,0,,{\be1}Mam w dupie raj, a tym bardziej zbawcę.
+Dialogue: 0,0:19:39.57,0:19:40.65,Default (i),,0,0,0,,{\be1}Po prostu...
+Dialogue: 0,0:19:44.06,0:19:46.18,Default (i),,0,0,0,,{\be1}Zakochałem się w tobie.
+Dialogue: 0,0:19:46.18,0:19:50.81,Default (i),,0,0,0,,{\be1}Ciągle się wahałaś lecz nigdy nie poddałaś.
+Dialogue: 0,0:19:50.81,0:19:51.55,Default (i),,0,0,0,,{\be1}Nawet teraz...
+Dialogue: 0,0:19:55.24,0:19:57.12,Default (i),,0,0,0,,{\be1}Nadal cię kocham.
+Dialogue: 0,0:20:00.51,0:20:02.68,Default,,0,0,0,,{\be1}Daj rękę.
+Dialogue: 0,0:20:03.31,0:20:04.58,Default,,0,0,0,,{\be1}Obejdzie się.
+Dialogue: 0,0:20:10.04,0:20:11.20,Default,,0,0,0,,{\be1}Co ci?
+Dialogue: 0,0:20:11.20,0:20:15.90,Default,,0,0,0,,{\be1}Chcę być z tobą!
+Dialogue: 0,0:20:21.18,0:20:26.57,Default,,0,0,0,,{\be1}Nareszcie zostaniesz ojcem zbawiciela?
+Dialogue: 0,0:20:29.05,0:20:31.27,Default,,0,0,0,,{\be1}Jest inaczej niż zwykle!
+Dialogue: 0,0:20:31.27,0:20:34.21,Default,,0,0,0,,{\be1}Niesamowite!
+Dialogue: 0,0:20:35.68,0:20:41.46,Default,,0,0,0,,{\be1}Tak dużo spermy wlewa się we mnie!
+Dialogue: 0,0:20:44.03,0:20:47.31,Default,,0,0,0,,{\be1}Będę ciągle się w tobie spuszczał!
+Dialogue: 0,0:20:49.54,0:20:53.06,Default,,0,0,0,,{\be1}Przyjemnie ci ze mną?
+Dialogue: 0,0:21:00.80,0:21:03.71,Default,,0,0,0,,{\be1}Naznacz moje grzechy!
+Dialogue: 0,0:21:04.01,0:21:05.95,Default,,0,0,0,,{\be1}Moje też!
+Dialogue: 0,0:21:07.01,0:21:10.60,Default,,0,0,0,,{\be1}Tak się cieszę, czcigodna Byakuyo!
+Dialogue: 0,0:21:10.60,0:21:14.72,Default,,0,0,0,,{\be1}Żałujcie swoich grzechów z głębi serca!
+Dialogue: 0,0:21:26.24,0:21:33.99,Default,,0,0,0,,{\be1}Sperma, która da nam zbawcę wlewa się we mnie!
+Dialogue: 0,0:21:34.42,0:21:38.62,Default,,0,0,0,,{\be1}Nie przestaje wlatywać we mnie!
+Dialogue: 0,0:21:39.38,0:21:42.48,Default,,0,0,0,,{\be1}Chcesz się już urodzić, prawda?
+Dialogue: 0,0:21:44.93,0:21:47.88,Default,,0,0,0,,{\be1}Na pewno jestem w ciąży!
+Dialogue: 0,0:21:48.26,0:21:52.51,Default,,0,0,0,,{\be1}Urodzę twoje dziecko!
+Dialogue: 0,0:22:11.30,0:22:13.59,Default,,0,0,0,,{\be1}Uwielbiam twojego fiuta.
+Dialogue: 0,0:22:15.33,0:22:18.21,Default,,0,0,0,,{\be1}Jest taki twardy i gorący.
+Dialogue: 0,0:22:18.90,0:22:22.55,Default,,0,0,0,,{\be1}Uwielbiam, gdy mnie pieprzysz.
+Dialogue: 0,0:22:22.55,0:22:26.11,Default,,0,0,0,,{\be1}Jest mi wtedy tak dobrze.
+Dialogue: 0,0:22:26.11,0:22:28.90,Default,,0,0,0,,{\be1}Nawet dałeś mi dziecko.
+Dialogue: 0,0:22:30.53,0:22:33.49,Default (i),,0,0,0,,{\be1}Ile razy już się spuścił?
+Dialogue: 0,0:22:33.49,0:22:37.05,Default (i),,0,0,0,,{\be1}Uwielbiam go, ciągle może się spuszczać.
+Dialogue: 0,0:22:37.81,0:22:41.02,Default,,0,0,0,,{\be1}Spuść się jeszcze!
+Dialogue: 0,0:22:41.02,0:22:46.56,Default,,0,0,0,,{\be1}Spuść się tak dużo, żebym utonęła w spermie!
+Dialogue: 0,0:22:53.59,0:22:58.08,Default,,0,0,0,,{\be1}Cudowny fiut!
+Dialogue: 0,0:22:59.75,0:23:02.58,Default,,0,0,0,,{\be1}Matka miała rację wybierając cię!
+Dialogue: 0,0:23:02.98,0:23:10.84,Default,,0,0,0,,{\be1}Ciekawe czy matka też wtedy jęczała jak ja teraz!
+Dialogue: 0,0:23:12.25,0:23:13.61,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:23:18.56,0:23:22.85,Default,,0,0,0,,{\be1}Wkładasz tak głęboko, że dziecko go zobaczy!
+Dialogue: 0,0:23:23.88,0:23:29.86,Default,,0,0,0,,{\be1}Wchodzi tak głęboko! Cudownie!
+Dialogue: 0,0:23:31.33,0:23:35.03,Default,,0,0,0,,{\be1}Zaraz dojdę! Ty też dojdź!
+Dialogue: 0,0:23:35.91,0:23:43.14,Default,,0,0,0,,{\be1}Zapełnij mnie swoją świętą spermą!
+Dialogue: 0,0:23:44.05,0:23:48.04,Default,,0,0,0,,{\be1}Niech zbawca napije się twojej spermy!
+Dialogue: 0,0:23:48.89,0:23:51.63,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:24:05.55,0:24:11.58,Default,,0,0,0,,{\be1}Jeszcze trochę. Niedługo narodzi się zbawca.
+Dialogue: 0,0:24:15.62,0:24:16.91,Default,,0,0,0,,{\be1}Nie ruszać się!
+Dialogue: 0,0:24:18.66,0:24:20.83,Default,,0,0,0,,{\be1}Radzę wam nie hałasować.
+Dialogue: 0,0:24:20.83,0:24:24.73,Default,,0,0,0,,{\be1}Macie tu siedzieć cicho i nic nie robić albo odrąbię jej łeb.
+Dialogue: 0,0:24:26.88,0:24:29.97,Default (i),,0,0,0,,{\be1}Jeśli tu zostaniemy, historia zatoczy koło.
+Dialogue: 0,0:24:31.35,0:24:33.57,Default (i),,0,0,0,,{\be1}Muszę zabrać stąd Rinne.
+Dialogue: 0,0:24:36.14,0:24:38.10,Default,,0,0,0,,{\be1}Co się dzieje? Znowu to?
+Dialogue: 0,0:24:41.62,0:24:44.62,Default,,0,0,0,,{\be1}Moje marzenie?
+Dialogue: 0,0:24:44.62,0:24:47.18,Default,,0,0,0,,{\be1}Co? Odzyskałaś zmysły?
+Dialogue: 0,0:24:48.14,0:24:52.46,Default,,0,0,0,,{\be1}Moim obowiązkiem jest\Nurodzić zbawcę i poprowadzić mój lud.
+Dialogue: 0,0:24:52.46,0:24:53.41,Default,,0,0,0,,{\be1}Rinne!
+Dialogue: 0,0:24:53.41,0:24:57.91,Default,,0,0,0,,{\be1}Moje marzenie...
+Dialogue: 0,0:25:01.76,0:25:04.98,Default,,0,0,0,,{\be1}Może mi się udać.
+Dialogue: 0,0:25:07.30,0:25:09.38,Default,,0,0,0,,{\be1}Może mi się udać!
+Dialogue: 0,0:25:09.38,0:25:12.78,Default,,0,0,0,,{\be1}Razem możemy to zrobić!
+Dialogue: 0,0:25:20.10,0:25:21.93,Default,,0,0,0,,{\be1}Co to za miejsce?
+Dialogue: 0,0:25:22.26,0:25:27.05,Default,,0,0,0,,{\be1}Znalazłam drzwi do raju!
+Dialogue: 0,0:25:27.05,0:25:30.43,Default,,0,0,0,,{\be1}Co? Wiedziałaś, że tu są?
+Dialogue: 0,0:25:30.70,0:25:32.49,Default,,0,0,0,,{\be1}Zostałam wybrana!
+Dialogue: 0,0:25:32.49,0:25:34.69,Default,,0,0,0,,{\be1}Oboje zostaliśmy wybrani!
+Dialogue: 0,0:25:35.03,0:25:41.69,Default,,0,0,0,,{\be1}Za drzwiami leży raj,\Na my będziemy jego pierwszymi mieszkańcami!
+Dialogue: 0,0:25:42.00,0:25:44.79,Default,,0,0,0,,{\be1}Będziemy Adamem i Ewą!
+Dialogue: 0,0:25:44.79,0:25:47.45,Default,,0,0,0,,{\be1}Zostałam wybrana na zbawcę!
+Dialogue: 0,0:25:47.88,0:25:52.96,Default,,0,0,0,,{\be1}Poprowadzę mój lud do raju!
+Dialogue: 0,0:25:54.47,0:25:59.58,Default,,0,0,0,,{\be1}Moje marzenie właśnie się spełnia!
+Dialogue: 0,0:26:06.99,0:26:09.78,Default,,0,0,0,,{\be1}To jakiś ośrodek?
+Dialogue: 0,0:26:09.78,0:26:12.38,Default,,0,0,0,,{\be1}Wygląda na niedawno opuszczony.
+Dialogue: 0,0:26:12.96,0:26:14.57,Default,,0,0,0,,{\be1}Niemożliwe...
+Dialogue: 0,0:26:14.57,0:26:16.69,Default,,0,0,0,,{\be1}Przecież zostałam wybrana.
+Dialogue: 0,0:26:17.43,0:26:19.86,Default,,0,0,0,,{\be1}Mam uwierzyć, że nie ma raju?
+Dialogue: 0,0:26:22.77,0:26:24.16,Default,,0,0,0,,{\be1}Chyba nie...
+Dialogue: 0,0:26:24.16,0:26:26.79,Default,,0,0,0,,{\be1}No tak, jest jeszcze nadzieja.
+Dialogue: 0,0:26:26.79,0:26:29.92,Default,,0,0,0,,{\be1}Nawet jeśli ja nie mogę być zbawcą...
+Dialogue: 0,0:26:32.34,0:26:33.73,Default,,0,0,0,,{\be1}Dziecko może!
+Dialogue: 0,0:26:47.92,0:26:49.63,Default,,0,0,0,,{\be1}Dziewczynka.
+Dialogue: 0,0:26:52.32,0:26:56.29,Default,,0,0,0,,{\be1}Raj i zbawca nie istnieją.
+Dialogue: 0,0:26:59.06,0:27:03.90,Default,,0,0,0,,{\be1}Nie mogłam zostać zbawcą, ani go urodzić.
+Dialogue: 0,0:27:03.90,0:27:07.21,Default,,0,0,0,,{\be1}Po co to wszystko?
+Dialogue: 0,0:27:07.21,0:27:10.25,Default,,0,0,0,,{\be1}To już koniec, jesteś wolna.
+Dialogue: 0,0:27:10.25,0:27:15.28,Default,,0,0,0,,{\be1}Będziesz mogła wieść normalne życie.
+Dialogue: 0,0:27:52.75,0:27:56.63,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:28:00.53,0:28:05.28,Default,,0,0,0,,{\be1}Pieprz mnie mocniej!
+Dialogue: 0,0:28:09.24,0:28:14.44,Default,,0,0,0,,{\be1}Keisuke, jeśli tym razem urodzę chłopca...
+Dialogue: 0,0:28:14.44,0:28:17.46,Default,,0,0,0,,{\be1}To na pewno będzie dziewczynka.
+Dialogue: 0,0:28:23.64,0:28:29.44,Default,,0,0,0,,{\be1}Cudownie! Zaraz dojdę!
+Dialogue: 0,0:28:33.25,0:28:35.83,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:28:40.67,0:28:45.80,Default,,0,0,0,,{\be1}Doszłam i mam w sobie dużo spermy!
+Dialogue: 0,0:28:48.85,0:28:51.04,Default,,0,0,0,,{\be1}Wiesz...
+Dialogue: 0,0:28:52.59,0:28:54.57,Default,,0,0,0,,{\be1}Jestem teraz szczęśliwa.

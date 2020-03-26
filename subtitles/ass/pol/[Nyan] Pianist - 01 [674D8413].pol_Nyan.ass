@@ -1,0 +1,178 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build414  Oct  4 2015  21:10:24
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&HFF000000,&H02000000,-1,-1,0,0,100,100,0,0,1,0.1,1.5,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:38.49,0:01:43.96,Grupa,,0,0,0,,{\be1\fad(442,523)}Nyan
+Dialogue: 0,0:01:06.00,0:01:07.40,Default,,0,0,0,,{\be1}Seiji!
+Dialogue: 0,0:01:09.00,0:01:10.55,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:03:48.02,0:03:50.65,Default,,0,0,0,,{\be1}Dzięki, kolacja była pyszna.
+Dialogue: 0,0:03:58.57,0:04:03.52,Default (i),,0,0,0,,{\be1}Kolejny nudny dzień spędzę na leniuchowaniu.
+Dialogue: 0,0:04:26.45,0:04:29.83,Default (i),,0,0,0,,{\be1}Na mieście jak zawsze spokojnie i ruchliwo.
+Dialogue: 0,0:04:29.83,0:04:34.17,Default (i),,0,0,0,,{\be1}Ale 2/3 z nich to androidy.
+Dialogue: 0,0:04:34.88,0:04:39.85,Default (i),,0,0,0,,{\be1}Z nadejście nowego milenium liczba\Nplemników w spermie drastycznie zmalała.
+Dialogue: 0,0:04:41.02,0:04:45.25,Default (i),,0,0,0,,{\be1}Być może tak natura\Nchce kontrolować ludzkość.
+Dialogue: 0,0:04:45.93,0:04:52.15,Default (i),,0,0,0,,{\be1}W większych państwach spadek\Nliczby narodzin mocniej odczuto.
+Dialogue: 0,0:04:53.68,0:04:58.72,Default (i),,0,0,0,,{\be1}Świat pogrążył się w chaosie,\Na mniejsze państwa przestały istnieć.
+Dialogue: 0,0:04:59.54,0:05:05.54,Default (i),,0,0,0,,{\be1}Po cichu i spokojnie ludzkość wymierała.
+Dialogue: 0,0:05:21.16,0:05:30.58,Default (i),,0,0,0,,{\be1}Przez znaczny brak rąk do pracy szybko\Nstworzono pierwsze roboty do pracy.
+Dialogue: 0,0:05:36.08,0:05:40.82,Default (i),,0,0,0,,{\be1}Moi rodzice byli pianistami,\Nwięc poszedłem w ich ślady.
+Dialogue: 0,0:05:41.45,0:05:44.78,Default (i),,0,0,0,,{\be1}Ale 3 lata temu miałem wypadek\Ni uszkodziłem sobie prawą rękę.
+Dialogue: 0,0:05:49.12,0:05:54.04,Default (i),,0,0,0,,{\be1}Od tamtej pory nie grałem\Njuż żadnych koncertów.
+Dialogue: 0,0:06:00.67,0:06:04.43,Default (i),,0,0,0,,{\be1}W szpitalu pomogła mi pielęgniarka.
+Dialogue: 0,0:06:05.71,0:06:09.21,Default (i),,0,0,0,,{\be1}Była androidem, model DX-V999.
+Dialogue: 0,0:06:09.21,0:06:13.31,Default (i),,0,0,0,,{\be1}Po wyjściu kupiłem takiego samego.
+Dialogue: 0,0:06:15.32,0:06:17.94,Default (i),,0,0,0,,{\be1}Nazywa się Yuna.
+Dialogue: 0,0:06:22.41,0:06:26.99,Default,,0,0,0,,{\be1}Nadal cię boli? Nie przemęczaj się.
+Dialogue: 0,0:06:26.99,0:06:29.08,Default,,0,0,0,,{\be1}Masz rację.
+Dialogue: 0,0:06:29.66,0:06:31.73,Default,,0,0,0,,{\be1}Mam nadzieję, że szybko wyzdrowiejesz.
+Dialogue: 0,0:06:31.73,0:06:35.27,Default,,0,0,0,,{\be1}Zawsze wyglądasz na\Nzadowolonego, gdy grasz na pianinie.
+Dialogue: 0,0:06:35.27,0:06:38.09,Default,,0,0,0,,{\be1}Bo tylko to potrafię.
+Dialogue: 0,0:06:38.09,0:06:40.91,Default,,0,0,0,,{\be1}Może chcesz spróbować?
+Dialogue: 0,0:06:40.91,0:06:45.07,Default,,0,0,0,,{\be1}Nie mam odpowiedniego oprogramowania.
+Dialogue: 0,0:06:45.07,0:06:46.78,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:06:46.78,0:06:50.98,Default,,0,0,0,,{\be1}To może ściągnij filmy z moich występów?
+Dialogue: 0,0:06:50.98,0:06:52.82,Default,,0,0,0,,{\be1}Mam też sekwenser.
+Dialogue: 0,0:06:58.19,0:07:00.59,Default,,0,0,0,,{\be1}Yuna, podejdź.
+Dialogue: 0,0:07:00.59,0:07:01.48,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:07:08.24,0:07:09.48,Default,,0,0,0,,{\be1}Powinno wystarczyć.
+Dialogue: 0,0:07:11.50,0:07:13.87,Default,,0,0,0,,{\be1}Usiądź przy pianinie.
+Dialogue: 0,0:07:13.87,0:07:15.08,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:07:27.02,0:07:32.02,Default,,0,0,0,,{\be1}Niesamowite!\NIdealnie, bez żadnej pomyłki!
+Dialogue: 0,0:07:32.63,0:07:34.98,Default,,0,0,0,,{\be1}Naprawdę? Cieszę się.
+Dialogue: 0,0:07:34.98,0:07:38.03,Default,,0,0,0,,{\be1}Już wiem, nauczę cię grać na pianinie.
+Dialogue: 0,0:07:38.03,0:07:40.97,Default,,0,0,0,,{\be1}Będziesz grać jak zawodowcy.
+Dialogue: 0,0:07:40.97,0:07:44.80,Default,,0,0,0,,{\be1}Dla ciebie zrobię wszystko.
+Dialogue: 0,0:07:44.80,0:07:47.41,Default,,0,0,0,,{\be1}Jesteś urocza.
+Dialogue: 0,0:08:25.53,0:08:27.07,Default,,0,0,0,,{\be1}Seiji!
+Dialogue: 0,0:08:28.74,0:08:30.88,Default,,0,0,0,,{\be1}Tym razem zacznę od tyłu.
+Dialogue: 0,0:08:50.29,0:08:55.56,Default,,0,0,0,,{\be1}Nie powstrzymuj się, jęcz ile tylko chcesz.
+Dialogue: 0,0:08:59.74,0:09:01.20,Default,,0,0,0,,{\be1}Seiji!
+Dialogue: 0,0:09:12.72,0:09:17.37,Default,,0,0,0,,{\be1}- Cudownie!\N- Mnie też!
+Dialogue: 0,0:09:18.96,0:09:22.33,Default,,0,0,0,,{\be1}Ja...
+Dialogue: 0,0:09:57.66,0:09:59.36,Default,,0,0,0,,{\be1}Jak było?
+Dialogue: 0,0:09:59.36,0:10:02.00,Default,,0,0,0,,{\be1}W muzyce potrzeba więcej uczuć.
+Dialogue: 0,0:10:05.73,0:10:09.15,Default,,0,0,0,,{\be1}Dobra, zabiorę cię na koncert.
+Dialogue: 0,0:10:09.15,0:10:12.88,Default,,0,0,0,,{\be1}Ja nie mogę dobrze zagrać,\Nwięc zobaczysz gdzie indziej o co chodzi.
+Dialogue: 0,0:10:13.70,0:10:14.84,Default,,0,0,0,,{\be1}Prawdziwy koncert?
+Dialogue: 0,0:10:15.26,0:10:17.88,Default,,0,0,0,,{\be1}Nigdy nie byłam na żadnym.
+Dialogue: 0,0:10:17.88,0:10:21.81,Default,,0,0,0,,{\be1}Więc przygotuj się, zarezerwuję nam bilety.
+Dialogue: 0,0:10:22.45,0:10:23.85,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:11:10.63,0:11:12.07,Default,,0,0,0,,{\be1}I co myślisz?
+Dialogue: 0,0:11:12.60,0:11:15.87,Default,,0,0,0,,{\be1}To było bardzo pouczające.
+Dialogue: 0,0:11:15.87,0:11:18.03,Default,,0,0,0,,{\be1}Dobrze, liczę na ciebie.
+Dialogue: 0,0:11:24.91,0:11:27.58,Default,,0,0,0,,{\be1}Takeo, może lepiej chodźmy do domu?
+Dialogue: 0,0:11:27.95,0:11:31.64,Default,,0,0,0,,{\be1}Jak śmiesz mi mówić,\Nco mam robić, złomie?!
+Dialogue: 0,0:11:32.72,0:11:35.46,Default,,0,0,0,,{\be1}Zamknij jadaczkę i chodź za mną!
+Dialogue: 0,0:11:41.55,0:11:47.44,Default,,0,0,0,,{\be1}Spróbuj jeszcze raz się tak do mnie\Nodezwać, to pozbędę się ciebie.
+Dialogue: 0,0:11:47.44,0:11:51.94,Default,,0,0,0,,{\be1}Rozumiem. Przepraszam, panie. Więcej nie...
+Dialogue: 0,0:11:51.94,0:11:55.86,Default,,0,0,0,,{\be1}Zamknij się i chodź,\Nchcę się jeszcze napić.
+Dialogue: 0,0:11:59.38,0:12:00.83,Default,,0,0,0,,{\be1}Boję się.
+Dialogue: 0,0:12:01.28,0:12:05.14,Default,,0,0,0,,{\be1}Tacy jak on to śmiecie.
+Dialogue: 0,0:12:08.16,0:12:13.80,Default (i),,0,0,0,,{\be1}Seiji dba o mnie\Njak o prawdziwego człowieka.
+Dialogue: 0,0:12:21.14,0:12:22.43,Default,,0,0,0,,{\be1}Co ci?
+Dialogue: 0,0:12:23.04,0:12:25.68,Default,,0,0,0,,{\be1}Jeszcze się boisz?
+Dialogue: 0,0:12:25.68,0:12:30.15,Default,,0,0,0,,{\be1}Nie, bo jesteś dla mnie dobry.
+Dialogue: 0,0:12:30.98,0:12:32.15,Default,,0,0,0,,{\be1}A tobie co?
+Dialogue: 0,0:12:32.84,0:12:34.28,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:12:34.28,0:12:38.99,Default,,0,0,0,,{\be1}Dla mnie jesteś jak człowiek.
+Dialogue: 0,0:12:50.40,0:12:51.73,Default,,0,0,0,,{\be1}Seiji!
+Dialogue: 0,0:13:07.95,0:13:09.75,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:13:23.10,0:13:24.70,Default,,0,0,0,,{\be1}Seiji!
+Dialogue: 0,0:13:38.57,0:13:41.03,Default,,0,0,0,,{\be1}O tak!
+Dialogue: 0,0:15:03.80,0:15:06.97,Default,,0,0,0,,{\be1}Bardzo się poprawiłaś.
+Dialogue: 0,0:15:06.97,0:15:08.81,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:15:09.37,0:15:13.85,Default,,0,0,0,,{\be1}Jesteś na tyle dobra,\Nże pora zaaranżować ci występ.
+Dialogue: 0,0:15:22.78,0:15:26.45,Default,,0,0,0,,{\be1}Przygotuj się, pójdziemy tam.
+Dialogue: 0,0:15:26.45,0:15:27.49,Default,,0,0,0,,{\be1}Dobrze, ale...
+Dialogue: 0,0:15:27.84,0:15:30.45,Default,,0,0,0,,{\be1}- Pośpiesz się.\N- Dobrze.
+Dialogue: 0,0:15:51.80,0:15:53.31,Default,,0,0,0,,{\be1}Kurosaki!
+Dialogue: 0,0:15:54.68,0:15:56.35,Default,,0,0,0,,{\be1}Dawno się nie widzieliśmy.
+Dialogue: 0,0:15:56.35,0:15:59.02,Default,,0,0,0,,{\be1}Możesz przygotować sesję nagraniową?
+Dialogue: 0,0:15:59.46,0:16:01.69,Default,,0,0,0,,{\be1}Wyleczyłeś już rękę?
+Dialogue: 0,0:16:01.69,0:16:05.16,Default,,0,0,0,,{\be1}Nie dla mnie, dla niej.
+Dialogue: 0,0:16:05.16,0:16:07.49,Default,,0,0,0,,{\be1}Twoja uczennica?
+Dialogue: 0,0:16:07.49,0:16:10.59,Default,,0,0,0,,{\be1}Tak, gwarantuje jej talentu.
+Dialogue: 0,0:16:10.59,0:16:12.99,Default,,0,0,0,,{\be1}Przygotuj sesję nagraniową.
+Dialogue: 0,0:16:18.84,0:16:22.84,Default,,0,0,0,,{\be1}Zaraz, czy to nie android?
+Dialogue: 0,0:16:23.87,0:16:26.98,Default,,0,0,0,,{\be1}A co to ma do rzeczy?
+Dialogue: 0,0:16:26.98,0:16:30.30,Default,,0,0,0,,{\be1}Jeszcze nigdy nie grał android.
+Dialogue: 0,0:16:30.75,0:16:37.10,Default,,0,0,0,,{\be1}Jestem pewien, że jest równie dobra co ja.
+Dialogue: 0,0:16:37.79,0:16:39.16,Default,,0,0,0,,{\be1}Nawet jeśli...
+Dialogue: 0,0:16:39.16,0:16:44.03,Default,,0,0,0,,{\be1}Chcę, żeby miała wielki start,\Nod razu zaczniemy od wariacji Goldbergowskich.
+Dialogue: 0,0:16:44.03,0:16:45.57,Default,,0,0,0,,{\be1}Czekaj.
+Dialogue: 0,0:16:46.24,0:16:51.20,Default,,0,0,0,,{\be1}Nieważne jak dobra jest, niczym nie będzie\Nróżnić się od automatycznego pianina.
+Dialogue: 0,0:16:51.20,0:16:52.61,Default,,0,0,0,,{\be1}Coś powiedział?!
+Dialogue: 0,0:16:52.61,0:16:55.48,Default,,0,0,0,,{\be1}Publika jej nie zdzierży.
+Dialogue: 0,0:16:55.48,0:16:58.57,Default,,0,0,0,,{\be1}Seiji, wystarczy.
+Dialogue: 0,0:16:59.75,0:17:04.13,Default,,0,0,0,,{\be1}Idziemy, Yuna.\NTo nie jedyna wytwórnia w mieście.
+Dialogue: 0,0:17:13.09,0:17:18.47,Default,,0,0,0,,{\be1}Posłuchaj jej chociaż raz to zrozumiesz.
+Dialogue: 0,0:17:18.47,0:17:22.10,Default,,0,0,0,,{\be1}Panie Kurosaki, muszę dbać o reputację.
+Dialogue: 0,0:17:22.10,0:17:26.87,Default,,0,0,0,,{\be1}Nie nagram występu androida.
+Dialogue: 0,0:17:28.88,0:17:31.78,Default,,0,0,0,,{\be1}A co za różnica kto gra?!
+Dialogue: 0,0:17:31.78,0:17:35.53,Default,,0,0,0,,{\be1}Gdyby nie androidy byłoby po nas!
+Dialogue: 0,0:17:36.01,0:17:39.00,Default,,0,0,0,,{\be1}Seiji, wystarczy. Chodźmy do domu.
+Dialogue: 0,0:17:39.53,0:17:43.99,Default,,0,0,0,,{\be1}Nie poddam się, załatwię ci nagranie.
+Dialogue: 0,0:17:44.73,0:17:45.96,Default,,0,0,0,,{\be1}Yuna?
+Dialogue: 0,0:17:45.96,0:17:50.55,Default,,0,0,0,,{\be1}Dziwny ma pan gust.\NŻeby tak z androidem?
+Dialogue: 0,0:17:51.60,0:17:52.77,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:17:54.41,0:17:55.65,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:17:58.65,0:18:00.85,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:18:02.08,0:18:04.31,Default,,0,0,0,,{\be1}Yuna, gdzie jesteś?!
+Dialogue: 0,0:18:06.37,0:18:07.27,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:18:08.38,0:18:10.02,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:18:10.74,0:18:13.25,Default,,0,0,0,,{\be1}Yuna, gdzie jesteś?!
+Dialogue: 0,0:18:15.55,0:18:16.56,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:18:25.91,0:18:28.63,Default,,0,0,0,,{\be1}Yuna, dlaczego?
+Dialogue: 0,0:18:32.96,0:18:39.10,Default,,0,0,0,,{\be1}Firma ubezpieczeniowa?\NZaginął mój android, poszukajcie go.
+Dialogue: 0,0:18:39.10,0:18:42.72,Default,,0,0,0,,{\be1}Tak, model DX-V999.
+Dialogue: 0,0:18:42.72,0:18:48.06,Default,,0,0,0,,{\be1}Nie chcę wymiany!\NChcę mojego androida!
+Dialogue: 0,0:18:49.49,0:18:52.53,Default,,0,0,0,,{\be1}Yuna, dokąd poszłaś?
+Dialogue: 0,0:19:00.89,0:19:01.87,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:19:04.73,0:19:06.48,Default,,0,0,0,,{\be1}Yuna!
+Dialogue: 0,0:19:08.34,0:19:10.00,Default,,0,0,0,,{\be1}Gdzie jesteś?
+Dialogue: 0,0:19:16.32,0:19:18.75,Default (i),,0,0,0,,{\be1}Co źle zrobiłem?
+Dialogue: 0,0:19:18.75,0:19:23.89,Default (i),,0,0,0,,{\be1}Przecież traktowałem ją nawet lepiej niż ludzi.
+Dialogue: 0,0:19:56.63,0:19:59.48,Default,,0,0,0,,{\be1}Poproszę najmocniejszego drinka.
+Dialogue: 0,0:20:05.90,0:20:07.73,Default,,0,0,0,,{\be1}Jeszcze jeden.
+Dialogue: 0,0:20:13.58,0:20:16.61,Default,,0,0,0,,{\be1}Ruszaj dupą jak należy.
+Dialogue: 0,0:20:22.72,0:20:26.78,Default,,0,0,0,,{\be1}Jesteś gówniana, kiedy w końcu się nauczysz?
+Dialogue: 0,0:20:35.15,0:20:37.82,Default,,0,0,0,,{\be1}Właśnie tak.
+Dialogue: 0,0:20:38.53,0:20:41.34,Default,,0,0,0,,{\be1}A jednak potrafisz, jak się postarasz.
+Dialogue: 0,0:21:06.05,0:21:08.16,Default,,0,0,0,,{\be1}Zamknij się!
+Dialogue: 0,0:21:19.71,0:21:20.55,Default,,0,0,0,,{\be1}Yuna.
+Dialogue: 0,0:21:49.31,0:21:50.83,Default,,0,0,0,,{\be1}Poznaję tę grę.
+Dialogue: 0,0:22:12.56,0:22:14.56,Default,,0,0,0,,{\be1}Seiji.
+Dialogue: 0,0:22:25.40,0:22:27.91,Default,,0,0,0,,{\be1}Wyczyściłam pianino.
+Dialogue: 0,0:22:30.35,0:22:31.87,Default,,0,0,0,,{\be1}Yuna.
+Dialogue: 0,0:22:36.32,0:22:38.42,Default,,0,0,0,,{\be1}- Yuna.\N- Seiji.
+Dialogue: 0,0:22:39.56,0:22:44.66,Default,,0,0,0,,{\be1}Przepraszam, że uciekłam,\Nale tylko tu potrafię być sobą.
+Dialogue: 0,0:22:44.66,0:22:47.55,Default,,0,0,0,,{\be1}- Czy mogę wrócić do ciebie?\N- Oczywiście.
+Dialogue: 0,0:22:47.96,0:22:52.54,Default,,0,0,0,,{\be1}Nie przejmuj się moim występem,\Nnic na to nie poradzimy.
+Dialogue: 0,0:22:52.54,0:22:56.06,Default,,0,0,0,,{\be1}Wystarczy mi, że mogę grać.
+Dialogue: 0,0:22:56.06,0:22:57.84,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:22:57.84,0:23:01.99,Default,,0,0,0,,{\be1}Byłeś szczęśliwy, gdy uczyłeś mnie grać.
+Dialogue: 0,0:23:04.95,0:23:08.53,Default,,0,0,0,,{\be1}Ale nie możesz spełniać swoich marzeń mną.
+Dialogue: 0,0:23:09.86,0:23:17.92,Default,,0,0,0,,{\be1}Mam nadzieję, że szybko wyzdrowiejesz\Ni znowu zaczniesz dawać koncerty.
+Dialogue: 0,0:23:18.76,0:23:19.84,Default,,0,0,0,,{\be1}Yuna.
+Dialogue: 0,0:23:19.84,0:23:21.35,Default,,0,0,0,,{\be1}Seiji.

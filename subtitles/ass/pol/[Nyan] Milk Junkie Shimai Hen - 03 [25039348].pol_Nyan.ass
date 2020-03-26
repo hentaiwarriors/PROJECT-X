@@ -1,0 +1,245 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.5.7 r112
+Active Line: 0
+Audio File: VTS_01_1 T01 48K 16bit 2ch.wav
+Collisions: Normal
+Last Style Storage: Default [1280x720]
+PlayResX: 640
+PlayResY: 480
+ScriptType: v4.00+
+Timer: 100.0000
+Video Aspect Ratio: 0
+Video File: VTS_01_1.avs
+Video Position: 43634
+Video Zoom: 6
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,14,&H00E774B2,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:03:06.21,0:03:13.59,Grupa,,0,0,0,,{\be1\fad(435,897)}Nyan
+Dialogue: 0,0:00:38.85,0:00:40.02,Default,,0,0,0,,{\be1}Halo!
+Dialogue: 0,0:00:43.35,0:00:44.79,Default,,0,0,0,,{\be1}Idziemy.
+Dialogue: 0,0:00:53.36,0:00:55.99,Default,,0,0,0,,{\be1}Kochanie, my też już chodźmy.
+Dialogue: 0,0:00:56.97,0:00:58.50,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:00:59.47,0:01:02.06,Default,,0,0,0,,{\be1}Odsuń się trochę dalej.
+Dialogue: 0,0:01:02.06,0:01:03.20,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:01:06.25,0:01:10.01,Default,,0,0,0,,{\be1}- Tyle wystarczy?\N- Daj zobaczyć.
+Dialogue: 0,0:01:19.10,0:01:24.30,Default,,0,0,0,,{\be1}Wataru naprawdę stracił pamięć?
+Dialogue: 0,0:01:25.92,0:01:32.78,Default,,0,0,0,,{\be1}Tak powiedział jego ojciec,\Nale jakoś tego nie widać.
+Dialogue: 0,0:01:32.78,0:01:35.53,Default,,0,0,0,,{\be1}Nic się nie zmienił.
+Dialogue: 0,0:01:42.25,0:01:45.79,Default,,0,0,0,,{\be1}Jak dla mnie to jest\Nteraz bardziej energiczny.
+Dialogue: 0,0:01:48.38,0:01:49.71,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:01:50.69,0:01:52.91,Default,,0,0,0,,{\be1}Nie ma cycków!
+Dialogue: 0,0:01:52.91,0:01:54.81,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:01:54.81,0:01:55.55,Default,,0,0,0,,{\be1}Zobacz.
+Dialogue: 0,0:02:00.66,0:02:02.56,Default,,0,0,0,,{\be1}Miseczka A?!
+Dialogue: 0,0:02:02.56,0:02:06.32,Default,,0,0,0,,{\be1}Myślałam, że Wataru woli duże.
+Dialogue: 0,0:02:10.74,0:02:15.20,Default,,0,0,0,,{\be1}- To oznacza amnezję.\N- To oznacza amnezję.
+Dialogue: 0,0:02:16.60,0:02:18.53,Default,,0,0,0,,{\be1}Wataru?
+Dialogue: 0,0:02:18.90,0:02:22.54,Default,,0,0,0,,{\be1}Musimy użyć naszych piersi...
+Dialogue: 0,0:02:23.34,0:02:26.54,Default,,0,0,0,,{\be1}Do przywrócenia mu pamięci!
+Dialogue: 0,0:02:33.88,0:02:37.26,Default,,0,0,0,,{\be1}Jutro zastanowimy się co dalej.
+Dialogue: 0,0:02:37.26,0:02:41.02,Default,,0,0,0,,{\be1}A teraz bawmy się w Kalifornii.
+Dialogue: 0,0:03:56.40,0:03:59.60,Default,,0,0,0,,{\be1}Rena, powiedz Wataru,\Nżeby wydoił krowy.
+Dialogue: 0,0:03:59.60,0:04:01.52,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:04:05.61,0:04:08.41,Default,,0,0,0,,{\be1}Wataru, czas dojenia.
+Dialogue: 0,0:04:08.41,0:04:09.52,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:04:18.42,0:04:21.02,Default,,0,0,0,,{\be1}Zacznijmy od tej.
+Dialogue: 0,0:04:26.67,0:04:28.54,Default,,0,0,0,,{\be1}Przepraszam za tamto.
+Dialogue: 0,0:04:29.17,0:04:31.41,Default,,0,0,0,,{\be1}Nie chciałam cię przestraszyć.
+Dialogue: 0,0:04:32.40,0:04:35.30,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:04:35.30,0:04:36.57,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:04:43.88,0:04:46.77,Default,,0,0,0,,{\be1}Wezmę za to odpowiedzialność!
+Dialogue: 0,0:04:47.52,0:04:52.77,Default,,0,0,0,,{\be1}Jeśli tu zostanie to może mu wrócić pamięć!
+Dialogue: 0,0:04:53.33,0:04:56.34,Default,,0,0,0,,{\be1}Proszę, chcę mu pomóc!
+Dialogue: 0,0:05:07.04,0:05:11.71,Default,,0,0,0,,{\be1}Nie tak, za mocno ściskasz.
+Dialogue: 0,0:05:15.37,0:05:19.03,Default,,0,0,0,,{\be1}Ściskaj delikatnie.
+Dialogue: 0,0:05:21.61,0:05:23.50,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:05:28.24,0:05:31.23,Default,,0,0,0,,{\be1}Dobrze, właśnie tak.
+Dialogue: 0,0:05:33.24,0:05:35.20,Default,,0,0,0,,{\be1}Świetnie ci idzie.
+Dialogue: 0,0:05:35.91,0:05:39.22,Default,,0,0,0,,{\be1}Pewnie robiłeś tak kilku dziewczynom.
+Dialogue: 0,0:05:43.74,0:05:45.53,Default,,0,0,0,,{\be1}Żartowałam.
+Dialogue: 0,0:05:52.30,0:05:57.38,Default,,0,0,0,,{\be1}Dobra, ty skończ doić, a ja nakarmię Eda.
+Dialogue: 0,0:05:59.49,0:06:02.50,Default (i),,0,0,0,,{\be1}Wyjątkowa dziewczyna.
+Dialogue: 0,0:06:09.73,0:06:12.43,Default,,0,0,0,,{\be1}Muszę szybko skończyć.
+Dialogue: 0,0:06:16.02,0:06:17.02,Default,,0,0,0,,{\be1}Sutki?
+Dialogue: 0,0:06:21.53,0:06:24.06,Default,,0,0,0,,{\be1}Wydój mnie.
+Dialogue: 0,0:06:26.58,0:06:28.24,Default,,0,0,0,,{\be1}Tylko mocno.
+Dialogue: 0,0:06:29.62,0:06:31.05,Default,,0,0,0,,{\be1}No właśnie.
+Dialogue: 0,0:06:34.03,0:06:37.54,Default,,0,0,0,,{\be1}Rób co mówi.
+Dialogue: 0,0:06:39.25,0:06:42.30,Default,,0,0,0,,{\be1}To jak?
+Dialogue: 0,0:06:45.55,0:06:48.17,Default,,0,0,0,,{\be1}Wataru, wydój nas.
+Dialogue: 0,0:06:48.17,0:06:51.08,Default,,0,0,0,,{\be1}Szybciej.
+Dialogue: 0,0:06:51.08,0:07:06.43,Default,,0,0,0,,{\be1}- Wataru.\N- Wataru.
+Dialogue: 0,0:07:07.10,0:07:08.63,Default (i),,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:07:24.81,0:07:28.15,Default,,0,0,0,,{\be1}Właśnie tak.
+Dialogue: 0,0:07:28.15,0:07:31.81,Default,,0,0,0,,{\be1}Dobrze ci idzie.
+Dialogue: 0,0:07:31.81,0:07:33.56,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:07:39.82,0:07:43.15,Default,,0,0,0,,{\be1}Co robicie Wataru?!
+Dialogue: 0,0:07:48.70,0:07:53.04,Default,,0,0,0,,{\be1}Kim jesteście?
+Dialogue: 0,0:07:53.54,0:07:57.04,Default,,0,0,0,,{\be1}Co was z nim łączy?
+Dialogue: 0,0:07:58.91,0:08:02.55,Default,,0,0,0,,{\be1}Japonki z takimi piersiami?!
+Dialogue: 0,0:08:06.48,0:08:09.59,Default,,0,0,0,,{\be1}Wy jesteście tymi przyjaciółkami Wataru?
+Dialogue: 0,0:08:13.32,0:08:15.20,Default,,0,0,0,,{\be1}One są...
+Dialogue: 0,0:08:25.54,0:08:31.32,Default,,0,0,0,,{\be1}Gdybym nie popchnęła Wataru,\Nto nigdy by do tego nie doszło.
+Dialogue: 0,0:08:35.98,0:08:39.22,Default,,0,0,0,,{\be1}Więc to tak było.
+Dialogue: 0,0:08:39.22,0:08:43.59,Default,,0,0,0,,{\be1}Pozwolisz nam się zająć Wataru?
+Dialogue: 0,0:08:45.78,0:08:48.55,Default,,0,0,0,,{\be1}Mogłabyś wyjść?
+Dialogue: 0,0:08:49.95,0:08:52.88,Default,,0,0,0,,{\be1}Czas zostawić dorosłych samych.
+Dialogue: 0,0:08:55.27,0:09:00.01,Default,,0,0,0,,{\be1}Dziecko może nie wytrzymać tych widoków.
+Dialogue: 0,0:09:03.69,0:09:05.11,Default,,0,0,0,,{\be1}Narka.
+Dialogue: 0,0:09:05.11,0:09:06.66,Default,,0,0,0,,{\be1}Czekajcie!
+Dialogue: 0,0:09:07.33,0:09:09.02,Default,,0,0,0,,{\be1}Nie przeszkadzaj nam.
+Dialogue: 0,0:09:10.45,0:09:11.89,Default (i),,0,0,0,,{\be1}Rena.
+Dialogue: 0,0:09:12.58,0:09:14.55,Default,,0,0,0,,{\be1}Wataru...
+Dialogue: 0,0:09:14.55,0:09:16.60,Default,,0,0,0,,{\be1}Pora zacząć leczenie.
+Dialogue: 0,0:09:17.16,0:09:18.46,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:09:19.42,0:09:24.00,Default,,0,0,0,,{\be1}Leczenie albo inaczej kurację.
+Dialogue: 0,0:09:24.00,0:09:29.98,Default,,0,0,0,,{\be1}Użyjemy naszej specjalności, terapii seksem.
+Dialogue: 0,0:09:33.30,0:09:36.15,Default,,0,0,0,,{\be1}Pamiętasz to zdjęcie?
+Dialogue: 0,0:09:37.26,0:09:39.44,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:09:39.44,0:09:42.60,Default,,0,0,0,,{\be1}To były czasy.
+Dialogue: 0,0:09:44.44,0:09:49.82,Default,,0,0,0,,{\be1}Chcemy znowu je przeżyć, tak samo jak\Nchcemy, żebyś i ty znowu je przeżył.
+Dialogue: 0,0:09:49.82,0:09:51.98,Default,,0,0,0,,{\be1}Rozumiesz?
+Dialogue: 0,0:09:53.53,0:09:54.76,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:09:54.76,0:09:56.76,Default,,0,0,0,,{\be1}Wiesz co robić.
+Dialogue: 0,0:09:56.76,0:09:58.78,Default,,0,0,0,,{\be1}Wróćmy tam gdzie nam przerwano.
+Dialogue: 0,0:10:01.46,0:10:02.99,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:10:04.04,0:10:06.79,Default,,0,0,0,,{\be1}Już ci stoi.
+Dialogue: 0,0:10:12.44,0:10:14.13,Default,,0,0,0,,{\be1}Zaczynam.
+Dialogue: 0,0:10:14.98,0:10:17.12,Default,,0,0,0,,{\be1}Ja też.
+Dialogue: 0,0:10:22.12,0:10:25.76,Default,,0,0,0,,{\be1}Pamiętasz jak bardzo to lubiłeś?
+Dialogue: 0,0:10:26.52,0:10:29.09,Default,,0,0,0,,{\be1}Jaki twardy.
+Dialogue: 0,0:10:39.07,0:10:42.72,Default,,0,0,0,,{\be1}Przypominasz coś sobie?
+Dialogue: 0,0:10:42.72,0:10:45.73,Default,,0,0,0,,{\be1}Może potrzebuje większej stymulacji?
+Dialogue: 0,0:10:48.31,0:10:50.32,Default,,0,0,0,,{\be1}Próbujemy tego?
+Dialogue: 0,0:10:50.32,0:10:51.87,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:10:58.37,0:11:00.28,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:11:06.26,0:11:08.74,Default,,0,0,0,,{\be1}To też nie pomaga?
+Dialogue: 0,0:11:10.17,0:11:13.46,Default,,0,0,0,,{\be1}Robię się mokra.
+Dialogue: 0,0:11:21.86,0:11:26.62,Default,,0,0,0,,{\be1}Musimy rozpocząć ostatni etap leczenia.
+Dialogue: 0,0:11:26.62,0:11:28.22,Default,,0,0,0,,{\be1}Dokładnie.
+Dialogue: 0,0:11:29.69,0:11:33.06,Default,,0,0,0,,{\be1}Tomoka, ty pierwsza.
+Dialogue: 0,0:11:33.06,0:11:36.03,Default,,0,0,0,,{\be1}Tak jest, pani seksuolog.
+Dialogue: 0,0:11:37.03,0:11:40.27,Default,,0,0,0,,{\be1}Nie wygłupiaj się.
+Dialogue: 0,0:11:40.27,0:11:41.05,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:11:42.72,0:11:44.53,Default,,0,0,0,,{\be1}Jest taki twardy.
+Dialogue: 0,0:12:01.62,0:12:05.41,Default,,0,0,0,,{\be1}Cudownie!\NTu się nic nie zmienił!
+Dialogue: 0,0:12:08.89,0:12:10.70,Default,,0,0,0,,{\be1}Wataru...
+Dialogue: 0,0:12:11.59,0:12:14.40,Default,,0,0,0,,{\be1}Possij je.
+Dialogue: 0,0:12:21.35,0:12:27.85,Default,,0,0,0,,{\be1}Jesteś cudowny! Jeszcze!
+Dialogue: 0,0:12:27.85,0:12:32.56,Default,,0,0,0,,{\be1}O tak! Właśnie tam!
+Dialogue: 0,0:12:33.33,0:12:37.07,Default,,0,0,0,,{\be1}Wchodzi bardzo głęboko!
+Dialogue: 0,0:12:43.86,0:12:47.58,Default,,0,0,0,,{\be1}Tak mi dobrze.
+Dialogue: 0,0:12:51.24,0:12:56.04,Default,,0,0,0,,{\be1}Cudownie! Już dochodzę!
+Dialogue: 0,0:12:57.32,0:13:01.23,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:13:26.04,0:13:29.27,Default,,0,0,0,,{\be1}Jesteś wspaniały.
+Dialogue: 0,0:13:29.27,0:13:31.58,Default,,0,0,0,,{\be1}Przypomniałeś coś sobie?
+Dialogue: 0,0:13:31.58,0:13:33.14,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:13:33.14,0:13:37.77,Default,,0,0,0,,{\be1}Teraz ja spróbuję,\Nmoże wtedy coś sobie przypomnisz.
+Dialogue: 0,0:13:55.29,0:13:55.98,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:13:57.20,0:13:58.15,Default,,0,0,0,,{\be1}Rena!
+Dialogue: 0,0:14:24.78,0:14:26.08,Default,,0,0,0,,{\be1}Ed?
+Dialogue: 0,0:14:29.20,0:14:31.39,Default,,0,0,0,,{\be1}Łaskoczesz mnie.
+Dialogue: 0,0:14:32.56,0:14:36.49,Default,,0,0,0,,{\be1}No dobra.
+Dialogue: 0,0:14:37.81,0:14:43.21,Default,,0,0,0,,{\be1}Dziękuję, że starasz się mnie pocieszyć.
+Dialogue: 0,0:14:43.21,0:14:44.36,Default,,0,0,0,,{\be1}Rena.
+Dialogue: 0,0:14:46.84,0:14:48.08,Default,,0,0,0,,{\be1}Wataru?!
+Dialogue: 0,0:14:51.82,0:14:53.28,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:14:53.28,0:14:57.46,Default,,0,0,0,,{\be1}Przepraszam, że wciągnąłem cię w to.
+Dialogue: 0,0:14:57.46,0:14:58.58,Default,,0,0,0,,{\be1}To nic takiego.
+Dialogue: 0,0:14:59.28,0:15:02.92,Default,,0,0,0,,{\be1}Jednak wolisz cycate.
+Dialogue: 0,0:15:04.74,0:15:13.68,Default,,0,0,0,,{\be1}Być może, ale przez to tobie jest smutno.
+Dialogue: 0,0:15:15.43,0:15:16.77,Default,,0,0,0,,{\be1}To nie tak.
+Dialogue: 0,0:15:18.01,0:15:19.76,Default,,0,0,0,,{\be1}To moja wina.
+Dialogue: 0,0:15:21.82,0:15:25.16,Default,,0,0,0,,{\be1}Moja i moich piersi.
+Dialogue: 0,0:15:25.16,0:15:26.35,Default,,0,0,0,,{\be1}Piersi?
+Dialogue: 0,0:15:27.33,0:15:35.60,Default,,0,0,0,,{\be1}Powiedziałam ci, że doznałeś amnezji po wpadnięciu\Nna mnie i upadku na ziemię, ale to jest kłamstwo.
+Dialogue: 0,0:15:39.24,0:15:42.97,Default,,0,0,0,,{\be1}Przepraszam, że cię okłamałam.
+Dialogue: 0,0:15:42.97,0:15:48.06,Default,,0,0,0,,{\be1}Tak naprawdę to zdjęłam cię z cyca.
+Dialogue: 0,0:15:49.75,0:15:51.23,Default,,0,0,0,,{\be1}Rena?
+Dialogue: 0,0:16:01.49,0:16:03.33,Default,,0,0,0,,{\be1}One są...
+Dialogue: 0,0:16:14.81,0:16:20.74,Default,,0,0,0,,{\be1}Bałam się, że znienawidzisz\Nmnie za to co zrobiłam.
+Dialogue: 0,0:16:21.38,0:16:28.14,Default,,0,0,0,,{\be1}Dlatego postanowiłam sprawić,\Nżeby wyglądały na mniejsze..
+Dialogue: 0,0:16:32.84,0:16:37.43,Default,,0,0,0,,{\be1}Lecz jeśli mogą pomóc\Nprzywrócić ci pamięć to chcę pomóc.
+Dialogue: 0,0:16:45.14,0:16:48.91,Default,,0,0,0,,{\be1}Wataru, zrób to.
+Dialogue: 0,0:16:50.24,0:16:51.44,Default,,0,0,0,,{\be1}Rena!
+Dialogue: 0,0:16:52.30,0:16:53.90,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:17:03.82,0:17:06.92,Default,,0,0,0,,{\be1}Uwielbiasz cycuszki, co?
+Dialogue: 0,0:17:07.73,0:17:09.78,Default,,0,0,0,,{\be1}Nie tylko je.
+Dialogue: 0,0:17:10.80,0:17:13.08,Default,,0,0,0,,{\be1}Kocham cię.
+Dialogue: 0,0:17:13.08,0:17:15.98,Default,,0,0,0,,{\be1}Ja ciebie też.
+Dialogue: 0,0:17:31.27,0:17:33.53,Default,,0,0,0,,{\be1}Wataru...
+Dialogue: 0,0:17:34.95,0:17:37.96,Default,,0,0,0,,{\be1}Na dole też.
+Dialogue: 0,0:17:39.08,0:17:40.29,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:17:50.77,0:17:56.06,Default,,0,0,0,,{\be1}Cudownie! Chyba oszaleję!
+Dialogue: 0,0:17:56.84,0:18:01.15,Default,,0,0,0,,{\be1}Masz bardzo miękkie i smaczne piersi.
+Dialogue: 0,0:18:01.15,0:18:04.95,Default,,0,0,0,,{\be1}Nie musisz być taki delikatny.
+Dialogue: 0,0:18:04.95,0:18:05.94,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:18:13.02,0:18:16.39,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:18:20.23,0:18:25.75,Default,,0,0,0,,{\be1}Rena, możesz teraz ty mi zrobić dobrze?
+Dialogue: 0,0:18:25.75,0:18:27.13,Default,,0,0,0,,{\be1}Jasne.
+Dialogue: 0,0:18:43.03,0:18:45.86,Default,,0,0,0,,{\be1}To jest przyjemne?
+Dialogue: 0,0:18:45.86,0:18:48.70,Default,,0,0,0,,{\be1}Tak i to bardzo.
+Dialogue: 0,0:18:53.38,0:18:56.35,Default,,0,0,0,,{\be1}Włóż go do buzi.
+Dialogue: 0,0:19:02.77,0:19:05.09,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:19:14.25,0:19:16.91,Default,,0,0,0,,{\be1}Włóż go między piersi.
+Dialogue: 0,0:19:21.83,0:19:23.64,Default,,0,0,0,,{\be1}Jakie miękki!
+Dialogue: 0,0:19:24.33,0:19:26.66,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:19:27.74,0:19:30.79,Default,,0,0,0,,{\be1}Tak.\NPrzyspiesz.
+Dialogue: 0,0:19:35.21,0:19:36.94,Default,,0,0,0,,{\be1}Tak jest dobrze?
+Dialogue: 0,0:19:36.94,0:19:40.20,Default,,0,0,0,,{\be1}Tak, zaraz dojdę!
+Dialogue: 0,0:19:49.15,0:19:52.29,Default,,0,0,0,,{\be1}Sorki, wybrudziłem cię.
+Dialogue: 0,0:19:53.12,0:19:56.93,Default,,0,0,0,,{\be1}To nic, nie przeszkadza mi to.
+Dialogue: 0,0:20:09.31,0:20:11.52,Default,,0,0,0,,{\be1}Chodź do mnie.
+Dialogue: 0,0:20:26.22,0:20:27.67,Default,,0,0,0,,{\be1}Rena.
+Dialogue: 0,0:20:31.31,0:20:35.13,Default,,0,0,0,,{\be1}Włóż go już!
+Dialogue: 0,0:20:35.13,0:20:36.49,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:20:40.24,0:20:42.14,Default,,0,0,0,,{\be1}Boli?
+Dialogue: 0,0:20:42.14,0:20:45.93,Default,,0,0,0,,{\be1}Nie, nie przestawaj.
+Dialogue: 0,0:20:52.13,0:20:55.15,Default,,0,0,0,,{\be1}Ale wszedł głęboko!
+Dialogue: 0,0:20:55.15,0:20:58.57,Default,,0,0,0,,{\be1}Jesteś bardzo ciasna!
+Dialogue: 0,0:21:07.28,0:21:11.00,Default,,0,0,0,,{\be1}Jesteś wspaniały!
+Dialogue: 0,0:21:16.97,0:21:18.96,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:21:20.45,0:21:25.22,Default,,0,0,0,,{\be1}Oszaleję!\NWchodzi tak głęboko!
+Dialogue: 0,0:21:25.92,0:21:28.06,Default,,0,0,0,,{\be1}Rena!
+Dialogue: 0,0:21:31.02,0:21:34.87,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:21:48.04,0:21:51.66,Default,,0,0,0,,{\be1}Nie wytrzymam,\Njeśli będziesz tak mocno ściskać!
+Dialogue: 0,0:21:52.98,0:21:56.42,Default,,0,0,0,,{\be1}Ale tak mi dobrze!
+Dialogue: 0,0:21:59.15,0:22:03.62,Default,,0,0,0,,{\be1}Już dochodzę!
+Dialogue: 0,0:22:04.36,0:22:05.96,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:22:05.96,0:22:09.58,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:22:15.53,0:22:20.48,Default,,0,0,0,,{\be1}Tak dużo się spuściłeś.
+Dialogue: 0,0:22:21.67,0:22:25.98,Default,,0,0,0,,{\be1}Ciągle drżysz we mnie.
+Dialogue: 0,0:22:26.88,0:22:28.34,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:22:33.62,0:22:35.64,Default,,0,0,0,,{\be1}Wataru.
+Dialogue: 0,0:22:40.56,0:22:43.13,Default,,0,0,0,,{\be1}- Wataru.\N- Rena.
+Dialogue: 0,0:22:45.56,0:22:48.64,Default,,0,0,0,,{\be1}Nie musisz się martwić.
+Dialogue: 0,0:22:49.37,0:22:50.93,Default,,0,0,0,,{\be1}Wataru.
+Dialogue: 0,0:22:53.04,0:22:54.15,Default,,0,0,0,,{\be1}Wataru.
+Dialogue: 0,0:22:54.15,0:22:56.14,Default,,0,0,0,,{\be1}Są takie miękkie.
+Dialogue: 0,0:22:57.87,0:23:01.51,Default,,0,0,0,,{\be1}Dotykaj mnie jeszcze.
+Dialogue: 0,0:23:04.68,0:23:08.91,Default,,0,0,0,,{\be1}Naprawdę musisz kochać cycuszki.
+Dialogue: 0,0:23:14.93,0:23:16.86,Default,,0,0,0,,{\be1}One są...
+Dialogue: 0,0:23:16.86,0:23:18.42,Default,,0,0,0,,{\be1}Jakim cudem?!
+Dialogue: 0,0:23:21.43,0:23:22.92,Default,,0,0,0,,{\be1}Rena?
+Dialogue: 0,0:23:22.92,0:23:23.84,Default,,0,0,0,,{\be1}Nie patrz!
+Dialogue: 0,0:23:25.67,0:23:27.19,Default,,0,0,0,,{\be1}Wataru?!
+Dialogue: 0,0:23:27.19,0:23:28.43,Default,,0,0,0,,{\be1}Nic ci nie jest?!
+Dialogue: 0,0:23:28.43,0:23:31.01,Default,,0,0,0,,{\be1}Chyba nie...
+Dialogue: 0,0:23:31.01,0:23:32.06,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:23:32.06,0:23:37.31,Default,,0,0,0,,{\be1}Trochę kręci mi się w głowie.
+Dialogue: 0,0:23:44.13,0:23:47.28,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:23:48.07,0:23:49.23,Default,,0,0,0,,{\be1}Chodź.
+Dialogue: 0,0:23:59.94,0:24:03.79,Default,,0,0,0,,{\be1}Już wszystko jest w porządku.
+Dialogue: 0,0:24:10.80,0:24:13.61,Default,,0,0,0,,{\be1}Czuję Fumie.
+Dialogue: 0,0:24:14.27,0:24:15.95,Default,,0,0,0,,{\be1}- Wataru!\N- Wataru?!

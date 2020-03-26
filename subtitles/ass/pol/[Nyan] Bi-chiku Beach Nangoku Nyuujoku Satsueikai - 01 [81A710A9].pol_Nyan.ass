@@ -1,0 +1,223 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 10
+Video Position: 33734
+Original Script: 
+Original Translation: 
+Collisions: Normal
+Original Editing: 
+Original Timing: 
+Last Style Storage: [848x480]
+Audio File: ?video
+Video File: ..\[subdesu-h] Bi-Chiku Beach Nangoku Nyuujoku Satsueikai 01.mp4
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,35,&H005C0100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,35,&H005677FF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 1,0:00:38.78,0:00:45.36,Grupa,,0,0,0,,{\t(0,843,\1c&H405FDF&)\t(5639,6557,\1c&HFFFFFF&\3c&HFFFFFF&)}Nyan
+Dialogue: 0,0:00:38.78,0:00:45.36,Grupa,,0,0,0,,{\bord3\3c&HFFFFFF&\t(0,843,\3c&H1F3979&)\t(5639,6557,\1c&HFFFFFF&\3c&HFFFFFF&)}Nyan
+Dialogue: 0,0:00:38.78,0:00:45.36,Tytul,,0,0,0,,{\fad(843,0)\t(5639,6557,\1c&HFFFFFF&\3c&HFFFFFF&)}Fotografuj mnie nagą...
+Dialogue: 0,0:00:15.12,0:00:21.12,Znak,,0,0,0,,{\be1\fad(521,0)\pos(660,330)}Hoshizaki Nanami
+Dialogue: 0,0:00:23.41,0:00:30.63,Znak,,0,0,0,,{\be1\fad(697,0)\pos(210,340)\1c&H7AEB92&}Sena Nagisa
+Dialogue: 0,0:00:33.09,0:00:38.52,Znak,,0,0,0,,{\be1\fad(527,0)\pos(256,17)\1c&HBCA0FD&}Kuroba Kaede
+Dialogue: 0,0:00:05.33,0:00:12.66,Default (i),,0,0,0,,{\be1}Jesteśmy na plaży małej wyspy\Nna południu oceanu spokojnego.
+Dialogue: 0,0:00:13.47,0:00:20.05,Default (i),,0,0,0,,{\be1}Obecnie mamy sesję zdjęciową do czasopisma.
+Dialogue: 0,0:00:21.76,0:00:27.32,Default (i),,0,0,0,,{\be1}Sesja będzie trwać 5 dni ze zwycięzcami loterii.
+Dialogue: 0,0:00:27.32,0:00:30.63,Default (i),,0,0,0,,{\be1}Mogło być fajnie, ale...
+Dialogue: 0,0:00:31.19,0:00:38.52,Default (i),,0,0,0,,{\be1}Sesja została popsuta przez głupiego zboka.
+Dialogue: 0,0:00:57.07,0:01:05.96,Default (i),,0,0,0,,{\be1}Robi nam się bardzo gorąco i nie możemy\Nwytrzymać, gdy on robi nam zdjęcia.
+Dialogue: 0,0:01:07.26,0:01:11.97,Default,,0,0,0,,{\be1}Nie, moje soki zaczną wypływać.
+Dialogue: 0,0:01:15.12,0:01:18.59,Default,,0,0,0,,{\be1}Kaede zrobiła się niesamowicie seksowna.
+Dialogue: 0,0:01:18.59,0:01:22.78,Default,,0,0,0,,{\be1}Ta poza jest w zestawie charakteru siostry?
+Dialogue: 0,0:01:24.41,0:01:29.40,Default (i),,0,0,0,,{\be1}Muszę wytrzymać albo dowiedzą się.
+Dialogue: 0,0:01:36.41,0:01:42.06,Default,,0,0,0,,{\be1}Nie rób więcej niczego dziwnego,\Nbo jutro też jest sesja zdjęciowa.
+Dialogue: 0,0:01:42.06,0:01:44.41,Default,,0,0,0,,{\be1}Nadal jesteś podniecona?
+Dialogue: 0,0:01:44.41,0:01:47.67,Default,,0,0,0,,{\be1}Muszę się tobą zająć zanim wrócisz do pracy.
+Dialogue: 0,0:01:55.28,0:01:58.90,Default,,0,0,0,,{\be1}Rozluźnij się.
+Dialogue: 0,0:01:59.99,0:02:02.09,Default,,0,0,0,,{\be1}Nie mogę.
+Dialogue: 0,0:02:02.09,0:02:03.76,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:02:03.76,0:02:05.15,Default,,0,0,0,,{\be1}No bo...
+Dialogue: 0,0:02:06.57,0:02:09.05,Default,,0,0,0,,{\be1}Nie przestanę, dopóki nie powiesz.
+Dialogue: 0,0:02:11.64,0:02:19.20,Default,,0,0,0,,{\be1}Jeśli nie przestaniesz, to pocieknie!
+Dialogue: 0,0:02:19.96,0:02:22.51,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:02:24.23,0:02:27.71,Default,,0,0,0,,{\be1}Zbok! Dobrze wiesz, co mam na myśli!
+Dialogue: 0,0:02:28.06,0:02:31.21,Default,,0,0,0,,{\be1}No właśnie nie wiem, dlatego pytam.
+Dialogue: 0,0:02:37.23,0:02:40.09,Default,,0,0,0,,{\be1}Co takiego? Nie słyszałem.
+Dialogue: 0,0:02:42.42,0:02:46.08,Default,,0,0,0,,{\be1}Zsikam się!
+Dialogue: 0,0:02:46.95,0:02:51.23,Default,,0,0,0,,{\be1}Proszę, puść mnie do toalety!
+Dialogue: 0,0:02:51.64,0:02:56.82,Default,,0,0,0,,{\be1}Spoko, jesteśmy sami. Sikaj tutaj.
+Dialogue: 0,0:02:58.21,0:03:00.99,Default,,0,0,0,,{\be1}Żartujesz?
+Dialogue: 0,0:03:07.12,0:03:09.24,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:03:12.27,0:03:14.46,Default,,0,0,0,,{\be1}Po prostu wysikaj się.
+Dialogue: 0,0:03:18.58,0:03:19.47,Default,,0,0,0,,{\be1}Leci!
+Dialogue: 0,0:03:23.94,0:03:29.31,Default,,0,0,0,,{\be1}Nie! Wylatuje!
+Dialogue: 0,0:03:32.40,0:03:34.82,Default,,0,0,0,,{\be1}Nie mogę przestać!
+Dialogue: 0,0:03:35.80,0:03:42.01,Default,,0,0,0,,{\be1}Nie patrz!
+Dialogue: 0,0:03:44.69,0:03:48.50,Default,,0,0,0,,{\be1}Niesamowite, siki idolki!
+Dialogue: 0,0:03:48.50,0:03:51.33,Default,,0,0,0,,{\be1}Dłużej nie wytrzymam!
+Dialogue: 0,0:03:53.20,0:03:54.34,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:03:55.86,0:03:59.68,Default,,0,0,0,,{\be1}Nie! Czekaj!
+Dialogue: 0,0:04:00.25,0:04:03.26,Default,,0,0,0,,{\be1}Chociaż wytrzyj siki!
+Dialogue: 0,0:04:13.36,0:04:16.83,Default,,0,0,0,,{\be1}Postaw mnie!
+Dialogue: 0,0:04:18.42,0:04:23.27,Default,,0,0,0,,{\be1}Nawet po sikaniu jesteś podniecona.
+Dialogue: 0,0:04:26.68,0:04:30.58,Default,,0,0,0,,{\be1}Nieprawda!
+Dialogue: 0,0:04:34.94,0:04:37.26,Default,,0,0,0,,{\be1}Jesteś okropny!
+Dialogue: 0,0:04:41.84,0:04:47.47,Default,,0,0,0,,{\be1}Tak mi szkoda twojej cipki, że musiałem włożyć.
+Dialogue: 0,0:04:54.22,0:04:56.36,Default,,0,0,0,,{\be1}Nie ssij!
+Dialogue: 0,0:04:58.42,0:05:00.08,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:05:03.74,0:05:05.87,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:05:08.69,0:05:10.90,Default,,0,0,0,,{\be1}Jak dalej będzie ssać...
+Dialogue: 0,0:05:16.08,0:05:19.84,Default,,0,0,0,,{\be1}Tak mocno go wkładasz!
+Dialogue: 0,0:05:20.56,0:05:24.01,Default,,0,0,0,,{\be1}Co takiego wkładam?
+Dialogue: 0,0:05:25.89,0:05:29.30,Default,,0,0,0,,{\be1}Znowu zaczynasz.
+Dialogue: 0,0:05:29.30,0:05:30.23,Default,,0,0,0,,{\be1}A jak.
+Dialogue: 0,0:05:31.85,0:05:44.18,Default,,0,0,0,,{\be1}Twój kutas mocno wchodzi we mnie!
+Dialogue: 0,0:05:47.45,0:05:50.63,Default,,0,0,0,,{\be1}Ale ty mnie podniecasz.
+Dialogue: 0,0:05:53.07,0:05:57.92,Default,,0,0,0,,{\be1}Nie mów mi takich rzeczy!
+Dialogue: 0,0:05:59.92,0:06:03.52,Default,,0,0,0,,{\be1}Nie! Oszaleję!
+Dialogue: 0,0:06:03.52,0:06:08.93,Default,,0,0,0,,{\be1}Nie tak mocno bo nie wytrzymam!
+Dialogue: 0,0:06:08.93,0:06:12.43,Default,,0,0,0,,{\be1}Zaraz dojdę.\NSpuszczę się w środku!
+Dialogue: 0,0:06:13.94,0:06:19.21,Default,,0,0,0,,{\be1}Nie! Nie w środku!
+Dialogue: 0,0:06:19.21,0:06:21.74,Default,,0,0,0,,{\be1}Nie! Stój!
+Dialogue: 0,0:06:22.44,0:06:25.57,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:06:32.02,0:06:33.54,Default,,0,0,0,,{\be1}Niemożliwe...
+Dialogue: 0,0:06:36.26,0:06:40.50,Default,,0,0,0,,{\be1}Spuściłeś się we mnie!
+Dialogue: 0,0:06:42.89,0:06:47.05,Default,,0,0,0,,{\be1}Teraz trochę ochłoniesz.
+Dialogue: 0,0:06:48.72,0:06:54.79,Default,,0,0,0,,{\be1}Ty zboczeńcu!
+Dialogue: 0,0:07:14.68,0:07:17.33,Default,,0,0,0,,{\be1}Nagisa, uśmiechnij się.
+Dialogue: 0,0:07:18.06,0:07:19.00,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:07:19.70,0:07:23.26,Default,,0,0,0,,{\be1}Aleś ty seksowna!
+Dialogue: 0,0:07:24.10,0:07:25.51,Default,,0,0,0,,{\be1}A gdzie tam.
+Dialogue: 0,0:07:26.78,0:07:32.57,Default (i),,0,0,0,,{\be1}To on zmusił mnie do założenia stroju.
+Dialogue: 0,0:07:50.10,0:07:53.93,Default,,0,0,0,,{\be1}Nagisa, czyżbyś się podnieciła?
+Dialogue: 0,0:07:55.02,0:07:56.96,Default,,0,0,0,,{\be1}Róbcie szybko zdjęcia!
+Dialogue: 0,0:07:58.46,0:08:03.59,Default (i),,0,0,0,,{\be1}Fotografują moją zawstydzającą minę!
+Dialogue: 0,0:08:09.68,0:08:11.76,Default,,0,0,0,,{\be1}Ej, co ty wyprawiasz?!
+Dialogue: 0,0:08:11.76,0:08:15.08,Default,,0,0,0,,{\be1}Zabieraj od niej łapska!
+Dialogue: 0,0:08:16.61,0:08:18.98,Default,,0,0,0,,{\be1}Wiesz co robić.
+Dialogue: 0,0:08:20.82,0:08:21.86,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:08:22.58,0:08:26.57,Default,,0,0,0,,{\be1}To nie tak jak myślicie.
+Dialogue: 0,0:08:26.57,0:08:31.63,Default,,0,0,0,,{\be1}To taka sesja zdjęciowa.
+Dialogue: 0,0:08:33.45,0:08:41.88,Default,,0,0,0,,{\be1}To wyjątkowa sesja, gdzie możecie mi zrobić\Nzdjęcia jakich normalnie nie moglibyście.
+Dialogue: 0,0:08:41.88,0:08:45.55,Default,,0,0,0,,{\be1}Ten mężczyzna jest aktorem.
+Dialogue: 0,0:08:45.55,0:08:47.09,Default,,0,0,0,,{\be1}Serio?
+Dialogue: 0,0:08:49.47,0:08:56.38,Default,,0,0,0,,{\be1}A teraz śmiało róbcie mi zdjęcia!
+Dialogue: 0,0:08:57.34,0:08:59.10,Default,,0,0,0,,{\be1}Co robimy?
+Dialogue: 0,0:09:00.16,0:09:02.15,Default,,0,0,0,,{\be1}Skoro sama chce.
+Dialogue: 0,0:09:05.86,0:09:07.73,Default,,0,0,0,,{\be1}Świetnie ci idzie.
+Dialogue: 0,0:09:11.95,0:09:19.16,Default,,0,0,0,,{\be1}Patrzą na mnie! Co za wstyd!
+Dialogue: 0,0:09:25.30,0:09:30.01,Default,,0,0,0,,{\be1}To nie koniec, dopiero zaczynamy.
+Dialogue: 0,0:09:33.28,0:09:37.63,Default,,0,0,0,,{\be1}Naprawdę chcesz go włożyć?
+Dialogue: 0,0:09:37.63,0:09:40.18,Default,,0,0,0,,{\be1}To już są żarty, nie?
+Dialogue: 0,0:09:40.18,0:09:41.60,Default,,0,0,0,,{\be1}Po prostu fotografuj!
+Dialogue: 0,0:09:50.70,0:09:52.70,Default,,0,0,0,,{\be1}Wchodzi głęboko!
+Dialogue: 0,0:09:53.89,0:09:57.94,Default,,0,0,0,,{\be1}Jesteś ciaśniejsza niż wcześniej, podekscytowałaś się?
+Dialogue: 0,0:09:57.94,0:10:04.21,Default,,0,0,0,,{\be1}Nie! Nie jestem zboczona!
+Dialogue: 0,0:10:04.21,0:10:06.54,Default,,0,0,0,,{\be1}Oj jesteś, Nagisa!
+Dialogue: 0,0:10:07.22,0:10:09.80,Default,,0,0,0,,{\be1}Niesamowicie seksowna!
+Dialogue: 0,0:10:11.00,0:10:17.81,Default (i),,0,0,0,,{\be1}Fotografuję mnie jak uprawiam seks!
+Dialogue: 0,0:10:27.59,0:10:30.78,Default,,0,0,0,,{\be1}Tak za bardzo się wstydzę!
+Dialogue: 0,0:10:31.52,0:10:35.78,Default,,0,0,0,,{\be1}Miałaś coś powiedzieć, nie?
+Dialogue: 0,0:10:39.58,0:10:47.33,Default,,0,0,0,,{\be1}Fotografujcie mnie nagą, ile chcecie!
+Dialogue: 0,0:10:48.92,0:10:53.44,Default,,0,0,0,,{\be1}Moje zboczone piersi i cipkę też!
+Dialogue: 0,0:10:55.53,0:10:58.63,Default,,0,0,0,,{\be1}Możecie patrzeć, ile chcecie!
+Dialogue: 0,0:11:03.27,0:11:08.68,Default,,0,0,0,,{\be1}Bardzo dobrze, w nagrodę dojdziesz przy nich.
+Dialogue: 0,0:11:09.82,0:11:11.03,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:11:16.49,0:11:20.49,Default,,0,0,0,,{\be1}Dobra, kończymy!
+Dialogue: 0,0:11:23.25,0:11:29.81,Default,,0,0,0,,{\be1}Panowie, niedługo dojdę!
+Dialogue: 0,0:11:31.77,0:11:37.40,Default,,0,0,0,,{\be1}Zróbcie mi zdjęcia, gdy będę mieć orgazm!
+Dialogue: 0,0:11:38.56,0:11:46.98,Default,,0,0,0,,{\be1}Róbcie zdjęcia, gdy będzie się spuszczać!
+Dialogue: 0,0:11:54.11,0:11:55.93,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:11:58.99,0:12:01.54,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:12:25.26,0:12:37.24,Default,,0,0,0,,{\be1}Sfotografowali mnie całą!
+Dialogue: 0,0:12:54.37,0:12:57.04,Default,,0,0,0,,{\be1}Zaczynaj wreszcie.
+Dialogue: 0,0:12:58.02,0:13:00.01,Default,,0,0,0,,{\be1}Przecież wiem.
+Dialogue: 0,0:13:05.24,0:13:07.52,Default,,0,0,0,,{\be1}Tak może być?
+Dialogue: 0,0:13:07.52,0:13:11.62,Default,,0,0,0,,{\be1}Nie, dopóki nie zaczniesz nimi ruszać.
+Dialogue: 0,0:13:12.97,0:13:15.18,Default,,0,0,0,,{\be1}Jak nie chcesz to nie.
+Dialogue: 0,0:13:15.18,0:13:19.07,Default,,0,0,0,,{\be1}Zrobię to!
+Dialogue: 0,0:13:27.41,0:13:29.58,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:13:30.86,0:13:33.73,Default,,0,0,0,,{\be1}Nie podniecaj mnie mocniej!
+Dialogue: 0,0:13:33.73,0:13:38.81,Default,,0,0,0,,{\be1}Nie przestawaj, bo nigdy nie skończymy.
+Dialogue: 0,0:13:40.41,0:13:42.44,Default,,0,0,0,,{\be1}O nie, czemu?
+Dialogue: 0,0:13:42.44,0:13:49.57,Default,,0,0,0,,{\be1}Wstydzę się, a mimo to sutki mi sterczą!
+Dialogue: 0,0:13:49.57,0:13:53.06,Default,,0,0,0,,{\be1}Czyli masz wrażliwe piersi.
+Dialogue: 0,0:13:54.11,0:13:57.46,Default,,0,0,0,,{\be1}Nieprawda.
+Dialogue: 0,0:13:57.46,0:14:02.61,Default,,0,0,0,,{\be1}To przez aparat.
+Dialogue: 0,0:14:02.61,0:14:06.08,Default,,0,0,0,,{\be1}Nie kłam.
+Dialogue: 0,0:14:08.83,0:14:16.65,Default,,0,0,0,,{\be1}Nie dotykaj sutków!
+Dialogue: 0,0:14:18.27,0:14:23.83,Default,,0,0,0,,{\be1}Jeśli niedługo nie dojdę, to pójdziemy na całość.
+Dialogue: 0,0:14:23.83,0:14:26.26,Default,,0,0,0,,{\be1}Co? Ale...
+Dialogue: 0,0:14:26.84,0:14:31.42,Default,,0,0,0,,{\be1}Pośpiesz się, bo sesja niedługo się zaczyna.
+Dialogue: 0,0:14:36.20,0:14:43.84,Default,,0,0,0,,{\be1}Dobra, jak sobie chcesz.\NGwałć mnie, jeśli musisz.
+Dialogue: 0,0:14:48.26,0:14:53.52,Default,,0,0,0,,{\be1}Nie. Proszę, przestań je dotykać.
+Dialogue: 0,0:14:57.67,0:15:01.05,Default,,0,0,0,,{\be1}Pobrudzisz kostium.
+Dialogue: 0,0:15:03.58,0:15:06.55,Default,,0,0,0,,{\be1}Już jesteś mokra.
+Dialogue: 0,0:15:06.55,0:15:10.35,Default,,0,0,0,,{\be1}Można się było spodziewać po zboczeńcu!
+Dialogue: 0,0:15:20.86,0:15:24.86,Default,,0,0,0,,{\be1}No chyba nie doszłaś?
+Dialogue: 0,0:15:26.96,0:15:29.37,Default,,0,0,0,,{\be1}Jeszcze czego.
+Dialogue: 0,0:15:34.42,0:15:37.88,Default,,0,0,0,,{\be1}Nie kłam, doszłaś.
+Dialogue: 0,0:15:40.09,0:15:44.94,Default,,0,0,0,,{\be1}No bo nagle włożyłeś całego.
+Dialogue: 0,0:15:46.44,0:15:50.73,Default,,0,0,0,,{\be1}Ale z ciebie zboczucha.
+Dialogue: 0,0:15:50.73,0:15:52.53,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:15:53.47,0:15:57.59,Default,,0,0,0,,{\be1}Nie jestem, ani zboczona, ani podniecająca!
+Dialogue: 0,0:15:57.59,0:16:02.40,Default,,0,0,0,,{\be1}To wszystko twoja wina!
+Dialogue: 0,0:16:04.08,0:16:06.34,Default,,0,0,0,,{\be1}Nie piersi!
+Dialogue: 0,0:16:09.05,0:16:14.37,Default,,0,0,0,,{\be1}Skończę przed sesją.
+Dialogue: 0,0:16:20.63,0:16:28.13,Default,,0,0,0,,{\be1}Czuję się jak zwierze w tej pozycji!
+Dialogue: 0,0:16:30.54,0:16:32.19,Default,,0,0,0,,{\be1}I to jest przyjemne, nie?
+Dialogue: 0,0:16:33.94,0:16:35.63,Default,,0,0,0,,{\be1}Zawstydzające!
+Dialogue: 0,0:16:36.86,0:16:39.39,Default,,0,0,0,,{\be1}Skończ szybciej!
+Dialogue: 0,0:16:44.48,0:16:49.53,Default,,0,0,0,,{\be1}Zaraz dojdę, skończmy razem, dobra?
+Dialogue: 0,0:16:50.83,0:16:56.54,Default,,0,0,0,,{\be1}A zadowoli cię to?
+Dialogue: 0,0:16:56.54,0:17:06.01,Default,,0,0,0,,{\be1}W takim razie zrobię to, tylko zostaw mnie już!
+Dialogue: 0,0:17:10.91,0:17:12.69,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:17:14.37,0:17:17.23,Default,,0,0,0,,{\be1}Dojdziemy razem!
+Dialogue: 0,0:17:30.79,0:17:36.28,Default,,0,0,0,,{\be1}Aleś ty głupia, tyle to za mało, żebym ci odpuścił.
+Dialogue: 0,0:17:38.70,0:17:48.84,Default,,0,0,0,,{\be1}Jesteś podły, zniszczyłeś mi strój,\Na przecież będę mieć sesję.
+Dialogue: 0,0:17:49.88,0:17:56.82,Default,,0,0,0,,{\be1}Spoko, mam dla ciebie inny kostium.
+Dialogue: 0,0:18:13.07,0:18:15.45,Default (i),,0,0,0,,{\be1}Gapią się na mnie.
+Dialogue: 0,0:18:15.98,0:18:20.45,Default (i),,0,0,0,,{\be1}To gorsze niż bycie nagą.
+Dialogue: 0,0:18:23.89,0:18:29.09,Default,,0,0,0,,{\be1}Nałożyłaś niezły kostium.
+Dialogue: 0,0:18:29.09,0:18:36.70,Default,,0,0,0,,{\be1}Może odrobinę przesadziłam,\Nale to podziękowanie dla was za wspieranie mnie.
+Dialogue: 0,0:18:36.70,0:18:37.97,Default,,0,0,0,,{\be1}To dziwne?
+Dialogue: 0,0:18:38.57,0:18:44.98,Default,,0,0,0,,{\be1}Nie, jest cudowny!\NPokaż nam parę seksownych poz!
+Dialogue: 0,0:18:45.82,0:18:51.03,Default,,0,0,0,,{\be1}W tym kostiumie?
+Dialogue: 0,0:18:51.03,0:18:54.66,Default,,0,0,0,,{\be1}Nie zrobisz?\NPrzecież cięgle je robisz.
+Dialogue: 0,0:18:55.55,0:18:58.56,Default,,0,0,0,,{\be1}Nie mówię, że nie.
+Dialogue: 0,0:19:04.88,0:19:06.54,Default,,0,0,0,,{\be1}Nanami?
+Dialogue: 0,0:19:08.27,0:19:10.59,Default,,0,0,0,,{\be1}Nic mi nie jest.
+Dialogue: 0,0:19:10.59,0:19:16.05,Default,,0,0,0,,{\be1}Dzisiaj wyjątkowo to zrobię.
+Dialogue: 0,0:19:20.79,0:19:24.24,Default (i),,0,0,0,,{\be1}Co za wstyd!
+Dialogue: 0,0:19:24.91,0:19:28.02,Default (i),,0,0,0,,{\be1}Nie pożerajcie mnie wzrokiem!
+Dialogue: 0,0:19:28.02,0:19:31.53,Default (i),,0,0,0,,{\be1}Muszę to szybko skończyć!
+Dialogue: 0,0:19:32.03,0:19:36.53,Default (i),,0,0,0,,{\be1}Znowu się podniecam!
+Dialogue: 0,0:19:50.77,0:19:56.30,Default (i),,0,0,0,,{\be1}Od tamtej pory jesteśmy zabawkami tego zboczeńca.
+Dialogue: 0,0:19:56.30,0:20:00.85,Default (i),,0,0,0,,{\be1}Zrobili nam dużo zboczonych zdjęć.
+Dialogue: 0,0:20:02.75,0:20:05.85,Default (i),,0,0,0,,{\be1}Fotografowali wszystko.
+Dialogue: 0,0:20:06.50,0:20:18.86,Default (i),,0,0,0,,{\be1}To dziwne, na początku było nam bardzo wstyd,\Nale teraz jest przyjemnie, gdy robią nam takie zdjęcia.
+Dialogue: 0,0:20:19.55,0:20:22.68,Default (i),,0,0,0,,{\be1}Nie potrafimy zawrócić.
+Dialogue: 0,0:20:22.68,0:20:27.87,Default (i),,0,0,0,,{\be1}Chcę mieć takie sesje nawet po powrocie.
+Dialogue: 0,0:20:29.29,0:20:32.88,Default (i),,0,0,0,,{\be1}Jeśli chcesz to też przyjdź.
+Dialogue: 0,0:20:35.74,0:20:40.48,Default,,0,0,0,,{\be1}Znowu dochodzę!
+Dialogue: 0,0:20:42.26,0:20:50.39,Default,,0,0,0,,{\be1}Zróbcie dużo zdjęć mojemu niewyżytemu ciału!
+Dialogue: 0,0:20:51.10,0:20:55.84,Default,,0,0,0,,{\be1}Ty też chodź!
+Dialogue: 0,0:20:57.92,0:21:03.57,Default,,0,0,0,,{\be1}Możesz się spuścić, gdzie tylko chcesz!

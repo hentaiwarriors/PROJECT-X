@@ -1,0 +1,306 @@
+[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Comic Sans MS,32,&H00FFFFFF,&H00000000,&H00FF0000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,20,20,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:18.87,0:01:21.04,Default,,0000,0000,0000,,{\i1}What the hell... was that?{\i0}
+Dialogue: 0,0:01:37.89,0:01:41.52,Default,,0000,0000,0000,,{\i1}This happened before.{\i0}\N{\i1}When was that?{\i0}
+Dialogue: 0,0:01:41.83,0:01:45.13,Default,,0000,0000,0000,,{\i1}I know them, but why?{\i0}
+Dialogue: 0,0:01:47.97,0:01:50.34,Default,,0000,0000,0000,,Miss, is this really what you wanted?
+Dialogue: 0,0:02:18.30,0:02:20.86,Default,,0000,0000,0000,,{\i1}Square of the Moon:{\i0}\N{\i1}The Night Is Coming!{\i0}
+Dialogue: 0,0:02:20.90,0:02:24.40,Default,,0000,0000,0000,,It gently embraces us
+Dialogue: 0,0:02:24.44,0:02:28.50,Default,,0000,0000,0000,,Without averting its eyes\Nin this endless night
+Dialogue: 0,0:02:28.54,0:02:31.91,Default,,0000,0000,0000,,Blocking the light that turns pale
+Dialogue: 0,0:02:31.95,0:02:36.44,Default,,0000,0000,0000,,Stopping the flow of time\Nbrimming with lies
+Dialogue: 0,0:02:43.39,0:02:47.16,Default,,0000,0000,0000,,The naked words that were\Nthrown at the world
+Dialogue: 0,0:02:47.20,0:02:50.72,Default,,0000,0000,0000,,I'll try to gather them\Nand vindicate them
+Dialogue: 0,0:02:50.77,0:02:57.67,Default,,0000,0000,0000,,Happiness cannot happen unless\Nyou decide to go after it
+Dialogue: 0,0:02:58.07,0:03:01.60,Default,,0000,0000,0000,,The repeated days of giving up
+Dialogue: 0,0:03:01.81,0:03:05.37,Default,,0000,0000,0000,,I want to go after you\Nmore than ever
+Dialogue: 0,0:03:05.55,0:03:09.01,Default,,0000,0000,0000,,It's not sadness but\Nlove and courage
+Dialogue: 0,0:03:09.08,0:03:13.32,Default,,0000,0000,0000,,Even a flame hints at\Nthe beginning of life
+Dialogue: 0,0:03:15.29,0:03:18.89,Default,,0000,0000,0000,,Give a reason for minor offense
+Dialogue: 0,0:03:19.60,0:03:22.86,Default,,0000,0000,0000,,Oh, hell... two moons and wound
+Dialogue: 0,0:03:22.90,0:03:26.46,Default,,0000,0000,0000,,The sudden gust of wind\Npoints the path to the sea
+Dialogue: 0,0:03:27.07,0:03:30.30,Default,,0000,0000,0000,,Oh, hell to sea
+Dialogue: 0,0:03:30.34,0:03:33.74,Default,,0000,0000,0000,,It gently embraces us
+Dialogue: 0,0:03:33.81,0:03:37.58,Default,,0000,0000,0000,,Without averting its eyes\Nin this endless night
+Dialogue: 0,0:03:37.75,0:03:41.24,Default,,0000,0000,0000,,Killing the souls that turn pale
+Dialogue: 0,0:03:41.38,0:03:45.38,Default,,0000,0000,0000,,Wake up from the sleep\Nbrimming with lies
+Dialogue: 0,0:03:49.73,0:03:52.92,Default,,0000,0000,0000,,{\i1}Square of the Moon:{\i0}\N{\i1}The Night Is Coming!{\i0}
+Dialogue: 0,0:03:52.96,0:03:58.42,Default,,0000,0000,0000,,Waiting for the blue sky
+Dialogue: 0,0:04:01.87,0:04:02.70,Default,,0000,0000,0000,,Just as I thought.
+Dialogue: 0,0:04:03.81,0:04:08.33,Default,,0000,0000,0000,,So, to bring the Light's world\N"True Night" into this reality...
+Dialogue: 0,0:04:09.14,0:04:13.88,Default,,0000,0000,0000,,Yes... it seems we've got no other option\Nbut to get a Kotodama user...
+Dialogue: 0,0:04:14.72,0:04:17.31,Default,,0000,0000,0000,,to call down the "Queen of the Night,"\Nwho is said to have been the one...
+Dialogue: 0,0:04:17.42,0:04:19.48,Default,,0000,0000,0000,,to make the True Moon appear,\Nand ask her how.
+Dialogue: 0,0:04:20.52,0:04:22.85,Default,,0000,0000,0000,,If that man, Haiji, had done\Nas planned, we would have been...
+Dialogue: 0,0:04:23.39,0:04:26.79,Default,,0000,0000,0000,,able to capture the Kotodama\Nwoman easily, but unfortunately...
+Dialogue: 0,0:04:28.16,0:04:30.86,Default,,0000,0000,0000,,We already know that\NManami Miyasaka,
+Dialogue: 0,0:04:30.90,0:04:34.20,Default,,0000,0000,0000,,the most powerful\NKotodama user in this generation,
+Dialogue: 0,0:04:34.24,0:04:35.83,Default,,0000,0000,0000,,is part of the Fire group.
+Dialogue: 0,0:04:36.31,0:04:40.47,Default,,0000,0000,0000,,But we didn't believe that the\NFire group would have enough...
+Dialogue: 0,0:04:40.64,0:04:42.87,Default,,0000,0000,0000,,power to stop the kidnapping.
+Dialogue: 0,0:04:43.05,0:04:44.57,Default,,0000,0000,0000,,We are truly sorry.
+Dialogue: 0,0:04:46.75,0:04:48.34,Default,,0000,0000,0000,,We originally constructed this tower...
+Dialogue: 0,0:04:48.38,0:04:52.08,Default,,0000,0000,0000,,to collect the power\Nfrom the light of the True Moon...
+Dialogue: 0,0:04:53.16,0:04:57.65,Default,,0000,0000,0000,,But without a Kotodama user,\Nwe can't achieve the "True Night."
+Dialogue: 0,0:04:58.43,0:04:58.95,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:59.53,0:05:02.46,Default,,0000,0000,0000,,I'll give you one more chance...\NUnderstand?
+Dialogue: 0,0:05:03.10,0:05:03.72,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:05:11.07,0:05:14.87,Default,,0000,0000,0000,,I have a favor to ask.\NPlease watch Souji's actions closely.
+Dialogue: 0,0:05:16.38,0:05:17.11,Default,,0000,0000,0000,,S-sure.
+Dialogue: 0,0:05:57.85,0:05:58.48,Default,,0000,0000,0000,,Lightning Fang!
+Dialogue: 0,0:06:07.33,0:06:09.80,Default,,0000,0000,0000,,Miss, why do you\Npush yourself like this?
+Dialogue: 0,0:06:15.14,0:06:16.70,Default,,0000,0000,0000,,It's because of Souji, isn't it?
+Dialogue: 0,0:06:18.61,0:06:22.10,Default,,0000,0000,0000,,If we keep defeating the Light,\Nthen my brother will appear.
+Dialogue: 0,0:06:23.48,0:06:23.91,Default,,0000,0000,0000,,That's why...
+Dialogue: 0,0:06:24.41,0:06:26.88,Default,,0000,0000,0000,,I have to stop... my brother.
+Dialogue: 0,0:06:30.39,0:06:31.82,Default,,0000,0000,0000,,Then I'll help!
+Dialogue: 0,0:06:32.72,0:06:36.56,Default,,0000,0000,0000,,Why do you go out in the\Ncold night and fight like...
+Dialogue: 0,0:06:36.59,0:06:37.89,Default,,0000,0000,0000,,you have nothing left to lose?
+Dialogue: 0,0:06:38.36,0:06:41.35,Default,,0000,0000,0000,,Miss! Is this some kind of atonement?
+Dialogue: 0,0:06:42.56,0:06:45.83,Default,,0000,0000,0000,,That must be it...\NIt's for erasing everyone's memories...
+Dialogue: 0,0:06:47.70,0:06:52.11,Default,,0000,0000,0000,,And it's for making Hamura and\NKyoka believe they're lovers...
+Dialogue: 0,0:06:52.14,0:06:55.67,Default,,0000,0000,0000,,I'm sorry, Makoto!\NPlease leave me alone for a while.
+Dialogue: 0,0:07:01.18,0:07:01.51,Default,,0000,0000,0000,,Miss...
+Dialogue: 0,0:07:20.80,0:07:21.33,Default,,0000,0000,0000,,Kyoka!
+Dialogue: 0,0:07:30.18,0:07:31.37,Default,,0000,0000,0000,,I was getting tired of waiting.
+Dialogue: 0,0:07:32.28,0:07:34.61,Default,,0000,0000,0000,,So, you were waiting here\Nthe whole time?
+Dialogue: 0,0:07:34.98,0:07:36.97,Default,,0000,0000,0000,,Yeah, I wanted to meet you\Nthat much sooner.
+Dialogue: 0,0:07:38.39,0:07:40.32,Default,,0000,0000,0000,,Weren't you cold?\NLet's go inside.
+Dialogue: 0,0:07:44.03,0:07:45.15,Default,,0000,0000,0000,,Then warm me up.
+Dialogue: 0,0:08:15.26,0:08:21.25,Default,,0000,0000,0000,,While I was waiting, I was thinking about\Ndoing this with you. Strip me, Ryo.
+Dialogue: 0,0:10:03.83,0:10:05.16,Default,,0000,0000,0000,,{\i1}What is it...?{\i0}
+Dialogue: 0,0:10:06.33,0:10:07.86,Default,,0000,0000,0000,,{\i1}This feeling like{\i0}\N{\i1}something's not right...{\i0}
+Dialogue: 0,0:10:07.90,0:10:09.67,Default,,0000,0000,0000,,{\i1}What's making me feel this way?{\i0}
+Dialogue: 0,0:10:10.54,0:10:10.97,Default,,0000,0000,0000,,Ryo?
+Dialogue: 0,0:10:14.08,0:10:18.17,Default,,0000,0000,0000,,Looks like you're in quite a state.\NI can feel the blood flowing.
+Dialogue: 0,0:10:18.45,0:10:21.71,Default,,0000,0000,0000,,It's so hard. What do you\Nwant to do with it, Ryo?
+Dialogue: 0,0:10:25.82,0:10:28.95,Default,,0000,0000,0000,,I can't hear you.\NTell me what you want!
+Dialogue: 0,0:10:30.53,0:10:32.49,Default,,0000,0000,0000,,I want to cum inside you!
+Dialogue: 0,0:10:34.46,0:10:35.83,Default,,0000,0000,0000,,Go ahead. Cum inside me.
+Dialogue: 0,0:11:01.89,0:11:03.76,Default,,0000,0000,0000,,Ryo! Ryo, I'm cumming!
+Dialogue: 0,0:11:16.27,0:11:19.67,Default,,0000,0000,0000,,Don't! You want to cum inside me.
+Dialogue: 0,0:11:22.61,0:11:24.08,Default,,0000,0000,0000,,Do it... Ryo.
+Dialogue: 0,0:11:40.26,0:11:41.19,Default,,0000,0000,0000,,What's the matter...
+Dialogue: 0,0:11:42.03,0:11:44.40,Default,,0000,0000,0000,,I can't sleep... I'm too afraid.
+Dialogue: 0,0:11:45.03,0:11:48.53,Default,,0000,0000,0000,,In my dream, there's a woman\Nwith this scary face coming at me...
+Dialogue: 0,0:11:49.30,0:11:50.83,Default,,0000,0000,0000,,trying to kill me with a blade...
+Dialogue: 0,0:11:51.74,0:11:54.57,Default,,0000,0000,0000,,For some reason,\NI call her my sister,
+Dialogue: 0,0:11:54.94,0:11:58.74,Default,,0000,0000,0000,,and right when I'm about to die,\Na man dressed all in black...
+Dialogue: 0,0:11:58.78,0:12:01.65,Default,,0000,0000,0000,,comes flying from the sky, and\Nputs her to sleep.
+Dialogue: 0,0:12:01.68,0:12:03.91,Default,,0000,0000,0000,,But then he turns to me\Nwith this scary look and says,
+Dialogue: 0,0:12:04.42,0:12:08.79,Default,,0000,0000,0000,,"You are a sinner who betrayed\Nyour sister, and deceived me!
+Dialogue: 0,0:12:09.16,0:12:12.32,Default,,0000,0000,0000,,You must atone for these crimes!"
+Dialogue: 0,0:12:13.29,0:12:17.66,Default,,0000,0000,0000,,But that's only a dream.\NKyoka, you're not a sinner.
+Dialogue: 0,0:12:18.23,0:12:18.89,Default,,0000,0000,0000,,Ryo...
+Dialogue: 0,0:12:19.97,0:12:22.23,Default,,0000,0000,0000,,It was probably just the sound\Nof the pounding rain...
+Dialogue: 0,0:12:22.27,0:12:25.00,Default,,0000,0000,0000,,giving you strange dreams.\NYou should try and get some more sleep.
+Dialogue: 0,0:12:27.71,0:12:28.23,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:12:31.25,0:12:34.65,Default,,0000,0000,0000,,{\i1}The memories that Kyoka doesn't{\i0}\N{\i1}remember... It's the same as me.{\i0}
+Dialogue: 0,0:12:35.72,0:12:39.92,Default,,0000,0000,0000,,{\i1}Before, I just felt like I{\i0}\N{\i1}had to fight those monsters...{\i0}
+Dialogue: 0,0:12:40.82,0:12:42.55,Default,,0000,0000,0000,,{\i1}I realized that I've forgotten something.{\i0}
+Dialogue: 0,0:12:43.73,0:12:45.99,Default,,0000,0000,0000,,{\i1}It's been one month since{\i0}\N{\i1}Kyoka started coming to my place...{\i0}
+Dialogue: 0,0:12:47.10,0:12:49.19,Default,,0000,0000,0000,,{\i1}When and where did we first meet?{\i0}
+Dialogue: 0,0:12:50.70,0:12:53.96,Default,,0000,0000,0000,,{\i1}At any rate, I know that I{\i0}\N{\i1}have to be gentle and kind to her.{\i0}
+Dialogue: 0,0:12:54.90,0:12:56.87,Default,,0000,0000,0000,,Be nice to Kyoka...
+Dialogue: 0,0:13:10.08,0:13:15.35,Default,,0000,0000,0000,,Looks like she's not pretending.\NYou erased her memory, Izumi.
+Dialogue: 0,0:13:21.86,0:13:23.49,Default,,0000,0000,0000,,Release that woman, brother.
+Dialogue: 0,0:13:24.00,0:13:28.70,Default,,0000,0000,0000,,It's you... The Kotodama user is\Nnecessary for our plans.
+Dialogue: 0,0:13:29.10,0:13:30.80,Default,,0000,0000,0000,,Why do you help the Light and...
+Dialogue: 0,0:13:30.91,0:13:33.74,Default,,0000,0000,0000,,try to pull these people into\Na world of endless dreams?
+Dialogue: 0,0:13:34.31,0:13:35.64,Default,,0000,0000,0000,,Endless dreams...
+Dialogue: 0,0:13:36.58,0:13:40.51,Default,,0000,0000,0000,,Izumi, you sound like the old men\Nof the Valley of Fire.
+Dialogue: 0,0:13:41.48,0:13:44.61,Default,,0000,0000,0000,,People know of\Nthe existence of the Light, but never...
+Dialogue: 0,0:13:45.32,0:13:49.35,Default,,0000,0000,0000,,try to struggle against us,\Nand just go about their everyday lives.
+Dialogue: 0,0:13:50.76,0:13:55.22,Default,,0000,0000,0000,,Do you really think that such a\Nlife can be called a reality?
+Dialogue: 0,0:13:55.93,0:13:56.62,Default,,0000,0000,0000,,Well, that's...
+Dialogue: 0,0:13:57.47,0:14:00.06,Default,,0000,0000,0000,,The dreams you show your\Nfriends in the Astronomy Club...
+Dialogue: 0,0:14:00.67,0:14:02.60,Default,,0000,0000,0000,,the dreams that the Light show...\NWhat's the difference?
+Dialogue: 0,0:14:03.74,0:14:06.73,Default,,0000,0000,0000,,Within each person is a demon.
+Dialogue: 0,0:14:07.94,0:14:12.17,Default,,0000,0000,0000,,The Valley of Fire does not admit this.\NIt will lead to their demise.
+Dialogue: 0,0:14:15.48,0:14:19.11,Default,,0000,0000,0000,,Izumi, humans feel safer\Nbeing judged.
+Dialogue: 0,0:14:20.12,0:14:22.82,Default,,0000,0000,0000,,They can not stand\Nto be in eternal purgatory.
+Dialogue: 0,0:14:39.44,0:14:40.93,Default,,0000,0000,0000,,Something you want to ask me?
+Dialogue: 0,0:14:42.11,0:14:43.51,Default,,0000,0000,0000,,Yes we do, traitor.
+Dialogue: 0,0:14:44.31,0:14:46.78,Default,,0000,0000,0000,,I thought you were from\Na defunct holy order,
+Dialogue: 0,0:14:47.62,0:14:50.85,Default,,0000,0000,0000,,but now I find out you're\Nfrom the Valley of Fire.
+Dialogue: 0,0:14:51.52,0:14:53.85,Default,,0000,0000,0000,,Why didn't you tell us\Nabout this earlier?
+Dialogue: 0,0:14:54.89,0:14:56.48,Default,,0000,0000,0000,,Well, no one really asked.
+Dialogue: 0,0:14:57.23,0:15:01.59,Default,,0000,0000,0000,,Excuses... Plus, yesterday's\NFire leader, Izumi Kagura,
+Dialogue: 0,0:15:01.70,0:15:05.39,Default,,0000,0000,0000,,seems to be your sister.\NHow do you explain all this?
+Dialogue: 0,0:15:07.04,0:15:09.90,Default,,0000,0000,0000,,Meeting her was not\Nreally part of my plan...
+Dialogue: 0,0:15:11.17,0:15:13.73,Default,,0000,0000,0000,,But I suppose telling you to\Nbe less nosy won't work.
+Dialogue: 0,0:15:21.28,0:15:23.98,Default,,0000,0000,0000,,Souji, what are you... scheming?
+Dialogue: 0,0:15:24.02,0:15:26.82,Default,,0000,0000,0000,,"The Day of Judgment." That's all.
+Dialogue: 0,0:15:40.30,0:15:42.53,Default,,0000,0000,0000,,Sakaki... Sakaki!\NW-what should I do?
+Dialogue: 0,0:15:44.27,0:15:46.71,Default,,0000,0000,0000,,Sakaki... Sakaki's going to die!
+Dialogue: 0,0:15:51.51,0:15:53.61,Default,,0000,0000,0000,,Owww! Are you okay, miss?
+Dialogue: 0,0:15:54.15,0:15:56.21,Default,,0000,0000,0000,,S-Sakaki... he's dying.
+Dialogue: 0,0:15:58.22,0:15:59.31,Default,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:16:01.06,0:16:01.82,Default,,0000,0000,0000,,You're...
+Dialogue: 0,0:16:04.79,0:16:06.19,Default,,0000,0000,0000,,Has your memory been erased too?
+Dialogue: 0,0:16:07.93,0:16:09.36,Default,,0000,0000,0000,,I'll go and get someone!
+Dialogue: 0,0:16:09.53,0:16:13.99,Default,,0000,0000,0000,,Wait a minute!\NI'm not going to last long anyway.
+Dialogue: 0,0:16:14.97,0:16:19.43,Default,,0000,0000,0000,,More importantly, I'm sorry,\Nbut do me a favor... this woman...
+Dialogue: 0,0:16:20.61,0:16:27.01,Default,,0000,0000,0000,,Please protect her...\NShe has no one but me to rely on...
+Dialogue: 0,0:16:28.05,0:16:28.95,Default,,0000,0000,0000,,Sakaki!
+Dialogue: 0,0:16:29.65,0:16:32.21,Default,,0000,0000,0000,,Wait a sec. Why would\Nyou trust a passing stranger?
+Dialogue: 0,0:16:33.32,0:16:37.49,Default,,0000,0000,0000,,Because I know you.\NI knew you'd be the helpful sort...
+Dialogue: 0,0:16:38.63,0:16:42.03,Default,,0000,0000,0000,,Because you're the group\Nwe fought. The Fire group...
+Dialogue: 0,0:16:42.56,0:16:44.26,Default,,0000,0000,0000,,The Fire? What are you...
+Dialogue: 0,0:16:52.67,0:16:53.16,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:17:00.01,0:17:03.11,Default,,0000,0000,0000,,Sakaki!
+Dialogue: 0,0:17:04.19,0:17:08.59,Default,,0000,0000,0000,,Why don't you give up?\NEveryone can't seem to remember a thing.
+Dialogue: 0,0:17:08.96,0:17:10.95,Default,,0000,0000,0000,,Be quiet. It doesn't concern you.
+Dialogue: 0,0:17:12.03,0:17:15.15,Default,,0000,0000,0000,,Maybe they're having more\Nfun without their memories.
+Dialogue: 0,0:17:15.83,0:17:18.39,Default,,0000,0000,0000,,Even that Shinkai guy...\Nhit you out of nowhere...
+Dialogue: 0,0:17:19.50,0:17:22.26,Default,,0000,0000,0000,,Ryo and Kyoka are\Ngoing out too, right?
+Dialogue: 0,0:17:24.17,0:17:27.40,Default,,0000,0000,0000,,Maybe you're just jealous.\NHow stupid.
+Dialogue: 0,0:17:27.94,0:17:32.74,Default,,0000,0000,0000,,It's not like that.\NWhy are you still here, hanging around me?
+Dialogue: 0,0:17:33.48,0:17:36.81,Default,,0000,0000,0000,,You're part of the Light!\NWhy don't you go back to them?
+Dialogue: 0,0:17:37.55,0:17:42.79,Default,,0000,0000,0000,,Because I don't want to.\NIt's gloomy, and Sakaki isn't there...
+Dialogue: 0,0:17:43.76,0:17:47.69,Default,,0000,0000,0000,,Hey, why don't we go to\Na hotel instead and... do it?
+Dialogue: 0,0:17:50.16,0:17:51.50,Default,,0000,0000,0000,,Ryo Hamura, I need to talk to you.
+Dialogue: 0,0:17:53.20,0:17:56.10,Default,,0000,0000,0000,,Sorry, Hoshigawa, but we really\Ndon't know about the Light...
+Dialogue: 0,0:17:57.14,0:17:59.16,Default,,0000,0000,0000,,or about this Fire.
+Dialogue: 0,0:18:00.31,0:18:03.07,Default,,0000,0000,0000,,And I'm telling you, it's because\Nyour memories have been sealed.
+Dialogue: 0,0:18:04.01,0:18:06.04,Default,,0000,0000,0000,,Manami's been kidnapped by them, Ryo.
+Dialogue: 0,0:18:06.88,0:18:09.35,Default,,0000,0000,0000,,I'm sorry for the woman,\Nbut I can't help you...
+Dialogue: 0,0:18:10.52,0:18:12.54,Default,,0000,0000,0000,,I have to protect Kyoka\Nas much as I can.
+Dialogue: 0,0:18:13.25,0:18:15.69,Default,,0000,0000,0000,,Kyoka! Where's Chiro?
+Dialogue: 0,0:18:16.69,0:18:20.53,Default,,0000,0000,0000,,You cared for it so much,\Nhow can you just forget about it?
+Dialogue: 0,0:18:25.27,0:18:26.63,Default,,0000,0000,0000,,Get your hands off of Kyoka!
+Dialogue: 0,0:18:28.17,0:18:33.04,Default,,0000,0000,0000,,Ryo, your protection of Kyoka\Nis a spell cast by our leader, too!
+Dialogue: 0,0:18:33.57,0:18:34.63,Default,,0000,0000,0000,,That's not true!
+Dialogue: 0,0:18:47.02,0:18:47.72,Default,,0000,0000,0000,,Ouch...
+Dialogue: 0,0:18:50.19,0:18:50.71,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:18:52.99,0:18:53.76,Default,,0000,0000,0000,,Oh... thanks.
+Dialogue: 0,0:18:54.90,0:18:59.20,Default,,0000,0000,0000,,Why don't you give up?\NThey just don't want to remember.
+Dialogue: 0,0:19:00.03,0:19:01.50,Default,,0000,0000,0000,,Shut up! It doesn't concern you!
+Dialogue: 0,0:19:01.84,0:19:02.53,Default,,0000,0000,0000,,I'll help you.
+Dialogue: 0,0:19:04.21,0:19:08.20,Default,,0000,0000,0000,,I may have an idea of how\Nto get their memories back.
+Dialogue: 0,0:19:09.51,0:19:12.54,Default,,0000,0000,0000,,I never thought I'd see you\Nbreak your cool like this.
+Dialogue: 0,0:19:15.18,0:19:17.74,Default,,0000,0000,0000,,I don't like it.\NKyoka not being Kyoka.
+Dialogue: 0,0:19:18.29,0:19:21.92,Default,,0000,0000,0000,,The leader not being the leader,\NManami not being Manami...
+Dialogue: 0,0:19:23.09,0:19:23.78,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:19:26.66,0:19:27.36,Default,,0000,0000,0000,,Come with me.
+Dialogue: 0,0:19:32.40,0:19:40.27,Default,,0000,0000,0000,,I see, so Sakaki is...\NBut our plans are nearly complete.
+Dialogue: 0,0:19:41.44,0:19:43.64,Default,,0000,0000,0000,,The night of the full moon,\Nthe Kotodama user...
+Dialogue: 0,0:19:44.81,0:19:46.87,Default,,0000,0000,0000,,We have all the things we need.
+Dialogue: 0,0:19:48.78,0:19:50.22,Default,,0000,0000,0000,,The Fire group will be here soon.
+Dialogue: 0,0:19:51.12,0:19:55.85,Default,,0000,0000,0000,,Let's add some more\Nentertainment on such a lovely night.
+Dialogue: 0,0:19:56.82,0:19:59.82,Default,,0000,0000,0000,,Now, give us the power!
+Dialogue: 0,0:20:01.03,0:20:06.43,Default,,0000,0000,0000,,If I can save Manami and\Ndefeat my brother, I will...
+Dialogue: 0,0:20:09.27,0:20:14.47,Default,,0000,0000,0000,,Ryo, Kyoka, Makoto, everyone...\NGoodbye. Please be happy.
+Dialogue: 0,0:20:40.07,0:20:44.00,Default,,0000,0000,0000,,Kyoka, where have you been?\NI've been looking for you.
+Dialogue: 0,0:20:45.21,0:20:45.87,Default,,0000,0000,0000,,Sister?
+Dialogue: 0,0:20:46.94,0:20:50.60,Default,,0000,0000,0000,,Everyone's been worried about you...\NLet's go home.
+Dialogue: 0,0:20:51.05,0:20:53.57,Default,,0000,0000,0000,,Thank God.\NThen all this has been a dream.
+Dialogue: 0,0:20:53.88,0:20:59.34,Default,,0000,0000,0000,,Everyone's waiting for you.\NFather, mother, Souji...
+Dialogue: 0,0:20:59.75,0:21:02.28,Default,,0000,0000,0000,,Huh... Oh, Souji's coming too.
+Dialogue: 0,0:21:03.96,0:21:07.49,Default,,0000,0000,0000,,I'm sorry, sis.\NI know I ruined your date.
+Dialogue: 0,0:21:08.03,0:21:13.66,Default,,0000,0000,0000,,It's okay. Why don't\Nthe three of us go to a festival?
+Dialogue: 0,0:21:17.41,0:21:19.00,Default,,0000,0000,0000,,You wanted to meet me, right?
+Dialogue: 0,0:21:19.94,0:21:22.50,Default,,0000,0000,0000,,You wanted to sleep with me\Neven if you betrayed Misato.
+Dialogue: 0,0:21:23.58,0:21:25.14,Default,,0000,0000,0000,,You wanted this to happen.
+Dialogue: 0,0:21:25.51,0:21:27.88,Default,,0000,0000,0000,,N-No! Stop it!
+Dialogue: 0,0:21:32.22,0:21:34.48,Default,,0000,0000,0000,,If you just accept it,\Nyou won't feel insecure.
+Dialogue: 0,0:21:35.46,0:21:37.95,Default,,0000,0000,0000,,If you sin,\Nyou won't feel so insecure.
+Dialogue: 0,0:21:40.33,0:21:42.06,Default,,0000,0000,0000,,S-Sister...
+Dialogue: 0,0:22:42.56,0:22:43.45,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:23:01.18,0:23:02.64,Default,,0000,0000,0000,,It's your first time in this hole...
+Dialogue: 0,0:23:07.82,0:23:10.44,Default,,0000,0000,0000,,S-Stop! Stop! Stop!
+Dialogue: 0,0:23:29.50,0:23:31.66,Default,,0000,0000,0000,,{\i1}So that was it! I remember!{\i0}
+Dialogue: 0,0:23:34.91,0:23:38.81,Default,,0000,0000,0000,,{\i1}I just fought against the Light!{\i0}\N{\i1}I had my memory wiped out...{\i0}
+Dialogue: 0,0:23:41.25,0:23:43.24,Default,,0000,0000,0000,,Chiro! You came back to me...
+Dialogue: 0,0:23:46.12,0:23:47.31,Default,,0000,0000,0000,,Kyoka... you...
+Dialogue: 0,0:23:48.19,0:23:51.12,Default,,0000,0000,0000,,Yeah... I remember it all.
+Dialogue: 0,0:23:54.80,0:23:55.49,Default,,0000,0000,0000,,Kyoka...
+Dialogue: 0,0:24:05.47,0:24:06.84,Default,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:24:07.48,0:24:09.60,Default,,0000,0000,0000,,{\i1}Evening. Sorry it's so late.{\i0}
+Dialogue: 0,0:24:10.34,0:24:15.04,Default,,0000,0000,0000,,No problem, but what's up?\NDid you run away? Hold on...
+Dialogue: 0,0:24:17.92,0:24:22.18,Default,,0000,0000,0000,,I was coming home from\Nclass and I wanted to see you.
+Dialogue: 0,0:24:22.89,0:24:24.95,Default,,0000,0000,0000,,I was just getting lonely by myself.
+Dialogue: 0,0:24:32.03,0:24:34.23,Default,,0000,0000,0000,,Izumi really went there by herself?
+Dialogue: 0,0:24:40.74,0:24:42.50,Default,,0000,0000,0000,,Ryo, trying to hog all the glory?
+Dialogue: 0,0:24:43.34,0:24:44.14,Default,,0000,0000,0000,,Hoshigawa...
+Dialogue: 0,0:24:45.28,0:24:46.58,Default,,0000,0000,0000,,We're all friends here.
+Dialogue: 0,0:24:46.88,0:24:49.37,Default,,0000,0000,0000,,We can't let you have all the fun, Senpai.
+Dialogue: 0,0:24:50.52,0:24:53.54,Default,,0000,0000,0000,,That idiot, Izumi.\NAlways making us worry about her.
+Dialogue: 0,0:24:56.72,0:24:57.88,Default,,0000,0000,0000,,Looks like everyone's here.
+Dialogue: 0,0:25:03.83,0:25:05.86,Default,,0000,0000,0000,,Everyone... they came after all...
+Dialogue: 0,0:25:07.03,0:25:08.33,Default,,0000,0000,0000,,Let's go save Manami and the Mistress!
+Dialogue: 0,0:25:21.38,0:25:22.21,Default,,0000,0000,0000,,Izumi!
+Dialogue: 0,0:25:22.85,0:25:23.37,Default,,0000,0000,0000,,Miss!
+Dialogue: 0,0:25:23.65,0:25:24.24,Default,,0000,0000,0000,,Leader!
+Dialogue: 0,0:25:24.72,0:25:25.38,Default,,0000,0000,0000,,Izumi!
+Dialogue: 0,0:25:25.59,0:25:26.21,Default,,0000,0000,0000,,Miss Izumi!
+Dialogue: 0,0:25:26.32,0:25:27.08,Default,,0000,0000,0000,,Izumi!
+Dialogue: 0,0:25:29.66,0:25:31.12,Default,,0000,0000,0000,,Everyone! Ryo!
+Dialogue: 0,0:25:31.59,0:25:32.39,Default,,0000,0000,0000,,Lightning Fang!
+Dialogue: 0,0:25:40.80,0:25:41.56,Default,,0000,0000,0000,,Sun Tegjupery!
+Dialogue: 0,0:25:43.40,0:25:44.30,Default,,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:25:45.44,0:25:50.97,Default,,0000,0000,0000,,We're your friends. We won't let you\Nfight the Light alone, Izumi!
+Dialogue: 0,0:25:52.55,0:25:57.64,Default,,0000,0000,0000,,I think so too. Sorry, mistress,\Nbut I broke the charm on them.
+Dialogue: 0,0:25:58.45,0:26:00.22,Default,,0000,0000,0000,,But this is my...
+Dialogue: 0,0:26:00.75,0:26:04.55,Default,,0000,0000,0000,,Izumi! Let me deal with Souji,\Nfor my own sake.
+Dialogue: 0,0:26:05.89,0:26:08.29,Default,,0000,0000,0000,,That's why... I'll have to do this.
+Dialogue: 0,0:26:10.50,0:26:14.52,Default,,0000,0000,0000,,For us to go home alive,\Nwe need you to rest for a while.
+Dialogue: 0,0:26:15.37,0:26:16.77,Default,,0000,0000,0000,,Hamura, I'm leaving the rest to you.
+Dialogue: 0,0:26:18.27,0:26:20.83,Default,,0000,0000,0000,,When she wakes up, catch up with us.
+Dialogue: 0,0:26:22.11,0:26:23.84,Default,,0000,0000,0000,,R-Right, I got it.
+Dialogue: 0,0:26:25.45,0:26:28.18,Default,,0000,0000,0000,,Wait, why are you looking\Nat me like that?
+Dialogue: 0,0:26:29.25,0:26:30.55,Default,,0000,0000,0000,,W-Well...
+Dialogue: 0,0:26:30.92,0:26:34.91,Default,,0000,0000,0000,,Just because we had sex,\Nit doesn't mean anything between us!
+Dialogue: 0,0:26:37.16,0:26:40.15,Default,,0000,0000,0000,,I can't believe I have to have this guy\Nbehaving like he's my boyfriend!
+Dialogue: 0,0:26:40.66,0:26:42.15,Default,,0000,0000,0000,,What a dork!
+Dialogue: 0,0:26:43.13,0:26:43.93,Default,,0000,0000,0000,,Sorry...
+Dialogue: 0,0:26:44.30,0:26:46.23,Default,,0000,0000,0000,,Why are you apologizing?
+Dialogue: 0,0:26:49.87,0:26:52.46,Default,,0000,0000,0000,,Well, let's go.\NWe're counting on you, Hamura.
+Dialogue: 0,0:26:52.87,0:26:55.21,Default,,0000,0000,0000,,Unfortunately, I'll have to let\Nyou be the knight this time.
+Dialogue: 0,0:26:55.64,0:26:57.34,Default,,0000,0000,0000,,Make sure you live up to the title, Ryo.
+Dialogue: 0,0:26:57.54,0:26:59.38,Default,,0000,0000,0000,,Yeah... You guys be careful too.
+Dialogue: 0,0:27:03.65,0:27:08.45,Default,,0000,0000,0000,,Ryo! I was a little happy that\Nyou cared about my feelings.
+Dialogue: 0,0:27:08.99,0:27:09.79,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:27:14.50,0:27:18.26,Default,,0000,0000,0000,,What does this mean, Souji.\NWhy hasn't the Night Queen appeared?
+Dialogue: 0,0:27:19.03,0:27:23.06,Default,,0000,0000,0000,,They say the queen died\Nwith a grudge in her soul.
+Dialogue: 0,0:27:23.84,0:27:28.60,Default,,0000,0000,0000,,Perhaps this Kotodama user\Ndoes not have enough negative energy.
+Dialogue: 0,0:27:30.31,0:27:32.14,Default,,0000,0000,0000,,How about using the Light's\Npower collected in the tower and...
+Dialogue: 0,0:27:32.58,0:27:36.98,Default,,0000,0000,0000,,combining it with the Kotodama\Nuser's power to hit the True Moon?
+Dialogue: 0,0:27:38.29,0:27:41.38,Default,,0000,0000,0000,,The True Moon is the shadow\Nof the moon in the night sky.
+Dialogue: 0,0:27:42.06,0:27:45.79,Default,,0000,0000,0000,,If the True Moon gains its own\Nradiance, and loses all shadow,
+Dialogue: 0,0:27:46.33,0:27:49.49,Default,,0000,0000,0000,,then there will be no where\Nfor the Light to live there.
+Dialogue: 0,0:28:23.33,0:28:24.73,Default,,0000,0000,0000,,The True Moon is crying?
+Dialogue: 0,0:31:05.66,0:31:08.65,Default,,0000,0000,0000,,{\i1}Square of the Moon:{\i0}\N{\i1}The Night is Coming!{\i0}
+Dialogue: 0,0:31:09.70,0:31:12.43,Default,,0000,0000,0000,,I told them I wanted to wear\Na yukata in the episode,
+Dialogue: 0,0:31:12.83,0:31:15.60,Default,,0000,0000,0000,,but they made me wear\Nthis kimono instead!
+Dialogue: 0,0:31:16.87,0:31:19.70,Default,,0000,0000,0000,,Next episode: {\i1}The Night is Coming!{\i0}\N{\i1}Chapter 4: A Blurry Moon{\i0}.

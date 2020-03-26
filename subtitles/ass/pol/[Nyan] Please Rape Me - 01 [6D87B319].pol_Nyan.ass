@@ -1,0 +1,491 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build468  Dec 26 2015  22:17:00
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 5
+Video Position: 12688
+Original Script: 
+Collisions: Normal
+Audio File: ..\'Please Rape me[DVDWorkRaw].mkv'
+Last Style Storage: Podstawowy
+Video File: ..\'Please Rape me[DVDWorkRaw].mkv'
+Original Editing: 
+Original Timing: 
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.8,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H004EC5FF,&H000000FF,&H00254073,&H00000000,-1,-1,0,0,100,100,0,0,1,1.1,0,7,13,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00D24DFD,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0.1,2,7,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H004D00DC,&H00626262,&H00190038,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.2,0,8,20,20,20,1
+Style: ED Pl,Franklin Gothic Medium,28,&H004D00DC,&H00626262,&H00190038,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.2,0,2,20,20,20,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:04:12.98,0:04:21.95,Grupa,,0,0,0,,{\be1\fad(940,731)\move(13,10,774,10,8239,8948)\org(850,9)\t(8239,$end,\fry-25)}Nyan
+Dialogue: 0,0:04:14.94,0:04:21.95,Tytul,,0,0,0,,{\be1\fad(857,731)\move(209,438,794,438,6279,6988)\org(850,438)\t(6279,$end,\fry-25)}Chidori Yuuma zostaje **** przez ****?!
+Dialogue: 0,0:28:01.73,0:28:05.41,ED Rom,,0,0,0,,{\blur1\fad(100,100)}I wanna sweet your rape me yume miru
+Dialogue: 0,0:28:05.49,0:28:08.55,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Arienai story
+Dialogue: 0,0:28:08.67,0:28:17.63,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Anata ni kitai suriru ga hoshii tsuretette
+Dialogue: 0,0:28:27.82,0:28:31.15,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Onna no ko wa igai to hevii
+Dialogue: 0,0:28:31.17,0:28:33.84,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Demo ne naisho
+Dialogue: 0,0:28:34.09,0:28:38.96,ED Rom,,0,0,0,,{\blur1\fad(100,100)}"Kuchi ni dashite" nante ienai no desu
+Dialogue: 0,0:28:40.47,0:28:43.80,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Arikitari ja akitari suru no
+Dialogue: 0,0:28:43.82,0:28:46.50,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Motto ne gyutto ne
+Dialogue: 0,0:28:45.99,0:28:52.79,ED Rom,,0,0,0,,{\blur1\fad(100,100)\move(424,51,424,20,401,610)}Kiita koto nai himitsu no tobira kagi o sashite
+Dialogue: 0,0:28:53.91,0:29:00.72,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Afure dasu koukishin
+Dialogue: 0,0:29:00.80,0:29:07.87,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Mitsukete muriyari tsutsuki mawashite
+Dialogue: 0,0:29:08.10,0:29:11.91,ED Rom,,0,0,0,,{\blur1\fad(100,100)}I wanna sweet your rape me, hajikete
+Dialogue: 1,0:29:11.83,0:29:15.05,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Love, love beam sakuretsu
+Dialogue: 0,0:29:15.02,0:29:21.09,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Anata kara suki ga hoshii
+Dialogue: 0,0:29:21.35,0:29:24.50,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Please, please rape me, uchi nuite
+Dialogue: 1,0:29:24.48,0:29:27.72,ED Rom,,0,0,0,,{\blur1\fad(100,100)}*** shite *** ga ii
+Dialogue: 0,0:29:27.69,0:29:36.62,ED Rom,,0,0,0,,{\blur1\fad(100,100)}Anata no haato tsuki ugokashite sora takaku
+Dialogue: 0,0:28:01.73,0:28:05.41,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Marzę żebyś porządnie mnie zgwałcił!
+Dialogue: 0,0:28:05.49,0:28:08.55,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Ale to niemożliwe!
+Dialogue: 0,0:28:08.67,0:28:17.63,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Twoja radość jest tym czego pragnę!
+Dialogue: 0,0:28:27.82,0:28:31.15,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Dziewczyny są bardziej zboczone niż myślisz.
+Dialogue: 0,0:28:31.17,0:28:33.84,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Ale to tajemnica.
+Dialogue: 0,0:28:34.09,0:28:38.96,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Nie możemy po prostu powiedzieć, "opryskaj mnie".
+Dialogue: 0,0:28:40.47,0:28:43.80,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Zwykły seks szybko nudzi nas.
+Dialogue: 0,0:28:43.82,0:28:46.50,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Kochaj i ściskaj mnie mocniej!
+Dialogue: 0,0:28:45.99,0:28:52.79,ED Pl,,0,0,0,,{\blur1\fad(100,100)\move(424,428,424,459,401,610)}Otwórzmy drzwi prowadzące do nieznanego świata.
+Dialogue: 0,0:28:53.91,0:29:00.72,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Moje delikatne serduszko raduje się!
+Dialogue: 0,0:29:00.80,0:29:07.87,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Odnajdźmy i wepchnijmy to co nas nakręca.
+Dialogue: 0,0:29:08.10,0:29:11.91,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Chcę żebyś porządnie mnie zgwałcił!
+Dialogue: 1,0:29:11.83,0:29:15.05,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Albo przywalę ci promieniem miłości!
+Dialogue: 0,0:29:15.02,0:29:21.09,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Powiedz, że mnie kochasz!
+Dialogue: 0,0:29:21.35,0:29:24.50,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Proszę gwałć mnie mocno!
+Dialogue: 1,0:29:24.48,0:29:27.72,ED Pl,,0,0,0,,{\blur1\fad(100,100)}**** mnie i ****.
+Dialogue: 0,0:29:27.69,0:29:36.62,ED Pl,,0,0,0,,{\blur1\fad(100,100)}Poruszę twoim sercem, a potem wywalę je na śmietnik.
+Dialogue: 0,0:00:02.01,0:00:10.77,Default (i),,0,0,0,,{\be1}Hosaka Ippei wracając z pracy wybiera drogę przez park.
+Dialogue: 0,0:00:10.77,0:00:15.36,Default (i),,0,0,0,,{\be1}Ale nie robi tego by się odprężyć.
+Dialogue: 0,0:00:18.50,0:00:21.53,Default,,0,0,0,,{\be1}Tak! Mocniej!
+Dialogue: 0,0:00:21.53,0:00:23.96,Default,,0,0,0,,{\be1}No nie, kolejna para.
+Dialogue: 0,0:00:24.63,0:00:27.71,Default (i),,0,0,0,,{\be1}Ja chcę mój ukochany gwałt!
+Dialogue: 0,0:00:27.71,0:00:32.47,Default (i),,0,0,0,,{\be1}Jednakże jego doświadczenie w tym zakresie\Njest zerowe oraz nie był świadkiem żadnego z nich.
+Dialogue: 0,0:00:33.23,0:00:36.30,Default (i),,0,0,0,,{\be1}Mam dość tych wszędobylskich par.
+Dialogue: 0,0:00:36.30,0:00:40.48,Default,,0,0,0,,{\be1}Nie! Puść mnie!
+Dialogue: 0,0:00:41.10,0:00:42.30,Default,,0,0,0,,{\be1}Tędy?
+Dialogue: 0,0:00:48.49,0:00:50.68,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:00:50.68,0:00:52.91,Default,,0,0,0,,{\be1}Kazałem ci się zamknąć!
+Dialogue: 0,0:00:54.51,0:00:58.00,Default,,0,0,0,,{\be1}Dobra dziewczynka, dam ci nagrodę.
+Dialogue: 0,0:00:58.00,0:01:04.00,Default (i),,0,0,0,,{\be1}Ippei podglądając ich marzył\Nby to on był na miejscu gwałciciela.
+Dialogue: 0,0:01:04.00,0:01:08.54,Default,,0,0,0,,{\be1}Wjadę w ciebie moim wielkoludem!
+Dialogue: 0,0:01:13.97,0:01:17.02,Default,,0,0,0,,{\be1}Wspaniały wyraz twarzy!
+Dialogue: 0,0:01:18.30,0:01:21.33,Default,,0,0,0,,{\be1}Spuszczę się w tobie litrami!
+Dialogue: 0,0:01:22.67,0:01:25.52,Default,,0,0,0,,{\be1}Sutki ci stają!
+Dialogue: 0,0:01:26.59,0:01:29.43,Default,,0,0,0,,{\be1}A cipka robi się mokra!
+Dialogue: 0,0:01:29.43,0:01:33.03,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:01:35.01,0:01:36.25,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:01:47.09,0:01:49.27,Default,,0,0,0,,{\be1}Nadal dochodzę!
+Dialogue: 0,0:01:51.23,0:01:53.80,Default,,0,0,0,,{\be1}Podobało się? Dużo się spuściłem.
+Dialogue: 0,0:01:54.36,0:02:00.31,Default (i),,0,0,0,,{\be1}Trzymając w ręku stojącego kutasa\Nz zazdrością patrzył na gwałciciela.
+Dialogue: 0,0:02:00.31,0:02:02.77,Default,,0,0,0,,{\be1}Właśnie tego mi trzeba!
+Dialogue: 0,0:02:03.57,0:02:04.84,Default,,0,0,0,,{\be1}Kto tam?!
+Dialogue: 0,0:02:06.50,0:02:07.31,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:02:08.74,0:02:10.23,Default,,0,0,0,,{\be1}Narka!
+Dialogue: 0,0:02:14.87,0:02:17.37,Default,,0,0,0,,{\be1}Też chcę.
+Dialogue: 0,0:02:20.00,0:02:21.83,Default (i),,0,0,0,,{\be1}Niemożliwe.
+Dialogue: 0,0:02:23.40,0:02:26.33,Default (i),,0,0,0,,{\be1}Chyba słyszałem kobiecy głos.
+Dialogue: 0,0:02:29.84,0:02:32.39,Default,,0,0,0,,{\be1}To się dzieje naprawdę?
+Dialogue: 0,0:02:32.39,0:02:33.80,Default,,0,0,0,,{\be1}Ej, ty.
+Dialogue: 0,0:02:33.80,0:02:35.66,Default (i),,0,0,0,,{\be1}Ona żyje?
+Dialogue: 0,0:02:37.22,0:02:41.35,Default (i),,0,0,0,,{\be1}Widzę majtki! Dziewczęce majtki!
+Dialogue: 0,0:02:44.56,0:02:47.86,Default (i),,0,0,0,,{\be1}Zgwałcę ją!
+Dialogue: 0,0:02:51.40,0:02:55.86,Default (i),,0,0,0,,{\be1}Mogę mieć problem, gdy zacznie krzyczeć.
+Dialogue: 0,0:02:56.33,0:02:58.68,Default (i),,0,0,0,,{\be1}Nie obudzisz się, nie?
+Dialogue: 0,0:02:58.68,0:03:01.37,Default (i),,0,0,0,,{\be1}Jej usta wyglądają na miękkie.
+Dialogue: 0,0:03:01.45,0:03:10.96,Default (i),,0,0,0,,{\be1}Chcę jej wepchnąć kutasa\Ndo buzi i opryskać całą twarz!
+Dialogue: 0,0:03:11.96,0:03:16.40,Default (i),,0,0,0,,{\be1}Potem ostro zerżnę jej cipkę!
+Dialogue: 0,0:03:16.40,0:03:20.80,Default (i),,0,0,0,,{\be1}Dojdę 3 razy w cipce i 2 w buzi!
+Dialogue: 0,0:03:23.02,0:03:28.90,Default (i),,0,0,0,,{\be1}Będę wszędzie ją rżnął i spuszczał się na nią!
+Dialogue: 0,0:03:34.47,0:03:36.41,Default,,0,0,0,,{\be1}Jeszcze chwilę!
+Dialogue: 0,0:03:37.03,0:03:38.91,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:03:39.46,0:03:46.11,Default,,0,0,0,,{\be1}Gdzie się spuścić? Na nogi?\NCycki? Czy może twarz?
+Dialogue: 0,0:03:47.27,0:03:49.92,Default,,0,0,0,,{\be1}Cholera, już nie przestanę!
+Dialogue: 0,0:03:52.83,0:03:55.67,Default,,0,0,0,,{\be1}Jeszcze leci!
+Dialogue: 0,0:03:57.37,0:03:59.43,Default,,0,0,0,,{\be1}To nie tak!
+Dialogue: 0,0:03:59.43,0:04:01.44,Default,,0,0,0,,{\be1}A niby jak?
+Dialogue: 0,0:04:22.16,0:04:24.91,Default,,0,0,0,,{\be1}To moje mieszkanie.
+Dialogue: 0,0:04:25.68,0:04:31.46,Default,,0,0,0,,{\be1}Wygląda jak typowego zboka i nawet tak śmierdzi.
+Dialogue: 0,0:04:31.99,0:04:34.18,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:04:34.97,0:04:36.97,Default,,0,0,0,,{\be1}Takie lubisz?
+Dialogue: 0,0:04:40.47,0:04:41.94,Default,,0,0,0,,{\be1}Nie bierz bez pozwolenia!
+Dialogue: 0,0:04:41.94,0:04:45.56,Default,,0,0,0,,{\be1}Wszystkie są o gwałceniu, zboku.
+Dialogue: 0,0:04:45.56,0:04:47.50,Default,,0,0,0,,{\be1}Nie twój interes!
+Dialogue: 0,0:04:50.89,0:04:53.08,Default,,0,0,0,,{\be1}Jestem głodna.
+Dialogue: 0,0:04:53.08,0:04:56.99,Default,,0,0,0,,{\be1}Głuchy? Jestem głodna.
+Dialogue: 0,0:04:57.51,0:04:59.45,Default,,0,0,0,,{\be1}Dawaj jedzenie.
+Dialogue: 0,0:05:00.69,0:05:03.49,Default (i),,0,0,0,,{\be1}Spokojnie, przynajmniej zamoczę.
+Dialogue: 0,0:05:04.99,0:05:07.62,Default,,0,0,0,,{\be1}Chcesz u mnie przenocować?
+Dialogue: 0,0:05:07.62,0:05:10.50,Default,,0,0,0,,{\be1}Niewyraźnie mówię?
+Dialogue: 0,0:05:10.50,0:05:12.71,Default,,0,0,0,,{\be1}Czekaj, przecież...
+Dialogue: 0,0:05:12.71,0:05:14.69,Default,,0,0,0,,{\be1}Mów mi Sally.
+Dialogue: 0,0:05:14.69,0:05:19.40,Default,,0,0,0,,{\be1}Sally, nie powinienem mieszkać\Nz dziewczyną, którą dopiero poznałem.
+Dialogue: 0,0:05:19.40,0:05:26.61,Default,,0,0,0,,{\be1}Czyli mam pójść na policję i opowiedzieć co\Nzrobiłeś dziewczynie, którą dopiero poznałeś?
+Dialogue: 0,0:05:28.52,0:05:31.75,Default (i),,0,0,0,,{\be1}Czyżby uciekła z domu?
+Dialogue: 0,0:05:31.75,0:05:36.30,Default,,0,0,0,,{\be1}Nie interesuj się mną,\Nmasz mnie zaprowadzić do siebie.
+Dialogue: 0,0:05:38.03,0:05:49.39,Default (i),,0,0,0,,{\be1}Zaraz, ostatnio czytałem, że gość pozwolił obcej\Nzamieszkać ze sobą, a ta w zamian oddawała mu się.
+Dialogue: 0,0:05:50.36,0:05:55.04,Default (i),,0,0,0,,{\be1}Mam okazję zamoczyć!
+Dialogue: 0,0:05:55.04,0:05:59.17,Default,,0,0,0,,{\be1}To mam iść na policję?
+Dialogue: 0,0:05:59.17,0:06:01.66,Default,,0,0,0,,{\be1}Nie trzeba, zapraszam do mnie!
+Dialogue: 0,0:06:01.66,0:06:06.73,Default,,0,0,0,,{\be1}Skoro nalegasz, to niech będzie.
+Dialogue: 0,0:06:07.47,0:06:09.42,Default,,0,0,0,,{\be1}Gdzie jest łazienka?
+Dialogue: 0,0:06:09.42,0:06:11.52,Default,,0,0,0,,{\be1}Tam.
+Dialogue: 0,0:06:12.71,0:06:17.93,Default,,0,0,0,,{\be1}Zrób kolacje, gdy będę się kąpać, kapiszi?
+Dialogue: 0,0:06:17.93,0:06:19.46,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:06:19.46,0:06:22.62,Default (i),,0,0,0,,{\be1}Wytrzymaj, a będzie się działo!
+Dialogue: 0,0:06:26.30,0:06:28.54,Default,,0,0,0,,{\be1}Zasnąłem?
+Dialogue: 0,0:06:29.46,0:06:31.04,Default,,0,0,0,,{\be1}Ona...
+Dialogue: 0,0:06:33.06,0:06:36.59,Default,,0,0,0,,{\be1}To Kujou Sakura, podoba ci się jej piosenka?
+Dialogue: 0,0:06:37.82,0:06:41.05,Default,,0,0,0,,{\be1}Ona chce zostać zgwałcona.
+Dialogue: 0,0:06:42.21,0:06:46.43,Default,,0,0,0,,{\be1}Masz ze sobą leki? Weź je jak zjesz.
+Dialogue: 0,0:06:47.12,0:06:48.81,Default,,0,0,0,,{\be1}Wiesz co...
+Dialogue: 0,0:06:48.81,0:06:52.85,Default,,0,0,0,,{\be1}No dobra, powiem ci coś.
+Dialogue: 0,0:06:53.30,0:06:56.86,Default (i),,0,0,0,,{\be1}Potrafię wyczuć, gdy ktoś chce zostać zgwałcony.
+Dialogue: 0,0:06:57.60,0:07:03.17,Default (i),,0,0,0,,{\be1}A ona zdecydowanie tego chce.
+Dialogue: 0,0:07:03.17,0:07:05.36,Default (i),,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:07:07.94,0:07:08.87,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:07:12.21,0:07:14.87,Default,,0,0,0,,{\be1}Mniejszy niż myślałam.
+Dialogue: 0,0:07:15.41,0:07:17.29,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:07:17.29,0:07:20.41,Default,,0,0,0,,{\be1}Nie jestem klientką, nie przejmuj się mną.
+Dialogue: 0,0:07:21.68,0:07:23.93,Default,,0,0,0,,{\be1}Tam jest dział dla dorosłych, dzieci nie powinny...
+Dialogue: 0,0:07:23.93,0:07:25.88,Default,,0,0,0,,{\be1}Kogo nazywasz dzieckiem?!
+Dialogue: 0,0:07:28.47,0:07:31.22,Default,,0,0,0,,{\be1}Przepraszam, kierowniku.
+Dialogue: 0,0:07:31.22,0:07:32.76,Default,,0,0,0,,{\be1}Ippei.
+Dialogue: 0,0:07:32.76,0:07:35.71,Default,,0,0,0,,{\be1}Co tu robisz?!
+Dialogue: 0,0:07:35.71,0:07:40.23,Default,,0,0,0,,{\be1}Ippei, znasz ją? To twoja dziewczyna?!
+Dialogue: 0,0:07:40.23,0:07:42.90,Default,,0,0,0,,{\be1}Nie, ona jest...
+Dialogue: 0,0:07:43.45,0:07:44.87,Default,,0,0,0,,{\be1}Kierowniku.
+Dialogue: 0,0:07:44.87,0:07:47.94,Default,,0,0,0,,{\be1}- Tak?\N- Masz niezłą kolekcję.
+Dialogue: 0,0:07:48.76,0:07:53.14,Default,,0,0,0,,{\be1}Posiadasz całkiem rzadkie filmy.
+Dialogue: 0,0:07:53.14,0:07:54.41,Default,,0,0,0,,{\be1}Zauważyłaś?
+Dialogue: 0,0:07:54.94,0:07:56.14,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:07:56.14,0:08:02.42,Default,,0,0,0,,{\be1}Masz mniej znane filmy, zagraniczne oraz\Nte których nie ma jeszcze w sprzedaży.
+Dialogue: 0,0:08:02.84,0:08:04.78,Default,,0,0,0,,{\be1}Sam je wybierałeś?
+Dialogue: 0,0:08:04.78,0:08:08.71,Default,,0,0,0,,{\be1}- Tak.\N- Dobry wybór.
+Dialogue: 0,0:08:08.71,0:08:10.64,Default,,0,0,0,,{\be1}Dziękuję.
+Dialogue: 0,0:08:11.36,0:08:14.45,Default,,0,0,0,,{\be1}Wiesz chociaż o czym mówisz?
+Dialogue: 0,0:08:14.45,0:08:15.64,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:08:16.71,0:08:20.29,Default,,0,0,0,,{\be1}Tak w ogóle, to skąd znasz Ippeia?
+Dialogue: 0,0:08:20.29,0:08:22.27,Default,,0,0,0,,{\be1}Chcesz wiedzieć?
+Dialogue: 0,0:08:22.27,0:08:23.66,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:08:23.66,0:08:29.45,Default,,0,0,0,,{\be1}Leżałam nieprzytomna w parku\Nwtedy przyszedł Ippei i...
+Dialogue: 0,0:08:30.48,0:08:32.66,Default,,0,0,0,,{\be1}- To kuzynka!\N- Co?
+Dialogue: 0,0:08:33.35,0:08:38.09,Default,,0,0,0,,{\be1}Wczoraj przyjechała, a wcześniej mieszkała na wsi.
+Dialogue: 0,0:08:38.09,0:08:40.70,Default,,0,0,0,,{\be1}Chcesz mnie wrobić w kuzynkę i wieśniarę?
+Dialogue: 0,0:08:41.65,0:08:45.54,Default,,0,0,0,,{\be1}Ja się tym zajmę, dobra?
+Dialogue: 0,0:08:45.54,0:08:47.12,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:08:47.12,0:08:50.22,Default,,0,0,0,,{\be1}Przedstaw się mojemu kierownikowi.
+Dialogue: 0,0:08:50.86,0:08:52.23,Default,,0,0,0,,{\be1}Sally, jego kuzynka.
+Dialogue: 0,0:08:52.23,0:08:57.23,Default,,0,0,0,,{\be1}Sally. Uroczę imię!
+Dialogue: 0,0:08:57.80,0:09:00.64,Default,,0,0,0,,{\be1}On jest normalny?
+Dialogue: 0,0:09:02.03,0:09:05.75,Default,,0,0,0,,{\be1}Jestem kierownikiem, Iwaoko Jirou.
+Dialogue: 0,0:09:05.75,0:09:07.87,Default,,0,0,0,,{\be1}Miło cię poznać, Sally.
+Dialogue: 0,0:09:07.87,0:09:09.21,Default,,0,0,0,,{\be1}No ja myślę.
+Dialogue: 0,0:09:09.21,0:09:11.45,Default,,0,0,0,,{\be1}Nie bądź zarozumiała!
+Dialogue: 0,0:09:11.45,0:09:13.74,Default,,0,0,0,,{\be1}Wracam na zaplecze.
+Dialogue: 0,0:09:13.74,0:09:16.56,Default,,0,0,0,,{\be1}Sklep zostawiam tobie.
+Dialogue: 0,0:09:16.56,0:09:17.81,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:09:17.81,0:09:20.46,Default,,0,0,0,,{\be1}Sally, możesz się rozejrzeć.
+Dialogue: 0,0:09:22.11,0:09:23.63,Default,,0,0,0,,{\be1}Urocza.
+Dialogue: 0,0:09:24.56,0:09:28.29,Default,,0,0,0,,{\be1}Widać, że ciągnie swój do swego.
+Dialogue: 0,0:09:28.29,0:09:30.29,Default,,0,0,0,,{\be1}Nie jestem pedofilem!
+Dialogue: 0,0:09:30.29,0:09:34.22,Default,,0,0,0,,{\be1}Ale zbokiem tak.
+Dialogue: 0,0:09:34.22,0:09:35.26,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:09:37.67,0:09:39.00,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:09:39.00,0:09:42.21,Default,,0,0,0,,{\be1}Chciałabym kartę członkowską.
+Dialogue: 0,0:09:42.21,0:09:43.23,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:09:43.89,0:09:46.73,Default,,0,0,0,,{\be1}Wypełnij to.
+Dialogue: 0,0:09:47.36,0:09:50.69,Default,,0,0,0,,{\be1}Podaj imię, nazwisko, numer telefonu i adres.
+Dialogue: 0,0:09:50.69,0:09:52.24,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:09:57.18,0:09:59.68,Default (i),,0,0,0,,{\be1}Jest podobna.
+Dialogue: 0,0:09:59.68,0:10:00.54,Default,,0,0,0,,{\be1}Ippei.
+Dialogue: 0,0:10:02.11,0:10:05.04,Default,,0,0,0,,{\be1}Coś z nią nie tak?
+Dialogue: 0,0:10:05.63,0:10:07.89,Default,,0,0,0,,{\be1}Nie tak głośno!
+Dialogue: 0,0:10:07.89,0:10:10.55,Default,,0,0,0,,{\be1}Mam wrażenie, że ją znam.
+Dialogue: 0,0:10:10.55,0:10:13.55,Default,,0,0,0,,{\be1}- Skąd?\N- Ze szkoły.
+Dialogue: 0,0:10:13.55,0:10:15.66,Default,,0,0,0,,{\be1}- Przepraszam.\N- Tak?
+Dialogue: 0,0:10:15.66,0:10:21.31,Default,,0,0,0,,{\be1}Nie jestem pewna,\Nale chyba chodziliśmy do jednej klasy.
+Dialogue: 0,0:10:21.31,0:10:23.91,Default,,0,0,0,,{\be1}Jesteś Hosaka Ippei?
+Dialogue: 0,0:10:23.91,0:10:25.06,Default,,0,0,0,,{\be1}Chidori?
+Dialogue: 0,0:10:25.69,0:10:29.65,Default,,0,0,0,,{\be1}Tak się cieszę! Pamiętałeś!
+Dialogue: 0,0:10:29.65,0:10:32.30,Default,,0,0,0,,{\be1}No oczywiście, że pamiętałem.
+Dialogue: 0,0:10:32.30,0:10:34.25,Default,,0,0,0,,{\be1}Co za zbieg okoliczności.
+Dialogue: 0,0:10:34.25,0:10:36.79,Default,,0,0,0,,{\be1}Może to przeznaczenie?
+Dialogue: 0,0:10:36.79,0:10:37.98,Default,,0,0,0,,{\be1}Możliwe.
+Dialogue: 0,0:10:37.98,0:10:43.39,Default,,0,0,0,,{\be1}Muszę już iść, umówiłam się z przyjaciółką.
+Dialogue: 0,0:10:44.16,0:10:46.34,Default,,0,0,0,,{\be1}Mogę jej pokazać ten sklep?
+Dialogue: 0,0:10:46.34,0:10:47.49,Default,,0,0,0,,{\be1}Jasne.
+Dialogue: 0,0:10:47.49,0:10:49.80,Default,,0,0,0,,{\be1}Dzięki, do zobaczenia.
+Dialogue: 0,0:10:51.09,0:10:53.09,Default,,0,0,0,,{\be1}Twoja karta członkowska.
+Dialogue: 0,0:10:53.09,0:10:54.09,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:10:54.09,0:10:58.34,Default,,0,0,0,,{\be1}Jeśli nie masz nic przeciwko,\Nto może wyskoczmy kiedyś na kawę?
+Dialogue: 0,0:10:59.06,0:11:01.79,Default,,0,0,0,,{\be1}Dzwoń kiedy chcesz, narka!
+Dialogue: 0,0:11:02.55,0:11:04.10,Default,,0,0,0,,{\be1}Narka.
+Dialogue: 0,0:11:07.89,0:11:09.22,Default,,0,0,0,,{\be1}Trafiło ci się.
+Dialogue: 0,0:11:09.22,0:11:12.00,Default,,0,0,0,,{\be1}Nie, po prostu była miła.
+Dialogue: 0,0:11:12.00,0:11:17.39,Default,,0,0,0,,{\be1}Chodziło mi, że masz szansę\Nzgwałcić swoją pierwszą miłość.
+Dialogue: 0,0:11:17.39,0:11:22.56,Default,,0,0,0,,{\be1}- Chcesz powiedzieć...\N- Tak, pragnie być zgwałcona.
+Dialogue: 0,0:11:22.56,0:11:25.12,Default,,0,0,0,,{\be1}Że niby szkolna gwiazda?
+Dialogue: 0,0:11:25.12,0:11:28.13,Default,,0,0,0,,{\be1}Powiem ci coś jeszcze.
+Dialogue: 0,0:11:29.63,0:11:33.13,Default,,0,0,0,,{\be1}Ona nadal jest dziewicą.
+Dialogue: 0,0:11:37.77,0:11:38.85,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:11:38.85,0:11:41.59,Default,,0,0,0,,{\be1}Jak to coś się nazywa?
+Dialogue: 0,0:11:42.44,0:11:43.66,Default,,0,0,0,,{\be1}To smakomyk.
+Dialogue: 0,0:11:43.66,0:11:45.83,Default,,0,0,0,,{\be1}Smakomyk?
+Dialogue: 0,0:11:45.83,0:11:49.71,Default,,0,0,0,,{\be1}Kiedyś często go jadłem. Niezły, nie?
+Dialogue: 0,0:11:49.71,0:11:52.36,Default,,0,0,0,,{\be1}Zadziwiająco tak.
+Dialogue: 0,0:11:52.84,0:11:55.51,Default,,0,0,0,,{\be1}Jest tani i ma dużo smaków.
+Dialogue: 0,0:11:55.51,0:11:57.63,Default,,0,0,0,,{\be1}To jest ich więcej?
+Dialogue: 0,0:11:57.63,0:11:59.66,Default,,0,0,0,,{\be1}Tak, chciałabyś?
+Dialogue: 0,0:12:00.21,0:12:01.35,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:12:01.35,0:12:07.17,Default,,0,0,0,,{\be1}Od dzisiaj jem tylko budynie i smakomyki.
+Dialogue: 0,0:12:07.17,0:12:09.63,Default,,0,0,0,,{\be1}No co ty, jedz normalnie.
+Dialogue: 0,0:12:12.56,0:12:13.57,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:12:13.57,0:12:15.26,Default,,0,0,0,,{\be1}Cześć, Hosaka.
+Dialogue: 0,0:12:15.26,0:12:16.67,Default,,0,0,0,,{\be1}O, cześć.
+Dialogue: 0,0:12:16.67,0:12:20.11,Default,,0,0,0,,{\be1}Jak obiecałam przyprowadziłam ją.
+Dialogue: 0,0:12:20.11,0:12:21.25,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:21.25,0:12:25.40,Default,,0,0,0,,{\be1}Przecież mówiłam, że przyprowadzę tu przyjaciółkę.
+Dialogue: 0,0:12:26.19,0:12:28.69,Default,,0,0,0,,{\be1}Naprawdę to zrobiłaś.
+Dialogue: 0,0:12:28.69,0:12:33.29,Default,,0,0,0,,{\be1}No jasne, a do tego nie byle kogo.
+Dialogue: 0,0:12:33.29,0:12:34.64,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:12:35.67,0:12:36.69,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:12:39.75,0:12:41.20,Default,,0,0,0,,{\be1}Zauważyłeś?
+Dialogue: 0,0:12:44.30,0:12:46.52,Default,,0,0,0,,{\be1}Nie tak głośno!
+Dialogue: 0,0:12:46.52,0:12:48.46,Default,,0,0,0,,{\be1}Kujou Sakura?!
+Dialogue: 0,0:12:48.46,0:12:50.21,Default,,0,0,0,,{\be1}Zgadłeś.
+Dialogue: 0,0:12:50.60,0:12:52.02,Default,,0,0,0,,{\be1}Pozwól, że przedstawię.
+Dialogue: 0,0:12:52.02,0:12:59.17,Default,,0,0,0,,{\be1}Ta ślicznotka to najwyższej\Nsławy piosenkarka, Kujou Sakura.
+Dialogue: 0,0:12:59.17,0:13:02.23,Default,,0,0,0,,{\be1}Miło mi.
+Dialogue: 0,0:13:06.49,0:13:08.67,Default,,0,0,0,,{\be1}Czy ja śnię?
+Dialogue: 0,0:13:10.23,0:13:11.49,Default,,0,0,0,,{\be1}Co jest?
+Dialogue: 0,0:13:11.49,0:13:13.23,Default,,0,0,0,,{\be1}Masz kolejną.
+Dialogue: 0,0:13:13.63,0:13:18.99,Default,,0,0,0,,{\be1}Już ci mówiłam, że ona chce zostać zgwałcona.
+Dialogue: 0,0:13:19.93,0:13:22.99,Default,,0,0,0,,{\be1}O czym ty mówisz?
+Dialogue: 0,0:13:22.99,0:13:24.52,Default,,0,0,0,,{\be1}Chcesz wiedzieć?
+Dialogue: 0,0:13:24.52,0:13:27.04,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:13:27.04,0:13:27.95,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:13:27.95,0:13:33.00,Default (i),,0,0,0,,{\be1}Na razie odpuszczę sobie Sally,\Nbo mam do zrobienia coś innego!
+Dialogue: 0,0:13:33.79,0:13:37.33,Default (i),,0,0,0,,{\be1}Moja pierwsza miłość, Chidori Yuuma!
+Dialogue: 0,0:13:37.33,0:13:45.33,Default (i),,0,0,0,,{\be1}Oraz ktoś kogo zwykły szarak\Nnigdy by nie poznał, Kujou Sakura!
+Dialogue: 0,0:13:45.33,0:13:49.47,Default (i),,0,0,0,,{\be1}Muszę wybrać, która rozpocznie moją karierę!
+Dialogue: 0,0:13:49.47,0:13:58.96,Default (i),,0,0,0,,{\be1}Nie widać tego po nich,\Nale pragnąć zostać zgwałcone!
+Dialogue: 0,0:13:58.96,0:14:02.34,Default (i),,0,0,0,,{\be1}Spełnię ich fantazje!
+Dialogue: 0,0:14:02.34,0:14:08.73,Default (i),,0,0,0,,{\be1}Sprawię, że będą błagać bym je gwałcił!
+Dialogue: 0,0:14:18.91,0:14:20.76,Default,,0,0,0,,{\be1}Przepraszam!
+Dialogue: 0,0:14:21.62,0:14:23.11,Default,,0,0,0,,{\be1}Spóźniłeś się!
+Dialogue: 0,0:14:23.11,0:14:25.55,Default,,0,0,0,,{\be1}Sorki, musiałem coś załatwić.
+Dialogue: 0,0:14:34.64,0:14:38.97,Default,,0,0,0,,{\be1}Za spóźnienie ty stawiasz, jasne?
+Dialogue: 0,0:14:38.97,0:14:40.83,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:14:40.83,0:14:42.07,Default,,0,0,0,,{\be1}Żartowałam.
+Dialogue: 0,0:14:42.62,0:14:43.93,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:14:43.93,0:14:49.04,Default,,0,0,0,,{\be1}Ja cię zaprosiłam, więc ja stawiam, jasne?
+Dialogue: 0,0:14:49.68,0:14:52.58,Default,,0,0,0,,{\be1}- No dobra.\N- Dobrze, więc chodźmy.
+Dialogue: 0,0:14:52.99,0:14:58.04,Default,,0,0,0,,{\be1}I wtedy przewróciła się i wylała całe wiadro wody.
+Dialogue: 0,0:14:58.04,0:15:05.05,Default,,0,0,0,,{\be1}A najlepsze jest to, że piętro niżej stał\Nnauczyciel i od razu ruszył do niej krzycząc.
+Dialogue: 0,0:15:06.34,0:15:09.12,Default,,0,0,0,,{\be1}Cały czas tylko ja gadam.
+Dialogue: 0,0:15:09.12,0:15:11.67,Default,,0,0,0,,{\be1}Sorki, trochę się denerwuję.
+Dialogue: 0,0:15:11.67,0:15:16.28,Default,,0,0,0,,{\be1}No bo jest bardzo ładna i byłaś gwiazdą szkoły.
+Dialogue: 0,0:15:16.28,0:15:18.61,Default,,0,0,0,,{\be1}Przesadzasz, czyżbyś się już upił?
+Dialogue: 0,0:15:20.36,0:15:24.27,Default,,0,0,0,,{\be1}Telefon mi dzwoni, zaraz przyjdę.
+Dialogue: 0,0:15:26.58,0:15:29.37,Default (i),,0,0,0,,{\be1}Mam szansę!
+Dialogue: 0,0:15:30.51,0:15:33.87,Default (i),,0,0,0,,{\be1}Tyle wystarczy? Jeszcze trochę.
+Dialogue: 0,0:15:34.44,0:15:37.99,Default (i),,0,0,0,,{\be1}Cholera! Oby nic się jej nie stało!
+Dialogue: 0,0:15:37.99,0:15:39.88,Default (i),,0,0,0,,{\be1}Oby się nie skapnęła.
+Dialogue: 0,0:15:40.64,0:15:52.39,Default (i),,0,0,0,,{\be1}Jak tylko wypije muszę zaczekać aż pójdzie do kibla,\Nzamaskować się i wparować do jej kabiny!
+Dialogue: 0,0:15:52.39,0:15:57.77,Default (i),,0,0,0,,{\be1}Rozerwę jej ubrania,\Ngdy będzie próbowała się bronić!
+Dialogue: 0,0:15:57.77,0:16:00.93,Default (i),,0,0,0,,{\be1}A potem wjadę w nią i spuszczę się litrami!
+Dialogue: 0,0:16:01.80,0:16:04.28,Default (i),,0,0,0,,{\be1}Na koniec wyjdziemy jakby nigdy nic!
+Dialogue: 0,0:16:04.28,0:16:06.40,Default (i),,0,0,0,,{\be1}Plan idealny!
+Dialogue: 0,0:16:06.40,0:16:08.81,Default (i),,0,0,0,,{\be1}Jestem genialny!
+Dialogue: 0,0:16:08.81,0:16:09.91,Default,,0,0,0,,{\be1}Jestem.
+Dialogue: 0,0:16:10.50,0:16:13.41,Default,,0,0,0,,{\be1}Wznieśmy toast.
+Dialogue: 0,0:16:13.41,0:16:14.91,Default,,0,0,0,,{\be1}Zdrowie!
+Dialogue: 0,0:16:19.92,0:16:24.39,Default (i),,0,0,0,,{\be1}Pij do dna winko z niespodzianką!
+Dialogue: 0,0:16:26.42,0:16:31.43,Default (i),,0,0,0,,{\be1}A gdy już pobiegniesz do kibla zostaniesz zgwałcona!
+Dialogue: 0,0:16:32.10,0:16:33.34,Default,,0,0,0,,{\be1}Hosaka.
+Dialogue: 0,0:16:33.34,0:16:36.82,Default (i),,0,0,0,,{\be1}Czemu nie poszła ani razu?
+Dialogue: 0,0:16:36.82,0:16:42.82,Default,,0,0,0,,{\be1}Hosaka! Wszystko w porządku?\NDojdziesz sam do domu?
+Dialogue: 0,0:16:42.82,0:16:44.44,Default,,0,0,0,,{\be1}Tak, a ty?
+Dialogue: 0,0:16:44.44,0:16:49.23,Default (i),,0,0,0,,{\be1}Wiem, że mieszka sama, mogę to zrobić u niej.
+Dialogue: 0,0:16:49.23,0:16:51.45,Default,,0,0,0,,{\be1}Mam cię odprowadzić?
+Dialogue: 0,0:16:52.66,0:16:55.02,Default,,0,0,0,,{\be1}Nie trzeba, dam sobie radę.
+Dialogue: 0,0:16:55.02,0:16:59.15,Default,,0,0,0,,{\be1}Ale niebezpiecznie jest chodzić\Nkobiecie samej o tej porze.
+Dialogue: 0,0:16:59.15,0:17:01.46,Default,,0,0,0,,{\be1}Z tobą byłoby niebezpieczniej.
+Dialogue: 0,0:17:03.12,0:17:04.07,Default (i),,0,0,0,,{\be1}Skapnęła się?
+Dialogue: 0,0:17:04.07,0:17:07.47,Default,,0,0,0,,{\be1}Żartowałam. Jeszcze zadzwonię.
+Dialogue: 0,0:17:08.57,0:17:11.68,Default,,0,0,0,,{\be1}Ona tak poważnie? Nie rób se jaj!
+Dialogue: 0,0:17:15.22,0:17:18.06,Default (i),,0,0,0,,{\be1}Szuka taksówki?
+Dialogue: 0,0:17:18.06,0:17:20.69,Default (i),,0,0,0,,{\be1}A może...
+Dialogue: 0,0:17:21.34,0:17:24.75,Default (i),,0,0,0,,{\be1}Ten park nie jest w ogóle oświetlony.
+Dialogue: 0,0:17:24.75,0:17:30.74,Default (i),,0,0,0,,{\be1}Nie jest duży, ale kobiety nie powinny\Nprzechodzić przez niego same.
+Dialogue: 0,0:17:31.88,0:17:33.74,Default (i),,0,0,0,,{\be1}Mam swoją szansę.
+Dialogue: 0,0:17:37.80,0:17:39.71,Default,,0,0,0,,{\be1}Czas działać!
+Dialogue: 0,0:17:41.64,0:17:45.69,Default,,0,0,0,,{\be1}Zdążyłam, chyba za dużo wypiłam.
+Dialogue: 0,0:17:46.77,0:17:48.71,Default,,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:17:51.76,0:17:53.02,Default,,0,0,0,,{\be1}Zboczeniec!
+Dialogue: 0,0:17:53.02,0:17:54.90,Default,,0,0,0,,{\be1}Nie, ja tylko...
+Dialogue: 0,0:17:54.90,0:17:58.12,Default,,0,0,0,,{\be1}- Nie!\N- Cholera!
+Dialogue: 0,0:18:03.89,0:18:05.22,Default,,0,0,0,,{\be1}Chido...
+Dialogue: 0,0:18:05.22,0:18:07.56,Default (i),,0,0,0,,{\be1}Zaraz, nie po imieniu.
+Dialogue: 0,0:18:07.56,0:18:09.21,Default,,0,0,0,,{\be1}Żyjesz?
+Dialogue: 0,0:18:09.21,0:18:13.08,Default (i),,0,0,0,,{\be1}Jesteśmy tu sami, a ona leży wypięta do mnie!
+Dialogue: 0,0:18:13.08,0:18:15.28,Default (i),,0,0,0,,{\be1}Wóz albo przewóz!
+Dialogue: 0,0:18:17.85,0:18:22.29,Default,,0,0,0,,{\be1}Dziewicza cipka Chidori Yuumy!
+Dialogue: 0,0:18:24.39,0:18:25.90,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:18:25.90,0:18:27.18,Default,,0,0,0,,{\be1}Obudziłaś się.
+Dialogue: 0,0:18:27.18,0:18:28.79,Default,,0,0,0,,{\be1}Co się dzieje?!
+Dialogue: 0,0:18:28.79,0:18:31.63,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:18:31.63,0:18:33.61,Default,,0,0,0,,{\be1}Stul dziób!
+Dialogue: 0,0:18:33.61,0:18:35.04,Default,,0,0,0,,{\be1}Zamknij się!
+Dialogue: 0,0:18:35.04,0:18:37.06,Default,,0,0,0,,{\be1}Mam cię obić?
+Dialogue: 0,0:18:38.52,0:18:39.66,Default,,0,0,0,,{\be1}Kim jesteś?!
+Dialogue: 0,0:18:39.66,0:18:41.81,Default,,0,0,0,,{\be1}Ja? Jestem...
+Dialogue: 0,0:18:42.39,0:18:46.79,Default,,0,0,0,,{\be1}Gdy tylko założysz maskę\Nstajesz się tajemniczym gwałcicielem!
+Dialogue: 0,0:18:46.79,0:18:52.42,Default,,0,0,0,,{\be1}Demon gwałtów! Urodzony gwałciciel!\NZamaskowany gwałciciel!
+Dialogue: 0,0:18:52.42,0:18:56.05,Default,,0,0,0,,{\be1}Tajemniczym gwałcicielem, zamaskowany gwałciciel!
+Dialogue: 0,0:18:56.05,0:18:58.26,Default,,0,0,0,,{\be1}Czyli po prostu zboczeniec.
+Dialogue: 0,0:18:58.26,0:19:00.08,Default,,0,0,0,,{\be1}Zamilcz! Nie nazywaj mnie tak!
+Dialogue: 0,0:19:00.08,0:19:05.29,Default,,0,0,0,,{\be1}A jak inaczej mam cię nazwać,\Ngdy wbijasz do kobiecej ubikacji?!
+Dialogue: 0,0:19:05.89,0:19:11.39,Default,,0,0,0,,{\be1}Dobrze wiem, że masz fetysz gwałtów.
+Dialogue: 0,0:19:11.39,0:19:13.34,Default,,0,0,0,,{\be1}Co mam?
+Dialogue: 0,0:19:13.84,0:19:15.35,Default,,0,0,0,,{\be1}Chyba śnisz!
+Dialogue: 0,0:19:16.01,0:19:18.35,Default (i),,0,0,0,,{\be1}Cipka Chidori Yuumy!
+Dialogue: 0,0:19:18.89,0:19:21.31,Default,,0,0,0,,{\be1}Ty chyba...
+Dialogue: 0,0:19:21.31,0:19:24.35,Default (i),,0,0,0,,{\be1}Więc to tak smakuje!
+Dialogue: 0,0:19:24.86,0:19:27.66,Default,,0,0,0,,{\be1}Proszę, przestań!
+Dialogue: 0,0:19:28.40,0:19:31.36,Default (i),,0,0,0,,{\be1}Nie mogę przestać!
+Dialogue: 0,0:19:32.49,0:19:34.10,Default,,0,0,0,,{\be1}Słona.
+Dialogue: 0,0:19:34.87,0:19:38.86,Default,,0,0,0,,{\be1}No bo przed chwilą sikałam!
+Dialogue: 0,0:19:39.30,0:19:41.87,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:19:41.87,0:19:45.06,Default,,0,0,0,,{\be1}To może ty possiesz mojego?
+Dialogue: 0,0:19:45.06,0:19:46.87,Default,,0,0,0,,{\be1}Ogłupiałeś?!
+Dialogue: 0,0:19:47.64,0:19:50.80,Default,,0,0,0,,{\be1}Zabieraj to paskudztwo!
+Dialogue: 0,0:19:50.80,0:19:52.45,Default,,0,0,0,,{\be1}Otwieraj gębę!
+Dialogue: 0,0:19:52.45,0:19:53.88,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:19:53.88,0:19:59.10,Default,,0,0,0,,{\be1}Radzę ci być posłuszną, bo coś\Nmoże się przytrafić twojej przyjaciółce.
+Dialogue: 0,0:19:59.10,0:20:01.39,Default,,0,0,0,,{\be1}Toż to sławna Kujou.
+Dialogue: 0,0:20:01.39,0:20:04.77,Default,,0,0,0,,{\be1}Skąd wiesz? Ona nie z tym nic wspólnego!
+Dialogue: 0,0:20:04.77,0:20:07.04,Default,,0,0,0,,{\be1}Nie waż się ją tknąć!
+Dialogue: 0,0:20:07.04,0:20:09.10,Default,,0,0,0,,{\be1}To już zależy od ciebie.
+Dialogue: 0,0:20:09.10,0:20:12.69,Default,,0,0,0,,{\be1}Tchórz! Ale tylko obciągnę!
+Dialogue: 0,0:20:12.69,0:20:16.47,Default,,0,0,0,,{\be1}Proszę, nie chcę zostać zhańbiona.
+Dialogue: 0,0:20:16.47,0:20:20.66,Default,,0,0,0,,{\be1}O ile mnie zadowolisz.
+Dialogue: 0,0:20:21.37,0:20:23.76,Default,,0,0,0,,{\be1}Na co czekasz? Dawaj!
+Dialogue: 0,0:20:23.76,0:20:25.66,Default,,0,0,0,,{\be1}No wiem.
+Dialogue: 0,0:20:27.68,0:20:29.76,Default (i),,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:20:29.76,0:20:31.62,Default (i),,0,0,0,,{\be1}Co się dzieje?!
+Dialogue: 0,0:20:42.14,0:20:45.09,Default,,0,0,0,,{\be1}Jednak muszę tak!
+Dialogue: 0,0:20:51.80,0:20:53.69,Default,,0,0,0,,{\be1}Nie rozumiem!
+Dialogue: 0,0:20:56.26,0:21:00.31,Default,,0,0,0,,{\be1}Nie ma to jak dobre obciąganie!
+Dialogue: 0,0:21:02.76,0:21:03.70,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:21:12.71,0:21:16.35,Default,,0,0,0,,{\be1}Musiałaś wypić sporo spermy.
+Dialogue: 0,0:21:22.88,0:21:24.74,Default (i),,0,0,0,,{\be1}Wściekła się?
+Dialogue: 0,0:21:24.74,0:21:28.49,Default,,0,0,0,,{\be1}Teraz masz mnie wypuścić!
+Dialogue: 0,0:21:29.42,0:21:30.23,Default,,0,0,0,,{\be1}No co?
+Dialogue: 0,0:21:30.23,0:21:32.30,Default,,0,0,0,,{\be1}A to co?
+Dialogue: 0,0:21:33.73,0:21:37.44,Default,,0,0,0,,{\be1}A jednak to lubisz.
+Dialogue: 0,0:21:37.44,0:21:38.23,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:21:42.34,0:21:43.74,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:21:44.33,0:21:47.24,Default,,0,0,0,,{\be1}Jak chcesz zostać zgwałcona\Nwystarczy, że poprosisz.
+Dialogue: 0,0:21:47.24,0:21:50.75,Default,,0,0,0,,{\be1}Wal się! Niby czemu miałabym chcieć?!
+Dialogue: 0,0:21:51.62,0:21:52.40,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:52.40,0:21:56.25,Default,,0,0,0,,{\be1}Jak sobie chcesz, wezmę cię siłą!
+Dialogue: 0,0:21:59.71,0:22:00.72,Default,,0,0,0,,{\be1}Co ci?
+Dialogue: 0,0:22:00.72,0:22:04.76,Default,,0,0,0,,{\be1}Co jest? Jest jeszcze większy!
+Dialogue: 0,0:22:04.76,0:22:07.01,Default,,0,0,0,,{\be1}Taki ma się zmieścić?
+Dialogue: 0,0:22:08.81,0:22:11.80,Default,,0,0,0,,{\be1}Jeśli taki we mnie wejdzie...
+Dialogue: 0,0:22:12.95,0:22:14.02,Default,,0,0,0,,{\be1}Nieważne.
+Dialogue: 0,0:22:14.68,0:22:16.40,Default,,0,0,0,,{\be1}Czekaj, nie...
+Dialogue: 0,0:22:16.40,0:22:18.53,Default,,0,0,0,,{\be1}Ciesz się, twoje dziewictwo...
+Dialogue: 0,0:22:19.48,0:22:21.53,Default,,0,0,0,,{\be1}Skąd wiesz, że jestem dziewicą?
+Dialogue: 0,0:22:21.53,0:22:24.49,Default,,0,0,0,,{\be1}Jest moje!
+Dialogue: 0,0:22:29.40,0:22:32.00,Default,,0,0,0,,{\be1}Dalej się nie zmieści!
+Dialogue: 0,0:22:33.13,0:22:34.45,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:22:34.45,0:22:36.79,Default,,0,0,0,,{\be1}A jednak byłaś dziewicą.
+Dialogue: 0,0:22:36.79,0:22:38.98,Default (i),,0,0,0,,{\be1}Sally miała rację.
+Dialogue: 0,0:22:40.60,0:22:43.05,Default,,0,0,0,,{\be1}Tego pragnęłaś, nie?
+Dialogue: 0,0:22:43.05,0:22:46.80,Default,,0,0,0,,{\be1}Nieprawda!
+Dialogue: 0,0:22:48.25,0:22:52.07,Default (i),,0,0,0,,{\be1}Dziwne, czy aby na pewno lubi gwałty?
+Dialogue: 0,0:22:52.07,0:22:54.31,Default,,0,0,0,,{\be1}Przekonamy się, gdy się spuszczę!
+Dialogue: 0,0:22:54.31,0:22:57.07,Default,,0,0,0,,{\be1}Więcej pospiesz się!
+Dialogue: 0,0:22:57.07,0:22:58.95,Default,,0,0,0,,{\be1}Jesteś pewna?
+Dialogue: 0,0:22:59.77,0:23:02.82,Default,,0,0,0,,{\be1}Może bardziej boleć, na pewno chcesz?
+Dialogue: 0,0:23:02.82,0:23:05.17,Default,,0,0,0,,{\be1}A rób jak chcesz!
+Dialogue: 0,0:23:05.17,0:23:07.32,Default,,0,0,0,,{\be1}Z przyjemnością!
+Dialogue: 0,0:23:25.36,0:23:29.85,Default,,0,0,0,,{\be1}Jeszcze nie skończyłeś?!
+Dialogue: 0,0:23:32.09,0:23:33.72,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:23:33.72,0:23:38.50,Default,,0,0,0,,{\be1}- Szybciej!\N- Jak sobie chcesz!
+Dialogue: 0,0:23:39.30,0:23:42.36,Default,,0,0,0,,{\be1}Dojdę w środku!
+Dialogue: 0,0:23:42.84,0:23:45.74,Default,,0,0,0,,{\be1}Błagam, tylko nie w środku!
+Dialogue: 0,0:23:45.74,0:23:48.90,Default,,0,0,0,,{\be1}- Za późno!\N- Nie w środku!
+Dialogue: 0,0:23:48.90,0:23:55.37,Default,,0,0,0,,{\be1}Błagam, spuść się na zewnątrz!
+Dialogue: 0,0:23:58.19,0:24:02.87,Default,,0,0,0,,{\be1}Spuściłeś się we mnie!
+Dialogue: 0,0:24:02.87,0:24:09.14,Default,,0,0,0,,{\be1}- Jeszcze nie skończyłem!\N- Zapełniasz mnie!
+Dialogue: 0,0:24:12.50,0:24:13.83,Default,,0,0,0,,{\be1}Ej!
+Dialogue: 0,0:24:14.64,0:24:17.00,Default,,0,0,0,,{\be1}Jesteś okrutny!
+Dialogue: 0,0:24:17.93,0:24:20.42,Default,,0,0,0,,{\be1}Nie sądziłem, że się popłaczesz, Chidori.
+Dialogue: 0,0:24:21.84,0:24:24.11,Default,,0,0,0,,{\be1}Jak mnie nazwałeś?
+Dialogue: 0,0:24:26.65,0:24:28.91,Default (i),,0,0,0,,{\be1}Wypaplałem!
+Dialogue: 0,0:24:28.91,0:24:31.56,Default,,0,0,0,,{\be1}No przecież mówiłem, że widziałem twój dowodzik!
+Dialogue: 0,0:24:31.56,0:24:33.16,Default,,0,0,0,,{\be1}Nic takiego nie mówiłeś!
+Dialogue: 0,0:24:33.16,0:24:35.66,Default,,0,0,0,,{\be1}Czyżbyś był...
+Dialogue: 0,0:24:35.66,0:24:38.83,Default,,0,0,0,,{\be1}Jestem tajemniczym gwałcicielem,\Nzamaskowany gwałciciel!
+Dialogue: 0,0:24:38.83,0:24:43.67,Default,,0,0,0,,{\be1}Jeszcze się zobaczymy, do zobaczenia!
+Dialogue: 0,0:24:50.33,0:24:53.18,Default,,0,0,0,,{\be1}Ale zjebałem.
+Dialogue: 0,0:24:55.09,0:24:56.18,Default (i),,0,0,0,,{\be1}Ignoruje mnie.
+Dialogue: 0,0:25:02.67,0:25:11.70,Default (i),,0,0,0,,{\be1}Kiedyś ją zgwałcę! Zgwałcę...
+Dialogue: 0,0:25:13.72,0:25:18.80,Default (i),,0,0,0,,{\be1}Co to za dziwne uczucie na kutasie?
+Dialogue: 0,0:25:24.76,0:25:28.22,Default (i),,0,0,0,,{\be1}Czemu trzyma mnie za kutasa?!
+Dialogue: 0,0:25:29.61,0:25:36.72,Default (i),,0,0,0,,{\be1}Zawsze gdy się budzi jest wkurwiona!\NLepiej żeby nadal spała inaczej zginę!
+Dialogue: 0,0:25:37.92,0:25:41.75,Default (i),,0,0,0,,{\be1}Dopiero zauważyłem, że wyskoczyły jej cycki!
+Dialogue: 0,0:25:42.48,0:25:44.73,Default (i),,0,0,0,,{\be1}Cycki!
+Dialogue: 0,0:25:45.56,0:25:46.96,Default (i),,0,0,0,,{\be1}Prawie jakby...
+Dialogue: 0,0:25:46.96,0:25:50.84,Default (i),,0,0,0,,{\be1}Możesz włożyć mi między piersi.
+Dialogue: 0,0:25:50.84,0:25:54.24,Default (i),,0,0,0,,{\be1}Mówiła tak!
+Dialogue: 0,0:25:54.24,0:25:57.56,Default,,0,0,0,,{\be1}Oddawaj, głąbie.
+Dialogue: 0,0:25:57.56,0:25:59.81,Default,,0,0,0,,{\be1}Co mam ci oddać?
+Dialogue: 0,0:25:59.81,0:26:05.00,Default,,0,0,0,,{\be1}Mojego smakomyka.
+Dialogue: 0,0:26:06.30,0:26:08.04,Default,,0,0,0,,{\be1}Co ci?
+Dialogue: 0,0:26:08.97,0:26:10.17,Default,,0,0,0,,{\be1}Nie mogę otworzyć.
+Dialogue: 0,0:26:10.17,0:26:15.12,Default,,0,0,0,,{\be1}To nie smakomyk tylko moja kiełbacha!
+Dialogue: 0,0:26:15.12,0:26:16.51,Default,,0,0,0,,{\be1}Mam ją.
+Dialogue: 0,0:26:17.14,0:26:19.89,Default,,0,0,0,,{\be1}Jesteś dziwna, nawet gdy śpisz.
+Dialogue: 0,0:26:20.84,0:26:23.34,Default,,0,0,0,,{\be1}Smacznego.
+Dialogue: 0,0:26:24.50,0:26:26.02,Default,,0,0,0,,{\be1}Nie ciągnij!
+Dialogue: 0,0:26:27.43,0:26:29.53,Default,,0,0,0,,{\be1}Boli, ale jest też przyjemnie!
+Dialogue: 0,0:26:33.84,0:26:36.03,Default (i),,0,0,0,,{\be1}Nie wytrzymię!
+Dialogue: 0,0:26:36.61,0:26:39.80,Default,,0,0,0,,{\be1}Sally, smakomyk jest trochę niżej.
+Dialogue: 0,0:26:40.63,0:26:43.57,Default,,0,0,0,,{\be1}Chcesz go? Jeszcze kawałek.
+Dialogue: 0,0:26:43.57,0:26:47.36,Default,,0,0,0,,{\be1}Chcę smakomyka.
+Dialogue: 0,0:26:48.07,0:26:53.05,Default (i),,0,0,0,,{\be1}Cholera, tak mi dobrze, że chyba\Ndojdę zanim włoży go do buzi!
+Dialogue: 0,0:26:53.05,0:26:58.06,Default,,0,0,0,,{\be1}Sally, zbliż się i otwórz buzię.
+Dialogue: 0,0:26:59.06,0:27:01.56,Default,,0,0,0,,{\be1}Nie wytrzymam! Dochodzę!
+Dialogue: 0,0:27:06.29,0:27:08.57,Default,,0,0,0,,{\be1}Gorący smakomyk.
+Dialogue: 0,0:27:10.28,0:27:12.10,Default,,0,0,0,,{\be1}Całkiem nieźle.
+Dialogue: 0,0:27:12.10,0:27:15.16,Default,,0,0,0,,{\be1}Zanim się obudzi lepiej wezmę...
+Dialogue: 0,0:27:25.65,0:27:26.52,Default,,0,0,0,,{\be1}Ippei.
+Dialogue: 0,0:27:26.52,0:27:28.23,Default,,0,0,0,,{\be1}Tak?
+Dialogue: 0,0:27:28.23,0:27:31.07,Default,,0,0,0,,{\be1}Co to ma znaczyć?!
+Dialogue: 0,0:27:31.07,0:27:35.58,Default,,0,0,0,,{\be1}To wszystko przez dziwne zrządzenie losu i...
+Dialogue: 0,0:27:35.58,0:27:37.09,Default,,0,0,0,,{\be1}Czyli co?
+Dialogue: 0,0:27:37.09,0:27:40.10,Default,,0,0,0,,{\be1}Czyli już nie żyję.
+Dialogue: 0,0:27:40.54,0:27:42.60,Default,,0,0,0,,{\be1}Zezwalam, wykonać natychmiast.
+Dialogue: 0,0:27:42.60,0:27:44.50,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:27:45.19,0:27:47.60,Default (i),,0,0,0,,{\be1}Żegnajcie.
+Dialogue: 0,0:27:47.60,0:27:55.51,Default (i),,0,0,0,,{\be1}Tego dnia z bloku Ippeia\Ndobiegał głośny krzyk mężczyzny.
+Dialogue: 0,0:27:55.51,0:28:01.48,Default,,0,0,0,,{\be1}Tylko nie smakomykiem w tyłek!

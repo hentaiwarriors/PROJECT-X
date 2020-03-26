@@ -1,0 +1,316 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+Style: Titre,Tahoma,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,10,1
+Style: Titre2,UA Squared,24,&H000C76DA,&H0000FFFF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0.00,1,0.8,3,2,20,20,10,1
+Style: Credits,Dekka Dense JL,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:41.40,0:00:42.70,Default,,0000,0000,0000,,Général...
+Dialogue: 0,0:00:46.37,0:00:47.93,Default,,0000,0000,0000,,Vous avez commis une erreur.
+Dialogue: 0,0:00:48.24,0:00:50.68,Default,,0000,0000,0000,,Je suis désolée.
+Dialogue: 0,0:00:50.98,0:00:57.28,Default,,0000,0000,0000,,Et ce Shinichirou, le fils de Koutarou, possède l'{\i1}Abeille de Feu.
+Dialogue: 0,0:01:16.57,0:01:20.70,Default,,0000,0000,0000,,Que pensez-vous des capacités de notre Abeille ?
+Dialogue: 0,0:01:23.24,0:01:24.97,Default,,0000,0000,0000,,Répondez !
+Dialogue: 0,0:01:25.51,0:01:28.61,Default,,0000,0000,0000,,Elle n'est pas encore prête à devenir le fer de lance de notre armée.
+Dialogue: 0,0:01:29.25,0:01:32.85,Default,,0000,0000,0000,,Je n'arrive pas à croire que ce soit elle.
+Dialogue: 0,0:01:33.96,0:01:35.58,Default,,0000,0000,0000,,Bonjour !
+Dialogue: 0,0:01:35.86,0:01:39.88,Default,,0000,0000,0000,,Le ramune du matin est délicieux.
+Dialogue: 0,0:01:41.16,0:01:42.79,Default,,0000,0000,0000,,Ah. Enfoiré de Morizaki !
+Dialogue: 0,0:01:43.13,0:01:47.76,Default,,0000,0000,0000,,Sa machine est trop sensible.
+Dialogue: 0,0:01:48.34,0:01:53.54,Default,,0000,0000,0000,,L'arme secrète de l'Armée Nationale est maintenant une serveuse ?
+Dialogue: 0,0:01:54.14,0:01:57.24,Default,,0000,0000,0000,,Je vous donne une dernière chance.
+Dialogue: 0,0:01:57.75,0:02:01.58,Default,,0000,0000,0000,,Complétez la mission d'exctraction !
+Dialogue: 0,0:02:01.72,0:02:04.49,Default,,0000,0000,0000,,Je suis maintenant prêt à tout pour l'obtenir.
+Dialogue: 0,0:02:04.49,0:02:08.22,Default,,0000,0000,0000,,Si le fils de Morizaki est contre nous, tuez-le.
+Dialogue: 0,0:02:09.96,0:02:15.86,Default,,0000,0000,0000,,Et n'oubliez pas : la vie de votre soeur est en jeu.
+Dialogue: 0,0:02:17.33,0:02:18.26,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:02:27.41,0:02:28.81,Default,,0000,0000,0000,,Plus que l'{\i1}Abeille de Feu...
+Dialogue: 0,0:02:29.81,0:02:34.95,Default,,0000,0000,0000,,Si je pouvais récupérer l'{\i1}Abeille{\i0}, le projet {\i1}Dragon de Feu{\i0} aboutirait enfin.
+Dialogue: 0,0:02:34.95,0:02:39.78,Default,,0000,0000,0000,,Et alors, plus personne ne s'opposerait à nous.
+Dialogue: 0,0:02:44.19,0:02:49.96,Titre,,0000,0000,0000,,Episode 2
+Dialogue: 0,0:02:44.19,0:02:49.96,Titre2,,0000,0000,0000,,{\an8}La team [H-R] est heureuse de vous présenter :
+Dialogue: 0,0:02:51.07,0:02:53.19,Default,,0000,0000,0000,,Hé, vous avez une assiette de riz et une omelette de prêtes ?
+Dialogue: 0,0:02:53.33,0:02:55.73,Default,,0000,0000,0000,,Oui, un instant s'il vous plaît...
+Dialogue: 0,0:02:57.51,0:02:58.40,Default,,0000,0000,0000,,Et mon riz au curry ?
+Dialogue: 0,0:02:58.91,0:03:00.91,Default,,0000,0000,0000,,Je vous amène ça.
+Dialogue: 0,0:03:02.01,0:03:06.91,Default,,0000,0000,0000,,Maître... il me faudrait une côtelette et un hamburger. En menu s'il vous plaît.
+Dialogue: 0,0:03:07.38,0:03:08.37,Default,,0000,0000,0000,,Bien.
+Dialogue: 0,0:03:11.62,0:03:15.56,Default,,0000,0000,0000,,Mais j'ai besoin de plus de serveurs.
+Dialogue: 0,0:03:16.06,0:03:17.35,Default,,0000,0000,0000,,Je sais, mais...
+Dialogue: 0,0:03:17.53,0:03:23.36,Default,,0000,0000,0000,,Yuuri est occupée avec ses cours et Kotomi est malade.
+Dialogue: 0,0:03:23.43,0:03:25.70,Default,,0000,0000,0000,,Donc je dois faire des efforts.
+Dialogue: 0,0:03:25.87,0:03:27.27,Default,,0000,0000,0000,,Arisa... c'est prêt ?
+Dialogue: 0,0:03:27.34,0:03:29.86,Default,,0000,0000,0000,,Oui... j'arrive...
+Dialogue: 0,0:03:30.71,0:03:32.61,Default,,0000,0000,0000,,Coucou Shinichirou.
+Dialogue: 0,0:03:36.21,0:03:39.24,Default,,0000,0000,0000,,Je suis désolé, mais je n'ai pas le temps de jouer avec toi en ce moment.
+Dialogue: 0,0:03:39.35,0:03:41.01,Default,,0000,0000,0000,,Je ne suis pas venue pour jouer.
+Dialogue: 0,0:03:41.15,0:03:43.08,Default,,0000,0000,0000,,Qu'y a-t-il, Saya ?
+Dialogue: 0,0:03:44.05,0:03:46.95,Default,,0000,0000,0000,,Si tu as besoin d'une serveuse...
+Dialogue: 0,0:03:47.92,0:03:50.02,Default,,0000,0000,0000,,J'ai pensé que je pourrais...
+Dialogue: 0,0:03:50.29,0:03:54.42,Default,,0000,0000,0000,,Saya, tu as de la fièvre ?
+Dialogue: 0,0:03:55.26,0:03:58.06,Default,,0000,0000,0000,,Je te fais une faveur !
+Dialogue: 0,0:03:58.73,0:04:02.69,Default,,0000,0000,0000,,Wow ! Saya, tu vas nous aider ?
+Dialogue: 0,0:04:02.94,0:04:04.30,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:04:04.44,0:04:08.40,Default,,0000,0000,0000,,Heu, non. Enfin, seulement si toi et Shinichirou êtes d'accord...
+Dialogue: 0,0:04:08.51,0:04:10.21,Default,,0000,0000,0000,,Bien sûr !
+Dialogue: 0,0:04:10.21,0:04:11.84,Default,,0000,0000,0000,,N'est-ce pas, Maître ?
+Dialogue: 0,0:04:11.95,0:04:15.68,Default,,0000,0000,0000,,Et bien, nous avons besoin d'aide, donc...
+Dialogue: 0,0:04:16.15,0:04:18.09,Default,,0000,0000,0000,,D'accord, soit la bienvenue.
+Dialogue: 0,0:04:18.09,0:04:19.88,Default,,0000,0000,0000,,Merci !
+Dialogue: 0,0:04:21.36,0:04:23.45,Default,,0000,0000,0000,,Saya, tu es si mignonne.
+Dialogue: 0,0:04:23.52,0:04:24.72,Default,,0000,0000,0000,,Tu crois ?
+Dialogue: 0,0:04:25.03,0:04:27.65,Default,,0000,0000,0000,,Bien sûr, "les belles plumes font les beaux oiseaux".
+Dialogue: 0,0:04:28.03,0:04:31.02,Default,,0000,0000,0000,,Ok, j'espère de toi un travail sérieux, Saya.
+Dialogue: 0,0:04:42.64,0:04:47.64,Default,,0000,0000,0000,,Si le fils de Morizaki est contre nous, tuez-le.
+Dialogue: 0,0:04:49.32,0:04:52.29,Default,,0000,0000,0000,,Je veux éviter ça.
+Dialogue: 0,0:05:04.67,0:05:05.50,Default,,0000,0000,0000,,Bienvenue.
+Dialogue: 0,0:05:06.13,0:05:07.90,Default,,0000,0000,0000,,Puis-je prendre votre commande ?
+Dialogue: 0,0:05:08.00,0:05:09.53,Default,,0000,0000,0000,,Heu... un café, s'il vous plaît.
+Dialogue: 0,0:05:10.31,0:05:11.36,Default,,0000,0000,0000,,D'accord.
+Dialogue: 0,0:05:11.84,0:05:13.53,Default,,0000,0000,0000,,Pourquoi Saya est-elle... ?
+Dialogue: 0,0:05:13.61,0:05:15.87,Default,,0000,0000,0000,,Kotomi est malade.
+Dialogue: 0,0:05:15.94,0:05:18.17,Default,,0000,0000,0000,,Vraiment ? Ce n'est pas grave ?
+Dialogue: 0,0:05:39.53,0:05:43.30,Default,,0000,0000,0000,,Kotomi, tu n'as pas besoin de te retenir.
+Dialogue: 0,0:05:54.05,0:05:56.11,Default,,0000,0000,0000,,Je me demande si je n'ai pas été trop loin avec elle.
+Dialogue: 0,0:05:56.78,0:06:00.19,Default,,0000,0000,0000,,J'espère que son état va vite s'améliorer.
+Dialogue: 0,0:06:00.29,0:06:03.16,Default,,0000,0000,0000,,Yuuri me manque aussi.
+Dialogue: 0,0:06:03.32,0:06:05.69,Default,,0000,0000,0000,,Je dois trouver un moyen de...
+Dialogue: 0,0:06:08.76,0:06:10.20,Default,,0000,0000,0000,,Merci du coup de main.
+Dialogue: 0,0:06:10.60,0:06:12.83,Default,,0000,0000,0000,,Il est normal qu'on s'aide.
+Dialogue: 0,0:06:12.97,0:06:14.43,Default,,0000,0000,0000,,Tu peux venir demain si tu veux.
+Dialogue: 0,0:06:14.50,0:06:17.60,Default,,0000,0000,0000,,Quoi ? Tu es sûr ? Je peux vous aider ?
+Dialogue: 0,0:06:17.67,0:06:18.80,Default,,0000,0000,0000,,Bien sûr.
+Dialogue: 0,0:06:18.87,0:06:20.77,Default,,0000,0000,0000,,C'est très gentil de votre part.
+Dialogue: 0,0:06:20.84,0:06:24.14,Default,,0000,0000,0000,,Ok, donc ... on se voit demain.
+Dialogue: 0,0:06:24.21,0:06:25.41,Default,,0000,0000,0000,,Oh, merci.
+Dialogue: 0,0:06:26.28,0:06:28.11,Default,,0000,0000,0000,,Bonne nuit.
+Dialogue: 0,0:06:28.45,0:06:30.54,Default,,0000,0000,0000,,Salut.
+Dialogue: 0,0:06:38.56,0:06:41.32,Default,,0000,0000,0000,,Yuuri, pourquoi ?
+Dialogue: 0,0:07:16.40,0:07:18.16,Default,,0000,0000,0000,,Jouissons ensemble...
+Dialogue: 0,0:07:26.54,0:07:27.04,Default,,0000,0000,0000,,Ah... non.
+Dialogue: 0,0:07:27.04,0:07:29.77,Default,,0000,0000,0000,,Ah... non.
+Dialogue: 0,0:08:14.59,0:08:15.82,Default,,0000,0000,0000,,Oni-chan...
+Dialogue: 0,0:08:31.64,0:08:33.97,Default,,0000,0000,0000,,Kotomi. Je peux entrer ?
+Dialogue: 0,0:08:35.58,0:08:37.57,Default,,0000,0000,0000,,Je t'ai apporté de quoi manger.
+Dialogue: 0,0:08:40.68,0:08:41.61,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:08:44.39,0:08:45.75,Default,,0000,0000,0000,,Merci pour le repas.
+Dialogue: 0,0:08:46.19,0:08:48.06,Default,,0000,0000,0000,,C'était vraiment bon.
+Dialogue: 0,0:08:48.06,0:08:49.58,Default,,0000,0000,0000,,Mon plaisir.
+Dialogue: 0,0:08:52.29,0:08:56.20,Default,,0000,0000,0000,,Je suis vraiment heureuse d'être ta soeur.
+Dialogue: 0,0:08:57.27,0:08:58.20,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:08:58.20,0:09:02.36,Default,,0000,0000,0000,,J'ai perdu mes parents pendant le séisme d'il y a 7 ans.
+Dialogue: 0,0:09:03.57,0:09:06.90,Default,,0000,0000,0000,,C'est à ce moment que j'ai rencontré Oni-chan...
+Dialogue: 0,0:09:07.58,0:09:11.24,Default,,0000,0000,0000,,Et depuis j'ai vécu avec Oni-chan et sa famille, au restaurant...
+Dialogue: 0,0:09:11.38,0:09:15.48,Default,,0000,0000,0000,,Mon père était toujours retenu par l'armée.
+Dialogue: 0,0:09:15.48,0:09:17.45,Default,,0000,0000,0000,,Et ma mère est morte...
+Dialogue: 0,0:09:17.52,0:09:20.68,Default,,0000,0000,0000,,Oni-chan, ne m'abandonne pas.
+Dialogue: 0,0:09:20.79,0:09:24.28,Default,,0000,0000,0000,,Jamais. Je serais toujours à tes côtés, Kotomi.
+Dialogue: 0,0:09:25.69,0:09:26.49,Default,,0000,0000,0000,,Kotomi ?
+Dialogue: 0,0:09:29.73,0:09:30.86,Default,,0000,0000,0000,,Promets-moi...
+Dialogue: 0,0:09:31.20,0:09:32.06,Default,,0000,0000,0000,,Kotomi...
+Dialogue: 0,0:09:39.21,0:09:41.73,Default,,0000,0000,0000,,Kotomi.
+Dialogue: 0,0:10:02.26,0:10:04.29,Default,,0000,0000,0000,,Ah, Oni-chan !
+Dialogue: 0,0:10:24.69,0:10:25.78,Default,,0000,0000,0000,,Oni-chan...
+Dialogue: 0,0:10:28.79,0:10:30.42,Default,,0000,0000,0000,,C'est à mon tour.
+Dialogue: 0,0:10:35.93,0:10:39.06,Default,,0000,0000,0000,,Oni-chan a l'air d'être vraiment excité.
+Dialogue: 0,0:11:03.06,0:11:05.49,Default,,0000,0000,0000,,Ah... Oni-chan est...
+Dialogue: 0,0:11:50.20,0:11:53.70,Default,,0000,0000,0000,,Oni-chan... Je jouis...
+Dialogue: 0,0:12:16.33,0:12:20.32,Default,,0000,0000,0000,,Merci pour votre aide. Je me sens mieux maintenant.
+Dialogue: 0,0:12:20.77,0:12:24.07,Default,,0000,0000,0000,,Ah, je suis contente !
+Dialogue: 0,0:12:24.21,0:12:27.80,Default,,0000,0000,0000,,Bien, je présume que vous n'avez plus besoin de mon aide ?
+Dialogue: 0,0:12:28.21,0:12:30.11,Default,,0000,0000,0000,,Si Kotomi est là pour aider...
+Dialogue: 0,0:12:30.88,0:12:34.11,Default,,0000,0000,0000,,Non, Saya ! Continue à nous aider !
+Dialogue: 0,0:12:34.22,0:12:35.18,Default,,0000,0000,0000,,Kotomi...
+Dialogue: 0,0:12:35.25,0:12:36.65,Default,,0000,0000,0000,,Oni-chan ?
+Dialogue: 0,0:12:37.02,0:12:39.25,Default,,0000,0000,0000,,Yuuri n'est pas encore rentrée, et...
+Dialogue: 0,0:12:39.25,0:12:40.19,Default,,0000,0000,0000,,Bien sûr.
+Dialogue: 0,0:12:42.76,0:12:46.85,Default,,0000,0000,0000,,Ok. Prenons un congé et allons quelque part demain.
+Dialogue: 0,0:12:47.19,0:12:50.30,Default,,0000,0000,0000,,Wow ! Nous sortons tous ensemble.
+Dialogue: 0,0:12:50.30,0:12:55.00,Default,,0000,0000,0000,,Je veux aller dans un parc où les choses tournent en rond...
+Dialogue: 0,0:12:55.00,0:12:56.80,Default,,0000,0000,0000,,Ah, tu veux parler d'un parc d'attraction.
+Dialogue: 0,0:12:56.87,0:12:59.64,Default,,0000,0000,0000,,C'est ça ! On appelle ça un parc d'attraction.
+Dialogue: 0,0:12:59.74,0:13:04.54,Default,,0000,0000,0000,,Mais je n'ai rien à me mettre.
+Dialogue: 0,0:13:04.85,0:13:07.21,Default,,0000,0000,0000,,Ce n'est pas grave, je te prêterai de mes affaires.
+Dialogue: 0,0:13:07.28,0:13:08.42,Default,,0000,0000,0000,,Kotomi...
+Dialogue: 0,0:13:08.42,0:13:11.28,Default,,0000,0000,0000,,Mais avant ça, finissons le travail.
+Dialogue: 0,0:13:23.26,0:13:26.46,Default,,0000,0000,0000,,Un parc d'attraction... jolie sortie.
+Dialogue: 0,0:13:36.28,0:13:38.94,Default,,0000,0000,0000,,Ah... super !
+Dialogue: 0,0:13:43.12,0:13:45.31,Default,,0000,0000,0000,,Des chevaux qui tournent en rond.
+Dialogue: 0,0:13:47.22,0:13:50.82,Default,,0000,0000,0000,,Arisa, ne te perds pas.
+Dialogue: 0,0:13:52.23,0:13:56.39,Default,,0000,0000,0000,,Ce n'est pas facile de marcher avec ces habits. Je n'y suis pas habituée.
+Dialogue: 0,0:13:57.90,0:14:01.03,Default,,0000,0000,0000,,Ah bon ? Mais, Saya, tu es vraiment jolie.
+Dialogue: 0,0:14:01.27,0:14:02.70,Default,,0000,0000,0000,,N'est-ce pas Oni-chan ?
+Dialogue: 0,0:14:03.20,0:14:05.00,Default,,0000,0000,0000,,Hum... oui.
+Dialogue: 0,0:14:05.21,0:14:06.70,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:14:07.11,0:14:10.78,Default,,0000,0000,0000,,Je ne pensais pas que Saya puisse paraître aussi féminine.
+Dialogue: 0,0:14:10.78,0:14:12.87,Default,,0000,0000,0000,,Oh, Maître !
+Dialogue: 0,0:14:13.21,0:14:15.58,Default,,0000,0000,0000,,Je veux monter sur ces dadas.
+Dialogue: 0,0:14:16.02,0:14:17.14,Default,,0000,0000,0000,,Oni-chan,
+Dialogue: 0,0:14:17.28,0:14:19.34,Default,,0000,0000,0000,,Saya, allons-y.
+Dialogue: 0,0:14:35.54,0:14:38.40,Default,,0000,0000,0000,,Ha... C'était vraiment sympa !
+Dialogue: 0,0:14:38.64,0:14:39.44,Default,,0000,0000,0000,,Arisa.
+Dialogue: 0,0:14:39.71,0:14:43.91,Default,,0000,0000,0000,,Hein ? Yuuri ! Tu es revenue !
+Dialogue: 0,0:14:43.98,0:14:46.47,Default,,0000,0000,0000,,Oui. J'arrive d'Asakusa.
+Dialogue: 0,0:14:46.78,0:14:49.11,Default,,0000,0000,0000,,Contente de te revoir.
+Dialogue: 0,0:14:49.22,0:14:51.52,Default,,0000,0000,0000,,Je vais chercher le Maître.
+Dialogue: 0,0:14:51.52,0:14:53.45,Default,,0000,0000,0000,,Ah, attends, Arisa.
+Dialogue: 0,0:14:53.62,0:14:55.19,Default,,0000,0000,0000,,Hein... Qu'y a-t-il ?
+Dialogue: 0,0:14:55.19,0:14:56.55,Default,,0000,0000,0000,,Et bien...
+Dialogue: 0,0:14:57.59,0:15:01.58,Default,,0000,0000,0000,,Heu, je suis assoiffée. Ca te dirait un Ramune ?
+Dialogue: 0,0:15:01.80,0:15:05.46,Default,,0000,0000,0000,,Wow ! Un Ramune ? On est parties !
+Dialogue: 0,0:15:11.11,0:15:12.73,Default,,0000,0000,0000,,C'était vraiment effrayant.
+Dialogue: 0,0:15:12.81,0:15:15.33,Default,,0000,0000,0000,,Heu, il n'y avait pas de quoi.
+Dialogue: 0,0:15:15.51,0:15:16.60,Default,,0000,0000,0000,,Où est Arisa ?
+Dialogue: 0,0:15:17.91,0:15:19.85,Default,,0000,0000,0000,,Elle avait fini la première.
+Dialogue: 0,0:15:19.98,0:15:21.11,Default,,0000,0000,0000,,Vraiment...
+Dialogue: 0,0:15:21.45,0:15:22.85,Default,,0000,0000,0000,,Je vais aller la chercher.
+Dialogue: 0,0:15:23.35,0:15:24.94,Default,,0000,0000,0000,,Oh, merci.
+Dialogue: 0,0:15:26.12,0:15:28.92,Default,,0000,0000,0000,,Ah... shua, shua...
+Dialogue: 0,0:15:29.22,0:15:32.82,Default,,0000,0000,0000,,Bien, si tu aimes ça, tu peux en reprendre...
+Dialogue: 0,0:15:33.09,0:15:37.83,Default,,0000,0000,0000,,Oui ! Je vais boire tout ce qu'il y a.
+Dialogue: 0,0:15:39.30,0:15:41.00,Default,,0000,0000,0000,,Arisa !
+Dialogue: 0,0:15:41.80,0:15:42.89,Default,,0000,0000,0000,,Saya.
+Dialogue: 0,0:15:44.94,0:15:46.01,Default,,0000,0000,0000,,Yuuri est de retour !
+Dialogue: 0,0:15:46.01,0:15:46.67,Default,,0000,0000,0000,,Arisa !
+Dialogue: 0,0:15:48.74,0:15:50.80,Default,,0000,0000,0000,,Oh, merde !
+Dialogue: 0,0:15:54.98,0:15:56.95,Default,,0000,0000,0000,,Hé, laissez Saya tranquille !
+Dialogue: 0,0:15:58.92,0:16:02.25,Default,,0000,0000,0000,,Maître ! On a un problème.
+Dialogue: 0,0:16:03.86,0:16:06.16,Default,,0000,0000,0000,,Yuuri, tu...
+Dialogue: 0,0:16:06.96,0:16:08.12,Default,,0000,0000,0000,,Bien.
+Dialogue: 0,0:16:08.50,0:16:11.49,Default,,0000,0000,0000,,Je m'en occuperais.
+Dialogue: 0,0:16:15.70,0:16:18.33,Default,,0000,0000,0000,,Non, Shinichirou. Je...
+Dialogue: 0,0:16:18.47,0:16:20.03,Default,,0000,0000,0000,,Hé !
+Dialogue: 0,0:16:20.14,0:16:24.37,Default,,0000,0000,0000,,C'est un ordre direct du patron Ryugasaki.
+Dialogue: 0,0:16:25.48,0:16:27.21,Default,,0000,0000,0000,,Ce n'est pas ce qui était convenu.
+Dialogue: 0,0:16:27.21,0:16:31.24,Default,,0000,0000,0000,,Morizaki Shinichirou, ramenez l'{\i1}Abeille de Feu{\i0} ici-même à minuit.
+Dialogue: 0,0:16:31.55,0:16:35.25,Default,,0000,0000,0000,,Sinon, elle sera tuée.
+Dialogue: 0,0:16:39.59,0:16:41.36,Default,,0000,0000,0000,,Ryugasaki Daimon !
+Dialogue: 0,0:16:41.36,0:16:42.95,Default,,0000,0000,0000,,Tu le connais, ojisan ?
+Dialogue: 0,0:16:43.16,0:16:48.36,Default,,0000,0000,0000,,Oui. Il étudiait les poupées électroniques avec Koutarou et moi-même.
+Dialogue: 0,0:16:48.50,0:16:51.94,Default,,0000,0000,0000,,C'est un homme plein de vengeance...
+Dialogue: 0,0:16:51.94,0:16:54.81,Default,,0000,0000,0000,,Je suis une arme, n'est-ce pas ?
+Dialogue: 0,0:16:55.54,0:16:58.88,Default,,0000,0000,0000,,Je vais aller me rendre à ces soldats.
+Dialogue: 0,0:17:01.22,0:17:03.98,Default,,0000,0000,0000,,Je ne pense pas que cet endroit soit fait pour moi.
+Dialogue: 0,0:17:04.05,0:17:05.35,Default,,0000,0000,0000,,Ne sois pas idiote !
+Dialogue: 0,0:17:05.35,0:17:06.05,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:17:06.42,0:17:08.86,Default,,0000,0000,0000,,Tu n'es pas une arme !
+Dialogue: 0,0:17:08.86,0:17:10.65,Default,,0000,0000,0000,,Tu es un membre de cette famille.
+Dialogue: 0,0:17:10.86,0:17:13.19,Default,,0000,0000,0000,,Maître...
+Dialogue: 0,0:17:13.36,0:17:18.80,Default,,0000,0000,0000,,Je ne laisserai pas l'armée toucher à Arisa, Saya ou Yuuri.
+Dialogue: 0,0:17:18.80,0:17:20.40,Default,,0000,0000,0000,,Oni-chan.
+Dialogue: 0,0:17:20.40,0:17:27.77,Default,,0000,0000,0000,,Koutarou et moi n'avons jamais voulu faire de nos poupées électriques des armes.
+Dialogue: 0,0:17:27.84,0:17:28.77,Default,,0000,0000,0000,,Ojisan...
+Dialogue: 0,0:17:29.31,0:17:37.32,Default,,0000,0000,0000,,Nous les fabriquions dans le but d'arrêter la guerre, mais Ryunosaki le refusa.
+Dialogue: 0,0:17:37.32,0:17:43.89,Default,,0000,0000,0000,,Koutarou disparut après avoir détruit tout ce qui concernait nos études.
+Dialogue: 0,0:17:43.89,0:17:45.38,Default,,0000,0000,0000,,Je vois.
+Dialogue: 0,0:17:45.83,0:17:47.02,Default,,0000,0000,0000,,Shinichinou...
+Dialogue: 0,0:17:49.23,0:17:51.63,Default,,0000,0000,0000,,Tenez bon, Saya and Yuuri.
+Dialogue: 0,0:17:58.34,0:18:00.60,Default,,0000,0000,0000,,Vous me décevez beaucoup, Yuuri.
+Dialogue: 0,0:18:02.11,0:18:04.48,Default,,0000,0000,0000,,Général, comment devons-nous nous en occuper ?
+Dialogue: 0,0:18:04.98,0:18:06.10,Default,,0000,0000,0000,,Allez-y...
+Dialogue: 0,0:18:06.25,0:18:07.82,Default,,0000,0000,0000,,Qu'est-ce que vous faites ?
+Dialogue: 0,0:18:07.82,0:18:09.11,Default,,0000,0000,0000,,Non ! Arrêtez !
+Dialogue: 0,0:18:09.88,0:18:10.91,Default,,0000,0000,0000,,Lachez-moi !
+Dialogue: 0,0:18:12.55,0:18:13.85,Default,,0000,0000,0000,,La ferme !
+Dialogue: 0,0:18:21.50,0:18:22.46,Default,,0000,0000,0000,,Non !
+Dialogue: 0,0:18:23.26,0:18:23.96,Default,,0000,0000,0000,,Saya !
+Dialogue: 0,0:18:24.53,0:18:25.36,Default,,0000,0000,0000,,Non !
+Dialogue: 0,0:18:26.83,0:18:29.46,Default,,0000,0000,0000,,Non, ne la touchez pas !
+Dialogue: 0,0:18:48.96,0:18:51.08,Default,,0000,0000,0000,,Hé, hé, hé... ils sont pointés...
+Dialogue: 0,0:19:22.19,0:19:25.06,Default,,0000,0000,0000,,Laisse-moi voir ton minou... il doit être mignon...
+Dialogue: 0,0:19:25.43,0:19:26.79,Default,,0000,0000,0000,,Arrêtez !
+Dialogue: 0,0:19:27.09,0:19:28.65,Default,,0000,0000,0000,,Non !
+Dialogue: 0,0:19:28.83,0:19:31.16,Default,,0000,0000,0000,,Wow, tu dois être vierge.
+Dialogue: 0,0:19:35.74,0:19:36.73,Default,,0000,0000,0000,,Aïe !
+Dialogue: 0,0:19:53.62,0:19:57.45,Default,,0000,0000,0000,,Pardonnez-moi, Saya, tout le monde...
+Dialogue: 0,0:20:04.57,0:20:07.43,Default,,0000,0000,0000,,Ojisan, tu es sûr que ça va aller ?
+Dialogue: 0,0:20:07.50,0:20:10.13,Default,,0000,0000,0000,,Ne t'inquiètes pas. Je m'occupe de tout.
+Dialogue: 0,0:20:25.59,0:20:27.75,Default,,0000,0000,0000,,Je m'occupe de ça avec Kotomi !
+Dialogue: 0,0:20:28.09,0:20:28.99,Default,,0000,0000,0000,,Ojisan...
+Dialogue: 0,0:20:28.99,0:20:31.12,Default,,0000,0000,0000,,Il y a une base secrète de l'armée en dessous.
+Dialogue: 0,0:20:31.53,0:20:34.22,Default,,0000,0000,0000,,Saya et Yuuri devraient être là.
+Dialogue: 0,0:20:34.96,0:20:35.69,Default,,0000,0000,0000,,Dépêche-toi.
+Dialogue: 0,0:20:38.20,0:20:39.46,Default,,0000,0000,0000,,J'y vais !
+Dialogue: 0,0:20:42.04,0:20:43.66,Default,,0000,0000,0000,,Kotomi, par ici !
+Dialogue: 0,0:20:43.77,0:20:44.24,Default,,0000,0000,0000,,Ok !
+Dialogue: 0,0:20:48.08,0:20:50.34,Default,,0000,0000,0000,,Mince ! C'est pas une petite base !
+Dialogue: 0,0:20:50.34,0:20:51.95,Default,,0000,0000,0000,,Où sont Saya et Yuuri ?
+Dialogue: 0,0:20:51.95,0:20:52.97,Default,,0000,0000,0000,,Par ici !
+Dialogue: 0,0:21:03.72,0:21:04.49,Default,,0000,0000,0000,,Pas possible !
+Dialogue: 0,0:21:05.73,0:21:08.32,Default,,0000,0000,0000,,Oh, bordel ! C'est l'{\i1}Abeille de Feu{\i0} qui nous attaque !
+Dialogue: 0,0:21:08.56,0:21:09.40,Default,,0000,0000,0000,,Arisa...
+Dialogue: 0,0:21:09.40,0:21:13.96,Default,,0000,0000,0000,,Maître... finalement, on dirait que je suis arme...
+Dialogue: 0,0:21:16.24,0:21:17.43,Default,,0000,0000,0000,,Arrêtez !
+Dialogue: 0,0:21:19.04,0:21:20.23,Default,,0000,0000,0000,,C'est Saya !
+Dialogue: 0,0:21:20.84,0:21:22.17,Default,,0000,0000,0000,,Par ici !
+Dialogue: 0,0:21:22.54,0:21:23.37,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:21:25.08,0:21:27.41,Default,,0000,0000,0000,,Oh... bordel, notre {\i1}Abeille{\i0} avait toutes les autorisations d'accès..
+Dialogue: 0,0:21:27.48,0:21:29.75,Default,,0000,0000,0000,,Dépêchez-vous, préparez le {\i1}Dragon de Feu{\i0} !
+Dialogue: 0,0:21:35.76,0:21:39.49,Default,,0000,0000,0000,,Ok, on y va...
+Dialogue: 0,0:21:39.69,0:21:41.85,Default,,0000,0000,0000,,Ah ! Non !
+Dialogue: 0,0:21:43.93,0:21:45.09,Default,,0000,0000,0000,,Du calme !
+Dialogue: 0,0:21:45.87,0:21:49.24,Default,,0000,0000,0000,,Ca fait mal ! Arrêtez !
+Dialogue: 0,0:21:49.24,0:21:51.07,Default,,0000,0000,0000,,Saya...
+Dialogue: 0,0:21:51.84,0:21:53.27,Default,,0000,0000,0000,,Arrête de bouger...
+Dialogue: 0,0:21:58.35,0:21:59.47,Default,,0000,0000,0000,,Enfoiré !
+Dialogue: 0,0:22:02.62,0:22:04.42,Default,,0000,0000,0000,,Ah... j'avais peur.
+Dialogue: 0,0:22:04.42,0:22:05.35,Default,,0000,0000,0000,,Saya...
+Dialogue: 0,0:22:06.35,0:22:09.15,Default,,0000,0000,0000,,Jamais je ne leur pardonnerais.
+Dialogue: 0,0:22:18.23,0:22:20.26,Default,,0000,0000,0000,,Je suis désolée, tout est de ma faute.
+Dialogue: 0,0:22:20.57,0:22:22.80,Default,,0000,0000,0000,,Garde tes larmes. Tu raconteras ça plus tard !
+Dialogue: 0,0:22:23.47,0:22:24.94,Default,,0000,0000,0000,,Sortons d'abord !
+Dialogue: 0,0:22:25.64,0:22:26.66,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:22:27.87,0:22:29.24,Default,,0000,0000,0000,,Oni-chan ?
+Dialogue: 0,0:22:31.98,0:22:34.17,Default,,0000,0000,0000,,Oh... bien joué.
+Dialogue: 0,0:22:34.31,0:22:36.44,Default,,0000,0000,0000,,Ok, ojisan, allons-y.
+Dialogue: 0,0:22:36.62,0:22:38.35,Default,,0000,0000,0000,,Quoi ? Où est Arisa ?
+Dialogue: 0,0:22:38.42,0:22:41.39,Default,,0000,0000,0000,,Quelle idiote... elle s'est encore perdue ?
+Dialogue: 0,0:22:48.36,0:22:49.56,Default,,0000,0000,0000,,C'est Daimon !
+Dialogue: 0,0:22:51.97,0:22:53.36,Default,,0000,0000,0000,,{\i1}Abeille de Feu {\i0} !
+Dialogue: 0,0:22:56.67,0:22:59.37,Default,,0000,0000,0000,,Et je ne montrerais pas de pitié.
+Dialogue: 0,0:23:10.38,0:23:11.04,Default,,0000,0000,0000,,Arisa !
+Dialogue: 0,0:23:13.99,0:23:18.22,Default,,0000,0000,0000,,Maître, je vais détruire tous nos ennemis.
+Dialogue: 0,0:23:18.43,0:23:20.89,Default,,0000,0000,0000,,Non, tu ne peux pas... même si tu es une...
+Dialogue: 0,0:23:23.90,0:23:24.83,Default,,0000,0000,0000,,Arisa...
+Dialogue: 0,0:23:25.77,0:23:28.43,Default,,0000,0000,0000,,Merci à tous.
+Dialogue: 0,0:23:28.50,0:23:31.16,Default,,0000,0000,0000,,Je n'oublierais aucun d'entre vous.
+Dialogue: 0,0:23:31.97,0:23:35.17,Default,,0000,0000,0000,,Voilà ce que recherchait Koutarou...
+Dialogue: 0,0:23:35.58,0:23:38.11,Default,,0000,0000,0000,,Arisa, tu dois revenir.
+Dialogue: 0,0:23:38.11,0:23:41.38,Default,,0000,0000,0000,,Nous t'attendrons à la maison.
+Dialogue: 0,0:23:41.45,0:23:42.64,Default,,0000,0000,0000,,Promets-moi !
+Dialogue: 0,0:23:50.42,0:23:52.36,Default,,0000,0000,0000,,{\i1}Abeille de Feu{\i0} droit devant.
+Dialogue: 0,0:23:53.09,0:23:56.89,Default,,0000,0000,0000,,{\i1}Abeille de Feu{\i0}... quelle casse-pied, mais avec le {\i1}Dragon de Feu{\i0}
+Dialogue: 0,0:23:56.96,0:24:03.03,Default,,0000,0000,0000,,il est si facile de descendre nos cible, même si il est encore incomplet.
+Dialogue: 0,0:24:03.37,0:24:04.56,Default,,0000,0000,0000,,Descendez-la !
+Dialogue: 0,0:24:13.58,0:24:16.17,Default,,0000,0000,0000,,Hein ? Tuez-la !
+Dialogue: 0,0:24:21.82,0:24:23.55,Default,,0000,0000,0000,,Je vais tirer, moi aussi.
+Dialogue: 0,0:24:35.97,0:24:37.90,Default,,0000,0000,0000,,Ca ne vous a même pas égratigné ?
+Dialogue: 0,0:24:38.07,0:24:42.08,Default,,0000,0000,0000,,Ha, ha, ha. Tu ne peux rien contre nous !
+Dialogue: 0,0:24:42.08,0:24:43.94,Default,,0000,0000,0000,,Je n'abandonnerais pas !
+Dialogue: 0,0:24:44.31,0:24:47.30,Default,,0000,0000,0000,,{\i1}Abeille de Feu{\i0} continue de se rapprocher !
+Dialogue: 0,0:24:49.88,0:24:51.75,Default,,0000,0000,0000,,Elle s'appelle Arisa.
+Dialogue: 0,0:24:52.65,0:24:54.18,Default,,0000,0000,0000,,Shua, Shua.
+Dialogue: 0,0:24:55.32,0:24:57.85,Default,,0000,0000,0000,,J'adore ça !
+Dialogue: 0,0:24:58.76,0:25:01.89,Default,,0000,0000,0000,,Merci... Maître...
+Dialogue: 0,0:25:08.40,0:25:12.84,Default,,0000,0000,0000,,Quoi ? Oh, mon dieu...
+Dialogue: 0,0:25:17.04,0:25:18.91,Default,,0000,0000,0000,,Arisa !
+Dialogue: 0,0:25:18.91,0:25:20.21,Default,,0000,0000,0000,,Merde !
+Dialogue: 0,0:25:30.02,0:25:31.32,Default,,0000,0000,0000,,Qu'y a-t-il, Oni-chan ?
+Dialogue: 0,0:25:33.23,0:25:34.96,Default,,0000,0000,0000,,Encore !
+Dialogue: 0,0:25:41.87,0:25:42.89,Default,,0000,0000,0000,,Arisa !
+Dialogue: 0,0:25:43.07,0:25:44.40,Default,,0000,0000,0000,,Arisa !
+Dialogue: 0,0:25:47.17,0:25:48.83,Default,,0000,0000,0000,,Maître !
+Dialogue: 0,0:25:52.17,0:27:03.33,Default,,0000,0000,0000,,{\1c&H8465C6&}{\pos(190,0)}{\an8}{\fs18}Pour la team [HR] : http://hijo82.hentai.free.fr
+Dialogue: 0,0:25:52.17,0:27:03.33,Credits,,0000,0000,0000,,{\1c&H2134B5&}Trad, check, encodage : Sekhmet
+Dialogue: 0,0:28:14.92,0:28:16.48,Default,,0000,0000,0000,,Un rêve ?
+Dialogue: 0,0:28:18.19,0:28:21.02,Default,,0000,0000,0000,,Maître, je suis de retour !

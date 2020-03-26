@@ -1,0 +1,236 @@
+﻿[Script Info]
+PlayResX: 1280
+PlayResY: 720
+Last Style Storage: Default
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: RnF_Voice,Mongolian Baiti,42,&H00FFFFFF,&H000000FF,&H00542C1C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+Style: RnF_Text,Mongolian Baiti,42,&H00000000,&H000000FF,&H00040307,&H00000000,-1,0,0,0,98,100,0,0,1,0,0,1,48,10,18,1
+Style: RnF_Box1,Mongolian Baiti,42,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,1,48,10,18,1
+Style: RnF_Box2,Mongolian Baiti,42,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,48,10,18,1
+Style: RnF_End1,Mongolian Baiti,42,&H00FFFFFF,&H000000FF,&H3292552B,&H00000000,0,0,0,0,98,100,0,0,1,2,0,2,5,5,14,1
+Style: RnF_End2,Mongolian Baiti,42,&H00FFFFFF,&H000000FF,&H3292552B,&H00000000,0,0,0,0,98,100,0,0,1,2,0,8,5,5,10,1
+Style: RnF_Logo,Mongolian Baiti,20,&H00FFFFFF,&H000000FF,&H5ABD8C09,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:55.90,0:01:11.55,RnF_Box1,,0,0,0,,{\move(240,1420,240,0)}{\p1}m 0 0 l 800 0 800 700 0 700{\p0}
+Dialogue: 0,0:00:55.90,0:01:11.55,RnF_Text,,0,0,0,,{\move(250,1320,250,-90)}{\1c&H000000&}Nach zwei verheerenden Erdbeben herrscht\N\NChaos in Tokyos Straßen und eine "Milch"\N\Ngenannte Droge mit aphrodisierender Wirkung\N\Nfindet immer mehr Zuspruch bei der Bevölkerung.\N{\1c&HFFFFFF&}.\N.\N.{\1c&H000000&}\NUm die Produktion zu stoppen, infiltrierte die\N\NSpezialagentin Rei, zusammen mit ihrer Partnerin\N\NFuko, eine vermeintliche Milchfabrik...
+Dialogue: 0,0:01:14.87,0:01:26.13,RnF_Box1,,0,0,0,,{\move(240,1028,240,0)}{\p1}m 0 0 l 800 0 800 303 0 303{\p0}
+Dialogue: 0,0:01:14.01,0:01:26.73,RnF_Text,,0,0,0,,{\move(256,1067,256,-93)}{\1c&H000000&}Die beiden Agentinnen liefen jedoch geradewegs\N\Nin eine Falle des Drogensyndikats und wurden\N\Npausenlos vergewaltigt, um sie in milchgebende\N\NKühe verwandeln zu können...
+Dialogue: 0,0:01:30.74,0:01:41.61,RnF_Logo,,0,0,0,,{\move(1380,305,970,305,300,520)\fad(250,1600)}http://deutsche-doujins.to
+Dialogue: 0,0:01:44.97,0:01:48.90,RnF_Voice,,0,0,0,,Und? Willst du noch immer nicht aufgeben?
+Dialogue: 0,0:01:49.77,0:01:52.73,RnF_Voice,,0,0,0,,Die dreckigen Schwänze eurer Männer können es mir nicht besorgen.
+Dialogue: 0,0:01:54.82,0:01:58.15,RnF_Voice,,0,0,0,,Hast du soviel Schiss davor, dass dein Impfstoff seine Wirkung verliert?
+Dialogue: 0,0:02:02.62,0:02:03.95,RnF_Voice,,0,0,0,,Wo ist Koryuu?
+Dialogue: 0,0:02:03.99,0:02:07.12,RnF_Voice,,0,0,0,,Koryuu-sama hat beschlossen Fuko persönlich zu trainieren.
+Dialogue: 0,0:02:08.00,0:02:11.21,RnF_Voice,,0,0,0,,Und ich wurde mit deinem Training beauftragt.
+Dialogue: 0,0:02:11.63,0:02:14.88,RnF_Voice,,0,0,0,,Nein, das stimmt nicht ganz. Ich habe darum gebeten mich um dich kümmern zu dürfen.
+Dialogue: 0,0:02:15.59,0:02:17.01,RnF_Voice,,0,0,0,,Weißt du warum?
+Dialogue: 0,0:02:17.05,0:02:17.88,RnF_Voice,,0,0,0,,Warum?
+Dialogue: 0,0:02:26.89,0:02:28.73,RnF_Voice,,0,0,0,,Deine kleine Schwester...
+Dialogue: 0,0:02:30.65,0:02:31.44,RnF_Voice,,0,0,0,,Anna!
+Dialogue: 0,0:02:32.31,0:02:38.19,RnF_Voice,,0,0,0,,Genau. Sie und meine große Schwester Hakufu, eine der Zwölf Engel, waren ein Liebespaar.
+Dialogue: 0,0:02:41.66,0:02:43.74,RnF_Voice,,0,0,0,,Ich erfuhr es vor zwei Jahren...
+Dialogue: 0,0:03:11.14,0:03:11.98,RnF_Voice,,0,0,0,,{\i1}Hakufu...{\i0}
+Dialogue: 0,0:03:14.52,0:03:16.69,RnF_Voice,,0,0,0,,Zuvor hatte ich keinerlei Verdacht.
+Dialogue: 0,0:03:16.73,0:03:19.19,RnF_Voice,,0,0,0,,Ich wusste nicht, dass sie ein Liebespaar waren.
+Dialogue: 0,0:03:19.24,0:03:19.69,RnF_Voice,,0,0,0,,Liebespaar?
+Dialogue: 0,0:03:20.45,0:03:22.20,RnF_Voice,,0,0,0,,Du wirst Anna schon bald wiedersehen können.
+Dialogue: 0,0:03:22.24,0:03:24.28,RnF_Voice,,0,0,0,,Nachdem auch du zu einer Kuh geworden bist!
+Dialogue: 0,0:03:26.66,0:03:28.33,RnF_Voice,,0,0,0,,Anna... Wo ist sie?
+Dialogue: 0,0:03:32.00,0:03:35.54,RnF_Voice,,0,0,0,,Dein Äußeres und Innerstes sind so dreckig...
+Dialogue: 0,0:03:35.59,0:03:36.29,RnF_Voice,,0,0,0,,Schnauze!
+Dialogue: 0,0:03:36.75,0:03:39.30,RnF_Voice,,0,0,0,,Man hat dich eine Woche lang pausenlos durchgefickt.
+Dialogue: 0,0:03:40.76,0:03:42.55,RnF_Voice,,0,0,0,,Und du bist noch immer nicht gekommen.
+Dialogue: 0,0:03:43.80,0:03:44.89,RnF_Voice,,0,0,0,,Vor einer Woche...
+Dialogue: 0,0:03:45.30,0:03:50.06,RnF_Voice,,0,0,0,,Genau. Wir gerieten durch eine Fehlinformation in diesen Hinterhalt.
+Dialogue: 0,0:03:50.10,0:03:53.31,RnF_Voice,,0,0,0,,Angeblich gab es irgendwo eine Straßenschlacht.
+Dialogue: 0,0:03:54.19,0:03:57.86,RnF_Voice,,0,0,0,,Aber mittlerweile werden die Bemühungen uns zu retten auf Hochtouren laufen!
+Dialogue: 0,0:04:00.19,0:04:02.99,RnF_Voice,,0,0,0,,Unterschätzt nicht unser Spezialkommando.
+Dialogue: 0,0:04:03.03,0:04:04.66,RnF_Voice,,0,0,0,,Sie könnten jederzeit vor eurer Tür stehen!
+Dialogue: 0,0:04:05.07,0:04:06.82,RnF_Voice,,0,0,0,,Stimmt, genau dort sind sie.
+Dialogue: 0,0:04:08.37,0:04:12.12,RnF_Voice,,0,0,0,,Fukos Verlobter ist doch auch Spezialagent, oder?
+Dialogue: 0,0:04:12.16,0:04:12.75,RnF_Voice,,0,0,0,,Yamase...
+Dialogue: 0,0:04:12.96,0:04:16.38,RnF_Voice,,0,0,0,,Und dieser Spezialagent steht genau vor unserer Tür.
+Dialogue: 0,0:04:17.71,0:04:19.17,RnF_Voice,,0,0,0,,Was soll das heißen?
+Dialogue: 0,0:04:19.21,0:04:22.59,RnF_Voice,,0,0,0,,Shien und Fuko werden ihn treffen.
+Dialogue: 0,0:04:23.51,0:04:28.43,RnF_Voice,,0,0,0,,Ihm wurde gesagt, er solle sich an einem bestimmten Ort einfinden, wenn er Fuko lebend wiedersehen wolle.
+Dialogue: 0,0:04:28.47,0:04:30.10,RnF_Voice,,0,0,0,,W-Was habt ihr vor?
+Dialogue: 0,0:04:31.47,0:04:33.60,RnF_Voice,,0,0,0,,Das wirst du schon bald erfahren.
+Dialogue: 0,0:04:33.98,0:04:34.89,RnF_Voice,,0,0,0,,Aber vorher...
+Dialogue: 0,0:04:37.36,0:04:39.11,RnF_Voice,,0,0,0,,Was für eine hübsche Klitoris.
+Dialogue: 0,0:04:39.52,0:04:40.82,RnF_Voice,,0,0,0,,Was hast du vor?
+Dialogue: 0,0:04:45.99,0:04:46.70,RnF_Voice,,0,0,0,,Was ist das?
+Dialogue: 0,0:04:47.32,0:04:50.74,RnF_Voice,,0,0,0,,Ein kleines Geschenk der Firma, etwas Milch.
+Dialogue: 0,0:04:59.63,0:05:01.80,RnF_Voice,,0,0,0,,Nein... tu das nicht!
+Dialogue: 0,0:05:11.89,0:05:14.68,RnF_Voice,,0,0,0,,Das wird dich nur etwas empfindlicher machen...
+Dialogue: 0,0:05:15.94,0:05:17.23,RnF_Voice,,0,0,0,,{\i1}Mein Körper...{\i0}
+Dialogue: 0,0:05:17.27,0:05:19.61,RnF_Voice,,0,0,0,,{\i1}Aber ich muss widerstehen!{\i0}
+Dialogue: 0,0:05:20.23,0:05:23.78,RnF_Voice,,0,0,0,,Fuko sollte jetzt auch ihren Verlobten treffen.
+Dialogue: 0,0:05:25.57,0:05:26.36,RnF_Voice,,0,0,0,,{\i1}Fuko!{\i0}
+Dialogue: 0,0:05:35.08,0:05:35.87,RnF_Voice,,0,0,0,,Nicht schreien.
+Dialogue: 0,0:05:35.91,0:05:37.04,RnF_Voice,,0,0,0,,Verstanden?
+Dialogue: 0,0:05:37.08,0:05:40.84,RnF_Voice,,0,0,0,,Wenn du schreist, bringen wir Rei um.
+Dialogue: 0,0:05:57.19,0:05:58.31,RnF_Voice,,0,0,0,,Yamase-san!
+Dialogue: 0,0:06:03.69,0:06:04.53,RnF_Voice,,0,0,0,,Fuko-san!
+Dialogue: 0,0:06:04.94,0:06:07.99,RnF_Voice,,0,0,0,,Wenn du Alarm schlägst, töte ich sie.
+Dialogue: 0,0:06:11.37,0:06:14.12,RnF_Voice,,0,0,0,,Yamase-san, was machst du hier?
+Dialogue: 0,0:06:30.72,0:06:33.35,RnF_Voice,,0,0,0,,F-Fuko-san...
+Dialogue: 0,0:06:39.02,0:06:40.52,RnF_Voice,,0,0,0,,S-Schau nicht hin!
+Dialogue: 0,0:07:06.59,0:07:08.88,RnF_Voice,,0,0,0,,Hey, du filmst doch, oder?
+Dialogue: 0,0:07:08.92,0:07:09.84,RnF_Voice,,0,0,0,,Natürlich, sir!
+Dialogue: 0,0:07:12.89,0:07:17.47,RnF_Voice,,0,0,0,,Wir werden dieses "Im Zug begrabscht"-Video im ganzen Land verteilen.
+Dialogue: 0,0:07:19.85,0:07:25.69,RnF_Voice,,0,0,0,,Ich schicke euch kostenlos ein Exemplar ins Büro.
+Dialogue: 0,0:07:39.20,0:07:41.83,RnF_Voice,,0,0,0,,{\i1}Warum erregt mich das nur?{\i0}
+Dialogue: 0,0:07:41.87,0:07:43.29,RnF_Voice,,0,0,0,,{\i1}Weil ich vor Yamase-san stehe?{\i0}
+Dialogue: 0,0:07:45.04,0:07:46.79,RnF_Voice,,0,0,0,,{\i1}Es macht mich so heiß.{\i0}
+Dialogue: 0,0:07:46.84,0:07:47.96,RnF_Voice,,0,0,0,,{\i1}Ich bin so ein Freak!{\i0}
+Dialogue: 0,0:08:14.49,0:08:15.28,RnF_Voice,,0,0,0,,Fuko!
+Dialogue: 0,0:08:16.91,0:08:19.37,RnF_Voice,,0,0,0,,Es erregt sie von ihrem Verlobten beobachtet zu werden.
+Dialogue: 0,0:08:19.83,0:08:21.95,RnF_Voice,,0,0,0,,Lauf! Nun lauf schon, Fuko!
+Dialogue: 0,0:08:22.00,0:08:26.79,RnF_Voice,,0,0,0,,Wir sagten ihr, dass wir dich umbringen,\Nwenn sie schreien oder fliehen würde.
+Dialogue: 0,0:08:27.42,0:08:28.13,RnF_Voice,,0,0,0,,Fuko!
+Dialogue: 0,0:08:28.92,0:08:30.76,RnF_Voice,,0,0,0,,Es scheint ihr zu gefallen.
+Dialogue: 0,0:08:31.67,0:08:33.47,RnF_Voice,,0,0,0,,Keine Sorge...
+Dialogue: 0,0:08:33.51,0:08:37.64,RnF_Voice,,0,0,0,,Koryuu-sama hat uns verboten sie zu entjungfern.
+Dialogue: 0,0:08:39.68,0:08:43.56,RnF_Voice,,0,0,0,,Sie will, dass ihr Verlobter das erledigt.
+Dialogue: 0,0:09:01.37,0:09:03.08,RnF_Voice,,0,0,0,,Oh, je... Was ist los?
+Dialogue: 0,0:09:03.12,0:09:05.96,RnF_Voice,,0,0,0,,Ist Fukos Geilheit auf dich übergesprungen?
+Dialogue: 0,0:09:13.80,0:09:15.97,RnF_Voice,,0,0,0,,{\i1}Was passiert mit mir?!{\i0}
+Dialogue: 0,0:09:16.01,0:09:17.84,RnF_Voice,,0,0,0,,{\i1}Liegt das an der Injektion?{\i0}
+Dialogue: 0,0:09:18.80,0:09:21.72,RnF_Voice,,0,0,0,,{\i1}Glaubt ihr wirklich, dass könne es mir besorgen!?{\i0}
+Dialogue: 0,0:09:57.84,0:10:00.47,RnF_Voice,,0,0,0,,Die Droge scheint endlich zu wirken.
+Dialogue: 0,0:10:11.94,0:10:12.98,RnF_Voice,,0,0,0,,Aufhören...
+Dialogue: 0,0:11:22.18,0:11:23.26,RnF_Voice,,0,0,0,,{\i1}Ich werde kommen!{\i0}
+Dialogue: 0,0:11:26.10,0:11:26.93,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:11:40.07,0:11:41.90,RnF_Voice,,0,0,0,,Die Ekstase ist Teil deiner Träume.
+Dialogue: 0,0:11:42.61,0:11:45.95,RnF_Voice,,0,0,0,,Was allerdings nicht die Tatsache ändert,\Ndass du auch in Wirklichkeit vergewaltigt wirst!
+Dialogue: 0,0:11:47.37,0:11:51.00,RnF_Voice,,0,0,0,,Ich frage mich wieviel du noch einstecken kannst, bevor du es einsiehst.
+Dialogue: 0,0:11:55.13,0:11:56.75,RnF_Voice,,0,0,0,,{\i1}So heiß...{\i0}
+Dialogue: 0,0:11:57.04,0:11:59.88,RnF_Voice,,0,0,0,,{\i1}Aber ich darf nicht kommen.{\i0}
+Dialogue: 0,0:11:59.92,0:12:01.34,RnF_Voice,,0,0,0,,{\i1}Aber... Aber...{\i0}
+Dialogue: 0,0:12:25.87,0:12:28.66,RnF_Voice,,0,0,0,,Wir haben nicht genügend Kühe im Stall.
+Dialogue: 0,0:12:44.68,0:12:46.78,RnF_Voice,,0,0,0,,Ich will es. Ich will es.
+Dialogue: 0,0:12:46.84,0:12:49.39,RnF_Voice,,0,0,0,,Ich will dein Teil, Yamase-san.
+Dialogue: 0,0:13:55.83,0:13:57.04,RnF_Voice,,0,0,0,,Yamase-san!
+Dialogue: 0,0:13:57.08,0:14:02.59,RnF_Voice,,0,0,0,,Du wirst deinen Verlobten wieder anfassen können, wenn du ihm deine Jungfräulichkeit schenkst.
+Dialogue: 0,0:14:04.00,0:14:05.63,RnF_Voice,,0,0,0,,Gefällt dir das?
+Dialogue: 0,0:14:05.67,0:14:09.97,RnF_Voice,,0,0,0,,Um das zu arrangieren, bieten wir deinem Verlobten an unserer Organisation als Meister beizutreten.
+Dialogue: 0,0:14:10.34,0:14:11.55,RnF_Voice,,0,0,0,,Ihr könnt doch nicht...
+Dialogue: 0,0:14:11.60,0:14:15.06,RnF_Voice,,0,0,0,,Du wirst jedenfalls von einem Meister unserer Organisation entjungfert!
+Dialogue: 0,0:14:16.23,0:14:18.81,RnF_Voice,,0,0,0,,Ya-Yamase-san!
+Dialogue: 0,0:14:38.71,0:14:40.83,RnF_Voice,,0,0,0,,Scheinst dich ja etwas beruhigt zu haben.
+Dialogue: 0,0:14:41.88,0:14:44.75,RnF_Voice,,0,0,0,,Und? Wie gefällt dir die Milch?
+Dialogue: 0,0:14:47.92,0:14:48.59,RnF_Voice,,0,0,0,,Es...
+Dialogue: 0,0:14:49.01,0:14:51.68,RnF_Voice,,0,0,0,,Lass mich dir etwas stärkeres verabreichen.
+Dialogue: 0,0:14:52.22,0:14:55.51,RnF_Voice,,0,0,0,,Das hier ist Milch von deiner kleinen Schwester.
+Dialogue: 0,0:15:01.65,0:15:02.69,RnF_Voice,,0,0,0,,Anna...
+Dialogue: 0,0:15:03.98,0:15:05.19,RnF_Voice,,0,0,0,,Genau.
+Dialogue: 0,0:15:05.23,0:15:11.32,RnF_Voice,,0,0,0,,Dein geliebtes Schwesterchen Anna ist noch immer in unserem Stall, legt Eier und gibt erstklassige Milch.
+Dialogue: 0,0:15:12.11,0:15:13.78,RnF_Voice,,0,0,0,,Genau wie meine Schwester auch.
+Dialogue: 0,0:15:16.83,0:15:17.95,RnF_Voice,,0,0,0,,Lass das!
+Dialogue: 0,0:15:18.58,0:15:21.65,RnF_Voice,,0,0,0,,Ich hoffe du träumst von deiner kleinen Schwester.
+Dialogue: 0,0:15:22.46,0:15:27.25,RnF_Voice,,0,0,0,,So wie meine Schwester Hakufu deiner Schwester feuchte Träume beschert hat.
+Dialogue: 0,0:15:28.21,0:15:29.13,RnF_Voice,,0,0,0,,Träume?
+Dialogue: 0,0:15:29.63,0:15:30.59,RnF_Voice,,0,0,0,,Ja.
+Dialogue: 0,0:15:30.63,0:15:33.59,RnF_Voice,,0,0,0,,Sie war für Annas Training zuständig.
+Dialogue: 0,0:15:33.97,0:15:37.26,RnF_Voice,,0,0,0,,Aber meine leichtgläubige Schwester hat sich kopfüber in sie verliebt.
+Dialogue: 0,0:15:40.98,0:15:44.31,RnF_Voice,,0,0,0,,Und für ihre geliebte Anna, hat sie versucht uns zu hintergehen.
+Dialogue: 0,0:15:47.11,0:15:48.44,RnF_Voice,,0,0,0,,Für Anna...
+Dialogue: 0,0:16:06.21,0:16:10.71,RnF_Voice,,0,0,0,,hat Hakufu riskiert in eine Kuh verwandelt zu werden.
+Dialogue: 0,0:16:13.63,0:16:16.22,RnF_Voice,,0,0,0,,Ich werde sicherstellen, dass du mehr leiden wirst als meine Schwester.
+Dialogue: 0,0:16:25.06,0:16:27.36,RnF_Voice,,0,0,0,,N-Nein...
+Dialogue: 0,0:16:28.36,0:16:30.57,RnF_Voice,,0,0,0,,Leide mehr als meine Schwester.
+Dialogue: 0,0:16:33.70,0:16:34.95,RnF_Voice,,0,0,0,,{\i1}So heiß!{\i0}
+Dialogue: 0,0:16:34.99,0:16:38.03,RnF_Voice,,0,0,0,,{\i1}Was ist das... für ein Gefühl?{\i0}
+Dialogue: 0,0:16:41.33,0:16:44.42,RnF_Voice,,0,0,0,,Ya-Yamase? Kommst du mich zu retten?
+Dialogue: 0,0:16:46.08,0:16:47.84,RnF_Voice,,0,0,0,,Du musst wegrennen!
+Dialogue: 0,0:16:48.84,0:16:51.71,RnF_Voice,,0,0,0,,Fuko... Was habt ihr Fuko angetan?
+Dialogue: 0,0:16:58.51,0:16:59.60,RnF_Voice,,0,0,0,,Jetzt...
+Dialogue: 0,0:16:59.64,0:17:01.72,RnF_Voice,,0,0,0,,Schau gut zu.
+Dialogue: 0,0:17:07.15,0:17:10.15,RnF_Voice,,0,0,0,,Gönnen wir ihm etwas Spaß, bevor er Meister wird.
+Dialogue: 0,0:17:10.94,0:17:11.86,RnF_Voice,,0,0,0,,Yamase-san!
+Dialogue: 0,0:17:12.44,0:17:13.49,RnF_Voice,,0,0,0,,Fuko-san!
+Dialogue: 0,0:17:17.87,0:17:20.91,RnF_Voice,,0,0,0,,Du kannst dich glücklich schätzen. Koryuu-sama will dich belohnen.
+Dialogue: 0,0:17:20.95,0:17:22.91,RnF_Voice,,0,0,0,,Hab deinen Spaß mit uns.
+Dialogue: 0,0:17:24.12,0:17:26.12,RnF_Voice,,0,0,0,,W-Was... Aufhören!
+Dialogue: 0,0:17:26.96,0:17:28.42,RnF_Voice,,0,0,0,,Dein Körper lügt nicht.
+Dialogue: 0,0:17:44.60,0:17:46.31,RnF_Voice,,0,0,0,,Ya-Yamase-san...
+Dialogue: 0,0:17:55.11,0:17:57.49,RnF_Voice,,0,0,0,,Ich will es... bitte.
+Dialogue: 0,0:17:58.82,0:18:00.45,RnF_Voice,,0,0,0,,Bitte, treib's mit mir!
+Dialogue: 0,0:18:01.83,0:18:04.37,RnF_Voice,,0,0,0,,Der ist aber groß geworden.
+Dialogue: 0,0:18:04.83,0:18:07.00,RnF_Voice,,0,0,0,,Den will ich mir reinstecken.
+Dialogue: 0,0:18:14.51,0:18:17.26,RnF_Voice,,0,0,0,,Leck mich auch gut, ja?
+Dialogue: 0,0:18:23.68,0:18:26.89,RnF_Voice,,0,0,0,,Du bist aber gut bestückt.
+Dialogue: 0,0:18:29.39,0:18:31.36,RnF_Voice,,0,0,0,,Schnell, besorg's mir!
+Dialogue: 0,0:18:32.61,0:18:36.07,RnF_Voice,,0,0,0,,Fuko-san... beobachtet mich.
+Dialogue: 0,0:18:38.03,0:18:40.57,RnF_Voice,,0,0,0,,Wenn du es so hart machst, dann...
+Dialogue: 0,0:18:42.74,0:18:45.54,RnF_Voice,,0,0,0,,Wenn ich es so hart mache, dann was?
+Dialogue: 0,0:18:48.00,0:18:48.91,RnF_Voice,,0,0,0,,Ich kann nicht mehr!
+Dialogue: 0,0:18:49.96,0:18:50.83,RnF_Voice,,0,0,0,,Ich komme!
+Dialogue: 0,0:18:51.88,0:18:53.84,RnF_Voice,,0,0,0,,Ya-Yamase-san!
+Dialogue: 0,0:18:55.13,0:18:56.63,RnF_Voice,,0,0,0,,Der Wahnsinn!
+Dialogue: 0,0:18:56.67,0:18:57.84,RnF_Voice,,0,0,0,,Er ist so groß!
+Dialogue: 0,0:18:57.88,0:18:59.68,RnF_Voice,,0,0,0,,Und stößt so tief in mich!
+Dialogue: 0,0:19:04.43,0:19:05.72,RnF_Voice,,0,0,0,,Verdammt...
+Dialogue: 0,0:19:05.76,0:19:07.02,RnF_Voice,,0,0,0,,Ich kann nicht mehr...
+Dialogue: 0,0:19:07.06,0:19:08.64,RnF_Voice,,0,0,0,,Fuko-san...
+Dialogue: 0,0:19:11.02,0:19:12.02,RnF_Voice,,0,0,0,,Ich komme!
+Dialogue: 0,0:19:24.20,0:19:25.58,RnF_Voice,,0,0,0,,Yamase-san!
+Dialogue: 0,0:19:25.62,0:19:26.83,RnF_Voice,,0,0,0,,Ich will auch!
+Dialogue: 0,0:20:04.99,0:20:05.91,RnF_Voice,,0,0,0,,Yamase...
+Dialogue: 0,0:20:08.08,0:20:09.75,RnF_Voice,,0,0,0,,Warum bist du...?
+Dialogue: 0,0:20:12.16,0:20:15.00,RnF_Voice,,0,0,0,,So groß... es reicht bis zu meiner Gebärmutter!
+Dialogue: 0,0:20:17.13,0:20:20.01,RnF_Voice,,0,0,0,,Yamase... willst du kommen?
+Dialogue: 0,0:20:27.60,0:20:31.85,RnF_Voice,,0,0,0,,Yamase... Du kannst in mir kommen!
+Dialogue: 0,0:20:51.50,0:20:54.71,RnF_Voice,,0,0,0,,So heiß, so angenehm...
+Dialogue: 0,0:20:55.42,0:20:56.69,RnF_Voice,,0,0,0,,Du bist also gekommen.
+Dialogue: 0,0:20:56.69,0:20:58.32,RnF_Voice,,0,0,0,,Ich gewinne.
+Dialogue: 0,0:20:58.34,0:20:59.54,RnF_Voice,,0,0,0,,Bringt es her.
+Dialogue: 0,0:21:13.77,0:21:17.52,RnF_Voice,,0,0,0,,Zeit für dich zur Kuh zu werden.
+Dialogue: 0,0:21:18.15,0:21:19.82,RnF_Voice,,0,0,0,,Genau wie Hakufu und Anna.
+Dialogue: 0,0:21:20.57,0:21:22.07,RnF_Voice,,0,0,0,,Eine letzte Bitte hätte ich noch.
+Dialogue: 0,0:21:23.15,0:21:24.24,RnF_Voice,,0,0,0,,Und die wäre?
+Dialogue: 0,0:21:26.03,0:21:28.49,RnF_Voice,,0,0,0,,Mit mir geht's zu Ende.
+Dialogue: 0,0:21:28.53,0:21:32.74,RnF_Voice,,0,0,0,,Könnte ich noch einmal Anna sehen, bevor ich eine Kuh werde?
+Dialogue: 0,0:21:35.08,0:21:36.16,RnF_Voice,,0,0,0,,Okay.
+Dialogue: 0,0:21:37.25,0:21:38.25,RnF_Voice,,0,0,0,,Gute Idee!
+Dialogue: 0,0:21:38.29,0:21:42.38,RnF_Voice,,0,0,0,,Ich will dein schmerzerfülltes Gesicht sehen, wenn du deine Kuh-Schwester wiedersiehst.
+Dialogue: 0,0:21:53.89,0:21:57.14,RnF_Voice,,0,0,0,,Die hochwertigen Kühe werden hier gehalten.
+Dialogue: 0,0:21:59.15,0:22:00.11,RnF_Voice,,0,0,0,,Anna...
+Dialogue: 0,0:22:00.73,0:22:06.61,RnF_Voice,,0,0,0,,Auch du wirst hier landen und genau wie Anna besonders starke Milch produzieren.
+Dialogue: 0,0:22:07.32,0:22:08.20,RnF_Voice,,0,0,0,,Anna...
+Dialogue: 0,0:22:33.60,0:22:36.48,RnF_Voice,,0,0,0,,Vielleicht habe ich mich in dir geirrt, Soko.
+Dialogue: 0,0:22:37.27,0:22:42.77,RnF_Voice,,0,0,0,,Ich brauche dir wohl kaum zu erklären, dass du dafür geradestehen wirst.
+Dialogue: 0,0:22:45.48,0:22:48.28,RnF_Voice,,0,0,0,,Rei-Oneesama... Kämpfen wird dir nicht weiterhelfen.
+Dialogue: 0,0:22:48.32,0:22:50.24,RnF_Voice,,0,0,0,,Akzeptier einfach dein Schicksal.
+Dialogue: 0,0:23:06.34,0:23:07.67,RnF_Voice,,0,0,0,,Nein!
+Dialogue: 0,0:23:09.51,0:23:12.43,RnF_Voice,,0,0,0,,Koryuu-sama!
+Dialogue: 0,0:23:24.34,0:24:52.80,RnF_Box2,,0,0,0,,{\pos(0,720)\p1}m 0 0 l 1280 0 1280 72 0 72{\p0}
+Dialogue: 0,0:23:24.34,0:24:52.80,RnF_Box2,,0,0,0,,{\pos(0,108)\p1}m 0 0 l 1280 0 1280 108 0 108{\p0}
+Dialogue: 0,0:23:24.80,0:23:32.14,RnF_End1,,0,0,0,,Einst hatte ich Träume. Doch nach einigen Fehlschlägen, gab ich sie auf.
+Dialogue: 0,0:23:32.14,0:23:39.27,RnF_End1,,0,0,0,,All meine damaligen Gefühle waren unreif.
+Dialogue: 0,0:23:39.27,0:23:46.86,RnF_End1,,0,0,0,,Die Zeit verstrich und je mehr ich weinte, umso mehr verstand ich.
+Dialogue: 0,0:23:46.86,0:23:53.82,RnF_End1,,0,0,0,,Ich lernte mich selbst und die Dinge, die ich liebte, zu beschützen.
+Dialogue: 0,0:23:53.82,0:24:01.16,RnF_End1,,0,0,0,,Ich ignoriere das Leid anderer, damit ich wachsen kann.
+Dialogue: 0,0:24:01.16,0:24:08.51,RnF_End1,,0,0,0,,In dieser Welt kannst du nur etwas auf Kosten anderer erreichen.
+Dialogue: 0,0:24:08.51,0:24:15.89,RnF_End1,,0,0,0,,Blickst du nach oben, siehst du wie sich das weite Universum über dir erstreckt.
+Dialogue: 0,0:24:15.89,0:24:23.31,RnF_End1,,0,0,0,,Aber die Regenwolken, die deinen Tränen entspringen, versperren dir die Sicht.
+Dialogue: 0,0:24:23.31,0:24:30.69,RnF_End1,,0,0,0,,Doch wenn du weinst und dich mir öffnest,
+Dialogue: 0,0:24:30.69,0:24:38.62,RnF_End1,,0,0,0,,werde ich zu einem Wind, der deine Sorgen fortweht.
+Dialogue: 0,0:24:38.62,0:24:43.25,RnF_End1,,0,0,0,,Für dich werde ich zum Sturm.
+Dialogue: 0,0:23:24.80,0:23:32.14,RnF_End2,,0,0,0,,ano koro no akogare tsumazuite wa akirameru dake\Nあの頃の憧れ躓いては諦めるだけ
+Dialogue: 0,0:23:32.14,0:23:39.27,RnF_End2,,0,0,0,,osana suigita kanjou jibun nante nakute\N幼な過ぎた感情自分なんてなくて
+Dialogue: 0,0:23:39.27,0:23:46.86,RnF_End2,,0,0,0,,sou shite toki nagarete naite wa wakatta bun dake\Nそうして時流れて泣いてはわかった分だけ
+Dialogue: 0,0:23:46.86,0:23:53.82,RnF_End2,,0,0,0,,mamoru koto mo oboeta daiji na mono mo dekite\N守ることも覚えた大事なものもできて
+Dialogue: 0,0:23:53.82,0:24:01.16,RnF_End2,,0,0,0,,kitto dareka no itami o mushi shite nari tatteru\Nきっと誰かの痛みを無視して成り立ってる
+Dialogue: 0,0:24:01.16,0:24:08.51,RnF_End2,,0,0,0,,kuraberu koto de shika kagayaku sube o shiranai sekai de\N比べることでしか輝くすべを知らない世界で
+Dialogue: 0,0:24:08.51,0:24:15.89,RnF_End2,,0,0,0,,miagereba hora hiroi uchuu ga me no mae ni hirogaru no ni\N見上げればほら広い宇宙が目の前に広がるのに
+Dialogue: 0,0:24:15.89,0:24:23.31,RnF_End2,,0,0,0,,kimi no namida ga tsukuru amagumo sono saki o tozashite shimau\N君の涙が作る雨雲その先を閉ざしてしまう
+Dialogue: 0,0:24:23.31,0:24:30.69,RnF_End2,,0,0,0,,kimi ga naite sono kage ga kiesou ni naru toki ni wa\N君が泣いてその影が消えそうになる時には
+Dialogue: 0,0:24:30.69,0:24:38.62,RnF_End2,,0,0,0,,boku wa sou kaze ni natte kimi no kokoro o utsushi dasu yo\N僕はそう風になって君の心を映し出すよ
+Dialogue: 0,0:24:38.62,0:24:43.25,RnF_End2,,0,0,0,,arashi o okoshite\N嵐を起こして

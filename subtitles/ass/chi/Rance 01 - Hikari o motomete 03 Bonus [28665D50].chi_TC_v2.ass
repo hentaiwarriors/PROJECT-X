@@ -1,0 +1,61 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,1
+Style: lance,Microsoft YaHei,44,&H00FFFFFF,&H000000FF,&H00800080,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,14,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.13,0:00:11.87,lance,,0,0,0,,早上好
+Dialogue: 0,0:00:11.97,0:00:14.03,lance,,0,0,0,,我可愛的小寵物
+Dialogue: 0,0:00:14.16,0:00:18.55,lance,,0,0,0,,啊啊 好疼啊 放過我吧 請你放過我吧
+Dialogue: 0,0:00:18.55,0:00:20.55,lance,,0,0,0,,明明是早上為什麼也…
+Dialogue: 0,0:00:20.60,0:00:23.60,lance,,0,0,0,,那是因為啊 我突然想玩玩我的玩具了呢
+Dialogue: 0,0:00:23.95,0:00:24.75,lance,,0,0,0,,你瞧瞧
+Dialogue: 0,0:00:24.98,0:00:27.71,lance,,0,0,0,,今天我說可以把玩具給大家隨意玩後
+Dialogue: 0,0:00:27.91,0:00:29.60,lance,,0,0,0,,大家都很開心的過來了呢
+Dialogue: 0,0:00:31.00,0:00:32.88,lance,,0,0,0,,已經全部硬邦邦的站起來了
+Dialogue: 0,0:00:33.31,0:00:35.43,lance,,0,0,0,,果然是因為大家最喜歡你了呢
+Dialogue: 0,0:00:41.64,0:00:45.64,lance,,0,0,0,,救… 請救救我 我什麼都會做的
+Dialogue: 0,0:00:47.03,0:00:48.13,lance,,0,0,0,,就算你這麼說呀
+Dialogue: 0,0:00:48.23,0:00:51.00,lance,,0,0,0,,可是我更想聽的是你哭喊的聲音啊
+Dialogue: 0,0:00:51.00,0:00:52.33,lance,,0,0,0,,那麼就拜託大家啦
+Dialogue: 0,0:00:59.44,0:01:00.05,lance,,0,0,0,,瑪莉絲
+Dialogue: 0,0:01:00.56,0:01:01.71,lance,,0,0,0,,遵命 莉雅大人
+Dialogue: 0,0:01:28.88,0:01:31.97,lance,,0,0,0,,不要啊 會死的 會死的啊
+Dialogue: 0,0:01:32.04,0:01:33.77,lance,,0,0,0,,放過你也沒問題啦
+Dialogue: 0,0:01:34.09,0:01:36.85,lance,,0,0,0,,那麼接下來就和巨力猩猩玩吧
+Dialogue: 0,0:01:38.35,0:01:40.09,lance,,0,0,0,,只有猩猩不行 只有猩猩不行
+Dialogue: 0,0:01:40.43,0:01:41.90,lance,,0,0,0,,我會和小鬼做的
+Dialogue: 0,0:01:42.07,0:01:43.55,lance,,0,0,0,,如果滿足了就請全部射出來吧
+Dialogue: 0,0:01:43.72,0:01:46.36,lance,,0,0,0,,我會用小穴接受的 最喜歡肉棒了
+Dialogue: 0,0:01:46.40,0:01:48.44,lance,,0,0,0,,所以 所以只有猩猩不行啊
+Dialogue: 0,0:01:50.84,0:01:53.52,lance,,0,0,0,,呵呵 好像不太願意被同伴冷落呢
+Dialogue: 0,0:01:56.16,0:01:59.20,lance,,0,0,0,,騙人的吧 騙人的吧
+Dialogue: 0,0:02:09.20,0:02:10.81,lance,,0,0,0,,啊啊啊 好疼啊
+Dialogue: 0,0:02:13.97,0:02:15.04,lance,,0,0,0,,要死了
+Dialogue: 0,0:02:16.86,0:02:17.96,lance,,0,0,0,,要去了
+Dialogue: 0,0:02:39.07,0:02:40.09,lance,,0,0,0,,停下啊
+Dialogue: 0,0:02:47.99,0:02:49.27,lance,,0,0,0,,怎麼了嗎？
+Dialogue: 0,0:02:49.89,0:02:51.01,lance,,0,0,0,,好像是壞掉了呢
+Dialogue: 0,0:02:51.81,0:02:53.34,lance,,0,0,0,,這樣下去的話會沒救的
+Dialogue: 0,0:02:53.62,0:02:54.98,lance,,0,0,0,,要用回復魔法嗎
+Dialogue: 0,0:02:55.16,0:02:58.64,lance,,0,0,0,,等一下 看它幹的那麼舒服的挺著腰
+Dialogue: 0,0:02:58.80,0:03:00.57,lance,,0,0,0,,就讓它做到最後吧
+Dialogue: 0,0:03:01.53,0:03:03.85,lance,,0,0,0,,看呀 肯定馬上就要射了呢
+Dialogue: 0,0:03:03.85,0:03:07.69,lance,,0,0,0,,去吧 去吧 用心愛的玩具高潮吧
+Dialogue: 0,0:03:10.21,0:03:12.56,lance,,0,0,0,,好厲害喲 出來了出來了呢
+Dialogue: 0,0:03:12.71,0:03:16.73,lance,,0,0,0,,出來好多啊 看來那個玩具很舒服呢
+Dialogue: 0,0:03:25.45,0:03:27.35,lance,,0,0,0,,那麼之後就拜託了呢 瑪麗斯
+Dialogue: 0,0:03:27.72,0:03:28.67,lance,,0,0,0,,為了能夠繼續用下去
+Dialogue: 0,0:03:28.68,0:03:30.21,lance,,0,0,0,,要好好收拾一下哦
+Dialogue: 0,0:03:30.73,0:03:31.97,lance,,0,0,0,,遵命 莉婭大人

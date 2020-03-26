@@ -1,0 +1,265 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Kizuoibito 04
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.26,0:00:17.67,Default,,0,0,0,,Good night, white-hair ghost
+Dialogue: 0,0:00:18.20,0:00:19.68,Default,,0,0,0,,Right, ifs No. 2 leader now
+Dialogue: 0,0:00:19.99,0:00:20.93,Default,,0,0,0,,Cimuguijie
+Dialogue: 0,0:00:21.43,0:00:22.50,Default,,0,0,0,,Are you Mi?
+Dialogue: 0,0:00:23.32,0:00:26.53,Default,,0,0,0,,I researched your auditorship,\NI want to meet you
+Dialogue: 0,0:00:27.94,0:00:29.51,Default,,0,0,0,,We'll meet on the hummock
+Dialogue: 0,0:00:30.17,0:00:32.77,Default,,0,0,0,,at 2 o'clock tomorrow
+Dialogue: 0,0:00:36.78,0:00:39.96,Default,,0,0,0,,Boss,\Nthere's something wrong with the car
+Dialogue: 0,0:00:40.59,0:00:43.47,Default,,0,0,0,,What? What's the matter, Zuozhu?
+Dialogue: 0,0:00:43.96,0:00:46.03,Default,,0,0,0,,I'd seen the engine before we started
+Dialogue: 0,0:00:46.56,0:00:49.20,Default,,0,0,0,,There's a wire touch\Nthe conduct electricity
+Dialogue: 0,0:00:49.92,0:00:53.46,Default,,0,0,0,,between the admeasure machine\Nand constringe machine
+Dialogue: 0,0:00:53.97,0:00:56.75,Default,,0,0,0,,If we only look at it simply,\Nwe can't find it
+Dialogue: 0,0:00:57.24,0:01:00.24,Default,,0,0,0,,and there's a hole in the oil kong
+Dialogue: 0,0:01:00.78,0:01:02.62,Default,,0,0,0,,the petrol's lost little by little
+Dialogue: 0,0:01:03.13,0:01:04.41,Default,,0,0,0,,Then what about the car?
+Dialogue: 0,0:01:04.83,0:01:06.25,Default,,0,0,0,,Don't worry, Liqi
+Dialogue: 0,0:01:06.67,0:01:09.34,Default,,0,0,0,,As long as we drive it quietly,\Nit can't burst
+Dialogue: 0,0:01:09.64,0:01:11.24,Default,,0,0,0,,Why didn't you say that earlier?
+Dialogue: 0,0:01:11.62,0:01:13.16,Default,,0,0,0,,Boss, so
+Dialogue: 0,0:01:13.55,0:01:15.22,Default,,0,0,0,,even if we go there
+Dialogue: 0,0:01:15.62,0:01:17.22,Default,,0,0,0,,maybe that guy won't come
+Dialogue: 0,0:01:17.72,0:01:20.29,Default,,0,0,0,,It doesn't matter, Ligu Go, Zuozhu
+Dialogue: 0,0:01:20.73,0:01:23.30,Default,,0,0,0,,I want to research that guy who\Nfollows with us
+Dialogue: 0,0:01:25.41,0:01:27.61,Default,,0,0,0,,Is it Laosilaisi?
+Dialogue: 0,0:01:28.09,0:01:30.33,Default,,0,0,0,,He's asserting our speed, ifs right
+Dialogue: 0,0:01:30.56,0:01:31.54,Default,,0,0,0,,Here he comes!
+Dialogue: 0,0:01:59.75,0:02:04.92,Default,,0,0,0,,{The collection of the Mi}
+Dialogue: 0,0:02:26.72,0:02:27.82,Default,,0,0,0,,Ah, the Mi
+Dialogue: 0,0:02:28.99,0:02:30.23,Default,,0,0,0,,You come here
+Dialogue: 0,0:03:10.52,0:03:11.96,Default,,0,0,0,,please your wet clothes
+Dialogue: 0,0:03:12.70,0:03:15.34,Default,,0,0,0,,There's some clothes here,\Nplease get on the deck after that
+Dialogue: 0,0:03:16.32,0:03:17.42,Default,,0,0,0,,You understand?
+Dialogue: 0,0:03:41.66,0:03:44.47,Default,,0,0,0,,Mi, it's the center of the sea here
+Dialogue: 0,0:03:44.71,0:03:45.82,Default,,0,0,0,,what's more
+Dialogue: 0,0:03:46.32,0:03:49.46,Default,,0,0,0,,we have much time,\Nlet's have a good talk
+Dialogue: 0,0:03:50.19,0:03:51.10,Default,,0,0,0,,{\i1}I'll{\i0} kill Jialilu
+Dialogue: 0,0:03:51.54,0:03:53.89,Default,,0,0,0,,and you come to kill me
+Dialogue: 0,0:03:54.45,0:03:56.80,Default,,0,0,0,,Do you know who the leader of GPX is?
+Dialogue: 0,0:03:58.31,0:04:01.05,Default,,0,0,0,,Right, I destroyed the engine
+Dialogue: 0,0:04:01.49,0:04:03.57,Default,,0,0,0,,so this ship only use the sail
+Dialogue: 0,0:04:04.05,0:04:06.15,Default,,0,0,0,,It's impossible that\Nyou want to control it
+Dialogue: 0,0:04:06.61,0:04:09.56,Default,,0,0,0,,If you kill me, then you'll die
+Dialogue: 0,0:04:11.02,0:04:13.90,Default,,0,0,0,,Ah, do you think I scare to die
+Dialogue: 0,0:04:18.66,0:04:21.16,Default,,0,0,0,,You're really great,\Nas a tool of murther
+Dialogue: 0,0:04:21.36,0:04:22.84,Default,,0,0,0,,can it be used?
+Dialogue: 0,0:04:45.41,0:04:46.98,Default,,0,0,0,,No!
+Dialogue: 0,0:05:46.72,0:05:47.96,Default,,0,0,0,,So cool!
+Dialogue: 0,0:05:59.24,0:06:01.11,Default,,0,0,0,,Mi, ifs time to drink
+Dialogue: 0,0:06:11.38,0:06:14.83,Default,,0,0,0,,Really? Can't it be connect?
+Dialogue: 0,0:06:26.75,0:06:27.92,Default,,0,0,0,,What's the matter with you, Mi?
+Dialogue: 0,0:06:28.29,0:06:30.27,Default,,0,0,0,,Are you afraid? {\i1}I'll{\i0} smash
+Dialogue: 0,0:06:30.61,0:06:31.78,Default,,0,0,0,,your cool heart
+Dialogue: 0,0:06:34.10,0:06:36.10,Default,,0,0,0,,No!
+Dialogue: 0,0:07:03.46,0:07:05.46,Default,,0,0,0,,Is it that girl who never cried?
+Dialogue: 0,0:07:06.03,0:07:07.63,Default,,0,0,0,,How come she became so?
+Dialogue: 0,0:07:08.23,0:07:09.68,Default,,0,0,0,,My odium
+Dialogue: 0,0:07:10.35,0:07:12.73,Default,,0,0,0,,Will he deal with the heart?
+Dialogue: 0,0:07:39.51,0:07:41.82,Default,,0,0,0,,Where're you, Mum?
+Dialogue: 0,0:08:15.30,0:08:16.90,Default,,0,0,0,,Mum, you're there!
+Dialogue: 0,0:08:17.30,0:08:18.94,Default,,0,0,0,,Mum!
+Dialogue: 0,0:08:47.96,0:08:51.07,Default,,0,0,0,,Xihu... Biji
+Dialogue: 0,0:09:04.05,0:09:06.29,Default,,0,0,0,,It's very toilsome,\Nplease give me the medicine...
+Dialogue: 0,0:09:07.26,0:09:09.64,Default,,0,0,0,,Please give me the medicine... I beg you
+Dialogue: 0,0:09:09.97,0:09:11.28,Default,,0,0,0,,I may promise you
+Dialogue: 0,0:09:11.62,0:09:13.36,Default,,0,0,0,,Please give me the medicine
+Dialogue: 0,0:09:14.29,0:09:16.27,Default,,0,0,0,,That grandma takes it
+Dialogue: 0,0:09:16.71,0:09:19.59,Default,,0,0,0,,It seems that that girl is Mi
+Dialogue: 0,0:09:20.69,0:09:23.29,Default,,0,0,0,,Hey, who let her take herion?
+Dialogue: 0,0:09:24.42,0:09:26.06,Default,,0,0,0,,I think grandma know something
+Dialogue: 0,0:09:26.49,0:09:27.93,Default,,0,0,0,,She took it two nights
+Dialogue: 0,0:09:28.57,0:09:30.61,Default,,0,0,0,,but she didn't know anything
+Dialogue: 0,0:09:31.04,0:09:33.61,Default,,0,0,0,,she only took good care of Mi
+Dialogue: 0,0:09:36.57,0:09:38.11,Default,,0,0,0,,Medicine!
+Dialogue: 0,0:09:38.62,0:09:41.66,Default,,0,0,0,,It seems that she know nothing about GPX
+Dialogue: 0,0:09:42.14,0:09:45.02,Default,,0,0,0,,Listen, don't use this way any more
+Dialogue: 0,0:09:45.72,0:09:46.72,Default,,0,0,0,,Yes, sir
+Dialogue: 0,0:09:48.15,0:09:50.36,Default,,0,0,0,,Did you deal with the thing\Nabout the hospital? Yeah
+Dialogue: 0,0:09:51.49,0:09:54.94,Default,,0,0,0,,Boss, ifs impossible that
+Dialogue: 0,0:09:55.28,0:09:56.23,Default,,0,0,0,,we'll revenge the guy like this
+Dialogue: 0,0:09:56.64,0:09:58.62,Default,,0,0,0,,I only want to give you an advice
+Dialogue: 0,0:10:07.62,0:10:08.79,Default,,0,0,0,,I hate doctor!
+Dialogue: 0,0:10:09.47,0:10:11.14,Default,,0,0,0,,And I'm not sick
+Dialogue: 0,0:10:12.08,0:10:13.29,Default,,0,0,0,,If you're not sick
+Dialogue: 0,0:10:13.72,0:10:15.63,Default,,0,0,0,,you killed so many people,\Nwhy do you still keep quiet?
+Dialogue: 0,0:10:16.17,0:10:18.55,Default,,0,0,0,,And your eyes when you saw fire
+Dialogue: 0,0:10:19.11,0:10:21.75,Default,,0,0,0,,What happened before...
+Dialogue: 0,0:10:22.05,0:10:23.43,Default,,0,0,0,,on earth?
+Dialogue: 0,0:10:24.82,0:10:26.36,Default,,0,0,0,,My wife
+Dialogue: 0,0:10:26.80,0:10:27.93,Default,,0,0,0,,named Biji died
+Dialogue: 0,0:10:28.46,0:10:30.46,Default,,0,0,0,,How did you love her?
+Dialogue: 0,0:10:32.07,0:10:34.05,Default,,0,0,0,,I can't say it out
+Dialogue: 0,0:10:34.84,0:10:35.94,Default,,0,0,0,,but ifs true
+Dialogue: 0,0:10:36.47,0:10:37.68,Default,,0,0,0,,Do you love her now?
+Dialogue: 0,0:10:45.27,0:10:47.41,Default,,0,0,0,,Do you know the meaning of the red road?
+Dialogue: 0,0:10:47.82,0:10:48.89,Default,,0,0,0,,The ebullient love
+Dialogue: 0,0:10:49.51,0:10:51.05,Default,,0,0,0,,Biji liked this kind of flower very much
+Dialogue: 0,0:10:52.21,0:10:54.56,Default,,0,0,0,,{\i1}I'll{\i0} send you a flower like this
+Dialogue: 0,0:11:05.48,0:11:08.99,Default,,0,0,0,,Mi, the present's a little rude
+Dialogue: 0,0:11:09.47,0:11:10.88,Default,,0,0,0,,but I'd like
+Dialogue: 0,0:11:11.27,0:11:12.95,Default,,0,0,0,,to take it
+Dialogue: 0,0:11:17.13,0:11:18.44,Default,,0,0,0,,Genie
+Dialogue: 0,0:11:23.25,0:11:25.66,Default,,0,0,0,,Ligu, what's the matter on earth?
+Dialogue: 0,0:11:26.11,0:11:28.18,Default,,0,0,0,,Boss bought the hospital
+Dialogue: 0,0:11:28.48,0:11:30.39,Default,,0,0,0,,and doctors and nurses
+Dialogue: 0,0:11:30.87,0:11:31.81,Default,,0,0,0,,What?
+Dialogue: 0,0:11:33.35,0:11:36.46,Default,,0,0,0,,Maybe you love that girl?
+Dialogue: 0,0:11:38.90,0:11:40.01,Default,,0,0,0,,Wordy!
+Dialogue: 0,0:11:40.42,0:11:41.56,Default,,0,0,0,,Patrol seriously!
+Dialogue: 0,0:11:42.41,0:11:43.98,Default,,0,0,0,,I know, Ligu
+Dialogue: 0,0:11:44.67,0:11:47.62,Default,,0,0,0,,{\i1}I'll{\i0} use the therapeutics to you now
+Dialogue: 0,0:11:48.19,0:11:49.87,Default,,0,0,0,,Please relax
+Dialogue: 0,0:12:00.85,0:12:03.09,Default,,0,0,0,,Open your eyes
+Dialogue: 0,0:12:06.72,0:12:09.29,Default,,0,0,0,,Is it you who's in picture?
+Dialogue: 0,0:12:09.82,0:12:12.20,Default,,0,0,0,,And another one is your mother, right?
+Dialogue: 0,0:12:12.57,0:12:14.81,Default,,0,0,0,,Don't look at other place,\Nlook carefully
+Dialogue: 0,0:12:15.20,0:12:16.17,Default,,0,0,0,,Come here!
+Dialogue: 0,0:12:17.31,0:12:18.95,Default,,0,0,0,,Please think carefully
+Dialogue: 0,0:12:19.50,0:12:21.71,Default,,0,0,0,,what happened when you were a child
+Dialogue: 0,0:12:32.57,0:12:34.52,Default,,0,0,0,,Where're you, Mum? Mum!
+Dialogue: 0,0:12:34.86,0:12:35.96,Default,,0,0,0,,Mum!
+Dialogue: 0,0:12:36.67,0:12:38.44,Default,,0,0,0,,Mum! Mum!
+Dialogue: 0,0:12:38.81,0:12:40.95,Default,,0,0,0,,Mum!
+Dialogue: 0,0:12:41.17,0:12:42.98,Default,,0,0,0,,Mum, help me! I beg you!
+Dialogue: 0,0:12:43.44,0:12:45.44,Default,,0,0,0,,Mum! Mum!
+Dialogue: 0,0:12:45.82,0:12:48.36,Default,,0,0,0,,Mum, I beg you! Help me!
+Dialogue: 0,0:12:48.79,0:12:50.27,Default,,0,0,0,,Mum Mum!
+Dialogue: 0,0:12:50.59,0:12:51.57,Default,,0,0,0,,No!
+Dialogue: 0,0:12:52.26,0:12:54.43,Default,,0,0,0,,No!
+Dialogue: 0,0:13:32.66,0:13:33.69,Default,,0,0,0,,Guijie!
+Dialogue: 0,0:13:35.55,0:13:37.22,Default,,0,0,0,,You called out my name
+Dialogue: 0,0:13:39.39,0:13:41.13,Default,,0,0,0,,You only violate me
+Dialogue: 0,0:13:41.71,0:13:43.55,Default,,0,0,0,,and I'm being ravished
+Dialogue: 0,0:13:45.41,0:13:47.05,Default,,0,0,0,,It's useless
+Dialogue: 0,0:13:48.17,0:13:49.95,Default,,0,0,0,,{\i1}I'll{\i0} not tell you anything
+Dialogue: 0,0:13:50.42,0:13:51.42,Default,,0,0,0,,I don't know anything
+Dialogue: 0,0:13:53.29,0:13:55.14,Default,,0,0,0,,It's teacher who took in the order
+Dialogue: 0,0:13:55.80,0:13:58.83,Default,,0,0,0,,and I only act on the instructions
+Dialogue: 0,0:13:59.38,0:14:03.26,Default,,0,0,0,,Teacher?\NRight, he took good care of me
+Dialogue: 0,0:14:05.48,0:14:07.32,Default,,0,0,0,,Mum dislike me
+Dialogue: 0,0:14:07.90,0:14:10.04,Default,,0,0,0,,because I'd not were born
+Dialogue: 0,0:14:12.44,0:14:15.01,Default,,0,0,0,,she sell me to teacher
+Dialogue: 0,0:15:44.41,0:15:45.58,Default,,0,0,0,,Mi!
+Dialogue: 0,0:15:49.99,0:15:51.84,Default,,0,0,0,,Mi!
+Dialogue: 0,0:16:10.89,0:16:12.39,Default,,0,0,0,,Why did you kill yourself?
+Dialogue: 0,0:16:13.34,0:16:16.38,Default,,0,0,0,,It means that Mi really loves Boss
+Dialogue: 0,0:16:16.83,0:16:19.94,Default,,0,0,0,,Then she'd not kill herself
+Dialogue: 0,0:16:20.25,0:16:22.02,Default,,0,0,0,,so I said you were a child
+Dialogue: 0,0:16:22.60,0:16:23.34,Default,,0,0,0,,Liqi
+Dialogue: 0,0:16:24.13,0:16:25.73,Default,,0,0,0,,Mi's a professional killer
+Dialogue: 0,0:16:26.18,0:16:28.79,Default,,0,0,0,,she's in love with Boss
+Dialogue: 0,0:16:29.35,0:16:31.66,Default,,0,0,0,,she has to choose to die
+Dialogue: 0,0:16:32.22,0:16:33.16,Default,,0,0,0,,You understand?
+Dialogue: 0,0:16:33.54,0:16:34.14,Default,,0,0,0,,It's really complicated
+Dialogue: 0,0:16:39.96,0:16:42.67,Default,,0,0,0,,I... I...
+Dialogue: 0,0:16:43.10,0:16:45.84,Default,,0,0,0,,Only in order to get the intelligence\Nabout the organization
+Dialogue: 0,0:16:46.19,0:16:47.83,Default,,0,0,0,,I huged Mi
+Dialogue: 0,0:16:48.86,0:16:51.07,Default,,0,0,0,,And my excuse is that\Nshe wants to kill me
+Dialogue: 0,0:16:51.41,0:16:54.69,Default,,0,0,0,,And I normalize my action
+Dialogue: 0,0:16:54.97,0:16:57.07,Default,,0,0,0,,In fact, my heart is full of evil desire
+Dialogue: 0,0:16:57.44,0:17:00.04,Default,,0,0,0,,For my private desire, I... Mi
+Dialogue: 0,0:17:01.61,0:17:03.85,Default,,0,0,0,,And Mi saw through my heart
+Dialogue: 0,0:17:04.31,0:17:08.12,Default,,0,0,0,,I regarded Mi as a tool
+Dialogue: 0,0:17:08.37,0:17:09.51,Default,,0,0,0,,Listen to me, Mi
+Dialogue: 0,0:17:09.91,0:17:11.72,Default,,0,0,0,,Let me make expiation
+Dialogue: 0,0:17:17.28,0:17:19.23,Default,,0,0,0,,Mom Mom
+Dialogue: 0,0:17:19.53,0:17:20.53,Default,,0,0,0,,Mam!
+Dialogue: 0,0:17:24.12,0:17:25.12,Default,,0,0,0,,Mam!
+Dialogue: 0,0:17:25.50,0:17:27.27,Default,,0,0,0,,Mom! No!
+Dialogue: 0,0:17:28.02,0:17:28.89,Default,,0,0,0,,Mam!
+Dialogue: 0,0:17:30.80,0:17:32.04,Default,,0,0,0,,Mom! Open the door!
+Dialogue: 0,0:17:32.46,0:17:34.37,Default,,0,0,0,,I beg you not to present me to others!
+Dialogue: 0,0:17:34.79,0:17:34.81,Default,,0,0,0,,
+Dialogue: 0,0:17:34.81,0:17:37.48,Default,,0,0,0,,Mom! I beg me, let me in!
+Dialogue: 0,0:17:37.98,0:17:40.92,Default,,0,0,0,,Mam!
+Dialogue: 0,0:17:48.35,0:17:49.92,Default,,0,0,0,,Mi, go away!
+Dialogue: 0,0:18:08.37,0:18:10.35,Default,,0,0,0,,If your performance is excellent,\Nyou're a good kid
+Dialogue: 0,0:18:19.21,0:18:20.21,Default,,0,0,0,,Mi
+Dialogue: 0,0:18:20.64,0:18:22.58,Default,,0,0,0,,When I see you to recover
+Dialogue: 0,0:18:23.06,0:18:24.26,Default,,0,0,0,,it'll be time for us to\Nbe Nunc Dimittis
+Dialogue: 0,0:18:34.67,0:18:35.80,Default,,0,0,0,,What's it?
+Dialogue: 0,0:19:18.67,0:19:20.08,Default,,0,0,0,,Cimuguijie
+Dialogue: 0,0:19:20.65,0:19:24.57,Default,,0,0,0,,Bad! The opponent is Classic Force
+Dialogue: 0,0:19:26.87,0:19:30.82,Default,,0,0,0,,And the opposite army arrive here too
+Dialogue: 0,0:19:56.47,0:19:59.04,Default,,0,0,0,,It's OK Bullets always miss the target
+Dialogue: 0,0:19:59.51,0:20:00.54,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:20:01.86,0:20:03.31,Default,,0,0,0,,You're really a boss
+Dialogue: 0,0:20:13.59,0:20:16.87,Default,,0,0,0,,How long can you stand to\Nfight against them?
+Dialogue: 0,0:20:17.20,0:20:20.12,Default,,0,0,0,,Guys They're soldiers
+Dialogue: 0,0:20:20.41,0:20:23.55,Default,,0,0,0,,retiring from the 2nd world war
+Dialogue: 0,0:20:23.89,0:20:25.87,Default,,0,0,0,,and the Vietnam War
+Dialogue: 0,0:20:26.31,0:20:27.98,Default,,0,0,0,,I've asked the great guy
+Dialogue: 0,0:20:28.63,0:20:30.70,Default,,0,0,0,,Liqi, tell every doctor
+Dialogue: 0,0:20:31.06,0:20:32.16,Default,,0,0,0,,to take sanctuary at present
+Dialogue: 0,0:20:32.65,0:20:33.43,Default,,0,0,0,,OK!
+Dialogue: 0,0:21:08.41,0:21:09.72,Default,,0,0,0,,Cimuguijie!
+Dialogue: 0,0:21:10.58,0:21:18.58,Default,,0,0,0,,Cimuguijie, why do you protect me?
+Dialogue: 0,0:21:38.22,0:21:39.63,Default,,0,0,0,,The driver knows the destination
+Dialogue: 0,0:21:40.09,0:21:41.16,Default,,0,0,0,,Wait for our contact!
+Dialogue: 0,0:21:57.81,0:21:59.31,Default,,0,0,0,,They're coming!
+Dialogue: 0,0:22:00.74,0:22:04.19,Default,,0,0,0,,Everybody, get ready to fight!
+Dialogue: 0,0:22:14.56,0:22:17.97,Default,,0,0,0,,Wait, I didn't heard it need to be cured
+Dialogue: 0,0:22:19.09,0:22:20.30,Default,,0,0,0,,Guy!
+Dialogue: 0,0:22:30.36,0:22:31.24,Default,,0,0,0,,Let's start!
+Dialogue: 0,0:22:31.78,0:22:33.82,Default,,0,0,0,,We'd team them a good lesson!
+Dialogue: 0,0:22:37.86,0:22:39.84,Default,,0,0,0,,The guy is very doubtful!
+Dialogue: 0,0:22:40.25,0:22:41.22,Default,,0,0,0,,Who're you'?
+Dialogue: 0,0:22:54.77,0:22:55.84,Default,,0,0,0,,Sir!
+Dialogue: 0,0:22:57.35,0:23:00.30,Default,,0,0,0,,Mi, I come to end the final situation
+Dialogue: 0,0:23:02.57,0:23:04.31,Default,,0,0,0,,Ah, what do you want to do?
+Dialogue: 0,0:23:04.75,0:23:06.76,Default,,0,0,0,,Mi, you can't provent me
+Dialogue: 0,0:23:16.35,0:23:17.35,Default,,0,0,0,,Cimuguijie!
+Dialogue: 0,0:23:32.31,0:23:33.99,Default,,0,0,0,,They rush here!
+Dialogue: 0,0:23:40.35,0:23:42.52,Default,,0,0,0,,They won't last long.
+Dialogue: 0,0:23:42.87,0:23:45.01,Default,,0,0,0,,They like battle?
+Dialogue: 0,0:23:45.47,0:23:46.21,Default,,0,0,0,,How come!
+Dialogue: 0,0:24:13.66,0:24:14.83,Default,,0,0,0,,Cimuguijie!
+Dialogue: 0,0:24:22.70,0:24:24.47,Default,,0,0,0,,I come to see you!
+Dialogue: 0,0:24:36.15,0:24:37.06,Default,,0,0,0,,Sir!
+Dialogue: 0,0:24:40.56,0:24:42.00,Default,,0,0,0,,I'm your opponent
+Dialogue: 0,0:24:42.83,0:24:45.34,Default,,0,0,0,,Do you believe you can win me\Nwith the skill I taught you?
+Dialogue: 0,0:24:46.53,0:24:49.48,Default,,0,0,0,,Mi, you're an disquarlified killer
+Dialogue: 0,0:24:49.93,0:24:51.53,Default,,0,0,0,,{\i1}I'll beat you now{\i0}
+Dialogue: 0,0:24:58.94,0:25:00.18,Default,,0,0,0,,How dare you say that?
+Dialogue: 0,0:25:02.84,0:25:04.01,Default,,0,0,0,,Cimuguijie
+Dialogue: 0,0:25:04.33,0:25:06.40,Default,,0,0,0,,You... from today on
+Dialogue: 0,0:25:06.80,0:25:10.25,Default,,0,0,0,,we'll have USA as our enemy
+Dialogue: 0,0:25:11.86,0:25:13.20,Default,,0,0,0,,USA?
+Dialogue: 0,0:25:26.91,0:25:27.79,Default,,0,0,0,,Bad:
+Dialogue: 0,0:25:28.14,0:25:29.85,Default,,0,0,0,,Boss! This ism?
+Dialogue: 0,0:25:30.81,0:25:32.51,Default,,0,0,0,,Mi saved me
+Dialogue: 0,0:25:34.41,0:25:36.12,Default,,0,0,0,,It's not OK here, boss
+Dialogue: 0,0:25:36.50,0:25:38.24,Default,,0,0,0,,Most of them are wounded
+Dialogue: 0,0:25:46.35,0:25:48.29,Default,,0,0,0,,Go! Boss!
+Dialogue: 0,0:26:02.80,0:26:04.44,Default,,0,0,0,,How come ifs so! Their truck!
+Dialogue: 0,0:26:05.22,0:26:06.53,Default,,0,0,0,,Let me do with it!
+Dialogue: 0,0:26:18.61,0:26:20.46,Default,,0,0,0,,Captain Bai, ifs me
+Dialogue: 0,0:26:21.05,0:26:22.55,Default,,0,0,0,,Sorry, it failed
+Dialogue: 0,0:26:23.75,0:26:27.13,Default,,0,0,0,,No...\Nthey didn't return to the villa and grot
+Dialogue: 0,0:26:27.69,0:26:30.33,Default,,0,0,0,,Got it, we must succeed next time
+Dialogue: 0,0:26:54.70,0:26:58.70,Default,,0,0,0,,(Mediterranean. Golusika)
+Dialogue: 0,0:27:07.84,0:27:09.78,Default,,0,0,0,,Do you still want to revenge?
+Dialogue: 0,0:27:10.07,0:27:11.21,Default,,0,0,0,,Cimuguijie
+Dialogue: 0,0:27:13.58,0:27:15.02,Default,,0,0,0,,The opponent is a nation
+Dialogue: 0,0:27:15.90,0:27:19.24,Default,,0,0,0,,A nation? He means USA
+Dialogue: 0,0:27:26.68,0:27:29.42,Default,,0,0,0,,I will do it,\NNo matter who the opponent is
+Dialogue: 0,0:27:31.23,0:27:32.83,Default,,0,0,0,,I won't stop fighting
+Dialogue: 0,0:27:33.29,0:27:35.00,Default,,0,0,0,,till the revenge is finished
+Dialogue: 0,0:27:35.82,0:27:37.73,Default,,0,0,0,,To kill or to be killed
+Dialogue: 0,0:27:51.73,0:27:52.94,Default,,0,0,0,,{\i1}I'll{\i0} follow you
+Dialogue: 0,0:27:56.08,0:27:58.75,Default,,0,0,0,,forever

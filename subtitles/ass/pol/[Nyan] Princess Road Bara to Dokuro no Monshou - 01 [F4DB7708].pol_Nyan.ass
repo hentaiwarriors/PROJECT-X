@@ -1,0 +1,478 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build397  Sep 13 2015  18:34:34
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [640x480]
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00000096,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,0,7,87,10,65,1
+Style: Anime,Franklin Gothic Medium,50,&H00000096,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:04:32.88,0:04:38.47,Grupa,,0,0,0,,{\be1\fad(560,0)}Nyan
+Dialogue: 0,0:04:32.88,0:04:38.47,Anime,,0,0,0,,{\pos(320,300)\be1\fad(560,0)}Princess Road\N{\fs25.3\bord1.5}Bara to Dokuro no Monshou
+Dialogue: 0,0:01:08.97,0:01:14.54,Default,,0,0,0,,{\be1}Ty musisz być władcą smoków, który\Natakuje wszystkie kraje na kontynencie Laan!
+Dialogue: 0,0:01:14.54,0:01:15.61,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:01:16.35,0:01:21.45,Default,,0,0,0,,{\be1}Jak śmiesz atakować mnie w 30-tą\Nrocznicę mojego panowanie?
+Dialogue: 0,0:01:21.45,0:01:26.92,Default,,0,0,0,,{\be1}To zaszczyć móc zaatakować cię\Nw tak ważnym dniu.
+Dialogue: 0,0:01:26.92,0:01:29.13,Default,,0,0,0,,{\be1}Nie pozwolę ci na nic więcej!
+Dialogue: 0,0:01:29.78,0:01:31.82,Default,,0,0,0,,{\be1}Zdychaj!
+Dialogue: 0,0:01:39.94,0:01:41.66,Default,,0,0,0,,{\be1}Ojcze!
+Dialogue: 0,0:01:43.40,0:01:44.37,Default,,0,0,0,,{\be1}Matko!
+Dialogue: 0,0:01:50.21,0:01:51.97,Default,,0,0,0,,{\be1}Matko!
+Dialogue: 0,0:02:04.40,0:02:09.32,Default,,0,0,0,,{\be1}Nie zabiję cię.
+Dialogue: 0,0:02:25.42,0:02:29.09,Default,,0,0,0,,{\be1}Dostarcz to księżniczce Asronii.
+Dialogue: 0,0:02:29.95,0:02:32.48,Default,,0,0,0,,{\be1}Postaram się z całych sił.
+Dialogue: 0,0:02:34.82,0:02:35.96,Default,,0,0,0,,{\be1}Liczę na ciebie.
+Dialogue: 0,0:02:35.96,0:02:38.57,Default,,0,0,0,,{\be1}Niepotrzebnie.
+Dialogue: 0,0:02:41.58,0:02:42.90,Default,,0,0,0,,{\be1}Kim jesteś?
+Dialogue: 0,0:02:45.18,0:02:49.86,Default,,0,0,0,,{\be1}Niepotrzebnie trudzisz się\Nz wysyłaniem kogokolwiek.
+Dialogue: 0,0:02:49.86,0:02:50.99,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:03:07.17,0:03:10.09,Default,,0,0,0,,{\be1}Gdzie ten posłaniec?
+Dialogue: 0,0:03:13.13,0:03:14.25,Default,,0,0,0,,{\be1}Mam cię.
+Dialogue: 0,0:03:29.41,0:03:33.02,Default,,0,0,0,,{\be1}Ziemie naszego pana znowu się poszerzyły.
+Dialogue: 0,0:03:33.41,0:03:35.27,Default,,0,0,0,,{\be1}Świetny widok.
+Dialogue: 0,0:04:24.66,0:04:31.54,Default,,0,0,0,,{\be1}Na kontynencie Laan przez\Nponad 100 lat panował pokój.
+Dialogue: 0,0:04:31.54,0:04:38.47,Default,,0,0,0,,{\be1}Przez ten czas pomniejsze\Npaństwa stworzyły unię.
+Dialogue: 0,0:04:49.09,0:04:51.86,Default,,0,0,0,,{\be1}Ale pokój został przerwany.
+Dialogue: 0,0:04:58.44,0:05:05.33,Default,,0,0,0,,{\be1}A wszystko za sprawą armii złożonej\Nze smoków, rycerzy i czarowników.
+Dialogue: 0,0:05:05.33,0:05:09.00,Default,,0,0,0,,{\be1}A w szczególności przez Klan Mroku\Nznanego z szybkiego poruszania się.
+Dialogue: 0,0:05:09.51,0:05:14.59,Default,,0,0,0,,{\be1}Państwa, które nie potrafiły się obronić przed\Natakami z powietrza zostały szybko zajęte.
+Dialogue: 0,0:05:19.63,0:05:29.10,Default,,0,0,0,,{\be1}Ich przywódca, władca smoków,\Nzostał okrzyknięty królem grozy.
+Dialogue: 0,0:06:03.66,0:06:05.04,Default,,0,0,0,,{\be1}Odejdź.
+Dialogue: 0,0:06:14.85,0:06:18.28,Default,,0,0,0,,{\be1}Księżniczko, uważaj na suknię,\Nna trawie jest rosa.
+Dialogue: 0,0:06:18.94,0:06:21.55,Default,,0,0,0,,{\be1}Zawsze pouczasz mnie\Njakbyś była moją siostrą.
+Dialogue: 0,0:06:21.55,0:06:23.34,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:06:23.34,0:06:24.62,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:06:25.95,0:06:29.62,Default (i),,0,0,0,,{\be1}Dorastałyśmy razem jak siostry.
+Dialogue: 0,0:06:29.62,0:06:33.19,Default (i),,0,0,0,,{\be1}Wyrosła na cudowną kobietę.
+Dialogue: 0,0:06:36.03,0:06:36.96,Default,,0,0,0,,{\be1}Co robisz?
+Dialogue: 0,0:06:36.96,0:06:42.04,Default,,0,0,0,,{\be1}Jedziemy na 30-tą rocznice\Npanowania króla Gostarii.
+Dialogue: 0,0:06:42.70,0:06:46.97,Default,,0,0,0,,{\be1}To wyjątkowa okazja,\Nty też powinnaś ładnie wyglądać.
+Dialogue: 0,0:06:46.97,0:06:49.98,Default,,0,0,0,,{\be1}Od razu ładniej wyglądasz.
+Dialogue: 0,0:06:49.98,0:06:53.31,Default,,0,0,0,,{\be1}Jestem tylko twoim strażnikiem.
+Dialogue: 0,0:06:53.31,0:06:55.68,Default,,0,0,0,,{\be1}Nie chcesz ładniej wyglądać?
+Dialogue: 0,0:06:55.68,0:06:58.52,Default,,0,0,0,,{\be1}Powinnaś się cieszyć, każda tego pragnie.
+Dialogue: 0,0:07:00.09,0:07:05.05,Default,,0,0,0,,{\be1}Chcę żeby wszyscy byli szczęśliwi,\Nbo szczęście mieszkańców to moje szczęście.
+Dialogue: 0,0:07:05.91,0:07:09.26,Default,,0,0,0,,{\be1}Już wiem, dam wszystkim strażnikom kwiaty.
+Dialogue: 0,0:07:09.26,0:07:11.16,Default,,0,0,0,,{\be1}Nie mamy więcej czasu.
+Dialogue: 0,0:07:11.76,0:07:15.23,Default,,0,0,0,,{\be1}Książę Elias pewnie nie\Nmoże się ciebie doczekać.
+Dialogue: 0,0:07:15.87,0:07:17.49,Default,,0,0,0,,{\be1}Książę Elias.
+Dialogue: 0,0:07:18.08,0:07:24.01,Default,,0,0,0,,{\be1}Połączycie Asronię i Gostarię\Ni razem będziecie dobrze rządzić.
+Dialogue: 0,0:07:24.44,0:07:29.35,Default,,0,0,0,,{\be1}Wszyscy mieszkańcy, włącznie\Nze mną, czekają na ten dzień.
+Dialogue: 0,0:07:30.15,0:07:31.43,Default,,0,0,0,,{\be1}Jesteś podła.
+Dialogue: 0,0:07:39.81,0:07:42.73,Default,,0,0,0,,{\be1}- Smoki!\N- Stado smoków!
+Dialogue: 0,0:07:44.00,0:07:47.16,Default,,0,0,0,,{\be1}Natychmiast utworzyć szyk!
+Dialogue: 0,0:07:47.16,0:07:49.24,Default,,0,0,0,,{\be1}Co one tu robią?
+Dialogue: 0,0:07:49.24,0:07:50.79,Default,,0,0,0,,{\be1}Księżniczko, wsiądź do powozu.
+Dialogue: 0,0:08:00.05,0:08:01.75,Default,,0,0,0,,{\be1}Ktoś je ujeżdża.
+Dialogue: 0,0:08:01.75,0:08:09.12,Default,,0,0,0,,{\be1}Podobno kiedyś było plemię zwane Shutaam,\Nktóre potrafiło je okiełznać.
+Dialogue: 0,0:08:09.12,0:08:10.32,Default,,0,0,0,,{\be1}Shutaam?
+Dialogue: 0,0:08:10.32,0:08:12.18,Default,,0,0,0,,{\be1}Księżniczko, schyl się!
+Dialogue: 0,0:08:16.02,0:08:19.94,Default,,0,0,0,,{\be1}To plemię wyginęło dawno temu, kim oni są?
+Dialogue: 0,0:08:31.78,0:08:32.75,Default,,0,0,0,,{\be1}Księżniczko?
+Dialogue: 0,0:08:32.75,0:08:35.11,Default,,0,0,0,,{\be1}Ze mną w porządku, co z resztą?
+Dialogue: 0,0:08:35.11,0:08:37.56,Default,,0,0,0,,{\be1}Zostań tutaj.
+Dialogue: 0,0:08:45.30,0:08:47.23,Default,,0,0,0,,{\be1}To herb króla smoków.
+Dialogue: 0,0:08:47.23,0:08:49.09,Default,,0,0,0,,{\be1}Nie zbliżaj się, draniu!
+Dialogue: 0,0:09:01.98,0:09:03.36,Default,,0,0,0,,{\be1}Maya, za tobą!
+Dialogue: 0,0:09:03.36,0:09:04.50,Default,,0,0,0,,{\be1}Wiem!
+Dialogue: 0,0:09:09.25,0:09:10.61,Default,,0,0,0,,{\be1}Ilu ich jeszcze jest?
+Dialogue: 0,0:09:13.95,0:09:15.19,Default,,0,0,0,,{\be1}Księżniczko!
+Dialogue: 0,0:09:23.00,0:09:25.57,Default,,0,0,0,,{\be1}Ninja? A to ciekawe.
+Dialogue: 0,0:09:36.60,0:09:37.74,Default,,0,0,0,,{\be1}Kim jesteś?!
+Dialogue: 0,0:09:37.74,0:09:43.03,Default,,0,0,0,,{\be1}Jak śmiesz atakować\Nksiężniczkę Yurie z Asronii?!
+Dialogue: 0,0:09:43.72,0:09:45.52,Default,,0,0,0,,{\be1}Więc to księżniczka.
+Dialogue: 0,0:09:45.52,0:09:48.85,Default,,0,0,0,,{\be1}Nie lubuje się w takich, ale wezmę ją.
+Dialogue: 0,0:09:49.98,0:09:51.27,Default,,0,0,0,,{\be1}Nigdy!
+Dialogue: 0,0:09:58.63,0:10:00.33,Default,,0,0,0,,{\be1}Ożeż ty!
+Dialogue: 0,0:10:08.64,0:10:11.59,Default,,0,0,0,,{\be1}To ma być posługiwanie się mieczem?
+Dialogue: 0,0:10:11.59,0:10:12.65,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:10:20.62,0:10:25.01,Default,,0,0,0,,{\be1}Jesteś urocza, lubię takie kobiety.
+Dialogue: 0,0:10:49.21,0:10:50.09,Default,,0,0,0,,{\be1}Maya!
+Dialogue: 0,0:10:51.55,0:10:54.93,Default,,0,0,0,,{\be1}Szkoda, że nie mam czasu.
+Dialogue: 0,0:10:54.93,0:10:57.39,Default,,0,0,0,,{\be1}Maya!
+Dialogue: 0,0:10:57.39,0:10:59.22,Default,,0,0,0,,{\be1}Co jej zrobiłaś?!
+Dialogue: 0,0:10:59.22,0:11:02.43,Default,,0,0,0,,{\be1}Księżniczko, pójdziesz z nami.
+Dialogue: 0,0:11:03.35,0:11:05.52,Default,,0,0,0,,{\be1}Zabieraj łapy, bandyto!
+Dialogue: 0,0:11:05.52,0:11:08.69,Default,,0,0,0,,{\be1}Władca smoków czeka\Nna ciebie w zamku Esten.
+Dialogue: 0,0:11:08.69,0:11:10.10,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:11:10.10,0:11:13.04,Default,,0,0,0,,{\be1}Gostaria została podbita przez władcę smoków?!
+Dialogue: 0,0:11:18.94,0:11:21.74,Default (i),,0,0,0,,{\be1}A jednak, władca smoków.
+Dialogue: 0,0:11:23.88,0:11:24.95,Default,,0,0,0,,{\be1}Puszczaj!
+Dialogue: 0,0:11:26.12,0:11:30.59,Default (i),,0,0,0,,{\be1}Nie mogę pozwolić zabrać im księżniczkę!
+Dialogue: 0,0:11:30.59,0:11:32.47,Default,,0,0,0,,{\be1}Maya!
+Dialogue: 0,0:11:35.00,0:11:36.36,Default,,0,0,0,,{\be1}Księżniczko!
+Dialogue: 0,0:11:43.60,0:11:45.90,Default,,0,0,0,,{\be1}Zostaw mnie albo wyskoczę!
+Dialogue: 0,0:11:45.90,0:11:49.03,Default,,0,0,0,,{\be1}Latanie bywa niebezpieczne, więc zamilcz!
+Dialogue: 0,0:11:49.88,0:11:50.98,Default,,0,0,0,,{\be1}Wracamy!
+Dialogue: 0,0:12:07.26,0:12:09.19,Default,,0,0,0,,{\be1}Zamek Esten.
+Dialogue: 0,0:12:09.19,0:12:11.38,Default,,0,0,0,,{\be1}Obudziłaś się.
+Dialogue: 0,0:12:13.63,0:12:15.26,Default (i),,0,0,0,,{\be1}Okropne.
+Dialogue: 0,0:12:36.83,0:12:40.51,Default (i),,0,0,0,,{\be1}O nie, czuję na sobie ich brudne spojrzenia.
+Dialogue: 0,0:13:03.92,0:13:08.52,Default,,0,0,0,,{\be1}Przyprowadziłam księżniczkę Yurie z Asronii.
+Dialogue: 0,0:13:14.13,0:13:17.65,Default,,0,0,0,,{\be1}Księżniczko Yurie, witam w moim zamku.
+Dialogue: 0,0:13:18.10,0:13:20.11,Default (i),,0,0,0,,{\be1}To on.
+Dialogue: 0,0:13:20.54,0:13:21.86,Default (i),,0,0,0,,{\be1}Władca smoków.
+Dialogue: 0,0:13:28.00,0:13:31.84,Default,,0,0,0,,{\be1}Co?! Władca smoków porwał Yurie?!
+Dialogue: 0,0:13:32.48,0:13:34.20,Default,,0,0,0,,{\be1}O nie.
+Dialogue: 0,0:13:35.46,0:13:37.59,Default,,0,0,0,,{\be1}Wytrzymaj, Roletta.
+Dialogue: 0,0:13:38.42,0:13:41.67,Default,,0,0,0,,{\be1}Maya, czy na pewno widziałaś\Nherb klanu Latających Smoków?
+Dialogue: 0,0:13:41.67,0:13:45.14,Default,,0,0,0,,{\be1}Tak, to była czaszka z różą przebita mieczem.
+Dialogue: 0,0:13:45.14,0:13:49.60,Default,,0,0,0,,{\be1}Nie powinienem pozwalać ci jej ochraniać!
+Dialogue: 0,0:13:49.60,0:13:51.60,Default,,0,0,0,,{\be1}Jak za to zapłacisz?!
+Dialogue: 0,0:13:51.96,0:13:54.11,Default,,0,0,0,,{\be1}Oddaję się w wasze ręce.
+Dialogue: 0,0:13:54.11,0:13:57.07,Default,,0,0,0,,{\be1}I dobrze, zapłacisz za to życiem!
+Dialogue: 0,0:13:57.07,0:13:58.63,Default,,0,0,0,,{\be1}Zaczekaj, Gooseman!
+Dialogue: 0,0:13:58.63,0:14:01.82,Default,,0,0,0,,{\be1}Śmierć Mayi nie sprowadzi Yurie!
+Dialogue: 0,0:14:01.82,0:14:03.51,Default,,0,0,0,,{\be1}Ale, panie...
+Dialogue: 0,0:14:03.51,0:14:07.79,Default,,0,0,0,,{\be1}Tylko Maya nadawała się na jej strażniczkę.
+Dialogue: 0,0:14:07.79,0:14:14.79,Default,,0,0,0,,{\be1}Gdy Yurie była mała tak bardzo była nieśmiała,\Nże pozwoliła zbliżyć się do siebie tylko Mayi.
+Dialogue: 0,0:14:18.96,0:14:22.14,Default,,0,0,0,,{\be1}Nazywam się Maya\Ni od dziś będę twoją strażniczką.
+Dialogue: 0,0:14:22.14,0:14:24.06,Default,,0,0,0,,{\be1}Spełnię każdy twój rozkaz.
+Dialogue: 0,0:14:24.06,0:14:25.34,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:14:27.03,0:14:32.35,Default,,0,0,0,,{\be1}Więc obiecaj, że będziesz moją siostrą!
+Dialogue: 0,0:14:42.03,0:14:43.24,Default,,0,0,0,,{\be1}Przepraszam, panie.
+Dialogue: 0,0:14:43.24,0:14:44.72,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:14:44.72,0:14:49.05,Default,,0,0,0,,{\be1}Władca smoków najechał wioskę Hita!
+Dialogue: 0,0:14:49.05,0:14:49.95,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:14:50.39,0:14:55.21,Default,,0,0,0,,{\be1}Władca smoków jest bezwzględnym zdobywcą.
+Dialogue: 0,0:14:55.21,0:14:57.28,Default,,0,0,0,,{\be1}Gooseman, jedź tam.
+Dialogue: 0,0:14:57.28,0:14:59.17,Default,,0,0,0,,{\be1}Natychmiast wyruszę.
+Dialogue: 0,0:15:01.33,0:15:09.11,Default,,0,0,0,,{\be1}Maya, masz odbić księżniczkę.\NNie waż się bez niej wracać.
+Dialogue: 0,0:15:09.11,0:15:11.89,Default,,0,0,0,,{\be1}Przysięgam tak uczynić.
+Dialogue: 0,0:15:14.75,0:15:21.99,Default (i),,0,0,0,,{\be1}Wytrzymaj, księżniczko.\NPrzyrzekam cię ocalić.
+Dialogue: 0,0:15:42.61,0:15:44.13,Default (i),,0,0,0,,{\be1}Przystojniak.
+Dialogue: 0,0:15:44.13,0:15:46.60,Default (i),,0,0,0,,{\be1}On jest władcą smoków?
+Dialogue: 0,0:15:49.21,0:15:51.60,Default,,0,0,0,,{\be1}Zaskoczona?
+Dialogue: 0,0:15:52.18,0:15:55.92,Default,,0,0,0,,{\be1}Dawno się nikomu nie pokazywałem.
+Dialogue: 0,0:15:55.92,0:15:58.06,Default,,0,0,0,,{\be1}Usiądź.
+Dialogue: 0,0:16:00.79,0:16:07.74,Default,,0,0,0,,{\be1}Ta zbroja ma mnie ukrywać,\Nżeby przeciwnicy nie zobaczyli kim jestem.
+Dialogue: 0,0:16:07.74,0:16:10.74,Default,,0,0,0,,{\be1}Naprawdę jesteś władcą smoków?
+Dialogue: 0,0:16:10.74,0:16:14.16,Default,,0,0,0,,{\be1}Gdy jesteśmy sami możesz mi mówić Andreas.
+Dialogue: 0,0:16:14.16,0:16:15.27,Default,,0,0,0,,{\be1}Andreas?
+Dialogue: 0,0:16:15.27,0:16:16.20,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:16:16.81,0:16:19.88,Default,,0,0,0,,{\be1}Nie, władco smoków.\NMam do ciebie pytanie.
+Dialogue: 0,0:16:20.51,0:16:24.84,Default,,0,0,0,,{\be1}Chodzi o rodzinę królewską Gostarii?
+Dialogue: 0,0:16:24.84,0:16:26.41,Default,,0,0,0,,{\be1}Zabiłem ich.
+Dialogue: 0,0:16:27.89,0:16:32.76,Default,,0,0,0,,{\be1}Zażądałem ich kapitulacji, ale odmówili.
+Dialogue: 0,0:16:32.76,0:16:37.06,Default,,0,0,0,,{\be1}Król i królowa nie żyją.
+Dialogue: 0,0:16:37.70,0:16:39.02,Default,,0,0,0,,{\be1}A co z resztą?
+Dialogue: 0,0:16:39.02,0:16:42.27,Default,,0,0,0,,{\be1}A tak, mieli dwójkę dzieci.
+Dialogue: 0,0:16:42.27,0:16:48.97,Default,,0,0,0,,{\be1}Jak dobrze pamiętam nazywają się\NDenise i Elias, oboje żyją.
+Dialogue: 0,0:16:48.97,0:16:52.62,Default,,0,0,0,,{\be1}Nie lubię zabijać bez powodu.
+Dialogue: 0,0:16:54.18,0:16:56.08,Default,,0,0,0,,{\be1}To gdzie są?
+Dialogue: 0,0:16:56.08,0:16:59.29,Default,,0,0,0,,{\be1}Zjesz ze mną zupę?
+Dialogue: 0,0:16:59.29,0:17:01.09,Default,,0,0,0,,{\be1}Nie, dziękuję.
+Dialogue: 0,0:17:01.09,0:17:04.81,Default,,0,0,0,,{\be1}Chcę wiedzieć co z nimi.
+Dialogue: 0,0:17:27.94,0:17:29.15,Default,,0,0,0,,{\be1}Księżniczka Denise!
+Dialogue: 0,0:17:30.25,0:17:31.24,Default,,0,0,0,,{\be1}Księżniczka Yurie!
+Dialogue: 0,0:17:33.07,0:17:35.74,Default,,0,0,0,,{\be1}Idiotko, wylałaś zupę!
+Dialogue: 0,0:17:36.39,0:17:38.70,Default,,0,0,0,,{\be1}Błagam o wybaczenie!
+Dialogue: 0,0:17:39.59,0:17:40.67,Default,,0,0,0,,{\be1}Zlizuj ją.
+Dialogue: 0,0:17:40.67,0:17:43.67,Default,,0,0,0,,{\be1}Z przyjemnością, moja pani.
+Dialogue: 0,0:17:52.05,0:17:53.69,Default,,0,0,0,,{\be1}Księżniczko.
+Dialogue: 0,0:17:54.41,0:17:58.02,Default,,0,0,0,,{\be1}Wolała zostać moją niewolnicą.
+Dialogue: 0,0:17:58.02,0:17:58.98,Default,,0,0,0,,{\be1}Niewolnicą?
+Dialogue: 0,0:17:58.98,0:18:05.64,Default,,0,0,0,,{\be1}Tak i dlatego nie może\Nmówić, w twojej obecności.
+Dialogue: 0,0:18:10.82,0:18:12.36,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:18:12.36,0:18:16.66,Default,,0,0,0,,{\be1}Długo jeszcze?! Rusz się!
+Dialogue: 0,0:18:25.11,0:18:27.55,Default,,0,0,0,,{\be1}Co z księciem Eliasem?
+Dialogue: 0,0:18:28.37,0:18:31.91,Default,,0,0,0,,{\be1}Bez obaw, jest cały i zdrowy.
+Dialogue: 0,0:18:33.02,0:18:35.76,Default,,0,0,0,,{\be1}O ile dobrze pamiętam to twój narzeczony.
+Dialogue: 0,0:18:35.76,0:18:37.97,Default,,0,0,0,,{\be1}Daj mi się z nim zobaczyć.
+Dialogue: 0,0:18:37.97,0:18:40.72,Default,,0,0,0,,{\be1}To już tylko zależy od ciebie.
+Dialogue: 0,0:18:40.72,0:18:43.43,Default,,0,0,0,,{\be1}Najpierw musisz przyjąć moją ofertę.
+Dialogue: 0,0:18:43.43,0:18:44.50,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:18:44.50,0:18:49.82,Default,,0,0,0,,{\be1}Wiele ryzykowałem, żeby cię porwać.
+Dialogue: 0,0:18:50.57,0:18:56.28,Default,,0,0,0,,{\be1}Pomożesz mi zdobyć Asronię\Ni zostaniesz moją własnością.
+Dialogue: 0,0:18:58.24,0:19:01.84,Default,,0,0,0,,{\be1}Nie zbliżaj się, nie dam się wykorzystać!
+Dialogue: 0,0:19:01.84,0:19:06.46,Default,,0,0,0,,{\be1}Już wolę sobie odgryźć język i zginąć!
+Dialogue: 0,0:19:06.46,0:19:12.17,Default,,0,0,0,,{\be1}Rozumiem, twój wybór,\Nale najpierw spójrz na to.
+Dialogue: 0,0:19:14.89,0:19:18.64,Default,,0,0,0,,{\be1}To wioska Hita w Asronii.
+Dialogue: 0,0:19:18.64,0:19:22.03,Default,,0,0,0,,{\be1}Gińcie plugawiciele Asronii!
+Dialogue: 0,0:19:24.10,0:19:25.16,Default,,0,0,0,,{\be1}Gooseman!
+Dialogue: 0,0:19:26.13,0:19:29.82,Default,,0,0,0,,{\be1}To on jest tym sławnym włócznikiem?
+Dialogue: 0,0:19:29.82,0:19:33.28,Default,,0,0,0,,{\be1}Ale nie jest dla nas przeciwnikiem.
+Dialogue: 0,0:19:37.34,0:19:40.95,Default,,0,0,0,,{\be1}Teraz będzie najważniejsze.
+Dialogue: 0,0:19:42.13,0:19:45.96,Default,,0,0,0,,{\be1}Czy te dziewczyny nie są w twoim wieku?
+Dialogue: 0,0:19:48.38,0:19:50.96,Default,,0,0,0,,{\be1}Co chcesz z nimi zrobić?!
+Dialogue: 0,0:19:50.96,0:19:54.63,Default,,0,0,0,,{\be1}Ty pewnie o tym nie wiesz.
+Dialogue: 0,0:19:55.30,0:20:02.56,Default,,0,0,0,,{\be1}To kadzidło zrobione jest z wyschniętego\Ndrzewa Maldo, mocno pobudza seksualnie.
+Dialogue: 0,0:20:03.40,0:20:09.52,Default (i),,0,0,0,,{\be1}Hańbi je przeze mnie?
+Dialogue: 0,0:20:09.52,0:20:12.23,Default,,0,0,0,,{\be1}Nie chcesz oglądać?
+Dialogue: 0,0:20:12.64,0:20:15.68,Default,,0,0,0,,{\be1}Słyszysz jak jęczą z rozkoszy?
+Dialogue: 0,0:20:15.68,0:20:18.54,Default,,0,0,0,,{\be1}Nie, przestań!
+Dialogue: 0,0:20:19.78,0:20:21.20,Default,,0,0,0,,{\be1}Proszę, przestań!
+Dialogue: 0,0:20:21.20,0:20:23.52,Default,,0,0,0,,{\be1}Każ im przestań!
+Dialogue: 0,0:20:23.52,0:20:28.67,Default,,0,0,0,,{\be1}Nie martw się, nie cierpią.
+Dialogue: 0,0:20:29.23,0:20:31.88,Default,,0,0,0,,{\be1}Kadzidło zaraz powinno zadziałać.
+Dialogue: 0,0:20:44.91,0:20:47.23,Default (i),,0,0,0,,{\be1}Ciało mi drętwieje.
+Dialogue: 0,0:20:47.23,0:20:49.15,Default,,0,0,0,,{\be1}Co się stało, księżniczko?
+Dialogue: 0,0:20:49.15,0:20:51.95,Default,,0,0,0,,{\be1}Zazdrościsz im?
+Dialogue: 0,0:20:51.95,0:20:53.75,Default,,0,0,0,,{\be1}Wyłącz to!
+Dialogue: 0,0:20:53.75,0:20:57.24,Default,,0,0,0,,{\be1}Będą się zabawiać do rana.
+Dialogue: 0,0:20:57.24,0:20:59.20,Default,,0,0,0,,{\be1}To dopiero początek.
+Dialogue: 0,0:20:59.20,0:21:06.06,Default,,0,0,0,,{\be1}Co z nimi zrobisz, gdy już twoi\Nbarbarzyńcy skończą z nimi?
+Dialogue: 0,0:21:06.06,0:21:09.21,Default,,0,0,0,,{\be1}Smoki muszą czasem jeść.
+Dialogue: 0,0:21:09.21,0:21:11.88,Default,,0,0,0,,{\be1}Okropne!
+Dialogue: 0,0:21:12.47,0:21:13.13,Default,,0,0,0,,{\be1}Więc...
+Dialogue: 0,0:21:15.24,0:21:17.76,Default,,0,0,0,,{\be1}Będziesz moja?
+Dialogue: 0,0:21:20.58,0:21:23.76,Default (i),,0,0,0,,{\be1}Co to za uczucie?
+Dialogue: 0,0:21:25.18,0:21:26.40,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:21:31.67,0:21:32.71,Default,,0,0,0,,{\be1}Tylko nie...
+Dialogue: 0,0:21:32.71,0:21:40.60,Default,,0,0,0,,{\be1}Będę to robił z każdą wioską\Nw twoim kraju, dopóki się nie zgodzisz.
+Dialogue: 0,0:21:43.07,0:21:45.56,Default (i),,0,0,0,,{\be1}Robi mi się gorąco.
+Dialogue: 0,0:21:48.11,0:21:55.99,Default,,0,0,0,,{\be1}Nie obchodzi mnie co ze mną zrobisz,\Ntylko wypuść te dziewczęta.
+Dialogue: 0,0:21:57.05,0:21:59.97,Default,,0,0,0,,{\be1}Najpierw udowodnij to.
+Dialogue: 0,0:22:10.52,0:22:16.48,Default,,0,0,0,,{\be1}Tego się spodziewałam, już jest jego.
+Dialogue: 0,0:22:16.87,0:22:21.28,Default,,0,0,0,,{\be1}Tylko czy to na pewno kobieta, o której mówił.
+Dialogue: 0,0:22:32.55,0:22:34.50,Default,,0,0,0,,{\be1}A jednak się podnieciłaś.
+Dialogue: 0,0:22:34.89,0:22:36.96,Default,,0,0,0,,{\be1}Zobacz jaka jesteś mokra.
+Dialogue: 0,0:22:37.29,0:22:39.08,Default,,0,0,0,,{\be1}Nie mów tak.
+Dialogue: 0,0:22:39.67,0:22:40.78,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:22:48.27,0:22:50.31,Default,,0,0,0,,{\be1}Resztę sama zdejmij.
+Dialogue: 0,0:22:50.69,0:22:55.23,Default,,0,0,0,,{\be1}Nie dam rady!\NProszę, nie zmuszaj mnie!
+Dialogue: 0,0:22:55.23,0:22:57.69,Default,,0,0,0,,{\be1}Dobra, tylko pamiętaj o wieśniakach.
+Dialogue: 0,0:22:58.14,0:22:59.01,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:22:59.01,0:23:00.65,Default,,0,0,0,,{\be1}Rozbierz się.
+Dialogue: 0,0:23:00.65,0:23:03.15,Default,,0,0,0,,{\be1}Wybaczcie mi!
+Dialogue: 0,0:23:03.15,0:23:05.10,Default,,0,0,0,,{\be1}Trafiła mi się trudna księżniczka.
+Dialogue: 0,0:23:08.26,0:23:09.03,Default,,0,0,0,,{\be1}Co to?!
+Dialogue: 0,0:23:14.71,0:23:15.92,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:22.73,0:23:25.34,Default,,0,0,0,,{\be1}Sama chciałaś.
+Dialogue: 0,0:23:26.37,0:23:28.35,Default,,0,0,0,,{\be1}Co za wstyd!
+Dialogue: 0,0:23:28.35,0:23:30.58,Default,,0,0,0,,{\be1}Bądź posłuszna.
+Dialogue: 0,0:23:30.58,0:23:31.94,Default,,0,0,0,,{\be1}Bądź moja.
+Dialogue: 0,0:23:31.94,0:23:37.95,Default,,0,0,0,,{\be1}Tylko ty możesz ocalić\Nswój kraj i księcia Eliasa.
+Dialogue: 0,0:23:37.95,0:23:39.77,Default,,0,0,0,,{\be1}Książę Elias.
+Dialogue: 0,0:23:39.77,0:23:42.29,Default,,0,0,0,,{\be1}Wszystko zależy od ciebie.
+Dialogue: 0,0:23:42.29,0:23:47.44,Default,,0,0,0,,{\be1}Bądź posłuszna, to kiedyś go zobaczysz.
+Dialogue: 0,0:23:49.16,0:23:51.26,Default,,0,0,0,,{\be1}Nie musisz się bać.
+Dialogue: 0,0:23:55.30,0:23:59.75,Default (i),,0,0,0,,{\be1}Jego usta są ciepłe.
+Dialogue: 0,0:24:07.15,0:24:13.12,Default (i),,0,0,0,,{\be1}Dlaczego jest mi tak gorąco?
+Dialogue: 0,0:24:13.12,0:24:14.47,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:24:15.85,0:24:21.89,Default,,0,0,0,,{\be1}Piękne piersi.\NSam widok podnieca mnie.
+Dialogue: 0,0:24:21.89,0:24:23.23,Default,,0,0,0,,{\be1}Nie mów tak!
+Dialogue: 0,0:24:23.90,0:24:28.11,Default,,0,0,0,,{\be1}Nie dotykaj mnie w ten sposób, bo...
+Dialogue: 0,0:24:29.00,0:24:30.63,Default,,0,0,0,,{\be1}Tylko nie to!
+Dialogue: 0,0:24:34.37,0:24:36.75,Default,,0,0,0,,{\be1}Jest bardzo mokra.
+Dialogue: 0,0:24:37.51,0:24:38.95,Default,,0,0,0,,{\be1}Nie musisz mi tego mówić!
+Dialogue: 0,0:24:40.38,0:24:42.71,Default,,0,0,0,,{\be1}Nigdy się nie dotykałaś, co nie?
+Dialogue: 0,0:24:42.71,0:24:46.67,Default,,0,0,0,,{\be1}Widać, że jesteś niewinna.
+Dialogue: 0,0:24:46.67,0:24:48.93,Default,,0,0,0,,{\be1}Proszę, przestań.
+Dialogue: 0,0:24:50.12,0:24:53.09,Default,,0,0,0,,{\be1}Niedługo będziesz chcieć więcej.
+Dialogue: 0,0:24:55.76,0:24:58.35,Default,,0,0,0,,{\be1}Nie powinieneś mnie tam lizać!
+Dialogue: 0,0:24:59.33,0:25:03.34,Default,,0,0,0,,{\be1}Wręcz przeciwnie, jest zbyt piękna,\Nżeby tego nie robić.
+Dialogue: 0,0:25:13.24,0:25:17.12,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:25:23.89,0:25:26.38,Default,,0,0,0,,{\be1}Panie Gooseman!
+Dialogue: 0,0:25:26.38,0:25:27.59,Default,,0,0,0,,{\be1}Maya?
+Dialogue: 0,0:25:28.23,0:25:30.80,Default,,0,0,0,,{\be1}Co tu robisz?
+Dialogue: 0,0:25:31.13,0:25:33.03,Default,,0,0,0,,{\be1}Gdzie są moi żołnierze?
+Dialogue: 0,0:25:33.03,0:25:34.76,Default,,0,0,0,,{\be1}Przykro mi.
+Dialogue: 0,0:25:34.76,0:25:37.70,Default,,0,0,0,,{\be1}Ty mnie uratowałaś?
+Dialogue: 0,0:25:37.70,0:25:42.81,Default,,0,0,0,,{\be1}Nie dostaniesz podziękowań,\Npowinnaś być gdzie indziej.
+Dialogue: 0,0:25:42.81,0:25:50.18,Default,,0,0,0,,{\be1}Przepraszam, ale nie wiem,\Njak mam uratować księżniczkę.
+Dialogue: 0,0:25:50.18,0:25:53.87,Default,,0,0,0,,{\be1}Klan Latających Smoków\Njest trudnym przeciwnikiem.
+Dialogue: 0,0:25:54.28,0:25:59.84,Default,,0,0,0,,{\be1}Ale musimy ciągle myśleć,\Nco teraz przeżywa księżniczka.
+Dialogue: 0,0:26:01.32,0:26:05.00,Default,,0,0,0,,{\be1}Nic mi nie będzie, wrócę o własnych siłach.
+Dialogue: 0,0:26:05.00,0:26:07.00,Default,,0,0,0,,{\be1}Nie ociągaj się i idź!
+Dialogue: 0,0:26:08.88,0:26:12.58,Default,,0,0,0,,{\be1}Wybacz, ale tylko ty możesz...
+Dialogue: 0,0:26:17.11,0:26:18.64,Default,,0,0,0,,{\be1}Uratować księżniczkę.
+Dialogue: 0,0:26:21.68,0:26:24.48,Default,,0,0,0,,{\be1}Odznaczam dowódcę\NGoosemana medalem honoru.
+Dialogue: 0,0:26:29.25,0:26:33.41,Default,,0,0,0,,{\be1}Pracuje dalej dla Asronii, Gooseman.
+Dialogue: 0,0:26:43.40,0:26:44.50,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:26:46.04,0:26:47.91,Default,,0,0,0,,{\be1}Andreas!
+Dialogue: 0,0:26:51.67,0:26:55.13,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:26:55.13,0:26:58.18,Default,,0,0,0,,{\be1}Zaczynamy.
+Dialogue: 0,0:26:58.18,0:27:00.89,Default,,0,0,0,,{\be1}Połączymy się.
+Dialogue: 0,0:27:00.89,0:27:03.56,Default,,0,0,0,,{\be1}Wybaczcie mi to!
+Dialogue: 0,0:27:03.56,0:27:07.06,Default,,0,0,0,,{\be1}Nie ma się czego bać,\Nwszystkim się zajmę.
+Dialogue: 0,0:27:07.56,0:27:09.60,Default,,0,0,0,,{\be1}Yurie, wkładam.
+Dialogue: 0,0:27:10.48,0:27:12.74,Default,,0,0,0,,{\be1}Długo na to czekałem.
+Dialogue: 0,0:27:13.60,0:27:16.56,Default,,0,0,0,,{\be1}Czuję jak namiętnie mi go ściskasz.
+Dialogue: 0,0:27:18.13,0:27:19.94,Default,,0,0,0,,{\be1}Nie mów tak.
+Dialogue: 0,0:27:19.94,0:27:26.33,Default (i),,0,0,0,,{\be1}Czuję jego kształt, wielkość i ruchy.
+Dialogue: 0,0:27:27.41,0:27:28.13,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:27:28.98,0:27:30.59,Default,,0,0,0,,{\be1}Przyjemnie ci?
+Dialogue: 0,0:27:32.76,0:27:34.92,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:27:37.19,0:27:40.86,Default,,0,0,0,,{\be1}Moja dusza chyba wyskoczy ze mnie!
+Dialogue: 0,0:27:40.86,0:27:41.64,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:27:41.64,0:27:44.60,Default,,0,0,0,,{\be1}Daj się ponieść!
+Dialogue: 0,0:27:44.60,0:27:47.80,Default,,0,0,0,,{\be1}Poczuj wszystko!
+Dialogue: 0,0:27:47.80,0:27:50.66,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:28:00.99,0:28:03.48,Default (i),,0,0,0,,{\be1}Gdzie jestem?
+Dialogue: 0,0:28:11.49,0:28:16.34,Default (i),,0,0,0,,{\be1}W ogóle się nie boję.\NWręcz czuję, że skądś to znam.
+Dialogue: 0,0:28:50.21,0:28:52.38,Default,,0,0,0,,{\be1}Pani, proszę tego nie robić!
+Dialogue: 0,0:28:52.38,0:28:54.05,Default,,0,0,0,,{\be1}Bardzo prosimy!
+Dialogue: 0,0:28:54.05,0:28:56.53,Default,,0,0,0,,{\be1}W tej sukni Yurie dobrze wygląda.
+Dialogue: 0,0:28:56.53,0:28:59.51,Default,,0,0,0,,{\be1}Wezmę też tą.
+Dialogue: 0,0:28:59.51,0:29:01.44,Default,,0,0,0,,{\be1}Pani, proszę tego nie robić!
+Dialogue: 0,0:29:01.44,0:29:06.21,Default,,0,0,0,,{\be1}Król idzie do wioski Hita, nie do księżniczki.
+Dialogue: 0,0:29:06.21,0:29:07.39,Default,,0,0,0,,{\be1}Co takiego?
+Dialogue: 0,0:29:07.39,0:29:10.65,Default,,0,0,0,,{\be1}Król nie jedzie do księżniczki!
+Dialogue: 0,0:29:10.65,0:29:12.56,Default,,0,0,0,,{\be1}O nie...
+Dialogue: 0,0:29:17.03,0:29:20.70,Default,,0,0,0,,{\be1}Rozgromimy klan Latających\NSmoków w wiosce Hita!
+Dialogue: 0,0:29:23.16,0:29:25.66,Default,,0,0,0,,{\be1}Powrócił dowódca Gooseman!
+Dialogue: 0,0:29:26.18,0:29:27.23,Default,,0,0,0,,{\be1}Gooseman!
+Dialogue: 0,0:29:27.94,0:29:29.91,Default,,0,0,0,,{\be1}Puszczaj, dam sobie radę.
+Dialogue: 0,0:29:30.99,0:29:32.54,Default,,0,0,0,,{\be1}Dobrze, że żyjesz.
+Dialogue: 0,0:29:32.54,0:29:35.00,Default,,0,0,0,,{\be1}Muszę złożyć meldunek.
+Dialogue: 0,0:29:35.00,0:29:37.92,Default,,0,0,0,,{\be1}Nie trzeba, na razie się oszczędzaj.
+Dialogue: 0,0:29:37.92,0:29:44.43,Default,,0,0,0,,{\be1}Klan Latających Smoków\Nopuścił o świcie wioskę Hita.
+Dialogue: 0,0:29:44.43,0:29:45.38,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:29:45.98,0:29:50.09,Default,,0,0,0,,{\be1}Władca smoków zaprzestał podbój.
+Dialogue: 0,0:29:50.09,0:29:52.10,Default,,0,0,0,,{\be1}Dlaczego?
+Dialogue: 0,0:29:52.62,0:29:54.09,Default,,0,0,0,,{\be1}No cóż...
+Dialogue: 0,0:29:54.09,0:29:57.57,Default,,0,0,0,,{\be1}Yurie nas ocaliła?
+Dialogue: 0,0:29:57.57,0:30:00.26,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:30:03.53,0:30:05.95,Default,,0,0,0,,{\be1}Zajmijcie się Goosemanem!
+Dialogue: 0,0:30:07.21,0:30:15.96,Default,,0,0,0,,{\be1}Wybacz, Yurie, ale z taką armią\Nnie odbijemy cię z zamku Esten.
+Dialogue: 0,0:30:25.47,0:30:27.43,Default,,0,0,0,,{\be1}Apetyt ci dopisuje.
+Dialogue: 0,0:30:29.81,0:30:31.60,Default,,0,0,0,,{\be1}Gdzie jest Andreas?
+Dialogue: 0,0:30:31.60,0:30:34.31,Default,,0,0,0,,{\be1}Słyszysz żołnierzy?
+Dialogue: 0,0:30:37.73,0:30:41.74,Default,,0,0,0,,{\be1}To właśnie siła naszej armii.
+Dialogue: 0,0:30:42.17,0:30:47.16,Default,,0,0,0,,{\be1}Będziemy walczyć, dopóki świat nie spłynie krwią!
+Dialogue: 0,0:30:47.95,0:30:50.16,Default,,0,0,0,,{\be1}W imię Shutaam!
+Dialogue: 0,0:30:56.25,0:30:58.45,Default,,0,0,0,,{\be1}W imię Shutaam.
+Dialogue: 0,0:31:04.55,0:31:15.48,Default,,0,0,0,,{\be1}Smoczy król wyruszył rozgromić głupców\Nstawiających opór w górach Gostarii.
+Dialogue: 0,0:31:15.48,0:31:17.44,Default,,0,0,0,,{\be1}Co z wioską Hita?
+Dialogue: 0,0:31:17.44,0:31:22.15,Default,,0,0,0,,{\be1}Król dotrzymuje słowa, wycofał żołnierzy.
+Dialogue: 0,0:31:39.43,0:31:41.46,Default,,0,0,0,,{\be1}Nadal jestem za słaba.
+Dialogue: 0,0:31:52.81,0:31:57.68,Default (i),,0,0,0,,{\be1}Muszę oczyścić umysł\Nalbo nie pokonam tej wiedźmy.
+Dialogue: 0,0:32:08.96,0:32:12.20,Default (i),,0,0,0,,{\be1}O nie, przypomniało mi się co wtedy poczułam.
+Dialogue: 0,0:32:13.18,0:32:15.71,Default (i),,0,0,0,,{\be1}Dlaczego nie mogę o niej zapomnieć?
+Dialogue: 0,0:32:16.99,0:32:19.67,Default (i),,0,0,0,,{\be1}Obyś była bezpieczna, księżniczko.
+Dialogue: 0,0:32:33.62,0:32:35.39,Default,,0,0,0,,{\be1}Wyglądasz na zmęczoną.
+Dialogue: 0,0:32:35.39,0:32:38.28,Default,,0,0,0,,{\be1}Nasz pan musiał cię mocno wymęczyć.
+Dialogue: 0,0:32:41.11,0:32:42.53,Default,,0,0,0,,{\be1}Co robisz?!
+Dialogue: 0,0:32:43.28,0:32:50.70,Default,,0,0,0,,{\be1}Król nakazał mi cię wytrenować.
+Dialogue: 0,0:32:50.70,0:32:53.29,Default,,0,0,0,,{\be1}Myślisz, że podoba mi się to?
+Dialogue: 0,0:32:53.77,0:32:57.13,Default,,0,0,0,,{\be1}Najchętniej bym cię zabiła.
+Dialogue: 0,0:32:57.75,0:33:03.28,Default,,0,0,0,,{\be1}Ale wtedy sam by mnie zabił.
+Dialogue: 0,0:33:03.28,0:33:06.60,Default,,0,0,0,,{\be1}W sumie to nie taka zła perspektywa.
+Dialogue: 0,0:33:07.76,0:33:10.35,Default,,0,0,0,,{\be1}Nie zabiję cię, ale zrobię to.
+Dialogue: 0,0:33:12.89,0:33:14.05,Default,,0,0,0,,{\be1}Nie tam!
+Dialogue: 0,0:33:15.59,0:33:18.96,Default,,0,0,0,,{\be1}Tędy wysysasz energię z mojego pana.
+Dialogue: 0,0:33:18.96,0:33:20.10,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:33:20.10,0:33:23.08,Default,,0,0,0,,{\be1}Ile razy uprawialiście seks?
+Dialogue: 0,0:33:23.08,0:33:24.09,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:33:24.90,0:33:26.74,Default,,0,0,0,,{\be1}Odpowiadaj!
+Dialogue: 0,0:33:27.75,0:33:29.02,Default,,0,0,0,,{\be1}2 razy!
+Dialogue: 0,0:33:31.24,0:33:34.41,Default,,0,0,0,,{\be1}Ledwie cię dotknęłam, a ty już się podnieciłaś.
+Dialogue: 0,0:33:37.41,0:33:38.56,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:33:43.96,0:33:48.42,Default,,0,0,0,,{\be1}Nie ma tak dobrze. Wyłaź.
+Dialogue: 0,0:33:58.77,0:34:04.73,Default,,0,0,0,,{\be1}Księżniczko, wytrzymaj.\NNiedługo cię uratuję.
+Dialogue: 0,0:34:07.44,0:34:08.44,Default,,0,0,0,,{\be1}Patrz.
+Dialogue: 0,0:34:11.05,0:34:12.85,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:34:12.85,0:34:15.55,Default,,0,0,0,,{\be1}Zdziwiona?
+Dialogue: 0,0:34:15.55,0:34:19.56,Default,,0,0,0,,{\be1}Król mi go dał. Wspaniały, nie?
+Dialogue: 0,0:34:20.29,0:34:22.79,Default,,0,0,0,,{\be1}To niemożliwe!
+Dialogue: 0,0:34:23.43,0:34:27.25,Default,,0,0,0,,{\be1}Weź się do roboty i possij go.
+Dialogue: 0,0:34:27.25,0:34:30.21,Default,,0,0,0,,{\be1}Nie mogę!
+Dialogue: 0,0:34:30.97,0:34:33.43,Default,,0,0,0,,{\be1}W każdej chwili możesz stracić głowę!
+Dialogue: 0,0:34:34.04,0:34:34.85,Default,,0,0,0,,{\be1}Dobrze!
+Dialogue: 0,0:34:38.48,0:34:39.87,Default,,0,0,0,,{\be1}Szybciej!
+Dialogue: 0,0:34:42.35,0:34:45.94,Default,,0,0,0,,{\be1}Co za uczucie.
+Dialogue: 0,0:34:47.08,0:34:48.90,Default,,0,0,0,,{\be1}Jak dobrze.
+Dialogue: 0,0:34:49.43,0:34:51.76,Default,,0,0,0,,{\be1}Dobrze, właśnie tak!
+Dialogue: 0,0:34:51.76,0:34:56.99,Default,,0,0,0,,{\be1}Wkładaj głębiej.
+Dialogue: 0,0:34:57.66,0:34:59.18,Default,,0,0,0,,{\be1}Cieszysz się?
+Dialogue: 0,0:34:59.83,0:35:10.32,Default,,0,0,0,,{\be1}Należał do mojego brata,\Nktóremu oddałam dziewictwo.
+Dialogue: 0,0:35:19.25,0:35:20.95,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:35:20.95,0:35:22.85,Default,,0,0,0,,{\be1}Otwórz oczy!
+Dialogue: 0,0:35:22.85,0:35:27.58,Default,,0,0,0,,{\be1}Proszę, przytul mnie jeszcze raz!
+Dialogue: 0,0:35:29.96,0:35:36.00,Default,,0,0,0,,{\be1}Gdy zginął podczas bitwy, władca smoków\Nzobaczył jak bardzo cierpiałam.
+Dialogue: 0,0:35:36.00,0:35:39.61,Default,,0,0,0,,{\be1}Swoją magią przeniósł go na mnie.
+Dialogue: 0,0:35:43.39,0:35:48.92,Default (i),,0,0,0,,{\be1}Być może w niej i Andreasie\Nzostały resztki człowieczeństwa.
+Dialogue: 0,0:35:52.12,0:35:53.25,Default,,0,0,0,,{\be1}Tam...
+Dialogue: 0,0:35:53.96,0:35:56.35,Default,,0,0,0,,{\be1}Nie rób nic czego nie kazałam!
+Dialogue: 0,0:35:56.35,0:35:58.39,Default,,0,0,0,,{\be1}Chciałam ci tylko sprawić przyjemność.
+Dialogue: 0,0:35:58.39,0:36:00.06,Default,,0,0,0,,{\be1}To mi się podoba.
+Dialogue: 0,0:36:00.06,0:36:04.64,Default,,0,0,0,,{\be1}Skoro rozumiesz, to zrobimy coś więcej.
+Dialogue: 0,0:36:08.93,0:36:11.94,Default,,0,0,0,,{\be1}Wiesz co robić?
+Dialogue: 0,0:36:11.94,0:36:12.65,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:36:12.65,0:36:16.07,Default,,0,0,0,,{\be1}Włóż go sobie.
+Dialogue: 0,0:36:16.47,0:36:17.36,Default,,0,0,0,,{\be1}Nie mogę.
+Dialogue: 0,0:36:17.36,0:36:19.53,Default,,0,0,0,,{\be1}Odmawiasz mi?
+Dialogue: 0,0:36:19.53,0:36:24.37,Default,,0,0,0,,{\be1}Dobrze wiem, że chcesz.\NWidzę jak się podnieciłaś.
+Dialogue: 0,0:36:26.75,0:36:28.41,Default (i),,0,0,0,,{\be1}Co za mina.
+Dialogue: 0,0:36:28.41,0:36:32.30,Default (i),,0,0,0,,{\be1}Pewnie przez nią król tak bardzo ją chce.
+Dialogue: 0,0:36:32.30,0:36:35.30,Default,,0,0,0,,{\be1}Nie wytrzymujesz już, prawda?
+Dialogue: 0,0:36:35.30,0:36:36.23,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:36:36.23,0:36:38.56,Default,,0,0,0,,{\be1}Więc zrób to.
+Dialogue: 0,0:36:38.56,0:36:39.84,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:36:41.60,0:36:43.70,Default,,0,0,0,,{\be1}Dobrze. Jesteś ciasna.
+Dialogue: 0,0:36:43.70,0:36:46.94,Default,,0,0,0,,{\be1}- Zacznij się ruszać.\N- Dobrze.
+Dialogue: 0,0:36:49.94,0:36:53.40,Default,,0,0,0,,{\be1}Bardzo dobrze!
+Dialogue: 0,0:36:54.41,0:36:57.10,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:36:59.65,0:37:02.28,Default,,0,0,0,,{\be1}Jesteś niesamowita! Dochodzę!
+Dialogue: 0,0:37:24.43,0:37:27.93,Default (i),,0,0,0,,{\be1}Nadal tam jest?
+Dialogue: 0,0:37:28.37,0:37:31.98,Default,,0,0,0,,{\be1}Rebelianci liczą około 200 żołnierzy.
+Dialogue: 0,0:37:31.98,0:37:36.75,Default,,0,0,0,,{\be1}Zamiast iść na około nie lepiej\Nskierować się prosto na wybrzeże?
+Dialogue: 0,0:37:36.75,0:37:38.65,Default,,0,0,0,,{\be1}Panie, jak uważasz?
+Dialogue: 0,0:37:39.08,0:37:40.23,Default,,0,0,0,,{\be1}Wy zdecydujcie.
+Dialogue: 0,0:37:55.34,0:38:00.04,Default (i),,0,0,0,,{\be1}Yurie, otwórz się i przyjdź do mnie.
+Dialogue: 0,0:38:09.31,0:38:12.02,Default,,0,0,0,,{\be1}Dokąd mnie zabierasz?
+Dialogue: 0,0:38:12.02,0:38:16.98,Default,,0,0,0,,{\be1}Byłaś na tyle posłuszna,\Nże postanowiłam cię nagrodzić.
+Dialogue: 0,0:38:16.98,0:38:18.05,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:38:22.07,0:38:23.62,Default,,0,0,0,,{\be1}Jesteśmy.
+Dialogue: 0,0:38:28.54,0:38:31.54,Default,,0,0,0,,{\be1}Rób to co zawsze.
+Dialogue: 0,0:38:31.88,0:38:34.28,Default (i),,0,0,0,,{\be1}Co się dzieje?
+Dialogue: 0,0:38:35.00,0:38:37.38,Default,,0,0,0,,{\be1}Pośpiesz się!
+Dialogue: 0,0:38:39.28,0:38:41.29,Default (i),,0,0,0,,{\be1}Ktoś tu jest?
+Dialogue: 0,0:38:41.30,0:38:44.62,Default,,0,0,0,,{\be1}Zacznij lizać jej stopę.
+Dialogue: 0,0:38:44.62,0:38:46.39,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:38:46.92,0:38:48.23,Default (i),,0,0,0,,{\be1}Poznaję ten głos!
+Dialogue: 0,0:38:51.83,0:38:54.83,Default,,0,0,0,,{\be1}Nie odsuwaj się, bo on będzie dostawał.
+Dialogue: 0,0:38:54.83,0:39:01.28,Default,,0,0,0,,{\be1}No chyba, że lubisz jak inni cierpią dla ciebie.
+Dialogue: 0,0:39:08.33,0:39:15.37,Default,,0,0,0,,{\be1}Jak to dobrze, że jesteś litościwa.
+Dialogue: 0,0:39:15.37,0:39:18.34,Default,,0,0,0,,{\be1}Gdzie twoje podziękowanie?
+Dialogue: 0,0:39:18.34,0:39:20.26,Default,,0,0,0,,{\be1}Bardzo dziękuję.
+Dialogue: 0,0:39:20.26,0:39:21.45,Default (i),,0,0,0,,{\be1}To on!
+Dialogue: 0,0:39:22.41,0:39:24.00,Default (i),,0,0,0,,{\be1}Nie wierzę!
+Dialogue: 0,0:39:26.23,0:39:29.53,Default,,0,0,0,,{\be1}Chcesz go zobaczyć?
+Dialogue: 0,0:39:29.53,0:39:33.94,Default,,0,0,0,,{\be1}Nie, oszczędź mi tego!
+Dialogue: 0,0:39:33.94,0:39:35.69,Default,,0,0,0,,{\be1}Poznaję ten głos, to...
+Dialogue: 0,0:39:37.84,0:39:40.84,Default,,0,0,0,,{\be1}Co za wzruszające spotkanie!
+Dialogue: 0,0:39:40.84,0:39:41.94,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:39:41.94,0:39:43.11,Default,,0,0,0,,{\be1}Księżniczka Yurie!
+Dialogue: 0,0:39:43.11,0:39:45.02,Default,,0,0,0,,{\be1}Książę Elias!
+Dialogue: 0,0:39:45.02,0:39:53.95,Default,,0,0,0,,{\be1}Jak się podoba ponowne spotkanie\Nniegdyś zaręczonych niewolników?
+Dialogue: 0,0:39:54.96,0:39:58.21,Default,,0,0,0,,{\be1}Proszę, nie rób tego przy księżniczce!
+Dialogue: 0,0:39:58.21,0:40:03.13,Default,,0,0,0,,{\be1}Ile razy mam ci powtarzać,\Nże masz być posłuszny?!
+Dialogue: 0,0:40:03.13,0:40:05.13,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:40:05.13,0:40:09.30,Default,,0,0,0,,{\be1}Przepraszam, wstyd mi,\Nże musisz mnie takim oglądać.
+Dialogue: 0,0:40:09.30,0:40:13.30,Default,,0,0,0,,{\be1}Przynajmniej wiem, że żyjesz.
+Dialogue: 0,0:40:14.95,0:40:17.41,Default,,0,0,0,,{\be1}Bo się popłaczę.
+Dialogue: 0,0:40:17.41,0:40:19.77,Default,,0,0,0,,{\be1}A teraz zaczynajcie.
+Dialogue: 0,0:40:19.77,0:40:22.78,Default,,0,0,0,,{\be1}Pozwalam się wam zabawić.
+Dialogue: 0,0:40:22.78,0:40:24.37,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:40:26.12,0:40:31.77,Default,,0,0,0,,{\be1}Patrz, staje mu, gdy tylko dotykam.
+Dialogue: 0,0:40:31.77,0:40:33.41,Default,,0,0,0,,{\be1}Moja pani!
+Dialogue: 0,0:40:33.41,0:40:37.87,Default,,0,0,0,,{\be1}Nie chcesz księcia?
+Dialogue: 0,0:40:37.87,0:40:39.41,Default,,0,0,0,,{\be1}Księżniczko.
+Dialogue: 0,0:40:40.13,0:40:42.34,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:41:04.19,0:41:07.53,Default (i),,0,0,0,,{\be1}Niech mi ktoś pomoże!
+Dialogue: 0,0:41:13.40,0:41:14.92,Default,,0,0,0,,{\be1}Władca smoków!
+Dialogue: 0,0:41:22.81,0:41:26.09,Default,,0,0,0,,{\be1}Andreas!
+Dialogue: 0,0:41:36.43,0:41:39.02,Default,,0,0,0,,{\be1}Wybacz, muszę je pożyczyć.
+Dialogue: 0,0:41:52.82,0:41:53.84,Default,,0,0,0,,{\be1}Na nich!
+Dialogue: 0,0:41:53.84,0:41:58.75,Default,,0,0,0,,{\be1}Wystarczy dla każdego! Zmiażdżyć ich!
+Dialogue: 0,0:41:58.75,0:42:03.64,Default,,0,0,0,,{\be1}Podążajcie za królem,\Njesteśmy dużo silniejsi od wroga.
+Dialogue: 0,0:42:10.59,0:42:13.61,Default (i),,0,0,0,,{\be1}Yurie, oddaj mi się!
+Dialogue: 0,0:42:14.30,0:42:17.09,Default (i),,0,0,0,,{\be1}Otwórz dla mnie swoją duszę!
+Dialogue: 0,0:42:29.21,0:42:35.74,Default (i),,0,0,0,,{\be1}Muszę służyć Andreasowi, żeby przeżyć.

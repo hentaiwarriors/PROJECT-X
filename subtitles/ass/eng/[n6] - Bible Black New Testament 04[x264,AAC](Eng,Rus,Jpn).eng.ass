@@ -1,0 +1,143 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 704
+PlayResY: 528
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,28,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,95,0,0,1,2,2,2,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:58.46,0:02:00.95,Default,,0000,0000,0000,,It looks like you drank a\Nlot of water, Ms. Shiraki.
+Dialogue: 0,0:02:02.20,0:02:04.96,Default,,0000,0000,0000,,I'll let you drink a lot\Nfrom down here as well.
+Dialogue: 0,0:02:34.76,0:02:36.16,Default,,0000,0000,0000,,No! Stop it!
+Dialogue: 0,0:02:46.21,0:02:50.70,Default,,0000,0000,0000,,Don't hesitate to\Ndrink a lot, Teacher...
+Dialogue: 0,0:02:55.08,0:02:56.71,Default,,0000,0000,0000,,Hurts...
+Dialogue: 0,0:02:56.82,0:02:57.88,Default,,0000,0000,0000,,It hurts!
+Dialogue: 0,0:03:02.12,0:03:03.09,Default,,0000,0000,0000,,No, stop it!
+Dialogue: 0,0:03:03.23,0:03:06.75,Default,,0000,0000,0000,,My stomach will burst!
+Dialogue: 0,0:03:09.13,0:03:12.62,Default,,0000,0000,0000,,You have to let us enjoy more.
+Dialogue: 0,0:03:13.03,0:03:15.50,Default,,0000,0000,0000,,You're not trying hard\Nenough, Ms. Shiraki.
+Dialogue: 0,0:03:16.27,0:03:17.74,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:03:31.29,0:03:33.52,Default,,0000,0000,0000,,Now tell me Ms. Shiraki...
+Dialogue: 0,0:03:33.79,0:03:35.81,Default,,0000,0000,0000,,What were you snooping around for?
+Dialogue: 0,0:03:41.13,0:03:44.79,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:03:49.27,0:03:52.64,Default,,0000,0000,0000,,Bible Black: New Testament
+Dialogue: 0,0:03:52.64,0:03:57.81,Default,,0000,0000,0000,,Bible Black: New Testament\NChapter 4 Recollection
+Dialogue: 0,0:03:57.88,0:04:01.78,Default,,0000,0000,0000,,General Hospital
+Dialogue: 0,0:04:11.19,0:04:15.13,Default,,0000,0000,0000,,Aki Ichikawa
+Dialogue: 0,0:04:31.21,0:04:33.68,Default,,0000,0000,0000,,Spear of Longinus.
+Dialogue: 0,0:05:26.90,0:05:30.27,Default,,0000,0000,0000,,General Hospital
+Dialogue: 0,0:05:32.64,0:05:34.73,Default,,0000,0000,0000,,What a nightmare...
+Dialogue: 0,0:06:02.44,0:06:07.74,Default,,0000,0000,0000,,Since I couldn't take away your virginity,\NI think I'll settle with this.
+Dialogue: 0,0:06:54.96,0:06:56.36,Default,,0000,0000,0000,,It hurts!
+Dialogue: 0,0:07:59.99,0:08:01.85,Default,,0000,0000,0000,,It's hot!
+Dialogue: 0,0:08:02.22,0:08:05.19,Default,,0000,0000,0000,,It's coming inside!
+Dialogue: 0,0:08:19.91,0:08:22.24,Default,,0000,0000,0000,,The Spear of Longinus...
+Dialogue: 0,0:08:26.11,0:08:29.14,Default,,0000,0000,0000,,Phew, it feels so cool.
+Dialogue: 0,0:08:42.26,0:08:43.75,Default,,0000,0000,0000,,It's no use resisting.
+Dialogue: 0,0:08:52.01,0:08:53.30,Default,,0000,0000,0000,,Give me the Spear of Longinus...
+Dialogue: 0,0:09:19.27,0:09:20.43,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:09:25.61,0:09:26.94,Default,,0000,0000,0000,,I need a doctor!
+Dialogue: 0,0:09:50.93,0:09:52.30,Default,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:11:27.40,0:11:28.73,Default,,0000,0000,0000,,It's embarrassing.
+Dialogue: 0,0:11:31.57,0:11:33.06,Default,,0000,0000,0000,,I want yours too.
+Dialogue: 0,0:11:33.17,0:11:34.66,Default,,0000,0000,0000,,Sure. Go ahead.
+Dialogue: 0,0:12:02.43,0:12:03.33,Default,,0000,0000,0000,,Yuki...
+Dialogue: 0,0:12:03.46,0:12:09.96,Default,,0000,0000,0000,,From now on, you will be my eyes and\Nears. You're now my loyal servant.
+Dialogue: 0,0:12:10.54,0:12:12.63,Default,,0000,0000,0000,,Yes, Jody.
+Dialogue: 0,0:12:32.19,0:12:34.02,Default,,0000,0000,0000,,I want you to give it to me, Jody.
+Dialogue: 0,0:12:46.24,0:12:47.80,Default,,0000,0000,0000,,Promise me, Yuki.
+Dialogue: 0,0:12:59.39,0:13:01.51,Default,,0000,0000,0000,,Yes, I promise.
+Dialogue: 0,0:13:01.62,0:13:05.11,Default,,0000,0000,0000,,I will be your loyal servant...
+Dialogue: 0,0:13:05.73,0:13:12.56,Default,,0000,0000,0000,,And l promise to help you carry out the\Nprophecy of the great Aleister Crowley.
+Dialogue: 0,0:13:15.14,0:13:16.30,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:14:13.93,0:14:14.90,Default,,0000,0000,0000,,Amazing...
+Dialogue: 0,0:14:15.76,0:14:17.42,Default,,0000,0000,0000,,Jody...
+Dialogue: 0,0:14:17.53,0:14:19.43,Default,,0000,0000,0000,,Yes, yes, Yuki...
+Dialogue: 0,0:14:55.37,0:14:56.56,Default,,0000,0000,0000,,I'm coming...
+Dialogue: 0,0:14:56.80,0:14:58.70,Default,,0000,0000,0000,,I'm coming!
+Dialogue: 0,0:15:21.86,0:15:22.85,Default,,0000,0000,0000,,Resignation
+Dialogue: 0,0:15:34.71,0:15:40.48,Default,,0000,0000,0000,,You're dismissing my report as sheer\Nnonsense and taking me off this case.
+Dialogue: 0,0:15:40.72,0:15:42.81,Default,,0000,0000,0000,,Then I have no other choice but to quit.
+Dialogue: 0,0:15:44.89,0:15:47.32,Default,,0000,0000,0000,,Thank you very much for\Neverything, good bye.
+Dialogue: 0,0:16:03.37,0:16:06.67,Default,,0000,0000,0000,,What are you planning to do after this?
+Dialogue: 0,0:16:07.58,0:16:11.81,Default,,0000,0000,0000,,I'll just keep on investigating\Nthis case on my own.
+Dialogue: 0,0:16:11.95,0:16:13.38,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:16:13.48,0:16:17.01,Default,,0000,0000,0000,,But it's gonna be tough if you don't\Nhave the organization backing you up.
+Dialogue: 0,0:16:17.29,0:16:19.31,Default,,0000,0000,0000,,Especially with a case like this one.
+Dialogue: 0,0:16:19.65,0:16:21.65,Default,,0000,0000,0000,,I really want to solve this case.
+Dialogue: 0,0:16:27.43,0:16:31.26,Default,,0000,0000,0000,,The address for the special\Ninvestigation agency, Tokken.
+Dialogue: 0,0:16:33.30,0:16:35.36,Default,,0000,0000,0000,,You see, the head of\NTokken is named Toru Yuge.
+Dialogue: 0,0:16:35.44,0:16:38.77,Default,,0000,0000,0000,,We've known each other since our\Ndays at the police academy.
+Dialogue: 0,0:16:39.57,0:16:43.57,Default,,0000,0000,0000,,He said the same thing you\Nsaid and left this place.
+Dialogue: 0,0:16:45.08,0:16:51.54,Default,,0000,0000,0000,,You can stay in this room for the\Ntime being until Imari comes back.
+Dialogue: 0,0:16:51.62,0:16:53.55,Default,,0000,0000,0000,,Yes, thank you very much.
+Dialogue: 0,0:16:54.09,0:16:56.58,Default,,0000,0000,0000,,I left the files on your desk.
+Dialogue: 0,0:16:56.76,0:16:58.52,Default,,0000,0000,0000,,Let me know what you think later.
+Dialogue: 0,0:16:59.69,0:17:00.49,Default,,0000,0000,0000,,Yes sir!
+Dialogue: 0,0:17:01.10,0:17:03.76,Default,,0000,0000,0000,,Oh, and stop saluting me like that.
+Dialogue: 0,0:17:04.03,0:17:06.26,Default,,0000,0000,0000,,We're not police officers.
+Dialogue: 0,0:17:06.90,0:17:07.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:23.75,0:17:25.55,Default,,0000,0000,0000,,She's from my school?
+Dialogue: 0,0:17:25.65,0:17:29.61,Default,,0000,0000,0000,,She was enrolled as a\Nstudent during the year...
+Dialogue: 0,0:17:29.72,0:17:32.92,Default,,0000,0000,0000,,When Ms. Kitami transferred\Nto another school...
+Dialogue: 0,0:17:42.84,0:17:44.07,Default,,0000,0000,0000,,What? You're transferring\Nto another school?
+Dialogue: 0,0:17:44.07,0:17:45.81,Default,,0000,0000,0000,,What? You're transferring\Nto another school?
+Dialogue: 0,0:17:45.81,0:17:46.70,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:47.01,0:17:49.77,Default,,0000,0000,0000,,I won't be able to see you anymore.
+Dialogue: 0,0:17:49.88,0:17:51.37,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:51.51,0:17:54.97,Default,,0000,0000,0000,,I don't want you to leave!
+Dialogue: 0,0:17:57.05,0:17:58.64,Default,,0000,0000,0000,,Yamanishi...
+Dialogue: 0,0:17:59.05,0:18:04.46,Default,,0000,0000,0000,,I want you to give me good\Nmemories from this school.
+Dialogue: 0,0:18:06.59,0:18:07.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:12.77,0:18:15.50,Default,,0000,0000,0000,,You really like me too?
+Dialogue: 0,0:18:15.64,0:18:17.47,Default,,0000,0000,0000,,Don't ask any questions.
+Dialogue: 0,0:19:37.65,0:19:41.14,Default,,0000,0000,0000,,It's my first time so...
+Dialogue: 0,0:19:41.46,0:19:42.62,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:19:42.72,0:19:44.02,Default,,0000,0000,0000,,It's okay.
+Dialogue: 0,0:19:46.63,0:19:47.09,Default,,0000,0000,0000,,Do me.
+Dialogue: 0,0:19:56.10,0:19:58.57,Default,,0000,0000,0000,,Be gentle with me.
+Dialogue: 0,0:20:07.05,0:20:08.04,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:20:08.68,0:20:09.81,Default,,0000,0000,0000,,It feels good...
+Dialogue: 0,0:20:09.98,0:20:11.45,Default,,0000,0000,0000,,I'm so happy.
+Dialogue: 0,0:20:11.62,0:20:13.11,Default,,0000,0000,0000,,Keep on going.
+Dialogue: 0,0:20:42.25,0:20:44.62,Default,,0000,0000,0000,,Be gentle with me.
+Dialogue: 0,0:20:58.93,0:21:01.06,Default,,0000,0000,0000,,It's embarrassing...
+Dialogue: 0,0:21:09.21,0:21:12.01,Default,,0000,0000,0000,,...but I'm happy.
+Dialogue: 0,0:21:14.35,0:21:17.15,Default,,0000,0000,0000,,Let me do you now.
+Dialogue: 0,0:22:08.00,0:22:10.23,Default,,0000,0000,0000,,No, don't tease me like that.
+Dialogue: 0,0:22:12.01,0:22:12.94,Default,,0000,0000,0000,,Feels good.
+Dialogue: 0,0:22:26.95,0:22:27.94,Default,,0000,0000,0000,,Does it hurt?
+Dialogue: 0,0:22:28.12,0:22:29.38,Default,,0000,0000,0000,,Are you comfortable?
+Dialogue: 0,0:22:31.06,0:22:31.99,Default,,0000,0000,0000,,Yes, I'm fine.
+Dialogue: 0,0:22:32.09,0:22:34.89,Default,,0000,0000,0000,,But are you feeling comfortable?
+Dialogue: 0,0:22:35.30,0:22:38.86,Default,,0000,0000,0000,,Yes, I'm feeling great...Ms. Kitami.
+Dialogue: 0,0:22:39.90,0:22:42.84,Default,,0000,0000,0000,,Call me Reika.
+Dialogue: 0,0:22:44.00,0:22:45.60,Default,,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:22:46.21,0:22:49.11,Default,,0000,0000,0000,,Reika, can I start moving?
+Dialogue: 0,0:22:49.24,0:22:49.97,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:24:38.95,0:24:40.35,Default,,0000,0000,0000,,I'm back.

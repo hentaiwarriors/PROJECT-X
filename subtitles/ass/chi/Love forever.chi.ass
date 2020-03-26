@@ -1,0 +1,368 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,25,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+Style: up,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
+Style: staff2,微软雅黑,20,&H00FFFFFF,&HF0000000,&H00FF8000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,NTP,0,0,0,,
+Dialogue: 0,0:00:17.29,0:00:18.70,Default,NTP,0,0,0,,不要啊
+Dialogue: 0,0:00:24.82,0:00:26.79,Default,NTP,0,0,0,,不要 求求你
+Dialogue: 0,0:00:28.15,0:00:29.29,Default,NTP,0,0,0,,喂 给我住手
+Dialogue: 0,0:00:29.85,0:00:31.65,Default,NTP,0,0,0,,第二次见面了 正人
+Dialogue: 0,0:00:31.65,0:00:32.45,Default,NTP,0,0,0,,什么?
+Dialogue: 0,0:00:33.07,0:00:34.80,Default,NTP,0,0,0,,你输给我了
+Dialogue: 0,0:00:36.00,0:00:37.10,Default,NTP,0,0,0,,我输了?
+Dialogue: 0,0:00:37.62,0:00:43.78,Default,NTP,0,0,0,,是的 在那老老实实看着
+Dialogue: 0,0:00:59.73,0:01:01.66,Default,NTP,0,0,0,,不要啊
+Dialogue: 0,0:01:05.25,0:01:06.27,Default,NTP,0,0,0,,住手
+Dialogue: 0,0:01:06.27,0:01:09.98,Default,NTP,0,0,0,,闭嘴在那看着 她现在多么享受
+Dialogue: 0,0:01:10.56,0:01:11.53,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:01:16.12,0:01:17.33,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:01:19.59,0:01:22.04,Default,NTP,0,0,0,,不错嘛就是这样
+Dialogue: 0,0:01:30.50,0:01:31.30,Default,NTP,0,0,0,,给我住手啊
+Dialogue: 0,0:01:35.65,0:01:38.44,Default,NTP,0,0,0,,让你看看更棒的
+Dialogue: 0,0:01:39.53,0:01:40.80,Default,NTP,0,0,0,,什么啊?
+Dialogue: 0,0:01:40.80,0:01:45.99,Default,NTP,0,0,0,,接着 尝尝这边的味道
+Dialogue: 0,0:01:57.85,0:02:00.65,Default,NTP,0,0,0,,不 不行 求你了
+Dialogue: 0,0:02:05.52,0:02:08.77,Default,NTP,0,0,0,,这样你就成为我的玩物了
+Dialogue: 0,0:02:12.62,0:02:13.45,Default,NTP,0,0,0,,不要啊
+Dialogue: 0,0:02:13.94,0:02:16.92,Default,NTP,0,0,0,,停手 拜托你给我停手
+Dialogue: 0,0:02:16.92,0:02:18.51,Default,NTP,0,0,0,,那么 要进入了
+Dialogue: 0,0:02:21.93,0:02:24.71,Default,NTP,0,0,0,,正人 对不起
+Dialogue: 0,0:02:43.57,0:02:46.08,Default,NTP,0,0,0,,正人先生 你…
+Dialogue: 0,0:02:46.76,0:02:48.00,Default,NTP,0,0,0,,爸爸对不起
+Dialogue: 0,0:02:48.21,0:02:49.30,Default,NTP,0,0,0,,哥哥
+Dialogue: 0,0:02:51.34,0:02:52.18,Default,NTP,0,0,0,,胡桃
+Dialogue: 0,0:02:54.80,0:02:56.95,Default,NTP,0,0,0,,你想弄死我么
+Dialogue: 0,0:02:58.18,0:03:00.37,Default,NTP,0,0,0,,为什么会在这里
+Dialogue: 0,0:03:01.38,0:03:03.88,Default,NTP,0,0,0,,胡桃 我究竟…
+Dialogue: 0,0:03:06.26,0:03:08.74,Default,NTP,0,0,0,,胡桃我 很担心你
+Dialogue: 0,0:03:08.74,0:03:13.58,Default,NTP,0,0,0,,哥哥住院已经一周了 一直昏迷不醒
+Dialogue: 0,0:03:13.58,0:03:17.42,Default,NTP,0,0,0,,我 住院了?已经住了一周了?
+Dialogue: 0,0:03:17.42,0:03:21.06,Default,NTP,0,0,0,,对的 我从叔叔家那回来
+Dialogue: 0,0:03:21.06,0:03:23.36,Default,NTP,0,0,0,,看到哥哥失去意识倒在地上
+Dialogue: 0,0:03:23.36,0:03:24.33,Default,NTP,0,0,0,,而且…
+Dialogue: 0,0:03:24.33,0:03:27.09,Default,NTP,0,0,0,,而且?还发生了什么吗?
+Dialogue: 0,0:03:29.69,0:03:31.15,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:03:33.26,0:03:35.97,Default,NTP,0,0,0,,你一点印象都没了吗
+Dialogue: 0,0:03:35.97,0:03:38.47,Default,NTP,0,0,0,,你说我?你指的是什么事?
+Dialogue: 0,0:03:41.87,0:03:45.36,Default,NTP,0,0,0,,哥哥 那个…小夜花她…
+Dialogue: 0,0:03:45.36,0:03:47.70,Default,NTP,0,0,0,,姫乃城小夜花她…
+Dialogue: 0,0:03:49.20,0:03:51.38,Default,NTP,0,0,0,,小夜花小姐去世了
+Dialogue: 0,0:03:52.23,0:03:54.69,Default,NTP,0,0,0,,发现她的时候 看到她倒在你身旁
+Dialogue: 0,0:03:54.69,0:03:57.26,Default,NTP,0,0,0,,咬舌自尽了
+Dialogue: 0,0:03:57.91,0:04:01.17,Default,NTP,0,0,0,,小夜花她死了
+Dialogue: 0,0:04:13.17,0:04:17.78,staff2,NTP,0,0,0,,Love Forever 第一章 ～小夜花～
+Dialogue: 0,0:04:29.72,0:04:32.53,Default,NTP,0,0,0,,好了 我们还会再来的 小夜花
+Dialogue: 0,0:04:34.31,0:04:40.08,Default,NTP,0,0,0,,正人你也说点什么吧 小夜花毕竟是你的恋人啊
+Dialogue: 0,0:04:40.95,0:04:42.73,Default,NTP,0,0,0,,恋人啊
+Dialogue: 0,0:04:43.69,0:04:47.55,Default,NTP,0,0,0,,喂 正人 你真的想不起来了吗?
+Dialogue: 0,0:04:47.75,0:04:48.98,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:04:50.13,0:04:55.12,Default,NTP,0,0,0,,从胡桃那听说了 真是难以置信
+Dialogue: 0,0:04:55.12,0:04:57.95,Default,NTP,0,0,0,,正人和小夜花是那么恩爱
+Dialogue: 0,0:04:58.48,0:05:00.62,Default,NTP,0,0,0,,是那样的吗?
+Dialogue: 0,0:05:00.62,0:05:03.80,Default,NTP,0,0,0,,嗯 两人总是黏在一起
+Dialogue: 0,0:05:03.80,0:05:09.80,Default,NTP,0,0,0,,每天小夜花都会为正人你做便当
+Dialogue: 0,0:05:13.38,0:05:14.87,Default,NTP,0,0,0,,你怎么了
+Dialogue: 0,0:05:15.48,0:05:16.51,Default,NTP,0,0,0,,不 没什么
+Dialogue: 0,0:05:16.73,0:05:19.11,Default,NTP,0,0,0,,是吗 那就好
+Dialogue: 0,0:05:28.14,0:05:30.02,Default,NTP,0,0,0,,不过也没关系
+Dialogue: 0,0:05:30.02,0:05:33.42,Default,NTP,0,0,0,,小夜花的事总有一天你会想起来的
+Dialogue: 0,0:05:33.42,0:05:35.44,Default,NTP,0,0,0,,但愿如此吧
+Dialogue: 0,0:05:35.44,0:05:38.70,Default,NTP,0,0,0,,你像是换了一个人似的
+Dialogue: 0,0:05:40.00,0:05:43.52,Default,NTP,0,0,0,,以前的正人 总是脑海里想着小夜花
+Dialogue: 0,0:05:43.52,0:05:45.52,Default,NTP,0,0,0,,总是把小夜花放在第一位
+Dialogue: 0,0:05:46.35,0:05:47.52,Default,NTP,0,0,0,,绫…绫名
+Dialogue: 0,0:05:47.52,0:05:50.45,Default,NTP,0,0,0,,正是因为这样 为什么你会忘掉她
+Dialogue: 0,0:05:50.45,0:05:52.74,Default,NTP,0,0,0,,小夜花不是很可爱的女生么
+Dialogue: 0,0:05:52.74,0:05:54.20,Default,NTP,0,0,0,,喂 绫奈
+Dialogue: 0,0:05:54.68,0:05:58.68,Default,NTP,0,0,0,,正人你要是想不起来的话怎么对得起她
+Dialogue: 0,0:06:00.09,0:06:03.53,Default,NTP,0,0,0,,如此喜欢正人的小夜花就这样去了
+Dialogue: 0,0:06:08.44,0:06:12.60,Default,NTP,0,0,0,,正人你现在很奇怪 不仅是正人
+Dialogue: 0,0:06:12.60,0:06:17.04,Default,NTP,0,0,0,,小夜花过世后 大家都变得很不正常了
+Dialogue: 0,0:06:17.04,0:06:20.43,Default,NTP,0,0,0,,右京君失踪了
+Dialogue: 0,0:06:20.43,0:06:24.80,Default,NTP,0,0,0,,右京君失踪了 是真的吗 绫奈
+Dialogue: 0,0:06:24.80,0:06:29.45,Default,NTP,0,0,0,,是真的! 右京和正人都变得和以前不一样了
+Dialogue: 0,0:06:29.75,0:06:33.26,Default,NTP,0,0,0,,大家都这样 我该怎么办才好啊
+Dialogue: 0,0:06:33.91,0:06:36.47,Default,NTP,0,0,0,,喂 绫奈
+Dialogue: 0,0:06:48.48,0:06:50.33,Default,NTP,0,0,0,,好久不见了正人
+Dialogue: 0,0:06:50.33,0:06:51.74,Default,NTP,0,0,0,,你是…
+Dialogue: 0,0:06:51.74,0:06:53.03,Default,NTP,0,0,0,,你忘了我吗?
+Dialogue: 0,0:06:53.03,0:06:57.67,Default,NTP,0,0,0,,我是鲁伊 是姫乃城小夜花的专属管家
+Dialogue: 0,0:06:57.67,0:07:00.21,Default,NTP,0,0,0,,怎么说也应该见过面
+Dialogue: 0,0:07:00.21,0:07:03.67,Default,NTP,0,0,0,,是吗 真对不起
+Dialogue: 0,0:07:03.67,0:07:04.99,Default,NTP,0,0,0,,没什么
+Dialogue: 0,0:07:04.99,0:07:07.72,Default,NTP,0,0,0,,比起这个 你朋友不要紧吗?
+Dialogue: 0,0:07:07.72,0:07:10.50,Default,NTP,0,0,0,,朋友?啊 她没事的
+Dialogue: 0,0:07:10.50,0:07:13.91,Default,NTP,0,0,0,,那就好 那么我先行告辞
+Dialogue: 0,0:07:13.91,0:07:18.75,Default,NTP,0,0,0,,我在这 似乎打扰到你与小夜花独处了
+Dialogue: 0,0:07:25.35,0:07:27.25,Default,NTP,0,0,0,,什么嘛 那家伙
+Dialogue: 0,0:08:00.61,0:08:01.87,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:08:02.60,0:08:03.16,Default,NTP,0,0,0,,嗯?
+Dialogue: 0,0:08:03.89,0:08:07.84,Default,NTP,0,0,0,,那什么 右京今天又没来上学
+Dialogue: 0,0:08:09.09,0:08:10.26,Default,NTP,0,0,0,,右京
+Dialogue: 0,0:08:10.26,0:08:13.26,Default,NTP,0,0,0,,真是一个神经病
+Dialogue: 0,0:08:13.26,0:08:14.38,Default,NTP,0,0,0,,说得对
+Dialogue: 0,0:08:14.38,0:08:17.60,Default,NTP,0,0,0,,都去世了 他还一副不在乎的样子
+Dialogue: 0,0:08:17.60,0:08:23.26,Default,NTP,0,0,0,,你听说了吗?她好像是在冰室同学家里自杀的
+Dialogue: 0,0:08:23.26,0:08:24.22,Default,NTP,0,0,0,,真的吗?
+Dialogue: 0,0:08:24.22,0:08:26.19,Default,NTP,0,0,0,,这么说 难道是…?
+Dialogue: 0,0:08:26.90,0:08:31.16,Default,NTP,0,0,0,,对 很有可能是想强暴她…
+Dialogue: 0,0:08:38.50,0:08:43.18,Default,NTP,0,0,0,,正人 不要在意流言蜚语
+Dialogue: 0,0:08:43.18,0:08:45.08,Default,NTP,0,0,0,,我知道 没什么 那种是我才没当真呢
+Dialogue: 0,0:08:49.76,0:08:51.40,Default,NTP,0,0,0,,好疼 
+Dialogue: 0,0:08:51.98,0:08:54.86,Default,NTP,0,0,0,,真是的 是谁啊走路看着点啊
+Dialogue: 0,0:08:54.96,0:08:55.95,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:08:55.95,0:08:57.55,Default,NTP,0,0,0,,啊 牧老师
+Dialogue: 0,0:08:57.55,0:09:00.54,Default,NTP,0,0,0,,牧酱 对不起 没事吧?
+Dialogue: 0,0:09:01.47,0:09:05.35,Default,NTP,0,0,0,,是正人啊 发生什么事儿了 你怎么心不在焉的?
+Dialogue: 0,0:09:05.35,0:09:08.37,Default,NTP,0,0,0,,没事 和平常一样
+Dialogue: 0,0:09:12.60,0:09:15.96,Default,NTP,0,0,0,,正人 下堂课马上就要开始了
+Dialogue: 0,0:09:15.96,0:09:18.12,Default,NTP,0,0,0,,抱歉 我想回去了
+Dialogue: 0,0:09:19.01,0:09:21.21,Default,NTP,0,0,0,,他到底怎么了
+Dialogue: 0,0:09:22.17,0:09:23.05,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:09:35.26,0:09:38.41,Default,NTP,0,0,0,,姫乃城小夜花 你…
+Dialogue: 0,0:09:42.31,0:09:44.07,Default,NTP,0,0,0,,你被我击败了
+Dialogue: 0,0:09:44.85,0:09:47.60,Default,NTP,0,0,0,,我被击败了?
+Dialogue: 0,0:09:48.31,0:09:49.94,Default,NTP,0,0,0,,到底发生了什么事
+Dialogue: 0,0:09:49.94,0:09:51.77,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:09:54.35,0:09:58.24,Default,NTP,0,0,0,,你…你就是姫乃城小夜花吗?
+Dialogue: 0,0:09:59.38,0:10:01.44,Default,NTP,0,0,0,,如果你是 你快告诉我
+Dialogue: 0,0:10:01.44,0:10:04.01,Default,NTP,0,0,0,,我真的是你的恋人吗
+Dialogue: 0,0:10:04.66,0:10:07.76,Default,NTP,0,0,0,,不对 我更想知道那天发生了什么
+Dialogue: 0,0:10:07.76,0:10:09.46,Default,NTP,0,0,0,,拜托你告诉我
+Dialogue: 0,0:10:09.46,0:10:13.56,Default,NTP,0,0,0,,正人 对不起了
+Dialogue: 0,0:10:25.17,0:10:26.27,Default,NTP,0,0,0,,这是…
+Dialogue: 0,0:10:31.15,0:10:31.97,Default,NTP,0,0,0,,右京
+Dialogue: 0,0:10:31.97,0:10:34.69,Default,NTP,0,0,0,,呀正人 许久不见
+Dialogue: 0,0:10:35.25,0:10:37.35,Default,NTP,0,0,0,,不是来寒暄吧
+Dialogue: 0,0:10:37.35,0:10:42.15,Default,NTP,0,0,0,,你拿着这么危险的东西 这阵子都去哪里了
+Dialogue: 0,0:10:43.08,0:10:44.58,Default,NTP,0,0,0,,比起那个 正人
+Dialogue: 0,0:10:44.58,0:10:47.06,Default,NTP,0,0,0,,你记起来了吗
+Dialogue: 0,0:10:47.42,0:10:49.92,Default,NTP,0,0,0,,右京你想说什么
+Dialogue: 0,0:10:50.02,0:10:53.85,Default,NTP,0,0,0,,看你副样子 还是没想起与亲友的友谊啊
+Dialogue: 0,0:10:53.85,0:10:55.96,Default,NTP,0,0,0,,那我来帮帮你
+Dialogue: 0,0:11:02.12,0:11:04.54,Default,NTP,0,0,0,,你这小子突然想干什么
+Dialogue: 0,0:11:04.54,0:11:07.76,Default,NTP,0,0,0,,突然?哈哈 并不是突然
+Dialogue: 0,0:11:07.76,0:11:10.71,Default,NTP,0,0,0,,只是继续做那个时候的事
+Dialogue: 0,0:11:10.71,0:11:12.40,Default,NTP,0,0,0,,继续那个时候?
+Dialogue: 0,0:11:12.40,0:11:15.51,Default,NTP,0,0,0,,没错 来吧正人 放马过来
+Dialogue: 0,0:11:23.56,0:11:24.93,Default,NTP,0,0,0,,看来我别无选择了
+Dialogue: 0,0:11:27.19,0:11:30.67,Default,NTP,0,0,0,,移动很迅速嘛 我要玩真的了
+Dialogue: 0,0:11:38.20,0:11:41.15,Default,NTP,0,0,0,,这就是你全部实力吗 还得去练练
+Dialogue: 0,0:11:41.39,0:11:43.32,Default,NTP,0,0,0,,右京你这小子
+Dialogue: 0,0:11:43.81,0:11:48.19,Default,NTP,0,0,0,,不过 这样小夜花就是我的了
+Dialogue: 0,0:11:48.19,0:11:51.93,Default,NTP,0,0,0,,小夜花 你知道姫乃城小夜花的事?
+Dialogue: 0,0:11:51.93,0:11:53.64,Default,NTP,0,0,0,,嗯 我当然知道
+Dialogue: 0,0:11:54.15,0:11:56.92,Default,NTP,0,0,0,,不过对现在的你 没必要了解
+Dialogue: 0,0:11:57.16,0:12:00.02,Default,NTP,0,0,0,,所以 你给我去死吧
+Dialogue: 0,0:12:05.55,0:12:07.33,Default,NTP,0,0,0,,永别了正人
+Dialogue: 0,0:12:14.43,0:12:15.33,Default,NTP,0,0,0,,你这家伙是?
+Dialogue: 0,0:12:15.60,0:12:18.26,Default,NTP,0,0,0,,正人 快拿起剑
+Dialogue: 0,0:12:22.65,0:12:26.16,Default,NTP,0,0,0,,对哦 老天一直暗中保护正人啊
+Dialogue: 0,0:12:29.46,0:12:31.99,Default,NTP,0,0,0,,右京 你这小子想逃吗
+Dialogue: 0,0:12:33.63,0:12:37.34,Default,NTP,0,0,0,,并不是逃 而是等着你们的到来
+Dialogue: 0,0:12:37.34,0:12:39.24,Default,NTP,0,0,0,,在芹川研究所
+Dialogue: 0,0:12:42.73,0:12:44.89,Default,NTP,0,0,0,,总算得救了呢
+Dialogue: 0,0:12:44.89,0:12:46.87,Default,NTP,0,0,0,,话说回来 你是谁
+Dialogue: 0,0:12:49.62,0:12:52.19,Default,NTP,0,0,0,,我叫米露菲 是一名天使
+Dialogue: 0,0:12:52.79,0:12:53.74,Default,NTP,0,0,0,,天使?
+Dialogue: 0,0:12:54.00,0:12:54.51,Default,NTP,0,0,0,,对的
+Dialogue: 0,0:12:58.02,0:13:05.32,Default,NTP,0,0,0,,那个啥 我知道你是天使\N但是为什么会来我这呢
+Dialogue: 0,0:13:05.57,0:13:06.98,Default,NTP,0,0,0,,这是因为
+Dialogue: 0,0:13:07.19,0:13:09.92,Default,NTP,0,0,0,,我要赐予正人力量
+Dialogue: 0,0:13:09.92,0:13:12.05,Default,NTP,0,0,0,,力量?什么力量
+Dialogue: 0,0:13:12.05,0:13:14.02,Default,NTP,0,0,0,,不是决定了吗
+Dialogue: 0,0:13:14.02,0:13:16.21,Default,NTP,0,0,0,,拥有和恶魔战斗的力量
+Dialogue: 0,0:13:16.21,0:13:17.47,Default,NTP,0,0,0,,恶魔?
+Dialogue: 0,0:13:17.83,0:13:22.59,Default,NTP,0,0,0,,对啊 为了和你朋友右京战斗 而获得力量
+Dialogue: 0,0:13:22.59,0:13:24.80,Default,NTP,0,0,0,,右京?难道说
+Dialogue: 0,0:13:24.80,0:13:27.78,Default,NTP,0,0,0,,嗯 被恶魔附身了
+Dialogue: 0,0:13:27.78,0:13:29.55,Default,NTP,0,0,0,,所以你俩的距离差了很远
+Dialogue: 0,0:13:29.87,0:13:31.57,Default,NTP,0,0,0,,为什么恶魔会对右京…
+Dialogue: 0,0:13:31.57,0:13:35.98,Default,NTP,0,0,0,,恶魔沉睡在拥有嫉妒心的人的内心深处
+Dialogue: 0,0:13:35.98,0:13:37.51,Default,NTP,0,0,0,,右京肯定…
+Dialogue: 0,0:13:37.51,0:13:38.47,Default,NTP,0,0,0,,这是不可能的
+Dialogue: 0,0:13:38.47,0:13:40.12,Default,NTP,0,0,0,,但是这就是事实
+Dialogue: 0,0:13:40.12,0:13:44.18,Default,NTP,0,0,0,,恶魔的目的是为了支配人世间
+Dialogue: 0,0:13:44.18,0:13:46.01,Default,NTP,0,0,0,,能够阻止这一切的
+Dialogue: 0,0:13:46.01,0:13:48.50,Default,NTP,0,0,0,,就只有正人你了
+Dialogue: 0,0:13:54.38,0:13:55.46,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:13:57.30,0:13:59.15,Default,NTP,0,0,0,,那我需要怎么做
+Dialogue: 0,0:13:59.15,0:14:00.13,Default,NTP,0,0,0,,嗯?
+Dialogue: 0,0:14:00.13,0:14:05.07,Default,NTP,0,0,0,,如何拥有和恶魔抗衡的力量
+Dialogue: 0,0:14:05.07,0:14:06.50,Default,NTP,0,0,0,,那么…
+Dialogue: 0,0:14:08.54,0:14:10.86,Default,NTP,0,0,0,,喂 你这是要干什么
+Dialogue: 0,0:14:12.33,0:14:14.76,Default,NTP,0,0,0,,赐予你力量的仪式
+Dialogue: 0,0:14:14.76,0:14:17.09,Default,NTP,0,0,0,,那为什么要脱光啊
+Dialogue: 0,0:14:17.68,0:14:22.15,Default,NTP,0,0,0,,为了获得神的力量 就只有一个方法
+Dialogue: 0,0:14:22.15,0:14:24.26,Default,NTP,0,0,0,,那就是性交
+Dialogue: 0,0:14:24.26,0:14:26.66,Default,NTP,0,0,0,,性...交...
+Dialogue: 0,0:14:28.97,0:14:30.01,Default,NTP,0,0,0,,是性交哇
+Dialogue: 0,0:14:31.18,0:14:32.82,Default,NTP,0,0,0,,没错 性交
+Dialogue: 0,0:14:55.54,0:14:56.67,Default,NTP,0,0,0,,有感觉了
+Dialogue: 0,0:15:10.46,0:15:11.54,Default,NTP,0,0,0,,我…
+Dialogue: 0,0:15:21.48,0:15:23.96,Default,NTP,0,0,0,,好厉害 已经这么湿了
+Dialogue: 0,0:15:24.68,0:15:27.80,Default,NTP,0,0,0,,讨厌 不要说这样的话
+Dialogue: 0,0:15:29.00,0:15:31.47,Default,NTP,0,0,0,,我来让你更舒服
+Dialogue: 0,0:15:34.99,0:15:36.10,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:15:42.20,0:15:45.84,Default,NTP,0,0,0,,我忍不住了 要高潮了
+Dialogue: 0,0:15:52.73,0:15:56.29,Default,NTP,0,0,0,,请你快点进入我的里面
+Dialogue: 0,0:16:15.51,0:16:16.70,Default,NTP,0,0,0,,正人 
+Dialogue: 0,0:16:18.17,0:16:21.03,Default,NTP,0,0,0,,我的里面被填满了
+Dialogue: 0,0:16:26.16,0:16:27.77,Default,NTP,0,0,0,,好棒 好厉害
+Dialogue: 0,0:16:32.54,0:16:35.39,Default,NTP,0,0,0,,我已经不行了
+Dialogue: 0,0:16:34.98,0:16:37.82,Default,NTP,0,0,0,,我也极限了
+Dialogue: 0,0:16:38.22,0:16:43.07,Default,NTP,0,0,0,,求你了正人 拜托你就这样给我
+Dialogue: 0,0:16:38.30,0:16:39.49,Default,NTP,0,0,0,,求你了
+Dialogue: 0,0:17:09.43,0:17:11.79,Default,NTP,0,0,0,,这样 你就成为了神之子了
+Dialogue: 0,0:17:13.69,0:17:15.96,Default,NTP,0,0,0,,右京你给我等着
+Dialogue: 0,0:17:28.63,0:17:30.21,Default,NTP,0,0,0,,米露菲 怎么样
+Dialogue: 0,0:17:30.60,0:17:34.56,Default,NTP,0,0,0,,是 在这附近能感觉到强大的恶魔波动
+Dialogue: 0,0:17:37.22,0:17:37.97,Default,NTP,0,0,0,,是谁
+Dialogue: 0,0:17:43.77,0:17:44.62,Default,NTP,0,0,0,,这不是...
+Dialogue: 0,0:17:47.34,0:17:49.03,Default,NTP,0,0,0,,...右京的父亲吗
+Dialogue: 0,0:17:49.85,0:17:51.42,Default,NTP,0,0,0,,在这里做什么
+Dialogue: 0,0:17:52.12,0:17:52.93,Default,NTP,0,0,0,,好过分
+Dialogue: 0,0:18:03.97,0:18:05.60,Default,NTP,0,0,0,,米露菲
+Dialogue: 0,0:18:10.26,0:18:13.21,Default,NTP,0,0,0,,这样你就成为我的玩物了
+Dialogue: 0,0:18:21.51,0:18:22.56,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:18:24.27,0:18:25.18,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:18:25.18,0:18:28.99,Default,NTP,0,0,0,,我愿意为你而死
+Dialogue: 0,0:18:28.99,0:18:32.48,Default,NTP,0,0,0,,喂小夜花 别这样 快停手
+Dialogue: 0,0:18:33.28,0:18:34.57,Default,NTP,0,0,0,,对不起了
+Dialogue: 0,0:18:36.29,0:18:39.15,Default,NTP,0,0,0,,小夜花!
+Dialogue: 0,0:18:40.42,0:18:42.76,Default,NTP,0,0,0,,右京 你把小夜花给…
+Dialogue: 0,0:18:43.00,0:18:45.91,Default,NTP,0,0,0,,哼 你终于想起来了啊
+Dialogue: 0,0:18:45.91,0:18:48.39,Default,NTP,0,0,0,,嗯 我想起那天发生什么了
+Dialogue: 0,0:18:48.39,0:18:51.84,Default,NTP,0,0,0,,你把小夜花给怎么了 都全部记起来了
+Dialogue: 0,0:18:51.84,0:18:53.74,Default,NTP,0,0,0,,这样的话 现在说这个还为时尚早
+Dialogue: 0,0:18:53.74,0:18:56.51,Default,NTP,0,0,0,,那么再来决斗一次吧
+Dialogue: 0,0:19:00.29,0:19:01.62,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:19:06.22,0:19:08.28,Default,NTP,0,0,0,,没错 是我的小夜花
+Dialogue: 0,0:19:08.82,0:19:10.08,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:19:10.72,0:19:11.52,Default,NTP,0,0,0,,米露菲 
+Dialogue: 0,0:19:12.56,0:19:13.67,Default,NTP,0,0,0,,没事吧
+Dialogue: 0,0:19:14.45,0:19:15.03,Default,NTP,0,0,0,,嗯 
+Dialogue: 0,0:19:15.70,0:19:20.82,Default,NTP,0,0,0,,在那个人身上感觉不到小夜花的心脏
+Dialogue: 0,0:19:21.46,0:19:23.47,Default,NTP,0,0,0,,没有心脏?
+Dialogue: 0,0:19:24.97,0:19:26.00,Default,NTP,0,0,0,,没错
+Dialogue: 0,0:19:26.00,0:19:29.89,Default,NTP,0,0,0,,这个小夜花是利用克隆技术制作出来的
+Dialogue: 0,0:19:29.89,0:19:32.29,Default,NTP,0,0,0,,还没有植入心脏
+Dialogue: 0,0:19:32.29,0:19:33.41,Default,NTP,0,0,0,,克隆?
+Dialogue: 0,0:19:34.31,0:19:39.06,Default,NTP,0,0,0,,嗯 她是我的父亲芹川秀作的研究成果
+Dialogue: 0,0:19:39.06,0:19:41.00,Default,NTP,0,0,0,,父亲在这的吧
+Dialogue: 0,0:19:41.13,0:19:43.12,Default,NTP,0,0,0,,难道说 右京
+Dialogue: 0,0:19:43.68,0:19:47.31,Default,NTP,0,0,0,,父亲做得很棒 但是已经不在世上了
+Dialogue: 0,0:19:47.31,0:19:50.24,Default,NTP,0,0,0,,竟然连亲生父亲都…
+Dialogue: 0,0:19:50.24,0:19:52.69,Default,NTP,0,0,0,,你堕落了
+Dialogue: 0,0:19:52.69,0:19:54.71,Default,NTP,0,0,0,,我堕落了?你错了 正人
+Dialogue: 0,0:19:54.71,0:19:59.15,Default,NTP,0,0,0,,这个世上只有力量才能支配一切
+Dialogue: 0,0:19:59.88,0:20:02.97,Default,NTP,0,0,0,,我获得了绝对的恶魔力量
+Dialogue: 0,0:20:03.72,0:20:06.76,Default,NTP,0,0,0,,所以才能得到小夜花
+Dialogue: 0,0:20:06.76,0:20:08.31,Default,NTP,0,0,0,,还有 正人
+Dialogue: 0,0:20:09.27,0:20:11.38,Default,NTP,0,0,0,,你打扰了我和小夜花
+Dialogue: 0,0:20:11.98,0:20:13.69,Default,NTP,0,0,0,,只好把你杀掉
+Dialogue: 0,0:20:15.65,0:20:19.13,Default,NTP,0,0,0,,别说大话了
+Dialogue: 0,0:20:19.13,0:20:22.41,Default,NTP,0,0,0,,看样子你获得了力量了呢
+Dialogue: 0,0:20:22.41,0:20:23.75,Default,NTP,0,0,0,,这怎么了
+Dialogue: 0,0:20:24.04,0:20:25.34,Default,NTP,0,0,0,,那我们就来试试神和恶魔
+Dialogue: 0,0:20:25.34,0:20:28.72,Default,NTP,0,0,0,,到底哪个力量更强吧
+Dialogue: 0,0:20:31.90,0:20:32.92,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:20:34.35,0:20:37.70,Default,NTP,0,0,0,,这点程度还不能把我怎么样
+Dialogue: 0,0:20:42.95,0:20:44.92,Default,NTP,0,0,0,,这次我来进攻
+Dialogue: 0,0:20:48.00,0:20:49.73,Default,NTP,0,0,0,,干得不错啊正人
+Dialogue: 0,0:20:49.73,0:20:51.41,Default,NTP,0,0,0,,切 你也不赖
+Dialogue: 0,0:20:52.24,0:20:53.96,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:20:57.12,0:20:58.68,Default,NTP,0,0,0,,去死吧
+Dialogue: 0,0:21:04.37,0:21:06.18,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:21:16.26,0:21:17.75,Default,NTP,0,0,0,,为什么小夜花
+Dialogue: 0,0:21:19.04,0:21:23.25,Default,NTP,0,0,0,,没有心脏的小夜花 为什么会流泪
+Dialogue: 0,0:21:23.25,0:21:25.75,Default,NTP,0,0,0,,右京 你还不明白吗
+Dialogue: 0,0:21:26.40,0:21:27.92,Default,NTP,0,0,0,,就算获得了力量
+Dialogue: 0,0:21:27.92,0:21:30.54,Default,NTP,0,0,0,,也无法改变人心
+Dialogue: 0,0:21:32.74,0:21:34.79,Default,NTP,0,0,0,,也许吧
+Dialogue: 0,0:21:35.91,0:21:36.65,Default,NTP,0,0,0,,右京
+Dialogue: 0,0:21:38.47,0:21:39.54,Default,NTP,0,0,0,,正人 
+Dialogue: 0,0:21:40.17,0:21:41.44,Default,NTP,0,0,0,,对不起
+Dialogue: 0,0:21:41.44,0:21:44.90,Default,NTP,0,0,0,,够了 别说了
+Dialogue: 0,0:21:44.90,0:21:46.79,Default,NTP,0,0,0,,小心碰到伤口
+Dialogue: 0,0:21:47.43,0:21:48.61,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:21:49.43,0:21:50.84,Default,NTP,0,0,0,,小夜花她
+Dialogue: 0,0:21:59.37,0:22:01.22,Default,NTP,0,0,0,,右京
+Dialogue: 0,0:22:11.10,0:22:13.68,Default,NTP,0,0,0,,这样的话 这次的计划也结束
+Dialogue: 0,0:22:15.52,0:22:17.52,Default,NTP,0,0,0,,鲁伊你这混账
+Dialogue: 0,0:22:17.52,0:22:19.19,Default,NTP,0,0,0,,不 他不是
+Dialogue: 0,0:22:19.19,0:22:23.20,Default,NTP,0,0,0,,正人 这个男人是地狱之王阿斯特兰特
+Dialogue: 0,0:22:24.20,0:22:25.68,Default,NTP,0,0,0,,地狱之王
+Dialogue: 0,0:22:26.38,0:22:29.04,Default,NTP,0,0,0,,那就是你控制右京的吗
+Dialogue: 0,0:22:29.04,0:22:30.50,Default,NTP,0,0,0,,是又怎么样
+Dialogue: 0,0:22:30.50,0:22:33.13,Default,NTP,0,0,0,,我决定了 我要将你打倒
+Dialogue: 0,0:22:33.33,0:22:36.94,Default,NTP,0,0,0,,啊 但是没时间了
+Dialogue: 0,0:22:44.53,0:22:45.90,Default,NTP,0,0,0,,你干了什么
+Dialogue: 0,0:22:46.43,0:22:50.96,Default,NTP,0,0,0,,计划也失败了 我想将全部抹掉
+Dialogue: 0,0:22:51.53,0:22:52.97,Default,NTP,0,0,0,,难道你…
+Dialogue: 0,0:22:53.23,0:22:56.43,Default,NTP,0,0,0,,嗯 在研究所安装了自爆装置
+Dialogue: 0,0:22:56.43,0:22:57.59,Default,NTP,0,0,0,,你说什么
+Dialogue: 0,0:22:58.00,0:23:00.59,Default,NTP,0,0,0,,在这仅有的时间一丝时间里
+Dialogue: 0,0:23:01.00,0:23:02.60,Default,NTP,0,0,0,,我来当你的对手
+Dialogue: 0,0:23:12.16,0:23:15.38,Default,NTP,0,0,0,,你这家伙 别用天使救世来阻止我
+Dialogue: 0,0:23:18.05,0:23:21.12,Default,NTP,0,0,0,,正人 快带上小夜花离开这
+Dialogue: 0,0:23:21.53,0:23:23.50,Default,NTP,0,0,0,,那你呢
+Dialogue: 0,0:23:24.12,0:23:25.96,Default,NTP,0,0,0,,这是我的使命 
+Dialogue: 0,0:23:25.96,0:23:29.90,Default,NTP,0,0,0,,如果能和恶魔同归于尽的话 我也无憾了
+Dialogue: 0,0:23:29.90,0:23:31.86,Default,NTP,0,0,0,,怎么这样 快停下来
+Dialogue: 0,0:23:31.86,0:23:32.94,Default,NTP,0,0,0,,米露菲
+Dialogue: 0,0:23:32.94,0:23:36.42,Default,NTP,0,0,0,,正人 你一定要完成你的使命
+Dialogue: 0,0:23:36.42,0:23:39.44,Default,NTP,0,0,0,,取回小夜花的心
+Dialogue: 0,0:23:39.78,0:23:42.63,Default,NTP,0,0,0,,但是你如果消失的话
+Dialogue: 0,0:23:42.83,0:23:45.97,Default,NTP,0,0,0,,别伤心 这是老天安排好的
+Dialogue: 0,0:23:45.97,0:23:50.49,Default,NTP,0,0,0,,正人 你要向小夜花传递你的爱
+Dialogue: 0,0:23:53.58,0:23:54.49,Default,NTP,0,0,0,,米露菲
+Dialogue: 0,0:23:55.31,0:23:56.14,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:24:00.29,0:24:01.67,Default,NTP,0,0,0,,米露菲
+Dialogue: 0,0:24:01.67,0:24:05.03,Default,NTP,0,0,0,,正人 再见了
+Dialogue: 0,0:24:06.58,0:24:09.63,Default,NTP,0,0,0,,不 快住手 快放开我
+Dialogue: 0,0:24:39.44,0:24:43.74,Default,NTP,0,0,0,,小夜花 请接受我的爱
+Dialogue: 0,0:24:54.00,0:24:56.86,Default,NTP,0,0,0,,好美啊 小夜花
+Dialogue: 0,0:25:07.85,0:25:08.77,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:25:34.82,0:25:38.01,Default,NTP,0,0,0,,我想看你的全部
+Dialogue: 0,0:26:15.19,0:26:17.76,Default,NTP,0,0,0,,小夜花 差不多该插入了
+Dialogue: 0,0:26:40.14,0:26:41.26,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:27:00.32,0:27:01.82,Default,NTP,0,0,0,,不疼吗
+Dialogue: 0,0:27:07.48,0:27:09.16,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:27:47.52,0:27:50.53,Default,NTP,0,0,0,,小夜花我爱你 小夜花
+Dialogue: 0,0:27:53.40,0:27:54.85,Default,NTP,0,0,0,,我已经…
+Dialogue: 0,0:27:56.49,0:27:58.05,Default,NTP,0,0,0,,要射了 小夜花
+Dialogue: 0,0:28:20.50,0:28:20.90,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:28:22.17,0:28:23.14,Default,NTP,0,0,0,,正人
+Dialogue: 0,0:28:24.72,0:28:29.57,Default,NTP,0,0,0,,你的爱 我收到了
+Dialogue: 0,0:28:29.57,0:28:32.37,Default,NTP,0,0,0,,小夜花 那我的…
+Dialogue: 0,0:28:32.90,0:28:33.49,Default,NTP,0,0,0,,嗯
+Dialogue: 0,0:28:34.34,0:28:35.46,Default,NTP,0,0,0,,小夜花
+Dialogue: 0,0:28:36.51,0:28:39.83,Default,NTP,0,0,0,,正人 谢谢你
+Dialogue: 0,0:28:40.60,0:28:43.83,Default,NTP,0,0,0,,我深爱着你
+Dialogue: 0,0:29:07.62,0:29:12.11,Default,NTP,0,0,0,,绫奈 得去进货了
+Dialogue: 0,0:29:12.11,0:29:15.72,Default,NTP,0,0,0,,真伤脑筋一个人去很吃力啊 我的老爹
+Dialogue: 0,0:29:15.72,0:29:18.58,Default,NTP,0,0,0,,你快去啊 嘀咕啥
+Dialogue: 0,0:29:18.73,0:29:21.62,Default,NTP,0,0,0,,我知道了 我这就去
+Dialogue: 0,0:29:28.08,0:29:29.08,Default,NTP,0,0,0,,您辛苦了
+Dialogue: 0,0:29:29.89,0:29:31.51,Default,NTP,0,0,0,,是暑期问安的明信片啊
+Dialogue: 0,0:29:33.00,0:29:36.00,Default,NTP,0,0,0,,是吗?终于在一起了

@@ -1,0 +1,229 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build389  Sep  9 2015  13:19:32
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.02,0:00:05.53,Grupa,,0,0,0,,{\be1\fad(522,525)}Nyan
+Dialogue: 0,0:00:14.33,0:00:15.68,Default (i),,0,0,0,,{\be1}Sempai.
+Dialogue: 0,0:00:17.33,0:00:21.04,Default (i),,0,0,0,,{\be1}Gdybym tylko mogła\Npowiedzieć mu co czuję.
+Dialogue: 0,0:00:24.14,0:00:25.69,Default (i),,0,0,0,,{\be1}Gdybym mogła...
+Dialogue: 0,0:00:27.63,0:00:29.06,Default (i),,0,0,0,,{\be1}Ale nie mogę.
+Dialogue: 0,0:00:31.13,0:00:36.70,Default (i),,0,0,0,,{\be1}Chciałabym być z nim chociaż w snach.
+Dialogue: 0,0:00:42.31,0:00:47.00,Default (i),,0,0,0,,{\be1}Secret Dreams, z nami\Ntwoje marzenia spełnią się.
+Dialogue: 0,0:01:15.72,0:01:17.34,Default (i),,0,0,0,,{\be1}Sempai?
+Dialogue: 0,0:01:57.76,0:02:01.18,Default,,0,0,0,,{\be1}Witamy Secret Dreams!
+Dialogue: 0,0:02:01.18,0:02:03.14,Default,,0,0,0,,{\be1}Chciałam...
+Dialogue: 0,0:02:03.14,0:02:06.50,Default,,0,0,0,,{\be1}Czekaliśmy na ciebie, zapraszam.
+Dialogue: 0,0:02:13.41,0:02:15.17,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:02:15.17,0:02:19.33,Default,,0,0,0,,{\be1}Przepraszam, jestem tu pierwszy raz.
+Dialogue: 0,0:02:20.20,0:02:26.01,Default,,0,0,0,,{\be1}Użycie komory marzeń\Nkosztuje 3000 jenów.
+Dialogue: 0,0:02:26.01,0:02:28.51,Default,,0,0,0,,{\be1}Wszelkie dodatki kosztują dodatkowo.
+Dialogue: 0,0:02:28.51,0:02:32.04,Default,,0,0,0,,{\be1}Napisz tu czego pragniesz.
+Dialogue: 0,0:02:34.45,0:02:37.55,Default,,0,0,0,,{\be1}Chcę być tylko jego dziewczyną.
+Dialogue: 0,0:02:45.67,0:02:46.40,Default,,0,0,0,,{\be1}Tędy.
+Dialogue: 0,0:03:06.54,0:03:08.15,Default (i),,0,0,0,,{\be1}Niesamowite.
+Dialogue: 0,0:03:08.15,0:03:11.71,Default,,0,0,0,,{\be1}To jak daleko chcesz się posunąć?
+Dialogue: 0,0:03:13.81,0:03:15.47,Default,,0,0,0,,{\be1}Wystarczy zwykła randka.
+Dialogue: 0,0:03:16.03,0:03:17.20,Default,,0,0,0,,{\be1}Tylko?
+Dialogue: 0,0:03:17.89,0:03:21.81,Default,,0,0,0,,{\be1}No może jeszcze z całowaniem.
+Dialogue: 0,0:03:21.81,0:03:24.54,Default,,0,0,0,,{\be1}Gdzie ma być randka?
+Dialogue: 0,0:03:24.54,0:03:26.07,Default,,0,0,0,,{\be1}Niech pani wybierze.
+Dialogue: 0,0:03:26.07,0:03:27.17,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:03:27.17,0:03:30.23,Default,,0,0,0,,{\be1}Włączę podstawowy program.
+Dialogue: 0,0:03:30.23,0:03:32.51,Default,,0,0,0,,{\be1}Przebierz się w specjalny kombinezon.
+Dialogue: 0,0:03:33.71,0:03:34.66,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:03:38.95,0:03:43.75,Default,,0,0,0,,{\be1}Musisz zdjąć wszystko\Nalbo odczucia nie będą dokładne.
+Dialogue: 0,0:03:44.86,0:03:46.08,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:03:57.10,0:03:59.14,Default,,0,0,0,,{\be1}Dziwne uczucie.
+Dialogue: 0,0:03:59.14,0:04:00.09,Default,,0,0,0,,{\be1}Zapraszam.
+Dialogue: 0,0:04:12.46,0:04:17.99,Default,,0,0,0,,{\be1}Jeśli pojawi się jakiś problem\Nz sensorami, to pokaże ci się wiadomość.
+Dialogue: 0,0:04:17.99,0:04:22.03,Default,,0,0,0,,{\be1}Zostanie ona również przeczytana\Ni będziesz mogła odpowiedzieć głosem.
+Dialogue: 0,0:04:22.99,0:04:24.45,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:04:24.45,0:04:26.88,Default,,0,0,0,,{\be1}Powodzenia na randce.
+Dialogue: 0,0:04:56.99,0:04:59.40,Default,,0,0,0,,{\be1}Cześć, Kaori.
+Dialogue: 0,0:05:00.39,0:05:02.82,Default (i),,0,0,0,,{\be1}Wypowiedział moje imię.
+Dialogue: 0,0:05:02.82,0:05:07.75,Default,,0,0,0,,{\be1}W końcu pozbyłem się kumpli\Ni możemy pobyć sami.
+Dialogue: 0,0:05:08.10,0:05:10.16,Default (i),,0,0,0,,{\be1}Sami?
+Dialogue: 0,0:05:11.18,0:05:14.83,Default,,0,0,0,,{\be1}Od teraz jestem tylko twój.
+Dialogue: 0,0:05:21.05,0:05:27.76,Default,,0,0,0,,{\be1}Tak się cieszę!\NJesteś ze mną tak jak to sobie wymarzyłam.
+Dialogue: 0,0:05:27.76,0:05:30.07,Default,,0,0,0,,{\be1}Dobrze, że przyszłam.
+Dialogue: 0,0:05:31.62,0:05:33.39,Default,,0,0,0,,{\be1}Gdzie chcesz iść?
+Dialogue: 0,0:05:33.39,0:05:36.52,Default,,0,0,0,,{\be1}Gdziekolwiek, byle z tobą.
+Dialogue: 0,0:05:41.99,0:05:43.37,Default,,0,0,0,,{\be1}Wstydzę się!
+Dialogue: 0,0:05:54.85,0:05:57.12,Default,,0,0,0,,{\be1}Jest jak w moich fantazjach.
+Dialogue: 0,0:06:06.05,0:06:11.96,Default,,0,0,0,,{\be1}Przepraszam, że musisz ze mną być.
+Dialogue: 0,0:06:13.47,0:06:16.86,Default,,0,0,0,,{\be1}Nie pleć głupot, tylko chodź do mnie.
+Dialogue: 0,0:06:49.54,0:06:51.08,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:06:59.02,0:07:00.90,Default (i),,0,0,0,,{\be1}Co to było?
+Dialogue: 0,0:07:05.36,0:07:07.16,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:07:10.23,0:07:15.62,Default,,0,0,0,,{\be1}Wykryto błąd systemu.\NWymusić wyłączenie programu?
+Dialogue: 0,0:07:24.93,0:07:27.26,Default,,0,0,0,,{\be1}Ty też oglądałaś ten film?
+Dialogue: 0,0:07:27.26,0:07:32.43,Default,,0,0,0,,{\be1}Tak, wzruszyłam się zwłaszcza, gdy się zeszli.
+Dialogue: 0,0:07:32.43,0:07:41.27,Default,,0,0,0,,{\be1}No, na tę scenę nałożyli sepie,\Na oni poszli do parku i...
+Dialogue: 0,0:08:23.43,0:08:24.63,Default,,0,0,0,,{\be1}Kaori.
+Dialogue: 0,0:08:26.33,0:08:27.19,Default,,0,0,0,,{\be1}Jaka śliczna!
+Dialogue: 0,0:08:27.67,0:08:31.41,Default,,0,0,0,,{\be1}Znalazłem najładniejszą jaką mogłem.
+Dialogue: 0,0:08:31.75,0:08:36.95,Default,,0,0,0,,{\be1}Jestem naprawdę szczęśliwa.
+Dialogue: 0,0:08:36.95,0:08:40.58,Default,,0,0,0,,{\be1}A mnie cieszy twoje szczęście.
+Dialogue: 0,0:08:54.50,0:08:56.60,Default,,0,0,0,,{\be1}Nie, stój!
+Dialogue: 0,0:08:56.60,0:09:00.93,Default,,0,0,0,,{\be1}Jeśli mnie kochasz,\N pozwól mi to zrobić.
+Dialogue: 0,0:09:04.37,0:09:05.94,Default,,0,0,0,,{\be1}Sempai!
+Dialogue: 0,0:09:09.88,0:09:13.92,Default,,0,0,0,,{\be1}Nie mogę! Nie!
+Dialogue: 0,0:09:33.59,0:09:37.06,Default,,0,0,0,,{\be1}Gdzie jestem?! Gdzie jest sempai?!
+Dialogue: 0,0:09:43.25,0:09:44.82,Default,,0,0,0,,{\be1}Sempai!
+Dialogue: 0,0:09:44.82,0:09:47.40,Default,,0,0,0,,{\be1}Kaori. Do dzieła.
+Dialogue: 0,0:09:51.74,0:09:55.12,Default,,0,0,0,,{\be1}Teraz cię rozbiorę, podoba się?
+Dialogue: 0,0:10:03.08,0:10:04.96,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:10:07.54,0:10:09.23,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:10:12.34,0:10:14.76,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:10:15.65,0:10:17.47,Default,,0,0,0,,{\be1}Niezłe cycki.
+Dialogue: 0,0:10:27.79,0:10:30.44,Default,,0,0,0,,{\be1}Sempai, pomóż mi!
+Dialogue: 0,0:10:36.17,0:10:37.48,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:10:44.25,0:10:46.14,Default,,0,0,0,,{\be1}Jest mokra.
+Dialogue: 0,0:10:46.14,0:10:48.32,Default,,0,0,0,,{\be1}A jak drży.
+Dialogue: 0,0:10:50.13,0:10:53.05,Default,,0,0,0,,{\be1}Nie patrzcie, wstydzę się!
+Dialogue: 0,0:11:07.68,0:11:09.65,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:11:16.05,0:11:17.96,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:11:26.88,0:11:27.92,Default,,0,0,0,,{\be1}Nie powstrzymujcie się.
+Dialogue: 0,0:11:35.68,0:11:38.60,Default,,0,0,0,,{\be1}Zakończ program!
+Dialogue: 0,0:11:39.00,0:11:45.52,Default,,0,0,0,,{\be1}Wystąpił błąd 11.\NNie mogę zakończyć programu.
+Dialogue: 0,0:11:45.98,0:11:47.90,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:11:55.17,0:11:56.47,Default,,0,0,0,,{\be1}Co się stało?
+Dialogue: 0,0:12:00.20,0:12:04.12,Default (i),,0,0,0,,{\be1}Jak dobrze, że wszytko\Njest już w porządku.
+Dialogue: 0,0:12:05.08,0:12:08.04,Default,,0,0,0,,{\be1}Chcesz więcej?
+Dialogue: 0,0:12:08.99,0:12:12.38,Default,,0,0,0,,{\be1}Dobrze ci w tym.
+Dialogue: 0,0:12:15.71,0:12:17.28,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:12:19.24,0:12:20.71,Default,,0,0,0,,{\be1}Nie patrz!
+Dialogue: 0,0:12:22.11,0:12:24.56,Default,,0,0,0,,{\be1}Nie wiedziałem, że to lubisz.
+Dialogue: 0,0:12:24.56,0:12:28.19,Default,,0,0,0,,{\be1}Ja taka nie jestem!
+Dialogue: 0,0:12:38.33,0:12:44.16,Default,,0,0,0,,{\be1}Nie patrz! Proszę, wstydzę się!
+Dialogue: 0,0:12:49.46,0:12:52.33,Default,,0,0,0,,{\be1}Jakaś ty niewyżyta.
+Dialogue: 0,0:12:56.13,0:12:59.59,Default,,0,0,0,,{\be1}Nieprawda, moje ciało nie słucha mnie.
+Dialogue: 0,0:13:00.08,0:13:02.47,Default,,0,0,0,,{\be1}Podobasz mi się taka.
+Dialogue: 0,0:13:10.45,0:13:13.86,Default,,0,0,0,,{\be1}Zakończ program!
+Dialogue: 0,0:13:18.12,0:13:20.70,Default,,0,0,0,,{\be1}Nie! Proszę!
+Dialogue: 0,0:13:35.08,0:13:37.67,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:13:38.17,0:13:41.73,Default,,0,0,0,,{\be1}O tak, dobrze ci idzie!
+Dialogue: 0,0:13:50.63,0:13:57.36,Default,,0,0,0,,{\be1}Wykryto błąd systemu.\NWybierz odpowiednią opcję i zresetuj system.
+Dialogue: 0,0:14:41.53,0:14:46.45,Default,,0,0,0,,{\be1}Sempai, proszę, przestań.
+Dialogue: 0,0:14:47.75,0:14:49.37,Default,,0,0,0,,{\be1}Jeszcze ci mało?
+Dialogue: 0,0:14:53.72,0:14:56.21,Default,,0,0,0,,{\be1}To nie tak!
+Dialogue: 0,0:14:56.21,0:15:00.03,Default,,0,0,0,,{\be1}Patrzcie, cienie jej z cipky.
+Dialogue: 0,0:15:00.03,0:15:01.34,Default,,0,0,0,,{\be1}O stary!
+Dialogue: 0,0:15:04.99,0:15:09.87,Default,,0,0,0,,{\be1}Nie! Co za wstyd!
+Dialogue: 0,0:15:09.87,0:15:11.74,Default,,0,0,0,,{\be1}Masz to czego chcesz.
+Dialogue: 0,0:15:11.74,0:15:14.26,Default,,0,0,0,,{\be1}Kiedy ja nie...
+Dialogue: 0,0:15:16.55,0:15:20.94,Default (i),,0,0,0,,{\be1}Nie, moje poczucie wartości się zmienia.
+Dialogue: 0,0:15:30.13,0:15:32.29,Default,,0,0,0,,{\be1}Kto ci pozwolił przestać?
+Dialogue: 0,0:15:34.52,0:15:36.52,Default,,0,0,0,,{\be1}O tak.
+Dialogue: 0,0:15:56.13,0:15:58.40,Default,,0,0,0,,{\be1}Sika na podłogę.
+Dialogue: 0,0:15:58.78,0:16:00.81,Default (i),,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:16:00.81,0:16:04.74,Default,,0,0,0,,{\be1}Kaori, pokaż wszystkim co robisz.
+Dialogue: 0,0:16:05.32,0:16:06.62,Default,,0,0,0,,{\be1}Nieźle!
+Dialogue: 0,0:16:06.62,0:16:08.70,Default,,0,0,0,,{\be1}Zajebiście!
+Dialogue: 0,0:16:09.92,0:16:13.94,Default (i),,0,0,0,,{\be1}Nie chcę tego robić!
+Dialogue: 0,0:16:13.94,0:16:17.58,Default (i),,0,0,0,,{\be1}Zakończ program!
+Dialogue: 0,0:16:22.91,0:16:24.78,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:16:26.36,0:16:28.80,Default,,0,0,0,,{\be1}Zaraz dojdę...
+Dialogue: 0,0:16:28.80,0:16:32.35,Default,,0,0,0,,{\be1}- Czekałem na to.\N- Sempai!
+Dialogue: 0,0:16:55.37,0:16:59.85,Default,,0,0,0,,{\be1}Dlaczego to robisz?! Opuść mnie!
+Dialogue: 0,0:16:59.85,0:17:03.17,Default,,0,0,0,,{\be1}Co? Chcesz kolczyki?
+Dialogue: 0,0:17:03.17,0:17:06.09,Default,,0,0,0,,{\be1}Nie powiedziałam tego!
+Dialogue: 0,0:17:06.49,0:17:08.57,Default,,0,0,0,,{\be1}Gdzie zaczniemy?
+Dialogue: 0,0:17:08.57,0:17:10.51,Default,,0,0,0,,{\be1}Sutki.
+Dialogue: 0,0:17:11.74,0:17:13.43,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:17:14.04,0:17:16.26,Default,,0,0,0,,{\be1}Nie chcę!
+Dialogue: 0,0:17:17.88,0:17:23.27,Default,,0,0,0,,{\be1}Wymuś zamknięcie systemu.\NWybierz odpowiednią opcję i zresetuj system.
+Dialogue: 0,0:17:23.27,0:17:25.69,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:17:27.24,0:17:29.01,Default,,0,0,0,,{\be1}Co za wstyd!
+Dialogue: 0,0:17:29.01,0:17:31.07,Default,,0,0,0,,{\be1}Odważna jesteś.
+Dialogue: 0,0:17:31.75,0:17:35.24,Default,,0,0,0,,{\be1}W nagrodę dam ci\Nnastępnego, gdzie chcesz?
+Dialogue: 0,0:17:35.24,0:17:36.17,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:17:36.17,0:17:38.72,Default,,0,0,0,,{\be1}W cipce.
+Dialogue: 0,0:17:38.72,0:17:41.66,Default,,0,0,0,,{\be1}Ja tego nie powiedziałam!
+Dialogue: 0,0:17:43.07,0:17:44.42,Default,,0,0,0,,{\be1}Tutaj?
+Dialogue: 0,0:17:45.71,0:17:48.13,Default,,0,0,0,,{\be1}Właśnie tak!
+Dialogue: 0,0:17:49.03,0:17:52.55,Default,,0,0,0,,{\be1}Niemożliwe, program jest zepsuty!
+Dialogue: 0,0:17:54.46,0:17:56.22,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:18:03.54,0:18:05.47,Default,,0,0,0,,{\be1}Pasuje ci.
+Dialogue: 0,0:18:05.47,0:18:08.82,Default,,0,0,0,,{\be1}Przestań, nie wytrzymam dłużej!
+Dialogue: 0,0:18:08.82,0:18:12.07,Default,,0,0,0,,{\be1}Rozumiem, chcesz pokazać więcej.
+Dialogue: 0,0:18:12.07,0:18:13.21,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:17.62,0:18:20.69,Default,,0,0,0,,{\be1}Wyłącz się!
+Dialogue: 0,0:18:20.69,0:18:28.01,Default,,0,0,0,,{\be1}Wykryto błąd systemu.\NWybierz odpowiednią opcję i zresetuj system.
+Dialogue: 0,0:18:45.04,0:18:47.98,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:18:56.70,0:18:58.45,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:18:59.04,0:19:02.55,Default,,0,0,0,,{\be1}Sempai, przestań!
+Dialogue: 0,0:19:03.66,0:19:05.58,Default,,0,0,0,,{\be1}Przestańcie!
+Dialogue: 0,0:19:08.85,0:19:13.06,Default,,0,0,0,,{\be1}Jak się czujesz?\NBo wszyscy są z ciebie zadowoleni.
+Dialogue: 0,0:19:19.13,0:19:20.81,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:19:37.52,0:19:39.92,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:19:45.71,0:19:52.13,Default (i),,0,0,0,,{\be1}Wszyscy widzieli mnie\Nw okropnej sytuacji.
+Dialogue: 0,0:20:06.18,0:20:07.90,Default,,0,0,0,,{\be1}Sempai.
+Dialogue: 0,0:20:23.96,0:20:25.83,Default,,0,0,0,,{\be1}Co chcesz zrobić?
+Dialogue: 0,0:20:26.27,0:20:29.75,Default,,0,0,0,,{\be1}Mam cię traktować jak kobietę?
+Dialogue: 0,0:20:30.43,0:20:32.45,Default,,0,0,0,,{\be1}Ale to...
+Dialogue: 0,0:20:41.57,0:20:43.22,Default,,0,0,0,,{\be1}Przyjemnie, nie?
+Dialogue: 0,0:20:47.80,0:20:50.06,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:20:57.26,0:21:00.01,Default,,0,0,0,,{\be1}Parzenie herbaty jest rozrywką dla kobiety.
+Dialogue: 0,0:21:00.82,0:21:03.29,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:21:15.61,0:21:17.63,Default,,0,0,0,,{\be1}Niezła.
+Dialogue: 0,0:21:17.63,0:21:19.43,Default,,0,0,0,,{\be1}Chłopaki, teraz wy.
+Dialogue: 0,0:21:19.88,0:21:21.24,Default,,0,0,0,,{\be1}Super!
+Dialogue: 0,0:21:24.05,0:21:29.19,Default,,0,0,0,,{\be1}Nie! Przestańcie!
+Dialogue: 0,0:21:29.19,0:21:32.51,Default,,0,0,0,,{\be1}Rozumiem, sama chcesz się napić.
+Dialogue: 0,0:21:32.51,0:21:35.11,Default,,0,0,0,,{\be1}Spełnię twoją prośbę.
+Dialogue: 0,0:21:40.03,0:21:44.74,Default,,0,0,0,,{\be1}Pij, jeśli mam się z tobą jeszcze zabawiać.
+Dialogue: 0,0:21:46.95,0:21:48.93,Default,,0,0,0,,{\be1}Nie wytrzymam.
+Dialogue: 0,0:21:57.04,0:21:59.81,Default,,0,0,0,,{\be1}Już nie mogę!
+Dialogue: 0,0:22:30.82,0:22:33.58,Default,,0,0,0,,{\be1}Rozszerz pośladki.
+Dialogue: 0,0:22:33.58,0:22:37.46,Default,,0,0,0,,{\be1}Boję się! Przestań!
+Dialogue: 0,0:22:37.95,0:22:43.47,Default,,0,0,0,,{\be1}Podobno w stresujących sytuacjach\Ncipka robi się bardzo ciasna.
+Dialogue: 0,0:22:43.47,0:22:44.90,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:22:44.90,0:22:48.35,Default,,0,0,0,,{\be1}Tobie będzie najprzyjemniej,\Nwięc pośpiesz się.
+Dialogue: 0,0:22:49.77,0:22:51.27,Default,,0,0,0,,{\be1}Przestań.
+Dialogue: 0,0:22:51.67,0:22:53.98,Default,,0,0,0,,{\be1}Wypnij mocniej tyłek.
+Dialogue: 0,0:23:12.17,0:23:16.16,Default,,0,0,0,,{\be1}Ciaśniej! Kaori!
+Dialogue: 0,0:23:16.16,0:23:19.84,Default,,0,0,0,,{\be1}Sempai!
+Dialogue: 0,0:23:20.45,0:23:23.26,Default,,0,0,0,,{\be1}Właśnie tak!
+Dialogue: 0,0:23:24.49,0:23:27.87,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:23:43.36,0:23:44.45,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:23:50.07,0:23:51.54,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:24:01.64,0:24:03.52,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:24:04.99,0:24:08.13,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:24:11.08,0:24:15.81,Default,,0,0,0,,{\be1}Ciężko cię zadowolić.\NOstatnim pragnieniem jest moja pięść.
+Dialogue: 0,0:24:23.60,0:24:25.65,Default,,0,0,0,,{\be1}Nie rób tego!
+Dialogue: 0,0:24:25.65,0:24:32.11,Default,,0,0,0,,{\be1}Kaori, ty po prostu bardzo\Npragniesz prawdziwego mężczyzny.
+Dialogue: 0,0:24:33.34,0:24:38.08,Default,,0,0,0,,{\be1}Czyż nie? Przyznaj się.
+Dialogue: 0,0:24:38.08,0:24:43.05,Default,,0,0,0,,{\be1}Nie prawda, chciałam tylko być przy tobie.
+Dialogue: 0,0:24:43.05,0:24:46.51,Default,,0,0,0,,{\be1}Proszę, przestań już.
+Dialogue: 0,0:24:48.02,0:24:50.55,Default,,0,0,0,,{\be1}Nadal się nie przyznasz?
+Dialogue: 0,0:24:50.55,0:24:53.43,Default,,0,0,0,,{\be1}A po tym? Przyjemnie?
+Dialogue: 0,0:24:54.10,0:24:59.85,Default,,0,0,0,,{\be1}Nie! Przestań! Nie chcę tego!
+Dialogue: 0,0:25:11.17,0:25:13.54,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:25:15.56,0:25:22.10,Default,,0,0,0,,{\be1}Program zakończony.\NPonowić sekwencję?
+Dialogue: 0,0:25:32.63,0:25:34.25,Default,,0,0,0,,{\be1}Czekaj.
+Dialogue: 0,0:25:34.85,0:25:37.72,Default,,0,0,0,,{\be1}Chcesz kupić bilety ze zniżką?
+Dialogue: 0,0:25:39.17,0:25:40.14,Default,,0,0,0,,{\be1}Ja...
+Dialogue: 0,0:25:43.51,0:25:44.57,Default,,0,0,0,,{\be1}Ja...
+Dialogue: 0,0:25:44.57,0:25:46.48,Default,,0,0,0,,{\be1}Chcesz, prawda?

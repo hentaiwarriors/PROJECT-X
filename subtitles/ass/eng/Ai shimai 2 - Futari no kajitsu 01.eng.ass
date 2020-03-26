@@ -1,0 +1,350 @@
+﻿[Script Info]
+
+;-----------------------------------;
+; Advanced Sub Station Alpha script ;
+;-----------------------------------;
+;                                   ;
+; This script has been created with ;
+;    MEDUSA - Subtitling Station    ;
+;-----------------------------------;
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: IS2_Title,Galliard Bold BT,32,&H004C46C0,&H00000000,&H00FFFFFF,&H00000000,0,1,0,0,100,100,0,0,1,2,0,2,20,20,30,0
+Style: IS2_Logo,Banff,84,&H004C46C0,&H00000000,&H00FFFFFF,&H00000000,0,1,0,0,100,100,0,0,1,3,0,5,20,20,30,0
+Style: IS2_Main,Rockwell,32,&H00FFFFFF,&H00000000,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,2,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:23.95,0:00:24.94,IS2_Main,,0000,0000,0000,,{\be1}Darling!
+Dialogue: 0,0:00:29.95,0:00:33.08,IS2_Main,,0000,0000,0000,,{\be1}Yukie, Rumi, Tomoko...
+Dialogue: 0,0:00:33.32,0:00:35.66,IS2_Main,,0000,0000,0000,,{\be1}Welcome back, Daddy!
+Dialogue: 0,0:00:35.89,0:00:37.83,IS2_Main,,0000,0000,0000,,{\be1}How have you been, Rumi?
+Dialogue: 0,0:00:38.03,0:00:38.93,IS2_Main,,0000,0000,0000,,{\be1}Great!
+Dialogue: 0,0:00:53.18,0:00:56.41,IS2_Main,,0000,0000,0000,,{\be1}You've grown up, Tomoko...
+Dialogue: 0,0:00:56.81,0:01:00.61,IS2_Main,,0000,0000,0000,,{\be1}It must have been tough to work abroad for so long.
+Dialogue: 0,0:01:00.72,0:01:01.74,IS2_Main,,0000,0000,0000,,{\be1}Oh, it wasn't easy.
+Dialogue: 0,0:01:02.02,0:01:05.32,IS2_Main,,0000,0000,0000,,{\be1}By the way, who is that guy?
+Dialogue: 0,0:01:09.79,0:01:11.76,IS2_Main,,0000,0000,0000,,{\be1}This is Taketo...
+Dialogue: 0,0:01:11.96,0:01:13.86,IS2_Main,,0000,0000,0000,,{\be1}Taketo Nogawa.
+Dialogue: 0,0:01:17.94,0:01:23.24,IS2_Main,,0000,0000,0000,,{\be1}He became a new member of our family while you were away.
+Dialogue: 0,0:01:47.57,0:01:51.73,IS2_Main,,0000,0000,0000,,{\be1}We can't do this after your husband comes back...
+Dialogue: 0,0:01:51.87,0:01:53.96,IS2_Main,,0000,0000,0000,,{\be1}Are you okay with that?
+Dialogue: 0,0:01:55.71,0:01:57.04,IS2_Main,,0000,0000,0000,,{\be1}No, but...
+Dialogue: 0,0:01:58.54,0:02:02.27,IS2_Main,,0000,0000,0000,,{\be1}We won't be able to do this after tomorrow...
+Dialogue: 0,0:02:03.48,0:02:04.81,IS2_Main,,0000,0000,0000,,{\be1}Taketo...
+Dialogue: 0,0:02:35.81,0:02:39.94,IS2_Main,,0000,0000,0000,,{\be1}We wouldn't feel safe if there were only women in the house...
+Dialogue: 0,0:02:40.39,0:02:42.95,IS2_Main,,0000,0000,0000,,{\be1}...so we asked him to protect us.
+Dialogue: 0,0:02:43.09,0:02:45.72,IS2_Main,,0000,0000,0000,,{\be1}Taketo has been staying at our house.
+Dialogue: 0,0:02:46.32,0:02:49.09,IS2_Main,,0000,0000,0000,,{\be1}It's good to see you...
+Dialogue: 0,0:02:49.56,0:02:50.72,IS2_Main,,0000,0000,0000,,{\be1}...Mr. Impotence.
+Dialogue: 0,0:03:07.29,0:03:13.24,IS2_Logo,,0000,0000,0000,,{\fad(1000,900)\pos(210,170)\be1\3c&H1E205C\shad1\4c&HFFFFFF}Immoral\NSisters
+Dialogue: 0,0:03:07.29,0:03:13.24,IS2_Title,,0000,0000,0000,,{\fad(1000,900)\an5\pos(610,240)\be1\i0}A\NI\N\N\NS\NH\NI\NM\NA\NI
+Dialogue: 0,0:03:07.29,0:03:13.24,IS2_Title,,0000,0000,0000,,{\fad(1000,900)\an5\pos(430,350)\be1\fs24\i0}The\NFruits\Nof\NTwo\NSisters
+Dialogue: 0,0:03:13.81,0:03:16.27,IS2_Title,,0000,0000,0000,,{\fad(600,380)\1c&HB65546\pos(320,180)\bord0}First Night
+Dialogue: 0,0:03:13.81,0:03:16.27,IS2_Title,,0000,0000,0000,,{\fad(600,380)\1c&HB65546\pos(320,320\bord0}"Return of a Father, a Forbidden Love"
+Dialogue: 0,0:03:15.81,0:03:18.31,IS2_Title,,0000,0000,0000,,{\fad(400,0)\1c&H000000\pos(320,320)\bord0}"The Affair of a Young Wife, Yukie"
+Dialogue: 0,0:03:24.26,0:03:25.66,IS2_Main,,0000,0000,0000,,{\be1}What is your problem, Rumi?
+Dialogue: 0,0:03:25.76,0:03:27.99,IS2_Main,,0000,0000,0000,,{\be1}How dare you say such a rude thing to my father!
+Dialogue: 0,0:03:28.30,0:03:31.13,IS2_Main,,0000,0000,0000,,{\be1}We shouldn't have brought you here!
+Dialogue: 0,0:03:31.24,0:03:32.00,IS2_Main,,0000,0000,0000,,{\be1}Sis!
+Dialogue: 0,0:03:32.64,0:03:34.16,IS2_Main,,0000,0000,0000,,{\be1}I hate you!
+Dialogue: 0,0:03:34.34,0:03:36.03,IS2_Main,,0000,0000,0000,,{\be1}I want you to get out of our house!
+Dialogue: 0,0:03:43.85,0:03:48.05,IS2_Main,,0000,0000,0000,,{\be1}Is that the reason that you got kicked out of the Kitazawa's house?
+Dialogue: 0,0:03:50.52,0:03:52.05,IS2_Main,,0000,0000,0000,,{\be1}You are helpless...
+Dialogue: 0,0:03:52.79,0:03:56.06,IS2_Main,,0000,0000,0000,,{\be1}Your father is in jail and you have nobody to rely on now.
+Dialogue: 0,0:03:56.69,0:03:59.53,IS2_Main,,0000,0000,0000,,{\be1}You should understand your situation.
+Dialogue: 0,0:04:01.13,0:04:04.66,IS2_Main,,0000,0000,0000,,{\be1}Yumi, let me stay at your place tonight...
+Dialogue: 0,0:04:05.14,0:04:06.10,IS2_Main,,0000,0000,0000,,{\be1}Come on.
+Dialogue: 0,0:04:11.01,0:04:15.00,IS2_Main,,0000,0000,0000,,{\be1}I'm sorry, but I'm busy reconstructing Nogawa Industries.
+Dialogue: 0,0:04:15.35,0:04:16.14,IS2_Main,,0000,0000,0000,,{\be1}Man...
+Dialogue: 0,0:04:16.58,0:04:18.31,IS2_Main,,0000,0000,0000,,{\be1}This is bullshit.
+Dialogue: 0,0:04:30.03,0:04:33.22,IS2_Main,,0000,0000,0000,,{\be1}Sis, Taketo hasn't come back home yet.
+Dialogue: 0,0:04:33.87,0:04:36.23,IS2_Main,,0000,0000,0000,,{\be1}I don't care about him anymore.
+Dialogue: 0,0:04:45.51,0:04:48.84,IS2_Main,,0000,0000,0000,,{\be1}Tomoko, things have changed now.
+Dialogue: 0,0:04:50.21,0:04:54.31,IS2_Main,,0000,0000,0000,,{\be1}We must keep what happened between Taketo and us a secret...
+Dialogue: 0,0:04:54.49,0:04:56.15,IS2_Main,,0000,0000,0000,,{\be1}...so it's better that he isn't here.
+Dialogue: 0,0:04:59.09,0:05:00.35,IS2_Main,,0000,0000,0000,,{\be1}Sis!
+Dialogue: 0,0:05:00.49,0:05:04.15,IS2_Main,,0000,0000,0000,,{\be1}I know it's hard for someone like you to dislike anybody, but...
+Dialogue: 0,0:05:04.30,0:05:08.89,IS2_Main,,0000,0000,0000,,{\be1}...it's for us to stay together as a family, so please understand.
+Dialogue: 0,0:05:09.97,0:05:11.16,IS2_Main,,0000,0000,0000,,{\be1}No...
+Dialogue: 0,0:05:21.06,0:05:21.20,IS2_Title,,0000,0000,0000,,{\frz-29\frx30\1c&H000000\3c&HAED2DC\bord2\be1\fs24\pos(304,326)\clip(338,0,640,480)}Kitazawa Tomoko
+Dialogue: 0,0:05:21.20,0:05:21.33,IS2_Title,,0000,0000,0000,,{\frz-29\frx30\1c&H000000\3c&HAED2DC\bord2\be1\fs24\pos(304,326)\clip(270,0,640,480)}Kitazawa Tomoko
+Dialogue: 0,0:05:21.33,0:05:22.33,IS2_Title,,0000,0000,0000,,{\frz-29\frx30\1c&H000000\3c&HAED2DC\bord2\be1\fs24\pos(304,326)}Kitazawa Tomoko
+Dialogue: 0,0:05:59.72,0:06:00.51,IS2_Main,,0000,0000,0000,,{\be1}Come in.
+Dialogue: 0,0:06:01.22,0:06:04.31,IS2_Main,,0000,0000,0000,,{\be1}You're not going to bed yet?
+Dialogue: 0,0:06:04.46,0:06:06.86,IS2_Main,,0000,0000,0000,,{\be1}I have to prepare some documents that...
+Dialogue: 0,0:06:06.96,0:06:09.93,IS2_Main,,0000,0000,0000,,{\be1}...I need to submit to headquarters next week.
+Dialogue: 0,0:06:12.76,0:06:16.26,IS2_Main,,0000,0000,0000,,{\be1}I had better do this tonight.
+Dialogue: 0,0:06:20.74,0:06:22.67,IS2_Main,,0000,0000,0000,,{\be1}Yukie...
+Dialogue: 0,0:06:23.31,0:06:27.57,IS2_Main,,0000,0000,0000,,{\be1}It has been a while, please let me touch you.
+Dialogue: 0,0:06:39.06,0:06:40.22,IS2_Main,,0000,0000,0000,,{\be1}Please stop it.
+Dialogue: 0,0:06:40.63,0:06:42.89,IS2_Main,,0000,0000,0000,,{\be1}You know it's not going to happen.
+Dialogue: 0,0:06:45.83,0:06:48.70,IS2_Main,,0000,0000,0000,,{\be1}Please, just let me do this...
+Dialogue: 0,0:06:49.23,0:06:51.63,IS2_Main,,0000,0000,0000,,{\be1}I'll do my best to get you up.
+Dialogue: 0,0:07:27.71,0:07:31.07,IS2_Main,,0000,0000,0000,,{\be1}Please, touch my body, too.
+Dialogue: 0,0:07:52.43,0:07:56.06,IS2_Main,,0000,0000,0000,,{\be1}You've became so sensual, haven't you, Yukie?
+Dialogue: 0,0:08:01.44,0:08:03.34,IS2_Main,,0000,0000,0000,,{\be1}Oh, it's because...
+Dialogue: 0,0:08:03.51,0:08:04.63,IS2_Main,,0000,0000,0000,,{\be1}That's my...
+Dialogue: 0,0:08:05.21,0:08:09.98,IS2_Main,,0000,0000,0000,,{\be1}I'm sorry, I wish I could insert mine right here.
+Dialogue: 0,0:08:12.52,0:08:16.45,IS2_Main,,0000,0000,0000,,{\be1}Please don't feel sorry.
+Dialogue: 0,0:08:30.43,0:08:31.59,IS2_Main,,0000,0000,0000,,{\be1}Mother...
+Dialogue: 0,0:08:37.14,0:08:38.27,IS2_Main,,0000,0000,0000,,{\be1}Taketo...
+Dialogue: 0,0:08:38.48,0:08:41.57,IS2_Main,,0000,0000,0000,,{\be1}Are you masturbating while watching your parents having sex?
+Dialogue: 0,0:08:42.51,0:08:43.88,IS2_Main,,0000,0000,0000,,{\be1}Well, because...
+Dialogue: 0,0:08:44.75,0:08:46.77,IS2_Main,,0000,0000,0000,,{\be1}I'll help you.
+Dialogue: 0,0:09:03.63,0:09:05.53,IS2_Main,,0000,0000,0000,,{\be1}Taketo...
+Dialogue: 0,0:09:06.90,0:09:08.30,IS2_Main,,0000,0000,0000,,{\be1}We've just started.
+Dialogue: 0,0:09:11.31,0:09:12.83,IS2_Main,,0000,0000,0000,,{\be1}No, no, Taketo.
+Dialogue: 0,0:09:13.81,0:09:15.84,IS2_Main,,0000,0000,0000,,{\be1}No, stop it, please!
+Dialogue: 0,0:09:19.72,0:09:21.58,IS2_Main,,0000,0000,0000,,{\be1}What's wrong?
+Dialogue: 0,0:09:21.95,0:09:23.42,IS2_Main,,0000,0000,0000,,{\be1}Why are you resisting?
+Dialogue: 0,0:09:23.55,0:09:25.35,IS2_Main,,0000,0000,0000,,{\be1}I don't want to do it here.
+Dialogue: 0,0:09:25.46,0:09:27.25,IS2_Main,,0000,0000,0000,,{\be1}Don't you think it's exciting?
+Dialogue: 0,0:09:28.83,0:09:34.56,IS2_Main,,0000,0000,0000,,{\be1}I want my mother to have fun too...
+Dialogue: 0,0:09:39.60,0:09:41.04,IS2_Main,,0000,0000,0000,,{\be1}That's enough, Yukie...
+Dialogue: 0,0:09:44.84,0:09:46.14,IS2_Main,,0000,0000,0000,,{\be1}Please stop.
+Dialogue: 0,0:09:46.61,0:09:49.04,IS2_Main,,0000,0000,0000,,{\be1}It will just make me sad if you continue...
+Dialogue: 0,0:09:49.31,0:09:50.41,IS2_Main,,0000,0000,0000,,{\be1}So...
+Dialogue: 0,0:09:54.25,0:09:58.55,IS2_Main,,0000,0000,0000,,{\be1}I'm sorry. But I've been practicing to improve my skills, though...
+Dialogue: 0,0:10:00.02,0:10:01.55,IS2_Main,,0000,0000,0000,,{\be1}Practicing with whom?
+Dialogue: 0,0:10:03.39,0:10:05.45,IS2_Main,,0000,0000,0000,,{\be1}Well, um...
+Dialogue: 0,0:10:05.83,0:10:07.16,IS2_Main,,0000,0000,0000,,{\be1}With me!
+Dialogue: 0,0:10:09.30,0:10:10.56,IS2_Main,,0000,0000,0000,,{\be1}Taketo...
+Dialogue: 0,0:10:11.47,0:10:13.46,IS2_Main,,0000,0000,0000,,{\be1}I knew it was you.
+Dialogue: 0,0:10:13.84,0:10:14.57,IS2_Main,,0000,0000,0000,,{\be1}That's right.
+Dialogue: 0,0:10:14.97,0:10:19.57,IS2_Main,,0000,0000,0000,,{\be1}Yukie, let's show him how we do it, okay?
+Dialogue: 0,0:10:20.04,0:10:22.27,IS2_Main,,0000,0000,0000,,{\be1}Yukie, what is he trying to say?
+Dialogue: 0,0:10:22.75,0:10:23.94,IS2_Main,,0000,0000,0000,,{\be1}Darling...
+Dialogue: 0,0:10:24.08,0:10:28.88,IS2_Main,,0000,0000,0000,,{\be1}Even your daughters are getting frustrated because they feel bad that...
+Dialogue: 0,0:10:28.95,0:10:31.79,IS2_Main,,0000,0000,0000,,{\be1}...their mother can't be satisfied.
+Dialogue: 0,0:10:41.57,0:10:42.53,IS2_Main,,0000,0000,0000,,{\be1}Oh no...
+Dialogue: 0,0:10:44.67,0:10:47.26,IS2_Main,,0000,0000,0000,,{\be1}What did you do to my daughter?
+Dialogue: 0,0:10:47.34,0:10:49.20,IS2_Main,,0000,0000,0000,,{\be1}Hey, calm down.
+Dialogue: 0,0:10:50.91,0:10:54.00,IS2_Main,,0000,0000,0000,,{\be1}You may be a successful businessman...
+Dialogue: 0,0:10:54.11,0:10:56.34,IS2_Main,,0000,0000,0000,,{\be1}...but you're lacking something very important.
+Dialogue: 0,0:10:56.58,0:10:59.11,IS2_Main,,0000,0000,0000,,{\be1}Taketo, please, stop it!
+Dialogue: 0,0:10:59.85,0:11:00.87,IS2_Main,,0000,0000,0000,,{\be1}Shut up!
+Dialogue: 0,0:11:02.25,0:11:05.12,IS2_Main,,0000,0000,0000,,{\be1}We should let your husband know...
+Dialogue: 0,0:11:05.39,0:11:08.19,IS2_Main,,0000,0000,0000,,{\be1}...who the real man in the house is.
+Dialogue: 0,0:11:08.49,0:11:11.26,IS2_Main,,0000,0000,0000,,{\be1}You mean, Tomoko is...
+Dialogue: 0,0:11:14.17,0:11:16.76,IS2_Main,,0000,0000,0000,,{\be1}I'll show you what's really happening...
+Dialogue: 0,0:11:19.44,0:11:24.81,IS2_Main,,0000,0000,0000,,{\be1}I know what you want is this... young, hard and wild...
+Dialogue: 0,0:11:24.94,0:11:28.14,IS2_Main,,0000,0000,0000,,{\be1}I want you to suck it like you always do.
+Dialogue: 0,0:11:28.91,0:11:30.71,IS2_Main,,0000,0000,0000,,{\be1}Taketo...
+Dialogue: 0,0:11:34.02,0:11:35.25,IS2_Main,,0000,0000,0000,,{\be1}Darling...
+Dialogue: 0,0:11:35.42,0:11:36.51,IS2_Main,,0000,0000,0000,,{\be1}What's wrong?
+Dialogue: 0,0:11:36.62,0:11:38.59,IS2_Main,,0000,0000,0000,,{\be1}You've been doing this all the time.
+Dialogue: 0,0:11:38.86,0:11:40.29,IS2_Main,,0000,0000,0000,,{\be1}Oh no, please...
+Dialogue: 0,0:11:40.72,0:11:42.69,IS2_Main,,0000,0000,0000,,{\be1}Just suck my dick.
+Dialogue: 0,0:11:44.06,0:11:48.19,IS2_Main,,0000,0000,0000,,{\be1}This is what you're longing for, and now it's right in front of your face.
+Dialogue: 0,0:11:52.80,0:11:57.54,IS2_Main,,0000,0000,0000,,{\be1}Show your husband the way you suck my dick.
+Dialogue: 0,0:12:00.41,0:12:02.38,IS2_Main,,0000,0000,0000,,{\be1}I-I'm sorry...
+Dialogue: 0,0:12:03.71,0:12:04.87,IS2_Main,,0000,0000,0000,,{\be1}Yukie...
+Dialogue: 0,0:12:11.92,0:12:13.29,IS2_Main,,0000,0000,0000,,{\be1}Incredible.
+Dialogue: 0,0:12:13.39,0:12:15.48,IS2_Main,,0000,0000,0000,,{\be1}She is tossing my dick back and forth in her mouth.
+Dialogue: 0,0:12:16.23,0:12:18.09,IS2_Main,,0000,0000,0000,,{\be1}What's the meaning of this?
+Dialogue: 0,0:12:18.20,0:12:19.82,IS2_Main,,0000,0000,0000,,{\be1}Meaning?
+Dialogue: 0,0:12:20.83,0:12:22.23,IS2_Main,,0000,0000,0000,,{\be1}Can't you see?
+Dialogue: 0,0:12:22.40,0:12:27.50,IS2_Main,,0000,0000,0000,,{\be1}I'm showing you who can give real pleasure to women.
+Dialogue: 0,0:12:31.71,0:12:32.73,IS2_Main,,0000,0000,0000,,{\be1}Look...
+Dialogue: 0,0:12:32.88,0:12:37.87,IS2_Main,,0000,0000,0000,,{\be1}She's getting off from being forced to do something she doesn't want to do.
+Dialogue: 0,0:12:38.62,0:12:40.78,IS2_Main,,0000,0000,0000,,{\be1}Please don't look at me.
+Dialogue: 0,0:12:43.25,0:12:45.28,IS2_Main,,0000,0000,0000,,{\be1}Your body says something different.
+Dialogue: 0,0:12:47.42,0:12:49.82,IS2_Main,,0000,0000,0000,,{\be1}Oh no, I can't do this...
+Dialogue: 0,0:12:51.93,0:12:54.02,IS2_Main,,0000,0000,0000,,{\be1}Please, forgive me.
+Dialogue: 0,0:12:55.27,0:12:56.46,IS2_Main,,0000,0000,0000,,{\be1}Such a good girl.
+Dialogue: 0,0:12:56.70,0:13:01.47,IS2_Main,,0000,0000,0000,,{\be1}You gave up Taketo for your mother.
+Dialogue: 0,0:13:02.01,0:13:05.00,IS2_Main,,0000,0000,0000,,{\be1}Yumi, now I feel sorry for Daddy.
+Dialogue: 0,0:13:05.14,0:13:09.24,IS2_Main,,0000,0000,0000,,{\be1}I know, I feel sorry that he became useless as a man.
+Dialogue: 0,0:13:10.21,0:13:13.38,IS2_Main,,0000,0000,0000,,{\be1}Do you want to satisfy your father?
+Dialogue: 0,0:13:13.55,0:13:14.92,IS2_Main,,0000,0000,0000,,{\be1}No...
+Dialogue: 0,0:13:15.05,0:13:17.85,IS2_Main,,0000,0000,0000,,{\be1}Oh, you are already excited.
+Dialogue: 0,0:13:20.26,0:13:22.42,IS2_Main,,0000,0000,0000,,{\be1}It's so wet down there.
+Dialogue: 0,0:13:23.36,0:13:25.99,IS2_Main,,0000,0000,0000,,{\be1}You want a man too, don't you?
+Dialogue: 0,0:13:26.30,0:13:29.89,IS2_Main,,0000,0000,0000,,{\be1}Okay, I'll play the man for you.
+Dialogue: 0,0:13:32.54,0:13:33.90,IS2_Main,,0000,0000,0000,,{\be1}Okay, I'm ready.
+Dialogue: 0,0:13:34.00,0:13:36.47,IS2_Main,,0000,0000,0000,,{\be1}Suck it as much as you want.
+Dialogue: 0,0:13:38.28,0:13:41.71,IS2_Main,,0000,0000,0000,,{\be1}Don't be shy, I know you want it.
+Dialogue: 0,0:13:45.78,0:13:49.55,IS2_Main,,0000,0000,0000,,{\be1}Yes, that's good, use your tongue.
+Dialogue: 0,0:13:51.49,0:13:53.68,IS2_Main,,0000,0000,0000,,{\be1}I feel like I'm a real man.
+Dialogue: 0,0:13:54.96,0:13:56.48,IS2_Main,,0000,0000,0000,,{\be1}I feel so good...
+Dialogue: 0,0:13:59.46,0:14:01.16,IS2_Main,,0000,0000,0000,,{\be1}Yumi...
+Dialogue: 0,0:14:01.93,0:14:03.90,IS2_Main,,0000,0000,0000,,{\be1}You can't hold it anymore, huh?
+Dialogue: 0,0:14:04.20,0:14:06.67,IS2_Main,,0000,0000,0000,,{\be1}Let's go to your room, then.
+Dialogue: 0,0:14:16.75,0:14:18.08,IS2_Main,,0000,0000,0000,,{\be1}Are you watching?
+Dialogue: 0,0:14:18.58,0:14:21.07,IS2_Main,,0000,0000,0000,,{\be1}This is how your wife looks when she is really having fun.
+Dialogue: 0,0:14:22.29,0:14:23.25,IS2_Main,,0000,0000,0000,,{\be1}Darling...
+Dialogue: 0,0:14:40.94,0:14:42.70,IS2_Main,,0000,0000,0000,,{\be1}You want to switch?
+Dialogue: 0,0:14:42.84,0:14:47.37,IS2_Main,,0000,0000,0000,,{\be1}Oh right, I forgot that you can't get your dick hard.
+Dialogue: 0,0:14:48.58,0:14:50.17,IS2_Main,,0000,0000,0000,,{\be1}Darling...
+Dialogue: 0,0:15:06.76,0:15:08.63,IS2_Main,,0000,0000,0000,,{\be1}Daddy!
+Dialogue: 0,0:15:09.33,0:15:10.66,IS2_Main,,0000,0000,0000,,{\be1}Darling...
+Dialogue: 0,0:15:10.83,0:15:12.63,IS2_Main,,0000,0000,0000,,{\be1}Oh, Darling...
+Dialogue: 0,0:15:13.80,0:15:15.53,IS2_Main,,0000,0000,0000,,{\be1}I'm close.
+Dialogue: 0,0:15:17.44,0:15:18.77,IS2_Main,,0000,0000,0000,,{\be1}I want to swallow your cum...
+Dialogue: 0,0:15:20.38,0:15:21.84,IS2_Main,,0000,0000,0000,,{\be1}Please let me swallow it.
+Dialogue: 0,0:15:27.42,0:15:28.35,IS2_Main,,0000,0000,0000,,{\be1}Cum...
+Dialogue: 0,0:15:29.69,0:15:30.58,IS2_Main,,0000,0000,0000,,{\be1}Oh, Taketo.
+Dialogue: 0,0:15:38.10,0:15:41.09,IS2_Main,,0000,0000,0000,,{\be1}That's right, swallow it.
+Dialogue: 0,0:15:42.50,0:15:44.69,IS2_Main,,0000,0000,0000,,{\be1}Does it taste good?
+Dialogue: 0,0:15:46.30,0:15:48.03,IS2_Main,,0000,0000,0000,,{\be1}Yes, it's delicious.
+Dialogue: 0,0:15:48.67,0:15:50.20,IS2_Main,,0000,0000,0000,,{\be1}It's so delicious.
+Dialogue: 0,0:16:22.54,0:16:26.20,IS2_Main,,0000,0000,0000,,{\be1}Yumi, let me stay at your place tonight...
+Dialogue: 0,0:16:26.68,0:16:27.74,IS2_Main,,0000,0000,0000,,{\be1}Come on.
+Dialogue: 0,0:16:32.42,0:16:36.55,IS2_Main,,0000,0000,0000,,{\be1}I'm sorry, but I'm busy reconstructing Nogawa Industries.
+Dialogue: 0,0:16:36.92,0:16:37.68,IS2_Main,,0000,0000,0000,,{\be1}Man...
+Dialogue: 0,0:16:38.06,0:16:39.65,IS2_Main,,0000,0000,0000,,{\be1}This is bullshit.
+Dialogue: 0,0:16:42.39,0:16:43.69,IS2_Main,,0000,0000,0000,,{\be1}Yes, come in.
+Dialogue: 0,0:16:46.13,0:16:48.65,IS2_Main,,0000,0000,0000,,{\be1}Oh, it's Tomoko and Rumi.
+Dialogue: 0,0:16:48.80,0:16:50.16,IS2_Main,,0000,0000,0000,,{\be1}It has been a while.
+Dialogue: 0,0:16:50.63,0:16:54.97,IS2_Main,,0000,0000,0000,,{\be1}You came here to pick up this bad boy, huh?
+Dialogue: 0,0:17:01.36,0:17:05.70,IS2_Title,,0000,0000,0000,,{\fad(650,700)\1c&H000000\pos(320,320)}"Sisters Longing for Bonds, Rumi and Tomoko"
+Dialogue: 0,0:17:08.89,0:17:12.45,IS2_Main,,0000,0000,0000,,{\be1}Why do I have to hang out with you?
+Dialogue: 0,0:17:12.86,0:17:18.95,IS2_Main,,0000,0000,0000,,{\be1}Idiot, can't you see that she's trying to relieve the tension among us?
+Dialogue: 0,0:17:19.60,0:17:23.26,IS2_Main,,0000,0000,0000,,{\be1}So you came to apologize because your sister told you so?
+Dialogue: 0,0:17:25.57,0:17:26.47,IS2_Main,,0000,0000,0000,,{\be1}What?
+Dialogue: 0,0:17:27.80,0:17:29.27,IS2_Main,,0000,0000,0000,,{\be1}Are you gonna slap me again?
+Dialogue: 0,0:17:29.51,0:17:32.87,IS2_Main,,0000,0000,0000,,{\be1}I-I wasn't going to do that.
+Dialogue: 0,0:17:34.41,0:17:37.87,IS2_Main,,0000,0000,0000,,{\be1}I'll never go back to your home even if you apologize!
+Dialogue: 0,0:17:38.62,0:17:40.58,IS2_Main,,0000,0000,0000,,{\be1}I would prefer if you stayed out of our house, too!
+Dialogue: 0,0:17:40.85,0:17:41.44,IS2_Main,,0000,0000,0000,,{\be1}What was that?
+Dialogue: 0,0:17:41.55,0:17:42.75,IS2_Main,,0000,0000,0000,,{\be1}Sis!
+Dialogue: 0,0:17:45.76,0:17:47.16,IS2_Main,,0000,0000,0000,,{\be1}Tomoko!
+Dialogue: 0,0:17:47.39,0:17:49.92,IS2_Main,,0000,0000,0000,,{\be1}I want to get on that one!
+Dialogue: 0,0:18:02.97,0:18:07.91,IS2_Main,,0000,0000,0000,,{\be1}I want you to promise me that you will behave in front of my father.
+Dialogue: 0,0:18:08.58,0:18:09.41,IS2_Main,,0000,0000,0000,,{\be1}Why?
+Dialogue: 0,0:18:09.98,0:18:11.28,IS2_Main,,0000,0000,0000,,{\be1}You know why!
+Dialogue: 0,0:18:11.62,0:18:15.92,IS2_Main,,0000,0000,0000,,{\be1}Dad and Mom might get divorced if he finds out about you two.
+Dialogue: 0,0:18:16.15,0:18:17.64,IS2_Main,,0000,0000,0000,,{\be1}What do you mean?
+Dialogue: 0,0:18:19.16,0:18:24.22,IS2_Main,,0000,0000,0000,,{\be1}You and your father threatened us and raped us.
+Dialogue: 0,0:19:12.41,0:19:13.74,IS2_Main,,0000,0000,0000,,{\be1}Oh come on!
+Dialogue: 0,0:19:14.08,0:19:20.07,IS2_Main,,0000,0000,0000,,{\be1}If he finds out, we won't be able to live together as a family.
+Dialogue: 0,0:19:20.72,0:19:23.48,IS2_Main,,0000,0000,0000,,{\be1}He hates scandals.
+Dialogue: 0,0:19:23.62,0:19:25.75,IS2_Main,,0000,0000,0000,,{\be1}Because it affects his promotions, right?
+Dialogue: 0,0:19:25.92,0:19:27.51,IS2_Main,,0000,0000,0000,,{\be1}Such concern!
+Dialogue: 0,0:19:27.89,0:19:31.42,IS2_Main,,0000,0000,0000,,{\be1}Of course he is worried, especially when we aren't even his real daughters.
+Dialogue: 0,0:19:32.70,0:19:37.07,IS2_Main,,0000,0000,0000,,{\be1}Ever since I was little, I was always afraid that he would kick us out...
+Dialogue: 0,0:19:37.23,0:19:39.13,IS2_Main,,0000,0000,0000,,{\be1}...if we did something bad.
+Dialogue: 0,0:19:42.51,0:19:43.60,IS2_Main,,0000,0000,0000,,{\be1}Who cares?
+Dialogue: 0,0:19:43.74,0:19:47.73,IS2_Main,,0000,0000,0000,,{\be1}I'm the only man that your family needs anyway.
+Dialogue: 0,0:19:48.21,0:19:50.74,IS2_Main,,0000,0000,0000,,{\be1}You don't understand anything, do you?
+Dialogue: 0,0:19:52.25,0:19:53.31,IS2_Main,,0000,0000,0000,,{\be1}Shut up!
+Dialogue: 0,0:19:53.42,0:19:57.38,IS2_Main,,0000,0000,0000,,{\be1}I don't get why you've been acting like a good girl since he came back!
+Dialogue: 0,0:20:00.69,0:20:02.72,IS2_Main,,0000,0000,0000,,{\be1}No, stop it!
+Dialogue: 0,0:20:06.13,0:20:07.39,IS2_Main,,0000,0000,0000,,{\be1}Please stop!
+Dialogue: 0,0:20:07.76,0:20:08.66,IS2_Main,,0000,0000,0000,,{\be1}Tomoko?
+Dialogue: 0,0:20:08.77,0:20:10.70,IS2_Main,,0000,0000,0000,,{\be1}Please don't do it to my sister.
+Dialogue: 0,0:20:15.31,0:20:17.50,IS2_Main,,0000,0000,0000,,{\be1}You can do it to me instead.
+Dialogue: 0,0:20:24.51,0:20:26.51,IS2_Main,,0000,0000,0000,,{\be1}T-Tomoko...
+Dialogue: 0,0:20:33.79,0:20:35.12,IS2_Main,,0000,0000,0000,,{\be1}Damn, that's good...
+Dialogue: 0,0:20:36.06,0:20:38.53,IS2_Main,,0000,0000,0000,,{\be1}Sit there and open your legs.
+Dialogue: 0,0:20:41.23,0:20:43.70,IS2_Main,,0000,0000,0000,,{\be1}Like this?
+Dialogue: 0,0:20:46.90,0:20:48.10,IS2_Main,,0000,0000,0000,,{\be1}Yes.
+Dialogue: 0,0:20:48.27,0:20:50.90,IS2_Main,,0000,0000,0000,,{\be1}I'm going to use something Yumi gave me.
+Dialogue: 0,0:20:51.01,0:20:52.53,IS2_Main,,0000,0000,0000,,{\be1}I'm sure you'll love it.
+Dialogue: 0,0:20:53.04,0:20:54.81,IS2_Main,,0000,0000,0000,,{\be1}What is that?
+Dialogue: 0,0:20:55.68,0:20:58.55,IS2_Main,,0000,0000,0000,,{\be1}This toy can make a girl feel like she is in heaven.
+Dialogue: 0,0:20:59.32,0:21:00.58,IS2_Main,,0000,0000,0000,,{\be1}See?
+Dialogue: 0,0:21:06.76,0:21:09.19,IS2_Main,,0000,0000,0000,,{\be1}You can feel this even if you have your clothes on, right?
+Dialogue: 0,0:21:09.79,0:21:12.13,IS2_Main,,0000,0000,0000,,{\be1}I feel strange.
+Dialogue: 0,0:21:14.06,0:21:16.66,IS2_Main,,0000,0000,0000,,{\be1}Open your legs!
+Dialogue: 0,0:21:22.14,0:21:24.97,IS2_Main,,0000,0000,0000,,{\be1}Oh no, it's vibrating...
+Dialogue: 0,0:21:38.46,0:21:40.98,IS2_Main,,0000,0000,0000,,{\be1}You shouldn't be doing that here.
+Dialogue: 0,0:21:42.86,0:21:44.52,IS2_Main,,0000,0000,0000,,{\be1}Why are you upset?
+Dialogue: 0,0:21:44.83,0:21:46.99,IS2_Main,,0000,0000,0000,,{\be1}You're just jealous because you are left alone.
+Dialogue: 0,0:21:47.46,0:21:49.49,IS2_Main,,0000,0000,0000,,{\be1}No way!
+Dialogue: 0,0:21:51.90,0:21:53.39,IS2_Main,,0000,0000,0000,,{\be1}Sis...
+Dialogue: 0,0:21:54.40,0:21:56.40,IS2_Main,,0000,0000,0000,,{\be1}Please come closer to me.
+Dialogue: 0,0:21:57.51,0:21:59.30,IS2_Main,,0000,0000,0000,,{\be1}Please, I need you.
+Dialogue: 0,0:22:01.95,0:22:04.47,IS2_Main,,0000,0000,0000,,{\be1}We're family, right?
+Dialogue: 0,0:22:04.68,0:22:07.31,IS2_Main,,0000,0000,0000,,{\be1}We can stay together as a family, right?
+Dialogue: 0,0:22:08.22,0:22:09.38,IS2_Main,,0000,0000,0000,,{\be1}Tomoko...
+Dialogue: 0,0:22:09.75,0:22:14.59,IS2_Main,,0000,0000,0000,,{\be1}I want to be with Sis, Taketo, Mommy and Daddy.
+Dialogue: 0,0:22:15.66,0:22:18.25,IS2_Main,,0000,0000,0000,,{\be1}I want us to feel good together, Sis.
+Dialogue: 0,0:22:31.01,0:22:32.30,IS2_Main,,0000,0000,0000,,{\be1}Sis...
+Dialogue: 0,0:22:32.58,0:22:35.44,IS2_Main,,0000,0000,0000,,{\be1}You're such a bad girl, Tomoko.
+Dialogue: 0,0:22:42.29,0:22:44.28,IS2_Main,,0000,0000,0000,,{\be1}I'm glad, Sis.
+Dialogue: 0,0:23:02.27,0:23:04.60,IS2_Main,,0000,0000,0000,,{\be1}Taketo, are you going to cum yet?
+Dialogue: 0,0:23:04.81,0:23:09.04,IS2_Main,,0000,0000,0000,,{\be1}Hey, the ride will be over soon.
+Dialogue: 0,0:23:10.41,0:23:14.37,IS2_Main,,0000,0000,0000,,{\be1}But it is thrilling, isn't it, Sis?
+Dialogue: 0,0:23:20.39,0:23:23.33,IS2_Main,,0000,0000,0000,,{\be1}Tomoko, don't move it so hard...
+Dialogue: 0,0:23:23.43,0:23:26.69,IS2_Main,,0000,0000,0000,,{\be1}I can't concentrate on making him cum.
+Dialogue: 0,0:23:28.87,0:23:29.92,IS2_Main,,0000,0000,0000,,{\be1}I can't keep standing anymore...
+Dialogue: 0,0:23:30.33,0:23:31.63,IS2_Main,,0000,0000,0000,,{\be1}Hey, take a look.
+Dialogue: 0,0:23:31.74,0:23:35.26,IS2_Main,,0000,0000,0000,,{\be1}The guys on the gondola next to ours are watching us.
+Dialogue: 0,0:23:36.97,0:23:39.87,IS2_Main,,0000,0000,0000,,{\be1}Don't say such a thing, Taketo...
+Dialogue: 0,0:23:50.99,0:23:53.96,IS2_Main,,0000,0000,0000,,{\be1}I'm going to enjoy this until the very last moment!
+Dialogue: 0,0:23:54.46,0:23:59.45,IS2_Main,,0000,0000,0000,,{\be1}No, I don't want people to see me like this.
+Dialogue: 0,0:24:00.33,0:24:03.36,IS2_Main,,0000,0000,0000,,{\be1}Sis, you don't need to hold back.
+Dialogue: 0,0:24:03.50,0:24:05.47,IS2_Main,,0000,0000,0000,,{\be1}You're wetter than usual.
+Dialogue: 0,0:24:06.37,0:24:09.13,IS2_Main,,0000,0000,0000,,{\be1}Don't say that, Tomoko.
+Dialogue: 0,0:24:10.24,0:24:13.97,IS2_Main,,0000,0000,0000,,{\be1}Sis, let him be inside you.
+Dialogue: 0,0:24:15.38,0:24:18.14,IS2_Main,,0000,0000,0000,,{\be1}Just sit on Taketo.
+Dialogue: 0,0:24:18.32,0:24:21.38,IS2_Main,,0000,0000,0000,,{\be1}You've got a good sister. I'll put it in, then you should thank your sister.
+Dialogue: 0,0:24:30.16,0:24:34.69,IS2_Main,,0000,0000,0000,,{\be1}Wow, Taketo's penis is deep inside your pussy.
+Dialogue: 0,0:24:35.80,0:24:37.63,IS2_Main,,0000,0000,0000,,{\be1}Tomoko, don't look...
+Dialogue: 0,0:24:37.77,0:24:40.33,IS2_Main,,0000,0000,0000,,{\be1}Don't look, it's embarrassing.
+Dialogue: 0,0:24:42.11,0:24:47.51,IS2_Main,,0000,0000,0000,,{\be1}Looks like your pussy and Taketo's penis are getting along so well.
+Dialogue: 0,0:24:56.79,0:24:59.52,IS2_Main,,0000,0000,0000,,{\be1}Let me make you feel better.
+Dialogue: 0,0:25:01.86,0:25:02.88,IS2_Main,,0000,0000,0000,,{\be1}No...
+Dialogue: 0,0:25:03.93,0:25:05.79,IS2_Main,,0000,0000,0000,,{\be1}Oh don't, Tomoko!
+Dialogue: 0,0:25:08.57,0:25:11.03,IS2_Main,,0000,0000,0000,,{\be1}She is licking my balls...
+Dialogue: 0,0:25:13.00,0:25:14.83,IS2_Main,,0000,0000,0000,,{\be1}I'm close!
+Dialogue: 0,0:25:15.34,0:25:17.03,IS2_Main,,0000,0000,0000,,{\be1}I'm cumming too...
+Dialogue: 0,0:25:24.98,0:25:27.35,IS2_Main,,0000,0000,0000,,{\be1}Taketo, you came a lot.
+Dialogue: 0,0:25:28.35,0:25:30.11,IS2_Main,,0000,0000,0000,,{\be1}Let me clean you up!
+Dialogue: 0,0:25:45.34,0:25:49.17,IS2_Main,,0000,0000,0000,,{\be1}Taketo, it's all up to you.
+Dialogue: 0,0:25:49.34,0:25:53.54,IS2_Main,,0000,0000,0000,,{\be1}You can come home at anytime if you keep the promise.
+Dialogue: 0,0:25:54.78,0:25:55.75,IS2_Main,,0000,0000,0000,,{\be1}Okay, I understand.
+Dialogue: 0,0:25:56.15,0:26:00.14,IS2_Main,,0000,0000,0000,,{\be1}Taketo, I will be waiting for you.
+Dialogue: 0,0:26:18.03,0:26:19.70,IS2_Main,,0000,0000,0000,,{\be1}Come to me.
+Dialogue: 0,0:26:20.67,0:26:21.76,IS2_Main,,0000,0000,0000,,{\be1}Taketo!
+Dialogue: 0,0:26:29.71,0:26:32.81,IS2_Main,,0000,0000,0000,,{\be1}That's right, swallow it.
+Dialogue: 0,0:26:34.58,0:26:36.35,IS2_Main,,0000,0000,0000,,{\be1}Does it taste good, Yukie?
+Dialogue: 0,0:26:36.52,0:26:40.98,IS2_Main,,0000,0000,0000,,{\be1}Yes, it's delicious...
+Dialogue: 0,0:26:50.03,0:26:51.73,IS2_Main,,0000,0000,0000,,{\be1}Did you get that?
+Dialogue: 0,0:26:52.37,0:26:55.20,IS2_Main,,0000,0000,0000,,{\be1}I'm the only man who can give pleasure to the women in this house!
+Dialogue: 0,0:26:55.67,0:26:56.64,IS2_Main,,0000,0000,0000,,{\be1}Taketo!
+Dialogue: 0,0:26:58.01,0:27:00.07,IS2_Main,,0000,0000,0000,,{\be1}How dare you break a promise!
+Dialogue: 0,0:27:00.44,0:27:01.57,IS2_Main,,0000,0000,0000,,{\be1}What, Rumi?
+Dialogue: 0,0:27:01.88,0:27:03.94,IS2_Main,,0000,0000,0000,,{\be1}Do you want me to screw you again?
+Dialogue: 0,0:27:04.01,0:27:06.07,IS2_Main,,0000,0000,0000,,{\be1}No, it's not about that!
+Dialogue: 0,0:27:06.85,0:27:10.08,IS2_Main,,0000,0000,0000,,{\be1}How could you do this to Mom and our family?
+Dialogue: 0,0:27:10.55,0:27:13.58,IS2_Main,,0000,0000,0000,,{\be1}Why do you keep torturing our family?
+Dialogue: 0,0:27:14.92,0:27:17.19,IS2_Main,,0000,0000,0000,,{\be1}What do you care about this useless old man?
+Dialogue: 0,0:27:17.43,0:27:19.92,IS2_Main,,0000,0000,0000,,{\be1}I don't want to hear it!
+Dialogue: 0,0:27:20.43,0:27:22.59,IS2_Main,,0000,0000,0000,,{\be1}Just get out of our house right now!
+Dialogue: 0,0:27:24.07,0:27:25.19,IS2_Main,,0000,0000,0000,,{\be1}Wait, Rumi...
+Dialogue: 0,0:27:25.97,0:27:28.30,IS2_Main,,0000,0000,0000,,{\be1}Please don't kick him out.
+Dialogue: 0,0:27:29.44,0:27:36.21,IS2_Main,,0000,0000,0000,,{\be1}I just realized that I need Taketo's body desperately...
+Dialogue: 0,0:27:37.15,0:27:39.21,IS2_Main,,0000,0000,0000,,{\be1}M-Mom...
+Dialogue: 0,0:27:42.72,0:27:44.05,IS2_Main,,0000,0000,0000,,{\be1}Darling...
+Dialogue: 0,0:27:46.09,0:27:51.46,IS2_Main,,0000,0000,0000,,{\be1}Things have changed a lot while you were away...
+Dialogue: 0,0:27:52.33,0:27:54.46,IS2_Main,,0000,0000,0000,,{\be1}I'm sorry.
+Dialogue: 0,0:27:55.30,0:27:56.70,IS2_Main,,0000,0000,0000,,{\be1}Yukie...
+Dialogue: 0,0:28:03.01,0:28:06.87,IS2_Main,,0000,0000,0000,,{\be1}I see, I'm going to leave this house.
+Dialogue: 0,0:28:10.31,0:28:11.87,IS2_Main,,0000,0000,0000,,{\be1}Dad...
+Dialogue: 0,0:28:14.25,0:28:17.19,IS2_Main,,0000,0000,0000,,{\be1}Let's talk about what we should do later.
+Dialogue: 0,0:28:27.06,0:28:28.33,IS2_Main,,0000,0000,0000,,{\be1}Mom?
+Dialogue: 0,0:28:30.23,0:28:33.57,IS2_Main,,0000,0000,0000,,{\be1}No, this can't be happening, right?
+Dialogue: 0,0:28:33.74,0:28:35.70,IS2_Main,,0000,0000,0000,,{\be1}Tell me this isn't happening!
+Dialogue: 0,0:28:36.24,0:28:37.90,IS2_Main,,0000,0000,0000,,{\be1}Please Mom, please...
+Dialogue: 0,0:28:39.14,0:28:40.67,IS2_Main,,0000,0000,0000,,{\be1}Mom...

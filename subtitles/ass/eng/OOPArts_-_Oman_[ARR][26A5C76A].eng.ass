@@ -1,0 +1,52 @@
+﻿[Script Info]
+; This is a Sub Station Alpha v4 script.
+; This file was generated using Sabbu,
+; Go to http://www.sabbu.com
+; or e-mail kryptolus@gmail.com
+ScriptType: v4.00+
+SabbuVersion: 0.3.0
+Collisions: Normal
+Timer: 100,0000
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Last Style Storage: Default
+Original Translation: AlexMalkavian
+
+[V4+ Styles]
+Format:  Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H00FFFFFF,&H00008080,&H00000000,&H00000000,-1,0,0,0,104,100,0,0.00,1,2.00,0.00,2,0,0,9,204
+Style: Note,Arial,17,&H00FFFFFF,&H00008080,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,0.00,0.00,5,0,0,0,204
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.41,0:00:05.65,Note,,0000,0000,0000,,{\fad(250,450)}Original doujin anime created in 1983-1987\NO-Parts: OMAN
+Dialogue: 0,0:00:12.26,0:00:17.43,Note,,0000,0000,0000,,{\c&H6371DD&\pos(253,130)\fad(150,300)}Producer: Morino Usagi{プロデュ－ス森野うさぎ}
+Dialogue: 0,0:00:20.23,0:00:25.04,Note,,0000,0000,0000,,{\c&H6371DD&\pos(253,125)\fad(150,300)}Director: Asari Yosito{監督　あさりよしとお}
+Dialogue: 0,0:00:28.51,0:00:35.41,Note,,0000,0000,0000,,{\bord1\c&H000000&\3c&H4449AC&\i1\pos(252,155)\fad(500,1200)}O-Parts:\NO\hM\hA\hN
+Dialogue: 0,0:02:34.77,0:02:37.68,Default,,0000,0000,0000,,Have you heard? It showed up again last night.
+Dialogue: 0,0:02:37.68,0:02:39.20,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:02:39.40,0:02:41.76,Default,,0000,0000,0000,,It was fifth time. Now at sophomores.
+Dialogue: 0,0:02:41.76,0:02:44.10,Default,,0000,0000,0000,,And already 4th victim in this month, eh?
+Dialogue: 0,0:02:44.10,0:02:47.15,Default,,0000,0000,0000,,Uh-huh... They say it's some kind of robot.
+Dialogue: 0,0:02:47.15,0:02:48.20,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:02:48.20,0:02:49.71,Default,,0000,0000,0000,,But there's witnesses!
+Dialogue: 0,0:02:49.71,0:02:50.63,Default,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:02:53.60,0:02:56.49,Default,,0000,0000,0000,,{\i1}There's something interesting in our school.
+Dialogue: 0,0:02:57.19,0:02:59.99,Default,,0000,0000,0000,,{\i1}Moreover, this "something" is a very powerful combat mech.
+Dialogue: 0,0:03:00.68,0:03:03.32,Default,,0000,0000,0000,,{\i1}And it's always ready for action!
+Dialogue: 0,0:03:01.43,0:03:05.03,Note,,0000,0000,0000,,{\fad(200,500)\pos(191,50)}Enhanced exoskeleton suite on basis of O-Parts technology:\NOMAN
+Dialogue: 0,0:03:50.29,0:03:51.30,Default,,0000,0000,0000,,Wha?
+Dialogue: 0,0:03:51.30,0:03:52.06,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:03:58.50,0:03:59.66,Default,,0000,0000,0000,,Here you are...
+Dialogue: 0,0:03:59.66,0:04:00.50,Default,,0000,0000,0000,,Help!
+Dialogue: 0,0:04:04.31,0:04:05.00,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:04:29.67,0:04:30.25,Default,,0000,0000,0000,,It's here!
+Dialogue: 0,0:04:35.37,0:04:36.08,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:05:06.14,0:05:07.06,Default,,0000,0000,0000,,Where's it?
+Dialogue: 0,0:05:42.78,0:05:44.41,Default,,0000,0000,0000,,N-No!!
+Dialogue: 0,0:06:32.83,0:06:34.33,Default,,0000,0000,0000,,Why you did that?!
+Dialogue: 0,0:06:34.33,0:06:36.34,Default,,0000,0000,0000,,You are thinking about others, are you?!
+Dialogue: 0,0:06:37.91,0:06:38.68,Default,,0000,0000,0000,,But I...
+Dialogue: 0,0:06:41.81,0:06:45.19,Default,,0000,0000,0000,,I just wanted to have friends!!

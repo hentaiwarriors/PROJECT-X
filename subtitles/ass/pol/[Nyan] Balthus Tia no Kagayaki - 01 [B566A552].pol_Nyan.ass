@@ -1,0 +1,191 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: Podstawowy
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Default_2,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H000F0D0F,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,20,20,35,1
+Style: Grupa,Franklin Gothic Medium,16,&H00773776,&H000000FF,&H00E6CCBC,&H00E6CCBC,-1,-1,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:26.51,0:00:32.80,Grupa,,0,0,0,,{\be1\fad(726,1394)}Nyan
+Dialogue: 0,0:00:01.23,0:00:11.24,Default_2,,0,0,0,,W poszukiwaniu dobrobytu, ludzie gromadzą się\Nw metalowych domach na kole czasu.
+Dialogue: 0,0:00:11.24,0:00:23.38,Default_2,,0,0,0,,{\fad(0,1316)}Gdy już wyniszczą ziemie i wodę noszą w\Nsercach spaczone poczucie szczęścia.
+Dialogue: 0,0:01:17.07,0:01:18.98,Default,,0,0,0,,{\be1}Tam ktoś leży!
+Dialogue: 0,0:01:19.23,0:01:20.64,Default,,0,0,0,,{\be1}O nie!
+Dialogue: 0,0:01:21.44,0:01:23.41,Default,,0,0,0,,{\be1}Pobiegnę po Tie!
+Dialogue: 0,0:01:23.41,0:01:24.90,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:01:30.73,0:01:32.58,Default,,0,0,0,,{\be1}Alphonse...
+Dialogue: 0,0:02:45.26,0:02:46.40,Default,,0,0,0,,{\be1}Alphonse!
+Dialogue: 0,0:02:47.63,0:02:49.73,Default,,0,0,0,,{\be1}To ty, Yuudo.
+Dialogue: 0,0:02:51.02,0:02:52.73,Default,,0,0,0,,{\be1}Przyniosłem coś na ząb.
+Dialogue: 0,0:02:54.75,0:02:59.49,Default,,0,0,0,,{\be1}Należycie do mnie!\NNie wybaczę zdrady!
+Dialogue: 0,0:02:59.49,0:03:02.49,Default,,0,0,0,,{\be1}Yuudo, zaopiekuj się Tią!
+Dialogue: 0,0:03:02.50,0:03:05.00,Default,,0,0,0,,{\be1}Alphonse!
+Dialogue: 0,0:03:18.30,0:03:19.89,Default,,0,0,0,,{\be1}Obudziłeś się.
+Dialogue: 0,0:03:26.61,0:03:27.94,Default,,0,0,0,,{\be1}Czy ty...
+Dialogue: 0,0:03:28.31,0:03:31.21,Default,,0,0,0,,{\be1}Czekaj, najpierw sprawdzę temperaturę.
+Dialogue: 0,0:03:37.41,0:03:40.03,Default,,0,0,0,,{\be1}Wygląda na to, że ustępuje.
+Dialogue: 0,0:03:41.05,0:03:41.99,Default,,0,0,0,,{\be1}Gdzie jestem?
+Dialogue: 0,0:03:42.89,0:03:48.21,Default,,0,0,0,,{\be1}W wiosce Le-jeute.\NPewnie jesteś głodny, zjedz ile tylko możesz.
+Dialogue: 0,0:03:48.89,0:03:49.67,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:03:50.25,0:03:54.88,Default,,0,0,0,,{\be1}Czyli udało mi się.
+Dialogue: 0,0:03:54.88,0:03:57.38,Default,,0,0,0,,{\be1}Nazywam się Yuudo, a ty?
+Dialogue: 0,0:03:58.66,0:03:59.80,Default,,0,0,0,,{\be1}Tia.
+Dialogue: 0,0:03:59.80,0:04:00.89,Default,,0,0,0,,{\be1}Tia?
+Dialogue: 0,0:04:02.25,0:04:04.14,Default,,0,0,0,,{\be1}Jesteś siostrą Alphonsa!
+Dialogue: 0,0:04:04.14,0:04:08.95,Default,,0,0,0,,{\be1}Skoro znasz mojego brata\Nmusisz być z Balthusa!
+Dialogue: 0,0:04:08.95,0:04:10.65,Default,,0,0,0,,{\be1}Co u mojego brata?
+Dialogue: 0,0:04:12.27,0:04:13.90,Default,,0,0,0,,{\be1}No cóż...
+Dialogue: 0,0:04:15.24,0:04:25.41,Default,,0,0,0,,{\be1}Ja i twój brat wszczęliśmy bunt\Nprzeciwko właścicielowi fabryki.
+Dialogue: 0,0:04:25.41,0:04:30.42,Default,,0,0,0,,{\be1}Próbowaliśmy uciec jego statkiem.
+Dialogue: 0,0:04:30.83,0:04:32.92,Default,,0,0,0,,{\be1}Co z Alphonsem?
+Dialogue: 0,0:04:34.60,0:04:38.87,Default,,0,0,0,,{\be1}Rozdzieliliśmy się w drodze na statek.
+Dialogue: 0,0:04:41.73,0:04:42.93,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:04:46.55,0:04:50.06,Default,,0,0,0,,{\be1}Przepraszam, lepiej jedz póki ciepłe.
+Dialogue: 0,0:04:52.05,0:04:54.36,Default,,0,0,0,,{\be1}Smacznego.
+Dialogue: 0,0:05:22.83,0:05:25.32,Default,,0,0,0,,{\be1}- Panie.\N- Co?
+Dialogue: 0,0:05:26.40,0:05:30.69,Default,,0,0,0,,{\be1}Jeden z pracowników uciekał\Nna wschód w stronę wioski Le-jeute.
+Dialogue: 0,0:05:31.56,0:05:33.38,Default,,0,0,0,,{\be1}Le-jeute.
+Dialogue: 0,0:05:34.44,0:05:38.66,Default,,0,0,0,,{\be1}Jak oni śmieli mi się sprzeciwić?
+Dialogue: 0,0:05:42.40,0:05:44.36,Default,,0,0,0,,{\be1}Pozbądź się ich wszystkich.
+Dialogue: 0,0:05:44.36,0:05:45.61,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:07:21.25,0:07:25.34,Default,,0,0,0,,{\be1}- Panie Morlock!\N- Wkurzasz mnie, puszczaj!
+Dialogue: 0,0:07:29.78,0:07:33.50,Default,,0,0,0,,{\be1}Proszę, jeszcze!
+Dialogue: 0,0:08:32.05,0:08:34.30,Default,,0,0,0,,{\be1}Tia, co to za bransoletka?
+Dialogue: 0,0:08:34.30,0:08:37.68,Default,,0,0,0,,{\be1}Ta? To prezent od Alphonsa.
+Dialogue: 0,0:08:37.68,0:08:39.50,Default,,0,0,0,,{\be1}Piękny kamień.
+Dialogue: 0,0:08:40.96,0:08:43.68,Default,,0,0,0,,{\be1}Nazywają go kryształem życia.
+Dialogue: 0,0:08:43.68,0:08:47.51,Default,,0,0,0,,{\be1}Podobno kiedyś używano ich\Ndo wytwarzania prądu w fabryce.
+Dialogue: 0,0:08:48.42,0:08:55.40,Default,,0,0,0,,{\be1}Niestety wszystkie już wydobyto\Ni tylko ja i Alphonse je mamy.
+Dialogue: 0,0:09:10.34,0:09:13.49,Default,,0,0,0,,{\be1}To statek z Balthusa!\NSzybko, uciekamy!
+Dialogue: 0,0:09:31.15,0:09:32.30,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:09:32.30,0:09:33.46,Default,,0,0,0,,{\be1}Yuudo!
+Dialogue: 0,0:10:35.52,0:10:37.37,Default,,0,0,0,,{\be1}To jest Balthus?
+Dialogue: 0,0:10:45.01,0:10:46.39,Default,,0,0,0,,{\be1}Kurwa!
+Dialogue: 0,0:10:47.96,0:10:50.36,Default,,0,0,0,,{\be1}Dokąd zabieracie Tie?!
+Dialogue: 0,0:10:50.36,0:10:51.88,Default,,0,0,0,,{\be1}Do pana Morlocka!
+Dialogue: 0,0:10:51.88,0:10:57.80,Default,,0,0,0,,{\be1}- Co zrobiliście z Alphonsem?!\N- Zamknij dziób!
+Dialogue: 0,0:10:58.57,0:11:01.31,Default,,0,0,0,,{\be1}Kurwa, otwierajcie!
+Dialogue: 0,0:11:21.27,0:11:24.26,Default,,0,0,0,,{\be1}Panie, przyprowadziliśmy dziewczynę\Nprzebywającą z Yuudo.
+Dialogue: 0,0:11:24.26,0:11:25.12,Default,,0,0,0,,{\be1}Dobra robota.
+Dialogue: 0,0:11:25.55,0:11:27.68,Default,,0,0,0,,{\be1}Witam na Balthusie.
+Dialogue: 0,0:11:33.66,0:11:37.18,Default,,0,0,0,,{\be1}No proszę, w wiosce nadal\Nbyła jakaś młoda dziewczyna.
+Dialogue: 0,0:11:37.95,0:11:41.93,Default,,0,0,0,,{\be1}To ty porwałeś mi brata i mieszkańców wioski!
+Dialogue: 0,0:11:42.59,0:11:44.13,Default,,0,0,0,,{\be1}Wypuść ich!
+Dialogue: 0,0:11:47.29,0:11:50.00,Default,,0,0,0,,{\be1}To akurat nieprawda.
+Dialogue: 0,0:11:50.00,0:11:53.11,Default,,0,0,0,,{\be1}Wszyscy przybyli na Balthusa dobrowolnie.
+Dialogue: 0,0:11:53.49,0:11:54.69,Default,,0,0,0,,{\be1}Kłamiesz!
+Dialogue: 0,0:11:55.67,0:12:03.70,Default,,0,0,0,,{\be1}Na Balthusie im więcej pracujesz\Ntym więcej przyjemności cię czeka.
+Dialogue: 0,0:12:03.70,0:12:07.10,Default,,0,0,0,,{\be1}Nic od ciebie nie chcę!\NWypuść mnie do domu!
+Dialogue: 0,0:12:10.88,0:12:13.71,Default,,0,0,0,,{\be1}Polubiłem cię, uparciuchu.
+Dialogue: 0,0:12:13.71,0:12:15.14,Default,,0,0,0,,{\be1}Zabrać ją.
+Dialogue: 0,0:12:15.14,0:12:18.10,Default,,0,0,0,,{\be1}Nie! Puszczaj!
+Dialogue: 0,0:12:19.01,0:12:20.47,Default,,0,0,0,,{\be1}Yuudo!
+Dialogue: 0,0:12:25.67,0:12:27.52,Default,,0,0,0,,{\be1}Muszę się wydostać.
+Dialogue: 0,0:12:28.01,0:12:30.39,Default,,0,0,0,,{\be1}Chciałbym, żeby Rim z resztą tu był.
+Dialogue: 0,0:12:31.19,0:12:34.55,Default,,0,0,0,,{\be1}Gdyby tylko udało mi się\Nuruchomić Klaatu...
+Dialogue: 0,0:12:45.86,0:12:47.09,Default,,0,0,0,,{\be1}Cicho!
+Dialogue: 0,0:12:50.09,0:12:51.67,Default,,0,0,0,,{\be1}Rim!
+Dialogue: 0,0:13:15.16,0:13:17.28,Default,,0,0,0,,{\be1}Rim. Już otwieram.
+Dialogue: 0,0:13:22.27,0:13:23.67,Default,,0,0,0,,{\be1}Yuudo!
+Dialogue: 0,0:13:23.67,0:13:25.14,Default,,0,0,0,,{\be1}Jak dobrze, że żyjesz.
+Dialogue: 0,0:13:25.14,0:13:28.60,Default,,0,0,0,,{\be1}- Pam! Slim!\N- A nas pamiętasz?
+Dialogue: 0,0:13:28.60,0:13:31.08,Default,,0,0,0,,{\be1}Nick! Slarn!
+Dialogue: 0,0:13:33.08,0:13:37.96,Default,,0,0,0,,{\be1}Dobrze was widzieć.\NA gdzie Alphonse?
+Dialogue: 0,0:13:39.09,0:13:40.57,Default,,0,0,0,,{\be1}On...
+Dialogue: 0,0:13:40.57,0:13:43.09,Default,,0,0,0,,{\be1}Niestety, ale już go nie ma.
+Dialogue: 0,0:13:45.11,0:13:47.89,Default,,0,0,0,,{\be1}Spóźniliśmy się.
+Dialogue: 0,0:13:54.36,0:13:55.53,Default,,0,0,0,,{\be1}Yuudo!
+Dialogue: 0,0:13:55.53,0:13:56.85,Default,,0,0,0,,{\be1}Gdzie biegniesz?!
+Dialogue: 0,0:13:57.55,0:13:59.53,Default,,0,0,0,,{\be1}Pewnie do Klaatu.
+Dialogue: 0,0:13:59.53,0:14:00.32,Default,,0,0,0,,{\be1}Klaatu?
+Dialogue: 0,0:14:00.87,0:14:05.74,Default,,0,0,0,,{\be1}To maszyna o wyglądzie człowieka,\Nktórą zbudował Alphonse dla ruchu oporu.
+Dialogue: 0,0:14:06.39,0:14:08.75,Default,,0,0,0,,{\be1}Yuudo pomagał przy budowie.
+Dialogue: 0,0:14:09.46,0:14:11.62,Default,,0,0,0,,{\be1}Slarn, bomby gotowe?
+Dialogue: 0,0:14:12.29,0:14:14.46,Default,,0,0,0,,{\be1}Gotowe w każdej chwili.
+Dialogue: 0,0:14:15.01,0:14:17.46,Default,,0,0,0,,{\be1}Dobra, zaczynamy atak.
+Dialogue: 0,0:14:59.59,0:15:02.63,Default,,0,0,0,,{\be1}Chyba tylko Alphonse to potrafił.
+Dialogue: 0,0:15:03.53,0:15:05.81,Default,,0,0,0,,{\be1}O czym zapominam?
+Dialogue: 0,0:15:06.70,0:15:09.39,Default,,0,0,0,,{\be1}Nie mogę dłużej czekać!
+Dialogue: 0,0:15:47.90,0:15:48.85,Default,,0,0,0,,{\be1}Wypuść mnie!
+Dialogue: 0,0:15:49.33,0:15:55.85,Default,,0,0,0,,{\be1}Będziesz wolna, jak tylko zrozumiesz\Nprzyjemności jakie mogę ci dać.
+Dialogue: 0,0:15:55.85,0:15:59.44,Default,,0,0,0,,{\be1}Choć może to zająć trochę czasu.
+Dialogue: 0,0:16:20.28,0:16:21.46,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:16:34.80,0:16:36.18,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:18:00.78,0:18:02.35,Default,,0,0,0,,{\be1}Pomocy!
+Dialogue: 0,0:18:39.52,0:18:42.36,Default,,0,0,0,,{\be1}Widzę, że zaczęli zabawę.
+Dialogue: 0,0:19:31.64,0:19:34.36,Default,,0,0,0,,{\be1}Jesteś niesamowita.
+Dialogue: 0,0:19:39.57,0:19:40.47,Default,,0,0,0,,{\be1}To ty!
+Dialogue: 0,0:19:40.47,0:19:42.33,Default,,0,0,0,,{\be1}Ty skurwielu!
+Dialogue: 0,0:19:47.64,0:19:48.75,Default,,0,0,0,,{\be1}Panie!
+Dialogue: 0,0:19:51.87,0:19:53.59,Default,,0,0,0,,{\be1}Wszystko w porządku?!
+Dialogue: 0,0:19:54.31,0:19:56.24,Default,,0,0,0,,{\be1}Przeklęty bękart!
+Dialogue: 0,0:19:56.24,0:19:57.60,Default,,0,0,0,,{\be1}Jesteś ranny, panie?!
+Dialogue: 0,0:19:57.60,0:19:59.64,Default,,0,0,0,,{\be1}Zamilcz!
+Dialogue: 0,0:19:59.64,0:20:01.66,Default,,0,0,0,,{\be1}Panie, mamy problemy!
+Dialogue: 0,0:20:01.66,0:20:07.37,Default,,0,0,0,,{\be1}W całej fabryce wybuchają pożary\Ni nie możemy sobie z nimi poradzić!
+Dialogue: 0,0:20:07.37,0:20:10.02,Default,,0,0,0,,{\be1}To pewnie ruch oporu.
+Dialogue: 0,0:20:10.02,0:20:12.44,Default,,0,0,0,,{\be1}Zodan, ty się nimi zajmiesz!
+Dialogue: 0,0:20:12.44,0:20:14.44,Default,,0,0,0,,{\be1}A ty złap dziewczynę!
+Dialogue: 0,0:20:15.58,0:20:17.61,Default,,0,0,0,,{\be1}Nie uciekniesz.
+Dialogue: 0,0:20:25.01,0:20:27.43,Default,,0,0,0,,{\be1}Bądź blisko mnie i nie patrz w dół!
+Dialogue: 0,0:20:27.43,0:20:28.19,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:20:28.19,0:20:30.97,Default,,0,0,0,,{\be1}- Tam są!\N- Gdzie?!
+Dialogue: 0,0:20:33.84,0:20:35.01,Default,,0,0,0,,{\be1}Tia!
+Dialogue: 0,0:20:37.17,0:20:39.87,Default,,0,0,0,,{\be1}Trzymaj się mocno!
+Dialogue: 0,0:21:12.69,0:21:14.13,Default,,0,0,0,,{\be1}Wszystko w porządku?
+Dialogue: 0,0:21:14.13,0:21:14.92,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:21:20.46,0:21:21.59,Default,,0,0,0,,{\be1}Kamień...
+Dialogue: 0,0:21:21.59,0:21:24.58,Default,,0,0,0,,{\be1}Zmienił się kolor, co się stało?
+Dialogue: 0,0:21:34.45,0:21:35.94,Default,,0,0,0,,{\be1}Tędy!
+Dialogue: 0,0:21:37.27,0:21:39.12,Default,,0,0,0,,{\be1}Stać!
+Dialogue: 0,0:21:49.73,0:21:53.38,Default,,0,0,0,,{\be1}Dzięki za wspaniały prezent, dzieciaku.
+Dialogue: 0,0:21:56.74,0:21:59.09,Default,,0,0,0,,{\be1}Dziewczyna pójdzie ze mną.
+Dialogue: 0,0:21:59.09,0:22:00.22,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:22:02.39,0:22:04.26,Default,,0,0,0,,{\be1}- Chodź!\N- Tia!
+Dialogue: 0,0:22:04.26,0:22:05.89,Default,,0,0,0,,{\be1}Nie szarp się!
+Dialogue: 0,0:22:05.89,0:22:07.14,Default,,0,0,0,,{\be1}Nie waż się jej zranić!
+Dialogue: 0,0:22:13.55,0:22:15.23,Default,,0,0,0,,{\be1}Zostaw mnie!
+Dialogue: 0,0:22:15.23,0:22:16.93,Default,,0,0,0,,{\be1}Poddaj się w końcu.
+Dialogue: 0,0:22:16.93,0:22:20.61,Default,,0,0,0,,{\be1}Nie! Alphonse!
+Dialogue: 0,0:22:20.61,0:22:22.24,Default,,0,0,0,,{\be1}Alphonse?!
+Dialogue: 0,0:22:23.87,0:22:26.54,Default,,0,0,0,,{\be1}Jesteś siostrą tego zdrajcy?
+Dialogue: 0,0:22:28.80,0:22:31.02,Default,,0,0,0,,{\be1}Możesz już nie czekać na niego.
+Dialogue: 0,0:22:31.02,0:22:34.51,Default,,0,0,0,,{\be1}Zabiłem go.
+Dialogue: 0,0:22:35.19,0:22:38.73,Default,,0,0,0,,{\be1}Nie wierzę! Kłamiesz!
+Dialogue: 0,0:22:39.96,0:22:41.97,Default,,0,0,0,,{\be1}Alphonse!
+Dialogue: 0,0:23:10.83,0:23:12.45,Default,,0,0,0,,{\be1}Co to za złom?
+Dialogue: 0,0:23:13.67,0:23:14.67,Default,,0,0,0,,{\be1}Klaatu?
+Dialogue: 0,0:23:22.61,0:23:25.05,Default,,0,0,0,,{\be1}Na co czekacie?!\NZniszczyć to!
+Dialogue: 0,0:23:56.11,0:23:58.49,Default,,0,0,0,,{\be1}Co z wami?! Strzelać!
+Dialogue: 0,0:23:59.61,0:24:02.17,Default,,0,0,0,,{\be1}Bezmózgie sukinkoty!\NSam to zrobię!
+Dialogue: 0,0:24:12.08,0:24:14.52,Default,,0,0,0,,{\be1}Twarda kupa złomu!
+Dialogue: 0,0:24:24.83,0:24:26.53,Default,,0,0,0,,{\be1}W końcu padł.
+Dialogue: 0,0:24:26.53,0:24:28.28,Default,,0,0,0,,{\be1}Klaatu!
+Dialogue: 0,0:24:34.98,0:24:37.45,Default,,0,0,0,,{\be1}Co robisz, szczylu?! Puszczaj!
+Dialogue: 0,0:24:38.38,0:24:39.59,Default,,0,0,0,,{\be1}Ty draniu!
+Dialogue: 0,0:24:45.74,0:24:46.92,Default,,0,0,0,,{\be1}Tia!
+Dialogue: 0,0:24:52.11,0:24:56.31,Default,,0,0,0,,{\be1}Oboje zginiecie!
+Dialogue: 0,0:25:10.11,0:25:11.56,Default,,0,0,0,,{\be1}Gińcie!
+Dialogue: 0,0:25:11.56,0:25:15.95,Default,,0,0,0,,{\be1}Niech pan przestanie\Nalbo zginiemy z nimi!
+Dialogue: 0,0:25:15.95,0:25:17.33,Default,,0,0,0,,{\be1}Zabieraj łapy!
+Dialogue: 0,0:25:41.41,0:25:45.15,Default,,0,0,0,,{\be1}To Klaatu, Alphonse go zbudował.
+Dialogue: 0,0:26:00.81,0:26:01.71,Default,,0,0,0,,{\be1}To przecież...
+Dialogue: 0,0:26:09.20,0:26:10.39,Default,,0,0,0,,{\be1}Alphonse.
+Dialogue: 0,0:26:15.99,0:26:18.79,Default,,0,0,0,,{\be1}Tu nie jest bezpiecznie, musimy uciekać!

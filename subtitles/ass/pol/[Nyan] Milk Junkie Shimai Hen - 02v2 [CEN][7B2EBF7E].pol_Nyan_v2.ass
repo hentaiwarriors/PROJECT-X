@@ -1,0 +1,303 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.8.3.627  Dec  9 2016  16:38:15
+Active Line: 0
+Collisions: Normal
+Last Style Storage: Default
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Kainote Ass File
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FC70B9,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,7,10,10,8,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:51.57,0:02:58.53,Grupa,,0,0,0,,{\be1\fad(393,0)}Nyan
+Dialogue: 0,0:00:17.69,0:00:21.51,Default,,0,0,0,,{\be1}Przeze mnie cierpi Tomoka.
+Dialogue: 0,0:00:23.22,0:00:27.37,Default,,0,0,0,,{\be1}Ale ja też go kocham.
+Dialogue: 0,0:00:30.95,0:00:32.25,Default,,0,0,0,,{\be1}Tomoka?
+Dialogue: 0,0:00:38.67,0:00:42.45,Default,,0,0,0,,{\be1}Chcesz się tylko zabawić z Wataru?
+Dialogue: 0,0:00:43.66,0:00:44.79,Default,,0,0,0,,{\be1}Małe co nieco?
+Dialogue: 0,0:00:45.92,0:00:47.28,Default,,0,0,0,,{\be1}Tomoka!
+Dialogue: 0,0:00:47.82,0:00:54.49,Default,,0,0,0,,{\be1}Pewnie nigdy się nie pozbiera,\Njeśli tylko się nim zabawiasz.
+Dialogue: 0,0:00:54.49,0:00:56.08,Default,,0,0,0,,{\be1}Tomoka!
+Dialogue: 0,0:00:56.08,0:01:00.57,Default,,0,0,0,,{\be1}Już się boję chwili, gdy zostanie sam.
+Dialogue: 0,0:01:00.57,0:01:05.00,Default,,0,0,0,,{\be1}Dobrze wiesz, że go kocham.
+Dialogue: 0,0:01:13.97,0:01:17.53,Default,,0,0,0,,{\be1}W końcu się przyznałaś.
+Dialogue: 0,0:01:19.75,0:01:22.43,Default,,0,0,0,,{\be1}Ja też kocham Wataru.
+Dialogue: 0,0:01:23.80,0:01:26.46,Default,,0,0,0,,{\be1}Czyż nie jesteśmy szczęściarami?
+Dialogue: 0,0:01:27.55,0:01:30.10,Default,,0,0,0,,{\be1}Tomoka.
+Dialogue: 0,0:01:35.12,0:01:40.50,Default,,0,0,0,,{\be1}To oznacza, że nasze piersi\Nbędą rywalizować ze sobą.
+Dialogue: 0,0:01:41.19,0:01:43.87,Default,,0,0,0,,{\be1}Miło mi.
+Dialogue: 0,0:01:45.35,0:01:46.91,Default,,0,0,0,,{\be1}Tomoka.
+Dialogue: 0,0:01:47.57,0:01:49.68,Default,,0,0,0,,{\be1}Niepotrzebnie się martwiłam.
+Dialogue: 0,0:01:51.68,0:01:56.91,Default,,0,0,0,,{\be1}W wielkości nie wygram,\Nale za to w jędrności już tak.
+Dialogue: 0,0:01:56.91,0:02:00.17,Default,,0,0,0,,{\be1}Moje za to są bardziej miękkie.
+Dialogue: 0,0:02:00.17,0:02:02.77,Default,,0,0,0,,{\be1}- Niech no sprawdzę.\N- Przestań.
+Dialogue: 0,0:02:07.01,0:02:08.36,Default,,0,0,0,,{\be1}Idę.
+Dialogue: 0,0:02:15.95,0:02:18.03,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:02:18.85,0:02:22.00,Default,,0,0,0,,{\be1}Pan Sakurai.
+Dialogue: 0,0:02:22.35,0:02:25.61,Default,,0,0,0,,{\be1}Wybacz, że przeszkadzam.
+Dialogue: 0,0:02:25.61,0:02:26.96,Default,,0,0,0,,{\be1}Skądże.
+Dialogue: 0,0:02:26.96,0:02:29.79,Default,,0,0,0,,{\be1}Wataru sprawia wam jakieś problemy?
+Dialogue: 0,0:02:29.79,0:02:32.51,Default,,0,0,0,,{\be1}Nie, jest grzeczny.
+Dialogue: 0,0:02:32.88,0:02:33.88,Default,,0,0,0,,{\be1}To o co chodzi?
+Dialogue: 0,0:02:33.88,0:02:37.22,Default,,0,0,0,,{\be1}Mam do ciebie prośbę.
+Dialogue: 0,0:02:39.13,0:02:43.13,Default,,0,0,0,,{\be1}Aha, rozumiem.
+Dialogue: 0,0:02:59.12,0:03:03.59,Default,,0,0,0,,{\be1}Nie pyskuj mi tu!\NMasz przyjechać do Arizony do końca miesiąca!
+Dialogue: 0,0:03:03.59,0:03:10.09,Default,,0,0,0,,{\be1}To ty się żenisz, po co ja ci tam?
+Dialogue: 0,0:03:10.09,0:03:17.28,Default,,0,0,0,,{\be1}- Chcę zamieszkać z całą rodziną.\N- Wataru!
+Dialogue: 0,0:03:17.28,0:03:18.51,Default,,0,0,0,,{\be1}Już idę!
+Dialogue: 0,0:03:18.51,0:03:22.22,Default,,0,0,0,,{\be1}Muszę kończyć, mam teraz korki.
+Dialogue: 0,0:03:22.22,0:03:24.15,Default,,0,0,0,,{\be1}Długo jeszcze?
+Dialogue: 0,0:03:25.06,0:03:27.84,Default,,0,0,0,,{\be1}Szybciej!
+Dialogue: 0,0:03:27.84,0:03:30.57,Default,,0,0,0,,{\be1}Nie przyjadę!
+Dialogue: 0,0:03:33.50,0:03:36.56,Default (i),,0,0,0,,{\be1}Nigdy nie pomyśli o mnie.
+Dialogue: 0,0:03:38.59,0:03:45.41,Default (i),,0,0,0,,{\be1}Wolę być z Fumie i Tomoką.
+Dialogue: 0,0:03:48.07,0:03:51.20,Default,,0,0,0,,{\be1}Przepraszam, już jestem.
+Dialogue: 0,0:03:56.87,0:03:59.80,Default,,0,0,0,,{\be1}Fumie, co tu robisz?!
+Dialogue: 0,0:04:01.04,0:04:04.67,Default,,0,0,0,,{\be1}Nie wolno mi tu przychodzić?
+Dialogue: 0,0:04:05.31,0:04:08.68,Default,,0,0,0,,{\be1}No co ty, tylko co to za strój?
+Dialogue: 0,0:04:08.68,0:04:10.00,Default,,0,0,0,,{\be1}Ty też?
+Dialogue: 0,0:04:11.60,0:04:13.93,Default,,0,0,0,,{\be1}Bądź grzeczny i chodź.
+Dialogue: 0,0:04:13.93,0:04:16.69,Default,,0,0,0,,{\be1}Co z wami?
+Dialogue: 0,0:04:16.69,0:04:20.48,Default,,0,0,0,,{\be1}Siadaj i ściągaj koszulkę.
+Dialogue: 0,0:04:20.48,0:04:22.77,Default,,0,0,0,,{\be1}Czas na badania.
+Dialogue: 0,0:04:22.77,0:04:23.79,Default,,0,0,0,,{\be1}Jakie badania?
+Dialogue: 0,0:04:23.79,0:04:25.28,Default,,0,0,0,,{\be1}No dawaj!
+Dialogue: 0,0:04:25.28,0:04:28.54,Default,,0,0,0,,{\be1}Przestańcie żartować,\Nprzecież nic mi nie jest.
+Dialogue: 0,0:04:30.16,0:04:33.54,Default,,0,0,0,,{\be1}To się okaże.
+Dialogue: 0,0:04:35.91,0:04:38.71,Default,,0,0,0,,{\be1}Już stoi.
+Dialogue: 0,0:04:38.71,0:04:41.55,Default,,0,0,0,,{\be1}Czyli jest chory.
+Dialogue: 0,0:04:42.04,0:04:46.74,Default,,0,0,0,,{\be1}Zakochałeś się w dwóch kobietach na raz.
+Dialogue: 0,0:04:48.56,0:04:51.22,Default,,0,0,0,,{\be1}I dlatego potrzebujesz leczenia.
+Dialogue: 0,0:04:51.22,0:04:52.51,Default,,0,0,0,,{\be1}Dokładnie.
+Dialogue: 0,0:04:52.51,0:04:53.81,Default,,0,0,0,,{\be1}Czekajcie!
+Dialogue: 0,0:04:59.31,0:05:01.91,Default,,0,0,0,,{\be1}Fumie, Tomoka!
+Dialogue: 0,0:05:02.61,0:05:05.61,Default,,0,0,0,,{\be1}Patrz jaki duży.
+Dialogue: 0,0:05:05.61,0:05:08.24,Default,,0,0,0,,{\be1}Podnieciły cię same piersi.
+Dialogue: 0,0:05:08.24,0:05:09.41,Default,,0,0,0,,{\be1}Jaki wrażliwy.
+Dialogue: 0,0:05:09.99,0:05:13.92,Default,,0,0,0,,{\be1}Moje piersi tak cię podnieciły?
+Dialogue: 0,0:05:13.92,0:05:17.92,Default,,0,0,0,,{\be1}Nie, moje, prawda?
+Dialogue: 0,0:05:22.96,0:05:25.93,Default,,0,0,0,,{\be1}Bądź z nami szczery.
+Dialogue: 0,0:05:25.93,0:05:28.12,Default,,0,0,0,,{\be1}To którą mocniej kochasz?
+Dialogue: 0,0:05:30.30,0:05:35.58,Default,,0,0,0,,{\be1}- Jeśli zaraz nie powiesz...\N- To nie będzie więcej wkładania między piersi.
+Dialogue: 0,0:05:35.58,0:05:39.44,Default,,0,0,0,,{\be1}Co?\NKiedy nie mogę się zdecydować.
+Dialogue: 0,0:05:40.06,0:05:46.45,Default,,0,0,0,,{\be1}Jesteś niemożliwy,\Nmy cię kochamy, a ty co?
+Dialogue: 0,0:05:47.94,0:05:51.46,Default,,0,0,0,,{\be1}Chcesz włożyć między piersi?
+Dialogue: 0,0:05:51.46,0:05:54.96,Default,,0,0,0,,{\be1}To najpierw musisz nas zadowolić!
+Dialogue: 0,0:05:59.54,0:06:03.08,Default,,0,0,0,,{\be1}Właśnie tak, liż też dookoła.
+Dialogue: 0,0:06:03.08,0:06:05.97,Default,,0,0,0,,{\be1}Ssij mocniej!
+Dialogue: 0,0:06:08.92,0:06:12.48,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:06:14.21,0:06:17.04,Default,,0,0,0,,{\be1}Przecież nic jeszcze nie zrobiłyśmy.
+Dialogue: 0,0:06:17.72,0:06:21.48,Default,,0,0,0,,{\be1}Nie drażnijcie się ze mną\Ni zróbcie to co wcześniej!
+Dialogue: 0,0:06:22.69,0:06:26.27,Default,,0,0,0,,{\be1}Najpierw musisz nas zaspokoić.
+Dialogue: 0,0:06:26.27,0:06:28.70,Default,,0,0,0,,{\be1}Będziesz miał przechlapane,\Njeśli dojdziesz pierwszy.
+Dialogue: 0,0:06:31.95,0:06:35.33,Default,,0,0,0,,{\be1}Przyjemne są moje piersi?
+Dialogue: 0,0:06:35.33,0:06:38.25,Default,,0,0,0,,{\be1}Moje są lepsze, prawda?
+Dialogue: 0,0:06:39.34,0:06:43.41,Default,,0,0,0,,{\be1}Obie macie cudowne piersi!
+Dialogue: 0,0:06:44.65,0:06:46.29,Default,,0,0,0,,{\be1}Nie możesz tak!
+Dialogue: 0,0:06:46.29,0:06:50.44,Default,,0,0,0,,{\be1}Musisz zdecydować, zanim dojdziesz.
+Dialogue: 0,0:06:50.44,0:06:51.95,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:06:57.27,0:07:02.28,Default,,0,0,0,,{\be1}Nie wytrzymam!
+Dialogue: 0,0:07:07.94,0:07:12.78,Default,,0,0,0,,{\be1}Nie dam rady, zaraz dojdę!
+Dialogue: 0,0:07:12.78,0:07:15.29,Default,,0,0,0,,{\be1}Wytrzymaj!
+Dialogue: 0,0:07:25.87,0:07:29.92,Default,,0,0,0,,{\be1}Nieładnie tak samemu dochodzić.
+Dialogue: 0,0:07:30.75,0:07:34.77,Default,,0,0,0,,{\be1}Jesteście podłe!\NDlaczego to robicie?
+Dialogue: 0,0:07:37.34,0:07:42.78,Default,,0,0,0,,{\be1}Niedługo wyjeżdżasz do Arizony\Ni musiałyśmy trochę cię podrażnić.
+Dialogue: 0,0:07:44.10,0:07:49.44,Default,,0,0,0,,{\be1}To wy wiecie?
+Dialogue: 0,0:07:49.44,0:07:52.35,Default,,0,0,0,,{\be1}Twój ojciec zadzwonił do nas.
+Dialogue: 0,0:07:53.15,0:07:57.75,Default,,0,0,0,,{\be1}Poprosił nas, żebyśmy\Nnakłoniły cię do wyjazdu.
+Dialogue: 0,0:07:59.07,0:08:02.30,Default,,0,0,0,,{\be1}To po prostu okrutne!
+Dialogue: 0,0:08:04.54,0:08:06.92,Default,,0,0,0,,{\be1}Chcesz poleżeć na naszych kolanach?
+Dialogue: 0,0:08:08.46,0:08:12.39,Default,,0,0,0,,{\be1}Byłoby fajnie, gdybyśmy\Nmogli być już zawsze razem.
+Dialogue: 0,0:08:14.76,0:08:18.89,Default,,0,0,0,,{\be1}Naprawdę chcecie żebym wyjechał?
+Dialogue: 0,0:08:18.89,0:08:23.31,Default,,0,0,0,,{\be1}Nie.\NOczywiście, że nie chcemy.
+Dialogue: 0,0:08:25.23,0:08:30.48,Default,,0,0,0,,{\be1}Ale nie jesteśmy w stanie zastąpić ci matki.
+Dialogue: 0,0:08:35.32,0:08:37.79,Default,,0,0,0,,{\be1}Fumie, Tomoka.
+Dialogue: 0,0:08:38.95,0:08:44.91,Default,,0,0,0,,{\be1}Chcemy cię kochać jak kobieta mężczyznę.
+Dialogue: 0,0:08:44.91,0:08:48.09,Default,,0,0,0,,{\be1}Kończymy z matkowaniem.
+Dialogue: 0,0:08:50.42,0:08:55.81,Default,,0,0,0,,{\be1}Teraz będziesz miał nową matkę.
+Dialogue: 0,0:09:02.01,0:09:05.10,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:09:06.47,0:09:08.82,Default,,0,0,0,,{\be1}Możemy dzisiaj cały dzień się kochać?
+Dialogue: 0,0:09:10.28,0:09:11.52,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:09:11.52,0:09:16.24,Default,,0,0,0,,{\be1}Zróbmy wszystko na co mamy ochotę.
+Dialogue: 0,0:09:17.78,0:09:20.91,Default,,0,0,0,,{\be1}Wataru, nie musisz się powstrzymywać.
+Dialogue: 0,0:09:20.91,0:09:23.59,Default,,0,0,0,,{\be1}Wszyscy się zabawimy, dobra?
+Dialogue: 0,0:09:34.09,0:09:37.34,Default,,0,0,0,,{\be1}Ale mocno wkładasz!
+Dialogue: 0,0:09:37.34,0:09:41.92,Default,,0,0,0,,{\be1}Teraz moja kolej zadowolić was.
+Dialogue: 0,0:09:43.42,0:09:48.02,Default,,0,0,0,,{\be1}W takim razie spuść się we mnie!
+Dialogue: 0,0:09:48.02,0:09:49.14,Default,,0,0,0,,{\be1}Fumie!
+Dialogue: 0,0:09:58.03,0:10:01.15,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:10:02.53,0:10:05.59,Default,,0,0,0,,{\be1}To nie fair!
+Dialogue: 0,0:10:13.88,0:10:16.60,Default,,0,0,0,,{\be1}Fumie! Tomoka!
+Dialogue: 0,0:10:19.55,0:10:22.75,Default,,0,0,0,,{\be1}Nie mogę, zaraz dojdę!
+Dialogue: 0,0:10:24.18,0:10:26.96,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:10:29.02,0:10:31.32,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:10:31.32,0:10:35.52,Default,,0,0,0,,{\be1}Fumie, Tomoka, zaraz dojdę!
+Dialogue: 0,0:10:37.15,0:10:39.91,Default,,0,0,0,,{\be1}Dojdźmy razem!
+Dialogue: 0,0:10:42.15,0:10:43.76,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:10:47.49,0:10:51.44,Default,,0,0,0,,{\be1}Dojdźmy razem!
+Dialogue: 0,0:11:18.15,0:11:19.41,Default,,0,0,0,,{\be1}Bierzesz ją ze sobą?
+Dialogue: 0,0:11:20.21,0:11:21.61,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:11:21.61,0:11:24.41,Default,,0,0,0,,{\be1}W sumie to nie zmieści się aż tyle.
+Dialogue: 0,0:11:24.41,0:11:29.53,Default (i),,0,0,0,,{\be1}No i jednak jadę do Arizony.
+Dialogue: 0,0:11:29.53,0:11:33.04,Default (i),,0,0,0,,{\be1}Zamieszkam z ojcem i macochą.
+Dialogue: 0,0:11:33.04,0:11:36.38,Default (i),,0,0,0,,{\be1}Nie chcę wyjeżdżać, ale...
+Dialogue: 0,0:11:40.21,0:11:47.27,Default,,0,0,0,,{\be1}Wataru, znalazłam słownik angielskiego\Nz czasów, gdy studiowałam w Kalifornii.
+Dialogue: 0,0:11:48.47,0:11:51.12,Default,,0,0,0,,{\be1}Lepiej weź go ze sobą.
+Dialogue: 0,0:11:51.12,0:11:52.11,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:11:52.47,0:12:01.33,Default,,0,0,0,,{\be1}Trochę mi smutno, że tak się cieszą\Nna mój wyjazd do Arizony.
+Dialogue: 0,0:12:08.53,0:12:13.12,Default,,0,0,0,,{\be1}Pospiesz się!
+Dialogue: 0,0:12:13.12,0:12:16.09,Default,,0,0,0,,{\be1}Przecież festiwal już się skończył.
+Dialogue: 0,0:12:16.68,0:12:19.83,Default,,0,0,0,,{\be1}To nic, pospiesz się!
+Dialogue: 0,0:12:25.87,0:12:29.24,Default,,0,0,0,,{\be1}W końcu jesteśmy sami.
+Dialogue: 0,0:12:31.89,0:12:33.61,Default,,0,0,0,,{\be1}Niedługo wyjeżdżasz.
+Dialogue: 0,0:12:37.31,0:12:40.91,Default,,0,0,0,,{\be1}Trochę się martwię o ciebie.
+Dialogue: 0,0:12:41.61,0:12:45.07,Default,,0,0,0,,{\be1}I dlatego poprosiłam gwiazdkę\No spełnienia życzenia.
+Dialogue: 0,0:12:45.07,0:12:46.33,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:47.99,0:12:51.45,Default,,0,0,0,,{\be1}Pamiętasz go?
+Dialogue: 0,0:12:51.45,0:12:52.74,Default,,0,0,0,,{\be1}Tak, dałem ci go.
+Dialogue: 0,0:12:52.74,0:12:59.92,Default,,0,0,0,,{\be1}Podarowałeś mi go na szczęście 7 lat temu,\Nzanim się wyprowadziłeś.
+Dialogue: 0,0:12:59.92,0:13:04.35,Default,,0,0,0,,{\be1}Pamiętasz, co wtedy powiedziałeś?
+Dialogue: 0,0:13:04.35,0:13:12.47,Default,,0,0,0,,{\be1}"Gdy będzie ci smutno, to ta gwiazdka\Nspełni twoje życzenie i kiedyś się spotkamy."
+Dialogue: 0,0:13:12.47,0:13:14.36,Default,,0,0,0,,{\be1}Naprawdę się ucieszyłam.
+Dialogue: 0,0:13:14.36,0:13:23.40,Default,,0,0,0,,{\be1}Od tamtego dnia prosiłam ją,\Nżebym mogła znowu cię spotkać.
+Dialogue: 0,0:13:23.40,0:13:26.37,Default,,0,0,0,,{\be1}A po 7 latach spotkaliśmy się.
+Dialogue: 0,0:13:26.75,0:13:29.17,Default,,0,0,0,,{\be1}Arizona nie jest tak daleko.
+Dialogue: 0,0:13:30.16,0:13:31.46,Default,,0,0,0,,{\be1}Tomoka.
+Dialogue: 0,0:13:36.83,0:13:39.16,Default,,0,0,0,,{\be1}Tomoka.
+Dialogue: 0,0:13:39.16,0:13:40.70,Default,,0,0,0,,{\be1}Wataru.
+Dialogue: 0,0:13:55.93,0:14:00.40,Default,,0,0,0,,{\be1}Włóż go między piersi,\Nżeby nam obojgu było przyjemnie.
+Dialogue: 0,0:14:00.40,0:14:02.25,Default,,0,0,0,,{\be1}Tomoka!
+Dialogue: 0,0:14:05.48,0:14:07.98,Default,,0,0,0,,{\be1}Wataru, mocno wkładasz!
+Dialogue: 0,0:14:21.75,0:14:25.00,Default,,0,0,0,,{\be1}Możesz się spuścić.
+Dialogue: 0,0:14:25.00,0:14:27.43,Default,,0,0,0,,{\be1}Dopiero, gdy ty dojdziesz.
+Dialogue: 0,0:14:30.48,0:14:36.00,Default,,0,0,0,,{\be1}Właśnie tam!
+Dialogue: 0,0:14:37.15,0:14:41.15,Default,,0,0,0,,{\be1}Włóż go!
+Dialogue: 0,0:14:56.62,0:15:00.83,Default,,0,0,0,,{\be1}Tomoka, zobaczymy się\Njeszcze kiedyś, prawda?
+Dialogue: 0,0:15:02.16,0:15:10.43,Default,,0,0,0,,{\be1}Tak, ale teraz twoja kolej wypowiedzieć\Nżyczenie, żebyśmy się spotkali.
+Dialogue: 0,0:15:10.76,0:15:13.43,Default,,0,0,0,,{\be1}Tomoka!
+Dialogue: 0,0:15:16.34,0:15:21.15,Default,,0,0,0,,{\be1}Chcę cię jeszcze kiedyś zobaczyć!
+Dialogue: 0,0:15:21.93,0:15:23.44,Default,,0,0,0,,{\be1}Ja też!
+Dialogue: 0,0:15:23.44,0:15:24.62,Default,,0,0,0,,{\be1}Tomoka!
+Dialogue: 0,0:15:25.78,0:15:28.46,Default,,0,0,0,,{\be1}Znowu dochodzę!
+Dialogue: 0,0:15:49.79,0:15:54.80,Default,,0,0,0,,{\be1}Dzięki, teraz czuję się pewniej.
+Dialogue: 0,0:15:54.80,0:15:57.81,Default,,0,0,0,,{\be1}Staraj się z całych sił, dobra?
+Dialogue: 0,0:15:58.57,0:16:00.06,Default,,0,0,0,,{\be1}Jasne!
+Dialogue: 0,0:16:00.68,0:16:01.98,Default,,0,0,0,,{\be1}"Ore"?
+Dialogue: 0,0:16:03.10,0:16:06.28,Default,,0,0,0,,{\be1}Nie pasuje to do ciebie.
+Dialogue: 0,0:16:07.15,0:16:09.57,Default,,0,0,0,,{\be1}Zrobimy sobie zdjęcie?
+Dialogue: 0,0:16:09.57,0:16:10.52,Default,,0,0,0,,{\be1}Tutaj?
+Dialogue: 0,0:16:10.52,0:16:13.82,Default,,0,0,0,,{\be1}Uśmiechnij się, panie "boku".
+Dialogue: 0,0:16:13.82,0:16:15.29,Default,,0,0,0,,{\be1}Tomoka!
+Dialogue: 0,0:16:27.04,0:16:28.73,Default,,0,0,0,,{\be1}Dziękuję za wszystko.
+Dialogue: 0,0:16:29.42,0:16:33.00,Default,,0,0,0,,{\be1}No tak, jutro wyjeżdżasz.
+Dialogue: 0,0:16:33.00,0:16:35.93,Default,,0,0,0,,{\be1}Szkoda, że nie możesz zostać\Ndo końca roku szkolnego.
+Dialogue: 0,0:16:36.62,0:16:39.05,Default,,0,0,0,,{\be1}Mój ojciec to straszny uparciuch.
+Dialogue: 0,0:16:39.05,0:16:40.62,Default,,0,0,0,,{\be1}Staraj się tam.
+Dialogue: 0,0:16:40.62,0:16:41.60,Default,,0,0,0,,{\be1}Oczywiście.
+Dialogue: 0,0:16:42.35,0:16:44.24,Default,,0,0,0,,{\be1}Jeszcze raz dziękuję.
+Dialogue: 0,0:16:53.11,0:16:56.19,Default,,0,0,0,,{\be1}Pani Fusano, Sakurai jest tu dzisiaj ostatni dzień.
+Dialogue: 0,0:16:56.19,0:16:58.58,Default,,0,0,0,,{\be1}Jaka szkoda.
+Dialogue: 0,0:16:58.91,0:17:02.31,Default,,0,0,0,,{\be1}Sakurai, pokaż się tam z najlepszej strony.
+Dialogue: 0,0:17:02.31,0:17:03.59,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:17:31.23,0:17:32.98,Default,,0,0,0,,{\be1}Przepraszam, że czekałeś.
+Dialogue: 0,0:17:34.69,0:17:36.12,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:17:37.28,0:17:44.96,Default,,0,0,0,,{\be1}Tomoka jest w domu,\Na chciałam się pożegnać z tobą sam na sam.
+Dialogue: 0,0:17:46.33,0:17:47.71,Default,,0,0,0,,{\be1}Fumie.
+Dialogue: 0,0:17:53.34,0:17:55.41,Default,,0,0,0,,{\be1}Zaczynamy lekcję?
+Dialogue: 0,0:17:56.96,0:17:59.30,Default,,0,0,0,,{\be1}Nie przyłapie nas ktoś?
+Dialogue: 0,0:17:59.30,0:18:04.09,Default,,0,0,0,,{\be1}Nie martw się, nie pozwolę nikomu\Nprzerwać naszej ostatniej lekcji.
+Dialogue: 0,0:18:05.43,0:18:13.99,Default,,0,0,0,,{\be1}Właśnie tak, delikatnie,\Njakby dziecko szukało piersi.
+Dialogue: 0,0:18:16.44,0:18:18.20,Default,,0,0,0,,{\be1}Jeszcze nie.
+Dialogue: 0,0:18:18.74,0:18:25.08,Default,,0,0,0,,{\be1}Najpierw musisz je trochę popieścić,\Nw ten sposób kobiecie będzie przyjemniej.
+Dialogue: 0,0:18:30.04,0:18:32.52,Default,,0,0,0,,{\be1}Teraz dobrze ci idzie.
+Dialogue: 0,0:18:33.21,0:18:35.22,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:18:36.38,0:18:40.22,Default,,0,0,0,,{\be1}- Liż dookoła! Jeszcze!\N- Fumie!
+Dialogue: 0,0:18:41.01,0:18:45.65,Default,,0,0,0,,{\be1}Najprzyjemniej mi,\Ngdy liżesz lewego sutka.
+Dialogue: 0,0:18:48.47,0:18:52.30,Default,,0,0,0,,{\be1}Nie tak mocno, bo...
+Dialogue: 0,0:18:54.09,0:18:57.24,Default,,0,0,0,,{\be1}Poleci mleko!
+Dialogue: 0,0:19:10.87,0:19:12.76,Default,,0,0,0,,{\be1}Doszłam.
+Dialogue: 0,0:19:14.17,0:19:20.80,Default,,0,0,0,,{\be1}Uczeń i nauczycielka nie powinni\Nrobić takich rzeczy po lekcjach, nie?
+Dialogue: 0,0:19:20.80,0:19:24.27,Default,,0,0,0,,{\be1}Już nie jestem twoim uczniem.
+Dialogue: 0,0:19:24.27,0:19:27.43,Default,,0,0,0,,{\be1}Nie bądź taki hej do przodu.
+Dialogue: 0,0:19:27.43,0:19:31.48,Default,,0,0,0,,{\be1}Jesteś moim uczniem\Njeszcze do końca tej lekcji.
+Dialogue: 0,0:19:32.31,0:19:36.49,Default,,0,0,0,,{\be1}Zajmę się tobą,\Ndopóki nie będziesz miał dosyć.
+Dialogue: 0,0:19:40.19,0:19:42.54,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:19:44.76,0:19:50.54,Default,,0,0,0,,{\be1}Naprawdę? Mnie jest przyjemnie,\Ngdy wkładam twojego kutasa między piersi.
+Dialogue: 0,0:19:50.90,0:19:53.09,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:19:53.83,0:19:56.94,Default,,0,0,0,,{\be1}Możesz się spuścić, ile chcesz!
+Dialogue: 0,0:19:57.67,0:20:00.05,Default,,0,0,0,,{\be1}Fumie!
+Dialogue: 0,0:20:11.85,0:20:13.73,Default,,0,0,0,,{\be1}Dużo się spuściłeś.
+Dialogue: 0,0:20:13.73,0:20:15.16,Default,,0,0,0,,{\be1}Fumie.
+Dialogue: 0,0:20:44.51,0:20:46.84,Default,,0,0,0,,{\be1}Chcesz jeszcze raz?
+Dialogue: 0,0:20:50.62,0:20:52.07,Default,,0,0,0,,{\be1}Fumie!
+Dialogue: 0,0:20:54.93,0:20:59.09,Default,,0,0,0,,{\be1}Masz najlepsze piersi!
+Dialogue: 0,0:21:01.44,0:21:06.75,Default,,0,0,0,,{\be1}Zmieniłeś się trochę,\Nstałeś agresywniejszy!
+Dialogue: 0,0:21:06.75,0:21:08.33,Default,,0,0,0,,{\be1}Pierwszy raz tak mi dobrze!
+Dialogue: 0,0:21:09.27,0:21:16.20,Default,,0,0,0,,{\be1}Wataru, nie ssij tak mocno,\Nbo oderwiesz mi je!
+Dialogue: 0,0:21:16.20,0:21:20.34,Default,,0,0,0,,{\be1}Muszę zapamiętać ich smak!
+Dialogue: 0,0:21:21.79,0:21:24.00,Default,,0,0,0,,{\be1}Obyś nigdy ich nie zapomniał!
+Dialogue: 0,0:21:24.00,0:21:26.35,Default,,0,0,0,,{\be1}Nie zapomnę!
+Dialogue: 0,0:21:26.82,0:21:28.76,Default,,0,0,0,,{\be1}Wataru!
+Dialogue: 0,0:21:28.76,0:21:30.31,Default,,0,0,0,,{\be1}Fumie!
+Dialogue: 0,0:21:32.36,0:21:34.35,Default,,0,0,0,,{\be1}Chcę się spuścić ten\Nostatni raz na twoje piersi.
+Dialogue: 0,0:21:34.35,0:21:35.60,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:21:51.89,0:21:54.63,Default,,0,0,0,,{\be1}Pieprz moje piersi z całej siły!
+Dialogue: 0,0:22:12.64,0:22:17.89,Default (i),,0,0,0,,{\be1}Tego lata skosztowałem mleka dwóch kobiet.
+Dialogue: 0,0:22:19.14,0:22:20.60,Default,,0,0,0,,{\be1}Wataru.
+Dialogue: 0,0:22:32.16,0:22:34.83,Default (i),,0,0,0,,{\be1}A to mój dowód na to.
+Dialogue: 0,0:22:36.58,0:22:44.43,Default (i),,0,0,0,,{\be1}Miały słodko-gorzki smak,\Nale i tak są moim najlepszym wspomnieniem.
+Dialogue: 0,0:22:53.97,0:23:03.45,Default (top),,0,0,0,,{\be1}Przepraszamy państwa za opóźnienie\Ni prosimy jeszcze o cierpliwość.
+Dialogue: 0,0:23:04.15,0:23:07.97,Default (i),,0,0,0,,{\be1}Nie przyszły mnie pożegnać.
+Dialogue: 0,0:23:11.15,0:23:13.40,Default,,0,0,0,,{\be1}Życzy pan sobie coś do picia?
+Dialogue: 0,0:23:15.37,0:23:17.23,Default,,0,0,0,,{\be1}Może być mleko?
+Dialogue: 0,0:23:18.63,0:23:19.66,Default,,0,0,0,,{\be1}Tomoka?!
+Dialogue: 0,0:23:19.66,0:23:22.67,Default,,0,0,0,,{\be1}Przepraszamy za spóźnienie.
+Dialogue: 0,0:23:23.14,0:23:26.71,Default,,0,0,0,,{\be1}Fumie!\NPrzyszłyście obie!
+Dialogue: 0,0:23:26.71,0:23:30.75,Default,,0,0,0,,{\be1}Ale jesteśmy w samolocie, a te stroje...
+Dialogue: 0,0:23:32.43,0:23:36.34,Default,,0,0,0,,{\be1}Pomyślałyśmy, że ucieszy cię\Nnasz widok w tych strojach.
+Dialogue: 0,0:23:36.34,0:23:39.44,Default,,0,0,0,,{\be1}Lecimy do Arizony.
+Dialogue: 0,0:23:40.39,0:23:45.79,Default,,0,0,0,,{\be1}Tak naprawdę to twój ojciec\Nzaprosił nas na ślub.
+Dialogue: 0,0:23:45.79,0:23:47.70,Default,,0,0,0,,{\be1}Sorki, że nie powiedziałyśmy.
+Dialogue: 0,0:23:47.70,0:23:49.16,Default,,0,0,0,,{\be1}Nie wiedziałem.
+Dialogue: 0,0:23:49.16,0:23:52.44,Default,,0,0,0,,{\be1}Tak będzie bardziej ekscytująco, prawda?
+Dialogue: 0,0:23:52.44,0:23:55.16,Default,,0,0,0,,{\be1}Co? Chyba nie...
+Dialogue: 0,0:23:55.74,0:23:58.41,Default,,0,0,0,,{\be1}Nie możemy tutaj!
+Dialogue: 0,0:23:58.41,0:23:59.87,Default,,0,0,0,,{\be1}Nie przejmuj się.
+Dialogue: 0,0:23:59.87,0:24:01.12,Default,,0,0,0,,{\be1}Chcesz mleczka?
+Dialogue: 0,0:24:01.12,0:24:03.17,Default,,0,0,0,,{\be1}Czekajcie!
+Dialogue: 0,0:24:15.26,0:24:17.64,Default,,0,0,0,,{\be1}Oj ty, Wataru.
+Dialogue: 0,0:24:17.64,0:24:20.52,Default,,0,0,0,,{\be1}Chodź na chwilę.
+Dialogue: 0,0:24:26.23,0:24:30.69,Default,,0,0,0,,{\be1}Zabawa w tych strojach jest emocjonująca, nie?
+Dialogue: 0,0:24:32.07,0:24:34.91,Default,,0,0,0,,{\be1}Tomoka, Fumie.
+Dialogue: 0,0:24:34.91,0:24:40.33,Default,,0,0,0,,{\be1}Tutaj możesz się pobawić\Nnaszymi piersiami jak zawsze.
+Dialogue: 0,0:24:40.33,0:24:44.92,Default,,0,0,0,,{\be1}Lot będzie długi,\Ntrzeba go jakoś umilić.
+Dialogue: 0,0:24:48.38,0:24:52.05,Default,,0,0,0,,{\be1}Cudownie!
+Dialogue: 0,0:24:52.05,0:24:54.42,Default,,0,0,0,,{\be1}Fumie! Tomoka!
+Dialogue: 0,0:24:54.42,0:24:56.68,Default,,0,0,0,,{\be1}Jeszcze!
+Dialogue: 0,0:25:01.18,0:25:04.01,Default,,0,0,0,,{\be1}Ssij je mocniej!
+Dialogue: 0,0:25:04.01,0:25:06.88,Default,,0,0,0,,{\be1}Moje też ssij!
+Dialogue: 0,0:25:08.61,0:25:13.96,Default (top),,0,0,0,,{\be1}Za chwilę odlatujemy,\Nprosimy wrócić na swoje miejsca.
+Dialogue: 0,0:25:20.12,0:25:26.50,Default (i),,0,0,0,,{\be1}Na razie nie wiem, które ze zdjęć\Noprawię i postawię kiedyś na biurku.
+Dialogue: 0,0:25:26.50,0:25:34.58,Default (i),,0,0,0,,{\be1}Ale jeśli przyjdzie taki czas,\Nto myślę, że będę już dorosły.
+Dialogue: 0,0:25:35.30,0:25:36.97,Default (i),,0,0,0,,{\be1}A na razie...
+Dialogue: 0,0:25:38.05,0:25:39.17,Default (i),,0,0,0,,{\be1}Chcę cyca.
+Dialogue: 0,0:27:45.16,0:27:47.31,Default,,0,0,0,,{\be1}Niezłe, nie?
+Dialogue: 0,0:27:47.31,0:27:51.73,Default,,0,0,0,,{\be1}Dzięki, jestem naprawdę szczęśliwy!
+Dialogue: 0,0:27:51.73,0:27:55.98,Default,,0,0,0,,{\be1}Jaki ojciec taki syn.
+Dialogue: 0,0:27:55.98,0:27:57.07,Default,,0,0,0,,{\be1}Zgadza się.
+Dialogue: 0,0:27:57.07,0:27:58.34,Default,,0,0,0,,{\be1}O co wam chodzi?
+Dialogue: 0,0:28:13.04,0:28:17.42,Default,,0,0,0,,{\be1}Oboje kochacie duże piersi!
+Dialogue: 0,0:28:17.42,0:28:20.33,Default,,0,0,0,,{\be1}{\bord4}Fumie! Tomoka!

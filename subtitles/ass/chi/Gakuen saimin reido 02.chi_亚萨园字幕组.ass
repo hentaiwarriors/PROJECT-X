@@ -1,0 +1,425 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 860
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: A,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,12,1
+Style: B,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,24,1
+Style: C,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,36,1
+Style: D,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,48,1
+Style: E,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,61,1
+Style: F,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,73,1
+Style: G,Microsoft JhengHei,27,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,1,0,9,37,37,85,1
+Style: H,Microsoft JhengHei,29,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,1,0,8,37,37,12,1
+Style: Default,方正准圆_GBK,32,&H00FFFFFF,&HF0000000,&H01ED6014,&H64000000,-1,0,0,0,100,100,0,0,1,1,1,2,0,0,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.12,0:00:18.96,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 停下来
+Dialogue: 0,0:00:25.96,0:00:27.62,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}里面不可以
+Dialogue: 0,0:00:28.32,0:00:31.19,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:00:37.03,0:00:38.63,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}又在做这种梦
+Dialogue: 0,0:00:39.38,0:00:42.66,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}都是因为那可恶的威胁邮件
+Dialogue: 0,0:00:44.98,0:00:48.35,A,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}［致亲爱的学生会会长
+Dialogue: 0,0:00:44.98,0:00:48.35,B,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}诚恳地邀请你进行秘密会谈
+Dialogue: 0,0:00:44.98,0:00:48.35,C,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}明天到anime研究室
+Dialogue: 0,0:00:44.98,0:00:48.35,D,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}请一个人到来
+Dialogue: 0,0:00:44.98,0:00:48.35,E,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}如果没按我说的话去做
+Dialogue: 0,0:00:44.98,0:00:48.35,F,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我会在网上公开拍摄到的画像
+Dialogue: 0,0:00:44.98,0:00:48.35,G,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}动画研究部部长 佐藤太志］
+Dialogue: 0,0:00:45.09,0:00:50.97,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没想到会被偷拍到 那个恶心死宅到底有什么企图
+Dialogue: 0,0:00:52.51,0:00:53.45,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}难道说…
+Dialogue: 0,0:00:54.30,0:00:57.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}难道会像梦境中一样被强暴么
+Dialogue: 0,0:00:58.22,0:01:01.72,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}讨厌 被那个恶心死宅强暴的话 我…
+Dialogue: 0,0:01:10.22,0:01:13.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行 不能在这种地方…
+Dialogue: 0,0:01:13.95,0:01:18.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}如果被那恶心死宅见到的话 不知又会怎么对我
+Dialogue: 0,0:01:18.79,0:01:25.02,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}但是 只是想到会被人看到就忍不住了
+Dialogue: 0,0:01:37.47,0:01:38.62,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈
+Dialogue: 0,0:01:41.35,0:01:44.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}刚才在看姬乃吧
+Dialogue: 0,0:01:44.38,0:01:46.78,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这是误会 唯奈
+Dialogue: 0,0:01:46.95,0:01:50.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太过份了 太志已经是我的男友
+Dialogue: 0,0:01:50.94,0:01:53.45,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}所以我讨厌你去看别的女生
+Dialogue: 0,0:01:54.49,0:01:57.95,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我们已经是恋人的说
+Dialogue: 0,0:02:01.33,0:02:08.35,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太志 我很喜欢你
+Dialogue: 0,0:02:11.46,0:02:20.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}因为我们已经是恋人了 我这一周没过看太志以外的男生
+Dialogue: 0,0:02:20.78,0:02:23.82,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈 想不到嫉妒心很强呢
+Dialogue: 0,0:02:24.46,0:02:26.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}是我太轻率了
+Dialogue: 0,0:02:27.70,0:02:32.11,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}表示歉意 下星期天到我家来吧
+Dialogue: 0,0:02:33.19,0:02:36.95,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}到那时 我想拍摄唯奈你的写真
+Dialogue: 0,0:02:37.55,0:02:41.48,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}讨厌 人家拍照很害羞的说
+Dialogue: 0,0:02:41.83,0:02:47.65,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}但是 如果太志能拿着我的照片爱不释手的话
+Dialogue: 0,0:02:48.04,0:02:49.30,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不愿意吗
+Dialogue: 0,0:02:50.52,0:02:52.21,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恩 好吧
+Dialogue: 0,0:02:52.88,0:02:56.39,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么下星期天就到太志的家里去
+Dialogue: 0,0:02:57.54,0:03:02.16,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那个 太志 有件事情想求你
+Dialogue: 0,0:03:02.39,0:03:03.43,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}什么事呢
+Dialogue: 0,0:03:04.75,0:03:06.11,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}吻我
+Dialogue: 0,0:03:23.81,0:03:25.24,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么我走了
+Dialogue: 0,0:03:29.87,0:03:34.66,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}似乎已经见效了 和我接吻就会引发身体欲望的暗示
+Dialogue: 0,0:03:35.53,0:03:38.72,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}多亏你 我也忍不住了
+Dialogue: 0,0:03:39.07,0:03:41.01,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这样下去不能去上课了
+Dialogue: 0,0:03:41.51,0:03:44.85,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要把精液厕所叫来释放掉吗
+Dialogue: 0,0:03:53.37,0:03:58.45,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}标题：anime：02 [已经不行了 被射在子宫里高潮了]
+Dialogue: 0,0:04:03.41,0:04:05.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你给我记住 死胖子
+Dialogue: 0,0:04:06.04,0:04:08.29,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}晶借的钱还清的话
+Dialogue: 0,0:04:08.81,0:04:11.41,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我会让你从校园里消失
+Dialogue: 0,0:04:14.80,0:04:17.95,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恩 可以吗 用这种口气说话
+Dialogue: 0,0:04:18.50,0:04:22.09,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你腹中孩子的父亲是我 我会对蓝原说的
+Dialogue: 0,0:04:23.20,0:04:26.02,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 别对晶说
+Dialogue: 0,0:04:27.62,0:04:30.76,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么 不用具有杀菌作用的我的肉棒和你做爱
+Dialogue: 0,0:04:31.18,0:04:33.13,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}把你那里的味道消除掉的话
+Dialogue: 0,0:04:33.19,0:04:35.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}和蓝原是做不了的哦
+Dialogue: 0,0:04:36.79,0:04:40.96,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不然的话 腹中的孩子是不会欺骗蓝原的
+Dialogue: 0,0:04:41.90,0:04:46.44,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你… 真的是最人渣的垃圾
+Dialogue: 0,0:04:47.66,0:04:51.04,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}虽说渚酱这么认为
+Dialogue: 0,0:04:52.25,0:04:54.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}连续三周每天都中出的话
+Dialogue: 0,0:04:55.04,0:04:57.23,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}还真的可能会怀孕
+Dialogue: 0,0:05:00.36,0:05:01.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别用那个
+Dialogue: 0,0:05:01.76,0:05:03.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}渚会变得很奇怪
+Dialogue: 0,0:05:05.05,0:05:07.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}哎呀 来感觉了吗
+Dialogue: 0,0:05:08.34,0:05:11.96,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}明明说过被恶心死宅强暴的话不可能会有感觉的
+Dialogue: 0,0:05:13.71,0:05:15.54,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}才不会舒服呢
+Dialogue: 0,0:05:15.69,0:05:17.91,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}谁会因为这样的事…
+Dialogue: 0,0:05:18.38,0:05:24.19,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}说的也是啊 被恨到想杀掉的对象强暴的话怎么可能有感觉呢
+Dialogue: 0,0:05:25.27,0:05:28.67,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 那个 不行
+Dialogue: 0,0:05:29.01,0:05:34.24,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}用了那个的话 渚要丢了
+Dialogue: 0,0:05:34.25,0:05:38.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}会成为恶心死宅的肉棒的奴隶
+Dialogue: 0,0:05:41.25,0:05:44.62,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}丢了
+Dialogue: 0,0:05:47.93,0:05:49.41,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}好一个高潮
+Dialogue: 0,0:05:49.60,0:05:53.72,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没办法呢 每日都品尝我的肉棒的话
+Dialogue: 0,0:05:54.86,0:05:59.54,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}怎么可能和你高潮 你这个恶心的死宅男
+Dialogue: 0,0:06:00.65,0:06:03.22,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}渚不会让我失望的
+Dialogue: 0,0:06:04.24,0:06:08.36,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不然就不能好好享受步下的暗示了
+Dialogue: 0,0:06:11.83,0:06:15.54,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}哎呀 有电话来了 不接吗
+Dialogue: 0,0:06:15.87,0:06:19.85,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这种时候能接吗 你这人渣
+Dialogue: 0,0:06:20.36,0:06:25.17,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}可能是很重要的事情 请接吧 这是命令
+Dialogue: 0,0:06:26.51,0:06:27.79,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不 不要
+Dialogue: 0,0:06:29.47,0:06:32.45,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太慢了 应该快点接啊 渚
+Dialogue: 0,0:06:33.11,0:06:34.25,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}晶
+Dialogue: 0,0:06:34.31,0:06:37.70,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}抱歉 现在有点忙
+Dialogue: 0,0:06:39.99,0:06:42.65,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行…过会再打给你
+Dialogue: 0,0:06:43.21,0:06:44.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}开什么玩笑
+Dialogue: 0,0:06:45.50,0:06:48.43,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我可是特意打电话给你的
+Dialogue: 0,0:06:48.76,0:06:51.88,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}抱歉 晶 别生气
+Dialogue: 0,0:06:56.18,0:07:01.55,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}因为暗示 完全认为我的电话就是蓝原打来的
+Dialogue: 0,0:07:02.06,0:07:03.93,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}怎么了 发出那么奇怪的声音
+Dialogue: 0,0:07:03.99,0:07:06.55,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没…没什么
+Dialogue: 0,0:07:07.11,0:07:09.08,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}下周日 约会吧
+Dialogue: 0,0:07:11.01,0:07:13.30,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}什么 不高兴吗
+Dialogue: 0,0:07:14.39,0:07:16.78,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}当然很高兴
+Dialogue: 0,0:07:17.94,0:07:22.26,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么 渚的第一次是时候给我了吧
+Dialogue: 0,0:07:22.75,0:07:26.49,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}渚你喜欢我的话 也会想和我做爱吧
+Dialogue: 0,0:07:26.53,0:07:29.15,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别…那个…
+Dialogue: 0,0:07:29.59,0:07:30.61,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:07:31.79,0:07:33.29,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}说什么不要
+Dialogue: 0,0:07:33.53,0:07:36.37,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不是 不是说这个
+Dialogue: 0,0:07:39.98,0:07:43.21,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你上次连让我亲你都不肯
+Dialogue: 0,0:07:43.59,0:07:45.46,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你不喜欢我吗
+Dialogue: 0,0:07:46.02,0:07:48.59,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}喜欢 爱着你
+Dialogue: 0,0:07:49.20,0:07:52.77,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么下次的约会最后要去旅馆哦 再见
+Dialogue: 0,0:07:54.72,0:07:55.77,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}晶
+Dialogue: 0,0:07:57.39,0:08:03.75,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}边和恋人通话 边被恶心死宅肉棒玩弄感觉如何 渚
+Dialogue: 0,0:08:04.92,0:08:07.99,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}死胖子 绝对要杀了你
+Dialogue: 0,0:08:13.02,0:08:16.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}痛…
+Dialogue: 0,0:08:27.25,0:08:31.07,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}死胖子  绝对会拿了你的命
+Dialogue: 0,0:08:31.82,0:08:34.32,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那个态度我不是很接受
+Dialogue: 0,0:08:39.07,0:08:40.41,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}又想干什么
+Dialogue: 0,0:08:43.64,0:08:48.24,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这是什么 阴道的里面很热
+Dialogue: 0,0:08:48.86,0:08:49.77,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}在尿尿？
+Dialogue: 0,0:08:50.00,0:08:53.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 停下来
+Dialogue: 0,0:08:54.09,0:08:56.78,H,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 不要 求你了
+Dialogue: 0,0:08:54.84,0:08:58.79,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}好不容易射在里面 被尿冲掉了呢
+Dialogue: 0,0:08:59.20,0:09:01.75,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我又不是便器
+Dialogue: 0,0:09:01.94,0:09:07.26,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要在我里面尿尿
+Dialogue: 0,0:09:07.96,0:09:11.63,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没有比渚更适合成为便器的女人了
+Dialogue: 0,0:09:15.02,0:09:16.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}开什么玩笑
+Dialogue: 0,0:09:17.09,0:09:20.91,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要我做你的性奴
+Dialogue: 0,0:09:21.07,0:09:26.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}真亏你能说出那么恬不知耻的话来
+Dialogue: 0,0:09:28.02,0:09:31.70,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}但是没有姬乃选择的余地
+Dialogue: 0,0:09:33.32,0:09:35.37,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}放开我 你这变态
+Dialogue: 0,0:09:35.60,0:09:40.17,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}难道…要
+Dialogue: 0,0:00:15.02,0:00:15.02,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}强暴
+Dialogue: 0,0:09:40.46,0:09:44.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}停手 绝对里面不可以在
+Dialogue: 0,0:09:45.30,0:09:47.31,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要…
+Dialogue: 0,0:09:47.63,0:09:52.94,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}哎呀 学生会会长大人好像希望被强暴呢
+Dialogue: 0,0:09:54.13,0:09:58.58,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我决不会希望被强暴
+Dialogue: 0,0:09:59.04,0:10:01.41,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没必要隐藏内心
+Dialogue: 0,0:10:02.08,0:10:05.90,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}在厕所自慰弄到下体全湿的大变态说什么都没用
+Dialogue: 0,0:10:06.01,0:10:07.44,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别那么过分
+Dialogue: 0,0:10:07.91,0:10:10.98,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}再侮辱我的话 可就…
+Dialogue: 0,0:10:12.16,0:10:15.26,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么 请回忆起一切
+Dialogue: 0,0:10:15.44,0:10:19.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}当然是催眠状态时的所有事情
+Dialogue: 0,0:10:22.66,0:10:24.63,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么 姬乃大小姐
+Dialogue: 0,0:10:24.84,0:10:28.11,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}向我献上将你的宝贵初吻
+Dialogue: 0,0:10:29.74,0:10:30.50,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:10:31.46,0:10:31.98,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不可以
+Dialogue: 0,0:10:32.52,0:10:35.94,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}身体不由自主地 停下来…
+Dialogue: 0,0:10:38.22,0:10:42.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我的初吻对象竟然是那么臭的肉棒
+Dialogue: 0,0:10:47.50,0:10:52.58,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}被那么臭的肉棒侵犯口唇 还深入喉咙
+Dialogue: 0,0:10:53.67,0:10:57.88,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}为什么我被这样玩弄着还会有快感
+Dialogue: 0,0:11:01.74,0:11:03.15,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}射出来了
+Dialogue: 0,0:11:04.30,0:11:08.86,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}明明像死一般难受 却那么舒服
+Dialogue: 0,0:11:09.35,0:11:11.61,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}丢了
+Dialogue: 0,0:11:12.51,0:11:15.21,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 停下来
+Dialogue: 0,0:11:15.37,0:11:20.47,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么肮脏的东西插进我的身体里
+Dialogue: 0,0:11:24.41,0:11:28.72,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}被灌肠灌多了 已经扩张开的肛门还那么痛
+Dialogue: 0,0:11:29.12,0:11:32.43,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这肉棒到底有多粗
+Dialogue: 0,0:11:32.69,0:11:34.19,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:11:34.35,0:11:38.71,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要翻过来了 菊花要翻坏了
+Dialogue: 0,0:11:40.07,0:11:42.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要坏掉了
+Dialogue: 0,0:11:51.34,0:11:54.50,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}竟然被男人打屁股
+Dialogue: 0,0:11:54.76,0:11:58.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}明明屈辱到令我不想活下去
+Dialogue: 0,0:12:02.01,0:12:03.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太奇怪了
+Dialogue: 0,0:12:03.92,0:12:06.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}被打殴打竟然还有快感
+Dialogue: 0,0:12:06.76,0:12:08.33,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我是变态吗
+Dialogue: 0,0:12:09.69,0:12:11.50,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:12:12.05,0:12:15.75,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}菊花被这样翻弄着 就要丢了
+Dialogue: 0,0:12:20.01,0:12:23.99,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}丢了
+Dialogue: 0,0:12:47.46,0:12:48.93,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}想起来了吗
+Dialogue: 0,0:12:49.12,0:12:50.58,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这里是…
+Dialogue: 0,0:12:55.26,0:12:58.08,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}动画研究室里的秘密房间
+Dialogue: 0,0:12:59.01,0:13:00.61,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}难道…
+Dialogue: 0,0:13:01.01,0:13:05.34,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}刚才的真的是我全部体验过的事
+Dialogue: 0,0:13:06.58,0:13:12.04,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恕我冒昧 我打算实现你的愿望
+Dialogue: 0,0:13:09.91,0:13:12.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}住手 请住手
+Dialogue: 0,0:13:13.37,0:13:17.47,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}身体被束缚 初次被强行夺走
+Dialogue: 0,0:13:17.78,0:13:18.82,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}如何
+Dialogue: 0,0:13:18.99,0:13:21.83,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这可是姬乃你连作梦都想的情景吧
+Dialogue: 0,0:13:23.14,0:13:24.13,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不可能
+Dialogue: 0,0:13:24.60,0:13:28.51,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}怎么可能我的愿望是被任意地蹂躏
+Dialogue: 0,0:13:29.47,0:13:32.64,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}怎么…可能
+Dialogue: 0,0:13:34.23,0:13:40.58,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}高贵的大小姐渴望着被卑贱的下人\N将自己的身体当作肉体便器一般使用
+Dialogue: 0,0:13:43.37,0:13:44.35,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}很美妙
+Dialogue: 0,0:13:44.68,0:13:47.16,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:13:49.16,0:13:50.54,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要看
+Dialogue: 0,0:13:51.33,0:13:54.26,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我真的会被强暴吗
+Dialogue: 0,0:13:54.38,0:13:56.41,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}像书里描绘的少女一样
+Dialogue: 0,0:13:56.68,0:14:00.09,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}会被强暴 会有感觉吗
+Dialogue: 0,0:14:01.02,0:14:04.15,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}来 现在我要插进去了
+Dialogue: 0,0:14:04.32,0:14:06.55,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行 唯有那个不行
+Dialogue: 0,0:14:06.67,0:14:11.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我的贞节是可以享受优遇的重要财产
+Dialogue: 0,0:14:11.27,0:14:15.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}求你了 处女膜绝不可以弄破
+Dialogue: 0,0:14:15.13,0:14:17.22,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}除了那个什么都可以为你做
+Dialogue: 0,0:14:17.52,0:14:22.35,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}他肯定不会听从我的请求 就这样被夺去处子之身
+Dialogue: 0,0:14:22.61,0:14:29.07,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}被死宅强暴对女性而言是最糟糕的初体验了
+Dialogue: 0,0:14:30.98,0:14:36.02,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}来吧 以恶心宅男的肉棒为剑 来夺走你的处子之身
+Dialogue: 0,0:14:36.18,0:14:38.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要  住手
+Dialogue: 0,0:14:38.89,0:14:43.13,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我什么都愿意做 钱你要多少给你多少
+Dialogue: 0,0:14:43.35,0:14:46.35,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯有处子之身…
+Dialogue: 0,0:14:46.75,0:14:48.64,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}什么都愿意为我做吗
+Dialogue: 0,0:14:49.39,0:14:51.31,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恩 当然
+Dialogue: 0,0:14:51.73,0:14:56.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么 恭敬不如从命 让姬乃你替我生个孩子吧
+Dialogue: 0,0:14:57.10,0:14:58.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}等一下
+Dialogue: 0,0:15:04.13,0:15:05.60,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}痛… 很痛…
+Dialogue: 0,0:15:06.32,0:15:10.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}痛得不得了 那里要裂开了
+Dialogue: 0,0:15:10.58,0:15:13.77,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这就是被男人蹂躏的痛楚
+Dialogue: 0,0:15:13.91,0:15:18.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我精心呵护的身体被粗暴地蹂躏的痛楚
+Dialogue: 0,0:15:21.16,0:15:23.71,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}现在给我拔出来
+Dialogue: 0,0:15:24.12,0:15:28.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别再用大肉棒侵犯我了
+Dialogue: 0,0:15:28.68,0:15:34.71,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恶心死宅的肉棒在我体内 为了播种而努力抽插
+Dialogue: 0,0:15:37.19,0:15:38.16,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}痛…
+Dialogue: 0,0:15:38.48,0:15:40.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}乳头要折断了
+Dialogue: 0,0:15:42.35,0:15:44.65,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你希望被这样玩弄吧
+Dialogue: 0,0:15:45.22,0:15:47.07,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这样会有感觉吧
+Dialogue: 0,0:15:48.51,0:15:49.55,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}开什么玩笑
+Dialogue: 0,0:15:49.81,0:15:55.52,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}遭此大辱怎会有快感
+Dialogue: 0,0:15:56.59,0:15:58.68,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}何等强烈的快感
+Dialogue: 0,0:15:59.08,0:16:06.48,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}每当痛楚游走于性器与乳头 如遭雷击般屈辱的快感却散布全身
+Dialogue: 0,0:16:07.02,0:16:09.54,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}违背不了这快感
+Dialogue: 0,0:16:10.04,0:16:14.85,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}书里描绘的少女受到凌辱时的感觉
+Dialogue: 0,0:16:15.53,0:16:17.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}现在是身临其境
+Dialogue: 0,0:16:19.74,0:16:23.81,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}住手 别再凌辱我了
+Dialogue: 0,0:16:24.54,0:16:27.71,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}再这样的话就无法回头了
+Dialogue: 0,0:16:36.07,0:16:38.83,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}连初吻都给了这种人渣
+Dialogue: 0,0:16:39.45,0:16:41.65,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}初吻应该是和喜欢的人…
+Dialogue: 0,0:16:42.25,0:16:44.78,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我曾经这样想的
+Dialogue: 0,0:16:45.37,0:16:52.27,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不用担心 姬乃的初吻早已献给我的肉棒了
+Dialogue: 0,0:16:54.89,0:16:57.33,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要…
+Dialogue: 0,0:16:58.38,0:17:02.81,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}就像约定那样 让大小姐怀上我的孩子吧
+Dialogue: 0,0:17:03.98,0:17:06.48,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}难道你想在里面射精吗
+Dialogue: 0,0:17:06.65,0:17:10.36,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那个不行 只有那个绝对不行
+Dialogue: 0,0:17:10.59,0:17:14.17,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恶心宅男的精液竟然要进入我的子宫
+Dialogue: 0,0:17:14.62,0:17:18.90,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}如果受精怀上死宅的孩子
+Dialogue: 0,0:17:19.23,0:17:22.96,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}会被人戳着脊梁骂 光想就毛骨悚然
+Dialogue: 0,0:17:23.90,0:17:24.62,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要射了
+Dialogue: 0,0:17:27.67,0:17:29.43,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}射进来了
+Dialogue: 0,0:17:30.06,0:17:30.93,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}在我的体内…
+Dialogue: 0,0:17:31.21,0:17:34.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}在阴道里… 在子宫里…
+Dialogue: 0,0:17:46.68,0:17:49.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}万事俱休…
+Dialogue: 0,0:17:49.32,0:17:52.20,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}被夺走处女之身还被射在里面
+Dialogue: 0,0:17:52.41,0:17:58.16,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我已经突破了作为女人的底线
+Dialogue: 0,0:18:00.71,0:18:03.85,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这样的话做为大小姐的价值已经不复存在了
+Dialogue: 0,0:18:04.13,0:18:08.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}请你死心蹋地地成为我的性奴
+Dialogue: 0,0:18:08.71,0:18:13.56,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你在开玩笑吗 谁会做你这个恶心死宅人渣的…
+Dialogue: 0,0:18:16.69,0:18:18.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}看你能嘴硬到什么时候
+Dialogue: 0,0:18:20.89,0:18:22.07,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你这人渣
+Dialogue: 0,0:18:22.36,0:18:23.95,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}还想射吗
+Dialogue: 0,0:18:24.31,0:18:27.13,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行 已经是极限了
+Dialogue: 0,0:18:29.18,0:18:31.42,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我已经说不行了
+Dialogue: 0,0:18:35.79,0:18:37.36,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}好惊人的量
+Dialogue: 0,0:18:38.06,0:18:41.45,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这样的话真的会怀孕的
+Dialogue: 0,0:18:42.28,0:18:43.99,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行
+Dialogue: 0,0:18:44.22,0:18:47.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}真的会…怀孕的…
+Dialogue: 0,0:18:51.74,0:18:54.39,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}又射出来了
+Dialogue: 0,0:18:54.64,0:18:58.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}射在里面 我丢了
+Dialogue: 0,0:19:00.11,0:19:03.63,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}滑进滑出 滑进滑出 乳摇胸涌
+Dialogue: 0,0:19:03.94,0:19:07.08,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}屁眼菊花 我是性奴
+Dialogue: 0,0:19:07.65,0:19:09.78,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}做你的性奴
+Dialogue: 0,0:19:14.18,0:19:19.18,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我就变身成为你的性奴了
+Dialogue: 0,0:19:20.68,0:19:25.20,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}快点给我精液 主人
+Dialogue: 0,0:19:25.70,0:19:27.82,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}拿你这大小姐没办法
+Dialogue: 0,0:19:32.54,0:19:33.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}插进来了
+Dialogue: 0,0:19:33.92,0:19:37.93,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}插进来了 主人的肉棒
+Dialogue: 0,0:19:38.09,0:19:40.82,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}插到菊花眼里了
+Dialogue: 0,0:19:56.99,0:19:58.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}游戏结束了
+Dialogue: 0,0:19:58.93,0:20:02.66,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}接下来轮到你了 唯奈
+Dialogue: 0,0:20:08.37,0:20:11.13,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}在太志的面前 穿着体操服
+Dialogue: 0,0:20:11.46,0:20:13.44,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}人家很害羞的说
+Dialogue: 0,0:20:13.73,0:20:15.91,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我们是恋人吧
+Dialogue: 0,0:20:17.01,0:20:17.90,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}但是…
+Dialogue: 0,0:20:18.55,0:20:24.03,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恋人之间也有不穿体操服 赤身裸体的哟
+Dialogue: 0,0:20:24.94,0:20:28.10,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}就是说 唯奈和太志
+Dialogue: 0,0:20:29.36,0:20:31.58,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}今天被邀请过来
+Dialogue: 0,0:20:32.02,0:20:33.61,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}想到过难不成会是那个
+Dialogue: 0,0:20:33.98,0:20:37.65,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}果然是初体验吗
+Dialogue: 0,0:20:39.15,0:20:40.24,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太志
+Dialogue: 0,0:20:48.65,0:20:51.08,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么进入成人时间
+Dialogue: 0,0:20:52.82,0:20:57.50,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}请想起催眠时发生的所有事情
+Dialogue: 0,0:21:01.52,0:21:02.79,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这是什么
+Dialogue: 0,0:21:03.58,0:21:06.19,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈 为何会做那样的事
+Dialogue: 0,0:21:06.65,0:21:08.26,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}而且我…
+Dialogue: 0,0:21:09.02,0:21:13.78,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}并不喜欢佐藤却接吻了
+Dialogue: 0,0:21:20.45,0:21:23.41,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}哎呀 没事吧 唯奈
+Dialogue: 0,0:21:24.66,0:21:27.64,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这全都是佐藤做过的事吗
+Dialogue: 0,0:21:28.71,0:21:31.61,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}正是 使用了催眠术
+Dialogue: 0,0:21:32.11,0:21:35.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太过分了 为什么要对唯奈做如此过分的事
+Dialogue: 0,0:21:35.97,0:21:39.47,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你是最差劲的人渣 变态
+Dialogue: 0,0:21:39.85,0:21:41.89,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我不决会原谅你的
+Dialogue: 0,0:21:42.38,0:21:43.81,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没关系
+Dialogue: 0,0:21:43.99,0:21:47.55,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈反正会爱上我的
+Dialogue: 0,0:21:47.82,0:21:49.90,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我会爱上佐藤？
+Dialogue: 0,0:21:50.10,0:21:52.25,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}怎么可能
+Dialogue: 0,0:21:56.35,0:21:59.46,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 住手
+Dialogue: 0,0:21:59.57,0:22:04.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}打扮得这样性感而且下体湿透 来诱惑我的不正是唯奈吗
+Dialogue: 0,0:22:05.48,0:22:08.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那是你用催眠术强行…
+Dialogue: 0,0:22:09.67,0:22:13.50,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 求你了 唯有那个…
+Dialogue: 0,0:22:14.46,0:22:17.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 我不想把初次给你
+Dialogue: 0,0:22:18.17,0:22:19.91,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈的初体验
+Dialogue: 0,0:22:20.42,0:22:23.19,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}请好好铭记在心
+Dialogue: 0,0:22:27.61,0:22:30.53,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这是唯奈阴道里的触感吗
+Dialogue: 0,0:22:31.22,0:22:32.76,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}好棒了
+Dialogue: 0,0:22:34.15,0:22:37.39,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}疼 很疼 非常疼
+Dialogue: 0,0:22:37.69,0:22:39.89,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}很快就会变舒服的
+Dialogue: 0,0:22:39.89,0:22:45.13,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}因为我每每突刺你的子宫就会布下快感的暗示
+Dialogue: 0,0:22:47.64,0:22:53.11,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}快感越强 布下的暗示会让你对我的爱也会越深
+Dialogue: 0,0:22:53.49,0:22:57.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要 不要那样 停下来
+Dialogue: 0,0:22:57.68,0:23:00.42,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别突刺唯奈的子宫
+Dialogue: 0,0:23:01.06,0:23:05.23,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别让唯奈感觉更舒服
+Dialogue: 0,0:23:05.43,0:23:09.58,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}痛…那里像撕裂般疼痛
+Dialogue: 0,0:23:10.06,0:23:12.49,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}为什么会舒服来起呢
+Dialogue: 0,0:23:13.44,0:23:17.01,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}为什么 对佐藤的爱意越来越深
+Dialogue: 0,0:23:18.68,0:23:21.39,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}看来已经很舒服了
+Dialogue: 0,0:23:21.87,0:23:24.42,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}即是对我…
+Dialogue: 0,0:23:25.54,0:23:27.17,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}没有那样的事
+Dialogue: 0,0:23:27.41,0:23:30.85,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}强暴我那会有快感
+Dialogue: 0,0:23:31.09,0:23:34.05,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么为了唯奈拥有更强烈的快感
+Dialogue: 0,0:23:34.36,0:23:36.04,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}更加激烈地抽插吧
+Dialogue: 0,0:23:37.08,0:23:40.63,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行 肉棒顶到最深处了
+Dialogue: 0,0:23:41.59,0:23:44.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别突刺子宫 别…
+Dialogue: 0,0:23:44.22,0:23:47.34,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}别再让我更舒服
+Dialogue: 0,0:23:48.07,0:23:50.11,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}为什么腰会自己动起来
+Dialogue: 0,0:23:50.56,0:23:54.23,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}就像自慰时太舒服停不下来时一样
+Dialogue: 0,0:23:54.98,0:23:56.21,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}如何
+Dialogue: 0,0:23:56.30,0:23:59.75,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}冲击子宫快感连连 受不了对吧
+Dialogue: 0,0:24:00.29,0:24:03.21,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}请不要忍耐 可以高潮哦
+Dialogue: 0,0:24:03.72,0:24:07.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}高潮…在太志面前高潮 我不要…
+Dialogue: 0,0:24:09.21,0:24:11.48,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}但是 但是…
+Dialogue: 0,0:24:12.15,0:24:16.10,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太舒服了 已经忍耐到极限了
+Dialogue: 0,0:24:16.55,0:24:19.83,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}内射之后到达高潮顶峰
+Dialogue: 0,0:24:19.89,0:24:24.67,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这样的话唯奈的肉体就会一直想要和我H了
+Dialogue: 0,0:24:25.50,0:24:29.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}和喜恶无关 你的身体会向述说我欲求不满
+Dialogue: 0,0:24:30.85,0:24:34.75,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那样 不行 别内爆
+Dialogue: 0,0:24:34.88,0:24:38.18,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}今天是危险期 会怀孕的
+Dialogue: 0,0:24:38.60,0:24:42.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}嘴上说不要 身体却很老实呢
+Dialogue: 0,0:24:42.99,0:24:45.34,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}绝对不要内爆
+Dialogue: 0,0:24:46.22,0:24:48.83,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}分明讨厌 分明不要
+Dialogue: 0,0:24:49.64,0:24:53.12,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}身体的快感已经占据你的身心
+Dialogue: 0,0:24:55.61,0:24:58.77,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行 会有小孩的 我不要怀孕
+Dialogue: 0,0:24:59.17,0:25:01.46,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}来 完全堕落吧
+Dialogue: 0,0:25:04.18,0:25:06.55,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不要…
+Dialogue: 0,0:25:06.98,0:25:13.52,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}射精了 精液注满了子宫
+Dialogue: 0,0:25:16.68,0:25:18.97,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}感觉如何
+Dialogue: 0,0:25:19.43,0:25:26.15,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我还要 我还要你把我里面捅得咕唧咕唧作响
+Dialogue: 0,0:25:26.33,0:25:29.89,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么能再给我另一个处女吗
+Dialogue: 0,0:25:29.96,0:25:31.75,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}恩 给你
+Dialogue: 0,0:25:31.78,0:25:36.56,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈的处女有多少便给太志多少
+Dialogue: 0,0:25:39.08,0:25:43.80,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}虽说是第一次 但已经调教完成 很顺滑呢
+Dialogue: 0,0:25:44.46,0:25:51.26,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}屁眼… 梦到过好多次的 和太志的菊花性交
+Dialogue: 0,0:25:51.73,0:25:56.47,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}现实中的太志牌肉棒 很爽
+Dialogue: 0,0:25:56.49,0:25:59.23,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}屁眼 很爽
+Dialogue: 0,0:25:59.26,0:26:01.57,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}硬硬的 粗大的
+Dialogue: 0,0:26:02.56,0:26:05.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}进进出出地抽插着
+Dialogue: 0,0:26:05.56,0:26:08.84,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}那么再次射在里面
+Dialogue: 0,0:26:09.72,0:26:13.51,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}射吧 射在唯奈的屁眼里
+Dialogue: 0,0:26:18.01,0:26:21.24,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这次精液射在屁眼里了
+Dialogue: 0,0:26:23.14,0:26:26.81,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要高潮 要高潮了
+Dialogue: 0,0:26:26.85,0:26:29.31,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}子宫要坏掉了
+Dialogue: 0,0:26:29.74,0:26:34.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}肉棒插到子宫深处了
+Dialogue: 0,0:26:37.03,0:26:39.28,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}高潮了…
+Dialogue: 0,0:26:44.72,0:26:49.32,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}唯奈的身心已经归于我了
+Dialogue: 0,0:26:57.68,0:27:02.09,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}熏子我已经有男有了 却在做爱
+Dialogue: 0,0:27:02.45,0:27:04.31,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}人家还没结婚的说
+Dialogue: 0,0:27:05.49,0:27:09.17,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}却要怀上太志的孩子了
+Dialogue: 0,0:27:10.65,0:27:15.68,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}和其它女人一样 差不多准备调教熏子老师了
+Dialogue: 0,0:27:18.45,0:27:23.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}快点射出来 我随时会打扮成太志喜欢的样子
+Dialogue: 0,0:27:24.14,0:27:29.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}快点把浓浓的精液在小百合的里面射出来
+Dialogue: 0,0:27:31.20,0:27:33.88,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太过激烈了 主人
+Dialogue: 0,0:27:34.20,0:27:36.91,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}每日都用菊花的话
+Dialogue: 0,0:27:37.78,0:27:42.74,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我的肛门会变得松松垮垮的
+Dialogue: 0,0:27:44.41,0:27:47.51,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}不行 死胖子不能射在里面
+Dialogue: 0,0:27:47.91,0:27:51.68,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}还是危险期 真的很危险的
+Dialogue: 0,0:27:51.94,0:27:54.46,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我不想怀上死胖子的孩子
+Dialogue: 0,0:27:54.77,0:27:58.93,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}只要别让我怀孕…
+Dialogue: 0,0:27:59.74,0:28:03.09,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}孩子快要出世了
+Dialogue: 0,0:28:03.42,0:28:05.46,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}先用口交忍耐着吧
+Dialogue: 0,0:28:05.67,0:28:11.30,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}作为补偿 太志的精液我全喝下去
+Dialogue: 0,0:28:13.82,0:28:16.57,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}太志 快点射出来
+Dialogue: 0,0:28:16.76,0:28:19.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}快点让熏子我怀孕
+Dialogue: 0,0:28:20.51,0:28:21.87,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}要射了
+Dialogue: 0,0:28:26.59,0:28:30.79,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}为了让熏子我怀孕 太志的精液射进了
+Dialogue: 0,0:28:32.00,0:28:34.32,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}丢了…
+Dialogue: 0,0:28:35.88,0:28:37.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}进来了
+Dialogue: 0,0:28:37.84,0:28:44.38,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}为了能让熏子的卵子受精 太志的精子向着输卵管前行
+Dialogue: 0,0:28:45.10,0:28:48.30,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}加油 太志的精子
+Dialogue: 0,0:28:49.14,0:28:53.67,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你的绝对做得到 老师我相信你
+Dialogue: 0,0:00:15.02,0:00:15.02,Default,NTP,0,0,0,,
+Dialogue: 0,0:28:55.57,0:28:57.42,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}绝对不会原谅你
+Dialogue: 0,0:28:58.74,0:29:04.40,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}比起游戏 和可爱的熏子我作性交练习吧
+Dialogue: 0,0:29:06.26,0:29:08.69,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}老师是不同次元的
+Dialogue: 0,0:29:08.96,0:29:12.21,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这孩子是属于我的
+Dialogue: 0,0:29:13.43,0:29:17.94,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}但是飘逸长发的话 比较适合唯奈
+Dialogue: 0,0:29:18.40,0:29:21.27,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}我说了我是本尊
+Dialogue: 0,0:29:21.68,0:29:27.59,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}说到金发高贵女角色的话 没有人比我更加适合了吧
+Dialogue: 0,0:29:27.94,0:29:30.22,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}你是其它作品里的吧
+Dialogue: 0,0:29:30.90,0:29:35.77,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}对啊 我们一起来玩吧 主人
+Dialogue: 0,0:29:37.11,0:29:38.14,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}这是谁？
+Dialogue: 0,0:29:38.56,0:29:41.89,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}可恶 反正我是多余的…
+Dialogue: 0,0:29:38.12,0:29:41.91,Default,NTP,0,0,0,,{\fnMicrosoft YaHei\fs30\bord2\shad2\2c&H00FFFF&\3c&H800080&\be1}（大字：工口游戏要另外付费）
+

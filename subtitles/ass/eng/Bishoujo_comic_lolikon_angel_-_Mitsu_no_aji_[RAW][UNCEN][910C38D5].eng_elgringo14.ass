@@ -1,0 +1,232 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+; 
+; Advanced Sub Station Alpha script format developed by #Anime-Fansubs@EfNET
+; http://www.anime-fansubs.org
+; 
+; For additional info and downloads go to http://gabest.org/
+; or email gabest@freemail.hu
+; 
+; Note: This file was saved by Subresync.
+; 
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+Export filters: Transform Framerate|Clean Script Info|Fix Styles
+Video File: Bishoujo_Comic_Lolikon_Angel_-_Mitsu_no_Aji_[352x240](RAW)(unc).avi
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Comic Sans MS,42,&H00FFFFFF,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0.00,1,1,0,2,15,15,15,1
+Style: Default,Arial,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,20,20,20,1
+Style: English,Book Antiqua,30,&H00FFFFFF,&H00EFEFEF,&H00010108,&H80010108,-1,0,0,0,100,100,0,0.00,1,2,0,2,25,25,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:19.01,0:00:19.01,English,,0000,0000,0000,,The next five lines are still under suspicion :-o
+
+Dialogue: 0,0:00:02.74,0:00:07.74,Default,,0000,0000,0000,,Original brazilian script: [Lolicon-Anonimos] \N \N English script & muxing: elgringo14 \N \N Special thanks to narrru, mike74, jfgslo \N and 8BB76E1 (and redrooster ^o^)
+Dialogue: 0,0:00:15.30,0:00:19.01,English,,0000,0000,0000,,Hey, Aiko, did you see how {\i1}that{\i0} thing is?
+Dialogue: 0,0:00:19.01,0:00:22.43,English,,0000,0000,0000,,For sure! I have a little brother after all.
+Dialogue: 0,0:00:23.35,0:00:25.35,English,,0000,0000,0000,,Wow, is it true that it becomes really hard?
+Dialogue: 0,0:00:25.35,0:00:29.81,English,,0000,0000,0000,,That's right, and it's really \N amazing when it moves!
+Dialogue: 0,0:00:31.40,0:00:35.36,English,,0000,0000,0000,,Incredible! If only I had a little brother too.
+Dialogue: 0,0:00:36.48,0:00:37.94,English,,0000,0000,0000,,Finished...
+Dialogue: 0,0:00:41.20,0:00:43.53,English,,0000,0000,0000,,Hey, Yuka, are you leaving?
+Dialogue: 0,0:00:43.53,0:00:46.95,English,,0000,0000,0000,,Of course. If I don't hurry, the class will start.
+Dialogue: 0,0:00:50.87,0:00:52.46,English,,0000,0000,0000,,Wait a bit more.
+Dialogue: 0,0:01:02.17,0:01:04.67,English,,0000,0000,0000,,What? Stop it.
+Dialogue: 0,0:01:10.35,0:01:11.76,English,,0000,0000,0000,,It hurts...
+Dialogue: 0,0:01:17.60,0:01:20.02,English,,0000,0000,0000,,No! Stop! What are you doing?
+Dialogue: 0,0:01:20.02,0:01:21.77,English,,0000,0000,0000,,1... 2!
+Dialogue: 0,0:01:33.90,0:01:36.03,English,,0000,0000,0000,,No...
+Dialogue: 0,0:01:43.08,0:01:45.46,English,,0000,0000,0000,,No way... please...
+Dialogue: 0,0:02:51.68,0:03:01.16,Title,,0000,0000,0000,,Lolicon Angel Part 1:\NWatashi-tachi Shoujo Tanteidan \N (Our Girls Detective Team)
+Dialogue: 0,0:03:01.90,0:03:03.77,English,,0000,0000,0000,,Who will check whom?
+Dialogue: 0,0:03:03.77,0:03:05.65,English,,0000,0000,0000,,Draw it! Draw it!
+Dialogue: 0,0:03:06.44,0:03:09.03,English,,0000,0000,0000,,The incident happened after school today.
+Dialogue: 0,0:03:09.78,0:03:14.70,English,,0000,0000,0000,,Excluding the ones present at \N the time of Physical Education...
+Dialogue: 0,0:03:14.70,0:03:19.74,English,,0000,0000,0000,,The suspects are Mari-chan, \N Akihiko-kun and Granpa Youmai.
+Dialogue: 0,0:03:19.74,0:03:23.66,English,,0000,0000,0000,,Let's decide by draw who will investigate whom.
+Dialogue: 0,0:03:25.66,0:03:28.66,Default,,0000,0000,0000,,Science Lab
+Dialogue: 0,0:03:29.42,0:03:32.26,English,,0000,0000,0000,,Are you saying that I stole money?
+Dialogue: 0,0:03:32.26,0:03:33.97,English,,0000,0000,0000,,That's not what I said.
+Dialogue: 0,0:03:34.13,0:03:38.89,English,,0000,0000,0000,,I'm just asking because you were the only \N one to study during Physical Education.
+Dialogue: 0,0:03:38.89,0:03:42.64,English,,0000,0000,0000,,Then you accuse someone without knowing?
+Dialogue: 0,0:03:42.64,0:03:44.64,English,,0000,0000,0000,,You shouldn't do that!
+Dialogue: 0,0:03:47.68,0:03:50.56,English,,0000,0000,0000,,What a noise! Can't you make a bit of silence?
+Dialogue: 0,0:03:52.90,0:03:53.98,English,,0000,0000,0000,,Teacher!
+Dialogue: 0,0:03:53.98,0:03:56.03,English,,0000,0000,0000,,What's happening, Mari-chan?
+Dialogue: 0,0:03:56.03,0:03:59.07,English,,0000,0000,0000,,Help me, Aiko is bothering me!
+Dialogue: 0,0:04:00.20,0:04:03.32,English,,0000,0000,0000,,I did nothing, and she called me a thief!
+Dialogue: 0,0:04:03.61,0:04:05.24,English,,0000,0000,0000,,Alright, I understand.
+Dialogue: 0,0:04:08.16,0:04:09.70,English,,0000,0000,0000,,Hum, I...
+Dialogue: 0,0:04:09.70,0:04:12.12,English,,0000,0000,0000,,You! Mari is an honest girl.
+Dialogue: 0,0:04:12.12,0:04:14.71,English,,0000,0000,0000,,To accuse others of theft is bad.
+Dialogue: 0,0:04:15.46,0:04:19.09,English,,0000,0000,0000,,This child will receive from God \N the punishment she deserves.
+Dialogue: 0,0:04:20.50,0:04:22.88,English,,0000,0000,0000,,Stay in front of the table with both hands on it.
+Dialogue: 0,0:04:24.38,0:04:24.84,English,,0000,0000,0000,,Yes...
+Dialogue: 0,0:04:44.61,0:04:45.36,English,,0000,0000,0000,,No!!!
+Dialogue: 0,0:04:56.03,0:04:58.66,English,,0000,0000,0000,,Now, you have to prepare for this.
+Dialogue: 0,0:05:02.87,0:05:04.83,English,,0000,0000,0000,,I will show you!
+Dialogue: 0,0:05:12.67,0:05:15.80,English,,0000,0000,0000,,Be prepared for it.
+Dialogue: 0,0:05:30.90,0:05:33.98,English,,0000,0000,0000,,How is it? Makes you think \N a little about what you did?
+Dialogue: 0,0:05:40.15,0:05:41.74,English,,0000,0000,0000,,I will climax soon.
+Dialogue: 0,0:05:54.12,0:05:57.38,English,,0000,0000,0000,,Teacher, stop with these perverted things!
+Dialogue: 0,0:05:57.38,0:05:59.34,English,,0000,0000,0000,,W-what? You call this "perverted"?
+Dialogue: 0,0:05:59.34,0:06:01.59,English,,0000,0000,0000,,You don't even know what "perverted" is.
+Dialogue: 0,0:06:01.59,0:06:04.17,English,,0000,0000,0000,,Good, let me give you a lesson now.
+Dialogue: 0,0:06:07.88,0:06:10.76,English,,0000,0000,0000,,Mari-chan, you will be my assistant.
+Dialogue: 0,0:06:10.76,0:06:11.76,English,,0000,0000,0000,,Yes, professor!
+Dialogue: 0,0:06:11.76,0:06:13.60,English,,0000,0000,0000,,Be a good experimentalist.
+Dialogue: 0,0:06:13.60,0:06:15.93,English,,0000,0000,0000,,Why are you doing this to me?
+Dialogue: 0,0:06:16.89,0:06:20.23,English,,0000,0000,0000,,We'll start the "perverted" experiments now.
+Dialogue: 0,0:06:20.56,0:06:22.40,English,,0000,0000,0000,,Yes, professor!
+Dialogue: 0,0:06:22.98,0:06:26.40,English,,0000,0000,0000,,First, I'll see how much voltage she can withstand.
+Dialogue: 0,0:06:29.61,0:06:32.45,English,,0000,0000,0000,,Professor? I think this is a good value.
+Dialogue: 0,0:06:32.45,0:06:34.45,English,,0000,0000,0000,,Increase a bit more.
+Dialogue: 0,0:06:40.54,0:06:42.41,English,,0000,0000,0000,,Stop... no...
+Dialogue: 0,0:06:43.41,0:06:47.50,English,,0000,0000,0000,,Stop... I did nothing... please...
+Dialogue: 0,0:06:57.80,0:07:01.72,English,,0000,0000,0000,,Hey, hey, don't make it violent, \N you want to flood the classroom?
+Dialogue: 0,0:07:01.72,0:07:03.89,English,,0000,0000,0000,,Teacher? Should I increase the voltage again?
+Dialogue: 0,0:07:03.89,0:07:05.60,English,,0000,0000,0000,,No, this is enough.
+Dialogue: 0,0:07:05.60,0:07:07.27,English,,0000,0000,0000,,Let's move to the next experiment.
+Dialogue: 0,0:07:08.89,0:07:11.81,English,,0000,0000,0000,,Can we continue with something like this?
+Dialogue: 0,0:07:11.81,0:07:17.44,English,,0000,0000,0000,,Hmm, a test tube... Well, why not. We have \N to do a series of experiments anyway.
+Dialogue: 0,0:07:28.79,0:07:29.91,English,,0000,0000,0000,,What?
+Dialogue: 0,0:07:31.04,0:07:32.25,English,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:07:43.13,0:07:46.05,English,,0000,0000,0000,,What is this strange feeling?
+Dialogue: 0,0:07:46.05,0:07:48.05,English,,0000,0000,0000,,Professor? We also have this one.
+Dialogue: 0,0:07:48.47,0:07:50.30,English,,0000,0000,0000,,Let's try, give it to me.
+Dialogue: 0,0:07:50.89,0:07:52.97,English,,0000,0000,0000,,Stop, not with this...
+Dialogue: 0,0:07:52.97,0:07:55.64,English,,0000,0000,0000,,Don't use it, I beg you!
+Dialogue: 0,0:08:02.98,0:08:04.32,English,,0000,0000,0000,,Chilly...
+Dialogue: 0,0:08:11.74,0:08:12.66,English,,0000,0000,0000,,No...!
+Dialogue: 0,0:08:13.57,0:08:14.87,English,,0000,0000,0000,,That hurts.
+Dialogue: 0,0:08:35.88,0:08:38.09,English,,0000,0000,0000,,I have such a strange feeling...
+Dialogue: 0,0:09:06.58,0:09:08.70,English,,0000,0000,0000,,Somebody help me, I'm gonna die!
+Dialogue: 0,0:09:18.25,0:09:19.29,English,,0000,0000,0000,,How cute.
+Dialogue: 0,0:09:33.31,0:09:35.14,English,,0000,0000,0000,,Professor, I love you.
+Dialogue: 0,0:10:16.43,0:10:20.01,English,,0000,0000,0000,,Feels good, I can't stand it anymore...
+Dialogue: 0,0:10:39.03,0:10:42.49,English,,0000,0000,0000,,Thief!!! Thief!!!
+Dialogue: 0,0:10:45.07,0:10:46.87,English,,0000,0000,0000,,Wait!!!
+Dialogue: 0,0:10:57.88,0:11:00.34,English,,0000,0000,0000,,Why am I a thief?
+Dialogue: 0,0:11:00.34,0:11:05.59,English,,0000,0000,0000,,Don't play innocent! What were you doing at \N my desk at the time of Physical Education?
+Dialogue: 0,0:11:07.55,0:11:09.26,English,,0000,0000,0000,,This is a misunderstanding!
+Dialogue: 0,0:11:09.26,0:11:11.26,English,,0000,0000,0000,,You still pretend to be innocent?
+Dialogue: 0,0:11:14.18,0:11:16.68,English,,0000,0000,0000,,Oh my, it will never stop.
+Dialogue: 0,0:11:31.53,0:11:34.20,English,,0000,0000,0000,,No way! This is a love letter?
+Dialogue: 0,0:11:34.20,0:11:35.82,English,,0000,0000,0000,,No way!
+Dialogue: 0,0:11:35.82,0:11:38.20,English,,0000,0000,0000,,No way you need all these "no way".
+Dialogue: 0,0:11:38.49,0:11:41.25,English,,0000,0000,0000,,My bad, it sucks being called a thief.
+Dialogue: 0,0:11:43.25,0:11:45.33,English,,0000,0000,0000,,You don't have to laugh.
+Dialogue: 0,0:11:46.08,0:11:47.00,English,,0000,0000,0000,,It's just that...
+Dialogue: 0,0:11:47.00,0:11:48.08,English,,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:11:50.00,0:11:51.17,English,,0000,0000,0000,,You know...
+Dialogue: 0,0:11:52.67,0:11:57.34,English,,0000,0000,0000,,I really like you, Akihiko-kun.
+Dialogue: 0,0:11:57.34,0:11:58.26,English,,0000,0000,0000,,Really?
+Dialogue: 0,0:12:16.40,0:12:17.73,English,,0000,0000,0000,,Akihiko-kun...
+Dialogue: 0,0:12:17.73,0:12:19.74,English,,0000,0000,0000,,Ah, you have been hurt!
+Dialogue: 0,0:12:19.99,0:12:24.28,English,,0000,0000,0000,,Right, I did not even notice.
+Dialogue: 0,0:12:24.28,0:12:28.45,English,,0000,0000,0000,,If you got a wound, let me lick it to heal.
+Dialogue: 0,0:12:32.29,0:12:34.17,English,,0000,0000,0000,,You don't need to, Yuka-chan.
+Dialogue: 0,0:12:34.54,0:12:37.46,English,,0000,0000,0000,,Oh, there's something moving here!
+Dialogue: 0,0:12:37.46,0:12:41.30,English,,0000,0000,0000,,It must be hurt... poor you...
+Dialogue: 0,0:12:41.30,0:12:43.80,English,,0000,0000,0000,,Hey! It's not what you're thinking!
+Dialogue: 0,0:12:44.17,0:12:48.05,English,,0000,0000,0000,,Stop it, patients must receive care!
+Dialogue: 0,0:12:50.26,0:12:53.31,English,,0000,0000,0000,,Oh oh, let me handle it.
+Dialogue: 0,0:12:53.60,0:12:55.97,English,,0000,0000,0000,,Wow, what a problem!
+Dialogue: 0,0:13:14.78,0:13:17.74,English,,0000,0000,0000,,Look! It left a sticky thing!
+Dialogue: 0,0:13:30.96,0:13:32.17,English,,0000,0000,0000,,Yuka-chan...
+Dialogue: 0,0:13:34.88,0:13:37.34,English,,0000,0000,0000,,This is serious, it's still hard!
+Dialogue: 0,0:13:37.34,0:13:41.93,English,,0000,0000,0000,,Hey, don't you know Yuka-chan? \N The thing that you are licking...
+Dialogue: 0,0:13:43.14,0:13:44.81,English,,0000,0000,0000,,Yuka-chan's {\i1}place{\i0}...
+Dialogue: 0,0:13:45.14,0:13:47.68,English,,0000,0000,0000,,Put it in there to have a good feeling.
+Dialogue: 0,0:13:48.98,0:13:50.10,English,,0000,0000,0000,,Didn't know that.
+Dialogue: 0,0:13:50.27,0:13:51.90,English,,0000,0000,0000,,Want to try?
+Dialogue: 0,0:13:51.90,0:13:52.48,English,,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:58.99,0:14:00.19,English,,0000,0000,0000,,Enough already.
+Dialogue: 0,0:14:00.33,0:14:01.53,English,,0000,0000,0000,,Here I come.
+Dialogue: 0,0:14:09.20,0:14:10.75,English,,0000,0000,0000,,What a strange feeling.
+Dialogue: 0,0:14:11.20,0:14:13.96,English,,0000,0000,0000,,It's because you have to take off your panties.
+Dialogue: 0,0:14:14.46,0:14:15.46,English,,0000,0000,0000,,Alright...
+Dialogue: 0,0:14:21.21,0:14:22.88,English,,0000,0000,0000,,So, let's go.
+Dialogue: 0,0:14:34.68,0:14:36.60,English,,0000,0000,0000,,No, it entered!
+Dialogue: 0,0:14:39.64,0:14:42.40,English,,0000,0000,0000,,It went inside...
+Dialogue: 0,0:14:45.82,0:14:48.82,English,,0000,0000,0000,,Yuka-chan, I feel so good.
+Dialogue: 0,0:14:48.82,0:14:52.57,English,,0000,0000,0000,,Me too, it's the first time I feel this way.
+Dialogue: 0,0:15:21.90,0:15:25.37,English,,0000,0000,0000,,[Ueda Apples]
+Dialogue: 0,0:15:26.14,0:15:30.02,English,,0000,0000,0000,,Looks like I have found another kind of criminal.
+Dialogue: 0,0:15:31.56,0:15:35.52,English,,0000,0000,0000,,Then, Akihiko-kun should have done it after all.
+Dialogue: 0,0:15:36.57,0:15:38.53,English,,0000,0000,0000,,You saw it...
+Dialogue: 0,0:15:38.78,0:15:40.86,English,,0000,0000,0000,,My secret...
+Dialogue: 0,0:15:44.22,0:15:45.74,English,,0000,0000,0000,,Hum, I...
+Dialogue: 0,0:15:46.16,0:15:49.04,English,,0000,0000,0000,,Kaori... you are Kaori?
+Dialogue: 0,0:15:49.37,0:15:50.41,English,,0000,0000,0000,,No, I am not...
+Dialogue: 0,0:15:50.52,0:15:53.25,English,,0000,0000,0000,,I knew you were alive! Thank God, thank God!
+Dialogue: 0,0:15:53.25,0:15:55.79,English,,0000,0000,0000,,No, you are mistaking me.
+Dialogue: 0,0:15:56.63,0:15:58.88,English,,0000,0000,0000,,No no, don't lie to me!
+Dialogue: 0,0:15:59.42,0:16:03.09,English,,0000,0000,0000,,You wanted bloomers so much \N but I never bought any.
+Dialogue: 0,0:16:03.09,0:16:05.72,English,,0000,0000,0000,,I know that you felt rancor because of that.
+Dialogue: 0,0:16:07.43,0:16:09.01,English,,0000,0000,0000,,Ah, you know...
+Dialogue: 0,0:16:09.01,0:16:16.73,English,,0000,0000,0000,,Until now, your daddy was stealing bloomers \N every day, hoping that you would wear them.
+Dialogue: 0,0:16:16.73,0:16:18.73,English,,0000,0000,0000,,That's why...
+Dialogue: 0,0:16:19.10,0:16:23.65,English,,0000,0000,0000,,{\i1}I see. He confused me with \N his deceased daughter.
+Dialogue: 0,0:16:29.15,0:16:31.40,English,,0000,0000,0000,,{\i1}It would be awful from me if I won't play her...
+Dialogue: 0,0:16:34.20,0:16:36.70,English,,0000,0000,0000,,Father, now I remember.
+Dialogue: 0,0:16:36.70,0:16:39.79,English,,0000,0000,0000,,Kaori was looking forward \N to put these bloomers on.
+Dialogue: 0,0:16:39.79,0:16:42.50,English,,0000,0000,0000,,Really? You remembered now?
+Dialogue: 0,0:16:45.92,0:16:50.59,English,,0000,0000,0000,,Kaori, you have to remove \N everything to put bloomers on.
+Dialogue: 0,0:16:50.59,0:16:51.96,English,,0000,0000,0000,,Take off your panties.
+Dialogue: 0,0:16:52.17,0:16:53.96,English,,0000,0000,0000,,Hey? But...
+Dialogue: 0,0:16:56.88,0:16:58.59,English,,0000,0000,0000,,Ah, that's right.
+Dialogue: 0,0:16:58.59,0:17:00.60,English,,0000,0000,0000,,This is the first time I'm putting them on.
+Dialogue: 0,0:17:01.30,0:17:03.22,English,,0000,0000,0000,,I didn't know that, sorry.
+Dialogue: 0,0:17:12.52,0:17:14.82,English,,0000,0000,0000,,How is it, dad? Did I do well?
+Dialogue: 0,0:17:15.86,0:17:21.03,English,,0000,0000,0000,,You're as beautiful as your late mother! \N Come closer so I can see your face better!
+Dialogue: 0,0:17:24.66,0:17:28.08,English,,0000,0000,0000,,Such a long time since we were separated.
+Dialogue: 0,0:17:28.08,0:17:32.50,English,,0000,0000,0000,,Your breasts became bigger, let me see better.
+Dialogue: 0,0:17:35.37,0:17:40.21,English,,0000,0000,0000,,Both nipples are equal to \N those of your late mother!
+Dialogue: 0,0:17:44.67,0:17:46.88,English,,0000,0000,0000,,Father... feels good...
+Dialogue: 0,0:17:48.51,0:17:51.70,English,,0000,0000,0000,,Really? Are you pleased? Listen, Kaori.
+Dialogue: 0,0:17:51.70,0:17:54.45,English,,0000,0000,0000,,I will make the merry-go-round \N carousel that you liked so much.
+Dialogue: 0,0:17:54.89,0:17:56.81,English,,0000,0000,0000,,Goody goody, I'll take off your bloomers.
+Dialogue: 0,0:17:57.43,0:17:59.52,English,,0000,0000,0000,,How cute!
+Dialogue: 0,0:18:03.06,0:18:05.40,English,,0000,0000,0000,,Father, what are you doing?
+Dialogue: 0,0:18:05.73,0:18:09.90,English,,0000,0000,0000,,Doing what? I'm building the \N central part of the carousel.
+Dialogue: 0,0:18:10.74,0:18:12.99,English,,0000,0000,0000,,Without this it will not turn.
+Dialogue: 0,0:18:14.91,0:18:18.24,English,,0000,0000,0000,,Oh, right. Sorry to forget this.
+Dialogue: 0,0:18:18.79,0:18:22.71,English,,0000,0000,0000,,It's ready, come over here!
+Dialogue: 0,0:18:26.50,0:18:28.50,English,,0000,0000,0000,,Alright, do we start?
+Dialogue: 0,0:18:32.76,0:18:34.63,English,,0000,0000,0000,,Everything ok? I will turn now.
+Dialogue: 0,0:18:37.84,0:18:39.51,English,,0000,0000,0000,,It's the merry-go-round carousel!
+Dialogue: 0,0:18:42.56,0:18:44.14,English,,0000,0000,0000,,More, more, faster!
+Dialogue: 0,0:18:45.22,0:18:47.52,English,,0000,0000,0000,,Feel it! Feel it!
+Dialogue: 0,0:19:35.39,0:19:37.52,English,,0000,0000,0000,,Kaori, Kaori!
+Dialogue: 0,0:19:42.48,0:19:43.90,English,,0000,0000,0000,,You had fun, right?
+Dialogue: 0,0:19:44.15,0:19:48.07,English,,0000,0000,0000,,Yes, a lot! But it seems that I became dizzy.
+Dialogue: 0,0:19:48.07,0:19:51.70,English,,0000,0000,0000,,I got tired because you were quite heavy.
+Dialogue: 0,0:20:04.33,0:20:07.08,English,,0000,0000,0000,,But there's one thing you're still forgetting.
+Dialogue: 0,0:20:07.54,0:20:09.09,English,,0000,0000,0000,,That is?
+Dialogue: 0,0:20:09.59,0:20:14.05,English,,0000,0000,0000,,You are not yet through with this pole.
+Dialogue: 0,0:20:14.97,0:20:19.34,English,,0000,0000,0000,,Oh, yeah, but how do I come to the end?
+Dialogue: 0,0:20:20.01,0:20:24.14,English,,0000,0000,0000,,Put all your love in it until "water" comes out.
+Dialogue: 0,0:20:29.10,0:20:31.23,English,,0000,0000,0000,,Like this, father?
+Dialogue: 0,0:20:33.06,0:20:35.77,English,,0000,0000,0000,,This is it, Kaori! So delicious!
+Dialogue: 0,0:20:36.44,0:20:38.78,English,,0000,0000,0000,,Father, it's not out yet?
+Dialogue: 0,0:20:38.78,0:20:40.49,English,,0000,0000,0000,,Make it a bit more.
+Dialogue: 0,0:20:43.03,0:20:44.87,English,,0000,0000,0000,,It's not out yet...
+Dialogue: 0,0:20:46.58,0:20:52.54,English,,0000,0000,0000,,I cannot hold any longer, \N the water is about to come.
+Dialogue: 0,0:20:53.46,0:20:56.29,English,,0000,0000,0000,,Ok, I have to go faster.
+Dialogue: 0,0:21:11.85,0:21:14.10,English,,0000,0000,0000,,Huh? What are you saying?
+Dialogue: 0,0:21:14.10,0:21:15.60,English,,0000,0000,0000,,Liar!
+Dialogue: 0,0:21:15.60,0:21:19.27,English,,0000,0000,0000,,It's the truth, look what I found.
+Dialogue: 0,0:21:22.44,0:21:27.36,English,,0000,0000,0000,,I didn't notice, but the \N money was in my wallet.
+Dialogue: 0,0:21:28.11,0:21:29.07,English,,0000,0000,0000,,Well, well...
+Dialogue: 0,0:21:32.15,0:21:34.66,English,,0000,0000,0000,,The last one is the priest's wife!
+Dialogue: 0,0:21:50.48,0:21:55.59,Default,,0000,0000,0000,,Collaboration Work: \N Phobos Corporation

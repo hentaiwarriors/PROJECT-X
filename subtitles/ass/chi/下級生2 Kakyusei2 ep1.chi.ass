@@ -1,0 +1,688 @@
+[Script Info]
+; This is a Sub Station Alpha v4 script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+;
+; Script created by cySub 1.4.0 Release Build 1203
+;
+Script Type: V4.00+
+ScriptType: V4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DFGirlW5-B5,32,&H00FFFFCC,&H00FFFFFF,&H00993333,&H00993333,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,10,136
+Style: Lyrics_op,ＤＦＧヱьиЬ遊W5,36,&H32FF00FF,&HFFFFFFFF96000000,&H32FFFFFF,&H32CCFFCC,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,136
+Style: Lyrics_de,ＤＦＧ勘亭流,36,&H00AE13D5,&HFFFFFFFFFF000000,&H78FFFFFF,&H78E6E6E6,0,0,0,0,100,100,0,0,1,3,2,2,30,30,2,136
+Style: Lyrics_ed,ＤＦＧ勘亭流,32,&H0099FFFF,&H00FF00FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,2,30,30,2,136
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.73,0:00:13.60,Default,NTP,0000,0000,0000,,起床了？
+Dialogue: 0,0:00:14.90,0:00:15.60,Default,NTP,0000,0000,0000,,算是吧
+Dialogue: 0,0:00:16.23,0:00:16.86,Default,NTP,0000,0000,0000,,真是～
+Dialogue: 0,0:00:17.40,0:00:20.50,Default,NTP,0000,0000,0000,,我想你是不是肚子餓了，趕過來一看…
+Dialogue: 0,0:00:25.96,0:00:29.33,Default,NTP,0000,0000,0000,,早飯很快就做好了，你先去洗個臉吧
+Dialogue: 0,0:00:30.86,0:00:31.73,Default,NTP,0000,0000,0000,,等等啦
+Dialogue: 0,0:00:31.93,0:00:33.40,Default,NTP,0000,0000,0000,,妳就當我的飯前小菜吧
+Dialogue: 0,0:00:34.36,0:00:35.00,Default,NTP,0000,0000,0000,,阿珠
+Dialogue: 0,0:00:36.33,0:00:36.90,Default,NTP,0000,0000,0000,,不行
+Dialogue: 0,0:00:37.66,0:00:38.86,Default,NTP,0000,0000,0000,,刀子很危險的啦
+Dialogue: 0,0:00:42.40,0:00:43.40,Default,NTP,0000,0000,0000,,我都說不行了啦
+Dialogue: 0,0:00:45.80,0:00:47.00,Default,NTP,0000,0000,0000,,浪馬你真是
+Dialogue: 0,0:00:59.03,0:01:00.46,Default,NTP,0000,0000,0000,,早飯，早飯…
+;cySUBBlockStart: 0,0,0:01:06.25,0:01:08.60,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Do][0| ][0|it!][0| ][0|Do][0| ][0|it!][0| ][0|It][0|'][0|s][0| ][0|a][0| ][0|mi][0|ra][0|cle!],Do it! Do it! It's a miracle!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:01:06.25,0:01:08.60,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-117,424,83,424,0,200}Do it! Do it! It's a miracle!
+Dialogue: 2,0:01:06.25,0:01:08.60,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(283,424,83,424,0,200}Do it! Do it! It's a miracle!
+Dialogue: 3,0:01:08.60,0:01:08.70,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(83,424,-117,424,0,100}Do it! Do it! It's a miracle!
+Dialogue: 4,0:01:08.60,0:01:08.70,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(83,424,283,424,0,100}Do it! Do it! It's a miracle!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:09.38,0:01:11.98,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Eve][0|ry][0|bo][0|dy][0| ][0|(Hey!)][0| ][0|It's][0| ][0|all][0| ][0|right!],Everybody (Hey!) It's all right!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:01:09.38,0:01:11.98,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-152,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 2,0:01:09.38,0:01:11.98,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(248,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 3,0:01:11.98,0:01:12.08,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,-152,424,0,100}Everybody (Hey!) It's all right!
+Dialogue: 4,0:01:11.98,0:01:12.08,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,248,424,0,100}Everybody (Hey!) It's all right!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:12.94,0:01:15.52,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Do][0| ][0|it][0|!][0| ][0|Do][0| ][0|it][0|!][0| ][0|It][0|'][0|s][0| ][0|a][0| ][0|miracle][0|!],Do it! Do it! It's a miracle!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:01:12.94,0:01:15.52,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-117,424,83,424,0,200}Do it! Do it! It's a miracle!
+Dialogue: 2,0:01:12.94,0:01:15.52,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(283,424,83,424,0,200}Do it! Do it! It's a miracle!
+Dialogue: 3,0:01:15.52,0:01:15.62,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(83,424,-117,424,0,100}Do it! Do it! It's a miracle!
+Dialogue: 4,0:01:15.52,0:01:15.62,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(83,424,283,424,0,100}Do it! Do it! It's a miracle!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:16.29,0:01:18.82,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Everybody][0| ][0|(][0|Hey][0|!][0|)][0| ][0|It][0|'][0|s][0| ][0|all][0| ][0|right][0|!],Everybody (Hey!) It's all right!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:01:16.29,0:01:18.82,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-152,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 2,0:01:16.29,0:01:18.82,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(248,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 3,0:01:18.82,0:01:18.92,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,-152,424,0,100}Everybody (Hey!) It's all right!
+Dialogue: 4,0:01:18.82,0:01:18.92,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,248,424,0,100}Everybody (Hey!) It's all right!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:33.86,0:01:39.51,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[8|][52|放][87|課][104|後][160|ソ][218|雨][350|　][376|自][393|轉][432|車][484|置][568|場],放課後ソ雨　自轉車置場
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:01:33.86,0:01:39.51,Lyrics_op,NTP,0000,0000,0000,,{\K6}{\K42}放{\K33}課{\K15}後{\K54}ソ{\K56}雨{\K130}　{\K24}自{\K15}轉{\K37}車{\K50}置{\K82}場
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:40.72,0:01:46.79,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[6|][26|や][44|ス][65|ギ][93|メ][129|待][156|ゲ][204|サ][240|　][268|相][346|合][371|傘][416|メ][473|夢][501|見][546|サ][594|ペ],やスギメ待ゲサ　相合傘メ夢見サペ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:01:40.72,0:01:46.79,Lyrics_op,NTP,0000,0000,0000,,{\K4}{\K18}や{\K16}ス{\K19}ギ{\K26}メ{\K34}待{\K25}ゲ{\K46}サ{\K34}　{\K26}相{\K76}合{\K23}傘{\K43}メ{\K55}夢{\K26}見{\K43}サ{\K46}ペ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:47.31,0:01:53.67,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-1|][74|胸][113|ソ][167|鼓][195|動][335|　][417|高][432|鳴][462|ベ][503|エ][528|ゐ][631|サ],胸ソ鼓動　高鳴ベエゐサ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:01:47.31,0:01:53.67,Lyrics_op,NTP,0000,0000,0000,,{\K-3}{\K73}胸{\K37}ソ{\K52}鼓{\K26}動{\K138}　{\K80}高{\K13}鳴{\K28}ベ{\K39}エ{\K23}ゐ{\K101}サ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:01:54.08,0:02:02.50,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[4|][83|雨][121|ソ][194|音][238|パ][257|聞][281|ア][320|り][341|ス][372|ゆ][399|　][416|ジ][435|よ][454|ろ][474|ォ][513|ゲ][540|シ][557|　][575|ア][599|ソ][622|ネ][761|ネ][838|…],雨ソ音パ聞アりスゆ　ジよろォゲシ　アソネネ…
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:01:54.08,0:02:02.50,Lyrics_op,NTP,0000,0000,0000,,{\K2}{\K77}雨{\K36}ソ{\K71}音{\K42}パ{\K17}聞{\K22}ア{\K37}り{\K19}ス{\K29}ゆ{\K25}　{\K15}ジ{\K17}よ{\K17}ろ{\K18}ォ{\K37}ゲ{\K25}シ{\K15}　{\K16}ア{\K22}ソ{\K21}ネ{\K137}ネ{\K75}…
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:03.92,0:02:07.28,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-5|][15|Ж][26|ц][40|⑦][54|Ж][70|ц][87|⑦][102|Ж][119|ц][134|⑦][149|　][168|ジ][187|ウ][206|ヒ][222|降][242|ベ][327|ソ],Жц⑦Жц⑦Жц⑦　ジウヒ降ベソ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:02:03.92,0:02:07.28,Lyrics_op,NTP,0000,0000,0000,,{\K-7}{\K18}Ж{\K9}ц{\K12}⑦{\K12}Ж{\K14}ц{\K15}⑦{\K13}Ж{\K15}ц{\K13}⑦{\K13}　{\K17}ジ{\K17}ウ{\K17}ヒ{\K14}降{\K18}ベ{\K83}ソ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:07.46,0:02:10.48,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-5|][28|е][42|み][56|Ъ][75|ュ][91|み][105|Ё][118|ц][132|③][149|み][164|　][179|浴][195|ヂ][211|ゾ][227|ゎ][284|ヘ],еみЪュみЁц③み　浴ヂゾゎヘ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:02:07.46,0:02:10.48,Lyrics_op,NTP,0000,0000,0000,,{\K-7}{\K31}е{\K12}み{\K12}Ъ{\K17}ュ{\K14}み{\K12}Ё{\K11}ц{\K12}③{\K15}み{\K13}　{\K13}浴{\K14}ヂ{\K14}ゾ{\K14}ゎ{\K55}ヘ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:10.82,0:02:13.57,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-6|][26|ь][43|⑦][58|ь][78|⑦][94|ь][109|ь][127|⑦][146|ょ][171|サ][211|唄][233|れ][270|よ],ь⑦ь⑦ьь⑦ょサ唄れよ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:02:10.82,0:02:13.57,Lyrics_op,NTP,0000,0000,0000,,{\K-8}{\K30}ь{\K15}⑦{\K13}ь{\K18}⑦{\K14}ь{\K13}ь{\K16}⑦{\K17}ょ{\K23}サ{\K38}唄{\K20}れ{\K35}よ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:13.65,0:02:17.72,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[1|][36|向][66|ゆ][118|風][158|　][184|パ][206|よ][250|怖][294|ゑ][309|ス][403|ゆ],向ゆ風　パよ怖ゑスゆ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:02:13.65,0:02:17.72,Lyrics_op,NTP,0000,0000,0000,,{\K-1}{\K33}向{\K28}ゆ{\K50}風{\K38}　{\K24}パ{\K20}よ{\K42}怖{\K42}ゑ{\K13}ス{\K92}ゆ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:18.49,0:02:24.53,Lyrics_op,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[2|][44|空][64|ソ][117|彼][145|方][187|ズ][209|　][259|七][301|色][322|ソ][359|я][384|ユ][413|⑦][474|п][591|み],空ソ彼方ズ　七色ソяユ⑦пみ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:02:18.49,0:02:24.53,Lyrics_op,NTP,0000,0000,0000,,{\K0}{\K40}空{\K18}ソ{\K51}彼{\K26}方{\K40}ズ{\K20}　{\K48}七{\K40}色{\K19}ソ{\K35}я{\K23}ユ{\K27}⑦{\K59}п{\K115}み
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:23.23,0:02:25.61,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-fade.php,[0|Do][0| ][0|it][0|!][0| ][0|Do][0| ][0|it][0|!][0| ][0|It][0|'][0|s][0| ][0|a][0| ][0|miracle][0|!],Do it! Do it! It's a miracle!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:02:23.23,0:02:25.61,Lyrics_op,NTP,0000,0000,0000,,{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(0,200,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}Do{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(30,230,1,\1a&H00\2a&H00\3a&H00\4a&HA0)} {\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(60,260,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}it{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(90,290,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}!{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(120,320,1,\1a&H00\2a&H00\3a&H00\4a&HA0)} {\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(150,350,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}Do{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(180,380,1,\1a&H00\2a&H00\3a&H00\4a&HA0)} {\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(210,410,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}it{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(240,440,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}!{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(270,470,1,\1a&H00\2a&H00\3a&H00\4a&HA0)} {\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(300,500,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}It{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(330,530,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}'{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(360,560,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}s{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(390,590,1,\1a&H00\2a&H00\3a&H00\4a&HA0)} {\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(420,620,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}a{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(450,650,1,\1a&H00\2a&H00\3a&H00\4a&HA0)} {\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(480,680,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}miracle{\1a&HFF}{\2a&HFF}{\3a&HFF}{\4a&HFF}{\t(510,710,1,\1a&H00\2a&H00\3a&H00\4a&HA0)}!
+Dialogue: 1,0:02:25.61,0:02:27.61,Lyrics_op,NTP,0000,0000,0000,,{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(0,200,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}Do{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(30,230,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)} {\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(60,260,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}it{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(90,290,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}!{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(120,320,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)} {\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(150,350,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}Do{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(180,380,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)} {\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(210,410,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}it{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(240,440,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}!{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(270,470,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)} {\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(300,500,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}It{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(330,530,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}'{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(360,560,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}s{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(390,590,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)} {\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(420,620,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}a{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(450,650,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)} {\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(480,680,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}miracle{\1a&H00}{\2a&H00}{\3a&H00}{\4a&HA0}{\t(510,710,1,\1a&HFF\2a&HFF\3a&HFF\4a&HFF)}!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:26.50,0:02:29.17,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Everybody][0| ][0|(][0|Hey][0|!][0|)][0| ][0|It][0|'][0|s][0| ][0|all][0| ][0|right][0|!],Everybody (Hey!) It's all right!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:02:26.50,0:02:29.17,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-152,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 2,0:02:26.50,0:02:29.17,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(248,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 3,0:02:29.17,0:02:29.27,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,-152,424,0,100}Everybody (Hey!) It's all right!
+Dialogue: 4,0:02:29.17,0:02:29.27,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,248,424,0,100}Everybody (Hey!) It's all right!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:30.01,0:02:32.48,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Do][0| ][0|it][0|!][0| ][0|Do][0| ][0|it][0|!][0| ][0|It][0|'][0|s][0| ][0|a][0| ][0|miracle][0|!],Do it! Do it! It's a miracle!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:02:30.01,0:02:32.48,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-117,424,83,424,0,200}Do it! Do it! It's a miracle!
+Dialogue: 2,0:02:30.01,0:02:32.48,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(283,424,83,424,0,200}Do it! Do it! It's a miracle!
+Dialogue: 3,0:02:32.48,0:02:32.58,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(83,424,-117,424,0,100}Do it! Do it! It's a miracle!
+Dialogue: 4,0:02:32.48,0:02:32.58,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(83,424,283,424,0,100}Do it! Do it! It's a miracle!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:02:33.48,0:02:36.12,Lyrics_op,NTP,0000,0000,0000,,build-in\static\s-lightning.php,[0|Everybody][0| ][0|(][0|Hey][0|!][0|)][0| ][0|It][0|'][0|s][0| ][0|all][0| ][0|right][0|!],Everybody (Hey!) It's all right!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 1,0:02:33.48,0:02:36.12,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(-152,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 2,0:02:33.48,0:02:36.12,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(100,0)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(248,424,48,424,0,200}Everybody (Hey!) It's all right!
+Dialogue: 3,0:02:36.12,0:02:36.22,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,-152,424,0,100}Everybody (Hey!) It's all right!
+Dialogue: 4,0:02:36.12,0:02:36.22,Lyrics_op,NTP,0000,0000,0000,,{\an7}{\fad(0,100)}{\1a&H7F}{\2a&H7F}{\3a&H7F}{\4a&H7F}{\move(48,424,248,424,0,100}Everybody (Hey!) It's all right!
+;cySUBBlockEnd
+Dialogue: 0,0:02:39.63,0:02:41.50,Default,NTP,0000,0000,0000,,賴津學園最高年級生　19歲的夏天開始了…
+Dialogue: 0,0:02:44.36,0:02:47.33,Default,NTP,0000,0000,0050,,{\fs22}{\a1}第一節　油點草～秘密～
+Dialogue: 0,0:02:46.43,0:02:47.33,Default,NTP,0000,0000,0000,,你們分手了？
+Dialogue: 0,0:02:51.13,0:02:53.10,Default,NTP,0000,0000,0000,,哎呀，沒跟你說嗎？
+Dialogue: 0,0:02:53.66,0:02:54.53,Default,NTP,0000,0000,0000,,從來沒聽說過
+Dialogue: 0,0:02:55.00,0:02:58.80,Default,NTP,0000,0000,0000,,自從和浪馬交往以來，就再也沒見過面
+Dialogue: 0,0:02:59.30,0:03:00.43,Default,NTP,0000,0000,0000,,又沒有繼續聯絡
+Dialogue: 0,0:03:00.90,0:03:01.50,Default,NTP,0000,0000,0000,,真的啊
+Dialogue: 0,0:03:03.23,0:03:04.96,Default,NTP,0000,0000,0000,,我和他之間也有過不少事情
+Dialogue: 0,0:03:05.63,0:03:06.96,Default,NTP,0000,0000,0000,,現在就算完了吧
+Dialogue: 0,0:03:08.36,0:03:08.90,Default,NTP,0000,0000,0000,,是嗎
+Dialogue: 0,0:03:10.10,0:03:12.40,Default,NTP,0000,0000,0000,,現在珠樹只屬於浪馬一個人呢
+Dialogue: 0,0:03:14.00,0:03:16.33,Default,NTP,0000,0000,0000,,來吧，浪馬
+Dialogue: 0,0:03:18.83,0:03:20.76,Default,NTP,0000,0000,0000,,再來…繼續吧
+Dialogue: 0,0:03:23.40,0:03:24.30,Default,NTP,0000,0000,0000,,好
+Dialogue: 0,0:03:40.33,0:03:40.86,Default,NTP,0000,0000,0000,,等等
+Dialogue: 0,0:03:44.26,0:03:46.96,Default,NTP,0000,0000,0000,,今天我想從後面…
+Dialogue: 0,0:03:47.76,0:03:48.90,Default,NTP,0000,0000,0000,,後花園嗎？
+Dialogue: 0,0:03:50.00,0:03:50.53,Default,NTP,0000,0000,0000,,嗯
+Dialogue: 0,0:03:51.30,0:03:52.10,Default,NTP,0000,0000,0000,,真的沒關係嗎？
+Dialogue: 0,0:03:52.43,0:03:56.60,Default,NTP,0000,0000,0000,,只要和浪馬一起，我什麼樣的H都可以做哦
+Dialogue: 0,0:03:57.33,0:03:58.30,Default,NTP,0000,0000,0000,,所以你來吧
+Dialogue: 0,0:03:59.40,0:03:59.90,Default,NTP,0000,0000,0000,,阿珠
+Dialogue: 0,0:04:19.10,0:04:19.76,Default,NTP,0000,0000,0000,,痛嗎？
+Dialogue: 0,0:04:21.10,0:04:22.96,Default,NTP,0000,0000,0000,,好像…還行
+Dialogue: 0,0:04:23.93,0:04:24.66,Default,NTP,0000,0000,0000,,那好
+Dialogue: 0,0:04:41.96,0:04:42.50,Default,NTP,0000,0000,0000,,我來了
+Dialogue: 0,0:04:45.03,0:04:45.86,Default,NTP,0000,0000,0000,,好痛啊
+Dialogue: 0,0:04:52.90,0:04:55.13,Default,NTP,0000,0000,0000,,不要…停
+Dialogue: 0,0:05:07.66,0:05:08.53,Default,NTP,0000,0000,0000,,妳真的沒事吧？
+Dialogue: 0,0:05:11.26,0:05:13.63,Default,NTP,0000,0000,0000,,好痛，不過沒事
+Dialogue: 0,0:05:20.66,0:05:21.86,Default,NTP,0000,0000,0000,,浪馬…
+Dialogue: 0,0:05:26.76,0:05:29.00,Default,NTP,0000,0000,0000,,果然好緊
+Dialogue: 0,0:05:29.80,0:05:31.90,Default,NTP,0000,0000,0000,,運動起來就感覺到了
+Dialogue: 0,0:05:32.43,0:05:41.50,Default,NTP,0000,0000,0000,,這樣…好像是…從裡面…刺激到子宮…一樣
+Dialogue: 0,0:05:42.16,0:05:47.40,Default,NTP,0000,0000,0000,,好棒，阿珠，還是妳最棒了
+Dialogue: 0,0:05:48.93,0:05:50.50,Default,NTP,0000,0000,0000,,好像…很棒
+Dialogue: 0,0:05:51.33,0:05:53.80,Default,NTP,0000,0000,0000,,好像…很舒服
+Dialogue: 0,0:06:00.56,0:06:02.30,Default,NTP,0000,0000,0000,,差不多要出來了，可以吧
+Dialogue: 0,0:06:03.40,0:06:04.36,Default,NTP,0000,0000,0000,,不，不行
+Dialogue: 0,0:06:05.56,0:06:06.40,Default,NTP,0000,0000,0000,,真的？
+Dialogue: 0,0:06:07.50,0:06:10.33,Default,NTP,0000,0000,0000,,從前面進來，浪馬
+Dialogue: 0,0:06:10.60,0:06:12.63,Default,NTP,0000,0000,0000,,大家一起到高潮
+Dialogue: 0,0:06:14.50,0:06:15.20,Default,NTP,0000,0000,0000,,好
+Dialogue: 0,0:06:28.43,0:06:30.70,Default,NTP,0000,0000,0000,,阿珠，阿珠，要出來了
+Dialogue: 0,0:06:33.53,0:06:35.03,Default,NTP,0000,0000,0000,,浪馬，浪馬
+Dialogue: 0,0:06:40.20,0:06:41.33,Default,NTP,0000,0000,0000,,浪馬　　　　　阿珠
+Dialogue: 0,0:06:53.30,0:06:54.16,Default,NTP,0000,0000,0000,,這是搞什麼啊
+Dialogue: 0,0:06:55.00,0:06:58.23,Default,NTP,0000,0000,0000,,糟糕，拔出去的時候忘了還留在後面了
+Dialogue: 0,0:06:59.13,0:07:00.06,Default,NTP,0000,0000,0000,,這麼說就是…
+Dialogue: 0,0:07:01.80,0:07:03.13,Default,NTP,0000,0000,0000,,真不敢相信
+Dialogue: 0,0:07:04.00,0:07:06.26,Default,NTP,0000,0000,0000,,早就告訴過你絕對不能射在裡面的
+Dialogue: 0,0:07:06.80,0:07:07.93,Default,NTP,0000,0000,0000,,我們不是說好的嗎
+Dialogue: 0,0:07:08.83,0:07:10.86,Default,NTP,0000,0000,0000,,現在馬上去沖個澡應該還來得及吧…
+Dialogue: 0,0:07:12.46,0:07:16.56,Default,NTP,0000,0000,0000,,來得及才怪，剛起床的浪馬太厲害了
+Dialogue: 0,0:07:19.30,0:07:21.53,Default,NTP,0000,0000,0000,,我就知道他要頂到裡面去啦
+Dialogue: 0,0:07:22.46,0:07:24.00,Default,NTP,0000,0000,0000,,現在可能已經晚啦
+Dialogue: 0,0:07:25.00,0:07:26.46,Default,NTP,0000,0000,0000,,聽說用可樂來洗很有效喔
+Dialogue: 0,0:07:26.73,0:07:29.13,Default,NTP,0000,0000,0000,,用腳趾頭想想也知道是胡說啦
+Dialogue: 0,0:07:29.76,0:07:31.83,Default,NTP,0000,0000,0000,,沒關係的，因為我進過後花園嘛
+Dialogue: 0,0:07:33.86,0:07:34.60,Default,NTP,0000,0000,0000,,說啥？
+Dialogue: 0,0:07:35.03,0:07:37.36,Default,NTP,0000,0000,0000,,聽說先進後花園就不會中獎的
+Dialogue: 0,0:07:38.46,0:07:39.43,Default,NTP,0000,0000,0000,,豬頭！
+Dialogue: 0,0:07:42.56,0:07:45.00,Default,NTP,0000,0000,0000,,不想聽你說話！不想再看到你！
+Dialogue: 0,0:07:46.23,0:07:47.43,Default,NTP,0000,0000,0000,,從這一分鐘開始絕交
+Dialogue: 0,0:07:53.70,0:07:55.63,Default,NTP,0000,0000,0000,,居然遲到了30分鐘
+Dialogue: 0,0:07:56.86,0:07:58.80,Default,NTP,0000,0000,0000,,你腦子裡面都在想些什麼啊？
+Dialogue: 0,0:07:59.80,0:08:00.80,Default,NTP,0000,0000,0000,,她是這麼說的
+Dialogue: 0,0:08:05.60,0:08:10.76,Default,NTP,0000,0000,0000,,我有什麼辦法，班會都開始了還沒人來主持
+Dialogue: 0,0:08:12.00,0:08:12.76,Default,NTP,0000,0000,0000,,他是這麼說的
+Dialogue: 0,0:08:17.70,0:08:21.76,Default,NTP,0000,0000,0000,,就只有你一個部員，認真點來參加好不好
+Dialogue: 0,0:08:22.50,0:08:26.46,Default,NTP,0000,0000,0000,,我們組織者的寶貴時間都被你白白浪費掉了
+Dialogue: 0,0:08:27.50,0:08:28.33,Default,NTP,0000,0000,0000,,她是這麼說的
+Dialogue: 0,0:08:30.10,0:08:33.60,Default,NTP,0000,0000,0000,,妳是組織者就自己找活幹去吧
+Dialogue: 0,0:08:34.29,0:08:37.20,Default,NTP,0000,0000,0000,,正好，妳有空的話，這個東西幫我拿去洗
+Dialogue: 0,0:08:37.93,0:08:38.73,Default,NTP,0000,0000,0000,,他是這麼說的
+Dialogue: 0,0:08:40.56,0:08:44.53,Default,NTP,0000,0000,0000,,這種連清掃局都不要的廢棄物，我沒義務給你洗
+Dialogue: 0,0:08:44.66,0:08:46.40,Default,NTP,0000,0000,0000,,跟他說，叫他自己去洗
+Dialogue: 0,0:08:47.36,0:08:49.10,Default,NTP,0000,0000,0000,,煩不煩啊妳
+Dialogue: 0,0:08:49.40,0:08:51.20,Default,NTP,0000,0000,0000,,開始說幫我洗衣服的又是誰
+Dialogue: 0,0:08:52.00,0:08:53.43,Default,NTP,0000,0000,0000,,你們好像很高興呢
+Dialogue: 0,0:08:55.26,0:08:56.20,Default,NTP,0000,0000,0000,,高遠同學
+Dialogue: 0,0:08:57.50,0:09:00.80,Default,NTP,0000,0000,0000,,今天是提交下學期活動預定表的最後一天
+Dialogue: 0,0:09:01.93,0:09:02.36,Default,NTP,0000,0000,0000,,什麼？
+Dialogue: 0,0:09:02.90,0:09:06.03,Default,NTP,0000,0000,0000,,上上週的部長會議上已經說得很清楚了
+Dialogue: 0,0:09:06.93,0:09:07.60,Default,NTP,0000,0000,0000,,哦？
+Dialogue: 0,0:09:10.13,0:09:11.46,Default,NTP,0000,0000,0000,,好像是說過了哦
+Dialogue: 0,0:09:13.06,0:09:14.00,Default,NTP,0000,0000,0000,,高遠同學
+Dialogue: 0,0:09:14.40,0:09:19.36,Default,NTP,0000,0000,0000,,對不起，因為沒有部長的指示，我無法擅自行動
+Dialogue: 0,0:09:20.93,0:09:21.50,Default,NTP,0000,0000,0000,,沒關係啊
+Dialogue: 0,0:09:22.13,0:09:26.06,Default,NTP,0000,0000,0000,,只是不交預定表的話下學期的活動是不能承認的
+Dialogue: 0,0:09:26.90,0:09:29.13,Default,NTP,0000,0000,0000,,請直接向織屋部長本人查詢
+Dialogue: 0,0:09:30.50,0:09:34.76,Default,NTP,0000,0000,0000,,對不起夕璃，今天我要去打工了，我先走啦
+Dialogue: 0,0:09:36.00,0:09:37.13,Default,NTP,0000,0000,0000,,辛苦了
+Dialogue: 0,0:09:38.20,0:09:41.36,Default,NTP,0000,0000,0000,,明天是星期天，等後天再說吧
+Dialogue: 0,0:09:42.50,0:09:46.73,Default,NTP,0000,0000,0000,,雖然我不清楚你們發生了什麼事\N不過你還是向柴門同學負荊請罪比較好
+Dialogue: 0,0:09:47.80,0:09:50.73,Default,NTP,0000,0000,0000,,要是不想交我也不會勉強你們，反正與我無關
+Dialogue: 0,0:09:51.40,0:09:52.60,Default,NTP,0000,0000,0000,,我就等到星期一吧
+Dialogue: 0,0:09:53.53,0:09:55.26,Default,NTP,0000,0000,0000,,記得要準時交上來
+Dialogue: 0,0:09:58.30,0:10:00.23,Default,NTP,0000,0000,0000,,哼，這位也煩那位也煩
+Dialogue: 0,0:10:01.20,0:10:02.53,Default,NTP,0000,0000,0000,,那，那個…
+Dialogue: 0,0:10:02.76,0:10:03.40,Default,NTP,0000,0000,0000,,哦？
+Dialogue: 0,0:10:05.63,0:10:09.43,Default,NTP,0000,0000,0000,,我今天還有拍攝的工作
+Dialogue: 0,0:10:10.90,0:10:13.90,Default,NTP,0000,0000,0000,,可以的話，希望學長也一起…
+Dialogue: 0,0:10:16.10,0:10:17.23,Default,NTP,0000,0000,0000,,你還記得嗎？
+Dialogue: 0,0:10:18.33,0:10:23.10,Default,NTP,0000,0000,0000,,我第一次和你見面，是在油點草盛開的九月
+Dialogue: 0,0:10:23.86,0:10:25.36,Default,NTP,0000,0000,0000,,在走廊上撿到的錢包…
+Dialogue: 0,0:10:27.66,0:10:28.76,Default,NTP,0000,0000,0000,,停
+Dialogue: 0,0:10:29.73,0:10:31.33,Default,NTP,0000,0000,0000,,不是錢包啦
+Dialogue: 0,0:10:31.83,0:10:34.13,Default,NTP,0000,0000,0000,,撿到的是手機掛飾
+Dialogue: 0,0:10:34.43,0:10:35.20,Default,NTP,0000,0000,0000,,很對不起
+Dialogue: 0,0:10:35.86,0:10:38.10,Default,NTP,0000,0000,0000,,妳怎麼了？夕璃
+Dialogue: 0,0:10:38.93,0:10:41.43,Default,NTP,0000,0000,0000,,今天妳好怪哦，真的好怪
+Dialogue: 0,0:10:43.06,0:10:45.13,Default,NTP,0000,0000,0000,,浪馬就很好
+Dialogue: 0,0:10:46.13,0:10:50.43,Default,NTP,0000,0000,0000,,如果你能跟她好好聊上幾句的話就更好了
+Dialogue: 0,0:10:54.66,0:10:56.43,Default,NTP,0000,0000,0000,,準備，開始
+Dialogue: 0,0:10:57.43,0:10:58.50,Default,NTP,0000,0000,0000,,你還記得嗎？
+Dialogue: 0,0:10:59.30,0:11:01.10,Default,NTP,0000,0000,0000,,我第一次和你見面…
+Dialogue: 0,0:11:00.57,0:11:01.53,Default,NTP,0000,0000,0000,,停
+Dialogue: 0,0:11:03.23,0:11:05.16,Default,NTP,0000,0000,0000,,浪馬，看前面前面
+Dialogue: 0,0:11:05.36,0:11:06.66,Default,NTP,0000,0000,0000,,不要盯著人家看哦
+Dialogue: 0,0:11:09.23,0:11:11.43,Default,NTP,0000,0000,0000,,人家知道你是有意思啦
+Dialogue: 0,0:11:11.80,0:11:13.20,Default,NTP,0000,0000,0000,,不過現在要稍微忍耐一下哦
+Dialogue: 0,0:11:13.83,0:11:15.90,Default,NTP,0000,0000,0000,,拍好以後人家就讓你看個夠
+Dialogue: 0,0:11:16.40,0:11:17.40,Default,NTP,0000,0000,0000,,所以現在呢…
+Dialogue: 0,0:11:28.76,0:11:30.46,Default,NTP,0000,0000,0000,,夕璃，妳怎麼了？
+Dialogue: 0,0:11:31.36,0:11:33.16,Default,NTP,0000,0000,0000,,妳是不是有什麼煩惱啊？
+Dialogue: 0,0:11:34.93,0:11:36.93,Default,NTP,0000,0000,0000,,沒有，沒什麼
+Dialogue: 0,0:11:38.00,0:11:39.60,Default,NTP,0000,0000,0000,,只是覺得有點累了
+Dialogue: 0,0:11:40.86,0:11:43.50,Default,NTP,0000,0000,0000,,妳是不是一直在勉強自己做不開心的事啊
+Dialogue: 0,0:11:44.60,0:11:45.83,Default,NTP,0000,0000,0000,,不是的
+Dialogue: 0,0:11:46.83,0:11:50.70,Default,NTP,0000,0000,0000,,因為是關於學長和珠樹學姐的事情…
+Dialogue: 0,0:11:51.70,0:11:53.16,Default,NTP,0000,0000,0000,,請不要介意
+Dialogue: 0,0:11:53.76,0:11:55.73,Default,NTP,0000,0000,0000,,是嗎，那樣就好
+Dialogue: 0,0:11:56.86,0:11:57.43,Default,NTP,0000,0000,0000,,不過…
+Dialogue: 0,0:11:59.06,0:12:01.80,Default,NTP,0000,0000,0000,,看到學長你們倆吵架了…
+Dialogue: 0,0:12:02.03,0:12:05.26,Default,NTP,0000,0000,0000,,不對，這時候我真的很…
+Dialogue: 0,0:12:06.10,0:12:07.80,Default,NTP,0000,0000,0000,,知道啦，我會想辦法的啦
+Dialogue: 0,0:12:08.20,0:12:09.53,Default,NTP,0000,0000,0000,,話是這麼說…
+Dialogue: 0,0:12:10.96,0:12:11.73,Default,NTP,0000,0000,0000,,已經沒辦法啦
+Dialogue: 0,0:12:12.36,0:12:13.66,Default,NTP,0000,0000,0000,,我們的關係已經修補不了啦
+Dialogue: 0,0:12:15.93,0:12:16.66,Default,NTP,0000,0000,0000,,為什麼…
+Dialogue: 0,0:12:17.63,0:12:19.20,Default,NTP,0000,0000,0000,,已經分手啦，我和阿珠
+Dialogue: 0,0:12:21.90,0:12:23.06,Default,NTP,0000,0000,0000,,應說我被她甩了才對吧
+Dialogue: 0,0:12:27.03,0:12:30.70,Default,NTP,0000,0000,0000,,夕璃，妳真的這麼關心我們…
+Dialogue: 0,0:12:31.63,0:12:32.70,Default,NTP,0000,0000,0000,,不對
+Dialogue: 0,0:12:33.13,0:12:33.63,Default,NTP,0000,0000,0000,,啊？
+Dialogue: 0,0:12:34.66,0:12:35.56,Default,NTP,0000,0000,0000,,不是這樣的
+Dialogue: 0,0:12:36.43,0:12:37.40,Default,NTP,0000,0000,0000,,是很開心
+Dialogue: 0,0:12:38.36,0:12:39.60,Default,NTP,0000,0000,0000,,是很高興啊
+Dialogue: 0,0:12:42.33,0:12:43.10,Default,NTP,0000,0000,0000,,怎麼會…
+Dialogue: 0,0:12:44.06,0:12:45.16,Default,NTP,0000,0000,0000,,我是個壞女孩吧
+Dialogue: 0,0:12:47.13,0:12:51.26,Default,NTP,0000,0000,0000,,我一直都有注意學長的
+Dialogue: 0,0:12:54.26,0:12:59.30,Default,NTP,0000,0000,0000,,學長和珠樹學姐，你們兩個相襯得實在是太耀眼了
+Dialogue: 0,0:13:00.20,0:13:04.06,Default,NTP,0000,0000,0000,,我一直在想\N什麼時候能認識一個像學長一樣優秀的男生
+Dialogue: 0,0:13:04.73,0:13:07.03,Default,NTP,0000,0000,0000,,然後發展一段良好關係
+Dialogue: 0,0:13:08.40,0:13:10.53,Default,NTP,0000,0000,0000,,但是那不過是在欺騙自己
+Dialogue: 0,0:13:11.53,0:13:14.03,Default,NTP,0000,0000,0000,,今天看你們兩個突然變成那樣
+Dialogue: 0,0:13:14.86,0:13:16.40,Default,NTP,0000,0000,0000,,有一種說不出來的感覺
+Dialogue: 0,0:13:17.13,0:13:18.63,Default,NTP,0000,0000,0000,,心臟跳個不停
+Dialogue: 0,0:13:19.33,0:13:20.90,Default,NTP,0000,0000,0000,,卻完全不會感到悲傷
+Dialogue: 0,0:13:22.26,0:13:23.36,Default,NTP,0000,0000,0000,,我終於知道了
+Dialogue: 0,0:13:24.56,0:13:27.63,Default,NTP,0000,0000,0000,,在我內心的深處，一直有一種…
+Dialogue: 0,0:13:28.83,0:13:31.16,Default,NTP,0000,0000,0000,,要是沒有珠樹學姐就好了
+Dialogue: 0,0:13:32.46,0:13:34.10,Default,NTP,0000,0000,0000,,珠樹學姐快點消失吧
+Dialogue: 0,0:13:35.40,0:13:39.10,Default,NTP,0000,0000,0000,,那樣我就可以和學長兩人獨處了
+Dialogue: 0,0:13:39.80,0:13:40.96,Default,NTP,0000,0000,0000,,這樣的感覺
+Dialogue: 0,0:13:42.93,0:13:44.33,Default,NTP,0000,0000,0000,,我是個壞女孩對吧？
+Dialogue: 0,0:13:45.36,0:13:46.66,Default,NTP,0000,0000,0000,,我真的最差勁了
+Dialogue: 0,0:13:48.46,0:13:51.06,Default,NTP,0000,0000,0000,,學長聽到以後一定討厭我了吧
+Dialogue: 0,0:13:55.06,0:13:56.10,Default,NTP,0000,0000,0000,,但是沒關係
+Dialogue: 0,0:13:58.06,0:13:59.36,Default,NTP,0000,0000,0000,,就算討厭我也好
+Dialogue: 0,0:14:00.40,0:14:01.66,Default,NTP,0000,0000,0000,,就算最討厭我也沒關係
+Dialogue: 0,0:14:02.76,0:14:03.80,Default,NTP,0000,0000,0000,,就算只是一次也好
+Dialogue: 0,0:14:04.06,0:14:05.50,Default,NTP,0000,0000,0000,,請把我抱在懷裡
+Dialogue: 0,0:14:07.50,0:14:11.36,Default,NTP,0000,0000,0000,,學長，我喜歡你。很喜歡你啊
+Dialogue: 0,0:14:19.40,0:14:20.20,Default,NTP,0000,0000,0000,,學長…
+Dialogue: 0,0:14:33.83,0:14:36.13,Default,NTP,0000,0000,0000,,今晚請你只注視著我
+Dialogue: 0,0:14:46.26,0:14:49.53,Default,NTP,0000,0000,0000,,還是有點…難為情
+Dialogue: 0,0:14:51.10,0:14:52.66,Default,NTP,0000,0000,0000,,先去沖個澡怎麼樣？
+Dialogue: 0,0:14:53.23,0:14:55.03,Default,NTP,0000,0000,0000,,不，還是學長先…
+Dialogue: 0,0:14:56.60,0:14:57.96,Default,NTP,0000,0000,0000,,那就一起進去吧
+Dialogue: 0,0:14:59.36,0:14:59.86,Default,NTP,0000,0000,0000,,嗯
+Dialogue: 0,0:15:03.33,0:15:06.83,Default,NTP,0000,0000,0000,,對不起，我是不是力氣太小了…
+Dialogue: 0,0:15:07.53,0:15:10.70,Default,NTP,0000,0000,0000,,哪裡的事，我很舒服，很舒服
+Dialogue: 0,0:15:11.76,0:15:15.20,Default,NTP,0000,0000,0000,,是嗎？那我要加油囉
+Dialogue: 0,0:15:23.46,0:15:25.76,Default,NTP,0000,0000,0000,,這個…要我也…
+Dialogue: 0,0:15:27.16,0:15:28.03,Default,NTP,0000,0000,0000,,害怕嗎？
+Dialogue: 0,0:15:28.90,0:15:29.70,Default,NTP,0000,0000,0000,,不會
+Dialogue: 0,0:15:37.03,0:15:39.76,Default,NTP,0000,0000,0000,,夕璃，這次我來幫妳洗吧
+Dialogue: 0,0:15:41.23,0:15:41.86,Default,NTP,0000,0000,0000,,怎麼會…
+Dialogue: 0,0:15:44.10,0:15:44.90,Default,NTP,0000,0000,0000,,學長
+Dialogue: 0,0:15:57.00,0:15:57.46,Default,NTP,0000,0000,0000,,怎麼樣
+Dialogue: 0,0:15:57.53,0:15:57.96,Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:15:58.30,0:15:59.00,Default,NTP,0000,0000,0000,,舒服嗎？
+Dialogue: 0,0:16:01.46,0:16:03.20,Default,NTP,0000,0000,0000,,得舒服…
+Dialogue: 0,0:16:05.46,0:16:07.53,Default,NTP,0000,0000,0000,,這裡也要洗乾淨
+Dialogue: 0,0:16:09.90,0:16:15.40,Default,NTP,0000,0000,0000,,還沒洗乾淨，我的身體就變得怪怪的了
+Dialogue: 0,0:16:22.26,0:16:23.63,Default,NTP,0000,0000,0000,,妳好美，夕璃
+Dialogue: 0,0:16:24.83,0:16:26.53,Default,NTP,0000,0000,0000,,就好陶瓷娃娃一樣
+Dialogue: 0,0:16:28.43,0:16:29.23,Default,NTP,0000,0000,0000,,讓我看清楚吧
+Dialogue: 0,0:16:31.20,0:16:32.06,Default,NTP,0000,0000,0000,,真的很美
+Dialogue: 0,0:16:32.80,0:16:33.30,Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:16:59.60,0:17:00.30,Default,NTP,0000,0000,0000,,濕答答的了
+Dialogue: 0,0:17:02.10,0:17:03.23,Default,NTP,0000,0000,0000,,好難為情
+Dialogue: 0,0:17:23.16,0:17:24.73,Default,NTP,0000,0000,0000,,可以嗎？我要來了
+Dialogue: 0,0:17:26.23,0:17:26.70,Default,NTP,0000,0000,0000,,好的
+Dialogue: 0,0:17:30.26,0:17:31.16,Default,NTP,0000,0000,0000,,好痛啊
+Dialogue: 0,0:17:33.63,0:17:35.80,Default,NTP,0000,0000,0000,,痛嗎？那就不要做了
+Dialogue: 0,0:17:36.23,0:17:38.86,Default,NTP,0000,0000,0000,,不行，絕對不行
+Dialogue: 0,0:17:40.13,0:17:40.46,Default,NTP,0000,0000,0000,,那好
+Dialogue: 0,0:17:52.23,0:17:56.53,Default,NTP,0000,0000,0000,,學長，怎麼樣？夕璃的那裡舒服嗎？
+Dialogue: 0,0:17:57.63,0:17:59.73,Default,NTP,0000,0000,0000,,嗯，很舒服
+Dialogue: 0,0:18:19.50,0:18:21.23,Default,NTP,0000,0000,0000,,夕璃，妳好棒
+Dialogue: 0,0:18:22.86,0:18:23.66,Default,NTP,0000,0000,0000,,我好開心
+Dialogue: 0,0:18:24.16,0:18:25.56,Default,NTP,0000,0000,0000,,我也是，夕璃
+Dialogue: 0,0:18:32.13,0:18:36.00,Default,NTP,0000,0000,0000,,學長，浪馬…學長
+Dialogue: 0,0:18:36.70,0:18:39.20,Default,NTP,0000,0000,0000,,夕璃，夕璃，夕璃
+Dialogue: 0,0:19:22.46,0:19:23.60,Default,NTP,0000,0000,0000,,夕…夕璃…
+Dialogue: 0,0:19:23.93,0:19:26.00,Default,NTP,0000,0000,0000,,珠樹學姐，早安
+Dialogue: 0,0:19:29.33,0:19:30.40,Default,NTP,0000,0000,0000,,原來是這樣啊
+Dialogue: 0,0:19:31.70,0:19:34.33,Default,NTP,0000,0000,0000,,我只是把這個拿來給他而已
+Dialogue: 0,0:19:35.53,0:19:36.60,Default,NTP,0000,0000,0000,,是他的短褲，已經洗好了
+Dialogue: 0,0:19:37.36,0:19:39.20,Default,NTP,0000,0000,0000,,我可不想被他說個沒完
+Dialogue: 0,0:19:39.63,0:19:40.10,Default,NTP,0000,0000,0000,,拜拜
+Dialogue: 0,0:19:41.23,0:19:42.10,Default,NTP,0000,0000,0000,,珠樹學姐
+Dialogue: 0,0:19:43.13,0:19:46.43,Default,NTP,0000,0000,0000,,以後浪馬學長就拜託妳照顧了
+Dialogue: 0,0:19:47.63,0:19:48.03,Default,NTP,0000,0000,0000,,咦？
+Dialogue: 0,0:19:48.66,0:19:50.16,Default,NTP,0000,0000,0000,,不過你們兩個不是…
+Dialogue: 0,0:19:51.23,0:19:52.96,Default,NTP,0000,0000,0000,,我們完全沒事的
+Dialogue: 0,0:19:53.73,0:19:57.20,Default,NTP,0000,0000,0000,,就今天，就一天而已，我想借用一下學長
+Dialogue: 0,0:20:06.40,0:20:08.00,Default,NTP,0000,0000,0000,,騙人的吧？真有這種事啊？
+Dialogue: 0,0:20:08.40,0:20:09.46,Default,NTP,0000,0000,0000,,真是不敢相信
+Dialogue: 0,0:20:14.86,0:20:16.33,Default,NTP,0000,0000,0000,,真是，請不要這樣
+Dialogue: 0,0:20:24.30,0:20:25.63,Default,NTP,0000,0000,0000,,來，「啊」一口
+Dialogue: 0,0:20:26.30,0:20:26.96,Default,NTP,0000,0000,0000,,啊
+Dialogue: 0,0:20:45.00,0:20:47.70,Default,NTP,0000,0000,0000,,是哦，好久沒玩得這麼瘋了
+Dialogue: 0,0:20:48.86,0:20:49.43,Default,NTP,0000,0000,0000,,現在去玩什麼好？
+Dialogue: 0,0:20:52.26,0:20:55.56,Default,NTP,0000,0000,0000,,最後，我想去坐那個…
+Dialogue: 0,0:20:59.63,0:21:01.36,Default,NTP,0000,0000,0000,,明天妳要到哪裡去？
+Dialogue: 0,0:21:03.80,0:21:06.60,Default,NTP,0000,0000,0000,,反正放暑假了，一定是想出趟遠門吧
+Dialogue: 0,0:21:07.83,0:21:10.63,Default,NTP,0000,0000,0000,,夕璃，怎麼了？玩累了？
+Dialogue: 0,0:21:12.86,0:21:15.46,Default,NTP,0000,0000,0000,,學長，對不起
+Dialogue: 0,0:21:20.53,0:21:22.03,Default,NTP,0000,0000,0000,,海外拍攝要去半年啊
+Dialogue: 0,0:21:23.30,0:21:26.63,Default,NTP,0000,0000,0000,,說起來，怎麼今天說走就走那麼突然？
+Dialogue: 0,0:21:27.63,0:21:30.23,Default,NTP,0000,0000,0000,,其實很久以前就決定了
+Dialogue: 0,0:21:30.86,0:21:31.26,Default,NTP,0000,0000,0000,,咦？
+Dialogue: 0,0:21:32.60,0:21:37.53,Default,NTP,0000,0000,0000,,對不起，其實我早就想說出來了
+Dialogue: 0,0:21:39.50,0:21:43.53,Default,NTP,0000,0000,0000,,但是學長太溫柔了
+Dialogue: 0,0:21:44.70,0:21:46.66,Default,NTP,0000,0000,0000,,為什麼不早點跟我說啊？
+Dialogue: 0,0:21:48.60,0:21:53.13,Default,NTP,0000,0000,0000,,但是，萬一學長非要我留下來不可…
+Dialogue: 0,0:21:53.76,0:21:54.50,Default,NTP,0000,0000,0000,,得厲害嘛
+Dialogue: 0,0:21:54.76,0:21:55.13,Default,NTP,0000,0000,0000,,咦？
+Dialogue: 0,0:21:55.80,0:21:59.00,Default,NTP,0000,0000,0000,,能當電視台記者，不正大好機會嘛
+Dialogue: 0,0:22:01.03,0:22:01.90,Default,NTP,0000,0000,0000,,學長…
+Dialogue: 0,0:22:02.93,0:22:05.83,Default,NTP,0000,0000,0000,,把握瞬間的機會就是取勝之道
+Dialogue: 0,0:22:06.60,0:22:08.50,Default,NTP,0000,0000,0000,,是踢還是用膝頂都沒關係啦
+Dialogue: 0,0:22:09.36,0:22:10.60,Default,NTP,0000,0000,0000,,太好了，夕璃
+Dialogue: 0,0:22:13.36,0:22:18.00,Default,NTP,0000,0000,0000,,不過夕璃走了之後拳擊同好就無聊了
+Dialogue: 0,0:22:18.80,0:22:20.83,Default,NTP,0000,0000,0000,,我也變成孤零零一個人了
+Dialogue: 0,0:22:21.83,0:22:25.13,Default,NTP,0000,0000,0000,,不個反正妳很快就回來了，半年時間一眨眼就過去啦
+Dialogue: 0,0:22:26.70,0:22:33.76,Default,NTP,0000,0000,0000,,父母說與其向學園請假半年，還不如乾脆去留學算了
+Dialogue: 0,0:22:37.20,0:22:37.93,Default,NTP,0000,0000,0000,,是嗎
+Dialogue: 0,0:22:42.30,0:22:42.76,Default,NTP,0000,0000,0000,,別走
+Dialogue: 0,0:22:44.76,0:22:46.96,Default,NTP,0000,0000,0000,,別走，再坐一圈
+Dialogue: 0,0:22:51.43,0:22:52.53,Default,NTP,0000,0000,0000,,我們就要這個再來一圈
+Dialogue: 0,0:22:53.90,0:22:54.76,Default,NTP,0000,0000,0000,,這個再來…？
+Dialogue: 0,0:23:00.16,0:23:01.20,Default,NTP,0000,0000,0000,,祝福之吻
+Dialogue: 0,0:23:04.36,0:23:06.03,Default,NTP,0000,0000,0000,,之後是，離別之吻
+Dialogue: 0,0:23:53.60,0:23:56.20,Default,NTP,0000,0000,0000,,夕璃，我快要出來了
+Dialogue: 0,0:23:58.33,0:24:06.46,Default,NTP,0000,0000,0000,,出來吧，請把學長又濃又熱的在夕璃的嘴裡…
+Dialogue: 0,0:24:06.96,0:24:08.40,Default,NTP,0000,0000,0000,,還不行
+Dialogue: 0,0:24:09.73,0:24:11.03,Default,NTP,0000,0000,0000,,不要，不要不要
+Dialogue: 0,0:24:12.90,0:24:15.50,Default,NTP,0000,0000,0000,,我不想離開你，學長
+Dialogue: 0,0:24:17.10,0:24:18.93,Default,NTP,0000,0000,0000,,求求你，抱緊我
+Dialogue: 0,0:24:20.43,0:24:22.20,Default,NTP,0000,0000,0000,,請學長抱緊我
+Dialogue: 0,0:24:23.40,0:24:25.33,Default,NTP,0000,0000,0000,,永遠不要離開我
+Dialogue: 0,0:24:27.10,0:24:27.80,Default,NTP,0000,0000,0000,,夕璃…
+Dialogue: 0,0:24:33.70,0:24:36.23,Default,NTP,0000,0000,0000,,碰不到學長，摸不到學長
+Dialogue: 0,0:24:37.90,0:24:39.43,Default,NTP,0000,0000,0000,,看不到學長…
+Dialogue: 0,0:24:40.66,0:24:41.50,Default,NTP,0000,0000,0000,,我在這裡
+Dialogue: 0,0:25:05.33,0:25:09.50,Default,NTP,0000,0000,0000,,我想…摸摸…學長
+Dialogue: 0,0:25:10.30,0:25:12.10,Default,NTP,0000,0000,0000,,我想看看學長
+Dialogue: 0,0:25:24.20,0:25:24.86,Default,NTP,0000,0000,0000,,好美啊
+Dialogue: 0,0:25:36.33,0:25:38.56,Default,NTP,0000,0000,0000,,這樣怎麼樣？仰望星空的感覺
+Dialogue: 0,0:25:39.93,0:25:43.43,Default,NTP,0000,0000,0000,,我看不到什麼星星，我眼裡只有…
+Dialogue: 0,0:25:44.40,0:25:46.40,Default,NTP,0000,0000,0000,,只有我的學長…
+Dialogue: 0,0:25:52.13,0:25:52.73,Default,NTP,0000,0000,0000,,我…
+Dialogue: 0,0:25:54.73,0:25:55.30,Default,NTP,0000,0000,0000,,學長…
+Dialogue: 0,0:25:57.46,0:25:58.66,Default,NTP,0000,0000,0000,,快要去了
+Dialogue: 0,0:26:00.70,0:26:03.16,Default,NTP,0000,0000,0000,,好，一起去吧
+Dialogue: 0,0:26:06.63,0:26:09.50,Default,NTP,0000,0000,0000,,腦海裡全是繁星
+Dialogue: 0,0:26:17.00,0:26:21.36,Default,NTP,0000,0000,0000,,夕璃要變成星星了…
+Dialogue: 0,0:26:37.03,0:26:37.96,Default,NTP,0000,0000,0000,,這樣就走了啊
+Dialogue: 0,0:26:42.20,0:26:43.40,Default,NTP,0000,0000,0000,,就剩下我一個
+Dialogue: 0,0:27:05.10,0:27:07.46,Default,NTP,0000,0000,0000,,現在將連接到留言電話服務
+Dialogue: 0,0:27:08.56,0:27:09.26,Default,NTP,0000,0000,0000,,傻乎乎的
+Dialogue: 0,0:27:10.33,0:27:12.06,Default,NTP,0000,0000,0000,,為什麼我非要給他打電話不可？
+;cySUBBlockStart: 0,0,0:27:16.99,0:27:22.21,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[9|][37|何][69|プ][100|ベ][116|][162|大][253|切][288|ス][373|][425|自][445|分][472|ズ][528|LOVE],何プベ大切ス自分ズLOVE
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:16.99,0:27:22.21,Lyrics_de,NTP,0000,0000,0000,,{\K7}{\K26}何{\K30}プ{\K29}ベ{\K14}{\K44}大{\K89}切{\K33}ス{\K83}{\K50}自{\K18}分{\K25}ズ{\K54}LOVE
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:22.48,0:27:24.57,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[1|][45|WE'LL][57| ][92|GET][107| ][125|THE][139| ][200|CHANCE!],WE'LL GET THE CHANCE!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:22.48,0:27:24.57,Lyrics_de,NTP,0000,0000,0000,,{\K-1}{\K42}WE'LL{\K10} {\K33}GET{\K13} {\K16}THE{\K12} {\K59}CHANCE!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:25.05,0:27:30.36,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[0|][59|何][84|度][106|ザ][228|パ][260|][279|當][299|ギ][323|ゲ][347|サ][370|ゑ][398|ク][417|ん][511|ボ],何度ザパ當ギゲサゑクんボ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:25.05,0:27:30.36,Lyrics_de,NTP,0000,0000,0000,,{\K-2}{\K57}何{\K23}度{\K20}ザ{\K120}パ{\K30}{\K17}當{\K18}ギ{\K22}ゲ{\K22}サ{\K21}ゑ{\K26}ク{\K17}ん{\K92}ボ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:30.86,0:27:34.97,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[0|][14|ガ][38|よ][57|　][110|青][150|春][202|ゾ][267|][312|一][346|度][368|ク][404|ん],ガよ　青春ゾ一度クん
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:30.86,0:27:34.97,Lyrics_de,NTP,0000,0000,0000,,{\K-2}{\K12}ガ{\K22}よ{\K17}　{\K51}青{\K38}春{\K50}ゾ{\K63}{\K43}一{\K32}度{\K20}ク{\K34}ん
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:39.71,0:27:42.75,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-10|][3|ヤ][18|ワ][34|д][50|ク][65|ボ][81|よ][97|ゎ][114|][130|ゾ][145|ヘ][160|Ж][178|ш][195|ヱ][212|ク][228|ボ][245|よ][327|ゎ],ヤワдクボよゎゾヘЖшヱクボよゎ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:39.71,0:27:42.75,Lyrics_de,NTP,0000,0000,0000,,{\K-12}{\K11}ヤ{\K13}ワ{\K14}д{\K14}ク{\K13}ボ{\K14}よ{\K14}ゎ{\K15}{\K14}ゾ{\K13}ヘ{\K13}Ж{\K16}ш{\K15}ヱ{\K15}ク{\K14}ボ{\K15}よ{\K80}ゎ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:43.60,0:27:47.15,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-4|][11|ч][29|Ч][47|サ][75|ペ][92|ア][109|ギ][126|ゃ][144|　][160|全][179|員][212|一][242|緒][328|イ],чЧサペアギゃ　全員一緒イ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:43.60,0:27:47.15,Lyrics_de,NTP,0000,0000,0000,,{\K-6}{\K13}ч{\K16}Ч{\K16}サ{\K26}ペ{\K15}ア{\K15}ギ{\K15}ゃ{\K16}　{\K14}全{\K17}員{\K31}一{\K28}緒{\K84}イ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:47.90,0:27:51.13,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-7|][12|Ф][28|Ч][44|Ё][62|ш][81|ザ][103|掃][120|ゲ][137|サ][154|с][171|⑦][195|ヮ][213|シ][237|ヴ][254|み][305|у],ФЧЁшザ掃ゲサс⑦ヮシヴみу
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:47.90,0:27:51.13,Lyrics_de,NTP,0000,0000,0000,,{\K-9}{\K17}Ф{\K14}Ч{\K14}Ё{\K16}ш{\K17}ザ{\K20}掃{\K15}ゲ{\K15}サ{\K15}с{\K15}⑦{\K22}ヮ{\K16}シ{\K22}ヴ{\K15}み{\K49}у
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:50.93,0:27:55.40,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-9|][7|ヤ][25|ユ][44|Ш][84|シ][119|][145|ヤ][161|в][187|ヵ][229|ズ][254|ф][288|み][325|ю][366|ウ][429|サ][457|…],ヤユШシヤвヵズфみюウサ…
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:50.93,0:27:55.40,Lyrics_de,NTP,0000,0000,0000,,{\K-11}{\K14}ヤ{\K16}ユ{\K17}Ш{\K38}シ{\K33}{\K24}ヤ{\K14}в{\K24}ヵ{\K40}ズ{\K23}ф{\K32}み{\K35}ю{\K39}ウ{\K61}サ{\K26}…
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:27:56.34,0:28:07.87,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[2|][57|れ][72|モ][88|ス][122|ェ][140|][196|一][243|日][316|ゎ][375|][427|泣][459|ゆ][521|サ][587|タ][630|ろ][669|ベ][689|ェ][761|ヒ][860|][874|Л][911|⑦][946|ク][989|プ][1139|ゼ],れモスェ一日ゎ泣ゆサタろベェヒЛ⑦クプゼ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:27:56.34,0:28:07.87,Lyrics_de,NTP,0000,0000,0000,,{\K0}{\K53}れ{\K13}モ{\K14}ス{\K32}ェ{\K16}{\K54}一{\K45}日{\K71}ゎ{\K57}{\K50}泣{\K30}ゆ{\K60}サ{\K64}タ{\K41}ろ{\K37}ベ{\K18}ェ{\K70}ヒ{\K97}{\K12}Л{\K35}⑦{\K33}ク{\K41}プ{\K148}ゼ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:08.14,0:28:13.18,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-11|][8|何][41|プ][57|ベ][108|][155|大][236|切][297|ス][359|][400|自][426|分][451|ズ][500|LOVE],何プベ大切ス自分ズLOVE
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:08.14,0:28:13.18,Lyrics_de,NTP,0000,0000,0000,,{\K-13}{\K17}何{\K31}プ{\K14}ベ{\K49}{\K45}大{\K79}切{\K59}ス{\K60}{\K39}自{\K24}分{\K23}ズ{\K47}LOVE
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:13.46,0:28:15.52,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[5|][42|WE'LL][54| ][87|GET][103| ][124|THE][139| ][199|CHANCE!],WE'LL GET THE CHANCE!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:13.46,0:28:15.52,Lyrics_de,NTP,0000,0000,0000,,{\K3}{\K35}WE'LL{\K10} {\K31}GET{\K14} {\K19}THE{\K13} {\K58}CHANCE!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:15.86,0:28:21.19,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[28|][75|何][99|度][117|ザ][244|パ][265|][291|當][311|ギ][342|ゲ][368|サ][393|ゑ][419|ク][435|ん][513|ボ],何度ザパ當ギゲサゑクんボ
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:15.86,0:28:21.19,Lyrics_de,NTP,0000,0000,0000,,{\K26}{\K45}何{\K22}度{\K16}ザ{\K125}パ{\K19}{\K24}當{\K18}ギ{\K29}ゲ{\K24}サ{\K23}ゑ{\K24}ク{\K14}ん{\K76}ボ
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:21.97,0:28:25.87,Lyrics_de,NTP,0000,0000,0000,,build-in\karaoke\k-standard.php,[-17|][-2|ガ][31|よ][48|　][95|青][136|春][212|ゾ][256|][308|一][334|度][357|ク][383|ん],ガよ　青春ゾ一度クん
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:21.97,0:28:25.87,Lyrics_de,NTP,0000,0000,0000,,{\K-19}{\K13}ガ{\K31}よ{\K15}　{\K45}青{\K39}春{\K74}ゾ{\K42}{\K50}一{\K24}度{\K21}ク{\K24}ん
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,build-in\static\s-gradient.php,[11|Hey][33|!][47| ][66|This][83| ][99|is][116| ][135|my][153| ][191|way][291| ][309|of][324| ][341|life][373|!],Hey! This is my way of life!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9CF7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,0, 640, 447)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9FEFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,447, 640, 448)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA3E7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,448, 640, 449)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA6DFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,449, 640, 450)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA9D7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,450, 640, 451)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HACCFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,451, 640, 452)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HAFC7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,452, 640, 453)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB3BFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,453, 640, 454)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB6B7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,454, 640, 455)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB9AFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,455, 640, 456)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBCA7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,456, 640, 457)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBF9FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,457, 640, 458)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC297FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,458, 640, 459)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC68FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,459, 640, 460)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC987FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,460, 640, 461)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCC7FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,461, 640, 462)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCF78FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,462, 640, 463)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD270FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,463, 640, 464)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD668FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,464, 640, 465)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD960FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,465, 640, 466)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDC58FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,466, 640, 467)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDF50FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,467, 640, 468)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE248FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,468, 640, 469)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE640FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,469, 640, 470)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE938FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,470, 640, 471)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEC30FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,471, 640, 472)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEF28FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,472, 640, 473)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF220FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,473, 640, 474)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF518FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,474, 640, 475)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF910FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,475, 640, 476)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFC08FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,476, 640, 477)}Hey! This is my way of life!
+Dialogue: 0,0:28:26.27,0:28:30.05,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFF00FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,477, 640, 480)}Hey! This is my way of life!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,build-in\static\s-gradient.php,[0|Hey][0|!][0| ][0|This][0| ][0|is][0| ][0|my][0| ][0|way][0| ][0|of][0| ][0|life][0|!],Hey! This is my way of life!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9CF7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,0, 640, 447)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9FEFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,447, 640, 448)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA3E7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,448, 640, 449)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA6DFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,449, 640, 450)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA9D7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,450, 640, 451)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HACCFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,451, 640, 452)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HAFC7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,452, 640, 453)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB3BFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,453, 640, 454)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB6B7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,454, 640, 455)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB9AFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,455, 640, 456)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBCA7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,456, 640, 457)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBF9FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,457, 640, 458)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC297FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,458, 640, 459)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC68FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,459, 640, 460)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC987FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,460, 640, 461)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCC7FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,461, 640, 462)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCF78FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,462, 640, 463)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD270FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,463, 640, 464)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD668FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,464, 640, 465)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD960FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,465, 640, 466)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDC58FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,466, 640, 467)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDF50FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,467, 640, 468)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE248FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,468, 640, 469)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE640FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,469, 640, 470)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE938FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,470, 640, 471)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEC30FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,471, 640, 472)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEF28FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,472, 640, 473)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF220FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,473, 640, 474)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF518FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,474, 640, 475)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF910FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,475, 640, 476)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFC08FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,476, 640, 477)}Hey! This is my way of life!
+Dialogue: 0,0:28:30.33,0:28:34.26,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFF00FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,477, 640, 480)}Hey! This is my way of life!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,build-in\static\s-gradient.php,,Hey! This is my way of life!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9CF7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,0, 640, 447)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9FEFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,447, 640, 448)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA3E7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,448, 640, 449)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA6DFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,449, 640, 450)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA9D7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,450, 640, 451)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HACCFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,451, 640, 452)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HAFC7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,452, 640, 453)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB3BFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,453, 640, 454)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB6B7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,454, 640, 455)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB9AFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,455, 640, 456)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBCA7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,456, 640, 457)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBF9FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,457, 640, 458)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC297FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,458, 640, 459)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC68FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,459, 640, 460)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC987FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,460, 640, 461)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCC7FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,461, 640, 462)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCF78FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,462, 640, 463)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD270FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,463, 640, 464)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD668FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,464, 640, 465)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD960FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,465, 640, 466)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDC58FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,466, 640, 467)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDF50FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,467, 640, 468)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE248FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,468, 640, 469)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE640FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,469, 640, 470)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE938FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,470, 640, 471)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEC30FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,471, 640, 472)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEF28FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,472, 640, 473)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF220FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,473, 640, 474)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF518FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,474, 640, 475)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF910FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,475, 640, 476)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFC08FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,476, 640, 477)}Hey! This is my way of life!
+Dialogue: 0,0:28:34.57,0:28:38.56,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFF00FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,477, 640, 480)}Hey! This is my way of life!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,build-in\static\s-gradient.php,,Hey! This is my way of life!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9CF7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,0, 640, 447)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9FEFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,447, 640, 448)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA3E7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,448, 640, 449)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA6DFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,449, 640, 450)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA9D7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,450, 640, 451)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HACCFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,451, 640, 452)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HAFC7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,452, 640, 453)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB3BFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,453, 640, 454)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB6B7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,454, 640, 455)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB9AFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,455, 640, 456)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBCA7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,456, 640, 457)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBF9FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,457, 640, 458)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC297FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,458, 640, 459)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC68FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,459, 640, 460)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC987FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,460, 640, 461)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCC7FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,461, 640, 462)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCF78FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,462, 640, 463)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD270FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,463, 640, 464)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD668FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,464, 640, 465)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD960FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,465, 640, 466)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDC58FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,466, 640, 467)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDF50FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,467, 640, 468)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE248FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,468, 640, 469)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE640FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,469, 640, 470)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE938FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,470, 640, 471)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEC30FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,471, 640, 472)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEF28FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,472, 640, 473)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF220FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,473, 640, 474)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF518FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,474, 640, 475)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF910FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,475, 640, 476)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFC08FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,476, 640, 477)}Hey! This is my way of life!
+Dialogue: 0,0:28:38.79,0:28:42.80,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFF00FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,477, 640, 480)}Hey! This is my way of life!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,build-in\static\s-gradient.php,,Hey! This is my way of life!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9CF7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,0, 640, 447)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9FEFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,447, 640, 448)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA3E7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,448, 640, 449)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA6DFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,449, 640, 450)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA9D7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,450, 640, 451)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HACCFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,451, 640, 452)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HAFC7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,452, 640, 453)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB3BFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,453, 640, 454)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB6B7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,454, 640, 455)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB9AFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,455, 640, 456)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBCA7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,456, 640, 457)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBF9FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,457, 640, 458)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC297FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,458, 640, 459)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC68FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,459, 640, 460)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC987FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,460, 640, 461)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCC7FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,461, 640, 462)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCF78FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,462, 640, 463)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD270FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,463, 640, 464)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD668FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,464, 640, 465)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD960FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,465, 640, 466)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDC58FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,466, 640, 467)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDF50FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,467, 640, 468)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE248FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,468, 640, 469)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE640FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,469, 640, 470)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE938FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,470, 640, 471)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEC30FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,471, 640, 472)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEF28FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,472, 640, 473)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF220FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,473, 640, 474)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF518FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,474, 640, 475)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF910FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,475, 640, 476)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFC08FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,476, 640, 477)}Hey! This is my way of life!
+Dialogue: 0,0:28:43.10,0:28:47.02,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFF00FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,477, 640, 480)}Hey! This is my way of life!
+;cySUBBlockEnd
+;cySUBBlockStart: 0,0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,build-in\static\s-gradient.php,,Hey! This is my way of life!
+; WARNING: DO NOT ADD YOUR OWN EVENT BEFORE ;cySUBBlockEnd OR OTHERWISE THE EVENT WILL NOT BE PARSED
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9CF7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,0, 640, 447)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&H9FEFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,447, 640, 448)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA3E7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,448, 640, 449)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA6DFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,449, 640, 450)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HA9D7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,450, 640, 451)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HACCFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,451, 640, 452)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HAFC7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,452, 640, 453)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB3BFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,453, 640, 454)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB6B7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,454, 640, 455)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HB9AFFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,455, 640, 456)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBCA7FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,456, 640, 457)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HBF9FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,457, 640, 458)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC297FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,458, 640, 459)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC68FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,459, 640, 460)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HC987FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,460, 640, 461)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCC7FFF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,461, 640, 462)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HCF78FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,462, 640, 463)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD270FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,463, 640, 464)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD668FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,464, 640, 465)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HD960FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,465, 640, 466)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDC58FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,466, 640, 467)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HDF50FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,467, 640, 468)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE248FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,468, 640, 469)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE640FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,469, 640, 470)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HE938FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,470, 640, 471)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEC30FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,471, 640, 472)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HEF28FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,472, 640, 473)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF220FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,473, 640, 474)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF518FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,474, 640, 475)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HF910FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,475, 640, 476)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFC08FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,476, 640, 477)}Hey! This is my way of life!
+Dialogue: 0,0:28:47.46,0:28:51.21,Lyrics_ed,NTP,0000,0000,0000,,{\1c&HFF00FF&}{\1a&H00&}{\an7}{\pos(79,446)}{\clip(0,477, 640, 480)}Hey! This is my way of life!
+;cySUBBlockEnd

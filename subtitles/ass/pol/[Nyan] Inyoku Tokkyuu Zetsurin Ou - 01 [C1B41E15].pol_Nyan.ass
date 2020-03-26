@@ -1,0 +1,203 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.3 Build410  Sep 27 2015  17:39:14
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Last Style Storage: [640x480]
+Audio File: VTS_01_1 T02 2_0ch 192Kbps DELAY 0ms.ac3
+Video File: VTS_01_1.avs
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 4036
+Title: Kainote Ass File
+ScaledBorderAndShadow: yes
+Active Line: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000067,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: Anime,Franklin Gothic Medium,50,&H00E462DE,&H000000FF,&H00E644CD,&H00000000,0,0,0,0,100,100,0,0,1,0.1,0,2,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H32000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,7,65,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:48.59,0:01:53.51,Grupa,,0,0,0,,{\blur3\fad(936,0)}Nyan
+Dialogue: 0,0:01:49.59,0:01:53.51,Anime,,0,0,0,,{\blur3\fad(2673,0)}Inyoku Tokkyuu Zetsurin Ou
+Dialogue: 0,0:01:54.59,0:01:59.56,Tytul,,0,0,0,,{\be1\fad(442,483)}Pierwsze doświadczenie! Zetsurin Ou
+Dialogue: 0,0:00:54.45,0:00:55.71,Default,,0,0,0,,{\be1}Znalazłem cię.
+Dialogue: 0,0:01:04.59,0:01:10.55,Default,,0,0,0,,{\be1}Pociąg zbliża się do stacji nr 1.
+Dialogue: 0,0:01:38.45,0:01:39.58,Default,,0,0,0,,{\be1}Spóźniłem się!
+Dialogue: 0,0:01:40.07,0:01:43.31,Default,,0,0,0,,{\be1}Muszę go zniszczyć choćby nie wiem co!
+Dialogue: 0,0:02:04.48,0:02:07.87,Default,,0,0,0,,{\be1}Zatrzymaj. Co o nim myślisz?
+Dialogue: 0,0:02:07.87,0:02:12.66,Default,,0,0,0,,{\be1}Mocno zmodyfikowany M-77.
+Dialogue: 0,0:02:12.66,0:02:14.79,Default,,0,0,0,,{\be1}W końcu pokazał się.
+Dialogue: 0,0:02:16.53,0:02:18.45,Default,,0,0,0,,{\be1}Profesorze Saginomiya.
+Dialogue: 0,0:02:18.45,0:02:22.66,Default,,0,0,0,,{\be1}Komachi, to już nie jest ten sam profesor.
+Dialogue: 0,0:02:22.66,0:02:25.32,Default,,0,0,0,,{\be1}Niestety, ale musisz o nim zapomnieć.
+Dialogue: 0,0:02:52.41,0:02:55.30,Default,,0,0,0,,{\be1}Synchronizacja z Orgazmieniem osiąga fazę C.
+Dialogue: 0,0:02:55.30,0:02:58.03,Default,,0,0,0,,{\be1}Rin Ou osiąga pełny stopień operacyjny.
+Dialogue: 0,0:02:58.03,0:03:00.85,Default,,0,0,0,,{\be1}Inicjuję symulację walki.
+Dialogue: 0,0:03:02.25,0:03:03.50,Default,,0,0,0,,{\be1}Ruszaj.
+Dialogue: 0,0:03:10.13,0:03:11.50,Default,,0,0,0,,{\be1}Wibratoń!
+Dialogue: 0,0:03:22.91,0:03:24.17,Default,,0,0,0,,{\be1}Prezesie.
+Dialogue: 0,0:03:25.44,0:03:27.59,Default,,0,0,0,,{\be1}Wszystko idzie zgodnie z planem?
+Dialogue: 0,0:03:27.59,0:03:31.19,Default,,0,0,0,,{\be1}Tak, faza C stabilna.
+Dialogue: 0,0:03:31.58,0:03:34.65,Default,,0,0,0,,{\be1}Jak daleko zaszły Tsubame i Hikari?
+Dialogue: 0,0:03:34.65,0:03:36.72,Default,,0,0,0,,{\be1}Faza C.
+Dialogue: 0,0:03:39.07,0:03:40.62,Default,,0,0,0,,{\be1}Ja również.
+Dialogue: 0,0:03:40.62,0:03:45.34,Default,,0,0,0,,{\be1}Rozumiem, to może być kres\Nnaszych możliwości na chwilę obecną.
+Dialogue: 0,0:03:45.34,0:03:48.07,Default,,0,0,0,,{\be1}Powinniśmy zmienić partnerów.
+Dialogue: 0,0:03:48.07,0:03:52.54,Default,,0,0,0,,{\be1}Czekaj, nie zbadaliśmy\Njeszcze w całości Orgazmienia!
+Dialogue: 0,0:03:52.54,0:03:55.42,Default,,0,0,0,,{\be1}- Potrzebujemy więcej czasu.\N- Nie mamy go.
+Dialogue: 0,0:03:55.42,0:04:03.85,Default,,0,0,0,,{\be1}Jeśli to profesor Saginomiya\Nporywa kobiety, to ma ich już około 50.
+Dialogue: 0,0:04:04.68,0:04:09.43,Default,,0,0,0,,{\be1}Przy takiej wielkości jego\NOrgazmienia wszystko może się stać.
+Dialogue: 0,0:04:09.43,0:04:16.50,Default,,0,0,0,,{\be1}Musimy jak najszybciej osiągnąć fazę Ou\Ni wydobyć cały potencjał Zetsurin Ou.
+Dialogue: 0,0:04:16.50,0:04:21.59,Default,,0,0,0,,{\be1}Inaczej nie powstrzymamy\Nnadchodzącej katastrofy.
+Dialogue: 0,0:04:26.20,0:04:28.29,Default,,0,0,0,,{\be1}Liczymy na ciebie, Komachi.
+Dialogue: 0,0:04:29.04,0:04:30.00,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:04:30.75,0:04:35.55,Default,,0,0,0,,{\be1}Nozomi, podnieć się mocniej.\NMoc przestała wzrastać.
+Dialogue: 0,0:04:35.55,0:04:37.79,Default,,0,0,0,,{\be1}Baw się więcej sutkami!
+Dialogue: 0,0:04:38.72,0:04:44.93,Default,,0,0,0,,{\be1}Robisz się mokra.\NNie wstydź się, musisz być odważniejsza!
+Dialogue: 0,0:05:48.20,0:05:49.83,Default,,0,0,0,,{\be1}W sam środek!
+Dialogue: 0,0:05:59.05,0:06:01.53,Default,,0,0,0,,{\be1}Koniec energii i amunicji.
+Dialogue: 0,0:06:01.53,0:06:04.92,Default,,0,0,0,,{\be1}Rozumiem.\NNozomi, wracaj.
+Dialogue: 0,0:06:04.92,0:06:05.60,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:06:06.12,0:06:11.78,Default,,0,0,0,,{\be1}17 trafień na 30, nic nadzwyczajnego.
+Dialogue: 0,0:06:11.78,0:06:14.10,Default,,0,0,0,,{\be1}A tyle strzelała.
+Dialogue: 0,0:06:14.10,0:06:17.52,Default,,0,0,0,,{\be1}Rin Ou opiera się na mocy Orgazmienia.
+Dialogue: 0,0:06:17.52,0:06:25.63,Default,,0,0,0,,{\be1}Nozomi nie osiągnęła odpowiedniego\Npoziomu orgazmu, skoro tak dużo spudłowała.
+Dialogue: 0,0:06:25.63,0:06:31.29,Default,,0,0,0,,{\be1}Czyli ty też nie osiągnęłaś odpowiedniego\Norgazmu, bo też jesteś w fazie C.
+Dialogue: 0,0:06:31.87,0:06:35.25,Default,,0,0,0,,{\be1}A zamknij się. Sama nie jesteś lepsza.
+Dialogue: 0,0:06:35.25,0:06:38.70,Default,,0,0,0,,{\be1}To prawda, ale ja jeszcze tego nie robiłam.
+Dialogue: 0,0:06:38.70,0:06:41.10,Default,,0,0,0,,{\be1}Jak ty uprawiasz seks?
+Dialogue: 0,0:06:41.10,0:06:42.44,Default,,0,0,0,,{\be1}Nie uprawiam!
+Dialogue: 0,0:06:42.44,0:06:46.03,Default,,0,0,0,,{\be1}Nie kłam, powiedz!
+Dialogue: 0,0:06:46.03,0:06:47.84,Default,,0,0,0,,{\be1}Odwal się!
+Dialogue: 0,0:06:50.02,0:06:56.59,Default (i),,0,0,0,,{\be1}Im bardziej są podniecone tym więcej energii uwolni Orgazmień.
+Dialogue: 0,0:06:57.73,0:07:03.65,Default (i),,0,0,0,,{\be1}Dlaczego profesor Saginomiya tak bardzo się\Nzmienił po kontakcie z Orgazmieniem?
+Dialogue: 0,0:07:04.24,0:07:09.13,Default (i),,0,0,0,,{\be1}Dopóki tego nie rozwiążemy, nie można\Ndopuścić mężczyzn w jego pobliże.
+Dialogue: 0,0:07:09.66,0:07:13.12,Default,,0,0,0,,{\be1}Wiadomość z dowództwa:\Npociąg jest w pierwszej dzielnicy.
+Dialogue: 0,0:07:13.12,0:07:14.86,Default,,0,0,0,,{\be1}Pokazał się.
+Dialogue: 0,0:08:17.27,0:08:19.40,Default,,0,0,0,,{\be1}Wybornie!
+Dialogue: 0,0:08:23.08,0:08:26.93,Default,,0,0,0,,{\be1}Nie! Przestań!
+Dialogue: 0,0:08:57.06,0:09:00.52,Default,,0,0,0,,{\be1}Wy też chcecie?
+Dialogue: 0,0:09:00.52,0:09:04.98,Default,,0,0,0,,{\be1}Dobra, nacieszcie się moim\Nwspaniałym wynalazkiem!
+Dialogue: 0,0:09:55.16,0:10:03.04,Default,,0,0,0,,{\be1}Pokażę im kto naprawdę rządzi Blue City!
+Dialogue: 0,0:10:03.47,0:10:04.75,Default,,0,0,0,,{\be1}Naprzód!
+Dialogue: 0,0:10:20.81,0:10:25.02,Default,,0,0,0,,{\be1}Dziewczyny, to wasza pierwsza prawdziwa walka.
+Dialogue: 0,0:10:25.02,0:10:27.00,Default,,0,0,0,,{\be1}Dajcie z siebie wszystko.
+Dialogue: 0,0:10:27.00,0:10:27.90,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:10:27.90,0:10:31.86,Default,,0,0,0,,{\be1}Nozomi, ty użyjesz Rin Ou.\NLiczymy na ciebie.
+Dialogue: 0,0:10:31.86,0:10:32.69,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:10:32.69,0:10:34.94,Default,,0,0,0,,{\be1}Dokop mu za nas.
+Dialogue: 0,0:10:34.94,0:10:36.70,Default,,0,0,0,,{\be1}Powodzenia!
+Dialogue: 0,0:10:36.70,0:10:38.66,Default,,0,0,0,,{\be1}Się wie!
+Dialogue: 0,0:10:39.04,0:10:42.80,Default,,0,0,0,,{\be1}Wszyscy na stanowiska!\NPrzygotować S-51 do startu!
+Dialogue: 0,0:10:42.80,0:10:44.12,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:10:44.68,0:10:49.34,Default,,0,0,0,,{\be1}Wszystkie systemy S-51 sprawne.\NEnergia generatora bojowego rośnie.
+Dialogue: 0,0:10:49.34,0:10:51.54,Default,,0,0,0,,{\be1}Pociąg bojowy czekać na rozkaz.
+Dialogue: 0,0:10:51.54,0:10:54.55,Default,,0,0,0,,{\be1}Systemy bezpieczeństwa\Nzostaną wyłączone przy starcie.
+Dialogue: 0,0:10:54.55,0:10:57.67,Default,,0,0,0,,{\be1}Systemy komunikacyjne BIR będą\Npodłączone do wszystkich stacji.
+Dialogue: 0,0:10:57.67,0:11:00.55,Default,,0,0,0,,{\be1}Trasa S-51 ustalona.
+Dialogue: 0,0:11:02.04,0:11:06.31,Default,,0,0,0,,{\be1}Konwerter orgazmu włączony.\NRozpoczynam zasilanie Orgazmienia.
+Dialogue: 0,0:11:06.31,0:11:07.85,Default,,0,0,0,,{\be1}Pilot w fazie E.
+Dialogue: 0,0:11:07.85,0:11:10.65,Default,,0,0,0,,{\be1}Za wolno, podać afrodyzjak.
+Dialogue: 0,0:11:10.65,0:11:11.65,Default,,0,0,0,,{\be1}Tak jest.
+Dialogue: 0,0:11:14.17,0:11:19.28,Default,,0,0,0,,{\be1}Afrodyzjak podany.\NFaza D osiągnięta i nadal rośnie.
+Dialogue: 0,0:11:19.28,0:11:23.87,Default,,0,0,0,,{\be1}Poziom energii ustabilizował się.\NSilnik nie wykazuje nieprawidłowości.
+Dialogue: 0,0:11:23.87,0:11:25.77,Default,,0,0,0,,{\be1}Wszystkie systemy sprawne.
+Dialogue: 0,0:11:25.77,0:11:27.54,Default,,0,0,0,,{\be1}Uruchomić S-51!
+Dialogue: 0,0:11:27.54,0:11:28.95,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:11:36.88,0:11:39.65,Default,,0,0,0,,{\be1}7 minut do celu.
+Dialogue: 0,0:11:39.65,0:11:40.97,Default,,0,0,0,,{\be1}Co z Rin Ou?
+Dialogue: 0,0:11:40.97,0:11:44.24,Default,,0,0,0,,{\be1}Osiągnąć fazę C i jest gotowy do działania.
+Dialogue: 0,0:11:44.24,0:11:46.33,Default,,0,0,0,,{\be1}Oddzielić piąty wagon.
+Dialogue: 0,0:11:47.46,0:11:49.58,Default,,0,0,0,,{\be1}Rin Ou, start!
+Dialogue: 0,0:12:07.28,0:12:11.09,Default,,0,0,0,,{\be1}Rin Ou!
+Dialogue: 0,0:12:36.02,0:12:37.07,Default,,0,0,0,,{\be1}Wystarczy tego!
+Dialogue: 0,0:12:37.90,0:12:40.35,Default,,0,0,0,,{\be1}Więcej nie wyrządzisz szkód!
+Dialogue: 0,0:12:43.99,0:12:48.50,Default,,0,0,0,,{\be1}Niech cię diabli, Ishigami.\NUdało ci się go zbudować.
+Dialogue: 0,0:12:48.50,0:12:54.86,Default,,0,0,0,,{\be1}Ale to tylko podróbka,\Nnie pokonasz mojego wynalazku.
+Dialogue: 0,0:12:54.86,0:12:55.96,Default,,0,0,0,,{\be1}Naprzód, Rin Ki!
+Dialogue: 0,0:12:58.27,0:12:59.62,Default,,0,0,0,,{\be1}Nadchodzę!
+Dialogue: 0,0:13:14.08,0:13:16.23,Default,,0,0,0,,{\be1}Cholera!
+Dialogue: 0,0:13:20.74,0:13:21.55,Default,,0,0,0,,{\be1}Nozomi!
+Dialogue: 0,0:13:21.55,0:13:24.19,Default,,0,0,0,,{\be1}- Orgazmień nie działa!\N- Brak odpowiedzi z Rin ou!
+Dialogue: 0,0:13:24.19,0:13:26.16,Default,,0,0,0,,{\be1}Tsubame, Hikari, pomóżcie Rin Ou!
+Dialogue: 0,0:13:26.16,0:13:27.36,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:13:30.13,0:13:34.24,Default,,0,0,0,,{\be1}Co za złom.\NRin Ki wykończ go!
+Dialogue: 0,0:13:34.24,0:13:36.75,Default,,0,0,0,,{\be1}Cel namierzony.
+Dialogue: 0,0:13:36.75,0:13:38.09,Default,,0,0,0,,{\be1}Ognia!
+Dialogue: 0,0:13:46.56,0:13:50.48,Default,,0,0,0,,{\be1}Naprawmy Rin Ou póki możemy\Ni wycofajmy się do czwartej dzielnicy.
+Dialogue: 0,0:13:50.48,0:13:53.86,Default,,0,0,0,,{\be1}Nie możemy, awaryjny\Nsystem naprawy nie działa.
+Dialogue: 0,0:13:53.86,0:13:55.48,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:13:55.48,0:13:58.39,Default,,0,0,0,,{\be1}Został uszkodzony podczas bitwy.
+Dialogue: 0,0:13:58.39,0:14:00.95,Default,,0,0,0,,{\be1}Muszę go naprawić ręcznie.
+Dialogue: 0,0:14:01.44,0:14:04.67,Default,,0,0,0,,{\be1}Otworzono właz do kokpitu Rin Ou,\Nintruz dostał się do środka.
+Dialogue: 0,0:14:04.67,0:14:05.95,Default,,0,0,0,,{\be1}Co?!
+Dialogue: 0,0:14:06.44,0:14:11.31,Default,,0,0,0,,{\be1}Co tam robisz?!\NCywilom nie wolno tam wchodzić!
+Dialogue: 0,0:14:11.31,0:14:16.30,Default,,0,0,0,,{\be1}Słyszysz mnie?!\NNatychmiast wyjdź stamtąd!
+Dialogue: 0,0:14:16.30,0:14:19.38,Default,,0,0,0,,{\be1}Rozumiem, ona go napędzała.
+Dialogue: 0,0:14:20.68,0:14:22.62,Default,,0,0,0,,{\be1}Ej, co robisz?!
+Dialogue: 0,0:14:57.11,0:15:02.64,Default,,0,0,0,,{\be1}Ej, słuchaj co się do ciebie mówi!
+Dialogue: 0,0:15:06.59,0:15:10.63,Default,,0,0,0,,{\be1}Dlaczego musiał się pojawić akurat teraz?!
+Dialogue: 0,0:15:10.63,0:15:18.02,Default,,0,0,0,,{\be1}Dr Komachi, orgazmień wszedł w fazę D i rośnie.\NRin Ou uruchamia się.
+Dialogue: 0,0:15:20.02,0:15:21.58,Default,,0,0,0,,{\be1}Jak to?
+Dialogue: 0,0:15:21.58,0:15:23.74,Default,,0,0,0,,{\be1}Dr Komachi, słyszysz mnie?
+Dialogue: 0,0:15:23.74,0:15:24.95,Default,,0,0,0,,{\be1}Prezesie!
+Dialogue: 0,0:15:24.95,0:15:27.26,Default,,0,0,0,,{\be1}Kontynuuj walkę.
+Dialogue: 0,0:15:27.88,0:15:32.19,Default,,0,0,0,,{\be1}O czym ty mówisz?!\NOn zaraz zgwałci Nozomi!
+Dialogue: 0,0:15:32.19,0:15:37.42,Default,,0,0,0,,{\be1}Tyle że to obudziło ją i wróciła do fazy C.
+Dialogue: 0,0:15:37.42,0:15:38.49,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:15:38.49,0:15:43.13,Default,,0,0,0,,{\be1}Jeśli teraz go nie powstrzymamy,\Njuż nigdy możemy nie mieć okazji.
+Dialogue: 0,0:15:43.13,0:15:46.89,Default,,0,0,0,,{\be1}Co jeśli teraz uciekniemy\Ni go nie powstrzymamy?
+Dialogue: 0,0:15:47.61,0:15:49.13,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:15:51.29,0:15:53.52,Default,,0,0,0,,{\be1}- Słyszałaś.\N- No dobra.
+Dialogue: 0,0:15:53.98,0:15:58.42,Default,,0,0,0,,{\be1}Wyjaśnię wszystko, gdy go pokonamy!
+Dialogue: 0,0:15:58.42,0:15:59.48,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:16:00.28,0:16:01.34,Default,,0,0,0,,{\be1}Ssij.
+Dialogue: 0,0:16:02.35,0:16:04.74,Default,,0,0,0,,{\be1}Tylko nie mów, że nigdy tego nie robiłaś.
+Dialogue: 0,0:16:04.74,0:16:06.53,Default,,0,0,0,,{\be1}Robiłam!
+Dialogue: 0,0:16:06.53,0:16:08.82,Default,,0,0,0,,{\be1}Więc pośpiesz się, nie mamy czasu.
+Dialogue: 0,0:16:22.42,0:16:26.67,Default,,0,0,0,,{\be1}Wkurzasz mnie, Komachi.\NPora cię wykończyć.
+Dialogue: 0,0:16:30.08,0:16:31.35,Default,,0,0,0,,{\be1}Rin Ou!
+Dialogue: 0,0:16:34.46,0:16:35.31,Default,,0,0,0,,{\be1}Lecimy!
+Dialogue: 0,0:16:35.94,0:16:40.38,Default,,0,0,0,,{\be1}- Niesamowite.\N- Rin Ou osiągnął fazę B i nadal rośnie.
+Dialogue: 0,0:16:40.39,0:16:42.32,Default,,0,0,0,,{\be1}- Dr. Komachi. \N- Tak?
+Dialogue: 0,0:16:42.32,0:16:47.36,Default,,0,0,0,,{\be1}Wyślijcie Kaiserlinera.\NW tym stanie Nozomi może go użyć.
+Dialogue: 0,0:16:47.36,0:16:48.22,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:16:48.22,0:16:52.49,Default,,0,0,0,,{\be1}Rozpocząć operację Z!\NWysłać Kaiserlinera!
+Dialogue: 0,0:16:52.49,0:16:54.28,Default,,0,0,0,,{\be1}Tak jest!
+Dialogue: 0,0:16:54.28,0:16:56.29,Default,,0,0,0,,{\be1}Nozomi, rozpoczynamy operację Z!
+Dialogue: 0,0:16:56.29,0:16:58.34,Default,,0,0,0,,{\be1}Rozpocznij transformację!
+Dialogue: 0,0:16:59.45,0:17:00.25,Default,,0,0,0,,{\be1}Przyjęłam.
+Dialogue: 0,0:17:05.21,0:17:07.43,Default,,0,0,0,,{\be1}Rozdzielić wszystkie wagony!
+Dialogue: 0,0:17:08.54,0:17:11.18,Default,,0,0,0,,{\be1}Włożę go, żeby zwiększyć moc.
+Dialogue: 0,0:17:12.90,0:17:14.43,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:17:18.90,0:17:22.10,Default,,0,0,0,,{\be1}Rozpocząć walkę!
+Dialogue: 0,0:18:04.96,0:18:09.48,Default,,0,0,0,,{\be1}Zmień podniecenie w energię,\Nrycerzu sprawiedliwości!
+Dialogue: 0,0:18:10.24,0:18:13.50,Default,,0,0,0,,{\be1}Zetsurin Ou, przekształcony!
+Dialogue: 0,0:18:15.45,0:18:22.41,Default,,0,0,0,,{\be1}Mieliście asa w rękawie, co?\NW takim razie i ja pokażę mojego.
+Dialogue: 0,0:18:22.99,0:18:25.31,Default,,0,0,0,,{\be1}Nie mamy czasu, musisz dojść!
+Dialogue: 0,0:18:25.31,0:18:27.94,Default,,0,0,0,,{\be1}Boli!
+Dialogue: 0,0:19:35.70,0:19:39.26,Default,,0,0,0,,{\be1}Dochodzę!
+Dialogue: 0,0:19:54.64,0:19:56.88,Default,,0,0,0,,{\be1}Drągal Kaiserliner!
+Dialogue: 0,0:19:59.93,0:20:02.89,Default,,0,0,0,,{\be1}Zdychaj!
+Dialogue: 0,0:20:03.39,0:20:06.55,Default,,0,0,0,,{\be1}Pełny wjazd!
+Dialogue: 0,0:20:07.90,0:20:11.81,Default,,0,0,0,,{\be1}Co?! Niemożliwe!
+Dialogue: 0,0:20:20.41,0:20:23.23,Default,,0,0,0,,{\be1}To moc Zetsurin Ou.
+Dialogue: 0,0:20:24.25,0:20:25.78,Default,,0,0,0,,{\be1}Udało się!
+Dialogue: 0,0:20:26.71,0:20:28.21,Default,,0,0,0,,{\be1}Świetna robota.
+Dialogue: 0,0:20:32.35,0:20:34.44,Default,,0,0,0,,{\be1}Cholerny Zetsurin Ou.
+Dialogue: 0,0:20:34.44,0:20:38.69,Default,,0,0,0,,{\be1}Nieważne, następnym razem go zniszczę.
+Dialogue: 0,0:20:50.35,0:20:51.70,Default,,0,0,0,,{\be1}Uciekł.
+Dialogue: 0,0:20:52.40,0:20:54.15,Default,,0,0,0,,{\be1}Przepraszam...
+Dialogue: 0,0:20:57.33,0:20:59.07,Default,,0,0,0,,{\be1}Halo!
+Dialogue: 0,0:21:03.48,0:21:06.05,Default,,0,0,0,,{\be1}Kim jesteś?

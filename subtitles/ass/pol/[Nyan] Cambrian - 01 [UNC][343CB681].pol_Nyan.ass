@@ -1,0 +1,177 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.726
+Title: Kainote Ass File
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+ScriptType: v4.00+
+Last Style Storage: [640x480]
+YCbCr Matrix: TV.601
+Active Line: 0
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,7,10,10,8,1
+Style: Anime,Franklin Gothic Medium,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,25,1
+Style: Znak,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H96000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:02.85,0:02:05.43,Grupa,,0,0,0,,{\fad(356,55)}Nyan
+Dialogue: 0,0:02:06.77,0:02:14.57,Tytul,,0,0,0,,{\be1\fad(482,645)}Epidemia
+Dialogue: 0,0:03:13.29,0:03:17.51,Znak,,0,0,30,,{\be1\an2\fad(695,730)}Uniwersytet Shibazato,\Nwydział biologii
+Dialogue: 0,0:03:18.26,0:03:21.68,Znak,,0,0,0,,{\be1}Inżynieria komórkowa
+Dialogue: 0,0:08:25.23,0:08:28.15,Znak,,0,0,0,,{\be1}Masz wiadomość
+Dialogue: 0,0:09:52.69,0:09:57.70,Znak,,0,0,0,,{\be1}Wysyłanie wiadomości
+Dialogue: 0,0:11:05.35,0:11:11.31,Znak,,0,0,0,,{\be1}Laboratorium Yamagishi
+Dialogue: 0,0:00:03.31,0:00:08.31,Default (i),,0,0,0,,{\be1}Słyszałeś kiedyś o ewolucji\Nw biologii molekularnej?
+Dialogue: 0,0:00:14.09,0:00:20.14,Default (i),,0,0,0,,{\be1}To nauka zajmująca się biologią DNA\Nna poziomie molekularnym.
+Dialogue: 0,0:00:22.14,0:00:28.50,Default (i),,0,0,0,,{\be1}Odkryłem coś podczas\Neksperymentowania z promieniowaniem.
+Dialogue: 0,0:00:36.25,0:00:41.35,Default (i),,0,0,0,,{\be1}Czynnik pozwalający na powielenie\Nkomórek w kilka nanosekund.
+Dialogue: 0,0:00:42.06,0:00:49.79,Default (i),,0,0,0,,{\be1}Zmiany następują zaraz po wejściu\Nw kontakt z receptorami gospodarza.
+Dialogue: 0,0:00:55.63,0:00:59.33,Default (i),,0,0,0,,{\be1}Około 600 milionów lat temu,\Nna początku kambru...
+Dialogue: 0,0:00:59.33,0:01:05.00,Default (i),,0,0,0,,{\be1}Wielkie promieniowaniem wymusiło\Newolucję wszystkich organizmów.
+Dialogue: 0,0:01:06.93,0:01:12.64,Default (i),,0,0,0,,{\be1}Naukowcy nazwali to zjawisko eksplozją kambryjską.
+Dialogue: 0,0:01:12.64,0:01:17.26,Default (i),,0,0,0,,{\be1}I teraz ta sama ewolucja znowu się zacznie.
+Dialogue: 0,0:01:17.89,0:01:21.72,Default (i),,0,0,0,,{\be1}To właśnie moje marzenie.
+Dialogue: 0,0:03:22.08,0:03:24.00,Default,,0,0,0,,{\be1}Takamura, znowu źle.
+Dialogue: 0,0:03:24.68,0:03:26.89,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:03:27.22,0:03:33.29,Default,,0,0,0,,{\be1}Znowu zepsułeś prototyp,\Na mówiłam, że jest delikatny.
+Dialogue: 0,0:03:33.29,0:03:35.29,Default,,0,0,0,,{\be1}Uważaj trochę.
+Dialogue: 0,0:03:36.35,0:03:38.02,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:03:38.02,0:03:41.36,Default,,0,0,0,,{\be1}Czy coś cię trapi?
+Dialogue: 0,0:03:49.47,0:03:54.14,Default,,0,0,0,,{\be1}Zresztą, nieważne.\NPrzepraszam.
+Dialogue: 0,0:03:54.14,0:03:58.35,Default,,0,0,0,,{\be1}Nie wiem o co chodzi,\Nale spróbuj się rozchmurzyć, dobra?
+Dialogue: 0,0:04:01.52,0:04:02.85,Default,,0,0,0,,{\be1}Shinohara.
+Dialogue: 0,0:04:02.85,0:04:07.43,Default,,0,0,0,,{\be1}Sorki, że przeszkadzam, ale już pora na lancz.
+Dialogue: 0,0:04:07.43,0:04:09.75,Default,,0,0,0,,{\be1}Wybacz, zaraz przyjdę.
+Dialogue: 0,0:04:09.75,0:04:13.27,Default,,0,0,0,,{\be1}Takamura, musisz bardziej uważać.
+Dialogue: 0,0:04:13.85,0:04:15.35,Default,,0,0,0,,{\be1}Dobrze.
+Dialogue: 0,0:04:35.39,0:04:36.64,Default,,0,0,0,,{\be1}Nie tutaj.
+Dialogue: 0,0:04:38.37,0:04:39.72,Default,,0,0,0,,{\be1}Ktoś zobaczy.
+Dialogue: 0,0:04:39.72,0:04:41.10,Default,,0,0,0,,{\be1}Nie przejmuj się.
+Dialogue: 0,0:04:50.53,0:04:52.17,Default,,0,0,0,,{\be1}Shinohara.
+Dialogue: 0,0:04:52.17,0:04:53.62,Default,,0,0,0,,{\be1}To jak?
+Dialogue: 0,0:05:00.02,0:05:02.79,Default,,0,0,0,,{\be1}Wiem, że chcesz.
+Dialogue: 0,0:05:02.79,0:05:04.61,Default,,0,0,0,,{\be1}Czekaj, najpierw się rozbiorę.
+Dialogue: 0,0:05:07.22,0:05:09.33,Default,,0,0,0,,{\be1}Chodź.
+Dialogue: 0,0:05:13.52,0:05:15.41,Default,,0,0,0,,{\be1}Jesteś piękna.
+Dialogue: 0,0:05:15.41,0:05:16.83,Default,,0,0,0,,{\be1}Shinohara.
+Dialogue: 0,0:06:00.47,0:06:02.25,Default,,0,0,0,,{\be1}Shinohara!
+Dialogue: 0,0:07:38.62,0:07:39.70,Default,,0,0,0,,{\be1}Słucham?
+Dialogue: 0,0:07:40.72,0:07:45.18,Default,,0,0,0,,{\be1}Cześć, jestem Kojima Kana.
+Dialogue: 0,0:07:45.18,0:07:48.69,Default,,0,0,0,,{\be1}Przyszłam do profesora Shinohary, ale...
+Dialogue: 0,0:07:49.16,0:07:54.20,Default,,0,0,0,,{\be1}Kto by przypuszczał,\Nże ma taką piękną dziewczynę.
+Dialogue: 0,0:07:54.72,0:07:56.62,Default,,0,0,0,,{\be1}Ale to nie moja sprawa.
+Dialogue: 0,0:07:59.54,0:08:01.14,Default,,0,0,0,,{\be1}O co chodzi?
+Dialogue: 0,0:08:01.93,0:08:04.13,Default,,0,0,0,,{\be1}Chcesz się zabawić?
+Dialogue: 0,0:08:04.79,0:08:08.64,Default,,0,0,0,,{\be1}Jesteś prawiczkiem, prawda?\NCo za słodziak!
+Dialogue: 0,0:08:08.64,0:08:10.37,Default,,0,0,0,,{\be1}Przestań się naśmiewać ze mnie!
+Dialogue: 0,0:08:29.05,0:08:30.83,Default,,0,0,0,,{\be1}Słucham, tu...
+Dialogue: 0,0:08:30.83,0:08:34.15,Default,,0,0,0,,{\be1}Do profesor Kurakake? Już daję.
+Dialogue: 0,0:08:36.29,0:08:38.62,Default,,0,0,0,,{\be1}Kurakake przy telefonie.
+Dialogue: 0,0:08:39.10,0:08:42.12,Default,,0,0,0,,{\be1}Doktor Yamagishi? Tak, połączyć.
+Dialogue: 0,0:08:43.43,0:08:46.08,Default,,0,0,0,,{\be1}Kurakake Keiko?
+Dialogue: 0,0:08:46.81,0:08:49.27,Default,,0,0,0,,{\be1}To naprawdę ty, doktorze?
+Dialogue: 0,0:08:49.27,0:08:51.05,Default,,0,0,0,,{\be1}Dawno cię nie widziałam.
+Dialogue: 0,0:08:52.43,0:08:53.85,Default,,0,0,0,,{\be1}To prawda.
+Dialogue: 0,0:08:53.85,0:08:59.01,Default,,0,0,0,,{\be1}Trochę minęło.\NWtedy byłaś moją asystentką.
+Dialogue: 0,0:09:00.48,0:09:03.18,Default,,0,0,0,,{\be1}Chcesz żebym zobaczyła wyniki badań?
+Dialogue: 0,0:09:03.18,0:09:07.70,Default,,0,0,0,,{\be1}Szczegóły spotkania wysłałem mailem.
+Dialogue: 0,0:09:07.70,0:09:09.79,Default,,0,0,0,,{\be1}Będę czekać.
+Dialogue: 0,0:09:09.79,0:09:10.94,Default,,0,0,0,,{\be1}Doktorze!
+Dialogue: 0,0:09:18.40,0:09:21.10,Default,,0,0,0,,{\be1}Czy doktor Yamagishi to...
+Dialogue: 0,0:09:21.10,0:09:24.14,Default,,0,0,0,,{\be1}Tak, był moim nauczycielem na studiach.
+Dialogue: 0,0:09:24.14,0:09:28.12,Default,,0,0,0,,{\be1}Powiedział, że coś odkrył\Ni chce mi pokazać wyniki badań.
+Dialogue: 0,0:09:28.12,0:09:29.34,Default,,0,0,0,,{\be1}Nie jedź!
+Dialogue: 0,0:09:30.52,0:09:37.30,Default,,0,0,0,,{\be1}Doktor Yamagishi został wyrzucony\Nz uniwersytetu za próbę sklonowania człowieka.
+Dialogue: 0,0:09:37.97,0:09:41.62,Default,,0,0,0,,{\be1}Może i jest genialny, ale też niebezpieczny.
+Dialogue: 0,0:09:41.62,0:09:43.93,Default,,0,0,0,,{\be1}Lepiej uważaj na niego.
+Dialogue: 0,0:09:58.08,0:10:00.66,Default (i),,0,0,0,,{\be1}Czy ty naprawdę...
+Dialogue: 0,0:10:07.79,0:10:09.47,Default (i),,0,0,0,,{\be1}Doktor Yamagishi.
+Dialogue: 0,0:10:11.39,0:10:13.91,Default (i),,0,0,0,,{\be1}Doktorze Yamagishi!
+Dialogue: 0,0:10:20.37,0:10:22.27,Default (i),,0,0,0,,{\be1}Ewolucja?
+Dialogue: 0,0:10:24.47,0:10:31.14,Default (i),,0,0,0,,{\be1}Chcę zobaczyć do czego jest zdolna ludzkość.
+Dialogue: 0,0:10:31.14,0:10:35.03,Default (i),,0,0,0,,{\be1}Ale społeczeństwu to się raczej nie spodoba.
+Dialogue: 0,0:10:35.97,0:10:39.89,Default (i),,0,0,0,,{\be1}Mimo to chcę spróbować.
+Dialogue: 0,0:10:40.88,0:10:45.68,Default (i),,0,0,0,,{\be1}Kilka lat później został zwolniony.
+Dialogue: 0,0:10:45.68,0:10:48.66,Default (i),,0,0,0,,{\be1}Ale i tak mnie ciekawi.
+Dialogue: 0,0:10:59.47,0:11:02.60,Default (i),,0,0,0,,{\be1}To chyba gdzieś tutaj.
+Dialogue: 0,0:11:04.21,0:11:05.35,Default (i),,0,0,0,,{\be1}To pewnie tam.
+Dialogue: 0,0:11:07.87,0:11:11.31,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:11:27.58,0:11:31.45,Default (i),,0,0,0,,{\be1}To było gorące lato.
+Dialogue: 0,0:11:33.18,0:11:37.47,Default (i),,0,0,0,,{\be1}Tamtego dnia zostałam zgwałcona.
+Dialogue: 0,0:11:42.58,0:11:45.39,Default,,0,0,0,,{\be1}To boli!
+Dialogue: 0,0:12:07.67,0:12:09.83,Default (i),,0,0,0,,{\be1}Dlaczego mnie to spotkało?
+Dialogue: 0,0:12:10.75,0:12:14.25,Default (i),,0,0,0,,{\be1}Dlaczego to mnie musiał skrzywdzić?
+Dialogue: 0,0:12:15.04,0:12:19.47,Default (i),,0,0,0,,{\be1}Zadawałam sobie te pytania,\Ngdy on mnie gwałcił.
+Dialogue: 0,0:12:20.68,0:12:23.02,Default (i),,0,0,0,,{\be1}I chyba znalazłam odpowiedź.
+Dialogue: 0,0:12:23.02,0:12:26.75,Default (i),,0,0,0,,{\be1}Choć była okrutna i egoistyczna.
+Dialogue: 0,0:12:30.22,0:12:31.87,Default,,0,0,0,,{\be1}Ładniutka jesteś.
+Dialogue: 0,0:12:45.81,0:12:48.97,Default (i),,0,0,0,,{\be1}Bo jestem dziewczyną.
+Dialogue: 0,0:12:54.41,0:12:58.06,Default (i),,0,0,0,,{\be1}Bo urodziłam się dziewczyną.
+Dialogue: 0,0:13:28.75,0:13:29.83,Default,,0,0,0,,{\be1}Doktorze?
+Dialogue: 0,0:13:31.99,0:13:33.87,Default,,0,0,0,,{\be1}Jest pan tu?
+Dialogue: 0,0:13:35.46,0:13:38.31,Default,,0,0,0,,{\be1}To ja, Kurakake!
+Dialogue: 0,0:13:40.27,0:13:41.35,Default,,0,0,0,,{\be1}Doktorze?
+Dialogue: 0,0:13:43.57,0:13:47.66,Default,,0,0,0,,{\be1}Wiedziałem, że przyjedziesz.
+Dialogue: 0,0:13:53.54,0:13:55.98,Default,,0,0,0,,{\be1}Świetnie wyglądasz.
+Dialogue: 0,0:13:57.22,0:13:59.44,Default,,0,0,0,,{\be1}Niemożliwe!
+Dialogue: 0,0:14:00.68,0:14:02.77,Default,,0,0,0,,{\be1}Rozumiem twoje zdziwienie.
+Dialogue: 0,0:14:02.77,0:14:06.45,Default,,0,0,0,,{\be1}Ostatnio gdy się widzieliśmy\Nwyglądałem jak starzec.
+Dialogue: 0,0:14:06.79,0:14:09.14,Default,,0,0,0,,{\be1}Cokolwiek nie powiesz wyglądasz jak 20-latek.
+Dialogue: 0,0:14:09.14,0:14:11.93,Default,,0,0,0,,{\be1}Czy to ten twój eksperyment?
+Dialogue: 0,0:14:11.93,0:14:16.41,Default,,0,0,0,,{\be1}Nie, jego efekt uboczny.
+Dialogue: 0,0:14:28.54,0:14:29.55,Default,,0,0,0,,{\be1}Masz.
+Dialogue: 0,0:14:30.64,0:14:31.70,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:14:36.65,0:14:41.14,Default,,0,0,0,,{\be1}Piszesz raport?\NMusi być ciężko o tej porze.
+Dialogue: 0,0:14:41.14,0:14:49.18,Default,,0,0,0,,{\be1}A właśnie, twoja dziewczyna\Nbardzo się spieszyła do domu.
+Dialogue: 0,0:14:49.18,0:14:50.91,Default,,0,0,0,,{\be1}Może ma z kimś randkę?
+Dialogue: 0,0:14:51.40,0:14:53.58,Default,,0,0,0,,{\be1}Pamiętasz mój eksperyment?
+Dialogue: 0,0:14:53.58,0:14:56.02,Default,,0,0,0,,{\be1}Tak, ewolucja w biologii molekularnej.
+Dialogue: 0,0:14:56.02,0:15:00.70,Default,,0,0,0,,{\be1}Zgadza się, wywołanie sztucznej ewolucji.
+Dialogue: 0,0:15:00.70,0:15:04.70,Default,,0,0,0,,{\be1}Raczej nie muszę ci tego streszczać.
+Dialogue: 0,0:15:05.89,0:15:10.38,Default,,0,0,0,,{\be1}W końcu odkryłem czynnik ewolucyjny.
+Dialogue: 0,0:15:11.65,0:15:14.35,Default,,0,0,0,,{\be1}Ale nadal czegoś mi brakuje.
+Dialogue: 0,0:15:16.77,0:15:19.31,Default,,0,0,0,,{\be1}Dlatego poprosiłem, żebyś przyjechała.
+Dialogue: 0,0:15:21.85,0:15:22.93,Default,,0,0,0,,{\be1}Co to?!
+Dialogue: 0,0:15:24.64,0:15:30.24,Default,,0,0,0,,{\be1}Stworzyłem je dzięki mojemu odkryciu.
+Dialogue: 0,0:15:30.24,0:15:36.20,Default,,0,0,0,,{\be1}Tak wielka ewolucja nie wydarzyła się\Nod czasu eksplozji kambryjskiej.
+Dialogue: 0,0:15:38.02,0:15:41.39,Default,,0,0,0,,{\be1}Jestem o krok od spełnienia marzenia.
+Dialogue: 0,0:15:43.16,0:15:47.60,Default,,0,0,0,,{\be1}Ale muszę najpierw rozwiązać jeden problem.
+Dialogue: 0,0:15:58.37,0:16:03.56,Default,,0,0,0,,{\be1}Naukowcy zazdrośni o mój intelekt,\Nwyrzucili mnie z uniwersytetu.
+Dialogue: 0,0:16:04.06,0:16:09.95,Default,,0,0,0,,{\be1}Ale ty mnie rozumiałaś i nadal wspierałaś.
+Dialogue: 0,0:16:16.45,0:16:19.41,Default,,0,0,0,,{\be1}Właśnie dlatego wybrałem ciebie.
+Dialogue: 0,0:16:20.52,0:16:25.38,Default,,0,0,0,,{\be1}Dzisiaj zakończę ostatni etap eksperymentu.
+Dialogue: 0,0:16:31.52,0:16:33.34,Default,,0,0,0,,{\be1}Daleko jeszcze?
+Dialogue: 0,0:16:33.85,0:16:38.31,Default,,0,0,0,,{\be1}Pańskie miejsce jest głęboko w górach.
+Dialogue: 0,0:16:38.64,0:16:41.85,Default,,0,0,0,,{\be1}Będziemy jechać jeszcze przynajmniej godzinę.
+Dialogue: 0,0:16:42.41,0:16:44.02,Default,,0,0,0,,{\be1}Rozumiem.
+Dialogue: 0,0:16:46.95,0:16:48.44,Default,,0,0,0,,{\be1}Kurakake.
+Dialogue: 0,0:17:17.66,0:17:19.22,Default,,0,0,0,,{\be1}Obudziłaś się.
+Dialogue: 0,0:17:27.29,0:17:31.40,Default,,0,0,0,,{\be1}Jesteś tak piękna jaką sobie cię wyobrażałem.
+Dialogue: 0,0:17:32.56,0:17:34.64,Default,,0,0,0,,{\be1}Nie martw się.
+Dialogue: 0,0:17:37.08,0:17:39.32,Default,,0,0,0,,{\be1}Ukończyłem eksperyment.
+Dialogue: 0,0:17:39.94,0:17:44.41,Default,,0,0,0,,{\be1}Chcę żebyś ty też poczuła moją radość.
+Dialogue: 0,0:18:07.27,0:18:09.33,Default,,0,0,0,,{\be1}Będziesz się opierać?
+Dialogue: 0,0:18:09.33,0:18:11.90,Default,,0,0,0,,{\be1}A byłaś taka posłuszna.
+Dialogue: 0,0:18:12.54,0:18:17.82,Default,,0,0,0,,{\be1}W końcu zrozumiesz, że to miłość.
+Dialogue: 0,0:18:55.62,0:19:00.61,Default,,0,0,0,,{\be1}Wiem, że chciałaś mojej miłości.
+Dialogue: 0,0:19:18.20,0:19:21.79,Default (i),,0,0,0,,{\be1}Bo urodziłam się dziewczyną.
+Dialogue: 0,0:19:25.85,0:19:29.89,Default,,0,0,0,,{\be1}Jesteś przepiękna, Keiko. Najwspanialsza.
+Dialogue: 0,0:20:38.41,0:20:40.09,Default,,0,0,0,,{\be1}Nie bój się.
+Dialogue: 0,0:20:40.79,0:20:43.05,Default,,0,0,0,,{\be1}To moja miłość.
+Dialogue: 0,0:22:14.52,0:22:17.97,Default,,0,0,0,,{\be1}Będę to powtarzał ile trzeba, to moja miłość.
+Dialogue: 0,0:22:17.97,0:22:19.56,Default,,0,0,0,,{\be1}Najwspanialsza miłość.
+Dialogue: 0,0:23:37.31,0:23:42.48,Default,,0,0,0,,{\be1}Nie!
+Dialogue: 0,0:25:11.41,0:25:12.53,Default,,0,0,0,,{\be1}Kurakake!
+Dialogue: 0,0:25:24.79,0:25:26.00,Default (i),,0,0,0,,{\be1}Keiko.
+Dialogue: 0,0:25:33.41,0:25:35.59,Default (i),,0,0,0,,{\be1}To jeszcze nie koniec.
+Dialogue: 0,0:25:36.38,0:25:41.37,Default (i),,0,0,0,,{\be1}To dopiero początek naszej historii miłosnej.

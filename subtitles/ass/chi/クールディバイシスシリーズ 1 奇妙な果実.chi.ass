@@ -1,0 +1,91 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: クールディバイシスシリーズ 1 奇妙な果実
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:04:09.64,0:04:12.44,Default,NTP,0,0,0,!Effect,真無法相信、穿這種衣服
+Dialogue: 0,0:04:12.84,0:04:14.78,Default,NTP,0,0,0,!Effect,歡迎光臨！
+Dialogue: 0,0:04:16.91,0:04:19.78,Default,NTP,0,0,0,!Effect,來杯血腥瑪莉
+Dialogue: 0,0:04:21.58,0:04:24.45,Default,NTP,0,0,0,!Effect,他和往常一樣
+Dialogue: 0,0:04:37.20,0:04:39.14,Default,NTP,0,0,0,!Effect,很抱歉
+Dialogue: 0,0:04:39.40,0:04:41.14,Default,NTP,0,0,0,!Effect,二位客人到旅館去比較好吧！
+Dialogue: 0,0:04:56.35,0:04:58.15,Default,NTP,0,0,0,!Effect,快看！快看！真不敢相信
+Dialogue: 0,0:04:58.29,0:05:00.16,Default,NTP,0,0,0,!Effect,那不是那個誰嗎？
+Dialogue: 0,0:05:00.36,0:05:02.16,Default,NTP,0,0,0,!Effect,居然在乳頭上穿小環
+Dialogue: 0,0:05:02.29,0:05:04.16,Default,NTP,0,0,0,!Effect,一定很痛吧？
+Dialogue: 0,0:05:05.09,0:05:08.83,Default,NTP,0,0,0,!Effect,他還真是帥呢？你也可以試試呀
+Dialogue: 0,0:05:11.63,0:05:13.50,Default,NTP,0,0,0,!Effect,別說笑了！
+Dialogue: 0,0:05:45.00,0:05:46.87,Default,NTP,0,0,0,!Effect,真不堪入目
+Dialogue: 0,0:05:47.00,0:05:48.87,Default,NTP,0,0,0,!Effect,太過火了吧？
+Dialogue: 0,0:05:49.01,0:05:51.87,Default,NTP,0,0,0,!Effect,好像故意在做秀
+Dialogue: 0,0:06:32.72,0:06:34.58,Default,NTP,0,0,0,!Effect,他們二人要走了
+Dialogue: 0,0:06:43.53,0:06:47.26,Default,NTP,0,0,0,!Effect,結果會如何呢？不過很有趣吧？
+Dialogue: 0,0:06:49.67,0:06:51.60,Default,NTP,0,0,0,!Effect,你怎麼了
+Dialogue: 0,0:06:51.80,0:06:56.61,Default,NTP,0,0,0,!Effect,對不起！我有事要先走了
+Dialogue: 0,0:06:59.08,0:07:01.94,Default,NTP,0,0,0,!Effect,她太神經質了
+Dialogue: 0,0:07:02.68,0:07:04.61,Default,NTP,0,0,0,!Effect,她還太嫩了
+Dialogue: 0,0:07:05.75,0:07:07.62,Default,NTP,0,0,0,!Effect,都不對！她有潔癖
+Dialogue: 0,0:09:06.47,0:09:08.40,Default,NTP,0,0,0,!Effect,呀！放開我
+Dialogue: 0,0:09:08.54,0:09:12.41,Default,NTP,0,0,0,!Effect,早知道你跟著我們！
+Dialogue: 0,0:09:13.88,0:09:16.75,Default,NTP,0,0,0,!Effect,為什麼跟蹤我們？
+Dialogue: 0,0:09:16.95,0:09:19.75,Default,NTP,0,0,0,!Effect,看到我們這樣有何感覺？
+Dialogue: 0,0:09:20.48,0:09:22.42,Default,NTP,0,0,0,!Effect,覺得很美！
+Dialogue: 0,0:09:22.55,0:09:25.42,Default,NTP,0,0,0,!Effect,你也想試試對吧？
+Dialogue: 0,0:09:25.55,0:09:27.42,Default,NTP,0,0,0,!Effect,我不知道！
+Dialogue: 0,0:09:32.90,0:09:35.77,Default,NTP,0,0,0,!Effect,為何要說謊？
+Dialogue: 0,0:09:36.30,0:09:39.10,Default,NTP,0,0,0,!Effect,我們知道你也和我們一樣
+Dialogue: 0,0:09:39.57,0:09:42.44,Default,NTP,0,0,0,!Effect,流著相同的血液
+Dialogue: 0,0:09:46.31,0:09:50.11,Default,NTP,0,0,0,!Effect,我們帶你走！讓你回復本性
+Dialogue: 0,0:09:50.25,0:09:53.12,Default,NTP,0,0,0,!Effect,教你一切的事情
+Dialogue: 0,0:11:07.99,0:11:10.86,Default,NTP,0,0,0,!Effect,你不必在意他們
+Dialogue: 0,0:11:10.99,0:11:12.86,Default,NTP,0,0,0,!Effect,都是奴隸罷了
+Dialogue: 0,0:11:24.34,0:11:28.21,Default,NTP,0,0,0,!Effect,她好像很喜歡你
+Dialogue: 0,0:11:28.68,0:11:31.55,Default,NTP,0,0,0,!Effect,你親吻他胸前的小環
+Dialogue: 0,0:11:57.51,0:11:59.24,Default,NTP,0,0,0,!Effect,快！
+Dialogue: 0,0:12:22.06,0:12:23.93,Default,NTP,0,0,0,!Effect,繼續別停！
+Dialogue: 0,0:12:35.41,0:12:38.28,Default,NTP,0,0,0,!Effect,正如我所料的
+Dialogue: 0,0:12:55.43,0:12:57.30,Default,NTP,0,0,0,!Effect,好了！快點！
+Dialogue: 0,0:13:23.79,0:13:26.66,Default,NTP,0,0,0,!Effect,我！？我！？
+Dialogue: 0,0:13:47.82,0:13:49.69,Default,NTP,0,0,0,!Effect,如何？男人的寶貝
+Dialogue: 0,0:13:49.89,0:13:52.69,Default,NTP,0,0,0,!Effect,你是第一次嚐到吧？
+Dialogue: 0,0:13:52.82,0:13:54.69,Default,NTP,0,0,0,!Effect,滋味如何？
+Dialogue: 0,0:14:00.50,0:14:04.37,Default,NTP,0,0,0,!Effect,我！正做著下流的事
+Dialogue: 0,0:14:04.57,0:14:09.37,Default,NTP,0,0,0,!Effect,男人的寶貝在口中是如此灼熱
+Dialogue: 0,0:14:10.17,0:14:13.04,Default,NTP,0,0,0,!Effect,我也興奮了
+Dialogue: 0,0:14:47.48,0:14:49.41,Default,NTP,0,0,0,!Effect,好美哦！
+Dialogue: 0,0:16:18.17,0:16:20.04,Default,NTP,0,0,0,!Effect,新面孔嘛
+Dialogue: 0,0:16:20.24,0:16:22.04,Default,NTP,0,0,0,!Effect,在街上撿到的！不錯喲！
+Dialogue: 0,0:16:40.19,0:16:42.06,Default,NTP,0,0,0,!Effect,好可愛哦！
+Dialogue: 0,0:16:51.60,0:16:53.40,Default,NTP,0,0,0,!Effect,啊啦！有點後悔啦！
+Dialogue: 0,0:16:53.54,0:16:55.40,Default,NTP,0,0,0,!Effect,你蠻有人緣嘛
+Dialogue: 0,0:17:43.25,0:17:45.12,Default,NTP,0,0,0,!Effect,你看！
+Dialogue: 0,0:17:45.39,0:17:48.12,Default,NTP,0,0,0,!Effect,大家都見你赤裸裸的樣子了
+Dialogue: 0,0:17:50.06,0:17:53.80,Default,NTP,0,0,0,!Effect,不要！大家都看見了！不要看！
+Dialogue: 0,0:17:55.67,0:17:58.47,Default,NTP,0,0,0,!Effect,哎喲！看這乳頭都硬了
+Dialogue: 0,0:17:58.60,0:18:00.47,Default,NTP,0,0,0,!Effect,這麼興奮嗎？
+Dialogue: 0,0:18:05.07,0:18:10.81,Default,NTP,0,0,0,!Effect,好丟人哦！好痛苦但很興奮
+Dialogue: 0,0:18:10.95,0:18:12.82,Default,NTP,0,0,0,!Effect,怎麼回事呢？
+Dialogue: 0,0:19:45.37,0:19:47.24,Default,NTP,0,0,0,!Effect,原來如此
+Dialogue: 0,0:19:51.78,0:19:56.59,Default,NTP,0,0,0,!Effect,她希望你過去呢？過去吧！
+Dialogue: 0,0:21:21.80,0:21:23.67,Default,NTP,0,0,0,!Effect,好舒服哦！
+Dialogue: 0,0:24:48.68,0:24:50.55,Default,NTP,0,0,0,!Effect,就是那樣啦！
+Dialogue: 0,0:24:50.68,0:24:52.55,Default,NTP,0,0,0,!Effect,不會吧？
+Dialogue: 0,0:24:52.68,0:24:54.55,Default,NTP,0,0,0,!Effect,愛亞呢？
+Dialogue: 0,0:24:55.75,0:24:57.55,Default,NTP,0,0,0,!Effect,打幾次電話都不在家
+Dialogue: 0,0:24:57.69,0:24:59.56,Default,NTP,0,0,0,!Effect,怎麼搞的呢？
+Dialogue: 0,0:25:02.09,0:25:03.89,Default,NTP,0,0,0,!Effect,快看、快看！又來了
+Dialogue: 0,0:25:07.10,0:25:08.96,Default,NTP,0,0,0,!Effect,哇！整個屁股都露出來了
+Dialogue: 0,0:25:09.37,0:25:11.23,Default,NTP,0,0,0,!Effect,不要大驚小怪
+Dialogue: 0,0:25:14.84,0:25:18.57,Default,NTP,0,0,0,!Effect,哎呀！好噁心！乳房也任人摸
+Dialogue: 0,0:25:22.98,0:25:23.91,Default,NTP,0,0,0,!Effect,你們看
+Dialogue: 0,0:25:24.05,0:25:25.92,Default,NTP,0,0,0,!Effect,什麼嘛！？
+Dialogue: 0,0:25:26.05,0:25:27.92,Default,NTP,0,0,0,!Effect,愛亞？

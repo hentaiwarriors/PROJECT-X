@@ -1,0 +1,380 @@
+﻿[Script Info]
+; Written by VisualSubSync 0.9.22.1129
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayResX: 960
+PlayResY: 720
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+Last Style Storage: Parade Parade
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Parade Title,Renaiss-Italic,36,&H00A42157,&H00A42157,&H0008F6EE,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,10,0
+Style: Parade,Verdana,32,&H00FFFFFF,&H000000FF,&H00A42157,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Parade_Off,Verdana,32,&H00FFFFFF,&H000000FF,&H00A42157,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Aiiro,2nd Grade Print,34,&H0008F6EE,&H0008F6EE,&H00A42157,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:22.72,0:00:28.14,Aiiro,,0000,0000,0000,,Hashaida kisetsu wo hashirinuketara
+Dialogue: 0,0:00:22.72,0:00:28.14,Parade_Off,,0000,0000,0000,,Après avoir traversé\Nune saison joyeuse,
+Dialogue: 0,0:00:29.17,0:00:35.02,Aiiro,,0000,0000,0000,,Omoide no ashiato wa dou naru no
+Dialogue: 0,0:00:29.17,0:00:35.02,Parade_Off,,0000,0000,0000,,qu'adviendra-t-il de mes empreintes\Nans le sable de mes souvenirs ?
+Dialogue: 0,0:00:36.41,0:00:41.87,Aiiro,,0000,0000,0000,,Watashi no HAATO no namiuchigiwa wo
+Dialogue: 0,0:00:36.41,0:00:41.87,Parade_Off,,0000,0000,0000,,Les larmes coulent\Nvers la plage de mon cœur.
+Dialogue: 0,0:00:42.91,0:00:48.22,Aiiro,,0000,0000,0000,,Nurasu namida wo kaze ga nugutta
+Dialogue: 0,0:00:42.91,0:00:48.22,Parade_Off,,0000,0000,0000,,Le vent les emporte.
+Dialogue: 0,0:00:50.17,0:00:55.68,Aiiro,,0000,0000,0000,,Kono mune no soramoyou wo
+Dialogue: 0,0:00:50.17,0:00:55.68,Parade_Off,,0000,0000,0000,,Le ciel se reflète dans mon cœur...
+Dialogue: 0,0:00:56.64,0:01:03.18,Aiiro,,0000,0000,0000,,Ima mo anata ga kuru kuru kaeru
+Dialogue: 0,0:00:56.64,0:01:03.18,Parade_Off,,0000,0000,0000,,Tu tourbillonnes en permanence.
+Dialogue: 0,0:01:04.88,0:01:08.43,Parade_Off,,0000,0000,0000,,Pourquoi vous ne venez pas\Ndans mon appartement à minuit ?
+Dialogue: 0,0:01:09.25,0:01:10.55,Parade_Off,,0000,0000,0000,,Toutes les deux.
+Dialogue: 0,0:01:16.81,0:01:17.81,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:01:26.58,0:01:32.25,Aiiro,,0000,0000,0000,,Yasashisa ni kumo ga oshimodosareru
+Dialogue: 0,0:01:26.58,0:01:32.25,Parade_Off,,0000,0000,0000,,La gentillesse chasse les nuages,
+Dialogue: 0,0:01:32.42,0:01:35.59,Aiiro,,0000,0000,0000,,Kumori nochi namidaame
+Dialogue: 0,0:01:32.42,0:01:35.59,Parade_Off,,0000,0000,0000,,mais il en tombe une pluie\Nsemblable aux larmes.
+Dialogue: 0,0:01:35.76,0:01:40.05,Aiiro,,0000,0000,0000,,Toki ni aiiro otome
+Dialogue: 0,0:01:35.76,0:01:40.05,Parade_Off,,0000,0000,0000,,Parfois, demoiselle en peine...
+Dialogue: 0,0:01:40.22,0:01:45.92,Aiiro,,0000,0000,0000,,Setsunasa mo otona he no tooriame
+Dialogue: 0,0:01:40.22,0:01:45.92,Parade_Off,,0000,0000,0000,,La tristesse est comme une pluie\Nqui tombe avant que tu ne grandisses.
+Dialogue: 0,0:01:46.13,0:01:47.65,Aiiro,,0000,0000,0000,,Kakedasou saa
+Dialogue: 0,0:01:46.13,0:01:47.65,Parade_Off,,0000,0000,0000,,Maintenant, commence à courir.
+Dialogue: 0,0:01:48.10,0:01:53.89,Aiiro,,0000,0000,0000,,Ashita no yume wo mite
+Dialogue: 0,0:01:48.10,0:01:53.89,Parade_Off,,0000,0000,0000,,Rêve de tes lendemains !
+Dialogue: 0,0:02:12.65,0:02:20.83,Parade,,0000,0000,0000,,{\pos(594,42)}présente
+Dialogue: 0,0:02:12.65,0:02:20.83,Parade Title,,0000,0000,0000,,{\pos(400,12)}[Touch_Productions]
+Dialogue: 0,0:02:34.40,0:02:38.36,Parade_Off,,0000,0000,0000,,Finissons-en avec cette brouille\Nqui a commencé il y a trois ans...
+Dialogue: 0,0:02:39.87,0:02:43.11,Parade_Off,,0000,0000,0000,,Que s'est-il passé entre elles,\Nil y a trois ans ?
+Dialogue: 0,0:02:44.14,0:02:45.14,Parade,,0000,0000,0000,,Kaori...
+Dialogue: 0,0:02:45.91,0:02:46.64,Parade,,0000,0000,0000,,Oui ?
+Dialogue: 0,0:02:46.77,0:02:49.16,Parade,,0000,0000,0000,,Désolée de t'avoir entraînée\Ndans cette galère.
+Dialogue: 0,0:02:49.78,0:02:51.02,Parade,,0000,0000,0000,,Ne... Ne t'en fais pas.
+Dialogue: 0,0:02:57.36,0:02:58.38,Parade,,0000,0000,0000,,Eh bien...
+Dialogue: 0,0:02:59.61,0:03:00.61,Parade,,0000,0000,0000,,On y est.
+Dialogue: 0,0:03:09.23,0:03:10.89,Parade,,0000,0000,0000,,C'est l'appartement de Saki.
+Dialogue: 0,0:03:24.03,0:03:25.78,Parade,,0000,0000,0000,,C'est ouvert.
+Dialogue: 0,0:03:34.11,0:03:36.18,Parade,,0000,0000,0000,,Entre, ma Kaoru adorée.
+Dialogue: 0,0:03:36.75,0:03:39.85,Parade,,0000,0000,0000,,Je t'ai déjà dit que\Nj'utilisais mon vrai nom, Yuko Imai.
+Dialogue: 0,0:03:45.46,0:03:47.89,Parade,,0000,0000,0000,,Tu es tellement ponctuelle...
+Dialogue: 0,0:03:48.60,0:03:50.01,Parade,,0000,0000,0000,,... comme d'habitude.
+Dialogue: 0,0:03:51.37,0:03:53.51,Parade,,0000,0000,0000,,Ne sois pas timide, allez, entre.
+Dialogue: 0,0:04:02.64,0:04:05.64,Parade_Off,,0000,0000,0000,,Cette pièce n'a pas changé d'un iota\Ndepuis trois ans...
+Dialogue: 0,0:04:07.88,0:04:09.97,Parade_Off,,0000,0000,0000,,Incroyable... elle a toujours...
+Dialogue: 0,0:04:10.64,0:04:12.31,Parade,,0000,0000,0000,,Qu'y a-t-il ?
+Dialogue: 0,0:04:12.70,0:04:13.75,Parade,,0000,0000,0000,,Rien...
+Dialogue: 0,0:04:14.35,0:04:15.46,Parade,,0000,0000,0000,,Très bien.
+Dialogue: 0,0:04:17.29,0:04:20.13,Parade,,0000,0000,0000,,Commençons à jouer dès maintenant.
+Dialogue: 0,0:04:20.69,0:04:23.77,Parade,,0000,0000,0000,,Si vous gagnez,\Nje garderai votre secret.
+Dialogue: 0,0:04:24.56,0:04:27.97,Parade,,0000,0000,0000,,Mais si nous gagnons,\NKaori m'appartiendra.
+Dialogue: 0,0:04:28.36,0:04:29.78,Parade,,0000,0000,0000,,"Nous" ?
+Dialogue: 0,0:04:31.12,0:04:35.11,Parade,,0000,0000,0000,,Ce jeu ne serait pas amusant si c'était\Njuste entre toi et moi, ma chérie.
+Dialogue: 0,0:04:35.83,0:04:37.90,Parade,,0000,0000,0000,,Comme nous avons\Nune jolie invitée...
+Dialogue: 0,0:04:38.61,0:04:40.55,Parade,,0000,0000,0000,,j'ai aussi mis mon grain de sel.
+Dialogue: 0,0:04:42.10,0:04:43.11,Parade,,0000,0000,0000,,Sayaka ?
+Dialogue: 0,0:04:43.70,0:04:46.55,Parade,,0000,0000,0000,,Oui... ma chérie...
+Dialogue: 0,0:04:58.41,0:05:00.83,Parade,,0000,0000,0000,,Tamura... je savais que Saki...
+Dialogue: 0,0:05:01.75,0:05:03.11,Parade,,0000,0000,0000,,Tu la connais ?
+Dialogue: 0,0:05:05.28,0:05:09.14,Parade,,0000,0000,0000,,Elle s'appelle Sayaka Tamura et\Nelle a débuté la même année que toi !
+Dialogue: 0,0:05:09.27,0:05:10.27,Parade,,0000,0000,0000,,Aïe !!
+Dialogue: 0,0:05:11.28,0:05:14.10,Parade,,0000,0000,0000,,Vous étiez nominées pour\Nla Meilleure Révélation de la chanson,
+Dialogue: 0,0:05:14.35,0:05:15.83,Parade,,0000,0000,0000,,tu ne t'en souviens pas ?
+Dialogue: 0,0:05:16.10,0:05:18.16,Parade,,0000,0000,0000,,Pardon !
+Dialogue: 0,0:05:18.40,0:05:20.19,Parade,,0000,0000,0000,,Elles plombent l'ambiance...
+Dialogue: 0,0:05:20.79,0:05:22.36,Parade,,0000,0000,0000,,- Dans ce cas...\N- Hé !
+Dialogue: 0,0:05:23.13,0:05:25.11,Parade,,0000,0000,0000,,Elle fait partie de ma collection.
+Dialogue: 0,0:05:25.75,0:05:27.34,Parade,,0000,0000,0000,,Mon gentil petit toutou...
+Dialogue: 0,0:05:28.31,0:05:29.36,Parade,,0000,0000,0000,,Qu'en dis-tu ?
+Dialogue: 0,0:05:30.90,0:05:33.04,Parade,,0000,0000,0000,,On échange nos copines,
+Dialogue: 0,0:05:33.42,0:05:36.00,Parade,,0000,0000,0000,,et si tu la fais jouir en premier,\Ntu as gagné.
+Dialogue: 0,0:05:36.35,0:05:38.96,Parade,,0000,0000,0000,,- Quoi ?\N- Ben quoi ? Ça pourrait être amusant.
+Dialogue: 0,0:05:40.41,0:05:41.42,Parade,,0000,0000,0000,,Andouille...
+Dialogue: 0,0:05:42.00,0:05:44.12,Parade,,0000,0000,0000,,Cette affaire ne regarde\Nque toi et moi.
+Dialogue: 0,0:05:44.80,0:05:46.96,Parade,,0000,0000,0000,,Ce n'est pas une bonne idée\Nde les mêler à tout ça.
+Dialogue: 0,0:05:47.09,0:05:48.09,Parade,,0000,0000,0000,,Kaoru...
+Dialogue: 0,0:05:48.87,0:05:51.18,Parade,,0000,0000,0000,,Vous n'avez pas le choix.
+Dialogue: 0,0:05:54.49,0:05:55.49,Parade,,0000,0000,0000,,Yuko...
+Dialogue: 0,0:05:56.57,0:05:57.57,Parade,,0000,0000,0000,,Saki !
+Dialogue: 0,0:05:59.26,0:06:00.26,Parade,,0000,0000,0000,,J'accepte.
+Dialogue: 0,0:06:00.87,0:06:02.02,Parade,,0000,0000,0000,,Non, Kaori...
+Dialogue: 0,0:06:02.35,0:06:05.36,Parade,,0000,0000,0000,,Ne t'en fais pas. Je te protégerai.
+Dialogue: 0,0:06:09.35,0:06:12.07,Parade,,0000,0000,0000,,Je veux t'aider.
+Dialogue: 0,0:06:13.09,0:06:14.09,Parade,,0000,0000,0000,,Kaori...
+Dialogue: 0,0:06:14.88,0:06:15.88,Parade,,0000,0000,0000,,Sayaka...
+Dialogue: 0,0:06:18.54,0:06:20.58,Parade,,0000,0000,0000,,Quelle gentille fille...
+Dialogue: 0,0:06:22.97,0:06:24.21,Parade,,0000,0000,0000,,Assez bavardé...
+Dialogue: 0,0:06:24.73,0:06:27.42,Parade,,0000,0000,0000,,... c'est très amusant de faire jouir\Nune aussi jolie fille.
+Dialogue: 0,0:06:39.73,0:06:41.86,Parade,,0000,0000,0000,,Laisse-toi aller...
+Dialogue: 0,0:06:55.19,0:06:57.21,Parade,,0000,0000,0000,,Tu bandes déjà assez...
+Dialogue: 0,0:06:59.40,0:07:00.46,Parade,,0000,0000,0000,,Non...
+Dialogue: 0,0:07:17.16,0:07:18.57,Parade,,0000,0000,0000,,Quelle jolie voix...
+Dialogue: 0,0:07:20.47,0:07:21.30,Parade,,0000,0000,0000,,Arrête...
+Dialogue: 0,0:07:54.08,0:07:55.47,Parade,,0000,0000,0000,,Qu'est-ce qui t'arrive ?
+Dialogue: 0,0:07:56.22,0:07:57.37,Parade,,0000,0000,0000,,C'est ça ?
+Dialogue: 0,0:08:00.37,0:08:02.39,Parade,,0000,0000,0000,,Tu n'es pas de taille contre moi.
+Dialogue: 0,0:08:09.07,0:08:10.24,Parade,,0000,0000,0000,,Je ne perdrai pas...
+Dialogue: 0,0:08:11.95,0:08:13.56,Parade,,0000,0000,0000,,Je ne perdrai pas !
+Dialogue: 0,0:08:14.25,0:08:17.04,Parade,,0000,0000,0000,,Je ne sais pas ce qui s'est passé\Nil y a trois ans,
+Dialogue: 0,0:08:17.31,0:08:19.13,Parade,,0000,0000,0000,,mais je fais confiance à Yuko.
+Dialogue: 0,0:08:19.26,0:08:20.66,Parade,,0000,0000,0000,,Lui faire confiance...
+Dialogue: 0,0:08:21.41,0:08:23.25,Parade,,0000,0000,0000,,Est-ce que tu peux\Nfaire confiance à Yuko ?
+Dialogue: 0,0:08:23.92,0:08:24.92,Parade,,0000,0000,0000,,Oui !
+Dialogue: 0,0:08:31.04,0:08:34.80,Parade,,0000,0000,0000,,Qu'est-ce que tu en sais ?
+Dialogue: 0,0:08:35.75,0:08:36.89,Parade,,0000,0000,0000,,Il y a trois ans...
+Dialogue: 0,0:08:37.74,0:08:38.65,Parade,,0000,0000,0000,,Yuko...
+Dialogue: 0,0:08:39.84,0:08:44.80,Parade,,0000,0000,0000,,Yuko a... disparu...\Nsans rien dire !!
+Dialogue: 0,0:08:46.05,0:08:47.79,Parade,,0000,0000,0000,,Elle disait qu'elle m'aimait...
+Dialogue: 0,0:08:48.74,0:08:50.94,Parade,,0000,0000,0000,,Elle disait qu'elle serait\Ntoujours là pour moi...
+Dialogue: 0,0:08:52.99,0:08:55.07,Parade,,0000,0000,0000,,Elle m'a trahie !
+Dialogue: 0,0:08:56.42,0:08:57.67,Parade,,0000,0000,0000,,Je l'ai attendue...
+Dialogue: 0,0:08:57.80,0:09:00.07,Parade,,0000,0000,0000,,Mais elle t'a mis le grappin dessus.
+Dialogue: 0,0:09:00.75,0:09:01.75,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:09:02.58,0:09:05.11,Parade,,0000,0000,0000,,Comment est-ce que tu pourrais\Nlui faire confiance ?
+Dialogue: 0,0:09:08.26,0:09:09.26,Parade_Off,,0000,0000,0000,,Saki...
+Dialogue: 0,0:09:10.47,0:09:11.21,Parade_Off,,0000,0000,0000,,Oh non !
+Dialogue: 0,0:09:11.81,0:09:13.08,Parade_Off,,0000,0000,0000,,Il faut que je...
+Dialogue: 0,0:09:28.04,0:09:30.02,Parade_Off,,0000,0000,0000,,On dirait qu'elle aime ça...
+Dialogue: 0,0:09:31.60,0:09:34.12,Parade_Off,,0000,0000,0000,,Mais elle fait comme si\Nde rien n'était...
+Dialogue: 0,0:09:46.61,0:09:49.23,Parade_Off,,0000,0000,0000,,Je dois réussir, sinon...
+Dialogue: 0,0:09:50.69,0:09:51.71,Parade_Off,,0000,0000,0000,,Je perdrai...
+Dialogue: 0,0:09:56.40,0:09:57.22,Parade,,0000,0000,0000,,Hein ?
+Dialogue: 0,0:09:58.55,0:09:59.85,Parade,,0000,0000,0000,,Ça par exemple !
+Dialogue: 0,0:10:02.44,0:10:07.35,Parade,,0000,0000,0000,,Je m'en doutais,\NSaki t'a appris à aimer le sexe anal.
+Dialogue: 0,0:10:08.11,0:10:09.25,Parade,,0000,0000,0000,,Dans ce cas...
+Dialogue: 0,0:10:11.45,0:10:12.45,Parade,,0000,0000,0000,,Non...
+Dialogue: 0,0:10:15.36,0:10:17.11,Parade,,0000,0000,0000,,Je vais y aller franchement.
+Dialogue: 0,0:10:35.97,0:10:37.70,Parade,,0000,0000,0000,,On dirait que tu as compris.
+Dialogue: 0,0:10:38.60,0:10:39.43,Parade,,0000,0000,0000,,Mais...
+Dialogue: 0,0:10:40.36,0:10:41.48,Parade,,0000,0000,0000,,C'est trop tard.
+Dialogue: 0,0:10:41.61,0:10:42.71,Parade,,0000,0000,0000,,Je gagnerai.
+Dialogue: 0,0:10:58.53,0:10:59.79,Parade,,0000,0000,0000,,Très bien, Kaori.
+Dialogue: 0,0:11:00.35,0:11:02.95,Parade,,0000,0000,0000,,Je vais bientôt\Nte faire jouir en moi.
+Dialogue: 0,0:11:35.57,0:11:37.11,Parade,,0000,0000,0000,,- {\i1}Je ne perdrai pas !{\i0}\N- {\i1}Je ne perdrai pas !{\i0}
+Dialogue: 0,0:12:14.05,0:12:16.56,Parade,,0000,0000,0000,,Est-ce que tu jouis ?\NTu veux jouir, n'est-ce pas ?
+Dialogue: 0,0:12:19.89,0:12:21.43,Parade,,0000,0000,0000,,Je... Je vais jouir...
+Dialogue: 0,0:12:22.53,0:12:24.36,Parade_Off,,0000,0000,0000,,S'il te plaît, dépêche-toi...
+Dialogue: 0,0:12:26.81,0:12:28.45,Parade,,0000,0000,0000,,- {\i1}J'ai gagné !{\i0}\N- {\i1}Kaori !{\i0}
+Dialogue: 0,0:12:28.62,0:12:29.41,Parade,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:12:40.17,0:12:41.17,Parade,,0000,0000,0000,,Sayaka...
+Dialogue: 0,0:13:07.53,0:13:08.53,Parade,,0000,0000,0000,,Yuko...
+Dialogue: 0,0:13:08.96,0:13:12.49,Parade,,0000,0000,0000,,Saki,\Nc'est toi qui le lui as appris.
+Dialogue: 0,0:13:13.13,0:13:15.39,Parade,,0000,0000,0000,,Et c'est moi qui te l'ai appris.
+Dialogue: 0,0:13:16.36,0:13:18.08,Parade,,0000,0000,0000,,C'était facile de découvrir\Nson point G.
+Dialogue: 0,0:13:19.93,0:13:21.88,Parade,,0000,0000,0000,,Ça veut dire que j'ai perdu...
+Dialogue: 0,0:13:24.79,0:13:26.05,Parade,,0000,0000,0000,,Saki, écoute-moi.
+Dialogue: 0,0:13:26.54,0:13:29.92,Parade,,0000,0000,0000,,J'ai culpabilisé d'avoir disparu\Npendant trois sans rien dire.
+Dialogue: 0,0:13:30.36,0:13:31.10,Parade,,0000,0000,0000,,Mais...
+Dialogue: 0,0:13:33.77,0:13:34.77,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:13:35.80,0:13:38.72,Parade,,0000,0000,0000,,Tu pensais que je ne savais rien ?
+Dialogue: 0,0:13:39.40,0:13:42.27,Parade,,0000,0000,0000,,Je sais ce qui s'est passé,\Nil y a trois ans.
+Dialogue: 0,0:13:42.91,0:13:43.93,Parade,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:13:44.06,0:13:46.32,Parade,,0000,0000,0000,,Ce que je ne peux pas digérer,\Nc'est...
+Dialogue: 0,0:13:47.22,0:13:48.22,Parade,,0000,0000,0000,,Yuko...
+Dialogue: 0,0:13:50.08,0:13:52.82,Parade,,0000,0000,0000,,Tu es jalouse de Kaori...
+Dialogue: 0,0:13:53.98,0:13:56.12,Parade,,0000,0000,0000,,C'est pour ça\Nque tu nous as lancé ce défi.
+Dialogue: 0,0:13:57.07,0:13:58.58,Parade,,0000,0000,0000,,Ne te fais pas trop d'illusions !
+Dialogue: 0,0:14:03.87,0:14:07.61,Parade,,0000,0000,0000,,Pourquoi je serais jalouse de la fille\Npour qui tu m'as plaquée ?
+Dialogue: 0,0:14:10.50,0:14:11.50,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:14:12.32,0:14:16.01,Parade,,0000,0000,0000,,J'ai joué à ce jeu\Nparce que je voulais Kaori.
+Dialogue: 0,0:14:16.61,0:14:18.13,Parade,,0000,0000,0000,,La partie est terminée.
+Dialogue: 0,0:14:18.56,0:14:20.73,Parade,,0000,0000,0000,,Je garderai le secret de Kaori.
+Dialogue: 0,0:14:20.86,0:14:21.86,Parade,,0000,0000,0000,,Allez-vous-en.
+Dialogue: 0,0:14:22.44,0:14:23.44,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:14:23.91,0:14:25.31,Parade,,0000,0000,0000,,Je suis désolée, Saki...
+Dialogue: 0,0:14:25.89,0:14:27.30,Parade,,0000,0000,0000,,Mais fais-moi confiance.
+Dialogue: 0,0:14:27.43,0:14:30.31,Parade,,0000,0000,0000,,Ce n'était pas parce que\Nje ne t'aimais pas.
+Dialogue: 0,0:14:30.53,0:14:32.12,Parade,,0000,0000,0000,,Foutez le camp tout de suite !
+Dialogue: 0,0:14:38.74,0:14:39.75,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:14:50.08,0:14:51.08,Parade,,0000,0000,0000,,Idiote...
+Dialogue: 0,0:15:12.03,0:15:13.38,Parade,,0000,0000,0000,,Il y a quatre ans...
+Dialogue: 0,0:15:13.51,0:15:16.22,Parade,,0000,0000,0000,,Saki et moi avons débuté\Nla même année.
+Dialogue: 0,0:15:19.59,0:15:23.59,Parade,,0000,0000,0000,,On a rivalisé pour la plupart des titres\Nde Meilleure Révélation de la chanson.
+Dialogue: 0,0:15:24.27,0:15:26.39,Parade,,0000,0000,0000,,Nous étions de très bonnes rivales.
+Dialogue: 0,0:15:28.38,0:15:30.28,Parade,,0000,0000,0000,,Mais dès que le rideau tombait,
+Dialogue: 0,0:15:31.14,0:15:36.06,Parade,,0000,0000,0000,,nous avions affaire\Nà beaucoup d'autres personnes.
+Dialogue: 0,0:15:36.78,0:15:37.78,Parade,,0000,0000,0000,,Yuko...
+Dialogue: 0,0:15:55.08,0:15:56.23,Parade,,0000,0000,0000,,C'est fermé !
+Dialogue: 0,0:15:57.07,0:15:58.64,Parade,,0000,0000,0000,,C'est pas vrai... Pourquoi...
+Dialogue: 0,0:16:00.04,0:16:01.91,Parade,,0000,0000,0000,,Manager ! Ouvrez la porte !
+Dialogue: 0,0:16:02.40,0:16:04.21,Parade,,0000,0000,0000,,Je sais que vous êtes là !
+Dialogue: 0,0:16:04.90,0:16:07.84,Parade,,0000,0000,0000,,S'il vous plaît, ouvrez-moi !\NVous m'entendez ?
+Dialogue: 0,0:16:08.40,0:16:11.70,Parade_Off,,0000,0000,0000,,Ouvrez-moi ! Manager ! Manager !
+Dialogue: 0,0:16:13.37,0:16:15.47,Parade,,0000,0000,0000,,S'il vous plaît, ouvrez-moi !
+Dialogue: 0,0:16:17.87,0:16:18.76,Parade,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:16:19.79,0:16:20.79,Parade,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:16:25.15,0:16:26.77,Parade,,0000,0000,0000,,Ne vous approchez pas de moi !
+Dialogue: 0,0:16:27.06,0:16:28.07,Parade,,0000,0000,0000,,Sales menteurs !
+Dialogue: 0,0:16:28.20,0:16:30.70,Parade,,0000,0000,0000,,Vous m'aviez dit que\Nc'était juste pour prendre un verre.
+Dialogue: 0,0:16:31.02,0:16:33.14,Parade,,0000,0000,0000,,Pourquoi tu nous facilites pas\Nles choses, poupée ?
+Dialogue: 0,0:16:33.34,0:16:36.28,Parade,,0000,0000,0000,,Ton agence a déjà fait savoir\Nqu'il y aurait pas de lézard.
+Dialogue: 0,0:16:37.11,0:16:39.54,Parade,,0000,0000,0000,,Vous vous moquez de moi !
+Dialogue: 0,0:16:40.39,0:16:42.56,Parade,,0000,0000,0000,,Quand j'ai dit que\Nça serait pour ton bien,
+Dialogue: 0,0:16:42.81,0:16:45.42,Parade,,0000,0000,0000,,ils ont accepté avec plaisir.
+Dialogue: 0,0:16:46.14,0:16:47.64,Parade,,0000,0000,0000,,N... Non...
+Dialogue: 0,0:16:51.59,0:16:54.88,Parade,,0000,0000,0000,,On te donnera\Nbeaucoup d'opportunités.
+Dialogue: 0,0:16:55.27,0:16:57.65,Parade,,0000,0000,0000,,Bien sûr, ça sera pas gratuit.
+Dialogue: 0,0:17:00.78,0:17:02.42,Parade,,0000,0000,0000,,À toi de choisir.
+Dialogue: 0,0:17:03.23,0:17:07.02,Parade,,0000,0000,0000,,Tu veux être une star qui chante\Nsous le feu des projecteurs...
+Dialogue: 0,0:17:07.67,0:17:09.75,Parade,,0000,0000,0000,,... ou retomber dans l'anonymat ?
+Dialogue: 0,0:17:11.25,0:17:13.87,Parade,,0000,0000,0000,,Je... je ne peux pas...
+Dialogue: 0,0:17:18.22,0:17:19.95,Parade,,0000,0000,0000,,On dirait que t'as pigé.
+Dialogue: 0,0:17:26.57,0:17:27.42,Parade,,0000,0000,0000,,Non...
+Dialogue: 0,0:17:28.13,0:17:30.01,Parade,,0000,0000,0000,,Eh bien... c'est parti !
+Dialogue: 0,0:17:44.25,0:17:45.35,Parade,,0000,0000,0000,,Allez...
+Dialogue: 0,0:17:50.70,0:17:52.40,Parade,,0000,0000,0000,,Fais pas ta mijaurée.
+Dialogue: 0,0:18:30.07,0:18:31.77,Parade,,0000,0000,0000,,Non ! S'il vous plaît, arrêtez !!
+Dialogue: 0,0:18:40.54,0:18:42.49,Parade,,0000,0000,0000,,Allez, continue de me sucer !
+Dialogue: 0,0:19:11.19,0:19:12.99,Parade,,0000,0000,0000,,Je vais jouir !
+Dialogue: 0,0:19:21.11,0:19:22.96,Parade_Off,,0000,0000,0000,,NOOON !!!
+Dialogue: 0,0:19:27.45,0:19:30.37,Parade,,0000,0000,0000,,Ben alors ? T'en as déjà marre ?!
+Dialogue: 0,0:19:31.48,0:19:36.17,Parade,,0000,0000,0000,,Je me demande si tu pourras survivre\Ndans le monde impitoyable du spectacle...
+Dialogue: 0,0:19:44.87,0:19:46.39,Parade,,0000,0000,0000,,Au tour de l'autre...
+Dialogue: 0,0:19:52.26,0:19:55.48,Parade,,0000,0000,0000,,Non !! Laissez-moi partir !!
+Dialogue: 0,0:19:56.06,0:19:57.71,Parade,,0000,0000,0000,,Qu'est-ce que tu racontes ?
+Dialogue: 0,0:19:57.97,0:20:00.01,Parade,,0000,0000,0000,,Ta copine vient d'arriver.
+Dialogue: 0,0:20:00.21,0:20:03.47,Parade,,0000,0000,0000,,Pourquoi on s'amuserait\Npas ensemble ?
+Dialogue: 0,0:20:03.70,0:20:04.70,Parade,,0000,0000,0000,,Non !
+Dialogue: 0,0:20:06.34,0:20:07.34,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:20:16.28,0:20:17.84,Parade,,0000,0000,0000,,Est-ce que ça va ?
+Dialogue: 0,0:20:19.34,0:20:21.50,Parade,,0000,0000,0000,,Ce n'était pas si terrible que ça,\Nnon ?
+Dialogue: 0,0:20:26.61,0:20:27.93,Parade,,0000,0000,0000,,Allons-y, Saki !
+Dialogue: 0,0:20:28.26,0:20:29.26,Parade,,0000,0000,0000,,Oui...
+Dialogue: 0,0:20:30.31,0:20:31.31,Parade,,0000,0000,0000,,A... Attendez !
+Dialogue: 0,0:20:32.27,0:20:34.95,Parade,,0000,0000,0000,,Ça fait partie du boulot !\NVous n'avez pas le choix !
+Dialogue: 0,0:20:44.19,0:20:45.51,Parade_Off,,0000,0000,0000,,Je m'en remettrai...
+Dialogue: 0,0:20:45.76,0:20:47.67,Parade_Off,,0000,0000,0000,,Je m'en remettrai...
+Dialogue: 0,0:20:52.99,0:20:54.00,Parade,,0000,0000,0000,,Je n'en peux plus...
+Dialogue: 0,0:20:54.97,0:20:57.30,Parade,,0000,0000,0000,,Je suis devenue chanteuse\Nparce que je voulais chanter...
+Dialogue: 0,0:20:57.94,0:20:59.97,Parade,,0000,0000,0000,,Pourquoi je dois faire tout ça ?
+Dialogue: 0,0:21:01.57,0:21:04.63,Parade,,0000,0000,0000,,C'est pas pour ça\Nque je suis devenue chanteuse...
+Dialogue: 0,0:21:05.00,0:21:06.00,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:21:06.55,0:21:08.85,Parade,,0000,0000,0000,,Je vais arrêter de chan...
+Dialogue: 0,0:21:10.21,0:21:12.27,Parade,,0000,0000,0000,,Ne dis plus ça.
+Dialogue: 0,0:21:12.99,0:21:14.51,Parade,,0000,0000,0000,,Mais je n'en peux plus...
+Dialogue: 0,0:21:15.18,0:21:18.02,Parade,,0000,0000,0000,,Tu n'as pas été dégoûtée de chanter\Ndu jour au lendemain, n'est-ce pas ?
+Dialogue: 0,0:21:18.84,0:21:21.67,Parade,,0000,0000,0000,,Moi aussi, j'aime chanter.
+Dialogue: 0,0:21:22.62,0:21:25.70,Parade,,0000,0000,0000,,Je suis sûre qu'il y a des gens\Nqui attendent mes chansons.
+Dialogue: 0,0:21:26.44,0:21:29.11,Parade,,0000,0000,0000,,Si j'y crois,\Nje peux continuer à chanter.
+Dialogue: 0,0:21:29.66,0:21:31.16,Parade,,0000,0000,0000,,Quoi qu'il arrive...
+Dialogue: 0,0:21:34.46,0:21:35.80,Parade,,0000,0000,0000,,Soyons ensemble.
+Dialogue: 0,0:21:36.67,0:21:38.04,Parade,,0000,0000,0000,,Kaoru, ma chérie...
+Dialogue: 0,0:21:43.01,0:21:44.97,Parade_Off,,0000,0000,0000,,Je serai toujours à tes côtés.
+Dialogue: 0,0:21:48.43,0:21:50.56,Parade,,0000,0000,0000,,Mais, un an plus tard,\Nj'ai été victime...
+Dialogue: 0,0:21:52.84,0:21:54.34,Parade,,0000,0000,0000,,... d'une infection...
+Dialogue: 0,0:21:54.47,0:21:56.30,Parade,,0000,0000,0000,,qui a endommagé mes cordes vocales.
+Dialogue: 0,0:22:00.41,0:22:04.12,Parade,,0000,0000,0000,,Je ne voulais pas qu'elle s'aperçoive\Nque je ne pouvais plus chanter...
+Dialogue: 0,0:22:05.13,0:22:07.96,Parade,,0000,0000,0000,,Parce que je l'aimais,\Nje l'aimais vraiment...
+Dialogue: 0,0:22:08.47,0:22:11.54,Parade,,0000,0000,0000,,Je ne voulais pas qu'elle me considère\Ncomme un fardeau.
+Dialogue: 0,0:22:12.77,0:22:14.84,Parade,,0000,0000,0000,,J'ai donc disparu\Nsans laisser de traces.
+Dialogue: 0,0:22:15.45,0:22:18.09,Parade,,0000,0000,0000,,Mais je n'avais pas réalisé\Nque je lui avais fait autant de mal.
+Dialogue: 0,0:22:18.71,0:22:23.66,Parade,,0000,0000,0000,,Yuko, je pense qu'elle comprend\Ntout à fait ce que tu ressens.
+Dialogue: 0,0:22:25.76,0:22:29.73,Parade,,0000,0000,0000,,Combien tu as été amère et triste...
+Dialogue: 0,0:22:32.93,0:22:35.63,Parade,,0000,0000,0000,,... elle le comprend certainement...
+Dialogue: 0,0:22:38.87,0:22:43.61,Parade,,0000,0000,0000,,Je te demande pardon,\Nje t'ai rendue malheureuse.
+Dialogue: 0,0:22:45.57,0:22:47.24,Parade,,0000,0000,0000,,Ce n'est pas vrai.
+Dialogue: 0,0:22:48.29,0:22:49.03,Parade,,0000,0000,0000,,Car...
+Dialogue: 0,0:22:50.30,0:22:52.87,Parade,,0000,0000,0000,,... ma vie est plus belle\Ndepuis que je t'ai rencontrée.
+Dialogue: 0,0:23:02.81,0:23:04.92,Parade,,0000,0000,0000,,- Bonjour !\N- {\i1}Bonjour !{\i0}
+Dialogue: 0,0:23:05.47,0:23:07.44,Parade,,0000,0000,0000,,- Quoi ?\N- Salut, les filles !
+Dialogue: 0,0:23:09.60,0:23:11.40,Parade,,0000,0000,0000,,- Saki !\N- Saki... ?
+Dialogue: 0,0:23:13.06,0:23:14.86,Parade,,0000,0000,0000,,Qu'est-ce que tu fais\Ndans notre bureau ?
+Dialogue: 0,0:23:15.11,0:23:16.94,Parade,,0000,0000,0000,,M. le Directeur,\Nqu'est-ce que ça veut dire ?
+Dialogue: 0,0:23:17.07,0:23:18.57,Parade,,0000,0000,0000,,Eh bien, en fait...
+Dialogue: 0,0:23:20.06,0:23:22.79,Parade,,0000,0000,0000,,Tu t'es installée\Ndans notre bureau ?
+Dialogue: 0,0:23:23.97,0:23:26.57,Parade,,0000,0000,0000,,Oui, j'espère que vous serez gentilles\Navec moi à partir de maintenant.
+Dialogue: 0,0:23:26.97,0:23:29.51,Parade,,0000,0000,0000,,Qu'est-ce que tu t'imagines ?
+Dialogue: 0,0:23:30.03,0:23:32.99,Parade,,0000,0000,0000,,Comme promis,\Nj'ai gardé le secret de Kaori.
+Dialogue: 0,0:23:33.64,0:23:34.53,Parade,,0000,0000,0000,,Mais...
+Dialogue: 0,0:23:36.12,0:23:38.16,Parade,,0000,0000,0000,,J'ai jamais dit\Nque je renoncerais à elle...
+Dialogue: 0,0:23:38.29,0:23:39.50,Parade,,0000,0000,0000,,Euh...
+Dialogue: 0,0:23:39.78,0:23:41.05,Parade,,0000,0000,0000,,Dis donc, Saki !
+Dialogue: 0,0:23:41.34,0:23:42.90,Parade,,0000,0000,0000,,Ah, au fait...
+Dialogue: 0,0:23:44.25,0:23:46.42,Parade,,0000,0000,0000,,Je n'ai pas non plus renoncé\Nà toi, ma Kaoru chérie...
+Dialogue: 0,0:23:48.64,0:23:49.90,Parade,,0000,0000,0000,,Ouille !!
+Dialogue: 0,0:23:50.03,0:23:51.37,Parade,,0000,0000,0000,,Qu'est-ce qui t'a pris ?!
+Dialogue: 0,0:23:51.50,0:23:53.78,Parade,,0000,0000,0000,,Ne dis pas des trucs louches ici.
+Dialogue: 0,0:23:54.10,0:23:55.78,Parade,,0000,0000,0000,,Ne sois pas si violente !
+Dialogue: 0,0:23:56.04,0:23:57.85,Parade,,0000,0000,0000,,Parle pour toi !
+Dialogue: 0,0:23:58.09,0:24:01.48,Parade,,0000,0000,0000,,Tu es toujours si...
+Dialogue: 0,0:24:01.61,0:24:05.31,Parade,,0000,0000,0000,,- Ne me casse pas les pieds !\N- Qu'est-ce que tu as dit ?!
+Dialogue: 0,0:24:18.44,0:24:19.66,Parade,,0000,0000,0000,,Merci beaucoup.
+Dialogue: 0,0:24:20.80,0:24:24.23,Parade,,0000,0000,0000,,Aujourd'hui,\Nc'est le dernier jour de ma tournée.
+Dialogue: 0,0:24:24.99,0:24:27.63,Parade,,0000,0000,0000,,Sans votre soutien,\Nje n'aurais pas pu y arriver.
+Dialogue: 0,0:24:28.82,0:24:31.85,Parade,,0000,0000,0000,,Je voudrais vous présenter\Nune invitée formidable
+Dialogue: 0,0:24:31.98,0:24:33.59,Parade,,0000,0000,0000,,qui se joindra à moi\Npour les rappels.
+Dialogue: 0,0:24:34.37,0:24:39.26,Parade,,0000,0000,0000,,Voici Saki Midorisawa,\Nqui vient de rejoindre notre équipe.
+Dialogue: 0,0:24:43.03,0:24:45.76,Parade,,0000,0000,0000,,Bonsoir ! Je m'appelle Saki !
+Dialogue: 0,0:24:50.20,0:24:52.61,Parade,,0000,0000,0000,,S'il vous plaît, encouragez-moi\Ncomme vous l'avez fait pour elle.
+Dialogue: 0,0:24:53.31,0:24:54.53,Parade,,0000,0000,0000,,Sa... Saki...
+Dialogue: 0,0:24:57.57,0:24:59.25,Parade,,0000,0000,0000,,Qu'est-ce que tu fais ?
+Dialogue: 0,0:24:59.56,0:25:04.09,Parade,,0000,0000,0000,,Tout va bien ! Levez les bras\Nen l'air, d'accord ?
+Dialogue: 0,0:25:28.09,0:25:33.45,Aiiro,,0000,0000,0000,,Hashaida kisetsu wo hashirinuketara
+Dialogue: 0,0:25:28.09,0:25:33.45,Parade_Off,,0000,0000,0000,,Après avoir traversé\Nune saison joyeuse,
+Dialogue: 0,0:25:34.55,0:25:40.38,Aiiro,,0000,0000,0000,,Omoide no ashiato wa dou naru no
+Dialogue: 0,0:25:34.55,0:25:40.38,Parade_Off,,0000,0000,0000,,qu'adviendra-t-il de mes empreintes\Ndans le sable de mes souvenirs ?
+Dialogue: 0,0:25:41.81,0:25:47.34,Aiiro,,0000,0000,0000,,Watashi no HAATO no namiuchigiwa wo
+Dialogue: 0,0:25:41.81,0:25:47.34,Parade_Off,,0000,0000,0000,,Les larmes coulent\Nvers la plage de mon cœur.
+Dialogue: 0,0:25:48.16,0:25:53.67,Aiiro,,0000,0000,0000,,Nurasu namida wo kaze ga nugutta
+Dialogue: 0,0:25:48.16,0:25:53.67,Parade_Off,,0000,0000,0000,,Le vent les emporte.
+Dialogue: 0,0:25:55.46,0:26:00.88,Aiiro,,0000,0000,0000,,Kono mune no soramoyou wo
+Dialogue: 0,0:25:55.46,0:26:00.88,Parade_Off,,0000,0000,0000,,Le ciel se reflète dans mon cœur.
+Dialogue: 0,0:26:02.01,0:26:08.40,Aiiro,,0000,0000,0000,,Ima mo anata ga kuru kuru kaeru
+Dialogue: 0,0:26:02.01,0:26:08.40,Parade_Off,,0000,0000,0000,,Tu tourbillonnes en permanence.
+Dialogue: 0,0:26:08.69,0:26:14.13,Aiiro,,0000,0000,0000,,Yasashisa ni kumo ga oshimodosareru
+Dialogue: 0,0:26:08.69,0:26:14.13,Parade_Off,,0000,0000,0000,,La gentillesse chasse les nuages,
+Dialogue: 0,0:26:14.61,0:26:17.67,Aiiro,,0000,0000,0000,,Kumori nochi namidaame
+Dialogue: 0,0:26:14.61,0:26:17.67,Parade_Off,,0000,0000,0000,,mais il en tombe une pluie\Nsemblable aux larmes.
+Dialogue: 0,0:26:18.03,0:26:22.12,Aiiro,,0000,0000,0000,,Toki ni aiiro otome
+Dialogue: 0,0:26:18.03,0:26:22.12,Parade_Off,,0000,0000,0000,,Parfois, demoiselle en peine...
+Dialogue: 0,0:26:22.39,0:26:27.96,Aiiro,,0000,0000,0000,,Setsunasa mo otona he no tooriame
+Dialogue: 0,0:26:22.39,0:26:27.96,Parade_Off,,0000,0000,0000,,La tristesse est comme une pluie\Nqui tombe avant que tu ne grandisses.
+Dialogue: 0,0:26:28.31,0:26:29.94,Aiiro,,0000,0000,0000,,Kakedasou saa
+Dialogue: 0,0:26:28.31,0:26:29.94,Parade_Off,,0000,0000,0000,,Maintenant, commence à courir.
+Dialogue: 0,0:26:30.25,0:26:36.08,Aiiro,,0000,0000,0000,,Ashita no yume wo mite
+Dialogue: 0,0:26:30.25,0:26:36.08,Parade_Off,,0000,0000,0000,,Rêve de tes lendemains !
+Dialogue: 0,0:26:46.96,0:26:52.34,Aiiro,,0000,0000,0000,,Tokimeku kodou ga kako wo kizande
+Dialogue: 0,0:26:46.96,0:26:52.34,Parade_Off,,0000,0000,0000,,Les battements de mon cœur\Nenterrent mon passé.
+Dialogue: 0,0:26:53.35,0:26:59.19,Aiiro,,0000,0000,0000,,Omoide wa iroasete toozakaru
+Dialogue: 0,0:26:53.35,0:26:59.19,Parade_Off,,0000,0000,0000,,Mes souvenirs s'évanouissent\Net partent à la dérive.
+Dialogue: 0,0:27:00.74,0:27:06.49,Aiiro,,0000,0000,0000,,Anata no HAATO wo NOOKU shi tsudzuke
+Dialogue: 0,0:27:00.74,0:27:06.49,Parade_Off,,0000,0000,0000,,Je continue de frapper à ton cœur.
+Dialogue: 0,0:27:07.05,0:27:12.41,Aiiro,,0000,0000,0000,,Katai tobira ni hoho wo yoseta no
+Dialogue: 0,0:27:07.05,0:27:12.41,Parade_Off,,0000,0000,0000,,Je pousse ma joue\Ncontre cette porte solide.
+Dialogue: 0,0:27:14.50,0:27:20.14,Aiiro,,0000,0000,0000,,Kono mune no soramoyou wa
+Dialogue: 0,0:27:14.50,0:27:20.14,Parade_Off,,0000,0000,0000,,Le ciel se reflète dans mon cœur...
+Dialogue: 0,0:27:20.83,0:27:27.41,Aiiro,,0000,0000,0000,,Ima mo sukoshi mo kawaranai kara
+Dialogue: 0,0:27:20.83,0:27:27.41,Parade_Off,,0000,0000,0000,,Il ne change pas, même maintenant.
+Dialogue: 0,0:27:27.54,0:27:33.18,Aiiro,,0000,0000,0000,,Koishisa ga yuki no you ni maioriru
+Dialogue: 0,0:27:27.54,0:27:33.18,Parade_Off,,0000,0000,0000,,Un sentiment romantique\Ntombe comme de la neige.
+Dialogue: 0,0:27:33.31,0:27:36.65,Aiiro,,0000,0000,0000,,Suki nochi suki nochi suki
+Dialogue: 0,0:27:33.31,0:27:36.65,Parade_Off,,0000,0000,0000,,Ma passion se fait jour,\Nencore et encore...
+Dialogue: 0,0:27:36.82,0:27:40.98,Aiiro,,0000,0000,0000,,Toki ni aiiro otome
+Dialogue: 0,0:27:36.82,0:27:40.98,Parade_Off,,0000,0000,0000,,Parfois, demoiselle en peine...
+Dialogue: 0,0:27:41.25,0:27:46.92,Aiiro,,0000,0000,0000,,Itoshisa wa hikitomeru mukai kaze
+Dialogue: 0,0:27:41.25,0:27:46.92,Parade_Off,,0000,0000,0000,,Un moment romantique peut être un vent\Ncontraire qui me freine.
+Dialogue: 0,0:27:47.17,0:27:48.83,Aiiro,,0000,0000,0000,,Fumidasou hora
+Dialogue: 0,0:27:47.17,0:27:48.83,Parade_Off,,0000,0000,0000,,Va maintenant de l'avant.
+Dialogue: 0,0:27:49.18,0:27:54.67,Aiiro,,0000,0000,0000,,Ashita no yume wo mite
+Dialogue: 0,0:27:49.18,0:27:54.67,Parade_Off,,0000,0000,0000,,Rêve de tes lendemains !
+Dialogue: 0,0:28:10.39,0:28:15.89,Aiiro,,0000,0000,0000,,Yasashisa ni kumo ga oshimodosareru
+Dialogue: 0,0:28:10.39,0:28:15.89,Parade_Off,,0000,0000,0000,,La gentillesse chasse les nuages,
+Dialogue: 0,0:28:16.36,0:28:19.46,Aiiro,,0000,0000,0000,,Kumori nochi namidaame
+Dialogue: 0,0:28:16.36,0:28:19.46,Parade_Off,,0000,0000,0000,,mais il en tombe une pluie\Nsemblable aux larmes.
+Dialogue: 0,0:28:19.74,0:28:23.66,Aiiro,,0000,0000,0000,,Toki ni aiiro otome
+Dialogue: 0,0:28:19.74,0:28:23.66,Parade_Off,,0000,0000,0000,,Parfois, demoiselle en peine...
+Dialogue: 0,0:28:24.12,0:28:29.87,Aiiro,,0000,0000,0000,,Setsunasa mo otona he no tooriame
+Dialogue: 0,0:28:24.12,0:28:29.87,Parade_Off,,0000,0000,0000,,La tristesse est comme une pluie\Nqui tombe avant que tu ne grandisses.
+Dialogue: 0,0:28:30.09,0:28:31.68,Aiiro,,0000,0000,0000,,Kakedasou saa
+Dialogue: 0,0:28:30.09,0:28:31.68,Parade_Off,,0000,0000,0000,,Maintenant, commence à courir.
+Dialogue: 0,0:28:32.03,0:28:37.67,Aiiro,,0000,0000,0000,,Ashita no yume wo mite
+Dialogue: 0,0:28:32.03,0:28:37.67,Parade_Off,,0000,0000,0000,,Rêve de tes lendemains !
+Dialogue: 0,0:28:58.43,0:28:59.75,Parade,,0000,0000,0000,,Saki...
+Dialogue: 0,0:29:00.38,0:29:04.18,Parade,,0000,0000,0000,,Et moi, alors ?...

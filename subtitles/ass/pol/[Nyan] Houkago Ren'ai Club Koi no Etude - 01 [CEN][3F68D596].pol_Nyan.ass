@@ -1,0 +1,493 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.9.1.797 - GridRefactory-da547bd
+Title: Nyan
+Original Script: kostek00
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Last Style Storage: [640x480]
+Scroll Position: 9
+Active Line: 0
+YCbCr Matrix: TV.601
+Collisions: Normal
+Original Translation: kostek00
+Original Editing: 
+Original Timing: kostek00
+Script Updated By: kostek00
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (i),Franklin Gothic Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Default (top),Franklin Gothic Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,20,20,10,1
+Style: Grupa,Franklin Gothic Medium,16,&H00371C9B,&H000000FF,&HFF000000,&HC8000000,-1,-1,0,0,100,100,0,0,1,0.1,1,7,10,10,8,1
+Style: Anime,Franklin Gothic Medium,40,&H00371C9B,&H000000FF,&HFF000000,&HC8000000,0,0,0,0,100,100,0,0,1,0.1,2,8,20,20,15,1
+Style: Tytul,Franklin Gothic Medium,32,&H00B95C58,&H000000FF,&H5AFFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,45,20,20,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Rom,Franklin Gothic Medium,28,&H00001E5A,&H00626262,&H00DEE9FF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,20,20,10,1
+Style: ED Kan,Franklin Gothic Medium,22,&H00001E5A,&H00626262,&H00DEE9FF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,20,20,42,1
+Style: ED Pl,Franklin Gothic Medium,28,&H00001E5A,&H00626262,&H00DEE9FF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:25.29,0:00:31.51,Grupa,,0,0,0,,{\be1\fad(1487,0)}Nyan
+Dialogue: 0,0:00:25.29,0:00:31.51,Anime,,0,0,0,,{\be1\fad(1487,0)\pos(204,230)}Houkago Ren'ai Club
+Dialogue: 0,0:00:25.29,0:00:31.51,Anime,,0,0,0,,{\blur5\fad(1487,0)\pos(184,362)\fs28\b1\bord0.1\shad0\1c&H6B1490&\3c&HCD5FFC&\3a&H50&}Koi no Etude
+Dialogue: 0,0:00:27.79,0:00:31.51,Tytul,,0,0,0,,{\blur3\fad(697,0)}Miłość nie potrzebuje powodu
+Dialogue: 1,0:28:19.76,0:28:27.99,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Ii no choppiri kowai keredo tsuyoku daite ne
+Dialogue: 0,0:28:27.85,0:28:37.91,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Moshi koi no mirai mietara motto egao ni narou
+Dialogue: 1,0:28:38.00,0:28:42.36,ED Rom,,0,0,0,,{\blur3\fad(200,200)}You are my angel
+Dialogue: 0,0:28:44.15,0:28:48.25,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Nani cure tsuketa totan
+Dialogue: 1,0:28:48.42,0:28:52.11,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Mune ga zawameku
+Dialogue: 0,0:28:52.76,0:29:01.24,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Kyoukasho ja wakaranai sekai ga aru no
+Dialogue: 1,0:29:01.32,0:29:05.26,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Otona ni naritakunai
+Dialogue: 0,0:29:05.60,0:29:08.68,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Demo kodomo janai
+Dialogue: 1,0:29:09.89,0:29:17.68,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Yume miru onna no ko wa abunai angel
+Dialogue: 0,0:29:17.65,0:29:22.64,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Dame yo hakkiri taido kimete
+Dialogue: 1,0:29:22.73,0:29:25.80,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Demo yasashiku ne
+Dialogue: 0,0:29:25.66,0:29:35.95,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Moshi honki de koi shitai nara motto hadaka ni narou
+Dialogue: 1,0:29:35.86,0:29:40.38,ED Rom,,0,0,0,,{\blur3\fad(200,200)}You are my angel
+Dialogue: 0,0:29:44.34,0:29:50.83,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Mamoritai no pure na kimochi
+Dialogue: 1,0:29:53.00,0:29:59.70,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Kirei na me de yume wo misete
+Dialogue: 0,0:30:16.25,0:30:20.55,ED Rom,,0,0,0,,{\blur3\fad(200,200)\an9}Hakkiri taido kimete
+Dialogue: 1,0:30:20.56,0:30:23.70,ED Rom,,0,0,0,,{\blur3\fad(200,0)\an9}Demo yasashiku ne
+Dialogue: 0,0:30:23.70,0:30:26.92,ED Rom,,0,0,0,,{\blur3\an9\fs25}Moshi honki de koi shitai\Nnara motto hadaka ni narou
+Dialogue: 0,0:30:26.92,0:30:31.48,ED Rom,,0,0,0,,{\blur3}Moshi honki de koi shitai nara motto hadaka ni narou
+Dialogue: 1,0:30:31.48,0:30:38.68,ED Rom,,0,0,0,,{\blur3\fad(0,200)}Choppiri kowai keredo tsuyoku daite ne
+Dialogue: 0,0:30:38.55,0:30:48.76,ED Rom,,0,0,0,,{\blur3\fad(200,200)}Moshi koi no mirai mietara motto egao ni narou
+Dialogue: 1,0:30:48.72,0:30:53.14,ED Rom,,0,0,0,,{\blur3\fad(200,200)}You are my angel
+Dialogue: 1,0:28:19.76,0:28:27.99,ED Kan,,0,0,0,,{\blur3\fad(200,200)}いいのちょっぴり怖いけれど　強く抱いてね
+Dialogue: 0,0:28:27.85,0:28:37.91,ED Kan,,0,0,0,,{\blur3\fad(200,200)}もし　恋の未来見えたら　もっと笑顔になろう
+Dialogue: 0,0:28:44.15,0:28:48.25,ED Kan,,0,0,0,,{\blur3\fad(200,200)}何キュアつけたとたん
+Dialogue: 1,0:28:48.42,0:28:52.11,ED Kan,,0,0,0,,{\blur3\fad(200,200)}胸がざわめく
+Dialogue: 0,0:28:52.76,0:29:01.24,ED Kan,,0,0,0,,{\blur3\fad(200,200)}教科書じゃわからない　世界があるの
+Dialogue: 1,0:29:01.32,0:29:05.26,ED Kan,,0,0,0,,{\blur3\fad(200,200)}大人になりたくない
+Dialogue: 0,0:29:05.60,0:29:08.68,ED Kan,,0,0,0,,{\blur3\fad(200,200)}でも子供じゃない
+Dialogue: 1,0:29:09.89,0:29:17.68,ED Kan,,0,0,0,,{\blur3\fad(200,200)}夢見る女の子は　あぶないエンゼル
+Dialogue: 0,0:29:17.65,0:29:22.64,ED Kan,,0,0,0,,{\blur3\fad(200,200)}ダメよはっきり態度決めて
+Dialogue: 1,0:29:22.73,0:29:25.80,ED Kan,,0,0,0,,{\blur3\fad(200,200)}でも優しくね
+Dialogue: 0,0:29:25.66,0:29:35.95,ED Kan,,0,0,0,,{\blur3\fad(200,200)}もし　本気で恋したいなら　もっと裸になろう
+Dialogue: 0,0:29:44.34,0:29:50.83,ED Kan,,0,0,0,,{\blur3\fad(200,200)}守りたいの　ピュアな気持ち
+Dialogue: 1,0:29:53.00,0:29:59.70,ED Kan,,0,0,0,,{\blur3\fad(200,200)}きれいな目で　夢を見せて
+Dialogue: 0,0:30:16.25,0:30:20.55,ED Kan,,0,0,0,,{\blur3\fad(200,200)\an9}はっきり態度決めて
+Dialogue: 1,0:30:20.56,0:30:23.70,ED Kan,,0,0,0,,{\blur3\fad(200,0)\an9}でも優しくね
+Dialogue: 0,0:30:23.70,0:30:26.92,ED Kan,,0,0,0,,{\blur3\an9\fs18}もし　本気で恋したいなら　もっと裸になろう
+Dialogue: 0,0:30:26.92,0:30:31.48,ED Kan,,0,0,0,,{\blur3}もし　本気で恋したいなら　もっと裸になろう
+Dialogue: 1,0:30:31.48,0:30:38.68,ED Kan,,0,0,0,,{\blur3\fad(0,200)}ちょっぴり怖いけれど　強く抱いてね
+Dialogue: 0,0:30:38.55,0:30:48.76,ED Kan,,0,0,0,,{\blur3\fad(200,200)}もし　恋の未来見えたら　もっと笑顔になろう
+Dialogue: 1,0:28:19.76,0:28:27.99,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Przytul mnie, bo trochę się boję.
+Dialogue: 0,0:28:27.85,0:28:37.91,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Jeśli kiedyś się zakochamy,\Ncieszmy się pełnią życia.
+Dialogue: 1,0:28:38.00,0:28:42.36,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Jesteś moim aniołem.
+Dialogue: 0,0:28:44.15,0:28:48.25,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Szybko znalazłam lekarstwo.
+Dialogue: 1,0:28:48.42,0:28:52.11,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Lecz serce moje jest niespokojne.
+Dialogue: 0,0:28:52.76,0:29:01.24,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Istnieje świat, którego nikt nie opisał.
+Dialogue: 1,0:29:01.32,0:29:05.26,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Nie chce jeszcze dorastać.
+Dialogue: 0,0:29:05.60,0:29:08.68,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Ale dzieckiem też już nie jestem.
+Dialogue: 1,0:29:09.89,0:29:17.68,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Rozmarzone dziewczyny\Nsą groźnymi aniołkami.
+Dialogue: 0,0:29:17.65,0:29:22.64,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Stanowczo wyraź swoje uczucia.
+Dialogue: 1,0:29:22.73,0:29:25.80,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Ale nadal bądź łagodny, dobra?
+Dialogue: 0,0:29:25.66,0:29:35.95,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Jeśli poważnie traktujesz miłość,\Nto nie ubierajmy się jeszcze.
+Dialogue: 1,0:29:35.86,0:29:40.38,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Jesteś moim aniołem.
+Dialogue: 0,0:29:44.34,0:29:50.83,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Chcę chronić te uczucia.
+Dialogue: 1,0:29:53.00,0:29:59.70,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Pokaż mi swoje\Nmarzenia twoimi oczami.
+Dialogue: 0,0:30:16.25,0:30:20.55,ED Pl,,0,0,0,,{\blur3\fad(200,200)\an7}Stanowczo wyraź\Nswoje uczucia.
+Dialogue: 1,0:30:20.56,0:30:23.70,ED Pl,,0,0,0,,{\blur3\fad(200,0)\an7}Ale nadal bądź\Nłagodny, dobra?
+Dialogue: 0,0:30:23.70,0:30:26.92,ED Pl,,0,0,0,,{\blur3\an7\fs25}Jeśli poważnie traktujesz miłość,\Nto nie ubierajmy się jeszcze.
+Dialogue: 0,0:30:26.92,0:30:31.48,ED Pl,,0,0,0,,{\blur3}Jeśli poważnie traktujesz miłość,\Nto nie ubierajmy się jeszcze.
+Dialogue: 1,0:30:31.48,0:30:38.68,ED Pl,,0,0,0,,{\blur3\fad(0,200)}Przytul mnie, bo trochę się boję.
+Dialogue: 0,0:30:38.55,0:30:48.76,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Jeśli kiedyś się zakochamy,\Ncieszmy się pełnią życia.
+Dialogue: 1,0:30:48.72,0:30:53.14,ED Pl,,0,0,0,,{\blur3\fad(200,200)}Jesteś moim aniołem.
+Dialogue: 0,0:00:32.75,0:00:35.35,Default,,0,0,0,,{\be1}Dzień dobry.\NWitamy w Starry Sky.
+Dialogue: 0,0:00:37.57,0:00:40.92,Default,,0,0,0,,{\be1}O, Takeaki, dzisiaj też przyszedłeś.
+Dialogue: 0,0:00:40.92,0:00:45.27,Default,,0,0,0,,{\be1}No oczywiście, muszę cię o coś spytać.
+Dialogue: 0,0:00:49.19,0:00:55.41,Default,,0,0,0,,{\be1}Renichi! Tutaj!
+Dialogue: 0,0:00:57.41,0:01:01.64,Default,,0,0,0,,{\be1}No nie wiem, jestem trochę zajęta.
+Dialogue: 0,0:01:01.64,0:01:05.80,Default,,0,0,0,,{\be1}Spoko, twój szef pozwolił.
+Dialogue: 0,0:01:05.80,0:01:07.75,Default,,0,0,0,,{\be1}- Cześć.\N- Dzień dobry.
+Dialogue: 0,0:01:07.75,0:01:11.90,Default,,0,0,0,,{\be1}Naprawdę przydałaby mi się twoja pomoc.
+Dialogue: 0,0:01:11.90,0:01:13.14,Default,,0,0,0,,{\be1}Zastanowię się.
+Dialogue: 0,0:01:14.57,0:01:16.38,Default,,0,0,0,,{\be1}Dzień dobry.
+Dialogue: 0,0:01:16.38,0:01:19.82,Default,,0,0,0,,{\be1}Zazdroszczę ci, Sanae.
+Dialogue: 0,0:01:19.82,0:01:24.89,Default,,0,0,0,,{\be1}Ja jeszcze nie miałam okazji\Nzamienić słowa z Renichim.
+Dialogue: 0,0:01:25.45,0:01:33.65,Default,,0,0,0,,{\be1}Za to gdybyś mnie nie zaprosiła,\Nto bym teraz nie rozmawiała z wami.
+Dialogue: 0,0:01:34.38,0:01:37.31,Default,,0,0,0,,{\be1}To co, zaczynamy?
+Dialogue: 0,0:01:37.31,0:01:40.41,Default,,0,0,0,,{\be1}Reszta jest tam.
+Dialogue: 0,0:01:44.05,0:01:47.04,Default,,0,0,0,,{\be1}To wszyscy już są?
+Dialogue: 0,0:01:47.04,0:01:49.67,Default,,0,0,0,,{\be1}Na razie tak.
+Dialogue: 0,0:01:50.36,0:01:52.96,Default,,0,0,0,,{\be1}Tu masz notatnik miłości.
+Dialogue: 0,0:01:52.96,0:01:55.67,Default,,0,0,0,,{\be1}Na następne 4 tygodnie jest twój, szefie.
+Dialogue: 0,0:01:56.14,0:01:57.21,Default,,0,0,0,,{\be1}Szefie?
+Dialogue: 0,0:01:57.21,0:01:59.54,Default,,0,0,0,,{\be1}To nic trudnego.
+Dialogue: 0,0:01:59.54,0:02:03.06,Default,,0,0,0,,{\be1}Masz tu notatnik, albumy i zasady.
+Dialogue: 0,0:02:03.06,0:02:04.32,Default,,0,0,0,,{\be1}Jakie zasady?
+Dialogue: 0,0:02:04.93,0:02:09.64,Default,,0,0,0,,{\be1}Gdy przykładowo jeden chłopak\Numawia się z dwiema dziewczynami,
+Dialogue: 0,0:02:09.64,0:02:13.22,Default,,0,0,0,,{\be1}musisz to potwierdzić,\Nżeby nie było pomyłki.
+Dialogue: 0,0:02:17.12,0:02:18.56,Default,,0,0,0,,{\be1}Liczę na ciebie.
+Dialogue: 0,0:02:18.56,0:02:22.70,Default,,0,0,0,,{\be1}Ja jestem zajęty innym klubem,\Nno i mam sprawę do Kazumi i Kotarou.
+Dialogue: 0,0:02:23.67,0:02:27.96,Default,,0,0,0,,{\be1}Zaraz, to znaczy, że nie mogę\Nmieć zdjęcia z Renichim?
+Dialogue: 0,0:02:28.73,0:02:30.51,Default,,0,0,0,,{\be1}Ależ skąd.
+Dialogue: 0,0:02:30.51,0:02:33.30,Default,,0,0,0,,{\be1}Jeśli chcesz możesz być z Renichim.
+Dialogue: 0,0:02:33.30,0:02:38.62,Default,,0,0,0,,{\be1}Inaczej biedaczek będzie sam\Nprzez najbliższe 4 tygodnie.
+Dialogue: 0,0:02:39.62,0:02:43.22,Default,,0,0,0,,{\be1}W takim razie dobrze, zajmę się nim.
+Dialogue: 0,0:02:47.14,0:02:53.48,Default,,0,0,0,,{\be1}Tak w ogóle to co jest\Nmiędzy tobą, a Kazumi i Takeakim?
+Dialogue: 0,0:02:54.90,0:02:59.89,Default,,0,0,0,,{\be1}Kazumi i Takeaki znają się od dziecka,\Na ja poznałem ich w gimnazjum.
+Dialogue: 0,0:02:59.89,0:03:01.03,Default,,0,0,0,,{\be1}Również Kotarou.
+Dialogue: 0,0:03:01.52,0:03:03.56,Default,,0,0,0,,{\be1}Jesteśmy paczką przyjaciół.
+Dialogue: 0,0:03:03.56,0:03:05.79,Default,,0,0,0,,{\be1}Kotarou to on, nie?
+Dialogue: 0,0:03:05.79,0:03:08.71,Default,,0,0,0,,{\be1}Tak, siedzi z Hinako.
+Dialogue: 0,0:03:08.71,0:03:11.62,Default,,0,0,0,,{\be1}To jego siostra, jest starsza o rok.
+Dialogue: 0,0:03:11.62,0:03:16.38,Default,,0,0,0,,{\be1}Jest dość poważna i cały czas\Nwyciąga Kotarou z kłopotów.
+Dialogue: 0,0:03:17.05,0:03:20.30,Default,,0,0,0,,{\be1}Ostatnio zaczął sprawiać jej więcej problemów.
+Dialogue: 0,0:03:21.80,0:03:26.88,Default,,0,0,0,,{\be1}Kazumi i Takeaki chodzą ze sobą?
+Dialogue: 0,0:03:27.64,0:03:29.08,Default,,0,0,0,,{\be1}Nie wydaje mi się.
+Dialogue: 0,0:03:29.08,0:03:31.31,Default,,0,0,0,,{\be1}To może ty chodzisz z Kazumi?
+Dialogue: 0,0:03:31.31,0:03:33.48,Default,,0,0,0,,{\be1}Jesteśmy tylko przyjaciółmi.
+Dialogue: 0,0:03:33.48,0:03:36.32,Default,,0,0,0,,{\be1}- Naprawdę? Cieszę się!\N- Czemu?
+Dialogue: 0,0:03:36.32,0:03:39.07,Default,,0,0,0,,{\be1}No bo...
+Dialogue: 0,0:03:41.72,0:03:42.85,Default,,0,0,0,,{\be1}Nieważne.
+Dialogue: 0,0:03:42.85,0:03:46.95,Default,,0,0,0,,{\be1}Jakie dziewczyny preferujesz?
+Dialogue: 0,0:03:47.88,0:03:50.46,Default,,0,0,0,,{\be1}Nie myślałem o tym.
+Dialogue: 0,0:03:51.63,0:03:56.54,Default,,0,0,0,,{\be1}Jeżeli chodzi o mnie,\Nto wybrałabym Sanae.
+Dialogue: 0,0:03:56.96,0:03:58.09,Default,,0,0,0,,{\be1}Ją?
+Dialogue: 0,0:03:58.09,0:03:59.71,Default,,0,0,0,,{\be1}- Tak.\N- Czemu?
+Dialogue: 0,0:03:59.71,0:04:05.59,Default,,0,0,0,,{\be1}Bo świetnie gotuje i jest śliczna.
+Dialogue: 0,0:04:06.38,0:04:09.10,Default,,0,0,0,,{\be1}Ale nie powinnam tak mówić,\Nbo sama jestem dziewczyną.
+Dialogue: 0,0:04:09.52,0:04:12.10,Default,,0,0,0,,{\be1}Naprawdę uważam, że jest wspaniała.
+Dialogue: 0,0:04:12.48,0:04:16.35,Default,,0,0,0,,{\be1}Podziwiam ją, ale nie będę\Npróbować naśladować.
+Dialogue: 0,0:04:17.62,0:04:18.55,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:04:20.29,0:04:22.75,Default,,0,0,0,,{\be1}Chyba wpadnę w depresję.
+Dialogue: 0,0:04:22.75,0:04:25.87,Default,,0,0,0,,{\be1}Czemu musimy pozować\Nw kostiumach kąpielowych?
+Dialogue: 0,0:04:26.35,0:04:29.54,Default,,0,0,0,,{\be1}A widzisz?\NPrzyszło więcej dziewczyn.
+Dialogue: 0,0:04:29.54,0:04:31.70,Default,,0,0,0,,{\be1}Chyba mam do tego talent.
+Dialogue: 0,0:04:31.70,0:04:34.27,Default,,0,0,0,,{\be1}Czuję się jak na randce w ciemno.
+Dialogue: 0,0:04:34.87,0:04:38.13,Default,,0,0,0,,{\be1}Jak sobie radzi Kotarou?
+Dialogue: 0,0:04:38.13,0:04:41.89,Default,,0,0,0,,{\be1}Już jutro będzie robić zdjęcia z Misawą.
+Dialogue: 0,0:04:41.89,0:04:42.88,Default,,0,0,0,,{\be1}Trzeba się przygotować.
+Dialogue: 0,0:04:45.53,0:04:49.89,Default,,0,0,0,,{\be1}Jestem koleżanką koleżanki Misawy.
+Dialogue: 0,0:04:50.34,0:04:55.14,Default,,0,0,0,,{\be1}Czaję! Cieszę się,\Nże dołączyłaś do klubu miłości!
+Dialogue: 0,0:04:55.14,0:04:57.12,Default,,0,0,0,,{\be1}Jestem naprawdę wzruszony!
+Dialogue: 0,0:04:57.12,0:05:01.61,Default,,0,0,0,,{\be1}Naprawdę? Nie cieszyłeś się tak,\Ngdy ja dołączyłam.
+Dialogue: 0,0:05:01.61,0:05:03.15,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:05:03.49,0:05:07.91,Default,,0,0,0,,{\be1}Nie masz mundurka?\NMamy tu przychodzić w normalnych ubraniach?
+Dialogue: 0,0:05:07.91,0:05:13.89,Default,,0,0,0,,{\be1}Chodzę do szkoły, gdzie go\Nnie wymagają, nigdy ich nie lubiłam.
+Dialogue: 0,0:05:13.89,0:05:16.67,Default,,0,0,0,,{\be1}Ayumu chce pokazać swoją osobowość.
+Dialogue: 0,0:05:17.21,0:05:19.44,Default,,0,0,0,,{\be1}Jak dobrze pamiętam\Nmasz zespół muzyczny, prawda?
+Dialogue: 0,0:05:19.44,0:05:21.92,Default,,0,0,0,,{\be1}Jeszcze nie, brakuje nam ludzi.
+Dialogue: 0,0:05:21.92,0:05:26.24,Default,,0,0,0,,{\be1}A właśnie, jest tu ktoś kto umie grać?
+Dialogue: 0,0:05:26.24,0:05:28.72,Default,,0,0,0,,{\be1}Co powiesz na mnie?
+Dialogue: 0,0:05:28.72,0:05:32.68,Default,,0,0,0,,{\be1}Przykro mi, ale chcę\Ntylko dziewczyny w zespole.
+Dialogue: 0,0:05:32.68,0:05:34.35,Default,,0,0,0,,{\be1}Szkoda.
+Dialogue: 0,0:05:34.35,0:05:36.76,Default,,0,0,0,,{\be1}A na czym ty grasz?
+Dialogue: 0,0:05:36.76,0:05:37.65,Default,,0,0,0,,{\be1}Na keyboardzie.
+Dialogue: 0,0:05:38.27,0:05:42.22,Default,,0,0,0,,{\be1}Choć wolałabym śpiewać,\Njestem w tym niezła.
+Dialogue: 0,0:05:42.22,0:05:44.43,Default,,0,0,0,,{\be1}Serio? Nieźle!
+Dialogue: 0,0:05:44.43,0:05:48.66,Default,,0,0,0,,{\be1}Ona żartuje, sama wie,\Nże skrzeczy jak krzesło.
+Dialogue: 0,0:05:51.66,0:05:54.29,Default,,0,0,0,,{\be1}Połkniesz muchę.
+Dialogue: 0,0:05:54.29,0:05:55.55,Default,,0,0,0,,{\be1}Wal się!
+Dialogue: 0,0:05:55.55,0:05:57.90,Default,,0,0,0,,{\be1}Misawa już się zgodziła.
+Dialogue: 0,0:05:57.90,0:06:00.79,Default,,0,0,0,,{\be1}Możemy zrobić pierwsze zdjęcia.
+Dialogue: 0,0:06:02.96,0:06:06.96,Default,,0,0,0,,{\be1}Renichi, nie zapomnij odprowadzić Hinako.
+Dialogue: 0,0:06:06.96,0:06:08.05,Default,,0,0,0,,{\be1}Znowu ja?
+Dialogue: 0,0:06:08.05,0:06:09.80,Default,,0,0,0,,{\be1}Powodzenia.
+Dialogue: 0,0:06:11.27,0:06:15.85,Default,,0,0,0,,{\be1}Wracamy razem do domu?
+Dialogue: 0,0:06:15.85,0:06:17.31,Default,,0,0,0,,{\be1}Nie dzisiaj.
+Dialogue: 0,0:06:21.47,0:06:24.03,Default,,0,0,0,,{\be1}Jak ci się podoba ten mundurek?
+Dialogue: 0,0:06:24.78,0:06:26.28,Default,,0,0,0,,{\be1}Nie wiem co powiedzieć.
+Dialogue: 0,0:06:26.28,0:06:31.03,Default,,0,0,0,,{\be1}Ładnie eksponuje moje piersi, prawda?
+Dialogue: 0,0:06:32.10,0:06:33.03,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:06:33.40,0:06:34.47,Default,,0,0,0,,{\be1}Nie?
+Dialogue: 0,0:06:34.47,0:06:38.54,Default,,0,0,0,,{\be1}Chłopaki lubię takie, nie?
+Dialogue: 0,0:06:40.58,0:06:43.29,Default,,0,0,0,,{\be1}Wstydzisz się o tym rozmawiać?
+Dialogue: 0,0:06:43.29,0:06:49.30,Default,,0,0,0,,{\be1}Nie, po prostu nie chcę\Nrozmawiać o tym tutaj.
+Dialogue: 0,0:06:49.60,0:06:51.57,Default,,0,0,0,,{\be1}Wstydzisz się?
+Dialogue: 0,0:06:51.57,0:06:53.55,Default,,0,0,0,,{\be1}Czasami bywasz uroczy.
+Dialogue: 0,0:06:54.45,0:06:56.00,Default,,0,0,0,,{\be1}Nie nabijaj się ze mnie!
+Dialogue: 0,0:06:56.00,0:06:58.28,Default,,0,0,0,,{\be1}Nie nabijam się, to był komplement.
+Dialogue: 0,0:06:58.28,0:07:01.07,Default,,0,0,0,,{\be1}Jesteś miły i uroczy.
+Dialogue: 0,0:07:02.62,0:07:10.57,Default,,0,0,0,,{\be1}Byłoby fajnie, gdybyśmy całym\Nklubem poszli na rowery.
+Dialogue: 0,0:07:12.57,0:07:15.08,Default,,0,0,0,,{\be1}Jak myślisz?
+Dialogue: 0,0:07:17.32,0:07:21.58,Default,,0,0,0,,{\be1}Nie chce ci się pić?\NPójdę coś kupić.
+Dialogue: 0,0:07:22.48,0:07:23.83,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:07:40.79,0:07:42.56,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:07:45.12,0:07:47.42,Default,,0,0,0,,{\be1}Cześć, Renichi.
+Dialogue: 0,0:07:48.06,0:07:50.06,Default,,0,0,0,,{\be1}Sanae? Przecież dzisiaj...
+Dialogue: 0,0:07:50.06,0:07:51.65,Default,,0,0,0,,{\be1}Mogę się przysiąść?
+Dialogue: 0,0:07:52.81,0:07:53.80,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:07:54.48,0:07:56.12,Default,,0,0,0,,{\be1}Czekasz na kogoś?
+Dialogue: 0,0:07:56.12,0:07:59.12,Default,,0,0,0,,{\be1}Nie, później będę mieć trening.
+Dialogue: 0,0:07:59.12,0:08:00.12,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:08:01.40,0:08:07.63,Default,,0,0,0,,{\be1}Dzisiaj miałam nie przychodzić,\Nale widziałam, że tu siedzisz, więc przyszłam.
+Dialogue: 0,0:08:09.73,0:08:10.88,Default,,0,0,0,,{\be1}Aha.
+Dialogue: 0,0:08:16.43,0:08:19.96,Default,,0,0,0,,{\be1}Ta dziewczyna z wczoraj, Shiina,\Nto twoja przyjaciółka?
+Dialogue: 0,0:08:19.96,0:08:22.58,Default,,0,0,0,,{\be1}Tak, znamy się od dziecka.
+Dialogue: 0,0:08:22.58,0:08:24.90,Default,,0,0,0,,{\be1}Podobno uprawia gimnastykę.
+Dialogue: 0,0:08:27.16,0:08:29.82,Default,,0,0,0,,{\be1}A ty grasz w tenisa.
+Dialogue: 0,0:08:29.82,0:08:34.11,Default,,0,0,0,,{\be1}Tak, wybrałam tenis,\Nbo Shiina zaczęła uprawiać sport.
+Dialogue: 0,0:08:37.74,0:08:40.66,Default,,0,0,0,,{\be1}To dlatego że nie ma Nanase, prawda?
+Dialogue: 0,0:08:40.66,0:08:44.87,Default,,0,0,0,,{\be1}Zazwyczaj nie możemy\Nze sobą porozmawiać.
+Dialogue: 0,0:08:46.09,0:08:49.54,Default,,0,0,0,,{\be1}Możliwe. Nanase dzisiaj nie przyjdzie.
+Dialogue: 0,0:08:49.54,0:08:52.79,Default,,0,0,0,,{\be1}Wiem, podobno\Npojechała gdzieś z rodziną.
+Dialogue: 0,0:08:53.54,0:08:57.89,Default,,0,0,0,,{\be1}I dlatego siedzisz tu sam jak palec.
+Dialogue: 0,0:08:59.95,0:09:02.78,Default,,0,0,0,,{\be1}- Nieprawda!\N- Przepraszam.
+Dialogue: 0,0:09:02.78,0:09:04.59,Default,,0,0,0,,{\be1}Nie masz za co.
+Dialogue: 0,0:09:04.59,0:09:08.58,Default,,0,0,0,,{\be1}Nie masz żadnej randki na dzisiaj?
+Dialogue: 0,0:09:08.58,0:09:11.88,Default,,0,0,0,,{\be1}Nie. Zagrasz ze mną w tenisa?
+Dialogue: 0,0:09:38.13,0:09:39.77,Default,,0,0,0,,{\be1}Nic ci nie jest?
+Dialogue: 0,0:09:41.93,0:09:47.94,Default,,0,0,0,,{\be1}Tak naprawdę to chciałbym\Nmieć z tobą zdjęcie.
+Dialogue: 0,0:09:48.39,0:09:49.90,Default,,0,0,0,,{\be1}Naprawdę?
+Dialogue: 0,0:09:49.90,0:09:55.21,Default,,0,0,0,,{\be1}Tak, ale ostatni tydzień był dość\Nzajęty i nie miałem kiedy spytać.
+Dialogue: 0,0:09:55.21,0:09:59.39,Default,,0,0,0,,{\be1}Zostałeś wybrany szefem,\Nno i mamy dużo więcej członków.
+Dialogue: 0,0:09:59.39,0:10:00.20,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:10:01.34,0:10:05.64,Default,,0,0,0,,{\be1}To Takeaki i Kazumi\Nzaprosili cię do klubu?
+Dialogue: 0,0:10:05.64,0:10:07.21,Default,,0,0,0,,{\be1}Tak, a nawet zmusili.
+Dialogue: 0,0:10:07.21,0:10:08.26,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:10:08.26,0:10:10.71,Default,,0,0,0,,{\be1}Jak by to wyjaśnić?
+Dialogue: 0,0:10:11.21,0:10:13.40,Default,,0,0,0,,{\be1}Wiesz, że mieszkam sam?
+Dialogue: 0,0:10:14.77,0:10:18.67,Default,,0,0,0,,{\be1}Nie chce mi się samemu gotować.
+Dialogue: 0,0:10:18.67,0:10:20.88,Default,,0,0,0,,{\be1}Potrafię sobie wyobrazić.
+Dialogue: 0,0:10:20.88,0:10:24.65,Default,,0,0,0,,{\be1}Dostałem kupon na darmowe\Nposiłki w Starry Sky.
+Dialogue: 0,0:10:24.65,0:10:27.99,Default,,0,0,0,,{\be1}- Jak to?\N- To ty nie wiesz?
+Dialogue: 0,0:10:27.99,0:10:31.61,Default,,0,0,0,,{\be1}Właścicielem Starry Sky\Njest dziadek Takeakiego.
+Dialogue: 0,0:10:31.61,0:10:33.58,Default,,0,0,0,,{\be1}Nie wiedziałam.
+Dialogue: 0,0:10:33.58,0:10:37.06,Default,,0,0,0,,{\be1}To dlatego tam są spotkania klubu.
+Dialogue: 0,0:10:38.95,0:10:40.24,Default,,0,0,0,,{\be1}Renichi.
+Dialogue: 0,0:10:40.24,0:10:41.25,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:10:41.25,0:10:47.75,Default,,0,0,0,,{\be1}Cieszę się, że dołączyłam do klubu,\Nmogłam z tobą porozmawiać.
+Dialogue: 0,0:10:47.75,0:10:50.25,Default,,0,0,0,,{\be1}Chyba oboje tego chcieliśmy.
+Dialogue: 0,0:10:50.25,0:10:55.25,Default,,0,0,0,,{\be1}Będę musiała podziękować Nanase\Nza zaproszenie do klubu.
+Dialogue: 0,0:10:59.24,0:11:04.01,Default,,0,0,0,,{\be1}Wczoraj pracowałam cały dzień,\Nbyłam taka zmęczona.
+Dialogue: 0,0:11:04.44,0:11:08.02,Default,,0,0,0,,{\be1}Rodzice każą ci pracować też w niedzielę?
+Dialogue: 0,0:11:08.02,0:11:10.98,Default,,0,0,0,,{\be1}Zawsze tak było.
+Dialogue: 0,0:11:11.29,0:11:13.73,Default,,0,0,0,,{\be1}Wiesz, czułam się samotna.
+Dialogue: 0,0:11:14.17,0:11:15.08,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:11:15.08,0:11:18.21,Default,,0,0,0,,{\be1}Nie widzieliśmy się wczoraj.
+Dialogue: 0,0:11:18.21,0:11:20.91,Default,,0,0,0,,{\be1}A co ty czujesz?
+Dialogue: 0,0:11:20.91,0:11:22.23,Default,,0,0,0,,{\be1}Nie wiem...
+Dialogue: 0,0:11:22.23,0:11:24.26,Default,,0,0,0,,{\be1}Po prostu powiedz.
+Dialogue: 0,0:11:24.26,0:11:26.99,Default,,0,0,0,,{\be1}Tęskniłeś za mną?
+Dialogue: 0,0:11:27.58,0:11:28.50,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:11:28.50,0:11:30.71,Default,,0,0,0,,{\be1}Wiedziałam.
+Dialogue: 0,0:11:30.71,0:11:36.50,Default,,0,0,0,,{\be1}Niedługo kończę zmianę, wiesz?
+Dialogue: 0,0:11:36.50,0:11:42.01,Default,,0,0,0,,{\be1}Tutaj Takeaki trzyma notes?
+Dialogue: 0,0:11:43.04,0:11:44.01,Default,,0,0,0,,{\be1}Tak.
+Dialogue: 0,0:11:44.01,0:11:45.37,Default,,0,0,0,,{\be1}Co za syf.
+Dialogue: 0,0:11:45.37,0:11:47.59,Default,,0,0,0,,{\be1}Przesuń się.
+Dialogue: 0,0:11:49.03,0:11:50.26,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:11:51.02,0:11:53.02,Default,,0,0,0,,{\be1}Szybko się przebiorę.
+Dialogue: 0,0:11:53.02,0:11:56.02,Default,,0,0,0,,{\be1}Ale tutaj nie mogą wchodzić obcy!
+Dialogue: 0,0:11:56.46,0:11:58.03,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:11:59.81,0:12:01.57,Default,,0,0,0,,{\be1}Nie powinniśmy!
+Dialogue: 0,0:12:03.71,0:12:07.41,Default,,0,0,0,,{\be1}Czyżbyś się denerwował?
+Dialogue: 0,0:12:08.01,0:12:09.30,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:12:09.30,0:12:11.96,Default,,0,0,0,,{\be1}Ale jesteś podekscytowany?
+Dialogue: 0,0:12:14.02,0:12:16.67,Default,,0,0,0,,{\be1}Serce mocno ci wali.
+Dialogue: 0,0:12:16.67,0:12:19.67,Default,,0,0,0,,{\be1}Sprawdź moje.
+Dialogue: 0,0:12:20.29,0:12:21.75,Default,,0,0,0,,{\be1}Nie czuję.
+Dialogue: 0,0:12:22.73,0:12:26.18,Default,,0,0,0,,{\be1}Dotknij mocniej.
+Dialogue: 0,0:12:30.00,0:12:32.06,Default,,0,0,0,,{\be1}Nadal nie czuję, ale...
+Dialogue: 0,0:12:32.79,0:12:33.60,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:12:33.60,0:12:35.32,Default,,0,0,0,,{\be1}Są miękkie.
+Dialogue: 0,0:12:35.32,0:12:38.98,Default,,0,0,0,,{\be1}Ty zboku!\NMiałeś sprawdzić jak mi bije serce!
+Dialogue: 0,0:12:38.98,0:12:41.19,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:12:42.33,0:12:45.83,Default,,0,0,0,,{\be1}A jak się podobały piersi?
+Dialogue: 0,0:12:45.83,0:12:47.16,Default,,0,0,0,,{\be1}Misawa!
+Dialogue: 0,0:12:48.58,0:12:52.45,Default,,0,0,0,,{\be1}Jesteś taki uroczy.
+Dialogue: 0,0:12:54.55,0:12:56.74,Default,,0,0,0,,{\be1}Co za krępująca sytuacja.
+Dialogue: 0,0:12:56.74,0:12:59.70,Default,,0,0,0,,{\be1}Nie spodziewałaś się takiego postępu?
+Dialogue: 0,0:13:00.74,0:13:05.13,Default,,0,0,0,,{\be1}A właśnie, tobie i Nanase idzie dobrze?
+Dialogue: 0,0:13:05.13,0:13:07.72,Default,,0,0,0,,{\be1}Zaraz, zaraz, nas nic takiego nie łączy!
+Dialogue: 0,0:13:08.08,0:13:10.89,Default,,0,0,0,,{\be1}Oj, nie zaprzeczaj.
+Dialogue: 0,0:13:11.80,0:13:13.73,Default,,0,0,0,,{\be1}Nikt nie będzie o was zazdrosny.
+Dialogue: 0,0:13:14.05,0:13:15.52,Default,,0,0,0,,{\be1}A wal się!
+Dialogue: 0,0:13:16.14,0:13:17.98,Default,,0,0,0,,{\be1}A jak tam u ciebie?
+Dialogue: 0,0:13:18.81,0:13:22.48,Default,,0,0,0,,{\be1}Co? Nie biorę w tym udziału.
+Dialogue: 0,0:13:22.92,0:13:25.71,Default,,0,0,0,,{\be1}Przecież jesteś w klubie.
+Dialogue: 0,0:13:25.71,0:13:30.74,Default,,0,0,0,,{\be1}Poproszono mnie o zostanie\Nwokalistką w zespole.
+Dialogue: 0,0:13:31.53,0:13:33.28,Default,,0,0,0,,{\be1}Czyżby Ayumu?
+Dialogue: 0,0:13:33.86,0:13:35.44,Default,,0,0,0,,{\be1}Widzę, że wiesz.
+Dialogue: 0,0:13:36.76,0:13:38.00,Default,,0,0,0,,{\be1}To Takeaki.
+Dialogue: 0,0:13:38.44,0:13:39.68,Default,,0,0,0,,{\be1}Co tam?
+Dialogue: 0,0:13:39.68,0:13:42.75,Default,,0,0,0,,{\be1}Nie byłeś z Ayumu?
+Dialogue: 0,0:13:43.41,0:13:45.51,Default,,0,0,0,,{\be1}Woli kogoś innego.
+Dialogue: 0,0:13:46.10,0:13:47.76,Default,,0,0,0,,{\be1}To ktoś z klubu?
+Dialogue: 0,0:13:48.58,0:13:51.26,Default,,0,0,0,,{\be1}To Renichi.
+Dialogue: 0,0:13:52.21,0:13:53.88,Default,,0,0,0,,{\be1}- Ja?\N- Tak.
+Dialogue: 0,0:13:53.88,0:13:56.37,Default,,0,0,0,,{\be1}Robiłeś zdjęcie z Ayumu?
+Dialogue: 0,0:13:56.37,0:13:57.77,Default,,0,0,0,,{\be1}Nie.
+Dialogue: 0,0:13:59.75,0:14:01.77,Default,,0,0,0,,{\be1}Coś mi tu nie gra.
+Dialogue: 0,0:14:02.40,0:14:04.21,Default,,0,0,0,,{\be1}Nic nie wiedziałem!
+Dialogue: 0,0:14:04.21,0:14:05.52,Default,,0,0,0,,{\be1}Nie oto mi chodziło.
+Dialogue: 0,0:14:05.52,0:14:08.28,Default,,0,0,0,,{\be1}Dzisiaj nie chcę widzieć twojej gęby!
+Dialogue: 0,0:14:08.28,0:14:11.18,Default,,0,0,0,,{\be1}Daj spokój.
+Dialogue: 0,0:14:25.34,0:14:27.60,Default,,0,0,0,,{\be1}Co lubisz robić?
+Dialogue: 0,0:14:30.23,0:14:33.15,Default,,0,0,0,,{\be1}Kłamałaś, prawda?!
+Dialogue: 0,0:14:33.15,0:14:36.91,Default,,0,0,0,,{\be1}Zarzucasz mi kłamstwo?!\NTo nie twój interes!
+Dialogue: 0,0:14:36.91,0:14:41.19,Default,,0,0,0,,{\be1}A właśnie, że mój!\NRenichi i Takeaki to moi przyjaciele!
+Dialogue: 0,0:14:41.19,0:14:43.90,Default,,0,0,0,,{\be1}Jesteś strasznie nachalna, wiesz?
+Dialogue: 0,0:14:43.90,0:14:45.65,Default,,0,0,0,,{\be1}A ty zakłamana!
+Dialogue: 0,0:14:48.22,0:14:49.34,Default,,0,0,0,,{\be1}Renichi!
+Dialogue: 0,0:14:49.34,0:14:52.91,Default,,0,0,0,,{\be1}I czemu tak się wściekasz?\NTo do ciebie niepodobne.
+Dialogue: 0,0:14:54.56,0:15:01.17,Default,,0,0,0,,{\be1}Już czaję, boisz się,\Nże odbiorę ci Renichiego.
+Dialogue: 0,0:15:01.76,0:15:04.34,Default,,0,0,0,,{\be1}Nie pleć głupot!
+Dialogue: 0,0:15:04.34,0:15:06.42,Default,,0,0,0,,{\be1}Chcesz się bić?!
+Dialogue: 0,0:15:06.42,0:15:10.68,Default,,0,0,0,,{\be1}Sama zaczęłaś!\NCały dzień mnie obrażasz!
+Dialogue: 0,0:15:10.68,0:15:12.74,Default,,0,0,0,,{\be1}Zamknij się wreszcie!
+Dialogue: 0,0:15:12.74,0:15:17.68,Default,,0,0,0,,{\be1}Za kogo ty się masz, skrzekaczko?!\NMasz ledwie gówniany zespół!
+Dialogue: 0,0:15:18.41,0:15:20.22,Default,,0,0,0,,{\be1}Teraz przesadziłaś!
+Dialogue: 0,0:15:20.22,0:15:24.40,Default,,0,0,0,,{\be1}Jesteś okropna!\NJak mogłaś tak powiedzieć?!
+Dialogue: 0,0:15:24.84,0:15:26.82,Default,,0,0,0,,{\be1}Czekaj! Kazumi!
+Dialogue: 0,0:15:27.15,0:15:28.78,Default,,0,0,0,,{\be1}Masz tu czekać.
+Dialogue: 0,0:15:53.74,0:15:58.01,Default,,0,0,0,,{\be1}Nic mi nie będzie. Dzięki.
+Dialogue: 0,0:15:58.01,0:16:00.31,Default,,0,0,0,,{\be1}Kazumi ostro przeholowała.
+Dialogue: 0,0:16:00.31,0:16:02.35,Default,,0,0,0,,{\be1}Sama jestem sobie winna.
+Dialogue: 0,0:16:02.69,0:16:06.49,Default,,0,0,0,,{\be1}Obrażała cię z całą premedytacją.
+Dialogue: 0,0:16:08.28,0:16:10.36,Default,,0,0,0,,{\be1}Powinna cię przeprosić.
+Dialogue: 0,0:16:10.36,0:16:12.82,Default,,0,0,0,,{\be1}Cieszę się, że tak mówisz, ale...
+Dialogue: 0,0:16:14.68,0:16:18.35,Default,,0,0,0,,{\be1}Jeśli ją do tego zmusisz\Nmoże cię znienawidzić.
+Dialogue: 0,0:16:20.42,0:16:22.62,Default,,0,0,0,,{\be1}Mam to gdzieś.
+Dialogue: 0,0:16:23.04,0:16:24.12,Default,,0,0,0,,{\be1}Co?
+Dialogue: 0,0:16:24.12,0:16:27.63,Default,,0,0,0,,{\be1}Zawiniła i ma przeprosić.
+Dialogue: 0,0:16:27.96,0:16:29.38,Default,,0,0,0,,{\be1}Ale...
+Dialogue: 0,0:16:30.84,0:16:35.39,Default,,0,0,0,,{\be1}To że się przyjaźnimy nie znaczy,\Nże natychmiast będę po jej stronie.
+Dialogue: 0,0:16:35.39,0:16:36.74,Default,,0,0,0,,{\be1}Renichi.
+Dialogue: 0,0:16:36.74,0:16:41.35,Default,,0,0,0,,{\be1}A poza tym co ze mnie za przyjaciel,\Njeśli nie jestem z nią szczery?
+Dialogue: 0,0:16:44.52,0:16:50.15,Default,,0,0,0,,{\be1}Ciekawe czy kiedyś zaprzyjaźnię się z Kazumi.
+Dialogue: 0,0:16:55.83,0:16:57.18,Default,,0,0,0,,{\be1}Renichi.
+Dialogue: 0,0:17:05.79,0:17:08.65,Default,,0,0,0,,{\be1}Co? Masz jakiś problem?
+Dialogue: 0,0:17:12.23,0:17:15.54,Default,,0,0,0,,{\be1}W tym klubie nie można\Nurządzać takich scen, nie?
+Dialogue: 0,0:17:15.54,0:17:19.55,Default,,0,0,0,,{\be1}Tak, ale nie mogę jej\Nwybaczyć odrzucenia Takeakiego.
+Dialogue: 0,0:17:20.01,0:17:21.97,Default,,0,0,0,,{\be1}Po prostu się pokłócili.
+Dialogue: 0,0:17:21.97,0:17:24.02,Default,,0,0,0,,{\be1}I tak mnie wkurzyła!
+Dialogue: 0,0:17:24.02,0:17:26.06,Default,,0,0,0,,{\be1}Ayumu prawie się rozpłakała.
+Dialogue: 0,0:17:26.06,0:17:29.83,Default,,0,0,0,,{\be1}Stajesz po jej stronie?
+Dialogue: 0,0:17:29.83,0:17:32.07,Default,,0,0,0,,{\be1}Niech se ryczy, krowa!
+Dialogue: 0,0:17:32.07,0:17:34.57,Default,,0,0,0,,{\be1}Nie staje po niczyjej stronie.
+Dialogue: 0,0:17:35.03,0:17:37.07,Default,,0,0,0,,{\be1}Więc co chcesz powiedzieć?
+Dialogue: 0,0:17:37.07,0:17:42.08,Default,,0,0,0,,{\be1}To wygląda jakbyś chciała ją zgnębić.
+Dialogue: 0,0:17:42.37,0:17:44.08,Default,,0,0,0,,{\be1}A nawet jeśli, to co?
+Dialogue: 0,0:17:44.41,0:17:47.65,Default,,0,0,0,,{\be1}To nie jest śmieszne.
+Dialogue: 0,0:17:47.65,0:17:49.13,Default,,0,0,0,,{\be1}Wkurzyła mnie.
+Dialogue: 0,0:17:49.13,0:17:58.55,Default,,0,0,0,,{\be1}Rozumiem twoją reakcję, ale ty\Nnajzwyczajniej wyżywasz się na niej.
+Dialogue: 0,0:18:00.42,0:18:02.72,Default,,0,0,0,,{\be1}Nie widzę w tym żadnej logiki.
+Dialogue: 0,0:18:02.72,0:18:06.10,Default,,0,0,0,,{\be1}I czemu do jednego wora\Nwrzucasz Takeakiego i zespół Ayumu?
+Dialogue: 0,0:18:07.03,0:18:07.85,Default,,0,0,0,,{\be1}To jest...
+Dialogue: 0,0:18:08.17,0:18:10.90,Default,,0,0,0,,{\be1}Może choć raz inaczej\Npodejdziesz do problemu?
+Dialogue: 0,0:18:10.90,0:18:16.61,Default,,0,0,0,,{\be1}Złościsz się za Takeakiego,\Nale nie widzisz jak bardzo ranisz Ayumu?
+Dialogue: 0,0:18:17.67,0:18:21.08,Default,,0,0,0,,{\be1}Uderzasz w jej najczulsze miejsca.
+Dialogue: 0,0:18:21.08,0:18:22.08,Default,,0,0,0,,{\be1}To...
+Dialogue: 0,0:18:27.11,0:18:28.49,Default,,0,0,0,,{\be1}Renichi.
+Dialogue: 0,0:18:29.73,0:18:31.23,Default,,0,0,0,,{\be1}Renichi!
+Dialogue: 0,0:18:33.13,0:18:35.48,Default,,0,0,0,,{\be1}Sanae? Jeszcze tu jesteś?
+Dialogue: 0,0:18:37.80,0:18:40.90,Default,,0,0,0,,{\be1}Nie rozmawialiśmy od niedzieli.
+Dialogue: 0,0:18:40.90,0:18:44.89,Default,,0,0,0,,{\be1}Byłeś bardzo zajęty.
+Dialogue: 0,0:18:50.83,0:18:51.97,Default,,0,0,0,,{\be1}Sanae.
+Dialogue: 0,0:18:53.95,0:18:55.90,Default,,0,0,0,,{\be1}Chodźmy w następną niedzielę na randkę.
+Dialogue: 0,0:19:27.01,0:19:29.80,Default,,0,0,0,,{\be1}Robimy sobie przerwę?
+Dialogue: 0,0:19:29.80,0:19:31.47,Default,,0,0,0,,{\be1}Długo już pływamy.
+Dialogue: 0,0:19:31.47,0:19:34.94,Default,,0,0,0,,{\be1}Mam wrażenie,\Njakby mnie woda wciągała.
+Dialogue: 0,0:19:35.35,0:19:37.94,Default,,0,0,0,,{\be1}Pływanie wykorzystuje wszystkie mięśnie.
+Dialogue: 0,0:19:37.94,0:19:39.81,Default,,0,0,0,,{\be1}Właśnie czuję.
+Dialogue: 0,0:19:39.81,0:19:43.27,Default,,0,0,0,,{\be1}Shiina często tu przychodzi.
+Dialogue: 0,0:19:43.27,0:19:45.94,Default,,0,0,0,,{\be1}Masz na myśli twoją przyjaciółkę?
+Dialogue: 0,0:19:48.08,0:19:50.36,Default,,0,0,0,,{\be1}- Sanae...\N- Co?
+Dialogue: 0,0:19:50.36,0:19:52.84,Default,,0,0,0,,{\be1}Ładnie ci w tym stroju.
+Dialogue: 0,0:19:52.84,0:19:55.33,Default,,0,0,0,,{\be1}- Naprawdę?\N- Tak.
+Dialogue: 0,0:19:55.33,0:19:57.13,Default,,0,0,0,,{\be1}Masz wyczucie stylu.
+Dialogue: 0,0:19:57.13,0:19:58.28,Default,,0,0,0,,{\be1}Dzięki.
+Dialogue: 0,0:19:58.28,0:20:01.18,Default,,0,0,0,,{\be1}Dzisiaj pierwszy raz go założyłam.
+Dialogue: 0,0:20:01.18,0:20:05.06,Default,,0,0,0,,{\be1}Więc można powiedzieć,\Nże założyłaś go dla mnie.
+Dialogue: 0,0:20:05.06,0:20:08.61,Default,,0,0,0,,{\be1}- Nie pozwalaj sobie!\N- Jesteś zła?
+Dialogue: 0,0:20:09.79,0:20:15.06,Default,,0,0,0,,{\be1}Zastanawiam się,\Nczy dobrze robimy.
+Dialogue: 0,0:20:15.06,0:20:16.08,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:20:16.08,0:20:20.74,Default,,0,0,0,,{\be1}No bo to randka.
+Dialogue: 0,0:20:21.64,0:20:23.68,Default,,0,0,0,,{\be1}Nie chcesz zaprosić Nanase?
+Dialogue: 0,0:20:23.68,0:20:28.26,Default,,0,0,0,,{\be1}Tym nie musisz się przejmować.
+Dialogue: 0,0:20:28.26,0:20:31.95,Default,,0,0,0,,{\be1}Ale jutro znowu się z nią zobaczysz.
+Dialogue: 0,0:20:32.79,0:20:33.85,Default,,0,0,0,,{\be1}Przestań!
+Dialogue: 0,0:20:35.07,0:20:38.50,Default,,0,0,0,,{\be1}Jesteśmy na randce.
+Dialogue: 0,0:20:38.50,0:20:41.77,Default,,0,0,0,,{\be1}Nie rozmawiajmy o innych dziewczynach.
+Dialogue: 0,0:20:43.02,0:20:44.05,Default,,0,0,0,,{\be1}Przepraszam.
+Dialogue: 0,0:20:57.42,0:21:00.28,Default,,0,0,0,,{\be1}Widzę, że znasz się na restauracjach.
+Dialogue: 0,0:21:01.61,0:21:05.72,Default,,0,0,0,,{\be1}Zawsze wyobrażałem\Nsobie ciebie w takim miejscu.
+Dialogue: 0,0:21:05.72,0:21:08.71,Default,,0,0,0,,{\be1}Nie wiedziałem czy ci się spodoba.
+Dialogue: 0,0:21:09.61,0:21:14.29,Default,,0,0,0,,{\be1}Dobrze się dzisiaj bawiłam. Dziękuję.
+Dialogue: 0,0:21:15.00,0:21:15.79,Default,,0,0,0,,{\be1}Nie ma za co.
+Dialogue: 0,0:21:16.12,0:21:20.25,Default,,0,0,0,,{\be1}To teraz moja kolej zabawić cię.
+Dialogue: 0,0:21:21.65,0:21:24.80,Default,,0,0,0,,{\be1}Idziemy do hotelu?
+Dialogue: 0,0:21:44.34,0:21:46.57,Default,,0,0,0,,{\be1}Przyjemnie?
+Dialogue: 0,0:21:49.96,0:21:52.27,Default,,0,0,0,,{\be1}Tak! I to bardzo!
+Dialogue: 0,0:21:52.27,0:21:56.83,Default,,0,0,0,,{\be1}Naprawdę?\NNo to teraz poliżę go tu.
+Dialogue: 0,0:22:00.71,0:22:02.45,Default,,0,0,0,,{\be1}Nie tam!
+Dialogue: 0,0:22:04.26,0:22:05.33,Default,,0,0,0,,{\be1}Czemu?
+Dialogue: 0,0:22:05.33,0:22:06.63,Default,,0,0,0,,{\be1}No bo...
+Dialogue: 0,0:22:06.97,0:22:08.67,Default,,0,0,0,,{\be1}To nic.
+Dialogue: 0,0:22:10.51,0:22:11.44,Default,,0,0,0,,{\be1}Dobra.
+Dialogue: 0,0:22:12.16,0:22:14.15,Default,,0,0,0,,{\be1}Nie denerwuj się.
+Dialogue: 0,0:22:14.15,0:22:16.22,Default,,0,0,0,,{\be1}Słyszę jak ci serce wali.
+Dialogue: 0,0:22:23.81,0:22:27.07,Default,,0,0,0,,{\be1}Ty też mi wyliż.
+Dialogue: 0,0:22:27.88,0:22:28.87,Default,,0,0,0,,{\be1}Dobra!
+Dialogue: 0,0:22:37.37,0:22:40.44,Default,,0,0,0,,{\be1}Tak, właśnie tam.
+Dialogue: 0,0:22:41.10,0:22:42.35,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:22:44.06,0:22:46.41,Default,,0,0,0,,{\be1}Włóż język.
+Dialogue: 0,0:22:46.41,0:22:49.08,Default,,0,0,0,,{\be1}Robisz się mokra.
+Dialogue: 0,0:22:49.08,0:22:52.64,Default,,0,0,0,,{\be1}Bo jesteś w tym dobry.
+Dialogue: 0,0:22:53.49,0:22:56.64,Default,,0,0,0,,{\be1}Ale tylko z tobą.
+Dialogue: 0,0:22:56.64,0:22:59.34,Default,,0,0,0,,{\be1}Jaki pochlebca.
+Dialogue: 0,0:22:59.34,0:23:03.90,Default,,0,0,0,,{\be1}Zadowolę cię jeszcze bardziej.
+Dialogue: 0,0:23:05.33,0:23:07.20,Default,,0,0,0,,{\be1}Nie całego!
+Dialogue: 0,0:23:09.69,0:23:10.91,Default,,0,0,0,,{\be1}I jak?
+Dialogue: 0,0:23:11.63,0:23:12.65,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:23:13.46,0:23:14.91,Default,,0,0,0,,{\be1}Jak dobrze!
+Dialogue: 0,0:23:25.71,0:23:27.49,Default,,0,0,0,,{\be1}Tu też jest przyjemnie?
+Dialogue: 0,0:23:30.00,0:23:31.63,Default,,0,0,0,,{\be1}Czekaj!
+Dialogue: 0,0:23:32.53,0:23:36.71,Default,,0,0,0,,{\be1}W tej pozycji nie widzę twojej twarzy.
+Dialogue: 0,0:23:37.77,0:23:39.36,Default,,0,0,0,,{\be1}Kotarou.
+Dialogue: 0,0:23:41.05,0:23:42.10,Default,,0,0,0,,{\be1}Zaczynajmy.
+Dialogue: 0,0:23:57.21,0:24:01.04,Default,,0,0,0,,{\be1}Wyglądasz uroczo,\Ngdy jest ci przyjemnie.
+Dialogue: 0,0:24:01.45,0:24:04.79,Default,,0,0,0,,{\be1}Jesteś taka ciepła w środku.
+Dialogue: 0,0:24:05.23,0:24:07.80,Default,,0,0,0,,{\be1}Zacznij się ruszać.
+Dialogue: 0,0:24:09.02,0:24:10.87,Default,,0,0,0,,{\be1}Mocniej!
+Dialogue: 0,0:24:11.76,0:24:13.73,Default,,0,0,0,,{\be1}Dotknij piersi!
+Dialogue: 0,0:24:22.62,0:24:25.06,Default,,0,0,0,,{\be1}Dopasuj się do mojego rytmu.
+Dialogue: 0,0:24:25.06,0:24:27.77,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:24:44.11,0:24:46.79,Default,,0,0,0,,{\be1}Zaraz dojdę!
+Dialogue: 0,0:24:47.17,0:24:51.09,Default,,0,0,0,,{\be1}Jeszcze nie.
+Dialogue: 0,0:24:51.80,0:24:54.55,Default,,0,0,0,,{\be1}Kiedy już nie mogę!
+Dialogue: 0,0:25:00.68,0:25:03.06,Default,,0,0,0,,{\be1}Dobra, odpocznij.
+Dialogue: 0,0:25:06.19,0:25:08.82,Default,,0,0,0,,{\be1}Ja się jeszcze trochę zabawię.
+Dialogue: 0,0:25:12.69,0:25:14.87,Default,,0,0,0,,{\be1}Tak dasz radę, nie?
+Dialogue: 0,0:25:32.63,0:25:35.22,Default,,0,0,0,,{\be1}To jest bardzo przyjemne.
+Dialogue: 0,0:25:35.83,0:25:37.75,Default,,0,0,0,,{\be1}Choć trochę drażniące.
+Dialogue: 0,0:25:37.75,0:25:39.14,Default,,0,0,0,,{\be1}Chcesz dojść?
+Dialogue: 0,0:25:41.54,0:25:45.23,Default,,0,0,0,,{\be1}W takim razie zacznij wkładać.
+Dialogue: 0,0:25:58.12,0:25:59.26,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:26:00.58,0:26:03.53,Default,,0,0,0,,{\be1}Ja też zaraz dojdę!
+Dialogue: 0,0:26:05.75,0:26:08.82,Default,,0,0,0,,{\be1}Mogę się spuścić w środku?
+Dialogue: 0,0:26:15.23,0:26:17.65,Default,,0,0,0,,{\be1}Tak!
+Dialogue: 0,0:26:44.87,0:26:49.00,Default,,0,0,0,,{\be1}Co jest? Zmęczyłeś się?
+Dialogue: 0,0:26:49.00,0:26:54.25,Default,,0,0,0,,{\be1}Nie, zastanawiałem się\Nczy powinno to tak łatwo pójść.
+Dialogue: 0,0:26:54.83,0:26:55.88,Default,,0,0,0,,{\be1}Łatwo?
+Dialogue: 0,0:26:56.45,0:27:00.89,Default,,0,0,0,,{\be1}No bo tak od razu przeszliśmy do seksu.
+Dialogue: 0,0:27:01.76,0:27:03.35,Default,,0,0,0,,{\be1}Nie podobało się?
+Dialogue: 0,0:27:03.89,0:27:08.14,Default,,0,0,0,,{\be1}No co ty! Jesteś cudowna!
+Dialogue: 0,0:27:10.16,0:27:14.61,Default,,0,0,0,,{\be1}No to w czym problem?\NNie ma co się niepotrzebnie zamartwiać.
+Dialogue: 0,0:27:16.15,0:27:19.65,Default,,0,0,0,,{\be1}Miłość nie musi być skomplikowana.
+Dialogue: 0,0:27:20.46,0:27:22.79,Default,,0,0,0,,{\be1}Jeżeli obojgu jest dobrze,\Nto nie ma problemu.
+Dialogue: 0,0:27:33.24,0:27:34.94,Default,,0,0,0,,{\be1}Renichi!
+Dialogue: 0,0:27:34.94,0:27:35.79,Default,,0,0,0,,{\be1}Cześć.
+Dialogue: 0,0:27:44.78,0:27:47.17,Default,,0,0,0,,{\be1}Mam prośbę.
+Dialogue: 0,0:27:47.17,0:27:48.10,Default,,0,0,0,,{\be1}Jaką?
+Dialogue: 0,0:27:48.10,0:27:53.69,Default,,0,0,0,,{\be1}Możesz nie mówić Nanase,\Nże byliśmy na basenie?
+Dialogue: 0,0:27:56.62,0:27:57.85,Default,,0,0,0,,{\be1}Proszę.
+Dialogue: 0,0:28:08.24,0:28:09.63,Default (i),,0,0,0,,{\be1}Sanae.
+Dialogue: 0,0:30:00.11,0:30:03.58,Default,,0,0,0,,{\be1}Starry Sky ma coś do ogłoszenia.
+Dialogue: 0,0:30:04.24,0:30:11.28,Default,,0,0,0,,{\be1}Drugi odcinek Houkago Ren'ai Club\N„Miłość nie jest logiczna”,
+Dialogue: 0,0:30:11.28,0:30:16.22,Default,,0,0,0,,{\be1}jest w trakcie produkcji\Ni wyjdzie w letnim sezonie.
+Dialogue: 0,0:30:16.22,0:30:20.85,Default,,0,0,0,,{\be1}Zobaczycie miłosne\Nzmagania Renichiego i reszty.
+Dialogue: 0,0:30:20.85,0:30:26.92,Default,,0,0,0,,{\be1}A teraz ciąg dalszy\Npiosenki Ayumu i Kazumi.

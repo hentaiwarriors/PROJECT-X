@@ -1,0 +1,142 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,47,&H00FFFFFF,&H000000FF,&H00800080,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.02,0:00:20.35,Default,,0,0,0,,{\fn方正中倩_GBK\bord3\blur1.5\fs60\3c&HF03AF8&\pos(986.635,564)}飼{\3c&H000000&}育{\c&H000000&\3c&H2F10ED&\fs45}X{\fs60\c&HFFFFFF&}女{\3c&H0000FF&}友
+Dialogue: 0,0:00:16.02,0:00:20.35,Default,,0,0,0,,{\3c&HB815FD&\c&HFDE5FF&\blur3\pos(640,694.5)}天使的拘禁篇
+Dialogue: 0,0:00:16.02,0:00:20.35,Default,,0,0,0,,{\3c&HB815FD&\fs34.5\c&HFDE5FF&\blur3\an8}本字幕由臉腫字幕組製作 僅供交流學習 請於下載後24小時內刪除\N翻譯:海馬 校對:沙羅雙樹 時軸:幕下 壓製:菓菓
+Dialogue: 0,0:00:22.13,0:00:24.42,Default,,0,0,0,,我在便利商店發現了一個不錯的女孩
+Dialogue: 0,0:00:24.97,0:00:26.91,Default,,0,0,0,,對對 就在往常那家便利商店
+Dialogue: 0,0:00:27.47,0:00:31.24,Default,,0,0,0,,我馬上就讓她做我第八名女友了
+Dialogue: 0,0:00:32.14,0:00:34.73,Default,,0,0,0,,今天搞定目標效率還挺高的
+Dialogue: 0,0:00:35.48,0:00:38.10,Default,,0,0,0,,她明明一副國中生的樣子
+Dialogue: 0,0:00:38.40,0:00:40.48,Default,,0,0,0,,胸卻特別大
+Dialogue: 0,0:00:40.77,0:00:43.86,Default,,0,0,0,,簡直就是在誘惑別人強上她一樣
+Dialogue: 0,0:00:44.49,0:00:45.02,Default,,0,0,0,,在收銀台
+Dialogue: 0,0:00:46.22,0:00:48.28,Default,,0,0,0,,我調戲她說來一份小蜜穴
+Dialogue: 0,0:00:48.70,0:00:50.56,Default,,0,0,0,,一下就臉紅了
+Dialogue: 0,0:00:50.56,0:00:51.87,Default,,0,0,0,,真是太可愛了
+Dialogue: 0,0:00:52.66,0:00:57.16,Default,,0,0,0,,我會在一週之內就搞定K和S的
+Dialogue: 0,0:01:01.34,0:01:03.84,Default,,0,0,0,,說起來我這個月手頭有點緊
+Dialogue: 0,0:01:04.46,0:01:07.18,Default,,0,0,0,,就賣給你點好東西吧
+Dialogue: 0,0:01:12.51,0:01:15.18,Default,,0,0,0,,神啊求求你 接通吧
+Dialogue: 0,0:01:23.86,0:01:25.40,Default,,0,0,0,,喂 是警察嗎
+Dialogue: 0,0:01:26.78,0:01:28.82,Default,,0,0,0,,我被捲入事件了
+Dialogue: 0,0:01:29.16,0:01:31.24,Default,,0,0,0,,被誘拐還被施以暴力
+Dialogue: 0,0:01:31.87,0:01:33.53,Default,,0,0,0,,不知道被監禁在了哪裡
+Dialogue: 0,0:01:34.99,0:01:36.79,Default,,0,0,0,,犯人是一名中年男性
+Dialogue: 0,0:01:37.12,0:01:39.29,Default,,0,0,0,,名叫若狹庄司
+Dialogue: 0,0:01:40.54,0:01:43.00,Default,,0,0,0,,快點 請快點來救我
+Dialogue: 0,0:01:43.96,0:01:46.59,Default,,0,0,0,,我現在在用男朋友的手機打電話
+Dialogue: 0,0:01:46.76,0:01:49.47,Default,,0,0,0,,確認一下位置快來救我
+Dialogue: 0,0:01:49.97,0:01:52.97,Default,,0,0,0,,喂 喂 能聽到嗎
+Dialogue: 0,0:01:54.43,0:01:57.18,Default,,0,0,0,,我會被殺掉的 請快點
+Dialogue: 0,0:01:59.64,0:02:04.02,Default,,0,0,0,,本該是天使的你竟然說這麼過分的謊
+Dialogue: 0,0:02:18.41,0:02:20.83,Default,,0,0,0,,就是因為老是和那混帳在一起
+Dialogue: 0,0:02:21.37,0:02:22.71,Default,,0,0,0,,那傢伙是惡魔
+Dialogue: 0,0:02:22.96,0:02:25.17,Default,,0,0,0,,是欺騙天使的惡魔
+Dialogue: 0,0:02:26.50,0:02:29.38,Default,,0,0,0,,還沒關係 還來得及淨化
+Dialogue: 0,0:02:30.05,0:02:31.22,Default,,0,0,0,,是我的話能做到
+Dialogue: 0,0:02:31.88,0:02:34.97,Default,,0,0,0,,淨化天使的身上的惡魔
+Dialogue: 0,0:02:35.76,0:02:38.14,Default,,0,0,0,,沒問題 沒問題
+Dialogue: 0,0:02:42.65,0:02:43.35,Default,,0,0,0,,趁現在
+Dialogue: 0,0:02:45.15,0:02:47.07,Default,,0,0,0,,還來得及…
+Dialogue: 0,0:02:58.41,0:03:01.96,Default,,0,0,0,,柴田先生 救救我
+Dialogue: 0,0:03:08.47,0:03:11.97,Default,,0,0,0,,我要從你身上驅逐惡魔
+Dialogue: 0,0:03:14.47,0:03:17.10,Default,,0,0,0,,我來淨化
+Dialogue: 0,0:03:20.64,0:03:23.19,Default,,0,0,0,,給我穿上這個
+Dialogue: 0,0:03:24.75,0:03:28.65,Default,,0,0,0,,穿這個嗎 為……
+Dialogue: 0,0:03:33.40,0:03:35.74,Default,,0,0,0,,為什麼 你為什麼背叛我
+Dialogue: 0,0:03:36.91,0:03:39.45,Default,,0,0,0,,為什麼背叛我 為什麼背叛我
+Dialogue: 0,0:03:39.74,0:03:41.12,Default,,0,0,0,,為什麼背叛我
+Dialogue: 0,0:03:42.53,0:03:46.34,Default,,0,0,0,,背叛你？ 我到底做了什麼!
+Dialogue: 0,0:03:47.21,0:03:50.58,Default,,0,0,0,,用球棒毆打我 還監禁我
+Dialogue: 0,0:03:51.94,0:03:53.96,Default,,0,0,0,,如果你是指聯繫警察這件事
+Dialogue: 0,0:03:54.43,0:03:55.97,Default,,0,0,0,,根本就是惡人先告狀
+Dialogue: 0,0:04:02.68,0:04:06.69,Default,,0,0,0,,為什麼要踐踏救了你的我的心意
+Dialogue: 0,0:04:08.93,0:04:10.90,Default,,0,0,0,,我不懂你的意思
+Dialogue: 0,0:04:12.48,0:04:15.07,Default,,0,0,0,,我什麼時候被你救了啊
+Dialogue: 0,0:04:16.74,0:04:19.34,Default,,0,0,0,,比起這個 讓我見見柴田先生啊
+Dialogue: 0,0:04:20.12,0:04:22.44,Default,,0,0,0,,讓我見柴田先生 柴田先生
+Dialogue: 0,0:04:24.08,0:04:26.34,Default,,0,0,0,,為什麼 為什麼你不明白
+Dialogue: 0,0:04:26.92,0:04:30.13,Default,,0,0,0,,是我 明明是我救了你
+Dialogue: 0,0:04:30.63,0:04:32.85,Default,,0,0,0,,從那傢伙手裡救下了你
+Dialogue: 0,0:05:14.38,0:05:18.55,Default,,0,0,0,,淨化惡魔 淨化惡魔
+Dialogue: 0,0:05:20.43,0:05:21.43,Default,,0,0,0,,讓我親手來
+Dialogue: 0,0:05:37.28,0:05:38.36,Default,,0,0,0,,好羞恥
+Dialogue: 0,0:05:39.53,0:05:41.87,Default,,0,0,0,,請放過我吧
+Dialogue: 0,0:05:45.04,0:05:46.87,Default,,0,0,0,,掀起你的裙子
+Dialogue: 0,0:05:49.49,0:05:50.66,Default,,0,0,0,,張開雙腿
+Dialogue: 0,0:05:52.10,0:05:52.56,Default,,0,0,0,,是
+Dialogue: 0,0:06:02.11,0:06:03.07,Default,,0,0,0,,不然殺了你
+Dialogue: 0,0:06:04.94,0:06:05.44,Default,,0,0,0,,不要
+Dialogue: 0,0:06:17.09,0:06:18.09,Default,,0,0,0,,這個
+Dialogue: 0,0:06:20.59,0:06:21.49,Default,,0,0,0,,不行
+Dialogue: 0,0:06:22.24,0:06:24.37,Default,,0,0,0,,你的小穴一覽無餘了
+Dialogue: 0,0:06:25.20,0:06:29.08,Default,,0,0,0,,讓我從這裡驅逐你身體裡的惡魔
+Dialogue: 0,0:06:29.87,0:06:33.33,Default,,0,0,0,,你自己先做一下淨化的準備
+Dialogue: 0,0:06:34.74,0:06:37.64,Default,,0,0,0,,我要怎麼做…
+Dialogue: 0,0:07:02.99,0:07:04.41,Default,,0,0,0,,給我再激烈一點
+Dialogue: 0,0:07:25.80,0:07:27.55,Default,,0,0,0,,多少淨化了一些吧
+Dialogue: 0,0:07:28.72,0:07:31.02,Default,,0,0,0,,廢棄物就讓我來接著吧
+Dialogue: 0,0:07:32.60,0:07:36.40,Default,,0,0,0,,從那對著我嘴放尿
+Dialogue: 0,0:07:37.44,0:07:39.02,Default,,0,0,0,,怎麼這樣
+Dialogue: 0,0:07:41.98,0:07:43.07,Default,,0,0,0,,請原諒我
+Dialogue: 0,0:07:44.24,0:07:48.99,Default,,0,0,0,,像這樣張開腿就已經羞恥到死了
+Dialogue: 0,0:07:49.66,0:07:50.82,Default,,0,0,0,,再這樣下去
+Dialogue: 0,0:07:56.42,0:08:00.17,Default,,0,0,0,,難道說 你對柴田先生也施以暴力了
+Dialogue: 0,0:08:01.39,0:08:05.73,Default,,0,0,0,,看來你還不理解自己現在的情況啊
+Dialogue: 0,0:08:07.83,0:08:13.19,Default,,0,0,0,,我明白了 請不要對柴田先生出手
+Dialogue: 0,0:08:37.21,0:08:38.67,Default,,0,0,0,,快點結束
+Dialogue: 0,0:08:47.59,0:08:48.84,Default,,0,0,0,,不要
+Dialogue: 0,0:08:50.68,0:08:54.10,Default,,0,0,0,,把手撐在那裡 屁股轉過來
+Dialogue: 0,0:08:54.75,0:08:59.68,Default,,0,0,0,,怎麼 還要繼續嗎
+Dialogue: 0,0:09:01.90,0:09:04.15,Default,,0,0,0,,柴田先生 對不起
+Dialogue: 0,0:09:05.78,0:09:07.86,Default,,0,0,0,,可我別無選擇
+Dialogue: 0,0:09:29.55,0:09:32.05,Default,,0,0,0,,不 不要 那裡是
+Dialogue: 0,0:09:33.89,0:09:34.65,Default,,0,0,0,,不對…
+Dialogue: 0,0:09:38.46,0:09:39.06,Default,,0,0,0,,騙人吧
+Dialogue: 0,0:09:52.57,0:09:54.91,Default,,0,0,0,,拔出來 好痛 好痛
+Dialogue: 0,0:09:57.04,0:09:58.96,Default,,0,0,0,,屁股 要裂開了
+Dialogue: 0,0:09:59.92,0:10:01.20,Default,,0,0,0,,屁眼 屁眼要…
+Dialogue: 0,0:10:04.25,0:10:06.97,Default,,0,0,0,,不行 不行 快拔出來
+Dialogue: 0,0:10:14.97,0:10:17.43,Default,,0,0,0,,不要 不要動啊
+Dialogue: 0,0:10:18.48,0:10:21.40,Default,,0,0,0,,快住手 住手 住手啊
+Dialogue: 0,0:10:25.49,0:10:26.35,Default,,0,0,0,,求你了
+Dialogue: 0,0:10:31.11,0:10:34.16,Default,,0,0,0,,我受不了了 快停下吧
+Dialogue: 0,0:10:36.25,0:10:38.18,Default,,0,0,0,,再這樣下去我要…
+Dialogue: 0,0:10:40.82,0:10:42.92,Default,,0,0,0,,我要壞掉了
+Dialogue: 0,0:10:44.50,0:10:46.50,Default,,0,0,0,,要壞掉了
+Dialogue: 0,0:10:47.21,0:10:49.92,Default,,0,0,0,,我來直接給你注入淨化劑
+Dialogue: 0,0:10:54.60,0:10:55.48,Default,,0,0,0,,高興吧
+Dialogue: 0,0:10:59.14,0:10:59.98,Default,,0,0,0,,高興吧
+Dialogue: 0,0:11:04.56,0:11:05.44,Default,,0,0,0,,高興吧
+Dialogue: 0,0:11:08.61,0:11:09.61,Default,,0,0,0,,高興吧
+Dialogue: 0,0:11:11.03,0:11:14.16,Default,,0,0,0,,不要 不要不要不要
+Dialogue: 0,0:11:21.70,0:11:23.02,Default,,0,0,0,,好熱
+Dialogue: 0,0:11:24.04,0:11:27.20,Default,,0,0,0,,滾燙的精液射在我的肚子裡了
+Dialogue: 0,0:11:59.95,0:12:04.09,Default,,0,0,0,,還不夠 再來 再來
+Dialogue: 0,0:12:05.08,0:12:08.21,Default,,0,0,0,,還要給她進一步淨化
+

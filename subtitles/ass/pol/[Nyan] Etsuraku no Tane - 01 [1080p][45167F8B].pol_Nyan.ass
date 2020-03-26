@@ -1,0 +1,124 @@
+﻿[Script Info]
+;Plik utworzony przez Kainote v0.7.2 Build337  Jul 20 2015  11:04:52
+Title: Kainote Ass File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Last Style Storage: [1920x1080]
+Audio File: Etsuraku no Tane The Animation - 01.mp4
+Video File: Etsuraku no Tane The Animation - 01.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 106
+Active Line: 0
+Video Position: 28130
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (i),Franklin Gothic Medium,67.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4.2,0,2,20,20,45,1
+Style: Default (top),Franklin Gothic Medium,58.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,8,20,20,23,1
+Style: Grupa,Franklin Gothic Medium,36.5,&H00000000,&H000000FF,&H006840ED,&H00000000,-1,-1,0,0,100,100,0,0,1,1.9,0,7,27,10,23,1
+Style: Anime,Franklin Gothic Medium,150,&H00000000,&H000000FF,&H006840ED,&H00000000,0,0,0,0,100,100,0,0,1,3,0,5,20,20,820,1
+Style: Tytul,Franklin Gothic Medium,60.7,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,20,15,1
+Style: Znak,Franklin Gothic Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,20,20,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 1,0:18:17.41,0:18:37.39,Grupa,,0,0,0,,{\be2\3c&H000000&\t(0,2230,\3c&H6840ED&\t(17329,19956,\3c&H000000&)}Nyan
+Dialogue: 0,0:18:17.41,0:18:37.39,Grupa,,0,0,0,,{\be2\3c&H000000&\bord5\t(0,2230,\3c&HFFFFFF&\t(17329,19956,\3c&H000000&)}Nyan
+Dialogue: 1,0:18:17.41,0:18:37.39,Anime,,0,0,0,,{\be2\move(960,180,990,328)\t(\fs96\bord2.6)\3c&H000000&\t(0,2230,\3c&H6840ED&\t(17329,19956,\3c&H000000&)}Etsuraku no Tane
+Dialogue: 0,0:18:17.41,0:18:37.39,Anime,,0,0,0,,{\be2\move(960,180,990,328)\3c&HFFFFFF&\bord7.5\t(\fs96\bord5.2)\3c&H000000&\t(0,2230,\3c&HFFFFFF&\t(17329,19956,\3c&H000000&)}Etsuraku no Tane
+Dialogue: 0,0:00:48.54,0:00:50.88,Default,,0,0,0,,{\be2}Przestań już!
+Dialogue: 0,0:00:50.88,0:00:53.29,Default,,0,0,0,,{\be2}Jesteś pewna?
+Dialogue: 0,0:01:00.08,0:01:01.63,Default,,0,0,0,,{\be2}Itsuki.
+Dialogue: 0,0:01:13.98,0:01:15.57,Default,,0,0,0,,{\be2}Hiyori!
+Dialogue: 0,0:01:16.81,0:01:20.71,Default,,0,0,0,,{\be2}Zostało nam jeszcze 10 rundek.
+Dialogue: 0,0:01:45.14,0:01:48.55,Default,,0,0,0,,{\be2}O, panna niezauważalna.
+Dialogue: 0,0:01:49.04,0:01:53.51,Default,,0,0,0,,{\be2}Przepraszam, ale nie widziałam cię.
+Dialogue: 0,0:02:23.05,0:02:24.68,Default,,0,0,0,,{\be2}Itsuki.
+Dialogue: 0,0:02:24.68,0:02:26.54,Default,,0,0,0,,{\be2}Hiyori.
+Dialogue: 0,0:02:29.10,0:02:30.66,Default,,0,0,0,,{\be2}To dziwne.
+Dialogue: 0,0:02:32.52,0:02:36.90,Default,,0,0,0,,{\be2}Przegrałam, ale pokochałam cię.
+Dialogue: 0,0:02:36.90,0:02:43.31,Default,,0,0,0,,{\be2}Cieszę się, że ty mnie też kochasz.
+Dialogue: 0,0:02:43.95,0:02:45.24,Default,,0,0,0,,{\be2}Ja też.
+Dialogue: 0,0:02:47.08,0:02:50.90,Default,,0,0,0,,{\be2}Miłość bywa bolesna, nie?
+Dialogue: 0,0:03:19.26,0:03:21.72,Default,,0,0,0,,{\be2}Ty mnie też dotykaj.
+Dialogue: 0,0:03:35.82,0:03:37.49,Default,,0,0,0,,{\be2}Itsuki.
+Dialogue: 0,0:04:29.31,0:04:31.97,Default,,0,0,0,,{\be2}Dochodzę!
+Dialogue: 0,0:06:11.00,0:06:13.09,Default,,0,0,0,,{\be2}O nie!
+Dialogue: 0,0:06:13.09,0:06:15.90,Default,,0,0,0,,{\be2}Hiyori!
+Dialogue: 0,0:06:25.39,0:06:27.28,Default,,0,0,0,,{\be2}Hiyori.
+Dialogue: 0,0:06:27.28,0:06:35.79,Default,,0,0,0,,{\be2}Nie martw się, zaakceptuję cię\Ntaką jaka jesteś, nawet z mackami.
+Dialogue: 0,0:06:35.79,0:06:41.80,Default,,0,0,0,,{\be2}Nie pozwolę by przyczepiły się do kogoś jeszcze.
+Dialogue: 0,0:06:42.60,0:06:44.16,Default,,0,0,0,,{\be2}Hiyori.
+Dialogue: 0,0:07:20.31,0:07:22.63,Default,,0,0,0,,{\be2}Czemu akurat ja?
+Dialogue: 0,0:07:30.19,0:07:31.89,Default,,0,0,0,,{\be2}Jest tu ktoś?
+Dialogue: 0,0:07:42.37,0:07:43.92,Default,,0,0,0,,{\be2}Zdawało mi się.
+Dialogue: 0,0:07:46.82,0:07:48.56,Default,,0,0,0,,{\be2}Co to?
+Dialogue: 0,0:07:52.17,0:07:55.35,Default,,0,0,0,,{\be2}Czekałam na ciebie, Terashima.
+Dialogue: 0,0:07:58.33,0:07:59.95,Default,,0,0,0,,{\be2}Ty?!
+Dialogue: 0,0:07:59.95,0:08:01.51,Default,,0,0,0,,{\be2}Nonohara.
+Dialogue: 0,0:08:02.81,0:08:10.30,Default,,0,0,0,,{\be2}Nazywam się Nonohara Rena\Ni od dzisiaj będziesz mi posłuszna.
+Dialogue: 0,0:08:10.82,0:08:12.56,Default,,0,0,0,,{\be2}Co takiego?
+Dialogue: 0,0:08:12.56,0:08:18.44,Default,,0,0,0,,{\be2}To na czym teraz stoisz, to moja macka.
+Dialogue: 0,0:08:25.74,0:08:29.02,Default,,0,0,0,,{\be2}Co to ma znaczyć?! Puszczaj!
+Dialogue: 0,0:08:33.17,0:08:37.70,Default,,0,0,0,,{\be2}Chcę zobaczyć jak się upokarzasz.
+Dialogue: 0,0:08:39.90,0:08:45.17,Default,,0,0,0,,{\be2}Ciekawe jak to jest być upokarzaną\Nprzez tą, z której się naśmiewałaś.
+Dialogue: 0,0:08:45.17,0:08:48.13,Default,,0,0,0,,{\be2}Czas na zabawę.
+Dialogue: 0,0:08:48.64,0:08:50.90,Default,,0,0,0,,{\be2}Nie!
+Dialogue: 0,0:08:56.78,0:08:57.88,Default,,0,0,0,,{\be2}Przestań!
+Dialogue: 0,0:09:25.64,0:09:27.68,Default,,0,0,0,,{\be2}Wspaniała mina.
+Dialogue: 0,0:09:27.68,0:09:31.81,Default,,0,0,0,,{\be2}Moje macki coś bardzo się ożywiły.
+Dialogue: 0,0:09:39.02,0:09:43.98,Default,,0,0,0,,{\be2}Są za duże! Rozerwą mnie!
+Dialogue: 0,0:09:58.29,0:09:59.91,Default,,0,0,0,,{\be2}Nie!
+Dialogue: 0,0:10:01.88,0:10:05.88,Default,,0,0,0,,{\be2}Nie!
+Dialogue: 0,0:10:15.91,0:10:17.85,Default,,0,0,0,,{\be2}Jesteś niezła.
+Dialogue: 0,0:11:28.73,0:11:32.23,Default,,0,0,0,,{\be2}Przyjemności nikt się nie oprze.
+Dialogue: 0,0:11:32.23,0:11:37.26,Default,,0,0,0,,{\be2}Mam ci mocniej dogodzić?
+Dialogue: 0,0:11:38.11,0:11:39.45,Default,,0,0,0,,{\be2}Tak.
+Dialogue: 0,0:11:40.26,0:11:43.29,Default,,0,0,0,,{\be2}Pomożesz mi w czymś, dobra?
+Dialogue: 0,0:11:57.28,0:11:59.58,Default,,0,0,0,,{\be2}Kto to mógł wysłać?
+Dialogue: 0,0:12:08.47,0:12:09.84,Default,,0,0,0,,{\be2}Co to?
+Dialogue: 0,0:12:13.71,0:12:19.72,Default,,0,0,0,,{\be2}Fujimori Hiyori, Murasawa Itsuki, znam wasz sekret.
+Dialogue: 0,0:12:20.31,0:12:25.28,Default,,0,0,0,,{\be2}Przyjdźcie do starego budynku,\Njeśli mam go zachować dla siebie.
+Dialogue: 0,0:12:44.46,0:12:46.72,Default,,0,0,0,,{\be2}Czekałam na was.
+Dialogue: 0,0:12:46.72,0:12:47.98,Default,,0,0,0,,{\be2}Ty?
+Dialogue: 0,0:12:47.98,0:12:49.54,Default,,0,0,0,,{\be2}Nonohara?
+Dialogue: 0,0:12:54.13,0:12:56.23,Default,,0,0,0,,{\be2}Macka?! Niemożliwe!
+Dialogue: 0,0:12:57.09,0:12:58.72,Default,,0,0,0,,{\be2}Itsuki!
+Dialogue: 0,0:13:00.05,0:13:08.74,Default,,0,0,0,,{\be2}To nie fair, że trzymałyście,\Ntak wspaniałe macki dla siebie.
+Dialogue: 0,0:13:08.74,0:13:10.56,Default,,0,0,0,,{\be2}To...
+Dialogue: 0,0:13:10.56,0:13:18.59,Default,,0,0,0,,{\be2}Nie opieraj się albo Murasawie może coś się stać.
+Dialogue: 0,0:13:21.63,0:13:23.37,Default,,0,0,0,,{\be2}Co robić?
+Dialogue: 0,0:13:53.99,0:13:58.28,Default,,0,0,0,,{\be2}I dziesiąta. Spisałaś się.
+Dialogue: 0,0:14:26.15,0:14:28.10,Default,,0,0,0,,{\be2}A to peszek.
+Dialogue: 0,0:14:28.69,0:14:33.06,Default,,0,0,0,,{\be2}Od teraz jesteś jedną z nas.
+Dialogue: 0,0:14:40.18,0:14:45.11,Default,,0,0,0,,{\be2}Musi ci być bardzo przyjemnie,\Nskoro doszłaś tyle razy.
+Dialogue: 0,0:14:55.96,0:14:59.09,Default,,0,0,0,,{\be2}Jesteś przyjemna.
+Dialogue: 0,0:15:06.40,0:15:09.10,Default,,0,0,0,,{\be2}Fujimori wygląda na zadowoloną.
+Dialogue: 0,0:15:14.10,0:15:17.39,Default,,0,0,0,,{\be2}My też się zabawmy.
+Dialogue: 0,0:16:20.18,0:16:25.47,Default,,0,0,0,,{\be2}Przyjemność ogarnie twój umysł\Ni nie będziesz mogła myśleć o niczym innym.
+Dialogue: 0,0:16:29.15,0:16:30.47,Default,,0,0,0,,{\be2}Przypatrz się.
+Dialogue: 0,0:16:30.47,0:16:34.71,Default,,0,0,0,,{\be2}Miłość nic nie znaczy w obliczu przyjemności.
+Dialogue: 0,0:16:35.48,0:16:49.55,Default,,0,0,0,,{\be2}Zaraz dojdę! Cudownie! Mocniej!
+Dialogue: 0,0:16:50.45,0:16:54.45,Default,,0,0,0,,{\be2}Nie słyszałam, powiedz głośniej.
+Dialogue: 0,0:16:56.99,0:17:01.46,Default,,0,0,0,,{\be2}Nie, chcę więcej!
+Dialogue: 0,0:17:05.46,0:17:10.13,Default,,0,0,0,,{\be2}Zerżnij mnie mackami!
+Dialogue: 0,0:17:22.70,0:17:28.44,Default,,0,0,0,,{\be2}Zasmucona? Ale i tak cie to podnieca.
+Dialogue: 0,0:17:34.50,0:17:36.41,Default,,0,0,0,,{\be2}Aleś ty mokra.
+Dialogue: 0,0:17:53.05,0:17:55.45,Default,,0,0,0,,{\be2}Nie!
+Dialogue: 0,0:18:00.71,0:18:02.40,Default,,0,0,0,,{\be2}Jak dobrze!
+Dialogue: 0,0:18:11.46,0:18:15.10,Default,,0,0,0,,{\be2}Wszystkie poddajmy się przyjemności.
+Dialogue: 0,0:19:21.00,0:19:24.27,Default,,0,0,0,,{\be2}Macki!
+Dialogue: 0,0:20:14.04,0:20:19.74,Default,,0,0,0,,{\be2}Chcę więcej macek!
+Dialogue: 0,0:20:34.84,0:20:40.44,Default (i),,0,0,0,,{\be2}Przyjemność ogarnie twój umysł\Ni nie będziesz mogła myśleć o niczym innym.
+Dialogue: 0,0:20:42.78,0:20:46.52,Default (i),,0,0,0,,{\be2}Wszystko stanie się przyjemne.
+Dialogue: 0,0:20:50.25,0:20:53.16,Default (i),,0,0,0,,{\be2}Na zawsze.
+Dialogue: 0,0:21:02.91,0:21:06.08,Default (i),,0,0,0,,{\be2}Nie chcę być człowiekiem!
